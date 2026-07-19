@@ -30,7 +30,11 @@ function toSphereEntries(value: unknown): Array<[string, number]> {
 }
 
 const knownFields = TYPE_INFO[type]?.mechanical_fields ?? [];
-const extraFields = Object.keys(mechanics).filter((key) => !knownFields.includes(key));
+// Show declared fields plus any extra keys, but hide internal `_`-prefixed
+// extraction-metadata keys (e.g. `_extraction_note`) — not player-facing.
+const extraFields = Object.keys(mechanics).filter(
+  (key) => !knownFields.includes(key) && !key.startsWith('_')
+);
 const fieldKeys = [...knownFields, ...extraFields].filter(
   (key) => mechanics[key] !== undefined && mechanics[key] !== null
 );
@@ -135,19 +139,27 @@ const fields: Field[] = fieldKeys.map((key) => {
 }
 
 <style>
+  /* Stacked label/value: the value always gets the full width, so long lists
+     and comma-strings wrap naturally instead of being crammed into a narrow
+     column (works in both the narrow card and the wider detail page). */
   .stat-block {
-    display: grid;
-    grid-template-columns: max-content 1fr;
-    gap: 0.35em 1em;
+    display: block;
     margin: 0;
     max-width: var(--measure);
   }
   .stat-block dt {
     font-weight: 700;
     color: var(--muted);
+    font-size: 0.8em;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-top: 0.5em;
+  }
+  .stat-block dt:first-child {
+    margin-top: 0;
   }
   .stat-block dd {
-    margin: 0;
+    margin: 0.1em 0 0;
   }
   .spheres {
     list-style: none;
