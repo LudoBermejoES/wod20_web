@@ -1,0 +1,75 @@
+---
+export interface Props {
+  title: string;
+  description?: string;
+}
+const {
+  title,
+  description = 'Base de conocimiento en español de Mundo de Tinieblas 20.º aniversario.',
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta name="generator" content={Astro.generator} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>{title}</title>
+  </head>
+  <body>
+    <a class="skip" href="#contenido">Saltar al contenido</a>
+    <header>
+      <nav aria-label="Principal">
+        <a class="brand" href="/">Mundo de Tinieblas 20</a>
+      </nav>
+    </header>
+    <main id="contenido">
+      <slot />
+    </main>
+    <footer>
+      <p>
+        Base de conocimiento no oficial. Partes del material son propiedad de
+        Paradox Interactive AB. Uso personal.
+      </p>
+    </footer>
+
+    <style is:global>
+      :root {
+        --bg: #14110f;
+        --fg: #ece7e1;
+        --muted: #a49a8e;
+        --accent: #8b1e1e;
+        --measure: 68ch;
+        --pad: clamp(1rem, 4vw, 2.5rem);
+        color-scheme: dark light;
+      }
+      @media (prefers-color-scheme: light) {
+        :root { --bg: #f7f4ef; --fg: #1c1712; --muted: #5c5348; --accent: #7a1717; }
+      }
+      * { box-sizing: border-box; }
+      html { font-family: ui-serif, Georgia, 'Times New Roman', serif; line-height: 1.65; }
+      body {
+        margin: 0; background: var(--bg); color: var(--fg);
+        display: flex; flex-direction: column; min-height: 100dvh;
+      }
+      a { color: var(--accent); }
+      a:focus-visible, .skip:focus { outline: 2px solid var(--accent); outline-offset: 2px; }
+      .skip {
+        position: absolute; left: -999px;
+      }
+      .skip:focus { left: var(--pad); top: 0.5rem; background: var(--bg); padding: 0.4rem 0.8rem; }
+      header, footer { padding: 1rem var(--pad); }
+      header { border-bottom: 1px solid color-mix(in oklab, var(--fg) 15%, transparent); }
+      .brand { font-weight: 700; letter-spacing: 0.02em; text-decoration: none; color: var(--fg); }
+      main { flex: 1; padding: var(--pad); }
+      footer {
+        margin-top: 2rem; border-top: 1px solid color-mix(in oklab, var(--fg) 15%, transparent);
+        color: var(--muted); font-size: 0.85rem;
+      }
+      main :where(h1, h2, h3, p, ul, ol) { max-width: var(--measure); }
+    </style>
+  </body>
+</html>
