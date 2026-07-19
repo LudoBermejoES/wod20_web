@@ -116,7 +116,6 @@ const MECHANIC_LABELS: Record<string, string> = {
   willpower: 'Fuerza de Voluntad',
   essence: 'Esencia',
   charms: 'Encantamientos',
-  powers: 'Poderes',
 };
 
 export function mechanicLabelEs(key: string): string {

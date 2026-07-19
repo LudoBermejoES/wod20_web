@@ -34,6 +34,7 @@ const entitySchema = z
     name_en: z.string(),
     name_es: z.string(),
     body_es: z.string().optional(),
+    body_html: z.string().optional(), // pre-rendered from body_es by entitiesLoader
     tags: z.array(z.string()).default([]),
     // Type-specific mechanical fields (per webgen/taxonomy.json); shape
     // varies by `type`, values preserved verbatim from the source.

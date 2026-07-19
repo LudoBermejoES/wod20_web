@@ -66,7 +66,11 @@ outer: for (const book of books) {
     )
   }
 
-  {entity.body_es && <p class="body-es">{entity.body_es}</p>}
+  {entity.body_html ? (
+    <div class="body-es prose" set:html={entity.body_html} />
+  ) : (
+    entity.body_es && <p class="body-es">{entity.body_es}</p>
+  )}
 
   <StatBlock type={entity.type} mechanics={entity.mechanics} />
 

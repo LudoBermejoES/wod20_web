@@ -51,9 +51,16 @@ export function entitiesLoader(): Loader {
           continue;
         }
 
-        for (const item of raw as Array<{ id: string; line: string }>) {
+        for (const item of raw as Array<{ id: string; line: string; body_es?: string }>) {
           const id = `${item.line}/${item.id}`;
-          const parsedData = await parseData({ id, data: item, filePath });
+          // Pre-render body_es Markdown → body_html at sync time (same pipeline as
+          // the books loader: remark/rehype with GFM tables), so entity pages never
+          // render Markdown at request time and tables/lists/emphasis display.
+          const withHtml =
+            item.body_es && item.body_es.trim()
+              ? { ...item, body_html: (await context.renderMarkdown(item.body_es)).html }
+              : item;
+          const parsedData = await parseData({ id, data: withHtml, filePath });
           store.set({ id, data: parsedData, filePath: posixRelative(fileURLToPath(config.root), filePath) });
         }
         context.watcher?.add(filePath);

@@ -47,16 +47,20 @@ interface Field {
 
 const fields: Field[] = fieldKeys.map((key) => {
   const value = mechanics[key];
-  const isSpheres = key === 'spheres';
-  const sphereEntries = isSpheres ? toSphereEntries(value) : [];
-  const numericValue = !isSpheres && DOT_FIELDS.has(key) && typeof value === 'number' ? value : undefined;
-  const arrayValue = !isSpheres && Array.isArray(value) ? value : undefined;
+  // Only treat `spheres` as a dot-pip map when it's actually an object
+  // ({Vida: 3}). Lane-B often writes it as a free-text string ("Correspondencia
+  // ·· / Fuerzas ·· / Mente ··"); those must fall through to textValue, else the
+  // Esferas field renders blank.
+  const sphereEntries = key === 'spheres' ? toSphereEntries(value) : [];
+  const isSphereMap = sphereEntries.length > 0;
+  const numericValue = !isSphereMap && DOT_FIELDS.has(key) && typeof value === 'number' ? value : undefined;
+  const arrayValue = !isSphereMap && Array.isArray(value) ? value : undefined;
   const objectValue =
-    !isSpheres && numericValue === undefined && !arrayValue && value && typeof value === 'object'
+    !isSphereMap && numericValue === undefined && !arrayValue && value && typeof value === 'object'
       ? (value as Record<string, unknown>)
       : undefined;
   const textValue =
-    !isSpheres && numericValue === undefined && !arrayValue && !objectValue ? String(value) : undefined;
+    !isSphereMap && numericValue === undefined && !arrayValue && !objectValue ? String(value) : undefined;
   return { key, label: mechanicLabelEs(key), sphereEntries, numericValue, arrayValue, objectValue, textValue };
 });
 ---
