@@ -33,6 +33,9 @@ export const TYPE_INFO: Record<string, TypeInfo> = {
   artifact: { label_es: 'Artefacto', mechanical_fields: ['level'] },
   'hedge-path': { label_es: 'Senda de Hechicería', mechanical_fields: [] },
   'psychic-phenomenon': { label_es: 'Fenómeno Psíquico', mechanical_fields: [] },
+  clan: { label_es: 'Clan', mechanical_fields: [] },
+  'revenant-family': { label_es: 'Familia Revenant', mechanical_fields: [] },
+  'changing-breed': { label_es: 'Raza Cambiante', mechanical_fields: [] },
 };
 
 export function typeLabelEs(type: string): string {

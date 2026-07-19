@@ -561,5 +561,247 @@
       }
     ],
     "related": []
+  },
+  {
+    "id": "ajaba",
+    "type": "changing-breed",
+    "line": "werewolf",
+    "name_en": "Ajaba",
+    "name_es": "Ajaba",
+    "body_es": "Una partida de Ajaba puede ir en muchas direcciones. Los Simba de Diente Negro han expulsado a los que eligen a  quiénes  sacrificar  de  su  tierra  natal.  Actualmente,  la historia de los hombres hiena es la de la supervivencia día a día con la esperanza de que la Tormenta Interminable no les alcance. Aunque una joven Ajaba llamada Kisasi está intentando forjar algún tipo de unidad entre las Razas Cambiantes de África ante las narices de los invasores Bastet. Bajo esa premisa, una crónica Ajaba puede abarcar desde lidiar con los crímenes de guerra Simba hasta las tentativas de forjar lazos con otras Razas Cambiantes.",
+    "tags": [
+      "fera"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "ajaba",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "ananasi",
+    "type": "changing-breed",
+    "line": "werewolf",
+    "name_en": "Ananasi",
+    "name_es": "Ananasi",
+    "body_es": "Las metas de los hombres araña, la incomprendida progenie de la Hija de la Tejedora, son elevadas. Buscan devolver el equilibrio a la Tríada para liberar a su reina del Wyrm, desenredar los hilos de la Tejedora y devolver la cordura al Gran Corruptor. Sin embargo, al igual que los hilos de una tela de araña, los caminos hacia sus metas son sutiles y complicados. Una crónica Ananasi podría reflejar  sus  planes  dentro  de  planes,  centrándose  en  secretos ocultos y sutil manipulación.",
+    "tags": [
+      "fera"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "ananasi",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "bastet",
+    "type": "changing-breed",
+    "line": "werewolf",
+    "name_en": "Bastet",
+    "name_es": "Bastet",
+    "body_es": "Los Bastet aprecian el conocimiento por encima de todo lo demás, y cada uno de ellos se esfuerza por descubrir nuevos secretos. Solitarios por naturaleza (exceptuando a los Simba y a los Swara), los hombres felino se reúnen ocasionalmente en manadas, muchas veces sólo porque sienten  curiosidad  por  la  misma  cosa.  Una  crónica  de Bastet podría centrarse en la curiosidad que los impulsa y la necesidad de saber , junto a las consecuencias de proteger esos secretos. ¿Hasta dónde llegarían los Bastet para impedir que otros descubran lo que saben?",
+    "tags": [
+      "fera"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "bastet",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "corax",
+    "type": "changing-breed",
+    "line": "werewolf",
+    "name_en": "Corax",
+    "name_es": "Corax",
+    "body_es": "Inclinados por  naturaleza  a  volar  en  solitario,  los  Corax pueden trabajar juntos durante un tiempo si la causa es justa. Ya sea solos o en un grupo, los hombres cuervo son excepcionales a la hora de reunir información y difundirla. A diferencia de los Bastet, estos cambiaformas no se sienten atraídos por la violencia y sus historias a menudo están más cerca de los temas clásicos del espionaje: observación, sigilo y escapar de situaciones peligrosas a base de palabrería. Al final, el grupo se dará cuenta de que no todo el mundo puede hablar a la vez y se desbandará pero, hasta que llegue  ese  momento,  una  bandada  de  Corax  haría un viaje de ida y vuelta al infierno si eso les permitiera descubrir un secreto más.",
+    "tags": [
+      "fera"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "corax",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "gurahl",
+    "type": "changing-breed",
+    "line": "werewolf",
+    "name_en": "Gurahl",
+    "name_es": "Gurahl",
+    "body_es": "Aunque los Gurahl siguen siendo escasos, se forman pequeños grupos de hombres oso para patrullar territorios demasiado grandes para un único Gurahl. Sus historias pueden centrarse en su legendaria habilidad como sanadores y guardianes, pero bajo esa tranquila superficie late un fuerte corazón que hará cualquier cosa para proteger todo aquello que tienen a su cargo. Un rival lo suficientemente poderoso puede hacer que un Gurahl pierda la paciencia, convirtiendo su historia de curación en una de tremenda violencia.",
+    "tags": [
+      "fera"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "gurahl",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "kitsune",
+    "type": "changing-breed",
+    "line": "werewolf",
+    "name_en": "Kitsune",
+    "name_es": "Kitsune",
+    "body_es": "Los Kitsune rara vez se aventuran fuera de las Cortes de las Bestias, haciéndolos perfectos para partidas mixtas con otros Hengeyokai. Aun así, los Zorros también tienen sus propias metas y secretos que guardan de las otras Razas Cambiantes. A veces se reúnen en sentai sólo de Kitsune para deponer y encumbrar líderes, dando forma al destino de naciones. Pasan de puntillas por los mundos del hombre y del espíritu y los guían según el capricho de Bai Mianxi.",
+    "tags": [
+      "fera"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "kitsune",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "mokole",
+    "type": "changing-breed",
+    "line": "werewolf",
+    "name_en": "Mokolé",
+    "name_es": "Mokolé",
+    "body_es": "Las nidadas Mokolé se forman en torno a sus signos solares de forma muy similar a como los Garou lo hacen de acuerdo a sus  Auspicios.  Aunque  los  foráneos  no  suelen  ver más allá del terror  a  la  Forma  Archid  de  la  gente  lagarto,  los Mokolé se centran en el valor de la memoria. Ya se trate de descubrir la solución a un nuevo problema profundamente enterrado en la Mnesis o de aprender nuevas leyendas que recuperen conocimientos que se creían perdidos, las partidas de la Memoria de Gaia normalmente tratan sobre imagen global, en comparación con las cortas vidas (y aún más cortas memorias) de las demás Razas Cambiantes.",
+    "tags": [
+      "fera"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "mokole",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "nagah",
+    "type": "changing-breed",
+    "line": "werewolf",
+    "name_en": "Nagah",
+    "name_es": "Nagah",
+    "body_es": "Los Nagah, a quienes las demás Razas Cambiantes dan por muertos, son perfectos candidatos para partidas centradas en una única Raza. Su estatus de leyendas perdidas les permite cumplir su tarea principal: ejecutar a quienes traicionan a Gaia. Las partidas de hombres serpiente se centran, por lo general, en juzgar crímenes contra Ella y en planear el asesinato perfecto, una ardua tarea para los imperfectos (y corruptibles) ejecutores.",
+    "tags": [
+      "fera"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "nagah",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "nuwisha",
+    "type": "changing-breed",
+    "line": "werewolf",
+    "name_en": "Nuwisha",
+    "name_es": "Nuwisha",
+    "body_es": "Es raro que los hombres coyote formen grupos de larga duración, ya que cada uno sigue a Coyote a su manera. Él mismo es un solitario  que  aparece  a  través  de  la  historia  bajo el aspecto de cien dioses embaucadores distintos. Dicho esto, cuando estos cambiaformas se agrupan, el resultado es imprevisible. Las partidas de Nuwisha tienden hacia la atmósfera de una película cómica de delincuentes: acción disparatada con un toque mortal mezclada con una gran dosis de humor negro.",
+    "tags": [
+      "fera"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "nuwisha",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "ratkin",
+    "type": "changing-breed",
+    "line": "werewolf",
+    "name_en": "Ratkin",
+    "name_es": "Ratkin",
+    "body_es": "Los Ratkin no suelen llevarse  bien  con  el  resto  de  Razas Cambiantes, dado que son un grupo de supervivencialistas apocalípticos y paranoides. Cuando se les deja en paz, los Ratkin trabajan bien juntos, aunque carecen de los fuertes lazos de una manada Garou o un nido Nagah. Cada nido de Ratkin (y por lo tanto cada partida de las Ratas) es diferente. Uno puede ser un grupo de peligrosos infiltrados que propaga enfermedades en poblaciones humanas, mientras que otro es un ejercicio de locura apenas dirigida, especialmente si se  centra  en  uno  de  los  Aspectos  Extraños.",
+    "tags": [
+      "fera"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "ratkin",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "rokea",
+    "type": "changing-breed",
+    "line": "werewolf",
+    "name_en": "Rokea",
+    "name_es": "Rokea",
+    "body_es": "Los cardúmenes de Rokea que han pasado mucho tiempo en tierra temen ser llamados entremedios y cazados por su propia  gente.  Un  escaso  puñado  de  hombres  tiburón  han venido a No Mar en busca de otras Razas Cambiantes, pero pronto se dan cuenta de su error y vuelven a Mar. Para que un grupo  colabore  con  otras  Razas  Cambiantes  sería  necesaria  una amenaza para todos los hombres tiburón y para el propio Mar.\n\nIncluso dentro de un cardumen, demasiado compañerismo puede causar que los ánimos se crispen. Dado que los Rokea son máquinas de matar por naturaleza, es sólo cuestión de tiempo que se desate la violencia dentro del grupo. Las partidas  de  hombres  tiburón  suelen  centrarse  en  una  violencia desenfrenada  contra  fuertes  enemigos…  si  no,  se  corre  el  riesgo de que los miembros del grupo se vuelvan unos contra otros.\n\n22\n\n<!-- image -->\n\nEl resto de las Razas Cambiantes tienen un legado tan antiguo y variado como el de los Garou. Aunque la mayoría de estas historias son desconocidas para los foráneos, cada Raza Cambiante atesora su historia y honra el pasado al tiempo que lucha por cumplir sus deberes en el mundo moderno.",
+    "tags": [
+      "fera"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "rokea",
+        "variant": "base"
+      }
+    ],
+    "related": []
   }
 ]
