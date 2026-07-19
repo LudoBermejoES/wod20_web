@@ -22,7 +22,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "ocultacion",
@@ -47,7 +48,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "unidad-de-proposito",
@@ -72,7 +74,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "red-de-la-fe",
@@ -97,7 +100,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "expuesto",
@@ -122,7 +126,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "atractivo-de-la-sombra",
@@ -147,7 +152,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "aura-inocua",
@@ -172,7 +178,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "maestria-abisal",
@@ -197,7 +204,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "santa-del-pozo",
@@ -222,7 +230,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "resplandor-qlifotico",
@@ -247,7 +256,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "presencia-espectral",
@@ -272,7 +282,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "lunatico-abisal",
@@ -297,7 +308,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "widderslante-o-macula-de-corrupcion",
@@ -322,7 +334,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "lightsaber",
@@ -349,7 +362,9 @@
         "section_anchor": "sistemas-y-ediciones",
         "variant": "base"
       }
-    ]
+    ],
+    "edges": [],
+    "related": []
   },
   {
     "id": "spirit-touch",
@@ -374,7 +389,9 @@
         "section_anchor": "regla-opcional-algo-de-espiritu",
         "variant": "base"
       }
-    ]
+    ],
+    "edges": [],
+    "related": []
   },
   {
     "id": "grow-fangs",
@@ -403,7 +420,9 @@
         "section_anchor": "regla-opcional-algo-de-espiritu",
         "variant": "base"
       }
-    ]
+    ],
+    "edges": [],
+    "related": []
   },
   {
     "id": "idioma",
@@ -435,7 +454,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/idioma"
+    ],
+    "edges": [
+      {
+        "target": "vampire/idioma",
+        "type": "cross-line",
+        "via": "id:idioma"
+      }
+    ]
   },
   {
     "id": "sentidos-agudos",
@@ -467,7 +495,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "lazos",
@@ -499,7 +528,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "triada-oscura",
@@ -531,7 +561,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "guardian-de-la-tormenta-viajero-cuantico",
@@ -567,7 +598,8 @@
     "review": {
       "reason": "dual/compound name — may be two entities",
       "conflicts": []
-    }
+    },
+    "edges": []
   },
   {
     "id": "afinidad-umbral",
@@ -599,7 +631,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "berserker-atavismo-por-estres",
@@ -628,7 +661,8 @@
     "review": {
       "reason": "dual/compound name — may be two entities",
       "conflicts": []
-    }
+    },
+    "edges": []
   },
   {
     "id": "demasiado-duro-para-morir",
@@ -660,7 +694,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "fe-verdadera",
@@ -689,7 +724,9 @@
         "variant": "base"
       }
     ],
-    "related": [],
+    "related": [
+      "vampire/fe-verdadera"
+    ],
     "review": {
       "reason": "mechanics differ across sources",
       "conflicts": [
@@ -711,7 +748,14 @@
           }
         }
       ]
-    }
+    },
+    "edges": [
+      {
+        "target": "vampire/fe-verdadera",
+        "type": "cross-line",
+        "via": "id:fe-verdadera"
+      }
+    ]
   },
   {
     "id": "adiccion",
@@ -743,7 +787,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/adiccion"
+    ],
+    "edges": [
+      {
+        "target": "vampire/adiccion",
+        "type": "cross-line",
+        "via": "id:adiccion"
+      }
+    ]
   },
   {
     "id": "ecos",
@@ -775,7 +828,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "enemigo",
@@ -807,7 +861,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/enemigo"
+    ],
+    "edges": [
+      {
+        "target": "vampire/enemigo",
+        "type": "cross-line",
+        "via": "id:enemigo"
+      }
+    ]
   },
   {
     "id": "construct",
@@ -839,7 +902,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "tept",
@@ -871,7 +935,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "trastornado",
@@ -903,7 +968,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "avatar-genio",
@@ -927,7 +993,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "patron",
@@ -951,7 +1018,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "allies",
@@ -982,7 +1050,22 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/allies",
+      "wraith/allies"
+    ],
+    "edges": [
+      {
+        "target": "vampire/allies",
+        "type": "cross-line",
+        "via": "id:allies"
+      },
+      {
+        "target": "wraith/allies",
+        "type": "cross-line",
+        "via": "id:allies"
+      }
+    ]
   },
   {
     "id": "arcano-encubrimiento",
@@ -1006,7 +1089,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "armas-secretas",
@@ -1030,7 +1114,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "blessing",
@@ -1054,7 +1139,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "library",
@@ -1078,7 +1164,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "capilla-constructo",
@@ -1102,7 +1189,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "certification",
@@ -1126,7 +1214,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "contacts",
@@ -1157,7 +1246,22 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/contacts",
+      "wraith/contacts"
+    ],
+    "edges": [
+      {
+        "target": "vampire/contacts",
+        "type": "cross-line",
+        "via": "id:contacts"
+      },
+      {
+        "target": "wraith/contacts",
+        "type": "cross-line",
+        "via": "id:contacts"
+      }
+    ]
   },
   {
     "id": "retainers",
@@ -1181,7 +1285,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/retainers"
+    ],
+    "edges": [
+      {
+        "target": "vampire/retainers",
+        "type": "cross-line",
+        "via": "id:retainers"
+      }
+    ]
   },
   {
     "id": "cult",
@@ -1205,7 +1318,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "destiny",
@@ -1229,7 +1343,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "spies",
@@ -1253,7 +1368,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "status",
@@ -1277,7 +1393,28 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "hunter/status",
+      "vampire/status",
+      "wraith/status"
+    ],
+    "edges": [
+      {
+        "target": "hunter/status",
+        "type": "cross-line",
+        "via": "id:status"
+      },
+      {
+        "target": "vampire/status",
+        "type": "cross-line",
+        "via": "id:status"
+      },
+      {
+        "target": "wraith/status",
+        "type": "cross-line",
+        "via": "id:status"
+      }
+    ]
   },
   {
     "id": "fame",
@@ -1301,7 +1438,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/fame"
+    ],
+    "edges": [
+      {
+        "target": "vampire/fame",
+        "type": "cross-line",
+        "via": "id:fame"
+      }
+    ]
   },
   {
     "id": "familiar-companero",
@@ -1325,7 +1471,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "demesne",
@@ -1349,7 +1496,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "alternate-identity",
@@ -1373,7 +1521,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "influence",
@@ -1397,7 +1546,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/influence"
+    ],
+    "edges": [
+      {
+        "target": "vampire/influence",
+        "type": "cross-line",
+        "via": "id:influence"
+      }
+    ]
   },
   {
     "id": "legend",
@@ -1421,7 +1579,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "wonder",
@@ -1445,7 +1604,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "enhancement",
@@ -1469,7 +1629,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "mentor",
@@ -1500,7 +1661,28 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "hunter/mentor",
+      "vampire/mentor",
+      "wraith/mentor"
+    ],
+    "edges": [
+      {
+        "target": "hunter/mentor",
+        "type": "cross-line",
+        "via": "id:mentor"
+      },
+      {
+        "target": "vampire/mentor",
+        "type": "cross-line",
+        "via": "id:mentor"
+      },
+      {
+        "target": "wraith/mentor",
+        "type": "cross-line",
+        "via": "id:mentor"
+      }
+    ]
   },
   {
     "id": "node",
@@ -1524,7 +1706,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "rank",
@@ -1548,7 +1731,22 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "hunter/rank",
+      "werewolf/rank"
+    ],
+    "edges": [
+      {
+        "target": "hunter/rank",
+        "type": "cross-line",
+        "via": "id:rank"
+      },
+      {
+        "target": "werewolf/rank",
+        "type": "cross-line",
+        "via": "id:rank"
+      }
+    ]
   },
   {
     "id": "resources",
@@ -1572,7 +1770,22 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "hunter/resources",
+      "vampire/resources"
+    ],
+    "edges": [
+      {
+        "target": "hunter/resources",
+        "type": "cross-line",
+        "via": "id:resources"
+      },
+      {
+        "target": "vampire/resources",
+        "type": "cross-line",
+        "via": "id:resources"
+      }
+    ]
   },
   {
     "id": "backup",
@@ -1596,7 +1809,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "sanctum-laboratorio",
@@ -1620,7 +1834,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "sueno-hiperestudio",
@@ -1644,7 +1859,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "totem",
@@ -1668,7 +1884,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "werewolf/totem"
+    ],
+    "edges": [
+      {
+        "target": "werewolf/totem",
+        "type": "cross-line",
+        "via": "id:totem"
+      }
+    ]
   },
   {
     "id": "past-lives",
@@ -1692,7 +1917,182 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
+  },
+  {
+    "id": "jhor",
+    "type": "resonance",
+    "line": "mage",
+    "name_en": "Jhor",
+    "name_es": "Jhor",
+    "body_es": "El Jhor es la Resonancia de la muerte que infecta a los magos que trabajan con las energías del Inframundo. En las ediciones anteriores de Mago la Resonancia no era más que una opción narrativa e interpretativa, excepto por lo que se refiere al Jhor y el Defecto Ecos. En la edición revisada de Mago Edición Revisada la Resonancia se convirtió en un Rasgo del sistema de juego. M20 deja esa elección a cada grupo. Para más detalles, ver Capítulo Dos, pág. 57 y 58; Seis, pág. 333, y Diez, pág. 503 y 560-561.",
+    "tags": [
+      "resonancia",
+      "muerte",
+      "inframundo"
+    ],
+    "mechanics": {
+      "resonance_flavor": "muerte",
+      "trigger": "trabajar con las energías del Inframundo",
+      "trait_rating": null,
+      "note": "En este pasaje el Jhor sólo se menciona brevemente como excepción histórica al carácter opcional de la Resonancia; no se da valor numérico de Rasgo aquí. Las reglas completas se remiten a Cap. Dos (pág. 57-58), Cap. Seis (pág. 333) y Cap. Diez (pág. 503, 560-561)."
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión Edición 20º Aniversario",
+        "page": null,
+        "section_anchor": "la-resonancia-en-diversas-ediciones",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "review": {
+      "reason": "mechanics differ across sources",
+      "conflicts": [
+        {
+          "sources": [
+            "m20-core-rulebook-es"
+          ],
+          "mechanics": {
+            "resonance_flavor": "muerte",
+            "trigger": "trabajar con las energías del Inframundo",
+            "trait_rating": null,
+            "note": "En este pasaje el Jhor sólo se menciona brevemente como excepción histórica al carácter opcional de la Resonancia; no se da valor numérico de Rasgo aquí. Las reglas completas se remiten a Cap. Dos (pág. 57-58), Cap. Seis (pág. 333) y Cap. Diez (pág. 503, 560-561)."
+          }
+        },
+        {
+          "sources": [
+            "m20-core-rulebook-es"
+          ],
+          "mechanics": {}
+        }
+      ]
+    },
+    "edges": []
+  },
+  {
+    "id": "microcosm-and-macrocosm",
+    "type": "paradigm",
+    "line": "mage",
+    "name_en": "Microcosm and Macrocosm",
+    "name_es": "Microcosmos y macrocosmos",
+    "body_es": "Paradigma que afirma que las pequeñas cosas reflejan otras mayores y que todas las cosas están conectadas entre sí en cierta medida. Ejemplificada por la frase: «Así como es arriba, es abajo».",
+    "tags": [
+      "lexicon",
+      "terminologia-comun"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión — Edición 20º Aniversario",
+        "page": null,
+        "section_anchor": "terminologia-comun",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "edges": []
+  },
+  {
+    "id": "balance",
+    "type": "paradigm",
+    "line": "mage",
+    "name_en": "Balance",
+    "name_es": "Balance",
+    "body_es": "Paradigma de la realidad para el Sindicato; a menudo expresado como 'máximo beneficio al mínimo riesgo'.",
+    "tags": [
+      "lexicon",
+      "terminologia-de-la-tecnocracia",
+      "tecnocracia",
+      "sindicato"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión — Edición 20º Aniversario",
+        "page": null,
+        "section_anchor": "terminologia-de-la-tecnocracia",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "edges": []
+  },
+  {
+    "id": "gnosticism",
+    "type": "paradigm",
+    "line": "mage",
+    "name_en": "Gnosticism",
+    "name_es": "Gnosticismo",
+    "body_es": "Más un sistema de creencias que una práctica específica, el gnosticismo se refiere a la visión general de que la Creación que percibimos como realidad es, de hecho, el constructo de alguna fuerza corrupta o malvada. Para escapar de la prisión de esta realidad caída, un gnóstico busca la sabiduría y el conocimiento (gnosis) que le conducirá a la trascendencia final.\n\nEste concepto de una Creación inferior gobernada por 'fuerzas malignas extraterrenales' o por un 'señor de este mundo' se puede encontrar por todas partes, desde Matrix o las teorías de la conspiración 'reptiliana' de David Icke hasta en muchas formas de cristianismo o las ramas más austeras del paganismo precristiano. El transhumanismo es claramente gnóstico en sus ideales de existencia posthumana por medio de la tecnología.\n\nA varios niveles, Mago encarna una cosmología esencialmente gnóstica, en la que los 'Durmientes' Despiertan, trascienden su humanidad mediante el conocimiento y potencialmente Ascienden a un estado superior. Aun así, muchos magos no son gnósticos porque no ven el mundo innatamente corrupto, porque rechazan creer en poderes superiores o inferiores o porque sienten que todo es milagroso si abres los ojos lo bastante como para reconocerlo.\n\nPara más detalles acerca de los paradigmas gnósticos y sus hijos bastardos posmodernos, ver Tecgnosis y transhumanismo en el Capítulo 4 (pág. 105) y Paradigmas comunes de Mago en el Capítulo 10 (pág. 568-572).",
+    "tags": [
+      "paradigma",
+      "gnosticismo"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión — Edición 20º Aniversario",
+        "page": null,
+        "section_anchor": "gnosticismo",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "edges": []
+  },
+  {
+    "id": "high-ritual-magic",
+    "type": "practice",
+    "line": "mage",
+    "name_en": "High Ritual Magic",
+    "name_es": "Alta Magia Ritual",
+    "body_es": "Práctica mística formalizada y elaborada basada en la disciplina, los logros, la erudición y el control; es en lo que la gente normalmente piensa que es la hechicería o la Magia (tanto en mayúscula como en minúscula) (cf. brujo, chamán, mago, Tecnomante).",
+    "tags": [
+      "lexicon",
+      "terminologia-comun"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión — Edición 20º Aniversario",
+        "page": null,
+        "section_anchor": "terminologia-comun",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "edges": []
+  },
+  {
+    "id": "chaos-magic",
+    "type": "practice",
+    "line": "mage",
+    "name_en": "Chaos Magic",
+    "name_es": "Magia del caos",
+    "body_es": "Práctica mística ecléctica, personalizada, no ortodoxa y a menudo improvisada; pese a estar generalizado un concepto erróneo de la misma, NO se trata de Magia basada en fuerzas malignas o en intenciones malvadas.",
+    "tags": [
+      "lexicon",
+      "terminologia-comun"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión — Edición 20º Aniversario",
+        "page": null,
+        "section_anchor": "terminologia-comun",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "edges": []
   },
   {
     "id": "ambidiestro",
@@ -1717,7 +2117,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/ambidiestro"
+    ],
+    "edges": [
+      {
+        "target": "vampire/ambidiestro",
+        "type": "cross-line",
+        "via": "id:ambidiestro"
+      }
+    ]
   },
   {
     "id": "equilibrio-felino",
@@ -1742,7 +2151,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/equilibrio-felino"
+    ],
+    "edges": [
+      {
+        "target": "vampire/equilibrio-felino",
+        "type": "cross-line",
+        "via": "id:equilibrio-felino"
+      }
+    ]
   },
   {
     "id": "esteril",
@@ -1771,7 +2189,8 @@
     "review": {
       "reason": "declared 'Mérito o Defecto' — verify type",
       "conflicts": []
-    }
+    },
+    "edges": []
   },
   {
     "id": "estomago-de-hierro",
@@ -1796,7 +2215,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "hiperflexible",
@@ -1821,7 +2241,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "sangre-noble",
@@ -1846,7 +2267,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "sueno-ligero",
@@ -1871,7 +2293,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/sueno-ligero"
+    ],
+    "edges": [
+      {
+        "target": "vampire/sueno-ligero",
+        "type": "cross-line",
+        "via": "id:sueno-ligero"
+      }
+    ]
   },
   {
     "id": "tolerancia-al-alcohol-las-drogas",
@@ -1900,7 +2331,8 @@
     "review": {
       "reason": "dual/compound name — may be two entities",
       "conflicts": []
-    }
+    },
+    "edges": []
   },
   {
     "id": "fisicamente-impresionante",
@@ -1925,7 +2357,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "cara-de-poquer",
@@ -1950,7 +2383,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "rasgo-encantador",
@@ -1975,7 +2409,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "resistencia-al-veneno",
@@ -2000,7 +2435,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "hipersensibilidad",
@@ -2025,7 +2461,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "temerario",
@@ -2050,7 +2487,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/temerario"
+    ],
+    "edges": [
+      {
+        "target": "vampire/temerario",
+        "type": "cross-line",
+        "via": "id:temerario"
+      }
+    ]
   },
   {
     "id": "vision-nocturna",
@@ -2075,7 +2521,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "corpulento",
@@ -2100,7 +2547,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/corpulento"
+    ],
+    "edges": [
+      {
+        "target": "vampire/corpulento",
+        "type": "cross-line",
+        "via": "id:corpulento"
+      }
+    ]
   },
   {
     "id": "insensible-al-dolor",
@@ -2125,7 +2581,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "kid",
@@ -2150,7 +2607,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/kid"
+    ],
+    "edges": [
+      {
+        "target": "vampire/kid",
+        "type": "cross-line",
+        "via": "id:kid"
+      }
+    ]
   },
   {
     "id": "impedimento",
@@ -2175,7 +2641,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "apariencia-resenable",
@@ -2200,7 +2667,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "facilmente-intoxicable",
@@ -2225,7 +2693,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "rasgo-repulsivo",
@@ -2250,7 +2719,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "bajo",
@@ -2275,7 +2745,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/bajo"
+    ],
+    "edges": [
+      {
+        "target": "vampire/bajo",
+        "type": "cross-line",
+        "via": "id:bajo"
+      }
+    ]
   },
   {
     "id": "herida-permanente",
@@ -2300,7 +2779,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/herida-permanente"
+    ],
+    "edges": [
+      {
+        "target": "vampire/herida-permanente",
+        "type": "cross-line",
+        "via": "id:herida-permanente"
+      }
+    ]
   },
   {
     "id": "monstruoso",
@@ -2325,7 +2813,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/monstruoso"
+    ],
+    "edges": [
+      {
+        "target": "vampire/monstruoso",
+        "type": "cross-line",
+        "via": "id:monstruoso"
+      }
+    ]
   },
   {
     "id": "horrible",
@@ -2350,7 +2847,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "maldicion-de-la-efimera",
@@ -2375,7 +2873,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "aptitud-informatica",
@@ -2400,7 +2899,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/aptitud-informatica"
+    ],
+    "edges": [
+      {
+        "target": "vampire/aptitud-informatica",
+        "type": "cross-line",
+        "via": "id:aptitud-informatica"
+      }
+    ]
   },
   {
     "id": "aptitud-mecanica",
@@ -2425,7 +2933,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "calculador-relampago",
@@ -2450,7 +2959,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "concentracion",
@@ -2475,7 +2985,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/concentracion"
+    ],
+    "edges": [
+      {
+        "target": "vampire/concentracion",
+        "type": "cross-line",
+        "via": "id:concentracion"
+      }
+    ]
   },
   {
     "id": "conductor-experto",
@@ -2500,7 +3019,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "dotado-artisticamente",
@@ -2525,7 +3045,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "sentido-comun",
@@ -2550,7 +3071,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/sentido-comun"
+    ],
+    "edges": [
+      {
+        "target": "vampire/sentido-comun",
+        "type": "cross-line",
+        "via": "id:sentido-comun"
+      }
+    ]
   },
   {
     "id": "sentido-del-tiempo",
@@ -2575,7 +3105,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/sentido-del-tiempo"
+    ],
+    "edges": [
+      {
+        "target": "vampire/sentido-del-tiempo",
+        "type": "cross-line",
+        "via": "id:sentido-del-tiempo"
+      }
+    ]
   },
   {
     "id": "codigo-de-honor",
@@ -2600,7 +3139,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/codigo-de-honor"
+    ],
+    "edges": [
+      {
+        "target": "vampire/codigo-de-honor",
+        "type": "cross-line",
+        "via": "id:codigo-de-honor"
+      }
+    ]
   },
   {
     "id": "fuerza-interior",
@@ -2625,7 +3173,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "linguista-natural",
@@ -2650,7 +3199,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/linguista-natural"
+    ],
+    "edges": [
+      {
+        "target": "vampire/linguista-natural",
+        "type": "cross-line",
+        "via": "id:linguista-natural"
+      }
+    ]
   },
   {
     "id": "memoria-eidetica",
@@ -2675,7 +3233,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/memoria-eidetica"
+    ],
+    "edges": [
+      {
+        "target": "vampire/memoria-eidetica",
+        "type": "cross-line",
+        "via": "id:memoria-eidetica"
+      }
+    ]
   },
   {
     "id": "hiperconcentracion",
@@ -2700,7 +3267,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "mistico-cientifico-tecgnostico",
@@ -2729,7 +3297,8 @@
     "review": {
       "reason": "dual/compound name — may be two entities",
       "conflicts": []
-    }
+    },
+    "edges": []
   },
   {
     "id": "polifacetico",
@@ -2754,7 +3323,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "voluntad-de-hierro",
@@ -2779,7 +3349,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/voluntad-de-hierro"
+    ],
+    "edges": [
+      {
+        "target": "vampire/voluntad-de-hierro",
+        "type": "cross-line",
+        "via": "id:voluntad-de-hierro"
+      }
+    ]
   },
   {
     "id": "berserker",
@@ -2804,7 +3383,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "sabiduria-del-juez",
@@ -2829,7 +3409,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "seguro-de-uno-mismo",
@@ -2854,7 +3435,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "adoracion-a-un-heroe",
@@ -2879,7 +3461,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "bloqueo-mental",
@@ -2904,7 +3487,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "caprichoso",
@@ -2929,7 +3513,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "compasivo",
@@ -2954,7 +3539,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/compasivo"
+    ],
+    "edges": [
+      {
+        "target": "vampire/compasivo",
+        "type": "cross-line",
+        "via": "id:compasivo"
+      }
+    ]
   },
   {
     "id": "compulsion",
@@ -2979,7 +3573,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "exceso-de-confianza",
@@ -3004,7 +3599,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "impaciente",
@@ -3029,7 +3625,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/impaciente"
+    ],
+    "edges": [
+      {
+        "target": "vampire/impaciente",
+        "type": "cross-line",
+        "via": "id:impaciente"
+      }
+    ]
   },
   {
     "id": "impedimento-del-habla",
@@ -3054,7 +3659,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/impedimento-del-habla"
+    ],
+    "edges": [
+      {
+        "target": "vampire/impedimento-del-habla",
+        "type": "cross-line",
+        "via": "id:impedimento-del-habla"
+      }
+    ]
   },
   {
     "id": "timido",
@@ -3079,7 +3693,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/timido"
+    ],
+    "edges": [
+      {
+        "target": "vampire/timido",
+        "type": "cross-line",
+        "via": "id:timido"
+      }
+    ]
   },
   {
     "id": "vainilla",
@@ -3104,7 +3727,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "pesadillas",
@@ -3129,7 +3753,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/pesadillas"
+    ],
+    "edges": [
+      {
+        "target": "vampire/pesadillas",
+        "type": "cross-line",
+        "via": "id:pesadillas"
+      }
+    ]
   },
   {
     "id": "inapropiado",
@@ -3154,7 +3787,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "amnesia",
@@ -3179,7 +3813,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/amnesia"
+    ],
+    "edges": [
+      {
+        "target": "vampire/amnesia",
+        "type": "cross-line",
+        "via": "id:amnesia"
+      }
+    ]
   },
   {
     "id": "curiosidad",
@@ -3204,7 +3847,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "desmedido",
@@ -3229,7 +3873,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "gafas-color-de-rosa",
@@ -3254,7 +3899,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "gelido",
@@ -3279,7 +3925,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "obsesion",
@@ -3304,7 +3951,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "temperamental",
@@ -3329,7 +3977,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/temperamental"
+    ],
+    "edges": [
+      {
+        "target": "vampire/temperamental",
+        "type": "cross-line",
+        "via": "id:temperamental"
+      }
+    ]
   },
   {
     "id": "vengativo",
@@ -3354,7 +4011,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/vengativo"
+    ],
+    "edges": [
+      {
+        "target": "vampire/vengativo",
+        "type": "cross-line",
+        "via": "id:vengativo"
+      }
+    ]
   },
   {
     "id": "fobia",
@@ -3379,7 +4045,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/fobia"
+    ],
+    "edges": [
+      {
+        "target": "vampire/fobia",
+        "type": "cross-line",
+        "via": "id:fobia"
+      }
+    ]
   },
   {
     "id": "depresion-cronica",
@@ -3404,7 +4079,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "distraido",
@@ -3429,7 +4105,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "flashbacks",
@@ -3454,7 +4131,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "intolerante",
@@ -3479,7 +4157,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "mente-salvaje",
@@ -3504,7 +4183,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "objetivo-dominante",
@@ -3529,7 +4209,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "odio",
@@ -3554,7 +4235,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "salvavidas",
@@ -3579,7 +4261,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "tpoc",
@@ -3604,7 +4287,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "perversion-extrema",
@@ -3629,7 +4313,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "atavismo-por-estres",
@@ -3654,7 +4339,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "deficit-de-habilidad",
@@ -3679,7 +4365,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "discreto",
@@ -3704,7 +4391,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "lastimero",
@@ -3729,7 +4417,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "lealtad",
@@ -3754,7 +4443,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/lealtad"
+    ],
+    "edges": [
+      {
+        "target": "vampire/lealtad",
+        "type": "cross-line",
+        "via": "id:lealtad"
+      }
+    ]
   },
   {
     "id": "mentor-prestigioso",
@@ -3779,7 +4477,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "porte-regio",
@@ -3804,7 +4503,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "apoyo-familiar",
@@ -3829,7 +4529,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "favor",
@@ -3854,7 +4555,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/favor"
+    ],
+    "edges": [
+      {
+        "target": "vampire/favor",
+        "type": "cross-line",
+        "via": "id:favor"
+      }
+    ]
   },
   {
     "id": "beca-de-investigacion",
@@ -3879,7 +4589,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "hunter/beca-de-investigacion"
+    ],
+    "edges": [
+      {
+        "target": "hunter/beca-de-investigacion",
+        "type": "cross-line",
+        "via": "id:beca-de-investigacion"
+      }
+    ]
   },
   {
     "id": "conectado-socialmente",
@@ -3904,7 +4623,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "confianza",
@@ -3929,7 +4649,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "idioma-secreto-en-codigo",
@@ -3954,7 +4675,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "iniciado-en-una-subcultura",
@@ -3979,7 +4701,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "lider-natural",
@@ -4004,7 +4727,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/lider-natural"
+    ],
+    "edges": [
+      {
+        "target": "vampire/lider-natural",
+        "type": "cross-line",
+        "via": "id:lider-natural"
+      }
+    ]
   },
   {
     "id": "magnetismo-animal",
@@ -4029,7 +4761,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "oficialmente-muerto",
@@ -4054,7 +4787,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "perfecto-mentiroso",
@@ -4079,7 +4813,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "prestigio",
@@ -4104,7 +4839,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "santidad",
@@ -4129,7 +4865,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/santidad"
+    ],
+    "edges": [
+      {
+        "target": "vampire/santidad",
+        "type": "cross-line",
+        "via": "id:santidad"
+      }
+    ]
   },
   {
     "id": "propiedad",
@@ -4154,7 +4899,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "heroe-local",
@@ -4179,7 +4925,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "joven-promesa",
@@ -4204,7 +4951,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/joven-promesa"
+    ],
+    "edges": [
+      {
+        "target": "vampire/joven-promesa",
+        "type": "cross-line",
+        "via": "id:joven-promesa"
+      }
+    ]
   },
   {
     "id": "mensajero-celebre",
@@ -4229,7 +4985,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "amor-verdadero",
@@ -4254,7 +5011,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/amor-verdadero"
+    ],
+    "edges": [
+      {
+        "target": "vampire/amor-verdadero",
+        "type": "cross-line",
+        "via": "id:amor-verdadero"
+      }
+    ]
   },
   {
     "id": "maestro-de-la-cinta-roja",
@@ -4279,7 +5045,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "aprendizaje-erroneo",
@@ -4304,7 +5071,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "confabulador",
@@ -4329,7 +5097,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "confusion-de-identidad",
@@ -4354,7 +5123,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/confusion-de-identidad"
+    ],
+    "edges": [
+      {
+        "target": "vampire/confusion-de-identidad",
+        "type": "cross-line",
+        "via": "id:confusion-de-identidad"
+      }
+    ]
   },
   {
     "id": "desacreditado",
@@ -4379,7 +5157,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "enemistad-con-una-secta",
@@ -4404,7 +5183,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "inocente",
@@ -4429,7 +5209,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "mentor-demente-infame",
@@ -4458,7 +5239,8 @@
     "review": {
       "reason": "dual/compound name — may be two entities",
       "conflicts": []
-    }
+    },
+    "edges": []
   },
   {
     "id": "novato",
@@ -4483,7 +5265,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/novato"
+    ],
+    "edges": [
+      {
+        "target": "vampire/novato",
+        "type": "cross-line",
+        "via": "id:novato"
+      }
+    ]
   },
   {
     "id": "responsabilidad-especial",
@@ -4508,7 +5299,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/responsabilidad-especial"
+    ],
+    "edges": [
+      {
+        "target": "vampire/responsabilidad-especial",
+        "type": "cross-line",
+        "via": "id:responsabilidad-especial"
+      }
+    ]
   },
   {
     "id": "secreto-oscuro",
@@ -4533,7 +5333,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/secreto-oscuro"
+    ],
+    "edges": [
+      {
+        "target": "vampire/secreto-oscuro",
+        "type": "cross-line",
+        "via": "id:secreto-oscuro"
+      }
+    ]
   },
   {
     "id": "sympathizer",
@@ -4558,7 +5367,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/sympathizer"
+    ],
+    "edges": [
+      {
+        "target": "vampire/sympathizer",
+        "type": "cross-line",
+        "via": "id:sympathizer"
+      }
+    ]
   },
   {
     "id": "verborrea",
@@ -4583,7 +5401,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "desconectado",
@@ -4608,7 +5427,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "lealtades-en-conflicto",
@@ -4633,7 +5453,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "problemas-familiares",
@@ -4658,7 +5479,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "casa-rival",
@@ -4683,7 +5505,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "deudas",
@@ -4708,7 +5531,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "infamia",
@@ -4733,7 +5557,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "lista-negra",
@@ -4758,7 +5583,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "marginado",
@@ -4783,7 +5609,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "agente-doble",
@@ -4808,7 +5635,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "buscalios",
@@ -4833,7 +5661,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "credulo",
@@ -4858,7 +5687,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "hunter/credulo"
+    ],
+    "edges": [
+      {
+        "target": "hunter/credulo",
+        "type": "cross-line",
+        "via": "id:credulo"
+      }
+    ]
   },
   {
     "id": "dogmatico",
@@ -4883,7 +5721,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "failure",
@@ -4908,7 +5747,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "mentor-diabolico",
@@ -4933,7 +5773,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "pawn",
@@ -4958,7 +5799,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/pawn"
+    ],
+    "edges": [
+      {
+        "target": "vampire/pawn",
+        "type": "cross-line",
+        "via": "id:pawn"
+      }
+    ]
   },
   {
     "id": "viejo-amor",
@@ -4983,7 +5833,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/viejo-amor"
+    ],
+    "edges": [
+      {
+        "target": "vampire/viejo-amor",
+        "type": "cross-line",
+        "via": "id:viejo-amor"
+      }
+    ]
   },
   {
     "id": "durmiendo-con-el-enemigo",
@@ -5008,7 +5867,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/durmiendo-con-el-enemigo"
+    ],
+    "edges": [
+      {
+        "target": "vampire/durmiendo-con-el-enemigo",
+        "type": "cross-line",
+        "via": "id:durmiendo-con-el-enemigo"
+      }
+    ]
   },
   {
     "id": "mentiroso-terrible",
@@ -5033,7 +5901,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "notoriedad",
@@ -5058,7 +5927,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "wraith/notoriedad"
+    ],
+    "edges": [
+      {
+        "target": "wraith/notoriedad",
+        "type": "cross-line",
+        "via": "id:notoriedad"
+      }
+    ]
   },
   {
     "id": "prescindible",
@@ -5083,7 +5961,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/prescindible"
+    ],
+    "edges": [
+      {
+        "target": "vampire/prescindible",
+        "type": "cross-line",
+        "via": "id:prescindible"
+      }
+    ]
   },
   {
     "id": "protegido",
@@ -5108,7 +5995,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/protegido"
+    ],
+    "edges": [
+      {
+        "target": "vampire/protegido",
+        "type": "cross-line",
+        "via": "id:protegido"
+      }
+    ]
   },
   {
     "id": "soplon",
@@ -5133,7 +6029,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/soplon"
+    ],
+    "edges": [
+      {
+        "target": "vampire/soplon",
+        "type": "cross-line",
+        "via": "id:soplon"
+      }
+    ]
   },
   {
     "id": "rivalidad",
@@ -5158,7 +6063,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "burbuja-de-opinion",
@@ -5183,7 +6089,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "caza-de-brujas",
@@ -5208,7 +6115,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "desbordado",
@@ -5233,7 +6141,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/desbordado"
+    ],
+    "edges": [
+      {
+        "target": "vampire/desbordado",
+        "type": "cross-line",
+        "via": "id:desbordado"
+      }
+    ]
   },
   {
     "id": "lista-de-objetivos",
@@ -5258,7 +6175,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "miembro-a-prueba",
@@ -5283,7 +6201,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "picaro",
@@ -5308,7 +6227,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "senor-cinta-roja",
@@ -5333,7 +6253,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "quinto-grado",
@@ -5358,7 +6279,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "aura-ardiente",
@@ -5383,7 +6305,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "mano-para-las-plantas",
@@ -5408,7 +6331,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "afinidad-feerica",
@@ -5433,7 +6357,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "avatar-circunspecto",
@@ -5458,7 +6383,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "don-del-bardo",
@@ -5483,7 +6409,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "medium",
@@ -5508,7 +6435,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/medium"
+    ],
+    "edges": [
+      {
+        "target": "vampire/medium",
+        "type": "cross-line",
+        "via": "id:medium"
+      }
+    ]
   },
   {
     "id": "siempre-joven",
@@ -5533,7 +6469,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "afinidad-celestial",
@@ -5558,7 +6495,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "afortunado",
@@ -5583,7 +6521,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/afortunado"
+    ],
+    "edges": [
+      {
+        "target": "vampire/afortunado",
+        "type": "cross-line",
+        "via": "id:afortunado"
+      }
+    ]
   },
   {
     "id": "avatar-manifiesto",
@@ -5608,7 +6555,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "cambiaformas-natural",
@@ -5633,7 +6581,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "canal-natural",
@@ -5658,7 +6607,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "espiritu-mentor",
@@ -5683,7 +6633,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/espiritu-mentor"
+    ],
+    "edges": [
+      {
+        "target": "vampire/espiritu-mentor",
+        "type": "cross-line",
+        "via": "id:espiritu-mentor"
+      }
+    ]
   },
   {
     "id": "manos-de-dedalo",
@@ -5708,7 +6667,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "manto-de-las-estaciones",
@@ -5733,7 +6693,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "marca-de-favor",
@@ -5758,7 +6719,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "sentido-del-peligro",
@@ -5783,7 +6745,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "truco-de-salon",
@@ -5808,7 +6771,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "iman-de-espiritus",
@@ -5837,7 +6801,8 @@
     "review": {
       "reason": "declared 'Mérito o Defecto' — verify type",
       "conflicts": []
-    }
+    },
+    "edges": []
   },
   {
     "id": "caminante-de-la-muerte",
@@ -5862,7 +6827,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "invinculable",
@@ -5887,7 +6853,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/invinculable"
+    ],
+    "edges": [
+      {
+        "target": "vampire/invinculable",
+        "type": "cross-line",
+        "via": "id:invinculable"
+      }
+    ]
   },
   {
     "id": "pariente-cambiaformas",
@@ -5912,7 +6887,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "sangre-feerica",
@@ -5937,7 +6913,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "atributos-legendarios",
@@ -5962,7 +6939,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "avatar-roto",
@@ -5987,7 +6965,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "chispa-de-vida",
@@ -6012,7 +6991,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "ghoul",
@@ -6037,7 +7017,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "perspicaz",
@@ -6062,7 +7043,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "hunter/perspicaz"
+    ],
+    "edges": [
+      {
+        "target": "hunter/perspicaz",
+        "type": "cross-line",
+        "via": "id:perspicaz"
+      }
+    ]
   },
   {
     "id": "inmortal",
@@ -6087,7 +7077,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "aliado-poderoso",
@@ -6112,7 +7103,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "angel-de-la-guarda",
@@ -6137,7 +7129,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "esfera-natural",
@@ -6162,7 +7155,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "nueve-vidas",
@@ -6187,7 +7181,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/nueve-vidas"
+    ],
+    "edges": [
+      {
+        "target": "vampire/nueve-vidas",
+        "type": "cross-line",
+        "via": "id:nueve-vidas"
+      }
+    ]
   },
   {
     "id": "afiliacion-dual",
@@ -6212,7 +7215,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "companero-avatar",
@@ -6237,7 +7241,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "nefilim-laham",
@@ -6266,7 +7271,8 @@
     "review": {
       "reason": "dual/compound name — may be two entities",
       "conflicts": []
-    }
+    },
+    "edges": []
   },
   {
     "id": "extraneza",
@@ -6291,7 +7297,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "lengua-del-bardo",
@@ -6316,7 +7323,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "marca-del-diablo",
@@ -6341,7 +7349,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "vidare-bloqueado",
@@ -6366,7 +7375,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "sin-sombra-o-reflejo",
@@ -6391,7 +7401,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "anacronismo",
@@ -6416,7 +7427,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "apprentice",
@@ -6441,7 +7453,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "atavismo",
@@ -6466,7 +7479,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "gremlin",
@@ -6491,7 +7505,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "insolito",
@@ -6516,7 +7531,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "maldito",
@@ -6541,7 +7557,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/maldito"
+    ],
+    "edges": [
+      {
+        "target": "vampire/maldito",
+        "type": "cross-line",
+        "via": "id:maldito"
+      }
+    ]
   },
   {
     "id": "vulnerabilidad",
@@ -6566,7 +7591,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "componente-crucial",
@@ -6591,7 +7617,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "hambre-extrana",
@@ -6616,7 +7643,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "mejora-defectuosa",
@@ -6641,7 +7669,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "prohibicion-o-imperativo-paranormal",
@@ -6666,7 +7695,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "gafe-armatoste-infernal",
@@ -6695,7 +7725,8 @@
     "review": {
       "reason": "dual/compound name — may be two entities",
       "conflicts": []
-    }
+    },
+    "edges": []
   },
   {
     "id": "eidolon-demente",
@@ -6720,7 +7751,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "embrujado",
@@ -6745,7 +7777,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/embrujado"
+    ],
+    "edges": [
+      {
+        "target": "vampire/embrujado",
+        "type": "cross-line",
+        "via": "id:embrujado"
+      }
+    ]
   },
   {
     "id": "marcas-primitivas",
@@ -6770,7 +7811,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "marcado",
@@ -6795,7 +7837,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "perjuro",
@@ -6820,7 +7863,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "proclive-al-silencio",
@@ -6845,7 +7889,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "bestia-interior",
@@ -6870,7 +7915,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "desleal",
@@ -6895,7 +7941,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "magia-de-sangre",
@@ -6920,7 +7967,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "sino-aciago",
@@ -6945,7 +7993,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/sino-aciago"
+    ],
+    "edges": [
+      {
+        "target": "vampire/sino-aciago",
+        "type": "cross-line",
+        "via": "id:sino-aciago"
+      }
+    ]
   },
   {
     "id": "vampiro-psiquico",
@@ -6970,7 +8027,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "vinculado",
@@ -6995,7 +8053,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/vinculado"
+    ],
+    "edges": [
+      {
+        "target": "vampire/vinculado",
+        "type": "cross-line",
+        "via": "id:vinculado"
+      }
+    ]
   },
   {
     "id": "enemigo-inmortal",
@@ -7020,7 +8087,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "atribulado",
@@ -7045,7 +8113,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "inepto-en-una-esfera",
@@ -7070,7 +8139,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "filacteria",
@@ -7095,7 +8165,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "mancha-de-corrupcion",
@@ -7120,7 +8191,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "educacion-aislada",
@@ -7142,7 +8214,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "inocente",
@@ -7164,7 +8237,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "consciencia-psiquica",
@@ -7186,7 +8260,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "el-flujo-del-ki",
@@ -7208,7 +8283,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "fuerza-del-espiritu",
@@ -7230,7 +8306,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "fuerza-de-la-psique",
@@ -7252,7 +8329,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "desapegado",
@@ -7274,7 +8352,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "blanco-y-negro",
@@ -7296,7 +8375,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "hunter/blanco-y-negro"
+    ],
+    "edges": [
+      {
+        "target": "hunter/blanco-y-negro",
+        "type": "cross-line",
+        "via": "id:blanco-y-negro"
+      }
+    ]
   },
   {
     "id": "pacifista",
@@ -7318,7 +8406,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "durmiente-de-estilo",
@@ -7340,7 +8429,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "vinculo-gemelo",
@@ -7362,7 +8452,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "senda-natural",
@@ -7384,7 +8475,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "senda-inepta",
@@ -7406,7 +8498,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "durmiente-ritual",
@@ -7428,7 +8521,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "alquimia",
@@ -7450,7 +8544,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "conjuracion",
@@ -7472,7 +8567,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "transporte",
@@ -7494,7 +8590,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "adivinacion",
@@ -7516,7 +8613,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "efimera",
@@ -7538,7 +8636,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "charm",
@@ -7560,7 +8659,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/charm"
+    ],
+    "edges": [
+      {
+        "target": "vampire/charm",
+        "type": "cross-line",
+        "via": "id:charm"
+      }
+    ]
   },
   {
     "id": "fascinacion",
@@ -7582,7 +8690,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/fascinacion"
+    ],
+    "edges": [
+      {
+        "target": "vampire/fascinacion",
+        "type": "cross-line",
+        "via": "id:fascinacion"
+      }
+    ]
   },
   {
     "id": "fortuna",
@@ -7604,7 +8721,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "curacion",
@@ -7626,7 +8744,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "fuego-infernal",
@@ -7648,7 +8767,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "ilusion",
@@ -7670,7 +8790,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "voragines",
@@ -7692,7 +8813,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "necronica",
@@ -7714,7 +8836,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "oniromancia",
@@ -7736,7 +8859,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "manipulacion-de-la-quintaesencia",
@@ -7758,7 +8882,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "sombras",
@@ -7780,7 +8905,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "invocacion-vinculacion-y-proteccion",
@@ -7802,7 +8928,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "control-del-clima",
@@ -7824,7 +8951,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "psiquicos-animales",
@@ -7846,7 +8974,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "antipsiquico",
@@ -7868,7 +8997,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "proyeccion-astral",
@@ -7890,7 +9020,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "biocontrol",
@@ -7912,7 +9043,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "canalizacion",
@@ -7934,7 +9066,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "clarividencia",
@@ -7956,7 +9089,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/clarividencia"
+    ],
+    "edges": [
+      {
+        "target": "vampire/clarividencia",
+        "type": "cross-line",
+        "via": "id:clarividencia"
+      }
+    ]
   },
   {
     "id": "generacion-ectoplasmica",
@@ -7978,7 +9120,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "escudos-mentales",
@@ -8000,7 +9143,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "precognicion",
@@ -8022,7 +9166,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "curacion-psiquica",
@@ -8044,7 +9189,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "hipnosis-psiquica",
@@ -8066,7 +9212,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "invisibilidad-psiquica",
@@ -8088,7 +9235,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "vampirismo-psiquico",
@@ -8110,7 +9258,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "psicometria",
@@ -8132,7 +9281,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "psicoportacion",
@@ -8154,7 +9304,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "sombra",
@@ -8176,7 +9327,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "synergy",
@@ -8198,7 +9350,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "telepatia",
@@ -8220,7 +9373,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "vampire/telepatia"
+    ],
+    "edges": [
+      {
+        "target": "vampire/telepatia",
+        "type": "cross-line",
+        "via": "id:telepatia"
+      }
+    ]
   },
   {
     "id": "variantes-duales",
@@ -8242,6 +9404,7 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   }
 ]
