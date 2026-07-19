@@ -7431,6 +7431,798 @@
     "related": []
   },
   {
+    "id": "alquimia",
+    "type": "hedge-path",
+    "line": "mage",
+    "name_en": "Alquimia",
+    "name_es": "Alquimia",
+    "body_es": "El estudio de la transformación y la purificación, la Alquimia es un arte y una ciencia ancestrales. Los practicantes se nutren de prácticas dispares, tanto mágicas como científicas, para comprender las propiedades ocultas de la materia y el alma. El objetivo más tradicional de la alquimia no es la más famosa transformación de la materia base en sus contrapartes más «nobles» —como el plomo en oro—, sino más bien el perfeccionamiento del propio alquimista.\n\nComo Senda, la Alquimia crea objetos mágicos de un solo uso y transformaciones. Muchas de las cosas que produce están pensadas para ingerirse, aunque pocas se elaboran pensando en el sabor o siquiera en la salud y el bienestar del consumidor. La Alquimia también produce recubrimientos que pueden aplicarse a la piel o a los objetos, y reactivos que catalizan transmutaciones de elementos base en otra materia.\n\nAunque a menudo se estudia como un medio para perfeccionar el alma, esta búsqueda está muy ligada a la práctica alquímica real. Otras prácticas le dan su propio giro: los practicantes de la Brujería llaman a la Senda Herbalismo y se centran en ingredientes naturales y en los efectos relacionados con ellos, mientras que los ingenieros y manitas de la Hipertecnología que utilizan la Ciencia Rara la llaman Química Avanzada, y rehúyen por completo las implicaciones metafísicas que la práctica de la Alquimia impone a la Senda.\n\nEn todos los casos, la Senda de la Alquimia es cara. Para la mayoría de las versiones de la Senda, requiere un laboratorio bien equipado e ingredientes extraños. Las aplicaciones más poderosas requieren componentes cada vez más exóticos y un Tass extremadamente especializado. Aunque la variante del Herbalismo tiende a ser más barata en términos de dinero, requiere más tiempo y esfuerzo, con plantas y hongos recolectados bajo condiciones estrictas.",
+    "tags": [
+      "hechicería"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "alquimia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "conjuracion",
+    "type": "hedge-path",
+    "line": "mage",
+    "name_en": "Conjuración",
+    "name_es": "Conjuración",
+    "body_es": "La Conjuración es la Senda por excelencia de los magos de escenario: sacar conejos de sombreros y cartas del bolsillo de un miembro del público son ejemplos comunes de sus aplicaciones más básicas. Los hechiceros que desean ganarse la vida con sus estudios suelen aprender Conjuración. Debido a esta inextricable asociación con la magia de escenario, los Durmientes tienden a racionalizar la Conjuración como simple juego de manos experto.\n\nLa Senda de la Conjuración es la capacidad de mover o invocar un objeto o ser. Mientras que un novato quizá solo realice trucos de salón, como hacer girar una moneda, un hechicero avanzado en Conjuración puede dejar en suspenso un hechizo sobre su compañero antes de entrar en una situación peligrosa, lo que le permite sacar a su amigo de las (quizá literales) fauces de la muerte si es necesario.\n\nCasi tan importante como lo que la Conjuración es, es lo que la Conjuración no es. La Conjuración es muy similar a la Senda del Transporte mecánicamente, hasta el punto de que a menudo se confunden ambas Sendas, especialmente entre los Magos Despertados que pueden lograr resultados comunes a ambas Sendas con la Esfera de la Correspondencia. La Conjuración no puede mover al hechicero que la maneja, mientras que el Transporte sí. Un hechicero tampoco puede usar esta Senda para «invocar» ataques elementales; ese es el dominio del Fuego Infernal. La Conjuración puede invocar un cubo de arena pero no crear una tormenta de arena.",
+    "tags": [
+      "hechicería"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "conjuracion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "transporte",
+    "type": "hedge-path",
+    "line": "mage",
+    "name_en": "Transporte",
+    "name_es": "Transporte",
+    "body_es": "Ya sea soñando con la teletransportación o con escobas voladoras, la gente siempre ha querido viajar rápidamente de un lugar a otro. Por rápido que lo consigan, nunca es lo bastante rápido, y muchos recurren a la magia y a extrañas ciencias para llegar a donde van mucho antes. Para los hechiceros, estas proezas quizá no sean rutinarias, pero pocos de ellos se preocupan por que les asignen un asiento central en un vuelo.\n\nHasta que alcanzan las cumbres del dominio de la Senda, un hechicero que usa la Senda del Transporte requiere algún tipo de vehículo, que el hechicero prepara para un único viaje. Los místicos tienden a preferir botas de siete leguas, alfombras y escobas voladoras, y cosas más extrañas como carros tirados por gatos divinos, mientras que los hechiceros más científicos usan mochilas propulsoras, coches transformables y similares.\n\nSin embargo, los poderosos manejadores de esta Senda pueden cubrir distancia sin cruzar el espacio intermedio. La teletransportación no tiene por qué ser instantánea, pero tiende a no necesitar un vehículo; normalmente un ritual o dispositivo en el punto de origen bastará para enviar al hechicero adondequiera que desee ir.",
+    "tags": [
+      "hechicería"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "transporte",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "adivinacion",
+    "type": "hedge-path",
+    "line": "mage",
+    "name_en": "Adivinación",
+    "name_es": "Adivinación",
+    "body_es": "Leer las hojas de té, echar piedras rúnicas o huesos, estudiar el cielo nocturno: todos estos son ejemplos de prácticas tradicionales de Adivinación, cuyas variaciones abarcan multitud de culturas. Desde que existe el concepto de futuro, ha habido gente que quiere saber lo que este\n\nAbacomancia\n\nAdivinación usando polvo, arena o cenizas de los muertos esparcidas sobre una superficie\n\nAstrología\n\nEstudio de las interacciones y posiciones de los cuerpos celestes para predecir el futuro\n\nBibliomancia\n\nPredicción abriendo libros, a menudo textos religiosos, por páginas al azar\n\nCartomancia\n\nUso de una baraja de cartas para predecir el futuro; a menudo, pero no siempre, el tarot u otras barajas especializadas\n\nEchar Suertes\n\nLanzar piedras rúnicas, huesos o palos tallados y leer los patrones que forman\n\nFelidomancia\n\nObservación del comportamiento de los gatos para predecir el futuro\n\nHaruspicina\n\nLectura de las entrañas y los hígados de animales sacrificados\n\nOniromancia\n\nInterpretación de los sueños\n\nOrnitomancia\n\nObservación del comportamiento de las aves para hacer predicciones. También conocida como Augurio.\n\nQuiromancia\n\nAdivinar el futuro de otra persona leyendo las líneas de su palma\n\nAnálisis de Probabilidad\n\nUso de ciencia extraordinaria y matemática del caos para predecir la probabilidad de acontecimientos futuros\n\nVidencia\n\nLeer el futuro en charcos de agua, bolas de cristal, espejos, nubes, etc.\n\nVideomancia\n\nLeer el futuro a través de imágenes en movimiento\n\n<!-- image -->",
+    "tags": [
+      "hechicería"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "adivinacion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "efimera",
+    "type": "hedge-path",
+    "line": "mage",
+    "name_en": "Efímera",
+    "name_es": "Efímera",
+    "body_es": "Algunos hechiceros —los que se centran en la Senda de la Invocación, Vinculación y Protección— dan órdenes a los espíritus. Los que siguen la Senda de la Efímera buscan una relación de mayor familiaridad con ellos. Para los hechiceros que usan la Senda de la Efímera, su relación con los espíritus se parece más a la de familia y amigos que a la de amo y sirviente. Cuando llaman a un espíritu, es una invitación, no una citación judicial.\n\nEn lugar de vincular y dar órdenes a los espíritus, la Senda de la Efímera permite al hechicero negociar con ellos. Este proceso, llamado chiminage, es un toma y daca. Cada espíritu quiere algo distinto, relacionado con su naturaleza. La petición del espíritu depende del poder del espíritu y del tamaño de la tarea implicada. Pedir a un Incarna que emprenda una tarea difícil y a largo plazo requiere mucho del hechicero, quizá algo solo posible con una difícil misión propia. Pedir a un Gaffling que haga algo simple que enlace directamente con su naturaleza (p. ej., pedir a un espíritu del fuego que encienda una vela) requeriría, por el contrario, casi nada del hechicero, quizá solo la oportunidad de hacerlo. Este proceso, naturalmente, tiene una curva de aprendizaje pronunciada. La mayoría de los hechiceros salen perdiendo en uno o dos tratos antes de cogerle el tranquillo.\n\nEsta Senda casi siempre se centra en la Umbra Media y, más raramente, en la Umbra Baja. Los rumores de versiones que trabajan con la Umbra Alta son persistentes, pero no pasan de ser habladurías.",
+    "tags": [
+      "hechicería"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "efimera",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "charm",
+    "type": "hedge-path",
+    "line": "mage",
+    "name_en": "Encantamiento",
+    "name_es": "Encantamiento",
+    "body_es": "La Senda del Encantamiento recompensa la paciencia y la previsión más que ninguna otra Senda. No hay hechizos en esta Senda, solo rituales, lo que hace que el hechicero necesite aprender —o inventar— un nuevo ritual cada vez que quiere hacer un Artefacto que no haya hecho antes. Cada uno de estos Artefactos debe elaborarse cuidadosamente por el Encantador. El primer paso es crear el objeto base mundano. Normalmente estos los fabrica a mano el Encantador, llevando sus destrezas mundanas al límite para hacer justo el recipiente adecuado para su magia. A veces, sin embargo, el recipiente adecuado puede encontrarse en forma de un objeto raro o antiguo. Una vez fabricado o encontrado el recipiente, el Encantador puede ponerse con el proceso de infundir el objeto con energía mágica para usarla después. La primera etapa suele lograrse mediante tiradas de Artesanía (o, para los tecnohechiceros, tiradas de Tecnología o Hipertecnología), mientras que la segunda es una tirada de Senda.\n\nLos Artefactos creados mediante Encantamiento difieren en varios aspectos clave de las recetas de la Alquimia. Los Artefactos suelen ser persistentes, o al menos pueden usarse muchas veces. Algunos pueden ser permanentes, o casi, mientras que otros pueden usarse un número fijo de veces antes de que su magia se disipe. Además, tienden a ser más débiles que los Prodigios creados por los magos, y más específicos. Un Artefacto solo puede tener un único poder, una restricción que los Prodigios no tienen.\n\nLos Encantadores tienden a dedicar mucho tiempo y esfuerzo a sus talleres. Cualquier tipo de artesanía que realicen para hacer sus Artefactos los define. A menudo se ven a sí mismos como herreros, joyeros, ingenieros electrónicos o carpinteros primero, y la magia que pueden hacer viene después. Esto lleva a los Encantadores a buscar niveles altos del Trasfondo de Recursos, así como de otros que representen un espacio seguro y protegido para hacer su trabajo y la capacidad de adquirir materias primas de alta calidad y a menudo exóticas.\n\n<!-- image -->",
+    "tags": [
+      "hechicería"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "encantamiento",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "fascinacion",
+    "type": "hedge-path",
+    "line": "mage",
+    "name_en": "Fascinación",
+    "name_es": "Fascinación",
+    "body_es": "Las historias del hechicero cautivador o del mago hechizante se encuentran en cuentos populares de todo el mundo. Encantadores taimados someten a los inocentes a su dominio, y los tratos cerrados por poder atrapan los corazones y las mentes de quienes son tan insensatos como para firmar la entrega de sus almas a semejantes pactos. El grano de verdad de este viejo tópico es sólido como el diamante. Los hechiceros sin escrúpulos que doblegan las mentes de otros a su voluntad han practicado esta Senda desde que alguien deseó que otra persona simplemente actuara o pensara de una manera agradable.\n\nLos métodos varían, pero el resultado es el mismo: quebrar la voluntad del sujeto y esclavizarlo. Un hechicero que emplea una práctica mística puede aplicarse maquillaje que haga brillar sus ojos con una radiancia cautivadora. Puede rociarse con una fragancia seductora, atrayendo la atención de cualquiera que esté a distancia de que le llegue el aroma. Otros pueden simplemente afilar su confianza hasta convertirla en el filo de una navaja, imposible de resistir. Los Ciudadanos Extraordinarios llevan resonadores armónicos probados y aprobados que emiten una frecuencia subsónica que reequilibra los neurotransmisores para facilitar la obediencia.\n\nQuienes ya poseen poderes que alteran la mente pueden resistirse con poderes propios si son el objetivo específico de un poder. Esto funciona en ambos sentidos, ya que un estudiante de esta Senda puede reconocer otros usos de efectos que alteran la mente y prepararse para resistirlos o superarlos.",
+    "tags": [
+      "hechicería"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "fascinacion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "fortuna",
+    "type": "hedge-path",
+    "line": "mage",
+    "name_en": "Fortuna",
+    "name_es": "Fortuna",
+    "body_es": "El destino es caprichoso, incluso antes de tener en cuenta las manipulaciones de los magos. La Senda de la Fortuna les permite blandir la suerte como un arma, abatiendo a sus enemigos con maldiciones o fortaleciendo a sus aliados con bendiciones. Aunque los métodos y las explicaciones pueden variar, desde el Mal de Ojo hasta la Mano de Dios, pasando por la manipulación de la probabilidad, la Senda de la Fortuna nunca hace que suceda lo verdaderamente imposible, solo lo extremadamente improbable. También es una de las Sendas menos precisas: aunque el mago estático pone en marcha la Fortuna y controla la magnitud y el rango general de los resultados potenciales, los efectos de esta Senda a menudo lo sorprenden o se pierden en el ruido de la vida cotidiana.\n\nA la Gente de la Noche le resulta más difícil que a los Durmientes ser maldecida con esta Senda. Realizan una tirada de Fuerza de Voluntad contra 4 + la puntuación de la Senda del mago, y los efectos sin un Aspecto a 5 solo requieren un único éxito para anularse. Esas maldiciones extremadamente poderosas pueden ignorarse con solo dos éxitos, aunque la dificultad será 9, lo que lo hace bastante complicado. Para resistirse, la víctima debe ser consciente de la maldición del mago e intentar activamente resistirla. Descubrir una maldición no anunciada puede ser difícil, pero es posible mediante percepciones sobrenaturales, como la lectura del aura. Los magos con Cardinal o Entropía podrían notarlo, y los magos que practican la Senda de la Fortuna suelen ser capaces de reconocer el trabajo de uno de los suyos.\n\nEl Trasfondo de Arcano/Encubrimiento proporciona una capa adicional de protección contra las maldiciones. Tener como objetivo a alguien con ese Trasfondo sin su permiso explícito resta un éxito de la tirada por cada punto de Arcano que posea.",
+    "tags": [
+      "hechicería"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "fortuna",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "curacion",
+    "type": "hedge-path",
+    "line": "mage",
+    "name_en": "Curación",
+    "name_es": "Curación",
+    "body_es": "Allí donde prospera la humanidad, existe la necesidad de curar. Desde los albores de la civilización, los sanadores surgieron por empatía y necesidad comunitaria. Mucho antes de que la ciencia conociera la teoría microbiana, los sanadores aprendieron a servir a su gente a través de la tradición, la comunión con los espíritus, el ensayo y error, y muchas otras formas. Ahora, incluso cuando la ciencia puede prevenir y curar enfermedades horribles, muchos siguen sin acceso a esas técnicas. En los desiertos médicos y en las comunidades históricamente perjudicadas por el sistema médico, la necesidad persiste. La gente sigue buscando desesperadamente sanadores. Puede que no crean del todo en la magia o en los milagros, pero entre la certeza de la agonía y un rayo de esperanza, muchos se arriesgan.\n\nLa magia estática puede lograr resultados milagrosos. Un sanador maestro puede curar cánceres y acelerar la curación de heridas graves más allá de lo que debería ser posible, pero no lo anuncia. Aunque tantas personas son ignoradas y abandonadas por el sistema médico, es ilegal ejercer la medicina sin licencia. Además, la fama puede ser una carga muy pesada. Muchos magos estáticos entusiastas y empáticos comienzan a aprender la senda de la Curación, pero pocos llegan a dominarla: a menudo se queman pronto ante un mundo frío e ingrato, y cambian a otras Artes si es que siguen practicando magia.\n\nAunque no siempre lo exige su Práctica, muchos sanadores magos estáticos sí aprenden alguna forma de medicina. Quienes no confían en la ciencia extraordinaria suelen aprender formas de curación no basadas en la medicina moderna. Como mínimo, en los casos en que sí aprenden los fundamentos de la ciencia médica moderna, su enfoque del tratamiento puede ser radicalmente distinto en filosofía y técnica.\n\nUn sanador podría curar enfermedades o deformidades congénitas de leves a moderadas, pero ejemplos más extremos, como regenerar extremidades o resucitar a los muertos recientes, pertenecen al reino de la leyenda.",
+    "tags": [
+      "hechicería"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "curacion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "fuego-infernal",
+    "type": "hedge-path",
+    "line": "mage",
+    "name_en": "Fuego Infernal",
+    "name_es": "Fuego Infernal",
+    "body_es": "La Senda del Fuego Infernal sigue siendo una de las Sendas más populares de la magia estática, a pesar de tener cierta mala reputación asociada. Para la mayoría de la gente, el atractivo de desatar poder elemental y destruir a sus enemigos supera la creencia de que pueda estar de alguna manera contaminada por el mal, si no directamente por lo infernal. A pesar de estos sentimientos, muchos magos estáticos se especializan en la pirotecnia que esta Senda pone a su disposición, siendo una de las Sendas más espectaculares de la magia estática.\n\nIncluso los estudiantes principiantes del Fuego Infernal suelen recibir el respeto, y no poco miedo, de sus compañeros. Aprenden pronto que pueden invocar rayos y fuego, provocar terremotos y ahogar a sus enemigos si así lo desean, incluso si personalmente no saben cómo hacerlo. A los aprendices también se les da una advertencia esencial: no son inmunes a sus propios poderes. Esta vulnerabilidad no se limita a los intentos de magia fracasados (véase el Precio del Fallo más abajo). Los practicantes deben tener cuidado de no encontrarse dentro de las áreas que tienen como objetivo, y el fuego, una vez desatado, puede ser difícil de controlar.",
+    "tags": [
+      "hechicería"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "fuego-infernal",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "ilusion",
+    "type": "hedge-path",
+    "line": "mage",
+    "name_en": "Ilusión",
+    "name_es": "Ilusión",
+    "body_es": "Una de las magias más fundamentales es el poder de engañar a otros para que crean lo que el mago quiere. La Senda de la Ilusión confunde los sentidos, haciendo que sus objetivos perciban cosas que no están ahí o alterando su percepción de lo que sí está. La mayoría de la gente confía en sus sentidos. «Ver para creer», pero cuando hay un ilusionista cerca, este viejo refrán puede matarte.\n\nLa Senda de la Ilusión es mucho menos directa en la mayoría de sus aplicaciones que algunas de las otras Sendas. Los ilusionistas suelen ser manipuladores astutos, al menos para elegir la visión falsa adecuada para la tarea que deba completarse. Esto a menudo requiere extraños patrones de pensamiento y pensamiento lateral, lo que hace que los ilusionistas se vuelvan excéntricos con el tiempo.\n\nCuando se es objetivo de la Senda de la Ilusión, siempre existe la posibilidad de evitar el engaño. Una tirada de Percepción + Alerta a dificultad (4 + el Aspecto de Realismo) para hechizos, y dificultad (4 + Rango) para rituales, revela las pequeñas imperfecciones de la ilusión. Esto requiere un éxito por cada sentido cubierto por la ilusión, aunque en los casos en que se omita un sentido esencial, según determine el Narrador, el número de éxitos necesarios puede disminuir. Cualquiera que realice esta tirada puede percatarse de que lo que percibe no es real, aunque percibe tanto la ilusión como la verdad. Si alerta a otros de este hecho, puede repetir la tirada una vez.",
+    "tags": [
+      "hechicería"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "ilusion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "voragines",
+    "type": "hedge-path",
+    "line": "mage",
+    "name_en": "Vorágines",
+    "name_es": "Vorágines",
+    "body_es": "Descubierta por accidente, la Senda de las Vorágines fue originalmente un intento de redescubrir el Control del Clima. Tradicionalmente conocida como «Silbido» (como en «silbar para llamar a una tormenta»), los magos que la usaban buscaban invocar intensos vendavales de viento y lluvia en el mundo de los vivos. No fue hasta el siglo XIX cuando se descubrió que estas tempestades eran robadas de las Tierras de las Sombras.\n\nLa Vorágine extrae la energía para crear sus tormentas de dos fuentes. La primera es la fuerza de voluntad del lanzador. Los hechizos y rituales de esta Senda cuestan un punto de Fuerza de Voluntad por nivel, en lugar del habitual punto fijo único de la mayoría de las Sendas. La otra fuente de poder son las propias Tierras de las Sombras, de las que se extrae energía, calmando a los fantasmas de la zona o expulsando por la fuerza a los muertos de la zona, según el tamaño de la tormenta.\n\nEl instrumento más habitual para esta Senda es, con diferencia, la música. La mayoría de los usuarios dicen que desde el momento en que la aprendieron, podían oír música en su cabeza, y algunos creen que suena más fuerte cuanto más intensas son las tormentas de las que pueden extraer poder. Para estas personas, su Alerta queda limitada a un máximo de 3, debido a la distracción de la música. Otros, sin embargo, no experimentan este efecto y no sufren ninguna penalización.",
+    "tags": [
+      "hechicería"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "voragines",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "necronica",
+    "type": "hedge-path",
+    "line": "mage",
+    "name_en": "Necrónica",
+    "name_es": "Necrónica",
+    "body_es": "Una de las Sendas más recientes, descubierta solo por cazafantasmas a finales de la década de 1990, la Senda de la Necrónica fue estudiada por primera vez por hackers de «sombrero negro» que intentaban combinar sus conocimientos de electrónica con el mundo de los muertos. Utilizan diversas técnicas para manipular su propia bioelectricidad, o energía vital, con el fin de afectar de alguna manera al mundo de los muertos. Dado que la energía vital es antitética a las Tierras de las Sombras, esto tiende a dificultar los esfuerzos de los fantasmas por gestionar sus embrujos.\n\nAl ser una Senda nueva, todavía hay mucho que no se entiende sobre la Necrónica. Casi todos los practicantes actuales usan dispositivos electrónicos -normalmente ordenadores, teléfonos y tabletas- para lanzar hechizos de Necrónica. Aunque existen equivalentes en culturas tradicionales, esas Sendas pueden o no ser lo mismo que la Necrónica, empleando métodos más tradicionales y de menor tecnología. Los cazafantasmas que investigan la Necrónica suelen sentirse fascinados por estas prácticas. Creen que estudiarlas les proporcionará nuevas técnicas que podrán aplicar para gestionar embrujos.\n\nAdemás de las consecuencias del fracaso que se detallan más abajo, la Necrónica conlleva otro gran peligro para el mago. Dado que los usuarios manipulan su bioelectricidad con tanta intensidad, tocarlos mientras trabajan resulta peligroso. Incluso el más leve contacto de otro ser vivo desbarata la concentración y el control de la bioelectricidad del mago, provocando la formación de un bucle de retroalimentación. Esta retroalimentación hace que sufra un nivel de daño agravado y que el hechizo o ritual fracase. El mago necesita atención médica inmediata para estabilizarse y queda debilitado (-1 dado a todas las acciones) durante una semana por cada nivel del hechizo o ritual interrumpido.",
+    "tags": [
+      "hechicería"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "necronica",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "oniromancia",
+    "type": "hedge-path",
+    "line": "mage",
+    "name_en": "Oniromancia",
+    "name_es": "Oniromancia",
+    "body_es": "El Reino de los Sueños es un lugar fluido que responde al estado de ánimo y la imaginación del soñador. Algunas personas, en particular las que tienen el Talento Sueño Lúcido (Mago 20, pág. 294), pueden tomar el control de sus propios sueños, haciendo que las pesadillas normales sean controlables, que los buenos sueños sean experiencias divertidas, y que otros sueños sean posibles fuentes de introspección sobre sí mismos. Sin embargo, sin magia, el Reino de los Sueños más amplio permanece cerrado, y cada soñador queda confinado a su propia psique.\n\nLos magos que aprenden la Senda de la Oniromancia aprenden a entrar en los sueños de otros. Una vez allí, intentan tomar el control, y pueden extraer información o alterar los sueños en beneficio o en perjuicio del soñador. En la cumbre de su poder, los oniromantes pueden incluso reunir a varias personas en un sueño compartido. Según la leyenda, algunos son incluso capaces de hacer que los sueños se vuelvan reales o de entrar físicamente en los sueños.",
+    "tags": [
+      "hechicería"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "oniromancia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "manipulacion-de-la-quintaesencia",
+    "type": "hedge-path",
+    "line": "mage",
+    "name_en": "Manipulación de la Quintaesencia",
+    "name_es": "Manipulación de la Quintaesencia",
+    "body_es": "Casi todos los hechiceros pueden coincidir en un hecho. Existe un flujo de poder que alimenta sus obras. El nombre de ese poder ha adoptado multitud de caras y filosofías: maná, qi, gnosis, shakti, sekhem, y muchos otros. Todo mago puede describir el flujo de energía mientras impone su voluntad sobre la realidad. Recorriéndolos como la corriente por un cable eléctrico, puede sentirse, y para algunos puede aprovecharse directamente. A través de Prácticas como las de la geomancia y el feng shui, los magos estáticos pueden percibir y redirigir la energía sin refinar del universo.\n\nEn cambio, muy pocos hechiceros consideran esto una Senda en sí misma. La mayoría ve la Manipulación de la Quintaesencia como un ejercicio estándar y un refinamiento de su oficio ya definido. El estilo personal de cada mago ya le indica cómo lograr las manipulaciones necesarias para realizar todos sus demás hechizos. Las varitas dirigen la energía, los patrones dibujados en cajas crean trampas para contenerla, mientras que los cuchillos cortan y perturban a la vez que realizan todas sus demás obras. Sin embargo, quienes se centran en dominar esta habilidad fundamental por sí sola descubren que su trabajo nunca carece de una fuente de la que extraer poder, y que su entorno místico rara vez es un misterio.",
+    "tags": [
+      "hechicería"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "manipulacion-de-la-quintaesencia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "sombras",
+    "type": "hedge-path",
+    "line": "mage",
+    "name_en": "Sombras",
+    "name_es": "Sombras",
+    "body_es": "El poder sobre la oscuridad es un cliché al que algunos hechiceros no tienen problema en aferrarse, ya sea por un entusiasmo irónico o por una creencia genuina. No sería descabellado suponer que la Senda de las Sombras es la fuente del concepto de que las fuerzas oscuras potencian las artes místicas, dado lo a menudo que los charlatanes hacen esa afirmación. Independientemente de su reputación, la Senda sí posee un aire premonitorio e intimidante, ya que da forma y moldea la sustancia del miedo instintivo: las sombras y la oscuridad.\n\nLos practicantes han descubierto que la aplicación de la Senda de las Sombras es mucho más maleable que la de otras Sendas. Las sombras son omnipresentes, y hasta en los días más luminosos destacan y proporcionan contraste. La disponibilidad de sombras y el potencial de ajustar la profundidad de los matices otorgan mayores posibilidades que Sendas menos versátiles.\n\n<!-- image -->\n\nSe podría pensar que la Senda manipula la calidad de la luz ambiental, alejándola de las zonas más oscuras para que las sombras parezcan más profundas y amenazadoras. Esto es manifiestamente falso. Ya sea mediante un instrumento mágico o un campo de potenciación de materia oscura para los de mentalidad más tecnológica, esta Senda manipula la propia sustancia de las sombras. La verdadera naturaleza de esta sustancia es fuente de mucho debate en las comunidades mágicas, con una variedad de teorías tan diversas como las relativas al mecanismo del Despertar. En lo que sí coinciden los practicantes es en que la sustancia de sombra puede usarse con gran efecto de muchas formas útiles.",
+    "tags": [
+      "hechicería"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "sombras",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "invocacion-vinculacion-y-proteccion",
+    "type": "hedge-path",
+    "line": "mage",
+    "name_en": "Invocación, Vinculación y Protección",
+    "name_es": "Invocación, Vinculación y Protección",
+    "body_es": "Los hechiceros, tanto en la ficción como en la leyenda, son bien conocidos por su capacidad de invocar y controlar a otros, tanto vivos como efímeros. Con estos poderes, el mago puede invocar animales, espíritus, fantasmas, demonios y otros seres extraños. También puede defenderse de estos seres, vincularlos y obligarlos a obedecerle. Aunque existe cierto solapamiento con la Senda de la Efimeria, esta Senda se centra en métodos de coerción, en lugar de cooperación, con los seres que son invocados y con los que se trata.\n\nToda la magia de Invocación, Vinculación y Protección consiste en rituales, y existen rituales para alcanzar a seres individuales o a clases enteras de seres. Hay rituales distintos para invocar, vincular y proteger contra cada objetivo. Esto ha llevado a la perdición a muchos magos. Aunque invocar a un ser puede despertar su interés, intentar vincularlo tiende a provocar hostilidad, y los magos que no conocen o fallan al lanzar el ritual de protección a menudo se encuentran en serios problemas.\n\nAdemás de las complicaciones propias de cada ser específico o tipo de ser con el que el mago estático pretenda trabajar, existen varias versiones de esta Senda que se aprenden de forma completamente separada. Existen variantes para invocar criaturas materiales (como animales y personas), ángeles y demonios, fantasmas, espíritus de la naturaleza y otros seres sintientes. Incluso hay informes de variantes centradas en objetos inanimados y creaciones virtuales, que permiten a algunos magos proteger sus ordenadores contra virus o invocar sus coches cuando lo necesitan.",
+    "tags": [
+      "hechicería"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "invocacion-vinculacion-y-proteccion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "control-del-clima",
+    "type": "hedge-path",
+    "line": "mage",
+    "name_en": "Control del Clima",
+    "name_es": "Control del Clima",
+    "body_es": "En sociedades que dependían en gran medida de la agricultura o la navegación, quienes podían controlar el clima eran muy valorados, marcando a menudo la diferencia entre la vida y la muerte en sus comunidades. Se han evitado o detenido hambrunas, y se sabe que los hechiceros más poderosos han disipado o desviado desastres naturales.\n\nEl Control del Clima permite a los hechiceros hacer exactamente lo que promete: pueden controlar el clima. Aunque no pueden provocar directamente enormes cambios climáticos como El Niño, lo que sí pueden afectar crea ondas a través de zonas más amplias. Ningún patrón climático ocurre en el vacío, y esto sigue siendo cierto para la manipulación mágica del clima. Muchos manipuladores del clima tienen algunos puntos en Ciencias, para poder distinguir los patrones climáticos venideros. Muchos manipuladores del clima también aprenden al menos una pequeña cantidad de Adivinación con este propósito, recurriendo con frecuencia a la escrutación en charcos de agua y nubes como práctica para ello.\n\nAunque rara vez se les consulta en la era moderna, los manipuladores del clima siguen practicando en secreto. El poder que dominan es espectacular y potencialmente capaz de cambiar vidas. Como los sanadores, los manipuladores del clima serían constantemente acosados para que realizaran milagros si sus habilidades fueran de conocimiento común. Al mismo tiempo, tendrían que lidiar con quienes, por miedo y envidia, afirmaran que los manipuladores del clima obtuvieron sus poderes por medios malvados.\n\nLos manipuladores del clima rara vez actúan solos. La cantidad de esfuerzo necesario para producir efectos adecuados a menudo requiere trabajo en equipo. Algunos forman aquelarres en torno al objetivo del control climático grupal.",
+    "tags": [
+      "hechicería"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "control-del-clima",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "psiquicos-animales",
+    "type": "psychic-phenomenon",
+    "line": "mage",
+    "name_en": "Psíquicos Animales",
+    "name_es": "Psíquicos Animales",
+    "body_es": "Algunas personas son naturalmente buenas con los animales, y algunos psíquicos lo son de forma sobrenatural. Esta habilidad permite a un psíquico ejercer su voluntad para comunicarse con animales y controlarlos. Incluso la expresión más baja de este Fenómeno permite a un psíquico tranquilizar a un animal salvando la brecha de comunicación, haciéndolo más propenso a responder positivamente al psíquico.\n\nUn psíquico puede hablar con un animal y darle órdenes mediante un método de su elección. Algunos ejemplos incluyen mantener contacto visual en silencio, imitar los sonidos que hacen los animales, gestos de doma, el idioma nativo del psíquico, o una retahíla de palabras sin sentido. El método importa mucho menos que la intención y la fuerza de voluntad del psíquico. Incluso en sus niveles más altos, este fenómeno no afecta a los insectos ni a ninguna criatura, como las medusas, que carezca de cerebro.\n\n- Comulgar: un psíquico puede comunicarse con un animal que pueda percibir mediante sentidos mundanos (vista, oído, etc.). Puede dar órdenes sencillas, pero no puede ordenar a un animal que ataque. El psíquico puede, sin embargo,\n\nordenar a un animal que desista de un ataque previsto. Dar una orden que el animal ya estaba dispuesto a hacer de todos modos no requiere una tirada adicional, pero ordenar a un animal que haga algo contrario a su naturaleza requiere una tirada de Carisma + Afinidad Animal con una dificultad de 9 menos los puntos del psíquico en Psíquicos Animales.\n\n- ·· Comunicación Masiva: como con Comulgar, pero el psíquico ahora puede comunicarse con varios animales de la misma especie a la vez. Las órdenes a los animales pueden ser más complejas siempre que el psíquico pueda describirlas adecuadamente; sin embargo, los animales normalmente no atacarán por el psíquico a menos que ya estuvieran dispuestos a hacerlo. Este nivel también puede, alternativamente, dirigirse a un solo animal para ampliar la capacidad de las órdenes.\n- ··· Vínculo Mental: un psíquico puede unir mentes con un solo animal para lograr comunicación instantánea bidireccional y la capacidad de percibir lo que el animal percibe. El psíquico debe percibir inicialmente al animal según las reglas de Comulgar, pero el animal puede viajar fuera del alcance de percepción del psíquico sin que se rompa el vínculo. Este poder termina cuando\n\nel psíquico corta el vínculo. El vínculo puede resultar peligroso: cualquier daño que sufra el animal vinculado provoca un contragolpe psíquico, que causa al psíquico una cantidad igual de daño contundente absorbible. Si el animal muere mientras el vínculo está activo, el psíquico no solo debe realizar una tirada para absorber el daño, sino también una tirada de su Fuerza de Voluntad actual a dificultad 8. Un fallo deja al psíquico aturdido durante 1 asalto. Los fracasos pueden dejar al psíquico abrumado por el trauma de la muerte durante una escena y tener consecuencias duraderas, como respuestas de sobresalto intensificadas, hasta que el psíquico recupere un punto de Fuerza de Voluntad.\n\n- ···· Dominación: un psíquico puede ordenar a un solo animal que haga cualquier cosa dentro de las capacidades naturales del animal. El animal lucha y muere por el psíquico a su orden y sin cuestionarlo. El psíquico debe describir adecuadamente una orden para que el animal entienda lo que el psíquico quiere. Las órdenes complejas pueden seguir confundiendo a un animal, aunque el animal hace todo lo posible por interpretar y llevar a cabo cualquier orden que el psíquico le dé. Una vez que el psíquico activa con éxito este poder, el animal sigue las órdenes del psíquico hasta que el psíquico corta la conexión o el animal muere. Los psíquicos que usan este poder también deben establecer un Vínculo Mental si desean seguir dando órdenes al animal a distancia. Esto no requiere tiradas adicionales ni gasto de Fuerza de Voluntad, pero sí expone al psíquico a sufrir daño cuando el animal resulte herido o muerto, como se detalla más arriba.\n\n·····\n\nEnjambre: con el dominio de este Fenómeno, un psíquico ahora puede usar cualquier habilidad inferior sobre todos los animales que pueda percibir mediante sentidos mundanos a la vez. El control del psíquico ya no se limita a una especie a la vez. Usar el Vínculo Mental de esta manera puede volverse peligroso rápidamente, ya que cada animal vinculado presenta un riesgo de daño por contragolpe si resulta herido. La distracción de mantener múltiples vínculos mentales es abrumadora, infligiendo una penalización de -3 dados a todas las tiradas basadas en Atributos hasta que termine el Vínculo Mental, a menos que el psíquico gaste un punto de Fuerza de Voluntad al realizar la tirada para superar temporalmente la distracción.",
+    "tags": [
+      "psíquico"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "psiquicos-animales",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "antipsiquico",
+    "type": "psychic-phenomenon",
+    "line": "mage",
+    "name_en": "Antipsíquico",
+    "name_es": "Antipsíquico",
+    "body_es": "El Antipsíquico es el fenómeno psíquico más raro. Dicho esto, es muy sutil. Muchos Antipsíquicos pasan por la vida sin ser conscientes de su habilidad. A menudo hace falta un ataque, u otro malentendido serio con otro psíquico, antes de que el Antipsíquico descubra su don.\n\nLos Fenómenos Antipsíquicos interfieren en las habilidades de otros psíquicos con estática mental. Quienes tienen un paradigma científico teorizan que las emanaciones Antipsíquicas funcionan con una base similar a la Telepatía. En lugar de proyectar una señal que el cerebro del receptor pueda decodificar como un mensaje, una imagen o una impresión, la teoría es que el Antipsíquico proyecta una señal que interfiere con las ondas cerebrales responsables de los fenómenos psíquicos. Debido a la naturaleza de este Fenómeno, es imposible que un Antipsíquico desarrolle cualquier otro fenómeno psíquico. Sin embargo, sí son capaces de aprender otros Numina.\n\nUn Antipsíquico interfiere con todos los demás fenómenos psíquicos dentro de su alcance de efecto y tiene un efecto limitado sobre quienes usan la Esfera de la Mente. En niveles más altos, el Antipsíquico puede incluso interferir con las Disciplinas vampíricas y los dones Garou. Este Fenómeno permanece perpetuamente activo, incluso mientras el Antipsíquico duerme, a menos que el psíquico gaste un punto de Fuerza de Voluntad para suprimir por completo el fenómeno durante un turno o dirigirlo hacia un solo individuo. Si se usa el Antipsíquico contra efectos de la Esfera de la Mente o contra la Gente de la Noche, el psíquico no tiene éxito automáticamente, sino que realiza de forma refleja una tirada de activación a dificultad 7 o al Areté del mago, lo que sea mayor. Si tiene éxito, se aplican los efectos correspondientes a los rangos del Antipsíquico en la habilidad. Para más información sobre cómo contrarrestar los poderes de la Gente de la Noche, véase Mago: La Ascensión, 20º Aniversario, pág. 546.\n\nLa rareza de este Fenómeno representa una bendición a medias. Aunque muchos no anticiparían la habilidad, lo que aporta un elemento sorpresa, la novedad puede convertir al Antipsíquico en un espécimen tentador para entidades sobrenaturales de inclinación científica. Rumores susurrados sugieren que la Unión Tecnocrática usa Antipsíquicos de entre sus Ciudadanos Extraordinarios para reforzar las redadas contra psíquicos conocidos o sospechosos.\n\n- Radio de 5 yardas. Añade +1 a la dificultad de activación de fenómenos psíquicos dentro del radio y +1 a la dificultad de las tiradas de la Esfera de la Mente.\n- ·· Radio de 10 yardas. Añade +2 a la dificultad de activación de fenómenos psíquicos dentro del radio y +1 a la dificultad de las tiradas de la Esfera de la Mente.\n- ··· Radio de 15 yardas. Añade +3 a la dificultad de activación de fenómenos psíquicos dentro del radio y +2 a la dificultad de las tiradas de la Esfera de la Mente. Añade +1 a la dificultad para el uso de cualquier poder de la Gente de la Noche basado en la mente.\n- ···· Radio de 25 yardas. Añade +4 a la dificultad de activación de fenómenos psíquicos dentro del radio y +2 a la dificultad de las tiradas de la Esfera de la Mente. Añade +2 a la dificultad para el uso de cualquier poder de la Gente de la Noche basado en la mente.\n- ····· Radio de 40 yardas. Añade +5 a la dificultad de activación de fenómenos psíquicos dentro del radio y +3 a la dificultad de las tiradas de la Esfera de la Mente. Añade +3 a la dificultad para el uso de cualquier poder de la Gente de la Noche basado en la mente.",
+    "tags": [
+      "psíquico"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "antipsiquico",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "proyeccion-astral",
+    "type": "psychic-phenomenon",
+    "line": "mage",
+    "name_en": "Proyección Astral",
+    "name_es": "Proyección Astral",
+    "body_es": "La Proyección Astral permite al psíquico separar su espíritu, mente o consciencia —o una combinación de ambos, según sus creencias— de su cuerpo. La forma astral es intangible y puede cubrir grandes distancias en poco tiempo, ya que no está sujeta a las leyes normales de la física. Los viajeros astrales pueden asomarse e incluso visitar los reinos de ideas de la Umbra Astral (véase Mage 20 p. 94). El psíquico que usa la Proyección Astral no puede afectar al mundo físico por medios normales, aunque puede hacerlo mediante otros fenómenos psíquicos con +2 a la dificultad. Un fracaso al activar la Proyección Astral provoca un desorientador contragolpe psíquico, que impide al psíquico abandonar su cuerpo durante 24 horas.\n\nEl cuerpo del psíquico permanece vulnerable mientras usa la proyección astral, y el psíquico no puede percibir lo que le sucede. Es un temor común entre los psíquicos con esta capacidad que alguien pueda mover o dañar sus cuerpos mientras están ausentes. Muchos tienden a limitar su consumo de drogas y alcohol, porque los lapsos de memoria pueden desencadenar el mismo temor.\n\nLos psíquicos pueden interactuar con espíritus astrales —moradores de la Umbra Astral y otros individuos que viajan astralmente—. La Proyección Astral no otorga la capacidad de ver e interactuar con fantasmas. Para el combate durante los viajes astrales, se sustituye Astucia por Destreza, Inteligencia por Fuerza, y Percepción por Resistencia. Los viajeros astrales suelen aparecer como versiones ligeramente idealizadas de sí mismos, incluyendo manifestaciones de género o expresión estilística, liberadas de las limitaciones físicas o sociales sobre dichas expresiones. Alternativamente, quienes tienen una autoimagen extremadamente pobre a veces aparecen con defectos percibidos y exagerados. A pesar de las posibles diferencias con su apariencia física, los viajeros astrales suelen ser capaces de reconocerse entre sí si vuelven a encontrarse en el reino físico.\n\nLa mayoría de los psíquicos solo pueden acceder a la Penumbra Astral, pero los más poderosos afirman ser capaces de viajar más lejos. Viajar a los Otros Mundos es un asunto arriesgado, y más de un puñado de psíquicos han ido a explorar sin volver jamás a encontrar sus cuerpos. Algunos creen que dejar el cuerpo deshabitado durante demasiado tiempo corre el riesgo de dejar entrar a otra cosa.\n\n- Vistazo: El psíquico puede dedicar hasta un minuto por punto de Resistencia a proyectarse astralmente y viajar hasta una milla de distancia de su cuerpo. Un psíquico solo puede usar la vista en este nivel; sus demás sentidos no funcionan mientras se proyecta. Un personaje también puede viajar a la Penumbra Astral durante este tiempo.\n- ·· Encargo: El psíquico obtiene la capacidad de oír mientras viaja astralmente. Puede viajar hasta 100 millas de distancia de su cuerpo, con un límite de 10 minutos por punto de Resistencia.\n- ··· Viaje: El psíquico puede viajar hasta 1000 millas de distancia de su cuerpo y puede permanecer en forma astral durante 30 minutos por punto de Resistencia. Un psíquico puede optar por manifestarse como una imagen borrosa y fantasmal de su forma astral durante un asalto gastando un punto de Fuerza de Voluntad, pero no puede hablar. No aparece en las grabaciones.\n- ···· Salvaguarda: Al quedar aturdido o inconsciente, el psíquico puede tirar la activación de la Proyección Astral como acción refleja. El psíquico puede usar este poder para buscar ayuda para su cuerpo tendido, o simplemente como una forma de seguir siendo útil mientras está incapacitado. El psíquico puede manifestarse como en Viaje, y mientras está manifestado, puede comunicarse en voz de susurro. La voz y la forma translúcida del psíquico no aparecen en las grabaciones. El psíquico puede viajar a cualquier parte de la Tierra y permanecer proyectado hasta una hora por cada punto de Resistencia que posea, aunque puede gastar un punto de Fuerza de Voluntad cada hora que desee seguir viajando más allá de este límite. Puede usar todos sus sentidos con normalidad. Aunque el psíquico puede regresar a su cuerpo en cualquier momento antes de que expire su límite normal, regresar no lo despertará a menos que la causa de la inconsciencia se haya resuelto.\n- ····· Odisea: Las capacidades de viaje astral del psíquico son legendarias. El psíquico puede viajar a cualquier lugar sobre o dentro de la Tierra, llegando al menos hasta el borde de la atmósfera. Intentar ir más lejos requiere una tirada de Fuerza de Voluntad a dificultad 9. Mientras el cuerpo del psíquico viva, incluso con ayuda de tecnología de soporte vital, el psíquico puede viajar indefinidamente. Si está manifestado, el psíquico puede hablar en volumen normal y puede optar por aparecer en\n\nuna forma indistinta y translúcida, o de forma engañosamente opaca, y puede permanecer manifestado hasta una hora por cada punto de Fuerza de Voluntad gastado. El psíquico puede optar por aparecer en las grabaciones.",
+    "tags": [
+      "psíquico"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "proyeccion-astral",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "biocontrol",
+    "type": "psychic-phenomenon",
+    "line": "mage",
+    "name_en": "Biocontrol",
+    "name_es": "Biocontrol",
+    "body_es": "La mayoría de los fenómenos psíquicos implican la percepción o el control de cosas externas al cuerpo del psíquico, pero el Biocontrol permite al psíquico ejercer su voluntad sobre su propio cuerpo. Un psíquico puede ignorar el dolor, potenciar sus sentidos e incluso desviar la circulación o regular sus niveles hormonales a voluntad.\n\nMientras que otros pueden permitirse pequeños grados de control mediante la biorretroalimentación y la meditación, los psíquicos con Biocontrol pueden obligar a sus cuerpos a sobrevivir a situaciones aparentemente desesperadas. La madre que levantó un coche para liberar a su hijo, el hombre que nunca parece borracho por muchas copas que se tome, y el único superviviente de una tragedia son todos ejemplos de este fenómeno. Sin embargo, cuanto más milagrosa sea la manifestación, más probable es que el psíquico atraiga sin querer la atención equivocada.\n\nMás allá de la posible atención no deseada, el Biocontrol no está exento de riesgos. Un fracaso puede hacer que los procesos biológicos se descontrolen justo en el peor momento, de forma proporcional al efecto que el psíquico intentaba lograr. Un psíquico que necesite reducir su consumo de oxígeno para sobrevivir a un ahogamiento podría acelerar su metabolismo y precipitar su muerte, mientras que un psíquico que busque una ventaja social mediante feromonas podría avergonzarse a sí mismo provocando un sudor excesivo.\n\n- Atención Plena: El psíquico se concentra en alterar sus procesos biológicos de forma leve. Puede detener el sangrado de heridas pequeñas, subir o bajar su temperatura corporal central hasta dos grados, contener la respiración durante un tiempo prolongado, ignorar el dolor de heridas menores, incluidas las penalizaciones por heridas de hasta la mitad de su valor en Biocontrol (redondeado hacia arriba), y regular conscientemente su presión arterial y su pulso dentro del rango normal. El efecto termina si se rompe la concentración del psíquico.\n- ·· Factor Curativo: El psíquico obliga a su cuerpo a acelerar los procesos metabólicos responsables de la curación y de combatir infecciones muy por encima del ritmo normal. El psíquico debe dedicar tiempo a descansar y meditar, idealmente mientras recibe atención médica —al fin y al cabo, el psíquico sigue siendo mortal—. Por cada éxito de activación, el psíquico reduce en un nivel el tiempo necesario para curar el nivel de Salud más alto, hasta un mínimo de una hora para el daño contundente y un día para el daño letal o agravado. Una vez curado el primer nivel de daño, el psíquico puede volver a tirar la activación para repetir el proceso. Si utiliza el Factor Curativo, los psíquicos pueden ignorar el riesgo de incapacidad permanente (véase Mage 20 p. 408) siempre que dispongan de la nutrición y el descanso suficientes.\n\n- ··· Oleada: El psíquico inunda su organismo con hormonas a voluntad. Los psíquicos eligen entre Físicos, Sociales o Mentales, y reparten sus éxitos de activación entre los atributos de la categoría elegida para subir puntos (hasta un máximo de 5 en cualquier atributo) durante una escena. Esto puede representar una descarga de adrenalina que permite una 'fuerza histérica' en una emergencia, una oleada de dopamina que mejora la función mental, o la modulación de serotonina y feromonas para volverse más tranquilo o subconscientemente atractivo en situaciones sociales. Provocar deliberadamente picos hormonales somete al cuerpo a tensión: cuando el efecto desaparece, el psíquico debe tirar Resistencia a dificultad 5 para absorber los éxitos de activación como daño contundente.\n- ···· Alternar Nervios: Un psíquico con este nivel de control puede aumentar o reducir la sensibilidad de sus nervios durante hasta una escena por cada éxito de activación. El uso más habitual es adormecer temporalmente el dolor. Un psíquico puede ignorar las penalizaciones por heridas causadas por el dolor hasta un número de niveles de Salud igual a los éxitos de activación —esto no permite al psíquico ignorar las penalizaciones debidas a partes del cuerpo no funcionales o ausentes—. En su lugar, un psíquico puede optar por adormecer sus sentidos para ignorar otros estímulos nocivos, como olores intensos, cambios repentinos de iluminación o temperaturas extremas. El psíquico puede ignorar hasta un número de penalizaciones por distracción igual a los éxitos de activación, y puede repartir los éxitos entre varios tipos de penalización. Alternativamente, un psíquico puede aumentar la sensibilidad nerviosa, reduciendo la dificultad de las tiradas basadas en la Percepción en un número de éxitos de activación, y puede repartir los éxitos entre varios sentidos. Sin embargo, aumentar la sensibilidad nerviosa conlleva un riesgo. Cada éxito empleado en reducir la dificultad de percepción de un sentido se suma a la dificultad de resistir las distracciones que utilicen ese sentido mientras el poder esté activo. Si el psíquico aumenta la sensibilidad táctil y sufre daño, padece penalizaciones por herida adicionales iguales a los éxitos de activación dedicados al tacto.\n\n·····\n\nMaestría Biológica: El psíquico alcanza el control total sobre su cuerpo. Puede detener y reiniciar su corazón a voluntad, regular la digestión, suspender temporalmente la necesidad de oxígeno, y ponerse en hibernación para forzar hazañas curativas más extremas, incluida la regeneración de partes del cuerpo. Puede acelerar o suspender la regeneración a nivel celular y puede anular toxinas con una tirada de activación. Cada éxito de activación reduce en uno el Índice de Toxina de la sustancia. Si el Índice de Toxina restante es menor que la Resistencia del psíquico, este puede dirigir la toxina hacia una parte específica de su cuerpo para que siga su curso, sufriendo un Impedimento (como el Defecto, véase M20 Book of Secrets p. 39) durante la duración del efecto de la toxina. Si el Índice de Toxina es mayor que la Resistencia del psíquico tras usar la Maestría Biológica, el psíquico sufre la toxina con normalidad, con el Índice de Toxina ya reducido. Un psíquico puede pasar un turno concentrándose y tirar la activación para absorber daño letal y agravado con Resistencia durante una escena.",
+    "tags": [
+      "psíquico"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "biocontrol",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "canalizacion",
+    "type": "psychic-phenomenon",
+    "line": "mage",
+    "name_en": "Canalización",
+    "name_es": "Canalización",
+    "body_es": "Un médium se planta ante un grupo e invoca a un familiar fallecido con alguna letra del alfabeto por nombre. Algún asistente dice conocer a alguien fallecido con ese nombre. El médium le hace saber que cruzó al otro lado en paz, y que el espíritu quiere lo mejor para él. Perdona a los vivos por algún pecado vago que el asistente reconoce, y no se pregunta nada más. Se ha logrado consuelo y el médium cobra. El reality show funciona de maravilla, y la popularidad crece. Todo eso es basura.\n\nEn la comunidad psíquica hay quienes canalizan a los muertos. Sin embargo, rara vez lo hacen con el propósito de hacer sentir mejor a alguien. Los muertos son un caudal de experiencia sin explotar que haría enrojecer de envidia hasta al maestro más erudito. Ese conocimiento está a disposición del canalizador, y cuando se usa correctamente, nunca les falta la técnica adecuada para la tarea que tienen entre manos.\n\nLos canalizadores vienen en todas las formas, tamaños y estilos. Algunos siguen el clásico tópico victoriano de 'poner los ojos en blanco y hablar en otra lengua'. Hay unos pocos que beben brebajes caseros que ellos mismos preparan para 'abrirse al otro lado'. Los canalizadores modernos con inclinaciones tecnológicas usan cajas de espíritus y dispositivos de EVP para obtener su conocimiento. Al final, el psíquico se abre a un wraith de las Tierras de las Sombras que posee el conocimiento que necesita. Cuanto mejores son, más fuerte es la conexión con las técnicas y talentos de los muertos.\n\nSin duda, es un juego peligroso. Abrir esa puerta puede hacer que algunos elementos desagradables se paseen tranquilamente por la psique del psíquico si no tiene cuidado. Cuando las cosas salen mal, una posesión en toda regla espera al desafortunado canalizador. Pero la otra cara de la moneda es poder recurrir al conocimiento de un genio quirúrgico en una emergencia médica, de un acróbata al cruzar una cornisa precaria, o de un asesino a sangre fría cuando se requiere defensa propia. Los canalizadores son los primeros en decir que el riesgo merece la pena.\n\nAl Canalizar, el psíquico solo puede invocar a un espíritu a la vez. La psique del canalizador podría verse fácilmente desbordada si se concede acceso a su ser a más de un wraith. Si el psíquico invoca a otro espíritu mientras aún alberga a uno de una canalización anterior, el primero es liberado y sustituido por el segundo.\n\nPor necesidad, el canalizador tiene cierta percepción de las Tierras de las Sombras, el reino de los fantasmas. A medida que se vuelve más poderoso en su práctica, el canalizador puede atisbar a través del Manto durante un número de minutos igual a los éxitos obtenidos en la tirada. Este es un uso independiente de su talento de canalización y cuesta lo mismo que canalizar a un espíritu por sus capacidades. La dificultad de esta tirada de poder se ve afectada por la fuerza del Manto en su zona y no tiene restricción de frecuencia de uso, siempre que el psíquico disponga de los puntos de Fuerza de Voluntad necesarios para gastar.\n\n- El canalizador puede conectar con el más allá y extraer las Habilidades de un fantasma, aunque solo puede acceder a una única Habilidad por cada uso de este poder. Los éxitos de la tirada de activación se convierten en dados de bonificación para las tiradas que utilicen el Talento, la Técnica o el Conocimiento deseado durante el resto de la escena. Al mirar a través del Manto, el psíquico puede hacerse una idea vaga de los wraith presentes.\n- ·· El psíquico ya puede acceder a dos Habilidades simultáneamente, repartiendo los éxitos entre los rasgos deseados. El canalizador también puede distinguir más detalles de las Tierras de las Sombras al mirar a través del Manto. El canalizador puede discernir detalles del paisaje e identificar a fantasmas concretos que estén presentes.\n- ··· Un mayor desarrollo permite ahora canalizar una tercera Habilidad, sujeta a las limitaciones anteriores. El canalizador ya puede comunicarse verbalmente con los fantasmas al otro lado del Manto.\n- ···· El psíquico ya puede acceder a cualquier Talento, Técnica o Conocimiento, manteniendo varios rasgos canalizados a la vez, siempre que obtenga suficientes éxitos en la tirada de activación para cubrir los niveles de rasgo deseados. La comunicación ya no se ve limitada por una breve ventana de accesibilidad, y mirar a través del Manto dura toda una escena.\n\n- ····· Con una psique fortalecida por numerosas pruebas y tribulaciones, el psíquico está lo bastante fortalecido como para canalizar ya a dos personalidades separadas a la vez. Nótese que cada wraith canalizado sigue requiriendo su propio coste y su propia tirada de poder. Si la Habilidad canalizada es la misma en ambos usos, los dados de bonificación de ambos usos se suman a las reservas de dados que utilicen ese Talento, Técnica o Conocimiento.\n\nEn la cúspide de su habilidad, con un espíritu canalizado, el médium puede abrirse a un wraith y obtener todas las Habilidades del espíritu visitante. Los éxitos obtenidos durante la tirada de canalización quedan ahora disponibles para cualquier Talento, Técnica o Conocimiento que ese wraith pudiera haber poseído en vida. Sin embargo, los costes adicionales de canalizar con las defensas tan reducidas pueden ser elevados. El espíritu puede pedir un favor, exigir una tarea que se complete, o incluso el derecho a controlar libremente el cuerpo del canalizador durante un período de tiempo.",
+    "tags": [
+      "psíquico"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "canalizacion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "clarividencia",
+    "type": "psychic-phenomenon",
+    "line": "mage",
+    "name_en": "Clarividencia",
+    "name_es": "Clarividencia",
+    "body_es": "La Clarividencia hace referencia a la capacidad de ver más allá del entorno inmediato y a grandes distancias. En muchos casos, el sentido proyectado puede ser cualquiera de los cinco sentidos, y la información recibida rara vez es algo tan simple como un análogo uno a uno de la ubicación lejana. En la mayoría de los casos, los sentidos se ven bombardeados con sensaciones interpretativas que, en conjunto, conforman una única idea unificada de la ubicación, la persona o el objeto que se percibe.\n\nCuanta más información tenga un clarisintiente sobre su objetivo, más nítida será la imagen que reciba. Montañas de informes reposan en instalaciones gubernamentales de pruebas con nombres de proyecto como Stargate, Grillflame y Sunstreak, que relatan cómo los psíquicos explorados aportaban impresiones y sensaciones correlativas a las observaciones objetivo. Los objetos que les resultaban muy familiares se guardaban en ubicaciones lejanas, bases de montaña, puestos avanzados en el desierto e incluso submarinos. Los psíquicos relataban cosas como sentir un escalofrío, ver un sol de mediodía, o sentir como si estuvieran flotando en una piscina. Aunque es un buen comienzo, el clarividente experimentado puede lograr una precisión y una claridad mucho mayores. Los clarividentes más poderosos pueden ver una ubicación a cientos de millas de distancia con una claridad cristalina, y los rumores hablan de auténticas potencias con alcance global.\n\nExiste cierta confusión entre lo que constituye la Clarividencia y lo que es la Proyección Astral. Hay quienes insisten en que son el mismo fenómeno cuando se alcanza la maestría en cualquiera de las dos. El psíquico perspicaz considera esta confusión como algo risible. Los eruditos psíquicos mejor informados podrían ofrecer esta aclaración: 'La Clarividencia obviamente aprovecha la conexión inherente entre puntos en el espacio, mientras que el yo interior abandona el cuerpo y es enviado a viajar mediante la Proyección Astral.'\n\nEsta conexión y familiaridad con el sujeto de su visión también tiene un efecto directo sobre sus probabilidades de éxito. Localizar objetivos más familiares solo requiere uno o dos éxitos, mientras que ser un desconocido para el sujeto aumentará el número de éxitos necesarios para localizarlo. Una vez establecida la conexión, el clarisintiente puede observar la ubicación o el área que rodea a una persona u objeto con el grado de claridad que haya logrado. Un psíquico que intente reenfocar su segunda vista necesita realizar otra tirada (con la dificultad reducida en uno por familiaridad, si el nuevo sujeto fue observado desde su primer enfoque).\n\n- Experimentar ubicaciones remotas es algo nuevo para el psíquico, y la mayoría de las observaciones son interpretativas. Esta impresión puede ser una sensación física de acero frío en el caso de un cuchillo, el olor a pólvora en el de las armas de fuego, o la visión de una caseta de perro en el de perros guardianes. En algunos casos se puede lograr una imagen real del sujeto, pero esta será, en el mejor de los casos, difusa. La única excepción es el oído. Los sonidos llegan a través del puente mental distorsionados e ininteligibles, si es que llegan a oírse siquiera. Más éxitos otorgan sensaciones simbólicas más literales, y con cinco éxitos se logra una percepción visual real del objetivo, por borrosa que sea. Los sentidos tienen un alcance limitado para los novatos, y llegan aproximadamente a una milla alrededor del psíquico. Reenfocar requiere otra tirada de Fuerza de Voluntad y otro gasto de Fuerza de Voluntad para consolidar su nuevo sujeto remoto.\n- ·· La visión remota se vuelve más fiable, aunque sigue envuelta en una leve distorsión o bruma. El sonido llega con mucha más frecuencia, con posibilidades de ser lo bastante claro como para entenderse. Tres éxitos en la prueba de Fuerza de Voluntad proporcionan una imagen casi nítida del sujeto con sonidos distorsionados, mientras que cinco éxitos otorgan una claridad cristalina y sonidos inteligibles capaces de transmitir el tema general y el ambiente de las conversaciones cercanas al sujeto. El psíquico ya puede extender sus sentidos más lejos, hasta diez millas de su ubicación actual. La dificultad de la tirada aumenta en uno más allá de las 5 millas y en dos a partir de las 8 millas.\n\n- ··· La claridad deja de ser un problema, y la percepción remota transmite vista y oído a través de la distancia sin distorsión. El clarividente desbloquea una nueva vía de percepción clarificada en el sentido del tacto. 'Tocar' psíquicamente a un sujeto lejano devuelve sensaciones amortiguadas, como si sus manos estuvieran envueltas en gruesos guantes. Al dejar de ser un problema la claridad, ahora son los éxitos los que definen la distancia que puede alcanzar un clarisintiente, y cada éxito representa diez millas de alcance. En este punto, sigue siendo necesaria una nueva tirada de Fuerza de Voluntad para reenfocar, pero ya no cuesta un esfuerzo adicional realizarla.\n- ···· La vista, el oído y el tacto quedan ya dentro del ámbito del vidente remoto. El clarividente también empieza a percibir olores y sabores, detectando aromas y sabores intensos cuando estén presentes en abundancia. El alcance se multiplica ahora por diez, y cada éxito equivale a 100 millas de alcance.\n- ····· El maestro clarisintiente puede observar remotamente una ubicación como si estuviera de pie en la propia sala. Los cinco sentidos se reciben con una definición exacta, sin que ningún secreto escape a su percepción. El alcance se vuelve a multiplicar por diez, y cada éxito extiende su alcance en 1000 millas. Por último, siempre que el psíquico reenfoque un elemento que pueda ver dentro de su visión clarividente\n\nactual, no se requiere una nueva tirada, ya que forja nuevas correspondencias con los sujetos sobre la marcha.",
+    "tags": [
+      "psíquico"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "clarividencia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "generacion-ectoplasmica",
+    "type": "psychic-phenomenon",
+    "line": "mage",
+    "name_en": "Generación Ectoplásmica",
+    "name_es": "Generación Ectoplásmica",
+    "body_es": "Existen colecciones de fotografías de sesiones espiritistas, procedentes del apogeo de la fase de entretenimiento ocultista de la sociedad, que muestran masas agitadas de moco translúcido e ingrávido flotando alrededor de las cabezas de los líderes de sesión. La mayoría las desestima como simples imperfecciones de la película y sigue adelante, apreciando las reliquias fotográficas que tiene entre manos. Los verdaderos psíquicos saben que no es así. El ectoplasma es la sustancia espiritual neutra del fantasma. Nacida de la energía y la actividad espiritual, esta sustancia existe como evidencia liminal de algo más allá de lo físico. Un entretenido truco de salón para los iniciados, este plasma resulta mucho más útil de lo que el profano estaría dispuesto a asumir.\n\nMediante la concentración y la pura fuerza de voluntad, un psíquico recoge las energías fantasmales ambientales que lo rodean y las trae a la existencia física dentro de sus entrañas. Esto crea la inquietante imagen de esta sustancia espiritual coagulada fluyendo por la boca y la nariz del practicante. Con la forma de un gel resbaladizo, translúcido y frío, el ectoplasma fluye ingrávido cuando no se le da una dirección. Respondiendo a la voluntad del generador, esta maleable materia espiritual puede adoptar muchas formas horripilantes para repugnar o entorpecer a los incautos, mientras se disuelve en la nada apenas unos minutos después de romperse la concentración. Para consternación de los testigos, el ectoplasma no deja absolutamente ninguna evidencia física ni espiritual una vez sublimado.\n\nPosiblemente, la propiedad más útil del ectoplasma es que, por muy tenue, viscoso o pegajoso que le parezca a una persona corriente, resultará tan duro e inamovible como el plomo puro para lo espiritual. Fantasmas, wraith, espíritus y almas proyectadas astralmente encuentran todos el ectoplasma muy sólido y casi infranqueable. Esto tiene multitud de usos, desde crear una barrera alrededor de una sala untando las paredes, hasta cubrirse las manos con la sustancia para permitir al psíquico tocar las inmateriales Tierras de las Sombras, ya sea con benevolencia o con violencia. Por desgracia, este Fenómeno no permite al psíquico ver el interior de las Tierras de las Sombras. Solo le otorga la capacidad de crear una sustancia que es tanto espíritu como materia.\n\n- Cuando alguien empieza a explorar sus capacidades como generador, comienza con prácticas de aspecto bastante infantil. A los generadores novatos no les resulta difícil el acto de crear ectoplasma. La verdadera dificultad radica en generar un volumen y una fuerza considerables. Esto hace que el generador novel sea incapaz de expulsar el plasma semilíquido por sus orificios sin ayuda. Metiéndose los dedos en la boca, la nariz y los oídos para extraer la sustancia a mano, o confiando en el peristaltismo, el generador debe esforzarse para hacerla salir. Cada éxito en la prueba de activación genera un volumen del tamaño de una pelota de sóftbol de la sustancia pegajosa. Solo dura un número de asaltos igual a la Fuerza de Voluntad del generador, pero puede aplicarse tan rápido como se genera. Cubrir un objeto con una fina capa de ectoplasma no requiere ningún paso adicional más allá de generarlo. El plasma se adhiere a todas las superficies y no se limpia con facilidad. Se pegará y formará hilos con todo lo que lo toque, y solo se sublima hasta desaparecer cuando expira la duración.\n\nOtro enfoque novedoso que los usuarios descubren pronto es la técnica del 'hombre humeante'. Si se le induce correctamente, el ectoplasma también puede manifestarse como un vapor similar a la niebla. Volutas y zarcillos persistentes de humo espeso se filtran por la boca, la nariz y los conductos lagrimales del generador. Dura un número de asaltos igual a la Fuerza de Voluntad del psíquico, y esto debe tenerse en cuenta al tratar con interacciones sociales. Usar esta técnica puede añadir un dado de bonificación en situaciones como el número de un mago de escenario o intimidar a un matón desprevenido, pero conlleva una penalización de -1 a Habilidades como Expresión o Liderazgo debido a la desconcertante visión de esta nube ectoplásmica.\n\n- ·· Cuando los generadores ectoplásmicos alcanzan su ritmo, el grado de avance en el control resulta asombroso. Por cada éxito en la tirada de activación, un psíquico genera un cuarto de galón del fluido viscoso. Con un volumen tan aumentado, ya no se necesita ayuda para expulsar el plasma, ya que simplemente brota de los orificios nasales y esofágicos del psíquico. Esto no produce molestia alguna, y no son pocos los generadores que sienten un placer morboso ante la repulsión que su práctica provoca en los demás. Todos los fenómenos de plasma duran ahora un número de minutos igual a la Fuerza de Voluntad del generador.\n\nLa niebla generada adquiere ahora cierta capacidad de respuesta a la voluntad del creador. El psíquico puede ahora empujar la niebla hacia el exterior formando una nube que se mueve y cambia a las órdenes mentales del generador. La velocidad de la nube no es impresionante, apenas 10 pies por asalto, pero puede usarse para ocultarse de miradas indiscretas, imponiendo +2 a la dificultad de las pruebas de Percepción. Esta nube de niebla tiene un radio de 1 pie por cada punto de Fuerza de Voluntad del psíquico.\n\n- ··· Para el generador experimentado, generar plasma líquido es un juego de niños. Cada éxito en la tirada de activación invoca ahora un galón de líquido en un flujo constante. La fuerza del chorro no basta para hacer que una persona pierda el paso, pero sí es suficiente para que el generador alcance la esquina del techo en una habitación estándar.\n\nLas nieblas ectoplásmicas ganan cierto grado de solidez. Ya no son simples volutas de humo: la niebla es ahora lo bastante sólida como para que a los vivos les parezca algodón de azúcar al tacto. Esto va acompañado de un volumen mayor, de 5 pies de radio por cada punto de Fuerza de Voluntad. Intentar abrirse paso a través de la espesa niebla semisólida requiere una tirada de Fuerza + Atletismo (dificultad 6). Ahora lo bastante espesa como para resultar casi opaca, la niebla también proporciona cobertura visual y aumenta en +3 la dificultad de ver y atacar a través de ella, de forma similar a una granada de humo pesada.\n\n<!-- image -->\n\nEl fluido y la niebla son útiles, pero el acceso a masa sólida y formas modeladas multiplica por diez las posibilidades creativas. El volumen no aumenta, pero ahora la producción del canalizador puede dar como resultado materia sólida con la consistencia de manteca espesa. Con una mayor estabilidad estructural, el ectoplasma puede mantener formas definidas, limitadas únicamente por la creatividad del generador. Estas creaciones tienen un número de puntos igual a la Fuerza de Voluntad del psíquico, para repartir entre Fuerza, Destreza y Resistencia. La creación tiene 3 niveles de Salud y no sufre penalizaciones por herida. Aunque no es capaz de realizar movimientos complejos, la creación sólida y efímera puede desplazarse por el espacio a 30 pies por asalto. Las creaciones están psíquicamente ligadas a su creador y no pueden abandonar su percepción física ni conservar el movimiento si lo hacen. Por último, todas las creaciones plásmicas dejan de estar limitadas por un tiempo máximo y duran mientras el generador se concentre.\n\n·····\n\nLas apariciones vaporosas, de cuerpo entero y flotantes, son la cúspide de la maestría del generador. Aún marionetas del creador, las formas modeladas ya pueden animarse plenamente conforme a sus formas complejas. Aunque no pueden engañar a nadie haciéndole creer que se trata del artículo genuino, las formas ya pueden imitar toscamente a personas y criaturas, e incluso emitir gemidos cuando escapan bolsas de aire del interior de la forma viscosa. Las formas siguen estando limitadas por el volumen generado en la tirada, y un ser ectoplásmico de tamaño adulto requiere tres éxitos para completarse. Las creaciones siguen las mismas reglas de reparto de Atributos detalladas anteriormente, pero tienen 6 niveles de Salud y no sufren penalizaciones por herida. Las marionetas ectoplásmicas pueden ser poseídas y controladas fácilmente por los fantasmas de la zona. El psíquico gasta 1 punto de Fuerza de Voluntad para ceder las riendas a un fantasma cercano y dispuesto. El fantasma obtiene entonces el control total del constructo ectoplásmico, usándolo como si fuera su propio cuerpo. Una vez que el\n\n····\n\npsíquico cede el cuerpo de este modo, este dura un número de asaltos igual a la puntuación de Fuerza de Voluntad del psíquico, tras lo cual el ectoplasma de la marioneta se disipa. Las demás manifestaciones que el psíquico haya creado no se ven afectadas y permanecen mientras el psíquico se concentre.",
+    "tags": [
+      "psíquico"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "generacion-ectoplasmica",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "escudos-mentales",
+    "type": "psychic-phenomenon",
+    "line": "mage",
+    "name_en": "Escudos Mentales",
+    "name_es": "Escudos Mentales",
+    "body_es": "Una mente es algo terrible de desperdiciar. Muchos psíquicos viven según este credo. Hay personas y cosas ahí fuera, en el mundo, que asaltan la mente directamente, pero algunos psíquicos están dotados de la capacidad de prepararse frente a esta posible amenaza. Levantar muros contra los ataques mentales, asegurarse de que los pensamientos sean demasiado caóticos como para poder controlarlos, o simplemente una fortaleza mental inherente, son todas ellas posibles fuentes de esta defensa.\n\nComo su nombre indica, los Escudos Mentales solo afectan a los poderes que actúan sobre la mente del psíquico. Los poderes que se originan en la mente de otro pero que afectan al mundo que rodea al psíquico protegido no se ven afectados. A un psicocinético no le cuesta más levantar y sostener en el aire a un psíquico con Escudos Mentales que a una persona normal.\n\nAl ser un Fenómeno Psíquico, los Escudos Mentales lo tienen más fácil frente a otros Fenómenos Psíquicos que frente a otras formas de asalto mental. Un vampiro que ejerce la Dominación accede a la mente de una manera distinta a como lo hace un psíquico con la Hipnosis Psíquica. Por desgracia, los Escudos Mentales solo tienen la mitad de efectividad contra ataques mentales procedentes de fuentes no psíquicas.\n\nCuando se enfrenta a un asalto o invasión mental, los Escudos Mentales del psíquico proporcionan una reserva de dados para contrarrestar el efecto. El objetivo tira estos dados (dificultad 6) y resta sus éxitos de los del atacante. Un defensor que obtenga más éxitos que el atacante interrumpe el asalto por completo, y el ataque falla. En el caso de los poderes que normalmente requieren una tirada de defensa, los dados de los Escudos Mentales se suman directamente a la tirada de defensa.\n\n- Las defensas son escasas, pero existen. El Psíquico recibe 2 dados para contrarrestar fenómenos de ataque mental y 1 dado para ataques mentales de otras fuentes. En este punto, los Escudos están siempre activos y no pueden distinguir entre efectos amistosos y hostiles. El psíquico puede bajar sus Escudos Mentales para permitir el acceso a un psíquico amistoso, pero esto lo deja expuesto a cualquier otra capacidad mental que se use antes de volver a levantarlos.\n- ·· Se construyen capas de caos mental o muros más gruesos de la mente. El psíquico recibe 4 dados para contrarrestar fenómenos de ataque mental y 2 dados para ataques mentales de otras fuentes.\n- ··· La mente del psíquico es un caos confuso o un búnker sólido para cualquier invasor. El psíquico recibe 6 dados para contrarrestar fenómenos de ataque mental y 3 dados para ataques mentales de otras fuentes. En este nivel se hace evidente la capacidad de modular los propios Escudos Mentales. Siempre que se presente una capacidad mental que intente interactuar con la mente del psíquico protegido, el objetivo puede decidir si la deja pasar a través de sus escudos o no. Nótese que esto no identifica cada capacidad usada, sino simplemente que se está intentando acceder a la mente del psíquico. Depende del razonamiento deductivo del objetivo averiguar quién se encuentra ante sus puertas mentales.\n- ···· Un baluarte mental o un desconcertante fangal de pensamientos dispersos recibe a los intrusos. El psíquico recibe 8 dados para contrarrestar fenómenos de ataque mental y 4 dados para ataques mentales de otras fuentes.\n- ····· La fortaleza mental del psíquico se alza impenetrable, o su laberinto infinito resulta imposible de recorrer. El Psíquico recibe 10 dados para contrarrestar fenómenos de ataque mental y 5 dados para ataques mentales de otras fuentes.",
+    "tags": [
+      "psíquico"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "escudos-mentales",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "precognicion",
+    "type": "psychic-phenomenon",
+    "line": "mage",
+    "name_en": "Precognición",
+    "name_es": "Precognición",
+    "body_es": "El psíquico experimenta pistas sobre el futuro. El futuro no está fijado y puede cambiar según las decisiones que tome la gente. Cuantas más decisiones se requieran para un resultado, menor será la precisión de la predicción. Ningún vidente ha demostrado ser fiable al cien por cien, salvo la mítica Cassandra.\n\nLa Precognición permite a un psíquico juzgar las probabilidades de un resultado con una precisión sobrehumana. Los psíquicos de mentalidad científica racionalizan la precognición como manifestaciones conscientes del análisis subconsciente de la percepción. Los psíquicos de inclinación mística entienden la precognición como una especie de sexto sentido sin explicación científica.\n\nAunque un psíquico puede activar la precognición, un Narrador puede solicitar la activación por motivos argumentales, en cuyo caso no se gasta Fuerza de Voluntad para esa activación.\n\n- Intuición: El vidente adquiere un don especial para acertar. En el caso de sucesos puramente aleatorios (loterías, tiradas de dados), las predicciones pueden ser bastante precisas. El psíquico puede saber intuitivamente cuál es la ruta más corta hacia un destino determinado y disfruta de una mayor probabilidad de encuentros fortuitos beneficiosos. El psíquico no experimenta visiones; simplemente 'tiene una corazonada' y acierta muy bien. Incluso con cinco o más éxitos, es poco probable que las predicciones sean del todo exactas.\n\n- ·· Perspicacia: El psíquico experimenta visiones oníricas tanto durante el sueño como en vigilia. Como los sueños, rara vez son literales. En su lugar, las visiones están impregnadas de metáfora. Un enemigo podría aparecer como un feroz dragón o como figuras con túnicas clandestinas, mientras que un mentor querido podría aparecer como un progenitor fallecido hace tiempo. Las imágenes dependen del paradigma del vidente, y aunque más éxitos ofrecen visiones más detalladas, estas siempre están sujetas a interpretación.\n- ··· Sentido del Peligro: La conexión del vidente con el futuro se convierte en un sistema de alerta temprana. El psíquico lo percibe como cualquier cosa, desde un agudo dolor de cabeza en las sienes hasta calambres o una sensación creciente de pavor. Sea cual sea la manifestación, siempre es la misma para el vidente. Este poder está siempre 'activado', aunque puede verse anulado por ciertos efectos de Esfera o por el Fenómeno Antipsíquico. Cuando algo pasa desapercibido y ataca al psíquico, el Narrador tira la activación del Sentido del Peligro antes de tirar la emboscada. Este poder no le cuesta Fuerza de Voluntad al psíquico para activarse.\n- ···· Claridad: El vidente disfruta de una visión casi perfecta del futuro inmediato. Por cada éxito de activación, los jugadores y el Narrador anuncian sus planes generales de futuro para un asalto. Si el psíquico interfiere con el tiempo, por ejemplo moviéndose tras una cobertura para frustrar un ataque, el futuro cambia, y el psíquico debe reactivar este poder para obtener actualizaciones.\n- ····· Caminos del Tiempo: Un psíquico ve más que solo los resultados más probables y sus probabilidades relativas. Como Perspicacia, pero el psíquico ve el tiempo como caminos divergentes que se ramifican en cada decisión. El vidente identifica puntos de decisión que, de otro modo, parecerían inocuos, antes de que se tomen las decisiones. Esto también permite a un psíquico ver qué sucesos futuros son difíciles de cambiar y cuáles son más maleables.\n\n| Successes   | Effect                                                                                                                                                                                                                                                                                                                                            |\n|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Fracaso     | El vidente se pone sin darse cuenta en un peligro mayor y pierde su tirada para detectar la emboscada.                                                                                                                                                                                                                                            |\n| Fallo       | El psíquico no obtiene ninguna intuición sobre la situación.                                                                                                                                                                                                                                                                                       |\n| 1           | El vidente percibe que está en peligro, pero no obtiene detalles concretos. Obtiene 1 dado de bonificación para detectar una emboscada.                                                                                                                                                                                                            |\n| 2           | El vidente percibe que está en peligro y recibe una instrucción sencilla sobre cómo evitarlo, como 'agáchate' o 'corre'. El psíquico obtiene 2 dados de bonificación para detectar la emboscada, y esquiva con normalidad si el atacante permanece oculto.                                                                                       |\n| 3           | El vidente sabe que está en peligro, cómo evitarlo, y la dirección de la amenaza. El atacante no tira su emboscada y el ataque se resuelve con normalidad.                                                                                                                                                                                        |\n| 4           | El vidente conoce los detalles del ataque y recibe un asalto de aviso. El psíquico gana un asalto para prepararse antes de que ocurra el peligro.                                                                                                                                                                                                 |\n| 5           | El vidente recibe un asalto de aviso y una visión de los responsables. El psíquico podrá identificar a la persona a simple vista y/o mediante intuición psíquica si más adelante la ve o se encuentra en su presencia. La impronta psíquica también funciona con grabaciones y creaciones, como pinturas o cartas, hechas por el atacante.        |\n\n| Successes   | Time Range                    |\n|-------------|-------------------------------|\n| 1           | 12 horas                      |\n| 2           | 24 horas                      |\n| 3           | 1 semana                      |\n| 4           | 1 mes                         |\n| 5           | 1 año                         |\n| 6+          | 1 año adicional por cada éxito |\n\nProporcionar información sobre el futuro lejano puede resultar difícil para el Narrador. En su lugar, el Narrador puede conceder una repetición de tirada por cada éxito de precognición para la trama. Esto representa la capacidad del psíquico para sopesar las probabilidades relativas del futuro. Un psíquico puede usar tantas de estas repeticiones como desee en una sola acción.",
+    "tags": [
+      "psíquico"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "precognicion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "curacion-psiquica",
+    "type": "psychic-phenomenon",
+    "line": "mage",
+    "name_en": "Curación Psíquica",
+    "name_es": "Curación Psíquica",
+    "body_es": "Muchas culturas tienen leyendas de personas bendecidas con el poder de curar con poco más que un toque. Es probable que algunas de ellas fueran sanadores psíquicos. Canalizando su voluntad y su energía, un psíquico puede obrar milagros. Muchos con este don optan por ser discretos al respecto: la fama y la presión por obrar milagros pueden resultar abrumadoras, y los enemigos que un sanador psíquico puede hacerse dentro del gremio médico son perjudiciales. Ejercer la medicina sin licencia, incluso en zonas con poco acceso a la atención sanitaria, sigue siendo ilegal.\n\nAunque no es un requisito, muchos con este don poseen un gran conocimiento médico, a menudo adquirido de manera informal. Casi todos los sanadores psíquicos tienen una empatía elevada, de la que algunos sospechan que procede el propio don.\n\nLos fracasos al practicar la medicina de cualquier tipo son devastadores, pero un sanador psíquico podría transferirse a sí mismo la herida o la enfermedad. Otras posibilidades incluyen curar una herida de forma grotesca, o desviar las energías curativas, provocando respuestas autoinmunes o cancerosas.\n\n- Diagnóstico: El sanador diagnostica al instante enfermedades o lesiones mediante la vista o el contacto con la piel. La terminología del diagnóstico depende del conocimiento médico del psíquico; uno con poco conocimiento podría describir el lupus como 'el cuerpo luchando contra sí mismo'. Un psíquico puede usar los éxitos de Diagnóstico en una tirada complementaria (véase Mage 20 p. 389) para tiradas de Medicina. Si se trabaja en equipo, el psíquico puede aportar éxitos a la tirada del profesional médico hasta el valor del psíquico en Medicina.\n- ·· Sueño Restaurador: Con un toque, el sanador enfoca las energías del cuerpo del paciente hacia la curación. Se trata una activación exitosa como un tratamiento médico experto para el daño contundente y letal, y como una estabilización mágica para el daño agravado. El contacto debe durar al menos un minuto, tras el cual el paciente cae en un sueño profundo. Con 3 o más éxitos, el paciente también recupera un punto de Fuerza de Voluntad.\n- ··· Atención Urgente: La capacidad curativa del psíquico ahora facilita la rápida resolución de lesiones leves y venenos. Un psíquico toca al paciente y puede curar hasta sus éxitos de activación en daño contundente, a un ritmo de uno por asalto. Cada dos éxitos pueden reducir en uno el Índice de Toxina de un veneno, droga o enfermedad, hasta un máximo de 3 niveles de reducción.\n- ···· Cuidados Intensivos: El sanador ya puede curar a los heridos de gravedad. El psíquico cura hasta 1 punto de daño letal por éxito de activación, y puede reducir el Índice de Toxina de venenos, drogas y enfermedades en un nivel por éxito. Cada nivel curado tarda 10 minutos, durante los cuales el psíquico debe mantener el contacto físico con el paciente. El proceso resulta claramente sobrenatural para cualquier testigo, ya que las heridas se cierran milagrosamente por sí solas y las sustancias nocivas rezuman a través de la piel del objetivo.\n- ····· Cirugía Psíquica: El psíquico ya puede curar heridas graves, cánceres e infecciones. El psíquico cura hasta 1 punto de daño agravado por éxito. Cada nivel curado tarda 10 minutos, durante los cuales\n\nel psíquico cierra los ojos y gesticula como si estuviera hurgando en la carne. Los sanadores también pueden usar esta capacidad para hacer daño, hurgando en una víctima y extrayendo físicamente tejido sano —un proceso horrible y sangriento—. Fuera del combate, el psíquico puede usar este poder para infligir daño agravado a un objetivo inmovilizado. Al igual que con la curación, esta aplicación del poder tarda 10 minutos por nivel de Salud. Cada éxito en la tirada de activación provoca un nivel de Salud de daño agravado no absorbible. Este uso de la curación psíquica es sádico y se considera tortura, pero en combate no hay tiempo suficiente para usar este poder en toda su extensión. La Cirugía Psíquica solo puede usarse en combate para causar dolor: inflige penalizaciones por herida como si el psíquico hubiera herido al objetivo, pero no causa daño. La víctima puede gastar puntos de Fuerza de Voluntad iguales a los éxitos de activación del psíquico para 'curar' el daño.",
+    "tags": [
+      "psíquico"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "curacion-psiquica",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "hipnosis-psiquica",
+    "type": "psychic-phenomenon",
+    "line": "mage",
+    "name_en": "Hipnosis Psíquica",
+    "name_es": "Hipnosis Psíquica",
+    "body_es": "Aunque la hipnosis moderna es una forma de terapia que cualquiera podría aprender, algunos psíquicos tienen un don natural para ella, con efectos que van mucho más allá de la variante entrenada. Con el aumento de popularidad y las investigaciones recientes sobre la hipnoterapia, los hipnotizadores psíquicos pueden practicar su don abiertamente sin demasiado temor a atraer la atención equivocada.\n\nLa Hipnosis Psíquica no es tan rápida como las disciplinas vampíricas ni tan versátil como la Esfera de Mente. Aun así, un hipnotizador especialmente dotado puede lograr muchos efectos similares.\n\n- Estado de Trance: El hipnotizador sume a un objetivo dispuesto en un tranquilo estado de trance, aunque no puede darle órdenes. En este estado, el objetivo puede recordar sucesos y detalles con más claridad, y obtiene una reducción de la dificultad, igual a los éxitos de activación, en cualquier tirada relacionada con el recuerdo de memoria, hasta una dificultad mínima de 2. El objetivo también recupera un punto de Fuerza de Voluntad por cada éxito de activación, aunque no puede beneficiarse de nuevo de esta función hasta que haya descansado con normalidad. Se necesitan cinco asaltos para sumir al objetivo en el trance, y este se rompe si alguien lo molesta. El hipnotizador también puede sumirse a sí mismo en un trance.\n- ·· Sugestión: El hipnotizador ordena a un objetivo que realice acciones después de sumirlo en un trance. El psíquico puede dar una orden por éxito, y la orden no puede resultar obviamente\n\nen la muerte del objetivo ni ir en contra de su Naturaleza. El psíquico puede obligar al objetivo a ignorar las respuestas al dolor y a olvidar las órdenes dadas durante el trance, como órdenes adicionales, si el psíquico gasta éxitos para ello. Solo el psíquico decide cuándo sale el objetivo del trance. El objetivo ignora las órdenes incompatibles en lugar de romper el trance.\n\n- ··· Sugestión Implantada: Un psíquico implanta sugestiones que se activarán fuera del trance. Por cada éxito, el psíquico puede implantar una orden o una condición para activar una orden implantada. Esta condición puede ser un disparador temporal o sensorial. Una de las órdenes puede ser entrar automáticamente en trance bajo una circunstancia especificada. Como con la Sugestión, el intento falla automáticamente si resultaría obviamente en la muerte del objetivo o entra en conflicto con su Naturaleza. Las órdenes no son recurrentes a menos que el hipnotizador gaste un éxito adicional para añadir una condición recurrente.\n- ···· Trance Instantáneo: El psíquico sume instantáneamente en trance a sujetos dispuestos, y puede gastar un punto de Fuerza de Voluntad para sumir en trance a un sujeto reacio, aunque este puede tirar Fuerza de Voluntad (dificultad 7) para resistirse, y cada éxito anula uno de los éxitos de activación del psíquico. El número neto de éxitos de activación determina el número de asaltos que el objetivo permanece en trance. El psíquico puede tirar para activar poderes adicionales a partir de su siguiente turno.\n- ····· Agente Durmiente: El psíquico realiza niveles avanzados de lavado de cerebro y condicionamiento, del tipo que reclaman los gobiernos. El psíquico implanta órdenes para que el objetivo haga cualquier cosa, incluso hasta el punto de la muerte, y el objetivo no recuerda conscientemente nada de lo dicho durante el trance. Este poder tarda 10 minutos en sumir al sujeto en trance, algo que no puede acortarse con el Trance Instantáneo. El objetivo debe oír claramente la voz del psíquico. Los sonidos y distracciones adicionales hacen imposible el uso de este poder, por lo que los psíquicos con esta capacidad suelen designar salas especiales para este fin. El psíquico gasta un punto de Fuerza de Voluntad para usar este poder en un sujeto reacio. Cada éxito de activación permite implantar una orden, y cada orden o condición tarda una hora en implantarse.",
+    "tags": [
+      "psíquico"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "hipnosis-psiquica",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "invisibilidad-psiquica",
+    "type": "psychic-phenomenon",
+    "line": "mage",
+    "name_en": "Invisibilidad Psíquica",
+    "name_es": "Invisibilidad Psíquica",
+    "body_es": "La Invisibilidad Psíquica no es una invisibilidad real. Este Fenómeno es como la Hipnosis Psíquica a mayor escala, pero con un alcance limitado. El psíquico engaña a las mentes de los demás para que simplemente pasen por alto al psíquico, como si proyectara la orden 'no te fijes en mí'. El psíquico aparece con normalidad en las grabaciones, pero quienes observan una transmisión en directo no se percatan de él. En su lugar, su atención se desvía hacia otros detalles de la grabación. Esta capacidad no impide activar alarmas electrónicas o mecánicas que no requieren intervención humana para dispararse, como las alarmas de movimiento.\n\nLos animales no pueden ser engañados con este Fenómeno a menos que el psíquico también posea Psiquismo Animal; sus mentes son demasiado distintas de las de los humanos y las criaturas humanoides. Si un psíquico bloquea una puerta o un objeto que alguien espera ver, la persona afectada tampoco se percatará de la puerta o el objeto. Si un ser con percepción potenciada busca al psíquico, o cualquier otra cosa oculta de forma sobrenatural en general, puede intentar una tirada enfrentada para determinar si logra atravesar la ilusión del psíquico, contraponiendo su reserva de dados adecuada a los éxitos de activación del psíquico.\n\nLos éxitos de activación determinan la fuerza del efecto del Fenómeno. Con un éxito, el psíquico sigue siendo percibido, pero resulta difícil centrar la atención en él y no puede ser identificado. Esto también añade +1 a la dificultad de las tiradas de ataque dirigidas contra el psíquico mientras esté activo. Tres o más éxitos mantienen al psíquico completamente oculto, a menos que se le contradiga con éxito en una tirada enfrentada. Los Escudos Mentales y algunos efectos de la Esfera de Mente pueden proteger frente a este Fenómeno.\n\n- Flor de Pared: Mientras el psíquico permanezca completamente quieto y en silencio, pasa desapercibido. Sin embargo, el psíquico no necesita contener la respiración; solo una respiración pesada o ruidosa rompe el efecto.\n- ·· Deslizarse: El psíquico se mueve mientras es invisible, pero no puede interactuar de forma significativa con el mundo. El poder se rompe si el psíquico hace algo para llamar la atención sobre sí mismo o interactúa con el mundo, como escribir en una pizarra o abrir una puerta. Un psíquico puede realizar una tirada de Astucia + Sigilo a dificultad 7 o superior para evitar romper accidentalmente su poder en condiciones desfavorables, como un suelo de bosque cubierto de ramitas o una sala con una alarma de movimiento.\n- ··· Invisibilidad: El psíquico ya puede realizar cualquier acción mientras es invisible, incluso si esas acciones normalmente llamarían la atención sobre el psíquico. Los seres",
+    "tags": [
+      "psíquico"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "invisibilidad-psiquica",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "vampirismo-psiquico",
+    "type": "psychic-phenomenon",
+    "line": "mage",
+    "name_en": "Vampirismo Psíquico",
+    "name_es": "Vampirismo Psíquico",
+    "body_es": "Todo el mundo conoce a esa persona con la que no se puede estar mucho tiempo sin sentirse drenado emocional y espiritualmente. Un vampiro psíquico puede ser cualquiera, desde un funcionario de tráfico hasta un profesor monótono, pasando por ese compañero de trabajo demasiado entusiasta que no calla en una reunión que bien podría haber sido un correo electrónico, o algo mucho más siniestro. Para un vampiro psíquico, la energía y las emociones que drena de sus víctimas incautas le proporcionan un subidón eufórico como ningún otro, además de otros efectos beneficiosos. Como ocurre con muchas drogas, la sensación puede volverse adictiva.\n\nNo está claro si el poder se desarrolla en quienes ya son propensos a usar a otros como recursos, o si los efectos del poder, una vez desarrollado, cambian enormemente a las personas. En cualquier caso, este Fenómeno Psíquico puede sacar lo peor de las personas. Como dato de interés para quienes estudian lo sobrenatural, los vampiros psíquicos a menudo tienen o desarrollan muchas de las mismas idiosincrasias psicológicas a las que son propensos los vampiros.\n\n- Absorber Energía: El vampiro se alimenta de las emociones intensas de los demás, tanto positivas como negativas. El vampiro percibe cuáles son esas emociones mientras se alimenta, y puede usar este poder para calibrar las emociones de una persona a lo largo del tiempo. Solo se requiere un éxito para saborear el matizado paladar de las emociones de una persona y proporcionar al vampiro un agradable subidón. Con tres éxitos, el vampiro recupera un punto de Fuerza de Voluntad perdido, y recupera un punto adicional por cada éxito más allá del tercero. El vampiro debe estar a menos de 10 yardas de la víctima y ser capaz de percibirla. La víctima queda perturbada, y sus emociones quedan amortiguadas —aunque no ausentes— hasta el final de la escena.\n- ·· Vigorizar: El psíquico drena las energías vitales de una víctima para fortalecerse a sí mismo. Cada éxito drena un punto temporal de Fuerza de Voluntad de la víctima y lo añade a la reserva del vampiro, hasta un máximo total de 10. Cada punto de Fuerza de Voluntad por encima del máximo normal del vampiro produce un subidón eufórico y se desvanece a razón de un punto por hora. El alcance es de 15 yardas, y el vampiro debe percibir a la víctima para dirigir este poder contra ella.\n- ··· Sanguijuela Vital: Este poder extremadamente peligroso permite a un vampiro usar la fuerza vital de otro para curarse a sí mismo y experimentar un subidón indescriptible. El psíquico debe tocar a la víctima durante un asalto por cada nivel de Salud de daño curado, hasta un máximo igual a los éxitos de activación. El daño contundente se cura primero, después el letal, y el agravado se rebaja a letal. Cada éxito sobrante\n\n····\n\n·····\n\nque no resulte en curación restaura 2 puntos de Fuerza de Voluntad al psíquico, como Vigorizar. Cada éxito utilizado inflige un punto de daño letal a la víctima. Si el contacto se interrumpe antes de terminar, el psíquico no se cura y debe realizar otro intento.\n\nFestín de Esencia: El psíquico no está limitado a una sola víctima a la vez. El psíquico tira su activación para determinar el número máximo de objetivos simultáneos, ganando un objetivo adicional por éxito. Todos los objetivos deben estar a menos de 40 yardas del vampiro, aunque el vampiro no necesita ser capaz de percibirlos a todos. Si tiene éxito, el psíquico puede activar en el mismo asalto cualquier poder de nivel inferior, usando los costes normales y la tirada de activación asociados a dicho poder. El psíquico queda aturdido durante el siguiente asalto: la afluencia de múltiples perfiles de sabor a la vez resulta tan abrumadora como eufórica para el psíquico. Un fracaso puede provocar un 'mal viaje', como si el psíquico hubiera ingerido alucinógenos, y dejarlo aturdido durante el resto de la escena.\n\nDrenaje a Distancia: El dominio del vampiro sobre la extracción de energías vitales le permite volver a drenar a una víctima anterior a distancia. El vampiro debe haber usado previamente sobre la víctima o bien Telepatía, o bien otro poder de Vampirismo Psíquico. Los éxitos de activación especifican el alcance máximo al que el vampiro puede usar un poder de nivel inferior sobre la víctima.\n\n| Successes   | Range                                                      |\n|-------------|--------------------------------------------------------------|\n| Fracaso     | No puede usar el Vampirismo Psíquico sobre este objetivo durante un mes |\n| Fallo       | No ocurre nada                                            |\n| 1           | 500 yardas                                                  |\n| 2           | 1 milla                                                     |\n| 3           | 2 millas                                                    |\n| 4           | 5 millas                                                    |\n| 5           | 10 millas                                                   |\n| 6+          | +10 millas por cada éxito por encima de 5                        |",
+    "tags": [
+      "psíquico"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "vampirismo-psiquico",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "psicometria",
+    "type": "psychic-phenomenon",
+    "line": "mage",
+    "name_en": "Psicometría",
+    "name_es": "Psicometría",
+    "body_es": "La Psicometría es uno de los Fenómenos más agotadores emocionalmente para los psíquicos dotados —o maldecidos— con ella. Al tocar objetos, el psíquico puede leer las resonancias emocionales que han dejado y ver visiones asociadas al objeto. No siempre está claro qué objetos tienen resonancias fuertes: una taza de café de oficina podría tener solo impresiones fugaces. Sin embargo, también podría ser un regalo entrañable de un hijo, o incluso la taza que una trabajadora tenía en la mano cuando se enteró de la muerte de un ser querido.\n\nLeer las resonancias solo lleva unos segundos, aunque la visión parezca durar mucho más desde la perspectiva del psíquico. El número de éxitos de activación determina el nivel de detalle que recibe el psíquico. Muchos éxitos proporcionan impresiones claras y vívidas, que tienden a hacer que el psíquico sienta las emociones y el dolor durante un tiempo, mientras que menos éxitos solo dan impresiones fugaces. En un fracaso, el psíquico se pierde en las visiones, fusionando temporalmente su personalidad con la de uno de los individuos del suceso, y posiblemente actuando conforme a ella. Cuando un psíquico con Psicometría toca un objeto con una resonancia emocional inmensa, el Narrador puede solicitar una tirada refleja de Psicometría.\n\n- Impresión: El psíquico puede obtener impresiones oníricas de sucesos recientes relacionados con el objeto",
+    "tags": [
+      "psíquico"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "psicometria",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "psicoportacion",
+    "type": "psychic-phenomenon",
+    "line": "mage",
+    "name_en": "Psicoportación",
+    "name_es": "Psicoportación",
+    "body_es": "La Psicoportación, a veces también llamada teletransporte, es una poderosa capacidad psíquica para encontrarse de repente en otro lugar. Este es uno de los fenómenos psíquicos más poderosos y raros. En más de una ocasión, algún mago de mente estrecha de la Esfera de Correspondencia ha sido puesto en su sitio al ver a un simple psíquico psicoportarse fuera de peligro sin ganarse la ira de la Realidad.\n\nNadie sabe con certeza cómo funciona la psicoportación, pero algunas teorías incluyen disiparse en el aire y reformarse en otro lugar, una variante del viaje astral, o agujeros de gusano personales. Lo que sí se sabe es que un psíquico no puede transportar más de unas 100 libras de carga adicional sin sufrir una tensión severa, lo cual le causa un mínimo de 6 niveles de daño contundente que puede absorberse con normalidad. Esto aumenta en 1 nivel de daño contundente por cada 25 libras adicionales que el psíquico intente mover. Si no logra absorber el daño, la carga sufre un destino desastroso, como ser psicoportada al lugar equivocado, dentro de un objeto sólido, o a la masa de agua más cercana. En raras ocasiones, la carga parece dejar de existir por completo. Para viajar a un lugar mediante la psicoportación, el psíquico debe ver el destino previsto con sentidos mundanos o con capacidades psíquicas, ya sean propias o ajenas.\n\nUn fracaso en la psicoportación normalmente significa que el psíquico calculó mal el salto y aterrizó dentro de un objeto sólido, o peor aún, dentro de una persona. Esto causa 8 dados de daño agravado tanto al psíquico como al objeto desprevenido. En ocasiones, un fracaso podría transportar al psíquico a un lugar peligroso o desconocido, o el psíquico podría dejar atrás, o traer sin querer, algo que no debía.\n\n- Salto Corto: Alcance de hasta 12 + Inteligencia yardas por asalto.\n- ·· Salto Simple: Alcance de hasta 20 + (3 x Inteligencia) yardas.\n- ··· Salto Largo: Alcance de hasta 40 + (6 x Inteligencia) yardas. El psíquico puede dedicar un asalto a concentrarse y tirar la activación con +1 a la dificultad para duplicar este alcance.\n- ···· Salto: Alcance de hasta 80 + (12 x Inteligencia) yardas. El psíquico puede duplicarlo, igual que con el Salto Largo.\n- ····· Salto de Fe: El psíquico ya no necesita percibir una ubicación estable para psicoportarse hasta ella. El psíquico puede dedicar una escena a estudiar la ubicación, y realizar con éxito una tirada de Percepción + Alerta a dificultad 8 para memorizarla.",
+    "tags": [
+      "psíquico"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "psicoportacion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "sombra",
+    "type": "psychic-phenomenon",
+    "line": "mage",
+    "name_en": "Sombra",
+    "name_es": "Sombra",
+    "body_es": "Vivimos en un mundo de luz y sombra. El psíquico que comprende esto y aprende a manipular una de las caras de esa moneda está aprovechando un recurso siempre presente. Ya sea bajo un saliente, detrás de una pila de cajas, o simplemente en las grietas y hendiduras del propio rostro, el psíquico que manipula las sombras puede usarlas para ocultar y confundir.\n\nAbundan las teorías supersticiosas sobre lo que en realidad hace el psíquico que ejerce la Sombra. El simple hecho es que está manipulando la luz —y el sonido, en menor medida— para amortiguar el mundo que lo rodea. Puede parecer que el psíquico de Sombra maneja la oscuridad, pero todo se reduce a simple ciencia. La oscuridad se vuelve más oscura y el sonido se amortigua a medida que la pura voluntad del psíquico sofoca las formas de onda activas del entorno. El ambiente y la reputación inquietantes son solo un extra.\n\nAdemás de poder ocultar, el uso adecuado de este Fenómeno puede proporcionar distracciones considerables. La luz y el sonido son interceptados antes de que puedan alcanzar los sentidos del objetivo, dando a la víctima la sensación de que su cabeza está envuelta en una manta invisible. A medida que aumenta el poder del psíquico, esto resulta cada vez más angustioso, ya que el cerebro puede interpretar esta pérdida de sentidos como una asfixia inminente. Aunque algunos lo consideren cruel, puede ser una herramienta especialmente útil para quitarse a alguien de encima.\n\n- Difuminar los bordes de las sombras proyectadas y perturbar el sonido solo basta para aumentar la eficacia del ocultamiento y la desmoralización. Las sombras se vuelven ligeramente más largas, se extienden algo más, mientras que todos los sonidos quedan inquietantemente amortiguados. Todas las tiradas de Intimidación y Sigilo tienen su dificultad ajustada en -1. Los objetivos distraídos por las sombras que se oscurecen y los sonidos amortiguados sufren +1 a la dificultad en todas las tiradas que dependan de la vista y el oído.\n- ·· Las sombras ahora crecen y se doblegan a la voluntad del psíquico. Los sonidos ahora se distorsionan y confunden, con la calidad de sonar a través de un altavoz reventado. El psíquico encarna el dicho de 'oscurecer el umbral', ya que las salas pierden luz cuando llega. Las tiradas de Intimidación y Sigilo se realizan a -2 de dificultad.\n- ··· Las sombras no solo se oscurecen más, sino que ahora los esfuerzos del psíquico hacen que las fuentes de luz pierdan potencia. El sonido viaja por la sala en trémolos erráticos, y las palabras que resultan inteligibles llegan con un retraso perceptible respecto a quien habla. Los intentos de ver al psíquico oculto sufren +3 a la dificultad. Los angustiados empiezan a sentir una ansiedad creciente y deben realizar una tirada de Fuerza de Voluntad (dificultad 7) para evitar el pánico, sufriendo una penalización de -1 a todas las acciones que no impliquen abandonar la escena si fallan.\n- ···· Extendiendo su don de refugio oscuro, el psíquico ya puede ocultar a un pequeño grupo de tres o cuatro personas, e incluso un pequeño turismo o sedán.\n\nLas víctimas de este acoso sombrío deben realizar una tirada de Fuerza de Voluntad (dificultad 8) para evitar entrar en pánico y abandonar de inmediato la escena para escapar de la oscuridad. La Intimidación y el Sigilo tienen una dificultad de -4 en condiciones propicias para su explotación. Un almacén ya oscuro, un bosque sombrío de noche, o un aparcamiento mal iluminado, todos ellos piden a gritos que sus sombras profundas sean intensificadas por el psíquico. Esta cantidad de manipulación de sombras tiene un efecto inverso en entornos más luminosos, como el mediodía en un aparcamiento al aire libre o de pie en el campo deportivo de un colegio con todas las luces encendidas. La oscuridad alrededor del psíquico atrae más atención al mediodía luminoso de la que desvía.\n\n- ····· En entornos donde la oscuridad ya habita, el psíquico es el amo. Situarse en un lugar donde las condiciones favorezcan las sombras da al psíquico la oportunidad de sofocar toda la luz a su alrededor hasta 50 pies. La oscuridad es casi impenetrable para quienes no tienen visión mística, ya que incluso las linternas de alta potencia son engullidas por la negrura tintada. Todo lo que se encuentra dentro queda completamente envuelto e invisible tanto para el exterior como para los demás en el interior, salvo para el psíquico. Al fin y al cabo, la oscuridad es suya.",
+    "tags": [
+      "psíquico"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "sombra",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "synergy",
+    "type": "psychic-phenomenon",
+    "line": "mage",
+    "name_en": "Sinergia",
+    "name_es": "Sinergia",
+    "body_es": "Se trata de una capacidad sutil: los psíquicos sinérgicos a menudo no saben que tienen ningún talento psíquico hasta que conocen a otros psíquicos; es inusual, pero no inaudito, que desarrollen otros Fenómenos Psíquicos. Este fenómeno se considera raro, pero la naturaleza sutil del poder puede ocultar el verdadero número de sinergistas que hay en el mundo. La Sinergia permite a los psíquicos trabajar juntos para construir efectos más poderosos de los que cualquiera de los dos psíquicos podría crear por su cuenta.\n\nLos psíquicos deben estar en contacto físico para formar un vínculo sinérgico. El sinergista puede vincular a un número de psíquicos igual al doble de los puntos que posea en Sinergia. Cada éxito por encima del primero añade éxitos automáticos que pueden emplearse en acciones que los psíquicos vinculados realicen usando Fenómenos. Los fracasos pueden causar contragolpes para todos los implicados, siendo el mejor de los casos un dolor de cabeza o una hemorragia nasal, mientras que el peor caso puede hacer que los fenómenos psíquicos de quienes forman parte del vínculo se activen sin control.\n\n- Semejante Reconoce a Semejante: El sinergista puede percibir a otros psíquicos. Esto tiene éxito automáticamente si el psíquico toca a otro, pero el sinergista puede tirar la activación para rastrear psíquicos dentro de su línea de visión. Con 3 o más éxitos, el sinergista puede percibir el poder relativo de los demás psíquicos.\n\n- ·· Compartir Voluntad: El sinergista forma un vínculo psíquico débil para potenciar el poder de los participantes. Cada psíquico puede gastar un punto de Fuerza de Voluntad para conceder un éxito automático al efecto de otro, o permitir que el psíquico 'tome prestada' la Fuerza de Voluntad y añada temporalmente el punto a su reserva, hasta un máximo de 10. Si la Fuerza de Voluntad no se gasta, puede intercambiarse varias veces entre los psíquicos del vínculo. Cualquier Fenómeno sensorial (Telepatía, Precognición, etc.) permite a todos los psíquicos del vínculo compartir los resultados.\n- ··· Compartir Poderes: El sinergista forma un vínculo más fuerte, permitiendo que todos los psíquicos usen sus poderes como grupo. Cada psíquico puede aportar hasta dos poderes, puntos de Fuerza de Voluntad, o uno de cada. Solo se necesita una tirada de activación para los poderes de grupo.\n- ···· Gestalt de Poder: Como Compartir Poderes, pero ahora los psíquicos del vínculo pueden combinar los efectos de sus capacidades para formar un único poder compartido. Por ejemplo, el grupo podría combinar el Psiquismo Animal y la Invisibilidad Psíquica para poder colarse ante perros guardianes sin ser detectados.\n- ····· Red de Poder: El sinergista puede vincular a otros psíquicos y eliminar la necesidad de que estos se toquen, o incluso de que estén en el mismo lugar. Un psíquico con este nivel de Sinergia primero vincula a todos como en las capacidades inferiores, dedicando 10 minutos a una concentración y meditación conjuntas para consolidar los lazos. Una vez formado el vínculo, los psíquicos conectados en red permanecen vinculados y pueden usar cualquiera de las capacidades inferiores durante un número de horas igual a los éxitos de activación. Este vínculo no se debilita con la distancia, pero si un psíquico del vínculo sufre daño igual o superior a su Resistencia procedente de una sola fuente, todos los psíquicos de la red deben realizar una tirada de Fuerza de Voluntad a dificultad 7 o ser expulsados de la red. Si el psíquico que formó la red es expulsado, dejado inconsciente, o asesinado, la red se colapsa automáticamente.",
+    "tags": [
+      "psíquico"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "sinergia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "telepatia",
+    "type": "psychic-phenomenon",
+    "line": "mage",
+    "name_en": "Telepatía",
+    "name_es": "Telepatía",
+    "body_es": "Se dice que hay dos tipos de personas en el mundo: las que desearían poder leer mentes y las mentirosas. Esa afirmación, en sí misma, es una mentira. Y lo es porque en el mundo hay personas que realmente pueden leer mentes, conocidas como telépatas. Una vez que perciben la mente de un objetivo, estos psíquicos pueden sondear sus pensamientos en busca de opiniones, deseos, fantasías y emociones.\n\nA medida que mejoran su habilidad y su poder, el telépata puede aprender a transmitir sus pensamientos a otros. Comunicarse de esta manera puede resultar, en el mejor de los casos, inquietante para quien no está preparado, y potencialmente traumático. Los telépatas compasivos se toman su tiempo para informar a aquellos con quienes pretenden comunicarse telepáticamente de lo que se avecina, para evitar posibles gritos y una confusión incoherente causados por una invasión mental no anunciada.\n\nQuienes han dominado su talento van un paso más allá y hacen que esas transmisiones parezcan pensamientos originales, implantando ideas en las mentes de sus objetivos. Esto no es ningún tipo de control mental o hipnosis, como podría pensarse. En esencia, esta capacidad se asemeja más a la ventriloquía: una forma de ventriloquía esencialmente equivalente a una manipulación psicológica psíquica, y un acto muy peligroso e inmoral, pero ventriloquía al fin y al cabo. El telépata imita el diálogo interno del objetivo y hace sugerencias como si el pensamiento procediera de la propia mente del sujeto. Los usos de este talento van desde el pensamiento relativamente inocuo de 'podría comerme algo' hasta proyecciones mucho más siniestras. Leer los pensamientos del objetivo, y luego imitar y repetir sus impulsos más oscuros hasta la exigencia, no es más que un ejemplo inquietante del potencial de abuso telepático.\n\n- Todos los telépatas comienzan percibiendo los pensamientos y emociones superficiales de un sujeto. Las emociones incluyen el estado de ánimo actual, el deseo inmediato y el bienestar mental. Los pensamientos superficiales son canciones que se les quedan grabadas en la cabeza, el recuerdo activo de cosas como una lista de la compra o un código que están tecleando, o lo que creen que era ese olor que acaban de percibir.\n- ·· Los pensamientos internos se abren al telépata. Por cada éxito en la tirada de activación, el telépata puede hacer una única pregunta sobre las cavilaciones subyacentes del objetivo. Estas respuestas tienen una frase de longitud y son lo más directas posible. Los pensamientos internos incluyen inclinaciones políticas, libros o películas favoritas, o recuerdos recientes.\n\nLos inicios de la comunicación telepática también se abren en este nivel. Por cada éxito en la tirada de activación, el telépata puede enviar o recibir una frase de comunicación mental. Estas comunicaciones ocurren a la velocidad del pensamiento, por lo que no consumen tiempo dentro de un asalto ni requieren dividir la reserva de dados para realizar varias acciones.\n\n- ··· Los pensamientos más profundos quedan al descubierto para el telépata. Como en los niveles anteriores, cada éxito en la tirada de activación permite hacer una única pregunta que el objetivo responde. Estas respuestas pueden ser más detalladas cuando el tema de la pregunta no es un secreto muy bien guardado. Los pensamientos más profundos incluyen recuerdos de los últimos 5 años, contraseñas de cuentas de redes sociales y tarjetas bancarias, y los nombres de todos los miembros de su familia, tanto cercana como extensa.\n\nLa comunicación telepática resulta mucho más sencilla en esta etapa. Por cada éxito en la tirada de activación, el telépata puede enviar y recibir varias frases (dos o tres) de comunicación. De nuevo, estas comunicaciones ocurren a la velocidad del pensamiento y siguen las mismas reglas indicadas anteriormente.\n\n- ···· Los pensamientos subconscientes y los rincones más profundos de la mente quedan al alcance del telépata. Cada éxito en la tirada de activación permite hacer una única pregunta que responde el Narrador. Nada dentro de la mente queda fuera de los límites en este punto. Los recuerdos que se remontan a la infancia, códigos olvidados de instalaciones en las que solían trabajar, e incluso pensamientos que se niegan a sí mismos sobre sus seres queridos, todo vale.\n\nLas conversaciones a través de conexiones telepáticas ya no se limitan a frases sueltas. Conversaciones completas entre dos personas ocurren en un abrir y cerrar de ojos. La mejora más impresionante es que los vínculos telepáticos pueden ampliarse hasta formar una red. Cada éxito en la tirada de activación permite añadir otra mente a la conversación. Cuando se añaden varias mentes al vínculo del psíquico, el exceso de ancho de banda telepático se ralentiza, ya que la mente del psíquico actúa como nodo de enrutamiento. Conversaciones de este tipo ocurren en tiempo real, como si todos los implicados estuvieran hablando entre sí alrededor de una mesa.\n\n- ····· Por insidioso que resulte, el telépata ya puede implantar pensamientos subversivos en las mentes de sus objetivos. Estos pensamientos pueden ser de cualquier tipo, pero cualquier línea de pensamiento que no estuviera ya presente en la mente del objetivo requiere una tirada de Manipulación + Subterfugio (dificultad 7) para implantar pensamientos que complementen la personalidad y los deseos del objetivo. Los pensamientos implantados que vayan en contra de la personalidad y los deseos del objetivo sufren +2 a la dificultad de la tirada. Si estos pensamientos arraigan, el objetivo empezará a actuar conforme a ellos en la primera ocasión oportuna, convencido de que los pensamientos son suyos.\n\nConspiraciones arcanas y sociedades secretas acechan entre las sombras por todo el mundo. Algunos grupos no son más que pequeñas colecciones de magos estáticos en comunidades remotas, con poca influencia más allá de su círculo inmediato. Otros son vastas organizaciones internacionales con un apoyo financiero y material considerable, agendas claramente definidas, y las responsabilidades que conllevan tales recursos. La mayoría de las organizaciones de magos estáticos y psíquicos se sitúan en algún punto entre estos extremos.",
+    "tags": [
+      "psíquico"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "M20 Sorcerer",
+        "page": null,
+        "section_anchor": "telepatia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
     "id": "variantes-duales",
     "type": "merit",
     "line": "mage",

@@ -31,6 +31,8 @@ export const TYPE_INFO: Record<string, TypeInfo> = {
   'arcanos-power': { label_es: 'Poder de Arcanos', mechanical_fields: ['level', 'arcanos'] },
   'discipline-power': { label_es: 'Poder de Disciplina', mechanical_fields: ['level', 'discipline'] },
   artifact: { label_es: 'Artefacto', mechanical_fields: ['level'] },
+  'hedge-path': { label_es: 'Senda de Hechicería', mechanical_fields: [] },
+  'psychic-phenomenon': { label_es: 'Fenómeno Psíquico', mechanical_fields: [] },
 };
 
 export function typeLabelEs(type: string): string {
