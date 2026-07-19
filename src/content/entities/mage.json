@@ -215,7 +215,7 @@
       "hollow-ones"
     ],
     "mechanics": {
-      "spheres": "··· Correspondencia, ··· Tiempo",
+      "spheres": "••• Correspondencia, ••• Tiempo",
       "successes": "un único éxito",
       "coincidental_note": "Coincidente solo porque debe realizarse dentro de una Capilla o Sanctum."
     },
@@ -241,7 +241,7 @@
       "ahl-i-batin"
     ],
     "mechanics": {
-      "spheres": "Mente · · · , Tiempo · · · , Correspondencia opcional · ·",
+      "spheres": "Mente ••• , Tiempo ••• , Correspondencia opcional ••",
       "coincidental_note": "Este Efecto es coincidente."
     },
     "sources": [
@@ -266,7 +266,7 @@
       "ahl-i-batin"
     ],
     "mechanics": {
-      "spheres": "Correspondencia · · · , Mente · · · , Fuerzas opcional · ·",
+      "spheres": "Correspondencia ••• , Mente ••• , Fuerzas opcional ••",
       "coincidental_note": "Este Efecto suele ser coincidente."
     },
     "sources": [
@@ -291,7 +291,7 @@
       "ahl-i-batin"
     ],
     "mechanics": {
-      "spheres": "Correspondencia · · ·",
+      "spheres": "Correspondencia •••",
       "successes": "cuatro éxitos, más los que sean necesarios para la duración y para afectar a otra criatura",
       "coincidental_note": "Coincidente con una duración corta; cuando dura más de un asalto, suele ser vulgar."
     },
@@ -317,7 +317,7 @@
       "ahl-i-batin"
     ],
     "mechanics": {
-      "spheres": "Mente · ·",
+      "spheres": "Mente ••",
       "coincidental_note": "Este Efecto es coincidente."
     },
     "sources": [
@@ -342,7 +342,7 @@
       "ahl-i-batin"
     ],
     "mechanics": {
-      "spheres": "Correspondencia · · · · · , Mente · · · , Fuerzas · ·",
+      "spheres": "Correspondencia ••••• , Mente ••• , Fuerzas ••",
       "successes": "según la tabla de Lugares de Teletransporte (M20: How Do You Do That?, pág. 76); dividir éxitos entre sentidos y presencia física (2 en cada uno = interacción normal; 1 = torpe / sentidos embotados, +1 a la dificultad de Fuerza y Destreza o Percepción)",
       "coincidental_note": "Casi siempre vulgar; a veces coincidente con tecnología de realidad aumentada."
     },
@@ -370,7 +370,7 @@
       "proteccion"
     ],
     "mechanics": {
-      "spheres": "·· Entropía",
+      "spheres": "•• Entropía",
       "effect": "coincidente"
     },
     "sources": [
@@ -398,7 +398,7 @@
       "viaje"
     ],
     "mechanics": {
-      "spheres": "··· Fuerzas",
+      "spheres": "••• Fuerzas",
       "effect": "coincidente"
     },
     "sources": [
@@ -426,7 +426,7 @@
       "buscador-de-rutas"
     ],
     "mechanics": {
-      "spheres": "·· Correspondencia/ ·· Tiempo",
+      "spheres": "•• Correspondencia/ •• Tiempo",
       "effect": "coincidente",
       "table": [
         {
@@ -492,7 +492,7 @@
       "artemisa"
     ],
     "mechanics": {
-      "spheres": "··· Vida, ·· Mente, ·· Cardinal",
+      "spheres": "••• Vida, •• Mente, •• Cardinal",
       "effect": "coincidente"
     },
     "sources": [
@@ -521,7 +521,7 @@
       "nombre-sin-traducir"
     ],
     "mechanics": {
-      "spheres": "··· Espíritu",
+      "spheres": "••• Espíritu",
       "effect": "coincidente o vulgar"
     },
     "sources": [
@@ -549,7 +549,7 @@
       "hermandad"
     ],
     "mechanics": {
-      "spheres": "·· Correspondencia, ··· Vida, ·· Cardinal",
+      "spheres": "•• Correspondencia, ••• Vida, •• Cardinal",
       "effect": "vulgar"
     },
     "sources": [
@@ -1148,7 +1148,7 @@
       "efecto"
     ],
     "mechanics": {
-      "spheres": "·· o ··· Vida",
+      "spheres": "•• o ••• Vida",
       "nature": "coincidente",
       "notes": "Vida ··· permite poner en pie también a tus amigos."
     },
@@ -1175,7 +1175,7 @@
       "efecto"
     ],
     "mechanics": {
-      "spheres": "·· Correspondencia, · Cardinal, a menudo combinada con · Espíritu/Vida/Materia",
+      "spheres": "•• Correspondencia, • Cardinal, a menudo combinada con • Espíritu/Vida/Materia",
       "nature": "coincidente",
       "notes": "Esferas adicionales para localizar con precisión: Materia · (vampiras y Hit Marks), Vida · (hombres lobo y changelings), Espíritu · (wraiths)."
     },
@@ -1202,7 +1202,7 @@
       "efecto"
     ],
     "mechanics": {
-      "spheres": "·· Correspondencia, ·· Mente, a veces combinada con ·· Tiempo",
+      "spheres": "•• Correspondencia, •• Mente, a veces combinada con •• Tiempo",
       "nature": "coincidente",
       "notes": "Tiempo ·· permite preguntar sobre más tarde hoy o mañana."
     },
@@ -1229,7 +1229,7 @@
       "efecto"
     ],
     "mechanics": {
-      "spheres": "··· Mente",
+      "spheres": "••• Mente",
       "nature": "coincidente",
       "notes": "Solo funciona con mortales no Despertados."
     },
@@ -1256,7 +1256,7 @@
       "efecto"
     ],
     "mechanics": {
-      "spheres": "··· Vida o Mente",
+      "spheres": "••• Vida o Mente",
       "nature": "coincidente",
       "notes": "Vida afecta el cuerpo; Mente afecta el cerebro."
     },
@@ -1283,7 +1283,7 @@
       "efecto"
     ],
     "mechanics": {
-      "spheres": "··· Mente, a veces combinada con ··· Correspondencia",
+      "spheres": "••• Mente, a veces combinada con ••• Correspondencia",
       "nature": "coincidente",
       "notes": "Requiere Correspondencia ··· para afectar a observadores por cámara de tráfico o CTV a distancia."
     },
@@ -1310,7 +1310,7 @@
       "efecto"
     ],
     "mechanics": {
-      "spheres": "··· Vida o Mente, ·· Materia, a veces junto con ··· Materia/Espíritu",
+      "spheres": "••• Vida o Mente, •• Materia, a veces junto con ••• Materia/Espíritu",
       "nature": "coincidente",
       "notes": "Combinar con Espíritu ··· contra fantasmas; Materia ··· contra vampiras o Hit Marks."
     },
@@ -1337,7 +1337,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "Fuerzas ····, Cardinal ··",
+      "spheres": "Fuerzas ••••, Cardinal ••",
       "vulgar": true,
       "resistance": "Destreza + Atletismo, Dificultad 7, contra los éxitos de Areté de la maga"
     },
@@ -1365,7 +1365,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "Fuerzas ···, Materia ···",
+      "spheres": "Fuerzas •••, Materia •••",
       "vulgar": true
     },
     "sources": [
@@ -1392,7 +1392,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "Materia ··, Cardinal ···",
+      "spheres": "Materia ••, Cardinal •••",
       "vulgar": "habitualmente vulgar (potencialmente coincidente con enfoque tecnológico)"
     },
     "sources": [
@@ -1419,7 +1419,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "Entropía ···, Vida ···, Mente ···",
+      "spheres": "Entropía •••, Vida •••, Mente •••",
       "coincidental": true,
       "modifier": "+1 dado (apodo positivo) / -1 dado (apodo negativo) en tiradas del Atributo elegido",
       "duration": "un número de tiradas igual al Areté de la maga, o hasta el final del Capítulo, lo que ocurra primero"
@@ -2652,7 +2652,7 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "· Mente, ·· Cardinal, o ambas; posiblemente con ···· Cardinal en su lugar"
+      "spheres": "• Mente, •• Cardinal, o ambas; posiblemente con •••• Cardinal en su lugar"
     },
     "sources": [
       {
@@ -2677,7 +2677,7 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "· Vida o · Mente; posiblemente con · Entropía añadida"
+      "spheres": "• Vida o • Mente; posiblemente con • Entropía añadida"
     },
     "sources": [
       {
@@ -2702,7 +2702,7 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "·· Mente; posiblemente con ····· Entropía o ··· Vida añadida"
+      "spheres": "•• Mente; posiblemente con ••••• Entropía o ••• Vida añadida"
     },
     "sources": [
       {
@@ -2727,7 +2727,7 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "·· , ··· , ···· o ····· Mente; posiblemente con los puntos correspondientes en Correspondencia añadidos"
+      "spheres": "•• , ••• , •••• o ••••• Mente; posiblemente con los puntos correspondientes en Correspondencia añadidos"
     },
     "sources": [
       {
@@ -2752,7 +2752,7 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "·· Fuerzas, o ·· Mente, o ··· Mente y ·· Materia, o ·· -··· Vida; posiblemente con ·· Fuerzas añadida"
+      "spheres": "•• Fuerzas, o •• Mente, o ••• Mente y •• Materia, o •• -••• Vida; posiblemente con •• Fuerzas añadida"
     },
     "sources": [
       {
@@ -2777,7 +2777,7 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "·· Correspondencia o ·· Entropía o ·· Mente; una variante más fuerte usa ··· en cada Esfera en su lugar"
+      "spheres": "•• Correspondencia o •• Entropía o •• Mente; una variante más fuerte usa ••• en cada Esfera en su lugar"
     },
     "sources": [
       {
@@ -2802,7 +2802,7 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "··· o ···· Vida"
+      "spheres": "••• o •••• Vida"
     },
     "sources": [
       {
@@ -2827,7 +2827,7 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "··· Correspondencia, más ·· -··· Materia, ·· -··· Fuerzas, o ·· Cardinal, o una combinación de las tres"
+      "spheres": "••• Correspondencia, más •• -••• Materia, •• -••• Fuerzas, o •• Cardinal, o una combinación de las tres"
     },
     "sources": [
       {
@@ -2852,7 +2852,7 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "··· Mente; posiblemente con ··· o ····· Correspondencia y ····· Entropía añadidas"
+      "spheres": "••• Mente; posiblemente con ••• o ••••• Correspondencia y ••••• Entropía añadidas"
     },
     "sources": [
       {
@@ -2877,7 +2877,7 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "··· Vida y ··· Mente; también puede ser ···· Mente"
+      "spheres": "••• Vida y ••• Mente; también puede ser •••• Mente"
     },
     "sources": [
       {
@@ -2902,7 +2902,7 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "··· Materia; posiblemente con ·· Cardinal o ··· Espíritu añadidos"
+      "spheres": "••• Materia; posiblemente con •• Cardinal o ••• Espíritu añadidos"
     },
     "sources": [
       {
@@ -2927,7 +2927,7 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "··· Correspondencia y ·· Fuerzas; posiblemente con ·· Mente añadida"
+      "spheres": "••• Correspondencia y •• Fuerzas; posiblemente con •• Mente añadida"
     },
     "sources": [
       {
@@ -2952,7 +2952,7 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "··· Mente; posiblemente con ·· Fuerzas añadida"
+      "spheres": "••• Mente; posiblemente con •• Fuerzas añadida"
     },
     "sources": [
       {
@@ -2981,7 +2981,7 @@
       "enfermedad"
     ],
     "mechanics": {
-      "spheres": "··· Correspondencia, ··· Vida, y ··· Espíritu; posiblemente con ·· o ··· Mente añadida",
+      "spheres": "••• Correspondencia, ••• Vida, y ••• Espíritu; posiblemente con •• o ••• Mente añadida",
       "notes": "Daño agravado (Vida) o tabla de Toxinas (Mago 20, pp. 441-442); severidad/duración vía tabla de Hazañas Mágicas (Mago 20, p. 502)."
     },
     "sources": [
@@ -3013,7 +3013,7 @@
       "hipersigilo"
     ],
     "mechanics": {
-      "spheres": "··· Mente, ··· Espíritu, y ·· Cardinal; posiblemente con ··· Correspondencia y Datos o ·· Entropía añadidas",
+      "spheres": "••• Mente, ••• Espíritu, y •• Cardinal; posiblemente con ••• Correspondencia y Datos o •• Entropía añadidas",
       "design_roll": "Percepción + Arte o Expresión, dificultad 8, 5+ éxitos",
       "propagation_threshold": "10+ éxitos para posible egrégoro"
     },
@@ -3047,7 +3047,7 @@
       "tormenta"
     ],
     "mechanics": {
-      "spheres": "··· -····· Fuerzas, ··· Espíritu, ·· Mente, y ·· Cardinal",
+      "spheres": "••• -••••• Fuerzas, ••• Espíritu, •• Mente, y •• Cardinal",
       "forces_scaling": "Fuerzas 3 (viento pequeño y breve); Fuerzas 4 (tormenta grande); Fuerzas 5 (tempestad negra enorme)"
     },
     "sources": [
@@ -3077,7 +3077,7 @@
       "daño-agravado"
     ],
     "mechanics": {
-      "spheres": "··· Vida, ··· Mente, y ··· -···· Tiempo; posiblemente solo ··· Vida y ··· -···· Tiempo",
+      "spheres": "••• Vida, ••• Mente, y ••• -•••• Tiempo; posiblemente solo ••• Vida y ••• -•••• Tiempo",
       "variant": "Vida 4 y Tiempo 3 o 4 (mutilación física sin matar ni marcar)",
       "aftermath": "Defectos Pesadillas y TEPT; posible efecto de Cosas que el Hombre No Debía Conocer salvo gasto de 1-2 Fuerza de Voluntad"
     },
@@ -3109,7 +3109,7 @@
       "lenguaje"
     ],
     "mechanics": {
-      "spheres": "··· Mente, ·· Entropía; posiblemente con ·· Fuerzas o ·· Tiempo añadidas",
+      "spheres": "••• Mente, •• Entropía; posiblemente con •• Fuerzas o •• Tiempo añadidas",
       "difficulty_table": [
         {
           "dificultad": 5,
@@ -3164,7 +3164,7 @@
       "demonio"
     ],
     "mechanics": {
-      "spheres": "···· Correspondencia, ··· -···· Espíritu, a menudo con ·· Mente añadida",
+      "spheres": "•••• Correspondencia, ••• -•••• Espíritu, a menudo con •• Mente añadida",
       "successes_by_target": [
         "Criatura material traída de otro lugar del mundo físico: entre dos y 20 éxitos.",
         "Espíritu menor en su territorio de origen: solo los éxitos suficientes para abrir la Celosía.",
@@ -3199,7 +3199,7 @@
       "paradoja"
     ],
     "mechanics": {
-      "spheres": "····· Correspondencia, ····· Espíritu",
+      "spheres": "••••• Correspondencia, ••••• Espíritu",
       "threshold": "al menos 10 éxitos en una tirada de magia vulgar",
       "notes": "Profundamente vulgar; ritual para reunir éxitos (Mago 20, pp. 538-543)."
     },
@@ -3230,7 +3230,7 @@
       "coincidente"
     ],
     "mechanics": {
-      "spheres": "····· Entropía, ··· Mente",
+      "spheres": "••••• Entropía, ••• Mente",
       "roll": "Areté del lanzador vs. dificultad Fuerza de Voluntad del objetivo + 3 (+ 5 si mago o Gente de la Noche)",
       "successes_needed": "1-2 (capricho pasajero); 2-3 (concepto simple); 4-5 (idea compleja o convicción fuerte); 5+ (fe profundamente arraigada)"
     },
@@ -3262,7 +3262,7 @@
       "nodo"
     ],
     "mechanics": {
-      "spheres": "····· Cardinal, ···· Espíritu, ··· Entropía",
+      "spheres": "••••• Cardinal, •••• Espíritu, ••• Entropía",
       "notes": "Aparición de la Placenta a discreción del Narrador; probablemente genera un Nodo (¿Cómo se hace eso? p. 44)."
     },
     "sources": [
@@ -3454,7 +3454,7 @@
       "arete": "N/D",
       "quintaesencia": "N/D",
       "coste_de_trasfondo": "N/D",
-      "spheres": "Materia 2, Fuerzas 2, Mente 2 (y Materia 2 / Fuerzas 2 / Mente 2 combinado para la matrícula); requiere Prime 4 para su creación",
+      "spheres": "Materia ••, Fuerzas ••, Mente •• (y Materia •• / Fuerzas •• / Mente •• combinado para la matrícula); requiere Prime •••• para su creación",
       "effects": "Carrocería +4 Durabilidad y Estructura (Mago 20, p. 460); romper el encantamiento requiere 4+ éxitos a Dificultad 7"
     },
     "sources": [
@@ -3489,7 +3489,7 @@
       "arete": "4",
       "quintaesencia": "20",
       "coste_de_trasfondo": "6 pts.",
-      "spheres": "Vida 2",
+      "spheres": "Vida ••",
       "cost": "1 punto de Quintaesencia por transformación; transformación fracasada dura 1 hora por punto de Quintaesencia restante"
     },
     "sources": [
@@ -3613,7 +3613,7 @@
       "arete": "5",
       "quintaesencia": "N/D",
       "coste_de_trasfondo": "3 pts. (por cada 10 unidades)",
-      "spheres": "Correspondencia 2, Entropía 2, Mente 2",
+      "spheres": "Correspondencia ••, Entropía ••, Mente ••",
       "roll": "cinco dados por el Areté; dificultad 3 (foco maduro) a 5-6 (multitud pacífica)",
       "notes": "Artículo de un solo uso; radio de unos seis metros (veinte pies); valoración base de dos puntos."
     },
@@ -3651,7 +3651,7 @@
       "iluminacion": "3",
       "quintaesencia": "15",
       "coste_de_trasfondo": "N/D",
-      "spheres": "Mente 3 ('mordisco', asalto psíquico); Vida 3, Mente 3, Prime 2 (Destrozo Psíquico al intentar quitárselo)",
+      "spheres": "Mente ••• ('mordisco', asalto psíquico); Vida •••, Mente •••, Prime •• (Destrozo Psíquico al intentar quitárselo)",
       "roll": "Areté del Dispositivo vs. dificultad Fuerza de Voluntad del objetivo; éxitos = daño contundente (Mago 20, p. 504); daño agravado si otro intenta quitarlo",
       "cost": "1 punto de Quintaesencia por uso por turno; 15 cargas"
     },
@@ -3773,7 +3773,7 @@
       "edicion"
     ],
     "mechanics": {
-      "spheres": "Cardinal 3",
+      "spheres": "Cardinal •••",
       "edition_notes": "Cardinal 3 en Mago 20; Cardinal 2 en Mago Edición Revisada"
     },
     "sources": [
@@ -3801,7 +3801,7 @@
       "regla-opcional"
     ],
     "mechanics": {
-      "spheres": "Espíritu 2"
+      "spheres": "Espíritu ••"
     },
     "sources": [
       {
@@ -3830,7 +3830,7 @@
       "cambio-de-forma"
     ],
     "mechanics": {
-      "spheres": "Vida 3 / Espíritu 2",
+      "spheres": "Vida ••• / Espíritu ••",
       "spheres_base": "Vida 3",
       "optional": "+Cardinal 2 para causar daño agravado; Espíritu 2 sólo requerido bajo la regla opcional de foco espiritual (¿Algo de Espíritu?)"
     },
@@ -3858,8 +3858,8 @@
     ],
     "mechanics": {
       "spheres": [
-        "Tiempo 4",
-        "Correspondencia 4 (opcional, para volver a través de largas distancias de espacio físico)"
+        "Tiempo ••••",
+        "Correspondencia •••• (opcional, para volver a través de largas distancias de espacio físico)"
       ],
       "notes": "Es vulgar entrar y salir del espacio y el tiempo. Detectable por un mago con Tiempo 1 o más."
     },
@@ -3887,7 +3887,7 @@
     ],
     "mechanics": {
       "spheres": [
-        "Tiempo 4"
+        "Tiempo ••••"
       ],
       "successes": "Base según tabla Tareas de la Magia de Tiempo: sencilla 1 éxito; poderosa 5-10 éxitos; excéntrica más de 10 éxitos.",
       "duration": "Regla opcional de división de éxitos (Mago 20, Capítulo Diez): un día = +2 éxitos por encima de la base; seis meses = +5 por encima de la base (descarrilamiento excéntrico durante seis meses = 15 éxitos).",
@@ -3917,14 +3917,14 @@
     ],
     "mechanics": {
       "spheres": [
-        "Tiempo 4 + una Esfera adicional",
-        "Vida 3 (conjurador) / Vida 4 (otro)",
-        "Materia 4",
-        "Fuerzas 4",
-        "Correspondencia 4",
-        "Entropía 4 + Esfera adecuada",
-        "Espíritu 5",
-        "Mente 2 / Mente 4 / Mente 5"
+        "Tiempo •••• + una Esfera adicional",
+        "Vida ••• (conjurador) / Vida •••• (otro)",
+        "Materia ••••",
+        "Fuerzas ••••",
+        "Correspondencia ••••",
+        "Entropía •••• + Esfera adecuada",
+        "Espíritu •••••",
+        "Mente •• / Mente •••• / Mente •••••"
       ],
       "successes": "Congelar un ratón 1 éxito (puede que 2); objetivos mayores y/o más complejos (un tanque, una serie de recuerdos) 5 o más éxitos. Duración habitual; extender con la Regla opcional de división de éxitos."
     },
@@ -3953,7 +3953,7 @@
     ],
     "mechanics": {
       "spheres": [
-        "Tiempo 4 + Entropía 3 (objetos o eventos) / Entropía 4 (cosas vivas) / Entropía 5 (ideas)",
+        "Tiempo •••• + Entropía ••• (objetos o eventos) / Entropía •••• (cosas vivas) / Entropía ••••• (ideas)",
         "+ Materia o Vida si está vinculado a un objeto o ser vivo concretos"
       ],
       "duration": "Hasta que la circunstancia ocurra.",
@@ -3984,8 +3984,8 @@
     ],
     "mechanics": {
       "spheres": [
-        "Congelar el tiempo (Tiempo 4) + Correspondencia 4",
-        "+ Vida 4 / Fuerzas 4 / Materia 4 / Espíritu 5"
+        "Congelar el tiempo (Tiempo ••••) + Correspondencia ••••",
+        "+ Vida •••• / Fuerzas •••• / Materia •••• / Espíritu •••••"
       ],
       "successes": "Tarea divina: 20 éxitos o más, más dos veces más éxitos por cada incremento de tiempo (tabla Marcos temporales de la Esfera Tiempo). Cincuenta años ≈ al menos 24 éxitos.",
       "paradox": "Ocho veces la Paradoja normal para el ejemplo de cincuenta años."
@@ -4014,7 +4014,7 @@
     ],
     "mechanics": {
       "spheres": [
-        "Tiempo 5"
+        "Tiempo •••••"
       ],
       "cost": "2 éxitos y 1 punto de Paradoja adicionales por cada persona adicional que lleve consigo.",
       "notes": "Turno a turno. Los magos en 'modo esquiva' no pueden usar Magia."
@@ -4043,7 +4043,7 @@
     ],
     "mechanics": {
       "spheres": [
-        "Tiempo 5"
+        "Tiempo •••••"
       ],
       "notes": "Requiere haber establecido un Punto de Anclaje para regresar. Se aplican todas las reglas anteriores de perturbación temporal."
     },
@@ -4104,9 +4104,9 @@
     ],
     "mechanics": {
       "spheres": [
-        "Fuerzas o Materia 2 (tareas pequeñas)",
-        "Fuerzas 3 o más (actos más grandes)",
-        "Fuerzas 5, Materia 5 o ambas (manifestaciones catastróficas: tornados, ventiscas, remolinos, terremotos)"
+        "Fuerzas o Materia •• (tareas pequeñas)",
+        "Fuerzas ••• o más (actos más grandes)",
+        "Fuerzas •••••, Materia ••••• o ambas (manifestaciones catastróficas: tornados, ventiscas, remolinos, terremotos)"
       ],
       "notes": "Efectos normalmente coincidentes salvo que se haga un espectáculo."
     },
@@ -4135,7 +4135,7 @@
     ],
     "mechanics": {
       "spheres": [
-        "Fuerzas 2"
+        "Fuerzas ••"
       ],
       "notes": "Los éxitos de Areté reducen la dificultad para aumentar o reducir la dificultad del disparo; puede afectar también al daño."
     },
@@ -4164,7 +4164,7 @@
     ],
     "mechanics": {
       "spheres": [
-        "Fuerzas 2"
+        "Fuerzas ••"
       ],
       "notes": "Suma o resta un éxito al daño por impacto. Contundente + Fuerzas → letal; letal reducido → contundente; no altera daño agravado por sí solo."
     },
@@ -4194,9 +4194,9 @@
     ],
     "mechanics": {
       "spheres": [
-        "Fuerzas 2 (no transforma energía)",
-        "Fuerzas 3 (Transmutar fuerzas menores; vulgar) para convertir una energía en otra",
-        "Cardinal 4 o más para transmutar la energía en Quintaesencia"
+        "Fuerzas •• (no transforma energía)",
+        "Fuerzas ••• (Transmutar fuerzas menores; vulgar) para convertir una energía en otra",
+        "Cardinal •••• o más para transmutar la energía en Quintaesencia"
       ],
       "successes": "Al menos un éxito por cada éxito obtenido por el agresor (o según tamaño de la fuerza, tabla Tareas de Magia).",
       "notes": "Cardinal 4+: 1 punto de Quintaesencia por cada nivel de daño."
@@ -4228,8 +4228,8 @@
     "mechanics": {
       "spheres": [
         "Rango apropiado de la Esfera del Patrón objetivo",
-        "Vida 4 (atar a una persona)",
-        "Materia 2 o superior (atar a un objeto, p. ej. un abrigo)"
+        "Vida •••• (atar a una persona)",
+        "Materia •• o superior (atar a un objeto, p. ej. un abrigo)"
       ],
       "notes": "Efecto finaliza al expirar su duración. El encantamiento permanente requiere convertir el objeto en una Maravilla (ver Elaborar Maravillas en Mago 20 y El Libro de los Secretos)."
     },
@@ -4260,10 +4260,10 @@
     ],
     "mechanics": {
       "spheres": [
-        "Fuerzas 2 (impulsos eléctricos) o Materia 2 (químicos) + Vida 3 (para perjudicar un organismo)",
-        "Vida 3 / Fuerzas 2 (daño agravado coincidente; daño normal + 1 éxito por Fuerzas)",
-        "Vida 3 / Materia 2 (intoxicar; daño contundente o letal)",
-        "similar a un pequeño Efecto de Mente 4 (impulso involuntario en lugar de daño)"
+        "Fuerzas •• (impulsos eléctricos) o Materia •• (químicos) + Vida ••• (para perjudicar un organismo)",
+        "Vida ••• / Fuerzas •• (daño agravado coincidente; daño normal + 1 éxito por Fuerzas)",
+        "Vida ••• / Materia •• (intoxicar; daño contundente o letal)",
+        "similar a un pequeño Efecto de Mente •••• (impulso involuntario en lugar de daño)"
       ]
     },
     "sources": [
@@ -4292,8 +4292,8 @@
     ],
     "mechanics": {
       "spheres": [
-        "Fuerzas 2 (áreas pequeñas)",
-        "Fuerzas 5 (oscurecer una ciudad)",
+        "Fuerzas •• (áreas pequeñas)",
+        "Fuerzas ••••• (oscurecer una ciudad)",
         "+ Correspondencia (llegar al corazón del sistema) / Materia (demoler maquinaria) / Datos (equivale a Correspondencia)"
       ],
       "duration": "Hasta que alguien repare el problema o conecte sistemas de respaldo."
@@ -4322,8 +4322,8 @@
     ],
     "mechanics": {
       "spheres": [
-        "Materia 2 o quizás 3 (cantidades pequeñas y simples)",
-        "Materia 4 o 5 (transmutaciones realmente complejas)"
+        "Materia •• o quizás 3 (cantidades pequeñas y simples)",
+        "Materia •••• o ••••• (transmutaciones realmente complejas)"
       ],
       "successes": "1 a 3 éxitos salvo formulaciones complicadas a nivel molecular.",
       "notes": "Requiere al menos 3 puntos en Habilidad + Especialidad relacionada. Para química dentro de un organismo vivo se necesita además Vida 3 o superior."
@@ -4354,10 +4354,10 @@
     ],
     "mechanics": {
       "spheres": [
-        "Materia 2 (purificar toxinas inorgánicas)",
-        "Vida 2 (purgar microorganismos / revertir putrefacción temprana)",
-        "Vida 3 / Materia 3 / Cardinal 2 (conjurar alimentos o agua de la nada)",
-        "Vida 2 / Materia 2 / Cardinal 2 (+ Supervivencia Urbana, recuperar restos/comida rápida)"
+        "Materia •• (purificar toxinas inorgánicas)",
+        "Vida •• (purgar microorganismos / revertir putrefacción temprana)",
+        "Vida ••• / Materia ••• / Cardinal •• (conjurar alimentos o agua de la nada)",
+        "Vida •• / Materia •• / Cardinal •• (+ Supervivencia Urbana, recuperar restos/comida rápida)"
       ],
       "notes": "Vida 2 (o Especialidad Control Corporal de Esoterismo) limita el hambre del propio mago; Vida 3 para otro personaje: +1 día sin agua y +1 semana sin comida por cada éxito."
     },
@@ -4386,8 +4386,8 @@
     ],
     "mechanics": {
       "spheres": [
-        "Fuerzas 2 (mejorar luz existente)",
-        "Fuerzas 3 / Cardinal 2 (oscuridad total, o luz fuerte y repentina)"
+        "Fuerzas •• (mejorar luz existente)",
+        "Fuerzas ••• / Cardinal •• (oscuridad total, o luz fuerte y repentina)"
       ]
     },
     "sources": [
@@ -4419,11 +4419,11 @@
     ],
     "mechanics": {
       "spheres": [
-        "Correspondencia 4 / Fuerzas 4 (abrir puerta a luz solar real; vulgar)",
-        "Fuerzas 4 / Cardinal 2 (ráfagas de luz de alta intensidad, daño letal)",
-        "+ Vida 3 / Materia 2 (quemar vampiros con daño agravado)",
-        "Fuerzas 5 / Cardinal 4 (reproducir luz solar en todos los aspectos; a discreción del Narrador)",
-        "+ Espíritu 5 (canalizar la esencia espiritual de la luz solar)"
+        "Correspondencia •••• / Fuerzas •••• (abrir puerta a luz solar real; vulgar)",
+        "Fuerzas •••• / Cardinal •• (ráfagas de luz de alta intensidad, daño letal)",
+        "+ Vida ••• / Materia •• (quemar vampiros con daño agravado)",
+        "Fuerzas ••••• / Cardinal •••• (reproducir luz solar en todos los aspectos; a discreción del Narrador)",
+        "+ Espíritu ••••• (canalizar la esencia espiritual de la luz solar)"
       ],
       "notes": "Que la luz conjurada actúe como verdadera luz del Sol frente a los no-muertos queda a discreción del Narrador. Para efectos sobre vampiros, ver Vampiro: La Mascarada."
     },
@@ -4454,8 +4454,8 @@
     ],
     "mechanics": {
       "spheres": [
-        "Correspondencia 2 / Materia 2",
-        "Fuerzas 2 (doblar gravedad e impulso)"
+        "Correspondencia •• / Materia ••",
+        "Fuerzas •• (doblar gravedad e impulso)"
       ],
       "notes": "Vulgar. +3 a la dificultad de Destreza + Armas de Fuego. Sólo armas de proyectiles; funciona tiro a tiro (como Repeler misiles)."
     },
@@ -4483,9 +4483,9 @@
     ],
     "mechanics": {
       "spheres": [
-        "Fuerzas 2 (comodidad/incomodidad)",
-        "Fuerzas 3 y más (temperaturas extremas que causan daño, tiende a contundente; metal caliente/agua hirviendo = letal, metal fundido = agravado)",
-        "Fuerzas 4 o 5 (frío extremo que congela; convertir metal en escoria fundida)"
+        "Fuerzas •• (comodidad/incomodidad)",
+        "Fuerzas ••• y más (temperaturas extremas que causan daño, tiende a contundente; metal caliente/agua hirviendo = letal, metal fundido = agravado)",
+        "Fuerzas •••• o ••••• (frío extremo que congela; convertir metal en escoria fundida)"
       ]
     },
     "sources": [
@@ -4514,9 +4514,9 @@
     ],
     "mechanics": {
       "spheres": [
-        "Fuerzas 2 o más (volverse invisible o silencioso; vulgar)",
-        "+ Correspondencia 1 (para seguir viendo/oyendo mientras está oculto)",
-        "Fuerzas 4 + Materia 4 (encubrir un helicóptero; Materia ata la capa en su sitio)"
+        "Fuerzas •• o más (volverse invisible o silencioso; vulgar)",
+        "+ Correspondencia • (para seguir viendo/oyendo mientras está oculto)",
+        "Fuerzas •••• + Materia •••• (encubrir un helicóptero; Materia ata la capa en su sitio)"
       ],
       "notes": "Detección: Percepción + Alerta o Percepción + Consciencia; +1 a la dificultad por cada éxito del mago, hasta +3."
     },
@@ -4544,7 +4544,7 @@
     ],
     "mechanics": {
       "spheres": [
-        "Fuerzas 2 (áreas pequeñas ≤ 3 m / 10 pies)",
+        "Fuerzas •• (áreas pequeñas ≤ 3 m / 10 pies)",
         "Rangos más altos de Fuerzas (zonas de una milla o más)"
       ],
       "notes": "Tirada de Manipulación + Expresión para representar juegos de sombras. Requiere luz presente (ver Crear luz)."
@@ -4574,7 +4574,7 @@
     ],
     "mechanics": {
       "spheres": [
-        "Fuerzas 2"
+        "Fuerzas ••"
       ],
       "notes": "Tirada de Areté como esquiva; cada éxito elimina un éxito del atacante. Doble de éxitos que el atacante = el proyectil le estalla en la cara (daño base). Sólo ataques individuales. Detener todas las balas en el aire es Magia muy vulgar."
     },
@@ -4605,7 +4605,7 @@
     "mechanics": {
       "spheres": [
         "Materia (+ Fuerzas, Materia o Espíritu según la síntesis)",
-        "Materia 2 (mesa de madera pura simple)",
+        "Materia •• (mesa de madera pura simple)",
         "Rangos más altos de Materia (transmutaciones complejas y materiales nuevos)"
       ],
       "notes": "Requiere Habilidades como Artesanía/Tecnología para resultados útiles. Reversible al expirar el Efecto salvo que se haga permanente."
@@ -4637,9 +4637,9 @@
     ],
     "mechanics": {
       "spheres": [
-        "Mente 3 (Vínculo Mental) + Esferas Patrón habituales (conexión psíquica)",
-        "Espíritu 2 (Tocar Espíritu) o más (vínculo espiritual)",
-        "Espíritu 3 (transmutar elementos físicos en efimeria o viceversa)"
+        "Mente ••• (Vínculo Mental) + Esferas Patrón habituales (conexión psíquica)",
+        "Espíritu •• (Tocar Espíritu) o más (vínculo espiritual)",
+        "Espíritu ••• (transmutar elementos físicos en efimeria o viceversa)"
       ],
       "cost": "1 punto de Fuerza de Voluntad temporal = un éxito automático a la tirada de Areté (máx. 1 por turno).",
       "notes": "La Esfera Ciencia Dimensional NO se puede usar de esta forma."
@@ -4669,7 +4669,7 @@
     ],
     "mechanics": {
       "spheres": [
-        "Mente 3 + Fuerzas 2 o superior"
+        "Mente ••• + Fuerzas •• o superior"
       ],
       "notes": "Capacidad de peso según tabla Fuerzas y peso (pág. 49). Tirada de Fuerza de Voluntad además de la de Areté; regla opcional: gastar 1 punto temporal de Fuerza de Voluntad para objetivos grandes/pesados. A menudo vulgar."
     },
@@ -4734,9 +4734,9 @@
     ],
     "mechanics": {
       "spheres": [
-        "Mente 3 / Fuerzas 2+ (controlar llamas existentes)",
-        "Mente 3 / Fuerzas 3+ / Cardinal 2 (prender fuego nuevo o expandir una fuente)",
-        "Mente 3 / Fuerzas 3+ / Cardinal 2 / + Materia 2+ (materiales resistentes) / Vida 3+ (organismos vivos) / Espíritu 3+ (efimeria umbral)"
+        "Mente ••• / Fuerzas ••+ (controlar llamas existentes)",
+        "Mente ••• / Fuerzas •••+ / Cardinal •• (prender fuego nuevo o expandir una fuente)",
+        "Mente ••• / Fuerzas •••+ / Cardinal •• / + Materia ••+ (materiales resistentes) / Vida •••+ (organismos vivos) / Espíritu •••+ (efimeria umbral)"
       ],
       "notes": "Concentración + tirada de Fuerza de Voluntad; posible gasto de 1 punto de Fuerza de Voluntad. Vulgar cuando el fuego surge de donde no debería arder."
     },
@@ -4765,7 +4765,7 @@
     ],
     "mechanics": {
       "spheres": [
-        "Igual que Piroquinesis con Materia reemplazando Fuerzas cuando sea apropiado (base Mente 3 + Materia)"
+        "Igual que Piroquinesis con Materia reemplazando Fuerzas cuando sea apropiado (base Mente ••• + Materia)"
       ],
       "cost": "1 punto de Fuerza de Voluntad recomendado si el mago crea materiales sólidos de la nada."
     },
@@ -4794,7 +4794,7 @@
     ],
     "mechanics": {
       "spheres": [
-        "Espíritu 2 + gran cantidad del elemento en cuestión",
+        "Espíritu •• + gran cantidad del elemento en cuestión",
         "Espíritu y/o Correspondencia (para traer un elemental de otra parte)"
       ],
       "notes": "Sistemas completos en la sección Invocación, vinculación, negociación y protección, pág. 85-101. Matriz de elementales en el Apéndice I de Mago 20."
@@ -4827,10 +4827,10 @@
     ],
     "mechanics": {
       "spheres": [
-        "Fuerzas 2+ / Vida 2+ / Materia 2+ (convertir elementos existentes en ataques o defensas)",
-        "Fuerzas 3+ / Cardinal 2 (conjurar energías elementales)",
-        "Vida 3 / Cardinal 2 (conjurar madera o plantas vivas)",
-        "Materia 3+ / Cardinal 2 (conjurar materiales sólidos)"
+        "Fuerzas ••+ / Vida ••+ / Materia ••+ (convertir elementos existentes en ataques o defensas)",
+        "Fuerzas •••+ / Cardinal •• (conjurar energías elementales)",
+        "Vida ••• / Cardinal •• (conjurar madera o plantas vivas)",
+        "Materia •••+ / Cardinal •• (conjurar materiales sólidos)"
       ],
       "damage": "Fuerzas agrega un éxito adicional al daño. Traumatismo = contundente; afilado = letal; elementos 'calientes' (fuego, electricidad, calor intenso, fundidos, agua hirviendo/vapor) = letal o agravado.",
       "notes": "Ataques de efecto de área crean Peligros ambientales."
@@ -4894,7 +4894,7 @@
     "mechanics": {
       "spheres": [
         "Fuerzas y Materia altos (según el fenómeno)",
-        "+ Correspondencia (mismo Rango que Fuerzas) para alterar el clima en otro lugar; p. ej. Correspondencia 5 + Fuerzas 5 para hacer llover en Grecia desde Nueva York"
+        "+ Correspondencia (mismo Rango que Fuerzas) para alterar el clima en otro lugar; p. ej. Correspondencia ••••• + Fuerzas ••••• para hacer llover en Grecia desde Nueva York"
       ],
       "successes": "No menos de cinco, con frecuencia más de 10. Pequeño ~5 éxitos; mayor ≥10 éxitos; teóricamente imposible 20 éxitos o más (tabla Tareas de Magia).",
       "notes": "Especialidades útiles: Esoterismo (Moldear Clima), Ocultismo (Hechizos Climáticos), Ciencias (Meteorología/Tectónica/Climatología), Supervivencia (Ojo para el Clima), Tecnología (Romper Nubes)."
@@ -4925,7 +4925,7 @@
     ],
     "mechanics": {
       "spheres": [
-        "Fuerzas 3 / Entropía 2 / Cardinal 2"
+        "Fuerzas ••• / Entropía •• / Cardinal ••"
       ],
       "successes": "5 éxitos protegen un círculo de ~3 m (10 pies) de diámetro durante la tormenta; +1 éxito por cada 3 m adicionales de espacio protegido.",
       "notes": "Coincidente salvo que forme una burbuja de protección obvia."
@@ -4956,10 +4956,10 @@
     ],
     "mechanics": {
       "spheres": [
-        "Fuerzas 4 o más (alterar el clima significativamente)",
-        "Correspondencia 3 / Fuerzas 3 / Entropía 2 (pequeños ajustes de probabilidad)",
-        "Fuerzas 4 / Entropía 3 ('sugerir' con más fuerza)",
-        "Fuerzas 4 o 5 (alcanzar y alinear los elementos)"
+        "Fuerzas •••• o más (alterar el clima significativamente)",
+        "Correspondencia ••• / Fuerzas ••• / Entropía •• (pequeños ajustes de probabilidad)",
+        "Fuerzas •••• / Entropía ••• ('sugerir' con más fuerza)",
+        "Fuerzas •••• o ••••• (alcanzar y alinear los elementos)"
       ],
       "notes": "El clima sigue las tendencias naturales existentes; no se puede hacer nevar en un día brillante y soleado de julio."
     },
@@ -4990,9 +4990,9 @@
     ],
     "mechanics": {
       "spheres": [
-        "Fuerzas 5 (dirigir el clima existente)",
-        "Fuerzas 5 / Cardinal 3 / Materia 2 (configuraciones peligrosas; crea Peligros ambientales)",
-        "Fuerzas 5 / Cardinal 4 / Entropía 3 / Materia 3 (cambios drásticos e imposibles; vulgar)"
+        "Fuerzas ••••• (dirigir el clima existente)",
+        "Fuerzas ••••• / Cardinal ••• / Materia •• (configuraciones peligrosas; crea Peligros ambientales)",
+        "Fuerzas ••••• / Cardinal •••• / Entropía ••• / Materia ••• (cambios drásticos e imposibles; vulgar)"
       ],
       "cost": "Para crear tormenta en calma / donde es imposible: 1 punto de Quintaesencia por cada punto en cada Esfera. Ejemplos: Fuerzas 5 = 5 puntos; Fuerzas 5 / Cardinal 4 / Entropía 3 / Materia 3 = 15 puntos.",
       "willpower": "Tirada de Fuerza de Voluntad al converger los elementos y cada hora / nueva escena: lluvia dificultad 5; tormenta eléctrica dificultad 7; tornado en toda potencia dificultad 9.",
@@ -5024,7 +5024,7 @@
     ],
     "mechanics": {
       "spheres": [
-        "Fuerzas 5 / Materia 5 / Entropía 3"
+        "Fuerzas ••••• / Materia ••••• / Entropía •••"
       ],
       "area": "~30 metros (100 pies) de diámetro por éxito obtenido (a discreción del Narrador según superficie e integridad).",
       "damage": "Daño habitual + éxito adicional por Fuerzas, aplicado a las estructuras (ver Romper cosas)."
@@ -5062,15 +5062,15 @@
     ],
     "mechanics": {
       "spheres": [
-        "Cardinal 5",
-        "Correspondencia 5",
-        "Entropía 3",
-        "Espíritu 5",
-        "Fuerzas 5",
-        "Materia 5",
-        "Mente 3",
-        "Tiempo 4",
-        "Vida 5",
+        "Cardinal •••••",
+        "Correspondencia •••••",
+        "Entropía •••",
+        "Espíritu •••••",
+        "Fuerzas •••••",
+        "Materia •••••",
+        "Mente •••",
+        "Tiempo ••••",
+        "Vida •••••",
         "Rangos más altos de Entropía, Mente y Tiempo (opcionales, para elementos más significativos de probabilidad, visión o fluctuación temporal)"
       ],
       "successes": "Dar forma a un reino habitable y agradable podría requerir 100 éxitos o más; ritual del estilo de un gran trabajo (Regla opcional: Rito, ceremonia y gran trabajo, Mago 20, Capítulo 10, pág. 541-542).",
@@ -5102,7 +5102,7 @@
       "tiempo"
     ],
     "mechanics": {
-      "spheres": "Tiempo 4 + cualquier Efecto de Mente",
+      "spheres": "Tiempo •••• + cualquier Efecto de Mente",
       "difficulty": "El personaje implantado tira Fuerza de Voluntad a dificultad 8 para romper el condicionamiento"
     },
     "sources": [
@@ -5129,8 +5129,8 @@
     ],
     "mechanics": {
       "spheres": [
-        "Vida 2 (propia química)",
-        "Vida 3 (química de otros)"
+        "Vida •• (propia química)",
+        "Vida ••• (química de otros)"
       ],
       "modifier": "Vida como modificador coincidente: reduce la dificultad de una tirada relacionada entre -1 y -3",
       "vulgar_coincident": "Tiende a ser coincidente salvo que se use para resultados drásticos y obvios",
@@ -5162,8 +5162,8 @@
     ],
     "mechanics": {
       "spheres": [
-        "Mente 2",
-        "Vida 3 (variante química)"
+        "Mente ••",
+        "Vida ••• (variante química)"
       ],
       "effect": "Cada éxito rebaja en 1 la Fuerza de Voluntad temporal del objetivo",
       "difficulty": "Fuerza de Voluntad del objetivo (+1 a +3 si va contra su estado emocional; -1 a -3 si lo refuerza)",
@@ -5197,9 +5197,9 @@
     ],
     "mechanics": {
       "spheres": [
-        "Mente 3",
-        "Entropía 4 / Mente 2",
-        "Vida 3 / Correspondencia 3"
+        "Mente •••",
+        "Entropía •••• / Mente ••",
+        "Vida ••• / Correspondencia •••"
       ],
       "difficulty": "Fuerza de Voluntad del defensor (variante Vida 3/Correspondencia 3: Resistencia +3)",
       "effect": "Aturde si los éxitos igualan o superan la Fuerza de Voluntad; cada éxito por encima aturde un turno (pierde un dado por éxito)",
@@ -5229,7 +5229,7 @@
       "mente"
     ],
     "mechanics": {
-      "spheres": "Mente 4",
+      "spheres": "Mente ••••",
       "vulgar_coincident": "Magia vulgar (los estallidos instantáneos); volverlo cuerdo/loco lentamente por medios plausibles puede ser coincidente",
       "immunity": "Metafísicamente dementes (Merodeadores, vampiros Malkavian) son inmunes"
     },
@@ -5257,7 +5257,7 @@
       "mente"
     ],
     "mechanics": {
-      "spheres": "Mente 3",
+      "spheres": "Mente •••",
       "difficulty": "Fuerza de Voluntad del oponente (Gente de la Noche/magos: Fuerza de Voluntad +3; vampiros con Dominación: Fuerza de Voluntad +5)",
       "damage": "Daño contundente igual a la tabla Daño o duración base",
       "vulgar_coincident": "Magia vulgar; incurre en la cantidad habitual de Paradoja"
@@ -5289,8 +5289,8 @@
     ],
     "mechanics": {
       "spheres": [
-        "Vida 3 / Mente 3",
-        "Mente 3 / Cardinal 2"
+        "Vida ••• / Mente •••",
+        "Mente ••• / Cardinal ••"
       ],
       "difficulty": "Fuerza de Voluntad del objetivo (o ese Rasgo +3 / +5)",
       "damage": "Daño agravado; no puede absorberse salvo con Efecto de Mente de escudo psíquico o protección interna",
@@ -5324,8 +5324,8 @@
     ],
     "mechanics": {
       "spheres": [
-        "Mente 4 (tomar el control)",
-        "Mente 5 (reescribir completamente)"
+        "Mente •••• (tomar el control)",
+        "Mente ••••• (reescribir completamente)"
       ],
       "difficulty": "Objetivo dispuesto: Fuerza de Voluntad actual; Objetivo reticente: Fuerza de Voluntad +3 (magos/Gente de la Noche +3 o +5)",
       "successes": "Empujoncitos: 2 o 3 éxitos; Forzar: al menos 1 éxito por punto de Fuerza de Voluntad; Orden total: al menos 10 éxitos, o 2 éxitos por punto de Fuerza de Voluntad si es 6 o más",
@@ -5356,9 +5356,9 @@
     ],
     "mechanics": {
       "spheres": [
-        "Mente 4 (alteraciones sencillas)",
-        "Mente 5 (alteraciones amplias)",
-        "Mente 3 (opcional, nublar un evento breve)"
+        "Mente •••• (alteraciones sencillas)",
+        "Mente ••••• (alteraciones amplias)",
+        "Mente ••• (opcional, nublar un evento breve)"
       ],
       "difficulty": "Objetivo dispuesto/involuntario: Fuerza de Voluntad; reticente: Fuerza de Voluntad +3",
       "successes": "Alteración sencilla: 1 o 2 éxitos; borrados o sustituciones amplios: 5 éxitos o más"
@@ -5389,8 +5389,8 @@
     ],
     "mechanics": {
       "spheres": [
-        "Espíritu 3 (objeto material)",
-        "Espíritu 3 / Vida 2 (microbios y virus)"
+        "Espíritu ••• (objeto material)",
+        "Espíritu ••• / Vida •• (microbios y virus)"
       ],
       "requirement": "Paradigma animista"
     },
@@ -5418,7 +5418,7 @@
       "espiritu"
     ],
     "mechanics": {
-      "spheres": "Espíritu 4"
+      "spheres": "Espíritu ••••"
     },
     "sources": [
       {
@@ -5447,8 +5447,8 @@
     ],
     "mechanics": {
       "spheres": [
-        "Espíritu 4",
-        "Cardinal 3 (soborno con Quintaesencia: -1 dificultad por punto, límite -3)"
+        "Espíritu ••••",
+        "Cardinal ••• (soborno con Quintaesencia: -1 dificultad por punto, límite -3)"
       ],
       "rolls": "Tirada extendida y enfrentada de Fuerza de Voluntad a dificultad 8; cada tirada = una hora",
       "spirit_victory": "Al menos 1 éxito por punto de Fuerza de Voluntad + Avatar del mago",
@@ -5479,11 +5479,11 @@
     ],
     "mechanics": {
       "spheres": [
-        "Mente 2 (suave impulso)",
-        "Mente 3 (fuerte sugestión)",
-        "Vida 3 (somnolencia química)",
-        "Vida 4 (inconsciencia súbita)",
-        "Mente 4 (orden '¡DUÉRMETE AHORA!')"
+        "Mente •• (suave impulso)",
+        "Mente ••• (fuerte sugestión)",
+        "Vida ••• (somnolencia química)",
+        "Vida •••• (inconsciencia súbita)",
+        "Mente •••• (orden '¡DUÉRMETE AHORA!')"
       ],
       "vulgar_coincident": "Tácticas sutiles: coincidente; pérdida de consciencia instantánea: vulgar salvo con tecnología (gas de sueño, golpe K.O.)"
     },
@@ -5513,7 +5513,7 @@
       "mente"
     ],
     "mechanics": {
-      "spheres": "Vida 3 / Entropía 2 / Mente 2 (necesita al menos dos de ellas para ser efectivo)"
+      "spheres": "Vida ••• / Entropía •• / Mente •• (necesita al menos dos de ellas para ser efectivo)"
     },
     "sources": [
       {
@@ -5544,12 +5544,12 @@
     "mechanics": {
       "spheres": [
         "Mente (ilusiones internas)",
-        "Fuerzas 2 / Cardinal 2 (particularidad pequeña)",
-        "Fuerzas 4 o 5 y Cardinal 3 o más (matriz elaborada)",
-        "Fuerza 4-5 / Mente 4 / Cardinal 4-5 (inmersiva)",
-        "Fuerzas 3 / Cardinal 2 (engañar tecnología de vídeo)",
-        "Mente 3 (daño contundente)",
-        "Mente 3 / Vida 3 (daño agravado)"
+        "Fuerzas •• / Cardinal •• (particularidad pequeña)",
+        "Fuerzas •••• o ••••• y Cardinal ••• o más (matriz elaborada)",
+        "Fuerza 4-5 / Mente •••• / Cardinal ••••-5 (inmersiva)",
+        "Fuerzas ••• / Cardinal •• (engañar tecnología de vídeo)",
+        "Mente ••• (daño contundente)",
+        "Mente ••• / Vida ••• (daño agravado)"
       ],
       "tabla_tareas_de_ilusion": [
         {
@@ -6379,8 +6379,8 @@
     ],
     "mechanics": {
       "spheres": [
-        "Mente 4",
-        "Espíritu 4 (en lugar de, o además de, Mente 4)",
+        "Mente ••••",
+        "Espíritu •••• (en lugar de, o además de, Mente ••••)",
         "Ciencia Dimensional (frente a entidades alienígenas)"
       ],
       "coste": "Cada individuo excluido cuenta como un objetivo separado: 1 punto de Quintaesencia por persona (3 individuos = 3 puntos de Quintaesencia)",
@@ -6413,9 +6413,9 @@
     ],
     "mechanics": {
       "spheres": [
-        "Mente 4",
-        "Espíritu 4 (además de, o en lugar de, Mente 4)",
-        "Tiempo 4 (para prolongar la duración)"
+        "Mente ••••",
+        "Espíritu •••• (además de, o en lugar de, Mente ••••)",
+        "Tiempo •••• (para prolongar la duración)"
       ],
       "duracion": "Duración de tiempo normal a menos que se añada Tiempo 4 o se haga permanente"
     },
@@ -6449,7 +6449,7 @@
       "practica"
     ],
     "mechanics": {
-      "spheres": "Correspondencia 5 / Entropía 5 / Vida 4 / Mente 4 / Cardinal 4",
+      "spheres": "Correspondencia ••••• / Entropía ••••• / Vida •••• / Mente •••• / Cardinal ••••",
       "coste": "Cada paradigma o práctica rechazado cuesta 3 éxitos y 3 puntos de Quintaesencia adicionales (3 paradigmas = 9 éxitos y 9 puntos de Quintaesencia)",
       "sub_disposicion": "Bloquear formas concretas de una práctica: 3 éxitos por cada tipo bloqueado",
       "vulgar_coincident": "Los Efectos conjurados mediante el paradigma hostil se consideran vulgares con testigos en el lado protegido",
@@ -6481,7 +6481,7 @@
       "tiempo"
     ],
     "mechanics": {
-      "spheres": "Correspondencia 5 / Tiempo 5",
+      "spheres": "Correspondencia ••••• / Tiempo •••••",
       "vulgar_coincident": "Efecto vulgar"
     },
     "sources": [
@@ -6508,8 +6508,8 @@
     ],
     "mechanics": {
       "spheres": [
-        "Espíritu 3 (daño usual)",
-        "Espíritu 5 (retuerce y remoldea la forma esencial; daño habitual)"
+        "Espíritu ••• (daño usual)",
+        "Espíritu ••••• (retuerce y remoldea la forma esencial; daño habitual)"
       ]
     },
     "sources": [
@@ -6537,8 +6537,8 @@
     ],
     "mechanics": {
       "spheres": [
-        "Espíritu 4 / Cardinal 2",
-        "Espíritu 5 / Cardinal 2"
+        "Espíritu •••• / Cardinal ••",
+        "Espíritu ••••• / Cardinal ••"
       ]
     },
     "sources": [
@@ -6566,7 +6566,7 @@
       "cardinal"
     ],
     "mechanics": {
-      "spheres": "Mente 3, Espíritu 3 y Cardinal 2"
+      "spheres": "Mente •••, Espíritu ••• y Cardinal ••"
     },
     "sources": [
       {
@@ -6593,8 +6593,8 @@
     ],
     "mechanics": {
       "spheres": [
-        "Cardinal 2 con Espíritu 4 ('frotar los huesos')",
-        "Espíritu 5 con Cardinal 5 (desintegra y dispersa la forma Quintaesencial)"
+        "Cardinal •• con Espíritu •••• ('frotar los huesos')",
+        "Espíritu ••••• con Cardinal ••••• (desintegra y dispersa la forma Quintaesencial)"
       ]
     },
     "sources": [
@@ -6621,7 +6621,7 @@
       "espiritu"
     ],
     "mechanics": {
-      "spheres": "Entropía 5 y Espíritu 5",
+      "spheres": "Entropía ••••• y Espíritu •••••",
       "notas": "Entidades menores se esparcen al alcanzar Esencia 0; una entidad poderosa puede requerir 2-3 veces su Rasgo Esencia (p. ej. Esencia 40 = ~80 niveles de Salud de daño)"
     },
     "sources": [
@@ -6649,7 +6649,7 @@
       "espiritu"
     ],
     "mechanics": {
-      "spheres": "Correspondencia 5 / Cardinal 5 / Espíritu 5"
+      "spheres": "Correspondencia ••••• / Cardinal ••••• / Espíritu •••••"
     },
     "sources": [
       {
@@ -6675,8 +6675,8 @@
     ],
     "mechanics": {
       "spheres": [
-        "Tiempo 3 (acciones adicionales para múltiples ataques)",
-        "Tiempo 4 ('burbuja temporal' que prolonga el dolor)"
+        "Tiempo ••• (acciones adicionales para múltiples ataques)",
+        "Tiempo •••• ('burbuja temporal' que prolonga el dolor)"
       ],
       "notas": "Se añade a cualquiera o a todos los ataques de destrucción espiritual anteriores"
     },
@@ -6705,10 +6705,10 @@
     ],
     "mechanics": {
       "spheres": [
-        "Espíritu 4 (obligar al fantasma a aparecer y atraparle)",
-        "Espíritu 3 (infligir dolor)",
-        "Espíritu 4 (vincular al fantasma a un objeto)",
-        "Espíritu 5 (destruir al fantasma por completo)"
+        "Espíritu •••• (obligar al fantasma a aparecer y atraparle)",
+        "Espíritu ••• (infligir dolor)",
+        "Espíritu •••• (vincular al fantasma a un objeto)",
+        "Espíritu ••••• (destruir al fantasma por completo)"
       ]
     },
     "sources": [
@@ -6739,9 +6739,9 @@
     ],
     "mechanics": {
       "spheres": [
-        "Espíritu 2 (engrosar la Celosía: cada éxito +1 a la Celosía)",
-        "Correspondencia 4 / Espíritu 3 / Entropía 2 (proteger de poderes fantasmales)",
-        "Espíritu 4 o 5 (muros efiméricos, desterrar, exorcizar, sellar)"
+        "Espíritu •• (engrosar la Celosía: cada éxito +1 a la Celosía)",
+        "Correspondencia •••• / Espíritu ••• / Entropía •• (proteger de poderes fantasmales)",
+        "Espíritu •••• o ••••• (muros efiméricos, desterrar, exorcizar, sellar)"
       ],
       "coste": "Correspondencia 4 / Espíritu 3 / Entropía 2: cada éxito tras los dos primeros resta 1 éxito a un ataque fantasmal; +1 éxito por personaje adicional protegido"
     },
@@ -6774,8 +6774,8 @@
     ],
     "mechanics": {
       "spheres": [
-        "Mente 2 y Cardinal 1 (leer la Resonancia local de una muerte)",
-        "Tiempo 2 y Materia 1 (postcognición)"
+        "Mente •• y Cardinal • (leer la Resonancia local de una muerte)",
+        "Tiempo •• y Materia • (postcognición)"
       ]
     },
     "sources": [
@@ -6802,7 +6802,7 @@
       "espiritu"
     ],
     "mechanics": {
-      "spheres": "Espíritu 4 (convierte al personaje en un Fetiche espiritual vivo)",
+      "spheres": "Espíritu •••• (convierte al personaje en un Fetiche espiritual vivo)",
       "control": "Tirada enfrentada de Fuerza de Voluntad; cada parte usa la Fuerza de Voluntad del oponente como dificultad; el primero en obtener 10 éxitos o más gana",
       "vulgar_coincident": "La autoposesión obvia tiende a ser Magia vulgar (salvo zonas de realidad que la acepten)",
       "notas": "El fantasma deja 1-2 puntos de Resonancia (o Sinergia); el médium se convierte en un Grillete de 1 punto (reglas de Wraith)"
@@ -6834,10 +6834,10 @@
     ],
     "mechanics": {
       "spheres": [
-        "Espíritu 4 / Mente 2 (influir en el humor)",
-        "Mente 4 / Espíritu 4 (comandar el cuerpo)",
-        "sólo Espíritu 4 (arrojar el fantasma y dejar que luchen por el dominio)",
-        "Espíritu 4 / Vida 3 (destrozar desde dentro; daño agravado)"
+        "Espíritu •••• / Mente •• (influir en el humor)",
+        "Mente •••• / Espíritu •••• (comandar el cuerpo)",
+        "sólo Espíritu •••• (arrojar el fantasma y dejar que luchen por el dominio)",
+        "Espíritu •••• / Vida ••• (destrozar desde dentro; daño agravado)"
       ],
       "vulgar_coincident": "Todas las formas son Magia vulgar salvo que fantasma y objetivo sean voluntarios"
     },
@@ -6870,10 +6870,10 @@
     ],
     "mechanics": {
       "spheres": [
-        "Vida 2 / Cardinal 2 (tejido recientemente muerto)",
-        "Materia 2 / Cardinal 2 (huesos)",
-        "Espíritu 2 (invitar a un fantasma) o Espíritu 4 (encerrar a un fantasma)",
-        "+Entropía 3 o Tiempo 3 (ralentizar la putrefacción)"
+        "Vida •• / Cardinal •• (tejido recientemente muerto)",
+        "Materia •• / Cardinal •• (huesos)",
+        "Espíritu •• (invitar a un fantasma) o Espíritu •••• (encerrar a un fantasma)",
+        "+Entropía ••• o Tiempo ••• (ralentizar la putrefacción)"
       ],
       "exitos_trozos": "1 éxito (muestra pequeña: dedo, corazón), 2 (parte compleja: mano, pie), 3 (partes mayores: cabeza, brazo), 4 (serie de partes: miembros y torso), 5 (cuerpo muerto que camina)"
     },
@@ -6905,10 +6905,10 @@
     ],
     "mechanics": {
       "spheres": [
-        "Mente 5 / Espíritu 5 (desplazar mente y alma con un fantasma)",
-        "Espíritu 4 / Materia 2 / Cardinal 2 (cadáver como Fetiche vivo)",
-        "Mente 5 / Vida 4 / Materia 2 / Cardinal 2 (matar, encerrar la mente en el cadáver)",
-        "Espíritu 5 / Vida 4 / Cardinal 2 (destruir el alma e invitar a un fantasma)"
+        "Mente ••••• / Espíritu ••••• (desplazar mente y alma con un fantasma)",
+        "Espíritu •••• / Materia •• / Cardinal •• (cadáver como Fetiche vivo)",
+        "Mente ••••• / Vida •••• / Materia •• / Cardinal •• (matar, encerrar la mente en el cadáver)",
+        "Espíritu ••••• / Vida •••• / Cardinal •• (destruir el alma e invitar a un fantasma)"
       ],
       "duracion": "El zombi colapsa al final de la duración salvo que el Efecto se haga permanente"
     },
@@ -6942,9 +6942,9 @@
     ],
     "mechanics": {
       "spheres": [
-        "Fuerzas 4 / Vida 4 / Materia 2 / Cardinal 2 (galvanizar los restos)",
-        "Mente 5 / Vida 4 / Materia 2 / Cardinal 2 (mente funcional con voluntad propia)",
-        "Vida 4 / Mente 4 / Tiempo 4 / Cardinal 2 (congelar el tiempo en el cuerpo)"
+        "Fuerzas •••• / Vida •••• / Materia •• / Cardinal •• (galvanizar los restos)",
+        "Mente ••••• / Vida •••• / Materia •• / Cardinal •• (mente funcional con voluntad propia)",
+        "Vida •••• / Mente •••• / Tiempo •••• / Cardinal •• (congelar el tiempo en el cuerpo)"
       ],
       "vulgar_coincident": "Todos estos Efectos son extremadamente vulgares"
     },
@@ -6977,10 +6977,10 @@
     ],
     "mechanics": {
       "spheres": [
-        "Vida 4 / Espíritu 4 / Cardinal 3 (revivir, muerte en los últimos ~5 minutos)",
-        "Vida 5 / Mente 5 / Espíritu 5 / Cardinal 3 (resucitar, cadáver fresco)",
-        "+Materia 2 o 4 (cadáver muerto tiempo/podredumbre)",
-        "+Tiempo 4 ('reiniciar' a un 'punto de guardado')"
+        "Vida •••• / Espíritu •••• / Cardinal ••• (revivir, muerte en los últimos ~5 minutos)",
+        "Vida ••••• / Mente ••••• / Espíritu ••••• / Cardinal ••• (resucitar, cadáver fresco)",
+        "+Materia •• o •••• (cadáver muerto tiempo/podredumbre)",
+        "+Tiempo •••• ('reiniciar' a un 'punto de guardado')"
       ],
       "vulgar_coincident": "Totalmente vulgar salvo que el objetivo haya estado muerto unos minutos como mucho"
     },
@@ -7012,9 +7012,9 @@
     ],
     "mechanics": {
       "spheres": [
-        "Entropía 4 y Vida 3 (daño agravado)",
-        "+Cardinal 2 (criar gusanos)",
-        "Gilgul de Espíritu 5 (combinación)"
+        "Entropía •••• y Vida ••• (daño agravado)",
+        "+Cardinal •• (criar gusanos)",
+        "Gilgul de Espíritu ••••• (combinación)"
       ],
       "vulgar_coincident": "Asalto increíblemente vulgar",
       "coste": "Otorga automáticamente 1 punto en Resonancia Elemental (Jhor) o Sinergia Entrópica"
@@ -7074,10 +7074,10 @@
     ],
     "mechanics": {
       "spheres": [
-        "Mente 1, Espíritu 1 o el Talento Consciencia",
-        "Vida 1 / Cardinal 1 (combinación)",
-        "Cardinal 1 (leer marca de Resonancia/Sinergia)",
-        "Mente 1 o Cardinal 2 (amortiguar/cambiar la propia aura)"
+        "Mente •, Espíritu • o el Talento Consciencia",
+        "Vida • / Cardinal • (combinación)",
+        "Cardinal • (leer marca de Resonancia/Sinergia)",
+        "Mente • o Cardinal •• (amortiguar/cambiar la propia aura)"
       ],
       "difficulty": "+1 a la dificultad para leer auras de espíritus o no-muertos",
       "tirada": "Percepción + Consciencia"
@@ -7105,7 +7105,7 @@
       "cardinal"
     ],
     "mechanics": {
-      "spheres": "Cardinal 1",
+      "spheres": "Cardinal •",
       "duracion": "El resplandor de hechizos pequeños se desvanece en ~5 minutos; los efectos grandes pueden perdurar horas o días (especialmente con Paradoja)"
     },
     "sources": [
@@ -7134,10 +7134,10 @@
     "mechanics": {
       "spheres": [
         "Contacto físico (sin coste de Esfera adicional)",
-        "Mente 2 (personaje voluntario cercano)",
-        "Mente 2 / Correspondencia 2 (voluntario a mayor distancia)",
-        "Mente 3 (personaje involuntario)",
-        "Mente 3 / Correspondencia 3 (involuntario a mayor distancia)"
+        "Mente •• (personaje voluntario cercano)",
+        "Mente •• / Correspondencia •• (voluntario a mayor distancia)",
+        "Mente ••• (personaje involuntario)",
+        "Mente ••• / Correspondencia ••• (involuntario a mayor distancia)"
       ],
       "coste": "Cada nuevo personaje requiere un éxito adicional en la tirada"
     },
@@ -7166,7 +7166,7 @@
       "cardinal"
     ],
     "mechanics": {
-      "spheres": "Fuerzas 3 / Mente 2 / Cardinal 2 (combinado con un efecto de percepción)"
+      "spheres": "Fuerzas ••• / Mente •• / Cardinal •• (combinado con un efecto de percepción)"
     },
     "sources": [
       {
@@ -7193,8 +7193,8 @@
     ],
     "mechanics": {
       "spheres": [
-        "Correspondencia 2 o más (añadido a un Efecto de percepción)",
-        "Correspondencia 2 (observar un objetivo/ubicación)",
+        "Correspondencia •• o más (añadido a un Efecto de percepción)",
+        "Correspondencia •• (observar un objetivo/ubicación)",
         "Esfera opcional Datos (alternativa, tabla Conexiones de Datos)"
       ],
       "notas": "El efecto está limitado por los puntos en Correspondencia; para dar órdenes a distancia se necesita Correspondencia 3+"
@@ -7224,7 +7224,7 @@
       "postcognicion"
     ],
     "mechanics": {
-      "spheres": "Tiempo 2 (ver hacia atrás/adelante en la historia; precognición y postcognición)",
+      "spheres": "Tiempo •• (ver hacia atrás/adelante en la historia; precognición y postcognición)",
       "notas": "Los éxitos necesarios se calculan con la tabla Marcos temporales de la Esfera Tiempo"
     },
     "sources": [
@@ -7253,9 +7253,9 @@
     ],
     "mechanics": {
       "spheres": [
-        "Cardinal 1 (detectar el flujo de Quintaesencia, leer marcas, infundir el Patrón más allá del Avatar)",
-        "Cardinal 2 (canalizar Quintaesencia a Patrones existentes o nuevos)",
-        "Cardinal 3 o Utilidad Primordial 3 (usar más Quintaesencia que la puntuación de Avatar)"
+        "Cardinal • (detectar el flujo de Quintaesencia, leer marcas, infundir el Patrón más allá del Avatar)",
+        "Cardinal •• (canalizar Quintaesencia a Patrones existentes o nuevos)",
+        "Cardinal ••• o Utilidad Primordial 3 (usar más Quintaesencia que la puntuación de Avatar)"
       ],
       "cantidad": "Con Cardinal 3+, la Quintaesencia usable en un Efecto = éxitos logrados (3 éxitos = hasta 6 puntos; 5 éxitos = hasta 10 puntos)",
       "notas": "La Esfera Utilidad Primordial funciona en todos los sentidos como Cardinal"
@@ -7317,7 +7317,7 @@
     ],
     "mechanics": {
       "spheres": [
-        "Cardinal 5 (crear un Nodo)",
+        "Cardinal ••••• (crear un Nodo)",
         "Utilidad Primordial 5 (generar una Confluencia, Nodo Tecnocrático)"
       ],
       "coste": "Unos 10 éxitos por punto en el Trasfondo Nodo creado (a prerrogativa del Narrador)"
@@ -7347,7 +7347,7 @@
       "tass"
     ],
     "mechanics": {
-      "spheres": "Cardinal 4 (crear Tass / Divisa a partir del flujo libre de Quintaesencia)",
+      "spheres": "Cardinal •••• (crear Tass / Divisa a partir del flujo libre de Quintaesencia)",
       "notas": "El Tass se agota a medida que se usa su energía; agotado, la forma material deja de existir"
     },
     "sources": [
@@ -7460,7 +7460,7 @@
       "matriz"
     ],
     "mechanics": {
-      "spheres": "Cardinal 3"
+      "spheres": "Cardinal •••"
     },
     "sources": [
       {
@@ -7517,7 +7517,7 @@
       "avatar"
     ],
     "mechanics": {
-      "spheres": "Cardinal 2 (al alcance) / Correspondencia 2 · Cardinal 2 (a distancia) / Cardinal 4 (recargar)",
+      "spheres": "Cardinal •• (al alcance) / Correspondencia •• • Cardinal •• (a distancia) / Cardinal •••• (recargar)",
       "reflexive": "puntos por turno = puntuación de Avatar",
       "successes": "3 éxitos = hasta 6 puntos de Quintaesencia"
     },
@@ -7547,7 +7547,7 @@
       "coincidente"
     ],
     "mechanics": {
-      "spheres": "Cardinal 2 (o Mente 1)",
+      "spheres": "Cardinal •• (o Mente •)",
       "coincidental": true,
       "difficulty": "mínima 3",
       "roll": "Areté; opcional Carisma + Subterfugio para reducir dificultad"
@@ -7577,7 +7577,7 @@
       "vulgar"
     ],
     "mechanics": {
-      "spheres": "Cardinal 2 + Esfera de Patrones",
+      "spheres": "Cardinal •• + Esfera de Patrones",
       "vulgar": true
     },
     "sources": [
@@ -7607,7 +7607,7 @@
       "conjuracion"
     ],
     "mechanics": {
-      "spheres": "Cardinal 2 · Mente 3 (formas mentales) / Materia 3 · Espíritu 3 · Cardinal 2 (elementos efímeros) / Cardinal 4 · Espíritu 4 (materializar espíritu)",
+      "spheres": "Cardinal •• • Mente ••• (formas mentales) / Materia ••• • Espíritu ••• • Cardinal •• (elementos efímeros) / Cardinal •••• • Espíritu •••• (materializar espíritu)",
       "health_levels": "espíritu sólido: 2 niveles de Salud por cada éxito tras el primero",
       "vulgar": true
     },
@@ -7638,7 +7638,7 @@
       "encantamientos"
     ],
     "mechanics": {
-      "spheres": "Cardinal 1 (consagrar) / Cardinal 2 (energizar; Baratijas, Encantamientos) / Cardinal 3 (Artefactos, Periaptos, Talismanes temporales) / Cardinal 4 (Talismanes permanentes; +Vida 3 = Encantamientos vivos)",
+      "spheres": "Cardinal • (consagrar) / Cardinal •• (energizar; Baratijas, Encantamientos) / Cardinal ••• (Artefactos, Periaptos, Talismanes temporales) / Cardinal •••• (Talismanes permanentes; +Vida ••• = Encantamientos vivos)",
       "damage": "daño agravado (energizar)"
     },
     "sources": [
@@ -7667,7 +7667,7 @@
       "vulgar"
     ],
     "mechanics": {
-      "spheres": "Cardinal 3 (+ Fuerzas 3 para calor)",
+      "spheres": "Cardinal ••• (+ Fuerzas ••• para calor)",
       "damage": "agravado",
       "quintessence": "1 punto por turno (tenga éxito o no)",
       "vulgar": true
@@ -7697,7 +7697,7 @@
       "materia"
     ],
     "mechanics": {
-      "spheres": "Cardinal 4 / Fuerzas 4 / Materia 4 (polaridad magnética) · Cardinal 4 / Materia 4 (enlaces, insustancial) · Cardinal 4 / Fuerzas 4 (fuego sin calor)",
+      "spheres": "Cardinal •••• / Fuerzas •••• / Materia •••• (polaridad magnética) • Cardinal •••• / Materia •••• (enlaces, insustancial) • Cardinal •••• / Fuerzas •••• (fuego sin calor)",
       "vulgar": "sí (a gran escala); coincidente si nada lo revela"
     },
     "sources": [
@@ -7726,7 +7726,7 @@
       "periapto"
     ],
     "mechanics": {
-      "spheres": "Cardinal 3 (daño agravado) / Cardinal 4 · Vida 3 (Encantamiento móvil) / Cardinal 5 · Vida 5 (Periapto orgánico)"
+      "spheres": "Cardinal ••• (daño agravado) / Cardinal •••• • Vida ••• (Encantamiento móvil) / Cardinal ••••• • Vida ••••• (Periapto orgánico)"
     },
     "sources": [
       {
@@ -7755,7 +7755,7 @@
       "vulgar"
     ],
     "mechanics": {
-      "spheres": "Cardinal 4 (+ Esferas variables); Tiempo 4 para detonante prolongado",
+      "spheres": "Cardinal •••• (+ Esferas variables); Tiempo •••• para detonante prolongado",
       "quintessence": "1 punto por Rango de la Esfera más alta (bomba viviente = 4 puntos)",
       "examples": "Cardinal 4 / Fuerzas 3 / Vida 3; Cardinal 4 / Materia 3 / Vida 2; Cardinal 4 / Vida 3 / Entropía 2; bomba viviente = Vida 4 / Cardinal 4 / Tiempo 4 / Fuerzas 3",
       "vulgar": true
@@ -7786,7 +7786,7 @@
       "cibernetica"
     ],
     "mechanics": {
-      "spheres": "Vida 4 / Materia 4 / Cardinal 4"
+      "spheres": "Vida •••• / Materia •••• / Cardinal ••••"
     },
     "sources": [
       {
@@ -7815,7 +7815,7 @@
       "extaticos"
     ],
     "mechanics": {
-      "spheres": "Vida 2 y/o Mente 2 (orgasmo) · Tiempo 3 (prolongar) · Cardinal 1+ (fusionar/aumentar/drenar energía)"
+      "spheres": "Vida •• y/o Mente •• (orgasmo) • Tiempo ••• (prolongar) • Cardinal •+ (fusionar/aumentar/drenar energía)"
     },
     "sources": [
       {
@@ -7842,7 +7842,7 @@
       "vulgar"
     ],
     "mechanics": {
-      "spheres": "Cardinal 2",
+      "spheres": "Cardinal ••",
       "damage": "contundente (tabla Daño o duración base)",
       "resistance": "Fuerza de Voluntad, dificultad = niveles de daño recibidos",
       "vulgar": true
@@ -7874,7 +7874,7 @@
       "resonancia"
     ],
     "mechanics": {
-      "spheres": "Materia 4 / Cardinal 4 (Gema del Alma) · Vida 5 / Cardinal 5 (Flor del Alma)"
+      "spheres": "Materia •••• / Cardinal •••• (Gema del Alma) • Vida ••••• / Cardinal ••••• (Flor del Alma)"
     },
     "sources": [
       {
@@ -7902,7 +7902,7 @@
       "coincidente"
     ],
     "mechanics": {
-      "spheres": "Cardinal (Maestro) · +Entropía 2 (buena fortuna)",
+      "spheres": "Cardinal (Maestro) • +Entropía •• (buena fortuna)",
       "successes": "cuatro éxitos = 8 puntos de Quintaesencia",
       "effect": "ignora penalizaciones por heridas mientras dura"
     },
@@ -7932,7 +7932,7 @@
       "paradoja"
     ],
     "mechanics": {
-      "spheres": "Cardinal 5 / Vida 3 (a sí mismo) · Cardinal 5 / Vida 4 (a otro)",
+      "spheres": "Cardinal ••••• / Vida ••• (a sí mismo) • Cardinal ••••• / Vida •••• (a otro)",
       "successes": "niveles de Salud = éxitos (ej. 4 éxitos = 8 niveles)",
       "paradox": "1 punto por cada nivel de daño imposible de sobrevivir absorbido"
     },
@@ -7961,7 +7961,7 @@
       "coincidente"
     ],
     "mechanics": {
-      "spheres": "Cardinal 3 (dispuestos / violación energética) · Cardinal 5 (reticentes sin saberlo)",
+      "spheres": "Cardinal ••• (dispuestos / violación energética) • Cardinal ••••• (reticentes sin saberlo)",
       "coincidental": "sí, salvo drenaje mortal"
     },
     "sources": [
@@ -7989,7 +7989,7 @@
       "vulgar"
     ],
     "mechanics": {
-      "spheres": "Cardinal 4 (objetos) · Cardinal 5 (organismos)",
+      "spheres": "Cardinal •••• (objetos) • Cardinal ••••• (organismos)",
       "damage": "agravado",
       "vulgar": true
     },
@@ -8018,7 +8018,7 @@
       "quintaesencia"
     ],
     "mechanics": {
-      "spheres": "Cardinal 1",
+      "spheres": "Cardinal •",
       "roll": "Areté; cada éxito = 1 punto de Quintaesencia = -1 dificultad",
       "reserve": "10 puntos de Quintaesencia (= niveles de Salud); usar los últimos tres = muerte",
       "healing": "solo tiempo y descanso, no Magia"
@@ -8049,7 +8049,7 @@
       "coincidente"
     ],
     "mechanics": {
-      "spheres": "Cardinal 2 (1 punto) · Materia 2 / Cardinal 2 (1 punto por éxito)",
+      "spheres": "Cardinal •• (1 punto) • Materia •• / Cardinal •• (1 punto por éxito)",
       "coincidental": true
     },
     "sources": [
@@ -8077,7 +8077,7 @@
       "voluntario"
     ],
     "mechanics": {
-      "spheres": "Cardinal 3",
+      "spheres": "Cardinal •••",
       "successes": "reglas de la tabla Daño o duración base"
     },
     "sources": [
@@ -8106,7 +8106,7 @@
       "resonancia"
     ],
     "mechanics": {
-      "spheres": "Cardinal 3",
+      "spheres": "Cardinal •••",
       "quintessence_by_size": "humano = 10; criaturas pequeñas = 3-5; grandes = 15+"
     },
     "sources": [
@@ -8134,7 +8134,7 @@
       "desintegracion"
     ],
     "mechanics": {
-      "spheres": "Cardinal 4 (objeto) · Cardinal 5 (ser vivo)"
+      "spheres": "Cardinal •••• (objeto) • Cardinal ••••• (ser vivo)"
     },
     "related": [],
     "sources": [
@@ -8163,7 +8163,7 @@
       "velocidad"
     ],
     "mechanics": {
-      "spheres": "Fuerzas 2 (+ Vida 3/4 o Materia para reforzar)",
+      "spheres": "Fuerzas •• (+ Vida •••/4 o Materia para reforzar)",
       "speed": "cada 2 éxitos doblan la velocidad",
       "stress_damage": "criaturas: 1 nivel de Salud letal por turno por cada éxito por encima del segundo",
       "vehicles": "aguantan 1 éxito por punto de durabilidad; luego -1 estructura por turno"
@@ -8193,7 +8193,7 @@
       "viaje"
     ],
     "mechanics": {
-      "spheres": "Mente 2 (empujón casual) · Mente 3 (dirigir pensamientos) · Mente 4 (implantar pensamientos)",
+      "spheres": "Mente •• (empujón casual) • Mente ••• (dirigir pensamientos) • Mente •••• (implantar pensamientos)",
       "difficulty": "Fuerza de Voluntad del objetivo (mín. 4); otro mago = FdV +3; Gente de la Noche = hasta FdV +5",
       "resistance": "Fuerza de Voluntad a dificultad 6"
     },
@@ -8224,7 +8224,7 @@
       "coincidente"
     ],
     "mechanics": {
-      "spheres": "Entropía 2 o Fuerzas 2 (bloquear escaneo) · Datos 2 / Fuerzas 2 (engañar escáner) · Entropía 3 / Fuerzas 2 (lectura falsa correcta)",
+      "spheres": "Entropía •• o Fuerzas •• (bloquear escaneo) • Datos •• / Fuerzas •• (engañar escáner) • Entropía ••• / Fuerzas •• (lectura falsa correcta)",
       "successes": "3+ (escáneres mundanos); 5+ (seguridad especial)",
       "coincidental": true
     },
@@ -8255,7 +8255,7 @@
       "viaje"
     ],
     "mechanics": {
-      "spheres": "Entropía 2 / Fuerzas 2 (fallos de equipo) · Datos 2 / Fuerzas 2 (lectura falsa)",
+      "spheres": "Entropía •• / Fuerzas •• (fallos de equipo) • Datos •• / Fuerzas •• (lectura falsa)",
       "successes": "3+ para el resultado deseado; Trasfondo Arcano 3+ para falso positivo",
       "failure": "fallo = identificación rechazada; fracaso = alarma"
     },
@@ -8286,7 +8286,7 @@
       "mente"
     ],
     "mechanics": {
-      "spheres": "Iluminación 4 (proyecta Efecto de Mente 2 constante)"
+      "spheres": "Iluminación 4 (proyecta Efecto de Mente •• constante)"
     },
     "sources": [
       {
@@ -8317,7 +8317,7 @@
       "entropia"
     ],
     "mechanics": {
-      "spheres": "Iluminación 4 (Efecto constante de Datos 2 / Fuerzas 2 / Entropía 1)",
+      "spheres": "Iluminación 4 (Efecto constante de Datos •• / Fuerzas •• / Entropía •)",
       "roll": "4 dados de Astucia + Percepción; disfraces/Arcano = tirada enfrentada"
     },
     "sources": [
@@ -8349,7 +8349,7 @@
       "ciencia-dimensional"
     ],
     "mechanics": {
-      "spheres": "Iluminación 5 (Efecto constante de Vida 1 / Materia 1 / Ciencia Dimensional 1)"
+      "spheres": "Iluminación 5 (Efecto constante de Vida • / Materia • / Ciencia Dimensional 1)"
     },
     "related": [],
     "sources": [
@@ -8408,7 +8408,7 @@
       "viaje"
     ],
     "mechanics": {
-      "spheres": "Mente (empujón mental) + Entropía 3 / Fuerzas 2 (credenciales falsas)",
+      "spheres": "Mente (empujón mental) + Entropía ••• / Fuerzas •• (credenciales falsas)",
       "backgrounds": "Fama, Rango, Recursos"
     },
     "related": [],
@@ -8438,7 +8438,7 @@
       "coincidente"
     ],
     "mechanics": {
-      "spheres": "Entropía 2, Fuerzas 2 o ambas (+ Tiempo 1 opcional)",
+      "spheres": "Entropía ••, Fuerzas •• o ambas (+ Tiempo • opcional)",
       "coincidental": true
     },
     "sources": [
@@ -8468,7 +8468,7 @@
       "coincidente"
     ],
     "mechanics": {
-      "spheres": "Entropía 3 (+ Correspondencia 3 para gran multitud lejana; + Mente 2 para impulso)",
+      "spheres": "Entropía ••• (+ Correspondencia ••• para gran multitud lejana; + Mente •• para impulso)",
       "successes": "2 a 5 (mayoría de multitudes); densas requieren más",
       "coincidental": true
     },
@@ -8499,7 +8499,7 @@
       "vuelo"
     ],
     "mechanics": {
-      "spheres": "Fuerzas (base) · +Mente 3 y/o Vida 2 / Cardinal 2 (atar); Vida 2 (a sí mismo) / Vida 3 (a otro)"
+      "spheres": "Fuerzas (base) • +Mente ••• y/o Vida •• / Cardinal •• (atar); Vida •• (a sí mismo) / Vida ••• (a otro)"
     },
     "sources": [
       {
@@ -8526,7 +8526,7 @@
       "vuelo"
     ],
     "mechanics": {
-      "spheres": "Fuerzas + Materia 2",
+      "spheres": "Fuerzas + Materia ••",
       "speed": "32 km (20 millas)/h por cada éxito gastado"
     },
     "sources": [
@@ -8556,7 +8556,7 @@
       "vuelo"
     ],
     "mechanics": {
-      "spheres": "Vida 3 (Vida 4 a otro) / Fuerzas 2 (alas biológicas) · Materia 2 / Fuerzas 2 (alas mecánicas; +Cardinal 2 batería)",
+      "spheres": "Vida ••• (Vida •••• a otro) / Fuerzas •• (alas biológicas) • Materia •• / Fuerzas •• (alas mecánicas; +Cardinal •• batería)",
       "speed": "20 metros por acción (potencia muscular)",
       "fatigue": "3 acciones por punto de Resistencia; luego FdV dif. 6; luego 1 nivel contundente por acción, después letal"
     },
@@ -8586,7 +8586,7 @@
       "viaje"
     ],
     "mechanics": {
-      "spheres": "Correspondencia 3 (caminar entre localizaciones)",
+      "spheres": "Correspondencia ••• (caminar entre localizaciones)",
       "range_table": {
         "Uno": "A la vista",
         "Dos": "Lugar muy familiar (hogar, sanctum)",
@@ -8663,7 +8663,7 @@
       "viaje"
     ],
     "mechanics": {
-      "spheres": "Correspondencia 3",
+      "spheres": "Correspondencia •••",
       "successes": "éxitos base de la tabla + 1 por cada parpadeo (ej. 3 lugares a la vista = 6 éxitos)",
       "vulgar": true
     },
@@ -8694,7 +8694,7 @@
       "coincidente"
     ],
     "mechanics": {
-      "spheres": "Fuerzas 2 + Correspondencia (3) (+ Mente 2 opcional)",
+      "spheres": "Fuerzas •• + Correspondencia (3) (+ Mente •• opcional)",
       "coincidental": "sí, si nadie es testigo"
     },
     "sources": [
@@ -8722,7 +8722,7 @@
       "viaje"
     ],
     "mechanics": {
-      "spheres": "Correspondencia 2 a 5 (mover objetos)"
+      "spheres": "Correspondencia •• a ••••• (mover objetos)"
     },
     "sources": [
       {
@@ -8751,7 +8751,7 @@
       "mente"
     ],
     "mechanics": {
-      "spheres": "Materia 2 (inanimado) · Vida 4 (orgánico complejo)",
+      "spheres": "Materia •• (inanimado) • Vida •••• (orgánico complejo)",
       "requirement": "al menos 1 punto de Correspondencia por cada punto en las otras Esferas involucradas"
     },
     "sources": [
@@ -8781,7 +8781,7 @@
       "vulgar"
     ],
     "mechanics": {
-      "spheres": "Correspondencia 4 (+ Mente 1 para percepciones; + Vida 3 para independencia)",
+      "spheres": "Correspondencia •••• (+ Mente • para percepciones; + Vida ••• para independencia)",
       "successes": "éxitos base (localización menos familiar) + 1 por cada 'yo' (+ 1 más por cada 'yo' independiente)",
       "vulgar": true
     },
@@ -8812,7 +8812,7 @@
       "vulgar"
     ],
     "mechanics": {
-      "spheres": "Correspondencia 3 (Puerta efímera) · Correspondencia 4 (Puerta/Portal mayor) · +Espíritu 4 (Umbra) · +Mente 5 / Espíritu 4 (Reino Astral, exige Correspondencia 5)",
+      "spheres": "Correspondencia ••• (Puerta efímera) • Correspondencia •••• (Puerta/Portal mayor) • +Espíritu •••• (Umbra) • +Mente ••••• / Espíritu •••• (Reino Astral, exige Correspondencia •••••)",
       "successes": "10 o más para paso permanente",
       "vulgar": true
     },
@@ -8841,7 +8841,7 @@
       "viaje"
     ],
     "mechanics": {
-      "spheres": "Correspondencia 3 o 4",
+      "spheres": "Correspondencia ••• o ••••",
       "successes": "según la tabla Lugares de teletransporte"
     },
     "sources": [
@@ -8869,7 +8869,7 @@
       "vulgar"
     ],
     "mechanics": {
-      "spheres": "Correspondencia 4+",
+      "spheres": "Correspondencia ••••+",
       "successes": "10 básicos (umbral permanente) + éxitos de la tabla Lugares de teletransporte (2 adicionales muy familiar; 5 adicionales solo oído)"
     },
     "related": [],
@@ -8898,7 +8898,7 @@
       "ritual"
     ],
     "mechanics": {
-      "spheres": "Correspondencia 5 (Maestro)",
+      "spheres": "Correspondencia ••••• (Maestro)",
       "difficulty": "mínima 6 (probablemente 7+)",
       "paradox": "5 puntos (mejor caso); fracaso 6+ (quizás el doble)",
       "successes": "10 o más (tareas disparatadas/divinas); distorsión burda 20+"
@@ -8927,7 +8927,7 @@
       "espacio"
     ],
     "mechanics": {
-      "spheres": "Correspondencia 5"
+      "spheres": "Correspondencia •••••"
     },
     "review": {
       "reason": "Sección truncada en el límite del fragmento (bloque 440): el texto termina en 'el Narrador podría manejar esta clase de cosas de dos formas:' sin enumerar las dos formas/sistemas. Mecánica incompleta, no inventada."
@@ -8996,7 +8996,7 @@
       "paradoja"
     ],
     "mechanics": {
-      "spheres": "Correspondencia 5 (teóricamente también posible con la Esfera Datos opcional)",
+      "spheres": "Correspondencia ••••• (teóricamente también posible con la Esfera Datos opcional)",
       "successes": "Base de 10 éxitos por capa, +10 por cada 'capa' involucrada. Ejemplo: 'superponer' un trozo en el Sáhara exigiría al menos 20 éxitos.",
       "area": "Cada 'trozo' transpuesto ≈ 0,65 kilómetros cuadrados o 0,25 millas cuadradas, o menos. +10 éxitos por trozo adicional de esa medida. Trozo de 5,2 kilómetros cuadrados (2 millas cuadradas) costaría 80 éxitos.",
       "difficulty": "9 si no hay testigos presentes, 10 si los hay. No se permite ningún modificador.",
@@ -9035,7 +9035,7 @@
       "paradoja"
     ],
     "mechanics": {
-      "spheres": "Correspondencia 5 / Fuerzas 5 / Materia 5 / Cardinal 4 para cambiar un lugar por otro",
+      "spheres": "Correspondencia ••••• / Fuerzas ••••• / Materia ••••• / Cardinal •••• para cambiar un lugar por otro",
       "sphere_additions": [
         "Vida 4 para que las cosas vivas trasplantadas no mueran",
         "Mente 4 para que los organismos no se aterroricen ante el cambio súbito de entorno",
@@ -9112,7 +9112,7 @@
       "chi"
     ],
     "mechanics": {
-      "spheres": "Cardinal 2 (extrae Quintaesencia en vez de daño); Cardinal 3 (variante); Cardinal 5 (aniquila al oponente)",
+      "spheres": "Cardinal •• (extrae Quintaesencia en vez de daño); Cardinal ••• (variante); Cardinal ••••• (aniquila al oponente)",
       "vulgaridad": "Cardinal 3 coincidente; Cardinal 5 vulgar"
     },
     "sources": [
@@ -9139,7 +9139,7 @@
       "elemental"
     ],
     "mechanics": {
-      "spheres": "Vida 3 + Cardinal 3 + Fuerzas 3 o Materia 3",
+      "spheres": "Vida ••• + Cardinal ••• + Fuerzas ••• o Materia •••",
       "coste": "1 punto de Quintaesencia por turno",
       "vulgaridad": "vulgar (salvo donde el Consenso admite artes marciales legendarias)"
     },
@@ -9166,7 +9166,7 @@
       "defensa"
     ],
     "mechanics": {
-      "spheres": "Correspondencia 1 o 2, Entropía 2, Fuerzas 2, o Tiempo 1",
+      "spheres": "Correspondencia • o ••, Entropía ••, Fuerzas ••, o Tiempo •",
       "efecto": "Areté suma +1 a la dificultad del oponente por cada éxito; éxitos extra en la duración la prolongan varios turnos",
       "vulgaridad": "coincidente"
     },
@@ -9193,7 +9193,7 @@
       "defensa"
     ],
     "mechanics": {
-      "spheres": "Vida 3 (absorber daño / aumentar Resistencia); Mente 3 (ignorar penalización por heridas)",
+      "spheres": "Vida ••• (absorber daño / aumentar Resistencia); Mente ••• (ignorar penalización por heridas)",
       "exitos": "2 éxitos: absorber daño letal. 3 éxitos: absorber daño agravado. +1 éxito por punto de Resistencia hasta 5; 2 éxitos por punto por encima de 5.",
       "coste": "sanar daño agravado: 1 punto de Quintaesencia por nivel de Salud",
       "vulgaridad": "coincidente; vulgar con niveles de resistencia inhumanos a la vista"
@@ -9248,7 +9248,7 @@
       "defensa"
     ],
     "mechanics": {
-      "spheres": "Fuerzas 2 (escudo cinético invisible)",
+      "spheres": "Fuerzas •• (escudo cinético invisible)",
       "exitos": "1 éxito: una flecha. 2 éxitos: un disparo. 3 éxitos: una lluvia de flechas/balas. 5 éxitos: cualquier cosa razonable.",
       "mantenimiento": "reconjurar cada turno o gastar 1 éxito por turno adicional; sin coste de Quintaesencia salvo que use chi",
       "vulgaridad": "esquivar coincidente; detener en el aire vulgar"
@@ -9276,7 +9276,7 @@
       "distancia"
     ],
     "mechanics": {
-      "spheres": "Fuerzas 2",
+      "spheres": "Fuerzas ••",
       "dificultad": "tirada de Areté a dificultad 5",
       "efecto": "cada éxito reduce la dificultad del ataque en -1 (máx -3); Fuerzas añade 1 éxito automático a las tiradas de daño",
       "vulgaridad": "coincidente"
@@ -9304,7 +9304,7 @@
       "distancia"
     ],
     "mechanics": {
-      "spheres": "Entropía 2 o Fuerzas 2",
+      "spheres": "Entropía •• o Fuerzas ••",
       "tirada": "Destreza + Armas de Fuego a dificultad 8; acierta a un oponente por éxito",
       "efecto": "Areté reduce la dificultad -1 por éxito (máx -3); cada objetivo sufre sólo el daño base del arma; sólo pistolas o subfusiles",
       "vulgaridad": "coincidente"
@@ -9332,7 +9332,7 @@
       "tiempo"
     ],
     "mechanics": {
-      "spheres": "Tiempo 3; invertida y adjuntada con Correspondencia 2 o Vida 3",
+      "spheres": "Tiempo •••; invertida y adjuntada con Correspondencia •• o Vida •••",
       "efecto": "una acción adicional por cada 2 éxitos",
       "vulgaridad": "coincidente hasta 3 acciones extra por turno (o 3 turnos por acción); vulgar por encima"
     },
@@ -9361,7 +9361,7 @@
       "berserker"
     ],
     "mechanics": {
-      "spheres": "Vida 3 + Mente 3 (+ Vida 3 garras + Vida 3 sanar + Cardinal 2 + Espíritu 2 + Tiempo 3); opcional Entropía 1, Materia 2",
+      "spheres": "Vida ••• + Mente ••• (+ Vida ••• garras + Vida ••• sanar + Cardinal •• + Espíritu •• + Tiempo •••); opcional Entropía •, Materia ••",
       "exitos": "Vida 3: 1 éxito por punto de Rasgo hasta 5, 2 por punto por encima de 5. Mente 3: 3 éxitos adicionales. Garras: 1 éxito adicional. Espíritu 2: 1 éxito adicional. Tiempo 3: 2 éxitos por acción adicional. Cada turno de furia: 1 éxito adicional.",
       "coste": "Cardinal 2: 1 punto de Quintaesencia por golpe asestado (daño agravado)",
       "vulgaridad": "coincidente salvo manifestaciones extremas; sólo termina con muerte, incapacitación o Mente 4-5"
@@ -9390,7 +9390,7 @@
       "avatar"
     ],
     "mechanics": {
-      "spheres": "Vida 4 / Espíritu 4 / Mente 3 / Tiempo 3 / Materia 2 / Cardinal 2 / Entropía 1",
+      "spheres": "Vida •••• / Espíritu •••• / Mente ••• / Tiempo ••• / Materia •• / Cardinal •• / Entropía •",
       "statblock": "Fuerza 8, Destreza 5, Resistencia 8; más de 3,6 metros de alto; más de 1 tonelada; seis o más brazos",
       "exitos": "al menos 30 éxitos para manifestarse",
       "vulgaridad": "extremadamente vulgar",
@@ -9419,7 +9419,7 @@
       "vida"
     ],
     "mechanics": {
-      "spheres": "Vida 3 (cambios menores propios), Vida 4 (grandes transformaciones propias), Vida 5 (metamorfosis perfecta propia); Vida 4-5 para otro ser orgánico"
+      "spheres": "Vida ••• (cambios menores propios), Vida •••• (grandes transformaciones propias), Vida ••••• (metamorfosis perfecta propia); Vida ••••-5 para otro ser orgánico"
     },
     "sources": [
       {
@@ -9444,7 +9444,7 @@
       "vida"
     ],
     "mechanics": {
-      "spheres": "Vida 3 (Vida 4 para otros personajes)",
+      "spheres": "Vida ••• (Vida •••• para otros personajes)",
       "efecto": "aumenta o reduce Atributos corporales en un punto por éxito",
       "vulgaridad": "coincidente dentro del rango humano (1-5); vulgar más allá o con cambios radicales de apariencia"
     },
@@ -9473,7 +9473,7 @@
       "gente-de-la-noche"
     ],
     "mechanics": {
-      "spheres": "Espíritu 3 y Vida 4 o superior (forzar/cambiar la forma); Vida 4 o 5 para cambiar a la Gente de la Noche"
+      "spheres": "Espíritu ••• y Vida •••• o superior (forzar/cambiar la forma); Vida •••• o ••••• para cambiar a la Gente de la Noche"
     },
     "sources": [
       {
@@ -9499,7 +9499,7 @@
       "correspondencia"
     ],
     "mechanics": {
-      "spheres": "Correspondencia 4 / Vida 4 / Mente 2; o Vida 5 (Maestro de Vida), con Mente 2 opcional",
+      "spheres": "Correspondencia •••• / Vida •••• / Mente ••; o Vida ••••• (Maestro de Vida), con Mente •• opcional",
       "efecto": "generalmente una criatura por éxito por encima de la base"
     },
     "sources": [
@@ -9526,7 +9526,7 @@
       "creacion"
     ],
     "mechanics": {
-      "spheres": "Vida 3 / Cardinal 2 (organismos simples); Vida 5 / Mente 5 / Cardinal 2 (superiores); + Espíritu 5 (alma); Vida 5 / Espíritu 4 / Cardinal 2 (bolsa de carne con espíritu); Tiempo 3 opcional (acelerar)",
+      "spheres": "Vida ••• / Cardinal •• (organismos simples); Vida ••••• / Mente ••••• / Cardinal •• (superiores); + Espíritu ••••• (alma); Vida ••••• / Espíritu •••• / Cardinal •• (bolsa de carne con espíritu); Tiempo ••• opcional (acelerar)",
       "vulgaridad": "génesis instantánea vulgar"
     },
     "sources": [
@@ -9553,7 +9553,7 @@
       "clon"
     ],
     "mechanics": {
-      "spheres": "Mente 5 (imprimir/transferir la mente); Correspondencia 5 / Mente 5 / Vida 3 (controlar varios duplicados)",
+      "spheres": "Mente ••••• (imprimir/transferir la mente); Correspondencia ••••• / Mente ••••• / Vida ••• (controlar varios duplicados)",
       "coste": "un éxito por doble adicional"
     },
     "sources": [
@@ -9579,7 +9579,7 @@
       "potenciar-habilidades"
     ],
     "mechanics": {
-      "spheres": "Tiempo 1 (sencillo); opcionalmente Correspondencia 1 o 3, Entropía 1 o 2, Fuerzas 1 o 2, Vida 1, Mente 2 o 3, Materia 1, Cardinal 1 o 3, Espíritu 1",
+      "spheres": "Tiempo • (sencillo); opcionalmente Correspondencia • o •••, Entropía • o ••, Fuerzas • o ••, Vida •, Mente •• o •••, Materia •, Cardinal • o •••, Espíritu •",
       "efecto": "Areté reduce la dificultad de una tirada de Atributo + Habilidad en -1 por éxito (máx -3)",
       "restriccion": "no reduce la dificultad de la tirada de Areté de conjuración; sí la de un ritual preparado, nunca por debajo de -3",
       "vulgaridad": "coincidente"
@@ -9608,7 +9608,7 @@
       "percepcion"
     ],
     "mechanics": {
-      "spheres": "Tiempo 2 + Mente 3 (para uno mismo) o Mente 4 (para otro)",
+      "spheres": "Tiempo •• + Mente ••• (para uno mismo) o Mente •••• (para otro)",
       "efecto": "cuantos más éxitos, más vívidos y ajustados los recuerdos"
     },
     "sources": [
@@ -9634,7 +9634,7 @@
       "contramagia"
     ],
     "mechanics": {
-      "spheres": "Tiempo 2",
+      "spheres": "Tiempo ••",
       "efecto": "cada éxito resta un éxito de los intentos de otros magos con Tiempo",
       "vulgaridad": "coincidente los primeros 5 éxitos; vulgar tras eso"
     },
@@ -9688,7 +9688,7 @@
       "viaje-temporal"
     ],
     "mechanics": {
-      "spheres": "Tiempo 3",
+      "spheres": "Tiempo •••",
       "exitos": "según la tabla Tareas de la Magia de Tiempo; reversiones mayores = tareas mayores",
       "nota": "sujeto a la penalización de Efectos de Tiempo repetidos"
     },
@@ -9715,7 +9715,7 @@
       "viaje-temporal"
     ],
     "mechanics": {
-      "spheres": "Tiempo 3 + Vida 3 + Mente 1 (uno mismo); Vida 5 / Mente 4 / Tiempo 3 (otros seres)",
+      "spheres": "Tiempo ••• + Vida ••• + Mente • (uno mismo); Vida ••••• / Mente •••• / Tiempo ••• (otros seres)",
       "exitos": "al menos 3 éxitos adicionales por cada personaje reiniciado aparte del conjurador",
       "vulgaridad": "vulgar"
     },
@@ -9742,7 +9742,7 @@
       "combinado"
     ],
     "mechanics": {
-      "spheres": "Tiempo 3 + Vida 3, Materia 3 o Entropía 3 (objetos) / 4 (organismos)",
+      "spheres": "Tiempo ••• + Vida •••, Materia ••• o Entropía ••• (objetos) / 4 (organismos)",
       "exitos": "según la tabla Tareas de la Magia de Tiempo; dependen de la cantidad de edad, no de los años",
       "vulgaridad": "siempre vulgar"
     },
@@ -11494,7 +11494,7 @@
       "acceso"
     ],
     "mechanics": {
-      "spheres": "Correspondencia 2 (al menos dos puntos)",
+      "spheres": "Correspondencia •• (al menos dos puntos)",
       "dice_pool": "Inteligencia + Informática",
       "difficulty": "7 (6 con la opción de la Esfera Datos)",
       "successes": "tres éxitos",
@@ -11530,7 +11530,7 @@
       "acceso"
     ],
     "mechanics": {
-      "spheres": "Vida 4 / Correspondencia 2 / Fuerzas 2",
+      "spheres": "Vida •••• / Correspondencia •• / Fuerzas ••",
       "dice_pool": "Inteligencia + Informática (tirada extendida)",
       "difficulty": "7 (sigue siendo 7 aun usando la Esfera Datos)",
       "successes": "cinco éxitos",
@@ -11562,7 +11562,7 @@
       "hot-links"
     ],
     "mechanics": {
-      "spheres": "Correspondencia 3",
+      "spheres": "Correspondencia •••",
       "coincidence": "Coincidente dentro del mismo sector; vulgar al saltar entre sectores",
       "difficulty": "Base según el sector; +2 al saltar a ciegas; 8 o 9 para aparecer en un sector restringido",
       "notes": "Requiere un «programa de salto». Fallo/fracaso al entrar en sector restringido: muerte del icono o volcado caótico de datos."
@@ -11594,7 +11594,7 @@
       "celosia"
     ],
     "mechanics": {
-      "spheres": "Espíritu 3 (para caminar de lado); Espíritu 4 (para abrir una entrada en la Celosía o llevar a otra persona)",
+      "spheres": "Espíritu ••• (para caminar de lado); Espíritu •••• (para abrir una entrada en la Celosía o llevar a otra persona)",
       "notes": "El viajero se convierte en efimeria. Se necesitan al menos dos puntos en la Esfera Espíritu para tocar espíritus; la Magia de Materia y Vida no afecta a los espíritus."
     },
     "sources": [
@@ -11622,7 +11622,7 @@
       "umbra"
     ],
     "mechanics": {
-      "spheres": "Mente 4 o 5 / Espíritu 3 / Cardinal 2"
+      "spheres": "Mente •••• o ••••• / Espíritu ••• / Cardinal ••"
     },
     "sources": [
       {
@@ -11648,7 +11648,7 @@
       "ir-a-la-deriva"
     ],
     "mechanics": {
-      "spheres": "Cardinal 2 / Mente 2",
+      "spheres": "Cardinal •• / Mente ••",
       "duration": "un día por éxito",
       "difficulty": "9 menos los éxitos obtenidos por el aliado"
     },
@@ -11677,7 +11677,7 @@
       "tierras-de-las-sombras"
     ],
     "mechanics": {
-      "spheres": "Entropía 4 / Espíritu 3 / Vida 2"
+      "spheres": "Entropía •••• / Espíritu ••• / Vida ••"
     },
     "sources": [
       {
@@ -11704,7 +11704,7 @@
       "tierras-de-las-sombras"
     ],
     "mechanics": {
-      "spheres": "Entropía 4 / Espíritu 4 / Vida 3"
+      "spheres": "Entropía •••• / Espíritu •••• / Vida •••"
     },
     "sources": [
       {
@@ -11731,7 +11731,7 @@
       "proteccion"
     ],
     "mechanics": {
-      "spheres": "Cardinal 3 / Espíritu 2"
+      "spheres": "Cardinal ••• / Espíritu ••"
     },
     "sources": [
       {
@@ -11758,7 +11758,7 @@
       "ceremonia"
     ],
     "mechanics": {
-      "spheres": "Espíritu 4 / Cardinal 3",
+      "spheres": "Espíritu •••• / Cardinal •••",
       "cost": "toda la Quintaesencia del mago; al menos un éxito por cada punto en el Trasfondo Avatar"
     },
     "sources": [
@@ -11786,7 +11786,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Vida 3"
+      "spheres": "Vida •••"
     },
     "sources": [
       {
@@ -11813,7 +11813,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Vida 2 (3)"
+      "spheres": "Vida •• (3)"
     },
     "sources": [
       {
@@ -11840,7 +11840,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Vida 2 (3)"
+      "spheres": "Vida •• (3)"
     },
     "sources": [
       {
@@ -11867,7 +11867,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Vida 2 / Cardinal 2"
+      "spheres": "Vida •• / Cardinal ••"
     },
     "sources": [
       {
@@ -11894,7 +11894,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Materia 2 / Cardinal 2"
+      "spheres": "Materia •• / Cardinal ••"
     },
     "sources": [
       {
@@ -11921,7 +11921,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Vida 4 (5)"
+      "spheres": "Vida •••• (5)"
     },
     "sources": [
       {
@@ -11948,7 +11948,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Vida 2 (3)"
+      "spheres": "Vida •• (3)"
     },
     "sources": [
       {
@@ -11975,7 +11975,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Vida 2 (simple) o 5 (complejo) / Cardinal 2"
+      "spheres": "Vida •• (simple) o 5 (complejo) / Cardinal ••"
     },
     "sources": [
       {
@@ -12002,7 +12002,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Vida 3 / Espíritu 2"
+      "spheres": "Vida ••• / Espíritu ••"
     },
     "sources": [
       {
@@ -12029,7 +12029,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Vida 2 (3)"
+      "spheres": "Vida •• (3)"
     },
     "sources": [
       {
@@ -12056,7 +12056,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Vida 3 / Mente 3"
+      "spheres": "Vida ••• / Mente •••"
     },
     "sources": [
       {
@@ -12083,7 +12083,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Vida 3 / Materia 2"
+      "spheres": "Vida ••• / Materia ••"
     },
     "sources": [
       {
@@ -12110,7 +12110,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Vida 3 (4)"
+      "spheres": "Vida ••• (4)"
     },
     "sources": [
       {
@@ -12137,7 +12137,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Vida 5 / Cardinal 2"
+      "spheres": "Vida ••••• / Cardinal ••"
     },
     "sources": [
       {
@@ -12164,7 +12164,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Mente 2 (sugerir el sueño); o Mente 4, Vida 3 o ambas (inducir al sueño instantáneo)"
+      "spheres": "Mente •• (sugerir el sueño); o Mente ••••, Vida ••• o ambas (inducir al sueño instantáneo)"
     },
     "sources": [
       {
@@ -12191,7 +12191,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Vida 3 (4)"
+      "spheres": "Vida ••• (4)"
     },
     "sources": [
       {
@@ -12218,7 +12218,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Tiempo 3"
+      "spheres": "Tiempo •••"
     },
     "sources": [
       {
@@ -12245,7 +12245,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Entropía 4; o Vida 4"
+      "spheres": "Entropía ••••; o Vida ••••"
     },
     "sources": [
       {
@@ -12272,7 +12272,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Vida 4 / Espíritu 4 / Cardinal 3"
+      "spheres": "Vida •••• / Espíritu •••• / Cardinal •••"
     },
     "sources": [
       {
@@ -12299,7 +12299,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Vida 3+ / [Esfera elemental apropiada] 3+ (Vida 4+ / [Esfera elemental apropiada] 3+)"
+      "spheres": "Vida •••+ / [Esfera elemental apropiada] 3+ (Vida ••••+ / [Esfera elemental apropiada] 3+)"
     },
     "sources": [
       {
@@ -12326,7 +12326,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Entropía 2+"
+      "spheres": "Entropía ••+"
     },
     "sources": [
       {
@@ -12354,7 +12354,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Entropía 3 / Vida 3; o Cardinal 5",
+      "spheres": "Entropía ••• / Vida •••; o Cardinal •••••",
       "spheres_alt": "Entropía 3+; o Cardinal 5 (tabla «Poderes espirituales»)"
     },
     "sources": [
@@ -12385,7 +12385,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Entropía 3+"
+      "spheres": "Entropía •••+"
     },
     "sources": [
       {
@@ -12412,7 +12412,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Entropía 1"
+      "spheres": "Entropía •"
     },
     "sources": [
       {
@@ -12440,7 +12440,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Cardinal 2 (para consagrarlo); o [Esferas usadas para crear las propiedades especiales del Amuleto]"
+      "spheres": "Cardinal •• (para consagrarlo); o [Esferas usadas para crear las propiedades especiales del Amuleto]"
     },
     "sources": [
       {
@@ -12468,7 +12468,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Cardinal 4 / [Esferas en los Efectos de la Maravilla]"
+      "spheres": "Cardinal •••• / [Esferas en los Efectos de la Maravilla]"
     },
     "sources": [
       {
@@ -12496,7 +12496,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Espíritu 4 (para vincular un espíritu involuntario); o Cardinal 4 (espíritu voluntario)"
+      "spheres": "Espíritu •••• (para vincular un espíritu involuntario); o Cardinal •••• (espíritu voluntario)"
     },
     "sources": [
       {
@@ -12524,7 +12524,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Materia 5 (inanimado); o Vida 5 (vivo) / Cardinal 3"
+      "spheres": "Materia ••••• (inanimado); o Vida ••••• (vivo) / Cardinal •••"
     },
     "sources": [
       {
@@ -12552,7 +12552,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Cardinal 4 / [Esferas en los Efectos de la Maravilla]"
+      "spheres": "Cardinal •••• / [Esferas en los Efectos de la Maravilla]"
     },
     "sources": [
       {
@@ -12579,7 +12579,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Mente 2+"
+      "spheres": "Mente ••+"
     },
     "sources": [
       {
@@ -12606,7 +12606,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Mente 3+; o Mente 3+ / Vida 3+"
+      "spheres": "Mente •••+; o Mente •••+ / Vida •••+"
     },
     "sources": [
       {
@@ -12633,7 +12633,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Fuerzas 2+ / Cardinal 2+"
+      "spheres": "Fuerzas ••+ / Cardinal ••+"
     },
     "sources": [
       {
@@ -12660,7 +12660,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Fuerzas 4+ / Mente 4 / Cardinal 4+"
+      "spheres": "Fuerzas ••••+ / Mente •••• / Cardinal ••••+"
     },
     "sources": [
       {
@@ -12687,7 +12687,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Espíritu 4"
+      "spheres": "Espíritu ••••"
     },
     "sources": [
       {
@@ -12714,7 +12714,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Espíritu 3"
+      "spheres": "Espíritu •••"
     },
     "sources": [
       {
@@ -12776,7 +12776,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Espíritu 3 (funciona como Vida 3)"
+      "spheres": "Espíritu ••• (funciona como Vida •••)"
     },
     "sources": [
       {
@@ -12803,7 +12803,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Entropía 3 / Cardinal 2; o Espíritu 3"
+      "spheres": "Entropía ••• / Cardinal ••; o Espíritu •••"
     },
     "sources": [
       {
@@ -12830,7 +12830,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Mente 4 / Espíritu 4"
+      "spheres": "Mente •••• / Espíritu ••••"
     },
     "sources": [
       {
@@ -12857,7 +12857,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Espíritu 3"
+      "spheres": "Espíritu •••"
     },
     "sources": [
       {
@@ -12884,7 +12884,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Cardinal 4 / Espíritu 4"
+      "spheres": "Cardinal •••• / Espíritu ••••"
     },
     "sources": [
       {
@@ -12911,7 +12911,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Espíritu 2"
+      "spheres": "Espíritu ••"
     },
     "sources": [
       {
@@ -12938,7 +12938,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Espíritu 3"
+      "spheres": "Espíritu •••"
     },
     "sources": [
       {
@@ -12965,7 +12965,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Espíritu 2"
+      "spheres": "Espíritu ••"
     },
     "sources": [
       {
@@ -12992,7 +12992,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Espíritu 1"
+      "spheres": "Espíritu •"
     },
     "sources": [
       {
@@ -13019,7 +13019,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Fuerzas 2+"
+      "spheres": "Fuerzas ••+"
     },
     "sources": [
       {
@@ -13046,7 +13046,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Fuerzas 2"
+      "spheres": "Fuerzas ••"
     },
     "sources": [
       {
@@ -13073,7 +13073,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Fuerzas 3 / Cardinal 2 (fuego, viento); o Materia 3 / Cardinal 2 (tierra, metal, agua); o Vida 3 / Cardinal 2 (madera viva)"
+      "spheres": "Fuerzas ••• / Cardinal •• (fuego, viento); o Materia ••• / Cardinal •• (tierra, metal, agua); o Vida ••• / Cardinal •• (madera viva)"
     },
     "sources": [
       {
@@ -13100,7 +13100,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Fuerzas 2+ / Cardinal 2"
+      "spheres": "Fuerzas ••+ / Cardinal ••"
     },
     "sources": [
       {
@@ -13127,7 +13127,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Materia 3+ / Cardinal 2"
+      "spheres": "Materia •••+ / Cardinal ••"
     },
     "sources": [
       {
@@ -13154,7 +13154,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Materia 3+; o Cardinal 2"
+      "spheres": "Materia •••+; o Cardinal ••"
     },
     "sources": [
       {
@@ -13181,7 +13181,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Entropía 3 / Tiempo 3; o Materia 3"
+      "spheres": "Entropía ••• / Tiempo •••; o Materia •••"
     },
     "sources": [
       {
@@ -13208,7 +13208,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Fuerzas 2+"
+      "spheres": "Fuerzas ••+"
     },
     "sources": [
       {
@@ -13262,7 +13262,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Fuerzas 2 / Vida 2"
+      "spheres": "Fuerzas •• / Vida ••"
     },
     "sources": [
       {
@@ -13289,7 +13289,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Fuerzas 4+ / Cardinal 2"
+      "spheres": "Fuerzas ••••+ / Cardinal ••"
     },
     "sources": [
       {
@@ -13316,7 +13316,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Fuerzas 2+; o Correspondencia 3 / Vida 2; o Materia 2"
+      "spheres": "Fuerzas ••+; o Correspondencia ••• / Vida ••; o Materia ••"
     },
     "sources": [
       {
@@ -13343,7 +13343,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Cardinal 2"
+      "spheres": "Cardinal ••"
     },
     "sources": [
       {
@@ -13370,7 +13370,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Fuerzas 3+ / [Esfera apropiada] 2"
+      "spheres": "Fuerzas •••+ / [Esfera apropiada] 2"
     },
     "sources": [
       {
@@ -13397,7 +13397,7 @@
       "efecto-de-esfera"
     ],
     "mechanics": {
-      "spheres": "Materia 2+ / [Esfera apropiada] 2"
+      "spheres": "Materia ••+ / [Esfera apropiada] 2"
     },
     "sources": [
       {
@@ -14928,7 +14928,7 @@
     ],
     "mechanics": {
       "effect": "Abrir portal entre dos localizaciones",
-      "spheres": "Correspondencia 4"
+      "spheres": "Correspondencia ••••"
     },
     "sources": [
       {
@@ -14954,7 +14954,7 @@
     ],
     "mechanics": {
       "effect": "Acelerar / frenar el tiempo",
-      "spheres": "Tiempo 3"
+      "spheres": "Tiempo •••"
     },
     "sources": [
       {
@@ -14980,7 +14980,7 @@
     ],
     "mechanics": {
       "effect": "Afectar ser / objeto distante",
-      "spheres": "Correspondencia 2+"
+      "spheres": "Correspondencia ••+"
     },
     "sources": [
       {
@@ -15006,7 +15006,7 @@
     ],
     "mechanics": {
       "effect": "Conjurar ser terrenal",
-      "spheres": "Correspondencia 4 / Vida 2"
+      "spheres": "Correspondencia •••• / Vida ••"
     },
     "sources": [
       {
@@ -15032,7 +15032,7 @@
     ],
     "mechanics": {
       "effect": "Crear imágenes múltiples",
-      "spheres": "Correspondencia 3; o Fuerzas 2+ / Cardinal 2"
+      "spheres": "Correspondencia •••; o Fuerzas ••+ / Cardinal ••"
     },
     "sources": [
       {
@@ -15058,7 +15058,7 @@
     ],
     "mechanics": {
       "effect": "Crear múltiples objetos",
-      "spheres": "Correspondencia 5 / Materia 3 / Cardinal 2"
+      "spheres": "Correspondencia ••••• / Materia ••• / Cardinal ••"
     },
     "sources": [
       {
@@ -15084,7 +15084,7 @@
     ],
     "mechanics": {
       "effect": "Envejecer / revertir envejecimiento*",
-      "spheres": "Tiempo 3+ / Vida 4 (ser vivo) o Materia 2 (objeto)"
+      "spheres": "Tiempo •••+ / Vida •••• (ser vivo) o Materia •• (objeto)"
     },
     "sources": [
       {
@@ -15110,7 +15110,7 @@
     ],
     "mechanics": {
       "effect": "Establecer desencadenante temporal",
-      "spheres": "Tiempo 4"
+      "spheres": "Tiempo ••••"
     },
     "sources": [
       {
@@ -15136,7 +15136,7 @@
     ],
     "mechanics": {
       "effect": "Guardar / expulsar",
-      "spheres": "Correspondencia 2+ / Cardinal 2+ / [Esfera apropiada] 2+"
+      "spheres": "Correspondencia ••+ / Cardinal ••+ / [Esfera apropiada] 2+"
     },
     "sources": [
       {
@@ -15162,7 +15162,7 @@
     ],
     "mechanics": {
       "effect": "Hacer retroceder el tiempo",
-      "spheres": "Tiempo 3*"
+      "spheres": "Tiempo •••*"
     },
     "sources": [
       {
@@ -15188,7 +15188,7 @@
     ],
     "mechanics": {
       "effect": "Clarividencia",
-      "spheres": "Correspondencia 2; o Mente 3 / Correspondencia 2"
+      "spheres": "Correspondencia ••; o Mente ••• / Correspondencia ••"
     },
     "sources": [
       {
@@ -15214,7 +15214,7 @@
     ],
     "mechanics": {
       "effect": "Compartir percepciones",
-      "spheres": "Mente 2 / [Esfera adecuada] 1"
+      "spheres": "Mente •• / [Esfera adecuada] 1"
     },
     "sources": [
       {
@@ -15240,7 +15240,7 @@
     ],
     "mechanics": {
       "effect": "Conjurar ilusiones mentales",
-      "spheres": "Mente 2+"
+      "spheres": "Mente ••+"
     },
     "sources": [
       {
@@ -15266,7 +15266,7 @@
     ],
     "mechanics": {
       "effect": "Control mental",
-      "spheres": "Mente 4"
+      "spheres": "Mente ••••"
     },
     "sources": [
       {
@@ -15292,7 +15292,7 @@
     ],
     "mechanics": {
       "effect": "Cuerpo astral de luz",
-      "spheres": "Mente 4+ / Espíritu 3 / Cardinal 2"
+      "spheres": "Mente ••••+ / Espíritu ••• / Cardinal ••"
     },
     "sources": [
       {
@@ -15318,7 +15318,7 @@
     ],
     "mechanics": {
       "effect": "Desordenar pensamientos",
-      "spheres": "Mente 3"
+      "spheres": "Mente •••"
     },
     "sources": [
       {
@@ -15344,7 +15344,7 @@
     ],
     "mechanics": {
       "effect": "Entrar en un sueño",
-      "spheres": "Mente 3"
+      "spheres": "Mente •••"
     },
     "sources": [
       {
@@ -15370,7 +15370,7 @@
     ],
     "mechanics": {
       "effect": "Esconder / alterar aura",
-      "spheres": "Mente 1 o Cardinal 2"
+      "spheres": "Mente • o Cardinal ••"
     },
     "sources": [
       {
@@ -15396,7 +15396,7 @@
     ],
     "mechanics": {
       "effect": "Esconder Avatar",
-      "spheres": "Espíritu 2 / Mente 1"
+      "spheres": "Espíritu •• / Mente •"
     },
     "sources": [
       {
@@ -15422,7 +15422,7 @@
     ],
     "mechanics": {
       "effect": "Esconder pensamientos",
-      "spheres": "Mente 1"
+      "spheres": "Mente •"
     },
     "sources": [
       {
@@ -15448,7 +15448,7 @@
     ],
     "mechanics": {
       "effect": "Escudar la mente",
-      "spheres": "Mente 1 (2)"
+      "spheres": "Mente • (2)"
     },
     "sources": [
       {
@@ -15474,7 +15474,7 @@
     ],
     "mechanics": {
       "effect": "Estallido de dolor psíquico",
-      "spheres": "Mente 3; o Mente 3 / Vida 3 para causar daño agravado"
+      "spheres": "Mente •••; o Mente ••• / Vida ••• para causar daño agravado"
     },
     "sources": [
       {
@@ -15500,7 +15500,7 @@
     ],
     "mechanics": {
       "effect": "Influir en el ánimo",
-      "spheres": "Mente 2"
+      "spheres": "Mente ••"
     },
     "sources": [
       {
@@ -15526,7 +15526,7 @@
     ],
     "mechanics": {
       "effect": "Influir en el subconsciente",
-      "spheres": "Mente 3+"
+      "spheres": "Mente •••+"
     },
     "sources": [
       {
@@ -15578,7 +15578,7 @@
     ],
     "mechanics": {
       "effect": "Profecía / visión del pasado",
-      "spheres": "Mente 2 / Tiempo 2; o Tiempo 2"
+      "spheres": "Mente •• / Tiempo ••; o Tiempo ••"
     },
     "sources": [
       {
@@ -15604,7 +15604,7 @@
     ],
     "mechanics": {
       "effect": "Proyección astral",
-      "spheres": "Mente 4+"
+      "spheres": "Mente ••••+"
     },
     "sources": [
       {
@@ -15630,7 +15630,7 @@
     ],
     "mechanics": {
       "effect": "Telepatía",
-      "spheres": "Mente 3"
+      "spheres": "Mente •••"
     },
     "sources": [
       {
@@ -15656,7 +15656,7 @@
     ],
     "mechanics": {
       "effect": "Traducir lenguas",
-      "spheres": "Mente 3; Mente 3 / Fuerzas 2 para traducir una lengua de modo que otros también la entiendan"
+      "spheres": "Mente •••; Mente ••• / Fuerzas •• para traducir una lengua de modo que otros también la entiendan"
     },
     "sources": [
       {
@@ -15682,7 +15682,7 @@
     ],
     "mechanics": {
       "effect": "Ver a través de ilusiones mentales",
-      "spheres": "Mente 4"
+      "spheres": "Mente ••••"
     },
     "sources": [
       {
@@ -15708,7 +15708,7 @@
     ],
     "mechanics": {
       "effect": "Ver a través de los ojos de otro",
-      "spheres": "Mente 3"
+      "spheres": "Mente •••"
     },
     "sources": [
       {
@@ -15734,7 +15734,7 @@
     ],
     "mechanics": {
       "effect": "Ver auras",
-      "spheres": "Mente 1; o Espíritu 1"
+      "spheres": "Mente •; o Espíritu •"
     },
     "sources": [
       {
@@ -15760,7 +15760,7 @@
     ],
     "mechanics": {
       "effect": "Ver Avatar",
-      "spheres": "Mente 3 / Cardinal 2 / Espíritu 1"
+      "spheres": "Mente ••• / Cardinal •• / Espíritu •"
     },
     "sources": [
       {
@@ -15786,7 +15786,7 @@
     ],
     "mechanics": {
       "effect": "Abrir Manantial",
-      "spheres": "Cardinal 4"
+      "spheres": "Cardinal ••••"
     },
     "sources": [
       {
@@ -15812,7 +15812,7 @@
     ],
     "mechanics": {
       "effect": "Absorber Quintaesencia",
-      "spheres": "Cardinal 3"
+      "spheres": "Cardinal •••"
     },
     "sources": [
       {
@@ -15838,7 +15838,7 @@
     ],
     "mechanics": {
       "effect": "Alimentar nuevo Patrón",
-      "spheres": "Cardinal 2 / [Esfera adecuada]"
+      "spheres": "Cardinal •• / [Esfera adecuada]"
     },
     "sources": [
       {
@@ -15864,7 +15864,7 @@
     ],
     "mechanics": {
       "effect": "Anular Paradoja",
-      "spheres": "Cardinal 5"
+      "spheres": "Cardinal •••••"
     },
     "sources": [
       {
@@ -15924,7 +15924,7 @@
     ],
     "mechanics": {
       "effect": "Canalizar Quintaesencia",
-      "spheres": "Cardinal 3"
+      "spheres": "Cardinal •••"
     },
     "sources": [
       {
@@ -15950,7 +15950,7 @@
     ],
     "mechanics": {
       "effect": "Compartir / intercambiar Quintaesencia",
-      "spheres": "Cardinal 3"
+      "spheres": "Cardinal •••"
     },
     "sources": [
       {
@@ -15976,7 +15976,7 @@
     ],
     "mechanics": {
       "effect": "Crear arma de Quintaesencia",
-      "spheres": "Cardinal 3*",
+      "spheres": "Cardinal •••*",
       "footnote": "* Cuesta un punto de Quintaesencia por nivel de Salud infligido"
     },
     "sources": [
@@ -16003,7 +16003,7 @@
     ],
     "mechanics": {
       "effect": "Crear nuevo Nodo",
-      "spheres": "Cardinal 5"
+      "spheres": "Cardinal •••••"
     },
     "sources": [
       {
@@ -16029,7 +16029,7 @@
     ],
     "mechanics": {
       "effect": "Destruir por drenaje de Quintaesencia",
-      "spheres": "Cardinal 4 (objeto) o Cardinal 5 (criatura)"
+      "spheres": "Cardinal •••• (objeto) o Cardinal ••••• (criatura)"
     },
     "sources": [
       {
@@ -16055,7 +16055,7 @@
     ],
     "mechanics": {
       "effect": "Drenar Nodo",
-      "spheres": "Cardinal 4"
+      "spheres": "Cardinal ••••"
     },
     "sources": [
       {
@@ -16081,7 +16081,7 @@
     ],
     "mechanics": {
       "effect": "Drenar Quintaesencia",
-      "spheres": "Cardinal 3"
+      "spheres": "Cardinal •••"
     },
     "sources": [
       {
@@ -16107,7 +16107,7 @@
     ],
     "mechanics": {
       "effect": "Encantar arma / armadura",
-      "spheres": "Cardinal 2"
+      "spheres": "Cardinal ••"
     },
     "sources": [
       {
@@ -16133,7 +16133,7 @@
     ],
     "mechanics": {
       "effect": "Energizar Periapto",
-      "spheres": "Cardinal 3"
+      "spheres": "Cardinal •••"
     },
     "sources": [
       {
@@ -16159,7 +16159,7 @@
     ],
     "mechanics": {
       "effect": "Refinar Tass",
-      "spheres": "Cardinal 4"
+      "spheres": "Cardinal ••••"
     },
     "sources": [
       {
@@ -16185,7 +16185,7 @@
     ],
     "mechanics": {
       "effect": "Tejer cuerpo de luz simple",
-      "spheres": "Cardinal 2 (sólo el cuerpo, no el viaje astral)"
+      "spheres": "Cardinal •• (sólo el cuerpo, no el viaje astral)"
     },
     "sources": [
       {
@@ -20231,7 +20231,7 @@
       "truco"
     ],
     "mechanics": {
-      "spheres": "Correspondencia ·· / Fuerzas ·· / Mente ··"
+      "spheres": "Correspondencia •• / Fuerzas •• / Mente ••"
     },
     "sources": [
       {
@@ -20257,7 +20257,7 @@
       "ajuste"
     ],
     "mechanics": {
-      "spheres": "Fuerzas ·· ; quizás con Mente ··"
+      "spheres": "Fuerzas •• ; quizás con Mente ••"
     },
     "sources": [
       {
@@ -20284,7 +20284,7 @@
       "artes-marciales"
     ],
     "mechanics": {
-      "spheres": "Vida ··· , Fuerzas ·· , o ambas; quizás con Entropía ·· y/o Cardinal ··"
+      "spheres": "Vida ••• , Fuerzas •• , o ambas; quizás con Entropía •• y/o Cardinal ••"
     },
     "sources": [
       {
@@ -20340,7 +20340,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "Mente ··· / Datos ··· ; a menudo con Fuerzas · , Vida · , Materia · , Cardinal · , Ciencia Dimensional ·· , o cualquier combinación de éstas"
+      "spheres": "Mente ••• / Datos ••• ; a menudo con Fuerzas • , Vida • , Materia • , Cardinal • , Ciencia Dimensional •• , o cualquier combinación de éstas"
     },
     "sources": [
       {
@@ -20396,7 +20396,7 @@
       "efecto"
     ],
     "mechanics": {
-      "spheres": "Mente ···· ; quizás con Entropía ··"
+      "spheres": "Mente •••• ; quizás con Entropía ••"
     },
     "sources": [
       {
@@ -20452,7 +20452,7 @@
       "procedimiento"
     ],
     "mechanics": {
-      "spheres": "Materia ·· / Fuerzas ·· , y/o Cardinal ····"
+      "spheres": "Materia •• / Fuerzas •• , y/o Cardinal ••••"
     },
     "sources": [
       {
@@ -20478,7 +20478,7 @@
       "procedimiento"
     ],
     "mechanics": {
-      "spheres": "Mente ·· o ··· / Fuerzas · / Materia · ; quizás con Fuerzas ···"
+      "spheres": "Mente •• o ••• / Fuerzas • / Materia • ; quizás con Fuerzas •••"
     },
     "sources": [
       {
@@ -20534,7 +20534,7 @@
       "procedimiento"
     ],
     "mechanics": {
-      "spheres": "Ciencia Dimensional ··· ; quizás con Fuerzas ··· / Cardinal ··"
+      "spheres": "Ciencia Dimensional ••• ; quizás con Fuerzas ••• / Cardinal ••"
     },
     "sources": [
       {
@@ -20560,7 +20560,7 @@
       "procedimiento"
     ],
     "mechanics": {
-      "spheres": "Tiempo ··· / Fuerzas ··"
+      "spheres": "Tiempo ••• / Fuerzas ••"
     },
     "sources": [
       {
@@ -20587,7 +20587,7 @@
       "akashico"
     ],
     "mechanics": {
-      "spheres": "Fuerzas ·· / Vida ·· / Tiempo ··"
+      "spheres": "Fuerzas •• / Vida •• / Tiempo ••"
     },
     "sources": [
       {
@@ -20614,7 +20614,7 @@
       "chamanismo"
     ],
     "mechanics": {
-      "spheres": "Espíritu ···"
+      "spheres": "Espíritu •••"
     },
     "sources": [
       {
@@ -20640,7 +20640,7 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "Mente ··· / Correspondencia ··"
+      "spheres": "Mente ••• / Correspondencia ••"
     },
     "sources": [
       {
@@ -20666,7 +20666,7 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "Materia ··· o ···· / Cardinal ·· / Tiempo ··",
+      "spheres": "Materia ••• o •••• / Cardinal •• / Tiempo ••",
       "notas_extraccion": "En la fuente, el bloque de Esferas aparece en un párrafo separado inmediatamente después del encabezado; valores íntegros."
     },
     "sources": [
@@ -20693,7 +20693,7 @@
       "disciplina"
     ],
     "mechanics": {
-      "spheres": "Mente ··· o ···· / Datos ·· / Fuerzas ·· quizás con Espíritu en vez de Datos ··",
+      "spheres": "Mente ••• o •••• / Datos •• / Fuerzas •• quizás con Espíritu en vez de Datos ••",
       "notas_extraccion": "La fuente aclara que 'en sentido estricto no se trata de una fórmula'; se cataloga como Efecto/disciplina de Esferas. Tras el encabezado la extracción dejó un ';' suelto (artefacto), sin afectar al bloque de Esferas."
     },
     "sources": [
@@ -20750,7 +20750,7 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "Vida ··· o ···· ; quizás con Materia ·· , Cardinal ·· o ambos"
+      "spheres": "Vida ••• o •••• ; quizás con Materia •• , Cardinal •• o ambos"
     },
     "sources": [
       {
@@ -20777,7 +20777,7 @@
       "maleficia"
     ],
     "mechanics": {
-      "spheres": "Entropía ···· , Vida ··· / Tiempo ··· , o las tres; normalmente con Correspondencia o Datos",
+      "spheres": "Entropía •••• , Vida ••• / Tiempo ••• , o las tres; normalmente con Correspondencia o Datos",
       "variante_hombre-tic-tac": "Variante con Datos que envejece a la víctima a distancia (Datos/Correspondencia + Tiempo + Vida)."
     },
     "sources": [
@@ -20835,7 +20835,7 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "Materia ····· / Vida ·····"
+      "spheres": "Materia ••••• / Vida •••••"
     },
     "sources": [
       {
@@ -22496,7 +22496,7 @@
     "name_es": "Carta Negra / Pequeña Caja Negra",
     "mechanics": {
       "category": "Ajuste Iluminado",
-      "spheres": "Correspondencia 2, Fuerzas 2, Mente 2"
+      "spheres": "Correspondencia ••, Fuerzas ••, Mente ••"
     },
     "sources": [
       {
@@ -22518,7 +22518,7 @@
     "name_es": "Disparo Poderoso",
     "mechanics": {
       "category": "Ajuste Iluminado",
-      "spheres": "Fuerzas 2, Mente 2 (op)",
+      "spheres": "Fuerzas ••, Mente •• (op)",
       "notes": "Las Esferas marcadas con (op) son optativas para realizar el Efecto."
     },
     "sources": [
@@ -22541,7 +22541,7 @@
     "name_es": "Bomba Dimensional",
     "mechanics": {
       "category": "Procedimiento Tecnocrático",
-      "spheres": "Ciencia Dimensional 3, Fuerzas 3 (op) / Cardinal 2 (op)",
+      "spheres": "Ciencia Dimensional 3, Fuerzas ••• (op) / Cardinal •• (op)",
       "notes": "Las Esferas marcadas con (op) son optativas para realizar el Efecto."
     },
     "sources": [
@@ -22564,7 +22564,7 @@
     "name_es": "Pistolero de Oro",
     "mechanics": {
       "category": "Procedimiento Tecnocrático",
-      "spheres": "Tiempo 3, Fuerzas 2"
+      "spheres": "Tiempo •••, Fuerzas ••"
     },
     "sources": [
       {
@@ -22586,7 +22586,7 @@
     "name_es": "Esterilizar Evidencias",
     "mechanics": {
       "category": "Procedimiento Tecnocrático",
-      "spheres": "Materia 2, Fuerzas 2 y/o Cardinal 3"
+      "spheres": "Materia ••, Fuerzas •• y/o Cardinal •••"
     },
     "sources": [
       {
@@ -22608,7 +22608,7 @@
     "name_es": "Despertar lo Inerte",
     "mechanics": {
       "category": "Hechizo místico / fórmula tradicional",
-      "spheres": "Espíritu 3"
+      "spheres": "Espíritu •••"
     },
     "sources": [
       {
@@ -22630,7 +22630,7 @@
     "name_es": "Atrapar Balas",
     "mechanics": {
       "category": "Hechizo místico / fórmula tradicional",
-      "spheres": "Fuerzas 2, Vida 2, Tiempo 2"
+      "spheres": "Fuerzas ••, Vida ••, Tiempo ••"
     },
     "sources": [
       {
@@ -22652,7 +22652,7 @@
     "name_es": "Cadena de Cuchicheos",
     "mechanics": {
       "category": "Hechizo místico / fórmula tradicional",
-      "spheres": "Mente 3, Correspondencia 2"
+      "spheres": "Mente •••, Correspondencia ••"
     },
     "sources": [
       {
@@ -22674,7 +22674,7 @@
     "name_es": "La Infame Silla de Jardín Vampírica",
     "mechanics": {
       "category": "Hechizo místico / fórmula tradicional",
-      "spheres": "Materia 5 y Vida 5"
+      "spheres": "Materia ••••• y Vida •••••"
     },
     "sources": [
       {
@@ -22696,7 +22696,7 @@
     "name_es": "El Reluciente Penique Nuevo de Penny Dreadful",
     "mechanics": {
       "category": "Hechizo místico / fórmula tradicional",
-      "spheres": "Materia 3 o 4, Cardinal 2, Tiempo 2"
+      "spheres": "Materia ••• o ••••, Cardinal ••, Tiempo ••"
     },
     "sources": [
       {
@@ -22718,7 +22718,7 @@
     "name_es": "Garras",
     "mechanics": {
       "category": "Hechizo místico / fórmula tradicional",
-      "spheres": "Vida 3 o 4; Materia 2 (op), Cardinal 2 (op)",
+      "spheres": "Vida ••• o ••••; Materia •• (op), Cardinal •• (op)",
       "notes": "Las Esferas marcadas con (op) son optativas para realizar el Efecto."
     },
     "sources": [
@@ -30990,7 +30990,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "·· Entropía/ ·· Cardinal/ ·· Espíritu",
+      "spheres": "•• Entropía/ •• Cardinal/ •• Espíritu",
       "additional_effects": "Hacer que un fantasma adopte una forma material requiere Espíritu 3. Determinar si un informante espectral miente requiere un efecto adicional de Entropía 1."
     },
     "sources": [
@@ -31018,7 +31018,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "···· Entropía/ ·· Espíritu"
+      "spheres": "•••• Entropía/ •• Espíritu"
     },
     "sources": [
       {
@@ -31563,7 +31563,7 @@
       "tradiciones"
     ],
     "mechanics": {
-      "spheres": "··· Mente/ ·· Cardinal; opcional ···· Tiempo/ ··· Entropía; opcional ·· Datos",
+      "spheres": "••• Mente/ •• Cardinal; opcional •••• Tiempo/ ••• Entropía; opcional •• Datos",
       "sistema": "Mente 3/Cardinal 2 con al menos 6 éxitos; opción Tiempo 4/Entropía 3; variante Datos 2"
     },
     "sources": [
@@ -31591,7 +31591,7 @@
       "tradiciones"
     ],
     "mechanics": {
-      "spheres": "··· Mente/ ·· Tiempo/ ·· Cardinal",
+      "spheres": "••• Mente/ •• Tiempo/ •• Cardinal",
       "sistema": "El éxito anula la penalización de +1 causada por la interrupción de una Acción Extendida."
     },
     "sources": [
@@ -31619,7 +31619,7 @@
       "tradiciones"
     ],
     "mechanics": {
-      "spheres": "···· Fuerzas/ ··· Entropía/ ··· Correspondencia/ ··· Materia",
+      "spheres": "•••• Fuerzas/ ••• Entropía/ ••• Correspondencia/ ••• Materia",
       "sistema": "Ritual extendido; al menos 20 éxitos (una tirada por mes en solitario, por semana con decenas de personas, por día con recursos de una universidad). Con 40 éxitos la catástrofe puede limitarse a un único edificio."
     },
     "sources": [
@@ -31750,7 +31750,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "(··· Materia/ ·· Tiempo/ ·· Cardinal)",
+      "spheres": "(••• Materia/ •• Tiempo/ •• Cardinal)",
       "sistema": "Tiempo 2 rastrea la historia del documento; Cardinal genera los materiales necesarios; Materia 3 y Cardinal 2 restauran los materiales que faltan. Requiere éxitos según las Líneas Temporales de la Esfera de Tiempo (Mago 20, p. 505) más tres éxitos para un documento sencillo, hasta 10 para restaurar un libro, o 20 para restaurar un tapiz, fresco o friso."
     },
     "sources": [
@@ -31778,7 +31778,7 @@
       "proteccion"
     ],
     "mechanics": {
-      "spheres": "(·· Mente/ ·· Correspondencia/ ·· Entropía/ ·· Cardinal)",
+      "spheres": "(•• Mente/ •• Correspondencia/ •• Entropía/ •• Cardinal)",
       "sistema": "Establecer una protección menor requiere 10 éxitos más uno por cada objetivo vetado, más éxitos adicionales para establecer la fuerza. Cuesta un punto de quintaesencia, más un punto adicional por objetivo. Sigue las reglas de las Protecciones de Área Menores (HDYDT, p. 99)."
     },
     "sources": [
@@ -34850,7 +34850,7 @@
       "summoning"
     ],
     "mechanics": {
-      "spheres": "··· o ····· Multiverso, ··· Correspondencia, ·· Entropía, Opcional ···· Mente"
+      "spheres": "••• o ••••• Multiverso, ••• Correspondencia, •• Entropía, Opcional •••• Mente"
     },
     "sources": [
       {
@@ -34877,7 +34877,7 @@
       "phylactery"
     ],
     "mechanics": {
-      "spheres": "···· No-Muerte, ···· Espíritu, ···· Cardinal, ··· Conocimiento"
+      "spheres": "•••• No-Muerte, •••• Espíritu, •••• Cardinal, ••• Conocimiento"
     },
     "sources": [
       {
@@ -35103,7 +35103,7 @@
       "taftani"
     ],
     "mechanics": {
-      "spheres": "· Atar"
+      "spheres": "• Atar"
     },
     "sources": [
       {
@@ -35130,7 +35130,7 @@
       "thal-hun"
     ],
     "mechanics": {
-      "spheres": "··· Atar, Opcionalmente ·· Cardinal"
+      "spheres": "••• Atar, Opcionalmente •• Cardinal"
     },
     "sources": [
       {
@@ -35158,7 +35158,7 @@
       "favores"
     ],
     "mechanics": {
-      "spheres": "·· o ···· Telos, ·· Tiempo (Presente)"
+      "spheres": "•• o •••• Telos, •• Tiempo (Presente)"
     },
     "sources": [
       {
@@ -35191,7 +35191,7 @@
       "ksirafai"
     ],
     "mechanics": {
-      "spheres": "···· Telos, ···· Cardinal, ··· Espíritu",
+      "spheres": "•••• Telos, •••• Cardinal, ••• Espíritu",
       "damage": "Daño Agravado exclusivamente a Vampiros Cainitas",
       "notes": "Cada nivel de Daño Agravado tras absorción: -1 Punto de Sangre y +1 Generación efectiva. Ejemplo: Vampiro de Octava Generación con tres puntos de Daño Agravado -> Generación efectiva Undécima, Reserva de Sangre Máxima a doce (pierde tres). Desencadena comprobación de Rötschreck."
     },
@@ -35219,7 +35219,7 @@
       "conocimiento"
     ],
     "mechanics": {
-      "spheres": "··· Conocimiento, Opcional ·· Correspondencia/Datos, ·· Espíritu, ·· Tiempo"
+      "spheres": "••• Conocimiento, Opcional •• Correspondencia/Datos, •• Espíritu, •• Tiempo"
     },
     "sources": [
       {
@@ -35246,7 +35246,7 @@
       "mirainohmen"
     ],
     "mechanics": {
-      "spheres": "··· Conocimiento, Opcional ··· Datos o ··· Fuerzas"
+      "spheres": "••• Conocimiento, Opcional ••• Datos o ••• Fuerzas"
     },
     "sources": [
       {
@@ -35278,7 +35278,7 @@
       "psicopompo"
     ],
     "mechanics": {
-      "spheres": "····· Telos o ····· Mente, ··· Cardinal, ···· Espíritu, Opcional ····· Vida"
+      "spheres": "••••• Telos o ••••• Mente, ••• Cardinal, •••• Espíritu, Opcional ••••• Vida"
     },
     "sources": [
       {
@@ -35304,7 +35304,7 @@
       "no-muerte"
     ],
     "mechanics": {
-      "spheres": "··· o ····· No-Muerte"
+      "spheres": "••• o ••••• No-Muerte"
     },
     "sources": [
       {
@@ -35331,7 +35331,7 @@
       "vampiro"
     ],
     "mechanics": {
-      "spheres": "····· No-Muerte"
+      "spheres": "••••• No-Muerte"
     },
     "sources": [
       {
@@ -35360,7 +35360,7 @@
       "nefandos"
     ],
     "mechanics": {
-      "spheres": "·· Antimateria, ·· Cardinal, Opcionalmente ··· Fuerzas"
+      "spheres": "•• Antimateria, •• Cardinal, Opcionalmente ••• Fuerzas"
     },
     "sources": [
       {
@@ -35390,7 +35390,7 @@
       "nefandos"
     ],
     "mechanics": {
-      "spheres": "··· Antimateria, ··· Fuerzas, ·· Datos, ·· Espíritu"
+      "spheres": "••• Antimateria, ••• Fuerzas, •• Datos, •• Espíritu"
     },
     "sources": [
       {
@@ -35416,7 +35416,7 @@
       "multiverso"
     ],
     "mechanics": {
-      "spheres": "··· Multiverso"
+      "spheres": "••• Multiverso"
     },
     "sources": [
       {
@@ -37344,7 +37344,7 @@
       "procedimientos-de-ra"
     ],
     "mechanics": {
-      "spheres": "Tiempo 2"
+      "spheres": "Tiempo ••"
     },
     "notes": "El extracto original inserta tras esta entrada un fragmento suelto por corte de columna/pie de imagen ajeno al procedimiento: «inventos, los Progenitores hacen lo mismo para las formas de vida.»",
     "sources": [
@@ -37397,7 +37397,7 @@
       "procedimientos-de-ra"
     ],
     "mechanics": {
-      "spheres": "Fuerzas 2 / Fuerzas 3 Cardinal 2"
+      "spheres": "Fuerzas •• / Fuerzas ••• Cardinal ••"
     },
     "sources": [
       {
@@ -37423,7 +37423,7 @@
       "procedimientos-de-ra"
     ],
     "mechanics": {
-      "spheres": "Correspondencia 2 o 3",
+      "spheres": "Correspondencia •• o •••",
       "roll": "Inteligencia + Informática (dificultad 6, 2 éxitos)"
     },
     "sources": [
@@ -37450,7 +37450,7 @@
       "procedimientos-de-ra"
     ],
     "mechanics": {
-      "spheres": "Correspondencia 2"
+      "spheres": "Correspondencia ••"
     },
     "sources": [
       {
@@ -37477,7 +37477,7 @@
       "rai"
     ],
     "mechanics": {
-      "spheres": "Entropía 3/ Fuerzas 2/Cardinal 2 de Efecto",
+      "spheres": "Entropía •••/ Fuerzas ••/Cardinal •• de Efecto",
       "resistance": "Fuerza de Voluntad, Dificultad 6 (el éxito resta a la tirada de Areté del lanzador)",
       "per_change": "un único éxito por cambio fundacional en un Sector",
       "vulgar": "vulgar con testigos en Sectores Restringidos; +2 Dificultad adicional"
@@ -37508,7 +37508,7 @@
       "coincidente"
     ],
     "mechanics": {
-      "spheres": "Correspondencia/Datos 3 (nominal)",
+      "spheres": "Correspondencia/Datos ••• (nominal)",
       "coincidence": "Efecto coincidente en la Red Digital; saltar entre distintos Sectores es vulgar con testigos",
       "mesh_jump_mundane": "salto dentro de Sector Malla vía RA: un único éxito en Inteligencia + Informática, dificultad 5",
       "restricted_sector_jump": "Dificultad 8 o 9 + 2 por saltar entre Sectores; vulgar con testigos; fallo/fracaso provoca Muerte del Icono o Volcado Caótico de Datos",
@@ -37540,7 +37540,7 @@
       "programa"
     ],
     "mechanics": {
-      "spheres": "Entropía 5/Mente 4/Fuerzas 4/Energía Primordial 4",
+      "spheres": "Entropía •••••/Mente ••••/Fuerzas ••••/Energía Primordial 4",
       "temporary_increase": "+1 clasificación durante 1 hora; Energía Primordial igual al doble de la clasificación actual",
       "permanent_increase": "aplicación enfrentada, dificultad 9, mínimo 10 éxitos; misma cantidad de Energía Primordial",
       "decrease": "mismo programa y pruebas, sin requisito de Energía Primordial",
@@ -37572,7 +37572,7 @@
       "programa"
     ],
     "mechanics": {
-      "spheres": "Datos 5/Energía Primordial 4",
+      "spheres": "Datos •••••/Energía Primordial 4",
       "difficulty": "7",
       "successes": "mínimo 5 éxitos",
       "coincidence": "coincidente si el usuario controla el sector; en caso contrario, hay que hackearlo y sigue siendo vulgar con testigos"
@@ -37636,7 +37636,7 @@
       "aplicacion-aprobada"
     ],
     "mechanics": {
-      "spheres": "Datos ·, Ciencia Dimensional ·"
+      "spheres": "Datos •, Ciencia Dimensional •"
     },
     "sources": [
       {
@@ -37664,7 +37664,7 @@
       "aplicacion-aprobada"
     ],
     "mechanics": {
-      "spheres": "Datos ··"
+      "spheres": "Datos ••"
     },
     "sources": [
       {
@@ -37692,7 +37692,7 @@
       "aplicacion-aprobada"
     ],
     "mechanics": {
-      "spheres": "Datos ·, Ciencia Dimensional ·"
+      "spheres": "Datos •, Ciencia Dimensional •"
     },
     "sources": [
       {
@@ -37720,7 +37720,7 @@
       "aplicacion-aprobada"
     ],
     "mechanics": {
-      "spheres": "Utilidad Primordial ·, Datos ·"
+      "spheres": "Utilidad Primordial •, Datos •"
     },
     "sources": [
       {
@@ -37748,7 +37748,7 @@
       "aplicacion-aprobada"
     ],
     "mechanics": {
-      "spheres": "Datos ··, Ciencia Dimensional ··"
+      "spheres": "Datos ••, Ciencia Dimensional ••"
     },
     "sources": [
       {
@@ -37774,7 +37774,7 @@
       "ajuste"
     ],
     "mechanics": {
-      "spheres": "· Mente / · Vida",
+      "spheres": "• Mente / • Vida",
       "one_success": "detecta potencial de cambiaformas de base cánida, EC (Entidad Campanilla) o MURD",
       "three_successes": "matrices de probabilidad para reclutamiento por Entidades Hemofágicas",
       "five_successes": "detecta potencial de Entidad Post-Vital tras la muerte física"
@@ -37804,7 +37804,7 @@
       "sindicato"
     ],
     "mechanics": {
-      "spheres": "···· Cardinal / ··· Entropía",
+      "spheres": "•••• Cardinal / ••• Entropía",
       "limit": "debe conocer al grupo objetivo; no puede apuntar a un grupo mayor que su Empresa más grande (Mage 20, p.527)"
     },
     "sources": [
@@ -37831,7 +37831,7 @@
       "ajuste"
     ],
     "mechanics": {
-      "spheres": "· Vida",
+      "spheres": "• Vida",
       "activation": "pasar un asalto concentrándose; afecta plantas y animales dentro de la línea de visión"
     },
     "sources": [
@@ -37858,7 +37858,7 @@
       "ajuste"
     ],
     "mechanics": {
-      "spheres": "··· Mente",
+      "spheres": "••• Mente",
       "targets": "hasta 1d10 objetivos mortales por punto de Mente que domine, sobre una manzana de ciudad promedio",
       "paradox_note": "el riesgo de Efecto Paradoja se reduce en 1 entre multitudes inspiradas a la indiferencia"
     },
@@ -37886,7 +37886,7 @@
       "ajuste"
     ],
     "mechanics": {
-      "spheres": "··· Correspondencia / ·· Tiempo / · Entropía / · Teoría de la Utilidad Primordial",
+      "spheres": "••• Correspondencia / •• Tiempo / • Entropía / • Teoría de la Utilidad Primordial",
       "questions": "una pregunta al Narrador por éxito; ventana de predicción de 30 días",
       "hotspot_search": "1 éxito = gran barrio con un Subversor; 5 éxitos = dirección aproximada; 7+ éxitos para Subversores arraigados",
       "social_media_shortcut": "+2 de Dificultad si se rastrean redes sociales por falta de datos"
@@ -37917,7 +37917,7 @@
       "ra"
     ],
     "mechanics": {
-      "spheres": "·· Correspondencia / ·· Fuerzas",
+      "spheres": "•• Correspondencia / •• Fuerzas",
       "special": "permite intentar abrir Puertas Traseras sin estar inmerso; solo Ajustes y Procedimientos pueden interactuar con el lugar"
     },
     "sources": [
@@ -37945,7 +37945,7 @@
       "red-digital"
     ],
     "mechanics": {
-      "spheres": "·· Tiempo / · Cardinal / ··· Correspondencia",
+      "spheres": "•• Tiempo / • Cardinal / ••• Correspondencia",
       "icon_swap": "intercambiar Icono guardado por el actual como Acción Refleja; sin límite de Iconos guardados",
       "destruction": "Muerte de Icono destruye ese Icono permanentemente; Nevasca elimina el lugar guardado"
     },
@@ -37976,7 +37976,7 @@
       "ajuste"
     ],
     "mechanics": {
-      "spheres": "· Mente / ···· Materia",
+      "spheres": "• Mente / •••• Materia",
       "assessment": "Percepción + Empatía tras 5–10 minutos de conversación",
       "limit": "objeto mundano y replicable; Correspondencia y/o Tiempo permiten producir información en cuaderno o fotografía"
     },
@@ -38006,7 +38006,7 @@
       "combate"
     ],
     "mechanics": {
-      "spheres": "·· + Fuerzas / · Correspondencia (Opcional)",
+      "spheres": "•• + Fuerzas / • Correspondencia (Opcional)",
       "independent_system": "un éxito destruye smartphone, portátil o cámara; sistemas mayores exigen más éxitos",
       "damage_table": "Tabla de Daño Base (Mage 20, p.504) contra cibernética/Dispositivos eléctricos",
       "digital_web": "Iconos a 10 yardas por éxito sufren Daño Agravado; Absorción vía Fuerza de Voluntad, Dificultad 8; siempre vulgar con testigos; Contragolpe de Paradoja por Nevasca a Dificultad 4"
@@ -38039,7 +38039,7 @@
       "sindicato"
     ],
     "mechanics": {
-      "spheres": "·· Correspondencia / ·· Entropía",
+      "spheres": "•• Correspondencia / •• Entropía",
       "effect": "los éxitos se añaden permanentemente a la dificultad de cualquier tirada para determinar el origen del dispositivo"
     },
     "sources": [
@@ -38199,7 +38199,7 @@
       "procedimiento"
     ],
     "mechanics": {
-      "spheres": "··· Vida / ·· Materia/ ·· Cardinal",
+      "spheres": "••• Vida / •• Materia/ •• Cardinal",
       "administration": "1 hora para administrar",
       "duration": "protege durante 12 horas",
       "damage": "daño agravado igual a los éxitos en la tirada de activación al beber la sangre de la usuaria"
@@ -38228,7 +38228,7 @@
       "tecnocracia"
     ],
     "mechanics": {
-      "spheres": "···· Fuerzas / ···· Materia",
+      "spheres": "•••• Fuerzas / •••• Materia",
       "duration": "un minuto por éxito"
     },
     "sources": [
@@ -38254,7 +38254,7 @@
       "tecnocracia"
     ],
     "mechanics": {
-      "spheres": "···· Vida / ·· Espíritu o ·· Materia"
+      "spheres": "•••• Vida / •• Espíritu o •• Materia"
     },
     "sources": [
       {
@@ -38280,7 +38280,7 @@
       "red-digital"
     ],
     "mechanics": {
-      "spheres": "···· Vida / ··· Entropía / ·· Correspondencia / ·· Fuerzas / ·· Cardinal / ·· Tiempo (Opcional)"
+      "spheres": "•••• Vida / ••• Entropía / •• Correspondencia / •• Fuerzas / •• Cardinal / •• Tiempo (Opcional)"
     },
     "sources": [
       {
@@ -38306,7 +38306,7 @@
       "arma"
     ],
     "mechanics": {
-      "spheres": "·· Fuerzas / ·· Materia / ·· Vida / ·· Cardinal",
+      "spheres": "•• Fuerzas / •• Materia / •• Vida / •• Cardinal",
       "attack_roll": "Destreza + Armas de Fuego",
       "damage": "un nivel de daño agravado por éxito en la tirada de Iluminación (objetivos vulnerables a la luz solar)"
     },
@@ -38334,7 +38334,7 @@
       "iteracion-x"
     ],
     "mechanics": {
-      "spheres": "··· Correspondencia / ··· Vida / ··· Mente / ····· Espíritu",
+      "spheres": "••• Correspondencia / ••• Vida / ••• Mente / ••••• Espíritu",
       "roll": "Iluminación",
       "success_table": {
         "1-3 Éxitos": "Obtén acceso al equivalente de 4 horas de investigación mundana en 10 minutos.",
@@ -40401,7 +40401,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "·· Correspondencia/ · Entropía",
+      "spheres": "•• Correspondencia/ • Entropía",
       "effect_class": "siempre coincidente"
     },
     "sources": [
@@ -40426,7 +40426,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "··· Correspondencia",
+      "spheres": "••• Correspondencia",
       "effect_class": "vulgar cuando es presenciado por Durmientes"
     },
     "sources": [
@@ -40451,7 +40451,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "···· Correspondencia/ ··· Vida/ · Mente",
+      "spheres": "•••• Correspondencia/ ••• Vida/ • Mente",
       "effect_class": "siempre vulgar"
     },
     "sources": [
@@ -40476,7 +40476,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "· Entropía/ · Materia",
+      "spheres": "• Entropía/ • Materia",
       "effect_class": "siempre coincidente"
     },
     "sources": [
@@ -40501,7 +40501,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "··· Entropía",
+      "spheres": "••• Entropía",
       "effect_class": "coincidente, a menos que el éxito de la siguiente acción fuera normalmente imposible",
       "cost": "Recursos -1 punto hasta el final de la historia (sacrificio)"
     },
@@ -40529,7 +40529,7 @@
       "gran-obra"
     ],
     "mechanics": {
-      "spheres": "····· Entropía/ ···· Mente",
+      "spheres": "••••• Entropía/ •••• Mente",
       "effect_class": "siempre vulgar",
       "gran_obra": true,
       "successes": "diez éxitos",
@@ -40558,7 +40558,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "· Fuerzas",
+      "spheres": "• Fuerzas",
       "effect_class": "siempre coincidente"
     },
     "sources": [
@@ -40583,7 +40583,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "··· Fuerzas/ ··· Mente",
+      "spheres": "••• Fuerzas/ ••• Mente",
       "effect_class": "siempre vulgar",
       "resisted_roll": "Fuerza + Atletismo contra la tirada de lanzamiento",
       "ranged_defense": "+1 dificultad por grado de éxito, máximo +3"
@@ -40611,7 +40611,7 @@
       "ritual"
     ],
     "mechanics": {
-      "spheres": "····· Fuerzas/ ···· Entropía",
+      "spheres": "••••• Fuerzas/ •••• Entropía",
       "effect_class": "siempre vulgar",
       "ritual": true,
       "successes": "quince éxitos",
@@ -40639,7 +40639,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "· Vida",
+      "spheres": "• Vida",
       "effect_class": "siempre coincidente"
     },
     "sources": [
@@ -40664,7 +40664,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "··· Vida",
+      "spheres": "••• Vida",
       "effect_class": "coincidente sobre semillas/brotes con fertilizante real; vulgar sobre planta ya crecida"
     },
     "sources": [
@@ -40689,7 +40689,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "····· Vida / ··· Entropía / ·· Materia",
+      "spheres": "••••• Vida / ••• Entropía / •• Materia",
       "contested_roll": "tirada enfrentada (p. ej. Carisma + Etiqueta o Inteligencia + Enigmas)",
       "on_win": "cura daño Letal igual al grado de éxito o bonificación equivalente contra venenos/enfermedades durante el resto de la historia",
       "on_loss": "el oponente recupera Fuerza de Voluntad gastada; el perdedor recibe el grado de éxito en daño Letal"
@@ -40716,7 +40716,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "· Materia",
+      "spheres": "• Materia",
       "effect_class": "siempre coincidente"
     },
     "sources": [
@@ -40741,7 +40741,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "··· Materia",
+      "spheres": "••• Materia",
       "effect_class": "suele ser coincidente si las alteraciones no resultan evidentemente fuera de lugar",
       "duration": "hasta que termina la escena"
     },
@@ -40767,7 +40767,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "····· Materia/ ·· Cardinal",
+      "spheres": "••••• Materia/ •• Cardinal",
       "effect_class": "suele ser coincidente al imprimir moneda apropiada a la clase social; vulgar al imprimir objetos indebidos o exceso de valor",
       "effect": "cada éxito aumenta en 1 los Recursos, máximo Recursos 10, durante el resto del capítulo"
     },
@@ -40793,7 +40793,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "·· Mente",
+      "spheres": "•• Mente",
       "effect_class": "suele ser coincidente, salvo al usar un deseo secreto del objetivo",
       "effect": "tres éxitos identifican los deseos y reducen en 2 la dificultad de cualquier manipulación social"
     },
@@ -40819,7 +40819,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "···· Mente",
+      "spheres": "•••• Mente",
       "effect_class": "coincidente si la oportunidad está dentro de los intereses habituales del objetivo",
       "effect": "cuatro éxitos reducen en 3 la dificultad de tiradas sociales; alternativamente reduce la reserva de dados sociales en el grado de éxito, hasta -5"
     },
@@ -40846,7 +40846,7 @@
       "ritual"
     ],
     "mechanics": {
-      "spheres": "····· Mente/ opcionalmente con ·· Materia",
+      "spheres": "••••• Mente/ opcionalmente con •• Materia",
       "effect_class": "coincidente si la mentalidad no se aparta demasiado de las creencias del sujeto",
       "ritual": true,
       "successes": "cuatro éxitos (crear la mentalidad); un éxito para ponerse/quitarse después",
@@ -40874,7 +40874,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "· Cardinal",
+      "spheres": "• Cardinal",
       "effect_class": "coincidente",
       "reference": "tabla de Empresas Primordiales (Mago 20, p. 527)"
     },
@@ -40900,7 +40900,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "··· Cardinal/ ·· Materia/ opcionalmente con ··· Correspondencia",
+      "spheres": "••• Cardinal/ •• Materia/ opcionalmente con ••• Correspondencia",
       "effect_class": "coincidente",
       "effect": "1 éxito canaliza Quintaesencia igual a la puntuación de Cardinal; 2 éxitos igual al Trasfondo de Recursos; +1 Quintaesencia por grado adicional"
     },
@@ -40927,7 +40927,7 @@
       "ritual"
     ],
     "mechanics": {
-      "spheres": "····· Cardinal/ ··· Vida/ ··· Materia/ ··· Mente",
+      "spheres": "••••• Cardinal/ ••• Vida/ ••• Materia/ ••• Mente",
       "effect_class": "vulgar",
       "ritual": true,
       "successes": "20 éxitos",
@@ -40957,7 +40957,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "·· Espíritu",
+      "spheres": "•• Espíritu",
       "effect_class": "coincidente"
     },
     "sources": [
@@ -40982,7 +40982,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "··· Espíritu/ ··· Cardinal / ·· Materia",
+      "spheres": "••• Espíritu/ ••• Cardinal / •• Materia",
       "effect_class": "coincidente a menos que el espíritu haga algo extravagante",
       "cost": "sacrificio de al menos dos puntos de Recursos (máximo ocho); cada grado de éxito reduce el sacrificio en uno, mínimo un punto"
     },
@@ -41009,7 +41009,7 @@
       "ritual"
     ],
     "mechanics": {
-      "spheres": "····· Espíritu/ ····· Entropía",
+      "spheres": "••••• Espíritu/ ••••• Entropía",
       "effect_class": "vulgar",
       "ritual": true,
       "successes": "20 éxitos",
@@ -41038,7 +41038,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "·· Tiempo",
+      "spheres": "•• Tiempo",
       "effect_class": "coincidente"
     },
     "sources": [
@@ -41063,7 +41063,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "··· Tiempo/ ··· Entropía/ · Mente",
+      "spheres": "••• Tiempo/ ••• Entropía/ • Mente",
       "effect_class": "vulgar"
     },
     "review": {
@@ -41091,7 +41091,7 @@
       "formula"
     ],
     "mechanics": {
-      "spheres": "····· Tiempo/ ····· Materia/ ··· Entropía",
+      "spheres": "••••• Tiempo/ ••••• Materia/ ••• Entropía",
       "effect_class": "vulgar",
       "effect": "2 éxitos preservan objetos sostenibles con las dos manos; 3 éxitos objetos de hasta poco más de dos metros; 4 éxitos vehículos",
       "reference": "tabla de 'Proezas de Magia del Tiempo' (Mago 20, p. 505)"
