@@ -325,6 +325,87 @@
     "related": []
   },
   {
+    "id": "lightsaber",
+    "type": "sphere-effect",
+    "line": "mage",
+    "name_en": "Lightsaber",
+    "name_es": "Sable de Luz",
+    "body_es": "un puñado de Rangos y Efectos (como el Efecto Sable de Luz, Cardinal 2 en Mago Edición Revisada, que requiere Cardinal 3 en Mago 20) difieren entre ediciones.",
+    "tags": [
+      "cardinal",
+      "efecto",
+      "arma",
+      "edicion"
+    ],
+    "mechanics": {
+      "spheres": "Cardinal 3",
+      "edition_notes": "Cardinal 3 en Mago 20; Cardinal 2 en Mago Edición Revisada"
+    },
+    "sources": [
+      {
+        "book_id": "m20-como-haces-eso-es",
+        "book_title_es": "¿Cómo HACES Eso?",
+        "page": null,
+        "section_anchor": "sistemas-y-ediciones",
+        "variant": "base"
+      }
+    ]
+  },
+  {
+    "id": "spirit-touch",
+    "type": "sphere-effect",
+    "line": "mage",
+    "name_en": "Spirit Touch",
+    "name_es": "Toque del Espíritu",
+    "body_es": "asume que el mago cuyas Artes de manipulación de la realidad incluyan su conexión con la esencia espiritual del mundo (como lo haría un manipulador elemental de las series de Avatar) necesita un Rango 2 o superior en la Esfera Espíritu (el Efecto de Toque del Espíritu), además de cualesquiera otras Esferas que requiera emplear.",
+    "tags": [
+      "espiritu",
+      "efecto",
+      "regla-opcional"
+    ],
+    "mechanics": {
+      "spheres": "Espíritu 2"
+    },
+    "sources": [
+      {
+        "book_id": "m20-como-haces-eso-es",
+        "book_title_es": "¿Cómo HACES Eso?",
+        "page": null,
+        "section_anchor": "regla-opcional-algo-de-espiritu",
+        "variant": "base"
+      }
+    ]
+  },
+  {
+    "id": "grow-fangs",
+    "type": "sphere-effect",
+    "line": "mage",
+    "name_en": "Grow Fangs",
+    "name_es": "Desarrollar colmillos",
+    "body_es": "Nuestro chamán de afilados colmillos requeriría, pues, realizar un Efecto de Vida 3 / Espíritu 2 (Vida para hacer crecer los colmillos y Espíritu para llamar a la esencia espiritual de Lobo e invocar el poder de ese Tótem). Además, el jugador podría añadir Cardinal 2 para causar daño agravado con esos colmillos. [...] Cualquier mago con Vida 3 puede desarrollar colmillos, pero la ceremonia en la que un mago invoca el poder de Lobo requiere un nivel de comprensión espiritual que un mago puramente materialista no podría aprehender.",
+    "tags": [
+      "vida",
+      "espiritu",
+      "cardinal",
+      "transformacion",
+      "cambio-de-forma"
+    ],
+    "mechanics": {
+      "spheres": "Vida 3 / Espíritu 2",
+      "spheres_base": "Vida 3",
+      "optional": "+Cardinal 2 para causar daño agravado; Espíritu 2 sólo requerido bajo la regla opcional de foco espiritual (¿Algo de Espíritu?)"
+    },
+    "sources": [
+      {
+        "book_id": "m20-como-haces-eso-es",
+        "book_title_es": "¿Cómo HACES Eso?",
+        "page": null,
+        "section_anchor": "regla-opcional-algo-de-espiritu",
+        "variant": "base"
+      }
+    ]
+  },
+  {
     "id": "idioma",
     "type": "merit",
     "line": "mage",
