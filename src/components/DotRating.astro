@@ -1,0 +1,28 @@
+---
+// Renders a numeric rating as filled/empty pips, preserving the exact count
+// even if it exceeds `max` (e.g. a conflicting variant with rating_max: 6).
+export interface Props {
+  value: number;
+  max?: number;
+  /** Prefixed onto the accessible label, e.g. "Coste: 3 de 5". */
+  label?: string;
+}
+const { value, max = 5, label } = Astro.props;
+const filled = Math.max(0, Math.round(value));
+const effectiveMax = Math.max(max, filled);
+const empty = effectiveMax - filled;
+const text = `${value} de ${effectiveMax}`;
+---
+
+<span class="dot-rating" role="img" aria-label={label ? `${label}: ${text}` : text}>
+  <span aria-hidden="true">{'●'.repeat(filled)}{'○'.repeat(empty)}</span>
+</span>
+
+<style>
+  .dot-rating {
+    letter-spacing: 0.12em;
+    color: var(--accent);
+    font-size: 0.95em;
+    white-space: nowrap;
+  }
+</style>

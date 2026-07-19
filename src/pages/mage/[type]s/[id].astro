@@ -1,0 +1,109 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+import StatBlock from '../../../components/StatBlock.astro';
+import SourceBadge from '../../../components/SourceBadge.astro';
+import Callout from '../../../components/Callout.astro';
+import { typeLabelEs, typeSegment } from '../../../lib/taxonomy';
+import { bookUrl } from '../../../lib/entities';
+
+type EntityData = CollectionEntry<'entities'>['data'];
+
+export async function getStaticPaths() {
+  const entities = await getCollection('entities', (entry) => entry.data.line === 'mage');
+  return entities.map((entry) => ({
+    params: { type: entry.data.type, id: entry.data.id },
+    props: { entity: entry.data },
+  }));
+}
+
+export interface Props {
+  entity: EntityData;
+}
+
+const { entity } = Astro.props;
+const label = typeLabelEs(entity.type);
+
+// Best-effort cross-link back to the reading section this entity was
+// extracted from (reading <-> reference, via `defines_entities`).
+const books = await getCollection('books', (entry) => entry.data.line === entity.line);
+let sourceSectionHref: string | undefined;
+outer: for (const book of books) {
+  for (const chapter of book.data.chapters) {
+    for (const section of chapter.sections) {
+      if (section.defines_entities?.includes(entity.id)) {
+        sourceSectionHref = `${bookUrl(entity.line, book.data.book_id)}#${section.anchor}`;
+        break outer;
+      }
+    }
+  }
+}
+---
+
+<Layout title={`${entity.name_es} — ${label} — Mago`} description={entity.body_es} theme="mage">
+  <Breadcrumb
+    items={[
+      { label: 'Inicio', href: '/' },
+      { label: 'Mago', href: '/mage' },
+      { label, href: `/mage/${typeSegment(entity.type)}` },
+      { label: entity.name_es },
+    ]}
+  />
+
+  <p class="type-badge">{label}</p>
+  <h1>{entity.name_es}</h1>
+
+  {
+    entity.review && (
+      <Callout kind="warning" title="Requiere revisión">
+        <p>{entity.review.reason ?? 'Las fuentes no coinciden en las mecánicas de esta entrada.'}</p>
+      </Callout>
+    )
+  }
+
+  {entity.body_es && <p class="body-es">{entity.body_es}</p>}
+
+  <StatBlock type={entity.type} mechanics={entity.mechanics} />
+
+  <h2>Fuentes</h2>
+  <ul class="sources">
+    {
+      entity.sources.map((source) => (
+        <li>
+          <SourceBadge source={source} />
+        </li>
+      ))
+    }
+  </ul>
+
+  {
+    sourceSectionHref && (
+      <p>
+        <a href={sourceSectionHref}>Ver en el manual →</a>
+      </p>
+    )
+  }
+
+  <style>
+    .type-badge {
+      margin: 0;
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--muted);
+    }
+    .body-es {
+      max-width: var(--measure);
+    }
+    .sources {
+      list-style: none;
+      margin: 0 0 var(--space-3);
+      padding: 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5em;
+    }
+  </style>
+</Layout>

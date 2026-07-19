@@ -1,0 +1,78 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+import EntityCard from '../../../components/EntityCard.astro';
+import { typeLabelEs } from '../../../lib/taxonomy';
+
+export async function getStaticPaths() {
+  const entities = await getCollection('entities', (entry) => entry.data.line === 'mage');
+  const types = [...new Set(entities.map((entry) => entry.data.type))];
+  return types.map((type) => ({ params: { type } }));
+}
+
+const { type } = Astro.params as { type: string };
+const entities = (await getCollection('entities', (entry) => entry.data.line === 'mage' && entry.data.type === type))
+  .map((entry) => entry.data)
+  .sort((a, b) => a.name_es.localeCompare(b.name_es, 'es'));
+
+const label = typeLabelEs(type);
+
+// Zero-JS "filter": group by the `category` mechanic when the type has one
+// (merits/flaws), with plain anchor jump-links. No client JS needed.
+const categories = [...new Set(entities.map((e) => (e.mechanics as Record<string, unknown>).category).filter(Boolean))] as string[];
+const grouped = categories.length > 0
+  ? categories.sort((a, b) => a.localeCompare(b, 'es')).map((category) => ({
+      category,
+      items: entities.filter((e) => (e.mechanics as Record<string, unknown>).category === category),
+    }))
+  : [{ category: undefined, items: entities }];
+---
+
+<Layout title={`${label} — Mago`} theme="mage">
+  <Breadcrumb items={[{ label: 'Inicio', href: '/' }, { label: 'Mago', href: '/mage' }, { label }]} />
+
+  <h1>{label}</h1>
+  <p>
+    {entities.length} entrada{entities.length === 1 ? '' : 's'}.
+  </p>
+
+  {
+    categories.length > 1 && (
+      <nav aria-label="Categorías" class="category-jump">
+        {categories.map((category) => (
+          <a href={`#cat-${category}`}>{category}</a>
+        ))}
+      </nav>
+    )
+  }
+
+  {
+    grouped.map(({ category, items }) => (
+      <section>
+        {category && <h2 id={`cat-${category}`}>{category}</h2>}
+        <div class="entity-grid">
+          {items.map((entity) => (
+            <EntityCard entity={entity} />
+          ))}
+        </div>
+      </section>
+    ))
+  }
+
+  <style>
+    .category-jump {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      margin-block: var(--space-3);
+      font-size: 0.9rem;
+    }
+    .entity-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(min(100%, 20rem), 1fr));
+      gap: var(--space-3);
+      margin-block: var(--space-3) var(--space-5);
+    }
+  </style>
+</Layout>

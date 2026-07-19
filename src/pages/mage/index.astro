@@ -1,0 +1,72 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import { getCollection } from 'astro:content';
+import { bookUrl } from '../../lib/entities';
+import { typeLabelEs, typeSegment } from '../../lib/taxonomy';
+
+const books = (await getCollection('books', (entry) => entry.data.line === 'mage')).sort((a, b) =>
+  a.data.title_es.localeCompare(b.data.title_es, 'es')
+);
+
+const entities = await getCollection('entities', (entry) => entry.data.line === 'mage');
+const typesPresent = [...new Set(entities.map((entry) => entry.data.type))].sort((a, b) =>
+  typeLabelEs(a).localeCompare(typeLabelEs(b), 'es')
+);
+---
+
+<Layout title="Mago: La Ascensión — Base de conocimiento" theme="mage">
+  <Breadcrumb items={[{ label: 'Inicio', href: '/' }, { label: 'Mago' }]} />
+
+  <h1>Mago: La Ascensión</h1>
+  <p>Manuales y referencia de reglas de la 20.ª edición aniversario, en español.</p>
+
+  <h2>Libros</h2>
+  <ul class="list">
+    {
+      books.map((book) => (
+        <li>
+          <a href={bookUrl('mage', book.data.book_id)}>{book.data.title_es}</a>
+        </li>
+      ))
+    }
+  </ul>
+
+  <h2>Referencia</h2>
+  <ul class="list">
+    {
+      typesPresent.map((type) => (
+        <li>
+          <a href={`/mage/${typeSegment(type)}`}>{typeLabelEs(type)}</a>
+        </li>
+      ))
+    }
+  </ul>
+
+  <style>
+    h1 {
+      font-size: clamp(1.8rem, 5vw, 3rem);
+      margin-bottom: 0.25em;
+    }
+    .list {
+      list-style: none;
+      padding: 0;
+      display: grid;
+      gap: 0.5rem;
+      max-width: var(--measure);
+    }
+    .list li {
+      padding: 0.75rem 1rem;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--bg-elevated);
+    }
+    .list a {
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .list a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</Layout>

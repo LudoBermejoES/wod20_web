@@ -1,16 +1,21 @@
 ---
+import '../styles/tokens.css';
+
 export interface Props {
   title: string;
   description?: string;
+  /** Per-line theme id (e.g. "mage"); unset = neutral base theme. */
+  theme?: string;
 }
 const {
   title,
   description = 'Base de conocimiento en español de Mundo de Tinieblas 20.º aniversario.',
+  theme,
 } = Astro.props;
 ---
 
 <!doctype html>
-<html lang="es">
+<html lang="es" data-theme={theme}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -37,23 +42,12 @@ const {
     </footer>
 
     <style is:global>
-      :root {
-        --bg: #14110f;
-        --fg: #ece7e1;
-        --muted: #a49a8e;
-        --accent: #8b1e1e;
-        --measure: 68ch;
-        --pad: clamp(1rem, 4vw, 2.5rem);
-        color-scheme: dark light;
-      }
-      @media (prefers-color-scheme: light) {
-        :root { --bg: #f7f4ef; --fg: #1c1712; --muted: #5c5348; --accent: #7a1717; }
-      }
       * { box-sizing: border-box; }
-      html { font-family: ui-serif, Georgia, 'Times New Roman', serif; line-height: 1.65; }
+      html { font-family: var(--font-serif); line-height: 1.65; }
       body {
         margin: 0; background: var(--bg); color: var(--fg);
         display: flex; flex-direction: column; min-height: 100dvh;
+        transition: background-color 0.15s ease, color 0.15s ease;
       }
       a { color: var(--accent); }
       a:focus-visible, .skip:focus { outline: 2px solid var(--accent); outline-offset: 2px; }
@@ -62,14 +56,41 @@ const {
       }
       .skip:focus { left: var(--pad); top: 0.5rem; background: var(--bg); padding: 0.4rem 0.8rem; }
       header, footer { padding: 1rem var(--pad); }
-      header { border-bottom: 1px solid color-mix(in oklab, var(--fg) 15%, transparent); }
+      header { border-bottom: 1px solid var(--border); }
       .brand { font-weight: 700; letter-spacing: 0.02em; text-decoration: none; color: var(--fg); }
       main { flex: 1; padding: var(--pad); }
       footer {
-        margin-top: 2rem; border-top: 1px solid color-mix(in oklab, var(--fg) 15%, transparent);
+        margin-top: 2rem; border-top: 1px solid var(--border);
         color: var(--muted); font-size: 0.85rem;
       }
       main :where(h1, h2, h3, p, ul, ol) { max-width: var(--measure); }
+
+      /* --- Long-form reading typography (books) ------------------------- */
+      .prose { max-width: var(--measure); }
+      .prose :where(h1, h2, h3, h4) {
+        line-height: 1.25; margin-block: 1.5em 0.5em;
+      }
+      .prose :where(p, ul, ol, table, blockquote) { margin-block: 0 1em; }
+      .prose :where(ul, ol) { padding-inline-start: 1.5em; }
+      .prose blockquote {
+        margin-inline: 0; padding: 0.25em 1em;
+        border-inline-start: 3px solid var(--accent);
+        color: var(--muted); font-style: italic;
+      }
+      .prose table {
+        width: 100%; border-collapse: collapse; font-size: 0.95em;
+        max-width: none;
+      }
+      .prose :where(th, td) {
+        border: 1px solid var(--border); padding: 0.4em 0.6em; text-align: left;
+        vertical-align: top;
+      }
+      .prose th { background: var(--bg-elevated); }
+      .prose code {
+        font-family: ui-monospace, 'SFMono-Regular', Menlo, monospace;
+        font-size: 0.9em; background: var(--bg-elevated); padding: 0.1em 0.35em;
+        border-radius: var(--radius-sm);
+      }
     </style>
   </body>
 </html>

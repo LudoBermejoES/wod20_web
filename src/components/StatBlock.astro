@@ -1,0 +1,115 @@
+---
+// Renders an entity's `mechanics` as a labelled definition list, in the
+// field order declared for its type (webgen/taxonomy.json), with Spanish
+// labels. Rating-like fields render as dot pips; sphere maps render one
+// dot-rating per sphere; everything else renders as plain text.
+import DotRating from './DotRating.astro';
+import { mechanicLabelEs, sphereLabelEs, TYPE_INFO } from '../lib/taxonomy';
+
+export interface Props {
+  type: string;
+  mechanics: Record<string, unknown>;
+}
+const { type, mechanics } = Astro.props;
+
+// Fields rendered as dot ratings when their value is a plain number.
+const DOT_FIELDS = new Set([
+  'cost',
+  'bonus',
+  'rating_max',
+  'arete_min',
+  'arete',
+  'quintessence',
+  'level',
+  'rank',
+]);
+
+function toSphereEntries(value: unknown): Array<[string, number]> {
+  if (!value || typeof value !== 'object' || Array.isArray(value)) return [];
+  return Object.entries(value as Record<string, number>);
+}
+
+const knownFields = TYPE_INFO[type]?.mechanical_fields ?? [];
+const extraFields = Object.keys(mechanics).filter((key) => !knownFields.includes(key));
+const fieldKeys = [...knownFields, ...extraFields].filter(
+  (key) => mechanics[key] !== undefined && mechanics[key] !== null
+);
+
+interface Field {
+  key: string;
+  label: string;
+  sphereEntries: Array<[string, number]>;
+  numericValue?: number;
+  arrayValue?: unknown[];
+  objectValue?: Record<string, unknown>;
+  textValue?: string;
+}
+
+const fields: Field[] = fieldKeys.map((key) => {
+  const value = mechanics[key];
+  const isSpheres = key === 'spheres';
+  const sphereEntries = isSpheres ? toSphereEntries(value) : [];
+  const numericValue = !isSpheres && DOT_FIELDS.has(key) && typeof value === 'number' ? value : undefined;
+  const arrayValue = !isSpheres && Array.isArray(value) ? value : undefined;
+  const objectValue =
+    !isSpheres && numericValue === undefined && !arrayValue && value && typeof value === 'object'
+      ? (value as Record<string, unknown>)
+      : undefined;
+  const textValue =
+    !isSpheres && numericValue === undefined && !arrayValue && !objectValue ? String(value) : undefined;
+  return { key, label: mechanicLabelEs(key), sphereEntries, numericValue, arrayValue, objectValue, textValue };
+});
+---
+
+{
+  fields.length > 0 && (
+    <dl class="stat-block">
+      {fields.map((field) => (
+        <>
+          <dt>{field.label}</dt>
+          <dd>
+            {field.sphereEntries.length > 0 && (
+              <ul class="spheres">
+                {field.sphereEntries.map(([sphere, dots]) => (
+                  <li>
+                    {sphereLabelEs(sphere)} <DotRating value={dots} label={sphereLabelEs(sphere)} />
+                  </li>
+                ))}
+              </ul>
+            )}
+            {field.numericValue !== undefined && (
+              <DotRating value={field.numericValue} label={field.label} />
+            )}
+            {field.arrayValue && field.arrayValue.join(', ')}
+            {field.objectValue && JSON.stringify(field.objectValue)}
+            {field.textValue}
+          </dd>
+        </>
+      ))}
+    </dl>
+  )
+}
+
+<style>
+  .stat-block {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    gap: 0.35em 1em;
+    margin: 0;
+    max-width: var(--measure);
+  }
+  .stat-block dt {
+    font-weight: 700;
+    color: var(--muted);
+  }
+  .stat-block dd {
+    margin: 0;
+  }
+  .spheres {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 0.15em;
+  }
+</style>

@@ -1,0 +1,87 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+import TableOfContents from '../../../components/TableOfContents.astro';
+import { bookUrl } from '../../../lib/entities';
+
+export async function getStaticPaths() {
+  const books = await getCollection('books', (entry) => entry.data.line === 'mage');
+  const sorted = [...books].sort((a, b) => a.data.title_es.localeCompare(b.data.title_es, 'es'));
+  return sorted.map((entry, i) => ({
+    params: { book: entry.data.book_id },
+    props: {
+      entry,
+      prev: i > 0 ? sorted[i - 1] : undefined,
+      next: i < sorted.length - 1 ? sorted[i + 1] : undefined,
+    },
+  }));
+}
+
+export interface Props {
+  entry: CollectionEntry<'books'>;
+  prev?: CollectionEntry<'books'>;
+  next?: CollectionEntry<'books'>;
+}
+
+const { entry, prev, next } = Astro.props;
+const book = entry.data;
+
+const tocItems = book.chapters.map((chapter) => ({
+  title: chapter.title_es,
+  anchor: chapter.anchor,
+  level: chapter.level,
+}));
+---
+
+<Layout title={`${book.title_es} — Mago`} description={`Lectura: ${book.title_es}.`} theme="mage">
+  <Breadcrumb
+    items={[
+      { label: 'Inicio', href: '/' },
+      { label: 'Mago', href: '/mage' },
+      { label: book.title_es },
+    ]}
+  />
+
+  <h1>{book.title_es}</h1>
+
+  <TableOfContents items={tocItems} label="Capítulos" />
+
+  {
+    book.chapters.map((chapter) => (
+      <section aria-labelledby={chapter.anchor}>
+        <h2 id={chapter.anchor}>{chapter.title_es}</h2>
+        {chapter.sections.map((section) => {
+          const isChapterHeadingSection = section.anchor === chapter.anchor;
+          return (
+            <div class="prose">
+              {!isChapterHeadingSection && <h3 id={section.anchor}>{section.title_es}</h3>}
+              <Fragment set:html={section.body_html} />
+            </div>
+          );
+        })}
+      </section>
+    ))
+  }
+
+  <nav class="book-nav" aria-label="Navegación entre libros">
+    <span>{prev && <a href={bookUrl('mage', prev.data.book_id)}>← {prev.data.title_es}</a>}</span>
+    <span>{next && <a href={bookUrl('mage', next.data.book_id)}>{next.data.title_es} →</a>}</span>
+  </nav>
+
+  <style>
+    section {
+      margin-block: var(--space-5);
+    }
+    .book-nav {
+      display: flex;
+      justify-content: space-between;
+      gap: var(--space-3);
+      margin-block: var(--space-5) var(--space-3);
+      padding-top: var(--space-3);
+      border-top: 1px solid var(--border);
+      max-width: var(--measure);
+    }
+  </style>
+</Layout>

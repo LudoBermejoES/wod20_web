@@ -1,0 +1,55 @@
+---
+export interface Props {
+  items: { title: string; anchor: string; level?: number }[];
+  label?: string;
+}
+const { items, label = 'Contenidos' } = Astro.props;
+---
+
+{
+  items.length > 0 && (
+    <nav class="toc" aria-label={label}>
+      <p class="toc-title">{label}</p>
+      <ol>
+        {items.map((item) => (
+          <li style={{ '--indent': String(Math.max(0, (item.level ?? 2) - 2)) }}>
+            <a href={`#${item.anchor}`}>{item.title}</a>
+          </li>
+        ))}
+      </ol>
+    </nav>
+  )
+}
+
+<style>
+  .toc {
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: var(--space-3);
+    background: var(--bg-elevated);
+  }
+  .toc-title {
+    font-weight: 700;
+    margin: 0 0 0.5em;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 0.05em;
+    color: var(--muted);
+  }
+  .toc ol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 0.3em;
+  }
+  .toc li {
+    padding-inline-start: calc(var(--indent, 0) * 1em);
+  }
+  .toc a {
+    text-decoration: none;
+  }
+  .toc a:hover {
+    text-decoration: underline;
+  }
+</style>

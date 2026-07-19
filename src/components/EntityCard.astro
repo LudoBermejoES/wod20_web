@@ -1,0 +1,92 @@
+---
+// Compact reference card: name, key mechanics, source badges, link to the
+// full entity page. Used on `/mage/[type]s` reference-list pages.
+import StatBlock from './StatBlock.astro';
+import SourceBadge from './SourceBadge.astro';
+import { entityUrl } from '../lib/entities';
+import { typeLabelEs } from '../lib/taxonomy';
+
+export interface Props {
+  entity: {
+    id: string;
+    type: string;
+    line: string;
+    name_es: string;
+    body_es?: string;
+    mechanics: Record<string, unknown>;
+    sources: Array<{ book_id: string; book_title_es?: string; page?: number | string | null }>;
+    review?: unknown;
+  };
+}
+const { entity } = Astro.props;
+const href = entityUrl(entity.line, entity.type, entity.id);
+---
+
+<article class="entity-card">
+  <p class="type-badge">{typeLabelEs(entity.type)}</p>
+  <h3><a href={href}>{entity.name_es}</a></h3>
+  {entity.body_es && <p class="excerpt">{entity.body_es}</p>}
+  <StatBlock type={entity.type} mechanics={entity.mechanics} />
+  {
+    entity.review && (
+      <p class="review-flag" role="status">
+        ⚠ Requiere revisión
+      </p>
+    )
+  }
+  <ul class="sources">
+    {entity.sources.map((source) => (
+      <li>
+        <SourceBadge source={source} />
+      </li>
+    ))}
+  </ul>
+</article>
+
+<style>
+  .entity-card {
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: var(--space-3);
+    background: var(--bg-elevated);
+    display: grid;
+    gap: 0.5rem;
+    align-content: start;
+  }
+  .type-badge {
+    margin: 0;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+  }
+  .entity-card h3 {
+    margin: 0;
+    font-size: 1.15rem;
+  }
+  .entity-card h3 a {
+    text-decoration: none;
+  }
+  .entity-card h3 a:hover {
+    text-decoration: underline;
+  }
+  .excerpt {
+    margin: 0;
+    color: var(--muted);
+    font-size: 0.95rem;
+  }
+  .review-flag {
+    margin: 0;
+    font-size: 0.85rem;
+    color: #d97706;
+    font-weight: 700;
+  }
+  .sources {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4em;
+  }
+</style>

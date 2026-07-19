@@ -1,0 +1,1128 @@
+{
+  "book_id": "m20-glosario-basico-es",
+  "line": "mage",
+  "title_es": "M20 Glosario Basico (ES)",
+  "language": "es",
+  "chapters": [
+    {
+      "title_es": "Créditos",
+      "anchor": "creditos",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Créditos",
+          "anchor": "creditos",
+          "level": 2,
+          "body_md": "Director, productor ejecutivo y glosarista mayor: Héctor Gómez Herrero.\n\nCorrector y fonética:\n\nDaniel M. Schultes.\n\nCorrectores:\n\nAlejandra 'Argéntea' González y Miguel Ángel Lucas.\n\nMaquetador:\n\nMarcos Manuel 'EnOcH' Peral Villaverde.\n\nIlustraciones:\n\nCarlos García Revilla.\n\nImpresión y distribución:\n\nNosolorol Ediciones SL.\n\nPublicado por: Nosolorol Ediciones, calle Ocaña 32, 28047 Madrid. Impreso por: Grafilur.\n\nwww.nosolorol.com www.bibliotecaoscura.com ediciones@nosolorol.com info@bibliotecaoscura.com\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n© 2018 White Wolf Entertainment. Todos los derechos reservados. La reproducción sin el permiso escrito de la editorial está expresamente prohibida, salvo para la elaboración de reseñas y las hojas de personaje en blanco, que pueden ser reproducidas solo para uso personal.\n\nWhite Wolf, Vampiro, Mundo de Tinieblas, Vampiro: La Mascarada y Mago: La Ascensión son marcas comerciales registradas de White Wolf Entertainment AB. Todos los derechos reservados. Hombre Lobo: El Apocalipsis, y Sistema Narrativo son marcas registradas de White Wolf Entertainment AB.\n\nTodos los derechos reservados. Todos los personajes, nombres, lugares y texto del presente documento son propiedad de White Wolf Entertainment AB.\n\nEste libro hace uso de lo sobrenatural para ambientaciones, personajes y temas. Todos los elementos místicos y sobrenaturales son ficticios y están destinados únicamente a propósitos lúdicos. Este libro contiene material explícito. Se recomienda sólo para lectores adultos. Visita White Wolf online en http://www.white-wolf.com . Visita Onyx Path online en http://www.theonyxpath.com . Visita Biblioteca Oscura online en http://www.bibliotecaoscura.com . Visita Nosolorol online en http://www.nosolorol.com .\n\n<!-- image -->",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Índice de Contenidos",
+      "anchor": "indice-de-contenidos",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Índice de Contenidos",
+          "anchor": "indice-de-contenidos",
+          "level": 2,
+          "body_md": "",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Introducción",
+      "anchor": "introduccion",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Introducción",
+          "anchor": "introduccion",
+          "level": 2,
+          "body_md": "| Qué es el Glosario              |   5 |\n|---------------------------------|-----|\n| Glosario                        |     |\n| Glosario Español - Inglés       |   9 |\n| Glosario Inglés - Español       |  31 |\n| Apéndice                        |     |\n| Paradigmas                      |  43 |\n| Prácticas                       |  43 |\n| Instrumentos                    |  44 |\n| Fórmulas                        |  44 |\n| Encantamientos de los espíritus |  45 |\n| Maravillas                      |  46 |\n| Méritos y Defectos              |  46 |",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Introducción",
+      "anchor": "introduccion",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Introducción",
+          "anchor": "introduccion",
+          "level": 2,
+          "body_md": "«La realidad cambia de manera constante en el Camino. Vuestros cinco sentidos pierden aquí todo su significado. Sólo vuestra visión interior puede guiaros a través del laberinto.»\n\n- Kallikos, El Guerrero de la Ascensión",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Qué es el Glosario",
+      "anchor": "que-es-el-glosario",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Qué es el Glosario",
+          "anchor": "que-es-el-glosario",
+          "level": 2,
+          "body_md": "<!-- image -->\n\nDurante la elaboración de la edición española del V20 nos dimos cuenta de que, para crear una traducción buena y consistente, era evidente que el equipo de traducción debía contar con un glosario de términos de juego al que recurrir en caso de duda. Puesto que dicho glosario, de existir, no estaba a nuestro alcance, tuvimos que desarrollarlo nosotros  mismos. No podía tratarse de un mero diccionario inglés-español, era también necesario explicar por qué se había elegido  una  determinada  palabra  o  expresión  de  entre la variedad de opciones para traducir ciertos términos, por\n\nqué se había optado por una determinada grafía, o las razones para el uso de las mayúsculas o la cursiva.\n\nLa idea era que ese glosario, además, serviría como referencia al equipo de traducción en caso de publicar en español otros libros de Vampiro: La Mascarada . Por ello, precisamente, se denominó Glosario V20 Básico con visión de futuro: era el glosario que se correspondía con el libro principal de la línea V20 y nuestra intención era llegar a sacar un Glosario V20 Ampliado que incluyese todos los términos de juego de la línea V20. La idea era poder sacar los correspondientes Glosario X20 para las demás líneas del vigésimo aniversario, de modo que al final se pudiera crear un Glosario 20 Definitivo que incluyese todos los Glosarios. Con la aparición del Glosario\n\n<!-- image -->",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Leyenda del Glosario",
+      "anchor": "leyenda-del-glosario",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Leyenda del Glosario",
+          "anchor": "leyenda-del-glosario",
+          "level": 2,
+          "body_md": "Voz en español [Voz en inglés] /Fonética/ (Pronunciación recomendada en español)\n\nAnotaciones explicativas\n\nSe ha optado por incluir una pronunciación adaptada al español junto con la fonética propia del idioma de origen de aquellos términos más problemáticos a fin de proporcionar una pronunciación accesible y comprensible en nuestro idioma. Esta pronunciación no siempre se ajusta completamente a la fonética original, pero sí es lo suficientemente común y similar como para resultar correcta y comprensible entre todos los aficionados hispanohablantes.\n\nH20 Básico se dio el siguiente paso en esa dirección, algo que se reafirmaría con la aparición del Glosario VEO20 Básico , y ahora con la del Glosario M20 Básico .\n\nAl igual que con los anteriores Glosarios, este Glosario M20 Básico nos permite compartir con la comunidad hispanohablante de fans el proceso que nos ha llevado a tomar las diversas decisiones de traducción, algunas de las cuales podrían resultar controvertidas si no se ofrecían los correspondientes argumentos que nos han llevado a tomarlas, al tiempo que también es una oportunidad para resolver dudas que siempre nos habían rondado a muchos acerca de la procedencia, origen o pronunciación de algunos de los términos del oscuro y complejo universo de Mago: La Ascensión .\n\nDado que nuestra meta es no sólo dar con traducciones precisas, sino también mantener un alto estándar de corrección, homogeneidad y coherencia en el uso de mayúsculas y minúsculas, y de redondas y cursivas, determinamos que todas estas normas deberían quedar igualmente reflejadas en el glosario para que los jugadores pudiesen atenerse a ellas una vez éste viese la luz pública. También hemos tratado de explicar mediante notas la razón de ser de aquellos términos cuya grafía o pronunciación difiere de los del mundo real, o incluso la de  aquéllos  cuya  pronunciación  puede  variar  ampliamente dentro del propio Mundo de Tinieblas. Al igual que el resto de criaturas sobrenaturales, los magos se esconden a plena vista, lo cual hace que muchos términos y expresiones adquieran significados distintos a los habituales (Despertar, Tecnócrata, Esfera...) o se pronuncien de forma poco habitual. Con este Glosario M20 Básico , hemos tratado no sólo de explicar las decisiones de traducción que hemos tomado, sino de esclarecer algunas de estas curiosidades y rarezas que indican de manera velada y encubierta la presencia de los magos entre los humanos, y lo hemos hecho tanto desde la perspectiva intrajuego como atendiendo a las razones creativas y editoriales a las que hacen referencia estos términos clave de Mago: La Ascensión .",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Criterios generales para mayúsculas",
+      "anchor": "criterios-generales-para-mayusculas",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Criterios generales para mayúsculas",
+          "anchor": "criterios-generales-para-mayusculas",
+          "level": 2,
+          "body_md": "",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Siempre van en mayúsculas:",
+      "anchor": "siempre-van-en-mayusculas",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Siempre van en mayúsculas:",
+          "anchor": "siempre-van-en-mayusculas",
+          "level": 2,
+          "body_md": "- Nombres de Tradiciones, Convenciones y sectas: Coro Celestial,  Orden  de  Hermes,  Ingenieros  del  Vacío,  Nuevo Orden Mundial, Taftâni, Hermanas de Hipólita, etc.\n- Nombres de las facciones de la Guerra de la Ascensión: Unión Tecnocrática, Concilio de las Tradiciones Místicas, Alianza Dispar, etc.\n- Nombres de organismos de gobierno y sociedades de los Despertados: Concilio Renegado, etc.\n- Nombres de las Esferas: Vida, Materia, Fuerzas, etc.\n- Nombres de hechizos, Ajustes, Procedimientos y fórmulas de todo tipo, así como de los Encantamientos y Poderes de los espíritus. En caso de que éstos estén compuestos por más de una palabra, todas ellas irán en mayúsculas, salvo los artículos y las preposiciones. Nos acogemos a este criterio para evitar posibles confusiones ya  que,  por  ejemplo,  el  lector  puede  interpretar  de  forma distinta  «Al  usar  interfaz  psíquica,  el  Adepto  Virtual  pudo acceder al ordenador» que «Al usar Interfaz Psíquica, el Adepto Virtual pudo acceder al ordenador».\n- Nombres de las Esencias del Avatar: Dinámica, Patrón, Primordial y Buscadora.\n- Eventos históricos o mitológicos, pasados, presentes y futuros, así como eventos de la mitología de los magos: Convención de la Torre Blanca,  Semana  de  las  Pesadillas, Año de la Gran Enfermedad, etc.\n- Nombres de los diversos reinos de la  Umbra: Doissetep, Autoctonia, etc.\n- Nombres de Méritos y Defectos.\n- Nombres de los momentos cruciales en la vida de un mago: Despertar, Ascensión...\n- Las formas verbales de dichos momentos: Despertar, Ascender.\n- El  mundo  espiritual  y  sus  divisiones  principales: Umbra, Umbra Alta, Horizonte, Penumbra...\n- Los lugares de la Tierra con una significancia mística especial: Nodo, Manantial, etc.\n- Los cargos dentro de las Capillas o Constructos: Diácono, Centinela, etc.\n\n- Los rangos y títulos  dentro  de  cada  facción  Despertada: Maestro, Primus, Gerente, Auditor, etc.\n- Los Rasgos del personaje, especialmente aquéllos que aparecen en la hoja de personaje: Fuerza de Voluntad, Areté, Paradoja, Habilidad(es), Fuerza, Destreza, Malherido, Tullido, etc.\n- Nombres de Atributos, Habilidades, Especialidades, Virtudes y Trasfondos.\n- Nombres con los que las criaturas sobrenaturales se denominan a sí mismas: Despertados,  Garou,  Fera, Vástagos, Cainitas, etc.\n- Nombres de las criaturas a caballo entre lo humano y lo sobrenatural cuyo poder es reducido, así como las posibles categorías dentro de éstas: Parentela, Ghouls, Aparecidos, Resucitados, Kinain, etc.",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Siempre van en minúsculas:",
+      "anchor": "siempre-van-en-minusculas",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Siempre van en minúsculas:",
+          "anchor": "siempre-van-en-minusculas",
+          "level": 2,
+          "body_md": "- Los nombres vulgares de las criaturas sobrenaturales: magos, vampiros, hombres lobo... Esto incluye tanto el término wraith como changeling, palabras comunes en inglés, pero que se ha optado por no traducir dado que el folclore latino no posee figuras que sean realmente equivalentes a dichas criaturas y por tanto la lengua española carece de palabras específicas para ellas.\n- Los distintos tipos de agrupaciones menores que no llegan a la categoría de Tradición ni de facciones de éstas: cábala, amalgama.\n- Los apelativos, principalmente de jerga vulgar, con los que se denomina a magos específicos y no a grupos o facciones amplias de la sociedad de los Despertados: rufián, adamita, ciberfriki...\n- Términos de mecánica de juego que no aparecen por escrito  en  la  ficha: dificultad,  fallo,  fracaso,  turno,  reserva de dados, puntos temporales, puntos permanentes, los tipos de daño (letal, contundente, agravado), etc.\n\n<!-- image -->\n\n<!-- image -->",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Español - Inglés",
+      "anchor": "espanol-ingles",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Español - Inglés",
+          "anchor": "espanol-ingles",
+          "level": 2,
+          "body_md": "Adamita [Adamite]\n\nAdaptación al Vacío [Void Adaptation]\n\nAdelgazamiento [Shallowing]\n\nAdepto [Adept]\n\nAdepto Major [Adept Major]\n\nAdepto Virtual, pl. Adeptos Virtuales [Virtual Adept, pl. Virtual Adepts]\n\nAdministrador [Administrator]\n\nAdsinistrati [adsinistrati] /adsinisˈtrati/ (ad-si-nis-trá-ti)\n\nTérmino procedente del latín sinistratus ,  a  partir  el  añadido del prefijo ad. Su significado original sería 'quien está junto a los que se han posicionado a la izquierda'.\n\nAdvaita [Advaita] /ˈaːd ̪ ʋəit ̪ ə/ (ád-vai-ta)\n\nTérmino procedente del sánscrito y formado a partir de la raíz vaita (dualidad) y el prefijo a(negación) con el significado de 'no dual', 'único'. Es uno de los epítetos de Vishnu.\n\n͡\n\naegis [aegis] /ˈa eɣis/ (áe-guis)\n\nTérmino adaptado al latín, procedente del griego αἰγίς . Según la mitología grecolatina, es el nombre que recibía el escudo de Minerva, en cuya superficie se encontraba la cabeza de medusa. En español, se ha adaptado como égida.\n\nAfinidad Animal [Animal Kinship]\n\nAgama Re [Agama Re] /ˈaːɡəmə ɹeː/ (á-ga-ma re)\n\n<!-- image -->",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "A",
+      "anchor": "a",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "A",
+          "anchor": "a",
+          "level": 2,
+          "body_md": "a lo Dante [Dante that] Abominación, la [Abomination, the] Absoluto, el [Absolute, the] absorción [soak] Academicismo [Academics] Acarya [Acarya] /aːʹt ʃaːɹjə/ (a-cha-ria) acción automática [automatic feat] acción enfrentada [resisted action] acción extendida [extended action] acción refleja [reflexive action]\n\n͡\n\nDado que en español los actos realizados de forma inconsciente se denominan reflejos y no reflexivos, se ha primado esta traducción sobre la de 'acción reflexiva' que a priori podría parecer más directa.\n\nacción sencilla [simple action]\n\nAcharne [Acharne] /axarˈne/ (a-jar-né)\n\nNombre clásico de la antigua demos de Acarnas, la cual pertenecía a la Ática y se encontraba 60 estadios al norte de Atenas.\n\nacólito [acolyte]\n\nAcrobacias [Acrobatics]\n\nActivista [Activist]\n\nAgama Te [Agama Te] /ˈaːɡəmə t ̪ eː/ (á-ga-ma te)\n\nAgente [Agent]\n\nAgente Smith [Agent Smith]\n\nAghoris [Aghoris] /əˈɡoːɹis/ (a-gó-ris)\n\nagravado [aggravated]\n\nÁguila Furiosa [Raging Eagle]\n\nAhl-i-Batin [Ahl-i-Batin] /aːl|i|ˈbaːtˤin/ (al i bátin)\n\nAjuste [Adjustment]\n\nAkashayana [Akashayana] /aːkaːɕəˈjaːnə/ (a-ca-sha-ya-na)\n\nAkashayana  Sangha  [Akashayana  Sangha] / aːkaːɕəˈ -\n\njaːnə|ˈsə ̃ ɡʱə/ (a-ca-sha-ya-na sa-ga)\n\nDe sánscrito आकाशयान संघ puede traducirse como Orden del Vehículo de Akasha . Akasha es un término que en la cosmología hinduista tradicional correspondería al concepto de 'éter'.\n\nAkashi [Akashi] /aːˈkaːɕi/ (a-ca-shi)\n\nAkáshico [Akashic] /aːˈkaːɕiko/ (a-cá-shi-co)\n\nAkinkanju [Akinkanju] /aˈkiŋkaɲʒu/ (a-quín-can-yu)\n\nAkrites [Akrites] /aˈkɾites/ (a-cri-tes)\n\nAlerta [Alertness]\n\nalguacil del certámen [Certámen Marshall]\n\nAliados [Allies]\n\nAlianza [Covenant]\n\nAlianza Dispar [Disparate Alliance]\n\nAlianza del Gremio de Oro [Golden Guild Alliance]\n\nali'i [ali'i] /aˈliː/ (a-lí)\n\nEn hawaiano y otras lenguas polinesias, ali'i hace  referencia a una línea hereditaria de líderes.\n\nAlta Edad Mítica [High Mythic Age] Alta Magia Ritual [High Ritual Magick] altermundano [otherworldly]\n\nSe ha optado por este término por encima de otros como ultramundano o extraterrenal para hacer referencia a aquello que pertenece o procede de otros mundos, es decir, de la Umbra.\n\nAlternar [Carousing] Alto Artesano [High Artisan] Alto Gremio [High Guild] Alto Ritual [High Ritual] Amenaza Nula [Threat Null]\n\nPuesto que el nombre en inglés Threat Null proviene de ' Emerging Threats Capable of Nullifying Enlightened Procedures ' (Amenazas  Emergentes  Capaces  de  Anular  Procedimientos Iluminados) se ha optado por el nombre Amenaza Nula en  lugar de otras opciones barajadas, como Amenaza Cero .\n\nAmigos de Courage [Friends of Courage]\n\nAmos de Leones [Lion Masters] Amos Oscuros, los [Dark Masters, the]\n\namalgama [amalgam]\n\n10 Glosario M20 Básico",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Analista de Inteligencia [Intelligence Analyst]",
+      "anchor": "analista-de-inteligencia-intelligence-analyst",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Analista de Inteligencia [Intelligence Analyst]",
+          "anchor": "analista-de-inteligencia-intelligence-analyst",
+          "level": 2,
+          "body_md": "Ananda Diksham [Ananda Diksham] /aːˈnaɳd ̪ a|ˈd ̪ iːkʂaːm/ (a-nan-da díc-sham)",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Ancestro [ancestor]",
+      "anchor": "ancestro-ancestor",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Ancestro [ancestor]",
+          "anchor": "ancestro-ancestor",
+          "level": 2,
+          "body_md": "En mayúscula cuando haga referencia a la clase de espíritus con los  que  se  puede  contactar  mediante  el  Trasfondo  Ancestros, ya  se  les  denomine  espíritus  Ancestro  o  simplemente  Ancestros.\n\nAnclaje [Anchorhead]\n\nAnomalía Dimensional [Dimensional Anomaly]\n\nAño de la Gran Enfermedad [Year of Great Sickness]\n\naparato [apparatus]\n\nApariencia [Appearance]\n\nAppa Bloodax [Appa Bloodax] /ˈaːppɐ|ˈblʌdæks/ (ap-pa blá-dax)\n\naprendiz [apprentice]\n\nAprendiz [Apprentice]\n\nAraña de la Urdimbre [Pattern Spider]\n\nÁrbol del Mundo, el [World Tree, the]\n\nArcano [Arcane]\n\narcanópata [Arcanopath]\n\nArchimaestro [Archmaster]\n\nArchimago [Archmage]\n\nAreté [Arete] /aretɛ ̌ ː/ (a-re-té)\n\nEl término original en griego es femenino, por ello se ha optado por usarlo en femenino también en español.\n\nAristocracia Benevolente [Benevolent Aristocracy] armadura [armor]\n\nArmamento Secreto [Secret Weapons]\n\nArmas de Energía [Energy Weapons]\n\nArmas de Fuego [Firearms]\n\nArmazón [Armature]\n\nArmazón Especialista [Armature Specialist]\n\nArquetipo [Archetype]\n\nArruga [Wrinkle]\n\nArs Cupiditae [Ars Cupiditae] /ˈars  |kuˈpidita e/ (ars  cipí-di-tae)\n\nArte [Art]\n\nArtes Marciales [Martial Arts]\n\nArtesanía [Crafts]\n\nTras barajar otras posibles traducciones (como Pericias u Oficios), se optó por Artesanía puesto que abarca el abanico de habilidad más amplio al tiempo que se ciñe únicamente a aquellas artes u oficios de carácter más manual que intelectual.",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Artesano de la Voluntad [willworker / will-worker]",
+      "anchor": "artesano-de-la-voluntad-willworker-will-worker",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Artesano de la Voluntad [willworker / will-worker]",
+          "anchor": "artesano-de-la-voluntad-willworker-will-worker",
+          "level": 2,
+          "body_md": "En mayúscula al ser una de las formas en las que los magos se denominan a sí mismos.\n\n͡",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "B",
+      "anchor": "b",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "B",
+          "anchor": "b",
+          "level": 2,
+          "body_md": "",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Artífice [Artificer]",
+      "anchor": "artifice-artificer",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Artífice [Artificer]",
+          "anchor": "artifice-artificer",
+          "level": 2,
+          "body_md": "Asamblea de Nuevo Horizonte [New Horizon Convocation]\n\nAscensión [Ascension]\n\nAsha [Asha] /ˈaːʂaː/ (a-sha)\n\nashavanti [ashavanti] /aːʂaːˈʋaɳt ̪ i/ (a-sha-van-ti)\n\nAsistente de Investigación [Research Assistant]\n\nAsociado [Associate]\n\nAsociado de Investigación [Research Associate]\n\naspecto [aspect]\n\nAspirante [Aspirant]\n\nastral [astral]\n\nAstucia [Wits]\n\nAswad,  pl.  Aswadim  [aswad,  pl.  Aswadim] /ˈaswat/\n\n/aswaˈdɪm/ (as-uat) (as-ua-dim)\n\nAtletismo [Athletics]\n\nAtributo [Attribute]\n\nAuditor [Comptroller]\n\nAutoctonia [Autocthonia]\n\nÁvalon [Avalon]\n\nAvatar [Avatar]\n\nAzote [Scourge]\n\nAzotelino [Scourgeling]\n\nBai Dai [Bai Dai]\n\nbalador [bleater]\n\nBalamob [Balamob] /baˈlam/ /baˈlamob/ (ba-lam)  (ba-lámob)",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Balance [Bottom Line, the]",
+      "anchor": "balance-bottom-line-the",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Balance [Bottom Line, the]",
+          "anchor": "balance-bottom-line-the",
+          "level": 2,
+          "body_md": "Al ser un término que denomina un paradigma del Sindicato en el que se busca el «máximo beneficio al menor riesgo», se ha optado por traducirlo con un término económico como Balance frente a  otras  opciones como Línea de Base o Conclusión .\n\nBaldric LaSalle [Baldric LaSalle]\n\nbani [bani] /ˈbənɪ/ (ba-ni)\n\nTérmino árabe, derivado de ibn ,  con  el  significado  original de 'descendientes de' o 'de la tribu de'.\n\nbarabbi [barabbi]\n\nBaratija [Trinket]\n\nBarba Rizada [Curly Beard]\n\nbarrido y saqueo [sweep 'n' sack]\n\nBata'a [Bata'a] /baˈtaː / (ba-tá)\n\nBatalla de Harz [Battle of Harz] /haːɹʦ/ (járts)\n\nBatini [Batini] /baˈtini/ (ba-ti-ni)\n\nBellaco [Rogue]\n\n<!-- image -->\n\nBendición [Blessing]\n\nBenefactor [Benefactor]\n\nBiblioteca [Library]\n\nbiojock [biojock] /bioˈʒok/ (bio-yoc)\n\nBioMecánicos [BioMechanics]\n\nbiomod [biomod]\n\nSe ha optado por mantener el apócope de biomodification ( biomodificación ) al realizar la traducción.\n\nBiotecnología [Biotech]\n\nBodhicitta [Bodhicitta] /ˌboːd ̪ ʱit ʃiˈt ̪ a/ (bo-di-chit-tá)\n\n͡\n\nTérmino procedente del sánscrito. En el budismo mayahana, hace referencia a la aspiración ontológica para salvar a todos los seres siguiendo el camino del bodhisattva hacia la iluminación.\n\nbodhisattva [bodhisattva] /ˌbod ̪ ʱiːˈsaːtʋə/ (bo-di-sat-va)\n\nbolsa de hielo [ice-pack]\n\nbomba espiritual [spirit-nuke]\n\nbombardear [nuke]\n\nbongo [bongo]\n\nBonisagus [Bonisagus] /boniˈsaːɣus/ (bo-ni-sa-gus)\n\nEl nombre de esta Casa de la Orden de Hermes proviene de los término de origen latino bonus (bueno) y sagus (sabio), lo cual podría traducirse como 'buen sabio'.\n\nBruja de Polvo [Dust-Witch]\n\nBurlavisiones [Vision-Mocker]\n\nBuscador del Vacío [Void Seeker]\n\nBuscadora [Questing]\n\nEn mayúscula, sólo cuando haga referencia a la Esencia del Avatar.\n\nBuscar [Search]\n\nBúsqueda [Seeking]\n\ncábala [cabal]\n\nCábala del Pensamiento Puro [Cabal of Pure Thought] Caballero Paloma [Dove Knight]\n\nCaballero Templario, pl.  Caballeros  Templarios  [Templar Knight, pl. Templar Knights]\n\nCaballeros  del  Arcángel  Gabriel,  Mensajero  de  Dios [Knights of Archangel Gabriel, Messenger of God]\n\ncabeza de acero [steelhead]\n\nCadena de Almas, la [Chain of Souls]\n\nCaeron Mustai [Caeron Mustai]\n\nCaído [Fallen]\n\ncalcificar [calcify, to]\n\nCallejeo [Streetwise]\n\nEl término original es un adjetivo que significa 'tener calle', y dado que la opción de denominar a la Habilidad así no resultaba  satisfactoria,  se  barajaron  otras  denominaciones  como Supervivencia Urbana, Sabiduría de las Calles o Trapicheo, incluso Calle a secas, pero ninguno parecía cubrir todo lo que implica esta Habilidad o resultar lo suficientemente intuitivo; por ello, finalmente se optó por esta denominación, que ya es habitual entre los jugadores de Mundo de Tinieblas , la cual les resulta fácilmente reconocible.",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "cambiaformas [shapeshifter] Camelot [Camelot] caminar de lado [step sideways]",
+      "anchor": "cambiaformas-shapeshifter-camelot-camelot-caminar-de-lado-step-sideways",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "cambiaformas [shapeshifter] Camelot [Camelot] caminar de lado [step sideways]",
+          "anchor": "cambiaformas-shapeshifter-camelot-camelot-caminar-de-lado-step-sideways",
+          "level": 2,
+          "body_md": "Se ha optado por la traducción utilizada en anteriores ediciones de Mago: La Ascensión en español que, pese a no ser literal, sí se ajusta a la idea de un desplazamiento lateral de un plano a otro cuando se entra en la Umbra.\n\nCampo Antrópico [Anthropic Field]\n\nCancelación [Cancelation]\n\nCanciller [Chancellor]\n\nCanción, la [Song, the]\n\nCantante [Singer]\n\nCañada [Glen]\n\nCapilla [Chantry]\n\ncarbono [carbon]\n\nCardinal [Prime]\n\nCarisma [Charisma]\n\ncarnespacio [meatspace]\n\nCarnívoros, los [Carnívoros, los]\n\nCasa [House]\n\nEn mayúscula cuando haga referencia a una de las Casas de la Orden de Hermes.\n\nCasa de Brujas [Witch-House]\n\nCasa Supervisora [Proctor House]\n\nCáscara Onírica [Dreamshell]\n\nCatecúmeno [Catechumen]\n\nCEAECD [DSEATC]\n\nCeleste [Celestine]\n\nCelosía [Gauntlet]\n\nEl término original en inglés Gauntlet hace referencia a un tipo de vía de tren en la que las vías férreas discurren paralelas y entrelazadas. Dado que, con esto en mente, era imposible encontrar una traducción literal y satisfactoria, se ha optado por el término usado en anteriores ediciones de Hombre Lobo: El  Apocalipsis en  español  ya  que,  además,  este  tipo  de  entramado recuerda al de una celosía.\n\nCEN [NSC] Censura [Censure] Centinela [Sentinel]\n\nGlosario M20 Básico",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Centro de Investigación  Copérnico  [Copernicus  Research Center]",
+      "anchor": "centro-de-investigacion-copernico-copernicus-research-center",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Centro de Investigación  Copérnico  [Copernicus  Research Center]",
+          "anchor": "centro-de-investigacion-copernico-copernicus-research-center",
+          "level": 2,
+          "body_md": "",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "centro de transferencia [Dispatch Center] certámen [certámen]",
+      "anchor": "centro-de-transferencia-dispatch-center-certamen-certamen",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "centro de transferencia [Dispatch Center] certámen [certámen]",
+          "anchor": "centro-de-transferencia-dispatch-center-certamen-certamen",
+          "level": 2,
+          "body_md": "Derivado del término latino certāmĕn (pl. certamina )  con el significado de 'contienda, competición'. Puesto que la grafía y el uso del plural en la edición en inglés no son las habituales para este término, se ha optado por mantener esa grafía a fin de diferenciar los certámen en los que los magos combaten haciendo ostentación de su poder de cualquier certamen de carácter más mundano.",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Certificación [Certification]",
+      "anchor": "certificacion-certification",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Certificación [Certification]",
+          "anchor": "certificacion-certification",
+          "level": 2,
+          "body_md": "Chaioth Ha-Quadesh [Chaioth Ha-Quadesh]\n\n͡\n\nChakravanti [Chakravanti] /ˌt ɕɐk.ɽɐˈʋaːɳt ̪ i/ (cha-cra-van-ti)\n\n͡\n\nChakravat [Chakravat] /ˌt ɕɐk.ɽɐˈʋat ̪ / (cha-cra-vat)\n\nchangeling [changeling] /ˈtʃeɪɲdʒlɪŋ/ (chéin-y[e]ling)\n\nSe ha optado por dejar el término original en inglés por dos razones. La primera, por ser un término que ya es de uso común entre los seguidores de Mundo de Tinieblas , y un cambio únicamente daría lugar a confusiones.  Segundo,  el  folclore popular, tanto español como latinoamericano, carece de una figura que equivalga al changeling tradicional anglosajón, o al menos no es una figura tan arquetípica en nuestra cultura; por ello,  el  español  carece  de  una  traducción  directa  para  el  término. La posibilidad más ajustada sería niño cambiado ,  denominación en absoluto satisfactoria para un término de tanto peso dentro del Mundo de Tinieblas .",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Chicos de Negro [Boys in Black]",
+      "anchor": "chicos-de-negro-boys-in-black",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Chicos de Negro [Boys in Black]",
+          "anchor": "chicos-de-negro-boys-in-black",
+          "level": 2,
+          "body_md": "chamán [shaman]\n\n͡\n\nChang [Chang] /t ɕʰɨɐŋ/ (chang)\n\nChapiteles [Spires]\n\n͡\n\nChatra [Chatra] /t ʃʰaːt ̪ ɽə/ (cha-tra)\n\n͡\n\nchi [chi] /t ɕʰiəɻ/ (chi)\n\n͡\n\nch'i [ch'i] /t ɕʰiəɻ/ (chi)\n\nChoeur Céleste [Choeur Céleste] /kœr|seˈlƐst/ (quer  se-lest)\n\nCh'uang Shih [Ch'uang Shih]\n\nciberfriki [cyberdork]\n\ncíborg [cyborg]\n\nCiencia Dimensional [Dimensional Science]\n\nCiencia Iluminada [Enlightened Science]\n\nCiencia Inspirada [Inspired Science]\n\nCiencias [Science]\n\nCiencias Aplicadas [Applied Sciences]\n\nCientífico [Scientist]\n\nCientífico Loco [Mad Scientist]\n\nEn mayúscula, sólo cuando haga referencia al Arquetipo de Naturaleza o Conducta.\n\nCifra [Cipher]\n\nCinco Dragones de Metal [Five Metal Dragons] Cinco Dragones Elementales [Five Elemental Dragons] Círculo Cosiano [Cosian Circle] Círculo de la Estrella Rota [Circle of the Broken Star] Círculo Exterior [Outer Circle] Círculo Interior [Inner Circle] Círculo Sirena, el [Siren Circle, the] Cisma, el [Schism, the] ciudadano [citizen] ciudadano extraordinario [extraordinary citizen] Ciudadano Extraordinario [Extraordinary Citizen] ciuredano [netizen]\n\nEn inglés, netizen es un término de creación relativamente reciente que hace referencia a 'un ciudadano de la red'. Para traducir el término se ha optado por este neologismo, que es la traducción más habitual en las comunidades online hispanohablantes.\n\nClan de Morrigan [Clan of Morrigan] /ˈmoːrɪːgan/ (mórri-gan)\n\nClaudius Dediticius [Claudius Dediticius] /ˈklawdius|deˈ -ditikus/ (cláu-di-us de-di-ti-cus)\n\nclon [clone]\n\nCoalición de Casas Supervisoras [Proctor House Coalition]\n\nCódigo de Ananda, el [Code of Ananda, the]\n\nCódigo de Hermes [Code of Hermes]\n\nCollegium Praecepti [Collegium Praecepti] /kolˈleːɡium|/\n\npra ͡ eˈkpti/ (co-le-gui-um prae-quep-ti)\n\nColonia [Colony]\n\nColonia, la [Colony, the]\n\nColony Filmworks [Colony Filmworks] /ˈkɒləni|ˈfɪlmwɜːks/\n\n(có-lo-ni film-worcs)\n\ncomeestrellas [Star-Eater]\n\nComité de Evaluación, Administración y Entrenamiento de  Ciencias  Dimensionales  [Dimensional  Sciences  Evaluation, Administration, and Training Committee]\n\nCompañero [Fellow]\n\nCompañero [Companion]\n\nComplejo de Cassandra, el [Cassandra Complex, the]\n\ncomún [Com]\n\nConcepto [Concept]\n\nConcilio, el [Council, the]\n\nConcilio de las Nueve Tradiciones Místicas [Council of Nine Mystic Traditions]\n\nConcilio de Nuevo Horizonte, el [New Horizon Council, the]\n\nConcilio Renegado, el [Rogue Council, the]\n\nCondicionamiento Social [Social Conditioning]\n\ncónclave [conclave] Conducir [Drive] Conducta [Demeanor] conducto [conduit] Conexión [Connection] confluencia [conflux] Confluencia [Conflux]\n\nEn mayúscula cuando haga referencia a la forma en que ciertos Tecnócratas denominan los Nodos.\n\nCongregación Sagrada [Sacred Congregation]\n\nConocimiento Experto [Expert Knowledge]\n\nConocimiento Regional [Area Knowledge]\n\nConocimientos [Knowledges]\n\nconsciencia [awareness]\n\nConsciencia [Awareness]\n\nConsejero [Councilor]\n\nConsenso, el [Consensus, the]\n\nconsors, pl. consortes [consor, pl. consors] /ˈkonsoɾs/ , pl. /konˈsoɾtes/ (con-sors), pl. (con-sor-tes)\n\nconstructo [construct]\n\nConstructo [Construct]\n\nContactos [Contacts]\n\nContador [Speaker]\n\nEn mayúscula cuando haga referencia a un miembro de la Tradición Cuentasueños.\n\ncontienda [contest] contragolpe [backlash] Contramagia [countermagick] contrario [contrary] Control [Control] Control de Daños [Damage Control] Control de Medios [Media Control] contundente [bashing] Convención [Convention] Convención Relojera [Clockwork Convention] Convención  de  la  Torre  Blanca  [Convention  of  the\n\nWhite Tower]\n\nCoperos de Isis [Cupbearers of Isis] copia de carbón [carbon copy] Corista [Chorister] Coro Celestial [Celestial Chorus] Coronado [Crowned One] Corpus Hermeticum [Corpus Hermeticum] /ˈkoɾpus|eɾˈ -\n\nmetikum/ (cor-pus er-mé-ti-cum)",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "D",
+      "anchor": "d",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "D",
+          "anchor": "d",
+          "level": 2,
+          "body_md": "corral de ovejas [sheep pen]\n\ncorrección del mercado [market correction]\n\nCorrespondencia [Correspondence]\n\nCorrigenda Periférica [Peripheral Corrigenda]\n\nCorte [Court]\n\nCorte de las Ciencias Sagradas [Court of Sacred Sciences]\n\nCosmología [Cosmology]\n\ncosmología tychoidesiana [Tychoidian cosmology]\n\nCoyote [Coyote]\n\nCoyuntura [Juncture]\n\nCPD [PDC]\n\nCray [Cray]\n\nEs posible que este término proceda del escocés craig (otero, risco), puesto que es un término arcaico, prácticamente en desuso, se ha optado por utilizarlo en cursiva.\n\nCreación, la [Creation, the]\n\ncreencia [belief]\n\nCriados [Retainers]\n\ncrimen contra la realidad [reality crime]\n\nCriptografía [Cryptography]\n\ncrónica [chronicle]\n\nCruz de Jade de San Lucifer, la [Jade Cross of St. Lucifer]\n\nCruzada de los Hechiceros, la [Sorcerers Crusade, the]\n\nCruzado [Crusader]\n\nCucaracha [Cockroach]\n\nCuentasueños,  pl.  Cuentasueños  [Dreamspeaker,  pl. Dreamspeaker]\n\nCuerpos Pan-Dimensionales [Pan-Dimensional Corps]\n\nCuerpos  Especiales  de  Neutralización  [Neutralization\n\nSpecialist Corps]\n\nCuervo [Raven]\n\nCultista [Cultist]\n\nEn mayúscula cuando haga referencia a un miembro del Culto del Éxtasis\n\nCulto [Cult]\n\nCulto del Éxtasis [Cult of Ecstasy]\n\ncultura normativa [normative culture]\n\nCúpula del Placer de Balador [Balador Pleasure Dome]\n\nCuria [Curia]\n\nCzar Vargo [Czar Vargo] /t ͡ ʂar|ˈvɑːɾɡo/ (tsar var-go)\n\nDAE [ETD]\n\nDai Han Loc [Dai Han Loc]\n\nDalou-laoshi [Dalou-laoshi]\n\nDama [Dama]\n\n14 Glosario M20 Básico Danzante de la Espiral Negra, pl. Danzantes de la Espiral Negra [Black Spiral Dancer, pl. Black Spiral Dancers] daño [damage]\n\nDarwush,  pl.Darwushim  [Darwushim] /ˈdarvuʃ/,  pl.  / darvuˈʃim/ (dár-vush), pl. (dar-vu-shim)\n\nTérmino procedente del persa darviš 'mendigo'.\n\nDatos [Data]\n\nDaya [Daya] /ˈd ̪ əjaː/ (da-ya)\n\nDCF [BCD]\n\nDécada de la Caza [Decade of the Hunt]\n\nDecadenti [Decadenti] /dekaˈðen ̪ ti/ (de-ca-den-ti)\n\nDécima Esfera, la [Tenth Sphere, the]\n\nDeclaración  de  la  Torre  Blanca  [Declaration  of  the White Tower]\n\nDedaliano [Daedalean]\n\nDedicantes de la Espina Roja [Red Thorn Dedicants]\n\nDefecto [Flaw]\n\nDelirio [Delirium]\n\nEn mayúscula al ser un efecto sobrenatural de tan crucial importancia que los Garou y el resto de Fera infligen sobre los humanos.\n\nDemoliciones [Demolitions]\n\ndemonio [demon]\n\nDescarnado [Disembodied]\n\nDescarnamiento [Disembodiment]\n\nSe  ha  optado  por  la  opción Descarnamiento sobre  otras  como Descorporización o Descorporación para mantener el paralelismo con embody ( encarnar ).\n\nDescaro [Blatancy]\n\nDescenso [Descent]\n\ndesconexión [disconnection]\n\nDesembolsos [Disbursements]\n\ndesgarre, el [Rip, the]\n\nDesignación  Universal  de  Identificación  [Universal Identification Designation]\n\ndes-integración [de-rez]\n\nEn inglés, el término de-rez hace referencia a la desintegración que sufrían los programas de la película Tron . Dado que en la edición en inglés del M20 se ha añadido un guión en medio de la palabra, se ha optado por mantenerlo también en la traducción al español.\n\ndes-integración severa [hard de-rez]\n\ndes-integración suave [soft de-rez]\n\nDespertado [Awakened]\n\nDespertar [Awaken, to]\n\nDado que Despertar es un momento determinante en la  vida  de  todo  mago  se  ha  optado  porque  la  forma  verbal mantenga también la mayúscula.\n\n<!-- image -->\n\nDespertar, el [Awakening, the]\n\nDestino [Destiny]\n\nDestreza [Dexterity]\n\nDevoradores de los Muertos [Eaters of the Dead]\n\nDFT [EFD]\n\nDharma de la Mano Cerrada [Dharma Clasped Hand]\n\nDharmachakra  [Dharmachakra] /ˌd ̪ ʱɐɽmɐhˈt ͡ ɕɐkɽɐ/ (darma-cha-cra)\n\nDharmamukti  [Dharmamukti] /ˌd ̪ ʱɐɽmɐhˈmukʰʈi/ (darma-muc-ti)\n\nDhyana [Dhyana] /ˈd ̪ ʱjaːnɐ/ (dya-na)\n\nDiácono [Deacon]\n\nDiedne [Diedne]\n\nDiksha [Diksha] /ˈd ̪ iːkɕaː/ (dic-sha)\n\nDiksham [Diksham] /ˈd ̪ iːkɕaːm/ (dic-sham)\n\nDinámica [Dynamic]\n\nEn mayúscula sólo cuando haga referencia a la Esencia\n\ndel Avatar.\n\nDinamismo [Dynamism]\n\nDirector de Investigación [Research Director]\n\nDirectorio  de  Amenazas  Existenciales  [Existential  Threats Directorate]\n\nDiscípulo [Disciple]\n\ndisneysiano [Disneyrian]\n\nDispar [Disparate]\n\nDispositivo [Device]\n\nDivisa [Currency]\n\nDivisión de  Cuerpos  Fronterizos  [Border  Corps  Division]\n\nDivisión de Frontera Terrestre [Earth Frontier Division]\n\nDivisión de Proyectos Especiales [Special Projects Division]\n\nDivisión Q [Q Division]\n\nDo [Do]\n\nDoc Eon [Doc Eon]\n\nDoctor [Doctor]\n\ndoctor loco [Mad Doctor]\n\nDocumentación [Research]\n\nDoissetep [Doissetep]\n\ndominio [domain]\n\nEn minúscula al ser una división menor de la Umbra.",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "E",
+      "anchor": "e",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "E",
+          "anchor": "e",
+          "level": 2,
+          "body_md": "DPE [SPD]\n\nDr. Volcano [Dr. Volcano] Dragón [Dragon] dregvati [dregvati] /dɾegˈʋaːt ̪ i/ (dreg-va-ti) DUI [UID] Dumbledore [Dumbledore] /ˈdʌmbəldə Durmiente [Sleeper]",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "ECAC [CACS] Ecacas [Cacks]",
+      "anchor": "ecac-cacs-ecacas-cacks",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "ECAC [CACS] Ecacas [Cacks]",
+          "anchor": "ecac-cacs-ecacas-cacks",
+          "level": 2,
+          "body_md": "En inglés,  se  los  miembros  del  ECAC  (CACS  en  inglés)  son denominados de forma despectiva Cacks , término que podría traducirse como 'mierda' en español. Para tratar de mantener este juego de palabras en español, se ha optado por traducir el término como Ecacas , que mantiene tanto las siglas de este cuerpo de especialistas de la Tecnocracia como el significado despectivo del apelativo en inglés.\n\nEidolon, pl. Eidola [Eidolon, pl. Eidolons] /ˈei ̯ dɔːlon/ o /ˈiðolon/ ,  pl. /ˈei ̯ dɔːla/ o /ˈiðolon/ (eí-do-lon,  í-do-lon;  eí-do-la,\n\nEED [EDE] EDAV [VDAS] Efecto combinado [conjunctional Effect] Efecto Paradoja [Paradox Effect] efecto Pie Grande [Bigfoot effect] Efecto Rash ō mon [Rashomon Effect] efimeria [ephemera] efimérico, -a [ephemeral] í-do-la) Ejecutor [Enforcer] elemental [elemental] Eleusino [Eleusinian] elevar [uplift] Élite [Elite] Élite Mercurial, la [Mercurial Elite, the] Emisarios [Emissaries] Empatía [Empathy] Empoderamiento [Empowerment] Empresa [Venture]\n\nEncantamiento [Charm]\n\nSe  ha  optado  por  el  término Encantamiento sobre  el  término Hechizo ,  que se utilizaba en anteriores ediciones en nuestro idioma para hacer referencia a los Poderes de los espíritus, al ser un término que se ajusta más al término inglés Charm y a fin de evitar, en la medida de lo posible, confusiones con el nombre que algunos magos místicos dan a sus  fórmulas  Mágicas.\n\nEncubrimiento [Cloaking]\n\nr/ (dám-bel-dor)\n\nEnigmas [Enigmas]\n\nEnrique Castaneda [Enrique Castaneda]\n\nEnsueño, el [Dreaming, the]\n\nEnsueño Lejano [Far Dreaming]\n\nEnsueño Próximo [Near Dreaming]\n\nEntelequia [Entelechy]\n\nEntidad Extra-Dimensional [Extra-Dimensional Entity]\n\nEntidad de la Paradoja [Paradox Entity]\n\nEntidad Post-Vital [Post-Life Entity]\n\nEntrerreino [Midrealm]\n\nEntropía [Entropy]\n\nEpifamia [Epiphamy]\n\nEpifanía [Epiphany]\n\nEpiflino [Epiphling]\n\nepitropi [epitropi]\n\nEPV [PLE]\n\nEquipo Alfa de Respuesta Especial [Special Response Team Alpha]\n\nEquitación [Riding]\n\nErik  Rose  Hammer  [Erik  Rose  Hammer] /ˈɛɹɪk|ˈrəʊz|ˈhæmə/ (é-ric rous já-mer)\n\nEris Design [Eris Design] /ˈɛrɪs|dɪˈzaɪn/ (é-ris di-sáin)\n\nErrabundo [Wanderer]\n\nerrante [errant]\n\nescudriñar [peek, to]\n\nEscuela Dragón [Dragon School]\n\nEscuela Fénix [Phoenix School]\n\nEscuela del Ritmo Roto [Broken Rhythm School]\n\nEscuela Tigre [Tiger School]\n\nEsencia [Essence]\n\nEsfera [Sphere]\n\nEsfera Afín [Affinity Sphere]\n\nEsfera de Patrones [Pattern Sphere]\n\nEsfinge, la [Sphinx, the]\n\nEsoterismo [Esoterica]\n\nEspacio Biosférico [Biospheric Space]\n\nEspacio de Conjunto [Ensemble Space]\n\nEspacio Convencional [Conventional Space]\n\nEspacio Entrópico [Entropic Space]\n\nEspacio Éter [Etherspace]\n\nEspacio Libre [FreeSpace]\n\nEspecialidad [specialty]\n\nEspecialista  en  Corrección  de  Anomalías  Computaciona-\n\nles [Computational Anomalies Corrections Specialist]\n\nEspecialista Dimensional [Dimensional Specialist]\n\nEspectro de Datos y Análisis Visuales [Visual Data &amp; Analysis Spectrum]\n\nEspejos Oscuros [Dark Mirrors]\n\nEspías [Spies]\n\nespíritu [spirit]\n\nEspíritu [Spirit]\n\nEspíritu de la Paradoja [Paradox Spirit]\n\nEstadísticos [Statisticians]\n\nEstán Más Allá, los que [Those Beyond]\n\nestancia agama [agama sojourn]\n\nEstasis [Stasis]\n\nEstatus [Status]\n\nesterilizar [Sanitize]\n\nEstrella-de-Águilas [Star-of-Eagles]\n\nEstudiante [Student]\n\nEterita [Etherite]\n\nEn mayúscula cuando haga referencia a un Hijo del Éter o a algo relacionado con dicha Tradición.\n\nEtiqueta [Etiquette]",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Eutánatos [Euthanatos]",
+      "anchor": "eutanatos-euthanatos",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Eutánatos [Euthanatos]",
+          "anchor": "eutanatos-euthanatos",
+          "level": 2,
+          "body_md": "De  uso  indistinto  con  el  término  etimológico  griego, εὐθᾰ́νᾰτος . En su forma adaptada al español, es invariable.",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Euthanatos, pl. Euthanatoi [Euthanatos, pl. Euthanatoi]",
+      "anchor": "euthanatos-pl-euthanatoi-euthanatos-pl-euthanatoi",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Euthanatos, pl. Euthanatoi [Euthanatos, pl. Euthanatoi]",
+          "anchor": "euthanatos-pl-euthanatoi-euthanatos-pl-euthanatoi",
+          "level": 2,
+          "body_md": "/eu ̯ ˈtʰanatos/ , pl. / eu ̯ ˈtʰanatoi ̯ / (eu-zá-na-tos) (eu-zá-na-toy)\n\nSe  ha  tratado  de  respetar  en  la  edición  en  español  las ocasiones en las que para nombrar a esta Tradición se usa el étimo clásico;  en  dichos  casos,  debe  aplicarse  flexión  de  número: Euthanatos, Euthanatoi.\n\nEx  Miscellanea  [Ex  Miscellanea] /eks|miskelˈlaːnia/ (ex mis-que-lá-ni-a)\n\nExarca [Exarch]\n\néxito [success]\n\nexo [exo]\n\nExoJock [ExoJock]\n\nExperiencia [experience]\n\nAl ser un Rasgo del personaje, como los Atributos o las Virtudes, se ha determinado usar Experiencia en mayúscula.\n\nExplorador [Explorator]\n\nExpresión [Expression]\n\nExtático [Ecstatic]\n\nextradimensional [extradimensional]\n\nfacespacio [FaceSpace]\n\nfallo [failure]\n\nFallo Técnico [Glitch]",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "F",
+      "anchor": "f",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "F",
+          "anchor": "f",
+          "level": 2,
+          "body_md": "Fama [Fame]\n\nFamiliar [familiar]\n\nFamiliar [Familiar]\n\nfantasma [ghost]\n\nFarmacopea [Pharmacopeia]\n\nFarmacopeísta [Pharmacopeist]\n\nFausto [Faust]\n\nFeed, el [Feed, the] /fiːd/ (fid)\n\nFeng Huan Hou Wu [Feng Huan Hou Wu]\n\nFénix [Phoenix]\n\nFetiche [fetish]\n\nFianna, pl. Fianna [Fianna, pl. Fianna] /ˈfʲiən ̪ ˠə/ (fién-a)\n\nEn tiempos míticos, los Fianna eran la orden de caballería que servía al rey supremo de Irlanda (o Ard Righ), la cual alcanzó su máximo esplendor bajo el mando de Fionn Mac Cumhal. Probablemente, el propio nombre Fianna signifique precisamente 'guerreros'.\n\nFin de los Tiempos, el [End Times, the]\n\nFinancieros [Financiers]\n\nFinanzas [Finance]\n\nfísica de la realidad [reality physics]\n\nFísicos [Physical]\n\nFlambeau [Flambeau] /flɑ ̃ bo/ (fla-bó)\n\nFlautistas, los [Pipers, the]\n\nFlor del Alma [Soulflower]\n\nFlores  del  Renacimiento,  las  [Flores  del  Renacimiento,  las]\n\nFlorian Wulff [Florian Wulff] /ˈfloɾjan|vulf/ (fló-rian vulf) foco [focus]\n\nFomor, pl. Fomori [fomor, pl. fomori] /ˈfomoɾ/ (fó-mor), (fo-mó-ri)\n\npl. /foˈmoɾi/\n\nfórmula [rote]\n\nFortunae [Fortunae] /foɾˈtuna ͡ e/ (for-tu-nae)\n\nfracaso [botch]\n\nFragmenti [Fragmenti]\n\nPlural incorrecto formado a partir del cambio de género de neutro a masculino del término en latín fragmentum .\n\nfrankensteiniano [Frankensteinian]",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "FREEKS [FREEKS]",
+      "anchor": "freeks-freeks",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "FREEKS [FREEKS]",
+          "anchor": "freeks-freeks",
+          "level": 2,
+          "body_md": "Puesto que, era imposible mantener intacto el significado de estas  siglas  al  tiempo  que  se  realizaba  una  traducción  ajustada de Free-Ranging Electronic Encroachment Kill Systems ,  se  ha  optado por mantener las siglas en inglés y traducir su significado de forma literal como Sistemas Electrónicos de Invasión y Destrucción de Alcance Libre .\n\nFrenesí, pl. Frenesíes [frenzy, pl. frenzies]\n\nfrente [front]\n\nFrente, el [Front Lines, the]",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "G",
+      "anchor": "g",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "G",
+          "anchor": "g",
+          "level": 2,
+          "body_md": "Fuar Drochit [Fuar Drochit] /fˠuəɾˠ|ˈdroxɪt/ (fuar dró-jit)\n\nFuego Sagrado, el [Holy Fire, the]\n\nFuerza [Strength]\n\nFuerza Primordial [Primal Force]\n\nFuerzas [Forces]\n\nFuerza de Voluntad [Willpower]\n\nFundación Nueva Juventud [New Youth Foundation]\n\nFuria  Negra,  pl.  Furias  Negras  [Black  Fury,  pl.  Black  Furies] fusión [fusion]\n\nGabrielita [Gabrielite]\n\nGaflino [Gaffling]\n\nGaia [Gaia]\n\ngalería [Gallery]\n\ngandalfiano [Gandalfian]\n\nGarou, pl. Garou [Garou, pl. Garou] /ɡaʁu/ (ga-rú)\n\nPréstamo del francés antiguo que significa literalmente 'hombre lobo'; curiosamente, en el francés actual se utiliza la expresión loupgarou , que vendría a significar 'lobo hombre lobo'. Dada la importancia de este término entre los hombres lobo, se escribe en redonda pese a ser un préstamo.\n\nGema del Alma [Soulgem]\n\nGeneral [General]\n\ngeningeniería [genegineering]\n\nGeningeniero [Genegineer]\n\nGenio [Genius]\n\nGente de la Noche [Night-Folk, the]\n\nGerente [Manager]\n\nGerentes  de  Tiempos  y  Movimientos  [Time-Motion Managers]\n\nGilgul [Gilgul] /gilˈgul/ (guil-gul)\n\nEn redonda, pese a provenir del hebreo לוּגְּלִּג , al ser un término de uso corriente entre los Despertados.\n\nGilledian [Gilledian]\n\nGimoteante Oscuridad, la [Wailing Darkness, the]\n\nGiro [Twist]\n\ngladius [gladius]\n\ngnosis [gnosis] /ˈŋnosɪs/ (nó-sis)\n\ngnosticismo [Gnosticism]\n\nGo Kamisori Gama [Go Kamisori Gama] /ɡo ̞ |ka ̠ miˈsoɾɪ|ˈka ̠ -\n\nma ̠ / (go ca-mi-so-ri ca-ma)\n\nGolo [Golo]\n\ngrado absoluto [Degree Absolute]\n\nGran Asamblea, la [Grand Convocation, the]\n\nGran Nevasca, la [Great Whiteout, the]\n\nGlosario M20 Básico\n\nH\n\nGran Piélago, el [Great Deep, the]\n\nGran Sociedad del Tigre [Grand Tiger Society]\n\nGran Traidor, el [Great Betrayer, the]\n\nGrapas [Staples]\n\nGremio de  Filósofos  Naturales  [Natural  Philosophers  Guild]\n\nGremio de los Lobos [Wolf Guild]\n\ngris-gris [gris-gris]\n\nGTM [TMM]\n\nGuardianes [Guardians]\n\nGuardianes de la Puerta [Gatekeeper]\n\nGuerra de la Ascensión [Ascension War]\n\nGuerra de la Bruja de Polvo [War of the Dust-Witch]\n\nGuerra de la Concordia [Concordia War]\n\nguerra de brujas [witch-war]\n\nGuerras del Himalaya [Himalayan Wars]\n\nGuerra del Horizonte [Horizon War]\n\nGuerra de Logias [Lodge Wars]\n\nGuerra Massasa [Massasa War]\n\nGuerra en las Ruinas [War in the Ruins]\n\nGuerrero de la Ascensión, el [Ascension Warrior, the]\n\nHabilidad, pl. Habilidades [Ability, pl. Abilities]\n\nHabitación 101 [Room 101]\n\nEl nombre de esta sala es una referencia a la sala de tortura del Ministerio del Amor de la novela 1984 de George Orwell.\n\nHabitación Blanca [White Room]\n\nHabitación Negra [Black Room]\n\nHabitación Roja [Red Room]\n\nhabla de las Masas [Masspeak]\n\nHablante de Espíritus [Spirit Talker]\n\nHacker [Hacker]\n\nEn mayúscula y redonda sólo cuando haga referencia al Arquetipo de Naturaleza y Conducta.\n\nhadas [fae, pl. faeries]\n\nHalcón Caminante [Walking Hawk]\n\nha'ole kahuna [ha'ole kahuna] /haˈole|kaˈhuna/ (ha-o-le ca-hu-na)\n\nHdN [MiB]\n\nhe ho'okele moana [he ho'okele moana] /he|hoˈokele| -moˈana/ (he ho-ó-ke-le mo-a-na)\n\nHeasha Morningblade [Heasha Morningblade]\n\nHebra Mítica [Mythic Thread]\n\nhechicero [sorcerer]\n\nhechizo [spell]\n\nHelekar [Helekar]\n\nHem-Ka  Sobk  [Hem-Ka  Sobk] /ˈħeːmka|sobk/ (hem-ka só-bec)\n\nHeraldos de Ávalon [Harbingers of Avalon]\n\nHeredad [Demesne]\n\nHerido [wounded]\n\nHermana de Hipólita, pl. Hermanas de Hipólita [Sister of Hippolyta, pl. Sisters of Hippolyta]\n\nHermandad Akáshica [Akashic Brotherhood]\n\nHermandad del Juramento [Fellowship of the Oath]\n\nHermano Armonioso [Harmonious Brother]\n\nHermes Trismegisto [Hermes Trismegistus]\n\nHermético [Hermetic]\n\nEn mayúscula cuando haga referencia a un miembro de la Orden de Hermes o a algo relacionado con ésta.\n\nhéroe [hero]\n\nHeylel Teomim Thoabath [Heylel Teomim Thoabath]\n\nHibernación [Slumber]\n\nHibernar [Slumber, to]\n\nHijo  del  Conocimiento,  pl.  Hijos  del  Conocimiento [Child of Knowledge, pl. Children of Knowledge]\n\nHijo del Éter, pl. Hijos del Éter [Son of Ether, pl. Sons of Ether]\n\nhipermatemáticas [hypermath]\n\nhipernarrativa [hypernarrative]\n\nHiperestudio [Hypercram]\n\nhipertecnología [hypertech]\n\nhipnopeda [sleepteacher]\n\nEl término sleepteaching (o sleeplearning ) hace referencia a diversos sistemas de aprendizaje durante el sueño. Esta técnica, propia de muchas novelas de ciencia-ficción, especialmente Un Mundo Feliz de Aldous Huxley, recibe en español el nombre hipnopedia . Es por esta razón que se ha optado por el nombre hipnopeda , al suponer que resultaría acertado para los dispositivos usados en esta clase de aprendizaje.\n\nhippie guerrero de carretera [Road Warrior hippie]\n\nHippolytoi [Hippolytoi] /hiːpoliˈtoi ̯ / (ji-po-li-toy)\n\nPuesto que las Hermanas de Hipólita son todas mujeres, el término correcto que quizás deberían emplear sería Hippolytái , pero  se  ha  optado  por  mantener  el  término  de  la  edición  en  inglés.\n\nHolly Tanaka [Holly Tanaka] Hombre de Negro [Man in Black] hombre lobo [werewolf] Hombre Mágico [Magic Man] Hombres de Visión [Vision Man] Homo superior [Homo superior] Hong Lei [Hong Lei]\n\nHonorable Maestro [Honored Master]\n\nI\n\nHonori [Honori] /oˈnoːɾi/ (o-no-ri)\n\nHorizonte [Horizon]\n\nHorizonte Antrópico [Anthropic Horizon]\n\nHorizonte Biosférico [Biospheric Horizon]\n\nHorizonte Espacial [Spatial Horizon]\n\nHorizonte, el [Horizon, the]\n\nhot link [hot link] /hɒt|lɪŋk / (jot linc)\n\nhounsis [hounsis]\n\nHowahkan [Howahkan] /howaˈkʰaŋjan/ (jo-ua-can-yan)\n\nEn lengua lakota, hawakhan significa 'voz sagrada'.\n\nHueco, pl. Huecos [Hollow One, pl. Hollow Ones] Huérfano [Orphan]\n\nhumanos primero [human-firsters]\n\nhybris [hubris] /ˈhybris/ (ji-bris)\n\nicono [icon] Idealista [Idealist] Identidad Alternativa [Alternate Identity]\n\nidiots, les [idiots, les] /le|iˈdjo/ (le i-dió)\n\nEn redonda pese a ser francés, al ser un término de uso común entre los Bata'a.\n\nIglesia de la Marca Llameante [Flaming Brand Church] Iglesia del Nuevo Rito [New Rite Church] Iluminación [Enlightenment] Iluminado [Enlightened] imperativo [imperative] Incapacitado [incapacitated]\n\nIncarna, pl. Incarnae [Incarna, pl. Incarnae] /iŋˈkɑrnɑ/ (in-cár-na), pl. /iŋˈkɑrnɑ ͡ e/ (in-cár-nae)\n\nIncidente Greylocke, el [Greylocke Incident, the] incumplir [default] Indira Chen [Indira Chen] Infernal [Infernal] Infernalista [Infernalist] Infinita [Infinite]\n\nEn mayúscula, sólo cuando haga referencia a la Esencia del Avatar.\n\ninfluencia [influence] Influencia [Influence] Influencia Sutil [Subtle Influence] Información de SR [RD Data] Informática [Computer] infoespacio [InfoSpace] Inframundo [Underworld]\n\nJ",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Ingeniero Diferencial [Difference Engineer] Ingenieros FACADE [FACADE Engineers]",
+      "anchor": "ingeniero-diferencial-difference-engineer-ingenieros-facade-facade-engineers",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Ingeniero Diferencial [Difference Engineer] Ingenieros FACADE [FACADE Engineers]",
+          "anchor": "ingeniero-diferencial-difference-engineer-ingenieros-facade-facade-engineers",
+          "level": 2,
+          "body_md": "En inglés, FACADE es el acrónimo de Forced Adaptation and Clone Alteration Developmental Eugenicists . Dado que facade es un galicismo para fachada , se ha optado por mantener las mismas siglas forzando un poco la traducción al español como: Facción para la Adaptación y Clonación Alterada para el Desarrollo Eugenésico .\n\nIngeniero Electrodino [Electrodyne Engineer]\n\nIngeniero del Vacío, pl. Ingenieros del Vacío [Void Engineer, pl. Void Engineers]\n\niniciación [initiation]\n\nIniciado [Initiate]\n\nIniciado Exemptus [Initiate Exemptus]\n\nIniciativa [initiative]\n\nPese a no ser un Rasgo por sí mismo, se ha considerado que es una característica derivada innata de los personajes, lo cual ha provocado que se opte por la mayúscula para este término.\n\ninmersión astral [astral immersion]\n\ninmersión holística [holistic immersion]\n\ninmutuo [unmutual]\n\nInnovador [Innovator]\n\nInspector [Inspector]\n\nInstituto Descartes de Salud Mental [Descartes Institute of Mental Health]\n\ninstrumento [instrument]\n\nInteligencia [Intelligence]\n\ninterludio [downtime]\n\nIntimidación [Intimidation]\n\nInvestigación [Investigation]\n\nInvestigación y Ejecución [Research &amp; Execution]\n\nInvestigador [Investigator]\n\nInvestigador Principal [Primary Investigator]\n\nInvisibles, Les [Invisibles, Les] /le|ɛ ̃ viˈzibl/ (le an-vi-si-ble)\n\nEn redonda, pese a ser francés, al ser un término de uso\n\ncomún entre los Bata'a.\n\nIteración X [Iteration X]\n\nIterador [Iterator]\n\nItz'at [Itz'at] /iʦˈat/ (its-at)\n\nIYE [RAE]",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Janissary [Janissary]",
+      "anchor": "janissary-janissary",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Janissary [Janissary]",
+          "anchor": "janissary-janissary",
+          "level": 2,
+          "body_md": "jerga sucia [Scut-talk]\n\nJetpack [Jetpack] /dʒɛtpæk/ (yét-pac)\n\nJhor [Jhor] /dʒʱɔɽ/ (yor)",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "K",
+      "anchor": "k",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "K",
+          "anchor": "k",
+          "level": 2,
+          "body_md": "Kadugo [kadugo] /kɑˈðuɣo/ (ka-du-go)\n\nkahuna [kahuna] /kaˈhuna/ (ka-jú-na)\n\nKahuna-nui [Kahuna-nui] /kaˈhuna|nuj/ (ka-jú-na nui)\n\nKaimi [kaimi] /kaˈʔimi/ (ca-í-mi)\n\nKala [Kala] /ˈkaːlə/ (ca-la)\n\nkamrad [kamrad] /ˈkɒmraːd/ (cam-rad)\n\nKamrad [Kamrad] /ˈkɒmraːd/ (cam-rad)\n\nPalabra de origen sueco; al ser un término de uso común dentro de la Tecnocracia, se ha optado por dejarlo en redonda.\n\nkanakakahuna [kanakakahuna] /kaˌnakakaˈhuna / (ca-naca-ca-ju-na)\n\nkanato [khanate]\n\nKannagara [Kannagara] /ka ̠ ˈna ̠ ga ̠ ɾa ̠ / (ca-ná-ga-ra)\n\nKaos, el [Wyld, the]\n\nDurante  el  proceso  de  traducción  de Hombre  Lobo:  El Apocalipsis 20º Aniversario , se presentó el dilema de qué hacer con un término tan problemático como the Wyld , dado que la traducción empleada en anteriores ediciones en español no se ajustaba a la realidad del ente al que denomina, pero al tiempo estaba ya tan afincada entre los seguidores del juego que no podía cambiarse por otra nueva a la ligera. Ante este problema se optó por proponer la cuestión a los propios aficionados, permitiéndoles escoger entre dos opciones, además de aportar las suyas propias en caso de tenerlas. Por un lado, podían optar por el  Kaos ,  traducción  que,  aunque  no  cubría  todos  los  aspectos de the Wyld , era a la que ya estaban acostumbrados debido a anteriores ediciones en español y que además permitía jugar con una grafía poco habitual al igual que ocurre con el término original en inglés (kaos por caos igual que wyld por wild). Por el otro, estaba lo Salvaje , que se ajustaba de forma más literal al término en inglés, además de permitir un tratamiento neutro (en inglés the Wyld siempre es tratado como it ,  ello); por contra, no permitía una grafía fuera de la habitual sin que pareciese una falta de ortografía ( lo Salvage , lo Salbaje ...) y además había una importante oposición al cambio de término por un sector importante de los aficionados a Hombre Lobo: El Apocalipsis . Finalmente, quedó claro mediante las votaciones que, pese a  haber  una  división  entre  aquéllos  a  favor  del  cambio  de término y quienes optaban por el continuismo, la tendencia general era en favor de mantener el Kaos como denominación en español de the Wyld .\n\n͡\n\nJivahasta [Jivahasta] /d ʑiːʋɐ ́ ˈɦɐs ̪ t ̪ ɐ/ (yi-va-has-ta)\n\nJodi Blake [Jodi Blake] /ˈʒodi|bleyk/ (yo-di bleic)\n\nJohn Courage [John Courage] /ˈʤon|ˈkʌɹɪdʒ/ (yon cá-rich)\n\njugador [player]\n\nJuicio [Judgment]\n\nJunco de Thothmes [Reed of Thothmes, the]\n\nJuramento de Fuego [Oath of Fire]",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "L",
+      "anchor": "l",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "L",
+          "anchor": "l",
+          "level": 2,
+          "body_md": "kapahuna [kapahuna] /kapaˈhuna/ (ca-pa-ju-na)\n\nkapu [kapu] /ˈkapu/ (ca-pu)\n\nKarma [Karma]\n\nEn mayúscula cuando haga referencia a la rama del Do.\n\nkeiki [keiki] /ˈkejki/ (quei-qui)\n\nKene  aka  nui  [Kene  aka  nui] /ˈkene|ˈaka|nuj/ (que-ne a-ca nui)\n\nKha'vadi [Kha'vadi] /kʰəˈʋaːd ̪ i/ (ja-va-di)\n\nKibo [Kibo]\n\nKid Kimota [Kid Kimota]\n\nKitab al-Alacir [Kitab al-Alacir]\n\nKitjito, pl. Kitujita [Kitjito, pl. Kitujita]\n\nK'llasshaa [K'llasshaa]\n\nKopa Loei [Kopa Loei]\n\nKsirafai [Ksirafai]\n\nKuei Lung Chuan [Kuei Lung Chuan]\n\nKung-fu del Espíritu Dragón [Dragon Spirit Kung Fu]\n\nkupuna [kupuna] /kuˈpuna/ (cu-pu-na)\n\nkuwaneko, pl. kuwanakada [kuwaneko, pl. kuwanakada]\n\nKwajah-al-Akbar [Kwajah-al-Akbar]\n\nLaberinto [Labyrinth]\n\nLaboratorio [Laboratory] Lakashim [Lakashim] Lanza Roja, la [Red Spear, the] Larga Noche [Long Night] Lastimado [hurt] lavar en seco [drycleaning] Lee Ann Milner [Lee Ann Milner] Legado del Espía, el [Spy's Demise] León [Lion] Lesionado [injured] letal [lethal] Leyenda [Legend] Leyes [Law] Li-Hai [Li-Hai] Li Shihmin [Li Shihmin] Li Tsing [Li Tsing] Libro de enseñanza [Hornbook] Libro del Éter [Book of the Ether] Liderazgo [Leadership] Lili [Lili] Límites Astrales [Astral Reaches] Límites Etéreos [Aetherial Reaches]\n\nLlaves Maestras [Skeleton Keys]\n\nLoa [Loa]\n\nLobos de Medianoche [Midnight Wolves]\n\nLoco [Mad]\n\nlocus [locus]\n\nlogia [lodge]\n\nLúnula [Lune]\n\nEl término Lune hace  referencia  en  inglés  a  la  figura  geométrica en la que dos arcos se cortan con sus concavidades hacia el mismo lado, lo cual genera una forma similar a la de una Luna. En español, esta figura geométrica recibe el nombre de lúnula .",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "M",
+      "anchor": "m",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "M",
+          "anchor": "m",
+          "level": 2,
+          "body_md": "macrocosmos [macrocosm]\n\nMacrotécnicos [Macrotechnicians]\n\nMadzimbabwe [Madzimbabwe]\n\nmae-de-santos [mae-de-santos] /ˈmɐ ̃ ȷ ̃ |dʒi|ˈsɐ ̃ tu/ (may  yi  santu)\n\nMaestro [Master]\n\nMaestro Alquimista [Master Alchemist]\n\nMaestro Celestial [Celestial Master]\n\nMaestro Científico [Master Scientist]\n\nMaestro Resplandeciente [Resplendent Master]\n\nmagia [magic]\n\nMagia [magick]\n\nEn la edición en inglés de Mago: La Ascensión 20º Aniversario se usa el término magick (tomado de la obra homónima de Aleister Crowley) para distinguir la Magia Verdadera de los Despertados de la Magia Estática de otras criaturas sobrenaturales (y que en inglés queda definida por el término más general magic o por la denominación específica hedge magic ). Dado que era imposible mantener esta diferenciación a través de la k final  en  la  traducción  al  español,  se  ha  optado  por marcar esta distinción entre ambos tipos de magia escribiendo con mayúscula ( Magia )  la  que  emplean  los  Despertados cuando usan las Esferas.\n\nMagia casual [casual magick]\n\nMagia coincidente [coincidental magick]\n\nMagia del caos [chaos magick]\n\nMagia vana [vain magick]\n\nMagia vulgar [vulgar magick]\n\nMagister  Mundi  [Magister  Mundi] /maˈɡister|ˈmundi/ (ma-guís-ter mun-di)\n\nMagister Scholae [Magister Scholae] /maˈɡister|ˈskʰola ͡ e/ (ma-guís-ter es-co-lae)\n\nmago [mage / wizard]\n\nMago [Wizard]\n\nEn mayúscula únicamente cuando haga referencia a un miembro de alto rango del Sindicato.\n\nMago del Caos [Chaos Mage]\n\nmago estático [hedge magician / hedge wizard]\n\nMagullado [bruised]\n\nmagus [magus]\n\nMalfeo [Malfean]\n\nMalherido [mauled]\n\nmalla [Grid]\n\nManantial [Wellspring]\n\nManifiesto  del  Concilio  Renegado  [Rogue  Council Manifesto]\n\nManipulación [Manipulation]\n\nManto, el [Shroud, the]\n\nMáquina [Machine]\n\nMarassas [Marassas]\n\nMaravilla [Wonder]\n\nMarca [Brand / Branding]\n\nMarcha de los Nueve [March of the Nine]\n\nMarianna [Marianna]\n\nMarine [Marine]\n\nMartillo de Dios [God's Hammer]\n\nMártir [Martyr]\n\nMás Allá, pl. Más Allás [Afterworld, pl. Afterworlds]\n\nMasas, las [Masses, the]\n\nMasón Artesano [Craftmason]\n\nmater [mater]\n\nMateria [Matter]\n\nMatriarca, la [Matriarch, the]\n\nMatriz [Matrix]\n\nMaya [Maya]\n\nMecánico [Mechanician]\n\nMECHA [MECHA] /ˈmeka / (me-ca)\n\nMediación [Mediation]\n\nMedicina [Medicine]\n\nMedios de Comunicación [Media]\n\nMeditación [Meditation]\n\nmejora [enhancement]\n\nMejora [Enhancement]\n\nMembrana Dimensional [Dimensional Membrane]\n\nmeme [meme]\n\nmemóforo [memophore]\n\nMente [Mind]\n\nMentales [Mental]\n\nMentor [Mentor]\n\nMérito [Merit]\n\nMerlín [Merlin]\n\nMerodeador [Marauder]\n\nMerodeador materializado [actualized Marauder]\n\nMerodeador perceptual [perceptual Marauder]\n\nMeru [Meru]\n\nmeru'ai [meru'ai] /ˈmeɾuˌaj/ (mé-ru-ai)\n\nmetatrama [metaplot]\n\nMetodología [Methodology]\n\nmicrocosmos [microcosm]\n\nMilicia de Cristo [Christ's Militia]\n\nMirainohmen [Mirainohmen]\n\nMister Mistoffelees [Mister Mistoffelees]\n\nmístico [mystic]\n\nMistridge [Mistridge] /mɪstˈɹɪdʒ/ (míst-rich)\n\nModerador [Chairman]\n\nMokteshaf Al-Hour [Mokteshaf Al-Hour]\n\nMokteshafi [Mokteshafi]\n\nMonstruo [Monster]\n\nMonte Qaf [Mount Qaf]\n\nMorada [Haunt]\n\nMoreau [Moreauvian]\n\nMorongos, los [Morongos, the]\n\nMuertos Sin Reposo [Restless Dead]\n\nMübarek Maharet Meclisi [Mübarek Maharet Meclisi]\n\nmundano [mundane]\n\nMurid [Murid]\n\nMurshid [Murshid] /ˈmuɾʃid/ (múr-shid)\n\nmutuo [mutual]\n\nMystères, Les [Mysteres, Les] /misˈtɛʁ/ (mis-ter)\n\nEn redonda, pese a ser francés, al ser un término de uso común entre los Bata'a.",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "N",
+      "anchor": "n",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "N",
+          "anchor": "n",
+          "level": 2,
+          "body_md": "Naioba [Naioba]\n\nNatura, pl Naturae [Natura, pl. Naturae]\n\nnatural [natural]\n\nNaturaleza [Nature]\n\nNávalon [Navalon]\n\nnave celestial [Skyrigger]\n\nNecropolis [Necropoli]\n\nNefando, pl. Nefandos [Nephandus, pl. Nephandi]\n\nNeófito [Neophyte]\n\nneotribalismo [neotribalism]\n\nneotribalista [neotribalist]",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "O",
+      "anchor": "o",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "O",
+          "anchor": "o",
+          "level": 2,
+          "body_md": "",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Neutrales [Fencers]",
+      "anchor": "neutrales-fencers",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Neutrales [Fencers]",
+          "anchor": "neutrales-fencers",
+          "level": 2,
+          "body_md": "El  término fencer proviene  de  la  expresión fence  sitter , alguien  que  se  mantiene  una  actitud  de  observador  pasivo ante los problemas.\n\nNevasca [Whiteout]\n\nNgo-Ami [Ngo-Ami]\n\nNgoma [Ngoma] /ˈŋgoma/ (ngo-ma)\n\nNif' ur 'en Daah [Nif' ur 'en Daah]\n\nNightshade [Nightshade] /ˈnaɪtʃeɪd/ (náit-sheid)\n\nNiño [Kid]\n\nnivel de Salud [health level]\n\nNiyamavanti [Niyamavanti]\n\nno Despertado [unAwakened]\n\nno Iluminado [unEnlightened]\n\nno-muerto [undead]\n\nSe ha optado por el uso del guión al no ser un término que se use como una única palabra en español.\n\nNo Rotos [Unbroken]\n\nNoche de Fana [Night of Fana]\n\nNodo [Node]\n\nNohmen [Nohmen] /ˈnoːmen/ (no-men)\n\n'Nos vemos' ['Be seeing you']\n\nNuestros Amigos [Our Friends]\n\nnuevavida [newlife]\n\nNuevo Orden Mundial [New World Order]\n\nNull-B [Null-B]\n\nOcultismo [Occult]\n\nOficio [Craft]\n\nOficios Dispares [Disparate Crafts]\n\nOlvido [Oblivion]\n\nOneira [Oneira] /ˈɔnirɔ/ (ó-ni-ro)\n\nOnerae [Onerae] /ˈoneɾa ͡ e/ (ó-ne-rae)\n\nOpe [Op]\n\noperativo [operative]\n\nOperativo [Operative]\n\nOperativo de Calle [Street Op]\n\noperativo iniciado [initiated operative]\n\nOportunidad Primordial [Primal Opportunity]\n\nOráculo [Oracle]\n\nordalía [ordeal]\n\nOrden de Hermes, la [Order of Hermes, the]\n\nOrden de la Razón, la [Order of Reason, the]\n\nOrisha [Orisha]",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "P",
+      "anchor": "p",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "P",
+          "anchor": "p",
+          "level": 2,
+          "body_md": "Oscuro [Darkling]\n\nOstracismo [Ostracism]\n\nOtros Mundos, los [Otherworlds, the]\n\nOyas [Ojas]\n\npae-de-santos [pae-de-santos] /ˈpɐ ̃ ȷ ̃ |dʒi|ˈsɐ ̃ tu/ (pay yi santu)\n\npaisaje mental [mindscape]\n\nPájaro del Trueno [Thunderbird]\n\npalo bum [Boom Stick]\n\nEl término boom stick es un juego de palabras con broom stick ( palo de escoba ) y boom como onomatopeya de explosión que resulta totalmente intraducible al español.\n\nPanóptico, el [Panopticon, the]\n\nparada [Save]\n\nparadigma [paradigm]\n\nparadigma dominante [dominant paradigm]\n\nParadoja [Paradox]\n\nparanormal [paranormal]\n\nParentela [Kinfolk]\n\nPariente [Kin]\n\nPaso [trod]\n\npater [pater]\n\nPatria [Home Turf]\n\nPatrón [Pattern]\n\nPatrón [Patron]\n\nPelea [Brawl]\n\nPelea con Armas [Melee]\n\nSe  ha  optado  por  esta  denominación  sobre  las  otras opciones barajadas dado que era la única que resultaba una descripción acorde con la Habilidad que refleja al tiempo que era lo suficientemente corta como para entrar en la hoja de personaje sin necesidad de abreviaturas.\n\nEntre otras posibilidades se descartaron: Armas Cuerpo a Cuerpo (por ser demasiado larga y no describir una Habilidad sino  la  herramienta  empleada  por  la  misma), Combate con Armas (porque a diferencia de Pelea, sí se puede combatir a distancia y esto se solapaba con Armas de Fuego y Atletismo) o Melé (por ser un término que podía resultar confuso para algunos jugadores, sobre todo al no estar contemplada aún por la RAE esta acepción del mismo).\n\nPenny Dreadful [Penny Dreadful] /ˈpɛni|ˈdɹɛd.fʊl/ (pe-ni dréd-ful)",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Pentex [Pentex]",
+      "anchor": "pentex-pentex",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Pentex [Pentex]",
+          "anchor": "pentex-pentex",
+          "level": 2,
+          "body_md": "Se  ha  optado  por  mantener  en  inglés  y  redonda  los nombres de todas las filiales del entramado corporativo de Pentex al ser nombres propios de empresas multinacionales. Por ello, se utilizarán las denominaciones 'King Distilleries'\n\n| o 'Magadon Pharmaceuticals' en lugar de 'Destilerías King' o 'Farmaceútica Magadon'. Penumbra, la [Penumbra, the]   | Presbítero [Presbyter]                                                |\n|---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|\n|                                                                                                                     | Presidente Ejecutivo [CEO]                                            |\n|                                                                                                                     | Pretérito [Bygone]                                                    |\n| Penumbra Alta [High Penumbra]                                                                                       | Primera Cábala, la [First Cabal, the]                                 |\n| Penumbra Astral [Astral Penumbra]                                                                                   | primium [Primium] /ˈpɾimium/ (prí-mi-um)                              |\n| Penumbra Baja [Low Penumbra]                                                                                        | Primordial [Primordial]                                               |\n| Penumbra Espiritual [Spirit Penumbra]                                                                               | Primus, pl. Primi [Primus, pl. Primi] / ˈpɾimus/ /ˈpɾimi/             |\n| Penumbra Media [Middle Penumbra]                                                                                    | (pri-mus) (pri-mi)                                                    |\n| peón [pawn]                                                                                                         | princesa [Princess]                                                   |\n| Percepción [Perception]                                                                                             | príncipe azul [Prince Charming]                                       |\n| Perdición [Bane]                                                                                                    | Principio Iluminado Antrópico, el [Enlightened An-                    |\n| Periapto [Periapt]                                                                                                  | thropic Principle, the]                                               |\n| Pericarpio [Pericarp]                                                                                               | Procedimiento [Procedure]                                             |\n| Periferia, la [Periphery, the]                                                                                      | Procedimiento Sutil [Subtle Procedure]                                |\n| personaje [character]                                                                                               | Procesado [Processed]                                                 |\n| personal de apoyo no Iluminado [Unenlightened support                                                               | Procesamiento [Processing]                                            |\n| personnel]                                                                                                          | Proceso [Process]                                                     |\n| personal no convencional [unconventional personnel]                                                                 | Profesor [Professor]                                                  |\n| PGC [BFG]                                                                                                           | Profeta [Prophet]                                                     |\n| Picota [Pillory]                                                                                                    | Profundidad Interestelar [Interstellar Deep]                          |\n| piel de acero [steelskin]                                                                                           | programa de salto [pop prog]                                          |\n| piso franco [safe house]                                                                                            | Progenitor, pl. Progenitores [Progenitor, pl. Progenitors]            |\n| Pistola Grande de Cojones [Big Fucking Gun]                                                                         | Programador [Programmer]                                              |\n| Pitagóreo [Pythagorean]                                                                                             | prole [brood]                                                         |\n| Placenta [Caul]                                                                                                     | proletario [prole]                                                    |\n| Plaga [Blight]                                                                                                      | Protocolos, los [Protocols, the]                                      |\n| Planta de Investigación Nº 4 [Research Plantation No. 4]                                                            | Proveedor [Provider]                                                  |\n| Pogromo, el [Pogrom, the]                                                                                           | Proyecto Invictus [Project Invictus]                                  |\n| Política [Politics]                                                                                                 | Psicops [PsychOps]                                                    |\n| Pontifex Maximus [Pontifex Maximus] /ˈpontifeks&#124;ˈmak -                                                         | Puente Lunar [Moon Bridge]                                            |\n| Portal [Portal]                                                                                                     | Puerta [Gate]                                                         |\n|                                                                                                                     | puerta astral [astral doorway]                                        |\n| Porthos Fitz-Empress [Porthos Fitz-Empress] posthumano [posthuman]                                                  | pulir [polishing]                                                     |\n| posthumanismo [posthumanism]                                                                                        | Punarjanman [Punarjanman] /puɲd ʒəˈɾənmən/ (pun-cha- ran-man)         |\n| potterizar [Potter / Potterize]                                                                                     | punto (punto temporal) [point]                                        |\n| práctica [practice]                                                                                                 | En los Rasgos en los que haya valores o puntuaciones                  |\n| Practicus [Practicus]                                                                                               | tanto temporales como permanentes los points equivaldrán a            |\n| Prajna [Prajna] /ˈpɽəd ʒnə / (prach-na)                                                                             | los puntos temporales.                                                |\n| Pravitra [Pravitra] /ˈpɽaːʋiʈʰɾə/ (prá-vi-tra)                                                                      | punto de Experiencia [experience point]                               |\n| Precepto [Præcept]                                                                                                  | punto gratuito [freebie point]                                        |\n| Preceptos de Damian, los [Precepts of Damian, the]                                                                  | punto permanente [dot]                                                |\n| Prelati [prelati] /preˈlati/                                                                                        | Puños en Guerra [Warring Fists]                                       |\n| Pese a ser un préstamo del italiano, se ha optado por en redonda al ser un término de uso corriente entre           | Puños Susurrantes [Whispering Fists] Purga del Fantasma Chillador, la |\n| escribirlo los Nefandos.                                                                                            | [Screaming Ghost                                                      |\n|                                                                                                                     | Purge, the]                                                           |",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Q",
+      "anchor": "q",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Q",
+          "anchor": "q",
+          "level": 2,
+          "body_md": "",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "R",
+      "anchor": "r",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "R",
+          "anchor": "r",
+          "level": 2,
+          "body_md": "Purga Relámpago [Lightning Purge]\n\nPuro [Pure One]\n\nQlifot [Qlippoth]\n\nQuaesitor [Quaesitor] /ˈkwa ͡ esitor/ (cuae-si-tor)\n\nquéarchivos [Wharchives]\n\nQuemadura [Burn]\n\nquemar [burn, to]\n\n¿QHP? [WWPD?]\n\nQtub [Qtub]\n\nQuintaesencia [Quintessence]\n\nRabia [Rage]\n\nRajás Kalika [Kalika Rajas]\n\nRangi [Rangi]\n\nRango [Rank]\n\nrastreador [Trawler]\n\nrastreador de datos [datacrawl, the]\n\nrata de laboratorio [lab rat]\n\nRathbone [Rathbone]\n\nRaza Cambiante [Changing Breed]\n\nRealidad [Reality]\n\nrealidad consensuada [consensual reality]\n\nrealidad dinámica [dynamic reality]\n\nrealidad entrópica [entropic reality]\n\nrealidad estática [static reality]\n\nReclutador [Recruiter]\n\nRecolectores de Luz [Collectors of Light]\n\nrecuadro [sidebar]\n\nRecursos [Resources]\n\nRed Corrupta [Corrupted Web]\n\nRed Digital [Digital Web]\n\nRed Embrujada [Haunted Web]\n\nRed Formateada [Formatted Web]\n\nRed Virgen [Virgin Web]\n\nredespacio [netspace]\n\nRefuerzos [Backup]\n\nRegistro Akáshico [Akashic Record]\n\nRegla de la Sombra, la [Rule of Shade, the]\n\nreino [realm]\n\nEn minúscula cuando se hace referencia a los reinos de la  Umbra de forma general. En mayúscula cuando se hace referencia a un reino específico (por ejemplo el Reino de la Atrocidad).",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Reino, el [Realm, the]",
+      "anchor": "reino-el-realm-the",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Reino, el [Realm, the]",
+          "anchor": "reino-el-realm-the",
+          "level": 2,
+          "body_md": "En mayúscula al  usarse  para  denominar  la  Tierra,  marcando su primacía sobre el resto de reinos.\n\nReino Astral [Astral Realm]\n\nReino Fantasma [Ghost Realm]\n\nReino Fragmento [Shard Realm]\n\nReino del Horizonte [Horizon Realm]\n\nReino Mítico [Mythic Realm]\n\nReino de los Muertos [Kingdom of the Dead]\n\nReino Oscuro [Dark Kingdom]\n\nReino de la Paradoja [Paradox Realm]\n\nReino Sombra [Shade Realm]\n\nReino del Sueño [Dream Realm]\n\nReportero [Reporter]\n\nReprogramar [Reprogram]\n\nRequerimientos [Requisitions]\n\nResistencia [Stamina]\n\nResonancia [Resonance]\n\nRespuesta  de  Seguridad  Hammer  [Hammer  Security Response]\n\nReunión de la Plaza [Gathering of the Square]\n\nReyes Demonio [Devil-Kings]\n\nReyes Yama [Yama Kings]\n\nritual [ritual]\n\nRobert Davenport [Robert Davenport]\n\nRonde des Âmes [Ronde des Ames] /ʁɔ ̃ d|deˈzɑm/ (rod des am)\n\nRosa Sonriente, la [Laughing Rose, the]\n\nR.S. [S.R.]\n\nRSH [HSR]\n\nRueda de Ocho Radios de la Ley, la [Eight-Spoked Wheel\n\nof the Law]\n\nrufián [rogue]\n\nRuptura, la [Shattering, the]",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "S",
+      "anchor": "s",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "S",
+          "anchor": "s",
+          "level": 2,
+          "body_md": "Saber [Lore] sabiduría loca [crazy wisdom] Sahajiya [Sahajiya] /səˌɦəd ͡ ʒiˈjə/ (sa-já yi-yá) sala acústica [Echo Chamber] salón [Salon] Salud [Health] samadhi [samadhi] /səˈmɑːd ̪ ʱiː/ (sa-ma-di)\n\nSamsara [Samsara] /səmsɑːɾə/ (sam-sa-ra)\n\n<!-- image -->\n\nsanctum, pl. sancta [sanctum, pl. sanctums] /ˈsaŋktum/ / ˈsaŋkta/ (sán-tum) (san-ta)\n\nSe ha optado por usar el verdadero plural en latín frente al incorrecto sanctums .\n\nSanctum [Sanctum]\n\nsangrado de Patrón [Pattern bleeding] Sangrientos, los [Sangrientos, los] Sebil-el Mafouh Whash [Sebil-el Mafouh Whash] sección-AD [C-Section] sector [sector] Sector Basura [Trash Sector] sector colgado [Hung Sector] sector D [C-Sector] sector libre [Free Sector] sector malla [Grid Sector] sector restringido [Restricted Sector] Seducción [Seduction] Seguridad [Security] Seis Grados de Separación [Six Degrees of Separation]\n\nSemana de las Pesadillas, la [Week of Nightmares, the]\n\nSenda, la [Path, the] Senda de las Espina, la [Path of Thorns, the] Senda Frágil, la [Fragile Path, the] Senda Lunar [Moon Path] Senda de la Mano Derecha [Right-Hand Path] Senda de la Mano Izquierda [Left-Hand Path] Senda de los Wyck [Path of the Wyck] /wik/ (uic) Sensualista [Sensualist] Señor del Sueño [Dream Lord] Servidumbre [Indenture] Sexta Edad, la [Sixth Age, the] Shaea [Shaea] Shastamarga [Shastamarga] Shaytan [Shaytan] /ʃajtˁaːn/ (shay-tán) Shih [Shih] /ʃˠiɪ/ (shi) Shi-Ren [Shi-Ren] shunyata [shunyata] /ʂuːɲˈd ͡ ʒjət ̪ ə/ (shun-ya-ta) Sh'zar el Vidente [Sh'zar the Seer] Sifu [Sifu] /ʂʐ ̩  fu/ (shi-fu) Sicarios [Enforcers]\n\nSigilo [Stealth]\n\nSihing [Sihing] /ʂʐ ̩ ɕi ̯ ʊŋ/ (shi-hing)\n\nSilencio [Quiet]\n\nSimpatizante [Sympathizer]\n\nSimposio [Symposium]\n\nSindicato [Syndicate]\n\nEn un primer momento se barajó la posibilidad de buscar un nombre alternativo para esta Convención de la Unión Tecnocrática, puesto que el nombre de Sindicato resulta confuso y antagónico con los ideales de la misma, ya que el término suele  asociarse  a  la  definición  «asociación  de  trabajadores para la defensa y promoción de sus intereses», pero como se explica en el propio M20 , los miembros del Sindicato no se conocen como sindicalistas , sino como síndicos , que se define como «persona elegida por una comunidad o corporación para cuidar de sus intereses», siendo conocido como sindicato la junta de éstos. Así pues, dado que esta definición sí se ajusta al espíritu del Sindicato, se ha optado finalmente por mantener la traducción empleada ya en anteriores ediciones de Mago: La Ascensión en español.\n\nSíndrome Rash ō mon [Rashomon Syndrome]\n\nSinergia [Synergy]\n\nSistema  Narrativo  [Storyteller  System  /  Storytelling System]\n\nSistemas de Creencias [Belief Systems]\n\nSitrin [Sitrin]\n\nSkopos [Skopos] /skoˈpos/ (es-co-pós)\n\nSMD [RHP]\n\nSMI [LHP]\n\nSo-cha [so-cha]\n\nSociales [Social]\n\nSociedad del Éter, la [Society of Ether, the]\n\nSociedad de la Llave de Midas [Midas Key Society]\n\nSociedad de la Rueda Fantasma [Ghost Wheel Society]\n\nSociedad del Sol Ensombrecido [Shadowed Sun Society]\n\nSociedad de los Sueños [Society of Dreams]\n\nSociedad del Trueno, la [Thunder Society]\n\nSolificatus, pl. Solificati [Solificatus, pl. Solificati]\n\nSolitario [Loner]\n\nSombra de Terciopelo, la [Velvet Shadow, the]\n\nSonámbulo [Sleepwalker]\n\nSoñador [Dreamer]\n\nEn mayúscula cuando haga referencia a un miembro de la Tradición Cuentasueños.\n\nSpectra Widow 6 [Spectra Widow 6]\n\nSR [RD]\n\nStephen Trevanus [Stephen Trevanus]",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "T",
+      "anchor": "t",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "T",
+          "anchor": "t",
+          "level": 2,
+          "body_md": "Subdimensiones [Subdimensions]\n\nSubespacio [Subspace]\n\nSubterfugio [Subterfuge]\n\nSubversión [Deviance]\n\nSubversor [Deviant]\n\nSubversor de la Realidad [Reality Deviant]\n\nSueño [Dream]\n\nSueño Lúcido [Lucid Dreaming]\n\nSuktamke [Suktamke]\n\nsumidero de cordura [sanity sink]\n\nSunyakaya [Sunyakaya] /ˌʂuːɲjəˈkaːjə/ (sun-ya-ka-ya)\n\nsupersticioso [superstitionist]\n\nSupervisor [Supervisor]\n\nSupervivencia [Survival]\n\nSuperviviente [Survivor]\n\nSutil; pl. Sutiles [Subtle One; pl. Subtle Ones]\n\nTabla Temporal [Time Table]\n\nTaftâni [Taftâni]\n\nTalento Afición [Hobby Talent]\n\ntalento salvaje [wild talent]\n\nTalentos [Talents]\n\nTalismán [Talisman]\n\nTanatoico [Thanatoic]\n\nEn mayúscula cuando haga referencia a un Euthanatos o a algo relacionado con dicha Tradición.\n\nTao-shih [Tao-shih] /taʊɻʷ|ʃˠiɪ/ (tao-shí)\n\nTapas [Tapas]\n\nTapiz, el [Tapestry, the]\n\nTass [Tass]\n\nteatro onírico [Dream Theatre]\n\nTécnica Profesional [Professional Skill]\n\nTécnicas [Skills]\n\nTécnico [Technician]\n\nTecnocracia [Technocracy]\n\nTecnócrata [Technocrat]\n\nTecnología [Technology]\n\nTecnomagia [technomagick]\n\ntecnomante [technomancer]\n\nTecnonefandos [Technephandi]\n\nTejedor [Weaver]\n\nTejedora, la [Weaver, the]\n\nTeluria [Tellurian]\n\nTempestad, la [Tempest, the]\n\nTempête [Tempéte] /tɑ ̃ .pɛt/ (ta-pet)\n\nTemplo de la Gran Madre [Great Mother Temple]\n\nteorema de Tychoides [Tychoides' theorem]\n\nTeoría del Campo Antrópico [Anthropic Field Theory]\n\nTerco [Contrary]\n\nTezghul el Demente [Tezghul the Insane]\n\nThule Gesellschaft [Thule Gesellschaft]",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "T'ien Kung te Huang Ti Wu Lung [T'ien Kung te Huang Ti Wu Lung]",
+      "anchor": "t-ien-kung-te-huang-ti-wu-lung-t-ien-kung-te-huang-ti-wu-lung",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "T'ien Kung te Huang Ti Wu Lung [T'ien Kung te Huang Ti Wu Lung]",
+          "anchor": "t-ien-kung-te-huang-ti-wu-lung-t-ien-kung-te-huang-ti-wu-lung",
+          "level": 2,
+          "body_md": "Tiempo [Time]\n\nTiempo de las Hogueras, el [Burning Times, the]\n\nTierra [Earth]\n\nTierra Hueca, la [Hollow Earth, the]\n\nTierras de las Sombras [Shadowlands]\n\nTierras Salvajes Espirituales [Spirit Wilds]\n\nTigre [Tiger]\n\nTigres Fantasma [Ghost Tigers]\n\nTío Al [Uncle Al]\n\ntirada [roll]\n\nAl no ser Rasgos sino acciones con las que se solucionan los conflictos de la mecánica de juego, se ha optado por usar tirada en minúscula.\n\nTiro con Arco [Archery]\n\nTormenta de Avatares [Avatar Storm]\n\nToro de Oro, el [Golden Bull, the]\n\nTorre de Marfil, la [Ivory Tower, the]\n\nTortura [Torture]\n\nTótem [Totem]\n\nLos nombres de los Tótems se consideran nombres propios y serán tratados como tal, dado que no hacen referencia a un animal si no al arquetipo de un animal. Así se dirá, por ejemplo, que: «Los Roehuesos son hijos de Rata» y no que son «hijos de la Rata».\n\ntrabajo [working]\n\nTrabajador [Laborer]\n\nTradición [Tradition]\n\nTradicionalista [Traditionalist]\n\nTrago [Dram]\n\nTraje Blanco [White Suit]\n\nTraje Gris [Gray Suit]\n\nTraje Negro [Black Suit]\n\nTrasfondo [Background]\n\nTrasfondo Compartido [pooled Background]\n\ntrasgo [hobgoblin]\n\ntranshumanismo [transhumanism]\n\ntranshumanista [transhumanist]\n\nGlosario M20 Básico",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Trastorno [derangement]",
+      "anchor": "trastorno-derangement",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Trastorno [derangement]",
+          "anchor": "trastorno-derangement",
+          "level": 2,
+          "body_md": "En mayúscula cuando aluda a un Rasgo de un personaje. Por contra, los nombres de los Trastornos concretos se emplean en minúscula, al no ser términos técnicos de Mundo de Tinieblas .",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Tremere [Tremere]",
+      "anchor": "tremere-tremere",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Tremere [Tremere]",
+          "anchor": "tremere-tremere",
+          "level": 2,
+          "body_md": "Del latín tremo , -ere (3ª conjugación), etimológicamente, significa  temblar,  estremecerse  (por  ejemplo,  a  causa  del  miedo, o del frío), y por extensión tener miedo de algo.\n\nTres Mundos, los [Three Worlds, the]\n\nTríada, la [Triat, the]\n\nTrianoma [Trianoma]\n\nTribunal [Tribunal]\n\nTricanmarga [Tricanmarga]\n\nTrinidad Metafísica, la [Metaphysic Trinity, the]\n\nTrinidad Oculta de la Vigilia Negra [Hidden Trinity of the Black Watch]\n\nTrío Terrible de Doc Eon [Doc Eon's Terrific Trio] trocha [airt]\n\nTronco Anciano, el [Aelder Bole, el]\n\nTruhán [Trickster]\n\nTullido [crippled]\n\nTúmulo [caern]\n\nTúnica Fénix, la [Phoenix Robe, the]\n\nTupa Nui [Tupa Nui]\n\nTychoides [Tychoides] /tyˈkʰojðes/ (ti-joy-des)\n\nTytalus [Tytalus]\n\nU\n\nUfungoto [Ufungoto]\n\numbilicus argentus [umbilicus argentus]\n\nUmbra, la; pl. Umbrae [Umbra, the; pl. Umbrae]\n\nUmbra Alta [High Umbra]\n\nUmbra Interna [Inner Umbra]\n\nUmbra Oscura, la [Dark Umbra, the]\n\nUmbra Profunda, la [Deep Umbra, the]\n\nAl considerarse no sólo una división de la Umbra, sino un lugar específico con límites más o menos definibles, se ha optado por usar la mayúscula no sólo en Umbra sino en la especificación Profunda, que ayuda a distinguirla de las otras partes principales en las que se divide la Umbra, a saber: Penumbra y Umbra Próxima.",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Umbra Próxima, la [Near Umbra, the]",
+      "anchor": "umbra-proxima-la-near-umbra-the",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Umbra Próxima, la [Near Umbra, the]",
+          "anchor": "umbra-proxima-la-near-umbra-the",
+          "level": 2,
+          "body_md": "Al considerarse no sólo una división de la Umbra, sino un lugar específico con límites más o menos definibles, se ha optado por usar la mayúscula no sólo en Umbra sino en la especificación Próxima, que ayuda a distinguirla de las otras partes principales en las que se divide la Umbra, a saber: Penumbra y Umbra Profunda.",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "V",
+      "anchor": "v",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "V",
+          "anchor": "v",
+          "level": 2,
+          "body_md": "",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "umbral [Umbral]",
+      "anchor": "umbral-umbral",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "umbral [Umbral]",
+          "anchor": "umbral-umbral",
+          "level": 2,
+          "body_md": "",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Umbrole [Umbrood]",
+      "anchor": "umbrole-umbrood",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Umbrole [Umbrood]",
+          "anchor": "umbrole-umbrood",
+          "level": 2,
+          "body_md": "En inglés  el  término Umbrood es  un  juego  de  palabras entre Umbra y brood (prole o camada), por ello se ha optado por mantener esta traducción que ya se usaba en anteriores ediciones de Mago: La Ascensión , la cual mantiene este juego de palabras.",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "UMREV [LERMU]",
+      "anchor": "umrev-lermu",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "UMREV [LERMU]",
+          "anchor": "umrev-lermu",
+          "level": 2,
+          "body_md": "Unidad Moduladora de la Realidad de Entidades Vivas [Living Entity Reality Modulator Unit]\n\nUnidad de Pronósticos Estratégicos  y  Dispersión  de  Datos [Strategic Prognostications and\n\nData Dispersal Unit]\n\nUnión, la [Union, the]\n\nUnión Tecnocrática [Technocratic Union]\n\nUniverso Profundo [Deep Universe]\n\nUno / Único [One]\n\nUrdimbre [Pattern Web]\n\nSe ha optado por mantener el término empleado en anteriores ediciones en español, pese a que una traducción más literal  sería Red Patrón o Red de  Patrones ,  dado  que  una urdimbre es un 'conjunto de hilos que se colocan en el telar paralelamente unos a otros para formar una tela', lo cual aporta esa idea de base sobre  la  que  se  fundamenta  el  resto  del  tejido  de  la  realidad.",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Utilidad Primordial [Primal Utility]",
+      "anchor": "utilidad-primordial-primal-utility",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Utilidad Primordial [Primal Utility]",
+          "anchor": "utilidad-primordial-primal-utility",
+          "level": 2,
+          "body_md": "Uzoma [Uzoma] /uˈzoma / (u-so-ma)\n\nVacío, el [Void, the]\n\nVacío del Cielo [Void of Heaven]\n\nVada [Vada]\n\nVajrapani [Vajrapani] /ʋaːjɽəpaːni/ (vay-ra-pa-ni)\n\nValdaermen [Valdaermen]\n\nValoran [Valoran]\n\nvampiro / vampira [vampire]\n\nEl femenino aceptado es vampira, nunca vampiresa, dado que no denota una criatura sobrenatural,  además  de  tener asociadas unas connotaciones sexuales que no han lugar en el contexto del juego.\n\nVenenos [Poisons]\n\nVenganza, la [Reckoning, the]\n\nVentajas [Advantages]\n\nVerbena [Verbena] /werˈbeːna/ (uer-be-na)\n\nVerbenae [Verbenae]\n\nVerditius [Verditius]\n\nviaje astral [astral travel]\n\nVicepresidente  de  Operaciones  [Vice  President  of Operations]",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "W",
+      "anchor": "w",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "W",
+          "anchor": "w",
+          "level": 2,
+          "body_md": "Victor, pl. Victors [Victor, pl. Victors]\n\nVida [Life]\n\nVidare [Vidare] /wiˈdaːɾe/ (ui-da-re)\n\nVidare Astral [Vidare Astral]\n\nVidare Mortem [Vidare Mortem] /wiˈdaːɾe|ˈmoɾtem/ (uida-re mór-tem)\n\nVidare  Spiritus  [Vidare  Spiritus] /wiˈdaːɾe|ˈspiː.ri.tus/ (ui-da-re es-pí-ri-tus)\n\nVidas Pasadas [Past Lives]\n\nVidentes de Cronos [Seers of Chronos] viejavida [oldlife]\n\nViejo Arrugas, el [Old Man Wrinkle]\n\nViejo Camino [Old Road]\n\nViejos Maestros [Old Masters]\n\nVientos de Avatares [Avatar Winds]\n\nVigilantes [Watchers]\n\nVisión Sagrada [Holy Vision]\n\nVisionario [Visionary]\n\nvisitación sensorial [sensory visitation]\n\nVistas [Vistas]\n\nVittoria Falconi [Vittoria Falconi]\n\nVoces Mesiánicas [Messianic Voices]\n\nvolcado caótico de datos [chaos dump]\n\nVoltariano [Voltarian]\n\nVolúmenes Everett [Everett Volumes]\n\nVoluntad [Will]\n\nVoormas [Voormas]\n\nVPO [VPO]\n\nVrata [Vrata] /ʋɾət ̪ ə/ (vra-ta)\n\nVuelo [Flying]\n\nVulgata, la [Vulgate, the]\n\nwebespacio [webspace]\n\nwidderslainte [widderslainte]\n\nWilliam Groth [William Groth]\n\nWolfgang von Reismann [Wolfgang von Reismann]\n\nwraith [wraith] /ɹeɪθ/ (réiz)\n\nSe ha optado por dejar el término en inglés al ser ya de uso común entre los seguidores hispanohablantes de Mundo de Tinieblas , y a fin de evitar confusiones. Además, la complejidad de dar con una palabra adecuada que no se solapase con otros términos de juego hacía imposible una traducción alternativa y satisfactoria del mismo.\n\nWu Keng [Wu Keng] Wu Lung [Wu Lung]\n\nWyck [Wyck] Wyndgarde [Wyndgarde] Wyrm, el [Wyrm, the] /wɪːɹm/ (wírm)\n\nSe  ha  optado  por  mantener  el  término  sajón wyrm en redonda al ser el nombre propio de una entidad y debido a su importancia en la cosmogonía Garou, en lugar de traducirlo por sierpe, en gran medida debido a lo afianzado que está el término entre los aficionados de Hombre Lobo: El Apocalipsis , pero también debido a que no hay una correspondencia directa de  los wyrms nórdicos  (dragones  sierpe  o  dragones  gusano) trasladable al folclore español y latinoamericano.\n\n<!-- image -->\n\nXaos [Xaos] X-Chel [X-Chel] Xerox [Xerox] /ˈʒeɾɔks / (cé-rox) Xerxes Jones [Xerxes Jones]\n\nY\n\nZ\n\nYaglino [Jaggling]\n\nZelator [Zelator] zona [Zone] zona común [ComGround] Zona Espejo [Mirror Zone] zona de guerra [Warzone] Zona Nula [Null Zone] Zona Onírica, la [Dream Zone, the] zona del placer [Pleasure Zone] zona de realidad [reality zones] zooterrorismo [zooterrorism] ZRVSR [SRVRZ] Zumo [Juice]",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Inglés - Español",
+      "anchor": "ingles-espanol",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Inglés - Español",
+          "anchor": "ingles-espanol",
+          "level": 2,
+          "body_md": "En aquellos casos en los que aparecen dos términos en español para una misma palabra se recomienda consultar las anotaciones correspondientes en la lista español - inglés.\n\nAbility, pl. Abilities - Habilidad, pl. Habilidades\n\nAbomination, the -  Abominación,  la\n\nAbsolute, the - Absoluto, el\n\nAcademics - Academicismo\n\nAcarya - Acarya\n\nAcharne\n\n- Acharne\n\nacolyte - acólito\n\nAcrobatics - Acrobacias\n\nActivist - Activista\n\nactualized Marauder - Merodeador materializado\n\nAdamite - Adamita\n\nAdept - Adepto\n\nAdept Major - Adepto Major\n\nAdjustment - Ajuste\n\nAdministrator - Administrador\n\nadsinistrati -  Adsinistratus,  pl. Adsinistrati\n\nAdvaita - Advaita\n\nAdvantages - Ventajas\n\naegis - aegis\n\nAelder Bole, el -  Tronco  Anciano, el\n\nAetherial Reaches - Límites Etéreos\n\nAffinity Sphere - Esfera Afín\n\nAfterworld, pl. Afterworlds - Más Allá, pl. Más Allás\n\nAgama Re - Agama Re\n\nagama sojourn - estancia agama\n\nAgama Te - Agama Te\n\nAgent - Agente\n\nAgent Smith - Agente Smith\n\naggravated - agravado\n\nAghoris - Aghoris\n\nAhl-i-Batin - Ahl-i-Batin\n\nairt\n\n- trocha\n\nAkashayana - Akashayana\n\nAkashayana  Sangha -  Akashayana\n\nSangha\n\nAkashi - Akashi\n\nAkashic - Akáshico\n\nAkashic Brotherhood -  Hermandad Akáshica\n\nAkashic Record -  Registro  Akáshico Akinkanju - Akinkanju Akrites - Akrites Alertness - Alerta ali'i - ali'i Allies - Aliados Alternate  Identity -  Identidad Alternativa amalgam -. amalgama Ananda Diksham -  Ananda  Diksham ancestor - Ancestro Ancestors - Ancestros Anchorhead - Anclaje Animal Kinship - Afinidad Animal Anthropic Field -  Campo  Antrópico Anthropic Field Theory -  T eoría  del Campo Antrópico Anthropic  Horizon -  Horizonte Antrópico Appa Bloodax\n\n- Appa Bloodax\n\napparatus - aparato\n\nAppearance - Apariencia\n\nApplied  Sciences -  Ciencias  Aplicadas\n\napprentice - aprendiz\n\nApprentice - Aprendiz\n\nArcane - Arcano\n\nArcanopath - arcanópata\n\nArchery - Tiro con Arco\n\nArchetype - Arquetipo\n\nArchmage - Archimago\n\nArchmaster - Archimaestro\n\nArea  Knowledge -  Conocimiento Regional\n\nArete - Areté\n\nArmature - Armazón\n\nArmature  Specialist -  Armazón Especialista\n\narmor - armadura\n\nArs Cupiditae -Ars Cupiditae\n\nArt - Arte\n\nArtificer - Artífice\n\nAscension - Ascensión Ascension War -  Guerra de la Ascensión Ascension Warrior, the - Guerrero de la Ascensión, el Asha - Asha ashavanti - ashavanti aspect - aspecto Associate - Asociado Aspirant - Aspirante astral - astral astral doorway - puerta astral astral immersion\n\n- inmersión astral\n\nAstral Penumbra -  Penumbra  Astral\n\nAstral Reaches - Límites Astrales\n\nAstral Realm, the - Reino Astral, el\n\nastral travel - viaje astral\n\naswad,  pl.  aswadim -  Aswad,  pl. Aswadim\n\nAthletics - Atletismo\n\nAttribute - Atributo\n\nAutocthonia - Autoctonia\n\nautomatic feat - acción automática\n\nAvalon - Ávalon\n\nAvatar - Avatar\n\nAvatar  Storm -  T ormenta  de  Avatares\n\nAvatar Winds - Vientos de Avatares\n\nAwaken, to - Despertar\n\nAwakened - Despertado\n\nAwakening - Despertar, el\n\nawareness - consciencia\n\nAwareness - Consciencia\n\nBackground - Trasfondo\n\nbacklash - contragolpe\n\nBackup - Refuerzos\n\nBai Dai - Bai Dai\n\nBalador Pleasure Dome -  Cúpula\n\ndel Placer de Balador\n\nBalamob\n\n- Balamob\n\nBaldric LaSalle - Baldric LaSalle\n\nBane\n\n- Perdición\n\nbani - bani\n\nbarabbi\n\n- barabbi\n\nbashing - Contundente\n\nBata'a - Bata'a Batini - Batini Battle of Harz - Batalla de Harz BCD - DCF 'Be seeing you' - 'Nos vemos' belief - creencia Belief Systems - Sistemas de Creencias Benefactor - Benefactor Benevolent Aristocracy - Aristocracia Benevolente BFG - PGC Big Fucking Gun - Pistola Grande de Cojones Bigfoot effect - efecto Pie Grande biojock -biojock BioMechanics - BioMecánicos biomod - biomod Biospheric  Horizon -  Horizonte Biosférico Biospheric  Space -  Espacio  Biosférico Biotech - Biotecnología Black Fury, pl. Black Furies - Furia Negra, pl. Furias Negras Black Room - Habitación Negra Black  Spiral  Dancer,  pl.  Black  Spiral Dancers -  Danzantes de la Espiral Negra, pl. Danzantes de la Espiral Negra Black Suit - Traje Negro Blatancy - Descaro bleater - balador Blessing - Bendición Blight - Plaga Bodhicitta - Bodhicitta bodhisattva - bodhisattva bongo - bongo Bonisagus - Bonisagus Book of the Ether -Libro del Éter Boom Stick - palo bum Border Corps Division -  División de Cuerpos Fronterizos botch - fracaso Bottom Line, the - Balance Boys in Black - Chicos de Negro Brand / Branding - Marca Brawl - Pelea Broken Rhythm School -  Escuela del Ritmo Roto brood - prole bruised - Magullado Burn - Quemadura burn, to - quemar Burning Times, the -  Tiempo de las Hogueras, el Bygone\n\n- Pretérito\n\ncabal - cábala\n\nCabal of Pure Thought -  Cábala del Pensamiento Puro\n\nCACS - ECAC\n\nCacks - Ecacas\n\ncaern - Túmulo\n\nCaeron Mustai - Caeron Mustai\n\ncalcify, to - calcificar\n\nCall  for  Succor -  Llamada  de  Socorro\n\nCall to Hunt - Llamada a la Cacería\n\nCamelot - Camelot\n\ncamp - campo\n\nCancelation - Cancelación\n\ncarbon - carbono\n\ncarbon copy - copia de carbón\n\nCarnívoros, los - Carnívoros, los\n\nCarousing - Alternar\n\nCassandra Complex, the -  Complejo de Cassandra, el\n\ncasual magick - Magia casual\n\nCatechumen\n\n- Catecúmeno\n\nCaul - Placenta\n\nCelestial Chorus\n\n- Coro Celestial\n\nCelestial Master\n\n- Maestro Celestial\n\nCelestine - Celeste\n\nCensure - Censura\n\nCEO - Presidente Ejecutivo\n\ncertámen - certámen\n\nCertámen  Marshall -  alguacil  del certámen\n\nCertification\n\n- Certificación\n\nChain of Souls -  Cadena  de  Almas,  la\n\nChaioth  Ha-Quadesh -  Chaioth Ha-Quadesh\n\nChairman - Moderador\n\nChakravanti - Chakravanti\n\nChakravat - Chakravat\n\nChancellor - Canciller\n\nChang - Chang\n\nchangeling - changeling\n\nChanging Breed - Raza Cambiante Chantry - Capilla chaos  dump -  volcado  caótico  de datos chaos magick - Magia del caos Chaos Mage - Mago del Caos character - personaje Charisma - Carisma Charm - Encantamiento Chatra - Chatra chi - chi ch'i - ch'i Child of Knowledge, pl. Children of Knowledge - Hijo del Conocimiento, pl. Hijos del Conocimiento Choeur Céleste - Choeur Céleste Chorister - Corista Christ's Militia - Milicia de Cristo chronicle - crónica Ch'uang Shih - Ch'uang Shih Cipher - Cifra Circle of the Broken Star - Círculo de la Estrella Rota citizen - ciudadano Clan of  Morrigan -  Clan  de  Morrigan Claudius  Dediticius -  Claudius Dediticius Cloaking - Encubrimiento Clockwork Convention -  Convención Relojera clone - clon Cockroach - Cucaracha Code of Ananda, the - Código de Ananda, el Code of Hermes -  Código  de  Hermes coincidental magick -  Magia coincidente Collectors  of  Light -  Recolectores de Luz Collegium  Praecepti -  Collegium Praecepti Colony - Colonia Colony, the - Colonia, la Colony  Filmworks -  Colony  Filmworks Com - común ComGround - zona común Companion - Compañero Comptroller - Auditor Computational  Anomalies  Corrections  Specialist -  Especialista  en Corrección  de  Anomalías  Computacionales Computer - Informática Concept - Concepto conclave - cónclave Concordia  War -  Guerra  de  la Concordia conduit\n\n- conducto\n\nconflux - confluencia\n\nConflux - Confluencia\n\nconjunctional Effect - Efecto combinado\n\nConnection - Conexión\n\nconsensual  reality -  realidad  consensuada\n\nConsensus, the - Consenso, el consor,  pl.  consors -  consor,  pl. consores\n\nConstruct - Constructo\n\nContacts\n\n- Contactos\n\ncontest - contienda\n\ncontrary - contrario\n\nContrary - Terco\n\nControl - Control\n\nConvention - Convención\n\nConvention of the White Tower -Convención de la Torre Blanca\n\nConventional Space - Espacio Convencional\n\nCopernicus Research Center -  Centro de Investigación Copérnico\n\nCorrespondence -  Correspondencia\n\nCorpus  Hermeticum -Corpus Hermeticum\n\nCorrupted Web - Red Corrupta\n\nCosian Circle - Círculo Cosiano\n\nCosmology - Cosmología\n\nCouncil, the - Concilio, el\n\nCouncil of Nine Mystic Traditions\n\n-  Concilio  de  las  Nueve  Tradiciones Místicas\n\nCouncilor - Consejero\n\ncountermagick - Contramagia\n\nCourt - Corte\n\nCourt of Sacred Sciences -  Corte de las Ciencias Sagradas\n\nCovenant - Alianza\n\nCoyote - Coyote\n\nCraft - Oficio\n\nCraftmason\n\n- Masón Artesano los Crafts\n\n- Artesanía\n\ncrazy wisdom - sabiduría loca\n\nCray -Cray\n\nCreation, the - Creación, la\n\ncrippled - Tullido\n\nCryptography - Criptografía\n\nCrowned One - Coronado\n\nCrusader\n\n- Cruzado\n\nC-Section\n\n- sección-AD\n\nC-Sector - sector D\n\nCult of Ecstasy - Culto del Éxtasis\n\nCult - Culto\n\nCultist\n\n- Cultista\n\nCupbearers of Isis - Coperos de Isis\n\nCuria - Curia\n\nCurly Beard - Barba Rizada\n\nCurrency - Divisa\n\ncyberdork - ciberfriki\n\ncyborg - cíborg\n\nCzar Vargo - Czar Vargo\n\nDaedalean - Dedaliano\n\nDai Han Loc - Dai Han Loc\n\nDalou-laoshi\n\n- Dalou-laoshi\n\nDama - Dama\n\ndamage - daño\n\nDamage Control -  Control  de  Daños\n\nDante that\n\n- a lo Dante\n\nDark Kingdom - Reino Oscuro\n\nDark Masters, the - Amos Oscuros,\n\nDark Mirrors - Espejos Oscuros Dark Umbra, the\n\n-  Umbra  Oscura,  la Darkling Oscuro\n\nDarwushim - Darwushim\n\nData - Datos\n\ndatacrawl, the - rastreador de datos\n\nDaya - Daya\n\nDeacon - Diácono\n\nDecade of the  Hunt -  Década  de la Caza\n\nDecadenti - Decadenti\n\nDeclaration of the White Tower -Declaración de la Torre Blanca\n\nDeep  Umbra,  the -  Umbra  Profunda, la\n\nDeep Universe -  Universo  Profundo default - incumplir\n\nDegree Absolute - grado absoluto\n\nDelirium - Delirio\n\nDemeanor - Conducta\n\nDemesne - Heredad\n\nDemolitions - Demoliciones\n\ndemon - demonio\n\nderangement\n\n- Trastorno\n\nde-rez - des-integración",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Descartes Institute of Mental Health - Instituto Descartes de Salud Mental",
+      "anchor": "descartes-institute-of-mental-health-instituto-descartes-de-salud-mental",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Descartes Institute of Mental Health - Instituto Descartes de Salud Mental",
+          "anchor": "descartes-institute-of-mental-health-instituto-descartes-de-salud-mental",
+          "level": 2,
+          "body_md": "Descent\n\n- Descenso\n\nDestiny - Destino\n\nDeviance - Subversión\n\nDeviant . Subversor\n\nDevice - Dispositivo\n\nDevil-Kings - Reyes Demonio\n\nDexterity - Destreza\n\nDharma Clasped Hand -  Dharma\n\nde la Mano Cerrada\n\nDharmachakra - Dharmachakra\n\nDharmamukti\n\n- Dharmamukti\n\nDhyana - Dhyana\n\nDiedne - Diedne\n\nDifference  Engineer -  Ingeniero Diferencial\n\nDigital Web - Red Digital\n\nDiksha - Diksha\n\nDiksham\n\n- Diksham\n\nDimensional Anomaly - Anomalía Dimensional\n\nDimensional Membrane -  Membrana Dimensional\n\nDimensional  Science -  Ciencia Dimensional\n\nDimensional  Sciences  Evaluation,  Administration,  and  Training Committee -  Comité  de  Evaluación, Administración  y  Entrenamiento  de Ciencias Dimensionales\n\nDimensional Specialist -  Especialista Dimensional\n\nDisbursements - Desembolsos\n\nDisciple - Discípulo\n\ndisconnection - desconexión\n\nDisembodied - Descarnado\n\nDisembodiment - Descarnamiento\n\nDisparate - Dispar\n\nDisparate Alliance - Alianza Dispar\n\nDisparate Crafts\n\n- Oficios Dispares\n\nDispatch Center - centro de trans- ferencia\n\n```\nDo - Do Doc Eon - Doc Eon Doc Eon's Terrific Trio -  Trío Terrible de Doc Eon Doctor - Doctor Doissetep - Doissetep domain - dominio dominant  paradigm -  paradigma dominante dot - punto permanente Dove Knight - Caballero Paloma downtime - interludio Dr. Volcano - Dr. Volcano Dragon - Dragón Dragon School - Escuela Dragón Dragon Spirit Kung Fu -  Kung-fu del Espíritu Dragón Dram - Trago Dream - Sueño Dream Lord - Señor del Sueño Dream Realm - Reino del Sueño Dream Theatre - teatro onírico Dream Zone, the - Zona Onírica, la Dreamer - Soñador Dreaming, the - Ensueño, el Dreamshell - Cáscara Onírica Dreamspeaker, pl. Dreamspeakers - Cuentasueños, pl. Cuentasueños dregvati - dregvati Drive - Conducir drycleaning - lavar en seco DSEATC - CEAECD Dumbledore - Dumbledore Dust-Witch - Bruja de Polvo Dynamic - Dinámica dynamic reality - realidad dinámica Dynamism - Dinamismo Disneyrian - disneysiano Earth - Tierra Earth Frontier Division - División de Frontera Terrestre Eaters of the Dead -  Devoradores de los Muertos Echo Chamber - sala acústica Ecstatic - Extático EDE - EED EFD - DFT Eidolon,  pl.  Eidolons -  Eidolon, pl. Eidola\n```\n\nGlosario M20 Básico",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Eight-Spoked Wheel of the Law -",
+      "anchor": "eight-spoked-wheel-of-the-law",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Eight-Spoked Wheel of the Law -",
+          "anchor": "eight-spoked-wheel-of-the-law",
+          "level": 2,
+          "body_md": "Rueda de Ocho Radios de la Ley, la\n\nElectrodyne  Engineer -  Ingeniero Electrodino\n\nelemental - elemental\n\nEleusinian - Eleusino\n\nElite - Élite\n\nEmissaries - Emisarios\n\nEmpathy - Empatía\n\nEmpowerment - Empoderamiento\n\nEnd Times, the Fin de los Tiempos, el\n\nEnergy Weapons -  Armas  de  Energía Enforcer -  Ejecutor  (Rango  de  los Ingenieros del Vacío)\n\nEnforcers -  Sicarios  (Metodología del Sindicato)\n\nenhancement - mejora\n\nEnhancement - Mejora\n\nEnigmas\n\n- Enigmas\n\nEnlightened - Iluminado\n\nEnlightened Anthropic Principle,\n\nthe Principio Iluminado Antrópico, el\n\nEnlightened  Science -  Ciencia Iluminada\n\nEnlightenment\n\n- Iluminación\n\nEnrique Castaneda - Enrique Castaneda\n\nEnsemble Space - Espacio de Conjunto\n\nEntelechy - Entelequia\n\nentropic reality - realidad entrópica\n\nEntropic Space -  Espacio Entrópico\n\nEntropy\n\n- Entropía\n\nephemera - efimeria\n\nephemeral efimérico\n\nEpiphamy - Epifamia\n\nEpiphany - Epifanía\n\nEpiphling\n\n- Epiflino\n\nepitropi - epitropi\n\nErik  Rose  Hammer -  Erik  Rose Hammer\n\nEris Design - Eris Design\n\nerrant - errante\n\nEsoterica - Esoterismo\n\nEssence\n\n- Esencia\n\nETD\n\n- DAE\n\nEtherite\n\n- Eterita\n\nEtherspace\n\n- Espacio Éter\n\nEtiquette - Etiqueta\n\nEuthanatoi - Euthanatoi Euthanatos - Eutánatos Everett  Volumes -  Volúmenes Everett Ex Miscellanea - Ex Miscellanea Exarch - Exarca Existential  Threats  Directorate -Directorio de Amenazas Existenciales exo - exo ExoJock - ExoJock experience - Experiencia experience point - punto de Experiencia Expert Knowledge - Conocimiento Experto Explorator - Explorador Expression - Expresión extended action - acción extendida extradimensional -  extradimensional Extra-Dimensional Entity -  Entidad Extra-Dimensional extraordinary  citizen -  ciudadano extraordinario Extraordinary Citizen -  Ciudadano Extraordinario FACADE  Engineers -  Ingenieros FACADE FaceSpace - facespacio fae / faeries - hadas failure - fallo Fallen - Caído Fame - Fama familiar - Familiar Familiar - Familiar Far Dreaming - Ensueño Lejano Faust - Fausto Feed, the - Feed, el Fellow - Compañero Fellowship  of  the  Oath -  Hermandad del Juramento Fencers - Neutrales Feng Huan Hou Wu - Feng Huan Hou Wu fetish Fetiche Fianna,  pl.  Fianna -  Fianna,  pl. Fianna Finance - Finanzas Financiers - Financieros\n\nFirearms - Armas de Fuego\n\nFirst Cabal, the -  Primera Cábala, la\n\nFive Metal Dragons - Cinco Dragones de Metal\n\nFive  Elemental  Dragons -  Cinco Dragones Elementales\n\nFlambeau - Flambeau\n\nFlaming Brand Church - Iglesia de\n\nla Marca Llameante\n\nFlaw - Defecto\n\nFlores  del  Renacimiento,  las -  Flores del Renacimiento, las\n\nFlorian Wulff - Florian Wulff\n\nFlying - Vuelo\n\nfocus - foco\n\nfomor,  pl.  fomori -  Fomor,  pl. Fomori\n\nForces - Fuerzas\n\nFormatted Web - Red Formateada\n\nFortunae\n\n- Fortunae\n\nFragile Path, the - Senda Frágil, la\n\nFragmenti - Fragmenti\n\nFrankensteinian -  frankensteiniano\n\nFree Sector - sector libre\n\nFreeSpace - Espacio Libre\n\nfreebie point - punto gratuito\n\nFREEKS - FREEKS\n\nfrenzy,  pl.  frenzies -  Frenesí,  pl. Frenesíes\n\nFriends  of  Courage -  Amigos  de Courage\n\nfront - frente\n\nFront Lines, the - Frente, el\n\nFuar Drochit - Fuar Drochit\n\nfusion - fusión\n\nGabrielite\n\n- Gabrielita\n\nGaffling - Gaflino\n\nGaia - Gaia\n\nGallery - galería\n\nGandalfian - gandalfiano\n\nGate\n\n- Puerta\n\nGatekeeper -  Guardianes de  la  Puerta\n\nGathering of the Square - Reunión de la Plaza\n\nGauntlet - Celosía\n\nGenegineer - Geningenieros\n\ngenegineering - geningeniería\n\nGeneral\n\n- General\n\nGenius - Genio\n\nghost - fantasma\n\nGhost Realm - Reino Fantasma\n\nGhost Tigers - Tigres Fantasma\n\nGhost Wheel Society - Sociedad de\n\nla Rueda Fantasma\n\nGilgul - Gilgul\n\nGilledian - Gilledian\n\ngladius - gladius\n\nGlen - Cañada\n\nGlitch - Fallo Técnico\n\ngnosis - gnosis\n\nGnosticism - gnosticismo\n\nGo Kamisori Gama - Go Kamisori\n\nGama\n\nGod's Hammer - Martillo de Dios\n\nGolo - Golo\n\nGolden Bull, the - Toro de Oro, el\n\nGolden Guild Alliance -  Alianza  del Gremio de Oro\n\nGrand  Convocation,  the -  Gran Asamblea, la\n\nGrand Tiger Society -  Gran  Sociedad del Tigre\n\nGray Suit - Traje Gris\n\nGreat Betrayer,  the -  Gran  Traidor,  el\n\nGreat Deep, the - Gran Piélago, el\n\nGreat Mother Temple - Templo de la Gran Madre\n\nGreat  Whiteout,  the -  Gran  Nevasca, la\n\nGreylocke Incident, the - Incidente Greylocke, el\n\nGrid - malla\n\nGrid Sector - sector malla\n\ngris-gris - gris-gris\n\nGuardians\n\n- Guardianes\n\nha'ole kahuna\n\n- ha'ole kahuna\n\nHammer Security Response - Respuesta de Seguridad Hammer\n\nHarbingers  of  Avalon -  Heraldos de Ávalon\n\nhard de-rez - des-integración severa\n\nHarmonious  Brother -  Hermano Armonioso\n\nHaunt\n\n- Morada\n\nHaunted Web - Red Embrujada he  ho'okele  moana -  he  ho'okele\n\nmoana\n\nHealth - Salud health level - nivel de Salud\n\nHeasha  Morningblade -  Heasha Morningblade\n\nhedge magician - mago estático\n\nhedge wizard - mago estático\n\nHelekar - Helekar\n\nHem-Ka Sobk - Hem-Ka Sobk\n\nHermes  Trismegistus -  Hermes Trismegisto\n\nHermetic - Hermético\n\nhero - héroe\n\nHeylel Teomim Thoabath - Heylel Teomim Thoabath",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Hidden Trinity of the Black Watch",
+      "anchor": "hidden-trinity-of-the-black-watch",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Hidden Trinity of the Black Watch",
+          "anchor": "hidden-trinity-of-the-black-watch",
+          "level": 2,
+          "body_md": "- Trinidad Oculta de la Vigilia Negra\n\nHigh Artisan - Alto Artesano\n\nHigh Guild - Alto Gremio\n\nHigh Mythic Age -  Alta  Edad  Mítica\n\nHigh Penumbra - Penumbra Alta\n\nHigh Ritual - Alto Ritual\n\nHigh Ritual  Magick -  Alta  Magia\n\nRitual\n\nHigh Umbra - Umbra Alta\n\nHimalayan  Wars -  Guerras  del Himalaya\n\nHippolytoi - Hippolytoi\n\nHobby Talent - Talento Afición\n\nhobgoblin - trasgo\n\nholistic  immersion -  inmersión holística\n\nHollow Earth, the -  Tierra  Hueca,  la Hollow  One,  pl.  Hollow  Ones - Hueco, pl. Huecos\n\nHolly Tanaka - Holly Tanaka\n\nHoly Fire, the - Fuego Sagrado, el\n\nHoly Vision - Visión Sagrada\n\nHome Turf - Patria\n\nHomo superior - Homo superior\n\nHong Lei - Hong Lei\n\nHonored  Master -  Honorable Maestro\n\nHonori - Honori\n\nHorizon - Horizonte\n\nHorizon, the - Horizonte, el\n\nHorizon Realm -  Reino  del  Hori-\n\nzonte\n\nHorizon War -  Guerra  del  Horizonte\n\nHornbook - Libro de enseñanza\n\nhot link - hot link\n\nhounsis - hounsis\n\nHouse - Casa\n\nGlosario Inglés - Español tus initiated  operative -  operativo iniciado initiation - iniciación initiative - Iniciativa injured - Lesionado Inner Circle - Círculo Interior Inner Umbra - Umbra Interna Innovator - Innovador Inspector - Inspector Inspired Science -  Ciencia  Inspirada instrument - instrumento Intelligence - Inteligencia Intelligence  Analyst -  Analista  de Inteligencia Interstellar  Deep -  Profundidad Interestelar Intimidation - Intimidación Investigation - Investigación Investigator - Investigador Invisibles, Les - Invisibles, Les\n\n36 Glosario M20 Básico\n\nHowahkan - Howahkan\n\nHSR - RSH\n\nhubris - hybris\n\nhuman-firsters - humanos primero\n\nHung Sector - sector colgado\n\nhurt - Lastimado\n\nHypercram - Hiperestudio\n\nhypermath - hipermatemáticas\n\nhypernarrative - hipernarrativa\n\nhypertech - hipertecnología\n\nice-pack - bolsa de hielo\n\nicon - icono\n\nIdealist - Idealista\n\nidiots, les - idiots, les\n\nimperative - imperativo\n\nincapacitated - Incapacitado\n\nIncarna, pl. Incarnae - Incarna, pl. Incarnae\n\nIndenture - Servidumbre\n\nIndira Chen - Indira Chen\n\nInfernal - Infernal\n\nInfernalist - Infernalista\n\nInfinite - Infinita\n\ninfluence - influencia\n\nInfluence - Influencia\n\nInfoSpace - infoespacio\n\nInitiate - Iniciado\n\nInitiate Exemptus -  Iniciado  Exemp- Iteration X - Iteración X\n\nIterator\n\n- Iterador\n\nItz'at - Itz'at\n\nIvory Tower, the -  T orre  de  Marfil,  la\n\nJade Cross of St. Lucifer - Cruz de\n\nJade de San Lucifer, la\n\nJaggling - Yaglino\n\nJanissary - Janissary\n\nJetpack - Jetpack\n\nJhor - Jhor\n\nJivahasta - Jivahasta\n\nJodi Blake\n\n- Jodi Blake\n\nJohn Courage - John Courage\n\nJudgment - Juicio\n\nJuice - Zumo\n\nJuncture - Coyuntura\n\nkadugo - Kadugo\n\nkahuna - kahuna\n\nKahuna-nui - Kahuna-nui\n\nkaimi - Kaimi\n\nKala - Kala\n\nKalika Rajas - Rajás Kalika\n\nkamrad - kamrad\n\nKamrad - Kamrad\n\nkanakakahuna - kanakakahuna\n\nKannagara - Kannagara\n\nkapahuna - kapahuna\n\nkapu - kapu\n\nKarma - Karma\n\nkeiki - keiki\n\nKene aka nui - Kene aka nui\n\nkhanate - kanato\n\nKha'vadi - Kha'vadi\n\nKibo - Kibo\n\nKid - Niño\n\nKid Kimota - Kid Kimota\n\nKin - Pariente\n\nKingdom of the Dead -  Reino de los Muertos\n\nKitab al-Alacir -Kitab al-Alacir\n\nKitjito,  pl.  Kitujita -  Kitjito,  pl. Kitujita\n\nK'llasshaa - K'llasshaa",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Knights of Archangel Gabriel, Mes-",
+      "anchor": "knights-of-archangel-gabriel-mes",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Knights of Archangel Gabriel, Mes-",
+          "anchor": "knights-of-archangel-gabriel-mes",
+          "level": 2,
+          "body_md": "senger of God - Caballeros del Arcángel Gabriel, Mensajero de Dios\n\nKnowledges - Conocimientos\n\nKopa Loei - Kopa Loei\n\nKsirafai - Ksirafai Kuei  Lung  Chuan -  Kuei  Lung Chuan kupuna - kupuna kuwaneko, pl. kuwanakada - kuwaneko, pl. kuwanakada Kwajah-al-Akbar - Kwajah-al-Akbar lab rat - rata de laboratorio Laboratory\n\n- Laboratorio\n\nLaborer - Trabajador\n\nLabyrinth - Laberinto\n\nLakashim - Lakashim\n\nLaughing  Rose,  the -  Rosa  Son-\n\nriente, la\n\nLaw - Leyes\n\nLeadership - Liderazgo\n\nLee Ann Milner - Lee Ann Milner\n\nLERMU - UMREV\n\nLegend - Leyenda\n\nLHP - SMI\n\nLeft-Hand Path - Senda de la Mano Izquierda\n\nlethal - letal\n\nLi-Hai - Li-Hai\n\nLi Shihmin - Li Shihmin\n\nLi Tsing - Li Tsing\n\nLibrary\n\n- Biblioteca\n\nLife - Vida\n\nLightning Purge -  Purga  Relámpago\n\nLili - Lili\n\nLion - León\n\nLion Masters - Amos de Leones",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Living  Entity  Reality  Modulator",
+      "anchor": "living-entity-reality-modulator",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Living  Entity  Reality  Modulator",
+          "anchor": "living-entity-reality-modulator",
+          "level": 2,
+          "body_md": "Unit -  Unidad  Moduladora  de  la  Realidad de Entidades Vivas\n\nLoa - Loa\n\nlocus - locus\n\nlodge - logia\n\nLodge Wars - Guerra de Logias\n\nLoner - Solitario\n\nLong Night - Larga Noche\n\nLore - Saber\n\nLow Penumbra - Penumbra Baja\n\nLucid Dreaming - Sueño Lúcido\n\nLune Lúnula\n\nLupus - Lupus\n\nmacrocosm - macrocosmos\n\nMacrotechnicians - Macrotécnicos\n\nMad - Loco\n\nMad Doctor - doctor loco Mad Scientist - Científico Loco Madzimbabwe - Madzimbabwe mae-de-santos - mae-de-santos mage - mago magic - magia Magic Man - Hombre Mágico magick - Magia Magister Mundi - Magister Mundi Magister Scholae -  Magister Scholae magus - magus Machine - Máquina Malfean - Malfeo Man in Black - Hombre de Negro Manager - Gerente Manipulation - Manipulación Marassas - Marassas Marauder - Merodeador Marianna - Marianna Marine - Marine market correction - corrección del mercado Martyr - Mártir Massasa War - Guerra Massasa Masses, the - Masas, las Masspeak - habla de las Masas Master - Maestro Master Alchemist - Maestro Alquimista Master Scientist -  Maestro  Científico March of the Nine - Marcha de los Nueve Martial Arts - Artes Marciales mater - mater Matriarch, the - Matriarca, la Matrix - Matriz Matter - Materia mauled - Malherido Maya - Maya meatspace - carnespacio MECHA - MECHA\n\nMechanician - Mecánico\n\nMedia - Medios de Comunicación\n\nMedia Control -  Control de Medios\n\nMediation - Mediación\n\nMedicine - Medicina\n\nMeditation - Meditación\n\nMelee - Pelea con Armas\n\nmeme - meme memophore - memóforo Mental - Mentales Mentor - Mentor Mercurial Elite, the - Élite Mercurial, la Merit - Mérito Merlin - Merlín Meru - Meru meru'ai - meru'ai Messianic Voices -  V oces  Mesiánicas Metaphysic Trinity, the - Trinidad Metafísica, la metaplot - metatrama Methodology\n\n- Metodología\n\nMiB - HdN\n\nmicrocosm - microcosmos\n\nMidas Key Society - Sociedad de la Llave de Midas\n\nMiddle  Penumbra -  Penumbra Media\n\nMidnight  Wolves -  Lobos  de  Medianoche\n\nMidrealm - Entrerreino\n\nMind - Mente\n\nmindscape - paisaje mental\n\nMirainohmen - Mirainohmen\n\nMirror Zone - Zona Espejo\n\nMister  Mistoffelees -  Mister  Mistoffelees\n\nMistridge\n\nMokteshaf  Al-Hour Al-Hour\n\n- Mistridge -  Mokteshaf\n\nMokteshafi - Mokteshafi\n\nMonster - Monstruo\n\nMoon Bridge - Puente Lunar\n\nMoon Path - Senda Lunar\n\nMoreauvian - Moreau\n\nMorongos, the - Morongos, los\n\nMount Qaf - Monte Qaf\n\nMübarek Maharet Meclisi - Mübarek Maharet Meclisi\n\nmundane - mundano\n\nMurid - Murid\n\nMurshid - Murshid\n\nmutual - mutuo\n\nMysteres, Les - Mystères, Les\n\nmystic - místico\n\nMythic Realm - Reino Mítico\n\nMythic Thread - Hebra Mítica Naioba - Naioba Natura,  pl.  Naturae -  Natura,  pl. Naturae natural - natural Nature - Naturaleza Navalon - Návalon Near Dreaming -  Ensueño Próximo Near  Umbra,  the -  Umbra  Próxima, la Necropoli - Necropolis Neophyte - Neófito neotribalism - neotribalismo neotribalist - neotribalista Nephandus, pl. Nephandi - Nefando, pl. Nefandos netizen\n\n- ciuredano\n\nnetspace\n\n- redespacio\n\nNeutralization  Specialist  Corps -Cuerpos Especiales de Neutralización\n\nNew Horizon Convocation - Asamblea de Nuevo Horizonte\n\nNew Horizon Council, the - Concilio de Nuevo Horizonte, el\n\nNew  Rite  Church -  Iglesia  del Nuevo Rito\n\nNew World Order - Nuevo Orden Mundial\n\nNew Youth Foundation -  Fundación Nueva Juventud\n\nnewlife - nuevavida\n\nNif' ur 'en Daah - Nif' ur 'en Daah Night-Folk, the -  Gente de la Noche\n\nNight of Fana - Noche de Fana\n\nNightshade - Nightshade\n\nNiyamavantib - Niyamavanti\n\nNgo-Ami - Ngo-Ami\n\nNgoma - Ngoma\n\nNode - Nodo\n\nNohmen - Nohmen\n\nnormative  culture -  cultura  nor-\n\nmativa\n\nNSC - CEN\n\nnuke - bombardear\n\nNull-B - Null-B\n\nNull Zone - Zona Nula\n\nOath of Fire - Juramento de Fuego\n\nOblivion - Olvido\n\nOccult - Ocultismo\n\nOjas - Oyas\n\nOld Man Wrinkle -  Viejo  Arrugas,  el\n\nGlosario Inglés - Español Old Masters - Viejos Maestros\n\n38 Glosario M20 Básico Old Road - Viejo Camino oldlife - viejavida One - Uno / Único Oneira - Oneira Onerae - Onerae Op - Op operative - operativo Operative - Operativo Oracle - Oráculo ordeal - ordalía Order of Hermes, the - Orden de Hermes, la Order of Reason, the -  Orden  de la Razón, la Orisha - Orisha Orphan - Huérfano Ostracism - Ostracismo Otherworlds, the - Otros Mundos, los otherworldly - altermundano Our Friends - Nuestros Amigos Outer Circle - Círculo Exterior pae-de-santos - pae-de-santos Pan-Dimensional Corps - Cuerpos Pan-Dimensionales Panopticon, the - Panóptico, el paradigm - paradigma Paradox - Paradoja Paradox Effect - Efecto Paradoja Paradox  Realm -  Reino  de  la  Paradoja paranormal - paranormal Path of  the  Wyck -  Senda  de  los  Wyck Pattern Sphere - Esfera de Patrones Pattern  Spider -  Araña  de  la  Urdimbre Paradox  Entity -  Entidad  de  la Paradoja Paradox  Spirit -  Espíritu  de  la Paradoja Past Lives - Vidas Pasadas pater - pater Pattern - Patrón Pattern  bleeding -  sangrado  de Patrón Pattern Web Urdimbre Path, the - Senda, la Path of Thorns, the - Senda de las Espina, la mus pooled  Background -  Trasfondo Compartido pop prog - programa de salto Portal - Portal Porthos  Fitz-Empress -  Porthos Fitz-Empress posthuman - posthumano posthumanism\n\n- posthumanismo\n\nPost-Life Entity - Entidad Post-Vital\n\nPotter / Potterize - potterizar\n\npractice - práctica\n\nPracticus - Practicus\n\nPrajna - Prajna\n\nPravitra - Pravitra\n\nPræcept - Precepto\n\nPatron - Patrón\n\npawn - peón\n\nPDC - CPD\n\npeek, to escudriñar\n\nPenny Dreadful - Penny Dreadful\n\nPentex - Pentex\n\nPenumbra, the - Penumbra, la\n\nPerception - Percepción\n\nperceptual Marauder -  Merodeador perceptual\n\nPeriapt - Periapto\n\nPericarp - Pericarpio\n\nPeripheral Corrigenda -  Corrigenda Periférica\n\nPeriphery, the - Periferia, la\n\nPharmacopeia - Farmacopea\n\nPharmacopeist - Farmacopeísta\n\nPhoenix - Fénix\n\nPhoenix Robe, the -  Túnica  Fénix,  la\n\nPhoenix School - Escuela Fénix\n\nPhysical - Físicos\n\nPillory - Picota\n\nPipers, the - Flautistas, los\n\nplayer - jugador\n\nPLE - EPV\n\nPleasure Zone - zona del placer point - punto (punto temporal)\n\nPoisons - Venenos\n\nPogrom, the - Pogromo, el\n\npolishing - pulir\n\nPolitics - Política\n\nPontifex Maximus - Pontifex Maxi-\n\nPrecepts of Damian, the -  Preceptos\n\nde Damian, los\n\nprelati - Prelati\n\nPresbyter - Presbítero\n\nPrimal Opportunity -  Oportunidad Primordial\n\nPrime - Cardinal\n\nPrimal Force - Fuerza Primordial\n\nPrimal Utility -  Utilidad  Primordial\n\nPrimary Investigator - Investigador Principal\n\nPrimium - primium\n\nPrimordial - Primordial\n\nPrimus, pl. Primi -  Primus,  pl.  Primi\n\nPrince Charming - príncipe azul\n\nPrincess - princesa\n\nProcedure - Procedimiento\n\nProcess - Proceso\n\nProcessed - Procesado\n\nProcessing - Procesamiento\n\nProctor House\n\n- Casa Supervisora\n\nProctor House Coalition -  Coalición de Casas Supervisoras\n\nProfessional Skill -  Técnica  Profesional\n\nProfessor - Profesor\n\nProgenitor, pl. Progenitors - Progenitor, pl. Progenitores\n\nProgrammer - Programador\n\nProject Invictus\n\n- Proyecto Invictus\n\nprole - proletario\n\nProphet - Profeta\n\nProtocols, the - Protocolos, los\n\nProvider - Proveedor\n\nPsychOps - Psicops\n\nPunarjanman - Punarjanman\n\nPure One - Puro\n\nPythagorean - Pitagóreo\n\nQ Division - División Q\n\nQlippoth - Qlifot\n\nQtub - Qtub\n\nQuaesitor - Quaesitor\n\nQuesting - Buscadora\n\nQuiet - Silencio\n\nQuintessence - Quintaesencia\n\nRAE - IYE\n\nRage\n\n- Rabia\n\nRaging Eagle - Águila Furiosa\n\nRangi - Rangi Rank - Rango Rashomon Effect -  Efecto  Rashōmon Rashomon Syndrome -  Síndrome Rashōmon Rathbone - Rathbone Raven - Cuervo RD - SR\n\nRD Data - Información de SR\n\nReality - Realidad\n\nreality  crime -  crimen  contra  la realidad\n\nReality  Deviant -  Subversor  de  la Realidad\n\nreality physics - física de la realidad reality zones - zona de realidad realm reino\n\nRealm, the - Reino, el\n\nReckoning, the - Venganza, la\n\nRecruiter - Reclutador\n\nRed Room - Habitación Roja\n\nRed Spear, the - Lanza Roja, la\n\nRed Thorn Dedicants - Dedicantes de la Espina Roja\n\nReed of Thothmes, the - Junco de Thothmes\n\nreflexive action - acción refleja\n\nReporter - Reportero\n\nReprogram - Reprogramar\n\nRequisitions - Requerimientos\n\nResearch - Documentación\n\nResearch  Assistant -  Asistente  de Investigación\n\nResearch  Associate -  Asociado  de Investigación\n\nResearch  Director -  Director  de Investigación\n\nResearch &amp; Execution -  Investigación y Ejecución\n\nResearch Plantation No. 4 - Planta de Investigación Nº 4\n\nresisted action - acción enfrentada Resonance - Resonancia\n\nResources - Recursos\n\nResplendent Master - Maestro Resplandeciente\n\nRestless Dead\n\n-  Muertos Sin Reposo\n\nRestricted Sector\n\n-  sector  restringido\n\nRetainers - Criados\n\nRHP - SMD\n\nRiding - Equitación Right-Hand  Path -  Senda  de  la Mano Derecha Rip, the - desgarre, el ritual - ritual Road Warrior hippie - hippie gue- rreros de carretera Robert  Davenport -  Robert  Davenport rogue - rufián Rogue - Bellaco Rogue  Council,  the -  Concilio Renegado, el Rogue Council Manifesto -  Manifiesto del Concilio Renegado Ronde des Ames - Ronde des Âmes Room 101 - Habitación 101\n\nroll - tirada\n\nrote - fórmula\n\nRule  of  Shade,  the -  Regla  de  la Sombra, la\n\nSacred  Congregation -  Congregación Sagrada\n\nsafe house - piso franco\n\nSahajiya - Sahajiya\n\nSalon - salón\n\nsamadhi - samadhi\n\nSamsara - Samsara\n\nsanctum, pl. sanctums -  sanctum, pl. sancta\n\nSanctum - Sanctum\n\nSangrientos, los - Sangrientos, los\n\nSanitize - esterilizar\n\nsanity sink - sumidero de cordura Save - parada\n\nSchism, the - Cisma, el\n\nScourge - Azote\n\nScourgeling - Azotelino\n\nScreaming Ghost Purge, the -  Purga del Fantasma Chillador, la\n\nSebil-el  Mafouh  Whash -Sebil-el Mafouh Whash\n\nSecurity - Seguridad\n\nSentinel - Centinela\n\nScience - Ciencias\n\nScientist - Científico\n\nScut-talk - jerga sucia\n\nSearch - Buscar\n\nSecret  Weapons -  Armamento Secreto\n\nsector - sector Seduction - Seducción Seeking - Búsqueda Seers  of  Chronos -  Videntes  de Cronos sensory  visitation -  visitación  sensorial Sensualist - Sensualista Shade Realm - Reino Sombra Shadowed Sun Society -  Sociedad del Sol Ensombrecido Shadowlands - Tierras de las Sombras Shaea - Shaea Shallowing - Adelgazamiento Shard Realm - Reino Fragmento shaman - chamán shapeshifter - cambiaformas Shastamarga - Shastamarga Shattering, the - Ruptura, la Shaytan - Shaytan sheep pen - corral de ovejas Shih - Shih Shi-Ren - Shi-Ren Shroud, the - Manto, el shunyata - shunyata Sh'zar the Seer - Sh'zar el Vidente sidebar - recuadro Sifu - Sifu Sihing - Sihing simple action - acción sencilla Singer - Cantante Siren Circle, the -  Círculo Sirena, el Sitrin - Sitrin Sister  of  Hippolyta,  pl.  Sisters  of Hippolyta -  Hermana  de  Hipólita,  pl. Hermanas de Hipólita Six  Degrees  of  Separation -  Seis Grados de Separación Sixth Age, the\n\n- Sexta Edad, la\n\nSkeleton Keys\n\n- Llaves Maestras\n\nSkills - Técnicas\n\nSkopos - Skopos\n\nSkyrigger - nave celestial\n\nSleeper - Durmiente\n\nsleepteacher - hipnopeda\n\nSleepwalker - Sonámbulo\n\nSlumber - Hibernación\n\nSlumber, to - Hibernar\n\nso-cha - So-cha\n\nsoak - absorción\n\nSocial - Sociales\n\nSocial Conditioning - Condiciona- miento Social\n\nSociety  of  Dreams -  Sociedad  de los Sueños\n\nSociety of Ether, the - Sociedad del Éter, la\n\nsoft de-rez - des-integración suave\n\nSolificatus,  pl.  Solificati -  Solificatus, pl. Solificati\n\nSon of Ether,  pl.  Sons  of  Ether -  Hijo del Éter, pl. Hijos del Éter\n\nSong, the - Canción, la\n\nsorcerer - hechicero\n\nSorcerers Crusade, the -  Cruzada  de los Hechiceros, la\n\nSoulflower - Flor del Alma\n\nSoulgem - Gema del alma\n\nSpatial  Horizon -  Horizonte  Espacial\n\nSpeaker - Contador\n\nSpecial  Response  Team  Alpha Equipo Alfa de Respuesta Especial\n\n-\n\nSpectra Widow 6 -  Spectra  Widow 6\n\nspell - hechizo\n\nSPD - DPE\n\nSpecial Projects Division - División de Proyectos Especiales\n\nspecialty - Especialidad\n\nSphere - Esfera\n\nSphinx, the - Esfinge, la\n\nSpies\n\n- Espías\n\nSpires - Chapiteles\n\nspirit - espíritu\n\nSpirit - Espíritu\n\nspirit-nuke - bomba espiritual\n\nSpirit  Penumbra -  Penumbra  Es- piritual\n\nSpirit  Talker -  Hablante  de  Espíritus Spirit  Wilds -  Tierras  Salvajes  Es- pirituales\n\nSpy's Demise - Legado del Espía, el S.R. - R.S.\n\nSRVRZ - ZRVSR\n\nStamina - Resistencia\n\nStaples - Grapas\n\nStar-of-Eagles - Estrella-de-Águilas\n\nStar-Eater - comeestrellas\n\nStasis - Estasis\n\nstatic reality - realidad estática\n\nGlosario M20 Básico\n\nStatisticians\n\n- Estadísticos\n\nStatus - Estatus\n\nStealth - Sigilo\n\nsteelhead - cabeza de acero\n\nsteelskin - piel de acero\n\nstep sideways - caminar de lado\n\nStephen  Trevanus -  Stephen  Tre- vanus\n\nStoryteller  System  /  Storytelling System - Sistema Narrativo\n\nStrategic  Prognostications  and  Data\n\nDispersal Unit - Unidad de Pronósticos Estratégicos y Dispersión de Datos\n\nStreet Op - Operativo de Calle\n\nStrength - Fuerza\n\nStreetwise - Callejeo\n\nStudent\n\n- Estudiante\n\nSubspace - Subespacio\n\nSubterfuge Subterfugio\n\nSubtle Influence - Influencia Sutil\n\nSubtle One; pl. Subtle Ones - Sutil; pl. Sutiles\n\nSubtle Procedure - Procedimiento Sutil\n\nsuccess - éxito\n\nSubdimensions - Subdimensiones\n\nSuktamke - Suktamke\n\nSunyakaya - Sunyakaya\n\nsuperstitionist - supersticioso\n\nSupervisor - Supervisor\n\nSurvival - Supervivencia\n\nSurvivor - Superviviente\n\nsweep 'n' sack - barrido y saqueo\n\nSympathizer - Simpatizante\n\nSymposium - Simposio\n\nSyndicate - Sindicato\n\nSynergy - Sinergia\n\nTaftâni - Taftâni\n\nTalents - Talentos\n\nTalisman - Talismán\n\nTao-shih - Tao-shih\n\nTapas - Tapas\n\nTapestry, the - Tapiz, el\n\nTass - Tass\n\nTechnephandi - Tecnonefandos\n\nTechnician - Técnico\n\nTechnology - Tecnología\n\ntechnomancer - tecnomante\n\nTechnocracy - Tecnocracia\n\nTechnocrat - Tecnócrata\n\nTechnocratic Union -  Unión  Tecnocrática\n\ntechnomagick - Tecnomagia\n\nTellurian\n\n- Teluria\n\nTempest, the - Tempestad, la\n\nTempéte - Tempête\n\nTemplar Knight, pl. Templar Knights -  Caballero  Templario,  pl.  Caballeros Templarios\n\nTenth Sphere, the -  Décima  Esfera,  la Tezghul  the  Insane -  Tezghul  el Demente\n\nThanatoic - Tanatoico\n\nThose  Beyond -  Están  Más  Allá,\n\nlos que\n\nThreat Null - Amenaza Nula\n\nThree Worlds, the -  T res  Mundos,  los\n\nThule Gesellschaft -  Thule Gesellschaft\n\nThunder  Society -  Sociedad  del Trueno, la\n\nThunderbird\n\n- Pájaro del Trueno\n\nT'ien Kung te Huang Ti Wu Lung\n\n- T'ien Kung te Huang Ti Wu Lung\n\nTiger - Tigre\n\nTiger School - Escuela Tigre\n\nTime - Tiempo\n\nTime-Motion Managers - Gerentes\n\nde Tiempos y Movimientos\n\nTime Table - Tabla Temporal TMM - GTM\n\nTorture\n\n- Tortura\n\nTrawler - rastreador\n\nTremere - Tremere\n\nTrianoma - Trianoma\n\nTribunal - Tribunal\n\nTricanmarga - Tricanmarga\n\ntrod - Paso\n\nTupa Nui - Tupa Nui\n\nTwist - Giro\n\nTotem\n\n- Tótem\n\nTradition - Tradición\n\nTraditionalist - Tradicionalista\n\nTrash Sector - Sector Basura\n\ntranshumanism\n\n- transhumanismo\n\ntranshumanist - transhumanista\n\nTriat, the - Tríada, la\n\nTrickster - Truhán Trinket - Baratija Tychoides - Tychoides Tychoides'  theorem -  teorema  de Tychoides Tychoidian cosmology -  cosmología tychoidesiana Tytalus - Tytalus UID - DUI\n\nUfungoto - Ufungoto\n\numbilicus  argentus -umbilicus argentus\n\nUmbra, the; pl. Umbrae - Umbra, la; pl. Umbrae\n\nUmbral - umbral\n\nUnbroken\n\n- No Rotos\n\nUmbrood - Umbrole\n\nunAwakened - no Despertado\n\nUncle Al - Tío Al\n\nunconventional personnel - personal no convencional\n\nundead - no-muerto Underworld - Inframundo unEnlightened - no Iluminado\n\nUnenlightened support personnel\n\n- personal de apoyo no Iluminado Union, the - Unión, la\n\nUniversal  Identification  Designation -  Designación  Universal  de Identificación\n\nunmutual - inmutuo\n\nuplift - elevar\n\nUzoma - Uzoma\n\nVada - Vada\n\nvain magick - Magia vana\n\nVajrapanib - Vajrapani\n\nValdaermen - Valdaermen\n\nValoran - Valoran\n\nvampire - vampiro, vampira\n\nVDAS - EDAV\n\nVelvet  Shadow,  the -  Sombra  de Terciopelo, la\n\nVenture - Empresa\n\nVerbena - Verbena\n\nVerbenae\n\n- Verbenae\n\nVerditius\n\n- Verditius\n\nVice President of Operations - Vi-\n\ncepresidente de Operaciones\n\nVictor,  pl.  Victors -  Victor,  pl. Victors\n\nVidare\n\n- Vidare\n\nVidare Astral - Vidare Astral\n\nVidare Mortem\n\n- Vidare Mortem\n\nVidare Spiritus - Vidare Spiritus\n\nVirgin Web - Red Virgen\n\nVirtual Adept, pl. Virtual Adepts\n\n- Adepto Virtual, pl. Adeptos Virtuales\n\nVision Man - Hombre de Visión Vision-Mocker - Burlavisiones Visionary - Visionario Vistas - Vistas\n\nVisual Data &amp; Analysis Spectrum - Espectro de Datos y Análisis Visuales\n\nVittoria Falconi - Vittoria Falconi Void, the - Vacío, el\n\nVoid  Adaptation -  Adaptación  al Vacío\n\nVoid Engineer, pl. Void Engineers - Ingeniero del Vacío, pl. Ingenieros del Vacío\n\nVoid of Heaven - Vacío del Cielo\n\nVoid Seeker\n\n- Buscador del Vacío\n\nVoltarian\n\n- Voltariano\n\nVoormas - Voormas\n\nVPO - VPO\n\nVrata - Vrata\n\nvulgar magick - Magia vulgar\n\nVulgate, the - Vulgata, la\n\nWailing Darkness, the -  Gimoteante Oscuridad, la\n\nWalking Hawk -  Halcón  Caminante Wanderer - Errabundo\n\nWar of the Dust-Witch - Guerra de la Bruja de Polvo\n\nWar in the Ruins -  Guerra en las Ruinas\n\nWarring Fists - Puños en Guerra\n\nWarzone - zona de guerra\n\nWatchers - Vigilantes\n\nWeaver - Tejedor\n\nWeaver, the - Tejedora, la\n\nwebspace - webespacio\n\nWeek of Nightmares, the - Semana de las Pesadillas, la\n\nWellspring - Manantial werewolf - hombre lobo\n\nWharchives - quéarchivos Whispering  Fists -  Puños  Susu- rrantes\n\nWhite Suit\n\n- Traje Blanco\n\nWhite Room\n\n- Habitación Blanca\n\nWhiteout - Nevasca\n\nwidderslainte\n\n- widderslainte\n\nwild talent\n\n- talento salvaje\n\nWill - Voluntad\n\nWilliam Groth - William Groth Willpower - Fuerza de Voluntad - Artesano\n\nwillworker / will-worker de la Voluntad\n\nWisdom - Sabiduría\n\nWitch-House - Casa de Brujas witch-war - guerra de brujas\n\nWits - Astucia\n\nwizard - mago\n\nWizard - Mago\n\nWolf Guild - Gremio de los Lobos\n\nWolfgang von Reismann -  Wolfgang von Reismann\n\nWonder\n\n- Maravilla\n\nworking - trabajo\n\nwounded - Herido\n\nWorld Tree, the - Árbol del Mun-\n\ndo, el\n\nwraith - wraith\n\nWrinkle - Arruga\n\nWu Keng - Wu Keng\n\nWu Lung - Wu Lung\n\nWWPD? - ¿QHP?\n\nWyck - Wyck\n\nWyld, the - Kaos, el\n\nWyndgarde - Wyndgarde\n\nWyrm, the - Wyrm, el\n\nXaos - Xaos\n\nX-Chel - X-Chel\n\nXerox - Xerox\n\nXerxes Jones - Xerxes Jones\n\nYama Kings - Reyes Yama\n\nYear of Great Sickness - Año de la Gran Enfermedad\n\nZelator - Zelator\n\nZone - zona\n\nZelator - Zelator\n\nZone - zona\n\nzooterrorism - zooterrorismo\n\n<!-- image -->",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Paradigmas",
+      "anchor": "paradigmas",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Paradigmas",
+          "anchor": "paradigmas",
+          "level": 2,
+          "body_md": "Bring Back the Golden Age!\n\n¡Traer de Vuelta la Edad Dorada!\n\nCreation's Divine and Alive\n\nDivine Order and Earthly Chaos\n\nEverything is Chaos\n\nEverything is Data\n\nEverything's an Illusion, Prison, or Mistake\n\nIt's All Good - Have Faith!\n\nA Mechanistic Cosmos\n\nMight is Right\n\nOne-Way Trip to Oblivion\n\nTech Holds All Answers\n\nA World of Gods and Monsters La Creación Es Divina y Está Viva Orden Divino y Caos Terrenal Todo Es Caos Todo Es Datos Todo Es una Ilusión, una Prisión o un Error Todo Está Bien: ¡Ten Fe!\n\nUn Cosmos Mecánico\n\nEl Poder Da la Razón\n\nViaje Sólo de Ida al Olvido\n\nLa Tecnología Tiene Todas las Respuestas\n\nUn Mundo de Dioses y Monstruos",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Prácticas",
+      "anchor": "practicas",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Prácticas",
+          "anchor": "practicas",
+          "level": 2,
+          "body_md": "",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "alchemy",
+      "anchor": "alchemy",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "alchemy",
+          "anchor": "alchemy",
+          "level": 2,
+          "body_md": "alquimia\n\nArt of Desire/ Hypereconomics\n\nchaos magick\n\ncraftwork\n\ncrazy wisdom\n\ncybernetics\n\ndominion\n\nfaith\n\ngutter magick\n\nHigh Ritual Magick\n\nhypertech\n\nmaleficia\n\nmartial arts\n\nmedicine-work\n\nreality hacking\n\nshamanism\n\nvoudoun\n\nweird science\n\nwitchcraft\n\nyoga Arte del Deseo / hipereconomía Magia del caos artesanías sabiduría loca cibernética dominio fe Magia callejera Alta Magia Ritual hipertecnología maleficia artes marciales medicina hackeo de la realidad chamanismo vudú\n\nciencia extraña\n\nbrujería\n\nyoga",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "armor",
+      "anchor": "armor",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "armor",
+          "anchor": "armor",
+          "level": 2,
+          "body_md": "",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "armaduras",
+      "anchor": "armaduras",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "armaduras",
+          "anchor": "armaduras",
+          "level": 2,
+          "body_md": "artwork blessings and curses blood and fluids bodywork bones and remains books and periodicals brain/computer interface brews and concoctions cards and instruments of chance celestial alignments circles and designs computer gear crossroads and crossing-days cups and vessels dances and movement devices and machines drugs and poisons elements energy eye contact fashion food and drink formulae and math gadgets and inventions gems and stones group rites herbs and plants\n\nBlack Card / Little Black Box Hands of Death\n\nHot-Shotting Hypernarrative Influence Right-Click obras de arte bendiciones y maldiciones sangre y fluidos ejercicio físico huesos y restos mortales libros y periódicos interfaz cerebro-computadora",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Instrumentos",
+      "anchor": "instrumentos",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Instrumentos",
+          "anchor": "instrumentos",
+          "level": 2,
+          "body_md": "household tools knots and ropes labs and gear languages mass media meditation money and wealth\n\npociones y brebajes\n\nnaipes e instrumentos de azar\n\nalineaciones celestes\n\ncírculos y patrones\n\nequipo informático\n\nencrucijadas y días señalados\n\ncopas y recipientes\n\ndanzas y movimiento\n\ndispositivos y máquinas\n\ndrogas y venenos\n\nelementos\n\nenergía\n\ncontacto visual\n\nmoda comida y bebida fórmulas y matemáticas artilugios e invenciones gemas y piedras ritos grupales hierbas y plantas management and HR music nanotech numbers and numerology offerings and sacrifices ordeals and exertions prayers and invocations sacred iconography sex and sensuality social domination symbols thought-forms toys tricks and illusions true names vehicles voice and vocalizations wands and staves weapons writings, inscriptions and runes herramientas domésticas nudos y cuerdas laboratorios y equipo lenguas administración y RRHH\n\nmedios de comunicación de masas\n\nmeditación\n\ndinero y riqueza\n\nmúsica\n\nnanotecnología\n\nnúmeros y numerología\n\nofrendas y sacrificios\n\nordalías y esfuerzos\n\nplegarias e invocaciones\n\niconografía sagrada\n\nsexo y sensualidad\n\ndominación social\n\nsímbolos\n\nformas de pensamiento\n\njuguetes\n\ntrucos e ilusiones\n\nnombres verdaderos\n\nvehículos\n\nvoz y vocalizaciones\n\nvaras y varitas\n\narmas\n\nescritura, inscripciones y runas",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Fórmulas",
+      "anchor": "formulas",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Fórmulas",
+          "anchor": "formulas",
+          "level": 2,
+          "body_md": "",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Ajustes Iluminados",
+      "anchor": "ajustes-iluminados",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Ajustes Iluminados",
+          "anchor": "ajustes-iluminados",
+          "level": 2,
+          "body_md": "Carta Negra / Pequeña Caja Negra\n\nManos de Muerte\n\nDisparo Poderoso Influencia Hipernarrativa Botón Derecho Correspondencia 2, Fuerzas 2, Mente 2 Vida  3  y/o  Fuerzas  2,  Entropía  2  (op), Cardinal 2 (op) Fuerzas 2, Mente 2 (op) Mente 4, Entropía 2 (op) Mente  /  Datos  3,  Fuerzas  1  (op),  Vida  1 (op), Materia 1 (op), Cardinal 1(op), Ciencia Dimensional 2 (op)\n\n<!-- image -->\n\nDimension Bomb Golden Gunman Sanitize Evidence Secure the Scene\n\nAirt Sense Appear Armor Blast Blighted Touch Brand Break Reality Calcify Call for Aid Cleanse the Blight Cling Control Electrical Systems Corruption Create Fire Create Wind Death Fertility Digital Disruption Disable Disorient",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Procedimientos Tecnocráticos",
+      "anchor": "procedimientos-tecnocraticos",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Procedimientos Tecnocráticos",
+          "anchor": "procedimientos-tecnocraticos",
+          "level": 2,
+          "body_md": "Bomba Dimensional Pistolero de Oro Esterilizar Evidencias Asegurar la Escena\n\nCiencia Dimensional 3, Fuerzas 3 (op) / Cardinal 2 (op)\n\nTiempo 3, Fuerzas 2\n\nMateria 2, Fuerzas 2 y/o Cardinal 3\n\nMente 2 o 3, Fuerzas 1, Materia 1; Fuerzas 3 (op)",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Hechizos místicos y fórmulas tradicionales",
+      "anchor": "hechizos-misticos-y-formulas-tradicionales",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Hechizos místicos y fórmulas tradicionales",
+          "anchor": "hechizos-misticos-y-formulas-tradicionales",
+          "level": 2,
+          "body_md": "Awaken the Inanimate The Bullet-Catch Chain of Whispers The Notorious Vampiric Lawn Chair Penny Dreadful's Bright New Penny Psychic Interface Talons Witch's Vengeance\n\nDespertar lo Inerte Atrapar Balas Cadena de Cuchicheos La Infame Silla de Jardín Vampírica El Reluciente Penique Nuevo de Penny Dreadful Interfaz Psíquica Garras Venganza de la Bruja",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Espíritu 3",
+      "anchor": "espiritu-3",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Espíritu 3",
+          "anchor": "espiritu-3",
+          "level": 2,
+          "body_md": "Fuerzas 2, Vida 2, Tiempo 2\n\nMente 3, Correspondencia 2\n\nMateria 5 y Vida 5\n\nMateria 3 o 4, Cardinal 2, Tiempo 2\n\nMente 3 o 4, Datos o Espíritu 2, Fuerzas 2\n\nVida 3 o 4; Materia 2 (op), Cardinal 2 (op)\n\nEntropía  4  y/o  Vida  3  y/o  Tiempo  3, Correspondencia / Datos (op)\n\nAnotaciones: Las Esferas marcadas con (op) son optativas para realizar el Efecto en cuestión. No son necesarias para realizar el Efecto, pero suelen añadirse a las Esferas básicas del mismo a la hora de invocarlo.",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Encantamientos de los espíritus",
+      "anchor": "encantamientos-de-los-espiritus",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Encantamientos de los espíritus",
+          "anchor": "encantamientos-de-los-espiritus",
+          "level": 2,
+          "body_md": "Sentir Trochas Aparición Armadura Estallido Toque de Plaga Marcar Romper Realidad Calcificar Pedir Ayuda Purificar la Plaga Adherencia Controlar Sistemas Eléctricos Corrupción Crear Fuego Crear Viento Fertilidad  de  Muerte Disrupción Digital Incapacitar Desorientar Dream Journey Viaje Onírico Ease Pain Aliviar el Dolor Element Sense Sentido Elemental Feedback Acoplamiento Flee Huir Flood Inundación Freeze Congelar Healing Curación Illuminate Iluminar Influence Influencia Inhabit Habitar Insight Intuición Iron Will Voluntad Férrea Lightning Bolt Rayo Materialize Materializarse Meld Fusión Mind Speech Habla de la Mente Open Moon Bridge  Abrir Puente Lunar Peek Escudriñar Possession Posesión Quake Re-form Shapeshift Shatter Glass Short Out Solidify Reality Soul Reading Spirit Away Spirit Static Summon Wildlife Swift Flight System Havoc Terror Track Umbral Storm Umbraquake Updraft Waves Temblor Recuperar la  Forma Cambio  de  Aspecto Quebrar Cristal Cortocircuito Solidificar  Realidad Escrutar el alma Rapto Espiritual Estática Espiritual Vuelo Raudo Caos en el Sistema Terror Rastrear Tormenta Umbral Terremoto Umbral Corriente Ascendente Olas\n\n1\n\n1\n\n2\n\n3\n\n3\n\n3\n\n3\n\n5\n\n5",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Biotecnología (Mejoras)",
+      "anchor": "biotecnologia-mejoras",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Biotecnología (Mejoras)",
+          "anchor": "biotecnologia-mejoras",
+          "level": 2,
+          "body_md": "Online Access acceso a Internet\n\nSkeletal Enhancement\n\nBio-Cloaking\n\nPrimium Countermeasures",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Maravillas",
+      "anchor": "maravillas",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Maravillas",
+          "anchor": "maravillas",
+          "level": 2,
+          "body_md": "",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Maravillas místicas",
+      "anchor": "maravillas-misticas",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Maravillas místicas",
+          "anchor": "maravillas-misticas",
+          "level": 2,
+          "body_md": "1 a 3\n\nmejora del esqueleto\n\nbiocamuflaje\n\ncontramedidas de primium\n\nImplanted Plasma Cannon cañón de plasma implantado",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Ciencia extraña",
+      "anchor": "ciencia-extrana",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Ciencia extraña",
+          "anchor": "ciencia-extrana",
+          "level": 2,
+          "body_md": "The DDGR Card Tarjeta BTRAS\n\nKid Kimota's Jovian\n\nThundergloves\n\nMadness Grenade\n\nThe  Rebooter  Self-\n\nRetrieval Bio-Printer Guantes Jovianos del Trueno de Kid Kimota Granada de locura Bioimpresora Reiniciadora de Autorrecuperación",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Méritos y Defectos",
+      "anchor": "meritos-y-defectos",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Méritos y Defectos",
+          "anchor": "meritos-y-defectos",
+          "level": 2,
+          "body_md": "|                                            | Tipo         | Puntos   |                               |\n|--------------------------------------------|--------------|----------|-------------------------------|\n| Idioma                                     | Mental       | 1        | Language                      |\n| Sentido Agudos                             | Físico       | 1, 3     | Acute Senses                  |\n| Guardián de la Tormenta / Viajero Cuántico | Sobrenatural | 3        | Stormwarden / Quantum Voyager |\n| Lazos                                      | Social       | 3        | Ties                          |\n| Tríada Oscura                              | Social       | 3        | Dark Triad                    |\n| Afinidad Umbral                            | Sobrenatural | 4        | Umbral Affinity               |\n| Demasiado Duro para Morir                  | Físico       | 5        | Too Tough to Die              |\n| Fe Verdadera                               | Sobrenatural | 7        | True Faith                    |\n| Sumidero de Cordura                        | Merodeadores | 7        | Sanity Sink                   |\n| Berserker / Atavismo por Estrés            | Mental       | 4 / -4   | Berserker / Stress Atavism    |\n| Adicción                                   | Mental       | -1, -3   | Addiction                     |\n| Enemigo                                    | Social       | -1 a -5  | Enemy                         |\n| Maldito                                    | Sobrenatural | -1 a -5  | Cursed                        |\n| Ecos                                       | Sobrenatural | -1 a -5  | Echoes                        |\n| Constructo                                 | Social       | -2       | Construct                     |\n| TEPT                                       | Mental       | -2 a -5  | PTSD                          |\n| Trastornado                                | Mental       | -3, -5   | Deranged                      |\n\n2 a 3\n\n3\n\n| Trushades          | ciertilentes               | Baratija     |\n|--------------------|----------------------------|--------------|\n| Bafflejack         | despistador                | Disp. / Tal. |\n| Bulletproof Hoodie | sudadera a prueba de balas | Baratija     |",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "Herramientas Tecnocráticas",
+      "anchor": "herramientas-tecnocraticas",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "Herramientas Tecnocráticas",
+          "anchor": "herramientas-tecnocraticas",
+          "level": 2,
+          "body_md": "|   2 | Falconi & Associates Elite Business Attirel   | traje de negocios de élite Falconi & Associated   | Disp. / Inv.   |\n|-----|-----------------------------------------------|---------------------------------------------------|----------------|\n|   3 | Visual Data & Analysis Spectrum (VDAS)        | Espectro de Datos y Análisis Visuales (EDAV)      | Dispositivo    |\n|   4 | Alanson R-25 Hardsuit                         | servoarmadura Alanson R-25                        | Dispositivo    |\n\nDisp. / Arti.\n\nDispositivo\n\nFetiche / Tal.\n\nDisp. / Artef.\n\nTodos los términos clave de Mago: La Ascensión 20 o  Aniversario compilados en un completísimo compendio de mano del equipo de  la  edición  en  español.  Ideado  en  un  principio  como  una herramienta  de  trabajo,  este  glosario  pone  al  alcance  de  los seguidores de Mundo de Tinieblas todas las decisiones clave tomadas durante el proceso de traducción. Además, en él los lectores encontrarán solución a algunas de las dudas lingüísticas, etimológicas e intrajuego que han acuciado a los jugadores de Mago durante años.",
+          "defines_entities": []
+        }
+      ]
+    },
+    {
+      "title_es": "El  Glosario  M20  Básico  incluyE:",
+      "anchor": "el-glosario-m20-basico-incluye",
+      "level": 2,
+      "sections": [
+        {
+          "title_es": "El  Glosario  M20  Básico  incluyE:",
+          "anchor": "el-glosario-m20-basico-incluye",
+          "level": 2,
+          "body_md": "- Una guía completa de términos clave inglés-español y español-inglés acompañada con notas explicativas en los casos donde la traducción ha sido más problemática.\n- Ayuda fonética para pronunciar con corrección todos aquellos términos que resultan confusos en español.\n- Listados completos con todas los Dones, Ritos, Méritos y Defectos para una rápida consulta en español e inglés.\n\nTodo ello acompañado por las ilustraciones de\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->",
+          "defines_entities": []
+        }
+      ]
+    }
+  ]
+}

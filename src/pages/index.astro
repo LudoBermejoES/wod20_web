@@ -23,7 +23,13 @@ const lineas = [
   <ul class="lineas">
     {lineas.map((l) => (
       <li>
-        <strong>{l.nombre}</strong>: {l.desc}
+        {l.id === 'mage' ? (
+          <a href="/mage"><strong>{l.nombre}</strong>: {l.desc}</a>
+        ) : (
+          <>
+            <strong>{l.nombre}</strong>: {l.desc}
+          </>
+        )}
       </li>
     ))}
   </ul>

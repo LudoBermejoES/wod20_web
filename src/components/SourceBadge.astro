@@ -1,0 +1,42 @@
+---
+// Renders one `sources[]` entry as "Origen: <book_title_es> (p. N)".
+// Callers render a list of these for multi-source entities:
+//   <ul>{sources.map((s) => <li><SourceBadge source={s} /></li>)}</ul>
+export interface Props {
+  source: {
+    book_id: string;
+    book_title_es?: string;
+    page?: number | string | null;
+    variant?: 'base' | 'reprint' | 'expanded' | 'variant';
+  };
+}
+const { source } = Astro.props;
+const title = source.book_title_es ?? source.book_id;
+const VARIANT_LABELS: Record<string, string> = {
+  reprint: 'reimpresión',
+  expanded: 'ampliado',
+  variant: 'variante',
+};
+const variantNote = source.variant && source.variant !== 'base' ? VARIANT_LABELS[source.variant] : undefined;
+---
+
+<span class="source-badge">
+  Origen: {title}
+  {source.page != null && <> (p. {source.page})</>}
+  {variantNote && <span class="variant"> · {variantNote}</span>}
+</span>
+
+<style>
+  .source-badge {
+    display: inline-block;
+    font-size: 0.85rem;
+    color: var(--muted);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 0.15em 0.6em;
+    background: var(--bg-elevated);
+  }
+  .variant {
+    font-style: italic;
+  }
+</style>
