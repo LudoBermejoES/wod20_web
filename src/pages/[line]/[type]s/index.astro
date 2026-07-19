@@ -30,13 +30,27 @@ const label = typeLabelEs(type);
 
 // Zero-JS "filter": group by the `category` mechanic when the type has one
 // (merits/flaws), with plain anchor jump-links. No client JS needed.
-const categories = [...new Set(entities.map((e) => (e.mechanics as Record<string, unknown>).category).filter(Boolean))] as string[];
-const grouped = categories.length > 0
-  ? categories.sort((a, b) => a.localeCompare(b, 'es')).map((category) => ({
-      category,
-      items: entities.filter((e) => (e.mechanics as Record<string, unknown>).category === category),
-    }))
-  : [{ category: undefined, items: entities }];
+const cat = (e: { mechanics?: Record<string, unknown> }) =>
+  (e.mechanics as Record<string, unknown> | undefined)?.category as string | undefined;
+const categories = [...new Set(entities.map(cat).filter(Boolean))] as string[];
+const uncategorized = entities.filter((e) => !cat(e));
+// Group by category when any entity has one, but ALWAYS include a catch-all group
+// for entities without a category — otherwise a type with a mix (e.g. wonders,
+// where only a few carry a category) would silently drop the uncategorized ones.
+const grouped =
+  categories.length > 0
+    ? [
+        ...categories
+          .sort((a, b) => a.localeCompare(b, 'es'))
+          .map((category) => ({
+            category,
+            items: entities.filter((e) => cat(e) === category),
+          })),
+        ...(uncategorized.length > 0
+          ? [{ category: 'Sin categoría', items: uncategorized }]
+          : []),
+      ]
+    : [{ category: undefined, items: entities }];
 ---
 
 <Layout title={`${label} — ${info.nombre}`} theme={line}>
