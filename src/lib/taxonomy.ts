@@ -18,11 +18,11 @@ export const TYPE_INFO: Record<string, TypeInfo> = {
   background: { label_es: 'Trasfondo', mechanical_fields: ['rating_max', 'ratings'] },
   archetype: { label_es: 'Arquetipo', mechanical_fields: ['regain_condition'] },
   rote: {
-    label_es: 'Rutina',
+    label_es: 'Fórmula',
     mechanical_fields: ['spheres', 'arete_min', 'practice', 'instruments', 'effect'],
   },
   'sphere-effect': { label_es: 'Efecto de Esfera', mechanical_fields: ['sphere', 'level', 'effect'] },
-  wonder: { label_es: 'Prodigio', mechanical_fields: ['subtype', 'rank', 'arete', 'quintessence', 'powers'] },
+  wonder: { label_es: 'Maravilla', mechanical_fields: ['subtype', 'rank', 'arete', 'quintessence', 'powers'] },
   ritual: { label_es: 'Ritual', mechanical_fields: ['spheres', 'duration', 'procedure'] },
   paradigm: { label_es: 'Paradigma', mechanical_fields: [] },
   practice: { label_es: 'Práctica', mechanical_fields: ['associated_abilities'] },
