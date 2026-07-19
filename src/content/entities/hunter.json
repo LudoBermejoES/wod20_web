@@ -1011,5 +1011,125 @@
       }
     ],
     "related": []
+  },
+  {
+    "id": "status",
+    "type": "background",
+    "line": "hunter",
+    "name_en": "Estatus",
+    "name_es": "Estatus",
+    "body_es": "Eres un Inquisidor de categoría dentro de la Sociedad de Leopoldo. Tal distinción podría provenir de una reputación de dedicación al trabajo, de matar a un sirviente del Diablo particularmente poderoso, de la realización de un  milagro,  la  reunión  de  conocimiento  esotérico  o  de simple longevidad, algo raro entre los cazadores de brujas. Como en cualquier institución, tener amigos en lugares importantes  también  ayuda.  A  pesar  de  su  Estatus,  un miembro de la Sociedad siempre es denominado Inquisidor. Un Inquisidor sin puntuación de Estatus comienza como Novicio.\n\nCuando trates con Inquisidores de menos Estatus, aplica la diferencia de Estatus como bonificación a todas las tiradas Sociales.\n\n- •\n\nTerciario.\n\n- ••\n\nConsejero.\n\n•••\n\nAbad.\n\n- ••••\n\nCensor.\n\n- •••••\n\nMinistro Provincial.",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "estatus",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "rank",
+    "type": "background",
+    "line": "hunter",
+    "name_en": "Rango",
+    "name_es": "Rango",
+    "body_es": "Las agencias del gobierno imponen de forma estricta los privilegios asociados al rango: un soldado de la armada no puede hacer que un capitán lo escuche, menos aún dar órdenes a sus oficiales superiores. Este Trasfondo representa la posición de un agente en la cadena de mando. Un agente sin puntos de Rango posee el grado más bajo apropiado para la organización: un agente junior del SAD o la CIA, o un teniente de segunda categoría en la NSA. Aunque técnicamente el personaje con mayor Rango estará a cargo de los demás agentes, determinadas circunstancias atenuantes sobre el terreno pueden invalidar la cadena de mando.\n\nCuando trates  con  gente  de  menor  Rango  dentro  de tu agencia, aplica la diferencia en Rango como una bonificación en cualquier reserva de dados Social. Cuando trates con gente fuera de la agencia de tu personaje, trata su Rango como si fuera dos puntos menor.\n\n- Un agente especial del SAD o un teniente de primera categoría de la NSA.\n- ·· Un agente especial senior del SAD o capitán de la NSA.\n- ··· Un agente  especial  a  cargo  del  SAD  o  un comandante de la NSA.\n- ···· Un jefe de sección del SAD o un coronel de la NSA.\n- ····· Un director regional del SAD o un general de la NSA.",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "rango",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "artefacto",
+    "type": "background",
+    "line": "hunter",
+    "name_en": "Artefacto",
+    "name_es": "Artefacto",
+    "body_es": "Los Artefactos son objetos de fuerte potencia sobrenatural. Este Trasfondo te permite comenzar la partida con uno de tales objetos en tu poder. Puede ser una reliquia familiar o algo legado por un mentor del Arcanum o que encontraste al principio de tu carrera y que la sociedad no ha solicitado aún para un 'estudio más a fondo'.\n\nEl Narrador debería crear algo adecuado para ti basándose en los puntos de este Trasfondo. Habla con él acerca de lo que quieres. Los Artefactos de leyenda (como Durandal, la espada de Rolando o el cáliz de Kai Khusrau) son objeto de grandes búsquedas y no pueden adquirirse con este Rasgo. Algunos ejemplos de Artefactos potenciales aparecen en la pág. 157-158.\n\nLos  jugadores  pueden  optar  por  compartir  puntos  de Trasfondo para tener un Artefacto común. Ver pág. 118119  del V20 para  más  información  sobre  Trasfondos Compartidos.\n\n- Un Artefacto menor.\n\n- ••\n\nUn Artefacto útil.\n\n•••\n\nUn Artefacto de poder significativo.\n\n- ••••\n\nUn Artefacto muy deseado.\n\n- •••••\n\nUn Artefacto de increíble poder.",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "artefacto",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "mentor",
+    "type": "background",
+    "line": "hunter",
+    "name_en": "Mentor",
+    "name_es": "Mentor",
+    "body_es": "Tu Mentor (tu Hermano o Hermana Mayor) es la persona que te inició en el Arcanum. A mayor puntuación, más influyente es entre los demás Arcanistas y mejor es tu reputación inicial. Una puntuación baja significa que tu mentor no es muy respetado, pero también podría significar que es un Mentor poderoso que no suele estar disponible.",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "mentor",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "resources",
+    "type": "background",
+    "line": "hunter",
+    "name_en": "Recursos",
+    "name_es": "Recursos",
+    "body_es": "La sociedad puede proporcionar alojamiento y un pequeño subsidio para sus nuevos miembros (por lo general, no mayor de un punto o dos). Cualquier cosa más debe provenir de un miembro de tu familia, otro trabajo o alguna otra fuente de ingresos.",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "recursos",
+        "variant": "base"
+      }
+    ],
+    "related": []
   }
 ]

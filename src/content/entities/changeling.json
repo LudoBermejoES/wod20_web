@@ -2300,5 +2300,29 @@
       }
     ],
     "related": []
+  },
+  {
+    "id": "titulo",
+    "type": "background",
+    "line": "changeling",
+    "name_en": "Título",
+    "name_es": "Título",
+    "body_es": "- zzzzz Reino",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "titulo",
+        "variant": "base"
+      }
+    ],
+    "related": []
   }
 ]

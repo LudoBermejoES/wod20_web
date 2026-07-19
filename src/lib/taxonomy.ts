@@ -29,6 +29,7 @@ export const TYPE_INFO: Record<string, TypeInfo> = {
   instrument: { label_es: 'Instrumento', mechanical_fields: [] },
   resonance: { label_es: 'Resonancia', mechanical_fields: ['flavor'] },
   'arcanos-power': { label_es: 'Poder de Arcanos', mechanical_fields: ['level', 'arcanos'] },
+  'discipline-power': { label_es: 'Poder de Disciplina', mechanical_fields: ['level', 'discipline'] },
   artifact: { label_es: 'Artefacto', mechanical_fields: ['level'] },
 };
 

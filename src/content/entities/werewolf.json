@@ -1,5 +1,36 @@
 [
   {
+    "id": "renombre",
+    "type": "background",
+    "line": "werewolf",
+    "name_en": "Renombre",
+    "name_es": "Renombre",
+    "body_es": "| Rango       | Cualquier combinación   | Cualquier combinación   | Cualquier combinación   |\n|-------------|-------------------------|-------------------------|-------------------------|\n| 1 (Cliath)  | 3                       | 3                       | 3                       |\n| 2 (Fostern) | 7                       | 7                       | 7                       |\n| 3 (Adren)   | 13                      | 13                      | 13                      |\n| 4 (Athro)   | 19                      | 19                      | 19                      |\n| 5 (Anciano) | 25                      | 25                      | 25                      |\n| 5EBRODB     | 5EBRODB                 | 5EBRODB                 | 5EBRODB                 |\n| Rango       | Gloria                  | Honor                   | Sabiduría               |\n| 1 (Cliath)  | 0                       | 0                       | 3                       |\n| 2 (Fostern) | 1                       | 0                       | 5                       |\n| 3 (Adren)   | 2                       | 1                       | 7                       |\n| 4 (Athro)   | 4                       | 2                       | 9                       |\n| 5 (Anciano) | 4                       | 9                       | 10                      |\n| 1EFILLU | 1EFILLU | 1EFILLU | 1EFILLU |\n| Rango       | Gloria                  | Honor                   | Sabiduría               |\n| 1 (Cliath)  | 0                       | 3                       | 0                       |\n| 2 (Fostern) | 1                       | 4                       | 1                       |\n| 3 (Adren)   | 2                       | 6                       | 2                       |\n| 4 (Athro)   | 3                       | 8                       | 4                       |\n| 5 (Anciano) | 4                       | 10                      | 9                       |\n| Rango       | Gloria                  | Honor                   | Sabiduría               |\n| 1 (Cliath)  | 2                       | 0                       | 1                       |\n| 2 (Fostern) | 4                       | 0                       | 2                       |\n| 3 (Adren)   | 4                       | 2                       | 4                       |\n| 4 (Athro)   | 7                       | 2                       | 6                       |\n| 5 (Anciano) | 9                       | 5                       | 9                       |\n| \"EOLRK      | \"EOLRK                  | \"EOLRK                  | \"EOLRK                  |\n| Rango       | Gloria                  | Honor                   | Sabiduría               |\n| 1 (Cliath)  | 2                       | 1                       | 0                       |\n| 2 (Fostern) | 4                       | 1                       | 1                       |\n| 3 (Adren)   | 6                       | 3                       | 1                       |\n| 4 (Athro)   | 9                       | 4                       | 2                       |\n| 5 (Anciano) | 10                      | 9                       | 4                       |\n\n- 'Adquirir' un objeto específico escondido por un Ragabash del Rango apropiado.\n- Recibir la bendición de un espíritu menor.\n- Convencer  al  Garou  desafiado  de  que  reconozca  tu Rango mediante un debate y discurso apasionados.\n\n-  Componer una canción, un poema o una historia en honor del Garou desafiado.\n- Derrotar a un Ahroun de Rango apropiado en un duelo formal.\n- Permanecer de guardia en el Túmulo durante setenta y dos horas sin quedarse dormido.\n\n\nAquéllos que alcanzan el Rango de Adren tienen una mayor responsabilidad dentro de su clan.  Ocupan la  mayoría de las posiciones de importancia, como Protector, Maestro del Rito y Guardián de la Puerta (entre otras). Los desafíos para este Rango deben ser diseñados para eliminar a quienes no pueden actuar o pensar con rapidez; son, después de todo, los futuros líderes del clan y la Tribu. Muy pocos Garou superan su desafío Adren la primera vez.\n\n- Pedir prestado un Fetiche del desafiado utilizando el lenguaje  corporal,  los  gestos  y  las  comunicación  no verbal para pedirlo.\n- Finalizar una difícil búsqueda del tesoro en un tiempo determinado.\n- Crear un Fetiche original  (y  útil)  desde  cero  en  un  tiempo determinado.\n- Hacer las paces con un enemigo o negociar una tregua entre dos hombres lobo enemistados.\n-  Encontrar a un héroe poco conocido de los Garou y hacerle un tributo apropiado.\n- Soportar fuertes palizas o burlas de tus compañeros de clan sin entrar en Frenesí.",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "renombre",
+        "variant": "base"
+      },
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "renombre",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
     "id": "forma-de-hombre",
     "type": "merit",
     "line": "werewolf",
@@ -454,6 +485,78 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
         "page": null,
         "section_anchor": "microquiroptero",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "kinfolk",
+    "type": "background",
+    "line": "werewolf",
+    "name_en": "Parentela",
+    "name_es": "Parentela",
+    "body_es": "La  Parentela  osuna  de  los  Caminantes  del  Bosque consiste sobre todo en osos negros con una pizca de otras especies, incluyendo el oso de anteojos sudamericano. La Parentela humana suele tener únicamente procedencia nativa americana, predominantemente de las tribus del Sur y el Este. Igual que los demás Gurahl, los Caminantes del Bosque han comenzado a tomar parejas humanas allí donde pueden, escogiendo a menudo a aquéllos que trabajan activamente por la conservación de los bosques, la preservación de la fauna u otros trabajos al aire libre.",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "parentela",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "totem",
+    "type": "background",
+    "line": "werewolf",
+    "name_en": "Tótem",
+    "name_es": "Tótem",
+    "body_es": "La mayor parte de los Fera utilizan los Tótems de la das' o como patrones personales. Los Ananasi, los Corax\n\nmisma forma que los Garou, ya sea para unir a sus 'manay los Nagah son excepciones notables.\n\nAsí que, ¿qué sucede cuando un Garou, un Bastet, un\n\nAjaba y un Mokolé deciden unirse?\n\nLa mayor parte de los Fera pensarían que esa simple idea es  poco  más  que  el  principio  de  un  chiste  malo,  pero  a  medida que la sombra del Wyrm oscurece lugares como África y el Amazonas, cada vez más cambiaformas se encuentran considerando seriamente esta  pregunta.  ¿ Pueden los  cambiaformas hijos de Gaia, durante tanto tiempo divididos, colaborar?\n\nLa respuesta es sí... con algunas dificultades.\n\nEl Rito del Tótem (ver H20 , pág. 212) está particularmente adaptado a las capacidades y sensibilidades de los Garou; aquellos Fera que no pueden caminar de lado de forma innata tienen serias dificultades para llevarlo a cabo.  Los  Ritos  equivalentes  utilizados  por  otras  Razas Cambiantes están especializados de manera similar.\n\nSin embargo, existe un raro y particular Rito, el Rito del Círculo Unido, que puede utilizarse para atraer a un espíritu que actúe como Tótem para una manada de diversos Fera. Mecánicamente es idéntico al Rito del Tótem, y requiere que el  celebrante  del  Rito  prepare  un  espacio  ritual  decorado con objetos que satisfagan al espíritu que esperan atraer mientras cantan sobre la necesidad de renovación de Gaia. Algunos Mokolé con poderosa Mnesis recuerdan este Rito de tiempos anteriores a la Guerra de la Rabia y unas pocas manadas africanas han redescubierto o vuelto a crear el Rito de manera independiente. Las Cortes de las Bestias de Asia utilizan un Rito similar para formar sus sentai.\n\nUna manada multi-Fera puede compartir sus puntos de Trasfondo para adquirir un Tótem de la misma manera que lo hacen los Garou. Debido quizás a cierta similitud con los Ritos utilizados por los Hengeyokai, incluso los Corax y los Gurahl pueden participar en el Rito, abandonando el favor de Cuervo u Oso a cambio del apoyo del Tótem de la manada. Sin  embargo,  incluir  un  Nuwisha  sigue  garantizando que el Tótem atraído será un embaucador de algún tipo. En el increíble caso de que un Ananasi o un Nagah participen en el Rito, únicamente ganan la habilidad de participar en tácticas de manada y la consideración favorable del espíritu Tótem; la reina Ananasa no cederá a sus hijos a otro, mientras que los Nagah permanecen fuera del Pacto que facilita las relaciones entre el mundo espiritual y el resto de Fera.",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "totem",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "rank",
+    "type": "background",
+    "line": "werewolf",
+    "name_en": "Rango",
+    "name_es": "Rango",
+    "body_es": "Los  Hengeyokai  poseen  cinco  niveles  de  Rango, igual  que  los  cambiaformas  occidentales.  Nombran  a sus Rangos usando nombres de materiales significativos: madera, hierro, acero, oro y plata, en ese orden. Todos los Hengeyokai usan estos títulos, sin importar su Raza. Cuando se presentan formalmente, combinan su Rango y Auspicio para crear un único título, autodenominándose como: Cortesano de Hierro, Hoja de Acero, etc.\n\nLa mayoría de Hengeyokai llevan insignias o algún otro distintivo para permitir a los espíritus y a otros cambiaformas identificar fácilmente su Rango. Normalmente combinan este símbolo con la insignia o el color de su corte. Un Tengu de Rango Acero de la corte de las Plumas Ligeras podría llevar una pluma de acero o llevar ropas con bordados de plumas de azul oscuro. Las Cortes de las Bestias normalmente representan el Rango Plata con el color blanco, ya que la mayoría de las Razas Cambiantes tienen problemas con dicho metal. De la misma forma, aquellas Razas que son vulnerables al oro usan insignias amarillas en vez de medallones de oro.\n\nLos Hengeyokai se refieren a cualquiera de entre sus filas que aún no haya pasado su Rito de Iniciación como",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "rango",
         "variant": "base"
       }
     ],
