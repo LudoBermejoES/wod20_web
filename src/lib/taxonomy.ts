@@ -36,6 +36,8 @@ export const TYPE_INFO: Record<string, TypeInfo> = {
   clan: { label_es: 'Clan', mechanical_fields: [] },
   'revenant-family': { label_es: 'Familia Revenant', mechanical_fields: [] },
   'changing-breed': { label_es: 'Raza Cambiante', mechanical_fields: [] },
+  bane: { label_es: 'Perdición', mechanical_fields: ['rage', 'gnosis', 'willpower', 'essence', 'charms'] },
+  fomor: { label_es: 'Fomor', mechanical_fields: ['willpower', 'powers'] },
 };
 
 export function typeLabelEs(type: string): string {
@@ -109,6 +111,12 @@ const MECHANIC_LABELS: Record<string, string> = {
   procedure: 'Procedimiento',
   associated_abilities: 'Habilidades asociadas',
   flavor: 'Matiz',
+  rage: 'Rabia',
+  gnosis: 'Gnosis',
+  willpower: 'Fuerza de Voluntad',
+  essence: 'Esencia',
+  charms: 'Encantamientos',
+  powers: 'Poderes',
 };
 
 export function mechanicLabelEs(key: string): string {
