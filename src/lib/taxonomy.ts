@@ -28,6 +28,8 @@ export const TYPE_INFO: Record<string, TypeInfo> = {
   practice: { label_es: 'Práctica', mechanical_fields: ['associated_abilities'] },
   instrument: { label_es: 'Instrumento', mechanical_fields: [] },
   resonance: { label_es: 'Resonancia', mechanical_fields: ['flavor'] },
+  'arcanos-power': { label_es: 'Poder de Arcanos', mechanical_fields: ['level', 'arcanos'] },
+  artifact: { label_es: 'Artefacto', mechanical_fields: ['level'] },
 };
 
 export function typeLabelEs(type: string): string {
