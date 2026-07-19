@@ -1,0 +1,2304 @@
+[
+  {
+    "id": "bendicion-thallain",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "bendiCión thallain",
+    "name_es": "bendiCión thallain",
+    "body_es": "Tu trato con la Corte Sombría y la exposición a los lados más tenebrosos de las leyendas de los Kithain te permiten acceder a las pesadillas generalmente asociadas con tu Linaje. Puedes reemplazar uno de tus Privilegios actuales por una de las Dotes correspondientes a los primos Thallain de tu Linaje (los Boggans pueden tomarlo prestado de los Boggarts, los Eshu de los Aithu, etc.). Para beneficiarte de este Mérito debes estar aliado con la Corte Oscura; si el changeling se alía con la Luminosa, vuelve a sus Privilegios originales y este Mérito se reembolsa, incluso si luego regresa a la Corte Oscura.",
+    "tags": [
+      "sobrenatural"
+    ],
+    "mechanics": {
+      "cost": "2",
+      "category": "sobrenatural"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "bendicion-thallain",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "maldicion-thallain",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "maldiCión thallain",
+    "name_es": "maldiCión thallain",
+    "body_es": "Tratar  con  tus  primos  siniestros  tiene  sus  desventajas. Pasar demasiado tiempo con las pesadillas significa que tu personalidad comienza a concordar con la de ellos. Los changelings que tengan este Defecto tienen tanto la Flaqueza de su Linaje como la Vulnerabilidad Thallain. Aunque en un principio sólo los changelings Oscuros pueden adquirir este Defecto, éste persiste aunque cambie de Corte.",
+    "tags": [
+      "sobrenatural"
+    ],
+    "mechanics": {
+      "bonus": "3",
+      "category": "sobrenatural"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "maldicion-thallain",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "mascara-ingeniosa",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Máscara Ingeniosa",
+    "name_es": "Máscara Ingeniosa",
+    "body_es": "Normalmente, las Nieblas impiden que un Licio interactúe  con  el  Mundo  de  Otoño  en  presencia  de  una  alta Banalidad (8+). Tu Máscara es tal que tus acciones pueden ser racionalizadas  fácilmente  incluso  por  las  personas  más  banales. Puedes continuar actuando de forma normal, incluso con testigos con alta Banalidad. Sin embargo, las acciones emprendidas ante un testigo no Encantado que serían claramente imposibles de llevar a cabo para tu Máscara siguen provocando desencadenantes de Banalidad.\n\n<!-- image -->\n\n<!-- image -->",
+    "tags": [],
+    "mechanics": {
+      "cost": "5"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "mascara-ingeniosa",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "atrapado-en-un-lugar",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Atrapado en un Lugar",
+    "name_es": "Atrapado en un Lugar",
+    "body_es": "Para algunas Máscaras es más fácil desplazarse que para otras. Para ciertas Máscaras, como un roble, una casa o un parque municipal, moverse es imposible. Estos Licios están atascados donde despiertan y no pueden hacer mucho más que observar su entorno o interactuar con cosas que se encuentran en sus proximidades. Tienes la mala fortuna de poseer una de esas  Máscaras.  Los  Licios  desarrollaron  Dos  Lugares  al  Tiempo para sortear esta limitación, pero hasta que la aprendas no puedes alejarte de tu lugar de nacimiento.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "atrapado-en-un-lugar",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "codigo-de-honor-merito-de-1-punto-codigo-de-honor",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Código de Honor: (Mérito de 1 punto) Código de Honor",
+    "name_es": "Código de Honor: (Mérito de 1 punto) Código de Honor",
+    "body_es": "Tienes un código ético personal al que te adhieres estrictamente.  Puedes  resistir  automáticamente  muchas de las tentaciones que te harían entrar en conflicto con tu código. Cuando luchas contra la persuasión sobrenatural (magia de Mente, Dominación vampírica o Embustes) que haría que violaras tu código ganas tres dados extra para resistir o bien la dificultad de tu oponente aumenta en dos (a elección del Narrador). Debes crear tu propio código personal con tanto detalle como puedas, diseñando las normas de conducta generales por las que te riges.",
+    "tags": [],
+    "mechanics": {
+      "cost": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "codigo-de-honor-merito-de-1-punto-codigo-de-honor",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "compulsion-defecto-de-1-punto-compulsion",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Compulsión: (Defecto de 1 punto) Compulsión",
+    "name_es": "Compulsión: (Defecto de 1 punto) Compulsión",
+    "body_es": "Tienes  una  compulsión  psicológica  de  algún  tipo, que te causa una cantidad de problemas diferentes. Tu compulsión puede ser por la limpieza, la perfección, las peleas, el robo, el juego, la exageración o simplemente el hablar. Una compulsión puede evitarse temporalmente gastando un punto de Fuerza de Voluntad, pero está en efecto el resto del tiempo.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "compulsion-defecto-de-1-punto-compulsion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "dificultad-del-habla-dificultad-del-habla-defecto-de-1-punto",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Dificultad del Habla: Dificultad del Habla: (Defecto de 1 punto)",
+    "name_es": "Dificultad del Habla: Dificultad del Habla: (Defecto de 1 punto)",
+    "body_es": "Tartamudeas o tienes algún otro impedimento que te dificulta la comunicación verbal. Las dificultades de todas las tiradas relevantes se aumentan en dos. No te sientas obligado a interpretar este Defecto todo el tiempo, pero en momentos de tensión, o cuando tratas con extraños, deberías intentar simularlo. Los sluagh no pueden coger este Defecto dada su Flaqueza.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "dificultad-del-habla-dificultad-del-habla-defecto-de-1-punto",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "exceso-de-confianza-exceso-de-confianza-defecto-de-1-punto",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Exceso de Confianza: Exceso de Confianza: (Defecto de 1 punto)",
+    "name_es": "Exceso de Confianza: Exceso de Confianza: (Defecto de 1 punto)",
+    "body_es": "Tienes una opinión exagerada e inamovible de tu propia valía y capacidades. Nunca pones en duda tus habilidades, incluso en situaciones en las que te arriesgas al fracaso. Debido a que tus habilidades pueden no ser suficientes, tal exceso de confianza puede ser muy peligroso. Cuando fallas, rápidamente encuentras a alguien o algo a quien culpar. Si estás lo suficientemente convencido, puedes infectar a otros con tu exceso de confianza.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "exceso-de-confianza-exceso-de-confianza-defecto-de-1-punto",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "fin-superior-merito-de-1-punto-fin-superior",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Fin Superior: (Mérito de 1 punto) Fin Superior",
+    "name_es": "Fin Superior: (Mérito de 1 punto) Fin Superior",
+    "body_es": "Todas las hadas tienen alguna idea sobre su senda, pero tu tienes una dedicación especial. Tu objetivo escogido te conduce y te guía en todo. No te preocupas de pequeños asuntos y problemas casuales, porque tu fin superior lo es todo. Aunque a veces te puedes ver empujado por este propósito y verte forzado a actuar de forma contraria a las necesidades de supervivencia personal, también puede proporcionarte una gran fuerza personal. Ganas dos dados extra en cualquier tirada que tenga algo que ver con este fin superior. Decide cual es tu fin superior, y asegúrate de hablarlo con el Narrador. No puedes coger este Mérito si tienes el Defecto Objetivo Dominante .",
+    "tags": [],
+    "mechanics": {
+      "cost": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "fin-superior-merito-de-1-punto-fin-superior",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "fobia-leve-defecto-de-1-punto-fobia-leve",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Fobia (Leve): (Defecto de 1 punto) Fobia (Leve)",
+    "name_es": "Fobia (Leve): (Defecto de 1 punto) Fobia (Leve)",
+    "body_es": "Tienes un miedo sobrecogedor a algo. Instintiva e ilógicamente te apartas y evitas al objeto de tu miedo. Objetos comunes de fobias incluyen a ciertos animales, insectos, multitudes, espacios abiertos, espacios cerrados y las alturas. Cada vez que encuentras el objeto de tu miedo debes hacer una tirada de Fuerza de Voluntad. La dificultad de la tirada la determina el Narrador. Si fallas, debes alejarte del objeto.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "fobia-leve-defecto-de-1-punto-fobia-leve",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "intolerancia-defecto-de-1-punto-intolerancia",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Intolerancia: (Defecto de 1 punto) Intolerancia",
+    "name_es": "Intolerancia: (Defecto de 1 punto) Intolerancia",
+    "body_es": "Sientes un desagrado irracional hacia una cosa. Puede ser un animal, clase de persona, color, situación o casi cualquier cosa. Las dificultades de todas las tiradas que implican al sujeto de tu intolerancia se ven aumentadas en dos. Ten en cuenta que algunos desagrados pueden ser demasiado triviales como para verse reflejados en este Defecto - una intolerancia por los fontaneros lituanos zurdos o el papel higiénico, por ejemplo, tendría escasos efectos en la mayoría de las crónicas. El Narrador es el árbitro final sobre lo que puedes escoger.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "intolerancia-defecto-de-1-punto-intolerancia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "pesadillas-defecto-de-1-punto-pesadillas",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Pesadillas: (Defecto de 1 punto) Pesadillas",
+    "name_es": "Pesadillas: (Defecto de 1 punto) Pesadillas",
+    "body_es": "Experimentas pesadillas horribles cada vez que duermes, y los recuerdos de las mismas te asaltan durante las horas de vigilia. A veces las pesadillas son tan malas que te provocan el perder un dado en todas las acciones del día siguiente (a discreción del Narrador). Algunas de las pesadillas pueden ser tan intensas que las confundas con la realidad. Un Narrador aplicado se aprovechará rápidamente de esto.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "pesadillas-defecto-de-1-punto-pesadillas",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "secreto-siniestro-secreto-siniestro-defecto-de-1-punto",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Secreto Siniestro: Secreto Siniestro: (Defecto de 1 punto)",
+    "name_es": "Secreto Siniestro: Secreto Siniestro: (Defecto de 1 punto)",
+    "body_es": "Tienes algún tipo de secreto que, si se descubriera, te causaría un enorme embarazo y te convertiría en un paria entre los tuyos. Esto puede ser cualquier cosa desde haber matado a un noble hasta ser en secreto un miembro de la Corte Sombría. Aunque este secreto pesa sobre ti en todo momento, sólo saldrá a la superficie en historias ocasionales. De otro modo, empezaría a perder su impacto.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "secreto-siniestro-secreto-siniestro-defecto-de-1-punto",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "timidez-defecto-de-1-punto-timidez",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Timidez: (Defecto de 1 punto) Timidez",
+    "name_es": "Timidez: (Defecto de 1 punto) Timidez",
+    "body_es": "Te sientes realmente enfermo cuando tratas con la gente e intentas evitar las situaciones sociales siempre que puedes. Suma 1 a la dificultad de todas las tiradas que tengan que ver con las relaciones sociales, y 2 a la de cualquier tirada hecha mientras eres el centro de atención se aumentan en dos. No esperes que tu personaje pronuncie un discurso en público.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "timidez-defecto-de-1-punto-timidez",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "curiosidad-defecto-de-2-puntos-curiosidad",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Curiosidad: (Defecto de 2 puntos) Curiosidad",
+    "name_es": "Curiosidad: (Defecto de 2 puntos) Curiosidad",
+    "body_es": "Eres una persona curiosa por naturaleza, y encuentras irresistibles los misterios de todo tipo. En la mayoría de circunstancias, tu curiosidad fácilmente se impone a tu sentido común. Para resistir la tentación, haz una tirada de Astucia (dificultad 5) para cosas sencillas tales como, 'Me pregunto qué habrá en ese armario'. Aumenta la dificultad hasta 9 para cosas tales como 'Me pregunto qué serán esos extraños sonidos que provienen del feudo del duque. Me acercaré y miraré... nadie lo sabrá nunca. ¿Qué podría salir mal?'",
+    "tags": [],
+    "mechanics": {
+      "bonus": "2"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "curiosidad-defecto-de-2-puntos-curiosidad",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "mente-caotica-mente-caotica-defecto-de-2-puntos",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Mente Caótica: Mente Caótica: (Defecto de 2 puntos)",
+    "name_es": "Mente Caótica: Mente Caótica: (Defecto de 2 puntos)",
+    "body_es": "Tu mente es extremadamente caótica e impredecible. Como resultado tienes dificultad para concentrarte en cualquier tarea. Debes hacer una tirada de Fuerza de Voluntad (dificultad 4) para cada acción consecutiva que tires tras la segunda.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "2"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "mente-caotica-mente-caotica-defecto-de-2-puntos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "obsesion-defecto-de-2-puntos-obsesion",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Obsesión: (Defecto de 2 puntos) Obsesión",
+    "name_es": "Obsesión: (Defecto de 2 puntos) Obsesión",
+    "body_es": "Hay algo que te gusta, amas o por lo que estás fascinado hasta el punto de que a menudo dejas de lado el sentido común para estar a su lado. Reaccionas positivamente a cualquier cosa relacionada con tu obsesión, incluso aunque no sea bueno para ti. Por ejemplo, si estás obsesionado con las criaturas sobrenaturales, te apartarás de tu camino para hablar y hacerte amigo de vampiros, hombres lobo y extrañas criaturas, y aprender todo lo que puedas sobre ellos, desdeñando las advertencias. Si estás obsesionado con Elvis, tendrás tu casa decorada con pinturas de terciopelo negro y molestarás a tus amigos  con  tu  parloteo  constante  sobre  el  Rey.  No  crees necesariamente que Elvis siga vivo, pero compras todas las revistas que lleven un artículo sobre él. Hay muchas otras obsesiones, incluidas la realeza británica, las armas, el fútbol, los juegos de rol... ya sabes.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "2"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "obsesion-defecto-de-2-puntos-obsesion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "sadismo-masoquismo-sadismo-masoquismo-defecto-de-2-puntos",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Sadismo/Masoquismo: Sadismo/Masoquismo: (Defecto de 2 puntos)",
+    "name_es": "Sadismo/Masoquismo: Sadismo/Masoquismo: (Defecto de 2 puntos)",
+    "body_es": "Te excita el causar o el sufrir dolor. En muchas situaciones intentarás herir o resultar herido por placer. Para un masoquista (alguien que disfruta del dolor), tu tirada para absorber daño físico se aumenta en uno dado que en realidad quieres sentir el dolor. Un sádico (alguien a quien le gusta herir a los demás) debe hacer una tirada de Fuerza de Voluntad (dificultad 5) para detener el combate (modificada dependiendo de cómo vaya el combate y  cuánto  estés  disfrutando  hiriendo  a  otros).  Si  fallas, estás tan inmerso en el suceso que no te das cuenta de nada de lo que sucede a tu alrededor.\n\n<!-- image -->",
+    "tags": [],
+    "mechanics": {
+      "bonus": "2"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "sadismo-masoquismo-sadismo-masoquismo-defecto-de-2-puntos",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "review": {
+      "reason": "dual/compound name — may be two entities",
+      "conflicts": []
+    }
+  },
+  {
+    "id": "venganza-defecto-de-2-puntos-venganza",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Venganza: (Defecto de 2 puntos) Venganza",
+    "name_es": "Venganza: (Defecto de 2 puntos) Venganza",
+    "body_es": "Tienes un asunto que resolver - un feudo robado, un amigo corrompido, un padre asesinado... Estás obsesionado con vengarte del culpable. La venganza es tu absoluta prioridad en todas las situaciones. La necesidad de venganza sólo puede superarse gastando puntos de Fuerza de Voluntad, e incluso entonces, sólo cede temporalmente. Algún día te cobrarás tu venganza, pero el Narrador no te lo va a poner fácil.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "2"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "venganza-defecto-de-2-puntos-venganza",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "fobia-grave-defecto-de-3-puntos-fobia-grave",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Fobia (Grave): (Defecto de 3 puntos) Fobia (Grave)",
+    "name_es": "Fobia (Grave): (Defecto de 3 puntos) Fobia (Grave)",
+    "body_es": "Tienes un miedo sobrecogedor de algo. Los objetos normales de miedo incluyen a ciertos animales, insectos, multitudes, espacios abiertos, espacios cerrados, las alturas y similares. Cuando te encuentras con el objeto de tu miedo debes hacer una tirada de Fuerza de Voluntad para no aterrorizarte. La dificultad depende de las circunstancias. Si fallas te alejarás aterrorizado. Si obtienes menos de tres éxitos, no te acercarás. El Narrador tiene la última palabra sobre las fobias permitidas en una crónica.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "fobia-grave-defecto-de-3-puntos-fobia-grave",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "objetivo-dominante-objetivo-dominante-defecto-de-3-puntos",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Objetivo Dominante: Objetivo Dominante: (Defecto de 3 puntos)",
+    "name_es": "Objetivo Dominante: Objetivo Dominante: (Defecto de 3 puntos)",
+    "body_es": "Tienes un objetivo personal que a veces te impulsa  y  dirige  de  forma  extraña.  El  objetivo  es  siempre ilimitado en profundidad y nunca podrás realmente alcanzarlo. Podría ser restaurar la igualdad para los plebeyos o volver a Arcadia. Como debes trabajar para conseguir tu objetivo durante la crónica (aunque puedes evitarlo durante cortos periodos de tiempo gastando Fuerza de Voluntad), puede meterte en problemas y obstaculizar otras acciones. Escoge tu objetivo dominante con cuidado, puesto que dirigirá y será el centro de todo lo que haga tu personaje.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "objetivo-dominante-objetivo-dominante-defecto-de-3-puntos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "odio-defecto-de-3-puntos-odio",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Odio: (Defecto de 3 puntos) Odio",
+    "name_es": "Odio: (Defecto de 3 puntos) Odio",
+    "body_es": "Tienes un odio irracional por una cosa concreta. Este odio es total y difícil de controlar. Puede que odies una especie de animal, una clase de persona, un color, una situación o cualquier otra cosa, y constantemente buscas oportunidades para dañar al objeto odiado o de obtener poder sobre él.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "odio-defecto-de-3-puntos-odio",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "salvavidas-defecto-de-3-puntos-salvavidas",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Salvavidas: (Defecto de 3 puntos) Salvavidas",
+    "name_es": "Salvavidas: (Defecto de 3 puntos) Salvavidas",
+    "body_es": "Crees que la vida humana es un don sagrado, y no tomarás la vida de una persona excepto en las circunstancias más extremas. Puede que ni siquiera estés dispuesto a poner en peligro las vidas de los inocentes o a participar en modo alguno en una muerte. No tienes problemas para matar animales (siempre con una buena razón, por supuesto), y matarás criaturas malignas e inhumanas para proteger a los demás si esto llega a ser necesario.  (Ten  cuidado, no obstante, con tu definición de 'maligno'...) La muerte sin sentido en todas sus formas te repugna, y crees que aquellos que cometen asesinato deberían ser castigados.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "salvavidas-defecto-de-3-puntos-salvavidas",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "visiones-del-pasado-visiones-del-pasado-defecto-de-3-puntos",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Visiones del pasado: Visiones del pasado: (Defecto de 3 puntos)",
+    "name_es": "Visiones del pasado: Visiones del pasado: (Defecto de 3 puntos)",
+    "body_es": "Sueles tener 'flashbacks', visiones del pasado, cuando estás en situaciones o circunstancias que son similares al evento que ocasionó la visión. Las visiones pueden ser causadas por casi cualquier trauma: tortura, combate prolongado, o experimentación con drogas repetida. Tanto la estimulación positiva como negativa podría dar como resultado una visión. La ansiedad emocional y el estrés son los catalizadores habituales para que se inicien. Volver  a  una  visión  feliz  puede  ser  igual  de  peligroso  o distractorio como verse rodeado de pronto de alucinaciones demoníacas. Durante la visión, no eres consciente de lo que sucede a tu alrededor. Hasta la gente que te habla será vista como gente u objetos de la visión. Puedes confundir a hombres por mujeres, gente por animales  e  incluso  objetos  inanimados  por  gente.  Para  ti,  la realidad ha cambiado y tu estás de vuelta de nuevo allí .",
+    "tags": [],
+    "mechanics": {
+      "bonus": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "visiones-del-pasado-visiones-del-pasado-defecto-de-3-puntos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "calculador-relampago-calculador-relampago-merito-de-1-punto",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Calculador Relámpago: Calculador Relámpago: (Mérito de 1 punto)",
+    "name_es": "Calculador Relámpago: Calculador Relámpago: (Mérito de 1 punto)",
+    "body_es": "Tienes una afinidad natural con los números y un talento para la aritmética, haciendo que sea algo natural para ti trabajar con ordenadores o apostar en las carreras. Resta 2 a la dificultad de todas las tiradas relacinadas. Otro uso posible, suponiendo que tengas números en los que basar tus conclusiones, es la capacidad de calcular la dificultad de ciertas tareas. En las situaciones adecuadas, puedes preguntar al Narrador la dificultad estimada de una tarea que estás a punto de intentar.",
+    "tags": [],
+    "mechanics": {
+      "cost": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "calculador-relampago-calculador-relampago-merito-de-1-punto",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "concentracion-merito-de-1-punto-concentracion",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Concentración: (Mérito de 1 punto) Concentración",
+    "name_es": "Concentración: (Mérito de 1 punto) Concentración",
+    "body_es": "Tienes la capacidad de concentrar tu mente y dejar fuera  todas  las  distracciones  y  molestias.  Cualquier penalizador a una dificultad o Reserva de Dados que surja de una distracción u otra circunstancia inadecuada se limita a dos dados, aunque no se ganan beneficios extra si la penalización es sólo de un dado.",
+    "tags": [],
+    "mechanics": {
+      "cost": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "concentracion-merito-de-1-punto-concentracion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "sentido-comun-merito-de-1-punto-sentido-comun",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Sentido Común: (Mérito de 1 punto) Sentido Común",
+    "name_es": "Sentido Común: (Mérito de 1 punto) Sentido Común",
+    "body_es": "Tienes una cantidad considerable de sabiduría práctica cotidiana. Cada vez que estás a punto de hacer algo contrario  al  sentido  común,  el  Narrador  te  alertará  de hasta qué punto tu acción podría no ser práctica. Este es un Mérito ideal si eres un jugador novato, puesto que te permite  recibir  consejo  del  Narrador  relativo  a  lo  que puedes y no puedes hacer, y (más importante) lo que deberías o no hacer.",
+    "tags": [],
+    "mechanics": {
+      "cost": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "sentido-comun-merito-de-1-punto-sentido-comun",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "memoria-eidetica-memoria-eidetica-merito-de-2-puntos",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Memoria Eidética: Memoria Eidética: (Mérito de 2 puntos)",
+    "name_es": "Memoria Eidética: Memoria Eidética: (Mérito de 2 puntos)",
+    "body_es": "Puedes recordar las cosas que ves y oyes con todo detalle. Consiguiendo al menos un éxito en una tirada de Inteligencia + Alerta, puedes recordar cualquier sonido o visión con precisión, incluso si lo oíste o viste sólo una vez  (aunque  la  dificultad  será  mayor).  Cinco  éxitos  te permiten recordar un evento perfectamente: el Narrador te relatará exactamente lo que viste u oíste.",
+    "tags": [],
+    "mechanics": {
+      "cost": "2"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "memoria-eidetica-memoria-eidetica-merito-de-2-puntos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "voluntad-de-hierro-voluntad-de-hierro-merito-de-2-puntos",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Voluntad de Hierro: Voluntad de Hierro: (Mérito de 2 puntos)",
+    "name_es": "Voluntad de Hierro: Voluntad de Hierro: (Mérito de 2 puntos)",
+    "body_es": "Cuando estás decidido y concentrado, nada puede apartarte de tu objetivo. No puedes ser Dominado, y los wraiths, magos y demás changelings que usen ataques mentales contra ti ganan un +3 adicional a la dificultad si eres consciente de ellos y quieres resistirlos. Sin embargo, la defensa mental adicional te cuesta un punto de Fuerza de Voluntad por turno. Incluso si no eres consciente  del  intento,  cualquiera  que  intente  influirte mágicamente tiene un +1 a la dificultad.",
+    "tags": [],
+    "mechanics": {
+      "cost": "2"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "voluntad-de-hierro-voluntad-de-hierro-merito-de-2-puntos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "autoconfianza-merito-de-5-puntos-autoconfianza",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Autoconfianza: (Mérito de 5 puntos) Autoconfianza",
+    "name_es": "Autoconfianza: (Mérito de 5 puntos) Autoconfianza",
+    "body_es": "Cuando gastas un punto de Fuerza de Voluntad para obtener un éxito automático, tu autoconfianza te permite ganar el beneficio de dicho gasto sin perder el punto. Cuando declaras que estás usando un punto de Fuerza de Voluntad y tiras, no pierdes el punto a menos que falles. Esto también te impide pifiar, pero sólo si declaras que estás gastando el punto de Fuerza de Voluntad antes de tirar. Este Mérito sólo puede usarse cuando necesitas confiar en tus capacidades para tener éxito. Puedes usarlo sólo cuando la dificultad de tu tirada es de 6 ó superior. Puedes gastar Fuerza de Voluntad en otros momentos;  sin  embargo,  si  la  dificultad  es  de  5  ó  menos,  el Mérito no te ayudará.",
+    "tags": [],
+    "mechanics": {
+      "cost": "5"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "autoconfianza-merito-de-5-puntos-autoconfianza",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "amnesia-defecto-de-2-puntos-amnesia",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Amnesia: (Defecto de 2 puntos) Amnesia",
+    "name_es": "Amnesia: (Defecto de 2 puntos) Amnesia",
+    "body_es": "Eres incapaz de recordar nada sobre tu pasado, sobre ti  o  tu  familia.  Tu  vida  es  un  libro  en  blanco.  Sin embargo, tu pasado volverá algún día para perseguirte, y el Narrador no tiene la obligación de ser piadoso. (Puedes, si quieres, coger hasta cinco puntos en otros Defectos sin especificar lo que son. El Narrador aportará los detalles. En el transcurso de la crónica, tú y tu personaje los descubriréis lentamente).",
+    "tags": [],
+    "mechanics": {
+      "bonus": "2"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "amnesia-defecto-de-2-puntos-amnesia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "confuso-defecto-de-2-puntos-confuso",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Confuso: (Defecto de 2 puntos) Confuso",
+    "name_es": "Confuso: (Defecto de 2 puntos) Confuso",
+    "body_es": "A menudo estás confuso, y el mundo te parece un lugar muy distorsionado y retorcido. A veces simplemente eres incapaz de encontrarles sentido a las cosas. Necesitas interpretar esta actitud todo el tiempo al menos en parte,  pero  tu  confusión  se  hace  especialmente  fuerte cuando estás rodeado de estímulos fuertes (como cuando un montón de gente habla a la vez, o entras en una discoteca con la música muy alta). Puedes gastar Fuerza de Voluntad para sobreponerte a los efectos de tu confusión, pero sólo temporalmente.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "2"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "confuso-defecto-de-2-puntos-confuso",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "olvidadizo-defecto-de-3-puntos-olvidadizo",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Olvidadizo: (Defecto de 3 puntos) Olvidadizo",
+    "name_es": "Olvidadizo: (Defecto de 3 puntos) Olvidadizo",
+    "body_es": "Aunque no olvidas cosas tales como Conocimientos o Técnicas, sí olvidas nombres, direcciones y la última vez que ganaste Glamour. Para recordar cualquier otra cosa aparte de  tu propio nombre y la localización de tu feudo, necesitas hacer una tirada de Astucia, o como último recurso, gastar un punto de Fuerza de Voluntad. Este Defecto no puede cogerse con el Mérito Concentración .",
+    "tags": [],
+    "mechanics": {
+      "bonus": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "olvidadizo-defecto-de-3-puntos-olvidadizo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "sentidos-aguzados-sentidos-aguzados-merito-de-1-punto",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Sentidos Aguzados: Sentidos Aguzados: (Mérito de 1 punto)",
+    "name_es": "Sentidos Aguzados: Sentidos Aguzados: (Mérito de 1 punto)",
+    "body_es": "Tienes un sentido del gusto, tacto, oído, visión u olfato especialmente aguzado. Las dificultades de todas las tiradas relacionadas con este sentido en cuestión (p.ej.: Percepción + Consciencia para oír un sonido lejano, detectar  por  el  gusto  un  veneno  en  la  comida  o  ver  un ataque inminente) se reducen en dos.",
+    "tags": [],
+    "mechanics": {
+      "cost": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "sentidos-aguzados-sentidos-aguzados-merito-de-1-punto",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "ceguera-al-color-defecto-de-1-punto-ceguera-al-color",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Ceguera al Color: (Defecto de 1 punto) Ceguera al Color",
+    "name_es": "Ceguera al Color: (Defecto de 1 punto) Ceguera al Color",
+    "body_es": "Sólo ves en blanco y negro. El color no significa nada para ti, aunque eres sensible a su densidad, que percibes como sombras de gris. Nota: la ceguera al color indica realmente la incapacidad para distinguir entre dos colores, pero la reducimos un poco en beneficio de la jugabilidad.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "ceguera-al-color-defecto-de-1-punto-ceguera-al-color",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "defecto-visual-defecto-de-2-puntos-defecto-visual",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Defecto Visual: (Defecto de 2 puntos) Defecto Visual",
+    "name_es": "Defecto Visual: (Defecto de 2 puntos) Defecto Visual",
+    "body_es": "Tu visión es defectuosa. Las dificultades a todas las tiradas  referidas  a  la  visión  se  aumentan  en  dos.  Este Defecto no es ni miopía ni hipermetropía y es corregible.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "2"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "defecto-visual-defecto-de-2-puntos-defecto-visual",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "duro-de-oido-defecto-de-1-punto-duro-de-oido",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Duro de Oído: (Defecto de 1 punto) Duro de Oído",
+    "name_es": "Duro de Oído: (Defecto de 1 punto) Duro de Oído",
+    "body_es": "Tu oído es defectuoso. Las dificultades de todas las tiradas relacionadas con el oído se aumentan en dos. No puedes coger el Mérito Oído Agudo con este Defecto.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "duro-de-oido-defecto-de-1-punto-duro-de-oido",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "sordo-defecto-de-4-puntos-sordo",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Sordo: (Defecto de 4 puntos) Sordo",
+    "name_es": "Sordo: (Defecto de 4 puntos) Sordo",
+    "body_es": "No puedes oír sonido alguno, y fallas automáticamente cualquier tirada que requiera del oído.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "4"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "sordo-defecto-de-4-puntos-sordo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "ciego-defecto-de-6-puntos-ciego",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Ciego: (Defecto de 6 puntos) Ciego",
+    "name_es": "Ciego: (Defecto de 6 puntos) Ciego",
+    "body_es": "Fallas automáticamente todas las tiradas de dados que impliquen la visión. No puedes ver: el mundo de la luz y el color está perdido para ti.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "6"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "ciego-defecto-de-6-puntos-ciego",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "ambidiestro-merito-de-1-punto-ambidiestro",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Ambidiestro: (Mérito de 1 punto) Ambidiestro",
+    "name_es": "Ambidiestro: (Mérito de 1 punto) Ambidiestro",
+    "body_es": "Tienes una gran habilidad con tu mano zurda y puedes realizar tareas con tu mano 'torpe' sin ninguna penalización. La penalización normal por usar ambas manos a la vez para realizar tareas diferentes (p.ej.: disparar un arma con cada mano) es de +1 a la dificultad de la mano 'buena' y de +3 a la otra.",
+    "tags": [],
+    "mechanics": {
+      "cost": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "ambidiestro-merito-de-1-punto-ambidiestro",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "aptitud-informatica-aptitud-informatica-merito-de-1-punto",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Aptitud Informática: Aptitud Informática: (Mérito de 1 punto)",
+    "name_es": "Aptitud Informática: Aptitud Informática: (Mérito de 1 punto)",
+    "body_es": "Tienes una afinidad natural con los ordenadores, por lo que las dificultades para todas las tiradas de reparar, construir o utilizarlos se reducen en dos.",
+    "tags": [],
+    "mechanics": {
+      "cost": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "aptitud-informatica-aptitud-informatica-merito-de-1-punto",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "aptitud-mecanica-aptitud-mecanica-merito-de-1-punto",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Aptitud Mecánica: Aptitud Mecánica: (Mérito de 1 punto)",
+    "name_es": "Aptitud Mecánica: Aptitud Mecánica: (Mérito de 1 punto)",
+    "body_es": "Tienes una facilidad natural con todo tipo de objetos mecánicos (ten en cuenta que esto no se aplica a objetos electrónicos tales como ordenadores). Las dificultades de todas las tiradas para entender, reparar o utilizar cualquier tipo de objeto mecánico se reducen en dos. Sin embargo, este Mérito no te ayuda a conducir ningún tipo de vehículo. Este Mérito afecta la aptitud del personaje con los objetos mecánicos quiméricos igual que la mundana.",
+    "tags": [],
+    "mechanics": {
+      "cost": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "aptitud-mecanica-aptitud-mecanica-merito-de-1-punto",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "conductor-nato-merito-de-1-punto-conductor-nato",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Conductor Nato: (Mérito de 1 punto) Conductor Nato",
+    "name_es": "Conductor Nato: (Mérito de 1 punto) Conductor Nato",
+    "body_es": "Tienes  una  afinidad  natural  con  la  conducción  de vehículos motorizados tales como coches, remolques de 18 ruedas y hasta tractores. Las dificultades para todas las tiradas que requieran de maniobras arriesgadas o especialmente difíciles de conducir se reducen en dos.",
+    "tags": [],
+    "mechanics": {
+      "cost": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "conductor-nato-merito-de-1-punto-conductor-nato",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "magnetismo-animal-magnetismo-animal-merito-de-1-punto",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Magnetismo Animal: Magnetismo Animal: (Mérito de 1 punto)",
+    "name_es": "Magnetismo Animal: Magnetismo Animal: (Mérito de 1 punto)",
+    "body_es": "Eres especialmente atractivo para los demás. Recibes un -2  a  las  dificultades  de  tus  tiradas  de  Seducción  o Subterfugio. Sin embargo, esto puede molestar a los de tu mismo sexo.",
+    "tags": [],
+    "mechanics": {
+      "cost": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "magnetismo-animal-magnetismo-animal-merito-de-1-punto",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "resistencia-al-veneno-resistencia-al-veneno-merito-de-1-punto",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Resistencia al Veneno: Resistencia al Veneno: (Mérito de 1 punto)",
+    "name_es": "Resistencia al Veneno: Resistencia al Veneno: (Mérito de 1 punto)",
+    "body_es": "Te has vuelto, por alguna razón, resistente a los venenos. Podría ser que fueras de algún modo resistente, o que hayas pasado años trabajando en la resistencia contra todo tipo de venenos conocidos. En cualquier momento en que tengas que hacer una tirada de aguante contra los efectos de un veneno o toxina, reduce tu dificultad en tres.",
+    "tags": [],
+    "mechanics": {
+      "cost": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "resistencia-al-veneno-resistencia-al-veneno-merito-de-1-punto",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "linguista-natural-linguista-natural-merito-de-2-puntos",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Lingüista Natural: Lingüista Natural: (Mérito de 2 puntos)",
+    "name_es": "Lingüista Natural: Lingüista Natural: (Mérito de 2 puntos)",
+    "body_es": "Tienes un don para las lenguas. Este Mérito no te permite aprender más idiomas que el número de tu puntuación en Lingüística, pero puedes añadir tres dados a cualquier Reserva que implique lenguajes (tanto escritos como hablados).",
+    "tags": [],
+    "mechanics": {
+      "cost": "2"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "linguista-natural-linguista-natural-merito-de-2-puntos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "absorbente-merito-de-3-puntos-absorbente",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Absorbente: (Mérito de 3 puntos) Absorbente",
+    "name_es": "Absorbente: (Mérito de 3 puntos) Absorbente",
+    "body_es": "Aprendes muy rápido, y entiendes las cosas nuevas antes que la mayoría. Ganas un punto extra de experiencia al final de cada historia (no de cada partida).",
+    "tags": [],
+    "mechanics": {
+      "cost": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "absorbente-merito-de-3-puntos-absorbente",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "arrojado-merito-de-3-puntos-arrojado",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Arrojado: (Mérito de 3 puntos) Arrojado",
+    "name_es": "Arrojado: (Mérito de 3 puntos) Arrojado",
+    "body_es": "Eres bueno corriendo riesgos, y eres aún mejor sobreviviendo a ellos. Todas las dificultades están a -1 cuando intentas algo particularmente peligroso, y puedes ignorar un resultado de fracaso cuando sacas 'unos' en tales tiradas (puedes anular un 'uno' obtenido, como si tuvieras un éxito extra).",
+    "tags": [],
+    "mechanics": {
+      "cost": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "arrojado-merito-de-3-puntos-arrojado",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "equilibrio-perfecto-equilibrio-perfecto-merito-de-3-puntos",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Equilibrio Perfecto: Equilibrio Perfecto: (Mérito de 3 puntos)",
+    "name_es": "Equilibrio Perfecto: Equilibrio Perfecto: (Mérito de 3 puntos)",
+    "body_es": "Tu  sentido  del  equilibrio  ha  alcanzado  altas  cotas debido al constante entrenamiento o a la herencia. Es muy poco probable que te caigas nunca en toda tu vida. Puedes tropezar, pero siempre te incorporarás antes de perder pie o soltarte de tu asidero.\n\nEste Mérito funciona con acciones tales como andar por la cuerda floja, cruzar superficies heladas o escalar montañas.  Todas  las  dificultades  que  impliquen  tareas tales se reducen en tres. Costaría mucho tirar al suelo o derribar a un personaje con este Mérito.",
+    "tags": [],
+    "mechanics": {
+      "cost": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "equilibrio-perfecto-equilibrio-perfecto-merito-de-3-puntos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "polifacetico-merito-de-5-puntos-polifacetico",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Polifacético: (Mérito de 5 puntos) Polifacético",
+    "name_es": "Polifacético: (Mérito de 5 puntos) Polifacético",
+    "body_es": "Tienes una gran reserva de técnicas y conocimientos varios obtenida mediante largos viajes, los trabajos que has ejercido o simplemente porque sí. Automáticamente tienes un punto en todas las Reservas de Dados de Técnicas y Conocimientos. Este es un nivel ilusorio, usado sólo para simular un amplio espectro de habilidades. Si te entrenas o gastas experiencia en la Técnica o Conocimiento, debes pagar el punto por el primer nivel una 'segunda vez' antes de poder subirlo a dos puntos.",
+    "tags": [],
+    "mechanics": {
+      "cost": "5"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "polifacetico-merito-de-5-puntos-polifacetico",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "amor-verdadero-merito-de-1-punto-amor-verdadero",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Amor Verdadero: (Mérito de 1 punto) Amor Verdadero",
+    "name_es": "Amor Verdadero: (Mérito de 1 punto) Amor Verdadero",
+    "body_es": "Has descubierto, y puede que perdido (al menos temporalmente) a tu verdadero amor. Este amor te proporciona alegría en una existencia oscura que normalmente carece  de  tales  sentimientos  superiores.  Cada  vez  que sufres, estás en peligro, o eres rechazado, el pensar en tu amor verdadero basta para darte fuerzas para perseverar. En términos de juego, este amor te permite tener éxito automáticamente en cualquier tirada de Fuerza de Voluntad,  pero  sólo  cuando  estás  intentando  positivamente proteger  o  acercarte  a  tu  amor  verdadero.  Además,  el poder de tu amor puede ser suficiente para protegerte de otras fuerzas sobrenaturales (a discreción del Narrador). Sin embargo, tu amor verdadero también puede ser un inconveniente y necesitar ayuda (o incluso rescate) de tanto en tanto. Estás avisado: este mérito es ideal para jugarlo durante el curso de una crónica.",
+    "tags": [],
+    "mechanics": {
+      "cost": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "amor-verdadero-merito-de-1-punto-amor-verdadero",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "medium-merito-de-2-puntos-medium",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Médium: (Mérito de 2 puntos) Médium",
+    "name_es": "Médium: (Mérito de 2 puntos) Médium",
+    "body_es": "Posees la afinidad natural de sentir y oír a los espíritus, fantasmas y apariciones. Aunque no puedes verles, sientes  su  presencia  y  eres  capaz  de  hablar  con  ellos cuando están en las cercanías. Puedes incluso convocarlos (mediante súplicas y halagos) a tu presencia. Los espíritus no te ayudarán y darán consejo porque sí - siempre querrán algo a cambio.",
+    "tags": [],
+    "mechanics": {
+      "cost": "2"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "medium-merito-de-2-puntos-medium",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "sentido-del-peligro-sentido-del-peligro-merito-de-2-puntos",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Sentido del Peligro: Sentido del Peligro: (Mérito de 2 puntos)",
+    "name_es": "Sentido del Peligro: Sentido del Peligro: (Mérito de 2 puntos)",
+    "body_es": "Tienes un sexto sentido que te advierte del peligro. Cuando estás en peligro  el  Narrador  debe  hacer  una tirada secreta contra tu Percepción + Alerta; la dificultad depende de la cercanía del peligro. Si la  tirada  tiene éxito, el Narrador te dirá que tienes un presentimiento que te alerta. Múltiples éxitos pueden definir mejor el presentimiento y darte una indicación de la dirección, distancia o naturaleza.",
+    "tags": [],
+    "mechanics": {
+      "cost": "2"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "sentido-del-peligro-sentido-del-peligro-merito-de-2-puntos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "espiritu-mentor-merito-de-3-puntos-espiritu-mentor",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Espíritu Mentor: (Mérito de 3 puntos) Espíritu Mentor",
+    "name_es": "Espíritu Mentor: (Mérito de 3 puntos) Espíritu Mentor",
+    "body_es": "Tienes un compañero y guía fantasmal. Este espíritu es capaz de emplear una cantidad de poderes menores cuando realmente se toma la molestia (ver Embrujado , más abajo), pero la mayor parte del tiempo te ayuda con sus consejos. Este fantasma es el espíritu incorpóreo de alguien  que  estuvo  vivo  en  una  ocasión,  quizá  de  alguien particularmente famoso o sabio. El Narrador creará al personaje fantasma, pero no te revelará sus poderes y potencias  reales.  Los  mentores  de  este  tipo  no  son mentores de Artes, pero pueden aportar puntos de vista especiales sobre la vida mortal que los changeling han olvidado o equivocado. (Pueden obtenerse mayores ideas para este Mérito en Wraith: El Olvido ).",
+    "tags": [],
+    "mechanics": {
+      "cost": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "espiritu-mentor-merito-de-3-puntos-espiritu-mentor",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "companero-hombre-lobo-vampiro-companero-hombre-lobo-vampiro-merito-de-3-puntos",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Compañero Hombre Lobo/Vampiro: Compañero Hombre Lobo/Vampiro: (Mérito de 3 puntos)",
+    "name_es": "Compañero Hombre Lobo/Vampiro: Compañero Hombre Lobo/Vampiro: (Mérito de 3 puntos)",
+    "body_es": "Tienes un amigo y aliado que es un vampiro u hombre lobo. Aunque puedes recurrir a este ser en momentos de necesidad, él también tiene derecho a recurrir a ti (después de todo sois amigos). Ni tu gente ni la suya aprecian esta relación; aunque los wraiths tratan con otros seres sobrenaturales con bastante regularidad, ambos lados comparten una sana desconfianza mutua. Tu amigo no se convertirá en una 'batería de Glamour andante' para changelings avariciosos. Esas relaciones a menudo acaban mal... El Narrador creará al personaje en cuestión y no revelará sus poderes y potenciales totales.",
+    "tags": [],
+    "mechanics": {
+      "cost": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "companero-hombre-lobo-vampiro-companero-hombre-lobo-vampiro-merito-de-3-puntos",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "review": {
+      "reason": "dual/compound name — may be two entities",
+      "conflicts": []
+    }
+  },
+  {
+    "id": "corazon-de-poeta-merito-de-3-puntos-corazon-de-poeta",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Corazón de Poeta: (Mérito de 3 puntos) Corazón de Poeta",
+    "name_es": "Corazón de Poeta: (Mérito de 3 puntos) Corazón de Poeta",
+    "body_es": "Tienes un alma realmente inspirada. Estás destinado a ser un gran héroe o artista, y por ello el Glamour te escuda de los estragos de la Banalidad. A veces eres capaz incluso de escapar de la presa de la Banalidad. Puedes hacer una tirada de Fuerza de Voluntad (dificultad igual a la Banalidad permanente del personaje) para evitar ganar un punto de Banalidad temporal, una vez por historia.",
+    "tags": [],
+    "mechanics": {
+      "cost": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "corazon-de-poeta-merito-de-3-puntos-corazon-de-poeta",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "suerte-merito-de-3-puntos-suerte",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Suerte: (Mérito de 3 puntos) Suerte",
+    "name_es": "Suerte: (Mérito de 3 puntos) Suerte",
+    "body_es": "Naciste con suerte, tienes un ángel de la guarda o quizá el Diablo cuida de los suyos. En cualquier caso, puedes repetir tres tiradas fallidas por historia. Sólo puede hacerse un intento repetido por tirada.",
+    "tags": [],
+    "mechanics": {
+      "cost": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "suerte-merito-de-3-puntos-suerte",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "invinculable-merito-de-4-puntos-invinculable",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Invinculable: (Mérito de 4 puntos) Invinculable",
+    "name_es": "Invinculable: (Mérito de 4 puntos) Invinculable",
+    "body_es": "Eres completamente inmune al Vínculo de Sangre. No importa cuánta sangre vampírica bebas, nunca quedarás vinculado. Esto es extremadamente raro, y el Mérito debería ser considerado cuidadosamente por el Narrador antes de permitirlo.\n\n<!-- image -->",
+    "tags": [],
+    "mechanics": {
+      "cost": "4"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "invinculable-merito-de-4-puntos-invinculable",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "resistencia-al-hierro-merito-de-4-puntos-resistencia-al-hierro",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Resistencia al Hierro: (Mérito de 4 puntos) Resistencia al Hierro",
+    "name_es": "Resistencia al Hierro: (Mérito de 4 puntos) Resistencia al Hierro",
+    "body_es": "El hierro frío no tiene efectos físicos sobre ti. Puedes tocarlo sin sentir dolor, ni siquiera un cosquilleo. Sin embargo, la exposición constante al metal seguirá provocándote Banalidad. Esto es una espada de doble filo, pues puede que no te des cuenta de cuándo te estás sentando en un banco de hierro frío o apoyado contra una valla hecha de este metal. Se requiere una tirada de Percepción + Inteligencia (dificultad 7) para evitar exponerte al peligroso elemento en cualquier lugar en el que esté presente.",
+    "tags": [],
+    "mechanics": {
+      "cost": "4"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "resistencia-al-hierro-merito-de-4-puntos-resistencia-al-hierro",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "arte-afin-merito-de-5-puntos-arte-afin",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Arte Afín: (Mérito de 5 puntos) Arte Afín",
+    "name_es": "Arte Afín: (Mérito de 5 puntos) Arte Afín",
+    "body_es": "Eres capaz de utilizar una de las Artes con un mayor grado de facilidad que el resto. En una encarnación previa eras extremadamente hábil con una de las Artes tanto que te las has arreglado para arrastrar una pequeña porción de dicho conocimiento a tu vida actual.\n\nSelecciona un Arte; cuando gastes puntos de experiencia en dicho Arte, pagas tres cuartos del coste normal. Este Arte debe declararse durante la creación del personaje. Sólo puede comprarse una vez.",
+    "tags": [],
+    "mechanics": {
+      "cost": "5"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "arte-afin-merito-de-5-puntos-arte-afin",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "bendicion-del-aspecto-bendicion-del-aspecto-merito-de-5-puntos",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Bendición del Aspecto: Bendición del Aspecto: (Mérito de 5 puntos)",
+    "name_es": "Bendición del Aspecto: Bendición del Aspecto: (Mérito de 5 puntos)",
+    "body_es": "Todos tus Privilegios afectan a tu aspecto mortal al igual que a tu semblante feérico. Funcionan normalmente inclu- so en presencia de mortales. Un sidhe tendrá puntos extra en Apariencia, un sátiro mantendrá sus tiradas de resistencia y velocidad, los trolls tendrán su fuerza extra, etc.",
+    "tags": [],
+    "mechanics": {
+      "cost": "5"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "bendicion-del-aspecto-bendicion-del-aspecto-merito-de-5-puntos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "eternidad-feerica-merito-de-5-puntos-eternidad-feerica",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Eternidad Feérica: (Mérito de 5 puntos) Eternidad Feérica",
+    "name_es": "Eternidad Feérica: (Mérito de 5 puntos) Eternidad Feérica",
+    "body_es": "Después de pasar tu Crisálida, pasaste un cumpleaños, y luego otro y otro. Algo era extraño, sin embargo - no parecías crecer o envejecer. Estás tocado por un vestigio de la inmortalidad que era el privilegio de todas las hadas. Mientras tu semblante feérico está activo, envejeces a una décima parte que un humano normal o changeling. Si tu semblante feérico es destruido de forma permanente, empezarás a envejecer con normalidad.",
+    "tags": [],
+    "mechanics": {
+      "cost": "5"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "eternidad-feerica-merito-de-5-puntos-eternidad-feerica",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "angel-de-la-guarda-merito-de-6-puntos-angel-de-la-guarda",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Ángel de la Guarda: (Mérito de 6 puntos) Ángel de la Guarda",
+    "name_es": "Ángel de la Guarda: (Mérito de 6 puntos) Ángel de la Guarda",
+    "body_es": "Alguien o algo te vigila y protege del daño. No tienes idea de quién o qué es, pero tienes la sensación de que alguien cuida de ti. En tiempos de gran necesidad, puedes ser protegido sobrenaturalmente. Sin embargo, uno nunca puede contar con su ángel de la guarda. El Narrador debe decidir porqué estás siendo protegido y qué te está protegiendo (no necesariamente un ángel a pesar del nombre).",
+    "tags": [],
+    "mechanics": {
+      "cost": "6"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "angel-de-la-guarda-merito-de-6-puntos-angel-de-la-guarda",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "regeneracion-regeneracion-merito-de-7-puntos",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Regeneración: Regeneración: (Mérito de 7 puntos)",
+    "name_es": "Regeneración: Regeneración: (Mérito de 7 puntos)",
+    "body_es": "Tu naturaleza feérica es muy fuerte, y como resultado te curas mucho más rápido que el resto de la Estirpe.\n\nPor cada turno que pases descansando, recuperas un Nivel de Salud de daño quimérico. Las heridas físicas pueden regenerarse a un ritmo de un Nivel de Salud por hora. Cuando estás en un Feudo, tus heridas se curan al doble de esta velocidad. Las heridas infligidas por hierro frío no se ven afectadas por este Mérito.",
+    "tags": [],
+    "mechanics": {
+      "cost": "7"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "regeneracion-regeneracion-merito-de-7-puntos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "la-lengua-del-bardo-la-lengua-del-bardo-defecto-de-1-punto",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "La Lengua del Bardo: La Lengua del Bardo: (Defecto de 1 punto)",
+    "name_es": "La Lengua del Bardo: La Lengua del Bardo: (Defecto de 1 punto)",
+    "body_es": "Dices la verdad, aun sin quererlo. Las cosas que dices tienden a convertirse en realidad. No te permite bendecir o lanzar maldiciones, ni es un arte controlado por Fatalismo. Sin embargo, al menos una vez por historia, una verdad incómoda relacionada con alguna situación actual aparecerá en tu cabeza y llegará a tus labios. Para evitar decir la profecía, el propietario de este 'don' debe gastar un punto de Fuerza de Voluntad y sufrir un nivel de daño a causa del esfuerzo para resitirse (especialmente si se muerde la lengua para hacerlo).",
+    "tags": [],
+    "mechanics": {
+      "bonus": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "la-lengua-del-bardo-la-lengua-del-bardo-defecto-de-1-punto",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "ojos-de-hada-defecto-de-1-punto-ojos-de-hada",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Ojos de Hada: (Defecto de 1 punto) Ojos de Hada",
+    "name_es": "Ojos de Hada: (Defecto de 1 punto) Ojos de Hada",
+    "body_es": "Tus ojos son de un color llamativo, puede ser verde esmeralda, violeta o amarillo. Es una indicación de que eres un changeling, reconocible para aquellos que conocen las antiguas tradiciones.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "ojos-de-hada-defecto-de-1-punto-ojos-de-hada",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "cualidad-sobrenatural-cualidad-sobrenatural-defecto-de-2-puntos",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Cualidad Sobrenatural: Cualidad Sobrenatural: (Defecto de 2 puntos)",
+    "name_es": "Cualidad Sobrenatural: Cualidad Sobrenatural: (Defecto de 2 puntos)",
+    "body_es": "Aunque las Nieblas te protegen de la detección mortal, hay algo en ti que los mortales encuentran fascinante. En momentos más inadecuados, se fijarán en ti e iniciarán conversaciones con la esperanza de conocerte mejor. Peor aún, aquellos mortales de más baja calaña te escogerán entre otros posibles objetivos para sus actos ilícitos.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "2"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "cualidad-sobrenatural-cualidad-sobrenatural-defecto-de-2-puntos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "embrujado-defecto-de-3-puntos-embrujado",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Embrujado: (Defecto de 3 puntos) Embrujado",
+    "name_es": "Embrujado: (Defecto de 3 puntos) Embrujado",
+    "body_es": "Eres perseguido por un fantasma que sólo tú (y los médiums) puedes ver y oír. Siente un profundo desagrado por ti  y  disfruta  haciendo  tu  vida  miserable,  insultándote, riñéndote y distrayéndote, especialmente cuando debes mantenerte sereno. También tiene un número de poderes menores que puede usar contra ti (un uso de poder por historia): esconder objetos pequeños; producir escalofríos a otros, haciendo que se sientan fácilmente muy a disgusto contigo; causar un agudo zumbido en tu oído o en el de otros; mover un objeto pequeño como un cuchillo o bolígrafo; romper un objeto frágil como una botella o espejo; hacerte tropezar o haciendo ruidos misteriosos como cadenas arrastrándose. Gritarle al fantasma puede alejarlo a veces, pero confundirá a los que te rodean. El Narrador querrá personificar al fantasma para hacer que sea más frustrante para ti. (Se pueden obtener más ideas para este Defecto en Wraith: El Olvido )",
+    "tags": [],
+    "mechanics": {
+      "bonus": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "embrujado-defecto-de-3-puntos-embrujado",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "nieblas-despejadas-nieblas-despejadas-defecto-de-3-puntos",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Nieblas Despejadas: Nieblas Despejadas: (Defecto de 3 puntos)",
+    "name_es": "Nieblas Despejadas: Nieblas Despejadas: (Defecto de 3 puntos)",
+    "body_es": "Las Nieblas son el efecto de la Ruptura en el mundo mortal. Ocultan los poderes y encantamientos de la Estirpe, ocultando su presencia en sus zarcillos. Desgraciadamente, las Nieblas no esconden ni tu magia ni tus capacidades. Si un mortal percibe tus acciones, no olvidará los efectos de tus Artes o de otras capacidades feéricas. Como resultado, puedes revelar muy fácilmente tu auténtica naturaleza al mundo humano, provocando terribles consecuencias para el resto de la Estirpe.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "nieblas-despejadas-nieblas-despejadas-defecto-de-3-puntos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "iman-quimerico-iman-quimerico-defecto-de-5-puntos",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Imán Quimérico: Imán Quimérico: (Defecto de 5 puntos)",
+    "name_es": "Imán Quimérico: Imán Quimérico: (Defecto de 5 puntos)",
+    "body_es": "Por  alguna  razón,  las  quimeras  te  perciben  más  a menudo de lo que sería usual. En algunos casos esto es beneficioso, pero normalmente este Defecto te causa problema. Las bestias quiméricas furiosas tienden a volverse contra ti antes de atacar al resto. Las Nervosa te encuentran irresistible, y los sprites de todo tipo te rodean constantemente, a menudo haciéndote blanco de sus inofensivas pero molestas bromas.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "5"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "iman-quimerico-iman-quimerico-defecto-de-5-puntos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "maldicion-de-los-sidhe-maldicion-de-los-sidhe-defecto-de-5-puntos",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Maldición de los Sidhe: Maldición de los Sidhe: (Defecto de 5 puntos)",
+    "name_es": "Maldición de los Sidhe: Maldición de los Sidhe: (Defecto de 5 puntos)",
+    "body_es": "Los sidhe viven con un terror mortal por la Banalidad, debido al hecho de que se arraiga en sus almas con mucha más facilidad que en el resto de los Linajes. Desdichadamente, aunque no eres sidhe, estás sujeto también a esta flaqueza. Ganas dos puntos de Banalidad por cada uno otorgado por el Narrador. Los personajes sidhe no pueden coger este Defecto.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "5"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "maldicion-de-los-sidhe-maldicion-de-los-sidhe-defecto-de-5-puntos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "sino-aciago-defecto-de-5-puntos-sino-aciago",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Sino Aciago: (Defecto de 5 puntos) Sino Aciago",
+    "name_es": "Sino Aciago: (Defecto de 5 puntos) Sino Aciago",
+    "body_es": "Estás condenado a experimentar el más horrible final o, peor aún, sufrir una agonía eterna que hace que la existencia en las Tierras de las Sombras parezca un agradable paseo. No importa lo que hagas, algún día esto se cumplirá. Al final, todos tus esfuerzos, tus problemas y tus sueños se tornarán en nada. Tu destino es cierto, y no hay nada que puedas hacer para cambiarlo. Para hacerlo más terrible aún, tienes un conocimiento parcial de ello, pues ocasionalmente tienes visiones sobre tu destino... y son  más  que  inquietantes.  El  malestar  que  te  inspiran estas visiones sólo puedes superarlo gastando Fuerza de Voluntad,  y  volverá  después  de  cada  visión.  En  algún punto de la crónica, finalmente te enfrentarás a tu destino, pero cuándo y cómo queda a discreción del Narra- dor. Aunque no puedes hacer nada respecto a tu sino, sigues pudiendo intentar alcanzar algún objetivo antes de que suceda, o al menos asegurarte que tus amigos no sean destruidos también. Este es un Defecto difícil de interpretar; aunque puede parecer que anule el libre albedrío, nos hemos dado cuenta que, irónicamente, proporciona total libertad. Combinar este Defecto con el Trasfondo de Destino es muy apropiado: Elric y Vanyel son ejemplos literarios clásicos.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "5"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "sino-aciago-defecto-de-5-puntos-sino-aciago",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "vampiro-psiquico-vampiro-psiquico-defecto-de-5-puntos",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Vampiro Psíquico: Vampiro Psíquico: (Defecto de 5 puntos)",
+    "name_es": "Vampiro Psíquico: Vampiro Psíquico: (Defecto de 5 puntos)",
+    "body_es": "La  chispa  de  la  vida  está  muriendo  en  ti  y  debes alimentarse continuamente de fuerzas externas. Eres un vampiro psíquico. La vida de las plantas e insectos se marchita o muere en tu presencia conforme te alimentas de su energía, y cualquier persona a la que toques durante más de una hora sufrirá un Nivel de Salud no agravado mientras le absorbes la vida. Aquellos que ya estén heridos (incluidos aquellos que carecen de Nivel de Salud  Magullado)  no  se  curarán  en  tu  presencia.  Sigues pudiendo estar en el mismo edificio sin dañar a alguien, pero compartir la cama no es posible a menos que quieras que la otra persona muera lentamente. Si no alimentas el vacío de tu interior al menos una vez al día, empezarás a morir. La velocidad a la que sufres heridas sigue la progresión inversa al proceso natural de curación: un Nivel de Salud tras un día, un segundo después de tres días, el tercero en una semana, el cuarto en un mes, y finalmente, uno cada tres meses.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "5"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "vampiro-psiquico-vampiro-psiquico-defecto-de-5-puntos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "mentor-prestigioso-mentor-prestigioso-merito-de-1-punto",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Mentor Prestigioso: Mentor Prestigioso: (Mérito de 1 punto)",
+    "name_es": "Mentor Prestigioso: Mentor Prestigioso: (Mérito de 1 punto)",
+    "body_es": "Tu mentor tiene o tenía una gran posición entre la Estirpe, y esto te ha proporcionado un honor peculiar. La mayoría te trata con respeto como resultado, aunque algunos sólo sienten disgusto por ti, creyendo que simplemente te aprovechas del prestigio de tu mentor. Este prestigio puede ayudarte en gran medida cuando tratas con antiguos relacionados con tu mentor. Además, los contactos  de  tu  mentor  pueden  acercarte  a  ti  en  algunos momentos y ofrecerte ayuda. Aunque tu mentor puede no tener ya contacto contigo, el simple hecho de tu aprendizaje te ha marcado para siempre.",
+    "tags": [],
+    "mechanics": {
+      "cost": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "mentor-prestigioso-mentor-prestigioso-merito-de-1-punto",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "aprendizaje-erroneo-aprendizaje-erroneo-defecto-de-1-punto",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Aprendizaje Erróneo: Aprendizaje Erróneo: (Defecto de 1 punto)",
+    "name_es": "Aprendizaje Erróneo: Aprendizaje Erróneo: (Defecto de 1 punto)",
+    "body_es": "Tu mentor fue bastante malévolo y te lo enseñó todo mal sobre la sociedad de la Estirpe. Tus conceptos sobre la política changeling están equivocados, y tus creencias erróneas es más que posible que te causen gran cantidad de problemas. Con el tiempo, después de muchas duras lecciones, podrás superar este mal inicio (el Narrador te dirá cuando). Pero hasta entonces, continuarás creyendo lo que te enseñaron primero, no importa lo que intenten hacer los demás para 'engañarte'.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "aprendizaje-erroneo-aprendizaje-erroneo-defecto-de-1-punto",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "mentor-infame-defecto-de-1-punto-mentor-infame",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Mentor Infame: (Defecto de 1 punto) Mentor Infame",
+    "name_es": "Mentor Infame: (Defecto de 1 punto) Mentor Infame",
+    "body_es": "Tu mentor carece de la confianza, y estaba mal visto, y  quizá  aún  lo  es,  por  muchos  de  tus  compañeros changeling.  Como  resultado,  tu  también  careces  de  la confianza y eres mal visto. Esta es una pesada carga, de la que es difícil de desprenderse.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "mentor-infame-defecto-de-1-punto-mentor-infame",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "mentor-loco-defecto-de-1-punto-mentor-loco",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Mentor Loco: (Defecto de 1 punto) Mentor Loco",
+    "name_es": "Mentor Loco: (Defecto de 1 punto) Mentor Loco",
+    "body_es": "Tu mentor ha perdido todo contacto con la realidad, y se ha perdido en la Confusión o está peligrosamente loco. Cualquier error cometido por tu mentor puede afectar tu reputación, y algunos de las peligrosas maquinaciones de tu mentor pueden implicarte de algún modo.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "mentor-loco-defecto-de-1-punto-mentor-loco",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "mentor-resentido-mentor-resentido-defecto-de-1-punto",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Mentor Resentido: Mentor Resentido: (Defecto de 1 punto)",
+    "name_es": "Mentor Resentido: Mentor Resentido: (Defecto de 1 punto)",
+    "body_es": "Tu mentor te detesta y desea dañarte. Si tiene la menor oportunidad, buscará la forma de causarte daño, y puede incluso atacarte si se le provoca. Los amigos de tu mentor también irán contra ti. ¡Buena suerte!",
+    "tags": [],
+    "mechanics": {
+      "bonus": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "mentor-resentido-mentor-resentido-defecto-de-1-punto",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "mentor-diabolico-mentor-diabolico-defecto-de-2-puntos",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Mentor Diabólico: Mentor Diabólico: (Defecto de 2 puntos)",
+    "name_es": "Mentor Diabólico: Mentor Diabólico: (Defecto de 2 puntos)",
+    "body_es": "Tu mentor está inmerso en actos que pueden causar un tremendo escándalo. Podría estar ignorando actividades Oscuras malignas o peor. Montones de gentes van tras la piel de tu mentor, y tu puedes ser medido por su mismo rasero.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "2"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "mentor-diabolico-mentor-diabolico-defecto-de-2-puntos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "notoriedad-defecto-de-3-puntos-notoriedad",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Notoriedad: (Defecto de 3 puntos) Notoriedad",
+    "name_es": "Notoriedad: (Defecto de 3 puntos) Notoriedad",
+    "body_es": "Tienes una mala reputación entre tus iguales; quizá has violado el protocolo demasiado a menudo, o perteneces a un Feudo impopular. Tienes dos dados de penalización a todas las tiradas sociales con changelings asociados. Un personaje con este Defecto no puede coger el Mérito Reputación .",
+    "tags": [],
+    "mechanics": {
+      "bonus": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "notoriedad-defecto-de-3-puntos-notoriedad",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "club-nocturno-merito-de-2-puntos-club-nocturno",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Club Nocturno: (Mérito de 2 puntos) Club Nocturno",
+    "name_es": "Club Nocturno: (Mérito de 2 puntos) Club Nocturno",
+    "body_es": "Posees un club nocturno de moderado tamaño, quizá uno de los lugares más calientes de la ciudad. Este club te da el dinero suficiente para vivir con un lujo moderado (unos 1.000$ al mes, pero puede aumentar), pero aún más importante que el dinero es el prestigio. Puedes usar el club nocturno como tu feudo (aunque debes com- prar el Rasgo de Trasfondo para ello), o puedes sencillamente estar por allí. El nombre del club, su estilo, diseño y clientes habituales quedan a tu elección. Posibles variaciones podrían incluir un restaurante, teatro, sala de comedia, sala deportiva o gran almacén.",
+    "tags": [],
+    "mechanics": {
+      "cost": "2"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "club-nocturno-merito-de-2-puntos-club-nocturno",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "lazos-judiciales-merito-de-2-puntos-lazos-judiciales",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Lazos Judiciales: (Mérito de 2 puntos) Lazos Judiciales",
+    "name_es": "Lazos Judiciales: (Mérito de 2 puntos) Lazos Judiciales",
+    "body_es": "Tienes  influencia  y  contactos  en  el  sistema  judicial. Conoces a muchos jueces y fiscales del departamento y puedes afectar al progreso de diversos casos y juicios con dificultad limitada. Aunque es difícil intervenir en un caso, puedes influir en una dirección u otra. Estos lazos pueden hacer más fácil el conseguir órdenes de registro.",
+    "tags": [],
+    "mechanics": {
+      "cost": "2"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "lazos-judiciales-merito-de-2-puntos-lazos-judiciales",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "lazos-periodisticos-lazos-periodisticos-merito-de-2-puntos",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Lazos Periodísticos: Lazos Periodísticos: (Mérito de 2 puntos)",
+    "name_es": "Lazos Periodísticos: Lazos Periodísticos: (Mérito de 2 puntos)",
+    "body_es": "Tienes influencia y contactos en la prensa local. Puedes suprimir y crear nuevas historias (aunque no siempre con un 100% de eficacia; los periodistas son unos tipos rebeldes), y tienes acceso a los archivos y los rumores de los empleados de periódicos y televisión.",
+    "tags": [],
+    "mechanics": {
+      "cost": "2"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "lazos-periodisticos-lazos-periodisticos-merito-de-2-puntos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "lazos-artisticos-merito-de-3-puntos-lazos-artisticos",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Lazos Artísticos: (Mérito de 3 puntos) Lazos Artísticos",
+    "name_es": "Lazos Artísticos: (Mérito de 3 puntos) Lazos Artísticos",
+    "body_es": "Tienes un pequeño grado de fama e influencia en la escena artística local (música, teatro, danza, etc.). Posees o diriges un buen local, o tienes algún tipo de notoriedad entre tus iguales y los fans. Puedes ejercer esta influencia para conseguir información o comprar favores. Por cinco puntos esta fama puede ampliarse a toda la nación.",
+    "tags": [],
+    "mechanics": {
+      "cost": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "lazos-artisticos-merito-de-3-puntos-lazos-artisticos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "lazos-corporativos-lazos-corporativos-merito-de-3-puntos",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Lazos Corporativos: Lazos Corporativos: (Mérito de 3 puntos)",
+    "name_es": "Lazos Corporativos: Lazos Corporativos: (Mérito de 3 puntos)",
+    "body_es": "Tienes influencia y contactos en la comunidad corporativa local. Comprendes la dinámica del dinero de la ciudad y tienes vínculos con los mayores jugadores. En tiempos de necesidad, puedes provocar todo tipo de trastornos financieros, y conseguir considerables sumas de dinero (en forma de préstamos) en periodos de tiempo muy cortos.",
+    "tags": [],
+    "mechanics": {
+      "cost": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "lazos-corporativos-lazos-corporativos-merito-de-3-puntos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "lazos-eclesiasticos-lazos-eclesiasticos-merito-de-3-puntos",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Lazos Eclesiásticos: Lazos Eclesiásticos: (Mérito de 3 puntos)",
+    "name_es": "Lazos Eclesiásticos: Lazos Eclesiásticos: (Mérito de 3 puntos)",
+    "body_es": "Tienes influencia y contactos en iglesias locales y tienes los medios de crear marchas de protesta, ayudar a los necesitados o conseguir dinero. Cuanto más uses tus lazos, por supuesto, mayor es el riesgo de que te descubran.",
+    "tags": [],
+    "mechanics": {
+      "cost": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "lazos-eclesiasticos-lazos-eclesiasticos-merito-de-3-puntos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "lazos-policiales-merito-de-3-puntos-lazos-policiales",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Lazos Policiales: (Mérito de 3 puntos) Lazos Policiales",
+    "name_es": "Lazos Policiales: (Mérito de 3 puntos) Lazos Policiales",
+    "body_es": "Tienes influencia y contactos en el departamento local de policía. Puedes, con una simple llamada de teléfono,  hacer  que  pase  una  patrulla.  Sin  embargo,  cuanto más a menudo utilices tus lazos, más débiles se harán, y más atención atraerás sobre ti. Tu influencia no es sólida (esto sólo puede conseguirse durante el juego), y puede fallarte a veces.",
+    "tags": [],
+    "mechanics": {
+      "cost": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "lazos-policiales-merito-de-3-puntos-lazos-policiales",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "lazos-politicos-merito-de-3-puntos-lazos-politicos",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Lazos Políticos: (Mérito de 3 puntos) Lazos Políticos",
+    "name_es": "Lazos Políticos: (Mérito de 3 puntos) Lazos Políticos",
+    "body_es": "Tienes  influencia  y  contactos  entre  los  políticos  y burócratas de la ciudad. En tiempos de necesidad, puedes cortar el agua y la luz de un edificio o vecindario, y lanzar contra tus enemigos diversos tipos de molestias. Cuanto más uses tus lazos políticos más débiles son. El control total sólo puede conseguirse durante el juego.",
+    "tags": [],
+    "mechanics": {
+      "cost": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "lazos-politicos-merito-de-3-puntos-lazos-politicos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "lazos-subterraneos-lazos-subterraneos-merito-de-3-puntos",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Lazos Subterráneos: Lazos Subterráneos: (Mérito de 3 puntos)",
+    "name_es": "Lazos Subterráneos: Lazos Subterráneos: (Mérito de 3 puntos)",
+    "body_es": "Tienes influencia y contactos con la mafia local y las bandas callejeras. Esto te proporciona un acceso limitado a un gran número de 'soldados', así como extensos vínculos con el submundo del crimen. Cuanto más a menudo utilices tus lazos más débiles se vuelven.",
+    "tags": [],
+    "mechanics": {
+      "cost": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "lazos-subterraneos-lazos-subterraneos-merito-de-3-puntos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "mansion-merito-de-3-puntos-mansion",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Mansión: (Mérito de 3 puntos) Mansión",
+    "name_es": "Mansión: (Mérito de 3 puntos) Mansión",
+    "body_es": "Posees una gran mansión - una casa con 25 ó más habitaciones - así como la finca que la rodea. Los sirvientes, si los tienes, vienen con este Mérito, aunque no pueden usarse como Soñadores o Criados a menos que compres  los  Trasfondos  adecuados.  Se  supone  que  la mansión tiene el sistema de seguridad electrónico disponible  y  una  verja  entorno  al  perímetro,  pero  no  tiene acceso a un paso (ver el Trasfondo de Feudo para un lugar así). Aunque la mansión puede estar en tan buen o mal estado como desees, cuanto más deshabitada parezca más llamará la atención. Una casa con fantasmas no atraerá a Hacienda, pero puede atraer a la policía si hay por allí bandas de chicos raros.",
+    "tags": [],
+    "mechanics": {
+      "cost": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "mansion-merito-de-3-puntos-mansion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "consejero-delegado-consejero-delegado-merito-de-5-puntos",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Consejero Delegado: Consejero Delegado: (Mérito de 5 puntos)",
+    "name_es": "Consejero Delegado: Consejero Delegado: (Mérito de 5 puntos)",
+    "body_es": "Tienes una influencia particular y control sobre una corporación mayor y sus compañías asociadas, igual que si fueras el director ejecutivo. Además, puede que poseas esta compañía desde antes de tu Crisálida y hayas mantenido el control. A través de esta corporación sabes lo que sucede en la comunidad corporativa y tienes los medios de financiar una guerra económica. Este Mérito te proporciona algunos aliados y Recursos informales, la cantidad exacta de los cuales la determina el Narrador.",
+    "tags": [],
+    "mechanics": {
+      "cost": "5"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "consejero-delegado-consejero-delegado-merito-de-5-puntos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "protegido-defecto-de-3-puntos-protegido",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Protegido: (Defecto de 3 puntos) Protegido",
+    "name_es": "Protegido: (Defecto de 3 puntos) Protegido",
+    "body_es": "Estás dedicado a la protección de un mortal. Puedes describir a tu protegido, aunque será el Narrador quien lo cree. Este personaje puede ser un amigo o familiar de tu época anterior a la Crisálida, o simplemente un buen amigo.  Los  protegidos  tienen  un  talento  especial  para verse atrapados en la acción de las historias, y suelen ser los blancos de los enemigos del personaje.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "protegido-defecto-de-3-puntos-protegido",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "belleza-sobrenatural-belleza-sobrenatural-merito-de-1-punto",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Belleza Sobrenatural: Belleza Sobrenatural: (Mérito de 1 punto)",
+    "name_es": "Belleza Sobrenatural: Belleza Sobrenatural: (Mérito de 1 punto)",
+    "body_es": "Posees una belleza muy superior a la del común de los mortales. La gente se maravilla ante tus formas perfectas. Si eres un sidhe quizá tu semblante feérico brilla sobre tu aspecto mortal. Los personajes con este Mérito deben comprar primero una Apariencia al menos de 5, aunque se supone que su apariencia supera incluso eso.",
+    "tags": [],
+    "mechanics": {
+      "cost": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "belleza-sobrenatural-belleza-sobrenatural-merito-de-1-punto",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "elastico-merito-de-1-punto-elastico",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Elástico: (Mérito de 1 punto) Elástico",
+    "name_es": "Elástico: (Mérito de 1 punto) Elástico",
+    "body_es": "Eres inusualmente ágil. Resta 2 a la dificultad de cualquier tirada de Destreza que implique flexibilidad corporal. Escurrirte por un espacio diminuto es un ejemplo de los usos de este Mérito.",
+    "tags": [],
+    "mechanics": {
+      "cost": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "elastico-merito-de-1-punto-elastico",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "corpulento-merito-de-4-puntos-corpulento",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Corpulento: (Mérito de 4 puntos) Corpulento",
+    "name_es": "Corpulento: (Mérito de 4 puntos) Corpulento",
+    "body_es": "Tu aspecto mortal es anormalmente grande, posiblemente mides más de 2,10 metros y pesas más de 150 kg. Tienes un nivel adicional de Salud, y eres capaz de aguantar más daño antes de resultar incapacitado. Trátalo como un Nivel de Salud extra sin penalizadores a las tiradas. Los trolls pueden coger este Mérito dado que el Nivel de Salud ganado con Corpulento sólo afecta al aspecto mortal.  El  Nivel  de  Salud extra se añade a los que el troll consigue por su Privilegio para el daño quimérico o real, sin embargo, si el troll ha invocado la Fantasía.",
+    "tags": [],
+    "mechanics": {
+      "cost": "4"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "corpulento-merito-de-4-puntos-corpulento",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "asma-defecto-de-1-punto-asma",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Asma: (Defecto de 1 punto) Asma",
+    "name_es": "Asma: (Defecto de 1 punto) Asma",
+    "body_es": "Tienes  dificultad  realizando  tareas  agotadoras  porque no puedes respirar bien. Con asma, tus pulmones sólo reciben una fracción del aire que requieren. En cualquier momento en que te fuerces, debes hacer una tirada de Resistencia contra una dificultad de 6 o serás incapaz de realizar ninguna acción en el siguiente asalto, mientras recuperas el aliento.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "asma-defecto-de-1-punto-asma",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "bajo-defecto-de-1-punto-bajo",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Bajo: (Defecto de 1 punto) Bajo",
+    "name_es": "Bajo: (Defecto de 1 punto) Bajo",
+    "body_es": "Estás por debajo de la media de altura y tienes problemas para ver por encima de los objetos altos y para moverte con rapidez. Sufres dos dados de penalización en todas las tiradas de persecución, y tu y el Narrador debéis aseguraros que tu altura se tiene en cuenta en todas  las  situaciones.  En  algunas  circunstancias  puede darte bonificación para esconderte.\n\nSólo los infantiles trolls pueden coger este Defecto.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "bajo-defecto-de-1-punto-bajo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "desfigurado-defecto-de-2-puntos-desfigurado",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Desfigurado: (Defecto de 2 puntos) Desfigurado",
+    "name_es": "Desfigurado: (Defecto de 2 puntos) Desfigurado",
+    "body_es": "Un horrible desfiguramiento te hace horrendo y fácil de reconocer o recordar. Tienes una Apariencia de cero. Los personajes sidhe no pueden coger este Defecto.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "2"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "desfigurado-defecto-de-2-puntos-desfigurado",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "deformidad-defecto-de-3-puntos-deformidad",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Deformidad: (Defecto de 3 puntos) Deformidad",
+    "name_es": "Deformidad: (Defecto de 3 puntos) Deformidad",
+    "body_es": "Tienes algún tipo de deformidad - como un brazo contrahecho o una joroba - que afecta a tu relación con los demás y puede incomodarte físicamente. Las dificultades a todas las tiradas relativas a apariencia física se aumentan en dos. Tu deformidad también aumentará la dificultad de algunas tiradas de Destreza en dos, dependiendo del tipo de deformidad que poseas.\n\nLos personajes sidhe no pueden coger este Defecto.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "deformidad-defecto-de-3-puntos-deformidad",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "manco-defecto-de-3-puntos-manco",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Manco: (Defecto de 3 puntos) Manco",
+    "name_es": "Manco: (Defecto de 3 puntos) Manco",
+    "body_es": "Tienes un solo brazo - escoge cual, o determínalo al azar en la creación de personaje. Puede ser una cicatriz de guerra, defecto de nacimiento u otro tipo de herida. Se supone que estás acostumbrado a usar la mano que te queda, por lo que no sufres penalización si es tu zurda. Sin embargo, sufres una penalización de dos dados a todas las Reservas en las que se necesitarían normalmente las dos manos para realizar una tarea. Un personaje no puede coger este Defecto junto con el Mérito Ambidiestro.\n\nLos sidhe que son miembros de la Casa Dougal no pueden coger esto como su handicap, aunque pueden cogerlo si tienen uno diferente como su Defecto de Casa.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "manco-defecto-de-3-puntos-manco",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "nino-defecto-de-3-puntos-nino",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Niño: (Defecto de 3 puntos) Niño",
+    "name_es": "Niño: (Defecto de 3 puntos) Niño",
+    "body_es": "Eras un niño pequeño en el momento de tu Crisálida. Puedes ser precoz, pero a fin de cuentas sigues siendo sólo un niño. Tienes el Defecto Bajo (ver arriba) y es difícil que los demás te tomen en serio (dos dados de penalización  a  todas  las  tiradas  importantes).  Además, puedes estar sujeto al control de tus padres, hora de llegar a casa y deberes y la ley de menores. Pocos clubes te admitirán, porque 'no tienes edad'. Los infantiles que no cogen este Defecto son por alguna razón más aceptados por los mayores.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "nino-defecto-de-3-puntos-nino",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "tullido-defecto-de-3-puntos-tullido",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Tullido: (Defecto de 3 puntos) Tullido",
+    "name_es": "Tullido: (Defecto de 3 puntos) Tullido",
+    "body_es": "Tus  piernas  están  heridas,  o  por  alguna  razón  no funcionan correctamente. Sufres dos dados de penalización en todas las tiradas relacionadas con el movimiento. Un personaje no puede coger este Defecto junto con el Mérito Elástico.\n\nLos sidhe que son miembros de la Casa Dougal no pueden coger esto como su handicap, aunque pueden cogerlo si tienen uno diferente como su Defecto de Casa.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "tullido-defecto-de-3-puntos-tullido",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "mudo-defecto-de-4-puntos-mudo",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Mudo: (Defecto de 4 puntos) Mudo",
+    "name_es": "Mudo: (Defecto de 4 puntos) Mudo",
+    "body_es": "Tu aparato vocal no funciona, y no puedes hablar en absoluto. Puedes comunicarte por otros medios - normalmente escribiendo o por señas.\n\nLos  sidhe  que  son  miembros  de  la  Casa  Dougal  no pueden coger esto como su handicap, aunque pueden cogerlo si tienen uno diferente como su Defecto de Casa.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "4"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "mudo-defecto-de-4-puntos-mudo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "paraplejico-defecto-de-6-puntos-paraplejico",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Parapléjico: (Defecto de 6 puntos) Parapléjico",
+    "name_es": "Parapléjico: (Defecto de 6 puntos) Parapléjico",
+    "body_es": "Te resulta muy difícil moverte sin ayuda, como un par de muletas o una silla de ruedas. Incluso entonces puede ser doloroso y molesto hacerlo. El Narrador y tú debéis  aseguraros  conjuntamente  de  interpretar  este Defecto correctamente, no importa lo difícil que haga las  cosas.  Un  personaje no puede coger este Defecto junto con el Mérito Elástico.\n\nLos sidhe que son miembros de la Casa Dougal no pueden coger esto como su handicap, aunque pueden cogerlo si tienen uno diferente como su Defecto de Casa.\n\n1 7 0\n\nChangeling: El Ensueño\n\n<!-- image -->",
+    "tags": [],
+    "mechanics": {
+      "bonus": "6"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "paraplejico-defecto-de-6-puntos-paraplejico",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  }
+]

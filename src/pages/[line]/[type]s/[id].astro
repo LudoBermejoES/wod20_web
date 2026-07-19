@@ -7,14 +7,15 @@ import StatBlock from '../../../components/StatBlock.astro';
 import SourceBadge from '../../../components/SourceBadge.astro';
 import Callout from '../../../components/Callout.astro';
 import { typeLabelEs, typeSegment } from '../../../lib/taxonomy';
-import { bookUrl } from '../../../lib/entities';
+import { bookUrl, lineUrl } from '../../../lib/entities';
+import { lineInfo } from '../../../lib/lines';
 
 type EntityData = CollectionEntry<'entities'>['data'];
 
 export async function getStaticPaths() {
-  const entities = await getCollection('entities', (entry) => entry.data.line === 'mage');
+  const entities = await getCollection('entities');
   return entities.map((entry) => ({
-    params: { type: entry.data.type, id: entry.data.id },
+    params: { line: entry.data.line, type: entry.data.type, id: entry.data.id },
     props: { entity: entry.data },
   }));
 }
@@ -23,6 +24,8 @@ export interface Props {
   entity: EntityData;
 }
 
+const { line } = Astro.params as { line: string };
+const info = lineInfo(line)!;
 const { entity } = Astro.props;
 const label = typeLabelEs(entity.type);
 
@@ -42,12 +45,12 @@ outer: for (const book of books) {
 }
 ---
 
-<Layout title={`${entity.name_es} — ${label} — Mago`} description={entity.body_es} theme="mage">
+<Layout title={`${entity.name_es} — ${label} — ${info.nombre}`} description={entity.body_es} theme={line}>
   <Breadcrumb
     items={[
       { label: 'Inicio', href: '/' },
-      { label: 'Mago', href: '/mage' },
-      { label, href: `/mage/${typeSegment(entity.type)}` },
+      { label: info.nombre, href: lineUrl(line) },
+      { label, href: `/${line}/${typeSegment(entity.type)}` },
       { label: entity.name_es },
     ]}
   />

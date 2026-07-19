@@ -4,21 +4,29 @@ import Breadcrumb from '../../components/Breadcrumb.astro';
 import { getCollection } from 'astro:content';
 import { bookUrl } from '../../lib/entities';
 import { typeLabelEs, typeSegment } from '../../lib/taxonomy';
+import { LINES, lineInfo } from '../../lib/lines';
 
-const books = (await getCollection('books', (entry) => entry.data.line === 'mage')).sort((a, b) =>
+export async function getStaticPaths() {
+  return LINES.map((l) => ({ params: { line: l.id } }));
+}
+
+const { line } = Astro.params as { line: string };
+const info = lineInfo(line)!;
+
+const books = (await getCollection('books', (entry) => entry.data.line === line)).sort((a, b) =>
   a.data.title_es.localeCompare(b.data.title_es, 'es')
 );
 
-const entities = await getCollection('entities', (entry) => entry.data.line === 'mage');
+const entities = await getCollection('entities', (entry) => entry.data.line === line);
 const typesPresent = [...new Set(entities.map((entry) => entry.data.type))].sort((a, b) =>
   typeLabelEs(a).localeCompare(typeLabelEs(b), 'es')
 );
 ---
 
-<Layout title="Mago: La Ascensión — Base de conocimiento" theme="mage">
-  <Breadcrumb items={[{ label: 'Inicio', href: '/' }, { label: 'Mago' }]} />
+<Layout title={`${info.nombre}: ${info.subtitulo} — Base de conocimiento`} theme={line}>
+  <Breadcrumb items={[{ label: 'Inicio', href: '/' }, { label: info.nombre }]} />
 
-  <h1>Mago: La Ascensión</h1>
+  <h1>{info.nombre}: {info.subtitulo}</h1>
   <p>Manuales y referencia de reglas de la 20.ª edición aniversario, en español.</p>
 
   <h2>Libros</h2>
@@ -26,22 +34,26 @@ const typesPresent = [...new Set(entities.map((entry) => entry.data.type))].sort
     {
       books.map((book) => (
         <li>
-          <a href={bookUrl('mage', book.data.book_id)}>{book.data.title_es}</a>
+          <a href={bookUrl(line, book.data.book_id)}>{book.data.title_es}</a>
         </li>
       ))
     }
   </ul>
 
-  <h2>Referencia</h2>
-  <ul class="list">
-    {
-      typesPresent.map((type) => (
-        <li>
-          <a href={`/mage/${typeSegment(type)}`}>{typeLabelEs(type)}</a>
-        </li>
-      ))
-    }
-  </ul>
+  {
+    typesPresent.length > 0 && (
+      <>
+        <h2>Referencia</h2>
+        <ul class="list">
+          {typesPresent.map((type) => (
+            <li>
+              <a href={`/${line}/${typeSegment(type)}`}>{typeLabelEs(type)}</a>
+            </li>
+          ))}
+        </ul>
+      </>
+    )
+  }
 
   <style>
     h1 {

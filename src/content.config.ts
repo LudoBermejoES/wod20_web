@@ -1,7 +1,7 @@
 import { defineCollection } from 'astro:content';
-import { file } from 'astro/loaders';
 import { z } from 'astro/zod';
 import { booksLoader } from './lib/loaders/books-loader';
+import { entitiesLoader } from './lib/loaders/entities-loader';
 
 // Shared across both collections: the six game lines plus "shared" rules that
 // don't belong to a single line (mirrors entity.schema.json / reading.schema.json).
@@ -80,13 +80,10 @@ const books = defineCollection({
 });
 
 const entities = defineCollection({
-  // Mage-only pilot: one file per line, each holding a JSON array of
-  // entities. `file()` splits the array into one entry per item (matched by
-  // its `id` field). When a second line's entities.json is added, either add
-  // another `defineCollection` per file, or promote this to a small custom
-  // loader that merges every `src/content/entities/*.json` the way
-  // `booksLoader` merges `src/content/books/**/*.json`.
-  loader: file('src/content/entities/mage.json'),
+  // One file per line (`src/content/entities/<line>.json`), each holding a
+  // JSON array of entities; `entitiesLoader` merges all six into one
+  // collection (see that module for why a custom loader is needed here).
+  loader: entitiesLoader(),
   schema: entitySchema,
 });
 

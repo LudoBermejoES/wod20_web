@@ -4,15 +4,25 @@ import Layout from '../../../layouts/Layout.astro';
 import Breadcrumb from '../../../components/Breadcrumb.astro';
 import EntityCard from '../../../components/EntityCard.astro';
 import { typeLabelEs } from '../../../lib/taxonomy';
+import { lineInfo } from '../../../lib/lines';
+import { lineUrl } from '../../../lib/entities';
 
 export async function getStaticPaths() {
-  const entities = await getCollection('entities', (entry) => entry.data.line === 'mage');
-  const types = [...new Set(entities.map((entry) => entry.data.type))];
-  return types.map((type) => ({ params: { type } }));
+  const entities = await getCollection('entities');
+  const seen = new Set<string>();
+  const paths: { params: { line: string; type: string } }[] = [];
+  for (const entry of entities) {
+    const key = `${entry.data.line}/${entry.data.type}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    paths.push({ params: { line: entry.data.line, type: entry.data.type } });
+  }
+  return paths;
 }
 
-const { type } = Astro.params as { type: string };
-const entities = (await getCollection('entities', (entry) => entry.data.line === 'mage' && entry.data.type === type))
+const { line, type } = Astro.params as { line: string; type: string };
+const info = lineInfo(line)!;
+const entities = (await getCollection('entities', (entry) => entry.data.line === line && entry.data.type === type))
   .map((entry) => entry.data)
   .sort((a, b) => a.name_es.localeCompare(b.name_es, 'es'));
 
@@ -29,8 +39,8 @@ const grouped = categories.length > 0
   : [{ category: undefined, items: entities }];
 ---
 
-<Layout title={`${label} — Mago`} theme="mage">
-  <Breadcrumb items={[{ label: 'Inicio', href: '/' }, { label: 'Mago', href: '/mage' }, { label }]} />
+<Layout title={`${label} — ${info.nombre}`} theme={line}>
+  <Breadcrumb items={[{ label: 'Inicio', href: '/' }, { label: info.nombre, href: lineUrl(line) }, { label }]} />
 
   <h1>{label}</h1>
   <p>

@@ -1,0 +1,1015 @@
+[
+  {
+    "id": "meritos-y-defectos-mentales-impasible",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Méritos y Defectos mentales Impasible",
+    "name_es": "Méritos y Defectos mentales Impasible",
+    "body_es": "Tu cazador tiene la rara habilidad de ver sus capacidades psíquicas como algo separado de su existencia física y puede mantener esta distancia incluso en las condiciones más adversas. Las penalizaciones por heridas no afectan al uso de Númina Psíquicos hasta alcanzar el nivel Incapacitado. Y si está Incapacitado, puede gastar un punto de Fuerza de Voluntad para usar un Poder de Númina Psíquico con la mitad de la reserva de dados (redondeando hacia abajo). Esta acción sólo se puede realizar una vez por escena, tras lo cual el personaje queda inconsciente, así  que  escoge con mucho cuidado esos esfuerzos desesperados. Nota: Este Mérito puede usarse únicamente con Númina Psíquicos.",
+    "tags": [],
+    "mechanics": {
+      "cost": "4"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "meritos-y-defectos-mentales-impasible",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "blanco-y-negro",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Blanco y Negro",
+    "name_es": "Blanco y Negro",
+    "body_es": "El mundo es realmente una serie de escalas de gris, pero tu personaje no lo ve así. Para él, todo es blanco o negro. Acerca de la gente, piensa en términos de que o están con él o contra él, frío o caliente, bueno o malo, fácil o imposible, estúpido o genio. Esta estrechez de miras puede costarle mucho en lo que respecta a oportunidades perdidas, malentendidos y subestimar o sobrestimar a otros. En las situaciones sociales en las que la perspectiva prejuiciosa de tu personaje salga a relucir, la dificultad de las tiradas sociales relacionadas aumenta en uno.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "1"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "blanco-y-negro",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "combatiente-novato",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Combatiente Novato",
+    "name_es": "Combatiente Novato",
+    "body_es": "Tu personaje puede hablar mucho, pero nunca se ha enfrentado  a  auténtica  violencia  y,  cuando  pasa,  no  es dado a responder bien. Cuando se enfrenta a tiroteos, a un combate brutal y evidente (salpicones de sangre, heridas de apuñalamiento, huesos rotos) o cualquier clase de violencia sobrenatural, haz una tirada de Fuerza de Voluntad (dificultad 7). Si fallas, el personaje se queda congelado en el sitio (si su Coraje es mayor que su Autocontrol) o huye (si su Autocontrol es mayor que su Coraje).\n\nDebes realizar esta tirada por cada escena en la que seas testigo  de  un  suceso  violento,  pero,  si  acumulas  cinco éxitos, no necesitas más tiradas esa noche de tiempo de juego. No obstante, a discreción del Narrador, un espectáculo especialmente cruento puede volver a poner a cero ese total.\n\n<!-- image -->",
+    "tags": [],
+    "mechanics": {
+      "bonus": "2"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "combatiente-novato",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "adicto-a-la-sangre-vampirica",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Adicto a la Sangre Vampírica",
+    "name_es": "Adicto a la Sangre Vampírica",
+    "body_es": "Tu  personaje  necesita  constantemente  el  subidón  que sólo la Sangre vampírica puede proporcionarle. Si no, se siente apático y vacío. Este hábito es muy peligroso y sólo puede superarse mediante la absoluta abstinencia (y probablemente no sin una pequeña cantidad de terapia). Cada vez que tu personaje tenga acceso a Vitae vampírica y desee resistir el impulso de beberla, el Narrador puede pedirte una tirada de Autocontrol. Si tu personaje no ha probado Sangre en una semana, sufre una penalización acumulativa de +1 a la dificultad en estas tiradas hasta que sacia su sed.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "3"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "adicto-a-la-sangre-vampirica",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "hemofilico",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Hemofílico",
+    "name_es": "Hemofílico",
+    "body_es": "Tu personaje padece hemofilia. Si se corta, no dejará de sangrar sin ayuda médica. Si sufre daño letal o agravado, sufre  un  nivel  de  daño  contundente  adicional  por  cada cinco minutos hasta que se le venden las heridas para que dejen de sangrar. Cualquier vampiro que le muerda puede 'vendar' tales heridas y finalizar el daño contundente lamiendo la herida tras morderlo.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "bonus": "3",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "hemofilico",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "laboratorio-cientifico",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Laboratorio Científico",
+    "name_es": "Laboratorio Científico",
+    "body_es": "Tu personaje tiene acceso a un laboratorio totalmente equipado con equipo funcional de investigación científica. Cuando tiene acceso a su laboratorio, puede realizar experimentos, llevar a cabo pruebas y reunir datos, y con ello disminuir en 2 la dificultad para las tiradas relacionadas de Investigación o Ciencia, o disminuir en 1 otras tiradas adecuadas (según determine el Narrador) mientras usas el equipo.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "2",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "laboratorio-cientifico",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "biblioteca-ocultista",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Biblioteca Ocultista",
+    "name_es": "Biblioteca Ocultista",
+    "body_es": "Tu personaje posee una considerable colección de trabajos de saber arcano. Si tiene acceso a su biblioteca, puedes disminuir la dificultad de las tiradas relacionadas de Inteligencia, Ocultismo o Investigación en 1 cuando trate de resolver un misterio arcano o aprender más sobre lo oculto. Tener esta biblioteca  no  convierte  al  cazador  en  un  experto  ocultista de forma automática, sólo significa que tiene un práctico acceso a algo de conocimiento. Si has adquirido la versión de\n\n<!-- image -->",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "2 o 4",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "biblioteca-ocultista",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "aura-palida",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Aura Pálida",
+    "name_es": "Aura Pálida",
+    "body_es": "Sea cual sea el color que arroje tu aura, siempre toma un matiz pálido, como la de un vampiro. Cualquier vampiro ve el aura del cazador como si fuera la de un Vástago, a menos que su jugador obtenga cinco o más éxitos en una tirada de Percepción del Aura.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "2",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "aura-palida",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "vista-clara",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Vista Clara",
+    "name_es": "Vista Clara",
+    "body_es": "No es fácil engañar a tu personaje con ilusiones. Cuando se enfrenta a una ilusión sobrenatural, como las creadas por Ofuscación, Quimerismo y similares, puedes hacer una tirada de Percepción + Alerta (dificultad igual al nivel del Poder al que se enfrenta + 3) para que tu personaje vea a través del efecto.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "3",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "vista-clara",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "sangre-venenosa",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Sangre Venenosa",
+    "name_es": "Sangre Venenosa",
+    "body_es": "Debido a misteriosas circunstancias, la sangre de tu personaje resulta venenosa para los vampiros. Si un vampiro bebe de ella, cada punto de Sangre le causa un punto de daño contundente. Los vampiros se sienten molestos de forma natural con los mortales conocidos por poseer esta bendición y bien pueden buscar su destrucción. Se anima a los Narradores a dar una explicación a esta aberración en sus crónicas, aunque el jugador (y probablemente el personaje) pueden no estar al tanto de ello desde un principio. Algunos ejemplos incluyen protección sagrada de un poder superior, un extraño ritual de protección o incluso una anomalía genética.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "5",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "sangre-venenosa",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "santuario",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Santuario",
+    "name_es": "Santuario",
+    "body_es": "Tu personaje tiene un refugio que es un auténtico santuario. Las criaturas sobrenaturales necesitan superar una tirada de Fuerza de Voluntad (dificultad 9) para poder entrar en su casa sin haber sido invitadas. Puede deberse a algún extraño incidente místico, a la suerte, a un ritual olvidado o quizás a que se haya edificado sobre suelo sagrado. Este Mérito debe asignarse a un único edificio en el que el personaje tenga su residencia permanente.  Buenos  ejemplos  de  un  Santuario  pueden  ser una casa, un pequeño edificio de apartamentos o una iglesia.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "5",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "santuario",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "efecto-inquietante",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Efecto Inquietante",
+    "name_es": "Efecto Inquietante",
+    "body_es": "Los Poderes de los Númina suelen ser imperceptibles. Sin  embargo,  algo  del  Numen  de  tu  personaje  provoca que otros reconozcan que está pasando algo raro. Con el Defecto de un punto, un único Poder intangible (como Telepatía  o  Psicometría)  genera  un  efecto  evidente  y perceptible. Quizás los objetivos sientan que el personaje está rebuscando en su mente, o puede que todo el mundo alrededor del psíquico sienta una oleada de perturbadoras sensaciones cuando toca un objeto con resonancias. Con el Defecto de tres puntos, todos los Poderes intangibles de tu personaje (incluyendo los que aprenda más adelante) tienen alguna clase de efecto inquietante, probablemente compartiendo una 'marca' distintiva o estilo similar.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "bonus": "1 o 3",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "efecto-inquietante",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "foco-psi",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Foco Psi",
+    "name_es": "Foco Psi",
+    "body_es": "Tu personaje encuentra imposible usar sus Númina Psíquicos sin ayuda de un foco; necesita una ayuda o catalizador para dirigir de forma apropiada sus Poderes. Por tres puntos, el personaje debe gesticular o pronunciar una frase o invocación para que el Poder funcione. Por cinco puntos, el Poder necesita un foco físico para funcionar (como cristales, el reloj de bolsillo de un hipnotizador o una moneda de la suerte).",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "bonus": "3 o 5",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "foco-psi",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "crianza-aislada",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Crianza Aislada",
+    "name_es": "Crianza Aislada",
+    "body_es": "Fuiste  criado  por  la  Sociedad  de  Leopoldo,  eres  hijo de un Inquisidor o fuiste adoptado por la Sociedad a una temprana edad. La Inquisición es todo lo que conoces. La santidad de tu labor sagrada está pulida por la pureza de tu carácter, carente de distracciones. Por desgracia, tienes una comprensión limitada del mundo exterior. Cuando estés en un entorno que no sea el de la Sociedad, resta un dado a todas las reservas de tiradas Sociales. Cuando el trabajo de campo te lleve más allá de los muros de la Inquisición, ¿cómo reaccionarás a toda la gente y estímulos nuevos, a los compañeros cazadores que no viven tan enclaustrados?\n\nPosees una reliquia menor.\n\nPosees una reliquia útil.\n\nPosees una reliquia de significativo poder.\n\nPosees una reliquia de increíble poder.\n\nPosees una reliquia mencionada en muchas leyendas.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "bonus": "1",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "crianza-aislada",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "histeria-religiosa",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Histeria Religiosa",
+    "name_es": "Histeria Religiosa",
+    "body_es": "¡Ángeles y demonios por todas partes! Los ves. Notas los signos del plan divino en cada aspecto de tu vida. ¡El mundo entero es un presagio! El Espíritu Santo te susurra a la oreja constantemente. ¿Por qué los demás no lo entienden? Hasta tus hermanos y hermanas en la fe sacuden sus cabezas cuando dilucidas sin aliento tu última visión. La diferencia entre este Defecto y el Mérito Extático (ver más adelante) es que la gente no te toma en serio. Tus visiones ocurren un poco demasiado a menudo, y son difícilmente defendibles. Resta un dado de todas las reservas de tiradas Sociales.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "bonus": "3",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "histeria-religiosa",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "rango-eclesiastico",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Rango Eclesiástico",
+    "name_es": "Rango Eclesiástico",
+    "body_es": "Aunque tu Estatus como Inquisidor es un secreto fuera de  la  Sociedad  de  Leopoldo,  también  eres  un  miembro oficial  de  la  jerarquía  católica  romana.  Este  Mérito  determina tu puesto, cada punto amplía la magnitud de tu servicio e influencia. La versión de un punto te garantiza un rango de sacerdote, presidiendo una parroquia (y sus diáconos y seglares). La versión de dos puntos te concede el rango de obispo, presidiendo una diócesis consistente en  muchas  parroquias  (y  sus  sacerdotes).  La  versión  de tres puntos te confiere el rango de arzobispo, presidiendo diversas diócesis (y sus obispos).",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "1 a 3",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "rango-eclesiastico",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "bruja-aprobada",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Bruja Aprobada",
+    "name_es": "Bruja Aprobada",
+    "body_es": "Eres conocido como una 'bruja de Judas' al haber recibido el Santuario de la Disciplina Arcani de la propia Inquisidora General. No puedes ser castigado o detenido por estudiar lo oculto o utilizar Númina (aunque la aprobación puede verse revocada por mala praxis). Un tatuaje del Sello de Salomón en tu palma izquierda marca tus credenciales. Esto no significa que todo el mundo en la Sociedad confíe en tu experiencia, ya que muchos desprecian las artes mágicas.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "2",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "bruja-aprobada",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "rebelde",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Rebelde",
+    "name_es": "Rebelde",
+    "body_es": "Has adquirido cierta mala reputación en la Sociedad de Leopoldo. Con la versión de un punto de este Defecto podrías  simplemente  ser  despreciado  por  tus  superiores, quienes esperan que cometas un error. Con la versión de dos puntos, se te aborrece de forma activa y puedes esperar poca ayuda. Con la versión de tres puntos, hay Inquisidores que te odian tanto como a los sobrenaturales. Deberías trabajar con el Narrador para determinar las razones específicas de esta mala reputación. Ten en cuenta que tu reputación es relativa entre las divisiones de la Inquisición. Algunas  sectas  pueden  recibirte  con  los  brazos  abiertos sólo para molestar a sus rivales. Por ejemplo, mientras te ganas el rencor de toda la Sociedad por estudiar demasiado las artes hechiceras, podrías ganar la aceptación, y hasta los ánimos, de los Hermanos de Alberto.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "bonus": "1 a 3",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "rebelde",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "aura-de-santidad",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Aura de Santidad",
+    "name_es": "Aura de Santidad",
+    "body_es": "No importa el color, tu aura arde como un brillante faro de devoción religiosa. Hasta los mortales que no pueden ver auras se sienten atraídos por tu presencia. Resta uno a la dificultad de todas las tiradas de interacciones sociales. Para algunos sobrenaturales esto será algo positivo; pero otros, en especial los Vástagos, pueden tender a ser hostiles contigo. Muchos creerán que posees un gran poder (sin importar si es cierto o no).",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "2",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "aura-de-santidad",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "ecstatic",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Extático",
+    "name_es": "Extático",
+    "body_es": "Eres proclive a los ataques de éxtasis religioso: estigmas, glosolalia  (hablar  lenguas  desconocidas), visiones y trances. Este es un Mérito con un beneficio dudoso. Aunque muchos pueden desconfiar de ti como un histérico religioso, puedes encontrar estima entre otros miembros de la fe como un 'tocado por Dios'. Suma un dado a cualquier reserva de dados de tiradas Sociales cuando interactúes con la Sociedad (y posiblemente con otros de creencias similares).",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "2",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "extatico",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "ecumenista",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Ecumenista",
+    "name_es": "Ecumenista",
+    "body_es": "El  Espíritu  Santo  'sopla  donde  quiere'.  Tú  entiendes esto. Ves los reflejos fractales de tu Dios en otras religio- nes,  y  permaneces  humilde  al  darte  cuenta  de  lo  poco que sabes acerca de lo divino. Donde otros deben blandir los símbolos sagrados de la tradición cuando usan Fe Verdadera,  tú  ves  el  destello  celestial  en  el  núcleo  de las creencias más allá de la tuya, y eres capaz de usar sus iconos religiosos y suelo sagrado cuando te enfrentas a lo sobrenatural.  Igualmente,  en  tu  presencia,  un  grupo  de individuos de diversas religiones  puede  compartir  su  Fe Verdadera para un mayor efecto. Tal reserva comunitaria requiere sólo que una persona tenga este Mérito. Puedes hacer de puente que conecte todas las fes como hermanos y hermanas en la larga y oscura noche del alma.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "4",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "ecumenista",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "puno-de-dios",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Puño de Dios",
+    "name_es": "Puño de Dios",
+    "body_es": "Algunos te llaman el 'Martillo de Brujas', porque tus manos desnudas ocasionan un daño terrible a los hijos de la  antigua  noche.  Todo  tu  daño  por  Pelea  se  considera agravado contra los seres sobrenaturales. Trabaja con tu Narrador para crear una buena razón para este raro efecto, y cómo se desarrolló. Sólo los mortales con Humanidad de siete o más pueden adquirir (o mantener) este Mérito.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "7",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "puno-de-dios",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "paraiso-perdido",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Paraíso Perdido",
+    "name_es": "Paraíso Perdido",
+    "body_es": "Una vez tuviste una Fe Verdadera que podía iluminar la noche. Ahora está extinta. Esto no es simplemente la pér- dida de una ventaja, sino una herida abierta en el alma. Sabes  lo  que  es  ser  visto  bajo  la  luz  de  lo  divino,  pero ahora tropiezas fuera de la vista de Dios y te ahogas en la lóbrega gelidez de las dudas, un río que siempre fluye sin fin a la vista.\n\n<!-- image -->\n\nSiempre que te enfrentes a esta pérdida (cuando sujetes un objeto sagrado, se te pida que realices un milagro, entres en una iglesia, etc.), haz una tirada de Fuerza de Voluntad (dificultad 7) o pierde un dado en todas las acciones durante una escena, según la pena se apodera de ti. Fracasar en una tirada de Fuerza de Voluntad consume un punto temporal de Fuerza de Voluntad y te arroja a la desesperación. Satisfacer un vicio (alcohol, drogas, pornografía, etc.) puede reponer los puntos perdidos de esta forma.\n\nEste Defecto puede obtenerse en medio de una crónica con una pérdida de Fe Verdadera, o puede adquirirse durante la creación de personaje como parte de unos antecedentes trágicos, como posible inicio de una historia de redención y recuperación de la fe.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "bonus": "2",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "paraiso-perdido",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "paranoico",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Paranoico",
+    "name_es": "Paranoico",
+    "body_es": "Demasiados años en el negocio de la inteligencia significa que tú sabes que es sólo paranoia cuando no hay nadie ahí  fuera  intentando  atraparte.  Sospechas  de  todo  y  de todos. Pedirías refuerzos pero, ¿cómo puedes estar seguro de que ellos no forman también parte del asunto? Encuentras detalles inocuos, cada uno de los cuales proporciona más pruebas de una conspiración contra ti. Suma uno a la dificultad de todas las tiradas de interacciones sociales.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "bonus": "2",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "paranoico",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "mentalidad-de-sitio",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Mentalidad de Sitio",
+    "name_es": "Mentalidad de Sitio",
+    "body_es": "La Agencia es tu única familia y tu único amigo. No confías en civiles o amateurs para hacer lo que ves como tu  trabajo,  y  los  políticos  y  legisladores  simplemente  se interponen en la labor de tu agencia. Confiarías en otras agencias si al menos por una vez pudieran demostrar que son capaces de encontrar su culo colectivo con ayuda de una linterna y un espejo.\n\nTu actitud tiene diversos efectos secundarios. Primero, eres presuntuoso y autoritario con los 'civiles', ya seas un agente del FBI hablando con un policía local o un operativo de la CIA lidiando con una compañía de espionaje privada. Resta dos dados de todas las reservas de Empatía e Investigación cuando trates con amateurs de tu campo. Segundo, estás al límite cuando tratas con otros miembros de los servicios de inteligencia, incluso cuando se supone que estáis en el mismo bando. Suma uno a la dificultad de todas las tiradas de interacciones sociales con ellos. Por último, si la ley se interpone en tu deber, no te lo pensarás dos veces antes de quebrantarla. Se alienta al Narrador a que tus superiores estén atentos a tu descarado desprecio por el procedimiento.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "bonus": "3",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "mentalidad-de-sitio",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "mensajero-del-miedo",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Mensajero del Miedo",
+    "name_es": "Mensajero del Miedo",
+    "body_es": "Eres la peor clase de agente doble posible: uno que no sabe que ha sido comprometido. Alguna autoridad desconocida para ti te dio una tarea y no puedes hacer nada salvo llevarla a cabo. Tu controlador te ha programado para reaccionar ante una señal específica; podría ser una palabra, un patrón de luces parpadeantes o una imagen concreta. Cuando te encuentres con tu disparador, harás todo lo que tu amo te pidió. Después, recordarás todo hasta el momento en que encontraste la señal, el resto estará en blanco. Las tareas habituales incluyen espiar a tu propia organización, destruir documentos sensibles, asesinar a un objetivo mencionado al mismo tiempo que la señal o robar equipo valioso.\n\nTrabaja junto con tu Narrador para idear una señal y un cometido. De forma opcional, puedes dejar que el Narrador determine los detalles de qué te traes entre manos. En algún momento describirá tu disparador, y no sabrás lo que pasó entre ese momento y cuando vuelvas en ti. El Narrador puede dejar que lo que haces durante ese tiempo sea un misterio (o podría hacer que los demás personajes se encuentren contigo). Trabaja con él para representar a tu personaje en su estado de cerebro lavado. El adoctrinamiento es tan fuerte que ni los Poderes sobrenaturales pueden desviarte de tu tarea.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "bonus": "5",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "mensajero-del-miedo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "autorizacion",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Autorización",
+    "name_es": "Autorización",
+    "body_es": "Tu agencia te ha concedido una autorización limitada para utilizar fuerza letal contra objetivos específicos. Te harán responsable de las muertes adicionales, y no dudarán en revocar dicha autorización si eres demasiado chapucero. Esta autoridad es extremadamente rara (la CIA autoriza algunos asesinatos en territorio extranjero, y un grupo encubierto de alto rango del FBI lo usa para eliminar potenciales terroristas nacionales). Mientras hagas lo que te dicen, tu agencia te proporcionará armas y equipo (dentro de lo razonable) y cubrirá tu rastro una vez esté hecho el trabajo. En contra de la percepción popular, esto no es una 'licencia para matar': asesinar gente es ilegal hasta con el apoyo de una agencia de inteligencia, y podrían procesarte por asesinato si te atrapan.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "2",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "autorizacion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "enlace-entre-agencias",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Enlace entre Agencias",
+    "name_es": "Enlace entre Agencias",
+    "body_es": "Trabajas en dos agencias a la vez. O eres un enlace entre ambas (Seguridad Nacional proporciona una útil tapadera para que la CIA y la NSA husmeen al FBI y viceversa) o tus actuales empleadores no saben para quién trabajas realmente. De cualquier forma, puedes hacer uso de los servicios y recursos de ambas agencias cuando lo necesites. Debes adquirir el Trasfondo Rango de cada agencia por separado, y tu Rango en tu agencia 'de procedencia' debe ser igual o mayor que el de tu nueva agencia.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "2",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "enlace-entre-agencias",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "acceso-no-estandar",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Acceso no Estándar",
+    "name_es": "Acceso no Estándar",
+    "body_es": "Todos los  que  trabajan  en  el  batiburrillo  de  agencias gubernamentales de EE.UU. tienen acceso a información no disponible para el público, pero tú estás al tanto de secretos muy por encima de tu rango. Quizás alguien en el Pentágono te deba la vida o simplemente encuentres archivos en un viejo punto de intercambio de información.  Una  vez  por  historia,  el  Narrador  se  asegurará  de que recibas información clasificada útil para tu operación actual. La información es siempre útil y exacta, pero no necesariamente completa. Aunque es peligroso explicar cómo das con tus nuevos conocimientos, tu informador es confidencial y aún no has sufrido ninguna filtración.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "3",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "acceso-no-estandar",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "agente-integrado",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Agente Integrado",
+    "name_es": "Agente Integrado",
+    "body_es": "Eres un miembro aceptado en tu agencia de inteligencia, a pesar de cualquier extraño proyecto paralelo en el que estés trabajando. Podrías ser un agente del FBI con un registro admirable que se pluriemplea con el SAD, o un analista de espionaje de la NSA que pasa un par de semanas cada trimestre monitorizando informes de caoscopios. Dado que pasas más tiempo entre los agentes 'normales', éstos te aceptan como uno de los suyos. Suma un dado adicional  a  las  tiradas  de  Empatía,  Liderazgo  o  Investigación  cuando  trates  con  otros  miembros  de  tu  propia agencia. También eres la última persona de la que cualquiera pensaría que es un 'cazador de monstruos', lo cual te mantiene fuera del radar de criaturas sobrenaturales por otra parte bien informadas.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "3",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "agente-integrado",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "credulo",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Crédulo",
+    "name_es": "Crédulo",
+    "body_es": "Crees en monstruos y conspiraciones, y tus compañeros agentes lo saben. Esta reputación de crédulo te convierte en un lastre; no importa cuánto de la verdad sepas realmente. Con la versión de tres puntos de este Defecto aún eres un agente de campo, pero tus compañeros o bien te ignoran o se burlan descaradamente de ti. Resta un dado de todas las tiradas de Empatía, Investigación o Liderazgo cuando trates con miembros de los servicios de inteligencia. Si una criatura sobrenatural está buscando un chivo expiatorio, tu nombre será el primero de la lista.\n\nCon la versión de cinco puntos de este Defecto, estás a punto de ser historia. Se te ha asignado un trabajo inútil (quizás un estudio de viabilidad para construir un muro a lo largo de la frontera con Canadá o escuchar las comunicaciones de la oficina de Nueva Zelanda). No tendrás refuerzo alguno, y si continúas causando problemas (digamos, investigando criaturas sobrenaturales), la gente en las altas esferas de la cadena de mando de la agencia arreglará un accidente para callarte para siempre.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "bonus": "3 o 5",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "credulo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "de-recursos-identidad-suplementaria",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "De recursos Identidad Suplementaria",
+    "name_es": "De recursos Identidad Suplementaria",
+    "body_es": "La mayoría de los agentes construyen identidades encubiertas  que  completan  con  antecedentes  y  documentos. Tú has ido aún más lejos y tienes una identidad de la que tu agencia no sabe nada. Tu Identidad Suplementaria  tiene  un  set  completo  de  documentos, incluyendo un  número  de  la  Seguridad  Social  y  un  pasaporte,  una cuenta bancaria y hasta posee un pequeño apartamento. A diferencia de la mayoría de las identidades encubiertas, nada te vincula a esta Identidad Suplementaria, lo cual significa  que  resulta  muy  útil  cuando  necesitas  trabajar extraoficialmente, y como vía de escape cuando las cosas se ponen feas.\n\nEste  Mérito  sólo  proporciona  documentación  y  una garantía de que las agencias de inteligencia no tendrán conocimiento de tu álter ego. Aún necesitas el Trasfondo Identidad Alternativa si quieres interpretar ese papel de forma efectiva.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "3",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "de-recursos-identidad-suplementaria",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "envejecido",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Envejecido",
+    "name_es": "Envejecido",
+    "body_es": "No eres tan vivaz como solías ser. Rebaja uno de tus Atributos Físicos (a tu elección) en un punto. Un Atributo no puede descender por debajo de uno debido a este Defecto. Puedes adquirir este Defecto a los 40 años y una vez más por cada década tras esa edad.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "bonus": "3",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "envejecido",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "camaleon-cultural",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Camaleón Cultural",
+    "name_es": "Camaleón Cultural",
+    "body_es": "Eres capaz de aprender rápidamente costumbres locales, formas sociales, expresiones, formas de vestir y otras peculiaridades de un lugar. Si eres capaz de lidiar con ellas (cambiarte de ropa, ser capaz de hablar el idioma, etc.) todo  aquel  que  trate  de  discernir  si  eres  forastero  sufrirá una penalización de dos dados. De la misma forma, tú recibes dos dados adicionales para cualquier acción cuya finalidad sea encontrar a otros que no pertenezcan a ese lugar.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "2",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "camaleon-cultural",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "beca-de-investigacion",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Beca de Investigación",
+    "name_es": "Beca de Investigación",
+    "body_es": "Tienes una prestigiosa beca de investigación de alguna universidad o centro de investigación. Esto te libera de la carga de necesitar un trabajo normal. La beca te proporciona un estipendio mínimo (de 1500 a 2000 dólares al mes en la mayoría de los casos), así como credenciales que te garantizan acceso a bibliotecas privadas y centros de investigación de todo el mundo.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "2",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "beca-de-investigacion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "sobrenaturales-inocente",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Sobrenaturales Inocente",
+    "name_es": "Sobrenaturales Inocente",
+    "body_es": "Todo el mundo piensa siempre bien de ti, a menos que haya evidencias de lo contrario. Si haces algo mal y no es fácil  atribuírtelo,  probablemente  culparán  a  algún  otro. Esto no significa que tú seas 'inocente', sólo significa que todo el mundo piensa que lo eres.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "1",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "sobrenaturales-inocente",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "perspicaz",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Perspicaz",
+    "name_es": "Perspicaz",
+    "body_es": "Con una tirada de Percepción + Alerta contra el nivel del Poder opuesto + 3, puedes ver a través de todos los niveles de Ofuscación, Quimerismo y Disciplinas relacionadas de los vampiros o de otros Poderes sobrenaturales similares.\n\n<!-- image -->",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "5",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "perspicaz",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "sentir-influencia",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Sentir Influencia",
+    "name_es": "Sentir Influencia",
+    "body_es": "Por medio de entrenamiento y trabajo con otros cazadores experimentados, tienes la capacidad de adquirir la Habilidad Consciencia. Es más, puedes tener la sensación de que alguien es controlado por alguna influencia sobrenatural o presencia fantasmal con una tirada de Percepción + Consciencia a dificultad 8.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "3",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "sentir-influencia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "matones",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Matones",
+    "name_es": "Matones",
+    "body_es": "Cuando  compras el Trasfondo Aliados, adquieres miembros realmente duros de los bajos fondos en lugar de los miembros ordinarios de la sociedad legal. Tus Aliados pueden ser pandilleros,  mafiosos  o  miembros  de  tu  sindicato del crimen. A diferencia de los Aliados convencionales, estos individuos están dispuestos a pelearse con otros mortales, asesinar a inocentes, intimidar a sus convecinos, bloquear temporalmente una zona de la ciudad o incluso cometer crímenes en tu nombre.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "1",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "matones",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "legado",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Legado",
+    "name_es": "Legado",
+    "body_es": "Tu personaje proviene de un largo linaje de cazadores; ya sea una responsabilidad familiar que se ha ido heredando o que se te considere 'sucesor' de un cazador particularmente famoso o capaz. Cuando adquieres el Trasfondo Contactos,  puedes  duplicar  el  número  de  contactos  específicos que recibes por cada punto. Alternativamente, puedes adquirir el Trasfondo Artefacto o Relicario para reflejar una poderosa reliquia familiar.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "2",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "legado",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "sobrenaturales-zona-muerta",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Sobrenaturales Zona Muerta",
+    "name_es": "Sobrenaturales Zona Muerta",
+    "body_es": "Tu exposición a la muerte de forma regular hace que a los fantasmas les resulte difícil percatarse de que existes. Se considera que tienes un punto de Ofuscación (que también  funciona  en  las  tierras  de  los  muertos)  contra wraiths, Espectros y otras criaturas similares.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "2",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "sobrenaturales-zona-muerta",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  }
+]

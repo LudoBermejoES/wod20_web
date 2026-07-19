@@ -4,19 +4,29 @@ import { getCollection } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
 import Breadcrumb from '../../../components/Breadcrumb.astro';
 import TableOfContents from '../../../components/TableOfContents.astro';
-import { bookUrl } from '../../../lib/entities';
+import { bookUrl, lineUrl } from '../../../lib/entities';
+import { lineInfo } from '../../../lib/lines';
 
 export async function getStaticPaths() {
-  const books = await getCollection('books', (entry) => entry.data.line === 'mage');
-  const sorted = [...books].sort((a, b) => a.data.title_es.localeCompare(b.data.title_es, 'es'));
-  return sorted.map((entry, i) => ({
-    params: { book: entry.data.book_id },
-    props: {
-      entry,
-      prev: i > 0 ? sorted[i - 1] : undefined,
-      next: i < sorted.length - 1 ? sorted[i + 1] : undefined,
-    },
-  }));
+  const books = await getCollection('books');
+  const byLine = new Map<string, CollectionEntry<'books'>[]>();
+  for (const entry of books) {
+    const list = byLine.get(entry.data.line) ?? [];
+    list.push(entry);
+    byLine.set(entry.data.line, list);
+  }
+
+  return [...byLine.entries()].flatMap(([line, entries]) => {
+    const sorted = [...entries].sort((a, b) => a.data.title_es.localeCompare(b.data.title_es, 'es'));
+    return sorted.map((entry, i) => ({
+      params: { line, book: entry.data.book_id },
+      props: {
+        entry,
+        prev: i > 0 ? sorted[i - 1] : undefined,
+        next: i < sorted.length - 1 ? sorted[i + 1] : undefined,
+      },
+    }));
+  });
 }
 
 export interface Props {
@@ -25,6 +35,8 @@ export interface Props {
   next?: CollectionEntry<'books'>;
 }
 
+const { line } = Astro.params as { line: string };
+const info = lineInfo(line)!;
 const { entry, prev, next } = Astro.props;
 const book = entry.data;
 
@@ -35,11 +47,11 @@ const tocItems = book.chapters.map((chapter) => ({
 }));
 ---
 
-<Layout title={`${book.title_es} — Mago`} description={`Lectura: ${book.title_es}.`} theme="mage">
+<Layout title={`${book.title_es} — ${info.nombre}`} description={`Lectura: ${book.title_es}.`} theme={line}>
   <Breadcrumb
     items={[
       { label: 'Inicio', href: '/' },
-      { label: 'Mago', href: '/mage' },
+      { label: info.nombre, href: lineUrl(line) },
       { label: book.title_es },
     ]}
   />
@@ -66,8 +78,8 @@ const tocItems = book.chapters.map((chapter) => ({
   }
 
   <nav class="book-nav" aria-label="Navegación entre libros">
-    <span>{prev && <a href={bookUrl('mage', prev.data.book_id)}>← {prev.data.title_es}</a>}</span>
-    <span>{next && <a href={bookUrl('mage', next.data.book_id)}>{next.data.title_es} →</a>}</span>
+    <span>{prev && <a href={bookUrl(line, prev.data.book_id)}>← {prev.data.title_es}</a>}</span>
+    <span>{next && <a href={bookUrl(line, next.data.book_id)}>{next.data.title_es} →</a>}</span>
   </nav>
 
   <style>

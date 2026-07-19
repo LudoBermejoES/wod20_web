@@ -1,0 +1,462 @@
+[
+  {
+    "id": "forma-de-hombre",
+    "type": "merit",
+    "line": "werewolf",
+    "name_en": "Forma de Hombre",
+    "name_es": "Forma de Hombre",
+    "body_es": "La Forma Archid del personaje es muy humanoide, un vestigio de los Reyes Lagarto con cabeza de reptil, del tamaño de un Garou en Crinos. El personaje debe tener las características Archid andar erguido y manos prensiles para adquirir este Mérito. Forma de Hombre permite al Mokolé en Forma Archid pasar por humano bajo una luz tenue,  aunque  cualquiera  que  vea  la  piel  escamosa  del personaje aún sufre el Delirio.",
+    "tags": [
+      "sólo Mokolé"
+    ],
+    "mechanics": {
+      "cost": "1"
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "forma-de-hombre",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "transmision-constante",
+    "type": "merit",
+    "line": "werewolf",
+    "name_en": "Transmisión Constante",
+    "name_es": "Transmisión Constante",
+    "body_es": "Las ampollas de Lorenzini del personaje están presentes en todas sus Formas, lo que le permite utilizar la Transmisión incluso en Forma Homínido.",
+    "tags": [
+      "sólo Rokea"
+    ],
+    "mechanics": {
+      "cost": "1"
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "transmision-constante",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "bien-parecido",
+    "type": "merit",
+    "line": "werewolf",
+    "name_en": "Bien Parecido",
+    "name_es": "Bien Parecido",
+    "body_es": "A diferencia de la mayoría de Rokea, que en el mejor de los casos son de apariencia tosca en Forma Homínido, el per- sonaje parece completamente humano y puede empezar con una puntuación de  Apariencia  tan  alta  como  el  jugador  desee. Los Rokea Homínidos no necesitan adquirir este Mérito.",
+    "tags": [
+      "sólo Rokea"
+    ],
+    "mechanics": {
+      "cost": "2"
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "bien-parecido",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "cobra-escupidora",
+    "type": "merit",
+    "line": "werewolf",
+    "name_en": "Cobra Escupidora",
+    "name_es": "Cobra Escupidora",
+    "body_es": "A diferencia de la mayoría de los Nagah, la Forma Vasuki del personaje es la de una cobra escupidora u otra serpiente que pueda proyectar su veneno. Puede escupir veneno en cualquier Forma salvo la Balaram.",
+    "tags": [
+      "sólo Nagah"
+    ],
+    "mechanics": {
+      "cost": "2"
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "cobra-escupidora",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "corredor-de-la-celosia",
+    "type": "merit",
+    "line": "werewolf",
+    "name_en": "Corredor de la Celosía",
+    "name_es": "Corredor de la Celosía",
+    "body_es": "El  personaje  es  capaz  de  escabullirse  a  través  de  la Celosía en presencia de cualquier compañía, incluso frente a una habitación llena de testigos humanos.",
+    "tags": [
+      "sólo Ratkin"
+    ],
+    "mechanics": {
+      "cost": "2"
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "corredor-de-la-celosia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "doble-dosis",
+    "type": "merit",
+    "line": "werewolf",
+    "name_en": "Doble Dosis",
+    "name_es": "Doble Dosis",
+    "body_es": "A diferencia de la  mayoría  de  Corax,  el  personaje puede beber de ambos ojos de un muerto y ver lo mejor y lo peor de la muerte del cadáver.",
+    "tags": [
+      "sólo Corax"
+    ],
+    "mechanics": {
+      "cost": "2"
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "doble-dosis",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "madurez-temprana",
+    "type": "merit",
+    "line": "werewolf",
+    "name_en": "Madurez Temprana",
+    "name_es": "Madurez Temprana",
+    "body_es": "Por alguna razón, el personaje emergió en un Auspicio diferente a  Arcas.  Quizás  su  Primer  Cambio  sucedió  en  una etapa tardía de su vida o sus primeros años estuvieron tan llenos  de  conflictos  y  problemas  que  su  Cambio  lo  catapultó directamente a otro Auspicio. El personaje comienza el juego como Uzmati, Kojubat, Kieh o Rishi, y debe escoger su Don de Auspicio inicial de entre los Dones de Nivel Uno de la lista de ese Auspicio.",
+    "tags": [
+      "sólo Gurahl"
+    ],
+    "mechanics": {
+      "cost": "3"
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "madurez-temprana",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "venenoso",
+    "type": "merit",
+    "line": "werewolf",
+    "name_en": "Venenoso",
+    "name_es": "Venenoso",
+    "body_es": "El Ananasi sigue disponiendo de sus sacos de veneno incluso en Forma Homínido. En esta Forma puede utilizar cualquiera de sus Dones relacionados con el veneno que normalmente están restringidos a las demás Formas.",
+    "tags": [
+      "sólo Ananasi"
+    ],
+    "mechanics": {
+      "cost": "3"
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "venenoso",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "nadar-de-lado",
+    "type": "merit",
+    "line": "werewolf",
+    "name_en": "Nadar de Lado",
+    "name_es": "Nadar de Lado",
+    "body_es": "El hombre tiburón tiene una conexión natural con el Alma de Mar y puede entrar nadando allí de la misma manera que los Garou pueden caminar de lado sin el requisito de un objeto reflectante. El Rokea sólo puede utilizar este talento  en  mares  y  océanos;  los  hombres  tiburón  que  también posean el Mérito Caminar de Lado deberán recurrir a él en lugar de a Nadar de Lado cuando estén en tierra.",
+    "tags": [
+      "sólo Rokea"
+    ],
+    "mechanics": {
+      "cost": "4"
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "nadar-de-lado",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "sex-appeal",
+    "type": "merit",
+    "line": "werewolf",
+    "name_en": "Sex Appeal",
+    "name_es": "Sex Appeal",
+    "body_es": "Ya sea gracia, encanto o feromonas, tu personaje tiene algo.  A  aquellas  personas  que  se  vean  atraídas  por  el  sexo  de tu personaje les gusta estar cerca de él y complacerle. Esto le otorga un -2 a la dificultad a todas las tiradas Sociales contra esos individuos.",
+    "tags": [
+      "sólo Ananasi, Bastet, Kitsune y Nagah"
+    ],
+    "mechanics": {
+      "cost": "4"
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "sex-appeal",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "vision-infrarroja",
+    "type": "merit",
+    "line": "werewolf",
+    "name_en": "Visión Infrarroja",
+    "name_es": "Visión Infrarroja",
+    "body_es": "El personaje puede detectar fuentes de calor que estén hasta a 15 metros (50 pies) en cualquier Forma salvo la Balaram. Este Mérito es más frecuente entre los Nagah cuya forma serpentina  pertenezca  a  la  subfamilia  Crotalinae  (las  crótalos): víboras, serpientes de cascabel, punta de lanza y mocasines.",
+    "tags": [
+      "sólo Nagah"
+    ],
+    "mechanics": {
+      "cost": "4"
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "vision-infrarroja",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "cuasi-hombre-feral",
+    "type": "merit",
+    "line": "werewolf",
+    "name_en": "Cuasi Hombre Feral",
+    "name_es": "Cuasi Hombre Feral",
+    "body_es": "La Forma casi humana del personaje es inusualmente salvaje;  quizás  sea  el  resultado  de  incontables  horas  de refinamiento en el arte del Cambio de Forma o quizás simplemente el personaje nació siendo horrible. En cualquier caso, la Forma casi humana del cambiante posee garras capaces de infligir daño agravado.",
+    "tags": [
+      "todos excepto Ananasi, Corax, Mokolé y Ratkin"
+    ],
+    "mechanics": {
+      "cost": "5"
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "cuasi-hombre-feral",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "cambiante-de-sexo",
+    "type": "merit",
+    "line": "werewolf",
+    "name_en": "Cambiante de Sexo",
+    "name_es": "Cambiante de Sexo",
+    "body_es": "El personaje puede cambiar su sexo humano a voluntad disgregándose en la Forma Treparaña y reformándose en Forma Homínido después. Esto  puede  ser  útil  cuando  lo  persiguen; no sólo  es  improbable  que  los  perseguidores  confundan a un hombre con una mujer, sino que incluso su olor cambia para confundir a los Garou y otros cazadores de olfato agudo. Aparte del cambio de sexo, esto no supone un cambio de apariencia radical: ambos sexos tienen rasgos similares y se parecen lo suficiente como para parecer hermanos.",
+    "tags": [
+      "sólo Ananasi"
+    ],
+    "mechanics": {
+      "cost": "6"
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "cambiante-de-sexo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "step-sideways",
+    "type": "merit",
+    "line": "werewolf",
+    "name_en": "Caminar de Lado",
+    "name_es": "Caminar de Lado",
+    "body_es": "Al contrario que los miembros normales de su Raza, el personaje puede caminar de lado de la misma forma que los Garou. A pesar de que casi todos los miembros de su Raza pue- den acceder a la Umbra a través de Dones o Ritos, el personaje tiene  una  conexión  inherente  con  el  mundo  espiritual.  Quizás esto sea un bendición particular de un poderoso espíritu o quizás es tanto un misterio para él como para todos los demás.",
+    "tags": [
+      "sólo Bastet, Gurahl, Mokolé, Nagah y Rokea"
+    ],
+    "mechanics": {
+      "cost": "7"
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "caminar-de-lado",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "magia-de-gato-zorro",
+    "type": "merit",
+    "line": "werewolf",
+    "name_en": "Magia de Gato / Zorro",
+    "name_es": "Magia de Gato / Zorro",
+    "body_es": "Además de las  bendiciones  de  Luna  y  de  Gaia,  el personaje tiene una extraña aptitud para la magia humana menor: es capaz de aprender lo que los magos llaman 'Magia Estática'. El personaje puede utilizar este talento para imitar Dones y Ritos de cualquier Raza Cambiante, y puede desarrollar sus propios Ritos místicos con tiempo y la aprobación del Narrador. Para una visión más profunda de la Magia Estática, ver Hechicero Revisado .",
+    "tags": [
+      "sólo Bastet y Kitsune"
+    ],
+    "mechanics": {
+      "cost": "7"
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "magia-de-gato-zorro",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "review": {
+      "reason": "dual/compound name — may be two entities",
+      "conflicts": []
+    }
+  },
+  {
+    "id": "dientes-de-tiburon",
+    "type": "flaw",
+    "line": "werewolf",
+    "name_en": "Dientes de Tiburón",
+    "name_es": "Dientes de Tiburón",
+    "body_es": "Incluso en Forma Homínido, los dientes del personaje siguen  siendo  ligeramente  puntiagudos.  Esto  no  es  suficiente para infligir  ningún  daño  adicional,  pero  es  muy  llamativo.",
+    "tags": [
+      "sólo Rokea"
+    ],
+    "mechanics": {
+      "bonus": "1"
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "dientes-de-tiburon",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "no-puede-comer-comida-solida",
+    "type": "flaw",
+    "line": "werewolf",
+    "name_en": "No Puede Comer Comida Sólida",
+    "name_es": "No Puede Comer Comida Sólida",
+    "body_es": "Por alguna razón, el sistema digestivo humano del personaje no funciona; vive a dieta de sangre o de carne licuada y necesita consumir mucha más que el hombre araña típico. El personaje pierde automáticamente un punto de Sangre diario y, cuando su reserva de Sangre cae por debajo de 3, corre el riesgo de entrar en Frenesí por hambre.",
+    "tags": [
+      "sólo Ananasi"
+    ],
+    "mechanics": {
+      "bonus": "5"
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "no-puede-comer-comida-solida",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "pies-inseguros",
+    "type": "flaw",
+    "line": "werewolf",
+    "name_en": "Pies Inseguros",
+    "name_es": "Pies Inseguros",
+    "body_es": "El personaje no logra habituarse a caminar sobre dos piernas. Se tropieza con facilidad y sufre de vértigo sólo con levantar la vista. Suma 2 a la dificultad de todas las tiradas  relacionadas  con  movimientos  coordinados  en tierra (incluyendo el combate).",
+    "tags": [
+      "sólo Rokea"
+    ],
+    "mechanics": {
+      "bonus": "5"
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "pies-inseguros",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "microquiroptero",
+    "type": "merit",
+    "line": "werewolf",
+    "name_en": "Microquiróptero",
+    "name_es": "Microquiróptero",
+    "body_es": "Estos Camazotz estaban vinculados más estrechamente con los más pequeños de los murciélagos. En lugar de transformarse en su Forma Megaquiróptero, estos hombres murciélago  se  transformaban  de  forma  natural  en  una  bandada  de murciélagos idéntica a la creada por el Don Forma del Millar de  Alas.  Aprender  ese  Don  permitía  que  el  personaje  con  este Mérito pudiera adoptar también la Forma Megaquiróptero.",
+    "tags": [
+      "sólo Camazotz"
+    ],
+    "mechanics": {
+      "cost": "3"
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "microquiroptero",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  }
+]

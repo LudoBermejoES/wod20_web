@@ -1,52 +1,69 @@
 ---
 import Layout from '../layouts/Layout.astro';
-
-// Las seis líneas de juego cubiertas por la base de conocimiento (en español).
-const lineas = [
-  { id: 'mage', nombre: 'Mago', desc: 'La Ascensión' },
-  { id: 'vampire', nombre: 'Vampiro', desc: 'La Mascarada' },
-  { id: 'werewolf', nombre: 'Hombre Lobo', desc: 'El Apocalipsis' },
-  { id: 'wraith', nombre: 'Wraith', desc: 'El Olvido' },
-  { id: 'changeling', nombre: 'Changeling', desc: 'El Ensueño' },
-  { id: 'hunter', nombre: 'Cazador', desc: 'La Venganza' },
-];
+import { LINES } from '../lib/lines';
+import { lineUrl } from '../lib/entities';
 ---
 
 <Layout title="Mundo de Tinieblas 20 — Base de conocimiento">
   <h1>Mundo de Tinieblas 20.º aniversario</h1>
   <p>
     Base de conocimiento en español sobre los manuales de la 20.ª edición
-    aniversario del Mundo de Tinieblas. Sitio estático en construcción.
+    aniversario del Mundo de Tinieblas: lectura completa de los libros y
+    referencia de reglas (méritos, defectos, trasfondos y más) para las seis
+    líneas de juego.
   </p>
 
   <h2>Líneas de juego</h2>
   <ul class="lineas">
-    {lineas.map((l) => (
-      <li>
-        {l.id === 'mage' ? (
-          <a href="/mage"><strong>{l.nombre}</strong>: {l.desc}</a>
-        ) : (
-          <>
-            <strong>{l.nombre}</strong>: {l.desc}
-          </>
-        )}
-      </li>
-    ))}
+    {
+      LINES.map((l) => (
+        <li data-theme={l.id}>
+          <a href={lineUrl(l.id)}>
+            <strong>{l.nombre}</strong>
+            <span class="subtitulo">{l.subtitulo}</span>
+          </a>
+        </li>
+      ))
+    }
   </ul>
 
-  <p class="nota">
-    El contenido de los manuales traducidos se incorporará como colecciones de
-    contenido en las próximas iteraciones.
-  </p>
-
   <style>
-    h1 { font-size: clamp(1.8rem, 5vw, 3rem); margin-bottom: 0.25em; }
-    .lineas { list-style: none; padding: 0; display: grid; gap: 0.5rem; }
-    .lineas li {
-      padding: 0.75rem 1rem;
-      border: 1px solid color-mix(in oklab, currentColor 18%, transparent);
-      border-radius: 0.5rem;
+    h1 {
+      font-size: clamp(1.8rem, 5vw, 3rem);
+      margin-bottom: 0.25em;
     }
-    .nota { color: var(--muted); font-style: italic; }
+    .lineas {
+      list-style: none;
+      padding: 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(min(100%, 16rem), 1fr));
+      gap: var(--space-3);
+      margin-block: var(--space-4);
+    }
+    .lineas li {
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--bg-elevated);
+    }
+    .lineas a {
+      display: grid;
+      gap: 0.25rem;
+      padding: var(--space-4) var(--space-3);
+      text-decoration: none;
+      color: var(--fg);
+      border-inline-start: 4px solid var(--accent);
+      border-radius: var(--radius);
+    }
+    .lineas a:hover strong,
+    .lineas a:focus-visible strong {
+      color: var(--accent);
+    }
+    .lineas strong {
+      font-size: 1.2rem;
+    }
+    .lineas .subtitulo {
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
   </style>
 </Layout>

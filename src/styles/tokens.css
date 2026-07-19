@@ -66,3 +66,108 @@
     --accent-contrast: #ffffff;
   }
 }
+
+/* --- Vampire: La Mascarada — crimson/black -------------------------------- */
+[data-theme='vampire'] {
+  --bg: #17090b;
+  --bg-elevated: #230e11;
+  --fg: #f0dede;
+  --muted: #c79999;
+  --accent: #f43f5e;
+  --accent-contrast: #1a0508;
+}
+
+@media (prefers-color-scheme: light) {
+  [data-theme='vampire'] {
+    --bg: #fbf1f1;
+    --bg-elevated: #ffffff;
+    --fg: #2a0d10;
+    --muted: #7a3d42;
+    --accent: #b91c3c;
+    --accent-contrast: #ffffff;
+  }
+}
+
+/* --- Werewolf: El Apocalipsis — forest green/rust ------------------------- */
+[data-theme='werewolf'] {
+  --bg: #0f1710;
+  --bg-elevated: #17211a;
+  --fg: #e7ede7;
+  --muted: #9fb3a0;
+  --accent: #cc7722;
+  --accent-contrast: #1a1006;
+}
+
+@media (prefers-color-scheme: light) {
+  [data-theme='werewolf'] {
+    --bg: #f2f6f0;
+    --bg-elevated: #ffffff;
+    --fg: #16241a;
+    --muted: #4b5f4e;
+    --accent: #a3541f;
+    --accent-contrast: #ffffff;
+  }
+}
+
+/* --- Wraith: El Olvido — slate grey/muted violet -------------------------- */
+[data-theme='wraith'] {
+  --bg: #121317;
+  --bg-elevated: #1b1d24;
+  --fg: #e6e6ec;
+  --muted: #9a97ab;
+  --accent: #8b8aa8;
+  --accent-contrast: #17141f;
+}
+
+@media (prefers-color-scheme: light) {
+  [data-theme='wraith'] {
+    --bg: #f3f2f6;
+    --bg-elevated: #ffffff;
+    --fg: #1c1b24;
+    --muted: #5c5a6e;
+    --accent: #635f80;
+    --accent-contrast: #ffffff;
+  }
+}
+
+/* --- Changeling: El Ensueño — verdant green -------------------------------- */
+[data-theme='changeling'] {
+  --bg: #0d1912;
+  --bg-elevated: #14231a;
+  --fg: #e5f0e8;
+  --muted: #9dbfa8;
+  --accent: #22c55e;
+  --accent-contrast: #062b12;
+}
+
+@media (prefers-color-scheme: light) {
+  [data-theme='changeling'] {
+    --bg: #f1f8f3;
+    --bg-elevated: #ffffff;
+    --fg: #103a1c;
+    --muted: #3f6b4c;
+    --accent: #15803d;
+    --accent-contrast: #ffffff;
+  }
+}
+
+/* --- Hunter: La Venganza — amber/steel blue -------------------------------- */
+[data-theme='hunter'] {
+  --bg: #14120b;
+  --bg-elevated: #1f1b10;
+  --fg: #f0ead9;
+  --muted: #8fa3b3;
+  --accent: #f59e0b;
+  --accent-contrast: #241a03;
+}
+
+@media (prefers-color-scheme: light) {
+  [data-theme='hunter'] {
+    --bg: #faf6ee;
+    --bg-elevated: #ffffff;
+    --fg: #241d0d;
+    --muted: #46586a;
+    --accent: #8f5908;
+    --accent-contrast: #ffffff;
+  }
+}
