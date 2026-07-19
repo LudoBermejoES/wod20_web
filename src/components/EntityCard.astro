@@ -20,12 +20,27 @@ export interface Props {
 }
 const { entity } = Astro.props;
 const href = entityUrl(entity.line, entity.type, entity.id);
+
+// A card shows a short PLAIN-TEXT summary, not raw Markdown: drop tables and
+// Markdown syntax, then truncate. The full, rendered body lives on the detail page.
+function plainExcerpt(md: string, max = 220): string {
+  const beforeTable = md.split(/\n\s*\|/)[0]; // stop at the first table row
+  let text = beforeTable
+    .replace(/^#{1,6}\s+/gm, '') // headings
+    .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1') // links → text
+    .replace(/[*_`>#|]/g, '') // emphasis/code/blockquote/pipes
+    .replace(/\s+/g, ' ')
+    .trim();
+  if (text.length > max) text = text.slice(0, max).replace(/\s+\S*$/, '') + '…';
+  return text;
+}
+const excerpt = entity.body_es ? plainExcerpt(entity.body_es) : '';
 ---
 
 <article class="entity-card">
   <p class="type-badge">{typeLabelEs(entity.type)}</p>
   <h3><a href={href}>{entity.name_es}</a></h3>
-  {entity.body_es && <p class="excerpt">{entity.body_es}</p>}
+  {excerpt && <p class="excerpt">{excerpt}</p>}
   <StatBlock type={entity.type} mechanics={entity.mechanics} />
   {
     entity.review && (
