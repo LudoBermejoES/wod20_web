@@ -1,0 +1,37 @@
+{
+  "book_id": "wraith-manual-de-los-difuntos-recientes",
+  "line": "wraith",
+  "order": 0,
+  "slug": "creditos-y-edicion",
+  "block": "front-matter",
+  "block_title": "Portada y créditos",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Créditos y edición",
+  "content_type": "front-matter",
+  "source_line_range": [
+    2,
+    67
+  ],
+  "body_md": "## Créditos\n\nEscrito por: Richard Dansky.\n\nDesarrollado por: Richard Dansky.\n\nDesarrollador de la línea Mundo de Tinieblas: Matthew Dawkins.\n\nEditora: Maria Cambone.\n\nDirector creativo: Richard Thomas.\n\nDirector artístico: Michael Chaney.\n\nIlustraciones: Michael Gaydos.\n\nPortada: Michael Gaydos.\n\n## Agradecimientos especiales\n\nAgradecimientos especiales a Bruce Baugh y Lillian Cohen-Moore por sus opiniones durante el proceso de escritura.\n\n## Dedicatoria\n\nA todos los jugadores que alguna vez se preguntaron «¿qué pasa ahora…?».\n\n## Edición en español\n\nCoordinador de la línea: Héctor Gómez Herrero.\n\nTraductor:\n\nDaniel M. Schultes.\n\nCorrector:\n\nAlejandra «Argéntea» González.\n\nMaquetador:\n\nMarcos Manuel «EnOcH» Peral Villaverde.\n\nCoordinador editorial: Luis Fernández.\n\n\n\n\n\n\n\nISBN: 978-84-18586-92-7        Depósito Legal: M-24317-2022\n\nWraith: El Olvido© 2022 Paradox Interactive AB. T odos los derechos reservados. La reproducción sin el permiso escrito de la editorial está expresamente prohibida, salvo para la elaboración de reseñas y las hojas de personaje en blanco, que pueden ser reproducidas solo para uso personal. Mundo de Tinieblas y Wraith: El Olvido son marcas comerciales registradas de Paradox Interactive AB.\n\nTodos los derechos reservados. T odos los personajes, nombres, lugares y texto del presente documento son propiedad de Paradox Interactive AB.\n\nEste libro hace uso de lo sobrenatural para ambientaciones, personajes y temas. T odos los elementos místicos y sobrenaturales son ficticios y están destinados únicamente a propósitos lúdicos. Este libro contiene material explícito. Se recomienda sólo para lectores adultos.\n\nVisita World of Darkness online en https://www.worldofdarkness.com .\n\n[Visita Onyx Path online en http://www.theonyxpath.com .](http://www.theonyxpath.com/)\n\nVisita Biblioteca Oscura online en http://www.bibliotecaoscura.com .\n\nVisita Nosolorol online en http://www.nosolorol.com .",
+  "toc": [
+    {
+      "text": "Agradecimientos especiales",
+      "anchor": "agradecimientos-especiales"
+    },
+    {
+      "text": "Dedicatoria",
+      "anchor": "dedicatoria"
+    },
+    {
+      "text": "Edición en español",
+      "anchor": "edicion-en-espanol"
+    }
+  ],
+  "prev": null,
+  "next": {
+    "slug": "como-usar-este-manual",
+    "title": "Cómo usar este manual"
+  }
+}

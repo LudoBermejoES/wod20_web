@@ -1,0 +1,36 @@
+{
+  "book_id": "changelling-el-ensueno-guia-del-jugador",
+  "line": "changeling",
+  "order": 11,
+  "slug": "casas-vasallas",
+  "block": "cap1",
+  "block_title": "Capítulo Uno: El Gran Juego",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Casas Vasallas",
+  "content_type": "lore",
+  "source_line_range": [
+    973,
+    1004
+  ],
+  "body_md": "## libres pájaros enjoyados\n\nNo todos los miembros de la sociedad changeling encajan con el  estricto  sistema  de  gobierno  feudal  de  ésta,  especialmente las generaciones más jóvenes. Las redes sociales y la tecnología moderna proporcionan a los jóvenes Kithain la capacidad de comunicarse a través de estados y países y, como resultado, los ideales románticos de casarse dentro de la Corte a la que perteneces no siempre ocurren. Cuando Lady Alayne Grace, una formal noble Leanhaun, se enamora inesperadamente de Kat, una mortal, esto molesta a su prometida, la influyente Condesa Glynann Jones. Por no mencionar que este súbito romance amenaza con reavivar las hostilidades entre las tierras que su noble matrimonio tenía previsto calmar. Sin embargo, la joven pareja está enamorada y puede arriesgarlo todo por estar juntas. Los jugadores pueden usar este escenario y hacer uso de los objetivos en una partida inspirada en el clásico Romeo y Julieta donde las Casas Nobles están enfrentadas y la guerra está en el aire. Esto puede llevar a discusiones políticas y éticas  entre  jugadores.  Los  personajes  enamorados  necesitarán apelar a sus familias enfrentadas y pueden usar las tácticas mencionadas en este capítulo para hacerlo.\n\n## Casas vasallas\n\nAunque las Grandes Casas mantienen su control sobre la política y la cultura Kithain, no son las entidades monolíticas y  firmes que los foráneos asumen. Hay alianzas personales y  rivalidades  que  tener  en  cuenta,  por  supuesto,  así  como diversas  sociedades  (algunas  secretas,  otras  no  tanto)  que los nobles forman con otros miembros con ideas afines. Sin embargo, más allá de estos grupos, una vieja tradición ha sido reconocida recientemente por el Parlamento de los Sueños y bendecida por el propio Ensueño. En concreto, las ramas nobles conocidas como Casas vasallas.\n\n\n\n\n\n\n\n\n\n## Casas aliadas\n\nLas Casas vasallas a veces se vuelven aliadas de ciertas Grandes Casas aparte de la suya propia, especialmente si  mantienen  territorios  vecinos  durante  un largo tiempo. En un valle remoto de los Apalaches donde los únicos nobles son una Casa vasalla de los Liam y un pequeño baluarte Balor podrían, con el tiempo, llegar a  confiar  unos  en  otros  y  colaborar  contra las amenazas locales. Los juramentos de amistad y los matrimonios solidifican estos vínculos y, aunque las  Casas  vasallas  permanecen  firmemente  leales  a  sus Grandes Casas, no es infrecuente que incorporen colores o símbolos que hagan referencia a su Casa aliada. El pendón Liam de este ejemplo podría usar aún el árbol marchito de los Liam, pero ser un árbol negro sobre un campo de plata para mostrar sus lazos con sus longevos (aunque insólitos) aliados Balor.\n\n\n\n\n\nQuizás es mejor visualizar una Casa vasalla como algo similar a la rama que diverge de un árbol genealógico. Aún está conectada con él y tiene mucho en común con sus primos, pero también muestra ciertas diferencias. A nivel organizativo, encaja en alguna parte más allá de una facción política o una sociedad secreta, pero aún está lejos de ser una Gran Casa bien desarrollada.\n\nLas  Casas  vasallas  han  sido  una  tradición  informal  durante largo  tiempo,  nacidas  en  los  desesperados  tiempos  tras  la  partida de los Sidhe Arcadianos. Los Sidhe de Otoño mantuvieron unidos a la nobleza que permaneció y a los plebeyos leales lo mejor que pudieron, y guiaron a lo  que  quedaba  de  las  Grandes Casas a través de aquel nuevo mundo anegado de Banalidad. Muchos elevaron a miembros de Linajes plebeyos a sus filas, a veces por primera vez en la historia de la Casa, pero incluso con una [infusión](/changeling/arts/infusion) de sangre nueva, las Casas eran demasiado pequeñas y estaban demasiado dispersas para mantener un control coherente sobre la política Kithain. Así nacieron las Casas vasallas.\n\nUna Casa vasalla solía fundarse cuando una única línea familiar de una de las Grandes Casas mantenía un territorio concreto o (en raros casos, una función) durante tanto tiempo que era reconocida como una entidad distintiva dentro de esa Casa. Esto era más común en áreas remotas fuera del alcance normal de la política Kithain, donde una familia adquiría su propia identidad con el tiempo y no había una presencia",
+  "toc": [
+    {
+      "text": "Casas vasallas",
+      "anchor": "casas-vasallas"
+    },
+    {
+      "text": "Casas aliadas",
+      "anchor": "casas-aliadas"
+    }
+  ],
+  "prev": {
+    "slug": "jugar-a-la-politica",
+    "title": "Jugar a la Política"
+  },
+  "next": {
+    "slug": "el-computo-y-la-creacion-de-casas-vasallas",
+    "title": "El Cómputo y la Creación de Casas Vasallas"
+  }
+}

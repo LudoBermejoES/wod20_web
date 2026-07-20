@@ -1,0 +1,33 @@
+{
+  "book_id": "changelling-el-ensueno-guia-del-jugador",
+  "line": "changeling",
+  "order": 0,
+  "slug": "creditos-y-edicion",
+  "block": "front-matter",
+  "block_title": "Portada y Créditos",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Créditos y Edición",
+  "content_type": "front-matter",
+  "source_line_range": [
+    1,
+    79
+  ],
+  "body_md": "Christine Beard, Nina Bellio, Charlie Cantrell, Luka Carroll, Greg Curley, Steffie de Vaan, Josh Harrison, Jacqueline Penny Hart, Klara Horskjær Herbøl, Krister M. Michl, Myranda Sarro, Elsa Sjunneson-Henry, Ericka Skirpan, Pete Woodworth\n\n\n\n## Créditos\n\nAutores :  Christine  Beard,  Nina  Bellio,  Charlie  Cantrell, Luka Carroll, Greg Curley, Steffie de Vaan, Josh Harrison, Jacqueline Penny Hart, Klara Horskjær Herbøl, Krister M. Michl, Myranda Sarro, Elsa Sjunneson-Henry, Ericka Skirpan, Pete Woodworth.\n\nDesarrolladores : Luka Carroll, Pete Woodworth.\n\nDesarrollador de la  línea  Mundo  de  Tinieblas: Matthew Dawkins.\n\nEditora : Maria Cambone.\n\nAyudante de documentación: Meg Woodworth.\n\nIlustradores :  Drew Tucker, Enzo Lopez, Jeff Holt, Brian Leblanc, Ken Meyer Jr., Vince Locke, Steve Wood.\n\nDirector artístico: Mike Chaney.\n\nDirector creativo\n\n: Richard Thomas.\n\n\n\n## dediCatoria\n\nEste libro está dedicado a ti .\n\nTú lo has hecho posible. Gracias por todo. Esperamos hacerte sentir orgulloso.\n\nAgradecimientos especiales a Agata « Ś wistak» Lubanska, Ben «Libros» Schwartz, Stefan Deutsch, Michael Pucci, Marta Szyndler, Jeramy Merritt, Kris Kitts y el resto del equipo del Burning Revel. ¡Larga vida al Príncipe del Glam!\n\nAdemás, a Luka le gustaría agradecer, sin un orden de importancia concreto, a: Damian, por su educación y ayuda cruciales; Logan, por ser puñeteramente increíble a cualquier hora del día o la noche; Dawkins, por hacer lo posible y lo imposible cuando más lo necesitaba; Amanda por mantenerme vivo y cuerdo; y a mis hijos, por recordarme que el Glamour existe.\n\nPor  su  parte,  a  Pete  le  gustaría  extender  personalmente  su  cariño y su gratitud a: el escuadrón del último momento; la hospitalidad y la Hoguera del Ducado de Bryn Athyn; la sal, la arena, la pulverización marina y los caminos secretos de la Baronía de los Pinos; los últimos de Liberty City (¡quemadla hasta los cimientos!); los corazones vidriados convocados al Gran Concejo de los Síocháin; el apoyo de la cuadrilla de Nockers, Redcaps y Lilin más asombrosa e insólita que haya habido jamás; y por encima de todo a Meg, la siempre amante y paciente Boggan que mantiene el corazón de este Eshu Gruñón siempre lleno de Glamour.\n\n## ediCión en español\n\nCoordinador de la línea: Héctor Gómez Herrero.\n\nTraductores: Héctor Gómez Herrero y Miguel Ángel Lucas Lorenzo .\n\nCorrector: Alejandra «Argéntea» González.\n\nMaquetador: Marcos Manuel «EnOcH» Peral Villaverde. Coordinador editorial: Luis Fernández.\n\n\n\n\n\nChangeling: El Ensueño © 2022 Paradox Interactive AB. Todos los derechos reservados. La reproducción sin el permiso escrito de la editorial está expresamente prohibida, salvo para la elaboración de reseñas y las hojas de personaje en blanco, que pueden ser reproducidas solo para uso personal.\n\nMundo de Tinieblas © y Changeling: El Ensueño © son marcas comerciales registradas de Paradox Interactive AB.\n\nTodos los derechos reservados. Todos los personajes, nombres, lugares y texto del presente documento son propiedad de Paradox Interactive AB.\n\nEste libro hace uso de lo sobrenatural para ambientaciones, personajes y temas. Todos los elementos místicos y sobrenaturales son ficticios y están destinados únicamente a propósitos lúdicos. Este libro contiene material explícito. Se recomienda sólo para lectores adultos.\n\nVisita World of Darkness online en https://www.worldofdarkness.com .\n\nVisita Onyx Path online en http://www.theonyxpath.com .\n\nVisita Biblioteca Oscura online en http://www.bibliotecaoscura.com .\n\nVisita Nosolorol online en http://www.nosolorol.com .",
+  "toc": [
+    {
+      "text": "dediCatoria",
+      "anchor": "dedicatoria"
+    },
+    {
+      "text": "ediCión en español",
+      "anchor": "edicion-en-espanol"
+    }
+  ],
+  "prev": null,
+  "next": {
+    "slug": "cinco-cuentos-cortos",
+    "title": "Cinco Cuentos Cortos"
+  }
+}

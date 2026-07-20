@@ -1,0 +1,361 @@
+{
+  "book_id": "v20-companion-es",
+  "line": "vampire",
+  "title_es": "Vampiro: Compañero del V20",
+  "book_title_es": "Vampiro: Compañero del V20",
+  "page_count": 44,
+  "tree": [
+    {
+      "block": "preliminares",
+      "block_title": "Preliminares",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos",
+              "title": "Créditos",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "Introducción",
+          "pages": [
+            {
+              "slug": "introduccion",
+              "title": "Introducción",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap1-titulos",
+      "block_title": "Capítulo Uno: Títulos",
+      "chapters": [
+        {
+          "chapter": "Capítulo Uno: Títulos",
+          "pages": [
+            {
+              "slug": "titulos-reconocidos",
+              "title": "Títulos reconocidos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "la-camarilla",
+              "title": "La Camarilla",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "el-sabbat",
+              "title": "El Sabbat",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "el-movimiento-anarquista",
+              "title": "El Movimiento Anarquista",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "la-tal-mahe-ra",
+              "title": "La Tal'Mahe'Ra",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "el-inconnu",
+              "title": "El Inconnu",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "titulos-especificos-de-clan",
+              "title": "Títulos específicos de Clan",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "caitiff",
+              "title": "Caitiff",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap2-prestacion",
+      "block_title": "Capítulo Dos: Prestación",
+      "chapters": [
+        {
+          "chapter": "Capítulo Dos: Prestación",
+          "pages": [
+            {
+              "slug": "favores",
+              "title": "Favores",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "sectas-y-favores",
+              "title": "Sectas y favores",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap3-tecnologia",
+      "block_title": "Capítulo Tres: Vástagos y Tecnología",
+      "chapters": [
+        {
+          "chapter": "Capítulo Tres: Vástagos y Tecnología",
+          "pages": [
+            {
+              "slug": "vastagos-y-tecnologia",
+              "title": "Vástagos y Tecnología",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-archivo-de-los-ancestros",
+              "title": "El Archivo de los Ancestros",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "la-guerra-de-las-edades",
+              "title": "La Guerra de las Edades",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap4-mundo",
+      "block_title": "Capítulo Cuatro: Un Mundo de Tinieblas",
+      "chapters": [
+        {
+          "chapter": "Capítulo Cuatro: Un Mundo de Tinieblas",
+          "pages": [
+            {
+              "slug": "un-mundo-de-tinieblas",
+              "title": "Un Mundo de Tinieblas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-catedral-de-la-carne-localizacion-desconocida",
+              "title": "La Catedral de la Carne (localización desconocida)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "castillo-hunedoara-transilvania-rumania",
+              "title": "Castillo Hunedoara (Transilvania, Rumanía)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "vampire-club-san-francisco-california-ee-uu",
+              "title": "Vampire Club (San Francisco, California, EE.UU.)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "catedral-da-se-sao-paulo-brazil",
+              "title": "Catedral da Sé (São Paulo, Brazil)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "medianoche-de-las-hermanas-rojas-localizacion-variable",
+              "title": "Medianoche de las Hermanas Rojas (localización variable)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "kaymakl-capadocia-turquia",
+              "title": "Kaymaklı (Capadocia, Turquía)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "cementerio-de-highgate-londres-inglaterra",
+              "title": "Cementerio de Highgate (Londres, Inglaterra)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "palacio-de-lecumberri-ciudad-de-mexico-mexico",
+              "title": "Palacio de Lecumberri (Ciudad de México, México)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "gaslamp-san-diego-california-ee-uu",
+              "title": "Gaslamp (San Diego, California, EE.UU.)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "sala-de-juntas-de-lodin-chicago-ee-uu",
+              "title": "Sala de Juntas de Lodin (Chicago, EE.UU.)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-pira-de-moloch-tunez-norte-de-africa",
+              "title": "La Pira de Moloch (Túnez, Norte de África)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-tumba-del-patriarca-estambul-turquia",
+              "title": "La Tumba del Patriarca (Estambul, Turquía)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "succubus-club-localizacion-variable",
+              "title": "Succubus Club (localización variable)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capilla-principal-viena-austria",
+              "title": "Capilla Principal (Viena, Austria)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "alamut-cerca-de-teheran-iran",
+              "title": "Alamut (cerca de Teherán, Irán)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "catacumbas-de-paris-paris-francia",
+              "title": "Catacumbas de París (París, Francia)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "laboratorio-del-dr-netchurch-lowell-massachussetts-ee-uu",
+              "title": "Laboratorio del Dr. Netchurch (Lowell, Massachussetts, EE.UU.)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "utgard-vestery-noruega",
+              "title": "Utgård (Vesterøy, Noruega)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "abadia-de-la-santa-corona-hampshire-inglaterra",
+              "title": "Abadía de la Santa Corona (Hampshire, Inglaterra)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "gamla-stan-estocolmo-suecia",
+              "title": "Gamla Stan (Estocolmo, Suecia)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "poveglia-venecia-italia",
+              "title": "Poveglia (Venecia, Italia)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "celestial-park-dallas-texas-ee-uu",
+              "title": "Celestial Park (Dallas, Texas, EE.UU.)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "varosha-famagusta-chipre",
+              "title": "Varosha (Famagusta, Chipre)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-panteon-chase-oistins-barbados",
+              "title": "El Panteón Chase (Oistins, Barbados)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "block-arcade-melbourne-australia",
+              "title": "Block Arcade (Melbourne, Australia)",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "apendice",
+      "block_title": "Apéndice",
+      "chapters": [
+        {
+          "chapter": "Apéndice",
+          "pages": [
+            {
+              "slug": "apendice-material-recortado",
+              "title": "Apéndice: Material Recortado",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cierre",
+      "block_title": "Cierre",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "otros-libros-y-anuncios",
+              "title": "Otros Libros y Anuncios",
+              "part": null,
+              "content_type": "back-matter"
+            },
+            {
+              "slug": "carta-de-agradecimiento-a-los-fans-de-mundo-de-tinieblas",
+              "title": "Carta de agradecimiento a los fans de Mundo de Tinieblas",
+              "part": null,
+              "content_type": "back-matter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

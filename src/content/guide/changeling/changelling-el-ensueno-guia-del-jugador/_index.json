@@ -1,0 +1,431 @@
+{
+  "book_id": "changelling-el-ensueno-guia-del-jugador",
+  "line": "changeling",
+  "title_es": "Changeling: El Ensueño — Guía del Jugador",
+  "book_title_es": "Changeling: El Ensueño — Guía del Jugador",
+  "page_count": 52,
+  "tree": [
+    {
+      "block": "front-matter",
+      "block_title": "Portada y Créditos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos-y-edicion",
+              "title": "Créditos y Edición",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "relato",
+      "block_title": "Cinco Cuentos Cortos",
+      "chapters": [
+        {
+          "chapter": "Relato",
+          "pages": [
+            {
+              "slug": "cinco-cuentos-cortos",
+              "title": "Cinco Cuentos Cortos",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "Introducción",
+          "pages": [
+            {
+              "slug": "el-poder-de-la-eleccion",
+              "title": "El Poder de la Elección",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "en-estas-paginas",
+              "title": "En Estas Páginas",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "personas-con-discapacidades-en-el-ensueno",
+              "title": "Personas con Discapacidades en el Ensueño",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "que-importancia-tiene-un-nombre",
+              "title": "¿Qué Importancia Tiene un Nombre?",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap1",
+      "block_title": "Capítulo Uno: El Gran Juego",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "la-orden-arcadiana",
+              "title": "La Orden Arcadiana",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-luminosos-y-los-oscuros",
+              "title": "Los Luminosos y los Oscuros",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-15o-asiento-y-la-camara-de-concordia",
+              "title": "El 15º Asiento y la Cámara de Concordia",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-partidos-concordianos-y-los-procedimientos-parlamentarios",
+              "title": "Los Partidos Concordianos y los Procedimientos Parlamentarios",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "jugar-a-la-politica",
+              "title": "Jugar a la Política",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "casas-vasallas",
+              "title": "Casas Vasallas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-computo-y-la-creacion-de-casas-vasallas",
+              "title": "El Cómputo y la Creación de Casas Vasallas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "casas-vasallas-destacadas",
+              "title": "Casas Vasallas Destacadas",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap2",
+      "block_title": "Capítulo Dos: La Corte Sombría",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "la-corte-sombria",
+              "title": "La Corte Sombría",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-corte-negra",
+              "title": "La Corte Negra",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "samhain-y-las-tradiciones",
+              "title": "Samhain y las Tradiciones",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-caceria-salvaje",
+              "title": "La Cacería Salvaje",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "trasfondos-meritos-y-defectos-de-la-corte-sombria",
+              "title": "Trasfondos, Méritos y Defectos de la Corte Sombría",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "sociedades-secretas",
+              "title": "Sociedades Secretas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-circulo-de-cristal-y-mas-sociedades",
+              "title": "El Círculo de Cristal y Más Sociedades",
+              "part": "El Círculo de Cristal y Más Sociedades",
+              "content_type": "lore"
+            },
+            {
+              "slug": "crear-una-sociedad-secreta",
+              "title": "Crear una Sociedad Secreta",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap3",
+      "block_title": "Capítulo Tres: Un Mundo de Sueños",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "suenos-viejos-y-nuevos",
+              "title": "Sueños Viejos y Nuevos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "africa-tierra-de-los-suenos-ancestrales",
+              "title": "África: Tierra de los Sueños Ancestrales",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "reino-de-nubia-cuna-de-los-imperios-y-las-estaciones",
+              "title": "Reino de Nubia, Cuna de los Imperios y las Estaciones",
+              "part": "Reino de Nubia, Cuna de los Imperios y las Estaciones",
+              "content_type": "lore"
+            },
+            {
+              "slug": "nuevos-linajes-de-africa",
+              "title": "Nuevos Linajes de África",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "sudamerica-bellatierra",
+              "title": "Sudamérica: Bellatierra",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "nuevos-linajes-de-sudamerica",
+              "title": "Nuevos Linajes de Sudamérica",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "australia-en-el-tiempo-del-sueno",
+              "title": "Australia: En el Tiempo del Sueño",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "nuevos-linajes-de-australia",
+              "title": "Nuevos Linajes de Australia",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-creciente-fertil-al-hilal-al-khaseeb",
+              "title": "El Creciente Fértil (Al-Hilal al-Khaseeb)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-jinn-del-creciente-fertil",
+              "title": "Los Jinn del Creciente Fértil",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap4",
+      "block_title": "Capítulo Cuatro: Misterios Más Profundos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "los-inmortales-los-siochain",
+              "title": "Los Inmortales: Los Síocháin",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "pesadilla-y-confusion",
+              "title": "Pesadilla y Confusión",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "los-perdidos",
+              "title": "Los Perdidos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "inspirar-la-oscuridad",
+              "title": "Inspirar la Oscuridad",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "desatar-y-las-improntas",
+              "title": "Desatar y las Improntas",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap5",
+      "block_title": "Capítulo Cinco: Quimeras",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "licios-quimeras-nacidas-del-otono",
+              "title": "Licios: Quimeras Nacidas del Otoño",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "categorias-de-licios",
+              "title": "Categorías de Licios",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "creacion-de-personaje-licio",
+              "title": "Creación de Personaje Licio",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "redes-de-los-licios",
+              "title": "Redes de los Licios",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "licios-notables",
+              "title": "Licios Notables",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "companeros-quimericos",
+              "title": "Compañeros Quiméricos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "crear-vinculos-mecanicas-y-nuevas-redes",
+              "title": "Crear Vínculos: Mecánicas y Nuevas Redes",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "las-feroces-y-las-leales-companeros-de-ejemplo",
+              "title": "Las Feroces y las Leales: Compañeros de Ejemplo",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap6",
+      "block_title": "Capítulo Seis: Un Tesoro de Magia",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "moldear-materia-onirica",
+              "title": "Moldear Materia Onírica",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "tesoros-velo-accesorios-vestimenta-y-armadura",
+              "title": "Tesoros: Velo, Accesorios, Vestimenta y Armadura",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "tesoros-y-maravillas",
+              "title": "Tesoros y Maravillas",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "doncellas-cisne-nuevo-linaje",
+              "title": "Doncellas Cisne (Nuevo Linaje)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "nueva-arte-infusion",
+              "title": "Nueva Arte: Infusión",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "nueva-arte-narracion",
+              "title": "Nueva Arte: Narración",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "back-matter",
+      "block_title": "Cierre",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "proximamente-avance",
+              "title": "Próximamente: Avance",
+              "part": null,
+              "content_type": "back-matter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "book_id": "v20-nsr-aniversario-es",
+  "line": "vampire",
+  "title_es": "Vampiro: La Mascarada — Saber de las Líneas de Sangre (Edición 20.º Aniversario)",
+  "book_title_es": "Vampiro: La Mascarada — Saber de las Líneas de Sangre (Edición 20.º Aniversario)",
+  "page_count": 22,
+  "tree": [
+    {
+      "block": "preliminares",
+      "block_title": "Preliminares",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos-y-edicion",
+              "title": "Créditos y edición",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "Introducción",
+          "pages": [
+            {
+              "slug": "introduccion",
+              "title": "Introducción",
+              "part": null,
+              "content_type": "fiction"
+            },
+            {
+              "slug": "que-hay-en-este-libro",
+              "title": "¿Qué hay en este libro?",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "baali",
+      "block_title": "Baali",
+      "chapters": [
+        {
+          "chapter": "Baali",
+          "pages": [
+            {
+              "slug": "saber-y-noches-actuales",
+              "title": "Saber y noches actuales",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "personajes-disciplinas-y-reglas",
+              "title": "Personajes, Disciplinas y Reglas",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "gargolas",
+      "block_title": "Gárgolas",
+      "chapters": [
+        {
+          "chapter": "Gárgolas",
+          "pages": [
+            {
+              "slug": "saber-y-noches-actuales-2",
+              "title": "Saber y noches actuales",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "personajes-disciplinas-y-reglas-2",
+              "title": "Personajes, Disciplinas y Reglas",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "heraldos-calaveras",
+      "block_title": "Heraldos de las Calaveras",
+      "chapters": [
+        {
+          "chapter": "Heraldos de las Calaveras",
+          "pages": [
+            {
+              "slug": "saber-y-noches-actuales-3",
+              "title": "Saber y noches actuales",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "personajes-disciplinas-y-reglas-3",
+              "title": "Personajes, Disciplinas y Reglas",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "hijas-cacofonia",
+      "block_title": "Hijas de la Cacofonía",
+      "chapters": [
+        {
+          "chapter": "Hijas de la Cacofonía",
+          "pages": [
+            {
+              "slug": "saber-y-noches-actuales-4",
+              "title": "Saber y noches actuales",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "personajes-disciplinas-y-reglas-4",
+              "title": "Personajes, Disciplinas y Reglas",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "kiasyd",
+      "block_title": "Kiasyd",
+      "chapters": [
+        {
+          "chapter": "Kiasyd",
+          "pages": [
+            {
+              "slug": "saber-y-noches-actuales-5",
+              "title": "Saber y noches actuales",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "personajes-disciplinas-y-reglas-5",
+              "title": "Personajes, Disciplinas y Reglas",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "nagaraja",
+      "block_title": "Nagaraja",
+      "chapters": [
+        {
+          "chapter": "Nagaraja",
+          "pages": [
+            {
+              "slug": "saber-y-noches-actuales-6",
+              "title": "Saber y noches actuales",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "personajes-disciplinas-y-reglas-6",
+              "title": "Personajes, Disciplinas y Reglas",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "salubri",
+      "block_title": "Salubri",
+      "chapters": [
+        {
+          "chapter": "Salubri",
+          "pages": [
+            {
+              "slug": "saber-y-noches-actuales-7",
+              "title": "Saber y noches actuales",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "personajes-disciplinas-y-reglas-7",
+              "title": "Personajes, Disciplinas y Reglas",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "samedi",
+      "block_title": "Samedi",
+      "chapters": [
+        {
+          "chapter": "Samedi",
+          "pages": [
+            {
+              "slug": "saber-y-noches-actuales-8",
+              "title": "Saber y noches actuales",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "personajes-disciplinas-y-reglas-8",
+              "title": "Personajes, Disciplinas y Reglas",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "verdaderos-brujah",
+      "block_title": "Verdaderos Brujah",
+      "chapters": [
+        {
+          "chapter": "Verdaderos Brujah",
+          "pages": [
+            {
+              "slug": "saber-y-noches-actuales-9",
+              "title": "Saber y noches actuales",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "personajes-disciplinas-y-reglas-9",
+              "title": "Personajes, Disciplinas y Reglas",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cierre",
+      "block_title": "Contraportada",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "saber-de-las-lineas-de-sangre-incluye",
+              "title": "Saber de las Líneas de Sangre incluye",
+              "part": null,
+              "content_type": "back-matter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

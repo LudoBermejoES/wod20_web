@@ -1,0 +1,36 @@
+{
+  "book_id": "wraith-el-libro-del-olvido",
+  "line": "wraith",
+  "order": 6,
+  "slug": "estilos-aleaciones-y-fracturas",
+  "block": "forja",
+  "block_title": "Máquinas en los Fantasmas: Forja de Almas",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Estilos, Aleaciones y Fracturas",
+  "content_type": "rule",
+  "source_line_range": [
+    533,
+    580
+  ],
+  "body_md": "## Estilos\n\nUn personaje  con  la  historia  o  las  conexiones  apropiadas  puede adquirir una Especialidad de Artesanía en uno de los principales estilos  de  forja  de  almas  descritos  en  lugar  de  especializarse  de  forma «genérica» en ella.  Trabajar  en  este  estilo  es  opcional  en  cada  trabajo, pero  el  herrero  no  puede  usar  o  abandonar  un  estilo  a  medio  trabajo. Una vez se ha declarado un estilo, se usa para todo el proceso. Cada estilo tiene un beneficio y una desventaja asociados.\n\nNhúdrico: Durante cada estadio de la forja, el jugador puede usar Fuerza en lugar del Atributo especificado. Durante el estadio de trabajo, acumular tres fracasos destruye el alma y da a la Sombra del herrero 3 puntos de Angustia temporal. Durante la  finalización, incrementar el Corpus del objeto requiere sólo 2 éxitos. Romper un objeto  Nhúdrico  requiere  1  punto  más  de  Fuerza  de  lo  normal,  lo  cual se  acumula  con  otros  modificadores  (ver Wraith:  El  Olvido ,  pág.  320).\n\nZürcher: Durante cada estadio de la forja, el jugador puede usar Percepción en lugar del Atributo especificado, pero cada tirada conlleva  4  horas.  Durante  la  finalización,  añadir  una  Especialización o decoración cuesta 1 éxito menos. Cuando es visible, un producto Zürcher aplica -1 a la dificultad a cualquier intento por parte de su propietario de impresionar o destacar visualmente.\n\nIsla de las Rosas: Durante cada estadio de la forja, el jugador puede  usar  Manipulación  en  lugar  del  Atributo  especificado,  el  primer fracaso no añade una fractura, pero cada fracaso confiere a la Sombra del herrero 3 puntos de Angustia temporal. Cuando es objetivo de cualquier poder o manifestación del Olvido, un producto de la Isla de las Rosas cancela 2 éxitos y cualquier criatura del Olvido, lo que incluye wraiths controlados por su Sombra, sufre +1 de dificultad en todas las tiradas que involucren el objeto.\n\n## Aleaciones\n\nEl Plasma es la materia prima ubicua de la forja de almas. Trabajado por sí solo, da lugar a acero de almas. Un herrero hábil puede hacer que un producto de acero de almas parezca un abanico de sustancias mucho mayor que simple metal transustanciado. Sin embargo, los herreros han aprendido a amalgamar el Plasma con cualquiera de las demás sustancias del Inframundo para producir diversas aleaciones implausibles, de las que la más conocida es el acero estigio (ver Wraith: El Olvido , pág. 45 y 296).\n\nAcero estigio: Como establece Wraith: El Olvido , los objetos de acero estigio son más difíciles de romper (pág. 320) y tienen más Corpus (pág. 329). Además, un arma de acero estigio causa daño agravado.  Forjar  un  objeto  de  acero  estigio  requiere  Artesanía  ···· o más y cada tirada en el proceso conlleva el triple del tiempo usual.\n\nAcero necropolitano: Una forma inferior de acero estigio que se abstiene de los materiales más contaminados por el Olvido. No es infrecuente por su dificultad, sino por su menor prestigio. Un objeto de acero necropolitano obtene Corpus adicional como si fuera de acero estigio, pero no recibe ningún otro de sus beneficios. Forjar un objeto de acero necropolitano requiere Artesanía ··· o más y cada tirada en el proceso de creación conlleva el doble del tiempo usual.\n\nFerroceniza: Producida al quemar uno de los árboles de valor incalculable que se esfuerzan por crecer a la orilla del Gran Río. Es valorada por su color y flexibilidad. Es de un blanco roto tan puro que es ligeramente luminiscente. Durante la finalización, reducir la penalización a la Destreza de la armadura cuesta sólo un éxito. Un látigo de ferroceniza u otra arma flexible reduce las dificultades de ataque en 1. Forjar un objeto de ferroceniza requiere Artesanía ··· o más y cada tirada conlleva el doble del tiempo usual.\n\nAdamante laberintino: Esta aleación tocada por el Olvido es cada vez más escasa en Estigia dada su dependencia de la sustancia gris  paloma  semejante  al  carbón  que  se  extrae  del  Laberinto. Entre los Espectros es también rara, aunque más común que el acero estigio, y su creación se acredita a la Verdadera Lanza. Es una aleación con un patrón de agua cuyos granos claros y oscuros se mueven lentamente en espirales hipnóticas que sin duda no se resuelven en formas blasfemas de cara chillando cuando se aparta la mirada. El dueño del adamante laberintino puede alimentarlo con 2 puntos de Pathos (o 1 de Angustia) para hacerlo invisible una escena, y tiene un 50% más de Corpus del normal. Un arma de adamante laberintino causa daño agravado salvo a los Espectros, que sufren daño normal. Su forja requiere Artesanía ····· (··· para Espectros) y cada tirada conlleva el triple del tiempo usual.\n\nPuede haber otras aleaciones; sólo el deseo del Narrador de aventurarse  en  tropos  de  alta  fantasía  limita  la  extensión  de  la necrometalurgia.\n\n## Fracturas\n\nUna fractura en un objeto forjado de almas no es un defecto físico sino espiritual inducido por el fallo del herrero para derretir completamente  el  alma  en  Plasma  en  bruto.  No  deberían  ser incapacitantes, sino inconvenientes menores que buscan dar un toque inquietante adicional a cosas en última instancia hechas a partir de gente y recuerdos. La siguiente lista sólo toca la superficie de todas las posibilidades; los grupos de juego deberían sentirse libres de generar sus propias fracturas en base de lo que hace que todo el mundo a la mesa ría nerviosamente.\n\nAtractivo: El  objeto  es  muy  interesante  para  una  clase  particular de entidades (Plañideros, Barqueros, Espectros, hombre lobo…).\n\nFugaz: Cada vez que se suelta, el objeto rueda o rebota sin falta al lugar más inconveniente a 1,5 metros.\n\nLloroso: El objeto rezuma ocasionalmente Plasma que deja débiles manchas de sal sobre el Corpus y las vestiduras Reliquia.\n\nMagnético: La  Sombra  del  portador  del  objeto  se  obsesiona  con  él.\n\nNihilista: Cada vez que se suelta, el objeto rueda o rebota sin falta a 1,5 metros hacia el Nihil más cercano lo bastante grande para tragárselo.\n\nRuidoso: El  objeto  emite  débiles  gimoteos  en  momentos socialmente incómodos.\n\nSolitario: Si se deja desatendido, el objeto gravita hacia otros objetos forjados de almas.\n\nSonámbulo: A veces,  cuando  el  dueño  entra  en  Sopor,  el objeto se desplaza hasta el siguiente wraith en Sopor más cercano.\n\nTransitorio: Las  criaturas  sobrenaturales  al  otro  lado  del  Manto a veces reaccionan a la presencia del objeto.\n\nVulnerable: El objeto busca la destrucción. Cada vez que sufre daño, el atacante tira un dado adicional.",
+  "toc": [
+    {
+      "text": "Aleaciones",
+      "anchor": "aleaciones"
+    },
+    {
+      "text": "Fracturas",
+      "anchor": "fracturas"
+    }
+  ],
+  "prev": {
+    "slug": "sistema-de-forja-de-almas",
+    "title": "Sistema de Forja de Almas"
+  },
+  "next": {
+    "slug": "artefactos",
+    "title": "Artefactos"
+  }
+}

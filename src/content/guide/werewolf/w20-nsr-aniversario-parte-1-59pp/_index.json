@@ -1,0 +1,156 @@
+{
+  "book_id": "w20-nsr-aniversario-parte-1-59pp",
+  "line": "werewolf",
+  "title_es": "Hombre Lobo: El Desollador (Parte 1)",
+  "book_title_es": "Hombre Lobo: El Desollador (Parte 1)",
+  "page_count": 13,
+  "tree": [
+    {
+      "block": "preliminares",
+      "block_title": "Preliminares",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "el-pueblo-recuerda",
+              "title": "El Pueblo Recuerda",
+              "part": null,
+              "content_type": "fiction"
+            },
+            {
+              "slug": "creditos",
+              "title": "Créditos",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "Introducción",
+          "pages": [
+            {
+              "slug": "introduccion",
+              "title": "Introducción",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Trasfondo y Antecedentes",
+          "pages": [
+            {
+              "slug": "trasfondo-y-antecedentes",
+              "title": "Trasfondo y Antecedentes",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "la-historia",
+      "block_title": "La Historia",
+      "chapters": [
+        {
+          "chapter": "Nuevos Elementos",
+          "pages": [
+            {
+              "slug": "nuevos-elementos",
+              "title": "Nuevos Elementos",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Reparto",
+          "pages": [
+            {
+              "slug": "reparto",
+              "title": "Reparto",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "espiritus-el-traidor-y-la-parentela",
+              "title": "Espíritus, el Traidor y la Parentela",
+              "part": "Espíritus, el Traidor y la Parentela",
+              "content_type": "reference"
+            }
+          ]
+        },
+        {
+          "chapter": "Las Escenas",
+          "pages": [
+            {
+              "slug": "las-escenas",
+              "title": "Las Escenas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "sondear-e-interrogar-a-la-parentela",
+              "title": "Sondear e Interrogar a la Parentela",
+              "part": "Sondear e Interrogar a la Parentela",
+              "content_type": "rule"
+            },
+            {
+              "slug": "el-trato-el-laberinto-y-el-desollador",
+              "title": "El Trato, el Laberinto y el Desollador",
+              "part": "El Trato, el Laberinto y el Desollador",
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Repercusiones",
+          "pages": [
+            {
+              "slug": "repercusiones",
+              "title": "Repercusiones",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "tarjetas",
+      "block_title": "Tarjetas y Hojas",
+      "chapters": [
+        {
+          "chapter": "Tarjetas de Escena",
+          "pages": [
+            {
+              "slug": "tarjetas-de-escena",
+              "title": "Tarjetas de Escena",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        },
+        {
+          "chapter": "Hojas de Personaje",
+          "pages": [
+            {
+              "slug": "hojas-de-personaje",
+              "title": "Hojas de Personaje",
+              "part": null,
+              "content_type": "back-matter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

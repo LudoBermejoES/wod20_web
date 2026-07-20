@@ -1,0 +1,683 @@
+{
+  "book_id": "wraith20-el-olvido-nsr-es",
+  "line": "wraith",
+  "title_es": "Wraith: El Olvido — 20.º Aniversario",
+  "book_title_es": "Wraith: El Olvido — 20.º Aniversario",
+  "page_count": 94,
+  "tree": [
+    {
+      "block": "front-matter",
+      "block_title": "Portada y Créditos",
+      "chapters": [
+        {
+          "chapter": "Prólogo",
+          "pages": [
+            {
+              "slug": "prologo-el-rostro-de-la-muerte",
+              "title": "Prólogo: El Rostro de la Muerte",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        },
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos-y-edicion",
+              "title": "Créditos y edición",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "libro-uno",
+      "block_title": "Libro Uno: El Mundo de los Muertos",
+      "chapters": [
+        {
+          "chapter": "Capítulo Uno: Introducción",
+          "pages": [
+            {
+              "slug": "capitulo-uno-introduccion",
+              "title": "Capítulo Uno: Introducción",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Dos: Ambientación",
+          "pages": [
+            {
+              "slug": "capitulo-dos-ambientacion",
+              "title": "Capítulo Dos: Ambientación",
+              "part": "Capítulo Dos: Ambientación",
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-ambientacion-la-edad-dorada",
+              "title": "La edad dorada",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-ambientacion-la-proclamacion-de-la-razon",
+              "title": "La Proclamación de la Razón",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-ambientacion-el-quinto-gran-maelstrom",
+              "title": "El Quinto Gran Maelstrom",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-ambientacion-la-placenta",
+              "title": "La Placenta",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-ambientacion-por-tren",
+              "title": "Por tren",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-ambientacion-el-espinazo",
+              "title": "El Espinazo",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-ambientacion-necropolis-notables",
+              "title": "necrópolis notables",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-ambientacion-herejes",
+              "title": "Herejes",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-ambientacion-resumen-de-las-legiones",
+              "title": "RESUMEn DE LAS LEGIOnES",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-ambientacion-la-legion-del-destino",
+              "title": "La Legión del Destino",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-ambientacion-vida-civil",
+              "title": "Vida civil",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-ambientacion-cada-rayo-de-luz-tiene-una-nube-oscura",
+              "title": "Cada rayo de luz tiene una nube oscura",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-ambientacion-vida-fuera-de-la-sociedad",
+              "title": "Vida fuera de la sociedad",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Tres: Reglas",
+          "pages": [
+            {
+              "slug": "capitulo-tres-reglas",
+              "title": "Capítulo Tres: Reglas",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Cuatro: Personajes",
+          "pages": [
+            {
+              "slug": "capitulo-cuatro-personajes",
+              "title": "Capítulo Cuatro: Personajes",
+              "part": "Capítulo Cuatro: Personajes",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-personajes-paso-cuatro-ventajas",
+              "title": "Paso Cuatro: Ventajas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-personajes-paso-cinco-toques-finales",
+              "title": "Paso Cinco: Toques Finales",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-personajes-paso-cinco-toques-finales-2",
+              "title": "Paso Cinco: Toques finales",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Cinco: Rasgos",
+          "pages": [
+            {
+              "slug": "capitulo-cinco-rasgos",
+              "title": "Capítulo Cinco: Rasgos",
+              "part": "Capítulo Cinco: Rasgos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cinco-rasgos-tecnicas",
+              "title": "Técnicas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cinco-rasgos-conocimientos",
+              "title": "Conocimientos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "arcanoi-catalogo",
+              "title": "Arcanoi (Catálogo)",
+              "part": "Arcanoi (Catálogo)",
+              "content_type": "rule"
+            },
+            {
+              "slug": "argos",
+              "title": "Argos",
+              "part": "Argos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "castigar",
+              "title": "Castigar",
+              "part": "Castigar",
+              "content_type": "rule"
+            },
+            {
+              "slug": "encarnar",
+              "title": "Encarnar",
+              "part": "Encarnar",
+              "content_type": "rule"
+            },
+            {
+              "slug": "fantasma",
+              "title": "Fantasma",
+              "part": "Fantasma",
+              "content_type": "rule"
+            },
+            {
+              "slug": "flujo",
+              "title": "Flujo",
+              "part": "Flujo",
+              "content_type": "rule"
+            },
+            {
+              "slug": "habitar",
+              "title": "Habitar",
+              "part": "Habitar",
+              "content_type": "rule"
+            },
+            {
+              "slug": "insinuacion",
+              "title": "Insinuación",
+              "part": "Insinuación",
+              "content_type": "rule"
+            },
+            {
+              "slug": "lamento",
+              "title": "Lamento",
+              "part": "Lamento",
+              "content_type": "rule"
+            },
+            {
+              "slug": "mnemosynis",
+              "title": "Mnemosynis",
+              "part": "Mnemosynis",
+              "content_type": "rule"
+            },
+            {
+              "slug": "moliar",
+              "title": "Moliar",
+              "part": "Moliar",
+              "content_type": "rule"
+            },
+            {
+              "slug": "pandemonium",
+              "title": "Pandemónium",
+              "part": "Pandemónium",
+              "content_type": "rule"
+            },
+            {
+              "slug": "red-vital",
+              "title": "Red Vital",
+              "part": "Red Vital",
+              "content_type": "rule"
+            },
+            {
+              "slug": "titeres",
+              "title": "Títeres",
+              "part": "Títeres",
+              "content_type": "rule"
+            },
+            {
+              "slug": "ultraje",
+              "title": "Ultraje",
+              "part": "Ultraje",
+              "content_type": "rule"
+            },
+            {
+              "slug": "usura",
+              "title": "Usura",
+              "part": "Usura",
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Seis: La Sombra",
+          "pages": [
+            {
+              "slug": "capitulo-seis-la-sombra",
+              "title": "Capítulo Seis: La Sombra",
+              "part": "Capítulo Seis: La Sombra",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-seis-la-sombra-paso-uno-arquetipo",
+              "title": "Paso Uno: Arquetipo",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-seis-la-sombra-paso-cuatro-puntos-gratuitos",
+              "title": "Capítulo Seis: La Sombra: Paso Cuatro: Puntos gratuitos",
+              "part": "Capítulo Seis: La Sombra",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-seis-la-sombra-perder-angustia",
+              "title": "Perder Angustia",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-seis-la-sombra-lo-que-realmente-ocurre",
+              "title": "Lo que realmente ocurre",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-seis-la-sombra-dirigir-un-tormento",
+              "title": "Dirigir un Tormento",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "libro-dos",
+      "block_title": "Libro Dos: Narración y Reglas",
+      "chapters": [
+        {
+          "chapter": "Capítulo Siete: Narración",
+          "pages": [
+            {
+              "slug": "capitulo-siete-narracion",
+              "title": "Capítulo Siete: Narración",
+              "part": "Capítulo Siete: Narración",
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-siete-narracion-la-gran-pregunta",
+              "title": "LA GRAN PREGUNTA",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-siete-narracion-mantenerse-unidos",
+              "title": "MANTENERSE UNIDOS",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-siete-narracion-estigia",
+              "title": "Estigia",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-siete-narracion-tecnicas-avanzadas",
+              "title": "Técnicas avanzadas",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Ocho: Sistemas",
+          "pages": [
+            {
+              "slug": "capitulo-ocho-sistemas",
+              "title": "Capítulo Ocho: Sistemas",
+              "part": "Capítulo Ocho: Sistemas",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-ocho-sistemas-maelstroms",
+              "title": "maelstroms",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-ocho-sistemas-maelstroms-2",
+              "title": "maelstroms",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-ocho-sistemas-fuentes-de-dano",
+              "title": "Fuentes de daño",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-ocho-sistemas-desarrollo-de-personaje",
+              "title": "Desarrollo de personaje",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-ocho-sistemas-menguar-pasiones",
+              "title": "menguar Pasiones",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Nueve: Drama",
+          "pages": [
+            {
+              "slug": "capitulo-nueve-drama",
+              "title": "Capítulo Nueve: Drama",
+              "part": "Capítulo Nueve: Drama",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-nueve-drama-proezas-de-fuerza",
+              "title": "Proezas de Fuerza",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-nueve-drama-fase-uno-iniciativa",
+              "title": "Fase Uno: Iniciativa",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-nueve-drama-fase-tres-resolucion",
+              "title": "Capítulo Nueve: Drama: Fase tres: Resolución",
+              "part": "Capítulo Nueve: Drama",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-nueve-drama-maniobras-a-distancia",
+              "title": "maniobras a distancia",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Diez: Espectros",
+          "pages": [
+            {
+              "slug": "capitulo-diez-espectros",
+              "title": "Capítulo Diez: Espectros",
+              "part": "Capítulo Diez: Espectros",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-diez-espectros-afinidad-con-la-tempestad",
+              "title": "Afinidad con la Tempestad",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-diez-espectros-rasgar-el-manto",
+              "title": "rasgar el Manto",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-diez-espectros-desterrados",
+              "title": "Desterrados",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-diez-espectros-espectros-como-enemigos",
+              "title": "Espectros como enemigos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-diez-espectros-practicando-el-olvido-seguro",
+              "title": "prAcTIcANDo EL oLVIDo sEGUro",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-diez-espectros-paso-uno-concepto",
+              "title": "paso Uno: concepto",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-diez-espectros-paso-cinco-toques-finales",
+              "title": "paso cinco: Toques finales",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-diez-espectros-paso-cuatro-toques-finales",
+              "title": "paso cuatro: Toques finales",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "libro-tres",
+      "block_title": "Libro Tres: El Mundo Más Amplio",
+      "chapters": [
+        {
+          "chapter": "Capítulo Once: Los Resucitados",
+          "pages": [
+            {
+              "slug": "capitulo-once-los-resucitados",
+              "title": "Capítulo Once: Los Resucitados",
+              "part": "Capítulo Once: Los Resucitados",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-once-los-resucitados-paso-dos-la-investigacion",
+              "title": "Paso dos: La investigación",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-once-los-resucitados-paso-tres-el-pacto",
+              "title": "Paso tres: el pacto",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-once-los-resucitados-paso-cuatro-la-resurreccion",
+              "title": "Paso cuatro: La Resurrección",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-once-los-resucitados-paso-cinco-existencia-como-resucitado",
+              "title": "Paso cinco: existencia como Resucitado",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-once-los-resucitados-paso-cinco-toques-finales",
+              "title": "Paso cinco: toques finales",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "los-resucitados-tipos-de-cronica",
+              "title": "Los Resucitados: tipos de crónica",
+              "part": "Los Resucitados: tipos de crónica",
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Doce: El Mundo de Tinieblas",
+          "pages": [
+            {
+              "slug": "capitulo-doce-el-mundo-de-tinieblas",
+              "title": "Capítulo Doce: El Mundo de Tinieblas",
+              "part": "Capítulo Doce: El Mundo de Tinieblas",
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-doce-el-mundo-de-tinieblas-giovanni",
+              "title": "Giovanni",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-doce-el-mundo-de-tinieblas-fantasma",
+              "title": "Fantasma",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-doce-el-mundo-de-tinieblas-kraken",
+              "title": "Kraken",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-doce-el-mundo-de-tinieblas-armadura-de-acero-estigio-artefacto-de-nivel-3",
+              "title": "Armadura de acero estigio (Artefacto de nivel 3)",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Trece: Reinos Oscuros",
+          "pages": [
+            {
+              "slug": "capitulo-trece-reinos-oscuros",
+              "title": "Capítulo Trece: Reinos Oscuros",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-reino-oscuro-de-svarga",
+              "title": "El Reino Oscuro de Svarga",
+              "part": "El Reino Oscuro de Svarga",
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-reino-oscuro-de-obsidiana",
+              "title": "El Reino Oscuro de Obsidiana",
+              "part": "El Reino Oscuro de Obsidiana",
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-sabana-de-fantasmas",
+              "title": "La Sabana de Fantasmas",
+              "part": "La Sabana de Fantasmas",
+              "content_type": "lore"
+            },
+            {
+              "slug": "karta-el-reino-oscuro-de-arcilla",
+              "title": "Karta: El Reino Oscuro de Arcilla",
+              "part": "Karta: El Reino Oscuro de Arcilla",
+              "content_type": "lore"
+            },
+            {
+              "slug": "arcanoi-de-los-reinos-oscuros",
+              "title": "Arcanoi de los Reinos Oscuros",
+              "part": "Arcanoi de los Reinos Oscuros",
+              "content_type": "rule"
+            },
+            {
+              "slug": "arcanoi-de-los-reinos-oscuros-arcanoi-de-svarga-desplazar",
+              "title": "Arcanoi de svarga: Desplazar",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "apendice",
+      "block_title": "Apéndice: Orpheus",
+      "chapters": [
+        {
+          "chapter": "Apéndice: Orpheus",
+          "pages": [
+            {
+              "slug": "apendice-orpheus",
+              "title": "Apéndice: Orpheus",
+              "part": "Apéndice: Orpheus",
+              "content_type": "reference"
+            },
+            {
+              "slug": "apendice-orpheus-paso-cinco-toques-finales",
+              "title": "Paso Cinco: Toques finales",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "apendice-orpheus-paso-cinco-toques-finales-2",
+              "title": "Paso Cinco: Toques Finales",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

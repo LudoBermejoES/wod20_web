@@ -1,0 +1,27 @@
+{
+  "book_id": "v20-core-rulebook-es",
+  "line": "vampire",
+  "order": 1,
+  "slug": "epistola-a-w-h",
+  "block": "front-matter",
+  "block_title": "Preliminares",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Epístola a W.H.",
+  "content_type": "fiction",
+  "source_line_range": [
+    217,
+    234
+  ],
+  "body_md": "## A W.H., de vuestro más devoto siervo:\n\nA unque demostré tener muy escaso Menschwert ante vos y vuestros compañeros, la llama de la Humanitas aún arde en mi pecho, si bien errática. Tanto el tiempo como la naturaleza luchan por extinguirla, completando así mi descenso a un Inferno de locura y bestialidad. Debo proteger bien mi alma, tanto como cualquier sacerdote, pues cualquier fallo en mi vigilancia invita a la Bestia, con los resultados que vos misma habéis presenciado.\n\nM uchos años han pasado, y espero fervientemente que el tiempo haya mitigado de algún modo los angustiosos recuerdos que cargáis. Me atrevo a enviaros esto con un espíritu de ruego; pese a que sea excesivo pedir vuestro perdón, ansío al menos vuestra comprensión. Os debo algún tipo de explicación por los sucesos que tantos añicos hicieron de vuestra vida sin mácula.\n\n\n\nT engo una deuda con vos de la que jamás habré de quedar libre. Si en cualquier momento pudiere serviros, a vos o a vuestra familia, quedo a vuestra disposición.\n\nS é que es imposible redimirse; una eternidad de piadosa plegaria es tiempo demasiado escaso. Sin embargo, como señal de penitencia, os ofrezco el documento que incluyo, convirtiéndome en un traidor entre los míos al hacerlo. Ruego que podáis encontrar entre sus páginas algo que os ayude a comprender el [tormento](/vampire/discipline-powers/tormento) que os infligí, y al comprenderlo, quizás, disipar una pequeña parte del dolor. El tono, me temo, es algo seco; para un soldado son de escasa utilidad los zalameros ardides con los que la poesía cautiva a los lectores. Tan sólo he escrito lo que sé, tan bien como he podido.\n\n\n\nSemper Servus, V.T.",
+  "toc": [],
+  "prev": {
+    "slug": "prefacios-y-creditos",
+    "title": "Prefacios y Créditos"
+  },
+  "next": {
+    "slug": "introduccion",
+    "title": "Introducción"
+  }
+}

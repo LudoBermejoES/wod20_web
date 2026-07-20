@@ -1,0 +1,78 @@
+{
+  "book_id": "wraith-manual-de-los-difuntos-recientes",
+  "line": "wraith",
+  "title_es": "Wraith: Manual de los Difuntos Recientes",
+  "book_title_es": "Wraith: Manual de los Difuntos Recientes",
+  "page_count": 6,
+  "tree": [
+    {
+      "block": "front-matter",
+      "block_title": "Portada y créditos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos-y-edicion",
+              "title": "Créditos y edición",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "manual",
+      "block_title": "Manual de los Difuntos Recientes",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "como-usar-este-manual",
+              "title": "Cómo usar este manual",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "parte-uno-jugar-con-muertos-recientes",
+              "title": "Parte uno: Jugar con muertos recientes",
+              "part": "Parte uno: Jugar con muertos recientes",
+              "content_type": "lore"
+            },
+            {
+              "slug": "parte-dos-la-nueva-sombra",
+              "title": "Parte dos: la nueva sombra",
+              "part": "Parte dos: la nueva sombra",
+              "content_type": "lore"
+            },
+            {
+              "slug": "parte-tres-narracion-para-los-difuntos-recientes",
+              "title": "Parte tres: narración para los difuntos recientes",
+              "part": "Parte tres: narración para los difuntos recientes",
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cierre",
+      "block_title": "Cierre",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "proximamente",
+              "title": "Próximamente",
+              "part": null,
+              "content_type": "back-matter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

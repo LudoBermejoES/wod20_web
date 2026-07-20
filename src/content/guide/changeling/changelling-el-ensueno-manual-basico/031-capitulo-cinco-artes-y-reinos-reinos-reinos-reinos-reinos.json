@@ -1,0 +1,84 @@
+{
+  "book_id": "changelling-el-ensueno-manual-basico",
+  "line": "changeling",
+  "order": 31,
+  "slug": "capitulo-cinco-artes-y-reinos-reinos-reinos-reinos-reinos",
+  "block": "libro-dos",
+  "block_title": "Libro Dos: Rebelde",
+  "chapter": "Capítulo Cinco: Artes y Reinos",
+  "part": "Capítulo Cinco: Artes y Reinos",
+  "section": "Reinos Reinos Reinos Reinos",
+  "title": "Capítulo Cinco: Artes y Reinos: Reinos Reinos Reinos Reinos",
+  "content_type": "rule",
+  "source_line_range": [
+    6146,
+    6328
+  ],
+  "body_md": "## Reinos Reinos Reinos Reinos\n\nLa posesión de los Reinos determina a quién o qué es capaz de afectar el hada cuando lanza cantrips. Se incluyen todos los anteriores hasta el nivel que posee; así si un duende posee cuatro niveles de un Reino concreto, es capaz de afectar a cualquier cosa incluida hasta el cuarto nivel.\n\nEl nivel del Reino usado añadido al Atributo adecuado (basado en el Arte que se utiliza) determina el número de dados que el hada puede tirar para lanzar el cantrip. Si se usan varios Reinos para lanzar un cantrip, debe usar el Reino con menor puntuación en su Reserva de Dados. Incluso aunque necesite un nivel inferior de un Reino, sigue pudiendo usar su puntuación total para lanzar el cantrip.  Así,  si  tiene  cinco  niveles  de  Hada,  pero  sólo está  intentando  afectar  a  un  plebeyo,  sigue  pudiendo añadir cinco dados a su Reserva.\n\nPor ejemplo, un dragón de tierra gigante está persiguiendo a un grupo de hadas. Pensando deprisa, Eriond el eshu decide lanzar un cantrip de [Corredor del Viento](/changeling/cantrips/wind-runner) para que puedan volar fuera de peligro. Las hadas tienen un grupo de mortales encantados a su lado, para complicar aún más la situación.\n\nEriond ha de usar tres Reinos para ser capaz de afectarse a sí mismo y a sus compañeros: tiene Hada 4 (aunque sólo necesitaría uno, dado que todos sus compañeros son plebeyos), pero sólo tiene [Actor](/changeling/realms/actor) 1 (lo que afortunadamente es suficiente ya que los mortales encantados son buenos amigos). Lo combina con su [Escena](/changeling/realms/scene) 4 (puesto que se hallan a campo abierto). El Reino más bajo que posee es [Actor](/changeling/realms/actor), por lo que Eriond usa este Reino cuando determina su Reserva de Dados para lanzar el cantrip. Ver  Capítulo  Siete  para  información  completa\n\nsobre lanzamiento de cantrips.\n\n\n\nLas excepciones en el uso de los Reinos son [Escena](/changeling/realms/scene) y Tiempo. En la mayoría de los casos, [Escena](/changeling/realms/scene) permite al lanzador afectar a múltiples objetivos, y Tiempo permite  que  un  cantrip  sea  lanzado  con  un  tiempo  de retraso  antes  de  entrar  en  efecto  (literalmente  un\n\n## Actor Actor\n\nEste Reino trata de los mortales. Cuanto más elevado es el nivel, menos necesita conocer personalmente el lanzador a la persona. Este Reino incluye a seres sobrenaturales tales como vampiros, wraiths, etc. pero no a otras hadas.\n\n| Nivel   | Título            | Descripción                                                                                                                 |\n|---------|-------------------|-----------------------------------------------------------------------------------------------------------------------------|\n| z       | Amigo Íntimo      | Alguien de mucha confianza, compañero, etc.                                                                                 |\n| zz      | Contacto Personal | Has tenido una larga conversación con esta persona y sabes su nombre.                                                       |\n| zzz     | Cara Familiar     | Reconoces su cara, pero no has de saber su nombre.                                                                          |\n| zzzz    | Extraño           | No necesitas información, pero la persona no puede ser tu enemigo.                                                          |\n| zzzzz   | Enemigo           | Esta persona puede ser tu enemigo, o competir contigo; un amigo contra el que estés jugando a algo entra en esta categoría. |\n\n## Escena Escena\n\nEste Reino determina el área de lanzamiento. Permite al hada afectar a múltiples objetivos (aunque debe poseer también los Reinos necesarios para los objetivos afectados. No puede usar [Escena](/changeling/realms/scene) 3 por sí solo para afectar un patio lleno de niños.)\n\n## Nivel\n\n## Título\n\n- zzzzz Reino\n\n## Descripción\n\nHasta 16.000 metros cuadrados.\n\n| z     | Cámara   | Hasta 8 metros cuadrados.   |\n|-------|----------|-----------------------------|\n| zz    | Cabaña   | Hasta 60 metros cuadrados.  |\n| zzz   | Casa     | Hasta 250 metros cuadrados  |\n| zzzz  | Parque   | Hasta 600 metros cuadrados  |\n| zzzzz |          |                             |\n\ntemporizador).  Cuando  se  emplean  de  esta  forma, ninguno de los Reinos se usan en la Reserva de Dados. Hay algunas ocasiones en las que [Escena](/changeling/realms/scene) puede usarse como Reino principal, y en tales casos se utiliza para determinar la Reserva de Dados.\n\n\n\n## Hada Hada\n\nEste Reino gobierna a todas las criaturas del Ensueño.\n\n## Nivel Título\n\n## Descripción\n\nz\n\nPlebeyo\n\nUn hada plebeya.\n\nzz\n\nNoble\n\nCualquier duende con [título](/changeling/backgrounds/titulo).\n\nzzz\n\nQuimera\n\nCriaturas u objetos quiméricos.\n\nzzzz\n\nGalain elusivo\n\nUtilizable en seres feéricos no categorizados: Nunnehi, Inanimae o cualquier otro inexplicable pero perteneciente al Ensueño.\n\nzzzzz\n\nPortador de Glamour\n\nCualquier cosa compuesta por Glamour: cantrips, tesoros, barcia, etc. (Nota: Ne- cesitas poseer este nivel para intentar contrarrestar cualquier cantrip lanzado.)\n\n## Naturaleza Naturaleza\n\nEste Reino engloba los animales, los elementos y las criaturas no sobrenaturales de la [naturaleza](/changeling/realms/nature).\n\n## Nivel Título\n\n## Descripción\n\nz\n\nMateria Prima\n\nMateria no viva, orgánica (cuerda, papel, piedra, etc.). Si es inorgánica (acero, etc.) no es de este Reino.\n\nzz\n\nBosque Verde\n\nPlantas vivas orgánicas (no animales).\n\nzzz\n\nAnimal Feroz\n\nAnimales no inteligentes vivos (los animales conscientes entran bajo el domi- nio de [Actor](/changeling/realms/actor))\n\nzzzz\n\nFenómeno Natural\n\nFenómenos naturales: clima, erupciones volcánicas, terremotos, etc.\n\nzzzzz\n\nElemento Básico\n\nElementos naturales (basados en el carbono), o en los cuatro tradicionales: fuego, agua, tierra y aire.\n\n## Objeto Objeto\n\n[Objeto](/changeling/realms/prop) gobierna todo lo que no es natural y ha sido creado por manos humanas. Incluye objetos hechos de materias naturales a los que se ha trabajado para convertirlos en otra cosa (esculturas de madera, papier maché , etc.)\n\n| Nivel   | Título           | Descripción                                                                                                                                                                             |\n|---------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| z       | Prenda Ornada    | Objetos que se llevan puestos normalmente (ropa, anillos, tatuajes, etc.)                                                                                                               |\n| zz      | Herramienta      | Un objeto sin partes móviles (espadas, escudos, pero no armas de fuego, y ni siquiera un mayal)                                                                                         |\n| zzz     | Objeto Mecánico  | Un objeto con partes móviles, pero que no necesita combustible para funcio- nar (incluidos los ordenadores que necesitan electricidad).                                                 |\n| zzzz    | Máquina Compleja | Un único objeto con componentes móviles, a veces electrónicos pero con un mecanismo fácil de entender (tostadoras, coches, presas de impresión, pero no ordenadores, televisores, etc.) |\n| zzzzz   | Artefacto Arcano | Cualquier objeto manufacturado no listado anteriormente, con componentes complejos.                                                                                                     |\n\n## Tiempo Tiempo\n\nEste Reino permite al lanzador implantar un 'retraso' en un cantrip. Puede lanzar el cantrip, abandonar el área y esperar a que se active sin estar presente. La puntuación determina lo grande que puede ser el retraso, y la dificultad que se aplica al lanzamiento.\n\n## Nivel Tiempo de Retraso\n\n- z\n\n1 turno\n\nzz\n\n1 hora\n\nzzz\n\n1 día\n\nzzzz\n\n1 semana\n\n- zzzzz 1 mes\n\n\n\n\n\n1 9 0\n\nChangeling: El Ensueño\n\n\n\n'¡Reglas! ¡Quién las necesita! ¡Puaj! ¿Vives tu vida según las normas y se supone que también las cumples? ¡Vaya pedazo de mierda de cabra! ¡Según mi experiencia las cosas más interesantes, sexys y divertidas están tan lejos del camino fácil como puedas llegar! Quiero decir, dame un punto de partida y encontraré mi propio camino. No necesito ser el primero en la línea de llegada. No necesito ser el mejor. Son todas las cosas del medio, y de la derecha y la izquierda, las que me hacen menear la cola.'\n\n- Se'han MacCannae, sátiro rebelde\n\nLas reglas son una parte importante en cualquier juego como Changeling . Las reglas son los cimientos sobre los que construir tu casa de creatividad. Son los huesos, músculos, tendones y nervios de tus personajes. Indican las  limitaciones  impuestas  por  el  Mundo  de  Tinieblas. También nos permiten opciones que sólo son posibles dentro del reino del juego. Por último, las reglas sirven como el sistema judicial común entorno al que se estructura el juego y a través del cual procesamos los eventos que ocurren.\n\nEn Changeling , las reglas son secundarias a las historias  que  crean  los  personajes.  Los  cimientos  de  una casa sólo sostienen la casa. Es la historia la que pinta los aleros, cuelga los visillos y decora las ventanas. Sin embargo, la necesidad de reglas es incuestionable. Hacen posible jugar a un juego. Aun así, si las reglas constriñen alguna vez tu historia, siéntete libre para descartar cualquiera de ellas, sea temporal o permanentemente, basándote en el tipo de casa que desees construir. Haz lo que quieras con el juego. Tus únicos límites son la profundidad de tu creatividad y el aliento de tus sueños.",
+  "toc": [
+    {
+      "text": "Actor Actor",
+      "anchor": "actor-actor"
+    },
+    {
+      "text": "Escena Escena",
+      "anchor": "escena-escena"
+    },
+    {
+      "text": "Nivel",
+      "anchor": "nivel"
+    },
+    {
+      "text": "Título",
+      "anchor": "titulo"
+    },
+    {
+      "text": "Descripción",
+      "anchor": "descripcion"
+    },
+    {
+      "text": "Hada Hada",
+      "anchor": "hada-hada"
+    },
+    {
+      "text": "Nivel Título",
+      "anchor": "nivel-titulo"
+    },
+    {
+      "text": "Descripción",
+      "anchor": "descripcion"
+    },
+    {
+      "text": "Naturaleza Naturaleza",
+      "anchor": "naturaleza-naturaleza"
+    },
+    {
+      "text": "Nivel Título",
+      "anchor": "nivel-titulo"
+    },
+    {
+      "text": "Descripción",
+      "anchor": "descripcion"
+    },
+    {
+      "text": "Objeto Objeto",
+      "anchor": "objeto-objeto"
+    },
+    {
+      "text": "Tiempo Tiempo",
+      "anchor": "tiempo-tiempo"
+    },
+    {
+      "text": "Nivel Tiempo de Retraso",
+      "anchor": "nivel-tiempo-de-retraso"
+    }
+  ],
+  "prev": {
+    "slug": "capitulo-cinco-artes-y-reinos-escudo-de-roble-escudo-de-roble",
+    "title": "Capítulo Cinco: Artes y Reinos: Escudo  de  Roble Escudo  de  Roble"
+  },
+  "next": {
+    "slug": "capitulo-seis-reglas-basicas",
+    "title": "Capítulo Seis: Reglas Básicas"
+  }
+}

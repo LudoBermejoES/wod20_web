@@ -1,0 +1,212 @@
+{
+  "book_id": "w20-nsr-aniversario-parte-2-127pp",
+  "line": "werewolf",
+  "title_es": "Hombre Lobo: Rabia por el Mundo (Parte 2)",
+  "book_title_es": "Hombre Lobo: Rabia por el Mundo (Parte 2)",
+  "page_count": 24,
+  "tree": [
+    {
+      "block": "preliminares",
+      "block_title": "Preliminares",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos-y-edicion",
+              "title": "Créditos y edición",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "Introducción",
+          "pages": [
+            {
+              "slug": "introduccion-el-mundo-agonizante",
+              "title": "Introducción: El mundo agonizante",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "capitulos",
+      "block_title": "Capítulos",
+      "chapters": [
+        {
+          "chapter": "Capítulo Uno: Vida entre guerreros",
+          "pages": [
+            {
+              "slug": "capitulo-uno-vida-entre-guerreros",
+              "title": "Capítulo Uno: Vida entre guerreros",
+              "part": "Capítulo Uno: Vida entre guerreros",
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-uno-vida-entre-guerreros-interludio-conversacion-en-la-oscuridad",
+              "title": "Interludio: Conversación en la oscuridad",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-uno-vida-entre-guerreros-lo-bueno",
+              "title": "Lo bueno",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "nuevos-sistemas",
+              "title": "Nuevos sistemas",
+              "part": "Nuevos sistemas",
+              "content_type": "rule"
+            },
+            {
+              "slug": "tumulos-y-totems",
+              "title": "Túmulos y Tótems",
+              "part": "Túmulos y Tótems",
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Dos: La Tejedora",
+          "pages": [
+            {
+              "slug": "capitulo-dos-la-tejedora",
+              "title": "Capítulo Dos: La Tejedora",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "shanghai-y-el-cairo",
+              "title": "Shanghái y El Cairo",
+              "part": "Shanghái y El Cairo",
+              "content_type": "lore"
+            },
+            {
+              "slug": "seattle-y-londres",
+              "title": "Seattle y Londres",
+              "part": "Seattle y Londres",
+              "content_type": "lore"
+            },
+            {
+              "slug": "mecanicas",
+              "title": "Mecánicas",
+              "part": "Mecánicas",
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Tres: El Kaos",
+          "pages": [
+            {
+              "slug": "capitulo-tres-el-kaos",
+              "title": "Capítulo Tres: El Kaos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "yellowstone-y-peninsula-iberica",
+              "title": "Yellowstone y Península Ibérica",
+              "part": "Yellowstone y Península Ibérica",
+              "content_type": "lore"
+            },
+            {
+              "slug": "outback-australiano-y-etiopia",
+              "title": "Outback australiano y Etiopía",
+              "part": "Outback australiano y Etiopía",
+              "content_type": "lore"
+            },
+            {
+              "slug": "asia-central-y-chernobil",
+              "title": "Asia central y Chernóbil",
+              "part": "Asia central y Chernóbil",
+              "content_type": "lore"
+            },
+            {
+              "slug": "mecanicas-2",
+              "title": "Mecánicas",
+              "part": "Mecánicas",
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Cuatro: El Wyrm",
+          "pages": [
+            {
+              "slug": "capitulo-cuatro-el-wyrm",
+              "title": "Capítulo Cuatro: El Wyrm",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "nueva-york-y-presa-de-las-tres-gargantas",
+              "title": "Nueva York y Presa de las Tres Gargantas",
+              "part": "Nueva York y Presa de las Tres Gargantas",
+              "content_type": "lore"
+            },
+            {
+              "slug": "norilsk-y-francistown",
+              "title": "Norilsk y Francistown",
+              "part": "Norilsk y Francistown",
+              "content_type": "lore"
+            },
+            {
+              "slug": "mecanicas-3",
+              "title": "Mecánicas",
+              "part": "Mecánicas",
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "apendice",
+      "block_title": "Apéndice: Gaia",
+      "chapters": [
+        {
+          "chapter": "Apéndice",
+          "pages": [
+            {
+              "slug": "apendice-gaia-por-que-hemos-perdido",
+              "title": "Apéndice: Gaia — Por qué hemos perdido",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-circulo-polar-artico",
+              "title": "El círculo polar ártico",
+              "part": "El círculo polar ártico",
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-lado-bueno-tanzania-y-kenia",
+              "title": "El lado bueno: Tanzania y Kenia",
+              "part": "El lado bueno: Tanzania y Kenia",
+              "content_type": "lore"
+            },
+            {
+              "slug": "mecanicas-4",
+              "title": "Mecánicas",
+              "part": "Mecánicas",
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

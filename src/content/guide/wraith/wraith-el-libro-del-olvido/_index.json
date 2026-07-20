@@ -1,0 +1,374 @@
+{
+  "book_id": "wraith-el-libro-del-olvido",
+  "line": "wraith",
+  "title_es": "Wraith: El Libro del Olvido",
+  "book_title_es": "Wraith: El Libro del Olvido",
+  "page_count": 37,
+  "tree": [
+    {
+      "block": "preliminares",
+      "block_title": "Portada y Créditos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos-y-edicion",
+              "title": "Créditos y Edición",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "introduccion",
+              "title": "Introducción",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "sombras",
+      "block_title": "Olvido en el Alma: Sombras",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "arquetipos-de-la-sombra",
+              "title": "Arquetipos de la Sombra",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "espinas",
+              "title": "Espinas",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "forja",
+      "block_title": "Máquinas en los Fantasmas: Forja de Almas",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "el-inframundo-bajo-el-martillo",
+              "title": "El Inframundo bajo el Martillo",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "sistema-de-forja-de-almas",
+              "title": "Sistema de Forja de Almas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "estilos-aleaciones-y-fracturas",
+              "title": "Estilos, Aleaciones y Fracturas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "artefactos",
+              "title": "Artefactos",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "espectros",
+      "block_title": "En la Boca del Lobo: Espectros",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "el-ejercito-de-sombra",
+              "title": "El Ejército de Sombra",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "castas",
+              "title": "Castas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "arcanoi-oscuros",
+              "title": "Arcanoi Oscuros",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "redencion",
+              "title": "Redención",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "cultos-espectrales",
+              "title": "Cultos Espectrales",
+              "part": "Cultos Espectrales",
+              "content_type": "lore"
+            },
+            {
+              "slug": "cultos-espectrales-la-verdadera-lanza",
+              "title": "la Verdadera lanza",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "tempestad",
+      "block_title": "El Viento Eterno: La Tempestad",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "las-tormentas",
+              "title": "Las Tormentas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "viaje-por-la-tempestad",
+              "title": "Viaje por la Tempestad",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-buro-de-maelstroms",
+              "title": "El Buró de Maelstroms",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "cuando-la-tormenta-viene-a-por-ti",
+              "title": "Cuando la Tormenta Viene a por Ti",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "laberinto",
+      "block_title": "El Laberinto",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "el-laberinto",
+              "title": "El Laberinto",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "favelas-de-babilonia",
+              "title": "Favelas de Babilonia",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "osseum",
+              "title": "Osseum",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "peligro-s-a",
+              "title": "¡Peligro S. A.!",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "marfil",
+      "block_title": "El Reino Oscuro de Marfil",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "el-reino-oscuro-de-marfil",
+              "title": "El Reino Oscuro de Marfil",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-poder-del-mito-la-era-de-los-heroes",
+              "title": "El Poder del Mito: La Era de los Héroes",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "americas",
+      "block_title": "Reinos Oscuros de las Américas",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "espejo-humeante-el-reino-oscuro-de-obsidiana",
+              "title": "Espejo Humeante: El Reino Oscuro de Obsidiana",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "ojos-en-el-bosque-las-islas-de-pedernal",
+              "title": "Ojos en el Bosque: Las Islas de Pedernal",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "sol-poniente-las-tierras-del-oro",
+              "title": "Sol Poniente: Las Tierras del Oro",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "swar",
+      "block_title": "El Reino Oscuro de Swar",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "el-reino-oscuro-de-swar",
+              "title": "El Reino Oscuro de Swar",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "una-vieja-rabia",
+              "title": "Una Vieja Rabia",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "lugares-destacados",
+              "title": "Lugares Destacados",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-mercados-nocturnos",
+              "title": "Los Mercados Nocturnos",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "espejo",
+      "block_title": "Las Tierras del Espejo",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "las-tierras-del-espejo",
+              "title": "Las Tierras del Espejo",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "trasfondo-serviteurs",
+              "title": "Trasfondo: Serviteurs",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "connaissance",
+              "title": "Connaissance",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "apendice",
+      "block_title": "Apéndice: Necrópolis",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "seattle",
+              "title": "Seattle",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "halifax-nueva-escocia",
+              "title": "Halifax, Nueva Escocia",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cierre",
+      "block_title": "Contraportada",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "el-libro-del-olvido-incluye",
+              "title": "El Libro del Olvido Incluye",
+              "part": null,
+              "content_type": "back-matter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

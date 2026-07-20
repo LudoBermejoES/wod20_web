@@ -1,0 +1,24 @@
+{
+  "book_id": "wraith-el-libro-del-olvido",
+  "line": "wraith",
+  "order": 36,
+  "slug": "el-libro-del-olvido-incluye",
+  "block": "cierre",
+  "block_title": "Contraportada",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "El Libro del Olvido Incluye",
+  "content_type": "back-matter",
+  "source_line_range": [
+    3686,
+    3700
+  ],
+  "body_md": "## El Libro del Olvido incluye:\n\nNuevos Arquetipos de Sombra, Espinas y una amplia variedad de nuevos y espantosos antagonistas.\n\nCapítulos dedicados a los Espectros, sus horribles cultos y el extraño proceso de la Redención de los Espectros.\n\nUna exploración en profundidad de la Tempestad, el Laberinto, los Reinos Oscuros de Pedernal, Oro, Marfil, Obsidiana y Swar, las Tierras del Espejo y varias otras extrañas y fascinantes Necrópolis.",
+  "toc": [],
+  "prev": {
+    "slug": "halifax-nueva-escocia",
+    "title": "Halifax, Nueva Escocia"
+  },
+  "next": null
+}

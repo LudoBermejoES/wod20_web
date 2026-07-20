@@ -1,0 +1,56 @@
+{
+  "book_id": "wraith-el-libro-del-olvido",
+  "line": "wraith",
+  "order": 5,
+  "slug": "sistema-de-forja-de-almas",
+  "block": "forja",
+  "block_title": "Máquinas en los Fantasmas: Forja de Almas",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Sistema de Forja de Almas",
+  "content_type": "rule",
+  "source_line_range": [
+    439,
+    532
+  ],
+  "body_md": "## sistema\n\nLa forja de almas es una aplicación de la Habilidad Artesanía, así que cualquier wraith con al menos 1 punto en ella puede intentar cualquiera de las técnicas aquí descritas. Aun así, los personajes sin la Especialidad de Artesanía Forja de Almas no están del todo versados en el funcionamiento de la forja de almas y usan la menor entre su Consciencia,  Artesanía  o  Empatía  para  todas  las  tiradas  a  continuación.\n\nCada obra de forja de almas tiene tres estadios: tasar el alma a forjar, trabajar el material y acabar el producto. El primer estadio puede tener  lugar  en  cualquier  parte;  el  segundo  y  el  tercero  requieren herramientas apropiadas y, respectivamente, una forja con un buen suministro de fuego de almas y un taller.\n\n## Tasación\n\nPrimero, el herrero valora el alma que pretende forjar para determinar cómo trabajarla mejor. El jugador tira Manipulación + Artesanía a una dificultad igual a la Fuerza de Voluntad del alma. Si tiene éxito, obtiene información sobre la naturaleza del alma y la mejor forma de derretirla, y puede proceder al siguiente paso. Si falla, no puede determinar el punto de fusión óptimo del alma ni encontrar ninguna línea de estrés espiritual; puede proceder, pero todas las tiradas a continuación tienen +1 de dificultad. El proceso de tasación conlleva una hora, menos 10 minutos por éxito.\n\n## Trabajo\n\nEn este estadio,  el  herrero  convierte  el  alma  en  Plasma  en  bruto, paraliza  todo  vestigio  de  consciencia,  y  lo  moldea  en  la  configuración deseada. Es una acción extendida de Fuerza + Artesanía a una dificultad igual a la Resistencia +2 del alma, el total de éxitos requerido lo determina el tamaño y la complejidad del producto deseado.\n\n## la falta de industria\n\nLa  Revolución  Industrial  pasó  de  largo  el Inframundo por dos razones. La menor de ellas es el control férreo del Gremio de los Artesanos sobre miles de años de historia libres de progreso. La principal es el propio Inframundo. La minería, refinería y producción modernas son sistemas deterministas  en  los  que  inversiones consistentes producen resultados consistentes. En cambio,  las  materias  primas  entre  los  muertos  (o  compuestas de ellos) carecen de esa predictibilidad. Las líneas de ensamblaje  no  funcionan  bien  cuando  cada  parte  requiere tratamiento  individual  para  adaptarse  a  propiedades tenuemente conectadas con cualidades físicas.\n\nAdemás, una de las leyes inmutables de la forja de almas es que un alma produce una parte. La mayoría de máquinas que al Imperio le gustaría producir en masa contienen docenas o incluso miles de partes. Por ejemplo, una Colt modelo 1911A1, que es el  arquetipo de arma producida en masa, que aún requería amplios ajustes a mano en su apogeo, se compone de 44 piezas, que van del cañón, el armazón y la corredera a muelles, tornillos y percutores. Eso supone un mínimo de 44 almas para producir un arma, sin contar las partes del cargador,  la  munición  y  los  repuestos  para  componentes que  sufran  daños  o  se  desgasten.  La  economía  del Inframundo simplemente no puede sustentar tal negocio. Ésta es la razón por la que las Legiones aún confían en armas de filo para pertrechar a sus tropas mientras criban la  cadena  de  suministro  de  Reliquias  en  busca  de equipo moderno para equipar a sus unidades de élite.\n\n## Tamaño\n\n| 1 éxito   | Objeto mediano; herramienta o arma con ocultación A; chaqueta acorazada.   |\n|-----------|----------------------------------------------------------------------------|\n| 2 éxitos  | Herramienta o arma no ocultable; coraza.                                   |\n| 3 éxitos  | Objeto pequeño; herramienta o arma con ocultación C; escudo o casco.       |\n| 4 éxitos  | Del tamaño de un wraith; permanece casi todo el Corpus; armadura completa. |\n| 5 éxitos  | Objeto diminuto; herramienta o arma con ocultación B.                      |\n\n## Complejidad\n\n| 1 éxito   | Forma básica funcional; instrumento burdo.               |\n|-----------|----------------------------------------------------------|\n| 2 éxitos  | Parte mecánica vulgar.                                   |\n| 3 éxitos  | Forma funcional equilibrada y simétrica; arma de filo.   |\n| 4 éxitos  | Vestimenta ponible; forma aerodinámica; proyectil.       |\n| 5 éxitos  | Parte mecánica de precisión; arma flexible o articulada. |\n\nPor  ejemplo,  una  cimitarra  (ocultación  A;  arma  de  filo)  requiere 4  éxitos;  una  viga  estructural  (del  tamaño  de  un  wraith,  parte mecánica vulgar) requiere 6 éxitos; un óbolo (objeto diminuto;\n\n## Herramientas del negocio\n\nA menos que  el  herrero  desarrolle  deliberadamente un  nuevo  sistema  metafísico,  la  forja  de  almas  se asemeja a ejercer la herrería con hierro que grita. El arte mortal proporciona muchas de las metáforas que hacen posible que las cabezas plásmicas de los wraiths conciban el proceso. Igualmente, un taller («forja» de forma coloquial) requiere las herramientas esperables, aunque  no  necesariamente  tengan  las  mismas  funciones que  sus  contrapartidas  de  las  Tierras  de  la  Piel:  la  forja,  un fuelle,  un  yunque,  una  cuba  de  templado,  pinzas,  cinceles y  martillos.  La  mesa  de  trabajo  para  detalles  finales incluye punzones, taladros, limas, tornillos de banco, cepillos  metálicos,  piedras  de  afilar  y  otras  herramientas.\n\nPoseer un taller permanente requiere Morada ·· para el espacio de trabajo y Reliquia ··· para las herramientas.  Una  forja  portátil,  como  la  que  usan  los  herreros de la Legión en campaña, es una Reliquia ···· que se guarda en varios estuches y  ocupa  la  mitad  de  una  carreta.\n\nforma funcional simétrica) requiere 8 éxitos; un muelle en espiral para un reloj de bolsillo Reliquia (objeto diminuto; parte mecánica de precisión) requiere 10 éxitos.\n\nCada tirada  conlleva  una  hora.  Cualquier  interrupción  durante este  proceso  arruina  el  trabajo,  al  requerir  que  el  herrero  deje  el  alma a un lado para que se enfríe antes de comenzar de nuevo. Cada fracaso introduce una fractura (pág. 19) en el alma y acumular tres fracasos mientras se trabaja con un alma significa que el herrero se ha metido a martillazos en un callejón sin salida y debe dejar que el alma se enfríe antes de empezar de nuevo. En cualquier caso, una obra fallida tarda una semana en enfriarse y tratar de trabajar en ella de forma prematura, la destruye.\n\nAl final de este estadio, el resultado es tosco; cualquier sutileza o precisión del diseño no está desarrollada por completo. Si el objeto tiene una puntuación mecánica, como una reserva de daño de un arma o una bonificación de absorción de una armadura, es 1 menor de lo normal. Si no, el objeto tiene algún desequilibrio o impureza que suma +2 a la dificultad de todas las tiradas que impliquen su uso.\n\n## Finalización\n\nEste estadio convierte el objeto forjado de almas de una forma básica  a  un  instrumento  totalmente  funcional.  El  herrero  usa herramientas, fuego de almas, fuego fantasmal o  tratamientos  alquímicos para limar rebabas y filos romos, modelar y pulir superficies, incrementar la dureza y la flexibilidad y  añadir  patrones  funcionales o decorativos, color o incrustaciones. La finalización es una acción de Percepción + Artesanía extendida a dificultad 8 que requiere un número total de éxitos determinados por los efectos deseados:\n\nEliminar la «tosquedad» (ver antes), hacer que el objeto\n\n1 éxito sea totalmente efectivo.\n\n2 éxitos Incrementar la reserva de daño de un arma roma en 1.\n\n3 éxitos\n\nReducir la penalización de Destreza de armadura en 1 para un portador.\n\n3 éxitos\n\nAñadir un compartimento secreto.\n\n3 éxitos\n\nIncrementar la reserva de daño de un arma en 1 contra un tipo de objetivo específico (por ejemplo, Espectros, puertas y muros u hombres lobo).\n\n4 éxitos\n\nIncrementar el Corpus de un objeto en un 25%.\n\n4 éxitos Incrementar la reserva de daño de un arma de filo en 1 contra todos los objetivos.\n\n5 éxitos Reducir la penalización de Destreza de la armadura en 1 para todos los portadores.\n\n5 éxitos Dar  a  una  herramienta  una  Especialidad  para  una  tarea concreta.\n\n5 éxitos Dar a un arma una Especialidad para una maniobra de combate.\n\n5 éxitos Dar a una armadura una Especialidad para una fuente de daño muy definida (por ejemplo, espadas, fuego fantasmal, Maelstroms o Espectros).\n\n1 a 5 éxitos   Añadir  rasgos  decorativos  en  función  de  su  complejidad.\n\nEl herrero no puede aplicar un efecto más de una vez. Una Especialidad  funciona  exactamente  como  la  Especialidad  de  un  Rasgo para la circunstancia en cuestión, lo que permite al wraith volver a tirar los 10 cuando es aplicable. Las Especialidades no se apilan.\n\nCada tirada conlleva una hora. El herrero puede hacer pausas durante el proceso, dejando el objeto a un lado indefinidamente antes de volver a trabajar en él. Cada fracaso introduce una fractura en el objeto, mientras que tres fracasos lo destruyen.",
+  "toc": [
+    {
+      "text": "Tasación",
+      "anchor": "tasacion"
+    },
+    {
+      "text": "Trabajo",
+      "anchor": "trabajo"
+    },
+    {
+      "text": "la falta de industria",
+      "anchor": "la-falta-de-industria"
+    },
+    {
+      "text": "Tamaño",
+      "anchor": "tamano"
+    },
+    {
+      "text": "Complejidad",
+      "anchor": "complejidad"
+    },
+    {
+      "text": "Herramientas del negocio",
+      "anchor": "herramientas-del-negocio"
+    },
+    {
+      "text": "Finalización",
+      "anchor": "finalizacion"
+    }
+  ],
+  "prev": {
+    "slug": "el-inframundo-bajo-el-martillo",
+    "title": "El Inframundo bajo el Martillo"
+  },
+  "next": {
+    "slug": "estilos-aleaciones-y-fracturas",
+    "title": "Estilos, Aleaciones y Fracturas"
+  }
+}

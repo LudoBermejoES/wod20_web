@@ -1,0 +1,702 @@
+{
+  "book_id": "w20-aniversario-core-es",
+  "line": "werewolf",
+  "title_es": "Hombre Lobo: El Apocalipsis — Libro Básico 20.º Aniversario",
+  "book_title_es": "Hombre Lobo: El Apocalipsis — Libro Básico 20.º Aniversario",
+  "page_count": 89,
+  "tree": [
+    {
+      "block": "front-matter",
+      "block_title": "Portada y Créditos",
+      "chapters": [
+        {
+          "chapter": "Relato de Apertura",
+          "pages": [
+            {
+              "slug": "el-octavo-signo-relato-de-apertura",
+              "title": "El Octavo Signo (relato de apertura)",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        },
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos-y-edicion",
+              "title": "Créditos y edición",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "Introducción",
+          "pages": [
+            {
+              "slug": "introduccion-bienvenido-a-hombre-lobo",
+              "title": "Introducción: Bienvenido a Hombre Lobo",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap-1",
+      "block_title": "Capítulo Uno: Un Mundo de Tinieblas",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "un-mundo-de-tinieblas",
+              "title": "Un Mundo de Tinieblas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "convertirse-en-garou-razas-y-delirio",
+              "title": "Convertirse en Garou: Razas y Delirio",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "cosmologia-garou-y-la-letania",
+              "title": "Cosmología Garou y la Letanía",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "totems-consejos-y-el-festejo",
+              "title": "Tótems, Consejos y el Festejo",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "representacion-tribal-y-el-paisaje-espiritual",
+              "title": "Representación Tribal y el Paisaje Espiritual",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-wyrm-los-fomori-y-la-triada",
+              "title": "El Wyrm, los Fomori y la Tríada",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "lexico",
+              "title": "Léxico",
+              "part": null,
+              "content_type": "glossary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap-2",
+      "block_title": "Capítulo Dos: Los Garou",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "las-razas-y-los-auspicios",
+              "title": "Las Razas y los Auspicios",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "las-tribus-camada-de-fenris-caminantes-silenciosos-y-colmillos-plateados",
+              "title": "Las Tribus: Camada de Fenris, Caminantes Silenciosos y Colmillos Plateados",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "las-tribus-contemplaestrellas-fianna-y-furias-negras",
+              "title": "Las Tribus: Contemplaestrellas, Fianna y Furias Negras",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "las-tribus-garras-rojas-hijos-de-gaia-y-moradores-del-cristal",
+              "title": "Las Tribus: Garras Rojas, Hijos de Gaia y Moradores del Cristal",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "las-tribus-roehuesos-y-senores-de-la-sombra",
+              "title": "Las Tribus: Roehuesos y Señores de la Sombra",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "las-tribus-uktena-y-wendigo",
+              "title": "Las Tribus: Uktena y Wendigo",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap-3",
+      "block_title": "Capítulo Tres: Personajes y Rasgos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "personajes-y-rasgos-introduccion-y-primeros-pasos",
+              "title": "Personajes y Rasgos: Introducción y Primeros Pasos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "puntos-gratuitos-y-renombre-inicial",
+              "title": "Puntos Gratuitos y Renombre Inicial",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "el-preludio-y-el-trasfondo-del-personaje",
+              "title": "El Preludio y el Trasfondo del Personaje",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "atributos",
+              "title": "Atributos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "habilidades-talentos-y-tecnicas",
+              "title": "Habilidades: Talentos y Técnicas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "habilidades-conocimientos",
+              "title": "Habilidades: Conocimientos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "trasfondos",
+              "title": "Trasfondos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "renombre-rango-y-frenesi",
+              "title": "Renombre, Rango y Frenesí",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "gnosis-y-niveles-de-salud",
+              "title": "Gnosis y Niveles de Salud",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap-4",
+      "block_title": "Capítulo Cuatro: Dones, Ritos y Fetiches",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "dones-de-raza-y-auspicio",
+              "title": "Dones de Raza y Auspicio",
+              "part": "Dones de Raza y Auspicio",
+              "content_type": "rule"
+            },
+            {
+              "slug": "dones-de-raza-y-auspicio-continuacion",
+              "title": "(continuación)",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "dones-de-raza-y-auspicio-continuacion-2",
+              "title": "(continuación 2)",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "dones-theurge",
+              "title": "Dones Theurge",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "dones-philodox",
+              "title": "Dones Philodox",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "dones-tribales",
+              "title": "Dones Tribales",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "dones-de-los-siberakh-y-contemplaestrellas",
+              "title": "Dones de los Siberakh y Contemplaestrellas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "dones-de-los-kucha-ekundu-y-boli-zousizhe",
+              "title": "Dones de los Kucha Ekundu y Boli Zousizhe",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "dones-de-los-roehuesos",
+              "title": "Dones de los Roehuesos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "dones-de-los-hakken-y-los-descastados",
+              "title": "Dones de los Hakken y los Descastados",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "ritos-tabla-y-aprendizaje",
+              "title": "Ritos: Tabla y Aprendizaje",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "ritos-misticos-y-del-despertar-espiritual",
+              "title": "Ritos Místicos y del Despertar Espiritual",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "ritos-de-muerte-y-de-renombre",
+              "title": "Ritos de Muerte y de Renombre",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "ritos-del-consejo-del-tumulo-y-del-puente",
+              "title": "Ritos del Consejo, del Túmulo y del Puente",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "ritos-menores-y-ritmos-de-huesos",
+              "title": "Ritos Menores y Ritmos de Huesos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "fetiches-amuletos-y-talismanes",
+              "title": "Fetiches, Amuletos y Talismanes",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap-5",
+      "block_title": "Capítulo Cinco: Reglas",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "el-sistema-dados-dificultades-y-grados-de-exito",
+              "title": "El Sistema: Dados, Dificultades y Grados de Éxito",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "tipos-de-acciones-tiempo-y-experiencia",
+              "title": "Tipos de Acciones, Tiempo y Experiencia",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "tabla-de-renombre-por-actividad",
+              "title": "Tabla de Renombre por Actividad",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "rangos-de-renombre-cliath-a-leyenda",
+              "title": "Rangos de Renombre (Cliath a Leyenda)",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap-6",
+      "block_title": "Capítulo Seis: Sistemas y Drama",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "niveles-de-salud-reglas-opcionales-y-dano",
+              "title": "Niveles de Salud, Reglas Opcionales y Daño",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "peligros-ambientales-y-envejecimiento",
+              "title": "Peligros Ambientales y Envejecimiento",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "frenesi-y-el-delirio",
+              "title": "Frenesí y el Delirio",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "turnos-iniciativa-y-movimiento",
+              "title": "Turnos, Iniciativa y Movimiento",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "acciones-mentales-y-sociales",
+              "title": "Acciones Mentales y Sociales",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "las-formas-del-garou-y-el-combate",
+              "title": "Las Formas del Garou y el Combate",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "maniobras-de-combate-y-reglas-opcionales",
+              "title": "Maniobras de Combate y Reglas Opcionales",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap-7",
+      "block_title": "Capítulo Siete: El Mundo Espiritual",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "el-mito-de-la-creacion-la-celosia-y-los-tumulos",
+              "title": "El Mito de la Creación, la Celosía y los Túmulos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "dominios-y-los-reinos-proximos",
+              "title": "Dominios y los Reinos Próximos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-sustento-y-otros-reinos",
+              "title": "El Sustento y otros Reinos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "reinos-celestes-el-ciberreino-y-erebo",
+              "title": "Reinos Celestes, el CiberReino y Érebo",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap-8",
+      "block_title": "Capítulo Ocho: Narración",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "narracion-el-papel-del-narrador",
+              "title": "Narración: El Papel del Narrador",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "jugadores-limites-y-elementos-de-la-historia",
+              "title": "Jugadores, Límites y Elementos de la Historia",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-drama-de-la-muerte-el-ritmo-y-las-tecnicas-narrativas",
+              "title": "El Drama de la Muerte, el Ritmo y las Técnicas Narrativas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "generos-crossover-y-ejemplo-de-juego",
+              "title": "Géneros, Crossover y Ejemplo de Juego",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap-9",
+      "block_title": "Capítulo Nueve: Aliados",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "aliados-espiritus-rasgos-encantamientos-y-tipos",
+              "title": "Aliados: Espíritus, Rasgos, Encantamientos y Tipos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "totems-de-respeto",
+              "title": "Tótems de Respeto",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "parentela-roles-y-creacion",
+              "title": "Parentela: Roles y Creación",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "parentela-meritos-sobrenaturales",
+              "title": "Parentela: Méritos Sobrenaturales",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "eventos-misticos-y-de-tumulo",
+              "title": "Eventos Místicos y de Túmulo",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "razas-cambiantes-ajaba-ananasi-y-bastet",
+              "title": "Razas Cambiantes: Ajaba, Ananasi y Bastet",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "razas-cambiantes-gurahl-kitsune-y-mokole",
+              "title": "Razas Cambiantes: Gurahl, Kitsune y Mokolé",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "razas-cambiantes-nagah-nuwisha-ratkin-y-rokea",
+              "title": "Razas Cambiantes: Nagah, Nuwisha, Ratkin y Rokea",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-danzantes-de-la-espiral-negra",
+              "title": "Los Danzantes de la Espiral Negra",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap-10",
+      "block_title": "Capítulo Diez: El Enemigo",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "los-fomori",
+              "title": "Los Fomori",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "poderes-de-los-fomori",
+              "title": "Poderes de los Fomori",
+              "part": "Poderes de los Fomori",
+              "content_type": "rule"
+            },
+            {
+              "slug": "poderes-de-los-fomori-continuacion",
+              "title": "(continuación)",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "perdiciones-espiritus-del-wyrm",
+              "title": "Perdiciones: Espíritus del Wyrm",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "agujeros-del-wyrm",
+              "title": "Agujeros del Wyrm",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "hombres-grises-y-elementales-del-wyrm",
+              "title": "Hombres Grises y Elementales del Wyrm",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "espiritus-del-kaos",
+              "title": "Espíritus del Kaos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "vampiros-y-el-corruptor",
+              "title": "Vampiros y el Corruptor",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "gobiernos-y-corporaciones",
+              "title": "Gobiernos y Corporaciones",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "pentex-y-sus-filiales",
+              "title": "Pentex y sus Filiales",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "antagonistas-de-ejemplo",
+              "title": "Antagonistas de Ejemplo",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "plantillas-de-antagonistas",
+              "title": "Plantillas de Antagonistas",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "trastornos-mentales",
+              "title": "Trastornos Mentales",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "arquetipos-de-antagonistas",
+              "title": "Arquetipos de Antagonistas",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "apendice",
+      "block_title": "Apéndice: Campos y Facciones",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "campos-tribales-i",
+              "title": "Campos Tribales (I)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "campos-tribales-contemplaestrellas-y-fianna",
+              "title": "Campos Tribales: Contemplaestrellas y Fianna",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "campos-tribales-roehuesos-y-otras-facciones",
+              "title": "Campos Tribales: Roehuesos y otras Facciones",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "boli-zousizhe-marta-cibelina-y-los-ronin",
+              "title": "Boli Zousizhe, Marta Cibelina y los Ronin",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-danzantes-de-la-piel",
+              "title": "Los Danzantes de la Piel",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "back-matter",
+      "block_title": "Epílogo",
+      "chapters": [
+        {
+          "chapter": "Epílogo",
+          "pages": [
+            {
+              "slug": "epilogo-mi-propia-profecia-de-fenix-y-testimonios",
+              "title": "Epílogo: Mi Propia Profecía de Fénix y Testimonios",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

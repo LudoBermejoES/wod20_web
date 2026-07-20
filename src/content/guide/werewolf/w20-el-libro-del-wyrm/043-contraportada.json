@@ -1,0 +1,33 @@
+{
+  "book_id": "w20-el-libro-del-wyrm",
+  "line": "werewolf",
+  "order": 43,
+  "slug": "contraportada",
+  "block": "cierre",
+  "block_title": "Cierre",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Contraportada",
+  "content_type": "back-matter",
+  "source_line_range": [
+    5295,
+    5315
+  ],
+  "body_md": "## Espirales del Corruptor\n\nDesde el reino Umbral de Malfeas hasta las salas de juntas de Pentex y sus filiales, súbditas del complot del Wyrm para matar a Gaia. Fomori deformados, Perdiciones monstruosas y cambiaformas manchados por el Wyrm azotan el mundo con ácidas garras. Los Maeljin Incarna secuestran a los olvidados, los ignorados y los desaparecidos para poblar sus reinos perversos. Las fábricas arrojan humo que ennegrece el cielo, y los residuos tóxicos inundan ríos y mares. Las cabezas de la Hidra ven lo que han hecho al mundo y saben que es bueno.\n\n## Estrangulando el mundo\n\nUna vez hace mucho tiempo, el Wyrm era un agente del [equilibrio](/werewolf/gifts/balance). Ahora, estrangulado por las telarañas de la Tejedora, ataca doliente y enloquecido. Si puede envenenar el mundo y sembrar el cáncer y la enfermedad a través de todo lo que es, tal vez pueda finalmente ser libre.\n\n## El Libro del Wyrm contiene:\n\n- Conocimientos y trasfondos completamente nuevos sobre la corrupción del Wyrm.\n- Información sobre los súbditos del Wyrm, desde los fomori a los Cráneo Cerdos o Chulorvia.\n- Una mirada en profundidad a los Daanzantes de la Espiral Negra, burlas torcidas de los Garou.",
+  "toc": [
+    {
+      "text": "Estrangulando el mundo",
+      "anchor": "estrangulando-el-mundo"
+    },
+    {
+      "text": "El Libro del Wyrm contiene:",
+      "anchor": "el-libro-del-wyrm-contiene"
+    }
+  ],
+  "prev": {
+    "slug": "productos-la-naturaleza-de-la-corrupcion",
+    "title": "Productos: La Naturaleza de la Corrupción"
+  },
+  "next": null
+}

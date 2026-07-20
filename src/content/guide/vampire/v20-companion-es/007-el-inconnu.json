@@ -1,0 +1,36 @@
+{
+  "book_id": "v20-companion-es",
+  "line": "vampire",
+  "order": 7,
+  "slug": "el-inconnu",
+  "block": "cap1-titulos",
+  "block_title": "Capítulo Uno: Títulos",
+  "chapter": "Capítulo Uno: Títulos",
+  "part": null,
+  "section": null,
+  "title": "El Inconnu",
+  "content_type": "reference",
+  "source_line_range": [
+    542,
+    561
+  ],
+  "body_md": "## El Inconnu\n\nSi el conocimiento sobre el Inconnu como Secta ya es imperfecto, sus títulos son aún más misteriosos para los ajenos a ella. De hecho, los Vástagos del Inconnu no parecen reunirse, e incluso descubrir que un miembro de la Secta se encuentra presente en un [dominio](/vampire/backgrounds/domain) es ya toda una hazaña. Los que se dan a conocer, o son descubiertos de algún otro modo, intentan no emprender acciones  abiertas,  al  menos  no  en  los  términos  familiares para muchos vampiros. Tal y como lo ven otros Vástagos, el Inconnu hace poco más aparte de observar cómo se desarrollan los asuntos de otras Sectas y vampiros. Así pues, el único título fiable del Inconnu, el de 'Monitor', refleja las percepciones de las demás Sectas. El propio Inconnu no ha dado indicación alguna sobre cuál es su estructura, su papel o sus intenciones.\n\nLo poco que los Vástagos fuera de la Secta saben del Inconnu es que sus miembros son muy escasos (es difícil encontrar un Cainita que pueda nombrar un [dominio](/vampire/backgrounds/domain) en el que la Praxis la ejerza un miembro del Inconnu) y que parecen buscar el solaz ofrecido por el posiblemente herético mito de la Golconda. Aun así, cuando un miembro de esta evasiva Secta se da a conocer en un [dominio](/vampire/backgrounds/domain), los resultados siempre son significativos, aunque pocas veces predecibles. Un Inconnu puede ser heraldo de tumultos en  un  [dominio](/vampire/backgrounds/domain),  seducir  a  meditabundos  Chiquillos  y apartarlos del lado de sus Sires, o desaparecer frente a los ojos de la corte de un Príncipe o en medio de un juicio de la Inquisición del Sabbat. Por esta razón, los líderes de las Sectas que reclaman la Praxis de un territorio concreto a menudo miran con recelo a cualquier Inconnu declarado, pues su [aparición](/vampire/discipline-powers/aparicion) causa caos y agitación.\n\n## Monitor (Inconnu; título de 3 puntos)\n\nEn una Secta tan ampliamente misteriosa como el Inconnu, los títulos que constituyen los rangos superiores rara vez son conocidos, no digamos ya comprendidos. El título de Monitor es quizás el más alto del Inconnu, pues la Secta está tan descentralizada que carece de autoridad central o de cuerpo de gobierno. Un Monitor parece hacer lo que su título implica: observa, distante y vigilante, las acciones de los demás vampiros dentro del [dominio](/vampire/backgrounds/domain). A menudo los Monitores alcanzan el poder y se convierten en las  figuras  más  prominentes,  si  no  poderosas,  de  sus ciudades. Pero ¿con qué finalidad vigilan, a quién transmiten la información y cómo gobiernan en los dominios en los que han reclamado la Praxis? Nadie fuera de la Secta tiene una respuesta adecuada, y los propios miembros del Inconnu responden sólo con un cauteloso silencio.\n\n\n\nLos Monitores son expertos en [ocultar](/vampire/discipline-powers/ocultar) su presencia en una ciudad. De hecho, los Monitores son tan buenos ocultándose que los Vástagos más desconfiados se preguntan qué pretenden los Monitores que permiten que su presencia sea conocida…\n\n## Eques (Inconnu; título de 1 punto)\n\nAlgunos  miembros  del  Inconnu  se  entregan  a  una no-vida nómada, vagando de un [dominio](/vampire/backgrounds/domain) a otro en una búsqueda interminable de respuestas a las preguntas que todo Vástago se formula tarde o temprano. Estos Inconnu se  enfrentan  a  los  riesgos  del  viaje  y  a  los  caprichos  de incontables dominios hostiles, pero a lo largo del camino pueden encontrarse con acólitos o confidentes, o simplemente impartir un poco de su conocimiento que consuele el alma desesperada de un Vástago. Al contrario que un Monitor, que se establece en un [dominio](/vampire/backgrounds/domain) y observa, los Equites toman su filosofía trascendental y la comparten de un [dominio](/vampire/backgrounds/domain) a otro con cualquiera que se preste a escuchar.\n\nSu nombre tiene un origen curioso, y hace referencia a la clase patricia de Roma, capaz de procurarse sus propios caballos en tiempos de guerra. Se desconoce si el término para estos buscadores mendicantes de la Golconda es un apelativo irónico que les han impuesto a modo de burla otros vampiros, o si tiene realmente vínculos con las noches de la Antigüedad Clásica, pero los Vástagos más perspicaces se dan cuenta de que pocos buscadores itinerantes del Inconnu reclaman para sí este título.",
+  "toc": [
+    {
+      "text": "Monitor (Inconnu; título de 3 puntos)",
+      "anchor": "monitor-inconnu-titulo-de-3-puntos"
+    },
+    {
+      "text": "Eques (Inconnu; título de 1 punto)",
+      "anchor": "eques-inconnu-titulo-de-1-punto"
+    }
+  ],
+  "prev": {
+    "slug": "la-tal-mahe-ra",
+    "title": "La Tal'Mahe'Ra"
+  },
+  "next": {
+    "slug": "titulos-especificos-de-clan",
+    "title": "Títulos específicos de Clan"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "book_id": "wraith20-el-olvido-nsr-es",
+  "line": "wraith",
+  "order": 60,
+  "slug": "capitulo-nueve-drama-fase-uno-iniciativa",
+  "block": "libro-dos",
+  "block_title": "Libro Dos: Narración y Reglas",
+  "chapter": "Capítulo Nueve: Drama",
+  "part": "Capítulo Nueve: Drama",
+  "section": "Fase Uno: Iniciativa",
+  "title": "Capítulo Nueve: Drama: Fase Uno: Iniciativa",
+  "content_type": "rule",
+  "source_line_range": [
+    11695,
+    11754
+  ],
+  "body_md": "## Fase Uno: Iniciativa\n\n- Tira iniciativa. Todos los jugadores y el Narrador declaran cualquier acción de sus personajes en orden inverso de iniciativa. El personaje con la mayor iniciativa realiza el primero su acción. Las acciones pueden retrasarse a cualquier momento posterior en el orden de iniciativa.\n- Se declara cualquier acción múltiple (y se reducen las reservas de dados de forma acorde). Se declara  la  activación  de  Arcanoi y el gasto de puntos de Fuerza de Voluntad.\n\n## Fase dos: Acción\n\n- Para  los  ataques  cuerpo  a  cuerpo  sin  armas,  tira  Destreza  +  Pelea.\n- Para los ataques cuerpo a cuerpo armados, tira Destreza + Pelea con Armas.\n- Para el combate a distancia, tira Destreza + Armas de Fuego (pistolas)  o  Destreza  +  Atletismo  (misiles  o  armas  arrojadizas).\n- Un personaje puede abortar  una  acción  para  realizar  una  acción defensiva (bloqueo, esquiva o parada) en cualquier momento antes de realizar su acción. Esto requiere superar una tirada de Fuerza de Voluntad o gastar 1 punto de Fuerza de Voluntad.\n\n## Fase tres: Resolución\n\n- Determina el efecto total del daño (tipo de arma o maniobra); añade cualquier dado adicional adquirido por éxitos extra en la tirada de ataque.\n- Los objetivos golpeados por ataques pueden tratar de absorber el daño si es apropiado.\n\n## Fase uno: Iniciativa\n\nEsta fase organiza el turno, y es cuando los jugadores y el Narrador describen cualquier acción que planean para sus personajes. Son posibles diversas acciones, ya sea atacar con un hacha, ocultarse tras un pilar, gritar una orden o aguardar a ver qué hace alguien más.\n\nTen en cuenta que cuando declaras la acción de tu personaje en esta fase, no la implementas hasta la fase acción .\n\nPara comenzar la fase iniciativa, todos los involucrados en el combate (jugadores y Narrador por igual) tiran un dado y añaden su puntuación de iniciativa (Destreza + Astucia). La única tirada del Narrador se aplica a la puntuación de Iniciativa de cada personaje del Narrador por separado.\n\nLos resultados determinan la iniciativa de cada personaje para ese turno. El personaje con el resultado más alto actúa antes, y los demás personajes lo hacen en orden decreciente de resultado.\n\nSi el Narrador desea un método más rápido, puede prescindir de cualquier tirada de dados y determinar la iniciativa usando la Destreza + Astucia de cada personaje.\n\nSi dos personajes obtienen el mismo total, el que tenga mayor puntuación de Iniciativa actúa antes. Si sus puntuaciones son también iguales, ambos actúan al mismo tiempo.\n\nUna vez establecida la iniciativa, el Narrador pasa lista en orden inverso para que cada jugador describa la acción que planea su personaje. Esto da a los personajes más rápidos la oportunidad de reaccionar a las acciones de los más lentos.\n\nEn este momento, también debes declarar si realizarás múltiples acciones, activarás cualquier Arcanos y/o gastarás puntos de Fuerza de Voluntad.\n\nTodas las acciones de tu personaje ocurren en su momento del orden de iniciativa con tres excepciones:\n\n- Acción  defensiva: Tu  personaje  puede  realizar  una  acción defensiva en cualquier momento siempre que le quede alguna acción en el turno (para más detalles, ver Abortar acción, pág. 329, y Maniobras defensivas, pág. 330).\n- Acciones  múltiples: Todas  las  acciones  adicionales  ocurren  al  final del  turno.  Si  dos  o  más  personajes  emprenden  acciones  múltiples, las acciones ocurren al final del turno en orden de puntuación de iniciativa. Se realiza una excepción para las acciones múltiples defensivas  (por  ejemplo,  emprender  múltiples  esquivas),  que ocurren como respuesta directa a una acción de ataque.\n- Retrasar acción: Puedes retrasar la acción de tu personaje para que ocurra en cualquier momento tras el que tenía asignado por iniciativa, incluso interrumpiendo la acción de un personaje más lento. Cuando retrasas, tus maniobras ocurren cuando tu personaje finalmente realiza la acción. Si dos personajes retrasan acción y por ello actúan a la vez, el que tiene mayor puntuación de iniciativa en ese turno actúa primero.\n\n## Fase dos: Acción\n\nÉste es el núcleo del turno de combate. Aquí, determinas si una acción tiene éxito y qué impacto tiene en el objetivo (si tiene alguno). Las tiradas de ataque se hacen usando una combinación de Atributo + Habilidad apropiada para el tipo de combate en el que tu personaje se enzarce:\n\n- Combate cuerpo a cuerpo: Usa Destreza + Pelea (sin armas) o Destreza + Pelea con Armas (armado).\n- Combate a distancia: Usa Destreza + Armas de Fuego (pistolas) o Destreza + Atletismo (misiles o armas arrojadizas).\n\nRecuerda, recurre sólo al Atributo de base si tu personaje no tiene puntos en la Habilidad relevante.\n\nUn arma puede modificar  tu  reserva  de  dados  o  dificultad (debido al desafío de usarla, la cadencia de fuego, etc.). Revisa las puntuaciones del arma para más detalles.\n\nEl uso de Arcanoi tiene lugar también en esta fase. Aplica los efectos de los poderes de Arcanoi relevantes en cualquier maniobra y tirada que resulte apropiado.\n\nLos ataques se hacen a dificultad 6, a menos que la ajusten modificadores de situación (tipo de arma, larga distancia, falta de espacio).\n\n\n\nSi no obtienes ningún éxito, el ataque simplemente falla y no inflige daño alguno. Si fracasas, el personaje falla de manera espectacular con un resultado desagradable adecuado a las circunstancias: el arma se encasquilla, la hoja se rompe, golpea a un aliado, etc.",
+  "toc": [
+    {
+      "text": "Fase dos: Acción",
+      "anchor": "fase-dos-accion"
+    },
+    {
+      "text": "Fase tres: Resolución",
+      "anchor": "fase-tres-resolucion"
+    },
+    {
+      "text": "Fase uno: Iniciativa",
+      "anchor": "fase-uno-iniciativa"
+    },
+    {
+      "text": "Fase dos: Acción",
+      "anchor": "fase-dos-accion"
+    }
+  ],
+  "prev": {
+    "slug": "capitulo-nueve-drama-proezas-de-fuerza",
+    "title": "Capítulo Nueve: Drama: Proezas de Fuerza"
+  },
+  "next": {
+    "slug": "capitulo-nueve-drama-fase-tres-resolucion",
+    "title": "Capítulo Nueve: Drama: Fase tres: Resolución"
+  }
+}

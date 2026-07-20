@@ -1,0 +1,36 @@
+{
+  "book_id": "w20-nsr-aniversario-parte-1-59pp",
+  "line": "werewolf",
+  "order": 4,
+  "slug": "nuevos-elementos",
+  "block": "la-historia",
+  "block_title": "La Historia",
+  "chapter": "Nuevos Elementos",
+  "part": null,
+  "section": null,
+  "title": "Nuevos Elementos",
+  "content_type": "rule",
+  "source_line_range": [
+    196,
+    227
+  ],
+  "body_md": "## Nuevos Elementos\n\nFetiche: [Vestigio de memoria](/werewolf/fetishs/memory-vestige)\n\nNivel uno (especial), Gnosis 8.\n\nUn [vestigio de memoria](/werewolf/fetishs/memory-vestige) es un trozo de la piel de un hombre lobo (o, más raramente, de algún otro cambiaformas) preservado mediante poder espiritual.  Cualquiera capaz  de  usar  un  Fetiche  puede  activar  un  vestigio  de memoria; el Fetiche proporciona un aumento temporal del Trasfondo Ancestros de un punto por éxito.\n\nEl vestigio es mucho más útil en manos de un Danzante de la Piel o, más específicamente, en su piel. Un cambiaformas creado mediante el [Rito del Sagrado Renacimiento](/werewolf/rites/sacred-rebirth) puede escoger vincularlo a su cuerpo cuando lo esté sintonizando. El trozo de piel queda absorbido por la del propio usuario, pasando a ser parte de él como si fuera una de las pieles que usó en el [Rito del Sagrado Renacimiento](/werewolf/rites/sacred-rebirth). Por ejemplo, si un Danzante de la Piel sintoniza con su hombro un jirón del pálido pellejo blanco de un Colmillo Plateado, la piel de su hombro siempre tendrá la apariencia de la piel del propietario original; en las Formas lupinas o híbridas parecerá un parche de pelaje blanco.\n\nUna vez absorbido, el [vestigio de memoria](/werewolf/fetishs/memory-vestige) concede al Danzante de la Piel un punto en el Trasfondo Ancestros; le permite [canalizar](/werewolf/gifts/channeling) el espíritu del cambiaformas muerto. El Danzante de la  Piel  puede  incrementar  su  poder  fortaleciendo al espíritu Ancestro, generalmente con ofrendas de sangre y recuerdos. En términos de juego, esto se simula usando puntos de Experiencia para comprar los puntos adicionales de Ancestros a 1,5 veces su coste habitual, con el requisito interpretativo de que el dueño se esfuerce por aumentar la leyenda del donante original. Cada punto de Ancestros obtenido incrementa el nivel efectivo del Fetiche en uno, hasta un máximo de cinco. La dificultad para activar estos dados de Ancestros es siempre de 8, dado que el jugador siempre alcanza a un espíritu 'Ancestro' específico, pero el Fetiche está  limitado  a  las  Habilidades  poseídas  por  ese  único  donante.\n\nIncrementar el poder del Fetiche no está exento de riesgos. Cuanto más fuerte se vuelve el vestigio, más se extiende (por ejemplo, un vestigio  de  memoria  de  nivel  tres podría hacer  que  todo  el  brazo  o  parte  del  torso  del  Danzante de la Piel se parezca al de su 'Ancestro' implantado). Si se le alimenta lo suficiente, puede [ahogar](/werewolf/gifts/drown) a su huésped.\n\n## Fetiche: Brújula del suplicante\n\nNivel cuatro, Gnosis 7.\n\nLa [brújula del suplicante](/werewolf/fetishs/supplicants-compass) es un Fetiche con la forma de una pequeña aguja de metal con un trozo de cordel atado en su centro. Si se moja la aguja con sangre de un cambiaformas, señalará una senda umbral hacia la madriguera del [Tótem](/werewolf/backgrounds/totem) patrón (tribal, personal o de manada) del cambiaformas. Estos Fetiches son infrecuentes y pocos Tótems se toman bien que se les visite sin previo aviso.\n\n## Garrapata (Tótem de astucia)\n\nCoste de Trasfondo: 4.\n\n[Garrapata](/werewolf/banes/garrapata) es un parásito, pero más duro de lo que su tamaño podría hacer creer. Su credo es: 'hay que hacer lo necesario por sobrevivir, sin importar cuán desagradable lo encuentren los demás'. Es más una embaucadora que una guerrera, roba la comida a otros y usa la enfermedad como arma en lugar de promover una lucha justa.\n\nRasgos individuales: Los  hijos  de  [Garrapata](/werewolf/banes/garrapata)  obtienen un dado de  absorción  adicional  contra  el  daño  contundente.\n\nRasgos de manada: Las manadas de [Garrapata](/werewolf/banes/garrapata) pueden usar tres puntos de [Supervivencia](/werewolf/gifts/survival) y dos de Fuerza de Voluntad por historia.\n\nProhibición: [Garrapata](/werewolf/banes/garrapata) requiere un diezmo de sangre regular. Su manada debe ofrecerle una cantidad de sangre (suya o de otros) equivalente a un nivel de Salud por cada miembro de la manada más o menos una vez por semana (la noche exacta de la Luna nueva, la media o la llena). Además, no permite que sus hijos Garou maten o extraigan garrapatas que ya se hayan adherido a un huésped y se estén alimentando de él.",
+  "toc": [
+    {
+      "text": "Fetiche: Brújula del suplicante",
+      "anchor": "fetiche-brujula-del-suplicante"
+    },
+    {
+      "text": "Garrapata (Tótem de astucia)",
+      "anchor": "garrapata-totem-de-astucia"
+    }
+  ],
+  "prev": {
+    "slug": "trasfondo-y-antecedentes",
+    "title": "Trasfondo y Antecedentes"
+  },
+  "next": {
+    "slug": "reparto",
+    "title": "Reparto"
+  }
+}

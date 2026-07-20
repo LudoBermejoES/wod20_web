@@ -1,0 +1,33 @@
+{
+  "book_id": "v20-companion-es",
+  "line": "vampire",
+  "order": 0,
+  "slug": "creditos",
+  "block": "preliminares",
+  "block_title": "Preliminares",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Créditos",
+  "content_type": "front-matter",
+  "source_line_range": [
+    1,
+    73
+  ],
+  "body_md": "V20 COMPANION\n\n1\n\n## Créditos\n\nAutores: Justin Achilli y Eddy Webb\n\nEditora e indexadora: Genevieve Podleski\n\nDirector creativo y artístico: Ron Thompson\n\nMaquetación y tipografía: Ron Thompson\n\nIlustración de cubierta: Steven Stahlberg\n\nIlustraciones del interior: Christopher Shy, Michael Gaydos, Mark Jackson, Vince Locke, John Cobb, Bill Sienkiewicz, Tim Bradstreet, Jon J. Muth, Guy Davis, Ken Meyer Jr., Ron Spencer.\n\n## Edición en español\n\nDirectora y productora ejecutiva: Dhaunae De Vir 'Daphne'.\n\nTraductores: Héctor Gómez Herrero, Miguel Ángel Lucas, Daniel M. Schultes.\n\nCorrectores: Alejandra 'Argéntea' González, Héctor Gómez Herrero, Daniel M. Schultes, Miguel Ángel Lucas. Maquetador: Marcos Manuel 'EnOcH' Peral Villaverde. Coordinación editorial: Manuel J. Sueiro.\n\n## Agradecimientos especiales\n\nJustin '[Ravnos](/vampire/clans/ravnos)-cadabra' Achilli por cambiar cinco veces de trabajo en un año y pasar por cuatro empresas.\n\nRich 'Vayamos Haciéndolo Sobre la Marcha' Thomas por dar el pistoletazo de salida en el mecenazgo del Kickstarter.\n\nEthan  'La  Maldición  Renovada'  Skemp por  ser arrastrado de nuevo al desarrollo de Hombre Lobo para el 20º aniversario.\n\nAileen 'Señora de las Tareas' Miles por asegurarse de que Ethan sabía qué lado del pan estaba untado con mantequilla.\n\nKai 'Oso Desnudo' Schiefer por el mejor tipo de tácticas de negociación.\n\nMatthew  'Antaño  Fuimos  [Tremere](/vampire/clans/tremere)'  Sanderson por aprender a las malas a no contrariar a un [Malkavian](/vampire/clans/malkavian) con [Fe Verdadera](/vampire/merits/fe-verdadera).\n\nAlan 'La Furcia de White Wolf' Orr por practicar la segunda forma más antigua de capitalismo.\n\nRafael 'Trampa Spam' Grotti por sacar a Justin de la miseria a paladas.\n\nAl mecenas Matusalén Alberto Marcos Fernández ['Noctis' del Clan [Lasombra](/vampire/clans/lasombra) | 'Mark Sullivan' del Clan [Brujah](/vampire/clans/brujah)] por su paciencia y comprensión.\n\nPublicado por: Nosolorol Ediciones, calle Ocaña 32, 28047 Madrid.\n\n\n\n\n\n\n\n\n\n© 2014 CCP hf. Todos los derechos reservados. La reproducción sin el permiso escrito de la editorial está expresamente prohibida, salvo para la elaboración de reseñas y una copia impresa que puede reproducirse sólo para uso personal. Vampiro: La Mascarada y el Sistema Narrativo son marcas comerciales registradas de CCP hf. Todos los derechos reservados. Este libro hace uso de lo sobrenatural para ambientaciones, personajes y temas. Todos los elementos místicos y sobrenaturales son ficticios y están destinados únicamente a propósitos lúdicos. Este libro contiene material explícito. Se recomienda sólo para lectores adultos.\n\nVisita White Wolf online en http://www.white-wolf.com\n\nVisita Biblioteca Oscura online en http://www.bibliotecaoscura.com\n\nVisita Nosolorol online en http://www.nosolorol.com\n\n2",
+  "toc": [
+    {
+      "text": "Edición en español",
+      "anchor": "edicion-en-espanol"
+    },
+    {
+      "text": "Agradecimientos especiales",
+      "anchor": "agradecimientos-especiales"
+    }
+  ],
+  "prev": null,
+  "next": {
+    "slug": "introduccion",
+    "title": "Introducción"
+  }
+}

@@ -1,0 +1,686 @@
+{
+  "book_id": "v20-core-rulebook-es",
+  "line": "vampire",
+  "title_es": "Vampiro: La Mascarada — Libro Básico 20.º Aniversario",
+  "book_title_es": "Vampiro: La Mascarada — Libro Básico 20.º Aniversario",
+  "page_count": 97,
+  "tree": [
+    {
+      "block": "front-matter",
+      "block_title": "Preliminares",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "prefacios-y-creditos",
+              "title": "Prefacios y Créditos",
+              "part": null,
+              "content_type": "front-matter"
+            },
+            {
+              "slug": "epistola-a-w-h",
+              "title": "Epístola a W.H.",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "libro-primero-el-enigma",
+      "block_title": "LIBRO PRIMERO: EL ENIGMA",
+      "chapters": [
+        {
+          "chapter": "Introducción",
+          "pages": [
+            {
+              "slug": "introduccion",
+              "title": "Introducción",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Uno: Un Mundo de Tinieblas",
+          "pages": [
+            {
+              "slug": "capitulo-uno-un-mundo-de-tinieblas",
+              "title": "Capítulo Uno: Un Mundo de Tinieblas",
+              "part": "Capítulo Uno: Un Mundo de Tinieblas",
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-uno-un-mundo-de-tinieblas-clanes-y-sectas",
+              "title": "Clanes y Sectas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-uno-un-mundo-de-tinieblas-sabbat",
+              "title": "Sabbat",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-uno-un-mundo-de-tinieblas-y-todo-lo-demas",
+              "title": "Y todo lo demás",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Dos: Sectas y Clanes",
+          "pages": [
+            {
+              "slug": "capitulo-dos-sectas-y-clanes",
+              "title": "Capítulo Dos: Sectas y Clanes",
+              "part": "Capítulo Dos: Sectas y Clanes",
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-sectas-y-clanes-rituales",
+              "title": "Rituales",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-sectas-y-clanes-estereotipos",
+              "title": "Estereotipos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-sectas-y-clanes-estereotipos-2",
+              "title": "Estereotipos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-sectas-y-clanes-estereotipos-3",
+              "title": "Estereotipos",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "libro-segundo-la-conversion",
+      "block_title": "LIBRO SEGUNDO: LA CONVERSIÓN",
+      "chapters": [
+        {
+          "chapter": "Capítulo Tres: Personajes y Rasgos",
+          "pages": [
+            {
+              "slug": "capitulo-tres-personajes-y-rasgos",
+              "title": "Capítulo Tres: Personajes y Rasgos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "arquetipos-naturaleza-y-conducta",
+              "title": "Arquetipos: Naturaleza y Conducta",
+              "part": "Arquetipos: Naturaleza y Conducta",
+              "content_type": "rule"
+            },
+            {
+              "slug": "atributos",
+              "title": "Atributos",
+              "part": "Atributos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "habilidades",
+              "title": "Habilidades",
+              "part": "Habilidades",
+              "content_type": "rule"
+            },
+            {
+              "slug": "trasfondos",
+              "title": "Trasfondos",
+              "part": "Trasfondos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "virtudes",
+              "title": "Virtudes",
+              "part": "Virtudes",
+              "content_type": "rule"
+            },
+            {
+              "slug": "experiencia",
+              "title": "Experiencia",
+              "part": "Experiencia",
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Cuatro: Disciplinas",
+          "pages": [
+            {
+              "slug": "capitulo-cuatro-disciplinas",
+              "title": "Capítulo Cuatro: Disciplinas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "animalismo",
+              "title": "Animalismo",
+              "part": "Animalismo",
+              "content_type": "rule"
+            },
+            {
+              "slug": "auspex",
+              "title": "Auspex",
+              "part": "Auspex",
+              "content_type": "rule"
+            },
+            {
+              "slug": "celeridad",
+              "title": "Celeridad",
+              "part": "Celeridad",
+              "content_type": "rule"
+            },
+            {
+              "slug": "dementacion",
+              "title": "Dementación",
+              "part": "Dementación",
+              "content_type": "rule"
+            },
+            {
+              "slug": "dominacion",
+              "title": "Dominación",
+              "part": "Dominación",
+              "content_type": "rule"
+            },
+            {
+              "slug": "extincion",
+              "title": "Extinción",
+              "part": "Extinción",
+              "content_type": "rule"
+            },
+            {
+              "slug": "fortaleza",
+              "title": "Fortaleza",
+              "part": "Fortaleza",
+              "content_type": "rule"
+            },
+            {
+              "slug": "necromancia",
+              "title": "Necromancia",
+              "part": "Necromancia",
+              "content_type": "rule"
+            },
+            {
+              "slug": "necromancia-senda-de-las-cenizas",
+              "title": "Senda de las Cenizas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "necromancia-senda-del-osario",
+              "title": "Senda del Osario",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "necromancia-rituales-necromanticos",
+              "title": "Rituales Necrománticos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "necromancia-rituales-de-nivel-cinco",
+              "title": "Rituales de nivel cinco",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "obtenebracion",
+              "title": "Obtenebración",
+              "part": "Obtenebración",
+              "content_type": "rule"
+            },
+            {
+              "slug": "ofuscacion",
+              "title": "Ofuscación",
+              "part": "Ofuscación",
+              "content_type": "rule"
+            },
+            {
+              "slug": "potencia",
+              "title": "Potencia",
+              "part": "Potencia",
+              "content_type": "rule"
+            },
+            {
+              "slug": "presencia",
+              "title": "Presencia",
+              "part": "Presencia",
+              "content_type": "rule"
+            },
+            {
+              "slug": "protean",
+              "title": "Protean",
+              "part": "Protean",
+              "content_type": "rule"
+            },
+            {
+              "slug": "quimerismo",
+              "title": "Quimerismo",
+              "part": "Quimerismo",
+              "content_type": "rule"
+            },
+            {
+              "slug": "serpentis",
+              "title": "Serpentis",
+              "part": "Serpentis",
+              "content_type": "rule"
+            },
+            {
+              "slug": "taumaturgia",
+              "title": "Taumaturgia",
+              "part": "Taumaturgia",
+              "content_type": "rule"
+            },
+            {
+              "slug": "taumaturgia-exitos-resultado",
+              "title": "Éxitos Resultado",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "taumaturgia-senda-de-la-tecnomancia",
+              "title": "Senda de la Tecnomancia",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "taumaturgia-comunicacion-con-el-sire-del-vastago",
+              "title": "Comunicación con el Sire del Vástago",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "taumaturgia-carne-de-roce-igneo",
+              "title": "Carne de Roce Ígneo",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "vicisitud",
+              "title": "Vicisitud",
+              "part": "Vicisitud",
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Cinco: Reglas",
+          "pages": [
+            {
+              "slug": "capitulo-cinco-reglas",
+              "title": "Capítulo Cinco: Reglas",
+              "part": "Capítulo Cinco: Reglas",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cinco-reglas-reintentar",
+              "title": "Reintentar",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Seis: Sistemas y Drama",
+          "pages": [
+            {
+              "slug": "capitulo-seis-sistemas-y-drama",
+              "title": "Capítulo Seis: Sistemas y Drama",
+              "part": "Capítulo Seis: Sistemas y Drama",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-seis-sistemas-y-drama-tareas-mentales",
+              "title": "Tareas mentales",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-seis-sistemas-y-drama-usar-la-reserva-de-sangre",
+              "title": "Usar la reserva de Sangre",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-seis-sistemas-y-drama-maniobras-generales",
+              "title": "Maniobras generales",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-seis-sistemas-y-drama-tabla-de-armas-de-combate-cuerpo-a-cuerpo",
+              "title": "Tabla de armas de combate cuerpo a cuerpo",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-seis-sistemas-y-drama-diablerie",
+              "title": "Diablerie",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-seis-sistemas-y-drama-fuego-y-quemaduras",
+              "title": "Fuego y quemaduras",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-seis-sistemas-y-drama-paranoia",
+              "title": "Paranoia",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Siete: Moralidad",
+          "pages": [
+            {
+              "slug": "capitulo-siete-moralidad",
+              "title": "Capítulo Siete: Moralidad",
+              "part": "Capítulo Siete: Moralidad",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-siete-moralidad-crear-un-seguidor-de-senda",
+              "title": "Crear un seguidor de Senda",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-siete-moralidad-senda-de-los-cataros",
+              "title": "Senda de los Cátaros",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-siete-moralidad-seguir-la-senda",
+              "title": "Seguir la Senda",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-siete-moralidad-descripcion-de-los-seguidores",
+              "title": "Descripción de los seguidores",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-siete-moralidad-descripcion-de-los-seguidores-2",
+              "title": "Descripción de los seguidores",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "libro-tercero-las-permutaciones",
+      "block_title": "LIBRO TERCERO: LAS PERMUTACIONES",
+      "chapters": [
+        {
+          "chapter": "Capítulo Ocho: Narración",
+          "pages": [
+            {
+              "slug": "capitulo-ocho-narracion",
+              "title": "Capítulo Ocho: Narración",
+              "part": "Capítulo Ocho: Narración",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-ocho-narracion-cortes-de-carmesi-y-alabastro",
+              "title": "Cortes de carmesí y alabastro",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-ocho-narracion-conflicto",
+              "title": "Conflicto",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-ocho-narracion-flash-backs",
+              "title": "Flash-backs",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Nueve: Los Otros",
+          "pages": [
+            {
+              "slug": "capitulo-nueve-los-otros",
+              "title": "Capítulo Nueve: Los Otros",
+              "part": "Capítulo Nueve: Los Otros",
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-nueve-los-otros-agente-del-gobierno",
+              "title": "Agente del gobierno",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-nueve-los-otros-poderes-y-debilidades",
+              "title": "Poderes y debilidades",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-nueve-los-otros-bestiario",
+              "title": "Bestiario",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Diez: Líneas de Sangre",
+          "pages": [
+            {
+              "slug": "capitulo-diez-lineas-de-sangre",
+              "title": "Capítulo Diez: Líneas de Sangre",
+              "part": "Capítulo Diez: Líneas de Sangre",
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-diez-lineas-de-sangre-estereotipos",
+              "title": "Estereotipos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-diez-lineas-de-sangre-estereotipos-2",
+              "title": "Estereotipos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-diez-lineas-de-sangre-estereotipos-3",
+              "title": "Estereotipos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-diez-lineas-de-sangre-pander",
+              "title": "Pander",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-diez-lineas-de-sangre-ravnos",
+              "title": "Ravnos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "bardo",
+              "title": "Bardo",
+              "part": "Bardo",
+              "content_type": "rule"
+            },
+            {
+              "slug": "daimoinon",
+              "title": "Daimoinon",
+              "part": "Daimoinon",
+              "content_type": "rule"
+            },
+            {
+              "slug": "hechiceria-assamita",
+              "title": "Hechicería Assamita",
+              "part": "Hechicería Assamita",
+              "content_type": "rule"
+            },
+            {
+              "slug": "hechiceria-koldunica",
+              "title": "Hechicería Koldúnica",
+              "part": "Hechicería Koldúnica",
+              "content_type": "rule"
+            },
+            {
+              "slug": "melpomene",
+              "title": "Melpómene",
+              "part": "Melpómene",
+              "content_type": "rule"
+            },
+            {
+              "slug": "mytherceria",
+              "title": "Mythercería",
+              "part": "Mythercería",
+              "content_type": "rule"
+            },
+            {
+              "slug": "obeah",
+              "title": "Obeah",
+              "part": "Obeah",
+              "content_type": "rule"
+            },
+            {
+              "slug": "ogham",
+              "title": "Ogham",
+              "part": "Ogham",
+              "content_type": "rule"
+            },
+            {
+              "slug": "sanguinus",
+              "title": "Sanguinus",
+              "part": "Sanguinus",
+              "content_type": "rule"
+            },
+            {
+              "slug": "spiritus",
+              "title": "Spiritus",
+              "part": "Spiritus",
+              "content_type": "rule"
+            },
+            {
+              "slug": "tanatosis",
+              "title": "Tanatosis",
+              "part": "Tanatosis",
+              "content_type": "rule"
+            },
+            {
+              "slug": "temporis",
+              "title": "Temporis",
+              "part": "Temporis",
+              "content_type": "rule"
+            },
+            {
+              "slug": "valeren",
+              "title": "Valeren",
+              "part": "Valeren",
+              "content_type": "rule"
+            },
+            {
+              "slug": "visceratica",
+              "title": "Viscerática",
+              "part": "Viscerática",
+              "content_type": "rule"
+            },
+            {
+              "slug": "vuelo",
+              "title": "Vuelo",
+              "part": "Vuelo",
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "apendice",
+      "block_title": "Apéndice",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "meritos-y-defectos",
+              "title": "Méritos y Defectos",
+              "part": "Méritos y Defectos",
+              "content_type": "reference"
+            },
+            {
+              "slug": "meritos-y-defectos-compasivo-defecto-de-1-punto",
+              "title": "Compasivo (Defecto de 1 punto)",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "meritos-y-defectos-peon-defecto-de-2-puntos",
+              "title": "Peón (Defecto de 2 puntos)",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "ghouls",
+              "title": "Ghouls",
+              "part": "Ghouls",
+              "content_type": "rule"
+            },
+            {
+              "slug": "ghouls-paso-cinco-toques-finales",
+              "title": "Paso Cinco: Toques Finales",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "ritae-del-sabbat",
+              "title": "Ritae del Sabbat",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "glosario-de-terminos-de-juego",
+              "title": "Glosario de términos de juego",
+              "part": null,
+              "content_type": "glossary"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

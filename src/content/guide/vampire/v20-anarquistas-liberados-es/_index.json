@@ -1,0 +1,232 @@
+{
+  "book_id": "v20-anarquistas-liberados-es",
+  "line": "vampire",
+  "title_es": "Vampiro: Anarquistas Liberados",
+  "book_title_es": "Vampiro: Anarquistas Liberados",
+  "page_count": 23,
+  "tree": [
+    {
+      "block": "preliminares",
+      "block_title": "Preliminares",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos",
+              "title": "Créditos",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "Introducción",
+          "pages": [
+            {
+              "slug": "introduccion",
+              "title": "Introducción",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "el-movimiento",
+      "block_title": "El Movimiento Anarquista",
+      "chapters": [
+        {
+          "chapter": "Glosario",
+          "pages": [
+            {
+              "slug": "glosario",
+              "title": "Glosario",
+              "part": null,
+              "content_type": "glossary"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Uno: Historia del Movimiento Anarquista",
+          "pages": [
+            {
+              "slug": "capitulo-uno-historia-del-movimiento-anarquista",
+              "title": "Capítulo Uno: Historia del Movimiento Anarquista",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-segunda-revuelta-1900-1990",
+              "title": "La Segunda Revuelta (1900-1990)",
+              "part": "La Segunda Revuelta (1900-1990)",
+              "content_type": "lore"
+            },
+            {
+              "slug": "noches-actuales-1989-actualidad",
+              "title": "Noches actuales (1989-actualidad)",
+              "part": "Noches actuales (1989-actualidad)",
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Dos: La Ciudad Sobre un Monte",
+          "pages": [
+            {
+              "slug": "capitulo-dos-la-ciudad-sobre-un-monte",
+              "title": "Capítulo Dos: La Ciudad Sobre un Monte",
+              "part": "Capítulo Dos: La Ciudad Sobre un Monte",
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-la-ciudad-sobre-un-monte-responsabilidad",
+              "title": "Responsabilidad",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "clanes-en-una-sociedad-sin-clanes",
+              "title": "Clanes en una sociedad sin Clanes",
+              "part": "Clanes en una sociedad sin Clanes",
+              "content_type": "lore"
+            },
+            {
+              "slug": "problemas-en-el-paraiso",
+              "title": "Problemas en el Paraíso",
+              "part": "Problemas en el Paraíso",
+              "content_type": "lore"
+            },
+            {
+              "slug": "estados-libres",
+              "title": "Estados Libres",
+              "part": "Estados Libres",
+              "content_type": "lore"
+            },
+            {
+              "slug": "territorios-anarquistas-por-el-mundo",
+              "title": "Territorios Anarquistas por el mundo",
+              "part": "Territorios Anarquistas por el mundo",
+              "content_type": "lore"
+            },
+            {
+              "slug": "territorios-anarquistas-por-el-mundo-escandinavia",
+              "title": "Escandinavia",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Tres: Extendiendo el Movimiento",
+          "pages": [
+            {
+              "slug": "capitulo-tres-extendiendo-el-movimiento",
+              "title": "Capítulo Tres: Extendiendo el Movimiento",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "de-la-anarquia-y-como-extenderla",
+              "title": "De la Anarquía y cómo extenderla",
+              "part": "De la Anarquía y cómo extenderla",
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-vanguardia-de-la-sangre-tecnologia-y-movimiento-anarquista",
+              "title": "La vanguardia de la Sangre: Tecnología y Movimiento Anarquista",
+              "part": "La vanguardia de la Sangre: Tecnología y Movimiento Anarquista",
+              "content_type": "lore"
+            },
+            {
+              "slug": "por-que-luchamos-puntos-de-vista-de-nuevos-y-viejos-reclutas",
+              "title": "Por qué luchamos: puntos de vista de nuevos y viejos reclutas",
+              "part": "Por qué luchamos: puntos de vista de nuevos y viejos reclutas",
+              "content_type": "fiction"
+            },
+            {
+              "slug": "por-que-luchamos-puntos-de-vista-de-nuevos-y-viejos-reclutas-hector-juarez",
+              "title": "Héctor Juárez",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Cuatro: Personajes y Rasgos",
+          "pages": [
+            {
+              "slug": "capitulo-cuatro-personajes-y-rasgos",
+              "title": "Capítulo Cuatro: Personajes y Rasgos",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Cinco: Disciplinas de los Anarquistas",
+          "pages": [
+            {
+              "slug": "capitulo-cinco-disciplinas-de-los-anarquistas",
+              "title": "Capítulo Cinco: Disciplinas de los Anarquistas",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Seis: Herramientas del Narrador",
+          "pages": [
+            {
+              "slug": "capitulo-seis-herramientas-del-narrador",
+              "title": "Capítulo Seis: Herramientas del Narrador",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "apendice-i",
+      "block_title": "Apéndice I: Antagonistas y Aliados",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "apendice-i-antagonistas-y-aliados",
+              "title": "Apéndice I: Antagonistas y Aliados",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "apendice-ii",
+      "block_title": "Apéndice II: Los Acuerdos del Movimiento Anarquista",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "apendice-ii-los-acuerdos-del-movimiento-anarquista",
+              "title": "Apéndice II: Los Acuerdos del Movimiento Anarquista",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

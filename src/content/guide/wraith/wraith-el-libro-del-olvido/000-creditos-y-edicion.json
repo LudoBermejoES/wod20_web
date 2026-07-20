@@ -1,0 +1,37 @@
+{
+  "book_id": "wraith-el-libro-del-olvido",
+  "line": "wraith",
+  "order": 0,
+  "slug": "creditos-y-edicion",
+  "block": "preliminares",
+  "block_title": "Portada y Créditos",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Créditos y Edición",
+  "content_type": "front-matter",
+  "source_line_range": [
+    1,
+    87
+  ],
+  "body_md": "Jiba Molei Anderson, Dale Andrade, Bruce Baugh, Jacob Burgess, Mark Carroll, Lillian Cohen-Moore, Matthew Dawkins, Cassandra Khaw, Clayton Oliver, Matthew Rossi, Elsa Sjunneson-Henry\n\n## Créditos\n\nAutores: Jiba Molei Anderson, Dale Andrade, Bruce Baugh, Jacob  Burgess,  Mark  Carroll,  Lillian  Cohen-Moore,  Matthew Dawkins,  Cassandra  Khaw,  Clayton  Oliver,  Matthew  Rossi  y Elsa Sjunneson-Henry.\n\nDesarrollado por: Bruce Baugh y Matthew Dawkins.\n\nDesarrollador  de  la  línea  Mundo  de  Tinieblas: Matthew Dawkins.\n\nEditor: Wade Wallace.\n\nDirector artístico: Mike Chaney.\n\nDiseño del libro: Josh Kubat.\n\nIlustraciones interiores: Drew Tucker, Ken Meyer Jr., Melissa Uran, Paul Lee, Phil Simpson, John Cobb.\n\nIlustración de la portada: Drew Tucker.\n\n## Edición en español\n\nResponsable de línea y traductor:\n\nCorrectora:\n\nHéctor Gómez Herrero. Alejandra «Argéntea» González.\n\nMaquetador: Marcos Manuel «EnOcH» Peral Villaverde.\n\nDirección: Manuel J. Sueiro.\n\nProducción: Sergio M. Vergara.\n\nDistribución: Pilar M. Espinosa.\n\nComunicación: José Valverde y Elena Alonso.\n\nEdición: Héctor Gómez Herrero, José Lomo, Luis Fernández y Juan Sixto.\n\nApoyo editorial: Pedro J. Ramos y Francisco Castillo. ISBN: 978-84-19594-16-7\n\nDepósito Legal: M-3533-2023\n\n\n\n## Dedicatoria\n\nSi  me  estás  esperando  al  otro  lado,  Nigel,  sigue  barajando tu biblioteca de VtES y nos encontraremos algún día. Aunque necesitaremos otro par de jugadores, así que enseña a un par de wraiths interesantes cómo jugar mientras esperas. -Matthew\n\n## Agradecimientos especiales\n\nLlevo toda la vida leyendo cómics, así que estoy muy familiarizado con la publicidad en portada que proclama «¡Porque lo estabais pidiendo!». A veces era cierto, y ese número incluía acontecimientos dramáticos para héroes y villanos sobre los que los seguidores habían estado especulando. A veces no era así, y personajes menores y recién llegados poco desarrollados ganaban protagonismo con la fútil esperanza de hacer algo de bien a su popularidad. Hasta ahora, nunca he tenido la oportunidad de escribir «¡Porque lo estabais pidiendo!» sobre un libro de rol en el que estuviera involucrado; así que…\n\n¡Porque lo estabais pidiendo!\n\nDespués  de  todo,  lo  estabais  haciendo.  La  mayoría  de  los contenidos aquí presentes se incluyen porque fueron metas en la campaña de Kickstarter de Wraith: El Olvido , y nada expresa una exigencia entusiasta como los óbolos. El resto está presente porque responde viejas preguntas y preocupaciones de lectores, Narradores y jugadores leales (es decir, tú) y deseos por parte de autores y desarrolladores de dar cuerpo y detalle a elementos de la ambientación. De principio a fin, éste es el Libro de las Preguntas Respondidas.\n\nLa creación de juegos de rol es, en el mejor de los casos, un gratificante proceso social, y El Libro del Olvido lo ha sido. Sus creadores han renovado viejas asociaciones y han creado otras nuevas, con períodos de discusión que me han dejado sin aire al deleitarme, asombrarme y hacerme reír sin más por la riada de inventiva. Hubo momentos duros, la maldición de Wraith nos reportó mucha miseria que ninguno de nosotros necesitábamos, pero perseveramos y aquí tienes el resultado. Nada me gustaría más  que  descubrir  que  vosotros  sentís  el  mismo  placer  que nosotros al crearlo.\n\nGracias por hacer este libro una realidad. -Bruce\n\n\n\nWraith: El Olvido © 2023 Paradox Interactive AB. Todos los derechos reservados. La reproducción sin el permiso escrito de la editorial está expresamente prohibida, salvo para la elaboración de reseñas y las hojas de personaje en blanco, que pueden ser reproducidas solo para uso personal.\n\nMundo de Tinieblas © y Wraith: El Olvido © son marcas comerciales registradas de Paradox Interactive AB.\n\nTodos los derechos reservados. Todos los personajes, nombres, lugares y texto del presente documento son propiedad de Paradox Interactive AB.\n\nEste libro hace uso de lo sobrenatural para ambientaciones, personajes y temas. Todos los elementos místicos y sobrenaturales son ficticios y están destinados únicamente a propósitos lúdicos. Este libro contiene material explícito. Se recomienda sólo para lectores adultos.\n\nVisita World of Darkness online en https://www.worldofdarkness.com .\n\nVisita Onyx Path online en http://www.theonyxpath.com .\n\nVisita Biblioteca Oscura online en http://www.bibliotecaoscura.com .\n\nVisita Nosolorol online en http://www.nosolorol.com .",
+  "toc": [
+    {
+      "text": "Edición en español",
+      "anchor": "edicion-en-espanol"
+    },
+    {
+      "text": "Dedicatoria",
+      "anchor": "dedicatoria"
+    },
+    {
+      "text": "Agradecimientos especiales",
+      "anchor": "agradecimientos-especiales"
+    }
+  ],
+  "prev": null,
+  "next": {
+    "slug": "introduccion",
+    "title": "Introducción"
+  }
+}

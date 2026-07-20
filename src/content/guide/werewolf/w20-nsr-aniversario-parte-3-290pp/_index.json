@@ -1,0 +1,573 @@
+{
+  "book_id": "w20-nsr-aniversario-parte-3-290pp",
+  "line": "werewolf",
+  "title_es": "Hombre Lobo: Razas Cambiantes (Parte 3)",
+  "book_title_es": "Hombre Lobo: Razas Cambiantes (Parte 3)",
+  "page_count": 61,
+  "tree": [
+    {
+      "block": "front-matter",
+      "block_title": "Portada y Créditos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos-y-edicion",
+              "title": "Créditos y Edición",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "Introducción: Bestias de la Naturaleza",
+          "pages": [
+            {
+              "slug": "bestias-de-la-naturaleza",
+              "title": "Bestias de la Naturaleza",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "de-una-sola-raza",
+              "title": "De una sola Raza",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "mundo-cambiante",
+      "block_title": "Capítulo Uno: El Mundo Cambiante",
+      "chapters": [
+        {
+          "chapter": "Capítulo Uno: El Mundo Cambiante",
+          "pages": [
+            {
+              "slug": "historia-la-guerra-de-la-rabia",
+              "title": "Historia: La Guerra de la Rabia",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "las-razas-cambiantes-por-el-mundo",
+              "title": "Las Razas Cambiantes por el Mundo",
+              "part": "Las Razas Cambiantes por el Mundo",
+              "content_type": "lore"
+            },
+            {
+              "slug": "las-razas-cambiantes-por-el-mundo-europa-occidental",
+              "title": "Europa Occidental",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "las-cortes-de-las-bestias",
+              "title": "Las Cortes de las Bestias",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "ajaba",
+      "block_title": "Ajaba",
+      "chapters": [
+        {
+          "chapter": "Capítulo Dos: Las Razas Cambiantes",
+          "pages": [
+            {
+              "slug": "ajaba",
+              "title": "Ajaba",
+              "part": "Ajaba",
+              "content_type": "lore"
+            },
+            {
+              "slug": "ajaba-europa",
+              "title": "Europa",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "ajaba-dones-alba",
+              "title": "Dones Alba",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "ananasi",
+      "block_title": "Ananasi",
+      "chapters": [
+        {
+          "chapter": "Capítulo Dos: Las Razas Cambiantes",
+          "pages": [
+            {
+              "slug": "ananasi",
+              "title": "Ananasi",
+              "part": "Ananasi",
+              "content_type": "lore"
+            },
+            {
+              "slug": "ananasi-renombre",
+              "title": "Renombre",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "ananasi-dones-de-los-viskr",
+              "title": "Dones de los Viskr",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "bastet",
+      "block_title": "Bastet",
+      "chapters": [
+        {
+          "chapter": "Capítulo Dos: Las Razas Cambiantes",
+          "pages": [
+            {
+              "slug": "bastet",
+              "title": "Bastet",
+              "part": "Bastet",
+              "content_type": "lore"
+            },
+            {
+              "slug": "bastet-gatos-de-kyphur",
+              "title": "GATOS DE KYPHUR",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "bastet-organizacion",
+              "title": "Organización",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "bastet-dones-metis",
+              "title": "Dones Metis",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "corax",
+      "block_title": "Corax",
+      "chapters": [
+        {
+          "chapter": "Capítulo Dos: Las Razas Cambiantes",
+          "pages": [
+            {
+              "slug": "corax",
+              "title": "Corax",
+              "part": "Corax",
+              "content_type": "lore"
+            },
+            {
+              "slug": "corax-la-morrigan",
+              "title": "La Morrigan",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "gurahl",
+      "block_title": "Gurahl",
+      "chapters": [
+        {
+          "chapter": "Capítulo Dos: Las Razas Cambiantes",
+          "pages": [
+            {
+              "slug": "gurahl",
+              "title": "Gurahl",
+              "part": "Gurahl",
+              "content_type": "lore"
+            },
+            {
+              "slug": "gurahl-caminantes-del-bosque",
+              "title": "Caminantes del Bosque",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "gurahl-dones",
+              "title": "Dones",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "gurahl-rito-de-la-tierra-pura",
+              "title": "Rito de la Tierra Pura",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "kitsune",
+      "block_title": "Kitsune",
+      "chapters": [
+        {
+          "chapter": "Capítulo Dos: Las Razas Cambiantes",
+          "pages": [
+            {
+              "slug": "kitsune",
+              "title": "Kitsune",
+              "part": "Kitsune",
+              "content_type": "lore"
+            },
+            {
+              "slug": "kitsune-sendas",
+              "title": "Sendas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "kitsune-dones-de-los-gukutsushi",
+              "title": "Dones de los Gukutsushi",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "mokole",
+      "block_title": "Mokolé",
+      "chapters": [
+        {
+          "chapter": "Capítulo Dos: Las Razas Cambiantes",
+          "pages": [
+            {
+              "slug": "mokole",
+              "title": "Mokolé",
+              "part": "Mokolé",
+              "content_type": "lore"
+            },
+            {
+              "slug": "mokole-razas",
+              "title": "Razas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "mokole-dones-sol-de-mediodia",
+              "title": "Dones Sol de Mediodía",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "nagah",
+      "block_title": "Nagah",
+      "chapters": [
+        {
+          "chapter": "Capítulo Dos: Las Razas Cambiantes",
+          "pages": [
+            {
+              "slug": "nagah",
+              "title": "Nagah",
+              "part": "Nagah",
+              "content_type": "lore"
+            },
+            {
+              "slug": "nagah-auspicios",
+              "title": "Auspicios",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "nagah-samskara-ritos-nagah",
+              "title": "Samskara: Ritos Nagah",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "nuwisha",
+      "block_title": "Nuwisha",
+      "chapters": [
+        {
+          "chapter": "Capítulo Dos: Las Razas Cambiantes",
+          "pages": [
+            {
+              "slug": "nuwisha",
+              "title": "Nuwisha",
+              "part": "Nuwisha",
+              "content_type": "lore"
+            },
+            {
+              "slug": "nuwisha-estadisticas-de-las-formas",
+              "title": "Estadísticas de las Formas",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "ratkin",
+      "block_title": "Ratkin",
+      "chapters": [
+        {
+          "chapter": "Capítulo Dos: Las Razas Cambiantes",
+          "pages": [
+            {
+              "slug": "ratkin",
+              "title": "Ratkin",
+              "part": "Ratkin",
+              "content_type": "lore"
+            },
+            {
+              "slug": "ratkin-credo-del-ingenio",
+              "title": "CREDO DEL INGENIO",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "ratkin-dones-de-los-videntes-de-la-sombra",
+              "title": "Dones de los Videntes de la Sombra",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "rokea",
+      "block_title": "Rokea",
+      "chapters": [
+        {
+          "chapter": "Capítulo Dos: Las Razas Cambiantes",
+          "pages": [
+            {
+              "slug": "rokea",
+              "title": "Rokea",
+              "part": "Rokea",
+              "content_type": "lore"
+            },
+            {
+              "slug": "rokea-rasgos",
+              "title": "Rasgos",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "construyendo",
+      "block_title": "Capítulo Tres: Construyendo a la Bestia",
+      "chapters": [
+        {
+          "chapter": "Capítulo Tres: Construyendo a la Bestia",
+          "pages": [
+            {
+              "slug": "meritos-y-defectos",
+              "title": "Méritos y Defectos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "trasfondos",
+              "title": "Trasfondos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "maniobras-de-combate",
+              "title": "Maniobras de Combate",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "resumen-de-razas-cambiantes",
+              "title": "Resumen de Razas Cambiantes",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "renombre",
+              "title": "Renombre",
+              "part": "Renombre",
+              "content_type": "reference"
+            },
+            {
+              "slug": "renombre-continuacion",
+              "title": "(continuación)",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "renombre-bastet",
+              "title": "Bastet",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "abominaciones-de-las-razas-cambiantes",
+              "title": "Abominaciones de las Razas Cambiantes",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "razas-perdidas",
+      "block_title": "Capítulo Cuatro: Las Razas Perdidas",
+      "chapters": [
+        {
+          "chapter": "Capítulo Cuatro: Las Razas Perdidas",
+          "pages": [
+            {
+              "slug": "extincion-y-las-razas-perdidas",
+              "title": "Extinción y las Razas Perdidas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "apis",
+              "title": "Apis",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "camazotz",
+              "title": "Camazotz",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "grondr",
+              "title": "Grondr",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-otros",
+              "title": "Los Otros",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "ahadi",
+      "block_title": "Apéndice Uno: El Futuro del Ahadi",
+      "chapters": [
+        {
+          "chapter": "Apéndice Uno: El Futuro del Ahadi",
+          "pages": [
+            {
+              "slug": "el-ascenso-de-diente-negro",
+              "title": "El Ascenso de Diente Negro",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "organizacion-del-ahadi",
+              "title": "Organización del Ahadi",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "amenazas-para-el-ahadi",
+              "title": "Amenazas para el Ahadi",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "mecanicas-del-ahadi",
+              "title": "Mecánicas del Ahadi",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cortes-bestias",
+      "block_title": "Apéndice Dos: Hengeyokai",
+      "chapters": [
+        {
+          "chapter": "Apéndice Dos: Hengeyokai",
+          "pages": [
+            {
+              "slug": "usar-las-cortes-de-las-bestias",
+              "title": "Usar las Cortes de las Bestias",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "las-razas-hengeyokai",
+              "title": "Las Razas Hengeyokai",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "lugares-asiaticos",
+              "title": "Lugares Asiáticos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "creacion-de-personajes-hengeyokai",
+              "title": "Creación de Personajes Hengeyokai",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "rabia-por-el-mundo",
+              "title": "Rabia por el Mundo",
+              "part": null,
+              "content_type": "back-matter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

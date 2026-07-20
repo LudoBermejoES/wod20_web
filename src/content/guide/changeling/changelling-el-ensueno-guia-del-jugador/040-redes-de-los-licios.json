@@ -1,0 +1,40 @@
+{
+  "book_id": "changelling-el-ensueno-guia-del-jugador",
+  "line": "changeling",
+  "order": 40,
+  "slug": "redes-de-los-licios",
+  "block": "cap5",
+  "block_title": "Capítulo Cinco: Quimeras",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Redes de los Licios",
+  "content_type": "rule",
+  "source_line_range": [
+    4461,
+    4492
+  ],
+  "body_md": "## redes de los liCios\n\nLos Licios no disponen de la flexibilidad de las Artes y los Reinos de los changelings ni del poder en bruto del Desatar. Para su magia deben usar Redes, como otras quimeras. Sin embargo, tienen ciertas preocupaciones que no afectan a las quimeras tradicionales. Como reacción a esas preocupaciones han desarrollado algunas Redes propias y únicas.\n\nEn vez de comenzar con Artes o Reinos, los personajes Licios  reciben  5  puntos  de  quimera  que  gastar  en  Redes. Pueden escoger cualquier Rede de Changeling: el Ensueño Edición 20 Aniversario (pág. 321), de este libro o de Sueños y Pesadillas . Si una Rede de Sueños y Pesadillas ha sido reeditada, aplica la nueva versión.\n\n## Deleite\n\nEstos Licios han descubierto el secreto del Deleite de los Kithain. Son capaces de encarnar su sueño hasta tal punto que obtienen Glamour directamente del Ensueño. Primero deben gastar 1 punto de Fuerza de Voluntad para establecer la conexión con el Ensueño. Entonces deben llevar a cabo alguna acción que ejemplifique su Tesis. Si tienen éxito en su tarea obtienen suficiente Glamour como para llenar su reserva. Esta Rede sólo se puede usar una vez por historia. Los  jugadores  deben  ponerse  de  acuerdo  con  el  Narrador para determinar qué tipo de acción podría funcionar como Deleite para su personaje.\n\nCoste de puntos de quimera: 5.\n\nCoste de uso: 1 punto de Fuerza de Voluntad.\n\n## Dos Lugares al Tiempo\n\nLa  Figura  del  Licio  puede  actuar  con  independencia  respecto a su Máscara. Mientras la Figura está lejos haciendo cosas, ésta tiene el aspecto que tendría sin cualidades quiméricas. Sólo mediante Sagacidad es posible decir que la Máscara es algo especial. Si el Licio libera el punto de Glamour invertido en activar la Rede, su Figura regresa inmediatamente al lugar en el que se encuentre su Máscara.\n\n\n\nCoste de puntos de quimera: 2.\n\nCoste de uso: Inversión de 1 punto de Glamour.\n\n## Saludable\n\nAlgunos Licios son más robustos que otros, es así. Puede que su Máscara esté hecha de un material excepcionalmente duro o que sea enormemente grande y que por tanto tenga más aguante. En cualquier caso, un Licio Saludable tiene más niveles de Salud que la mayoría de los seres. Cada adquisición de Saludable proporciona 1 nivel de Salud adicional. El tipo de nivel de Salud determina el Coste de puntos de quimera: un nivel de Salud -5 cuesta 1, uno de -2 cuesta 2, uno de -1 cuesta 3 y un nivel de Magullado cuesta 4.\n\nCoste de puntos de quimera: Varía.\n\nCoste de uso: Ninguno.",
+  "toc": [
+    {
+      "text": "Deleite",
+      "anchor": "deleite"
+    },
+    {
+      "text": "Dos Lugares al Tiempo",
+      "anchor": "dos-lugares-al-tiempo"
+    },
+    {
+      "text": "Saludable",
+      "anchor": "saludable"
+    }
+  ],
+  "prev": {
+    "slug": "creacion-de-personaje-licio",
+    "title": "Creación de Personaje Licio"
+  },
+  "next": {
+    "slug": "licios-notables",
+    "title": "Licios Notables"
+  }
+}

@@ -1,0 +1,444 @@
+{
+  "book_id": "changelling-el-ensueno-manual-basico",
+  "line": "changeling",
+  "title_es": "Changeling: El Ensueño — Manual Básico",
+  "book_title_es": "Changeling: El Ensueño — Manual Básico",
+  "page_count": 52,
+  "tree": [
+    {
+      "block": "front-matter",
+      "block_title": "Portada y Créditos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos-y-edicion",
+              "title": "Créditos y Edición",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "Introducción",
+          "pages": [
+            {
+              "slug": "introduccion",
+              "title": "Introducción",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "lexico",
+      "block_title": "Léxico",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "lexico",
+              "title": "Léxico",
+              "part": null,
+              "content_type": "glossary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "prologo",
+      "block_title": "Prólogo",
+      "chapters": [
+        {
+          "chapter": "Prólogo",
+          "pages": [
+            {
+              "slug": "prologo-el-joven-caballero",
+              "title": "Prólogo: El Joven Caballero",
+              "part": "Prólogo: El Joven Caballero",
+              "content_type": "fiction"
+            },
+            {
+              "slug": "prologo-el-joven-caballero-continuacion",
+              "title": "(continuación)",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "libro-uno",
+      "block_title": "Libro Uno: Infantil",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "relato-adoro-los-cumpleanos",
+              "title": "Relato: ¡¡¡Adoro los Cumpleaños!!!",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Uno: El Ensueño",
+          "pages": [
+            {
+              "slug": "capitulo-uno-el-ensueno",
+              "title": "Capítulo Uno: El Ensueño",
+              "part": "Capítulo Uno: El Ensueño",
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-uno-el-ensueno-sobre-tuneles-portales-y-sobre-tuneles-portales-y-mazmorras-quimericos-mazmorras-quimericos",
+              "title": "Sobre Túneles, Portales y Sobre Túneles, Portales y Mazmorras Quiméricos Mazmorras Quiméricos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-uno-el-ensueno-pasos-pasos-pasos-pasos",
+              "title": "Pasos Pasos Pasos Pasos",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Dos: Un Mundo de Sueños",
+          "pages": [
+            {
+              "slug": "capitulo-dos-un-mundo-de-suenos",
+              "title": "Capítulo Dos: Un Mundo de Sueños",
+              "part": "Capítulo Dos: Un Mundo de Sueños",
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-un-mundo-de-suenos-guerra-del-tratado-guerra-del-tratado-guerra-del-tratado-guerra-del-tratado",
+              "title": "Guerra del Tratado Guerra del Tratado Guerra del Tratado Guerra del Tratado",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-un-mundo-de-suenos-como-envejecen-las-hadas-como-envejecen-las-hadas-como-envejecen-las-hadas-como-envejecen-las-hadas",
+              "title": "Cómo Envejecen las Hadas Cómo Envejecen las Hadas Cómo Envejecen las Hadas Cómo Envejecen las Hadas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-un-mundo-de-suenos-las-casas-las-casas-las-casas-las-casas",
+              "title": "Las Casas Las Casas Las Casas Las Casas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-un-mundo-de-suenos-el-paradigma-medieval-el-paradigma-medieval-el-paradigma-medieval-el-paradigma-medieval",
+              "title": "El Paradigma Medieval El Paradigma Medieval El Paradigma Medieval El Paradigma Medieval",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-un-mundo-de-suenos-costumbres-costumbres-costumbres-costumbres-y-tradiciones-y-tradiciones-y-tradiciones-y-tradiciones",
+              "title": "Costumbres Costumbres Costumbres Costumbres y Tradiciones y Tradiciones y Tradiciones y Tradiciones",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Tres: La Estirpe",
+          "pages": [
+            {
+              "slug": "capitulo-tres-la-estirpe",
+              "title": "Capítulo Tres: La Estirpe",
+              "part": "Capítulo Tres: La Estirpe",
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-tres-la-estirpe-privilegios-privilegios",
+              "title": "Privilegios Privilegios",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-tres-la-estirpe-privilegios-privilegios-2",
+              "title": "Privilegios Privilegios",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-tres-la-estirpe-casas-casas-casas-casas",
+              "title": "Casas Casas Casas Casas",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "libro-dos",
+      "block_title": "Libro Dos: Rebelde",
+      "chapters": [
+        {
+          "chapter": "Capítulo Cuatro: Creación de Personajes",
+          "pages": [
+            {
+              "slug": "capitulo-cuatro-creacion-de-personajes",
+              "title": "Capítulo Cuatro: Creación de Personajes",
+              "part": "Capítulo Cuatro: Creación de Personajes",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-creacion-de-personajes-paso-diez-paso-diez-paso-diez-paso-diez-el-aliento-de-la-vida-el-aliento-de-la-vida-el-aliento-de-la-vida-el-aliento-de-la-vida",
+              "title": "Capítulo Cuatro: Creación de Personajes: Paso Diez: Paso Diez: Paso Diez: Paso Diez: El Aliento de la Vida El Aliento de la Vida El Aliento de la Vida El Aliento de la Vida",
+              "part": "Capítulo Cuatro: Creación de Personajes",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-creacion-de-personajes-especialidades-especialidades",
+              "title": "Especialidades Especialidades",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-creacion-de-personajes-santo-santo",
+              "title": "Santo Santo",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-creacion-de-personajes-empatia-empatia",
+              "title": "Empatía Empatía",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-creacion-de-personajes-politica-politica",
+              "title": "Política Política",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-creacion-de-personajes-ganar-glamour-ganar-glamour",
+              "title": "Ganar Glamour Ganar Glamour",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-creacion-de-personajes-sentido-comun-merito-de-1-punto-sentido-comun-merito-de-1-punto",
+              "title": "Sentido Común: (Mérito de 1 punto) Sentido Común: (Mérito de 1 punto)",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-creacion-de-personajes-alado-defecto-de-2-puntos-alado-defecto-de-2-puntos-merito-de-4-puntos-merito-de-4-puntos",
+              "title": "Alado: (Defecto de 2 puntos/ Alado: (Defecto de 2 puntos/ Mérito de 4 puntos) Mérito de 4 puntos)",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Cinco: Artes y Reinos",
+          "pages": [
+            {
+              "slug": "capitulo-cinco-artes-y-reinos",
+              "title": "Capítulo Cinco: Artes y Reinos",
+              "part": "Capítulo Cinco: Artes y Reinos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cinco-artes-y-reinos-perdida-de-memoria",
+              "title": "Pérdida de Memoria",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cinco-artes-y-reinos-escudo-de-roble-escudo-de-roble",
+              "title": "Escudo  de  Roble Escudo  de  Roble",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cinco-artes-y-reinos-reinos-reinos-reinos-reinos",
+              "title": "Reinos Reinos Reinos Reinos",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Seis: Reglas Básicas",
+          "pages": [
+            {
+              "slug": "capitulo-seis-reglas-basicas",
+              "title": "Capítulo Seis: Reglas Básicas",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "libro-tres",
+      "block_title": "Libro Tres: Gruñón",
+      "chapters": [
+        {
+          "chapter": "Capítulo Siete: Sistemas de Glamour",
+          "pages": [
+            {
+              "slug": "capitulo-siete-sistemas-de-glamour",
+              "title": "Capítulo Siete: Sistemas de Glamour",
+              "part": "Capítulo Siete: Sistemas de Glamour",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-siete-sistemas-de-glamour-pesadillas-pesadillas",
+              "title": "Pesadillas Pesadillas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-siete-sistemas-de-glamour-z-juramento-de-aceptacion-de-la-carga",
+              "title": "z Juramento de Aceptación de la Carga",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-siete-sistemas-de-glamour-barcia-barcia-barcia-barcia",
+              "title": "Barcia Barcia Barcia Barcia",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-siete-sistemas-de-glamour-quimeras-no-sintientes-quimeras-no-sintientes",
+              "title": "Quimeras no sintientes Quimeras no sintientes",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-siete-sistemas-de-glamour-feudos-feudos-feudos-feudos",
+              "title": "Feudos Feudos Feudos Feudos",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Ocho: Sistemas Dramáticos",
+          "pages": [
+            {
+              "slug": "capitulo-ocho-sistemas-dramaticos",
+              "title": "Capítulo Ocho: Sistemas Dramáticos",
+              "part": "Capítulo Ocho: Sistemas Dramáticos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-ocho-sistemas-dramaticos-paso-tres-resolucion-paso-tres-resolucion-paso-tres-resolucion-paso-tres-resolucion",
+              "title": "Capítulo Ocho: Sistemas Dramáticos: Paso Tres: Resolución Paso Tres: Resolución Paso Tres: Resolución Paso Tres: Resolución",
+              "part": "Capítulo Ocho: Sistemas Dramáticos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-ocho-sistemas-dramaticos-escudos-escudos",
+              "title": "Escudos Escudos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-ocho-sistemas-dramaticos-fuego-fuego",
+              "title": "Fuego Fuego",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-ocho-sistemas-dramaticos-paso-dos-ataque",
+              "title": "Paso Dos: Ataque",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Nueve: Narración",
+          "pages": [
+            {
+              "slug": "capitulo-nueve-narracion",
+              "title": "Capítulo Nueve: Narración",
+              "part": "Capítulo Nueve: Narración",
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-nueve-narracion-romance-romance",
+              "title": "Romance Romance",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-nueve-narracion-z-sucesos-misteriosos",
+              "title": "z Sucesos misteriosos",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "apendice",
+      "block_title": "Apéndice",
+      "chapters": [
+        {
+          "chapter": "Apéndice",
+          "pages": [
+            {
+              "slug": "desarrollo-de-personaje-y-experiencia",
+              "title": "Desarrollo de Personaje y Experiencia",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "antagonistas",
+              "title": "Antagonistas",
+              "part": "Antagonistas",
+              "content_type": "reference"
+            },
+            {
+              "slug": "antagonistas-banalidad-de-los-magos-banalidad-de-los-magos",
+              "title": "Banalidad de los Magos Banalidad de los Magos",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "antagonistas-las-manadas-jovenes-las-manadas-jovenes",
+              "title": "Las manadas jóvenes Las manadas jóvenes",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "equipo-quimerico",
+              "title": "Equipo Quimérico",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

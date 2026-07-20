@@ -1,0 +1,41 @@
+{
+  "book_id": "changelling-el-ensueno-guia-del-jugador",
+  "line": "changeling",
+  "order": 51,
+  "slug": "proximamente-avance",
+  "block": "back-matter",
+  "block_title": "Cierre",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Próximamente: Avance",
+  "content_type": "back-matter",
+  "source_line_range": [
+    5524,
+    5567
+  ],
+  "body_md": "## Próximamente\n\n\n\n- Una historia de este modesto aunque vital Linaje y cómo ha moldeado sutilmente el Ensueño.\n- Una nueva perspectiva de la [naturaleza](/changeling/realms/nature) Boggan junto con consejos para dar vida a los personajes de este Linaje.\n- Personajes listos para jugar y perfiles de Boggans famosos del pasado y el presente.\n- Nuevos Tesoros, Méritos y Defectos para personajes Boggan.\n\n\n\n\n\n\n\n\n\n## LAS HOJAS DEL OTOÑO CAEN\n\nEl Ensueño es un lugar inmenso y siempre cambiante, especialmente en los turbulentos tiempos de la Evanescencia. Nuevos sueños toman forma al tiempo que los vientos del Invierno aúllan al otro lado de las ventanas y el Glamour lucha por traer luz y calor a un mundo en el que los corazones se enfrían incluso mientras asciende la temperatura. Los changelings de todas partes han de tomar una peligrosa decisión: unirse y permanecer juntos frente a la creciente oscuridad… o tomar lo que puedan para sí y esperar gobernar desde las sombras.\n\n## LOS VIENTOS DEL INVIERNO ARRECIAN\n\n## Esta nueva guía de Changeling: El Ensueño incluye:\n\n- Una nueva forma de quimera jugable: los enigmáticos Licios.\n- Una exploración en profundidad de tierras y nuevos Linajes de todo el mundo.\n- Añade más tensión interpretativa a las crónicas políticas con el nuevo sistema de objetivos.\n- Reglas para crear Casas vasallas muy personalizadas.\n- Por primera vez, un vistazo a la interpretación de Síocháin, las elusivas hadas inmortales.\n- Sociedades secretas para añadir misterio e intriga a cualquier crónica.\n- Un profundo examen de la cultura y funcionamiento interno de la Corte Sombría.\n- Artes actualizadas: [Narración](/changeling/arts/narration) e [Infusión](/changeling/arts/infusion).\n- ¡Y mucho, mucho más!\n\n## ¡QUE LAS HOGUERAS ARDAN BRILLANTES!",
+  "toc": [
+    {
+      "text": "LAS HOJAS DEL OTOÑO CAEN",
+      "anchor": "las-hojas-del-otono-caen"
+    },
+    {
+      "text": "LOS VIENTOS DEL INVIERNO ARRECIAN",
+      "anchor": "los-vientos-del-invierno-arrecian"
+    },
+    {
+      "text": "Esta nueva guía de Changeling: El Ensueño incluye:",
+      "anchor": "esta-nueva-guia-de-changeling-el-ensueno-incluye"
+    },
+    {
+      "text": "¡QUE LAS HOGUERAS ARDAN BRILLANTES!",
+      "anchor": "que-las-hogueras-ardan-brillantes"
+    }
+  ],
+  "prev": {
+    "slug": "nueva-arte-narracion",
+    "title": "Nueva Arte: Narración"
+  },
+  "next": null
+}

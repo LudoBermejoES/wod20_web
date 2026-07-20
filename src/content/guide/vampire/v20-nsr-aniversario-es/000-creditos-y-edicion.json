@@ -1,0 +1,33 @@
+{
+  "book_id": "v20-nsr-aniversario-es",
+  "line": "vampire",
+  "order": 0,
+  "slug": "creditos-y-edicion",
+  "block": "preliminares",
+  "block_title": "Preliminares",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Créditos y edición",
+  "content_type": "front-matter",
+  "source_line_range": [
+    6,
+    75
+  ],
+  "body_md": "## Créditos\n\nAutores: Matthew Dawkins, Eloy Lasanta,  Andy  Peregrine, Neall Raemonn Price, Eddy Webb y Rob Weiland.\n\nDesarrollador  y  desarrollador  de  la  línea  V20: Eddy Webb.\n\nEditora: Jess Hartley.\n\nDirector artístico: Michael Chaney.\n\nMaqueta y composición tipográfica: Becky McGarity.\n\nIlustraciones: Sam Araya, Felipe Gaona, Michael Gaydos, Mark Kelly, Ken Meyer Jr., Glen Osterberger.\n\nPortada: Mark Kelly.\n\n\n\n## Agradecimientos especiales\n\nA todos los que participaron en el Kickstarter de Saber de los Clanes por vuestras increíbles contribuciones que llevaron a la creación de este libro. Literalmente no habría pasado si no fuera por vosotros.\n\n## Edición en español\n\nResponsable de línea  y  traductor :  Héctor  Gómez  Herrero.\n\nCorrectora: Alejandra «Argéntea» González.\n\nMaquetador: Marcos Manuel «EnOcH» Peral Villaverde.\n\nDirección: Manuel J. Sueiro.\n\nProducción: Sergio M. Vergara.\n\nDistribución: Pilar M. Espinosa.\n\nComunicación: José Valverde y Elena Alonso.\n\nEdición: Héctor  Gómez  Herrero,  José  Lomo,  Luis Fernández, Juan Sixto y Rocío Peirano.\n\nApoyo editorial: Pedro J. Ramos y Antonio D. Ortiz.\n\nISBN: 978-84-19594-34-1\n\nDepósito Legal: M-11466-2023\n\n\n\n\n\nVampiro: La Mascarada © 2023 Paradox Interactive AB. Todos los derechos reservados. La reproducción sin el permiso escrito de la editorial está expresamente prohibida, salvo para la elaboración de reseñas y las hojas de personaje en blanco, que pueden ser reproducidas solo para uso personal.\n\nMundo de Tinieblas © y Hombre Lobo: El Apocalipsis © son marcas comerciales registradas de Paradox Interactive AB.\n\nTodos los derechos reservados. Todos los personajes, nombres, lugares y texto del presente documento son propiedad de Paradox Interactive AB.\n\nEste  libro  hace  uso  de  lo  sobrenatural  para  ambientaciones,  personajes  y  temas.  Todos  los  elementos  místicos  y sobrenaturales son ficticios y están destinados únicamente a propósitos lúdicos. Este libro contiene material explícito. Se recomienda sólo para lectores adultos.\n\nVisita World of Darkness online en http://www.worldofdarkness.com.\n\nVisita The Onyx Path online en http://www.theonyxpath.com.\n\nVisita Biblioteca Oscura online en http://www.bibliotecaoscura.com.\n\nVisita Nosolorol online en http://www.nosolorol.com.\n\n2",
+  "toc": [
+    {
+      "text": "Agradecimientos especiales",
+      "anchor": "agradecimientos-especiales"
+    },
+    {
+      "text": "Edición en español",
+      "anchor": "edicion-en-espanol"
+    }
+  ],
+  "prev": null,
+  "next": {
+    "slug": "introduccion",
+    "title": "Introducción"
+  }
+}

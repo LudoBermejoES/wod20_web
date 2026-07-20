@@ -1,0 +1,33 @@
+{
+  "book_id": "w20-nsr-aniversario-parte-2-127pp",
+  "line": "werewolf",
+  "order": 0,
+  "slug": "creditos-y-edicion",
+  "block": "preliminares",
+  "block_title": "Preliminares",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Créditos y edición",
+  "content_type": "front-matter",
+  "source_line_range": [
+    1,
+    69
+  ],
+  "body_md": "## Créditos\n\nAutores: Danielle Lauzon, David A. Hill, Chris Shaffer, Mark Stone, Stew Wilson, Eric Zawadzki.\n\nDesarrollador: Stew Wilson.\n\nEditor: David A Hill Jr.\n\nDirector creativo: Rich Thomas.\n\nDirector artístico y diseño: Mike Chaney.\n\nIlustración de cubierta: Tomek Tworek.\n\nIlustraciones: Tomek  Tworek,  Andrew  Trabbold,  Jeff Holt, Chris Bivins, Dugnation, John Bridges, James Denton, Josh  Timbrook,  Leif  Jones,  Steve  Prescott,  Ron  Spenser, Mitch Byrd.\n\n\n\n\n\n## Agradecimientos especiales\n\nDanielle 'Rompe-Huesos' Lauzon por mancharse las manos y mostrar la variedad de la depravación del Wyrm.\n\nChris 'Huellas-Livianas'  Shaffer por  demostrar  tanto  los beneficios como los inconvenientes de abrazar a la Tejedora.\n\nEric 'Lobo del Lago Lunar' Zawadzki por recorrer los lugares del Kaos de todo mundo, y recordar que los lobos también son gente.\n\nLeath '¿Qué errata?' Sheales cuyo nombre puse mal en los créditos de Razas Cambiantes.\n\nMark 'Anciano del clan'  Stone por  mostrar  lo  que mueve a los Garou en el día a día.\n\n## Edición en Español\n\nCoordinador de la línea: Héctor Gómez Herrero.\n\nTraductores: Tatiana Alejandra de Castro Pérez, Jorge 'Gica/Kilios'  Fuertes,  Héctor  Gómez  Herrero,  David Paredes Mata.\n\nCorrectora: Alejandra 'Argéntea' González.\n\nMaquetador: Marcos  Manuel  'EnOcH' Peral Villaverde.\n\nCoordinador editorial: Sergio M. Vergara\n\n\n\n\n\n\n\n© 2017 White Wolf Publishing AB. Todos los  derechos  reservados.  La  reproducción  sin  el  permiso  escrito  de  la  editorial  está  expresamente prohibida, salvo para la elaboración de reseñas y las hojas de personaje en blanco, que pueden ser reproducidas solo para uso personal. Hombre Lobo: El Apocalipsis y Sistema Narrativo son marcas registradas de White Wolf Publishing AB.\n\nTodos los derechos reservados. Todos los personajes, nombres, lugares y texto del presente documento son propiedad de White Wolf Publishing AB.\n\nEste  libro  hace  uso  de  lo  sobrenatural  para  ambientaciones,  personajes  y  temas.  Todos  los  elementos  místicos  y  sobrenaturales  son  ficticios\n\ny están destinados únicamente a propósitos lúdicos. Este libro contiene material explícito. Se recomienda sólo para lectores adultos. Visita White Wolf online en http://www.white-wolf.com. Visita  Biblioteca  Oscura online en  http://www.bibliotecaoscura.com.\n\nVisita Onyx Path online en http://www.theonyxpath.com.\n\nVisita Nosolorol online en http://www.nosolorol.com.",
+  "toc": [
+    {
+      "text": "Agradecimientos especiales",
+      "anchor": "agradecimientos-especiales"
+    },
+    {
+      "text": "Edición en Español",
+      "anchor": "edicion-en-espanol"
+    }
+  ],
+  "prev": null,
+  "next": {
+    "slug": "introduccion-el-mundo-agonizante",
+    "title": "Introducción: El mundo agonizante"
+  }
+}

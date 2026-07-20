@@ -1,0 +1,32 @@
+{
+  "book_id": "v20-companion-es",
+  "line": "vampire",
+  "order": 42,
+  "slug": "otros-libros-y-anuncios",
+  "block": "cierre",
+  "block_title": "Cierre",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Otros Libros y Anuncios",
+  "content_type": "back-matter",
+  "source_line_range": [
+    1440,
+    1479
+  ],
+  "body_md": "## CAZADORES CAZADOS II\n\nPrimavera de 2015\n\n\n\n- Sistemas para interpretar a un cazador de vampiros, alguien que caza Vástagos en el Mundo de Tinieblas.\n- Sistemas de juego con consejos prácticos y tácticas de equipo que usar contra los Condenados.\n- Sistemas actualizados para los poderes sobrenaturales de los Númina que pueden proporcionar a los cazadores cierta ventaja contra los no-muertos.\n\n\n\n\n\n\n\n\n\n## Hombre Lobo: eL ApocALipsis Edición 20º Aniversario\n\n\n\nHombre Lobo: El Apocalipsis 20 o Aniversario (2015)\n\nPantalla del Narrador H20 (2015)\n\nEl Desollador (Próximamente)\n\nRazas Cambiantes (Próximamente)\n\nRabia por el Mundo (Próximamente)",
+  "toc": [
+    {
+      "text": "Hombre Lobo: eL ApocALipsis Edición 20º Aniversario",
+      "anchor": "hombre-lobo-el-apocalipsis-edicion-20o-aniversario"
+    }
+  ],
+  "prev": {
+    "slug": "apendice-material-recortado",
+    "title": "Apéndice: Material Recortado"
+  },
+  "next": {
+    "slug": "carta-de-agradecimiento-a-los-fans-de-mundo-de-tinieblas",
+    "title": "Carta de agradecimiento a los fans de Mundo de Tinieblas"
+  }
+}

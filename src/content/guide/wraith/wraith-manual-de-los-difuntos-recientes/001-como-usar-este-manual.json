@@ -1,0 +1,27 @@
+{
+  "book_id": "wraith-manual-de-los-difuntos-recientes",
+  "line": "wraith",
+  "order": 1,
+  "slug": "como-usar-este-manual",
+  "block": "manual",
+  "block_title": "Manual de los Difuntos Recientes",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Cómo usar este manual",
+  "content_type": "reference",
+  "source_line_range": [
+    106,
+    115
+  ],
+  "body_md": "l Manual para los difuntos recientes sirve a dos propósitos. Por un lado, es una guía para jugar y narrar personajes que son nuevos en el Inframundo, con un ojo puesto en las crónicas de los que acaban de morir. Por el otro, presta ayuda a los jugadores y Narradores noveles de Wraith , quienes pueden tener algunas dificultades para ponerse en marcha. El libro se divide en tres secciones: una para los jugadores, otra para los Guías de la Sombra y la tercera para los Narradores.\n\nLa Parte uno es para los jugadores. Habla de cómo encarar los retos de jugar a Wraith por primera vez y se centra en desafíos específicos como acostumbrarse a la metafísica de Wraith y aprender a gestionar Pasiones y Grilletes. T ambién aborda pequeñas informaciones útiles para los wraiths recién creados, la experiencia de ser Segado en las Tierras de las Sombras y en cómo esto afecta el juego.\n\nLa Parte dos es para los Guías de la Sombra que asumen ese papel por primera vez. Lo abarca todo desde cómo crear la voz de una Sombra a cómo dirigir tu primer (y esperemos que no último) T ormento. En cuanto a la interpretación de personajes, también entra en el desarrollo de la Sombra desde los primeros momentos: cómo empieza a comunicarse con la Psique, cómo descubre sus Espinas y Pasiones Oscuras, y mucho más.\n\nLa Parte tres es para los Narradores. Como las otras dos secciones, contiene información para Narradores noveles y para Narradores que dirigen una crónica para wraiths que acaban de ser Segados. Presta especial atención a trabajar con Pasiones y Grilletes, columna vertebral de cualquier historia que incluya a los difuntos recientes (y no tan recientes).\n\nIncluso los más experimentados entre los Animados y los Sin Reposo encontrarán algo nuevo en este libro.",
+  "toc": [],
+  "prev": {
+    "slug": "creditos-y-edicion",
+    "title": "Créditos y edición"
+  },
+  "next": {
+    "slug": "parte-uno-jugar-con-muertos-recientes",
+    "title": "Parte uno: Jugar con muertos recientes"
+  }
+}

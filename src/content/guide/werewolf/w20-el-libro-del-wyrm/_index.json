@@ -1,0 +1,361 @@
+{
+  "book_id": "w20-el-libro-del-wyrm",
+  "line": "werewolf",
+  "title_es": "Hombre Lobo: El Libro del Wyrm",
+  "book_title_es": "Hombre Lobo: El Libro del Wyrm",
+  "page_count": 44,
+  "tree": [
+    {
+      "block": "preliminares",
+      "block_title": "Preliminares",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos",
+              "title": "Créditos",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción: La Llamada del Wyrm",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "introduccion-la-llamada-del-wyrm",
+              "title": "Introducción: La Llamada del Wyrm",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap-1",
+      "block_title": "Capítulo Uno: Sabiduría del Wyrm",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "el-wyrm-triadico",
+              "title": "El Wyrm Triádico",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "impulsos-del-wyrm-y-los-incarna-maeljin",
+              "title": "Impulsos del Wyrm y los Incarna Maeljin",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "wyrms-elementales",
+              "title": "Wyrms Elementales",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-wyrm-en-la-umbra",
+              "title": "El Wyrm en la Umbra",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "malfeas",
+              "title": "Malfeas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-ducados-de-malfeas",
+              "title": "Los Ducados de Malfeas",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap-2",
+      "block_title": "Capítulo Dos: Peones y Títeres",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "pentex-la-raiz-de-todos-los-males",
+              "title": "Pentex: La Raíz de Todos los Males",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "filiales-las-cabezas-de-la-hidra",
+              "title": "Filiales: Las Cabezas de la Hidra",
+              "part": "Filiales: Las Cabezas de la Hidra",
+              "content_type": "lore"
+            },
+            {
+              "slug": "filiales-las-cabezas-de-la-hidra-o-tolley-s",
+              "title": "O'Tolley's",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "magadon-pharmaceuticals",
+              "title": "Magadon Pharmaceuticals",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-junta-de-directivos",
+              "title": "La Junta de Directivos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-caidos-en-desgracia-y-las-elecciones",
+              "title": "Los Caídos en Desgracia y las Elecciones",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "primeros-equipos",
+              "title": "Primeros Equipos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "sectas-y-cultos-del-wyrm",
+              "title": "Sectas y Cultos del Wyrm",
+              "part": "Sectas y Cultos del Wyrm",
+              "content_type": "lore"
+            },
+            {
+              "slug": "sectas-y-cultos-del-wyrm-consejos-de-narracion",
+              "title": "ConseJos De narraCIÓn",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "sectas-y-cultos-del-wyrm-webworks",
+              "title": "WebWorks",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap-3",
+      "block_title": "Capítulo Tres: La Danza Sin Fin",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "los-primeros-y-ultimos-dias",
+              "title": "Los Primeros y Últimos Días",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "garras-del-wyrm-perfiles-de-los-danzantes",
+              "title": "Garras del Wyrm: Perfiles de los Danzantes",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-letania-de-la-espiral-negra",
+              "title": "La Letanía de la Espiral Negra",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-pozos-guaridas-de-los-danzantes",
+              "title": "Los Pozos: Guaridas de los Danzantes",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-batalla-interminable",
+              "title": "La Batalla Interminable",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-parentela-de-los-danzantes",
+              "title": "La Parentela de los Danzantes",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-caidos-de-gaia",
+              "title": "Los Caídos de Gaia",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "avatares-del-apocalipsis",
+              "title": "Avatares del Apocalipsis",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "dones-de-los-danzantes-de-la-espiral-negra",
+              "title": "Dones de los Danzantes de la Espiral Negra",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "ritos-de-la-espiral-negra",
+              "title": "Ritos de la Espiral Negra",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "totems-del-wyrm",
+              "title": "Tótems del Wyrm",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cap-4",
+      "block_title": "Capítulo Cuatro: Sentir el Toque",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "reclutas-del-wyrm-fomori",
+              "title": "Reclutas del Wyrm: Fomori",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "razas-de-fomori",
+              "title": "Razas de Fomori",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "familias-de-fomori-y-fomori-sobrenaturales",
+              "title": "Familias de Fomori y Fomori Sobrenaturales",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "perdiciones",
+              "title": "Perdiciones",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "engendros-del-wyrm",
+              "title": "Engendros del Wyrm",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-caidos-quebrantadores-del-wyrm",
+              "title": "Los Caídos: Quebrantadores del Wyrm",
+              "part": "Los Caídos: Quebrantadores del Wyrm",
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-caidos-quebrantadores-del-wyrm-las-muchas-memorias",
+              "title": "laS MuCHaS MeMoriaS",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-caidos-quebrantadores-del-wyrm-crear-tiburones-pira-de-corrupcion",
+              "title": "Crear tiBuroneS pira De CorrupCiÓn",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "razas-parodia",
+              "title": "Razas Parodia",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "cosas-mas-extranas",
+              "title": "Cosas Más Extrañas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "corrupcion-y-libre-albedrio",
+              "title": "Corrupción y Libre Albedrío",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "apendice",
+      "block_title": "Apéndice: Chucherías Podridas",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "fetiches-corrompidos",
+              "title": "Fetiches Corrompidos",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "equipo-del-wyrm",
+              "title": "Equipo del Wyrm",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "productos-la-naturaleza-de-la-corrupcion",
+              "title": "Productos: La Naturaleza de la Corrupción",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cierre",
+      "block_title": "Cierre",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "contraportada",
+              "title": "Contraportada",
+              "part": null,
+              "content_type": "back-matter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
