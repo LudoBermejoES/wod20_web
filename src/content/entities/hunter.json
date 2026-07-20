@@ -365,7 +365,7 @@
     "line": "hunter",
     "name_en": "Histeria Religiosa",
     "name_es": "Histeria Religiosa",
-    "body_es": "¡Ángeles y demonios por todas partes! Los ves. Notas los signos del plan divino en cada aspecto de tu vida. ¡El mundo entero es un presagio! El Espíritu Santo te susurra a la oreja constantemente. ¿Por qué los demás no lo entienden? Hasta tus hermanos y hermanas en la fe sacuden sus cabezas cuando dilucidas sin aliento tu última visión. La diferencia entre este Defecto y el Mérito Extático (ver más adelante) es que la gente no te toma en serio. Tus visiones ocurren un poco demasiado a menudo, y son difícilmente defendibles. Resta un dado de todas las reservas de tiradas Sociales.",
+    "body_es": "¡Ángeles y demonios por todas partes! Los ves. Notas los signos del plan divino en cada aspecto de tu vida. ¡El mundo entero es un presagio! El Espíritu Santo te susurra a la oreja constantemente. ¿Por qué los demás no lo entienden? Hasta tus hermanos y hermanas en la fe sacuden sus cabezas cuando dilucidas sin aliento tu última visión. La diferencia entre este Defecto y el Mérito [Extático](/hunter/merits/ecstatic) (ver más adelante) es que la gente no te toma en serio. Tus visiones ocurren un poco demasiado a menudo, y son difícilmente defendibles. Resta un dado de todas las reservas de tiradas Sociales.",
     "tags": [
       "físico"
     ],
@@ -391,7 +391,7 @@
     "line": "hunter",
     "name_en": "Rango Eclesiástico",
     "name_es": "Rango Eclesiástico",
-    "body_es": "Aunque tu Estatus como Inquisidor es un secreto fuera de  la  Sociedad  de  Leopoldo,  también  eres  un  miembro oficial  de  la  jerarquía  católica  romana.  Este  Mérito  determina tu puesto, cada punto amplía la magnitud de tu servicio e influencia. La versión de un punto te garantiza un rango de sacerdote, presidiendo una parroquia (y sus diáconos y seglares). La versión de dos puntos te concede el rango de obispo, presidiendo una diócesis consistente en  muchas  parroquias  (y  sus  sacerdotes).  La  versión  de tres puntos te confiere el rango de arzobispo, presidiendo diversas diócesis (y sus obispos).",
+    "body_es": "Aunque tu [Estatus](/hunter/backgrounds/status) como Inquisidor es un secreto fuera de  la  Sociedad  de  Leopoldo,  también  eres  un  miembro oficial  de  la  jerarquía  católica  romana.  Este  Mérito  determina tu puesto, cada punto amplía la magnitud de tu servicio e influencia. La versión de un punto te garantiza un rango de sacerdote, presidiendo una parroquia (y sus diáconos y seglares). La versión de dos puntos te concede el rango de obispo, presidiendo una diócesis consistente en  muchas  parroquias  (y  sus  sacerdotes).  La  versión  de tres puntos te confiere el rango de arzobispo, presidiendo diversas diócesis (y sus obispos).",
     "tags": [
       "físico"
     ],
@@ -417,7 +417,7 @@
     "line": "hunter",
     "name_en": "Bruja Aprobada",
     "name_es": "Bruja Aprobada",
-    "body_es": "Eres conocido como una 'bruja de Judas' al haber recibido el Santuario de la Disciplina Arcani de la propia Inquisidora General. No puedes ser castigado o detenido por estudiar lo oculto o utilizar Númina (aunque la aprobación puede verse revocada por mala praxis). Un tatuaje del Sello de Salomón en tu palma izquierda marca tus credenciales. Esto no significa que todo el mundo en la Sociedad confíe en tu experiencia, ya que muchos desprecian las artes mágicas.",
+    "body_es": "Eres conocido como una 'bruja de Judas' al haber recibido el [Santuario](/hunter/merits/santuario) de la Disciplina Arcani de la propia Inquisidora General. No puedes ser castigado o detenido por estudiar lo oculto o utilizar Númina (aunque la aprobación puede verse revocada por mala praxis). Un tatuaje del Sello de Salomón en tu palma izquierda marca tus credenciales. Esto no significa que todo el mundo en la Sociedad confíe en tu experiencia, ya que muchos desprecian las artes mágicas.",
     "tags": [
       "físico"
     ],
@@ -703,7 +703,7 @@
     "line": "hunter",
     "name_en": "Enlace entre Agencias",
     "name_es": "Enlace entre Agencias",
-    "body_es": "Trabajas en dos agencias a la vez. O eres un enlace entre ambas (Seguridad Nacional proporciona una útil tapadera para que la CIA y la NSA husmeen al FBI y viceversa) o tus actuales empleadores no saben para quién trabajas realmente. De cualquier forma, puedes hacer uso de los servicios y recursos de ambas agencias cuando lo necesites. Debes adquirir el Trasfondo Rango de cada agencia por separado, y tu Rango en tu agencia 'de procedencia' debe ser igual o mayor que el de tu nueva agencia.",
+    "body_es": "Trabajas en dos agencias a la vez. O eres un enlace entre ambas (Seguridad Nacional proporciona una útil tapadera para que la CIA y la NSA husmeen al FBI y viceversa) o tus actuales empleadores no saben para quién trabajas realmente. De cualquier forma, puedes hacer uso de los servicios y [recursos](/hunter/backgrounds/resources) de ambas agencias cuando lo necesites. Debes adquirir el Trasfondo Rango de cada agencia por separado, y tu Rango en tu agencia 'de procedencia' debe ser igual o mayor que el de tu nueva agencia.",
     "tags": [
       "físico"
     ],
@@ -1039,7 +1039,7 @@
     "line": "hunter",
     "name_en": "Legado",
     "name_es": "Legado",
-    "body_es": "Tu personaje proviene de un largo linaje de cazadores; ya sea una responsabilidad familiar que se ha ido heredando o que se te considere 'sucesor' de un cazador particularmente famoso o capaz. Cuando adquieres el Trasfondo Contactos,  puedes  duplicar  el  número  de  contactos  específicos que recibes por cada punto. Alternativamente, puedes adquirir el Trasfondo Artefacto o Relicario para reflejar una poderosa reliquia familiar.",
+    "body_es": "Tu personaje proviene de un largo linaje de cazadores; ya sea una responsabilidad familiar que se ha ido heredando o que se te considere 'sucesor' de un cazador particularmente famoso o capaz. Cuando adquieres el Trasfondo Contactos,  puedes  duplicar  el  número  de  contactos  específicos que recibes por cada punto. Alternativamente, puedes adquirir el Trasfondo [Artefacto](/hunter/backgrounds/artefacto) o Relicario para reflejar una poderosa reliquia familiar.",
     "tags": [
       "físico"
     ],
@@ -1183,7 +1183,7 @@
     "line": "hunter",
     "name_en": "Artefacto",
     "name_es": "Artefacto",
-    "body_es": "Los Artefactos son objetos de fuerte potencia sobrenatural. Este Trasfondo te permite comenzar la partida con uno de tales objetos en tu poder. Puede ser una reliquia familiar o algo legado por un mentor del Arcanum o que encontraste al principio de tu carrera y que la sociedad no ha solicitado aún para un 'estudio más a fondo'.\n\nEl Narrador debería crear algo adecuado para ti basándose en los puntos de este Trasfondo. Habla con él acerca de lo que quieres. Los Artefactos de leyenda (como Durandal, la espada de Rolando o el cáliz de Kai Khusrau) son objeto de grandes búsquedas y no pueden adquirirse con este Rasgo. Algunos ejemplos de Artefactos potenciales aparecen en la pág. 157-158.\n\nLos  jugadores  pueden  optar  por  compartir  puntos  de Trasfondo para tener un Artefacto común. Ver pág. 118119  del V20 para  más  información  sobre  Trasfondos Compartidos.\n\n- Un Artefacto menor.\n\n- ••\n\nUn Artefacto útil.\n\n•••\n\nUn Artefacto de poder significativo.\n\n- ••••\n\nUn Artefacto muy deseado.\n\n- •••••\n\nUn Artefacto de increíble poder.",
+    "body_es": "Los Artefactos son objetos de fuerte potencia sobrenatural. Este Trasfondo te permite comenzar la partida con uno de tales objetos en tu poder. Puede ser una reliquia familiar o algo [legado](/hunter/merits/legado) por un [mentor](/hunter/backgrounds/mentor) del Arcanum o que encontraste al principio de tu carrera y que la sociedad no ha solicitado aún para un 'estudio más a fondo'.\n\nEl Narrador debería crear algo adecuado para ti basándose en los puntos de este Trasfondo. Habla con él acerca de lo que quieres. Los Artefactos de leyenda (como Durandal, la espada de Rolando o el cáliz de Kai Khusrau) son objeto de grandes búsquedas y no pueden adquirirse con este Rasgo. Algunos ejemplos de Artefactos potenciales aparecen en la pág. 157-158.\n\nLos  jugadores  pueden  optar  por  compartir  puntos  de Trasfondo para tener un Artefacto común. Ver pág. 118119  del V20 para  más  información  sobre  Trasfondos Compartidos.\n\n- Un Artefacto menor.\n\n- ••\n\nUn Artefacto útil.\n\n•••\n\nUn Artefacto de poder significativo.\n\n- ••••\n\nUn Artefacto muy deseado.\n\n- •••••\n\nUn Artefacto de increíble poder.",
     "tags": [
       "trasfondo"
     ],
