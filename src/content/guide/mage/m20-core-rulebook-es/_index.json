@@ -3,7 +3,7 @@
   "line": "mage",
   "title_es": "Mago: La Ascensión — Libro Básico 20.º Aniversario",
   "book_title_es": "Mago: La Ascensión — Libro Básico 20.º Aniversario",
-  "page_count": 138,
+  "page_count": 144,
   "tree": [
     {
       "block": "front-matter",
@@ -343,6 +343,12 @@
             {
               "slug": "capitulo-seis-creacion-de-personajes",
               "title": "Capítulo Seis: Creación de Personajes",
+              "part": "Capítulo Seis: Creación de Personajes",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-seis-creacion-de-personajes-paso-cinco-toques-finales",
+              "title": "Paso Cinco: Toques finales",
               "part": null,
               "content_type": "rule"
             },
@@ -368,6 +374,12 @@
               "slug": "parte-ii-rasgos-de-personajes",
               "title": "Parte II: Rasgos de personajes",
               "part": "Parte II: Rasgos de personajes",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-ii-rasgos-de-personajes-martir",
+              "title": "Mártir",
+              "part": null,
               "content_type": "rule"
             },
             {
@@ -473,8 +485,8 @@
             },
             {
               "slug": "capitulo-siete-contar-la-historia-morder-el-anzuelo",
-              "title": "Morder el anzuelo",
-              "part": null,
+              "title": "Capítulo Siete: Contar la Historia: Morder el anzuelo",
+              "part": "Capítulo Siete: Contar la Historia",
               "content_type": "rule"
             },
             {
@@ -644,6 +656,12 @@
               "content_type": "rule"
             },
             {
+              "slug": "parte-vi-la-red-digital-nevasca-la-paradoja-como-fallo-tecnico",
+              "title": "Nevasca: La Paradoja como fallo técnico",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
               "slug": "parte-vii-los-otros-mundos",
               "title": "Parte VII: Los Otros Mundos",
               "part": "Parte VII: Los Otros Mundos",
@@ -698,7 +716,13 @@
             },
             {
               "slug": "parte-i-realizar-magia-paso-cuatro-resultado-que-sucede",
-              "title": "Paso cuatro - resultado: ¿Qué sucede?",
+              "title": "Parte I: Realizar Magia: Paso cuatro - resultado: ¿Qué sucede?",
+              "part": "Parte I: Realizar Magia",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-i-realizar-magia-colores-y-texturas-del-aura",
+              "title": "Colores y texturas del aura",
               "part": null,
               "content_type": "rule"
             },
@@ -740,7 +764,13 @@
             },
             {
               "slug": "parte-iii-lanzar-magia-paso-a-paso-paso-tres-tirada",
-              "title": "Paso tres: Tirada",
+              "title": "Parte III: Lanzar Magia, paso a paso: Paso tres: Tirada",
+              "part": "Parte III: Lanzar Magia, paso a paso",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iii-lanzar-magia-paso-a-paso-dificultad-base",
+              "title": "Dificultad base",
               "part": null,
               "content_type": "rule"
             },
@@ -760,6 +790,12 @@
               "slug": "parte-v-silencio",
               "title": "Parte V: Silencio",
               "part": "Parte V: Silencio",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-v-silencio-morbo",
+              "title": "Morbo",
+              "part": null,
               "content_type": "rule"
             },
             {

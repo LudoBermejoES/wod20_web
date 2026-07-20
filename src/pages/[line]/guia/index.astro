@@ -16,12 +16,19 @@ export async function getStaticPaths() {
     arr.push(b);
     byLine.set(b.data.line, arr);
   }
+  // Reading order, not size: the corebook first, then a natural sort by title so
+  // numbered "Parte N" series stay sequential (round-2 review 7.3).
+  const isCore = (id: string) => /core|rulebook|manual-basico|nucleo|b[aá]sico/i.test(id);
   return [...byLine.entries()].map(([line, entries]) => ({
     params: { line },
     props: {
       books: entries
         .map((e) => e.data)
-        .sort((a, b) => b.page_count - a.page_count),
+        .sort((a, b) => {
+          const ca = isCore(a.book_id), cb = isCore(b.book_id);
+          if (ca !== cb) return ca ? -1 : 1;
+          return a.book_title_es.localeCompare(b.book_title_es, 'es', { numeric: true });
+        }),
     },
   }));
 }

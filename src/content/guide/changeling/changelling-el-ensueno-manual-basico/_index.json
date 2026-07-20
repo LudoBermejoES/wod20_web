@@ -3,7 +3,7 @@
   "line": "changeling",
   "title_es": "Changeling: El Ensueño — Manual Básico",
   "book_title_es": "Changeling: El Ensueño — Manual Básico",
-  "page_count": 52,
+  "page_count": 55,
   "tree": [
     {
       "block": "front-matter",
@@ -104,14 +104,14 @@
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-uno-el-ensueno-sobre-tuneles-portales-y-sobre-tuneles-portales-y-mazmorras-quimericos-mazmorras-quimericos",
-              "title": "Sobre Túneles, Portales y Sobre Túneles, Portales y Mazmorras Quiméricos Mazmorras Quiméricos",
+              "slug": "capitulo-uno-el-ensueno-sobre-tuneles-portales-y-mazmorras-quimericos",
+              "title": "Sobre Túneles, Portales y Mazmorras Quiméricos",
               "part": null,
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-uno-el-ensueno-pasos-pasos-pasos-pasos",
-              "title": "Pasos Pasos Pasos Pasos",
+              "slug": "capitulo-uno-el-ensueno-pasos",
+              "title": "Pasos",
               "part": null,
               "content_type": "lore"
             }
@@ -127,32 +127,32 @@
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-dos-un-mundo-de-suenos-guerra-del-tratado-guerra-del-tratado-guerra-del-tratado-guerra-del-tratado",
-              "title": "Guerra del Tratado Guerra del Tratado Guerra del Tratado Guerra del Tratado",
+              "slug": "capitulo-dos-un-mundo-de-suenos-guerra-del-tratado",
+              "title": "Guerra del Tratado",
               "part": null,
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-dos-un-mundo-de-suenos-como-envejecen-las-hadas-como-envejecen-las-hadas-como-envejecen-las-hadas-como-envejecen-las-hadas",
-              "title": "Cómo Envejecen las Hadas Cómo Envejecen las Hadas Cómo Envejecen las Hadas Cómo Envejecen las Hadas",
+              "slug": "capitulo-dos-un-mundo-de-suenos-como-envejecen-las-hadas",
+              "title": "Cómo Envejecen las Hadas",
               "part": null,
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-dos-un-mundo-de-suenos-las-casas-las-casas-las-casas-las-casas",
-              "title": "Las Casas Las Casas Las Casas Las Casas",
+              "slug": "capitulo-dos-un-mundo-de-suenos-las-casas",
+              "title": "Las Casas",
               "part": null,
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-dos-un-mundo-de-suenos-el-paradigma-medieval-el-paradigma-medieval-el-paradigma-medieval-el-paradigma-medieval",
-              "title": "El Paradigma Medieval El Paradigma Medieval El Paradigma Medieval El Paradigma Medieval",
+              "slug": "capitulo-dos-un-mundo-de-suenos-el-paradigma-medieval",
+              "title": "El Paradigma Medieval",
               "part": null,
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-dos-un-mundo-de-suenos-costumbres-costumbres-costumbres-costumbres-y-tradiciones-y-tradiciones-y-tradiciones-y-tradiciones",
-              "title": "Costumbres Costumbres Costumbres Costumbres y Tradiciones y Tradiciones y Tradiciones y Tradiciones",
+              "slug": "capitulo-dos-un-mundo-de-suenos-costumbres-y-tradiciones",
+              "title": "Costumbres y Tradiciones",
               "part": null,
               "content_type": "lore"
             }
@@ -168,20 +168,20 @@
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-tres-la-estirpe-privilegios-privilegios",
-              "title": "Privilegios Privilegios",
+              "slug": "capitulo-tres-la-estirpe-privilegios",
+              "title": "Privilegios",
               "part": null,
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-tres-la-estirpe-privilegios-privilegios-2",
-              "title": "Privilegios Privilegios",
+              "slug": "capitulo-tres-la-estirpe-privilegios-2",
+              "title": "Privilegios",
               "part": null,
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-tres-la-estirpe-casas-casas-casas-casas",
-              "title": "Casas Casas Casas Casas",
+              "slug": "capitulo-tres-la-estirpe-casas",
+              "title": "Casas",
               "part": null,
               "content_type": "lore"
             }
@@ -203,50 +203,62 @@
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cuatro-creacion-de-personajes-paso-diez-paso-diez-paso-diez-paso-diez-el-aliento-de-la-vida-el-aliento-de-la-vida-el-aliento-de-la-vida-el-aliento-de-la-vida",
-              "title": "Capítulo Cuatro: Creación de Personajes: Paso Diez: Paso Diez: Paso Diez: Paso Diez: El Aliento de la Vida El Aliento de la Vida El Aliento de la Vida El Aliento de la Vida",
+              "slug": "capitulo-cuatro-creacion-de-personajes-paso-diez-el-aliento-de-la-vida",
+              "title": "Capítulo Cuatro: Creación de Personajes: Paso Diez: El Aliento de la Vida",
               "part": "Capítulo Cuatro: Creación de Personajes",
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cuatro-creacion-de-personajes-especialidades-especialidades",
-              "title": "Especialidades Especialidades",
+              "slug": "capitulo-cuatro-creacion-de-personajes-especialidades",
+              "title": "Capítulo Cuatro: Creación de Personajes: Especialidades",
+              "part": "Capítulo Cuatro: Creación de Personajes",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-creacion-de-personajes-santo",
+              "title": "Santo",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cuatro-creacion-de-personajes-santo-santo",
-              "title": "Santo Santo",
+              "slug": "capitulo-cuatro-creacion-de-personajes-talentos",
+              "title": "Talentos",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cuatro-creacion-de-personajes-empatia-empatia",
-              "title": "Empatía Empatía",
+              "slug": "capitulo-cuatro-creacion-de-personajes-tecnicas",
+              "title": "Técnicas",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cuatro-creacion-de-personajes-politica-politica",
-              "title": "Política Política",
+              "slug": "capitulo-cuatro-creacion-de-personajes-conocimientos",
+              "title": "Capítulo Cuatro: Creación de Personajes: Conocimientos",
+              "part": "Capítulo Cuatro: Creación de Personajes",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-creacion-de-personajes-titulo",
+              "title": "Título",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cuatro-creacion-de-personajes-ganar-glamour-ganar-glamour",
-              "title": "Ganar Glamour Ganar Glamour",
-              "part": null,
+              "slug": "capitulo-cuatro-creacion-de-personajes-intolerancia-defecto-de-1-punto",
+              "title": "Capítulo Cuatro: Creación de Personajes: Intolerancia: (Defecto de 1 punto)",
+              "part": "Capítulo Cuatro: Creación de Personajes",
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cuatro-creacion-de-personajes-sentido-comun-merito-de-1-punto-sentido-comun-merito-de-1-punto",
-              "title": "Sentido Común: (Mérito de 1 punto) Sentido Común: (Mérito de 1 punto)",
-              "part": null,
+              "slug": "capitulo-cuatro-creacion-de-personajes-corazon-de-poeta-merito-de-3-puntos",
+              "title": "Capítulo Cuatro: Creación de Personajes: Corazón de Poeta: (Mérito de 3 puntos)",
+              "part": "Capítulo Cuatro: Creación de Personajes",
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cuatro-creacion-de-personajes-alado-defecto-de-2-puntos-alado-defecto-de-2-puntos-merito-de-4-puntos-merito-de-4-puntos",
-              "title": "Alado: (Defecto de 2 puntos/ Alado: (Defecto de 2 puntos/ Mérito de 4 puntos) Mérito de 4 puntos)",
+              "slug": "capitulo-cuatro-creacion-de-personajes-mentor-infame-defecto-de-1-punto",
+              "title": "Mentor Infame: (Defecto de 1 punto)",
               "part": null,
               "content_type": "rule"
             }
@@ -268,14 +280,14 @@
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cinco-artes-y-reinos-escudo-de-roble-escudo-de-roble",
-              "title": "Escudo  de  Roble Escudo  de  Roble",
+              "slug": "capitulo-cinco-artes-y-reinos-escudo-de-roble",
+              "title": "Escudo de Roble",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cinco-artes-y-reinos-reinos-reinos-reinos-reinos",
-              "title": "Reinos Reinos Reinos Reinos",
+              "slug": "capitulo-cinco-artes-y-reinos-reinos",
+              "title": "Reinos",
               "part": null,
               "content_type": "rule"
             }
@@ -287,6 +299,12 @@
             {
               "slug": "capitulo-seis-reglas-basicas",
               "title": "Capítulo Seis: Reglas Básicas",
+              "part": "Capítulo Seis: Reglas Básicas",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-seis-reglas-basicas-dificultades-y-exitos",
+              "title": "Dificultades y éxitos",
               "part": null,
               "content_type": "rule"
             }
@@ -308,9 +326,9 @@
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-siete-sistemas-de-glamour-pesadillas-pesadillas",
-              "title": "Pesadillas Pesadillas",
-              "part": null,
+              "slug": "capitulo-siete-sistemas-de-glamour-pesadillas",
+              "title": "Capítulo Siete: Sistemas de Glamour: Pesadillas",
+              "part": "Capítulo Siete: Sistemas de Glamour",
               "content_type": "rule"
             },
             {
@@ -320,20 +338,20 @@
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-siete-sistemas-de-glamour-barcia-barcia-barcia-barcia",
-              "title": "Barcia Barcia Barcia Barcia",
+              "slug": "capitulo-siete-sistemas-de-glamour-barcia",
+              "title": "Barcia",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-siete-sistemas-de-glamour-quimeras-no-sintientes-quimeras-no-sintientes",
-              "title": "Quimeras no sintientes Quimeras no sintientes",
+              "slug": "capitulo-siete-sistemas-de-glamour-quimeras-no-sintientes",
+              "title": "Quimeras no sintientes",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-siete-sistemas-de-glamour-feudos-feudos-feudos-feudos",
-              "title": "Feudos Feudos Feudos Feudos",
+              "slug": "capitulo-siete-sistemas-de-glamour-feudos",
+              "title": "Feudos",
               "part": null,
               "content_type": "rule"
             }
@@ -349,20 +367,20 @@
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-ocho-sistemas-dramaticos-paso-tres-resolucion-paso-tres-resolucion-paso-tres-resolucion-paso-tres-resolucion",
-              "title": "Capítulo Ocho: Sistemas Dramáticos: Paso Tres: Resolución Paso Tres: Resolución Paso Tres: Resolución Paso Tres: Resolución",
+              "slug": "capitulo-ocho-sistemas-dramaticos-paso-tres-resolucion",
+              "title": "Capítulo Ocho: Sistemas Dramáticos: Paso Tres: Resolución",
               "part": "Capítulo Ocho: Sistemas Dramáticos",
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-ocho-sistemas-dramaticos-escudos-escudos",
-              "title": "Escudos Escudos",
+              "slug": "capitulo-ocho-sistemas-dramaticos-escudos",
+              "title": "Escudos",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-ocho-sistemas-dramaticos-fuego-fuego",
-              "title": "Fuego Fuego",
+              "slug": "capitulo-ocho-sistemas-dramaticos-fuego",
+              "title": "Fuego",
               "part": null,
               "content_type": "rule"
             },
@@ -384,9 +402,9 @@
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-nueve-narracion-romance-romance",
-              "title": "Romance Romance",
-              "part": null,
+              "slug": "capitulo-nueve-narracion-romance",
+              "title": "Capítulo Nueve: Narración: Romance",
+              "part": "Capítulo Nueve: Narración",
               "content_type": "lore"
             },
             {
@@ -419,14 +437,14 @@
               "content_type": "reference"
             },
             {
-              "slug": "antagonistas-banalidad-de-los-magos-banalidad-de-los-magos",
-              "title": "Banalidad de los Magos Banalidad de los Magos",
+              "slug": "antagonistas-banalidad-de-los-magos",
+              "title": "Banalidad de los Magos",
               "part": null,
               "content_type": "reference"
             },
             {
-              "slug": "antagonistas-las-manadas-jovenes-las-manadas-jovenes",
-              "title": "Las manadas jóvenes Las manadas jóvenes",
+              "slug": "antagonistas-las-manadas-jovenes",
+              "title": "Las manadas jóvenes",
               "part": null,
               "content_type": "reference"
             },

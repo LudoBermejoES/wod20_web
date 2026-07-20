@@ -1,0 +1,32 @@
+{
+  "book_id": "m20-core-rulebook-es",
+  "line": "mage",
+  "order": 100,
+  "slug": "parte-viii-entidades-espirituales-umbroles-interpretar-y-narrar-las-entidades-espirituales",
+  "block": "libro-iii-asciende",
+  "block_title": "LIBRO III: ASCIENDE",
+  "chapter": "Capítulo Nueve: Sistemas Dramáticos",
+  "part": "Parte VIII: Entidades espirituales Umbroles",
+  "section": "Interpretar y narrar las entidades espirituales",
+  "title": "Parte VIII: Entidades espirituales Umbroles: Interpretar y narrar las entidades espirituales",
+  "content_type": "rule",
+  "source_line_range": [
+    17696,
+    17709
+  ],
+  "body_md": "## Interpretar y narrar las entidades espirituales\n\nDesde el punto de vista del sistema, un espíritu no es más que un personaje: una serie de Rasgos y motivaciones que trata con tus héroes como lo haría cualquier otro personaje.\n\nSin embargo, a nivel dramático, un espíritu es más que eso. Todo espíritu debe provocar una sensación de [extrañeza](/mage/flaws/extraneza) cuando aparece. El viento sopla,  las  [sombras](/mage/hedge-paths/sombras)  se  enroscan,  las  llamas  titilan y los ruidos se apagan. La mera presencia de un espíritu excita los sentidos: se eriza el vello de los brazos, un escalofrío se aferra a la base de tu espalda, visiones y sonidos parecen volverse más profundos o desaparecer… Un conjunto de Rasgos no puede comunicar estas cosas, pero el Narrador y los jugadores sí.\n\n## Poderes de ambientación\n\nPara  enfatizar  la  naturaleza  extraña  de  las  entidades  espirituales, el  Narrador  puede  otorgarles  cierta  variedad  de  poderes  secundarios que funcionan como [elementos](/mage/instruments/elements) de la historia: la capacidad de enfriar una habitación con una mirada, llorar un río de [sangre](/mage/instruments/blood), atraer a todos los pájaros o gatos de la zona, etc. Cuando un espíritu poderoso se acerca, las moscas podrían [cantar](/mage/instruments/singing) y los árboles hablar. Desde el punto de vista del juego, estos poderes deberían suceder sin más, sin tiradas ni gastos de Esencia. Para ser justos, tampoco podría tratarse de ataques o defensas evidentes, sino sólo anomalías narrativas que muestran que tus héroes están tratando con algo Distinto , y por tanto digno de respeto.\n\nNingún mago (ni los más temerarios) se toma en broma a los espíritus. Cuando aparece uno, los demás personajes deben mostrarle cierto respeto. Esto no significa acobardarse frente a él, aunque sin duda hay seres divinos que merecerían esa reacción, sino que los personajes lo van a tomar en serio… y, por extensión, los jugadores también deberían hacerlo. Burlarse de Thor en su cara no sólo es una forma estupenda de conseguir que te hagan una colonoscopia con un rayo, también destruye el ambiente de lo que debería ser un momento potente de la crónica.\n\nCon sólo un poco de imaginación, creatividad y respeto, la presencia de un Umbrole puede señalar un momento especial de tu crónica de Mago . El epígrafe Entidades no humanas del Capítulo Siete (pág. 356) presenta sugerencias sobre las motivaciones y la [interpretación](/mage/instruments/performance) de los personajes Umbroles. Si eres Narrador, dota  a  tu  espíritu  de  extrañas  características  de  ambiente y comportamiento; si eres jugador, sigue la corriente y aporta tu propia imaginación al juego cuando describas las reacciones de tu personaje frente al Otro Sagrado, un ser que podría ser tu aliado, tu [enemigo](/mage/flaws/enemigo) o tu dios.",
+  "toc": [
+    {
+      "text": "Poderes de ambientación",
+      "anchor": "poderes-de-ambientacion"
+    }
+  ],
+  "prev": {
+    "slug": "parte-viii-entidades-espirituales-umbroles-continuacion",
+    "title": "Parte VIII: Entidades espirituales Umbroles: (continuación)"
+  },
+  "next": {
+    "slug": "capitulo-diez-el-libro-de-la-magia",
+    "title": "Capítulo Diez: El Libro de la Magia"
+  }
+}

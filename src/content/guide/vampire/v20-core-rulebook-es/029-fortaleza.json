@@ -1,0 +1,32 @@
+{
+  "book_id": "v20-core-rulebook-es",
+  "line": "vampire",
+  "order": 29,
+  "slug": "fortaleza",
+  "block": "libro-segundo-la-conversion",
+  "block_title": "LIBRO SEGUNDO: LA CONVERSIÓN",
+  "chapter": "Capítulo Cuatro: Disciplinas",
+  "part": "Fortaleza",
+  "section": null,
+  "title": "Fortaleza",
+  "content_type": "rule",
+  "source_line_range": [
+    5700,
+    5747
+  ],
+  "body_md": "## Fortaleza\n\nAunque todos los vampiros tienen una constitución física antinatural que los hace mucho más duros y robustos que los mortales, Fortaleza confiere una capacidad de aguante que daría envidia hasta a un héroe de película de acción. Los vampiros que posean esta Disciplina pueden ignorar golpes atroces y hacer que un impacto que destrozaría huesos parezca un arañazo. Este Poder ofrece  protección  incluso  contra  las  némesis  tradicionales de los vampiros, como el fuego y la luz solar. [Gangrel](/vampire/clans/gangrel), [Ravnos](/vampire/clans/ravnos) y [Ventrue](/vampire/clans/ventrue) encuentran esta capacidad extremadamente útil.\n\nSistema: La puntuación de Fortaleza de un personaje se añade a la Resistencia a efectos de absorber daño normal (contundente y letal). Un personaje que tenga esta Disciplina  también  puede  usar  sus  puntos  de  Fortaleza para absorber daño agravado, aunque los Vástagos normalmente no puedan absorber cosas como mordiscos de vampiros, garras de hombre lobo, efectos mágicos, fuego, luz  solar  o  daño  físico  generalizado.  Ver  pág.  272  para obtener más detalles sobre absorción y daño.\n\n## Fortaleza 6 o más\n\nLos vampiros Antiguos progresan en Fortaleza de la misma forma que en Celeridad (ver pág. 142). Pueden aumentar su [dominio](/vampire/backgrounds/domain) de la Disciplina básica o adquirir un Poder alternativo como los que se detallan a continuación.\n\n## ····· · Armadura Personal\n\nA nadie le gusta ser golpeado, ni siquiera a los Cainitas. La manera más fácil de asegurarse no ser golpeado (o apuñalado, o tiroteado) más de una vez es quitarle el arma al asaltante y romperla. Para esto es útil [Armadura Personal](/vampire/discipline-powers/armadura-personal). Esta aplicación de Fortaleza, derivada de una popular en el siglo xii , hace que cualquier cosa que golpee a un Vástago que posea [Armadura Personal](/vampire/discipline-powers/armadura-personal) se rompa con el impacto.\n\nSistema: Mediante el gasto de dos puntos de Sangre, el  vampiro  puede  dotar  a  su  carne  de  una  dureza  preternatural.  Cada  vez  que  un  Vástago  que  esté  usando [Armadura Personal](/vampire/discipline-powers/armadura-personal) sea atacado (y no consiga esquivar el  ataque),  el  jugador  de  éste  tira  Fortaleza  (dificultad 8). Si la tirada arroja como resultado más éxitos de los que sacó el atacante, entonces el arma que se usó para hacer el ataque se rompe contra el cuerpo del vampiro (a discreción del Narrador, las armas 'mágicas' pueden ser inmunes a este efecto). El vampiro sigue sufriendo el daño normal si el ataque tiene éxito, incluso si el arma se rompe en el proceso, aunque el daño puede ser absorbido. Si se fracasa en la tirada de ataque, cualquier arma normal se romperá automáticamente.\n\nUn ataque con las manos desnudas le causa al atacante el mismo daño que sufre el defensor cuando se usa [Armadura Personal](/vampire/discipline-powers/armadura-personal). Aunque el atacante falle por completo, sufrirá un nivel de daño contundente.\n\nLos efectos de este Poder duran una escena.\n\n## ····· ·· Fuerza Compartida\n\nUna cosa es reírse de las balas, otra muy distinta ver cómo al rebotar masacran a todos aquéllos a tu alrededor. Muchos Vástagos han deseado antes o después poder prestar su monstruosa vitalidad a los que los rodean. Quienes han dominado [Fuerza Compartida](/vampire/discipline-powers/fuerza-compartida) pueden hacerlo, si bien por corto tiempo.\n\nSistema: [Fuerza Compartida](/vampire/discipline-powers/fuerza-compartida) concede parte de la Fortaleza del vampiro (un punto por cada punto de Sangre que gaste el vampiro) a otro ser. Para activar el Poder hay que hacer una tirada de Resistencia + Supervivencia (dificultad  8,  que  aumenta  a  9  si  el  objetivo  no  es  un mortal normal) y gastar un punto de Fuerza de Voluntad. Además, el vampiro tiene que marcar a su objetivo en la frente con una gota de su Sangre. La mancha permanece visible mientras el Poder sea efectivo; la duración de éste viene determinada por la siguiente tabla:\n\n|   Éxitos | Duración    |\n|----------|-------------|\n|        1 | Un turno.   |\n|        2 | Una escena. |\n\n|   3 | Una hora.   |\n|-----|-------------|\n|   4 | Una noche.  |\n|   5 | Una semana. |\n|   6 | Un mes.     |\n|   7 | Un año.     |\n\nNo es necesario que el objetivo de este Poder acepte voluntariamente el beneficio que recibe. El vampiro que  lo  concede  puede  eliminar  el  efecto  en  cualquier momento sin coste alguno. Algunos Vástagos especialmente sádicos han encontrado muchas maneras de usar la 'marca del diablo' y la resistencia sobrenatural de un objetivo para acarrearle inmensos problemas.\n\nEn ningún caso puede un vampiro conceder más niveles de Fortaleza de los que él mismo posee.\n\n## ····· ··· Adamantino\n\n[Adamantino](/vampire/discipline-powers/adamantino) funciona como una versión más potente de [Armadura Personal](/vampire/discipline-powers/armadura-personal).\n\nSistema: Este Poder reproduce los efectos de [Armadura Personal](/vampire/discipline-powers/armadura-personal), salvo que el vampiro que lo usa no sufre daño alguno de las armas que se rompen contra su piel.",
+  "toc": [
+    {
+      "text": "Fortaleza 6 o más",
+      "anchor": "fortaleza-6-o-mas"
+    }
+  ],
+  "prev": {
+    "slug": "extincion",
+    "title": "Extinción"
+  },
+  "next": {
+    "slug": "necromancia",
+    "title": "Necromancia"
+  }
+}

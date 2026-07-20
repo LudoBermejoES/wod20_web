@@ -3,7 +3,7 @@
   "line": "vampire",
   "title_es": "Vampiro: Anarquistas Liberados",
   "book_title_es": "Vampiro: Anarquistas Liberados",
-  "page_count": 23,
+  "page_count": 24,
   "tree": [
     {
       "block": "preliminares",
@@ -165,6 +165,12 @@
             {
               "slug": "capitulo-cuatro-personajes-y-rasgos",
               "title": "Capítulo Cuatro: Personajes y Rasgos",
+              "part": "Capítulo Cuatro: Personajes y Rasgos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-personajes-y-rasgos-meritos-y-defectos",
+              "title": "Méritos y Defectos",
               "part": null,
               "content_type": "rule"
             }

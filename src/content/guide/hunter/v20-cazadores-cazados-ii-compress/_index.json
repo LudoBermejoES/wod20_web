@@ -3,7 +3,7 @@
   "line": "hunter",
   "title_es": "Cazador: Cazadores Cazados II",
   "book_title_es": "Cazador: Cazadores Cazados II",
-  "page_count": 39,
+  "page_count": 43,
   "tree": [
     {
       "block": "front-matter",
@@ -194,24 +194,48 @@
             {
               "slug": "la-sociedad-de-leopoldo",
               "title": "La Sociedad de Leopoldo",
+              "part": "La Sociedad de Leopoldo",
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-sociedad-de-leopoldo-meritos-y-defectos",
+              "title": "Méritos y Defectos",
               "part": null,
               "content_type": "lore"
             },
             {
               "slug": "el-gobierno-estadounidense",
               "title": "El gobierno estadounidense",
+              "part": "El gobierno estadounidense",
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-gobierno-estadounidense-enlace-entre-agencias-merito-de-2-puntos",
+              "title": "Enlace entre Agencias (Mérito de 2 puntos)",
               "part": null,
               "content_type": "lore"
             },
             {
               "slug": "el-arcanum",
               "title": "El Arcanum",
+              "part": "El Arcanum",
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-arcanum-superviviente-del-sabbat",
+              "title": "Superviviente del Sabbat",
               "part": null,
               "content_type": "lore"
             },
             {
               "slug": "criminales-y-crimen-organizado",
               "title": "Criminales y crimen organizado",
+              "part": "Criminales y crimen organizado",
+              "content_type": "lore"
+            },
+            {
+              "slug": "criminales-y-crimen-organizado-la-conspiracion-caitiff",
+              "title": "La conspiración Caitiff",
               "part": null,
               "content_type": "lore"
             },

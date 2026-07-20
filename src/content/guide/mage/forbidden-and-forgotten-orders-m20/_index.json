@@ -3,7 +3,7 @@
   "line": "mage",
   "title_es": "Mago: Órdenes Prohibidas y Olvidadas",
   "book_title_es": "Mago: Órdenes Prohibidas y Olvidadas",
-  "page_count": 15,
+  "page_count": 25,
   "tree": [
     {
       "block": "preliminares",
@@ -32,6 +32,12 @@
             {
               "slug": "introduccion-cuidar-de-los-nuestros",
               "title": "Introducción: Cuidar de los Nuestros",
+              "part": "Introducción: Cuidar de los Nuestros",
+              "content_type": "lore"
+            },
+            {
+              "slug": "introduccion-cuidar-de-los-nuestros-los-mirainohmen",
+              "title": "Los Mirainohmen",
               "part": null,
               "content_type": "lore"
             }
@@ -67,12 +73,24 @@
             {
               "slug": "taftani",
               "title": "Taftâni",
+              "part": "Taftâni",
+              "content_type": "lore"
+            },
+            {
+              "slug": "taftani-nudos-firmes-e-hebras-deshilachadas",
+              "title": "Nudos Firmes e Hebras Deshilachadas",
               "part": null,
               "content_type": "lore"
             },
             {
               "slug": "huecos",
               "title": "Huecos",
+              "part": "Huecos",
+              "content_type": "lore"
+            },
+            {
+              "slug": "huecos-maestros",
+              "title": "Maestros",
               "part": null,
               "content_type": "lore"
             }
@@ -90,24 +108,48 @@
             {
               "slug": "ahl-i-batin",
               "title": "Ahl-i-Batin",
+              "part": "Ahl-i-Batin",
+              "content_type": "lore"
+            },
+            {
+              "slug": "ahl-i-batin-todos-estamos-conectados",
+              "title": "Todos Estamos Conectados",
               "part": null,
               "content_type": "lore"
             },
             {
               "slug": "kahu",
               "title": "Kahu",
+              "part": "Kahu",
+              "content_type": "lore"
+            },
+            {
+              "slug": "kahu-enemigos-y-amigos",
+              "title": "Enemigos y Amigos",
               "part": null,
               "content_type": "lore"
             },
             {
               "slug": "hermanas-de-hipolita",
               "title": "Hermanas de Hipólita",
+              "part": "Hermanas de Hipólita",
+              "content_type": "lore"
+            },
+            {
+              "slug": "hermanas-de-hipolita-fragmentos-del-futuro",
+              "title": "Fragmentos del Futuro",
               "part": null,
               "content_type": "lore"
             },
             {
               "slug": "wu-lung",
               "title": "Wu Lung",
+              "part": "Wu Lung",
+              "content_type": "lore"
+            },
+            {
+              "slug": "wu-lung-the-dream-of-nanke",
+              "title": "The Dream of Nanke",
               "part": null,
               "content_type": "lore"
             }
@@ -131,18 +173,36 @@
             {
               "slug": "bata-a",
               "title": "Bata'a",
+              "part": "Bata'a",
+              "content_type": "lore"
+            },
+            {
+              "slug": "bata-a-character-and-t-raits",
+              "title": "Character and T raits",
               "part": null,
               "content_type": "lore"
             },
             {
               "slug": "solificati",
               "title": "Solificati",
+              "part": "Solificati",
+              "content_type": "lore"
+            },
+            {
+              "slug": "solificati-cascaras-rotas-de-mundos-amargos",
+              "title": "Cáscaras Rotas de Mundos Amargos",
               "part": null,
               "content_type": "lore"
             },
             {
               "slug": "huerfanos",
               "title": "Huérfanos",
+              "part": "Huérfanos",
+              "content_type": "lore"
+            },
+            {
+              "slug": "huerfanos-ngoma",
+              "title": "Ngoma",
               "part": null,
               "content_type": "lore"
             }

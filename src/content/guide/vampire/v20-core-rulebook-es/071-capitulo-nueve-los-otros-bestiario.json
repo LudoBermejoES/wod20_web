@@ -1,0 +1,148 @@
+{
+  "book_id": "v20-core-rulebook-es",
+  "line": "vampire",
+  "order": 71,
+  "slug": "capitulo-nueve-los-otros-bestiario",
+  "block": "libro-tercero-las-permutaciones",
+  "block_title": "LIBRO TERCERO: LAS PERMUTACIONES",
+  "chapter": "Capítulo Nueve: Los Otros",
+  "part": "Capítulo Nueve: Los Otros",
+  "section": "Bestiario",
+  "title": "Capítulo Nueve: Los Otros: Bestiario",
+  "content_type": "lore",
+  "source_line_range": [
+    12114,
+    12422
+  ],
+  "body_md": "## Bestiario\n\nLos vampiros son criaturas urbanas y raramente interactúan con las bestias salvajes. De hecho, la mayoría de los animales temen a los vampiros, a quienes sisean o gruñen mientras se aproximan. Dicho esto, algunos vampiros (en particular, aquéllos con la Disciplina Animalismo) emplean animales como compañeros, espías o soldados. Es más, los animales ocasionalmente son convertidos en Ghouls, especialmente por parte de vampiros [Gangrel](/vampire/clans/gangrel) y [Nosferatu](/vampire/clans/nosferatu).\n\nLos animales normales se describen sólo con Rasgos Físicos y Mentales. También tienen Habilidades, reflejando sus habilidades innatas o entrenadas. Los Rasgos entre corchetes se adquieren mediante el contacto humano y el entrenamiento; un animal salvaje no posee tales Habilidades. Los animales entrenados también pueden ganar Fuerza de Voluntad. Aquéllos cuyos niveles de Salud incluyan Incapacitado pueden sobrevivir más que los que no lo tienen (que fallecen cuando se les acaban los niveles de Salud). El Rasgo de reserva de Sangre refleja cuántos puntos puede obtener un Cainita que se alimente de una bestia (date cuenta de que la sangre animal es mucho menos nutritiva que la Vitae humana; algunos animales que tienen más sangre que un humano en realidad tienen una menor reserva de Sangre). El daño causado por los animales es letal, aunque las criaturas pequeñas pueden causar daño contundente a discreción del Narrador.\n\nSe puede convertir a cualquiera de las siguientes bestias  en  un  criado  Ghoul  con  una  dosis  mensual  de  al menos un punto de Sangre del vampiro; tales compañeros ganan Fuerza de Voluntad, un nivel de Potencia, una reserva de Sangre útil de 2 y Habilidades adquiridas con entrenamiento (para más información sobre Ghouls, ver pág. 496). Los perros suelen convertirse en Ghouls a causa de su [lealtad](/vampire/discipline-powers/lealtad) e inteligencia. Rara vez atraen la atención y pueden amaestraerse con facilidad. Se relaciona a los gatos con las criaturas nocturnas, y más de un vampiro ha mantenido a un compañero felino a través de su transición de mortal a inmortal. Pero las mascotas Ghoul no se limitan a estos ejemplos. La mayoría de los animales domésticos (y muchos salvajes) han sido convertidos en Ghouls en un momento u otro.\n\n## Araña\n\nAtributos: Fuerza 0, Destreza 3, Resistencia 1, Percepción 1, Inteligencia 1, Astucia 3.\n\nHabilidades: Ninguna.\n\nFuerza de Voluntad: 3, Niveles de Salud: OK, Aplastado.\n\nAtaque: Ningún daño, pero el mordisco puede ser venenoso (ver pág. 299).\n\nReserva de Sangre: Ninguna.\n\nNota: Los personajes deben hacer una tirada de Percepción + Alerta (dificultad 7) para percibir una araña sobre ellos.\n\n## Aves\n\n## Pájaro pequeño (Pinzón, Loro, etc.)\n\nAtributos: Fuerza 1, Destreza 3, Resistencia 2, Percepción 3, Inteligencia 2, Astucia 3.\n\nHabilidades: Alerta 3, [Interpretación (Imitación) 3].\n\nFuerza de Voluntad: 1, Niveles de Salud: OK, -1, -2, -5.\n\nAtaque: Hostigamiento (-1 dado en todas las reservas de dados del objetivo hostigado).\n\nReserva de Sangre: 1/4 (un punto de Sangre por cada cuatro pájaros pequeños).\n\n## Pájaro grande (Halcón, Cuervo, etc.)\n\nAtributos: Fuerza 2, Destreza 3, Resistencia 3, Percepción 3, Inteligencia 2, Astucia 3\n\nHabilidades: Alerta 3, Atletismo 2, Pelea 1, Intimidación 2 [Pelea 3, Empatía 4, Intimidación 4]\n\nFuerza de Voluntad: 3, Niveles de Salud: OK, -1, -1, -2, -5, Incapacitado.\n\nAtaque: Garra, dos dados; picotazo, un dado (sólo en caso de desesperación).\n\nReserva de Sangre: 1/2 (un punto de Sangre por cada dos pájaros grandes).\n\nNota: Un pájaro puede volar normalmente entre 40 y 80 km/h (entre 25 y 50 millas por hora).\n\n## Caballos\n\n## Caballo pequeño (Poni, Potro, etc.)\n\nAtributos: Fuerza 4, Destreza 2, Resistencia 3, Percepción 3, Inteligencia 2, Astucia 2.\n\nHabilidades: Alerta 3, Atletismo 3, Pelea 1 [Empatía 2, Pelea 2].\n\nFuerza de Voluntad: 2, Niveles de Salud: OK, OK, -1, -1, -2, -2, -5, Incapacitado.\n\nAtaque: Pisotón o patada, seis dados; mordisco, tres dados.\n\nReserva de Sangre: 3.\n\n## Caballo grande (Semental, Percherón, etc.)\n\nAtributos: Fuerza 6, Destreza 2, Resistencia 5, Percepción 3, Inteligencia 2, Astucia 2.\n\nHabilidades: Alerta 3, Atletismo 3, Pelea 1 [Pelea 3, Empatía 2, Intimidación 2].\n\nFuerza de Voluntad: 4, Niveles de Salud: OK, OK, -1, -1, -2, -2, -5, Incapacitado.\n\nAtaque: Pisotón o patada, siete dados; mordisco, tres dados.\n\nReserva de Sangre: 4.\n\nNota: Los caballos normalmente temen a los no-muertos, pero pueden ser entrenados como monturas.\n\n## Caimán\n\nAtributos: Fuerza 4, Destreza 2, Resistencia 4, Percepción 3, Inteligencia 2, Astucia 3.\n\nHabilidades: Alerta 2, Atletismo 2, Pelea 2, Sigilo 3.\n\nFuerza de Voluntad: 3, Niveles de Salud: OK, OK, OK, -1, -1, -1, -2, -5, Incapacitado.\n\nAtaque: Mordisco, siete dados; golpe de cola, seis dados. Reserva de Sangre: 5.\n\nNota: Los caimanes y los cocodrilos tienen un dado de absorción por armadura contra daño contundente o letal.\n\n## Camello\n\nAtributos: Fuerza 6, Destreza 3, Resistencia 3, Percepción 3, Inteligencia 3, Astucia 2.\n\nHabilidades: Alerta 3, Atletismo 3, Pelea 4.\n\nFuerza de Voluntad: 3, Niveles de Salud: OK, OK, -1, -1, -2, -2, -5, Incapacitado.\n\nAtaque: Patada, seis dados; mordisco, cuatro dados. Reserva de Sangre: 6.\n\n## Cerdos\n\n## Cerdo pequeño (Cerdo doméstico)\n\nAtributos: Fuerza 2, Destreza 2, Resistencia 4, Percepción 3, Inteligencia 2, Astucia 2.\n\nHabilidades: Alerta 2, Atletismo 2, Pelea 2.\n\nFuerza de Voluntad: 3, Niveles de Salud: OK, OK, -1, -1, -2, -4, Incapacitado.\n\nAtaque: Mordisco, dos dados.\n\nReserva de Sangre: 3.\n\n## Cerdo grande (Jabalí)\n\nAtributos: Fuerza 4, Destreza 2, Resistencia 5, Percepción 3, Inteligencia 2, Astucia 2.\n\nHabilidades: Alerta 2, Atletismo 2, Pelea 2 [Intimidación 2].\n\nFuerza de Voluntad: 3, Niveles de Salud: OK, OK, -1, -1, -2, -4, Incapacitado.\n\nAtaque: Mordisco, cuatro dados; embestida, cinco dados.\n\nReserva de Sangre: 4.\n\n## Chimpancé\n\nAtributos: Fuerza 4, Destreza 4, Resistencia 3, Percepción 3, Inteligencia 3, Astucia 4.\n\nHabilidades: Alerta 3, Atletismo (Trepar) 3, Pelea 2 [Empatía 2, Mérito [Idioma](/vampire/merits/idioma) (Lengua de Signos)].\n\nFuerza de Voluntad: 5, Niveles de Salud: OK, -1, -1, -2, -2, -5, Incapacitado.\n\nAtaque: Mordisco, cinco dados; garras, cuatro dados. Reserva de Sangre: 4.\n\n## Felinos\n\n## Gato doméstico\n\nAtributos: Fuerza 1, Destreza 3, Resistencia 3, Percepción 3, Inteligencia 2, Astucia 3.\n\nHabilidades: Alerta 3, Atletismo (Trepar) 3, Intimidación 2, Pelea 2, Sigilo 4 [Empatía 2, Subterfugio 2].\n\nFuerza de Voluntad: 3, Niveles de Salud: OK, -1, -2, -5, Incapacitado.\n\nAtaque: Mordisco, un dado; garras, un dado.\n\nReserva de Sangre: 1.\n\n## Gato montés\n\nAtributos: Fuerza 3, Destreza 3, Resistencia 3, Percepción 3, Inteligencia 2, Astucia 3.\n\nHabilidades: Alerta 3, Atletismo (Trepar) 3, Pelea 3. Fuerza de Voluntad: 3, Niveles de Salud: OK, -1, -1, -2, -5, Incapacitado.\n\nAtaque: Mordisco, cuatro dados; garras, tres dados. Reserva de Sangre: 4.\n\n## Leopardo (Jaguar, Pantera, etc.)\n\nAtributos: Fuerza 4, Destreza 3, Resistencia 3, Percepción 3, Inteligencia 2, Astucia 3.\n\nHabilidades: Alerta 3, Atletismo 3, Pelea 3 [Intimidación 4, Sigilo 3].\n\nFuerza de Voluntad: 4, Niveles de Salud: OK, -1, -1, -2, -2, -5, Incapacitado.\n\nAtaque: Mordisco, cinco dados; garras, cuatro dados. Reserva de Sangre: 5.\n\n## Tigre (León, etc.)\n\nAtributos: Fuerza 5, Destreza 4, Resistencia 4, Percepción 4, Inteligencia 3, Astucia 3.\n\nHabilidades: Alerta 3, Atletismo 3, Pelea 3 [Intimidación 4, Sigilo 3].\n\nFuerza de Voluntad: 5, Niveles de Salud: OK, -1, -1, -2, -2, -5, Incapacitado.\n\nAtaque: Mordisco, seis dados; garras, cinco dados. Reserva de Sangre: 5.\n\n## Lobo\n\nAtributos: Fuerza 3, Destreza 3, Resistencia 3, Percepción 3, Inteligencia 2, Astucia 3.\n\nHabilidades: Alerta 2, Atletismo 1, Pelea 3, Sigilo 2.\n\nFuerza de Voluntad: 3, Niveles de Salud: OK, -1, -1, -3, -5, Incapacitado.\n\nAtaque: Mordisco, cuatro dados; garra, cuatro dados. Reserva de Sangre: 2.\n\n## Murciélago\n\nAtributos: Fuerza 1, Destreza 3, Resistencia 2, Percepción 3, Inteligencia 1, Astucia 2.\n\nHabilidades: Alerta 3, Atletismo 3, Sigilo 2.\n\nFuerza de Voluntad: 2, Niveles de Salud: OK, -1,-3. Ataque: Mordisco, un dado.\n\nReserva de Sangre: 1/4 (un punto de Sangre por cada cuatro murciélagos).\n\nNota: Los  murciélagos  pueden  volar  entre  40  y  65 km/h (entre 25 y 40 millas por hora). Los vampiros usan la  Disciplina  Protean  para  convertirse  en  murciélagos mayores que los aquí presentados.\n\n## Oso\n\nAtributos: Fuerza 5, Destreza 2, Resistencia 5, Percepción 3, Inteligencia 3, Astucia 2.\n\nHabilidades: Alerta 3, Intimidación 2, Pelea 3, Sigilo 1.\n\nFuerza de Voluntad: 4, Niveles de Salud: OK, OK, OK, -1, -1,-1, -3, -3, -5, Incapacitado.\n\nAtaque: Garra, siete dados; mordisco, cinco dados. Reserva de Sangre: 5.\n\n## Perros\n\n## Perro pequeño (Chihuahua, Pug, etc.)\n\nAtributos: Fuerza 1, Destreza 3, Resistencia 2, Percepción 3, Inteligencia 1, Astucia 3.\n\nHabilidades: Alerta 3, Atletismo 3 [Empatía 2, Interpretación 1, Sigilo 3].\n\nFuerza de Voluntad: 3, Niveles de Salud: OK, -1, -5. Ataque: Mordisco, dos dados.\n\nReserva de Sangre: 1.\n\n## Perro mediano (Beagle, Border Collie, etc.)\n\nAtributos: Fuerza 2, Destreza 3, Resistencia 3, Percepción 3, Inteligencia 2, Astucia 3.\n\nHabilidades: Alerta  3,  Atletismo  3,  Supervivencia (Rastrear) 3 [Empatía 2, Intimidación 1, Sigilo 2].\n\nFuerza de Voluntad: 3, Niveles de Salud: OK, -1, -1, -2, -5, Incapacitado.\n\nAtaque: Mordisco, tres dados; garras, dos dados.\n\n2.\n\nReserva de Sangre:\n\n## Perro grande (Pastor Alemán, Gran Danés, etc.)\n\nAtributos: Fuerza 4, Destreza 3, Resistencia 3, Percepción 3, Inteligencia 2, Astucia 3.\n\nHabilidades: Alerta 3, Atletismo 3, Pelea 3, Supervivencia (Rastrear) 3 [Empatía 2, Intimidación 3, Sigilo 2].\n\nFuerza de Voluntad: 5, Niveles de Salud: OK, -1, -1, -2, -2, -5, Incapacitado.\n\nAtaque: Mordisco, cinco dados; garras, cuatro dados. Reserva de Sangre: 2.\n\n## Rata\n\nAtributos: Fuerza 1, Destreza 2, Resistencia 3, Percepción 2, Inteligencia 1, Astucia 1.\n\nHabilidades: Alerta 2, Atletismo 3, Pelea 1, Sigilo 3. Fuerza de Voluntad: 4, Niveles de Salud: OK, -1, -5. Ataque: Mordisco, un dado.\n\nReserva de Sangre: 1/4 (un punto de Sangre por cada cuatro ratas).\n\nNota: Las  ratas  suelen  ser  convertidas  en  Ghouls  y usadas como espías y vigilantes por los [Nosferatu](/vampire/clans/nosferatu). Suelen atacar en manada (ver las reglas más adelante).\n\n## Serpientes\n\n## Serpiente constrictora\n\nAtributos: Fuerza 2, Destreza 3, Resistencia 3, Percepción 3, Inteligencia 1, Astucia 2.\n\nHabilidades: Alerta 3, Atletismo 3, Pelea 3.\n\nFuerza de Voluntad: 4, Niveles de Salud: OK, -1, -1, -2, -2, -5, Incapacitado.\n\nAtaque: Constricción, cuatro dados por turno.\n\nReserva de Sangre: 2.\n\n## Serpiente venenosa\n\nAtributos: Fuerza 1, Destreza 3, Resistencia 3, Percepción 3, Inteligencia 1, Astucia 2.\n\nHabilidades: Alerta 3, Atletismo 3, Pelea 3.\n\nFuerza de Voluntad: 4, Niveles de Salud: OK, -1, -2, -5, Incapacitado.\n\nAtaque: Mordisco, dos dados (ver venenos y drogas, pág. 299).\n\nReserva de Sangre: 1.\n\n## Manadas y enjambres\n\nAunque los rasgos enumerados anteriormente detallan criaturas individuales, algunos animales atacan en masa. Si un enjambre de avispones o una horda de ratas atacan a los personajes, en vez de tratar de determinar qué hace cada uno de los miembros de la manada o enjambre, sencillamente tira para ver si el enjambre daña al personaje. A partir de allí, narra los resultados.\n\nAbajo se ofrece una tabla para cada tipo de bestia. Tira la reserva de dados para el daño una vez por turno (dificultad 6), y permite a los personajes intentar esquivar o absorber el resultado. Este daño es letal, o posiblemente contundente en el caso de criaturas pequeñas o débiles. Las manadas atacan una vez por turno a su objetivo, y actúan según la Iniciativa que les da la tabla.\n\nSi un personaje esquiva, puede moverse de forma normal durante el resto del turno. De otro modo, sus atacantes lo ralentizan a la mitad de su movimiento normal. Si obtienen más de tres niveles de daño en un turno (después de  que  el  personaje  absorba),  o  si  el  jugador  fracasa  en una tirada apropiada, el personaje es derribado y arrollado. Tan sólo puede moverse 1-2 metros por turno y la dificultad del daño del enjambre se reduce a 5. Los esfuerzos para alzarse y continuar moviéndose (ver 'derribo', pág. 280) tienen normalmente una dificultad de +1 o +2.\n\nLos niveles de Salud enumerados reflejan la cantidad de daño necesaria para dispersar una manada o enjambre. Dos niveles de Salud adicionales destruyen completamente a los atacantes. Las pistolas, rifles y pequeñas armas  cuerpo  a  cuerpo  (cuchillos,  puños  americanos, botellas,  garras,  manos  desnudas)  causan  un  único  nivel de daño, sin importar cuantos éxitos de ataque o de daño se consigan (es decir, el golpe sólo impacta en una criatura). Las armas de fuego, subfusiles y armas cuerpo a cuerpo grandes (espadas, bastones, tablones y motosierras) hacen daño normal (cada nivel de daño elimina un nivel de Salud del enjambre en su conjunto), al igual que los ataques con gran área de efecto (cócteles Molotov, tormentas de hielo, rachas de viento, explosiones). Los enjambres y manadas no absorben el daño.\n\nSegún el tamaño de la manada, dos personajes o más pueden verse afectados por él y también pueden atacarlo. Cualquiera que ayude a un personaje completamente cubierto por un enjambre también puede ser atacado. Un humano puede correr más que algunas manadas o enjambres (ratas o escarabajos), pero no puede esperar correr más que otros (hienas o pájaros).\n\n| Animal                 |   Daño |   Niveles de Salud |   Iniciativa |\n|------------------------|--------|--------------------|--------------|\n| Bichos pequeños        |      1 |                  5 |            2 |\n| Bichos grandes         |      2 |                  7 |            3 |\n| Bichos voladores       |      2 |                  5 |            4 |\n| Pájaros, murciélagos   |      4 |                  9 |            5 |\n| Ratas                  |      3 |                  7 |            3 |\n| Ratas grandes          |      4 |                  9 |            3 |\n| Gatos salvajes         |      4 |                  6 |            6 |\n| Perros salvajes, lobos |      6 |                 15 |            4 |",
+  "toc": [
+    {
+      "text": "Araña",
+      "anchor": "arana"
+    },
+    {
+      "text": "Aves",
+      "anchor": "aves"
+    },
+    {
+      "text": "Pájaro pequeño (Pinzón, Loro, etc.)",
+      "anchor": "pajaro-pequeno-pinzon-loro-etc"
+    },
+    {
+      "text": "Pájaro grande (Halcón, Cuervo, etc.)",
+      "anchor": "pajaro-grande-halcon-cuervo-etc"
+    },
+    {
+      "text": "Caballos",
+      "anchor": "caballos"
+    },
+    {
+      "text": "Caballo pequeño (Poni, Potro, etc.)",
+      "anchor": "caballo-pequeno-poni-potro-etc"
+    },
+    {
+      "text": "Caballo grande (Semental, Percherón, etc.)",
+      "anchor": "caballo-grande-semental-percheron-etc"
+    },
+    {
+      "text": "Caimán",
+      "anchor": "caiman"
+    },
+    {
+      "text": "Camello",
+      "anchor": "camello"
+    },
+    {
+      "text": "Cerdos",
+      "anchor": "cerdos"
+    },
+    {
+      "text": "Cerdo pequeño (Cerdo doméstico)",
+      "anchor": "cerdo-pequeno-cerdo-domestico"
+    },
+    {
+      "text": "Cerdo grande (Jabalí)",
+      "anchor": "cerdo-grande-jabali"
+    },
+    {
+      "text": "Chimpancé",
+      "anchor": "chimpance"
+    },
+    {
+      "text": "Felinos",
+      "anchor": "felinos"
+    },
+    {
+      "text": "Gato doméstico",
+      "anchor": "gato-domestico"
+    },
+    {
+      "text": "Gato montés",
+      "anchor": "gato-montes"
+    },
+    {
+      "text": "Leopardo (Jaguar, Pantera, etc.)",
+      "anchor": "leopardo-jaguar-pantera-etc"
+    },
+    {
+      "text": "Tigre (León, etc.)",
+      "anchor": "tigre-leon-etc"
+    },
+    {
+      "text": "Lobo",
+      "anchor": "lobo"
+    },
+    {
+      "text": "Murciélago",
+      "anchor": "murcielago"
+    },
+    {
+      "text": "Oso",
+      "anchor": "oso"
+    },
+    {
+      "text": "Perros",
+      "anchor": "perros"
+    },
+    {
+      "text": "Perro pequeño (Chihuahua, Pug, etc.)",
+      "anchor": "perro-pequeno-chihuahua-pug-etc"
+    },
+    {
+      "text": "Perro mediano (Beagle, Border Collie, etc.)",
+      "anchor": "perro-mediano-beagle-border-collie-etc"
+    },
+    {
+      "text": "Perro grande (Pastor Alemán, Gran Danés, etc.)",
+      "anchor": "perro-grande-pastor-aleman-gran-danes-etc"
+    },
+    {
+      "text": "Rata",
+      "anchor": "rata"
+    },
+    {
+      "text": "Serpientes",
+      "anchor": "serpientes"
+    },
+    {
+      "text": "Serpiente constrictora",
+      "anchor": "serpiente-constrictora"
+    },
+    {
+      "text": "Serpiente venenosa",
+      "anchor": "serpiente-venenosa"
+    },
+    {
+      "text": "Manadas y enjambres",
+      "anchor": "manadas-y-enjambres"
+    }
+  ],
+  "prev": {
+    "slug": "capitulo-nueve-los-otros-poderes-y-debilidades",
+    "title": "Capítulo Nueve: Los Otros: Poderes y debilidades"
+  },
+  "next": {
+    "slug": "capitulo-diez-lineas-de-sangre",
+    "title": "Capítulo Diez: Líneas de Sangre"
+  }
+}

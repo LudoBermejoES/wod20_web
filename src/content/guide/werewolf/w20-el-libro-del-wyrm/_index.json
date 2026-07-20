@@ -3,7 +3,7 @@
   "line": "werewolf",
   "title_es": "Hombre Lobo: El Libro del Wyrm",
   "book_title_es": "Hombre Lobo: El Libro del Wyrm",
-  "page_count": 44,
+  "page_count": 45,
   "tree": [
     {
       "block": "preliminares",
@@ -333,6 +333,12 @@
             {
               "slug": "productos-la-naturaleza-de-la-corrupcion",
               "title": "Productos: La Naturaleza de la Corrupción",
+              "part": "Productos: La Naturaleza de la Corrupción",
+              "content_type": "reference"
+            },
+            {
+              "slug": "productos-la-naturaleza-de-la-corrupcion-full-force-solutions",
+              "title": "Full Force Solutions",
               "part": null,
               "content_type": "reference"
             }

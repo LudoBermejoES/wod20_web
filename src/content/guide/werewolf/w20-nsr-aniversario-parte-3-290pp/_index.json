@@ -3,7 +3,7 @@
   "line": "werewolf",
   "title_es": "Hombre Lobo: Razas Cambiantes (Parte 3)",
   "book_title_es": "Hombre Lobo: Razas Cambiantes (Parte 3)",
-  "page_count": 61,
+  "page_count": 62,
   "tree": [
     {
       "block": "front-matter",
@@ -153,8 +153,8 @@
             },
             {
               "slug": "bastet-gatos-de-kyphur",
-              "title": "GATOS DE KYPHUR",
-              "part": null,
+              "title": "Bastet: GATOS DE KYPHUR",
+              "part": "Bastet",
               "content_type": "lore"
             },
             {
@@ -211,8 +211,8 @@
             },
             {
               "slug": "gurahl-caminantes-del-bosque",
-              "title": "Caminantes del Bosque",
-              "part": null,
+              "title": "Gurahl: Caminantes del Bosque",
+              "part": "Gurahl",
               "content_type": "lore"
             },
             {
@@ -544,6 +544,12 @@
             {
               "slug": "las-razas-hengeyokai",
               "title": "Las Razas Hengeyokai",
+              "part": "Las Razas Hengeyokai",
+              "content_type": "lore"
+            },
+            {
+              "slug": "las-razas-hengeyokai-organizacion",
+              "title": "Organización",
               "part": null,
               "content_type": "lore"
             },

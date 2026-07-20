@@ -3,7 +3,7 @@
   "line": "wraith",
   "title_es": "Wraith: Manual de los Difuntos Recientes",
   "book_title_es": "Wraith: Manual de los Difuntos Recientes",
-  "page_count": 6,
+  "page_count": 7,
   "tree": [
     {
       "block": "front-matter",
@@ -51,6 +51,12 @@
               "slug": "parte-tres-narracion-para-los-difuntos-recientes",
               "title": "Parte tres: narración para los difuntos recientes",
               "part": "Parte tres: narración para los difuntos recientes",
+              "content_type": "lore"
+            },
+            {
+              "slug": "parte-tres-narracion-para-los-difuntos-recientes-narrar-la-jerarquia",
+              "title": "narrar la Jerarquía",
+              "part": null,
               "content_type": "lore"
             }
           ]

@@ -3,7 +3,7 @@
   "line": "vampire",
   "title_es": "Vampiro: La Mascarada — Libro Básico 20.º Aniversario",
   "book_title_es": "Vampiro: La Mascarada — Libro Básico 20.º Aniversario",
-  "page_count": 97,
+  "page_count": 100,
   "tree": [
     {
       "block": "front-matter",
@@ -119,13 +119,19 @@
             {
               "slug": "capitulo-tres-personajes-y-rasgos",
               "title": "Capítulo Tres: Personajes y Rasgos",
-              "part": null,
+              "part": "Capítulo Tres: Personajes y Rasgos",
               "content_type": "rule"
             },
             {
               "slug": "arquetipos-naturaleza-y-conducta",
               "title": "Arquetipos: Naturaleza y Conducta",
               "part": "Arquetipos: Naturaleza y Conducta",
+              "content_type": "rule"
+            },
+            {
+              "slug": "arquetipos-naturaleza-y-conducta-ojo-de-la-tormenta",
+              "title": "Ojo de la Tormenta",
+              "part": null,
               "content_type": "rule"
             },
             {
@@ -138,6 +144,18 @@
               "slug": "habilidades",
               "title": "Habilidades",
               "part": "Habilidades",
+              "content_type": "rule"
+            },
+            {
+              "slug": "habilidades-tecnicas",
+              "title": "Técnicas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "habilidades-conocimientos",
+              "title": "Conocimientos",
+              "part": null,
               "content_type": "rule"
             },
             {
@@ -231,8 +249,8 @@
             },
             {
               "slug": "necromancia-rituales-necromanticos",
-              "title": "Rituales Necrománticos",
-              "part": null,
+              "title": "Necromancia: Rituales Necrománticos",
+              "part": "Necromancia",
               "content_type": "rule"
             },
             {
@@ -644,8 +662,8 @@
             },
             {
               "slug": "meritos-y-defectos-compasivo-defecto-de-1-punto",
-              "title": "Compasivo (Defecto de 1 punto)",
-              "part": null,
+              "title": "Méritos y Defectos: Compasivo (Defecto de 1 punto)",
+              "part": "Méritos y Defectos",
               "content_type": "reference"
             },
             {

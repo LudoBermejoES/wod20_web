@@ -3,7 +3,7 @@
   "line": "mage",
   "title_es": "Mago: El Libro de los Secretos",
   "book_title_es": "Mago: El Libro de los Secretos",
-  "page_count": 69,
+  "page_count": 72,
   "tree": [
     {
       "block": "front-matter",
@@ -121,6 +121,12 @@
               "slug": "defectos-mentales",
               "title": "Defectos mentales",
               "part": "Defectos mentales",
+              "content_type": "rule"
+            },
+            {
+              "slug": "defectos-mentales-distraido-defecto-de-3-puntos",
+              "title": "Distraído (Defecto de 3 puntos)",
+              "part": null,
               "content_type": "rule"
             },
             {
@@ -407,6 +413,12 @@
               "title": "Entre los Locos",
               "part": "Entre los Locos",
               "content_type": "lore"
+            },
+            {
+              "slug": "entre-los-locos-picota",
+              "title": "Picota",
+              "part": null,
+              "content_type": "lore"
             }
           ]
         },
@@ -435,6 +447,12 @@
               "slug": "reglas-de-mago-20",
               "title": "Reglas de Mago 20",
               "part": "Reglas de Mago 20",
+              "content_type": "lore"
+            },
+            {
+              "slug": "reglas-de-mago-20-b-se-anaden-los-exitos-de-la-tirada-de-atributo-habilidad-a-la-reserva-de-dano",
+              "title": "b) ¿Se añaden los éxitos de la tirada de Atributo + Habilidad a la reserva de DAÑO?",
+              "part": null,
               "content_type": "lore"
             },
             {

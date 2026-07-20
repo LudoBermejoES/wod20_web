@@ -3,7 +3,7 @@
   "line": "mage",
   "title_es": "Mago: ¿Cómo Haces Eso?",
   "book_title_es": "Mago: ¿Cómo Haces Eso?",
-  "page_count": 30,
+  "page_count": 31,
   "tree": [
     {
       "block": "front-matter",
@@ -118,6 +118,12 @@
             {
               "slug": "redirigir-el-flujo",
               "title": "Redirigir el flujo",
+              "part": "Redirigir el flujo",
+              "content_type": "rule"
+            },
+            {
+              "slug": "redirigir-el-flujo-inmunidad-temporal",
+              "title": "Inmunidad temporal",
               "part": null,
               "content_type": "rule"
             }

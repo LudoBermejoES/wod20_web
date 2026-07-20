@@ -1,0 +1,76 @@
+{
+  "book_id": "v20-core-rulebook-es",
+  "line": "vampire",
+  "order": 16,
+  "slug": "habilidades",
+  "block": "libro-segundo-la-conversion",
+  "block_title": "LIBRO SEGUNDO: LA CONVERSIÓN",
+  "chapter": "Capítulo Tres: Personajes y Rasgos",
+  "part": "Habilidades",
+  "section": null,
+  "title": "Habilidades",
+  "content_type": "rule",
+  "source_line_range": [
+    3132,
+    3388
+  ],
+  "body_md": "## Habilidades\n\nComo ya mencionamos antes, las Habilidades son los  Rasgos  utilizados  para  describir  lo  que  sabes  y  lo que  has  aprendido  a  hacer.  Donde  los  Atributos  representan  tu  potencial  en  bruto,  las  Habilidades  representan las formas en las que has aprendido a emplear ese potencial. Puedes no necesitar nada más que fuerza bruta para atravesar una puerta, pero si intentas usar pura potencia muscular para encajar un componente de ingeniería sin romper nada, sería mejor que supieras algo sobre mecánica. Cuando tires los dados, probablemente  combinarás  una  Habilidad  con  un Atributo  adecuado  para  así  representar  la  combinación  de  potencial  con  el  saber  hacer  necesario  para conseguir realizar algo.\n\nHay 30 Habilidades:  10  Talentos,  10  Técnicas  y  10 Conocimientos.  Cada  Habilidad  normalmente  abarca un cierto grupo de aptitudes. Para algunas (Expresión, Artesanía, Interpretación, Academicismo, Leyes, Ciencias  y  Tecnología),  es  mejor  adquirir  una  Especialidad (ver pág. 96), incluso aunque la puntuación del personaje en ella sea menor de 4. Por ello, un personaje con la Técnica Artesanía está versado en general en trabajos manuales de todo tipo, pero podría ser particularmente bueno reparando coches.\n\n## Talentos\n\nLos Talentos describen lo que sabes de forma intuitiva, lo que haces sin entrenador o formación. La única manera para mejorar tus Talentos es por medio de experiencia directa; con la excepción de poquísimos casos (como estudiar un texto de jeet kune do para aprender un único punto de Pelea), estas cosas no pueden aprenderse de un libro o un vídeo de Internet. Si intentas una  acción  que  incluya  un  Talento  que  tu  personaje no  posee,  no  hay  penalización  a  tu  reserva  básica  de Atributo.  Los  Talentos  son  tan  intuitivos  que,  teóricamente, cualquiera puede usarlos con cierto grado de capacidad.\n\n## Alerta\n\nEs tu capacidad básica para percibir cosas que suceden a tu alrededor, incluso si no estás buscando activamente. Alerta describe la atención que prestas al mundo exterior, estés ocupado o no. Este Talento suele usarse junto con Percepción, y se utiliza principalmente para sentir estímulos físicos (en oposición a estados de ánimo o pistas).\n\n•\n\n[Novato](/vampire/flaws/novato): No eres un zángano descere- brado.\n\n••\n\nEntrenado: Cotilla habitual.\n\n•••\n\nCompetente: Mantienes un ojo avizor en tu entorno.\n\n••••\n\nExperto: Sea [sentido común](/vampire/merits/sentido-comun) o pa- ranoia, raro es que te pillen con la guardia baja.\n\n•••••\n\nMaestría: Tus sentidos están a la par con los de los animales salvajes.\n\nPoseído por: Cazadores, Guardaespaldas, Personal de Seguridad, Periodistas, Ladrones.\n\nEspecialidades: Ruidos, Escuchar a Escondidas, Detalles  Sutiles,  Armas Ocultas, Multitudes, Bosques, Animales.\n\n## Atletismo\n\nEste Talento representa tu capacidad atlética básica, así como cualquier entrenamiento que poseas en deportes u otras actividades que impliquen un esfuerzo. Abarca todas las formas de correr, saltar, lanzar, nadar, deportes y similares. No obstante, no incluye acciones motrices básicas como levantar peso, ni actividades  atléticas  englobadas en otra Habilidad (como Pelea con Armas).\n\n- [Novato](/vampire/flaws/novato): Tuviste una infancia activa.\n\n••\n\nEjercitado: Atleta de instituto.\n\n•••\n\nCompetente: Aficionado de toda la vida con talento.\n\n- •••• Experto: Atleta profesional.\n\n•••••\n\nMaestro: Medallista olímpico.\n\nPoseído por: Atletas, Aficionados al Deporte, Guardas Forestales, Deportistas, Niños.\n\nEspecialidades: Natación, Escalada, Acrobacias, Danza, Parkour, Deportes Específicos.\n\n## Callejeo\n\nLa calle puede proveer de mucha información o dinero a quienes conocen su lenguaje. Callejeo te permite mezclarte discretamente con el ambiente local, enterarte de rumores, comprender jerga o incluso iniciarte en asuntos criminales.\n\n| •     | Novato: Sabes dónde buscar.                                          |\n|-------|----------------------------------------------------------------------|\n| ••    | Ejercitado: Te has ganado respeto en la calle.                       |\n| •••   | Competente: Podrías liderar tu propia banda.                         |\n| ••••  | Experto: No tienes nada que temer ni siquiera en los peores barrios. |\n| ••••• | Maestro: Si no lo has oído, nadie lo ha dicho.                       |\n\nPoseído por: Criminales, Gente sin Hogar, Reporteros, Juerguistas, Detectives Astutos, Neonatos.\n\nEspecialidades: Bienes Robados, Drogas Ilegales, Armas Ilegales, WiFi Gratis, Bandas, Estar en la Lista de Invitados, Jerga Local.\n\n## Consciencia\n\nConsciencia es una reacción innata a la presencia de lo  sobrenatural.  Se  diferencia  de  Alerta  (que  mide  la sensibilidad a sucesos mundanos) y Ocultismo (que abarcar los conocimientos concretos sobre lo sobrenatural). Por lo general, solamente criaturas sobrenaturales tienen acceso a este Talento concreto, pero algunos mortales excepcionales sienten que hay algo extraño en el mundo (como aquéllos con [Fe Verdadera](/vampire/merits/fe-verdadera), ver pág. 372).\n\nLos personajes con Consciencia en ocasiones tienen corazonadas,  escalofríos  o  repentinos  destellos  de  inspiración cuando están cerca de criaturas, objetos o sucesos  sobrenaturales.  Esta  intuición  es  puramente  subconsciente, y saber que algo va mal no significa que el personaje sepa qué es. Para obtener información más específica, el Vástago necesitará emplear Ocultismo o un Poder particular; Consciencia sólo hace al vampiro más receptivo a la presencia de lo inusual.\n\nUn  vampiro  puede  usar  Consciencia  a  propósito  si sospecha que algo es sobrenatural, pero casi siempre el Narrador pedirá una tirada de Consciencia para determinar si un vampiro percibe un suceso extraño que no se advierta de forma inmediata.\n\n- [Novato](/vampire/flaws/novato): De vez en cuando tienes la sensación de que algo no está bien.\n- ·· Ejercitado: A veces percibes vibraciones desde cierta dirección o una zona indefinida (como un edificio).\n- ··· Competente: Puedes entrar en una habitación y saber si algo inusual sucede dentro.\n- ···· Experto: Si te concentras, puedes sentir si alguien o algo en un grupo de gente o una colección de objetos es sobrenatural.\n\n·····\n\nMaestro: Sabes instintivamente si algo o alguien es mundano o sobrenatural.\n\nPoseído por :  Psíquicos,  Seguidores de la Nueva Era, Místicos, Investigadores de lo Paranormal.\n\nEspecialidades :  Actividad Fantasmal, Objetos Místicos, Alguien Está en mi Cabeza, Desenmascarar.\n\n## Empatía\n\nEntiendes las emociones de los demás y puedes simpatizar con ellos, fingir comprensión o jugar con dichas emociones como mejor te plazca. Eres muy bueno distinguiendo motivaciones, y podrías ser capaz de discernir cuando alguien te miente. Aún así, puedes estar tan en sintonía  con  los  sentimientos  de  otros  que  tus  propias emociones se vean afectadas.\n\n- lloren sobre tu hombro.\n\n[Novato](/vampire/flaws/novato): Ocasionalmente, dejas que\n\n- ••\n\nEjercitado: A veces puedes sentir literalmente el sufrimiento de otra persona.\n\n- •••\n\nCompetente: Tienes intuiciones preci- sas de las motivaciones de los demás.\n\n••••\n\nExperto: Es casi imposible mentirte.\n\n- •••••\n\nMaestro: El alma humana no tiene secretos para ti.\n\nPoseído por: Trabajadores Sociales, Padres, Actores, Psicólogos,  Detectives,  Seductores,  Médiums,  Mejores Amigos.\n\nEspecialidades: Emociones, Intuición, Motivaciones, Ganarse la Confianza.\n\n## Expresión\n\nÉsta es tu habilidad para explicar tu punto de vista claramente, sea en una conversación, un poema o incluso en 140 caracteres o menos. Los personajes con Expresión alta pueden expresar sus opiniones o creencias de forma que  no  puedan  ser  ignoradas  (aunque  sean  erróneas  o despreciables). Podrían ser actores con talento, acostumbrados a transmitir estados de ánimo o emociones con cada gesto. Además, este Talento representa tu facilidad para la poesía, la escritura creativa u otras formas artísticas literarias. Para muchos Antiguos, Expresión es el sutil arte de crear un epigrama satírico capaz de incapacitar socialmente a un viejo rival. Para los Vástagos más jóvenes, puede ser la clave para convencer a 30 Anarquistas con estacas para reunirse en el terreno de Caza privado del Sheriff mediante el mensaje de texto adecuado. Puedes escoger una Especialidad en Expresión, incluso con menos de 4 puntos.\n\n\n\n·\n\n[Novato](/vampire/flaws/novato): Tu talento ha madurado desde los poemas en tu libreta.\n\n- ·· Ejercitado: Podrías dirigir un equipo de debate universitario.\n\n···\n\nCompetente: Podrías ser un escritor de éxito.\n\n- ···· Experto: Tu trabajo es digno de un Pulitzer.\n\n·····\n\nMaestro: Steve Jobs te pide una presentación para su próximo dispositivo móvil.\n\nPoseído  por: Actores,  Escritores,  Poetas,  Políticos, Periodistas, Personalidades de Internet, Agitadores.\n\nEspecialidades: Actuar,  Poesía,  Ficción,  Improvisación, Conversación, Medios de Comunicación.\n\n## Intimidación\n\nIntimidación puede tomar muchas formas, desde amenazas directas y violencia física a simple fuerza de personalidad. No requiere ser directo o duro, una palabra intimidante en el momento adecuado bien puede considerarse  'diplomática'  en  ciertos  círculos.  Conoces  el método correcto para cada ocasión y puedes ser muy... persuasivo.\n\n- •\n\n[Novato](/vampire/flaws/novato): Adolescente chungo.\n\n- ••\n\nEjercitado: [Matón](/vampire/merits/maton) cabeza rapada.\n\n- •••\n\nCompetente: Sargento instructor.\n\n- •••• los transeúntes.\n\nExperto: Tu aire autoritario acobarda a\n\n- ••••• Maestro: Asustas a animales violentos.\n\nPoseído por: Abusones, Anonymous , Oficiales Militares, Bravucones, Gángsters, Sabbat.\n\nEspecialidades: Amenazas Veladas, Abusar del Rango, Coacción Física, Chantaje, Internet.\n\n## Liderazgo\n\nEres un ejemplo para otros y puedes inspirarles a hacer lo que desees. Liderazgo tiene menos que ver con manipular los deseos de la gente que con presentarte como la clase de persona a la que quieren seguir. Cualquiera puede liderar un grupo hacia algún tipo de conflicto; un buen líder puede traerlos de vuelta intactos. Este Talento en general se combina más con Carisma que con Manipulación.\n\n- nes.\n\n[Novato](/vampire/flaws/novato): Capitán de tu equipo de alevi-\n\n- •• Ejercitado: Presidente estudiantil.\n\n- ••• ciente.\n\nCompetente: Director Ejecutivo efi-\n\n····\n\n·····\n\nExperto: Hecho para ser presidente. Maestro: Podrías ser el adorado dictador de una nación.\n\nPoseído  por: Políticos,  Príncipes,  Gestores,  Ejecutivos, Oficiales Militares, Policía.\n\nEspecialidades: Oratoria, Irresistible, Amistoso, Transparente, Noble, Militar, Multimedia.\n\n## Pelea\n\nEl Talento Pelea representa lo bien que luchas en las peores situaciones. Este Talento expresa la capacidad en combate sin armas, ya se haya obtenido mediante entrenamiento  formal  en  artes  marciales  o  simplemente por medio de un montón de experiencia. Los luchadores efectivos tienen una gran coordinación y son resistentes al dolor, rápidos, fuertes y crueles . La disposición a hacer lo necesario para hacer daño a tu oponente gana muchas peleas.\n\n- [Novato](/vampire/flaws/novato): Te acosaban cuando eras niño.\n- ·· Ejercitado: Has participado en alguna trifulca de bar ocasional.\n- ··· Competente: Has combatido de forma rutinaria y regular, y por lo general has terminado con mejor aspecto que tus oponentes.\n- ···· Experto: Serías un serio competidor\n\ndel circuito de Artes Marciales Mixtas.\n\n·····\n\nMaestro: En Internet hay un vídeo donde se te ve derribando a 3 hombres en 4 segundos.\n\nPoseído por: Militares, Policías, Abusones, Matones. Especialidades: Pelear Sucio, Golpes, Lanzamientos, Llaves de Sumisión, Estilos de Pelea o Artes Marciales Específicas.\n\n## Subterfugio\n\nSabes  cómo  [ocultar](/vampire/discipline-powers/ocultar)  tus  propias  motivaciones  y  proyectar las que quieres. Además, si puedes desvelar las de otros, puedes usarlas en su contra. Este Talento define tu capacidad para la intriga, los secretos y la hipocresía. La  maestría  del  Subterfugio  puede  hacerte  el  seductor definitivo o un brillante espía.\n\n- [Novato](/vampire/flaws/novato): A veces cuentas mentiras piadosas.\n\n- •• Ejercitado: Vampiro.\n\n- ••• Competente: Abogado criminalista.\n\n- •••• Experto: Agente encubierto.\n\n·····\n\nMaestro: Eres la última persona de quien alguien sospecharía.\n\nPoseído por: Políticos, Abogados, Vampiros, Adolescentes, Estafadores, Artistas del Ligue.\n\nEspecialidades: Seducción, Mentiras Impecables, Fingir Mortalidad, El Timo de la Estampita.\n\n## Talento Afición\n\nEsta  categoría  abarca  todo  que  el  Narrador  estime que se ha aprendido de forma básicamente autodidacta y sea por lo general (aunque no siempre) más práctico que intelectual. Los Narradores deberían revisar la lista de Talentos existentes para determinar si una actividad concreta ya entra dentro de una de éstos (por ejemplo, Nadar y Escalar serían Especialidades de Atletismo).\n\n- •\n\n[Novato](/vampire/flaws/novato): Acabas de empezar.\n\n- •• Ejercitado: Comprendes bien los con- ceptos básicos de tu afición.\n\n- ••• Competente: Otros practicantes te consideran bastante capaz y compe- tente.\n\n- •••• Experto: Estás familiarizado con los matices y aplicaciones de tu Talento.\n\n- ••••• Maestro: Podrías escribir un libro sobre lo que haces. Quizás ya lo has hecho.\n\nAficiones sugeridas :  Alternar, Diplomacia, Adivinación, Negociación, Gorronear.",
+  "toc": [
+    {
+      "text": "Talentos",
+      "anchor": "talentos"
+    },
+    {
+      "text": "Alerta",
+      "anchor": "alerta"
+    },
+    {
+      "text": "Atletismo",
+      "anchor": "atletismo"
+    },
+    {
+      "text": "Callejeo",
+      "anchor": "callejeo"
+    },
+    {
+      "text": "Consciencia",
+      "anchor": "consciencia"
+    },
+    {
+      "text": "Empatía",
+      "anchor": "empatia"
+    },
+    {
+      "text": "Expresión",
+      "anchor": "expresion"
+    },
+    {
+      "text": "Intimidación",
+      "anchor": "intimidacion"
+    },
+    {
+      "text": "Liderazgo",
+      "anchor": "liderazgo"
+    },
+    {
+      "text": "Pelea",
+      "anchor": "pelea"
+    },
+    {
+      "text": "Subterfugio",
+      "anchor": "subterfugio"
+    },
+    {
+      "text": "Talento Afición",
+      "anchor": "talento-aficion"
+    }
+  ],
+  "prev": {
+    "slug": "atributos",
+    "title": "Atributos"
+  },
+  "next": {
+    "slug": "habilidades-tecnicas",
+    "title": "Habilidades: Técnicas"
+  }
+}

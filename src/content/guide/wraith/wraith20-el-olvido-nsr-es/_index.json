@@ -3,7 +3,7 @@
   "line": "wraith",
   "title_es": "Wraith: El Olvido — 20.º Aniversario",
   "book_title_es": "Wraith: El Olvido — 20.º Aniversario",
-  "page_count": 94,
+  "page_count": 98,
   "tree": [
     {
       "block": "front-matter",
@@ -143,6 +143,12 @@
             {
               "slug": "capitulo-tres-reglas",
               "title": "Capítulo Tres: Reglas",
+              "part": "Capítulo Tres: Reglas",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-tres-reglas-reintentar",
+              "title": "Reintentar",
               "part": null,
               "content_type": "rule"
             }
@@ -184,6 +190,12 @@
               "slug": "capitulo-cinco-rasgos",
               "title": "Capítulo Cinco: Rasgos",
               "part": "Capítulo Cinco: Rasgos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cinco-rasgos-atributos-sociales",
+              "title": "Atributos Sociales",
+              "part": null,
               "content_type": "rule"
             },
             {
@@ -554,7 +566,13 @@
             },
             {
               "slug": "capitulo-once-los-resucitados-paso-cinco-toques-finales",
-              "title": "Paso cinco: toques finales",
+              "title": "Capítulo Once: Los Resucitados: Paso cinco: toques finales",
+              "part": "Capítulo Once: Los Resucitados",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-once-los-resucitados-entrar-en-sopor-tal-vez-sanar",
+              "title": "entrar en sopor, tal vez sanar",
               "part": null,
               "content_type": "rule"
             },
@@ -665,7 +683,13 @@
             },
             {
               "slug": "apendice-orpheus-paso-cinco-toques-finales",
-              "title": "Paso Cinco: Toques finales",
+              "title": "Apéndice: Orpheus: Paso Cinco: Toques finales",
+              "part": "Apéndice: Orpheus",
+              "content_type": "reference"
+            },
+            {
+              "slug": "apendice-orpheus-maculas",
+              "title": "Máculas",
               "part": null,
               "content_type": "reference"
             },
