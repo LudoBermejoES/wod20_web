@@ -3,7 +3,7 @@
   "line": "vampire",
   "title_es": "Vampiro: La Mascarada — Libro Básico 20.º Aniversario",
   "book_title_es": "Vampiro: La Mascarada — Libro Básico 20.º Aniversario",
-  "page_count": 100,
+  "page_count": 124,
   "tree": [
     {
       "block": "front-matter",
@@ -88,22 +88,82 @@
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-dos-sectas-y-clanes-estereotipos",
-              "title": "Estereotipos",
-              "part": null,
-              "content_type": "lore"
+              "slug": "assamita",
+              "title": "Assamita",
+              "part": "Assamita",
+              "content_type": "rule"
             },
             {
-              "slug": "capitulo-dos-sectas-y-clanes-estereotipos-2",
-              "title": "Estereotipos",
-              "part": null,
-              "content_type": "lore"
+              "slug": "brujah",
+              "title": "Brujah",
+              "part": "Brujah",
+              "content_type": "rule"
             },
             {
-              "slug": "capitulo-dos-sectas-y-clanes-estereotipos-3",
-              "title": "Estereotipos",
-              "part": null,
-              "content_type": "lore"
+              "slug": "gangrel",
+              "title": "Gangrel",
+              "part": "Gangrel",
+              "content_type": "rule"
+            },
+            {
+              "slug": "giovanni",
+              "title": "Giovanni",
+              "part": "Giovanni",
+              "content_type": "rule"
+            },
+            {
+              "slug": "lasombra",
+              "title": "Lasombra",
+              "part": "Lasombra",
+              "content_type": "rule"
+            },
+            {
+              "slug": "malkavian",
+              "title": "Malkavian",
+              "part": "Malkavian",
+              "content_type": "rule"
+            },
+            {
+              "slug": "nosferatu",
+              "title": "Nosferatu",
+              "part": "Nosferatu",
+              "content_type": "rule"
+            },
+            {
+              "slug": "ravnos",
+              "title": "Ravnos",
+              "part": "Ravnos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "seguidores-de-set",
+              "title": "Seguidores de Set",
+              "part": "Seguidores de Set",
+              "content_type": "rule"
+            },
+            {
+              "slug": "toreador",
+              "title": "Toreador",
+              "part": "Toreador",
+              "content_type": "rule"
+            },
+            {
+              "slug": "tremere",
+              "title": "Tremere",
+              "part": "Tremere",
+              "content_type": "rule"
+            },
+            {
+              "slug": "tzimisce",
+              "title": "Tzimisce",
+              "part": "Tzimisce",
+              "content_type": "rule"
+            },
+            {
+              "slug": "ventrue",
+              "title": "Ventrue",
+              "part": "Ventrue",
+              "content_type": "rule"
             }
           ]
         }
@@ -520,38 +580,122 @@
             {
               "slug": "capitulo-diez-lineas-de-sangre",
               "title": "Capítulo Diez: Líneas de Sangre",
-              "part": "Capítulo Diez: Líneas de Sangre",
-              "content_type": "lore"
-            },
-            {
-              "slug": "capitulo-diez-lineas-de-sangre-estereotipos",
-              "title": "Estereotipos",
               "part": null,
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-diez-lineas-de-sangre-estereotipos-2",
-              "title": "Estereotipos",
-              "part": null,
-              "content_type": "lore"
+              "slug": "baali",
+              "title": "Baali",
+              "part": "Baali",
+              "content_type": "rule"
             },
             {
-              "slug": "capitulo-diez-lineas-de-sangre-estereotipos-3",
-              "title": "Estereotipos",
-              "part": null,
-              "content_type": "lore"
+              "slug": "gargolas",
+              "title": "Gárgolas",
+              "part": "Gárgolas",
+              "content_type": "rule"
             },
             {
-              "slug": "capitulo-diez-lineas-de-sangre-pander",
-              "title": "Pander",
-              "part": null,
-              "content_type": "lore"
+              "slug": "heraldos-de-las-calaveras",
+              "title": "Heraldos de las Calaveras",
+              "part": "Heraldos de las Calaveras",
+              "content_type": "rule"
             },
             {
-              "slug": "capitulo-diez-lineas-de-sangre-ravnos",
-              "title": "Ravnos",
+              "slug": "hermanos-de-sangre",
+              "title": "Hermanos de Sangre",
+              "part": "Hermanos de Sangre",
+              "content_type": "rule"
+            },
+            {
+              "slug": "hijas-de-la-cacofonia",
+              "title": "Hijas de la Cacofonía",
+              "part": "Hijas de la Cacofonía",
+              "content_type": "rule"
+            },
+            {
+              "slug": "kiasyd",
+              "title": "Kiasyd",
+              "part": "Kiasyd",
+              "content_type": "rule"
+            },
+            {
+              "slug": "nagaraja",
+              "title": "Nagaraja",
+              "part": "Nagaraja",
+              "content_type": "rule"
+            },
+            {
+              "slug": "salubri",
+              "title": "Salubri",
+              "part": "Salubri",
+              "content_type": "rule"
+            },
+            {
+              "slug": "samedi",
+              "title": "Samedi",
+              "part": "Samedi",
+              "content_type": "rule"
+            },
+            {
+              "slug": "verdaderos-brujah",
+              "title": "Verdaderos Brujah",
+              "part": "Verdaderos Brujah",
+              "content_type": "rule"
+            },
+            {
+              "slug": "ahrimanes",
+              "title": "Ahrimanes",
+              "part": "Ahrimanes",
+              "content_type": "rule"
+            },
+            {
+              "slug": "anda",
+              "title": "Anda",
+              "part": "Anda",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capadocios",
+              "title": "Capadocios",
+              "part": "Capadocios",
+              "content_type": "rule"
+            },
+            {
+              "slug": "hijos-de-osiris",
+              "title": "Hijos de Osiris",
+              "part": "Hijos de Osiris",
+              "content_type": "rule"
+            },
+            {
+              "slug": "lamias",
+              "title": "Lamias",
+              "part": "Lamias",
+              "content_type": "rule"
+            },
+            {
+              "slug": "lhiannan",
+              "title": "Lhiannan",
+              "part": "Lhiannan",
+              "content_type": "rule"
+            },
+            {
+              "slug": "noiad",
+              "title": "Noiad",
+              "part": "Noiad",
+              "content_type": "rule"
+            },
+            {
+              "slug": "variaciones-de-la-sangre",
+              "title": "Variaciones de la Sangre",
+              "part": "Variaciones de la Sangre",
+              "content_type": "rule"
+            },
+            {
+              "slug": "variaciones-de-la-sangre-ventrue-antitribu",
+              "title": "Ventrue Antitribu",
               "part": null,
-              "content_type": "lore"
+              "content_type": "rule"
             },
             {
               "slug": "bardo",

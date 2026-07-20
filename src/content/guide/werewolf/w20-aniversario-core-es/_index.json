@@ -3,7 +3,7 @@
   "line": "werewolf",
   "title_es": "Hombre Lobo: El Apocalipsis — Libro Básico 20.º Aniversario",
   "book_title_es": "Hombre Lobo: El Apocalipsis — Libro Básico 20.º Aniversario",
-  "page_count": 89,
+  "page_count": 91,
   "tree": [
     {
       "block": "front-matter",
@@ -225,19 +225,31 @@
             {
               "slug": "dones-de-raza-y-auspicio",
               "title": "Dones de Raza y Auspicio",
-              "part": "Dones de Raza y Auspicio",
-              "content_type": "rule"
-            },
-            {
-              "slug": "dones-de-raza-y-auspicio-continuacion",
-              "title": "(continuación)",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "dones-de-raza-y-auspicio-continuacion-2",
-              "title": "(continuación 2)",
-              "part": null,
+              "slug": "dones-de-hominido",
+              "title": "Dones de Homínido",
+              "part": "Dones de Homínido",
+              "content_type": "rule"
+            },
+            {
+              "slug": "dones-de-metis",
+              "title": "Dones de Metis",
+              "part": "Dones de Metis",
+              "content_type": "rule"
+            },
+            {
+              "slug": "dones-de-lupus",
+              "title": "Dones de Lupus",
+              "part": "Dones de Lupus",
+              "content_type": "rule"
+            },
+            {
+              "slug": "dones-ragabash",
+              "title": "Dones Ragabash",
+              "part": "Dones Ragabash",
               "content_type": "rule"
             },
             {

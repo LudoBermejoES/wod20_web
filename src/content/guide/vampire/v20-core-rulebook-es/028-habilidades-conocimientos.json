@@ -1,0 +1,72 @@
+{
+  "book_id": "v20-core-rulebook-es",
+  "line": "vampire",
+  "order": 28,
+  "slug": "habilidades-conocimientos",
+  "block": "libro-segundo-la-conversion",
+  "block_title": "LIBRO SEGUNDO: LA CONVERSIÓN",
+  "chapter": "Capítulo Tres: Personajes y Rasgos",
+  "part": "Habilidades",
+  "section": "Conocimientos",
+  "title": "Habilidades: Conocimientos",
+  "content_type": "rule",
+  "source_line_range": [
+    3651,
+    3929
+  ],
+  "body_md": "## Conocimientos\n\nLos Conocimientos implican la aplicación de la mente, no del cuerpo. Por eso estas Habilidades casi siempre se emparejan con Rasgos Mentales (Es posible tirar Carisma + Academicismo o incluso Resistencia + Medicina, pero tales cosas son muy raras). Las siguientes descripciones  describen  los  niveles  de  los  Conocimientos en términos académicos, aunque una educación formal es sólo una de las maneras de mejorar un Conocimiento. De hecho, los Conocimientos pueden aprenderse por cuenta propia, y el Mundo de Tinieblas es hogar de gran número de autodidactas.\n\nSi no tienes ningún punto en un Conocimiento, no puedes  ni  intentar  una  tirada  que  lo  incluya  a  menos que el Narrador te dé permiso de forma explícita (como cuando afecta a temas de cultura general). Si no sabes inglés, no puedes intentar mantener una conversación in English sólo gracias al ingenio.\n\n## Academicismo\n\nEste  amplio  Conocimiento  abarca  la  erudición  en humanidades del personaje: literatura, historia, arte, filosofía y otras artes y ciencias 'liberales'. Un personaje con  puntuación  en  Academicismo  suele  estar  versado en todos estos campos, y con niveles altos podría considerarse un experto en una o más áreas de estudio. Con este  Conocimiento  puedes  no  solamente  impresionar en salones y otras reuniones del Elíseo, sino que además puedes ofrecer importantes pistas de ciertos movimientos pasados (y futuros) en la Jyhad. Si lo deseas, puedes escoger una Especialidad incluso con menos de 4 puntos.\n\n- 1492 probablemente no sea el PIN de\n\nEstudiante: Eres consciente de que una tarjeta de crédito.\n\n- ••\n\nLicenciado: Puedes citar a los clásicos, identificar grandes movimientos cultu- rales y señalar la diferencia entre Ming y Moghul.\n\n- ••• Posgraduado: Podrías publicar en una revista académica.\n\n- •••• Doctorado: Profesor Emérito.\n\n•••••\n\nErudito: Los estudiosos de todo el mundo te reconocen como uno de los mayores expertos de tu era.\n\nPoseído por: Profesores, Literatos, Blogueros Temáticos, Antiguos.\n\nEspecialidades: Postestructuralismo,  Pintura  Impresionista, Roma Imperial, Teoría del Color, Lingüística.\n\n## Ciencias\n\nTienes  como  mínimo una comprensión básica de la mayoría de las ciencias físicas, como química, biología, física y geología. Este Conocimiento puede emplearse de muchas formas prácticas. En la mayoría de los casos, un jugador debería elegir una Especialidad para reflejar el tema central de sus estudios científicos, pero no es estrictamente necesario.\n\n- de cuando hiciste secundaria.\n\nEstudiante: Sabes casi todo lo básico\n\n••\n\nLicenciado: Estás familiarizado con las teorías fundamentales.\n\n- ••• en el instituto.\n\nPosgraduado: Podrías enseñar ciencia\n\n••••\n\nDoctorado: Estás plenamente capacita- do para hacer avanzar el conocimiento en tu campo.\n\n•••••\n\nErudito: Tu premio Nobel te está espe- rando.\n\nPoseído por: Científicos, Estudiantes, Investigadores, Profesores, Ingenieros, Técnicos, Pilotos.\n\nEspecialidades: Química, Biología, Geología, Física, Astronomía.\n\n## Finanzas\n\nConoces los entresijos del comercio, desde calcular el valor relativo de un objeto a estar al día con los cambios de divisas. Este Conocimiento puede resultar increíblemente útil a la hora de negociar, hacer cálculos financieros o jugar en el mercado de valores. Niveles suficientemente altos en Finanzas te permiten incrementar tu nivel de vida a niveles muy confortables.\n\n- Estudiante: Has dado unas pocas clases de negocios.\n\n- ••\n\nLicenciado: Tienes experiencia prácti- ca y mantienes tus cuentas al día.\n\n•••\n\nPosgraduado: Serías un buen corredor de bolsa.\n\n- ••••\n\nDoctorado: Las corporaciones siguen tu liderazgo bursátil.\n\n- ••••• 20 en una fortuna millonaria.\n\nErudito: Transformarías un billete de\n\nPoseído  por: Ejecutivos,  Clase  Alta,  Corredores  de Bolsa,  Contables,  Peristas,  Narcotraficantes,  Contrabandistas.\n\nEspecialidades: Mercado de Valores, Blanqueo, Tasaciones, Divisas Extranjeras, Contabilidad, Perista, Corporaciones, Rescates del Gobierno.\n\n## Informática\n\nEste Conocimiento representa la capacidad para emplear y programar computadoras, incluyendo dispositivos portátiles. La mayoría de usos de Informática suponen también un grado de familiaridad con Internet (si no comprensión).\n\n- •\n\nEstudiante: Puedes orientarte en pantallas táctiles e Interfaces Gráficas de Usuario tradicionales de señalar y pulsar.\n\n- •• ciones e Internet.\n\nLicenciado: Sabes usar varias aplica-\n\n- •••\n\nPosgraduado: Sabes lo que hacer con una pantalla de comandos.\n\n- ••••\n\nDoctorado: Podrías ganarte la vida como consultor sin problemas.\n\n•••••\n\nErudito: Tienes todos los SDKs y comprendes las estructuras de datos de una asombrosa variedad de lenguajes de programación.\n\nPoseído  por: Hackers,  Oficinistas,  Programadores, Procesador de Datos, Estudiantes.\n\nEspecialidades: 'Los  YouTubes',  Lenguajes  de  Programación, Internet, Administrar Bases de Datos, I.H.I (Interacción Humana Informática), Virus, Programas y Dispositivos Específicos.\n\n## Investigación\n\nHas aprendido a percibir detalles que otros podrían pasar por alto y serías un gran detective. Este Conocimiento representa no sólo un buen ojo para los detalles, sino además la capacidad de hacer pesquisas y seguir pistas. Tales investigaciones pueden incluir búsquedas en Internet o formas más concretas de investigar, como rebuscar en los libros de derecho y hemerotecas en la biblioteca.\n\n- •\n\nEstudiante: Puedes analizar una amplia búsqueda de pistas por la Red.\n\n- •• Licenciado: Oficial de policía.\n\n- •••\n\nPosgraduado: Detective privado.\n\n••••\n\nDoctorado: Agente federal.\n\n•••••\n\nErudito: Sherlock Holmes.\n\nPoseído por: Detectives, Adictos al Misterio, Policías, Acosadores.\n\nEspecialidades: Ciencia Forense, Ocultación, Buscar, Decoloraciones, Búsquedas en Base de Datos.\n\n## Leyes\n\nEl Conocimiento Leyes abarca tanto los estatutos legales como los procedimientos apropiados para defen- derlos. Puede ser útil para plantear pleitos, evitar demandas o salir de la cárcel. Y lo que es más, los Vástagos poseen sus propias leyes, y más de un vampiro ha salvado su propia no-vida aprovechando hábilmente un vacío legal en una de las Tradiciones. Este Conocimiento tiene gran número de Especialidades, y un jugador puede elegir una para su personaje cuando escoge la Habilidad para representar tanto su campo de experiencia como una intuición genérica del funcionamiento del sistema legal (especialmente en su emplazamiento), aunque no es obligatorio.\n\n- Estudiante: Pagaste una multa de tráfico y sabes cuándo declararte culpable, no culpable o nolo contendere la próxima vez.\n- ·· Licenciado: Estás estudiando o acabas de pasar la oposición para abogado del Estado.\n- ··· Posgraduado: Puedes vivir ejerciendo la ley, y probablemente lo haces.\n- ···· Doctorado: Si no eres socio ya, lo serás pronto.\n\nErudito: Podrías encontrar vacíos lega-\n\n- ····· les en los contratos del diablo.\n\nPoseído  por: Abogados,  Policía,  Jueces,  Detectives, Legisladores.\n\nEspecialidades: Derecho Criminal, Pleitos, Protocolo del Juzgado, Contratos, Procedimiento Policial, Las Tradiciones, El Código de Milán.\n\n## Medicina\n\nComprendes cómo funciona el cuerpo humano (y en menor  medida  el  cuerpo  vampírico).  Esta  Habilidad abarca conocimientos de medicamentos, dolencias, primeros auxilios y diagnóstico o tratamiento de enfermedades. Es muy útil para aquellos Vástagos con interés en reparar, dañar o reformar el cuerpo humano.\n\n- Estudiante: Has hecho un curso de reanimación.\n\n- •• enfermería.\n\nLicenciado: Estudiante de medicina o\n\n- •••\n\nPosgraduado: Médico de cabecera.\n\n- •••• •••••\n\nDoctorado: Puedes realizar trasplantes. Erudito: Eres mundialmente respetado por la comunidad médica como un pionero.\n\nPoseído por: Estudiantes de Medicina, Doctores, Socorristas, Padres, Enfermeros, [Tzimisce](/vampire/clans/tzimisce).\n\nEspecialidades: Trasplantes de Órganos, Atención de Emergencia,  Tratamiento  de  Venenos,  Patología,  Fármacos, La Condición Vampírica.\n\n## Ocultismo\n\nEres conocedor de áreas de lo oculto como misticismo, maldiciones,  magia,  folclore  y,  particularmente,  cultura  vampírica. A diferencia de la mayoría de los demás Conocimientos,  Ocultismo  no  implica  un  [dominio](/vampire/backgrounds/domain)  de hechos probados. Mucho de lo que sabes bien pueden ser  rumores,  mitos,  especulaciones  o  habladurías.  Sin embargo,  los  secretos  que  se  pueden  aprender  en  este campo  suponen  siglos  de  separar  leyendas  de  hechos. Altos niveles de Ocultismo implican una profunda comprensión de la cultura vampírica, así como una buena base en otros aspectos de lo oculto. Por lo menos, puedes discernir lo que es evidentemente falso.\n\n- Estudiante: Tienes un blog sobre lo extraño y misterioso.\n\n- •• Licenciado: Parece haber alguna inquietante verdad en algunos rumores que has oído.\n\n- ••• Posgraduado: Has oído muchas cosas y has visto unas cuantas tú mismo.\n\n- •••• Doctorado: Puedes reconocer las fuentes descaradamente falsas y realizar conjeturas con fundamento sobre las demás.\n\n- ••••• básicas sobre el mundo oculto.\n\nErudito: Sabes muchas de las verdades\n\nPoseído por: Ocultistas, Supersticiosos, Fanáticos de la Nueva Era, [Tremere](/vampire/clans/tremere).\n\nEspecialidades: Cultura de la Estirpe, Rituales, Infernalismo, Brujas, Saber Nodista.\n\n## Política\n\nEstás familiarizado con la política del momento, incluyendo la gente importante y cómo llegaron al poder. Este Conocimiento puede ayudarte a tratar con o a influir a políticos mortales, o incluso ofrecer cierta comprensión de la estructura de poder Cainita local. El Conocimiento Política incluye la capacidad para orientarte de forma práctica en diversas burocracias, y asume que algunas estructuras organizadas y relaciones actuales son universales.\n\nEstudiante: Activista; puedes pagar\n\n- una multa online .\n\n··\n\nLicenciado: Especializado en ciencias políticas; sabes cómo presentar una solicitud de información.\n\n···\n\n····\n\n- ·····\n\nPosgraduado: Director de campaña o tertuliano; los funcionarios te ayudarán a sortear los formularios que necesitas completar y te dirán quién necesita los duplicados.\n\nDoctorado: Senador; «Se supone que no debemos mostrar esto a nadie sin credenciales de prensa, así que no me cites.»\n\nErudito: Podrías elegir al próximo Presidente de los Estados Unidos. «Claro, aquí están las llaves del archivo de la morgue. Apaga la luz al salir.»\n\nPoseído por: Activistas, Políticos, Abogados, Vampiros de Toda Clase.\n\nEspecialidades: Urbana, Autonómica (Estatal), Federal, Burocracia, Dogma, Radical, Camarilla.\n\n## Tecnología\n\nEl  Conocimiento  Tecnología  representa  una  amplia agudeza  con  aparatos  electrónicos, hardware y  dispositivos  más  elaborados  que  'máquinas',  que  entran  en la  Técnica  Artesanía.  Si  tiene  procesador,  transistor  o un circuito integrado (si es electrónico y no eléctrico), manipularlo  requiere  el  Conocimiento  Tecnología.  Es la amplia Habilidad usada para construir tu propia computadora, instalar (o [subvertir](/vampire/discipline-powers/subvertir)) un sistema de seguridad, reparar un teléfono móvil o modificar una radio de onda corta.  Siempre  debes  escoger  una  especialización  en Tecnología, incluso aunque poseas cierta habilidad en múltiples campos.\n\n- •\n\nEstudiante: Puedes realizar simples modificaciones o reparaciones.\n\n- ••\n\nLicenciado: Podrías vivir de ensamblar o reparar.\n\n- •••\n\nPosgraduado: Puedes diseñar nuevas tecnologías a partir de un conjunto de requisitos previos.\n\n- ••••\n\nDoctorado: Para ti no es: '¿Puede hacerse?' sino '¿ Cómo puede hacerse?'\n\n- •••••\n\nErudito: Un visionario en tu campo; das forma a cómo la gente interactúa con el\n\nmundo por medio de dispositivos.\n\nPoseído por: Ingenieros, Científicos, Contratistas de Defensa, El del Cable.\n\nEspecialidades: Telecomunicaciones, Computadoras, Seguridad,  Comunicaciones,  Soluciones  Improvisadas, Espionaje Industrial.\n\n## Conocimiento Experto\n\nComo Talento Afición y Técnica Profesional, ésta es una categoría para todo. Un Conocimiento Experto es cualquier cosa cuya naturaleza principal sea intelectual o mental y deba estudiarse. Los Narradores deberían comprobar primero la lista de Conocimientos existentes para determinar si un campo de saber podría caber en uno de ellos (por ejemplo, Ciencia Forense sería una Especialidad de Investigación).\n\n- •\n\nEstudiante: Has hecho un curso de grado o leído unos pocos libros.\n\n- ••\n\nLicenciado: Puede que tengas una diplomatura en el campo.\n\n- ••• sobre la materia.\n\nPosgraduado: Podrías tener una licen- ciatura y estar versado en lo escrito\n\n- •••• se ha escrito.\n\nDoctorado: Estás versado en lo que no\n\n••••• Erudito: Conoces los secretos ocultos de tu campo y eres una fuente fiable de información.\n\nConocimientos Expertos sugeridos : Arqueología, Teoría del Juego, Ciencia Militar, Psicología.",
+  "toc": [
+    {
+      "text": "Academicismo",
+      "anchor": "academicismo"
+    },
+    {
+      "text": "Ciencias",
+      "anchor": "ciencias"
+    },
+    {
+      "text": "Finanzas",
+      "anchor": "finanzas"
+    },
+    {
+      "text": "Informática",
+      "anchor": "informatica"
+    },
+    {
+      "text": "Investigación",
+      "anchor": "investigacion"
+    },
+    {
+      "text": "Leyes",
+      "anchor": "leyes"
+    },
+    {
+      "text": "Medicina",
+      "anchor": "medicina"
+    },
+    {
+      "text": "Ocultismo",
+      "anchor": "ocultismo"
+    },
+    {
+      "text": "Política",
+      "anchor": "politica"
+    },
+    {
+      "text": "Tecnología",
+      "anchor": "tecnologia"
+    },
+    {
+      "text": "Conocimiento Experto",
+      "anchor": "conocimiento-experto"
+    }
+  ],
+  "prev": {
+    "slug": "habilidades-tecnicas",
+    "title": "Habilidades: Técnicas"
+  },
+  "next": {
+    "slug": "trasfondos",
+    "title": "Trasfondos"
+  }
+}
