@@ -2,7 +2,6 @@
 import Layout from '../../layouts/Layout.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
 import { getCollection } from 'astro:content';
-import { bookUrl } from '../../lib/entities';
 import { typeLabelEs, typeSegment } from '../../lib/taxonomy';
 import { LINES, lineInfo } from '../../lib/lines';
 
@@ -13,19 +12,23 @@ export async function getStaticPaths() {
 const { line } = Astro.params as { line: string };
 const info = lineInfo(line)!;
 
-const books = (await getCollection('books', (entry) => entry.data.line === line)).sort((a, b) =>
-  a.data.title_es.localeCompare(b.data.title_es, 'es')
-);
-
 const entities = await getCollection('entities', (entry) => entry.data.line === line);
 const typesPresent = [...new Set(entities.map((entry) => entry.data.type))].sort((a, b) =>
   typeLabelEs(a).localeCompare(typeLabelEs(b), 'es')
 );
 
-// The per-book reading experience ("guía de lectura"), shown only for lines that
-// have one (add-reading-* rollouts). It's the legible way to read the books.
-const guideBooks = await getCollection('guideBooks', (entry) => entry.data.line === line);
-const hasGuide = guideBooks.length > 0;
+// Books = the per-book reading sites ("guía de lectura"), the canonical book view
+// (the old flat /libros/ view was retired). Reading order: corebook first, then a
+// natural title sort so numbered "Parte N" series stay sequential.
+const isCore = (id: string) => /core|rulebook|manual-basico|nucleo|b[aá]sico/i.test(id);
+const readingBooks = (await getCollection('guideBooks', (e) => e.data.line === line))
+  .map((b) => b.data)
+  .sort((a, b) => {
+    const ca = isCore(a.book_id), cb = isCore(b.book_id);
+    if (ca !== cb) return ca ? -1 : 1;
+    return a.book_title_es.localeCompare(b.book_title_es, 'es', { numeric: true });
+  });
+const hasGuide = readingBooks.length > 0;
 ---
 
 <Layout title={`${info.nombre}: ${info.subtitulo} — Base de conocimiento`} theme={line}>
@@ -40,8 +43,8 @@ const hasGuide = guideBooks.length > 0;
         <span class="cta-kicker">Guía de lectura</span>
         <span class="cta-title">Lee los libros, reorganizados para leer</span>
         <span class="cta-desc">
-          {guideBooks.length} {guideBooks.length === 1 ? 'libro' : 'libros'} en un sitio legible por libro — con
-          estructura, navegación y tipografía cuidada. →
+          {readingBooks.length} {readingBooks.length === 1 ? 'libro' : 'libros'} en un sitio legible por libro —
+          con estructura, navegación y tipografía cuidada. →
         </span>
       </a>
     )
@@ -50,9 +53,9 @@ const hasGuide = guideBooks.length > 0;
   <h2>Libros</h2>
   <ul class="list">
     {
-      books.map((book) => (
+      readingBooks.map((book) => (
         <li>
-          <a href={bookUrl(line, book.data.book_id)}>{book.data.title_es}</a>
+          <a href={`/${line}/guia/${book.book_id}`}>{book.book_title_es}</a>
         </li>
       ))
     }

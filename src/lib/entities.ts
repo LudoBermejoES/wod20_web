@@ -11,5 +11,7 @@ export function lineUrl(line: string): string {
 }
 
 export function bookUrl(line: string, bookId: string): string {
-  return `/${line}/libros/${bookId}`;
+  // The canonical book view is now the per-book reading site ("guía"); the flat
+  // /libros/ view was retired.
+  return `/${line}/guia/${bookId}`;
 }

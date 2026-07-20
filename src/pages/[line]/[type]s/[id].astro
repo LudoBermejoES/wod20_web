@@ -29,15 +29,17 @@ const info = lineInfo(line)!;
 const { entity } = Astro.props;
 const label = typeLabelEs(entity.type);
 
-// Best-effort cross-link back to the reading section this entity was
-// extracted from (reading <-> reference, via `defines_entities`).
+// Best-effort cross-link back to the book this entity was extracted from
+// (reading <-> reference, via `defines_entities`). Points at the book's reading
+// site ("guía"); the precise section anchor is dropped because the retired flat
+// /libros/ view was its target and the guide paginates content differently.
 const books = await getCollection('books', (entry) => entry.data.line === entity.line);
 let sourceSectionHref: string | undefined;
 outer: for (const book of books) {
   for (const chapter of book.data.chapters) {
     for (const section of chapter.sections) {
       if (section.defines_entities?.includes(entity.id)) {
-        sourceSectionHref = `${bookUrl(entity.line, book.data.book_id)}#${section.anchor}`;
+        sourceSectionHref = bookUrl(entity.line, book.data.book_id);
         break outer;
       }
     }
