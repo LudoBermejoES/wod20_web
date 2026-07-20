@@ -20,6 +20,8 @@ export interface Props {
 }
 const { entity } = Astro.props;
 const href = entityUrl(entity.line, entity.type, entity.id);
+// Space-separated book ids for the origin filter (an entity may have several).
+const originTokens = [...new Set(entity.sources.map((s) => s.book_id))].join(' ');
 
 // A card shows a short PLAIN-TEXT summary, not raw Markdown: drop tables and
 // Markdown syntax, then truncate. The full, rendered body lives on the detail page.
@@ -37,7 +39,7 @@ function plainExcerpt(md: string, max = 220): string {
 const excerpt = entity.body_es ? plainExcerpt(entity.body_es) : '';
 ---
 
-<article class="entity-card">
+<article class="entity-card" data-origins={originTokens}>
   <p class="type-badge">{typeLabelEs(entity.type)}</p>
   <h3><a href={href}>{entity.name_es}</a></h3>
   {excerpt && <p class="excerpt">{excerpt}</p>}

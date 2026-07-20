@@ -51,6 +51,30 @@ const grouped =
           : []),
       ]
     : [{ category: undefined, items: entities }];
+
+// Origin filter (zero-JS, CSS `:has()` + radios). Distinct source books present
+// on this page, with a per-book count; a radio per origin hides non-matching
+// cards (and empty category sections) via generated CSS rules.
+const originCount = new Map<string, { title: string; n: number }>();
+for (const e of entities) {
+  for (const bid of new Set(e.sources.map((s) => s.book_id))) {
+    const title = e.sources.find((s) => s.book_id === bid)?.book_title_es ?? bid;
+    const cur = originCount.get(bid) ?? { title, n: 0 };
+    cur.n += 1;
+    originCount.set(bid, cur);
+  }
+}
+const origins = [...originCount.entries()]
+  .map(([id, v]) => ({ id, title: v.title, n: v.n }))
+  .sort((a, b) => a.title.localeCompare(b.title, 'es'));
+// Generated CSS: for each origin, when its radio is checked, hide cards that
+// don't carry that origin and any category section left with no visible card.
+const filterCss = origins
+  .map(
+    (o) => `.type-list:has(#f-${o.id}:checked) .entity-card:not([data-origins~="${o.id}"]){display:none}
+.type-list:has(#f-${o.id}:checked) .grp:not(:has(.entity-card[data-origins~="${o.id}"])){display:none}`
+  )
+  .join('\n');
 ---
 
 <Layout title={`${label} — ${info.nombre}`} theme={line}>
@@ -71,18 +95,38 @@ const grouped =
     )
   }
 
-  {
-    grouped.map(({ category, items }) => (
-      <section>
-        {category && <h2 id={`cat-${category}`}>{category}</h2>}
-        <div class="entity-grid">
-          {items.map((entity) => (
-            <EntityCard entity={entity} />
+  <div class="type-list">
+    {
+      origins.length > 1 && (
+        <fieldset class="origin-filter">
+          <legend>Filtrar por origen</legend>
+          <input type="radio" name="origin" id="f-all" checked />
+          <label for="f-all">Todos ({entities.length})</label>
+          {origins.map((o) => (
+            <>
+              <input type="radio" name="origin" id={`f-${o.id}`} />
+              <label for={`f-${o.id}`}>{o.title} ({o.n})</label>
+            </>
           ))}
-        </div>
-      </section>
-    ))
-  }
+        </fieldset>
+      )
+    }
+
+    {
+      grouped.map(({ category, items }) => (
+        <section class="grp">
+          {category && <h2 id={`cat-${category}`}>{category}</h2>}
+          <div class="entity-grid">
+            {items.map((entity) => (
+              <EntityCard entity={entity} />
+            ))}
+          </div>
+        </section>
+      ))
+    }
+  </div>
+
+  {origins.length > 1 && <style set:html={filterCss} />}
 
   <style>
     .category-jump {
@@ -97,6 +141,51 @@ const grouped =
       grid-template-columns: repeat(auto-fill, minmax(min(100%, 20rem), 1fr));
       gap: var(--space-3);
       margin-block: var(--space-3) var(--space-5);
+    }
+    .origin-filter {
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 0.5rem 0.75rem;
+      margin-block: var(--space-3);
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      align-items: baseline;
+    }
+    .origin-filter legend {
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--muted);
+      padding: 0 0.3rem;
+    }
+    /* Hide the radios; the labels are the clickable pills. */
+    .origin-filter input[type='radio'] {
+      position: absolute;
+      opacity: 0;
+      pointer-events: none;
+    }
+    .origin-filter label {
+      font-size: 0.85rem;
+      padding: 0.15em 0.7em;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      cursor: pointer;
+      color: var(--muted);
+      user-select: none;
+    }
+    .origin-filter label:hover {
+      border-color: var(--accent, currentColor);
+    }
+    /* The checked radio's label lights up (adjacent-sibling selector). */
+    .origin-filter input[type='radio']:checked + label {
+      background: var(--accent, var(--fg));
+      color: var(--bg);
+      border-color: var(--accent, var(--fg));
+    }
+    .origin-filter input[type='radio']:focus-visible + label {
+      outline: 2px solid var(--accent, currentColor);
+      outline-offset: 2px;
     }
   </style>
 </Layout>
