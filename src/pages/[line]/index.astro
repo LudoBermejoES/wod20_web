@@ -21,6 +21,11 @@ const entities = await getCollection('entities', (entry) => entry.data.line === 
 const typesPresent = [...new Set(entities.map((entry) => entry.data.type))].sort((a, b) =>
   typeLabelEs(a).localeCompare(typeLabelEs(b), 'es')
 );
+
+// The per-book reading experience ("guía de lectura"), shown only for lines that
+// have one (add-reading-* rollouts). It's the legible way to read the books.
+const guideBooks = await getCollection('guideBooks', (entry) => entry.data.line === line);
+const hasGuide = guideBooks.length > 0;
 ---
 
 <Layout title={`${info.nombre}: ${info.subtitulo} — Base de conocimiento`} theme={line}>
@@ -28,6 +33,19 @@ const typesPresent = [...new Set(entities.map((entry) => entry.data.type))].sort
 
   <h1>{info.nombre}: {info.subtitulo}</h1>
   <p>Manuales y referencia de reglas de la 20.ª edición aniversario, en español.</p>
+
+  {
+    hasGuide && (
+      <a class="guide-cta" href={`/${line}/guia/`}>
+        <span class="cta-kicker">Guía de lectura</span>
+        <span class="cta-title">Lee los libros, reorganizados para leer</span>
+        <span class="cta-desc">
+          {guideBooks.length} {guideBooks.length === 1 ? 'libro' : 'libros'} en un sitio legible por libro — con
+          estructura, navegación y tipografía cuidada. →
+        </span>
+      </a>
+    )
+  }
 
   <h2>Libros</h2>
   <ul class="list">
@@ -79,6 +97,44 @@ const typesPresent = [...new Set(entities.map((entry) => entry.data.type))].sort
     }
     .list a:hover {
       text-decoration: underline;
+    }
+
+    /* The reading-guide call-to-action: the primary way into the books, so it
+       reads as a featured panel rather than another list item. */
+    .guide-cta {
+      display: block;
+      max-width: var(--measure);
+      margin: 1.5rem 0 2rem;
+      padding: 1.1rem 1.3rem;
+      border: 1px solid var(--accent);
+      border-radius: var(--radius);
+      background: color-mix(in oklab, var(--accent) 8%, var(--bg-elevated));
+      text-decoration: none;
+      color: var(--fg);
+    }
+    .guide-cta:hover {
+      background: color-mix(in oklab, var(--accent) 14%, var(--bg-elevated));
+    }
+    .cta-kicker {
+      display: block;
+      font-family: var(--font-sans);
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--accent);
+    }
+    .cta-title {
+      display: block;
+      margin-top: 0.35em;
+      font-size: 1.2rem;
+      font-weight: 700;
+    }
+    .cta-desc {
+      display: block;
+      margin-top: 0.35em;
+      font-size: 0.92rem;
+      color: var(--muted);
     }
   </style>
 </Layout>
