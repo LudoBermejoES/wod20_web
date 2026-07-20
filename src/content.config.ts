@@ -42,6 +42,17 @@ const entitySchema = z
     sources: z.array(sourceSchema).min(1),
     related: z.array(z.string()).default([]),
     review: reviewSchema,
+    // Faction-specific alternate mechanics (e.g. the Technocracy Reloaded take),
+    // kept alongside the standard version rather than flagged as a conflict.
+    variants: z
+      .array(
+        z.object({
+          label: z.string(),
+          mechanics: z.record(z.string(), z.unknown()).default({}),
+          sources: z.array(z.string()).default([]),
+        })
+      )
+      .optional(),
   })
   // entity.schema.json declares `additionalProperties: true`.
   .loose();

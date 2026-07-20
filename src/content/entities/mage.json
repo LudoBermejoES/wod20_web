@@ -11363,6 +11363,23 @@
         "book_title_es": "M20 Technocracy Reloaded"
       }
     ],
+    "variants": [
+      {
+        "label": "Tecnocracia (Technocracy Reloaded)",
+        "mechanics": {
+          "focus_element": "practice",
+          "convention": "Iteración X",
+          "instruments": [
+            "armas",
+            "técnicas de meditación especializadas",
+            "regímenes de entrenamiento"
+          ]
+        },
+        "sources": [
+          "m20-technocracy-reloaded"
+        ]
+      }
+    ],
     "review": {
       "reason": "mechanics differ across sources",
       "conflicts": [
@@ -11392,20 +11409,6 @@
             ],
             "habilidades_asociadas": "Acrobacias, Alerta, Artes Marciales, Atletismo, Consciencia, Esoterismo, Etiqueta, Intimidación, Medicina, Meditación, Pelea con Armas",
             "instrumentos_comunes": "Armas, danzas y movimiento, energía, ejercicio físico, hierbas, meditación, ordalías y esfuerzos, símbolos, varas y varitas, voz"
-          }
-        },
-        {
-          "sources": [
-            "m20-technocracy-reloaded"
-          ],
-          "mechanics": {
-            "focus_element": "practice",
-            "convention": "Iteración X",
-            "instruments": [
-              "armas",
-              "técnicas de meditación especializadas",
-              "regímenes de entrenamiento"
-            ]
           }
         }
       ]
@@ -17033,45 +17036,26 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "paradigmas_asociados": [
-              "Un Cosmos Mecánico",
-              "La Creación Es Divina y Está Viva",
-              "Un Mundo de Dioses y Monstruos",
-              "Orden Divino y Caos Terrenal",
-              "El Poder Da la Razón",
-              "La Tecnología Tiene Todas las Respuestas",
-              "Todo Es una Ilusión, una Prisión o un Error",
-              "Todo Está Bien: ¡Ten Fe!",
-              "Traer de Vuelta la Edad Dorada"
-            ],
-            "habilidades_asociadas": "Academicismo, Armas de Energía, Arte, Artesanía, Ciencias, Documentación, Esoterismo (Geometría Sagrada, Matemática Cuántica, Pactos Elementales, Cultura de la Piedra y del Metal), Hipertecnología, Informática, Tecnología",
-            "instrumentos_comunes": "Armas (martillos, espadas, hoces, pistolas, etc.), artilugios, computadoras y equipo informático, dispositivos y máquinas, elementos, herramientas domésticas y de talla, laboratorios y talleres, libros, obras de arte, sangre, símbolos"
-          }
-        },
-        {
-          "sources": [
-            "m20-technocracy-reloaded"
-          ],
-          "mechanics": {
-            "focus_element": "practice",
-            "convention": "Iteración X",
-            "instruments": [
-              "ordenadores",
-              "libros",
-              "armas",
-              "herramientas físicas"
-            ]
-          }
-        }
-      ]
+      "reason": "Heading '## Artesanía' missing in source extraction; text was appended to the previous 'Artes marciales' section. section_anchor set to nearest surviving heading."
     },
+    "variants": [
+      {
+        "label": "Tecnocracia (Technocracy Reloaded)",
+        "mechanics": {
+          "focus_element": "practice",
+          "convention": "Iteración X",
+          "instruments": [
+            "ordenadores",
+            "libros",
+            "armas",
+            "herramientas físicas"
+          ]
+        },
+        "sources": [
+          "m20-technocracy-reloaded"
+        ]
+      }
+    ],
     "edges": [],
     "related": []
   },
@@ -17460,42 +17444,22 @@
         "section_anchor": "supervisor-elizabeth-betsy-horne"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "paradigmas_asociados": [
-              "Un Cosmos Mecánico",
-              "Un Mundo de Dioses y Monstruos",
-              "Orden Divino y Caos Terrenal",
-              "El Poder Da la Razón",
-              "La Tecnología Tiene Todas las Respuestas",
-              "Todo Es Caos",
-              "Todo Es Datos"
-            ],
-            "habilidades_asociadas": "Academicismo, Artesanía, Ciencias, Documentación, Hipertecnología, Informática, Investigación, Medicina, Tecnología",
-            "instrumentos_comunes": "Computadoras, dispositivos y máquinas, escritura, herramientas domésticas, interfaz cerebro-computadora, invenciones, laboratorios, libros, nanotecnología, y las diversas herramientas de la tecnología avanzada"
-          }
+    "variants": [
+      {
+        "label": "Tecnocracia (Technocracy Reloaded)",
+        "mechanics": {
+          "focus_element": "practice",
+          "convention": "Iteración X",
+          "instruments": [
+            "ordenadores",
+            "dispositivos de laboratorio"
+          ]
         },
-        {
-          "sources": [
-            "m20-technocracy-reloaded"
-          ],
-          "mechanics": {
-            "focus_element": "practice",
-            "convention": "Iteración X",
-            "instruments": [
-              "ordenadores",
-              "dispositivos de laboratorio"
-            ]
-          }
-        }
-      ]
-    },
+        "sources": [
+          "m20-technocracy-reloaded"
+        ]
+      }
+    ],
     "edges": [],
     "related": []
   },
@@ -29030,28 +28994,18 @@
         "book_title_es": "M20 Technocracy Reloaded"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-libro-de-los-secretos"
-          ],
-          "mechanics": {
-            "associated_practices": "Brujería (en sus formas más nuevas), cibernética, ciencia extraña, hackeo de la realidad, hipertecnología, Magia del caos, sabiduría loca, yoga (igual)."
-          }
+    "variants": [
+      {
+        "label": "Tecnocracia (Technocracy Reloaded)",
+        "mechanics": {
+          "focus_element": "paradigm",
+          "convention": "Iteración X"
         },
-        {
-          "sources": [
-            "m20-technocracy-reloaded"
-          ],
-          "mechanics": {
-            "focus_element": "paradigm",
-            "convention": "Iteración X"
-          }
-        }
-      ]
-    },
+        "sources": [
+          "m20-technocracy-reloaded"
+        ]
+      }
+    ],
     "edges": [],
     "related": []
   },
@@ -29334,33 +29288,21 @@
         "book_title_es": "M20 Technocracy Reloaded"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-libro-de-los-secretos"
-          ],
-          "mechanics": {
-            "associated_paradigms": "La Consciencia es la Única Realidad Verdadera, ¡NO Somos Hombres!, El Poder Da la Razón, La Sabiduría Ancestral es la Clave, Todo Es Datos, Todo Es una Ilusión, una Prisión o un Error, Todo Está Bien: ¡Ten Fe!, Trascender tus Límites.",
-            "associated_abilities": "Alerta, Artes Marciales, Consciencia, Empatía, Enigmas, Esoterismo (Fenómenos Psíquicos, Thelema, Teosofía, Yoga), Intimidación, Meditación, Sueño Lúcido.",
-            "common_instruments": "administración y RR.HH. (que combinan influencia mental con actividad social), contacto visual, danzas y movimiento (como se describía antes), dispositivos y máquinas, y nanotecnología (todas las cuales mejoran el potencial psíquico), dominación social, drogas (de nuevo, como en la película Lucy), ejercicio físico, energía, escritura, inscripciones y runas (de nuevo, para enfocar intenciones y darles forma), fórmulas y matemáticas, números y numerología (todas las cuales pueden usarse para enfocar la mente), formas de pensamiento y nombres verdaderos (para 'dar forma a las propias intenciones'), interfaz cerebro-computadora, lenguas (sobre todo modos de habla que 'recableen la mente', como la programación neurolingüística, la comunicación no violenta y glosolalia), meditación, moda ('viste como desees sentirte'), naipes e instrumentos de azar, ritos grupales, y música (todas ellas también ayudan a concentrarse), sexo y sensualidad (usadas en el tantra y algunas formas de Altos Rituales como herramientas para expandir la consciencia y vincularse con otras almas), símbolos (empleados para concentrarse), voz y vocalizaciones (cánticos y mantras)."
-          }
+    "variants": [
+      {
+        "label": "Tecnocracia (Technocracy Reloaded)",
+        "mechanics": {
+          "focus_element": "practice",
+          "convention": "Iteración X",
+          "instruments": [
+            "disciplina mental"
+          ]
         },
-        {
-          "sources": [
-            "m20-technocracy-reloaded"
-          ],
-          "mechanics": {
-            "focus_element": "practice",
-            "convention": "Iteración X",
-            "instruments": [
-              "disciplina mental"
-            ]
-          }
-        }
-      ]
-    },
+        "sources": [
+          "m20-technocracy-reloaded"
+        ]
+      }
+    ],
     "edges": [],
     "related": []
   },
@@ -34718,7 +34660,8 @@
     "tags": [
       "technocracy",
       "iteracion-x",
-      "focus-paradigm"
+      "focus-paradigm",
+      "tecnocracia"
     ],
     "mechanics": {
       "focus_element": "paradigm",
@@ -34747,7 +34690,8 @@
       "technocracy",
       "iteracion-x",
       "focus-practice",
-      "transhumanismo"
+      "transhumanismo",
+      "tecnocracia"
     ],
     "mechanics": {
       "focus_element": "practice",
@@ -34820,7 +34764,8 @@
     "tags": [
       "technocracy",
       "iteracion-x",
-      "focus-practice"
+      "focus-practice",
+      "tecnocracia"
     ],
     "mechanics": {
       "focus_element": "practice",
@@ -34854,7 +34799,8 @@
     "tags": [
       "technocracy",
       "new-world-order",
-      "progenitors"
+      "progenitors",
+      "tecnocracia"
     ],
     "mechanics": {},
     "sources": [
@@ -34878,7 +34824,8 @@
     "tags": [
       "technocracy",
       "new-world-order",
-      "progenitors"
+      "progenitors",
+      "tecnocracia"
     ],
     "mechanics": {},
     "sources": [
@@ -34901,7 +34848,8 @@
     "body_es": "Progenitores: «algunos Progenitores se suscriben a los paradigmas de que Todo es una Ilusión y/o Datos, citando su capacidad para hackear sus propios cuerpos o los de otros como prueba de que todo es mutable, y de que nada es verdaderamente real. Estos operativos no se esfuerzan por entender el mundo que los rodea, sino por moldear la ilusión a su propia imagen. La Iluminación, entonces, no consiste solo en la aceptación, sino en su control absoluto sobre la ilusión.»",
     "tags": [
       "technocracy",
-      "progenitors"
+      "progenitors",
+      "tecnocracia"
     ],
     "mechanics": {},
     "sources": [
