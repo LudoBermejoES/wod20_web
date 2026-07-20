@@ -2,6 +2,7 @@ import { defineCollection } from 'astro:content';
 import { z } from 'astro/zod';
 import { booksLoader } from './lib/loaders/books-loader';
 import { entitiesLoader } from './lib/loaders/entities-loader';
+import { guidePagesLoader, guideBooksLoader } from './lib/loaders/guide-loader';
 
 // Shared across both collections: the six game lines plus "shared" rules that
 // don't belong to a single line (mirrors entity.schema.json / reading.schema.json).
@@ -101,4 +102,51 @@ const entities = defineCollection({
   schema: entitySchema,
 });
 
-export const collections = { books, entities };
+// --- guide (per-book reading site) ----------------------------------------
+const guideTocEntry = z.object({ text: z.string(), anchor: z.string() });
+const guideNavPage = z.object({
+  slug: z.string(),
+  title: z.string(),
+  part: z.string().nullable().optional(),
+  content_type: z.string(),
+});
+const guidePages = defineCollection({
+  loader: guidePagesLoader(),
+  schema: z.object({
+    book_id: z.string(),
+    line: lineSchema,
+    order: z.number().int(),
+    slug: z.string(),
+    block: z.string(),
+    block_title: z.string(),
+    chapter: z.string().nullable().optional(),
+    part: z.string().nullable().optional(),
+    title: z.string(),
+    content_type: z.string(),
+    source_line_range: z.array(z.number().int()).length(2),
+    body_md: z.string(),
+    body_html: z.string(),
+    toc: z.array(guideTocEntry).default([]),
+    prev: z.object({ slug: z.string(), title: z.string() }).nullable().optional(),
+    next: z.object({ slug: z.string(), title: z.string() }).nullable().optional(),
+  }),
+});
+const guideBooks = defineCollection({
+  loader: guideBooksLoader(),
+  schema: z.object({
+    book_id: z.string(),
+    line: lineSchema,
+    title_es: z.string(),
+    book_title_es: z.string(),
+    page_count: z.number().int(),
+    tree: z.array(
+      z.object({
+        block: z.string(),
+        block_title: z.string(),
+        chapters: z.array(z.object({ chapter: z.string(), pages: z.array(guideNavPage) })),
+      })
+    ),
+  }),
+});
+
+export const collections = { books, entities, guidePages, guideBooks };

@@ -1,0 +1,133 @@
+---
+// A single reading page of the per-book guide (add-book-reading-experience 3.2/3.4).
+import { getCollection } from 'astro:content';
+import Layout from '../../../../layouts/Layout.astro';
+import Breadcrumb from '../../../../components/Breadcrumb.astro';
+import GuideSidebar from '../../../../components/GuideSidebar.astro';
+import { lineUrl } from '../../../../lib/entities';
+import { lineInfo } from '../../../../lib/lines';
+
+export async function getStaticPaths() {
+  const [pages, books] = [await getCollection('guidePages'), await getCollection('guideBooks')];
+  const treeByBook = new Map(books.map((b) => [`${b.data.line}/${b.data.book_id}`, b.data]));
+  return pages.map((p) => ({
+    params: { line: p.data.line, book: p.data.book_id, slug: p.data.slug },
+    props: { page: p.data, book: treeByBook.get(`${p.data.line}/${p.data.book_id}`)! },
+  }));
+}
+
+type GuideBook = Awaited<ReturnType<typeof getCollection<'guideBooks'>>>[number]['data'];
+export interface Props { page: any; book: GuideBook }
+
+const { line, book } = Astro.params as { line: string; book: string };
+const info = lineInfo(line)!;
+const { page, book: bookMeta } = Astro.props as Props;
+const base = `/${line}/guia/${book}`;
+const isFiction = page.content_type === 'fiction';
+---
+
+<Layout title={`${page.title} — ${bookMeta.book_title_es}`} theme={line}>
+  <div class="guide-shell">
+    <aside class="rail">
+      <GuideSidebar
+        line={line}
+        book={book}
+        tree={bookMeta.tree}
+        currentSlug={page.slug}
+        bookTitle={bookMeta.book_title_es}
+      />
+    </aside>
+
+    <main class="reading">
+      <Breadcrumb
+        items={[
+          { label: 'Inicio', href: '/' },
+          { label: info.nombre, href: lineUrl(line) },
+          { label: bookMeta.book_title_es, href: base },
+          ...(page.block_title ? [{ label: page.block_title }] : []),
+          ...(page.chapter && page.chapter !== '—' ? [{ label: page.chapter }] : []),
+          { label: page.title },
+        ]}
+      />
+
+      <article class={`prose reading-body${isFiction ? ' is-fiction' : ''}`} data-content-type={page.content_type}>
+        <header class="page-head">
+          {isFiction && <p class="kicker">Ficción</p>}
+          <h1>{page.title}</h1>
+        </header>
+
+        {
+          page.toc.length > 2 && (
+            <nav class="in-page-toc" aria-label="En esta página">
+              <p>En esta página</p>
+              <ul>
+                {page.toc.map((t: { text: string; anchor: string }) => (
+                  <li><a href={`#${t.anchor}`}>{t.text}</a></li>
+                ))}
+              </ul>
+            </nav>
+          )
+        }
+
+        <Fragment set:html={page.body_html} />
+      </article>
+
+      <nav class="prev-next" aria-label="Navegación de lectura">
+        {page.prev ? <a class="pn prev" href={`${base}/${page.prev.slug}`}>← {page.prev.title}</a> : <span />}
+        {page.next ? <a class="pn next" href={`${base}/${page.next.slug}`}>{page.next.title} →</a> : <span />}
+      </nav>
+    </main>
+  </div>
+
+  <style>
+    .guide-shell {
+      display: grid;
+      grid-template-columns: minmax(0, 16rem) minmax(0, 1fr);
+      gap: var(--space-5);
+      align-items: start;
+    }
+    .rail { position: sticky; top: var(--space-3); max-height: calc(100vh - 2rem); overflow-y: auto; }
+    .reading { min-width: 0; }
+    .reading-body { max-width: 66ch; }
+    .page-head { margin-bottom: var(--space-4); }
+    .kicker {
+      margin: 0;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--accent, var(--muted));
+    }
+    /* Fiction reads distinctly from rules (placeholder until 4.x design direction). */
+    .is-fiction {
+      font-style: italic;
+      border-left: 3px solid var(--accent, var(--border));
+      padding-left: var(--space-4);
+      color: var(--fg);
+    }
+    .in-page-toc {
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 0.5rem 1rem;
+      margin-block: var(--space-3);
+      font-size: 0.9rem;
+    }
+    .in-page-toc p { margin: 0 0 0.25rem; font-weight: 600; }
+    .in-page-toc ul { margin: 0; columns: 2; }
+    @media (max-width: 40rem) { .in-page-toc ul { columns: 1; } }
+    .prev-next {
+      display: flex;
+      justify-content: space-between;
+      gap: var(--space-3);
+      margin-top: var(--space-5);
+      padding-top: var(--space-3);
+      border-top: 1px solid var(--border);
+    }
+    .pn { text-decoration: none; color: var(--muted); max-width: 45%; }
+    .pn:hover { color: var(--fg); }
+    .pn.next { text-align: right; margin-left: auto; }
+    @media (max-width: 55rem) {
+      .guide-shell { grid-template-columns: 1fr; }
+      .rail { position: static; max-height: none; border-bottom: 1px solid var(--border); padding-bottom: var(--space-3); }
+    }
+  </style>
+</Layout>

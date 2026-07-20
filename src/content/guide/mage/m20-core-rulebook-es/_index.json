@@ -1,0 +1,420 @@
+{
+  "book_id": "m20-core-rulebook-es",
+  "line": "mage",
+  "title_es": "Mago: La Ascensión — Libro Básico 20.º Aniversario",
+  "book_title_es": "M20 Core Rulebook (ES)",
+  "page_count": 49,
+  "tree": [
+    {
+      "block": "front-matter",
+      "block_title": "Portada y créditos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos-y-edicion",
+              "title": "Créditos y edición",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "Preludio",
+          "pages": [
+            {
+              "slug": "preludio-no-hay-temor-para-el-despertado",
+              "title": "Preludio: No hay temor para el Despertado",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        },
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "el-arte-del-cambio",
+              "title": "El Arte del Cambio",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "glosario",
+              "title": "Glosario",
+              "part": null,
+              "content_type": "glossary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "libro-i-despierta",
+      "block_title": "LIBRO I: DESPIERTA",
+      "chapters": [
+        {
+          "chapter": "Capítulo Uno: La Senda del Mago",
+          "pages": [
+            {
+              "slug": "capitulo-uno-la-senda-del-mago",
+              "title": "Capítulo Uno: La Senda del Mago",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Dos: Magia El Arte de la Realidad",
+          "pages": [
+            {
+              "slug": "capitulo-dos-magia-el-arte-de-la-realidad",
+              "title": "Capítulo Dos: Magia El Arte de la Realidad",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Tres: El Mundo de Sombras",
+          "pages": [
+            {
+              "slug": "capitulo-tres-el-mundo-de-sombras",
+              "title": "Capítulo Tres: El Mundo de Sombras",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Cuatro: Los Mundos Más Allá",
+          "pages": [
+            {
+              "slug": "capitulo-cuatro-los-mundos-mas-alla",
+              "title": "Capítulo Cuatro: Los Mundos Más Allá",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "libro-ii-cree",
+      "block_title": "LIBRO II: CREE",
+      "chapters": [
+        {
+          "chapter": "Capítulo Cinco: Guerreros de la Ascensión",
+          "pages": [
+            {
+              "slug": "capitulo-cinco-guerreros-de-la-ascension",
+              "title": "Capítulo Cinco: Guerreros de la Ascensión",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-i-una-historia-de-los-despertados",
+              "title": "Parte I: Una historia de los Despertados",
+              "part": "Parte I: Una historia de los Despertados",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-ii-el-concilio-de-las-nueve-tradiciones-misticas",
+              "title": "Parte II: El Concilio de las Nueve Tradiciones Místicas",
+              "part": "Parte II: El Concilio de las Nueve Tradiciones Místicas",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iii-la-union-tecnocratica",
+              "title": "Parte III: La Unión Tecnocrática",
+              "part": "Parte III: La Unión Tecnocrática",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iv-los-dispares",
+              "title": "Parte IV: Los Dispares",
+              "part": "Parte IV: Los Dispares",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-v-los-caidos",
+              "title": "Parte V: Los Caídos",
+              "part": "Parte V: Los Caídos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-los-locos",
+              "title": "Parte ?*!: Los Locos",
+              "part": "Parte ?*!: Los Locos",
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Seis: Creación de Personajes",
+          "pages": [
+            {
+              "slug": "capitulo-seis-creacion-de-personajes",
+              "title": "Capítulo Seis: Creación de Personajes",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-i-crear-tu-personaje",
+              "title": "Parte I: Crear tu personaje",
+              "part": "Parte I: Crear tu personaje",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-ii-rasgos-de-personajes",
+              "title": "Parte II: Rasgos de personajes",
+              "part": "Parte II: Rasgos de personajes",
+              "content_type": "rule"
+            },
+            {
+              "slug": "atributos",
+              "title": "Atributos",
+              "part": "Atributos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "habilidades",
+              "title": "Habilidades",
+              "part": "Habilidades",
+              "content_type": "rule"
+            },
+            {
+              "slug": "trasfondos",
+              "title": "Trasfondos",
+              "part": "Trasfondos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iii-progreso-del-personaje",
+              "title": "Parte III: Progreso del personaje",
+              "part": "Parte III: Progreso del personaje",
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Siete: Contar la Historia",
+          "pages": [
+            {
+              "slug": "capitulo-siete-contar-la-historia",
+              "title": "Capítulo Siete: Contar la Historia",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "libro-iii-asciende",
+      "block_title": "LIBRO III: ASCIENDE",
+      "chapters": [
+        {
+          "chapter": "Capítulo Ocho: El Libro de las Reglas",
+          "pages": [
+            {
+              "slug": "capitulo-ocho-el-libro-de-las-reglas",
+              "title": "Capítulo Ocho: El Libro de las Reglas",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Nueve: Sistemas Dramáticos",
+          "pages": [
+            {
+              "slug": "capitulo-nueve-sistemas-dramaticos",
+              "title": "Capítulo Nueve: Sistemas Dramáticos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-i-iniciativa-y-movimiento",
+              "title": "Parte I: Iniciativa y movimiento",
+              "part": "Parte I: Iniciativa y movimiento",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-ii-acciones-dramaticas",
+              "title": "Parte II: Acciones dramáticas",
+              "part": "Parte II: Acciones dramáticas",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iii-salud-y-lesiones",
+              "title": "Parte III: Salud y lesiones",
+              "part": "Parte III: Salud y lesiones",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iv-combate",
+              "title": "Parte IV: Combate",
+              "part": "Parte IV: Combate",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-v-el-mundo-tecnologico",
+              "title": "Parte V: El mundo tecnológico",
+              "part": "Parte V: El mundo tecnológico",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-vi-la-red-digital",
+              "title": "Parte VI: La Red Digital",
+              "part": "Parte VI: La Red Digital",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-vii-los-otros-mundos",
+              "title": "Parte VII: Los Otros Mundos",
+              "part": "Parte VII: Los Otros Mundos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-viii-entidades-espirituales-umbroles",
+              "title": "Parte VIII: Entidades espirituales Umbroles",
+              "part": "Parte VIII: Entidades espirituales Umbroles",
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Diez: El Libro de la Magia",
+          "pages": [
+            {
+              "slug": "capitulo-diez-el-libro-de-la-magia",
+              "title": "Capítulo Diez: El Libro de la Magia",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-i-realizar-magia",
+              "title": "Parte I: Realizar Magia",
+              "part": "Parte I: Realizar Magia",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-ii-las-esferas",
+              "title": "Parte II: Las Esferas",
+              "part": "Parte II: Las Esferas",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iii-lanzar-magia-paso-a-paso",
+              "title": "Parte III: Lanzar Magia, paso a paso",
+              "part": "Parte III: Lanzar Magia, paso a paso",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iv-el-efecto-paradoja",
+              "title": "Parte IV: El Efecto Paradoja",
+              "part": "Parte IV: El Efecto Paradoja",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-v-silencio",
+              "title": "Parte V: Silencio",
+              "part": "Parte V: Silencio",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-vi-ejemplos-de-juego",
+              "title": "Parte VI: Ejemplos de juego",
+              "part": "Parte VI: Ejemplos de juego",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-vii-foco-y-las-artes",
+              "title": "Parte VII: Foco y las Artes",
+              "part": "Parte VII: Foco y las Artes",
+              "content_type": "rule"
+            },
+            {
+              "slug": "paradigmas",
+              "title": "Paradigmas",
+              "part": "Paradigmas",
+              "content_type": "rule"
+            },
+            {
+              "slug": "practicas",
+              "title": "Prácticas",
+              "part": "Prácticas",
+              "content_type": "rule"
+            },
+            {
+              "slug": "instrumentos",
+              "title": "Instrumentos",
+              "part": "Instrumentos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-viii-ajustes-procedimientos-y-formulas",
+              "title": "Parte VIII: Ajustes, Procedimientos y fórmulas",
+              "part": "Parte VIII: Ajustes, Procedimientos y fórmulas",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-ix-zonas-de-realidad",
+              "title": "Parte IX: Zonas de Realidad",
+              "part": "Parte IX: Zonas de Realidad",
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "apendice-i",
+      "block_title": "Apéndice I: Aliados y Antagonistas",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "aliados-y-antagonistas",
+              "title": "Aliados y Antagonistas",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "apendice-ii",
+      "block_title": "Apéndice II: Miscelánea",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "meritos-defectos-y-trastornos",
+              "title": "Méritos, Defectos y Trastornos",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "maravillas-y-tecnologia",
+              "title": "Maravillas y Tecnología",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+---
+// Sidebar for the per-book reading site: the book's Block → Chapter → Part tree.
+// Zero-JS; the current page is marked via `currentSlug`. Depth capped at 4 levels.
+export interface Props {
+  line: string;
+  book: string;
+  tree: {
+    block: string;
+    block_title: string;
+    chapters: { chapter: string; pages: { slug: string; title: string; part?: string | null }[] }[];
+  }[];
+  currentSlug: string;
+  bookTitle: string;
+}
+const { line, book, tree, currentSlug, bookTitle } = Astro.props;
+const base = `/${line}/guia/${book}`;
+---
+
+<nav class="guide-sidebar" aria-label={`Índice de ${bookTitle}`}>
+  <a class="book-home" href={base}>{bookTitle}</a>
+  {
+    tree.map((blk) => (
+      <section class="blk">
+        <p class="blk-title">{blk.block_title}</p>
+        {blk.chapters.map((ch) => (
+          <div class="chap">
+            {ch.chapter !== '—' && <p class="chap-title">{ch.chapter}</p>}
+            <ul>
+              {ch.pages.map((pg) => (
+                <li>
+                  <a
+                    href={`${base}/${pg.slug}`}
+                    aria-current={pg.slug === currentSlug ? 'page' : undefined}
+                    class={pg.slug === currentSlug ? 'current' : undefined}
+                  >
+                    {pg.part ?? pg.title}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </section>
+    ))
+  }
+</nav>
+
+<style>
+  .guide-sidebar {
+    font-size: 0.9rem;
+    line-height: 1.4;
+  }
+  .book-home {
+    display: block;
+    font-weight: 700;
+    margin-bottom: var(--space-3);
+    text-decoration: none;
+    color: var(--fg);
+  }
+  .blk { margin-bottom: var(--space-3); }
+  .blk-title {
+    margin: 0 0 0.25rem;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+  }
+  .chap-title { margin: 0.5rem 0 0.2rem; font-weight: 600; }
+  .guide-sidebar ul { list-style: none; margin: 0 0 0 0.25rem; padding: 0 0 0 0.6rem; border-left: 1px solid var(--border); }
+  .guide-sidebar li { margin: 0.1rem 0; }
+  .guide-sidebar a { text-decoration: none; color: var(--muted); }
+  .guide-sidebar a:hover { color: var(--fg); }
+  .guide-sidebar a.current { color: var(--accent, var(--fg)); font-weight: 600; }
+</style>

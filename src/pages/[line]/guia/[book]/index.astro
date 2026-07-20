@@ -1,0 +1,83 @@
+---
+// Per-book reading-site landing/overview page (add-book-reading-experience 3.3).
+import { getCollection } from 'astro:content';
+import Layout from '../../../../layouts/Layout.astro';
+import Breadcrumb from '../../../../components/Breadcrumb.astro';
+import { lineUrl } from '../../../../lib/entities';
+import { lineInfo } from '../../../../lib/lines';
+
+export async function getStaticPaths() {
+  const books = await getCollection('guideBooks');
+  return books.map((b) => ({
+    params: { line: b.data.line, book: b.data.book_id },
+    props: { book: b.data },
+  }));
+}
+
+const { line, book } = Astro.params as { line: string; book: string };
+const info = lineInfo(line)!;
+const { book: data } = Astro.props;
+const base = `/${line}/guia/${book}`;
+---
+
+<Layout title={`${data.title_es} — Guía`} theme={line}>
+  <Breadcrumb
+    items={[
+      { label: 'Inicio', href: '/' },
+      { label: info.nombre, href: lineUrl(line) },
+      { label: 'Guía' },
+      { label: data.book_title_es },
+    ]}
+  />
+
+  <article class="book-landing">
+    <h1>{data.title_es}</h1>
+    <p class="lead">{data.book_title_es} — {data.page_count} secciones de lectura.</p>
+
+    {
+      data.tree.map((blk) => (
+        <section class="block-card">
+          <h2>{blk.block_title}</h2>
+          {blk.chapters.map((ch) => (
+            <div>
+              {ch.chapter !== '—' && <h3>{ch.chapter}</h3>}
+              <ul>
+                {ch.pages.map((pg) => (
+                  <li>
+                    <a href={`${base}/${pg.slug}`}>{pg.part ?? pg.title}</a>
+                    {pg.content_type === 'fiction' && <span class="tag">ficción</span>}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </section>
+      ))
+    }
+  </article>
+
+  <style>
+    .book-landing { max-width: 60rem; }
+    .lead { color: var(--muted); margin-bottom: var(--space-4); }
+    .block-card {
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: var(--space-3) var(--space-4);
+      margin-block: var(--space-3);
+    }
+    .block-card h2 { margin-top: 0; }
+    .block-card ul { list-style: none; padding-left: 0; columns: 2; }
+    @media (max-width: 40rem) { .block-card ul { columns: 1; } }
+    .block-card li { margin: 0.2rem 0; break-inside: avoid; }
+    .tag {
+      font-size: 0.7em;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--muted);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 0 0.35em;
+      margin-left: 0.4em;
+    }
+  </style>
+</Layout>
