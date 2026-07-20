@@ -19,7 +19,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "blanco-y-negro",
@@ -41,7 +42,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "mage/blanco-y-negro"
+    ],
+    "edges": [
+      {
+        "target": "mage/blanco-y-negro",
+        "type": "cross-line",
+        "via": "id:blanco-y-negro"
+      }
+    ]
   },
   {
     "id": "combatiente-novato",
@@ -63,7 +73,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "adicto-a-la-sangre-vampirica",
@@ -85,7 +96,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "hemofilico",
@@ -110,7 +122,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "laboratorio-cientifico",
@@ -135,7 +148,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "biblioteca-ocultista",
@@ -160,7 +174,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "aura-palida",
@@ -185,7 +200,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "vista-clara",
@@ -210,7 +226,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "sangre-venenosa",
@@ -235,7 +252,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "santuario",
@@ -260,7 +278,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "efecto-inquietante",
@@ -285,7 +304,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "foco-psi",
@@ -310,7 +330,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "crianza-aislada",
@@ -335,7 +356,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "histeria-religiosa",
@@ -360,7 +382,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "rango-eclesiastico",
@@ -385,7 +408,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "bruja-aprobada",
@@ -410,7 +434,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "rebelde",
@@ -435,7 +460,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "aura-de-santidad",
@@ -460,7 +486,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "ecstatic",
@@ -485,7 +512,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "ecumenista",
@@ -510,7 +538,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "puno-de-dios",
@@ -535,7 +564,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "paraiso-perdido",
@@ -560,7 +590,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "paranoico",
@@ -585,7 +616,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "mentalidad-de-sitio",
@@ -610,7 +642,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "mensajero-del-miedo",
@@ -635,7 +668,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "autorizacion",
@@ -660,7 +694,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "enlace-entre-agencias",
@@ -685,7 +720,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "acceso-no-estandar",
@@ -710,7 +746,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "agente-integrado",
@@ -735,7 +772,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "credulo",
@@ -760,7 +798,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "mage/credulo"
+    ],
+    "edges": [
+      {
+        "target": "mage/credulo",
+        "type": "cross-line",
+        "via": "id:credulo"
+      }
+    ]
   },
   {
     "id": "de-recursos-identidad-suplementaria",
@@ -785,7 +832,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "envejecido",
@@ -810,7 +858,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "camaleon-cultural",
@@ -835,7 +884,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "beca-de-investigacion",
@@ -860,7 +910,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "mage/beca-de-investigacion"
+    ],
+    "edges": [
+      {
+        "target": "mage/beca-de-investigacion",
+        "type": "cross-line",
+        "via": "id:beca-de-investigacion"
+      }
+    ]
   },
   {
     "id": "sobrenaturales-inocente",
@@ -885,7 +944,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "perspicaz",
@@ -910,7 +970,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "mage/perspicaz"
+    ],
+    "edges": [
+      {
+        "target": "mage/perspicaz",
+        "type": "cross-line",
+        "via": "id:perspicaz"
+      }
+    ]
   },
   {
     "id": "sentir-influencia",
@@ -935,7 +1004,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "matones",
@@ -960,7 +1030,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "legado",
@@ -985,7 +1056,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "wraith/legado"
+    ],
+    "edges": [
+      {
+        "target": "wraith/legado",
+        "type": "cross-line",
+        "via": "id:legado"
+      }
+    ]
   },
   {
     "id": "sobrenaturales-zona-muerta",
@@ -1010,7 +1090,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "status",
@@ -1034,7 +1115,28 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "mage/status",
+      "vampire/status",
+      "wraith/status"
+    ],
+    "edges": [
+      {
+        "target": "mage/status",
+        "type": "cross-line",
+        "via": "id:status"
+      },
+      {
+        "target": "vampire/status",
+        "type": "cross-line",
+        "via": "id:status"
+      },
+      {
+        "target": "wraith/status",
+        "type": "cross-line",
+        "via": "id:status"
+      }
+    ]
   },
   {
     "id": "rank",
@@ -1058,7 +1160,22 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "mage/rank",
+      "werewolf/rank"
+    ],
+    "edges": [
+      {
+        "target": "mage/rank",
+        "type": "cross-line",
+        "via": "id:rank"
+      },
+      {
+        "target": "werewolf/rank",
+        "type": "cross-line",
+        "via": "id:rank"
+      }
+    ]
   },
   {
     "id": "artefacto",
@@ -1082,7 +1199,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "wraith/artefacto"
+    ],
+    "edges": [
+      {
+        "target": "wraith/artefacto",
+        "type": "cross-line",
+        "via": "id:artefacto"
+      }
+    ]
   },
   {
     "id": "mentor",
@@ -1106,7 +1232,28 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "mage/mentor",
+      "vampire/mentor",
+      "wraith/mentor"
+    ],
+    "edges": [
+      {
+        "target": "mage/mentor",
+        "type": "cross-line",
+        "via": "id:mentor"
+      },
+      {
+        "target": "vampire/mentor",
+        "type": "cross-line",
+        "via": "id:mentor"
+      },
+      {
+        "target": "wraith/mentor",
+        "type": "cross-line",
+        "via": "id:mentor"
+      }
+    ]
   },
   {
     "id": "resources",
@@ -1130,6 +1277,21 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "mage/resources",
+      "vampire/resources"
+    ],
+    "edges": [
+      {
+        "target": "mage/resources",
+        "type": "cross-line",
+        "via": "id:resources"
+      },
+      {
+        "target": "vampire/resources",
+        "type": "cross-line",
+        "via": "id:resources"
+      }
+    ]
   }
 ]

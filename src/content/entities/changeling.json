@@ -22,7 +22,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "maldicion-thallain",
@@ -47,7 +48,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "mascara-ingeniosa",
@@ -69,7 +71,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "atrapado-en-un-lugar",
@@ -91,7 +94,1140 @@
         "variant": "base"
       }
     ],
+    "related": [],
+    "edges": []
+  },
+  {
+    "id": "sea-foam-shawl",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Sea Foam Shawl",
+    "name_es": "Chal de espuma de mar",
+    "body_es": "El chal, una espumosa capa de suaves burbujas blancas, desprende un aroma a aire del océano y, a veces, el rugido de las olas rompiendo contra la costa. Es una de las prendas favoritas de los Linajes amantes del mar, especialmente los Selkies, y mantiene a su portador cómodamente fresco y añade la perfecta onda surfera a su cabello.\n\nMecánica: Mientras se vista el chal, la dificultad de cualquier cantrip que invoque agua se reduce en 1. Además, al gastar 1 punto de Glamour, el portador puede amplificar el sonido del romper de las olas lo suficiente para ahogar cualquier otro sonido cercano. Este efecto dura un minuto por punto de Glamour gastado.",
+    "tags": [
+      "velo",
+      "accesorio",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "···"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "chal-de-espuma-de-mar",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
     "related": []
+  },
+  {
+    "id": "rumor-silk-fan",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Rumor-Silk Fan",
+    "name_es": "Abanico de rumorseda",
+    "body_es": "Aunque hay todo un lenguaje determinado por la forma de agarrar y colocar el abanico de una dama, es mucho más fácil hacerse entender simplemente hablando. La rumorseda transporta un mensaje a alguien en el campo visual del usuario como si se le hablase directamente al oído. No importa el nivel de ruido de la zona, sólo aquél para quien está destinado puede oír el mensaje y éste no puede ser interceptado.\n\nMecánica: Los mensajes pueden expresarse de dos formas: para dirigirse a una única persona, el changeling debe sostener el abanico abierto frente a su cara y gastar 1 punto de Fuerza de Voluntad. Si en su lugar se dirige a un grupo, debe gastar 1 punto de Glamour y sostener el abanico cerrado cerca de la boca. Aunque no se puede determinar el contenido del mensaje, si alguien sospecha del uso de magia, superar una tirada de Gremayre o Sagacidad señalará al emisor y el receptor del mensaje.",
+    "tags": [
+      "velo",
+      "accesorio",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "····"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "abanico-de-rumorseda",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "starlight-tiara",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Starlight Tiara",
+    "name_es": "Tiara de brillo de estrellas",
+    "body_es": "La tiara de brillo de estrellas, una titilante colección de luces normalmente dispuestas como una constelación, es una pieza asombrosa que añade un poco de maravilla adicional incluso a la vestimenta cortesana más extravagante. Los diseños habituales incluyen constelaciones zodiacales y emblemas de Casa, pero es posible cualquier patrón; muy a menudo, su disposición cambiará dos o tres veces durante un evento.\n\nMecánica: Cualquiera que lleve una tiara de brillo de estrellas puede gastar 1 punto de Fuerza de Voluntad para descubrir los Legados de otro changeling y así, sus Búsquedas y Prohibiciones asociadas. Aunque no puede discernir cuál de los Legados del personaje es dominante, normalmente puede determinar qué Corte prefiere a través de su comportamiento o amistades.",
+    "tags": [
+      "velo",
+      "accesorio",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "·····"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "tiara-de-brillo-de-estrellas",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "dragon-scale-brooch",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Dragon-Scale Brooch",
+    "name_es": "Broche de escama de dragón",
+    "body_es": "Este broche (funcional o decorativo) de brillo débil aparece en cualquier color del arcoíris, así como en una serie de matices metálicos. Cálido al tacto y a menudo decorado con exquisitos detalles tallados, añade un toque regio a cualquier atuendo.\n\nMecánica: Los broches de escama de dragón, en sintonía con los poderes de la familia de quimeras que los donó, permiten el lanzamiento de cantrips del Arte Ira del Dragón. Con el broche, el portador puede lanzar una serie de cantrips igual a la puntuación del objeto dentro del Arte Ira del Dragón sin pagar coste de Glamour, no importa cuántos Reinos use o si el cantrip es quimérico o de Fantasía. Puede recargarse pagando el doble del coste de los cantrips usados.",
+    "tags": [
+      "velo",
+      "accesorio",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "· a ·····",
+      "arte_asociada": "Ira del Dragón"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "broche-de-escama-de-dragon",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "wyvern-hide-apron",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Wyvern-Hide Apron",
+    "name_es": "Delantal de piel de guiverno",
+    "body_es": "El delantal de piel de guiverno, que brilla ligeramente por los bordes como si ardiese gentilmente, es uno de los objetos más útiles en el taller de un artesano. Incluso los individuos más desorganizados y caóticos pueden mantener sus herramientas más importantes con su ayuda. Cualquier herramienta rota o desafilada que se guarde en sus bolsillos vuelve a quedar en perfectas condiciones, y cualquier cosa que se pierda o caiga en el taller del artesano puede encontrarse luego en él.\n\nMecánica: Por cada punto del delantal, se puede armonizar con él una herramienta o arma. Si el objeto se pierde o se rompe, puede encontrarse de nuevo en perfecto estado dentro del delantal en 5 días menos un día por punto del objeto.",
+    "tags": [
+      "velo",
+      "accesorio",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "· a ···"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "delantal-de-piel-de-guiverno",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "moonlight-dress",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Moonlight Dress",
+    "name_es": "Vestido de luz de luna",
+    "body_es": "Tejido con la luz de la luna llena, este vestido cuelga de su portador y fluye sin esfuerzo con cada movimiento. Cualquiera que vista esta confección en espiral de luz veteada tiene asegurado atraer la atención de todos los que posen sus ojos en él e inspirar tanto su asombro como sus más profundos deseos.\n\nMecánica: El portador de este vestido puede gastar 1 punto de Glamour para convertir un fracaso en una tirada Social en un fallo normal.",
+    "tags": [
+      "velo",
+      "vestimenta",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "··"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "vestido-de-luz-de-luna",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "shadowwool-overcoat",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Shadowwool Overcoat",
+    "name_es": "Sobretodo de lanasombra",
+    "body_es": "Esta prenda que cambia lentamente, un abrigo de viajero, no termina del todo tanto como parece fundirse con su entorno. Su color fluye entre turbios tonos de azul, marrón o negro, lo mejor para pasar desapercibido sin problema con entornos oscuros. Aunque abultado, es cómodo de llevar en cualquier clima y tiene un cuello alto que oculta la mitad inferior de la cara.\n\nMecánica: El portador gana una bonificación de +3 a todas las tiradas de Sigilo hechas de noche o en zonas sombrías. Si lleva subido el cuello, también puede gastar 1 punto de Fuerza de Voluntad para evitar que alguien le reconozca o recuerde su cara.",
+    "tags": [
+      "velo",
+      "vestimenta",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "···",
+      "bonificacion": "+3 a Sigilo (de noche o en zonas sombrías)"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "sobretodo-de-lanasombra",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "spun-thunder-suit",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Spun-Thunder Suit",
+    "name_es": "Traje de trueno hilado",
+    "body_es": "Un traje de tres piezas hermoso y hecho a medida de forma experta que funciona bien para aquéllos a los que no les importa llevar el corazón en el puño. Suave como una nube, también porta la volatilidad de una tormenta. Reacciona a las emociones y las intenciones de su portador, potenciando su presencia e incrementando su impacto en un grupo o sala. Podría brillar con los colores suaves de un amanecer o retumbar con rayos, dependiendo del estado emocional de quien lo vista o en qué enfoque su atención.\n\nMecánica: Dado que el traje reacciona a las intenciones de quien lo lleva, añade un dado adicional a cualquier tirada de Intimidación, Empatía o Interpretación. Si gasta 1 punto de Glamour, el portador puede añadir un éxito automático en su lugar.",
+    "tags": [
+      "velo",
+      "vestimenta",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "····",
+      "bonificacion": "+1 dado a Intimidación, Empatía o Interpretación (o 1 éxito automático por 1 Glamour)"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "traje-de-trueno-hilado",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "sensitive-fiber-summer-dress",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Sensitive-Fiber Summer Dress",
+    "name_es": "Vestido veraniego de fibras sensibles",
+    "body_es": "Este vestido de fibra sensible, uno de los materiales más raros jamás soñado para Velo, irradia el calor y la dicha del amor verdadero. Aunque estos atuendos pueden presentarse en cualquier color, suelen ser de tonos pastel y desprender una fragancia dulce y agradable distinta para cada persona que lo huele. Quienquiera que lo lleve es el epítome de la compostura y la paz. La promesa no pronunciada del vestido apela a cualquier que lo ve y lo arrulla hasta un estado de sugestionable calma.\n\nMecánica: Mientras se viste el vestido veraniego, el changeling gana +2 a Manipulación y +1 a Apariencia. Además, no se puede picar o engañar al portador para que pierda los estribos.",
+    "tags": [
+      "velo",
+      "vestimenta",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "·····",
+      "bonificacion": "+2 Manipulación, +1 Apariencia"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "vestido-veraniego-de-fibras-sensibles",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "ashcloth-shirt",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Ashcloth Shirt",
+    "name_es": "Camisa de telaceniza",
+    "body_es": "La camisa de telaceniza, cálida al tacto e imposiblemente fina, está hecha con los restos del fuego de un herrero. De forma similar a como un artesano firma su obra, la camisa puede marcar las posesiones de su propietario y asegurarse de que nunca estén lejos de su alcance.\n\nMecánica: Por cada punto de la camisa, puede marcar un objeto. Si se supera una tirada de Gremayre a dificultad 6, el portador puede localizar cualquier objeto perdido que haya sido marcado por la ceniza de la camisa. Si gasta 1 punto de Glamour, también puede determinar cómo se perdió. Si el objeto fue robado, un punto adicional de Glamour le dice por quién.",
+    "tags": [
+      "velo",
+      "vestimenta",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "· a ·····",
+      "dificultad": "6 (Gremayre)"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "camisa-de-telaceniza",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "snowy-owl-mantle",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Snowy Owl Mantle",
+    "name_es": "Manto de búho nival",
+    "body_es": "Este manto, una capa con capucha y varios forros hecho de plumas de hielo, actúa como escudo contra cualquier forma de fuego mágico o natural y potencia la magia que recurre al agua o el hielo. Aunque su capacidad para proteger frente al fuego es formidable, no ofrece protección frente a armas ni frente a otras formas de magia.\n\nMecánica: Cuando se absorbe daño por fuego, ya sea físico o quimérico, este manto añade 1 éxito automático a la tirada. Cuando se lanza un cantrip de hielo o agua, el portador del manto reduce la dificultad en 1.",
+    "tags": [
+      "velo",
+      "vestimenta",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "···"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "manto-de-buho-nival",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "copper-raven-pauldrons",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Copper Raven Pauldrons",
+    "name_es": "Hombreras de cuervo cúprico",
+    "body_es": "Estas piezas de cobre hechas de plumas donadas por una bandada de amistosos cuervos mecánicos animados se mueven con la brisa como si fueran plumas naturales y descansan sobre un gorjal al que han sido unidas a martillazos. A pesar de estar hechas de metal, las hombreras son ligeras y flexibles como cuero blando.\n\nPuntuación de armadura: 1.\n\nPenalización a la Destreza: 0.\n\nMecánica: La precisión de relojería de los propietarios originales de las plumas se traspasa al portador, lo que reduce la dificultad de todos los ataques en los que se seleccione un blanco en 1.",
+    "tags": [
+      "velo",
+      "armadura",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "····",
+      "puntuacion_armadura": "1",
+      "penalizacion_destreza": "0"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "hombreras-de-cuervo-cuprico",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "meteoric-glow-cuirass",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Meteoric-Glow Cuirass",
+    "name_es": "Coraza de brillo meteórico",
+    "body_es": "El portador de esta coraza es un faro en el campo de batalla y se ofrece como objetivo para emboscadas y así proteger a no combatientes o alejar a enemigos de luchadores menos capaces. Cuando se activa con Glamour, brilla con un fulgor blanco que exige la atención de cualquier enemigo.\n\nPuntuación de armadura: 3.\n\nPenalización a la Destreza: -2.\n\nMecánica: Cuando está activa, los enemigos se ven atraídos por el portador. Deben superar una tirada de Fuerza de Voluntad a dificultad 7 para emprender cualquier acción hostil aparte de atacar al portador. Este efecto dura un turno por punto de Glamour gastado e iniciarlo, renovarlo o pararlo es una acción instantánea.",
+    "tags": [
+      "velo",
+      "armadura",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "·",
+      "puntuacion_armadura": "3",
+      "penalizacion_destreza": "-2",
+      "dificultad": "7 (Fuerza de Voluntad del enemigo)"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "coraza-de-brillo-meteorico",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "widows-keening-helm",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Widow's Keening Helm",
+    "name_es": "Yelmo plañidero de la viuda",
+    "body_es": "Este yelmo, templado en las lágrimas derramadas por un amor perdido, ayuda a su portador y se asegura de que nunca entre en batalla sintiéndose solo. Imbuido con el anhelo de salvar o proteger a otros, potencia los sentidos del portador en el campo, especialmente en un combate desigual. Llevar el casco ofrece ayuda en un combate en el que el propietario esté en desventaja, al hacerle más fácil adaptarse e improvisar.\n\nPuntuación de armadura: 1.\n\nPenalización a la Destreza: 0.\n\nMecánica: Cuando se enfrenta a múltiples oponentes, la dificultad para abortar una acción se reduce en 2.",
+    "tags": [
+      "velo",
+      "armadura",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "···",
+      "puntuacion_armadura": "1",
+      "penalizacion_destreza": "0"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "yelmo-planidero-de-la-viuda",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "spider-steel-corset",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Spider-Steel Corset",
+    "name_es": "Corsé de acerodearaña",
+    "body_es": "Este corsé, tejido con las telarañas de arañas que producen una seda más dura que el metal, se ajusta estrechamente a su portador y es muy resistente a rasgones y agujeros. Aunque restringe los movimientos, proporciona un apoyo adicional al portador y enmascara temporalmente la severidad del daño sufrido.\n\nPuntuación de armadura: 3. Penalización a la Destreza: -2.\n\nMecánica: Cualquier daño letal se reduce a contundente. Además, mientras lleva el corsé, el changeling no sufre penalizaciones en los niveles Lastimado, Lesionado o Herido. Aun así, todavía sufre penalizaciones si está Malherido, Tullido o Incapacitado. Si se retira el corsé antes de sanar, sufre todas las penalizaciones por heridas de forma normal. Con 3 puntos, esta protección es efectiva contra daño quimérico; con 5 se aplica también a daño físico.",
+    "tags": [
+      "velo",
+      "armadura",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "··· o ·····",
+      "puntuacion_armadura": "3",
+      "penalizacion_destreza": "-2"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "corse-de-acerodearana",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "mandrake-leather-jacket",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Mandrake-Leather Jacket",
+    "name_es": "Chaqueta de cuero de mandrágora",
+    "body_es": "Esta chaqueta, hecha de cuero viejo bien engrasado, desprende una fragancia floral y tiene un ligero brillo morado, así como un sutil patrón granulado que se asemeja a venas o mármol.\n\nPuntuación de armadura: 2. Penalización a la Destreza: -1.\n\nMecánica: Cuando se organiza una defensa desesperada, el portador puede usar una de sus acciones para activar esta armadura. Gastando 1 punto de Glamour, puede hacer que emita un alarido que taladre el oído. Durante el siguiente turno de acción todos los demás participantes en la pelea pierden una acción, tanto amigos como enemigos.",
+    "tags": [
+      "velo",
+      "armadura",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "··",
+      "puntuacion_armadura": "2",
+      "penalizacion_destreza": "-1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "chaqueta-de-cuero-de-mandragora",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "tricksters-artistic-glove",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Trickster's Artistic Glove",
+    "name_es": "Artístico guante del tramposo",
+    "body_es": "Este Tesoro, un guante de cuero hecho con destreza que encaja como una segunda piel, convierte a quien lo lleva en un manipulador astuto o un artista del escapismo. Esta prenda anodina, que rara vez se descubre adrede, suele encontrar a sus propietarios en vez de ser encontrada. Tratar de buscarlo asegura que nunca se encuentre… o que sea un rival quien lo haga.\n\nMecánica: Mientras se lleva puesto el guante, un changeling puede recurrir a la influencia telequinética de Absurdez (Prestidigitación ····). Es capaz de manipular casi cualquier cosa a distancia y se convierte en una herramienta útil para cualquiera que busque interactuar anónimamente con una situación. Aunque es necesario gesticular con el guante para completar la acción que quieren llevar a cabo, no se necesita estar en contacto con su objetivo, ni hacer movimientos que resulten evidentes a ningún posible testigo.",
+    "tags": [
+      "tesoro",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "····",
+      "poder": "Absurdez (Prestidigitación ····)"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "artistico-guante-del-tramposo",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "silver-tongue-brooch",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Silver-Tongue Brooch",
+    "name_es": "Broche de lengua de plata",
+    "body_es": "Esta pieza de joyería, una sencilla barra de plata con los extremos redondeados, no mide más que la falange de un dedo. Ha de llevarse en la lengua y amplifica la habilidad de su portador para crear impresionantes cuentos que tienen el hábito de hacerse realidad. Puede insertarse sin dolor incluso en lenguas no perforadas.\n\nMecánica: Con el broche en su sitio, un changeling puede gastar Glamour de forma normal para usar Más Extraño que la Ficción (Narración ·····) para disponer convenientemente las situaciones en su beneficio (ver pág. 190). La dificultad del cantrip la determina la coincidencia dictada por el changeling.",
+    "tags": [
+      "tesoro",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "·····",
+      "poder": "Más Extraño que la Ficción (Narración ·····)"
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "broche-de-lengua-de-plata",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "ladys-favor",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Lady's Favor",
+    "name_es": "Favor de la dama",
+    "body_es": "Este pañuelo perfectamente blanco e imbuido con el calor del verano tiene bordada una delicada «T» dorada rodeada de primorosas flores de madreselva. Una prenda reconfortante que lleva la luz del sol a cualquier habitación y un cierto brillo gentil a su portador.\n\nMecánica: El pañuelo, que porta la calma y la gracia de un brillante día de verano, puede convertir cualquier cosa que toca en objeto de deseo. Usando el poder Afrodisia (Verano ···), el propietario puede gastar 1 punto de Glamour para imbuir a su objetivo con los efectos del cantrip al tocarlo con el Favor aunque sea brevemente. Además, el propietario puede gastar 1 punto de Glamour para hacer que su objetivo resplandezca con la luz del sol durante el resto de la escena. Estos efectos pueden aplicarse juntos o por separado.",
+    "tags": [
+      "tesoro",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "···",
+      "poder": "Afrodisia (Verano ···)"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "favor-de-la-dama",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "narcissas-identifier",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Narcissa's Identifier",
+    "name_es": "Identificador de Narcissa",
+    "body_es": "La destreza en el Arte Nombrar de Lady Narcissa, una de las Sidhe que lideró antaño la Casa Leanhaun, se transmitió al collar que llevaba, una ornada pieza de delicada agua de lluvia y rayos de sol hechos corpóreos y adornados con humo sólido. Adopta cualquier nombre que su portador dé como propio, alterándose conforme cambia de manos.\n\nMecánica: En lugar de gastar Glamour, el portador del identificador puede gastar 1 punto de Fuerza de Voluntad para imbuir a su objetivo con un Apodo (Nombrar ··). Debe ser capaz de ver a su objetivo, pero no necesita interactuar con él directamente. Aunque su poder de Nombrar es algo limitado, la leyenda de Lady Narcissa sigue teniendo influencia en la alta sociedad. Gastando 1 punto de Glamour, un changeling en posesión del identificador puede declarar que una actividad o individuo están de moda. Durante el resto de la escena, el objetivo de esta habilidad o la actividad se consideran aceptables o incluso recomendables; sin embargo, después, las consecuencias de cualquier acción llevada a cabo pueden pasar factura a cualquiera que participase.\n\nLa dificultad de activar este poder queda determinada por el objetivo; declarar que la violencia está de moda es sustancialmente más difícil que declarar popular a un músico que no lo es. Cada punto adicional de Glamour gastado permite al changeling ampliar la duración del efecto una escena más o tratar de tener un objetivo adicional.",
+    "tags": [
+      "tesoro",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "··",
+      "poder": "Apodo (Nombrar ··)"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "identificador-de-narcissa",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "auroras-omen",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Aurora's Omen",
+    "name_es": "Presagio de aurora",
+    "body_es": "El portador de Presagio de Aurora, un pequeño y ornado vaporizador hecho de vidrio y oro, puede usarlo para rociar una almohada con agua con olor a flores antes de dormir. Arrulla al propietario a un profundo sueño y actúa como un uso de Paseo Onírico que permite al objetivo usar más poderes del Presagio. Se rumorea que este viejo Tesoro que desaparece y reaparece cada cierto tiempo tiene también algunos efectos adicionales.\n\nMecánica: Tras quedar dormido, el propietario del Presagio puede usar el cantrip Títere Onírico (Oniromancia ·····) e introducirse en un cuerpo ajeno. Como siempre, el número de éxitos determina la duración de los efectos. Aunque no puede empujar a todo un pueblo a un sueño de siglos, el Presagio también sirve como forma de influir a alguien sin habitar su mente dormida. Además del Arte que contiene, usar el Presagio como perfume calma en cambio a cualquiera que interactúe con el objetivo hasta que cae en un estado somnoliento y sugestionable, que rebaja la dificultad de cualquier tirada Social o cantrip opuesto en 2. Los changelings y otras criaturas sobrenaturales pueden oponerse a este efecto gastando 1 punto de Fuerza de Voluntad, pero los mortales no tienen tales defensas.\n\nDificultad: 8.",
+    "tags": [
+      "tesoro",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "·····",
+      "poder": "Títere Onírico (Oniromancia ·····)",
+      "dificultad": "8"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "presagio-de-aurora",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "smoke-bomb",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Smoke Bomb",
+    "name_es": "Bomba de humo",
+    "body_es": "Este pequeño y modesto brazalete con tres colgantes de cuentas negras guarda una sorpresa. Estos colgantes, esenciales para cualquiera que busque hacer una salida rápida y dramática, se desprenden de un tirón y crean una cobertura excelente y una distracción aún mejor.\n\nMecánica: Cada colgante permite al changeling huir de donde se encuentre con el cantrip Portal de Paso (Viaje ···). Cuando se estampa contra una superficie (muros y suelos son las preferidas), cada colgante libera una impresionante nube de humo negro y abre un portal oculto que se cierra en cuanto el usuario lo cruza. Con su salida disimulada y dejando únicamente unas esquirlas de cristal roto como toda evidencia, el changeling es libre de seguir alegremente su camino.\n\nUsos: 3.",
+    "tags": [
+      "maravilla",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "···",
+      "poder": "Portal de Paso (Viaje ···)",
+      "usos": "3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "bomba-de-humo",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "backup",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Backup",
+    "name_es": "Copia de seguridad",
+    "body_es": "Este disco duro externo imbuido con el poder de Primavera es una rara muestra de tecnología mágica; es un simple prisma de plata con diversos y extraños puertos de entrada en un lado y un fino cristal que brilla con una débil y palpitante luz verde. De cuando en cuando produce un suave sonido de cliqueo o un zumbido.\n\nMecánica: Este disco duro imbuido con el epítome del poder de Primavera, Renovación (Primavera ·····), tiene el poder de restaurar algo a su mejor momento como si se hubiera guardado como un archivo. Los diversos puertos laterales siempre parecen tener alguna forma de conectar con cualquier Reino que el conjurador pretenda. Sus efectos sólo duran una escena a menos que se extiendan con Glamour; cada punto extiende la duración otra escena. Una vez usado, el disco duro funciona de manera normal como un objeto no mágico.\n\nUsos: 1.",
+    "tags": [
+      "maravilla",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "·····",
+      "poder": "Renovación (Primavera ·····)",
+      "usos": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "copia-de-seguridad",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [
+      {
+        "target": "mage/backup",
+        "type": "cross-line",
+        "via": "id:backup"
+      }
+    ],
+    "related": [
+      "mage/backup"
+    ]
+  },
+  {
+    "id": "dowsing-pendulum",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Dowsing Pendulum",
+    "name_es": "Péndulo de radiestesia",
+    "body_es": "Este péndulo de radiestesia, un cristal picudo que cuelga de una fina cadena de oro, ofrece verdades que podrían no parecer inmediatamente evidente sin él. Es una herramienta común entre los adivinos y los espiritistas, y un changeling con este péndulo concreto puede usarlo para aprender muy diversas cosas útiles.\n\nMecánica: Ayudado por los hilos de Dán, el péndulo permite a su portador recurrir a las bases de Adivinación. Al estar dotado con el poder de Presagio (Adivinación ·), el changeling puede colgarlo sobre el objetivo e interpretar sus movimientos como respuestas a su curiosidad. Aunque no es imposible que el péndulo responda a una pregunta abierta, la dificultad del cantrip aumenta en 1.\n\nDificultad: 7.\n\nUsos: 5.",
+    "tags": [
+      "maravilla",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "·",
+      "poder": "Presagio (Adivinación ·)",
+      "dificultad": "7",
+      "usos": "5"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "pendulo-de-radiestesia",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "rewinding-watch",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Rewinding Watch",
+    "name_es": "Reloj rebobinador",
+    "body_es": "Este reloj de plata y oro, una reliquia de otra época, cuelga de una cadena y se le debe dar cuerda regularmente para mantenerlo en hora. Aunque la mayoría pasarían por alto tal objeto como algo poco práctico o innecesario en comparación con la tecnología actual, los changelings pueden ver el Glamour que brilla en él.\n\nMecánica: Dar cuerda a este reloj hace más que mantenerlo en funcionamiento; permite al changeling desbloquear el poder Mirada Atrás (Cronos ·). El reloj, que proporciona un atisbo del pasado para poner en orden el presente, es una herramienta útil en cualquier investigación.\n\nDificultad: 7.\n\nUsos: 5.",
+    "tags": [
+      "maravilla",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "·",
+      "poder": "Mirada Atrás (Cronos ·)",
+      "dificultad": "7",
+      "usos": "5"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "reloj-rebobinador",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "kiss-seal",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Kiss Seal",
+    "name_es": "Sello del beso",
+    "body_es": "El logotipo en esta barra de labios parece un ornado sello real, como si hubiese sido estampado con un anillo con sello en un poco de cera. El tono de la misma es el color que el portador desee, incluso cambia entre usos. Aunque el color no realza ni se adhiere a los labios del usuario, tiene una forma de dejar su marca.\n\nMecánica: El poder de Soberanía espera a ser liberado dentro del sello que decora la barra de labios. Aunque el changeling no necesita elegir usar el cantrip Dictum (Soberanía ····) al aplicárselo, sino que ha de besar a su objetivo antes de dar su orden. Cualquier sitio vale, la mejilla o la mano son tan efectivas como los labios.\n\nUsos: 2.",
+    "tags": [
+      "maravilla",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "····",
+      "poder": "Dictum (Soberanía ····)",
+      "usos": "2"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "sello-del-beso",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "jack-of-all-suits",
+    "type": "treasure",
+    "line": "changeling",
+    "name_en": "Jack of All Suits",
+    "name_es": "Sota de todos los palos",
+    "body_es": "Esta singular carta suele cambiar ligeramente de apariencia; lo único que permanece constante es que siempre muestra una sota (o jota en las barajas francesas). El palo, estilo y el reverso de la carta cambian en cada ocasión, en apariencia a capricho del Ensueño, pero el rostro permanece igual.\n\nMecánica: Dentro de la carta está almacenada una increíble cantidad de fuerza de Primal. Quien sostenga la carta, que alberga Danza de los Cinco Reyes (Primal ·····), puede invocar su poder para remodelar el mundo que le rodea y ordenar que se vuelva contra uno de sus enemigos.\n\nUsos: 1.",
+    "tags": [
+      "maravilla",
+      "objeto-unico"
+    ],
+    "mechanics": {
+      "object_type": "Objeto único",
+      "rating": "·····",
+      "poder": "Danza de los Cinco Reyes (Primal ·····)",
+      "usos": "1"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "sota-de-todos-los-palos",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "infusion",
+    "type": "art",
+    "line": "changeling",
+    "name_en": "Infusion",
+    "name_es": "Infusión",
+    "body_es": "Con suficiente entrenamiento y materiales, cualquier changeling puede, en potencia, crear toda clase de maravillas quiméricas o incluso forjar Tesoros sorprendentes, pero los que ahondan en la magia de Infusión aprenden cómo manipular la naturaleza misma de tales objetos de formas que hacen que incluso los artesanos veteranos se sienten y tomen nota. Como dirían los Nockers que fueron pioneros en esta Arte, aprender Infusión no hará de ti un mejor artesano, pero dominar siquiera algunos de sus cantrips básicos abre una gran variedad de opciones y atajos de los que otros artesanos sencillamente carecen. En sus niveles superiores, Infusión permite a un changeling almacenar el preciado Glamour para usarlo más tarde, transformar objetos con un toque e incluso crear vida quimérica consciente.\n\nLos Nockers guardaron celosamente el conocimiento de esta Arte durante siglos hasta que las exigencias de la supervivencia durante los largos años del Interregno finalmente les llevó a compartir al menos algunos de sus secretos con otros artesanos, especialmente Boggans y los Sidhe de Otoño de la Casa Dougal cuya honradez estaba más allá de toda duda. Los Nockers desprecian terriblemente a cualquiera que sugiera que un Arte pudiera ser inherentemente Luminosa u Oscura, así que esta Arte se usa libremente por miembros de ambas Cortes.\n\nAtributo: Inteligencia.",
+    "tags": [
+      "arte",
+      "nueva-arte",
+      "nockers"
+    ],
+    "mechanics": {
+      "atributo": "Inteligencia"
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "nueva-arte-infusion",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "craftsmans-eye",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Craftsman's Eye",
+    "name_es": "Ojo de Artesano",
+    "body_es": "Tienes buen ojo para el Glamour fundamental subyacente de una construcción quimérica. Este cantrip te permite seleccionar un objeto o una criatura quiméricos y valorar acertadamente sus propiedades y capacidades de un vistazo. A diferencia de Sagacidad, la información obtenida mediante este cantrip es muy específica y detallada, pero esta Arte sólo funciona con objetos y criaturas quiméricas y Tesoros. De hecho, este cantrip cambia una visión amplia por una precisión concreta, aunque muchos expertos en Infusión cultivan de forma natural también altas puntuaciones en Sagacidad.\n\nSistema: Cada éxito en la tirada de cantrip te permite aprender todo lo concerniente a un aspecto de una quimera animada: Atributos, Habilidades, Glamour, Fuerza de Voluntad, Niveles de Salud, Redes. En lo que respecta a un Tesoro u objeto quimérico, puedes descubrir el nivel del mismo, la naturaleza general de sus poderes (aunque no necesariamente cómo activarlo), cómo fue hecho, quién es actualmente su dueño, cómo puede recargarse o cuántos usos le restan (si tiene una cantidad de usos limitada) y si está maldito. Este cantrip no tiene efecto si se usa sobre changelings, incluyendo Licios.\n\nTipo: Quimérico.",
+    "tags": [
+      "cantrip",
+      "infusion"
+    ],
+    "mechanics": {
+      "arte": "Infusión",
+      "nivel": "·",
+      "tipo": "Quimérico"
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "ojo-de-artesano",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "make-it-work",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Make It Work",
+    "name_es": "Hazlo Funcionar",
+    "body_es": "Los expertos en Infusión tienen reputación de ser capaces de trabajar más rápido y de forma más eficiente que cualquier otro artesano changeling, y este cantrip es la principal razón. Al recurrir a la naturaleza fundamentalmente maleable de las quimeras y las interminables posibilidades del Glamour, pueden reparar objetos rotos o remodelarlos por completo en un instante. Un practicante hábil puede incluso realizar cambios en quimeras vivas, aunque éstos son mucho más difíciles que trabajar con objetos.\n\nSistema: El conjurador toca a la quimera o el Tesoro que desea reparar o remodelar; no son necesarias las herramientas apropiadas, pero reducen la dificultad del cantrip en 1. Para florituras de estilo como cambios de color, cambios menores de tamaño y otros retoques cosméticos, se requiere un número de éxitos igual al nivel del objeto (mínimo uno). Todos los poderes y cualidades del objeto permanecen inalterables, incluyendo cualquier requisito de activación u otras limitaciones. Además, el objeto aún ha de ser capaz de cumplir razonablemente con su papel o el Narrador puede determinar que el cantrip simplemente falla. Por ejemplo, un espadón podría sufrir cambios en el aspecto del metal o el estilo de la empuñadura, o incluso añadir arañas quiméricas cosméticas que correteen por la hoja cuando se desenvaine, pero no podría reducirse al tamaño de una espada ancha ya que no es un cambio cosmético.\n\nHacer reparaciones con este cantrip repara 1 nivel de daño por éxito y el conjurador puede gastar puntos de Glamour adicionales para reparar más daño a razón de punto por nivel. Si no está claro cuánta reparación requiere un objeto, por ejemplo, si tu capa favorita ha terminado desgarrada y quemada durante la historia, pero no ha sido objetivo específicamente de un daño numérico, opta por el nivel del objetivo (mínimo uno).\n\nAunque es más exigente, e incrementa la dificultad del cantrip en al menos 1, este cantrip puede usarse también para cambiar el aspecto de criaturas quiméricas así como para sanarlas. Para quimeras no conscientes amistosas, el changeling simplemente debe obtener tantos éxitos como el nivel de la quimera (mínimo uno), mientras que las quimeras conscientes requieren tantos éxitos como su puntuación de Glamour (lo que puede requerir múltiples cantrips). Las quimeras conscientes han de consentir al proceso, y en ningún caso se puede transformar a los seres quiméricos de forma perjudicial o dolorosa. La sanación de quimeras funciona de la misma forma que la reparación de objetos, pero no puede usarse sobre la misma quimera más de una vez por escena.\n\nDebería señalarse que, aunque potente, este cantrip no puede usarse sobre criaturas hostiles, o sobre ningún objeto sin el consentimiento consciente de su propietario por derecho.\n\nTipo: Quimérico (de Fantasía para Tesoros).",
+    "tags": [
+      "cantrip",
+      "infusion"
+    ],
+    "mechanics": {
+      "arte": "Infusión",
+      "nivel": "··",
+      "tipo": "Quimérico (de Fantasía para Tesoros)"
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "hazlo-funcionar",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "energize",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Energize",
+    "name_es": "¡Energizar!",
+    "body_es": "En este estadio, quien esgrime Infusión ha observado el flujo del Glamour y ha aprendido cómo almacenarlo en objetos, creando esencialmente baterías de Glamour duraderas. También puede transferir Glamour entre voluntarios vivos, aunque esto es notablemente menos eficiente. Aunque el almacenamiento de Glamour es sin duda útil por sí solo, este cantrip es también un paso crítico en crear auténtica vida quimérica, lo que es el objetivo último de la mayoría de practicantes de Infusión.\n\nSistema: El conjurador puede tocar un objeto y transferir puntos de Glamour a él, hasta un máximo igual a su puntuación de Glamour. Este Glamour permanece disponible tantas semanas como éxitos obtenidos, tras lo cual disminuye a un ritmo de 1 punto de Glamour por semana. Este declive se ralentiza a 1 punto al mes en Feudos o en el Ensueño. Retirar Glamour almacenado simplemente requiere tocar el objeto y recurrir al Glamour, aunque el conjurador puede designar una contraseña o alguna otra medida de seguridad sencilla para poder acceder al Glamour almacenado. Esto debe hacerse cuando se lanza el cantrip, si no, cualquier changeling o quimera que reconozca el objeto como una batería puede acceder a él.\n\nLos objetos que ya son mágicos como Tesoros u objetos quiméricos con efectos sobrenaturales no pueden usarse para almacenar Glamour. Cualquiera con Sagacidad que sostenga un objeto cargado reconoce de inmediato que contiene Glamour y superar una tirada de Percepción + Sagacidad a dificultad 10 menos los puntos de Glamour almacenado también revelará un objeto cargado. Las criaturas vivas no pueden usarse como baterías. Transferir Glamour entre dos voluntarios requiere que ambos sujetos toquen al conjurador y permitan la transferencia de puntos de Glamour hasta los éxitos obtenidos durante el lanzamiento del cantrip; sin embargo, siempre se pierde 1 punto durante la transferencia a causa de la relativa ineficacia de la conexión. Este cantrip no puede usarse sobre objetivos reacios.\n\nEl conjurador no puede crear más baterías que su puntuación de Glamour permanente. Si lo intenta, una batería existente a su elección queda drenada de inmediato y cualquier Glamour que contenga se pierde. También debería destacarse que aunque tener acceso a un suministro de Glamour almacenado sin duda tiene sus ventajas, también aumenta significativamente el riesgo de Confusión.\n\nTipo: Quimérico.",
+    "tags": [
+      "cantrip",
+      "infusion"
+    ],
+    "mechanics": {
+      "arte": "Infusión",
+      "nivel": "···",
+      "tipo": "Quimérico"
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "energizar",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "reforge",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Reforge",
+    "name_es": "Reforjar",
+    "body_es": "Los changelings que persiguen las cúspides de Infusión han dominado los sutiles matices de la creación quimérica tan bien que pueden ir más allá de los cambios cosméticos de Hazlo Funcionar para alterar a nivel fundamental todo tipo de quimera e incluso Tesoros. Pueden cambiar drásticamente el tamaño o la forma de un objeto, así como sus capacidades, añadir nuevos poderes mágicos o retirar algunas existentes que ya no encuentren útiles. Cambiar quimeras vivas es más difícil y está más limitado, pero aún es posible. El changeling puede incluso «descomponer» objetos encantados para infundir Glamour directamente en la creación de un nuevo objeto, aunque inevitablemente se pierda algo de poder en el proceso.\n\nSistema: El conjurador ha de tocar el objeto o ser que va a alterar y, como de costumbre, tener acceso a tiempo y herramientas facilita el proceso. El conjurador debe obtener tantos éxitos en el cantrip como el nivel del objeto (mínimo uno) y gastar 5 puntos de Glamour aparte de cualquier otro coste del cantrip. Si tiene éxito, puede alterar cualquier elemento físico del objeto que desee, y aún más importante, puede intercambiar cualquier poder existente por otros de igual nivel o menor. Así, si descompuso un Tesoro que contenía un cantrip de nivel 3, por ejemplo, podría cambiarlo por otro cantrip de nivel 3, uno de nivel 2 y otro de nivel 1 o tres cantrips de nivel 1. Si los poderes de un objeto no corresponden directamente con cantrips existentes, el Narrador determina el equivalente en lo que respecta a ese cambio. El conjurador debe conocer los cantrips por los que desea cambiarlo, hacer que otro que los conozca participe en el lanzamiento del cantrip con él o tener acceso a objetos con los poderes deseados.\n\nDescomponer objetos encantados es bastante sencillo. El conjurador debe obtener tantos éxitos como el nivel del objeto (mínimo uno), y si tiene éxito, el objeto pierde todos sus poderes mágicos y el conjurador obtiene una forma especial de batería de Glamour. El propio objeto no es destruido, simplemente ya no es mágico de ninguna forma. La batería creada con él contiene el nivel del objeto en puntos de Glamour y puede usarse de la misma forma que una batería creada con ¡Energizar!, pero contiene también otra aplicación más potente. Esta batería puede usarse para infundir otro objeto y por tanto crear al instante un objeto mágico o Tesoro de hasta el nivel del objeto original menos uno (mínimo uno).\n\nTransformar quimeras vivas permite no sólo cualquier cambio cosmético que el conjurador desee, sino que le permite redistribuir 5 de los puntos de creación de la quimera por éxito en la tirada. Se puede lanzar múltiples veces el cantrip para asegurarse de redistribuir todos los puntos que el conjurador desee. Las quimeras conscientes deben consentir en su uso o el cantrip falla de inmediato.\n\nTipo: Quimérico (de Fantasía para Tesoros).",
+    "tags": [
+      "cantrip",
+      "infusion"
+    ],
+    "mechanics": {
+      "arte": "Infusión",
+      "nivel": "····",
+      "tipo": "Quimérico (de Fantasía para Tesoros)",
+      "coste": "5 puntos de Glamour (aparte de otros costes)"
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "reforjar",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "apotheosis",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Apotheosis",
+    "name_es": "Apoteosis",
+    "body_es": "A este nivel de habilidad, un maestro de Infusión puede intentar quizás la creación definitiva, es decir, la vida misma. Puede crear autómatas relativamente sencillos y sin mente, o tomar el camino más peligroso de seres realmente conscientes. Ya sean autómatas o seres con libre albedrío, estas creaciones pueden variar ampliamente en tamaño, apariencia y capacidades.\n\nSistema: Siempre debe usarse el Reino Hada ····· (Portador de Glamour) para este cantrip.\n\nCrear vida quimérica, aunque sean autómatas sin mente, es un proceso complejo y exigente. Se ha de cultivar o construir un cuerpo adecuado, y sólo bastarán aquéllos de calidad excepcional. Esto no sólo requiere materiales apropiados y tiempo para funcionar, sino también una extensa serie de tiradas, con la dificultad y el número de éxitos requeridos dictados por el tamaño, rasgos, posibles habilidades y otras características que el creador desee. Fallar en las tiradas requiere desechar el diseño y volver a empezar, mientras que un fracaso no sólo no produce un cuerpo viable, sino que en el proceso inutiliza todos los materiales involucrados.\n\nSi el conjurador desea crear un autómata, todo lo que necesita una vez que ha terminado el cuerpo, es instalar una batería de Glamour cargada u otra fuente de energía, superar una tirada para lanzar el cantrip y el gasto de 5 puntos de Glamour. Los autómatas poseen una reserva base de 10 puntos de quimera por éxito para gastar en Atributos, Habilidades, Glamour, Fuerza de Voluntad, niveles de Salud y Redes (tienen un máximo total de 50 puntos). Ninguno puede poseer Inteligencia. Los autómatas no poseen la Rede Forma de Sueño.\n\nCrear vida quimérica realmente consciente es mucho más exigente. Una vez terminado el cuerpo, debe introducirse en su interior una fuente de energía inicial, deben gastarse 10 puntos de Glamour y luego lanzar el cantrip con éxito para determinar los puntos de creación disponibles (de nuevo, un máximo de 50 puntos). Si el cantrip tiene éxito, el ser vive, pero para conceder consciencia, el conjurador debe hacer una última tirada de creación a dificultad 4 + la puntuación de Inteligencia deseada. Fallar la tirada para ganar consciencia da como resultado un autómata sin mente como antes, pero debido a su diseño fallido, sólo recibe 5 puntos por éxito para repartir entre sus Rasgos. Un fracaso significa que se infunde consciencia a la criatura con éxito, pero de una forma horrible y retorcida.\n\nEste cantrip no puede usarse para crear con éxito autómatas o seres conscientes más veces por historia que el Glamour permanente del personaje a menos que el Narrador permita específicamente lo contrario.\n\nTipo: Quimérico.",
+    "tags": [
+      "cantrip",
+      "infusion"
+    ],
+    "mechanics": {
+      "arte": "Infusión",
+      "nivel": "·····",
+      "tipo": "Quimérico",
+      "reino_requerido": "Hada ····· (Portador de Glamour)",
+      "coste": "5 puntos de Glamour (autómata) / 10 puntos de Glamour (ser consciente)",
+      "puntos_creacion": "10 por éxito para autómata; máximo total de 50 puntos"
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "apoteosis",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "narration",
+    "type": "art",
+    "line": "changeling",
+    "name_en": "Narration",
+    "name_es": "Narración",
+    "body_es": "Esta rara Arte, antaño ámbito exclusivo del Linaje Eshu, abarca quizás la magia más primaria que existe: el poder de la propia narración. Cualquiera que haya llorado con una película alguna vez, se haya sumergido en un buen libro, cantado un éxito de Broadway o sentido que su pulso se aceleraba en el clímax de un videojuego ya sabe el poder de esta Arte. Los Kithain que dominan estos cantrips van un paso más allá y usan historias para transformar el mundo que los rodea.\n\nNarración se considera nominalmente un Arte Luminosa, aunque la usan libremente miembros de ambas Cortes. Los Eshu siguen siendo sus principales practicantes, aunque disfruta de una creciente popularidad entre otras hadas parlanchinas. En concreto, Clurichaun, Piskies, Pooka, Sátiros e incluso algunos Sidhe Fiona y Leanhaun de inclinaciones interpretativas también se han encariñado con ella.\n\n[Nota del extractor: el fragmento de origen no incluye una línea explícita de «Atributo:» para esta Arte.]",
+    "tags": [
+      "arte",
+      "nueva-arte",
+      "eshu"
+    ],
+    "mechanics": {
+      "alineamiento": "nominalmente Luminosa",
+      "atributo": "no indicado en el fragmento de origen"
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "nueva-arte-narracion",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "twice-told-tales",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Twice-Told Tales",
+    "name_es": "Cuentos Dos Veces Contados",
+    "body_es": "Cuentos Dos Veces Contados concede al changeling acceso a rumores, relatos populares, leyendas urbanas, cotilleos, cuentos fantásticos, historias familiares y otras «verdades no oficiales» acerca del objetivo de su cantrip. El conjurador puede nombrar un área de interés general, como romance o escándalo, o simplemente dejar que sus historias esenciales más famosas (o infames) sean las primeras en salir a la luz. Los usos subsiguientes de este cantrip revelan información cada vez menos conocida, o simplemente fallan si no hay historias aplicables. Este cantrip también requiere que las historias hayan sido contadas en alguna clase de lugar público; un verdadero secreto que nadie conoce o un tema del que nunca se habla no saldrá a la luz con este cantrip.\n\nAunque este cantrip podría parecer muy similar a Mirada Atrás, ese Poder revela lo que realmente pasó en el pasado, mientras que este cantrip relata historias asociadas con un objetivo, incluso aquéllas basadas en hechos que aún están probablemente distorsionados o exagerados en comparación con la verdadera realidad de la situación.\n\nSistema: El Reino usado determina el tema sobre el que el changeling aprende historias. Actor revelaría historias sobre un mortal o Pródigo concretos, por ejemplo, mientras que Naturaleza proporcionaría relatos de la vida salvaje local. Se aprende una historia por éxito, aunque el Narrador puede determinar que un tema concreto queda agotado tras cierto punto, en cuyo caso el changeling es consciente de que no hay más relatos que aprender.\n\nTipo: Quimérico.",
+    "tags": [
+      "cantrip",
+      "narration"
+    ],
+    "mechanics": {
+      "arte": "Narración",
+      "nivel": "·",
+      "tipo": "Quimérico"
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "cuentos-dos-veces-contados",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "win-the-room",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Win the Room",
+    "name_es": "Ganarse a la Sala",
+    "body_es": "Ganarse a la Sala permite al changeling enviar puros pulsos mágicos que infunden a sus objetivos con una emoción determinada o impartir una simple idea, normalmente para potenciar su interpretación. La emoción o idea impartidas con este cantrip debe ser lo bastante sencilla para expresarse en no más de un par de palabras. El changeling podría inspirar sentimientos de «rebelión», por ejemplo, pero no implantar la idea concreta de «rebelarse contra el Duque Manchester y quemar su dominio hasta los cimientos». Igualmente, aunque puede tratar de canalizar la respuesta de un objetivo por otros medios, el changeling no puede directamente compeler a la acción, ni puede controlar exactamente cómo un objetivo podría reaccionar a la idea.\n\nSistema: El Reino usado determina el tipo de audiencia que puede verse influida por este cantrip. Ten en cuenta que se necesita Escena para afectar a más de un objetivo, lo que hace que se añada de forma habitual a este cantrip. Cada éxito aumenta el poder del pulso mágico y rebaja la dificultad de Interpretación, Expresión o las tiradas relacionadas en 1 durante el resto de la escena, siempre que refuercen la emoción o idea expresada.\n\nTipo: Quimérico.",
+    "tags": [
+      "cantrip",
+      "narration"
+    ],
+    "mechanics": {
+      "arte": "Narración",
+      "nivel": "··",
+      "tipo": "Quimérico"
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "ganarse-a-la-sala",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "breathless",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Breathless",
+    "name_es": "Sin Aliento",
+    "body_es": "Este versátil y malicioso cantrip permite a un changeling mantener a su audiencia en vilo mientras habla, manteniendo su atención únicamente en él, lo que le permite abandonar lentamente la escena o servir como poderosa distracción para otros. Los objetivos no se quedan literalmente paralizados, sino totalmente embelesados con lo que el changeling esté diciendo hasta el punto de pasar por alto los eventos más obvios que ocurran a su alrededor. El idioma no es una barrera para este cantrip, aunque carecer de una lengua común aumentará la dificultad de lanzarlo a menos que la historia sea tan simple como para resultar efectiva con gestos y mímica. El changeling debe hablar sin interrupciones significativas mientras dure el cantrip.\n\nAunque este cantrip es, sin duda, bueno para toda clase de huidas por los pelos y otras travesuras, el Ensueño no permite que aquéllos bajo su hechizo se vean expuestos a daño inmediato. Cualquier daño real o peligro inminente hace fallar el cantrip. En cambio, este cantrip puede usarse para permitir a un changeling acercarse para poder golpear o ayudar a aliados a establecer una emboscada. En tales circunstancias, los objetivos se consideran sorprendidos durante el primer turno.\n\nSistema: El Reino determina quién está siendo hechizado. Cada éxito mantiene al objetivo hechizado durante un minuto fuera de escenas estresantes como combates o confrontaciones acaloradas, o un turno de acción en situaciones de presión. Durante este tiempo, el changeling debe seguir hablando, pero puede moverse a velocidad de paseo, interactuar pacíficamente y usar magia que no sea agresiva. Esta duración puede extenderse en un intervalo por punto adicional de Glamour durante el lanzamiento. Un objetivo sólo puede ser afectado por este cantrip una vez por escena.\n\nTipo: Quimérico.",
+    "tags": [
+      "cantrip",
+      "narration"
+    ],
+    "mechanics": {
+      "arte": "Narración",
+      "nivel": "···",
+      "tipo": "Quimérico"
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "sin-aliento",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "of-legend",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Of Legend",
+    "name_es": "De Leyenda",
+    "body_es": "Al contar una historia y lanzar este cantrip, el changeling infunde a sus objetivos con el poder de la narrativa y potencia temporalmente sus capacidades, siempre que actúen siguiendo el papel que les ha asignado en la historia. Los objetivos no necesitan oír o entender al changeling, pero él aún debe contar una historia y especificar papeles y cualidades concretos que cada objetivo ha de encarnar, ya que esto determina qué rasgos son potenciados con su magia. Por ejemplo, si el changeling declara que un objetivo es un moderno Lanzarote, entonces su puntuación de Pelea con Armas puede aumentar cuando queda establecido su papel mítico. Sin embargo, no podría mejorar su puntuación de Informática, ya que no está realmente asociada con la figura artúrica.\n\nEs importante establecer que De Leyenda requiere roles concretos para que los individuos los interpreten. No basta decir «somos los buenos, estamos aquí para derrotar a los malos». Cada rol elegido debe tener rasgos definidos y expectativas por cumplir. Trátalo como si el cantrip diese al objetivo nuevas Búsquedas y Prohibiciones acordes al rol.\n\nSistema: El Reino usado determina quién recibe los efectos del cantrip. De Leyenda cuesta 1 punto de Glamour y 1 de Fuerza de Voluntad además de cualquier otro coste. Por cada éxito obtenido, el objetivo puede mejorar un Atributo o Habilidad en 1, incluso si lo eleva por encima de 5. El changeling tiene control sobre qué Rasgos se mejoran. Este cantrip dura hasta el final de la escena o hasta que el objetivo actúe alejándose demasiado del papel que se le ha asignado, según determine el Narrador.\n\nTipo: Quimérico.",
+    "tags": [
+      "cantrip",
+      "narration"
+    ],
+    "mechanics": {
+      "arte": "Narración",
+      "nivel": "····",
+      "tipo": "Quimérico",
+      "coste": "1 punto de Glamour y 1 de Fuerza de Voluntad (además de otros costes)"
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "de-leyenda",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "stranger-than-fiction",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Stranger Than Fiction",
+    "name_es": "Más Extraño que la Ficción",
+    "body_es": "Más Extraño que la Ficción permite al conjurador contar una historia tan poderosa que altera la propia realidad al retorcer de forma sutil pero poderosa los eventos de manera que encajen con la narrativa personal del changeling. En esencia, permite al changeling crear sus propias rachas de buena suerte, coincidencias fortuitas y otros eventos técnicamente plausibles aunque no especialmente probables.\n\nEs importante señalar que Más Extraño que la Ficción se parece más a editar de forma creativa la narrativa de la realidad que a reescribirla directamente. El cantrip no puede «deshacer» acciones que ya han ocurrido, ni contradecir hechos largo tiempo establecidos. Más Extraño que la Ficción tampoco puede conjurar descaradamente gente u objetos de la nada en frente de testigos (eso es dominio de otras Artes). El Narrador es el árbitro último de si este cantrip puede producir de forma justificable un resultado deseado, aunque se le anima a ser liberal en sus aplicaciones siempre que sea posible.\n\nSistema: El Reino usado determina qué clase de coincidencia se conjura. Además de los costes normales, este cantrip también requiere que el changeling adquiera puntos de Banalidad. Los teóricos Kithain especulan que este cantrip funciona porque el changeling realmente desvía la Banalidad que normalmente impide que ocurran eventos y rachas de buena suerte tan sorprendentes. Las coincidencias relativamente pequeñas o fáciles de explicar infligen 1 punto de Banalidad, posibilidades bastante improbables infligen 2 y eventos totalmente extraños pero aun así técnicamente plausibles causan 3.\n\nTipo: De Fantasía.",
+    "tags": [
+      "cantrip",
+      "narration"
+    ],
+    "mechanics": {
+      "arte": "Narración",
+      "nivel": "·····",
+      "tipo": "De Fantasía",
+      "coste_banalidad": "1 (coincidencia pequeña / fácil de explicar), 2 (posibilidad improbable), 3 (evento extraño pero plausible)"
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "section_anchor": "mas-extrano-que-la-ficcion",
+        "page": null,
+        "book_title_es": "Changelling el ensueño - Guia del jugador"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "recruitment",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Recruitment",
+    "name_es": "Reclutamiento",
+    "body_es": "Mientras dura la Cacería, el Cazador que dirige la manada tiene acceso a un cantrip especial. Se trata de una versión modificada de Dictum (Soberanía ····, Changeling: el Ensueño, pág. 226), en la que puede invocar Reclutamiento sobre cualquier changeling como si tuviera Hada ·· (Elevado Noble, Changeling: el Ensueño, pág. 234). La orden impartida es siempre la misma: «Únete a la Cacería». Para los changelings Oscuros, la dificultad de resistirse es 9; para los Luminosos, 7. Todos los changelings Luminosos que se unan a la Cacería, sea por voluntad propia o mediante Reclutamiento, comienzan a actuar inmediatamente según su Legado Oscuro. Si vuelven a su naturaleza Luminosa o no al acabar ésta depende del jugador.\n\nCuando invoca Reclutamiento, el jugador usa el valor mínimo de Arte y de Reino (4 y 2 respectivamente) o sus propias puntuaciones, lo que sea mayor. Reclutamiento sólo puede modificarse añadiendo el Reino Escena cuando el invocador desee afectar a más de un changeling; su Reino primario siempre es Hada. Si el invocador desea usar el Reino Tiempo, debe establecerse la activación antes de que acabe la Cacería. Si declara el fin de la Cacería antes de que se active, el cantrip se disipa sin efecto. Resistirse con éxito y el gasto de Fuerza de Voluntad funcionan como en el cantrip Dictum.",
+    "tags": [
+      "cacería-salvaje",
+      "samhain",
+      "corte-sombría"
+    ],
+    "mechanics": {
+      "base_cantrip": "Dictum (Soberanía ····, Changeling: el Ensueño, pág. 226)",
+      "art": "Soberanía ····",
+      "realm_primary": "Hada",
+      "realm_optional": [
+        "Escena (para afectar a más de un changeling)",
+        "Tiempo (debe establecerse la activación antes de que acabe la Cacería)"
+      ],
+      "fae_realm_reference": "Hada ·· (Elevado Noble, Changeling: el Ensueño, pág. 234)",
+      "min_art_realm": "Arte 4 y Reino 2 (o las propias puntuaciones, lo que sea mayor)",
+      "difficulty_to_resist": {
+        "changelings_oscuros": 9,
+        "changelings_luminosos": 7
+      },
+      "command": "«Únete a la Cacería»",
+      "notes": "Resistirse con éxito y el gasto de Fuerza de Voluntad funcionan como en el cantrip Dictum. Sólo disponible para el Cazador que dirige la Cacería Salvaje mientras ésta dura."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changeling: el Ensueño — Guía del Jugador",
+        "page": null,
+        "section_anchor": "unirse-y-resistirse-a-la-caceria",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "edges": []
   },
   {
     "id": "codigo-de-honor-merito-de-1-punto-codigo-de-honor",
@@ -113,7 +1249,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "compulsion-defecto-de-1-punto-compulsion",
@@ -135,7 +1272,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "dificultad-del-habla-dificultad-del-habla-defecto-de-1-punto",
@@ -157,7 +1295,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "exceso-de-confianza-exceso-de-confianza-defecto-de-1-punto",
@@ -179,7 +1318,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "fin-superior-merito-de-1-punto-fin-superior",
@@ -201,7 +1341,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "fobia-leve-defecto-de-1-punto-fobia-leve",
@@ -223,7 +1364,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "intolerancia-defecto-de-1-punto-intolerancia",
@@ -245,7 +1387,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "pesadillas-defecto-de-1-punto-pesadillas",
@@ -267,7 +1410,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "secreto-siniestro-secreto-siniestro-defecto-de-1-punto",
@@ -289,7 +1433,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "timidez-defecto-de-1-punto-timidez",
@@ -311,7 +1456,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "curiosidad-defecto-de-2-puntos-curiosidad",
@@ -333,7 +1479,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "mente-caotica-mente-caotica-defecto-de-2-puntos",
@@ -355,7 +1502,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "obsesion-defecto-de-2-puntos-obsesion",
@@ -377,7 +1525,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "sadismo-masoquismo-sadismo-masoquismo-defecto-de-2-puntos",
@@ -403,7 +1552,8 @@
     "review": {
       "reason": "dual/compound name — may be two entities",
       "conflicts": []
-    }
+    },
+    "edges": []
   },
   {
     "id": "venganza-defecto-de-2-puntos-venganza",
@@ -425,7 +1575,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "fobia-grave-defecto-de-3-puntos-fobia-grave",
@@ -447,7 +1598,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "objetivo-dominante-objetivo-dominante-defecto-de-3-puntos",
@@ -469,7 +1621,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "odio-defecto-de-3-puntos-odio",
@@ -491,7 +1644,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "salvavidas-defecto-de-3-puntos-salvavidas",
@@ -513,7 +1667,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "visiones-del-pasado-visiones-del-pasado-defecto-de-3-puntos",
@@ -535,7 +1690,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "calculador-relampago-calculador-relampago-merito-de-1-punto",
@@ -557,7 +1713,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "concentracion-merito-de-1-punto-concentracion",
@@ -579,7 +1736,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "sentido-comun-merito-de-1-punto-sentido-comun",
@@ -601,7 +1759,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "memoria-eidetica-memoria-eidetica-merito-de-2-puntos",
@@ -623,7 +1782,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "voluntad-de-hierro-voluntad-de-hierro-merito-de-2-puntos",
@@ -645,7 +1805,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "autoconfianza-merito-de-5-puntos-autoconfianza",
@@ -667,7 +1828,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "amnesia-defecto-de-2-puntos-amnesia",
@@ -689,7 +1851,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "confuso-defecto-de-2-puntos-confuso",
@@ -711,7 +1874,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "olvidadizo-defecto-de-3-puntos-olvidadizo",
@@ -733,7 +1897,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "sentidos-aguzados-sentidos-aguzados-merito-de-1-punto",
@@ -755,7 +1920,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "ceguera-al-color-defecto-de-1-punto-ceguera-al-color",
@@ -777,7 +1943,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "defecto-visual-defecto-de-2-puntos-defecto-visual",
@@ -799,7 +1966,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "duro-de-oido-defecto-de-1-punto-duro-de-oido",
@@ -821,7 +1989,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "sordo-defecto-de-4-puntos-sordo",
@@ -843,7 +2012,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "ciego-defecto-de-6-puntos-ciego",
@@ -865,7 +2035,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "ambidiestro-merito-de-1-punto-ambidiestro",
@@ -887,7 +2058,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "aptitud-informatica-aptitud-informatica-merito-de-1-punto",
@@ -909,7 +2081,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "aptitud-mecanica-aptitud-mecanica-merito-de-1-punto",
@@ -931,7 +2104,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "conductor-nato-merito-de-1-punto-conductor-nato",
@@ -953,7 +2127,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "magnetismo-animal-magnetismo-animal-merito-de-1-punto",
@@ -975,7 +2150,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "resistencia-al-veneno-resistencia-al-veneno-merito-de-1-punto",
@@ -997,7 +2173,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "linguista-natural-linguista-natural-merito-de-2-puntos",
@@ -1019,7 +2196,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "absorbente-merito-de-3-puntos-absorbente",
@@ -1041,7 +2219,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "arrojado-merito-de-3-puntos-arrojado",
@@ -1063,7 +2242,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "equilibrio-perfecto-equilibrio-perfecto-merito-de-3-puntos",
@@ -1085,7 +2265,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "polifacetico-merito-de-5-puntos-polifacetico",
@@ -1107,7 +2288,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "amor-verdadero-merito-de-1-punto-amor-verdadero",
@@ -1129,7 +2311,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "medium-merito-de-2-puntos-medium",
@@ -1151,7 +2334,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "sentido-del-peligro-sentido-del-peligro-merito-de-2-puntos",
@@ -1173,7 +2357,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "espiritu-mentor-merito-de-3-puntos-espiritu-mentor",
@@ -1195,7 +2380,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "companero-hombre-lobo-vampiro-companero-hombre-lobo-vampiro-merito-de-3-puntos",
@@ -1221,7 +2407,8 @@
     "review": {
       "reason": "dual/compound name — may be two entities",
       "conflicts": []
-    }
+    },
+    "edges": []
   },
   {
     "id": "corazon-de-poeta-merito-de-3-puntos-corazon-de-poeta",
@@ -1243,7 +2430,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "suerte-merito-de-3-puntos-suerte",
@@ -1265,7 +2453,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "invinculable-merito-de-4-puntos-invinculable",
@@ -1287,7 +2476,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "resistencia-al-hierro-merito-de-4-puntos-resistencia-al-hierro",
@@ -1309,7 +2499,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "arte-afin-merito-de-5-puntos-arte-afin",
@@ -1331,7 +2522,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "bendicion-del-aspecto-bendicion-del-aspecto-merito-de-5-puntos",
@@ -1353,7 +2545,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "eternidad-feerica-merito-de-5-puntos-eternidad-feerica",
@@ -1375,7 +2568,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "angel-de-la-guarda-merito-de-6-puntos-angel-de-la-guarda",
@@ -1397,7 +2591,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "regeneracion-regeneracion-merito-de-7-puntos",
@@ -1419,7 +2614,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "la-lengua-del-bardo-la-lengua-del-bardo-defecto-de-1-punto",
@@ -1441,7 +2637,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "ojos-de-hada-defecto-de-1-punto-ojos-de-hada",
@@ -1463,7 +2660,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "cualidad-sobrenatural-cualidad-sobrenatural-defecto-de-2-puntos",
@@ -1485,7 +2683,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "embrujado-defecto-de-3-puntos-embrujado",
@@ -1507,7 +2706,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "nieblas-despejadas-nieblas-despejadas-defecto-de-3-puntos",
@@ -1529,7 +2729,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "iman-quimerico-iman-quimerico-defecto-de-5-puntos",
@@ -1551,7 +2752,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "maldicion-de-los-sidhe-maldicion-de-los-sidhe-defecto-de-5-puntos",
@@ -1573,7 +2775,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "sino-aciago-defecto-de-5-puntos-sino-aciago",
@@ -1595,7 +2798,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "vampiro-psiquico-vampiro-psiquico-defecto-de-5-puntos",
@@ -1617,7 +2821,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "mentor-prestigioso-mentor-prestigioso-merito-de-1-punto",
@@ -1639,7 +2844,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "aprendizaje-erroneo-aprendizaje-erroneo-defecto-de-1-punto",
@@ -1661,7 +2867,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "mentor-infame-defecto-de-1-punto-mentor-infame",
@@ -1683,7 +2890,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "mentor-loco-defecto-de-1-punto-mentor-loco",
@@ -1705,7 +2913,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "mentor-resentido-mentor-resentido-defecto-de-1-punto",
@@ -1727,7 +2936,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "mentor-diabolico-mentor-diabolico-defecto-de-2-puntos",
@@ -1749,7 +2959,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "notoriedad-defecto-de-3-puntos-notoriedad",
@@ -1771,7 +2982,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "club-nocturno-merito-de-2-puntos-club-nocturno",
@@ -1793,7 +3005,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "lazos-judiciales-merito-de-2-puntos-lazos-judiciales",
@@ -1815,7 +3028,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "lazos-periodisticos-lazos-periodisticos-merito-de-2-puntos",
@@ -1837,7 +3051,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "lazos-artisticos-merito-de-3-puntos-lazos-artisticos",
@@ -1859,7 +3074,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "lazos-corporativos-lazos-corporativos-merito-de-3-puntos",
@@ -1881,7 +3097,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "lazos-eclesiasticos-lazos-eclesiasticos-merito-de-3-puntos",
@@ -1903,7 +3120,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "lazos-policiales-merito-de-3-puntos-lazos-policiales",
@@ -1925,7 +3143,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "lazos-politicos-merito-de-3-puntos-lazos-politicos",
@@ -1947,7 +3166,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "lazos-subterraneos-lazos-subterraneos-merito-de-3-puntos",
@@ -1969,7 +3189,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "mansion-merito-de-3-puntos-mansion",
@@ -1991,7 +3212,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "consejero-delegado-consejero-delegado-merito-de-5-puntos",
@@ -2013,7 +3235,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "protegido-defecto-de-3-puntos-protegido",
@@ -2035,7 +3258,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "belleza-sobrenatural-belleza-sobrenatural-merito-de-1-punto",
@@ -2057,7 +3281,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "elastico-merito-de-1-punto-elastico",
@@ -2079,7 +3304,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "corpulento-merito-de-4-puntos-corpulento",
@@ -2101,7 +3327,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "asma-defecto-de-1-punto-asma",
@@ -2123,7 +3350,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "bajo-defecto-de-1-punto-bajo",
@@ -2145,7 +3373,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "desfigurado-defecto-de-2-puntos-desfigurado",
@@ -2167,7 +3396,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "deformidad-defecto-de-3-puntos-deformidad",
@@ -2189,7 +3419,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "manco-defecto-de-3-puntos-manco",
@@ -2211,7 +3442,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "nino-defecto-de-3-puntos-nino",
@@ -2233,7 +3465,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "tullido-defecto-de-3-puntos-tullido",
@@ -2255,7 +3488,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "mudo-defecto-de-4-puntos-mudo",
@@ -2277,7 +3511,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "paraplejico-defecto-de-6-puntos-paraplejico",
@@ -2299,7 +3534,8 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "titulo",
@@ -2323,6 +3559,1651 @@
         "variant": "base"
       }
     ],
+    "related": [],
+    "edges": []
+  },
+  {
+    "id": "soothsay",
+    "type": "art",
+    "line": "changeling",
+    "name_en": "Soothsay",
+    "name_es": "Adivinación",
+    "body_es": "Permite lanzar cantrips relativos a la suerte y las profecías.",
+    "tags": [
+      "arte"
+    ],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "artes-artes",
+        "variant": "base"
+      }
+    ],
+    "review": {
+      "reason": "mechanics differ across sources",
+      "conflicts": [
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {}
+        },
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {
+            "attribute": "Inteligencia"
+          }
+        }
+      ]
+    },
+    "edges": [],
     "related": []
+  },
+  {
+    "id": "chicanery",
+    "type": "art",
+    "line": "changeling",
+    "name_en": "Chicanery",
+    "name_es": "Embustes",
+    "body_es": "Permite lanzar cantrips relativos al engaño y la confusión.",
+    "tags": [
+      "arte"
+    ],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "artes-artes",
+        "variant": "base"
+      }
+    ],
+    "review": {
+      "reason": "mechanics differ across sources",
+      "conflicts": [
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {}
+        },
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {
+            "attribute": "Manipulación"
+          }
+        }
+      ]
+    },
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "legerdemain",
+    "type": "art",
+    "line": "changeling",
+    "name_en": "Legerdemain",
+    "name_es": "Prestidigitación",
+    "body_es": "Permite lanzar cantrips relativos a los trucos y las ilusiones.",
+    "tags": [
+      "arte"
+    ],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "artes-artes",
+        "variant": "base"
+      }
+    ],
+    "review": {
+      "reason": "mechanics differ across sources",
+      "conflicts": [
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {}
+        },
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {
+            "attribute": "Destreza"
+          }
+        }
+      ]
+    },
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "primal",
+    "type": "art",
+    "line": "changeling",
+    "name_en": "Primal",
+    "name_es": "Primal",
+    "body_es": "Permite lanzar cantrips relativos a la curación y la resistencia.",
+    "tags": [
+      "arte"
+    ],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "artes-artes",
+        "variant": "base"
+      }
+    ],
+    "review": {
+      "reason": "mechanics differ across sources",
+      "conflicts": [
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {}
+        },
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {
+            "atributo_es": "Resistencia"
+          }
+        }
+      ]
+    },
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "sovereign",
+    "type": "art",
+    "line": "changeling",
+    "name_en": "Sovereign",
+    "name_es": "Soberanía",
+    "body_es": "Permite lanzar cantrips relativos a las órdenes y el gobierno.",
+    "tags": [
+      "arte"
+    ],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "artes-artes",
+        "variant": "base"
+      }
+    ],
+    "review": {
+      "reason": "mechanics differ across sources",
+      "conflicts": [
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {}
+        },
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {
+            "atributo_es": "Carisma",
+            "note": "Resistencia general: tirada opuesta de Fuerza de Voluntad (dificultad 6; o dificultad 7 gastando un punto de Fuerza de Voluntad). Cada éxito reduce los del lanzador en uno."
+          }
+        }
+      ]
+    },
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "wayfare",
+    "type": "art",
+    "line": "changeling",
+    "name_en": "Wayfare",
+    "name_es": "Viaje",
+    "body_es": "Permite lanzar cantrips relativos al movimiento y los viajes.",
+    "tags": [
+      "arte"
+    ],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "artes-artes",
+        "variant": "base"
+      }
+    ],
+    "review": {
+      "reason": "mechanics differ across sources",
+      "conflicts": [
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {}
+        },
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {
+            "atributo_es": "Astucia"
+          }
+        }
+      ]
+    },
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "actor",
+    "type": "realm",
+    "line": "changeling",
+    "name_en": "Actor",
+    "name_es": "Actor",
+    "body_es": "Describe tu afinidad con la gente.",
+    "tags": [
+      "reino"
+    ],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "reinos-reinos",
+        "variant": "base"
+      }
+    ],
+    "review": {
+      "reason": "mechanics differ across sources",
+      "conflicts": [
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {}
+        },
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {
+            "levels": [
+              {
+                "rating": "•",
+                "title_es": "Amigo Íntimo",
+                "description_es": "Alguien de mucha confianza, compañero, etc."
+              },
+              {
+                "rating": "••",
+                "title_es": "Contacto Personal",
+                "description_es": "Has tenido una larga conversación con esta persona y sabes su nombre."
+              },
+              {
+                "rating": "•••",
+                "title_es": "Cara Familiar",
+                "description_es": "Reconoces su cara, pero no has de saber su nombre."
+              },
+              {
+                "rating": "••••",
+                "title_es": "Extraño",
+                "description_es": "No necesitas información, pero la persona no puede ser tu enemigo."
+              },
+              {
+                "rating": "•••••",
+                "title_es": "Enemigo",
+                "description_es": "Esta persona puede ser tu enemigo, o competir contigo; un amigo contra el que estés jugando a algo entra en esta categoría."
+              }
+            ],
+            "note": "En el Markdown fuente las puntuaciones de dots se extrajeron como la letra 'z' (z=•, zz=••, ... zzzzz=•••••); reconstruidas aquí como dots."
+          }
+        }
+      ]
+    },
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "scene",
+    "type": "realm",
+    "line": "changeling",
+    "name_en": "Scene",
+    "name_es": "Escena",
+    "body_es": "Describe tu afinidad con un lugar o escenario concreto.",
+    "tags": [
+      "reino"
+    ],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "reinos-reinos",
+        "variant": "base"
+      }
+    ],
+    "review": {
+      "reason": "mechanics differ across sources",
+      "conflicts": [
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {}
+        },
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {
+            "levels": [
+              {
+                "rating": "•",
+                "title_es": "Cámara",
+                "description_es": "Hasta 8 metros cuadrados."
+              },
+              {
+                "rating": "••",
+                "title_es": "Cabaña",
+                "description_es": "Hasta 60 metros cuadrados."
+              },
+              {
+                "rating": "•••",
+                "title_es": "Casa",
+                "description_es": "Hasta 250 metros cuadrados"
+              },
+              {
+                "rating": "••••",
+                "title_es": "Parque",
+                "description_es": "Hasta 600 metros cuadrados"
+              },
+              {
+                "rating": "•••••",
+                "title_es": "Reino",
+                "description_es": "Hasta 16.000 metros cuadrados."
+              }
+            ],
+            "note": "En el Markdown fuente los dots se extrajeron como 'z' (z=•...zzzzz=•••••); reconstruidos como dots."
+          }
+        }
+      ]
+    },
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "fae",
+    "type": "realm",
+    "line": "changeling",
+    "name_en": "Fae",
+    "name_es": "Hada",
+    "body_es": "Describe tu afinidad con las hadas y lo feérico.",
+    "tags": [
+      "reino"
+    ],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "reinos-reinos",
+        "variant": "base"
+      }
+    ],
+    "review": {
+      "reason": "mechanics differ across sources",
+      "conflicts": [
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {}
+        },
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {
+            "levels": [
+              {
+                "rating": "•",
+                "title_es": "Plebeyo",
+                "description_es": "Un hada plebeya."
+              },
+              {
+                "rating": "••",
+                "title_es": "Noble",
+                "description_es": "Cualquier duende con título."
+              },
+              {
+                "rating": "•••",
+                "title_es": "Quimera",
+                "description_es": "Criaturas u objetos quiméricos."
+              },
+              {
+                "rating": "••••",
+                "title_es": "Galain elusivo",
+                "description_es": "Utilizable en seres feéricos no categorizados: Nunnehi, Inanimae o cualquier otro inexplicable pero perteneciente al Ensueño."
+              },
+              {
+                "rating": "•••••",
+                "title_es": "Portador de Glamour",
+                "description_es": "Cualquier cosa compuesta por Glamour: cantrips, tesoros, barcia, etc. (Nota: Necesitas poseer este nivel para intentar contrarrestar cualquier cantrip lanzado.)"
+              }
+            ],
+            "note": "En el Markdown fuente la tabla se extrajo linealizada (sin estructura de tabla) y los dots como 'z'; mapeo nivel→título→descripción reconstruido de forma inequívoca a partir del orden secuencial."
+          }
+        }
+      ]
+    },
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "nature",
+    "type": "realm",
+    "line": "changeling",
+    "name_en": "Nature",
+    "name_es": "Naturaleza",
+    "body_es": "Describe tu afinidad con las cosas del mundo natural: animales, plantas, aire, fuego, agua, tierra.",
+    "tags": [
+      "reino"
+    ],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "reinos-reinos",
+        "variant": "base"
+      }
+    ],
+    "review": {
+      "reason": "mechanics differ across sources",
+      "conflicts": [
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {}
+        },
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {
+            "levels": [
+              {
+                "rating": "•",
+                "title_es": "Materia Prima",
+                "description_es": "Materia no viva, orgánica (cuerda, papel, piedra, etc.). Si es inorgánica (acero, etc.) no es de este Reino."
+              },
+              {
+                "rating": "••",
+                "title_es": "Bosque Verde",
+                "description_es": "Plantas vivas orgánicas (no animales)."
+              },
+              {
+                "rating": "•••",
+                "title_es": "Animal Feroz",
+                "description_es": "Animales no inteligentes vivos (los animales conscientes entran bajo el dominio de Actor)"
+              },
+              {
+                "rating": "••••",
+                "title_es": "Fenómeno Natural",
+                "description_es": "Fenómenos naturales: clima, erupciones volcánicas, terremotos, etc."
+              },
+              {
+                "rating": "•••••",
+                "title_es": "Elemento Básico",
+                "description_es": "Elementos naturales (basados en el carbono), o en los cuatro tradicionales: fuego, agua, tierra y aire."
+              }
+            ],
+            "note": "En el Markdown fuente la tabla se extrajo linealizada y los dots como 'z'; mapeo nivel→título→descripción reconstruido de forma inequívoca a partir del orden secuencial."
+          }
+        }
+      ]
+    },
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "prop",
+    "type": "realm",
+    "line": "changeling",
+    "name_en": "Prop",
+    "name_es": "Objeto",
+    "body_es": "Describe tu afinidad con las cosas hechas por el hombre, desde collares a cerillas u ordenadores.",
+    "tags": [
+      "reino"
+    ],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "reinos-reinos",
+        "variant": "base"
+      }
+    ],
+    "review": {
+      "reason": "mechanics differ across sources",
+      "conflicts": [
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {}
+        },
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {
+            "levels": [
+              {
+                "rating": "•",
+                "title_es": "Prenda Ornada",
+                "description_es": "Objetos que se llevan puestos normalmente (ropa, anillos, tatuajes, etc.)"
+              },
+              {
+                "rating": "••",
+                "title_es": "Herramienta",
+                "description_es": "Un objeto sin partes móviles (espadas, escudos, pero no armas de fuego, y ni siquiera un mayal)"
+              },
+              {
+                "rating": "•••",
+                "title_es": "Objeto Mecánico",
+                "description_es": "Un objeto con partes móviles, pero que no necesita combustible para funcionar (incluidos los ordenadores que necesitan electricidad)."
+              },
+              {
+                "rating": "••••",
+                "title_es": "Máquina Compleja",
+                "description_es": "Un único objeto con componentes móviles, a veces electrónicos pero con un mecanismo fácil de entender (tostadoras, coches, presas de impresión, pero no ordenadores, televisores, etc.)"
+              },
+              {
+                "rating": "•••••",
+                "title_es": "Artefacto Arcano",
+                "description_es": "Cualquier objeto manufacturado no listado anteriormente, con componentes complejos."
+              }
+            ],
+            "note": "En el Markdown fuente los dots se extrajeron como 'z' (z=•...zzzzz=•••••); reconstruidos como dots."
+          }
+        }
+      ]
+    },
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "time",
+    "type": "realm",
+    "line": "changeling",
+    "name_en": "Time",
+    "name_es": "Tiempo",
+    "body_es": "Describe tu afinidad con el reino del tiempo.",
+    "tags": [
+      "reino"
+    ],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "reinos-reinos",
+        "variant": "base"
+      }
+    ],
+    "review": {
+      "reason": "mechanics differ across sources",
+      "conflicts": [
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {}
+        },
+        {
+          "sources": [
+            "changelling-el-ensueno-manual-basico"
+          ],
+          "mechanics": {
+            "levels": [
+              {
+                "rating": "•",
+                "tiempo_de_retraso_es": "1 turno"
+              },
+              {
+                "rating": "••",
+                "tiempo_de_retraso_es": "1 hora"
+              },
+              {
+                "rating": "•••",
+                "tiempo_de_retraso_es": "1 día"
+              },
+              {
+                "rating": "••••",
+                "tiempo_de_retraso_es": "1 semana"
+              },
+              {
+                "rating": "•••••",
+                "tiempo_de_retraso_es": "1 mes"
+              }
+            ],
+            "note": "Tabla 'Nivel / Tiempo de Retraso'. En el Markdown fuente se extrajo linealizada y los dots como 'z'; mapeo reconstruido de forma inequívoca a partir del orden secuencial."
+          }
+        }
+      ]
+    },
+    "edges": [],
+    "related": []
+  },
+  {
+    "id": "omen",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Omen",
+    "name_es": "Presagio",
+    "body_es": "En general, la mayoría de la gente tiene problemas para verse a sí misma como parte del 'gran cuadro'. Este cantrip proporciona un atisbo del lugar del objetivo dentro del gran tapiz de Dán. Pistas sutiles del destino final de la persona, lugar o cosa son reveladas al lanzador. Aunque este cantrip es demasiado débil para proporcionar más que un atisbo del futuro del objetivo, Presagio no es de ningún modo una herramienta inútil.\n\nLa información obtenida con Presagio es crípticamente profética. Apunta al futuro del objetivo, pero a veces concierne también vagamente al presente inmediato. El hada puede no ser capaz de descubrir que el objetivo es un asesino en serie, pero puede adivinar que las intenciones del mismo no presagian nada bueno para alguien.\n\nSistema: Cuando se lanza un cantrip de Presagio, el Reino lo determina el sujeto del Presagio. En la mayoría de los casos será el Reino de Hada o Actor (dado que la mayoría de los Presagios son sobre gentes), pero es posible lanzar un Presagio sobre un objeto y aprender algo sobre su futuro.\n\nLos éxitos determinan qué información se obtiene del sujeto. Ninguna de las respuestas proporcionadas es directa, y el Narrador deberá mostrar las respuestas como pistas simbólicas visuales.\n\n- 1 éxito - Una pista sobre un plan inmediato del objetivo.\n- 2 éxitos - Una pista sobre la Actitud o disposición general del objetivo (si es un hada, una pista sobre su Corte)\n- 3 éxitos - Una pista sobre un objetivo a largo plazo del objetivo.\n- 4 éxitos - Una pista sobre la naturaleza interior (o Legado) del objetivo.\n- 5 éxitos - Una pista sobre un secreto estrechamente guardado por el objetivo.\n\nUn hada que lanza este cantrip no recibe información directa. Lanzamientos múltiples no son acumulativos. Cualquier lanzamiento posterior tiene un +1 a la dificultad, y la información tiene tendencia a ser más vaga con cada lanzamiento sucesivo. El Disparate usado para activar el cantrip debería implicar algún tipo de adivinación tradicional (Tarot, hojas de té, astrología, lectura de entrañas, etc.)\n\nTipo: Quimérico",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "art": "soothsay",
+      "level": 1,
+      "type": "Quimérico",
+      "successes": {
+        "1": "Una pista sobre un plan inmediato del objetivo.",
+        "2": "Una pista sobre la Actitud o disposición general del objetivo (si es un hada, una pista sobre su Corte)",
+        "3": "Una pista sobre un objetivo a largo plazo del objetivo.",
+        "4": "Una pista sobre la naturaleza interior (o Legado) del objetivo.",
+        "5": "Una pista sobre un secreto estrechamente guardado por el objetivo."
+      }
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "presagio",
+        "variant": "base"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "fair-is-foul-and-foul-is-fair",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Fair is Foul and Foul is Fair",
+    "name_es": "Lo bueno es malo y lo malo bueno",
+    "body_es": "Con este cantrip, el lanzador puede afectar más activamente al Dán de un objetivo. Puede maldecir al blanco con mala suerte, o lanzarle un rayo de buena suerte en su camino. En cualquier caso, el cambio no es normalmente mayor; la situación del blanco sólo afecta a los elementos que no están aún decididos en su camino. Los enemigos poderosos no morirán de pronto, pero con un poco de buena suerte, el objetivo puede encontrar un retazo de información que haga cambiar de idea a su enemigo sobre él, o (con mala suerte) el aliado más cercano del blanco decidirá de pronto que no es digno de confianza y se unirá al enemigo. Sea lo que sea lo que suceda, el cambio es normalmente inesperado.\n\nSistema: El Reino lo determina el blanco del cantrip, los elementos afectados y cualquier otro implicado. Los lanzamientos múltiples no son acumulativos; sólo causan efectos múltiples. Es más, todos los lanzamientos sucesivos sobre un objetivo tienen +1 a la dificultad, y el lanzamiento sucesivo de mala suerte sobre el mismo blanco tiende a perjudicar al lanzador.\n\nEl número de éxitos determina la cantidad de buena o mala suerte que recibe el blanco. Para una suerte 'rápida y directa', el lanzador puede modificar la dificultad de una única tirada aumentándola en 3 o disminuyéndola hasta 5.\n\n- 1 éxito - Hallar o perder un objeto pequeño (llaves del coche, un viejo amigo)\n- 2 éxitos - Hallar o perder una adquisición valiosa (tu baraja de Rage, un amigo valioso)\n- 3 éxitos - Hallar o perder algo de gran valor (un amor apasionado; una herencia considerable)\n- 4 éxitos - Hallar o perder un elemento mayor (un patrón/enemigo poderoso; una espada mágica; un compañero de por vida; la fortuna familiar)\n- 5 éxitos - Hallar o perder algo crítico (tu salud, nunca fatal; un tomo mágico mayor).\n\nTipo: Quimérico",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "art": "soothsay",
+      "level": 2,
+      "type": "Quimérico",
+      "difficulty_modifier": "una única tirada: +3 o hasta -5",
+      "successes": {
+        "1": "Hallar o perder un objeto pequeño (llaves del coche, un viejo amigo)",
+        "2": "Hallar o perder una adquisición valiosa (tu baraja de Rage, un amigo valioso)",
+        "3": "Hallar o perder algo de gran valor (un amor apasionado; una herencia considerable)",
+        "4": "Hallar o perder un elemento mayor (un patrón/enemigo poderoso; una espada mágica; un compañero de por vida; la fortuna familiar)",
+        "5": "Hallar o perder algo crítico (tu salud, nunca fatal; un tomo mágico mayor)."
+      }
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "lo-bueno-es-malo-y-lo-malo-bueno",
+        "variant": "base"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "tattletale",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Tattletale",
+    "name_es": "Espía",
+    "body_es": "Este cantrip proporciona una forma de espiar a través de un objeto que sea familiar para el lanzador. Con Espía, el hada puede ver cualquier cosa que esté en la proximidad inmediata del objeto. La imagen aparece en cualquier superficie refleja que desee. Para lanzar con éxito este cantrip, el blanco debe ser bien conocido por el hada, o debe poseer una parte de él, o conocer su Nombre Verdadero. Una vez se establece la conexión, puede usar cualquier cantrip o Habilidad basada en Percepción a través del objeto.\n\nSistema: Igual que con cantrips que implican a múltiples elementos, se necesitan varios Reinos para incorporarlo todo. Por ejemplo, un troll quiere espiar a varios Nunnehi que robaron su copa favorita, así como el entorno. Necesitara Hada 4, Objeto 2 y Escena 1. Si sólo quisiera ver la interacción entre los Nunnehi sólo necesitaría Hada 4 y Objeto 2.\n\nLos lanzamientos múltiples no son acumulativos. No hay límite de alcance para lanzar este cantrip. Algunos usuarios han captado incluso imágenes del Ensueño (si el objeto está en el Ensueño, la Umbra, etc. resta dos de los éxitos totales. Asume que el cantrip falla si el resultado neto es de menos de un éxito.). Cuantos más éxitos se obtienen más detallada e intrincada es la información.\n\n- 1 éxito - Destellos reveladores, con interrupciones y saltos si se mueve el objeto. Sólo visual, dura un turno.\n- 2 éxitos - Una buena imagen que dura aproximadamente cinco minutos, sin sonido ni color. El punto de vista no se puede elegir, y no cambia a menos que el objeto se mueva.\n- 3 éxitos - La imagen es perfectamente clara, con color y el sonido difuso (es posible oír los sonidos a hasta dos metros de distancia del objeto). El punto de vista se puede mover hacia arriba o hacia abajo, derecha o izquierda. El contacto dura una escena.\n- 4 éxitos - Igual que el anterior, excepto que se puede oír todo lo que sucede dentro del alcance auditivo normal. Además, el lanzador puede concentrarse (o hacer un 'zoom') en cualquier detalle cercano al objeto. Con una tirada con éxito de Adivinación + Reino (dificultad basada en la Banalidad del objetivo + 4), el lanzador puede usar Presagio en cualquier sujeto que vea mediante este cantrip. El contacto dura hasta el amanecer o el ocaso, lo que suceda antes.\n- 5 éxitos - Igual que el anterior, excepto que el lanzador puede mover el punto de vista a donde quiera. Puede elegir a un sujeto y seguirle, incluso aunque se mueva fuera del alcance visual del objeto original. Con una tirada con éxito de Adivinación + Reino (dificultad basada en la Banalidad del objetivo + 4), puede usar cantrips de Adivinación de hasta Nivel Dos sobre el objetivo. El contacto dura un día entero, pero ha de hacerse una tirada de Resistencia + Meditación (dificultad 7) para mantener el contacto por cada seis horas.\n\nTipo: Quimérico",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "art": "soothsay",
+      "level": 3,
+      "type": "Quimérico",
+      "successes": {
+        "1": "Destellos reveladores, con interrupciones y saltos si se mueve el objeto. Sólo visual, dura un turno.",
+        "2": "Una buena imagen que dura aproximadamente cinco minutos, sin sonido ni color. El punto de vista no se puede elegir, y no cambia a menos que el objeto se mueva.",
+        "3": "La imagen es perfectamente clara, con color y el sonido difuso (es posible oír los sonidos a hasta dos metros de distancia del objeto). El punto de vista se puede mover hacia arriba o hacia abajo, derecha o izquierda. El contacto dura una escena.",
+        "4": "Se puede oír todo lo que sucede dentro del alcance auditivo normal. Puede hacer 'zoom'. Con Adivinación + Reino (dificultad basada en la Banalidad del objetivo + 4) puede usar Presagio en cualquier sujeto que vea. El contacto dura hasta el amanecer o el ocaso, lo que suceda antes.",
+        "5": "Puede mover el punto de vista a donde quiera y seguir a un sujeto. Con Adivinación + Reino (dificultad basada en la Banalidad del objetivo + 4) puede usar cantrips de Adivinación de hasta Nivel Dos sobre el objetivo. El contacto dura un día entero; tirada de Resistencia + Meditación (dificultad 7) por cada seis horas para mantenerlo."
+      }
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "espia",
+        "variant": "base"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "augury",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Augury",
+    "name_es": "Augurio",
+    "body_es": "Un hada usa Presagio para obtener un pequeño atisbo del Dán de una persona. Con Augurio, puede introducir un elemento mayor en la senda del destino de una persona.\n\nAugurio funciona como una forma limitada de Fuego del Destino. Después de realizar el Disparate (lo que debe incluir alguna forma de adivinación, como en Presagio) y lanzar el cantrip, el duende describe una escena o suceso que tendrá lugar en algún momento futuro. El suceso puede ocurrir en cualquier momento, y el lanzador no tiene control sobre cuándo lo hará.\n\nSistema: Los lanzamientos múltiples no son acumulativos; no obstante, pueden 'encadenar' escenas sucesivas en el futuro. No es posible unir de este modo más de tres escenas. El Reino describe todos los elementos mayores del Augurio, incluido el objetivo. Para afectar áreas grandes fuera de la vecindad inmediata del objetivo, se requiere Escena.\n\nEl número de éxitos determina la consecuencia en torno a la que gira el elemento descrito.\n\n- 1 éxito - Suceso menor, un elemento meteorológico escénico (ligero cambio meteorológico); se encuentran las llaves del coche; llega una carta inesperada.\n- 2 éxitos - Suceso poco común, un elemento escénico (tormenta, nieve, choque de 3 coches); un viejo amigo resurge del pasado; Hacienda decide no investigarte.\n- 3 éxitos - Evento significativo, clima extraño (un rayo alcanza a una persona concreta, o una lluvia de ranas cae sobre Los Ángeles); un perro descubre al asesino de su amo; un aliado llega en el momento justo.\n- 4 éxitos - Suceso decisivo, elementos más amplios (granizo del tamaño de pelotas de baloncesto, o lluvia ácida y de cenizas durante una semana); la milicia del estado se rebela; Hacienda establece un fondo de ayuda para ti, basándose en tu declaración de renta.\n- 5 éxitos - Suceso increíblemente concreto, elementos casi imposibles (el presidente admite que es un vampiro, una ciudad sencillamente desaparece); la milicia del estado anuncia su apoyo a Perú; un niño de tres cabezas da una conferencia de prensa.\n\nNota: El lanzador consigue un éxito gratuito (además de los que obtenga) si su Augurio sugerido es un elemento complementario del Dán del objetivo. Si no consigue ningún éxito tampoco logra el éxito extra.\n\nTipo: Quimérico",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "art": "soothsay",
+      "level": 4,
+      "type": "Quimérico",
+      "successes": {
+        "1": "Suceso menor, un elemento meteorológico escénico (ligero cambio meteorológico); se encuentran las llaves del coche; llega una carta inesperada.",
+        "2": "Suceso poco común, un elemento escénico (tormenta, nieve, choque de 3 coches); un viejo amigo resurge del pasado; Hacienda decide no investigarte.",
+        "3": "Evento significativo, clima extraño (un rayo alcanza a una persona concreta, o una lluvia de ranas cae sobre Los Ángeles); un perro descubre al asesino de su amo; un aliado llega en el momento justo.",
+        "4": "Suceso decisivo, elementos más amplios (granizo del tamaño de pelotas de baloncesto, o lluvia ácida y de cenizas durante una semana); la milicia del estado se rebela; Hacienda establece un fondo de ayuda para ti.",
+        "5": "Suceso increíblemente concreto, elementos casi imposibles (el presidente admite que es un vampiro, una ciudad sencillamente desaparece)."
+      },
+      "notas": "El lanzador consigue un éxito gratuito adicional si su Augurio sugerido es un elemento complementario del Dán del objetivo; si no consigue ningún éxito tampoco logra el extra."
+    },
+    "related": [
+      "mage/augury"
+    ],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "augurio",
+        "variant": "base"
+      }
+    ],
+    "edges": [
+      {
+        "target": "mage/augury",
+        "type": "cross-line",
+        "via": "id:augury"
+      }
+    ]
+  },
+  {
+    "id": "fate-fire",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Fate Fire",
+    "name_es": "Fuego del Destino",
+    "body_es": "Mucha gente tiene escaso contacto con su Dán; es por ello que el concepto es tan elusivo. El día del juicio no llega normalmente por casualidad. Los lanzadores de Fuego del Destino aceleran el proceso y hacen que el destino de una persona se manifieste antes para bien o para mal, dependiendo del equilibrio.\n\nEl lanzador no tiene control sobre la cantidad. Por supuesto, puede hacer sugerencias al Narrador tales como cuál sería la manifestación más adecuada. Los lanzadores de Fuego del Destino tienen a menudo sueños vagos y portentosos sobre lo que sucederá.\n\nSistema: Igual que con muchos cantrips de Adivinación, el lanzador necesita conocer todos los Reinos que toman parte en el lanzamiento de Fuego del Destino, incluido el del objetivo. Los éxitos determinan el grado del Dán atraído sobre el objetivo.\n\n- 1 éxito - El objetivo recibe un encuentro afortunado, que le advierte de las consecuencias (o beneficios) de sus acciones. Un soldado preocupado tiene pesadillas sobre la guerra; un mal conductor casi resulta atropellado.\n- 2 éxitos - El objetivo recibe una ilustración clara sobre su Dán, sugiriendo sus recompensas finales. El soldado recibe en el correo Juan Salvador Gaviota (sin remite); el mal conductor ve cómo dos coches quedan destrozados en un choque.\n- 3 éxitos - Un cambio repentino en los planes del objetivo que o bien le hace volver atrás o le impulsa hacia adelante. El soldado es acusado ante una corte marcial; el mal conductor hereda de pronto un deportivo.\n- 4 éxitos - El destino aparece dramáticamente y revela el fin de las actuaciones del sujeto. Esto puede significar tanto una calamidad como una prosperidad repentinas. El pelotón del soldado es aniquilado (excepto él), y él abandona su arma para intentar salvar a un niño. El mejor amigo del conductor muere en un accidente de coche.\n- 5 éxitos - Karma instantáneo. El destino de un personaje sucede inmediatamente. El soldado recibe una visita sobrenatural, que le informa que su destino no está ligado a la guerra, sino a salvar vidas. El conductor inconsciente tiene un accidente de coche, pero puede (o no) sobrevivir para convertirse en un conductor más seguro.\n\nTipo: Quimérico",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "art": "soothsay",
+      "level": 5,
+      "type": "Quimérico",
+      "successes": {
+        "1": "El objetivo recibe un encuentro afortunado, que le advierte de las consecuencias (o beneficios) de sus acciones.",
+        "2": "El objetivo recibe una ilustración clara sobre su Dán, sugiriendo sus recompensas finales.",
+        "3": "Un cambio repentino en los planes del objetivo que o bien le hace volver atrás o le impulsa hacia adelante.",
+        "4": "El destino aparece dramáticamente y revela el fin de las actuaciones del sujeto (calamidad o prosperidad repentinas).",
+        "5": "Karma instantáneo. El destino de un personaje sucede inmediatamente."
+      }
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "fuego-del-destino",
+        "variant": "base"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "fuddle",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Fuddle",
+    "name_es": "Confundir",
+    "body_es": "Confundir permite al lanzador alterar las percepciones del objetivo. El uso correcto de este Arte puede ser difícil, sin embargo, dado que no puede crear algo de la nada siempre ha de haber alguna base para el engaño que el lanzador desea crear. En cierto sentido, el lanzador está limitado por las percepciones del objetivo. No se puede hacer que un blanco que es ciego y sordo vea y oiga el océano de pronto, por ejemplo, pero se le puede confundir para que huela el aroma salado del mar. Confundir se basa en los factores ya existentes para engañar a los sentidos, y no puede negar por completo un sentido o crear una sensación.\n\nEste cantrip nunca puede causar daño directo a un individuo, aunque es posible que un blanco se inflija daño a sí mismo accidentalmente debido a la confusión de sus sentidos.\n\nSistema: El objetivo del cantrip determina la naturaleza del Reino necesario para usar el Arte. Se requiere el Reino de Escena para afectar a múltiples objetivos. Por ejemplo, lanzar Confundir sobre un pequeño grupo de turistas mortales para hacer que crean que un troll se ha convertido en lobo requiere Actor 4 (turistas mortales) y Escena 2 (para el grupo).\n\nEl número de éxitos indica cuánto tiempo queda Confuso el sujeto. Múltiples lanzamientos de Confundir no son acumulativos; si se intenta, el lanzamiento con mayor número de éxitos es el que surte efecto.\n\n- 1 éxito - un minuto\n- 2 éxitos - 10 minutos\n- 3 éxitos - una hora\n- 4 éxitos - un día\n- 5 éxitos - un mes\n\nTipo: Quimérico",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "art": "chicanery",
+      "level": 1,
+      "type": "Quimérico",
+      "successes": {
+        "1": "un minuto",
+        "2": "10 minutos",
+        "3": "una hora",
+        "4": "un día",
+        "5": "un mes"
+      }
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "confundir",
+        "variant": "base"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "veiled-eyes",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Veiled Eyes",
+    "name_es": "Ojos Velados",
+    "body_es": "Como su nombre indica, Ojos Velados afecta los sentidos del objetivo para hacer que ignoren cualquier cosa que desee el lanzador. El cantrip no vuelve un objeto invisible, sino que convence al observador de que el objeto no es digno de atención. Ojos Velados no hará que un almacén se desvanezca de la vista, pero puede convencer a los transeúntes de que el almacén no vende nada que les interese, haciendo que lo ignoren. La gente oculta con Ojos Velados es sencillamente ignorada.\n\nSistema: La persona u objeto velado determina el Reino necesario para usar este Arte. Este Arte funciona de forma diferente a la mayoría de los cantrips de Embustes pues una vez lanzado sobre un individuo u objeto, el blanco queda velado para todos los transeúntes. El Reino de Actor debe usarse para velar a un mortal, y el Reino de Escena sería el adecuado para velar un edificio (aunque Escena y Actor podrían usarse para velar una habitación llena de gente, haciendo que pareciera estar vacía para cualquiera que entrara o mirara en su interior).\n\nEl oscurecimiento dura un turno por éxito. Es posible doblar la cantidad de éxitos gastando un punto extra de Glamour. Un duende puede penetrar Ojos Velados tirando por Percepción + Sagacidad (dificultad 4 + el número de éxitos obtenidos en el lanzamiento inicial, antes de gastar puntos de Glamour). Sólo los mortales que han tenido contacto o conocen de antes el objeto velado tienen una oportunidad de resistir. Los seres sobrenaturales con sentidos mágicos (Sagacidad, Consciencia, Auspex, etc.) pueden intentar penetrar la ocultación la primera vez que se topan con ella. Este cantrip puede lanzarse múltiples veces para aumentar la duración.\n\nTipo: Quimérico",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "art": "chicanery",
+      "level": 2,
+      "type": "Quimérico",
+      "duration": "un turno por éxito (doblable gastando un punto extra de Glamour)",
+      "resistance": "Percepción + Sagacidad (dificultad 4 + éxitos del lanzamiento inicial, antes de gastar Glamour)"
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "ojos-velados",
+        "variant": "base"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "fugue",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Fugue",
+    "name_es": "Fuga",
+    "body_es": "(también conocido como 'En-la-punta-de-la-lengua') Mientras Confundir permite alterar las percepciones de una persona, Fuga recae en el apartado de la memoria. Con Fuga, el hada puede quitar o robar capítulos enteros de la vida y creencias de una persona, o resaltar un detalle sobresaliente, como el momento en que el objetivo saltó sobre él cuando caminaba por la calle. Fuga no puede añadir nada a los recuerdos de un individuo, y sus efectos rara vez son permanentes.\n\nSistema: Un hada sólo necesita el Reino del blanco para lanzar Fuga. El número de éxitos determina la duración y cantidad de memoria perdida. El lanzador divide el número de éxitos entre la pérdida de memoria y la duración, de acuerdo con las tablas siguientes. Un duende que obtiene cuatro éxitos podría hacer que el objetivo se olvide de su almuerzo durante un minuto, de la identidad de una persona durante un minuto, o de la localización de las llaves de su coche durante un día.\n\nPérdida de Memoria:\n- 1 éxito - Olvidar algo sencillo, un objeto o información inmediatos (llaves del coche, número de teléfono, etc.)\n- 2 éxitos - Pérdida de memoria de una escena poco interesante del pasado ('¿Qué he comido?' o '¿Cuál era su nombre?')\n- 3 éxitos - Erradicación completa de un suceso específico, identidad de una persona o presencia de un objeto.\n- 4 éxitos - Poderoso, se puede hacer olvidar creencias o recuerdos directos.\n- 5 éxitos - Tabula rasa, pérdida total de memoria (un vampiro podría olvidar su naturaleza, y encontrarse inexplicablemente anhelando sangre).\n\nDuración:\n- 1 éxito - un turno\n- 2 éxitos - un minuto\n- 3 éxitos - una hora\n- 4 éxitos - un día\n- 5 éxitos - una semana\n\nLos lanzamientos múltiples de este cantrip son acumulativos. Un hada que consiguiese 10 éxitos en tres tiradas de Fuga podría, por ejemplo, obligar a un mago a olvidar por completo su naturaleza Despierta durante una semana.\n\nTipo: Quimérico",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "art": "chicanery",
+      "level": 3,
+      "type": "Quimérico",
+      "note": "El lanzador reparte los éxitos entre 'Pérdida de Memoria' y 'Duración'.",
+      "perdida_de_memoria": {
+        "1": "Olvidar algo sencillo, un objeto o información inmediatos (llaves del coche, número de teléfono, etc.)",
+        "2": "Pérdida de memoria de una escena poco interesante del pasado ('¿Qué he comido?' o '¿Cuál era su nombre?')",
+        "3": "Erradicación completa de un suceso específico, identidad de una persona o presencia de un objeto.",
+        "4": "Poderoso, se puede hacer olvidar creencias o recuerdos directos.",
+        "5": "Tabula rasa, pérdida total de memoria."
+      },
+      "duracion": {
+        "1": "un turno",
+        "2": "un minuto",
+        "3": "una hora",
+        "4": "un día",
+        "5": "una semana"
+      }
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "fuga",
+        "variant": "base"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "captive-heart",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Captive Heart",
+    "name_es": "Corazón Encantado",
+    "body_es": "El lanzador de Corazón Encantado puede controlar y avivar las emociones del objetivo. Puede evocar cualquier tipo de sentimiento que desee: miedo, envidia, amor, alegría, tristeza, etc. Este cantrip puede hacer que un objetivo sienta cualquier cosa que sea capaz de sentir, incluso aunque no haya experimentado nunca antes la emoción deseada. El cantrip es más potente si la evocación emocional es similar a un episodio del pasado del objetivo.\n\nRecuerdos antiguos (incluso aquellos olvidados o bloqueados) podrían reactivarse con un uso hábil de Corazón Encantado. Los lanzadores afortunados (o astutos) que se las arreglan para despertar un sentimiento significativamente ligado a un incidente en el pasado del objetivo añaden un éxito gratuito cuando usan este cantrip.\n\nSistema: El Reino necesario para lanzar el cantrip lo determina el objetivo del mismo. Los Reinos de Actor y Hada son, de lejos, los más comunes.\n\nEste cantrip dura un minuto por éxito. La duración puede ampliarse gastando un punto de Glamour por cada minuto adicional. Los múltiples lanzamientos del cantrip son acumulativos, mientras el objeto y la emoción evocada sean los mismos. Emociones opuestas lanzadas sobre el mismo objeto se anulan la una a la otra, sin importar la cantidad de éxitos de cada lanzamiento. Una fobia a los caracoles lanzada con cinco éxitos puede neutralizarse con un cantrip de amor por los moluscos de un sólo éxito.\n\n- 1 éxito - Invoca una reacción leve.\n- 2 éxitos - El objetivo siente impulsos salvajes y caóticos de emociones intermitentes. Mientras el objeto emocional no esté a la vista, el blanco actúa con normalidad.\n- 3 éxitos - Crea un estado de pasión continuo. La conversación del objetivo deriva hacia el objeto emocional; +1 a todas las dificultades de tiradas que implican Atributos Mentales.\n- 4 éxitos - El objetivo está apasionadamente comprometido. Busca (o evita) activamente al objeto de su pasión; +2 a la dificultad de todas las tiradas.\n- 5 éxitos - Obsesión; el blanco no puede hacer nada excepto dedicarse a su pasión. Se vuelve violento si se le impide. Resistirse requiere el gasto de un punto de Fuerza de Voluntad (y una razón que amenace su vida).\n\nTipo: Quimérico",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "art": "chicanery",
+      "level": 4,
+      "type": "Quimérico",
+      "duration": "un minuto por éxito (ampliable con 1 punto de Glamour por minuto adicional)",
+      "successes": {
+        "1": "Invoca una reacción leve.",
+        "2": "Impulsos salvajes y caóticos de emociones intermitentes; mientras el objeto emocional no esté a la vista, el blanco actúa con normalidad.",
+        "3": "Estado de pasión continuo; +1 a todas las dificultades de tiradas que implican Atributos Mentales.",
+        "4": "Apasionadamente comprometido; busca o evita activamente al objeto de su pasión; +2 a la dificultad de todas las tiradas.",
+        "5": "Obsesión; no puede hacer nada excepto dedicarse a su pasión. Resistirse requiere gastar un punto de Fuerza de Voluntad (y una razón que amenace su vida)."
+      }
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "corazon-encantado",
+        "variant": "base"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "haunted-heart",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Haunted Heart",
+    "name_es": "Corazón Cautivo",
+    "body_es": "Aunque Corazón Encantado controla las emociones, Corazón Cautivo tiene una magnitud mayor. El blanco de Corazón Cautivo se vuelve complaciente a las órdenes del lanzador; su personalidad puede cambiar completamente con unas pocas palabras.\n\nEl uso de este cantrip permite al hada cambiar facetas amplias o estrechas del comportamiento de una persona. Se puede hacer que alguien crea que es Mick Jagger, una mecedora o un agente secreto del planeta Z. La víctima de este cantrip se esforzará al máximo para cumplir los deseos del lanzador. Esto tiene, sin embargo, ciertas limitaciones; no se puede ordenar al objetivo que haga nada directamente dañino para él. Órdenes tales como: 'Coge el cuchillo y ábrete la garganta' confundirán profundamente al blanco conforme se manifiesta su sentido de autopreservación. Por otro lado, una orden que no sea directamente dañina ('¿Ves ese hombre entre la multitud? ¡Atácale!') es obedecida con tanta rapidez como pueda el blanco.\n\nSistema: La naturaleza del objetivo del cantrip determina el Reino. Sólo se puede afectar a una persona con un lanzamiento de este Arte, por lo que el Reino de Escena no se puede utilizar para afectar a varios objetivos.\n\nEl número de éxitos determina cuánto dura el cantrip. Cada vez que el sujeto debe realizar una acción que vaya en contra de su personalidad, se le permite una tirada (extendida) de resistencia (Fuerza de Voluntad, dificultad 8). Si los éxitos totales de la tirada de resistencia superan el Glamour actual del lanzador, el cantrip se rompe. Igual que con todos los cantrips, los no-mortales pueden gastar Fuerza de Voluntad para romper el cantrip. Cualquier gasto de Fuerza de Voluntad que hagan cuenta como éxitos en tiradas de resistencia extendidas.\n\nCorazón Cautivo puede lanzarse diversas veces con éxitos acumulativos, si el lanzador gasta un punto de Glamour por cada lanzamiento extra. Si dos lanzadores usan órdenes que entren en conflicto sobre un mismo objetivo, el cantrip con mayor número de éxitos determina el resultado.\n\n- 1 éxito - El encantamiento dura un turno.\n- 2 éxitos - El encantamiento dura una escena.\n- 3 éxitos - El encantamiento dura una hora.\n- 4 éxitos - El encantamiento dura hasta el amanecer o el ocaso, lo que ocurra antes.\n- 5 éxitos - El encantamiento dura 24 horas.\n\nTipo: Quimérico",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "art": "chicanery",
+      "level": 5,
+      "type": "Quimérico",
+      "resistance": "Fuerza de Voluntad, dificultad 8 (tirada extendida al actuar contra la personalidad); si los éxitos superan el Glamour actual del lanzador, el cantrip se rompe.",
+      "successes": {
+        "1": "El encantamiento dura un turno.",
+        "2": "El encantamiento dura una escena.",
+        "3": "El encantamiento dura una hora.",
+        "4": "El encantamiento dura hasta el amanecer o el ocaso, lo que ocurra antes.",
+        "5": "El encantamiento dura 24 horas."
+      }
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "corazon-cautivo",
+        "variant": "base"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "gimmix",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Gimmix",
+    "name_es": "Truco",
+    "body_es": "Truco permite a un hada manejar objetos telequinéticamente. Con este cantrip puede mover, girar, lanzar, levantar y aplastar cosas. Sin embargo, la coordinación motora fina, como mecanografiar o marcar un número de teléfono es imposible. Cualquier cosa que una persona real pudiera hacer con sus manos si sus dedos estuvieran pegados es posible. Truco puede usarse en lugares extremadamente pequeños, manejando objetos que el duende no podría normalmente ver o alcanzar.\n\nEl Disparate para este cantrip debe incorporar algún gesto con las manos que imite el efecto del mismo.\n\nSistema: El Reino lo determina lo que el hada está intentado afectar. Si intenta levantar a un pooka por las orejas, será necesario el Reino de Hada, pero alzar un cuchillo requeriría el Reino de Objeto.\n\nEl número de éxitos indica la fuerza de la telequinesis. Para objetos lanzados, el daño posible lo determina la fuerza del cantrip (p.ej.: Fue = 2 inflige dos Niveles de Salud de daño a un blanco). Los múltiples lanzamientos de este cantrip se consideran lanzamientos separados y no pueden acumularse para obtener una fuerza mayor. Cinco éxitos (dependiendo del peso del objetivo) y el Reino apropiado son necesarios para afectar directamente a un cuerpo humano con este cantrip.\n\nLos efectos de este Arte sólo duran un turno, por lo que el cantrip debe ser vuelto a lanzar continuamente para mantener un objeto levantado telequinéticamente. Alternativamente, una vez que un objeto ha sido afectado, el personaje puede gastar un punto de Glamour por cada turno adicional que desee mantener el Truco.\n\n- 1 éxito - Levanta ½ kg. Fuerza = 0\n- 2 éxitos - Levanta 2 kgs. Fuerza = 1\n- 3 éxitos - Levanta 20 kgs. Fuerza = 2\n- 4 éxitos - Levanta 50 kgs. Fuerza = 3\n- 5 éxitos - Levanta 100 kgs. Fuerza = 4\n\nTipo: Fantasía",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "art": "legerdemain",
+      "level": 1,
+      "type": "Fantasía",
+      "successes": {
+        "1": "Levanta ½ kg. Fuerza = 0",
+        "2": "Levanta 2 kgs. Fuerza = 1",
+        "3": "Levanta 20 kgs. Fuerza = 2",
+        "4": "Levanta 50 kgs. Fuerza = 3",
+        "5": "Levanta 100 kgs. Fuerza = 4"
+      }
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "truco",
+        "variant": "base"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "ensnare",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Ensnare",
+    "name_es": "Enredar",
+    "body_es": "Este cantrip tiene dos grandes usos: el hada puede hacer que un objeto grande se mueva rápidamente, o puede atrapar a un oponente con lo que tenga a mano, como raíces, trapos viejos, vendas, etc.\n\nSi el duende está intentando liar a un individuo, cualquier liana, cuerda u objetos pequeños se mueven repentinamente para atrapar y atar al blanco. Si no existen tales objetos, el blanco cree que sí, tropezando con sus propios pies y quedando atado con lianas o cuerdas quiméricas.\n\nEl otro uso de este Arte permite al hada hacer que un objeto que pese hasta 150 kgs. gire y remolinee velozmente. Tales objetos pueden ser lanzados contra otra persona u objeto (dando como resultado grandes destrozos).\n\nSistema: El objeto que es afectado determina la naturaleza del Reino necesario para lanzar este cantrip. Si el hada dirige un objeto para aplastar a una persona, el objeto inflige tres Niveles de Salud por cada éxito obtenido en el lanzamiento. Para alcanzar al blanco con el objeto, el duende ha de tener éxito en una tirada de Fuerza de Voluntad (dificultad 7). El objetivo tiene derecho a una tirada opuesta de Esquivar.\n\nPara atrapar a alguien, el número de éxitos determina cómo de bien queda atrapado el objetivo (Atrapar):\n- 1 éxito - Hace que el blanco tropiece; el objetivo ha de tirar Destreza + Atletismo (dificultad 6) para evitar caer.\n- 2 éxitos - El blanco queda Enredado; debe tener éxito en una tirada de Fuerza (dificultad 6) para escapar.\n- 3 éxitos - El objetivo queda Enredado y debe superar los éxitos de Enredar en tres o más en una tirada extendida de Fuerza (dificultad 6) para escapar.\n- 4 éxitos - Como el anterior, pero el objetivo ha de lograr cinco éxitos.\n- 5 éxitos - Como el anterior, pero el objetivo ha de lograr 10 éxitos.\n\nLos blancos Enredados quedan atrapados hasta que pueden liberarse. Los lanzamientos múltiples de este cantrip no son acumulativos (usa el lanzamiento de Enredar con mayor número de éxitos en caso de diversos lanzamientos sobre el objetivo).\n\nTipo: Fantasía",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "art": "legerdemain",
+      "level": 2,
+      "type": "Fantasía",
+      "damage_aplastar": "tres Niveles de Salud por cada éxito obtenido; alcanzar al blanco requiere Fuerza de Voluntad (dificultad 7), con tirada opuesta de Esquivar",
+      "max_peso_objeto": "150 kgs.",
+      "atrapar": {
+        "1": "Hace que el blanco tropiece; el objetivo ha de tirar Destreza + Atletismo (dificultad 6) para evitar caer.",
+        "2": "El blanco queda Enredado; debe tener éxito en una tirada de Fuerza (dificultad 6) para escapar.",
+        "3": "El objetivo queda Enredado y debe superar los éxitos de Enredar en tres o más en una tirada extendida de Fuerza (dificultad 6) para escapar.",
+        "4": "Como el anterior, pero el objetivo ha de lograr cinco éxitos.",
+        "5": "Como el anterior, pero el objetivo ha de lograr 10 éxitos."
+      }
+    },
+    "review": {
+      "reason": "El token 'Destreza' (atributo desplazado de la cabecera del Arte Prestidigitación) aparece incrustado en la extracción PDF dentro de la palabra 'repentinamente' de este cantrip. En body_es se ha restaurado la palabra 'repentinamente' y el atributo se ha atribuido a Prestidigitación; conviene verificación humana."
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "enredar",
+        "variant": "base"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "effigy",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Effigy",
+    "name_es": "Efigie",
+    "body_es": "Este cantrip crea un duplicado de un objeto o persona que el hada pueda ver y tocar. La copia tiene todos los rasgos del objeto y puede ser vista y sentida. Una Efigie de un libro es tangible, y si el original estaba abierto cuando se copió, la Efigie estará abierto en la misma página y tendrá lo mismo escrito en ella.\n\nLa copia de Efigie es sólo superficial, sin embargo, por lo que ninguna de las cualidades internas del original es transferible. El libro Efigie puede estar abierto en la misma página que el original, pero una persona no podría cerrarlo ni leer otras partes. El lanzador puede proporcionar 'efectos especiales' a la copia gastando un punto de Glamour por efecto. Crear un movimiento realista y habla coherente en los seres creados con Efigie requiere una tirada con éxito de Manipulación + Subterfugio (dificultad sujeta a la complejidad de la acción a realizar).\n\nUna Efigie dura hasta que el lanzador deja de concentrarse o pensar en ella, o es erosionada por la Banalidad. Una Efigie puede estar fuera de la línea visual del personaje, pero entonces el lanzador no puede crear ningún efecto especial o proporcionarle movimiento o habla.\n\nUna Efigie en presencia de individuos banales empieza a erosionarse (cualquier hada que tenga una puntuación de Banalidad superior a su propio Glamour se considera banal para este propósito). Cada turno que la Efigie está en presencia de una persona banal, se resta un éxito del total obtenido al crearla. En presencia de un miembro de la Gente de Otoño, se deteriora al doble de velocidad. La Efigie se descorporiza totalmente cuando la Banalidad erosiona todos sus éxitos: con seis éxitos extendidos en su lanzamiento sólo durará seis asaltos, o menos si el lanzador deja de concentrarse en ella (cualquier acción ajena a concentrarse recibe un +1 a la dificultad). En el asalto séptimo, la Efigie se descorporiza. Los múltiples lanzamientos sobre la misma Efigie son acumulativos.\n\nLas Efigies no pueden ser dañadas fácilmente. Una Efigie dañada por efectos quiméricos o de la Fantasía pierde uno de sus éxitos totales pero no sufre males mayores. Una Efigie reducida a cero éxitos de esta manera se descorporiza totalmente.\n\nSistema: Cuando se crea una Efigie, el Reino lo determina el sujeto de la copia del lanzador. El número de éxitos indica la precisión de la copia, así como la cantidad de daño que la Efigie puede infligir en un blanco.\n\n- 1 éxito - Copia mala.\n- 2 éxitos - Diferencias mayores.\n- 3 éxitos - Diferencias menores; puede infligir ½ del daño quimérico.\n- 4 éxitos - Copia casi perfecta; puede infligir daño quimérico.\n- 5 éxitos - Duplicado exacto; puede infligir daño de Fantasía (sólo si el lanzador especifico inicialmente que la Efigie era de Fantasía).\n\nTipo: Quimérico o de Fantasía.",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "art": "legerdemain",
+      "level": 3,
+      "type": "Quimérico o de Fantasía",
+      "successes": {
+        "1": "Copia mala.",
+        "2": "Diferencias mayores.",
+        "3": "Diferencias menores; puede infligir ½ del daño quimérico.",
+        "4": "Copia casi perfecta; puede infligir daño quimérico.",
+        "5": "Duplicado exacto; puede infligir daño de Fantasía (sólo si el lanzador especificó inicialmente que la Efigie era de Fantasía)."
+      }
+    },
+    "related": [],
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "efigie",
+        "variant": "base"
+      }
+    ],
+    "edges": []
+  },
+  {
+    "id": "mooch",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Mooch",
+    "name_es": "Desplazar",
+    "body_es": "El hada puede mover cosas instantáneamente de un lugar a otro. Favorito de los vacíabolsillos, Desplazar puede sacar algo de la bolsa de la víctima y colocarlo en la del lanzador. El cantrip sólo funciona si el lanzador puede ver el objeto, o lo ha visto durante el último minuto. Una moneda puede ser Desplazada a plena vista, aunque cualquiera que la vea reconocerá el efecto.\n\nSistema: Cuando se lanza este cantrip para Desplazar un objeto hacia otro personaje, el hada usa el Reino adecuado al actual propietario del objeto. Si el objeto está solo, entonces el Reino debe ser el adecuado al objeto que se quiere Desplazar (normalmente Objeto).\n\nEl número de éxitos determina cómo de bien realiza el Desplazamiento el duende. Para notar la falta del objeto (a menos que se esté cogiendo el objeto a plena vista, en cuyo caso el Desplazar es evidente), el objetivo debe hacer una tirada de Percepción + Alerta (dificultad 4 + el número de éxitos obtenidos en Desplazar).\n\nLos personajes que poseen la Técnica de Carterista reciben un éxito automático cuando lanzan Desplazar.\n\nTipo: Quimérico o Fantasía.",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "tipo": "Quimérico o Fantasía",
+      "reino_es": "Depende del propietario/objeto; normalmente Objeto (o Hada/Actor según el propietario)",
+      "note": "El slice no nombra el Arte al que pertenece este cantrip (aparece antes de la sección de Primal, probablemente Prestidigitación/Legerdemain); no se asume."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "desplazar",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "edges": []
+  },
+  {
+    "id": "phantom-shadows",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Phantom Shadows",
+    "name_es": "Sombras Fantasmales",
+    "body_es": "Este cantrip es el verdadero arte de la creación de ilusiones. Mientras que Efigie crea una copia inmóvil, Sombras Fantasmales crea ilusiones originales y les otorga consciencia. La ilusión creada puede ser de cualquier tipo que desee el lanzador y es difícil diferenciarla de la cosa real, a menos que quien la examine posea una consciencia mística o visión feérica. La Sombra Fantasmal sabe intrínsecamente lo que quiere el lanzador y cumple sus deseos; sin embargo, si el lanzador olvida la existencia de la Sombra, la ilusión gana esencialmente voluntad propia.\n\nUna Sombra Fantasmal tiene parámetros exactos con limitaciones únicas. Un coche Fantasmal no necesariamente tiene gasolina, y la Sombra Fantasmal de un soldado puede no aparecer con un arma, aunque el cantrip crea el uniforme del soldado.\n\nSistema: El objeto o criatura creada determina la naturaleza del Reino necesario para lanzar este cantrip. Edificios enteros fantasmales (o quiméricos) pueden construirse mediante el uso del Reino de Escena.\n\nEl lanzamiento de este cantrip crea en realidad una quimera maleable. El número de éxitos obtenidos determina cómo de creíble es la ilusión así como su poder. Lanzamientos múltiples son acumulativos del mismo modo que con Efigie. Cada vez que se lanza este cantrip, el lanzador recibe cinco puntos de creación quimérica por éxito obtenido. El lanzador puede construir su quimera usando las reglas de creación de quimeras de la pág. 222 para quimeras animadas o ver la tabla en el Apéndice de quimeras inanimadas.\n\nUna quimera creada por Sombras Fantasmales permanece mientras el lanzador siga proporcionándole Glamour. Debe proporcionarle al menos un punto de Glamour por día o se desvanecerá.\n\nLas Sombras Fantasmales pueden infligir daño quimérico a cualquiera, incluidos mortales encantados y seres sobrenaturales. Un blanco puede no creérsela con una tirada extendida de Percepción + Sagacidad, dificultad 7. Si el incrédulo consigue más éxitos que el lanzador de la Sombra Fantasmal, ésta se dispersa inmediatamente.\n\nLa Banalidad también tiende a erosionar la ilusión de la misma forma que con Efigie, pero la decadencia es más lenta; el número de éxitos total se reduce al ritmo de uno por hora de exposición. La Gente de Otoño hace que las Sombras Fantasmales se descorporicen al doble de esta velocidad.\n\nTipo: Quimérico (Una Sombra Fantasmal hecha 'real' invocando la Fantasía ha de mantenerse gastando un punto de Fuerza de Voluntad cada turno.)",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "tipo": "Quimérico (una Sombra Fantasmal hecha 'real' invocando la Fantasía ha de mantenerse gastando un punto de Fuerza de Voluntad cada turno)",
+      "reino_es": "Determinado por el objeto/criatura creada; Escena para edificios enteros",
+      "success_table": [
+        "1 éxito - Imagen borrosa (5 puntos)",
+        "2 éxitos - Parece real si no se la estudia demasiado detenidamente (10 puntos)",
+        "3 éxitos - Todos los detalles excepto los más puntillosos aparecen (15 puntos)",
+        "4 éxitos - Sólo tiene las imperfecciones más leves (20 puntos)",
+        "5 éxitos - Imagen perfecta (25 puntos)"
+      ],
+      "note": "El slice no nombra el Arte al que pertenece este cantrip (aparece antes de la sección de Primal, probablemente Prestidigitación/Legerdemain); no se asume. Referencia cruzada al cantrip Efigie (Effigy), no incluido en este slice."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "sombras-fantasmales",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "edges": []
+  },
+  {
+    "id": "willow-whisper",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Willow Whisper",
+    "name_es": "Susurro de Sauce",
+    "body_es": "Este cantrip permite al hada hablar con cualquier cosa, incluso con cosas que normalmente no pueden hablar o entender el lenguaje. Susurro de Sauce proporciona la capacidad de hablar con los libros, muebles, rocas, plantas, edificios, extraterrestres... cualquier cosa. Sólo hay una limitación a este cantrip: todas las peticiones deben ser dichas en susurros. Usar Susurro de Sauce en lugares tales como un estadio de fútbol en mitad de un partido es inútil.\n\nAdemás, los objetos no sintientes tienen un intelecto no sintiente; las rocas y árboles pueden estar realmente interesadas en hablar, pero procesan la información de forma diferente. Los Narradores deben imbuir a los objetos inanimados personalidades apropiadas a sus naturalezas.\n\nSistema: Los Reinos de Naturaleza y Objeto son los más comúnmente utilizados con este Arte, describiendo el objeto con el que el lanzador está intentando comunicarse.\n\nLos éxitos indican cuántas preguntas pueden hacerse y la claridad de las respuestas del sujeto. Los lanzamientos múltiples sobre un objetivo son acumulativos, pero cada lanzamiento sucesivo tiene un +1 a la dificultad.\n\nEl Reino describe el objeto con el que el hada se comunica.\n\nTipo: Quimérico",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "tipo": "Quimérico",
+      "art_es": "Primal",
+      "reino_es": "Naturaleza y Objeto (los más comunes); describe el objeto con el que se comunica",
+      "success_table": [
+        "1 éxito - Respuestas murmuradas, tortuosas; sólo una pregunta.",
+        "2 éxitos - Respuestas vagas y oscuras; tres preguntas.",
+        "3 éxitos - Respuestas claras pero extrañas (el objeto piensa según sus patrones, no en términos humanos o feéricos); dura una escena.",
+        "4 éxitos - Respuestas claras y directas, pero muy aburridas; dura una semana.",
+        "5 éxitos - Respuestas perfectamente claras, lúcidas e interesantes; dura un mes."
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "susurro-de-sauce",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "edges": []
+  },
+  {
+    "id": "eldritch-prime",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Eldritch Prime",
+    "name_es": "Elemento Misterioso",
+    "body_es": "El usuario de este cantrip puede hacer que aparezca uno de los siguientes elementos naturales: fuego, agua, tierra, aire o madera. El cantrip hace que el elemento aparezca en la forma más natural posible: el agua cae en forma de lluvia o emerge como un arroyo; la madera brota del suelo, o a un objeto le 'crece' corteza. El elemento puede aparecer en una forma antinatural (como lluvia en un interior), pero no lo hará de forma contraria a la naturaleza o manufacturado. Un hada no puede atrapar de pronto a un oponente dentro de una caja de madera, pero puede hacer que una red de raíces crezca a su alrededor, formando una prisión inusual.\n\nSistema: Si simplemente se crean elementos naturales, se usa el Reino de Naturaleza. Si se está afectando a un individuo, se han de usar el Reino de Naturaleza y el apropiado (para cualquier ser al que se esté afectando).\n\nEl número de éxitos determina la cantidad del elemento que aparece. Por cada dos éxitos obtenidos (redondeado hacia arriba), el hada puede crear el efecto de un dado (como es el caso normalmente cuando se conjuran aire y fuego) o proporcionar un Nivel de Salud de protección (como puede ser el caso cuando se conjura piedra o madera).\n\nPor ejemplo, un lanzador que consigue tres éxitos puede hacer que aparezca una prisión de raíces que pueda aguantar dos niveles de daño. Un lanzador que obtiene un éxito podría invocar una llama que causaría un Nivel de Salud de daño, o hacer que crezca corteza en su piel, protegiéndolo de un Nivel de Salud de daño. Los múltiples lanzamientos son acumulativos.\n\nEl duende puede decidir dónde quiere que aparezca el elemento, pero no puede controlar lo que hace éste a menos que vuelva a lanzar el cantrip.\n\nLos efectos de este cantrip duran un minuto por cada éxito conseguido.\n\nTipo: Quimérico",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "tipo": "Quimérico",
+      "art_es": "Primal",
+      "reino_es": "Naturaleza (y el apropiado si se afecta a un individuo)",
+      "duration": "Un minuto por cada éxito conseguido",
+      "note": "Por cada dos éxitos (redondeado hacia arriba): efecto de un dado, o un Nivel de Salud de protección."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "elemento-misterioso",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "edges": []
+  },
+  {
+    "id": "oakenshield",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Oakenshield",
+    "name_es": "Escudo de Roble",
+    "body_es": "Este cantrip imbuye a un objeto o persona con la esencia sólida y protectora de la corteza del roble. Los objetivos de Escudo de Roble pueden resistir una tremenda cantidad de castigo quimérico.\n\nSistema: Los Reinos de Actor y Hada son los más comúnmente utilizados con este Arte, aunque es posible usar Objeto y hasta Naturaleza en algunos aspectos, como para proteger a un objeto concreto del daño.\n\nCada éxito proporciona un Nivel de Salud por encima de los ya poseídos por el blanco. Estos Niveles de Salud extra duran hasta que son destruidos por el daño o eliminados deliberadamente por el portador. Los lanzamientos múltiples no son acumulativos, y cualquier lanzamiento sucesivo de Escudo de Roble anula los éxitos obtenidos por otro anterior.\n\nTipo: Quimérico",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "tipo": "Quimérico",
+      "art_es": "Primal",
+      "reino_es": "Actor y Hada (los más comunes); Objeto y Naturaleza posibles",
+      "note": "Cada éxito proporciona un Nivel de Salud extra. Lanzamientos múltiples no acumulativos."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "escudo-de-roble",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "edges": []
+  },
+  {
+    "id": "heather-balm-holly-strike",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Heather Balm/Holly Strike",
+    "name_es": "Bálsamo de Brezo (o Golpe de Acebo)",
+    "body_es": "Este cantrip tiene dos usos: puede reparar lo que está roto, o puede romper algo incrementando las pequeñas imperfecciones de ese objeto. El lanzador puede reparar o romper, curar o dañar cualquier cosa, aunque el Narrador puede decidir que afectar ciertos objetos o áreas requiere el gasto de un punto extra de Glamour y/o Fuerza de Voluntad.\n\nSistema: Casi cualquier Reino puede usarse en conjunción con este Arte. El Reino utilizado lo determina la persona u objeto que va a ser curado o dañado. Si el lanzador utiliza el Reino de Escena para esparcir el daño en un área grande (o diversas personas), el daño total se distribuye equitativamente.\n\nBálsamo de Brezo cura un Nivel de Salud por éxito. En el caso de objetos no vivos, el Narrador decide cuántos éxitos se necesitan para repararlo.\n\nCon Golpe de Acebo, se causa un Nivel de daño por cada éxito obtenido. Cuando se usa este Arte en gente, aparecen laceraciones extrañas y desiguales en partes del cuerpo aleatorias. Cuando se daña un objeto, el Narrador debe determinar los Niveles necesarios para destruirlo.\n\nTipo: Quimérico",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "tipo": "Quimérico",
+      "art_es": "Primal",
+      "reino_es": "Casi cualquier Reino; lo determina la persona u objeto curado o dañado; Escena para área",
+      "note": "Bálsamo de Brezo: cura un Nivel de Salud por éxito. Golpe de Acebo: un Nivel de daño por cada éxito."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "balsamo-de-brezo-o-golpe-de-acebo",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "edges": []
+  },
+  {
+    "id": "elder-form",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Elder-Form",
+    "name_es": "Forma Antigua",
+    "body_es": "Este cantrip permite al lanzador o a otro objetivo adoptar cualquier otra forma. La nueva forma posee todos los Atributos y desventajas de la misma. Si el hada se convierte en un árbol puede ser más alta y resistente, pero no es capaz de hablar (a menos que lance Susurros de Sauce).\n\nAunque es posible que el hada se transforme adoptando la forma de una bestia mítica, no gana ningún poder mágico con este cambio. Un personaje alterado por Forma Antigua sólo gana cualquier capacidad natural que tenga esta forma, no los poderes sobrenaturales. Por ejemplo, un duende que se transforma para parecer un vampiro tendrá la piel pálida y hasta colmillos, pero no ganará ninguno de los poderes vampíricos (como la regeneración), ni será susceptible a las debilidades vampíricas (como la luz solar).\n\nSistema: A diferencia de muchos cantrips, el Reino usado por este Arte lo determina la forma que el lanzador desea que asuma el blanco.\n\nEl periodo de transformación lo determina el número de éxitos. Hay una posibilidad de que el objetivo revierta a su forma original en cualquier momento en que una persona no encantada entre en contacto con él. Tira por la Banalidad de la persona no encantada (dificultad 9); si el número de éxitos de su tirada iguala o excede los éxitos conseguidos por el lanzador de Forma Antigua, el cantrip queda anulado.\n\nTipo: Fantasía",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "tipo": "Fantasía",
+      "art_es": "Primal",
+      "reino_es": "Determinado por la forma que asume el blanco",
+      "success_table": [
+        "1 éxito - Un turno.",
+        "2 éxitos - Una hora",
+        "3 éxitos - Un día",
+        "4 éxitos - Tres días",
+        "5 éxitos - Una semana"
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "forma-antigua",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "edges": []
+  },
+  {
+    "id": "protocol",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Protocol",
+    "name_es": "Protocolo",
+    "body_es": "Este cantrip permite a los nobles realizar sus asuntos y funciones cortesanas sin verse perpetuamente interrumpidos por infantiles ruidosos o plebeyos. Protocolo asegura que todos los afectados actúen como requiere la etiqueta nobiliaria, aunque se necesita una tirada para determinar si el objetivo(s) se puede imaginar lo que dictan los procedimientos. Cuando se lanza este cantrip, nadie puede hablar fuera de su turno, y el combate y las payasadas repentinas están fuera de toda cuestión. Los duelos entre personas de igual rango para resolver disputas son aceptables, si el noble reinante lo permite.\n\nSistema: El Reino describe los objetivos afectados. Obviamente, ciertos Reinos (como Objeto) son inútiles con Protocolo.\n\nEl número de éxitos determina lo difícil que resulta romper el cantrip de Protocolo haciendo una tirada opuesta de Fuerza de Voluntad. Un fracaso cuando se resiste este cantrip significa que el objetivo se humilla ante el noble gobernante doblegándose y arrastrándose hasta que acaba el cantrip. El cantrip permanece efectivo hasta el amanecer, el ocaso o cuando el noble proclama '¡Se pospone la Corte!': lo que ocurra antes.\n\nLos lanzamientos múltiples de este cantrip no son acumulativos. Dos nobles que intenten lanzar el cantrip al mismo tiempo estarán cometiendo una ruptura de etiqueta hacia el noble mayor (por supuesto, el Protocolo del noble de menor rango falla).\n\nTipo: Fantasía\n\n[Recuadro asociado — Tipos de sesión cortesana] Corte Abierta: Abierta para casi todo el mundo. Corte Cerrada: Abierta a ciertos plebeyos con acceso a información importante. Consejo Privado: Abierto sólo al señor reinante y a sus consejeros más próximos. Encuentro: Reunión altamente secreta; nunca se usa Protocolo. Los duendes asistentes deben hacer una tirada de Percepción + Etiqueta (dificultad y número de éxitos variables; los sidhe reducen en dos la dificultad, y los asistentes no pertenecientes a los linajes automáticamente fallan su tirada).",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "tipo": "Fantasía",
+      "art_es": "Soberanía",
+      "reino_es": "Describe los objetivos afectados (Objeto es inútil)",
+      "note": "Duración: hasta amanecer, ocaso o '¡Se pospone la Corte!', lo que ocurra antes. No acumulativo."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "protocolo",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "edges": []
+  },
+  {
+    "id": "dictum",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Dictum",
+    "name_es": "Dictum",
+    "body_es": "Este cantrip refuerza el poder de la autoridad y las órdenes sobre los plebeyos e inferiores. El objetivo simplemente es incapaz de desobedecer las peticiones del lanzador, aunque el blanco es consciente de cuándo se usa Dictum sobre él (aunque no esté familiarizado con el Arte).\n\nUn objetivo bajo el yugo de Dictum intenta cumplir las peticiones fielmente tanto en la letra como en el espíritu, a menos que de algún modo le sitúen en peligro inmediato. No se puede pedir a un objetivo que ataque a un hombre lobo, pero sí que proteja la entrada contra los hombres lobo, dado que la orden no le sitúa en peligro inmediato.\n\nSistema: El Reino determina los objetivos afectados por el cantrip.\n\nEl número de éxitos denota lo difícil que es resistirse al cantrip con una tirada opuesta de Fuerza de Voluntad. Dura una hora exacta. Los lanzamientos múltiples son acumulativos (los sucesivos lanzamientos van sumando +1 a la dificultad cada vez).\n\nTipo: Quimérico o Fantasía",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "tipo": "Quimérico o Fantasía",
+      "art_es": "Soberanía",
+      "reino_es": "Determina los objetivos afectados",
+      "duration": "Una hora exacta",
+      "note": "Lanzamientos múltiples acumulativos (+1 a la dificultad cada vez)."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "dictum",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "edges": []
+  },
+  {
+    "id": "grandeur",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Grandeur",
+    "name_es": "Grandeza",
+    "body_es": "Grandeza imprime sobre otros ese elemento de la majestuosidad de Arcadia que lleva consigo cada noble sidhe. Es el componente de la pose noble y el refinamiento que las últimas normas mortales intentaron imitar (y fracasaron) con sus coronaciones divinas y pomposas. Cualquiera que ve a un lanzador de Grandeza se siente sobrecogido reverencialmente; no puede realizar ninguna acción (violenta o de otro tipo) en presencia del noble (incluso aunque éste le ataque). Para un lanzador de Grandeza no es posible regir la corte, pues la mayoría de los asistentes serían incapaces de hablar.\n\nSistema: Cuando se lanza Grandeza, el Reino lo determina el sujeto(s) del cantrip. El Reino de Escena puede añadirse para afectar a múltiples objetivos.\n\nSi alguien desea resistirse, puede intentar una tirada opuesta de Fuerza de Voluntad (la dificultad es el número de éxitos obtenidos por el lanzador). Dura una escena. Los lanzamientos múltiples son acumulativos (los sucesivos lanzamientos tienen un +1 a la dificultad cada vez).\n\nTipo: Quimérico",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "tipo": "Quimérico",
+      "art_es": "Soberanía",
+      "reino_es": "Determinado por el sujeto(s); Escena para múltiples objetivos",
+      "duration": "Una escena",
+      "note": "Resistencia: tirada opuesta de Fuerza de Voluntad (dificultad = éxitos del lanzador). Acumulativo (+1 a la dificultad cada vez)."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "grandeza",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "edges": []
+  },
+  {
+    "id": "weaver-ward",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Weaver Ward",
+    "name_es": "Protección Entretejida",
+    "body_es": "El uso de este cantrip impide que una puerta o entrada sea traspasada por ciertas personas u objetos inanimados. Alternativamente, el lanzador puede usar Protección Entretejida para asegurarse de que nadie coge o usa un objeto (si se usa el cantrip de esta forma, el lanzador también debe poseer el Reino que representa al objeto).\n\nUn hada puede usarlo para imponer un escrutinio selectivo que permita pasar a ciertas personas (aunque debe conocerse el Nombre Verdadero de la persona y pronunciarse en voz alta en el momento del lanzamiento). También puede crear una contraseña desactivadora que temporalmente anula la Protección.\n\nProtección Entretejida también puede usarse como un 'cantrip cerradura' o una cerradura contra destejidos no deseados. Ningún destejer es posible contra un cantrip a menos que se deshaga primero Protección Entretejida.\n\nSistema: El Reino lo determina quién o qué no puede pasar a través de la Protección Entretejida. Si se lanza sobre un objeto concreto en vez de sobre una entrada, ha de usarse el Reino adecuado para el objeto. Para Protección contra cantrips, debe usarse Portador de Glamour (el nivel quinto de Hada).\n\nUn sólo éxito en la Protección Entretejida impide que el sujeto del cantrip traspase la entrada especificada o use el objeto deseado. La única forma de sortear este cantrip es lanzar un Destejer, o el cantrip de Viaje Portal de Paso. En cualquier caso, el que intente traspasarla ha de obtener más éxitos que el lanzamiento original de la Protección Entretejida. En presencia de gente fuertemente banal (aquellos con más Banalidad que Glamour), una Protección Entretejida pierde un éxito por día. Una vez los éxitos quedan reducidos a cero, la Protección queda destruida. En presencia de la Gente de Otoño, este deterioro tiene lugar al ritmo de un éxito por hora.\n\nLanzamientos múltiples de este cantrip son acumulativos, pero el lanzador sólo puede acumular un máximo de cinco éxitos en cualquier Protección Entretejida.\n\nNota: Sí, puedes lanzar una Protección Entretejida en la boca de alguien, pero necesitas conseguir más éxitos (no acumulativos) que la Fuerza de Voluntad del objetivo (y el blanco puede gastar Fuerza de Voluntad para superar automáticamente el uso repugnante de este cantrip).\n\nTipo: Fantasía",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "tipo": "Fantasía",
+      "art_es": "Soberanía",
+      "reino_es": "Determinado por quién/qué no puede pasar; Portador de Glamour (Hada nivel 5) para protección contra cantrips",
+      "note": "Máximo 5 éxitos acumulables. Pierde 1 éxito/día con gente muy banal (1 éxito/hora con la Gente de Otoño)."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "proteccion-entretejida",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "edges": []
+  },
+  {
+    "id": "geas",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Geas/Ban",
+    "name_es": "Geas (o Prohibición)",
+    "body_es": "Al usar este cantrip, el poder del Glamour se emplea para dirigir a una persona hacia una tarea o búsqueda. La búsqueda debe ser cumplida al pie de la letra, o el objetivo sufrirá algún tipo de maldición (diseñada en el momento del lanzamiento). El blanco no tiene por qué saber lo que ocurrirá si no consigue completar el Geas.\n\nEl otro uso de este cantrip, llamado Prohibición, prohíbe a un objetivo hacer algo o realizar una actividad concreta. El uso más común es la Prohibición de exilio, que obliga a un objetivo a abandonar un área específica y a no volver nunca.\n\nCiertas búsquedas y juramentos renunciados son Geasa de este tipo, y no necesitan de un lanzador para iniciarse. Ver 'Juramentos' en el Capítulo Siete. Para cualquier otro tipo de juramento no especificado, asume que se gana un punto de Glamour temporal tras la consecución de la búsqueda. El mínimo detrimento debería ser la suma de un punto permanente de Banalidad.\n\nUn Geas o Prohibición que sea imposible fallará inmediatamente. Las Geas o Prohibiciones que ordenan al objetivo que se dé muerte a sí mismo son igualmente estériles.\n\nSistema: El objetivo del cantrip determina el Reino necesario para lanzarlo. El Reino de Escena puede usarse para afectar a múltiples objetivos. A diferencia de otros cantrips, el hada sólo necesita del Reino que afecta al objetivo para lanzar un Geas o Prohibición.\n\nEl blanco debe completar la Geas o Prohibición al pie de la letra o sufrir las consecuencias, determinadas por el número de éxitos. El objetivo puede (inmediatamente) intentar resistirse al cantrip gastando un punto permanente de Fuerza de Voluntad y teniendo éxito en una tirada de Fuerza de Voluntad (dificultad 4 + los éxitos del lanzador). Sólo se necesita un éxito para resistir sus efectos. Un Geas o Prohibición es inmune a los efectos de destejer.\n\nEl lanzador debe dividir sus éxitos totales entre la búsqueda y la maldición. No puede acumular múltiples lanzamientos de este cantrip para aumentar los efectos.\n\nTipo: Quimérico",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "tipo": "Quimérico",
+      "art_es": "Soberanía",
+      "reino_es": "Determinado por el objetivo; Escena para múltiples objetivos",
+      "note": "El lanzador divide sus éxitos totales entre la Búsqueda/Prohibición y la Maldición. Resistencia: gastar 1 punto permanente de Fuerza de Voluntad + tirada de Fuerza de Voluntad (dificultad 4 + éxitos del lanzador), inmediatamente tras el lanzamiento.",
+      "success_table_busquedas_o_prohibiciones": [
+        "1 éxito - Una Geas o Prohibición sencilla (llévame al aeropuerto, deja de rascarte la nariz).",
+        "2 éxitos - Una Geas o Prohibición moderada (recupera un objeto conocido que tiene unos pocos guardianes; exilio de un lugar rara vez visitado)",
+        "3 éxitos - Una Geas o Prohibición difícil (encuentra a una desconocida; abandona cualquier actividad importante para ti)",
+        "4 éxitos - Una Geas o Prohibición casi imposible (encuentra un político honesto; exilio de un área en la que has vivido toda tu vida)",
+        "5 éxitos - Una Geas o Prohibición legendaria (trae de vuelta el 'Siege Perilous' de Arcadia; nunca visites al amor con el que has pronunciado el Juramento de los Corazones Sinceros)"
+      ],
+      "success_table_maldiciones": [
+        "1 éxito - Maldición leve (erupción o picor)",
+        "2 éxitos - Maldición moderada (achaque físico menor o enfermedad no debilitante, como un constipado)",
+        "3 éxitos - Maldición mayor (enfermedad debilitante)",
+        "4 éxitos - Maldición catastrófica (pérdida de seres queridos, todas las posesiones, etc.)",
+        "5 éxitos - Maldición mortal (muerte, o peor)"
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "geas-o-prohibicion",
+        "variant": "base"
+      }
+    ],
+    "related": [
+      "werewolf/geas"
+    ],
+    "edges": [
+      {
+        "target": "werewolf/geas",
+        "type": "cross-line",
+        "via": "id:geas"
+      }
+    ]
+  },
+  {
+    "id": "hopscotch",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Hopscotch",
+    "name_es": "Saltar a la Pata Coja",
+    "body_es": "¡Atravesar los pasos con un solo salto! Con este cantrip, el hada puede hacer que ella misma u otros realicen saltos imposibles (aparentemente), hacia arriba o hacia abajo. Este cantrip está limitado por el espacio disponible (no puede estampar a un enemigo contra el suelo como haría Truco).\n\nSistema: El Reino lo determina el objeto imbuido con la capacidad de saltar. Se puede hacer que un objeto imbuido con esta capacidad salte igual que la gente, aunque el lanzador debe desear que lo haga. Cualquiera en contacto físico con el objeto puede impedir que lo haga haciendo una tirada opuesta de Fuerza de Voluntad (dificultad 6). Cada éxito reduce los del lanzador en uno. Esta tirada opuesta no puede usarse para detener a una persona afectada por Saltar a la Pata Coja. Finalmente, el Reino de Escena no puede usarse para hacer que un edificio salte.\n\nSi el Reino de Escena se usa para permitir que varias personas salten, los éxitos han de dividirse entre los objetivos.\n\nEl número de éxitos determina hasta dónde puede saltar el lanzador.\n\nTipo: Fantasía",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "tipo": "Fantasía",
+      "art_es": "Viaje",
+      "reino_es": "Determinado por el objeto imbuido; Escena para varias personas (dividiendo éxitos)",
+      "success_table": [
+        "1 éxito - Dos metros hacia arriba; 5 metros horizontalmente.",
+        "2 éxitos - Una planta hacia arriba; 10 metros horizontalmente.",
+        "3 éxitos - Dos plantas hacia arriba; 20 metros horizontalmente.",
+        "4 éxitos - Cinco plantas hacia arriba; 50 metros horizontalmente.",
+        "5 éxitos - 10 plantas hacia arriba; 100 metros horizontalmente"
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "saltar-a-la-pata-coja",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "edges": []
+  },
+  {
+    "id": "quicksilver",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Quicksilver",
+    "name_es": "Mercurio",
+    "body_es": "¡Más rápido que un fénix! Este cantrip permite al hada o a un sujeto a su elección moverse increíblemente rápido durante unos instantes. Los demás ven al objetivo de Mercurio como una mancha borrosa.\n\nSistema: El sujeto determina el Reino de este cantrip. Cada éxito permite al duende realizar una acción adicional en su siguiente turno. Si se usa el Reino de Escena para permitir afectar a múltiples personas, los éxitos han de dividirse entre los blancos.\n\nTipo: Fantasía",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "tipo": "Fantasía",
+      "art_es": "Viaje",
+      "reino_es": "Determinado por el sujeto; Escena para múltiples personas (dividiendo éxitos)",
+      "note": "Cada éxito permite una acción adicional en el siguiente turno."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "mercurio",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "edges": []
+  },
+  {
+    "id": "portal-passage",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Portal Passage",
+    "name_es": "Portal de Paso",
+    "body_es": "Portal de Paso crea una abertura a través de cualquier barrera, de hasta 3 metros de grueso. Este portal aparece generalmente como una puerta normal (2 x 1 m.), aunque puede ser menor, dependiendo del tamaño de la barrera. El portal atravesará cualquier barrera, sin importar el grosor. Puede definirse como barrera una pared, valla o puerta cerrada. Una montaña, obviamente, no puede ser atravesada dado que excede la limitación de grosor, aunque un muro de piedra de 2,5 metros de grosor sí.\n\nSistema: Cuando se lanza un cantrip de Portal de Paso, la sustancia en la que se crea el portal es la que determina el Reino a utilizar. En la mayoría de los casos requerirá el Reino de Naturaleza, aunque Narradores generosos pueden permitir el Reino de Escena como sustituto (si es adecuado). Si el personaje está intentando hacer una abertura en un coche cerrado o un barco, el Reino de Objeto puede resultar adecuado.\n\nUn portal dura un turno por cada éxito obtenido.\n\nTipo: Fantasía",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "tipo": "Fantasía",
+      "art_es": "Viaje",
+      "reino_es": "Determinado por la sustancia de la barrera; normalmente Naturaleza (Escena u Objeto según el caso)",
+      "duration": "Un turno por cada éxito obtenido",
+      "note": "Abertura de hasta 3 metros de grueso; puerta normal de 2 x 1 m."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "portal-de-paso",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "edges": []
+  },
+  {
+    "id": "wind-runner",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Wind Runner",
+    "name_es": "Corredor del Viento",
+    "body_es": "Este cantrip otorga al objetivo la capacidad de volar. El blanco tiene pleno control sobre hacia dónde quiere volar, y durante cuánto tiempo (sujeto a los límites del cantrip). Los lanzamientos múltiples no son acumulativos, y otro cantrip de Corredor del Viento no puede funcionar mientras el primero mantenga sus efectos. Si el blanco olvida de la duración del cantrip cuando está en el aire, tiene un largo rato para lamentar su error mientras cae hacia tierra.\n\nSistema: El Reino lo determina el objetivo del cantrip (casi siempre Actor o Hada). Este cantrip puede hacer que un objeto vuele, pero sigue sujeto a las limitaciones de Saltar a la Pata Coja. Cualquier individuo que esté en contacto físico con el objeto puede intentar detener el vuelo haciendo una tirada opuesta de Fuerza de Voluntad (dificultad 6). Esta tirada opuesta no puede hacerse para detener a una persona afectada por Corredor del Viento. Si el Reino de Escena se usa para permitir a varios seres volar, el lanzador ha de dividir los éxitos totales entre los objetivos.\n\nEl número de éxitos + 1 dado determina cuántos turnos puede permanecer el objetivo en el aire.\n\nTipo: Fantasía",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "tipo": "Fantasía",
+      "art_es": "Viaje",
+      "reino_es": "Determinado por el objetivo (casi siempre Actor o Hada); Escena para varios seres (dividiendo éxitos)",
+      "duration": "El número de éxitos + 1 dado determina cuántos turnos puede permanecer en el aire",
+      "note": "No acumulativo."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "corredor-del-viento",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "edges": []
+  },
+  {
+    "id": "flicker-flash",
+    "type": "cantrip",
+    "line": "changeling",
+    "name_en": "Flicker Flash",
+    "name_es": "Parpadeo",
+    "body_es": "Este es el cantrip temido por la nobleza por su capacidad para permitir que cualquiera vaya a cualquier lugar. Con Parpadeo, el hada puede desaparecer y reaparecer en cualquier lugar de la creación que desee. El lanzador debe conocer, ver (o espiar) o poseer una parte del objetivo y del destino. Si no puede cumplir esta limitación, hay una posibilidad de que el cantrip funcione aleatoriamente.\n\nEste cantrip no funciona normalmente cuando se intenta cruzar el Ensueño. Los pocos duendes lo suficientemente locos como para intentar llegar a Arcadia se han perdido todos.\n\nSistema: La naturaleza de la persona u objeto afectado por el cantrip determina el Reino. Si el Reino de Escena se usa para afectar con Parpadeo a varias personas, los éxitos han de dividirse entre los objetivos.\n\nEl número de éxitos determina cómo de rápido llega el hada del punto A al punto B. El Narrador puede ajustar esta tabla como crea que se adapta mejor a su crónica.\n\nTipo: Fantasía",
+    "tags": [
+      "cantrip"
+    ],
+    "mechanics": {
+      "tipo": "Fantasía",
+      "art_es": "Viaje",
+      "reino_es": "Determinado por la naturaleza de la persona u objeto afectado; Escena para varias personas (dividiendo éxitos)",
+      "success_table": [
+        "1 éxito - El viaje dura una hora (o más).",
+        "2 éxitos - El viaje dura unos cinco minutos.",
+        "3 éxitos - El viaje dura un minuto.",
+        "4 éxitos - El viaje dura unos 10 segundos.",
+        "5 éxitos - El viaje es instantáneo."
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changeling: El Ensueño",
+        "page": null,
+        "section_anchor": "parpadeo",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "edges": []
   }
 ]
