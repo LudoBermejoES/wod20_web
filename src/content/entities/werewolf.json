@@ -11611,28 +11611,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don de los Fianna."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -11945,28 +11923,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "reference": "Como el Don de los Fianna."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -12374,28 +12330,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "reference": "Como el Don de las Furias Negras."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -28393,28 +28327,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "reference": "Como el Don Ragabash Tomar lo Olvidado."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -34528,28 +34440,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "reference": "Como el Don Philodox."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -34923,28 +34813,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco",
-            "reference": "Como el Don Theurge."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -35273,28 +35141,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Ragabash."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -35353,28 +35199,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "reference": "Como el Don Ragabash."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },

@@ -29141,27 +29141,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-libro-de-los-secretos"
-          ],
-          "mechanics": {
-            "associated_practices": "Alquimia, Alta Magia Ritual, artes marciales, brujería, fe, psiónica, sabiduría loca, vigorización, yoga."
-          }
-        },
-        {
-          "sources": [
-            "m20-lore-of-the-traditions"
-          ],
-          "mechanics": {
-            "external_reference": "Libro de los Secretos, pp. 198-203"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -29201,27 +29180,6 @@
         "book_title_es": "M20 Technocracy Reloaded"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-libro-de-los-secretos"
-          ],
-          "mechanics": {
-            "associated_practices": "Alta Magia Ritual, Arte del Deseo / hipereconomía, bardismo, brujería (en concreto el trabajo con nuestra sombra), dominio, hackeo de la realidad, maleficia, psiónica, sabiduría loca, vigorización, vudú, yoga (las variedades de la Mano Izquierda)."
-          }
-        },
-        {
-          "sources": [
-            "m20-lore-of-the-traditions"
-          ],
-          "mechanics": {
-            "external_reference": "Libro de los Secretos, pp. 198-203"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -29313,29 +29271,6 @@
         "variant": "expanded"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-libro-de-los-secretos"
-          ],
-          "mechanics": {
-            "associated_paradigms": "La Creación Es Divina y Está Viva, Orden Divino y Caos Terrenal, ¡NO Somos Hombres!, El Poder Da la Razón, Todo el Poder Proviene de Dios (o los Dioses).",
-            "associated_abilities": "Arte, Artesanía (involucrando los elementos en cuestión), Atletismo, Empatía, Esoterismo (correspondencias elementales, conocimiento de espíritus elementales, saber asociado con el elemento), Meditación, Supervivencia.",
-            "common_instruments": "Armadura (formada por el elemento en cuestión), armas (formadas por el elemento preferido), danzas y movimiento, drogas, elementos, energía (para fuego, aire y agua), escritura (runas inscritas sobre o con el elemento), hierbas y plantas, herramientas domésticas (usadas para trabajar el elemento), huesos y restos, obras de arte (formada por el elemento en cuestión), meditación (con y concerniente a los elementos), música (para conjurar los elementos o invocar espíritus elementales), nudos y cuerdas (tradicionalmente para atar los vientos), ofrendas y sacrificios (a los señores elementales), ordalías (que generalmente involucran el elemento en cuestión), plegarias e invocaciones, pociones y brebajes, sangre y fluidos, símbolos."
-          }
-        },
-        {
-          "sources": [
-            "m20-lore-of-the-traditions"
-          ],
-          "mechanics": {
-            "external_reference": "Libro de los Secretos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
