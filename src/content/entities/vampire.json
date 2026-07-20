@@ -7972,7 +7972,10 @@
     ],
     "mechanics": {
       "level": 3,
-      "discipline": "Podredumbre de la Tumba"
+      "discipline": [
+        "Podredumbre de la Tumba",
+        "Tanatosis"
+      ]
     },
     "sources": [
       {
@@ -7985,14 +7988,13 @@
     ],
     "related": [],
     "review": {
-      "reason": "mechanics differ across sources: discipline, level",
+      "reason": "mechanics differ across sources: level",
       "conflicts": [
         {
           "sources": [
             "v20-core-rulebook-es"
           ],
           "mechanics": {
-            "discipline": "Podredumbre de la Tumba",
             "level": 3
           }
         },
@@ -8001,7 +8003,6 @@
             "v20-core-rulebook-es"
           ],
           "mechanics": {
-            "discipline": "Tanatosis",
             "level": 4
           }
         }
@@ -9604,7 +9605,10 @@
     ],
     "mechanics": {
       "level": 4,
-      "discipline": "Quimerismo"
+      "discipline": [
+        "Quimerismo",
+        "Senda de la Conjuración"
+      ]
     },
     "sources": [
       {
@@ -9617,14 +9621,13 @@
     ],
     "related": [],
     "review": {
-      "reason": "mechanics differ across sources: discipline, level",
+      "reason": "mechanics differ across sources: level",
       "conflicts": [
         {
           "sources": [
             "v20-core-rulebook-es"
           ],
           "mechanics": {
-            "discipline": "Quimerismo",
             "level": 4
           }
         },
@@ -9633,7 +9636,6 @@
             "v20-core-rulebook-es"
           ],
           "mechanics": {
-            "discipline": "Senda de la Conjuración",
             "level": 2
           }
         }
@@ -13288,7 +13290,10 @@
     ],
     "mechanics": {
       "level": 1,
-      "discipline": "Obeah"
+      "discipline": [
+        "Obeah",
+        "Valeren"
+      ]
     },
     "sources": [
       {
@@ -13300,27 +13305,6 @@
       }
     ],
     "related": [],
-    "review": {
-      "reason": "mechanics differ across sources: discipline",
-      "conflicts": [
-        {
-          "sources": [
-            "v20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "discipline": "Obeah"
-          }
-        },
-        {
-          "sources": [
-            "v20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "discipline": "Valeren"
-          }
-        }
-      ]
-    },
     "edges": []
   },
   {
@@ -13336,7 +13320,10 @@
     ],
     "mechanics": {
       "level": 2,
-      "discipline": "Obeah"
+      "discipline": [
+        "Obeah",
+        "Valeren"
+      ]
     },
     "sources": [
       {
@@ -13348,27 +13335,6 @@
       }
     ],
     "related": [],
-    "review": {
-      "reason": "mechanics differ across sources: discipline",
-      "conflicts": [
-        {
-          "sources": [
-            "v20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "discipline": "Obeah"
-          }
-        },
-        {
-          "sources": [
-            "v20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "discipline": "Valeren"
-          }
-        }
-      ]
-    },
     "edges": []
   },
   {
