@@ -3621,9 +3621,6 @@
         "section_anchor": "fido"
       }
     ],
-    "review": {
-      "reason": "Encabezado fragmentado por la extracción: el título '··· FIDO (Dispositivo)' y su bloque de estadísticas 'Iluminación 3, Quintaesencia 15, Coste de Trasfondo N/D' aparecen como dos encabezados separados (bloques 523 y 527). Los datos son legibles y se recompusieron; verificar estructura contra el original."
-    },
     "edges": [],
     "related": []
   },
@@ -20944,10 +20941,6 @@
         "book_title_es": "M20 Faces of Magick"
       }
     ],
-    "review": {
-      "reason": "Extracción intercaló el encabezado del Talismán dentro del bloque de personaje de Xoxotlacotl; la tabla del arma quedó aplanada en columnas separadas. Valores del arma (FUE+3 (+1) / Agravado / T) recuperados con confianza pero conviene verificar contra el PDF.",
-      "conflicts": []
-    },
     "edges": [],
     "related": []
   },
@@ -28389,8 +28382,11 @@
       "artilugio"
     ],
     "mechanics": {
-      "tipo": "Artilugio",
-      "rango": "···"
+      "wonder_type": "Artilugio",
+      "rank": "···",
+      "iluminacion": "4",
+      "energia_primordial": "10 (por cajetilla)",
+      "background_cost": "6 puntos de Trasfondo (por cajetilla de 20)"
     },
     "sources": [
       {
@@ -28401,9 +28397,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "Truncado en el límite del slice (bloque 528). Sólo está presente el encabezado '··· Bebidas energéticas (Artilugios)'; el bloque de estadísticas (Iluminación / Energía Primordial / coste de Trasfondo) y el cuerpo Descripción+Sistema caen fuera de este slice y deben completarse con los bloques siguientes."
-    },
     "edges": [],
     "related": []
   },
@@ -28445,9 +28438,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "El encabezado con el nombre y el rango (puntos ·) de esta Maravilla precede al bloque 528 y queda fuera del slice; el nombre 'Bebidas energéticas Tecnocráticas' se ha tomado del cuerpo y del bloque de rasgos (Iluminación/Energía Primordial/Trasfondo). Rango en puntos no capturado."
-    },
     "edges": [],
     "related": []
   },
@@ -33838,9 +33828,6 @@
       "variant_legit": "Grimorio de Rango Cinco",
       "variant_all_father": "Multiverso 2 (éxito automático y sin Paradoja); deriva Multiverso 3 / Multiverso 5"
     },
-    "review": {
-      "reason": "Encabezado partido por la extracción del PDF: '## El Ojo de Cristal de Odín (Talismán) Areté: Ver Más Abajo, Quintaesencia: Ver' continúa en '## Más Abajo, Coste de Trasfondo: Ver Más Abajo'. Valores reconstruibles (los tres son 'Ver Más Abajo'), pero se marca para revisión humana."
-    },
     "sources": [
       {
         "book_id": "m20-stv-m-charles-supplement-104pp",
@@ -35948,9 +35935,6 @@
         "book_title_es": "M20 Technocracy Reloaded"
       }
     ],
-    "review": {
-      "reason": "Las reglas de finalización del ritual continúan tras la barra lateral «Habitación 101» en el original."
-    },
     "edges": [],
     "related": []
   },
@@ -37543,9 +37527,6 @@
         "book_title_es": "M20 The operative dossier"
       }
     ],
-    "review": {
-      "reason": "La línea de estadísticas está truncada por la extracción: 'Coste de Trasfondo 3 pts. por' queda cortada sin la unidad final (probablemente 'por Campo/uso'). Valor de coste incompleto en la fuente."
-    },
     "edges": [],
     "related": []
   },
@@ -38369,9 +38350,6 @@
         "book_title_es": "M20 The rich bastards guide to magick"
       }
     ],
-    "review": {
-      "reason": "Stat block garbled by PDF extraction: background cost (12 pts.) and maintenance (Recursos 3) were displaced across lines. Recovered from the shared stat-block pattern; verify against source."
-    },
     "edges": [],
     "related": []
   },
@@ -38667,9 +38645,6 @@
         "book_title_es": "M20 The rich bastards guide to magick"
       }
     ],
-    "review": {
-      "reason": "Stat block garbled by PDF extraction: background cost (12 pts.) and prerequisite (Recursos 7+) were displaced onto a later line. Recovered from the shared stat-block pattern; verify against source."
-    },
     "edges": [],
     "related": []
   },
@@ -38703,9 +38678,6 @@
         "book_title_es": "M20 The rich bastards guide to magick"
       }
     ],
-    "review": {
-      "reason": "Stat block garbled by PDF extraction: background cost (6 pts.) was displaced after the descriptive text. Recovered from the shared stat-block pattern; verify against source."
-    },
     "edges": [],
     "related": []
   },
@@ -38738,9 +38710,6 @@
         "book_title_es": "M20 The rich bastards guide to magick"
       }
     ],
-    "review": {
-      "reason": "Stat block garbled by PDF extraction: background cost (12 pts.) and prerequisite (Recursos 5) were displaced onto a later line. Recovered from the shared stat-block pattern; verify against source."
-    },
     "edges": [],
     "related": []
   },
@@ -38973,9 +38942,6 @@
         "book_title_es": "M20 The rich bastards guide to magick"
       }
     ],
-    "review": {
-      "reason": "Stat block garbled by PDF extraction: background cost (8 pts.) and prerequisite (Respaldo 6, Recursos 6) were displaced onto a later line. Recovered from the shared stat-block pattern; verify against source."
-    },
     "edges": [],
     "related": []
   },
