@@ -38,6 +38,25 @@ export const TYPE_INFO: Record<string, TypeInfo> = {
   'changing-breed': { label_es: 'Raza Cambiante', mechanical_fields: [] },
   bane: { label_es: 'Perdición', mechanical_fields: ['rage', 'gnosis', 'willpower', 'essence', 'charms'] },
   fomor: { label_es: 'Fomor', mechanical_fields: ['willpower', 'powers'] },
+  // Lane-B prose types (non-Mage lines)
+  'combination-discipline': { label_es: 'Disciplina Combinada', mechanical_fields: ['disciplines', 'level', 'cost'] },
+  'discipline-ritual': { label_es: 'Ritual de Disciplina', mechanical_fields: ['level', 'discipline', 'system'] },
+  'thaumaturgy-path': { label_es: 'Senda de Taumaturgia', mechanical_fields: [] },
+  'necromancy-path': { label_es: 'Senda de Nigromancia', mechanical_fields: [] },
+  gift: { label_es: 'Don', mechanical_fields: ['rank', 'breed_auspice', 'spirit', 'system'] },
+  rite: { label_es: 'Rito', mechanical_fields: ['level', 'type', 'system'] },
+  fetish: { label_es: 'Fetiche', mechanical_fields: ['level', 'gnosis', 'spirit'] },
+  totem: { label_es: 'Tótem', mechanical_fields: ['cost', 'bonuses'] },
+  fetter: { label_es: 'Vínculo', mechanical_fields: [] },
+  relic: { label_es: 'Reliquia', mechanical_fields: [] },
+  'dark-arcanos': { label_es: 'Arcano Oscuro', mechanical_fields: ['level', 'arcanos'] },
+  'sorcery-ritual': { label_es: 'Ritual de Hechicería', mechanical_fields: ['level'] },
+  art: { label_es: 'Arte', mechanical_fields: ['level'] },
+  realm: { label_es: 'Reino', mechanical_fields: ['level'] },
+  cantrip: { label_es: 'Ensalmo', mechanical_fields: ['art', 'realm'] },
+  treasure: { label_es: 'Tesoro', mechanical_fields: ['level'] },
+  edge: { label_es: 'Filo', mechanical_fields: ['level', 'creed'] },
+  conviction: { label_es: 'Convicción', mechanical_fields: [] },
 };
 
 export function typeLabelEs(type: string): string {
