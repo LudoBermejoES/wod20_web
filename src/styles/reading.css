@@ -1,0 +1,85 @@
+/* Reading-site typography (add-book-reading-experience 4.1–4.3), applying
+   src/styles/reading-design-direction.md. Body/running text uses the corpus body
+   face (Goudy → Sorts Mill Goudy); headings/titles use a per-LINE display face
+   echoing each book line's title font. Layers on the existing per-line tokens. */
+@import './reading-fonts.css';
+
+:root {
+  --font-reading-body: 'Sorts Mill Goudy', ui-serif, Georgia, 'Times New Roman', serif;
+  --font-reading-display: 'Sorts Mill Goudy', ui-serif, Georgia, serif;
+  --space-6: 4rem;
+  /* fiction register tint derived from the per-line accent (auto-reskins) */
+  --bg-fiction: color-mix(in oklab, var(--accent) 8%, var(--bg-elevated));
+}
+/* Per-line display (title) faces — echo each book line's PDF display font. */
+html[data-theme='mage'] { --font-reading-display: 'Cinzel', serif; }
+html[data-theme='vampire'] { --font-reading-display: 'Marcellus', serif; }
+html[data-theme='hunter'] { --font-reading-display: 'Marcellus', serif; }
+html[data-theme='werewolf'] { --font-reading-display: 'Metamorphous', serif; }
+html[data-theme='wraith'] { --font-reading-display: 'IM Fell English', serif; }
+html[data-theme='changeling'] { --font-reading-display: 'Uncial Antiqua', serif; }
+
+/* --- reading body ------------------------------------------------------- */
+.reading-body {
+  font-family: var(--font-reading-body);
+  max-width: var(--measure, 68ch);
+  font-size: clamp(1rem, 0.97rem + 0.15vw, 1.125rem);
+  line-height: 1.65;
+  font-feature-settings: 'onum' 1;
+}
+.reading-body :is(h1, h2, h3) { font-family: var(--font-reading-display); }
+.reading-body h1 {
+  font-size: clamp(1.85rem, 1.5rem + 1.8vw, 2.75rem);
+  line-height: 1.15; font-weight: 700; letter-spacing: -0.01em; margin: 0;
+}
+.reading-body h2 {
+  font-size: clamp(1.4rem, 1.2rem + 1vw, 1.9rem);
+  line-height: 1.25; font-weight: 700; margin-block: var(--space-5) 0.4em;
+}
+.reading-body h3 {
+  font-size: clamp(1.15rem, 1.05rem + 0.5vw, 1.4rem);
+  line-height: 1.3; font-weight: 700; margin-block: var(--space-4) 0.35em;
+}
+.reading-body h4 {
+  font-family: var(--font-sans); font-size: 1rem; font-weight: 700;
+  text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted);
+  margin-block: var(--space-3) 0.3em;
+}
+.reading-body p { margin-block: 0 0.9em; }
+
+/* kicker above the page title (LIBRO · CAPÍTULO · PARTE) */
+.reading-body .kicker {
+  font-family: var(--font-sans); font-size: 0.75rem; font-weight: 700;
+  text-transform: uppercase; letter-spacing: 0.08em; color: var(--accent); margin: 0;
+}
+
+/* --- fiction register: tinted inset, NOT wholesale italic ---------------- */
+.reading-body.is-fiction {
+  background: var(--bg-fiction);
+  border-radius: var(--radius);
+  padding: var(--space-4) var(--space-5);
+  line-height: 1.7;
+}
+.reading-body.is-fiction > p:first-of-type::first-letter {
+  font-family: var(--font-reading-display);
+  font-size: 3.1em; line-height: 0.8; float: left;
+  padding: 0.05em 0.12em 0 0; color: var(--accent);
+}
+
+/* --- reference / tables / dot ratings ----------------------------------- */
+.reading-body table {
+  border-collapse: collapse; width: 100%; margin-block: var(--space-3);
+  font-family: var(--font-sans); font-size: 0.95em; font-variant-numeric: tabular-nums;
+}
+.reading-body :is(th, td) { border: 1px solid var(--border); padding: 0.3em 0.6em; text-align: left; }
+.reading-body thead th { background: var(--bg-elevated); }
+.reading-body tbody tr:nth-child(even) { background: color-mix(in oklab, var(--bg-elevated) 50%, var(--bg)); }
+.reading-body blockquote {
+  font-style: italic; color: var(--muted);
+  border-inline-start: 3px solid var(--accent); margin-inline: 0; padding-inline-start: var(--space-3);
+}
+/* register divider before/after an interlude */
+.reading-body hr {
+  border: 0; border-top: 1px solid var(--border);
+  width: 30%; margin: var(--space-6) auto;
+}

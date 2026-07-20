@@ -6,6 +6,7 @@ import Breadcrumb from '../../../../components/Breadcrumb.astro';
 import GuideSidebar from '../../../../components/GuideSidebar.astro';
 import { lineUrl } from '../../../../lib/entities';
 import { lineInfo } from '../../../../lib/lines';
+import '../../../../styles/reading.css';
 
 export async function getStaticPaths() {
   const [pages, books] = [await getCollection('guidePages'), await getCollection('guideBooks')];
@@ -88,22 +89,8 @@ const isFiction = page.content_type === 'fiction';
     }
     .rail { position: sticky; top: var(--space-3); max-height: calc(100vh - 2rem); overflow-y: auto; }
     .reading { min-width: 0; }
-    .reading-body { max-width: 66ch; }
     .page-head { margin-bottom: var(--space-4); }
-    .kicker {
-      margin: 0;
-      font-size: 0.75rem;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      color: var(--accent, var(--muted));
-    }
-    /* Fiction reads distinctly from rules (placeholder until 4.x design direction). */
-    .is-fiction {
-      font-style: italic;
-      border-left: 3px solid var(--accent, var(--border));
-      padding-left: var(--space-4);
-      color: var(--fg);
-    }
+    /* type scale, fiction register, tables live in styles/reading.css */
     .in-page-toc {
       border: 1px solid var(--border);
       border-radius: var(--radius);
