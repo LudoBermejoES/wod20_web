@@ -14,14 +14,22 @@ export interface Props {
 }
 const { line, book, tree, currentSlug, bookTitle } = Astro.props;
 const base = `/${line}/guia/${book}`;
+// Persistent-but-quiet: the whole book tree stays reachable (a reference
+// manual wants at-a-glance wayfinding, unlike a linear novel), but only the
+// Block containing the current page is expanded by default — every other
+// Block collapses into its own native <details>, zero-JS, so a ~40–50-entry
+// tree doesn't read as a wall of text on every single page.
+const containsCurrent = (blk: (typeof tree)[number]) =>
+  blk.chapters.some((ch) => ch.pages.some((pg) => pg.slug === currentSlug));
 ---
 
 <nav class="guide-sidebar" aria-label={`Índice de ${bookTitle}`}>
+  <p class="eyebrow">Índice</p>
   <a class="book-home" href={base}>{bookTitle}</a>
   {
     tree.map((blk) => (
-      <section class="blk">
-        <p class="blk-title">{blk.block_title}</p>
+      <details class="blk" open={containsCurrent(blk)}>
+        <summary class="blk-title">{blk.block_title}</summary>
         {blk.chapters.map((ch) => (
           <div class="chap">
             {ch.chapter !== '—' && <p class="chap-title">{ch.chapter}</p>}
@@ -40,35 +48,77 @@ const base = `/${line}/guia/${book}`;
             </ul>
           </div>
         ))}
-      </section>
+      </details>
     ))
   }
 </nav>
 
 <style>
   .guide-sidebar {
-    font-size: 0.9rem;
+    font-size: 0.88rem;
     line-height: 1.4;
+  }
+  .eyebrow {
+    margin: 0 0 0.3em;
+    font-family: var(--font-sans);
+    font-size: 0.68rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--accent);
   }
   .book-home {
     display: block;
+    font-family: var(--font-reading-display, inherit);
+    font-size: 1.05rem;
+    line-height: 1.3;
     font-weight: 700;
     margin-bottom: var(--space-3);
+    padding-bottom: var(--space-3);
+    border-bottom: 1px solid var(--border);
     text-decoration: none;
     color: var(--fg);
   }
-  .blk { margin-bottom: var(--space-3); }
+  .book-home:hover { color: var(--accent); }
+  .blk { margin-bottom: 0.15rem; }
   .blk-title {
-    margin: 0 0 0.25rem;
+    margin: 0;
+    padding: 0.4rem 0;
+    font-family: var(--font-sans);
     font-size: 0.72rem;
+    font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.06em;
     color: var(--muted);
+    cursor: pointer;
+    list-style: none;
   }
-  .chap-title { margin: 0.5rem 0 0.2rem; font-weight: 600; }
+  .blk-title::-webkit-details-marker { display: none; }
+  .blk-title::marker { content: ''; }
+  /* disclosure triangle, drawn to match the kicker/eyebrow register rather
+     than the browser default glyph */
+  .blk-title::before {
+    content: '›';
+    display: inline-block;
+    width: 1em;
+    color: var(--accent);
+    transition: transform 0.15s ease;
+  }
+  details[open] > .blk-title::before { transform: rotate(90deg); }
+  .blk-title:hover { color: var(--fg); }
+  .chap-title { margin: 0.6rem 0 0.2rem; font-weight: 600; color: var(--fg); }
   .guide-sidebar ul { list-style: none; margin: 0 0 0 0.25rem; padding: 0 0 0 0.6rem; border-left: 1px solid var(--border); }
-  .guide-sidebar li { margin: 0.1rem 0; }
-  .guide-sidebar a { text-decoration: none; color: var(--muted); }
+  .guide-sidebar li { margin: 0.15rem 0; }
+  .guide-sidebar a {
+    text-decoration: none; color: var(--muted);
+    display: inline-block; padding-inline-start: 0.6em; margin-inline-start: -0.6em;
+    border-radius: var(--radius-sm);
+    transition: color 0.1s ease, background-color 0.1s ease;
+  }
   .guide-sidebar a:hover { color: var(--fg); }
-  .guide-sidebar a.current { color: var(--accent, var(--fg)); font-weight: 600; }
+  .guide-sidebar a.current {
+    color: var(--accent, var(--fg));
+    font-weight: 600;
+    background: color-mix(in oklab, var(--accent) 12%, transparent);
+  }
 </style>

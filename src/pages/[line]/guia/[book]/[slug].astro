@@ -55,7 +55,11 @@ const kicker = isFiction
           { label: bookMeta.book_title_es, href: base },
           ...(page.block_title ? [{ label: page.block_title }] : []),
           ...(page.chapter && page.chapter !== '—' ? [{ label: page.chapter }] : []),
-          { label: page.title },
+          // a split Section shows its parent Part, then its own short title
+          ...(page.section && page.part && page.part !== page.chapter
+            ? [{ label: page.part }]
+            : []),
+          { label: page.section ?? page.title },
         ]}
       />
 
@@ -85,8 +89,18 @@ const kicker = isFiction
       </article>
 
       <nav class="prev-next" aria-label="Navegación de lectura">
-        {page.prev ? <a class="pn prev" href={`${base}/${page.prev.slug}`}>← {page.prev.title}</a> : <span />}
-        {page.next ? <a class="pn next" href={`${base}/${page.next.slug}`}>{page.next.title} →</a> : <span />}
+        {page.prev ? (
+          <a class="pn prev" href={`${base}/${page.prev.slug}`}>
+            <span class="pn-label">← Anterior</span>
+            <span class="pn-title">{page.prev.title}</span>
+          </a>
+        ) : <span />}
+        {page.next ? (
+          <a class="pn next" href={`${base}/${page.next.slug}`}>
+            <span class="pn-label">Siguiente →</span>
+            <span class="pn-title">{page.next.title}</span>
+          </a>
+        ) : <span />}
       </nav>
     </main>
   </div>
@@ -98,34 +112,87 @@ const kicker = isFiction
       gap: var(--space-5);
       align-items: start;
     }
-    .rail { position: sticky; top: var(--space-3); max-height: calc(100vh - 2rem); overflow-y: auto; }
+    /* The rail reads as a quiet panel (recessed tint + hairline), not text
+       floating loose beside the column — the persistent book tree earns its
+       width by looking considered, not like an unstyled docs sidebar. */
+    .rail {
+      position: sticky; top: var(--space-3); max-height: calc(100vh - 2rem); overflow-y: auto;
+      background: color-mix(in oklab, var(--bg-elevated) 65%, transparent);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: var(--space-3);
+    }
     .reading { min-width: 0; }
     .page-head { margin-bottom: var(--space-4); }
     /* type scale, fiction register, tables live in styles/reading.css */
     .in-page-toc {
       border: 1px solid var(--border);
       border-radius: var(--radius);
-      padding: 0.5rem 1rem;
+      background: var(--bg-elevated);
+      box-shadow: inset 0 1px 0 color-mix(in oklab, var(--fg) 6%, transparent);
+      padding: 0.7rem 1.1rem;
       margin-block: var(--space-3);
       font-size: 0.9rem;
     }
-    .in-page-toc p { margin: 0 0 0.25rem; font-weight: 600; }
-    .in-page-toc ul { margin: 0; columns: 2; }
+    .in-page-toc p {
+      margin: 0 0 0.5em; font-family: var(--font-sans); font-weight: 700;
+      font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted);
+    }
+    .in-page-toc ul { margin: 0; padding: 0; list-style: none; columns: 2; column-gap: var(--space-4); }
+    .in-page-toc li { break-inside: avoid; margin-block: 0.2em; }
+    .in-page-toc a { text-decoration: none; }
+    .in-page-toc a:hover { text-decoration: underline; }
     @media (max-width: 40rem) { .in-page-toc ul { columns: 1; } }
+
+    /* At a wide viewport the mini-TOC leaves the reading column and becomes a
+       sticky gutter element beside the measure — an elegant margin note
+       rather than a box interrupting the top of every page (§6 of the design
+       direction). Below this width it stays inline, as today. The threshold
+       accounts for the persistent book-tree rail *plus* the measure *plus*
+       the gutter all fitting without cramping any of the three. */
+    @media (min-width: 90rem) {
+      .reading-body {
+        display: grid;
+        grid-template-columns: minmax(0, var(--measure)) minmax(200px, 240px);
+        column-gap: var(--space-5);
+        align-items: start;
+      }
+      .reading-body > :not(.in-page-toc) { grid-column: 1; }
+      .reading-body > .in-page-toc {
+        grid-column: 2;
+        grid-row: 1 / -1;
+        position: sticky;
+        top: var(--space-4);
+        align-self: start;
+        max-height: calc(100vh - var(--space-5));
+        overflow-y: auto;
+        margin-block: 0;
+      }
+      .reading-body > .in-page-toc ul { columns: 1; }
+    }
+
     .prev-next {
       display: flex;
       justify-content: space-between;
-      gap: var(--space-3);
+      gap: var(--space-4);
       margin-top: var(--space-5);
       padding-top: var(--space-3);
       border-top: 1px solid var(--border);
     }
-    .pn { text-decoration: none; color: var(--muted); max-width: 45%; }
-    .pn:hover { color: var(--fg); }
-    .pn.next { text-align: right; margin-left: auto; }
+    .pn {
+      display: flex; flex-direction: column; gap: 0.3em;
+      text-decoration: none; color: var(--fg); max-width: 45%;
+    }
+    .pn-label {
+      font-family: var(--font-sans); font-size: 0.72rem; font-weight: 700;
+      text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted);
+    }
+    .pn-title { font-family: var(--font-reading-body); }
+    .pn:hover .pn-title { color: var(--accent); }
+    .pn.next { align-items: flex-end; text-align: right; margin-left: auto; }
     @media (max-width: 55rem) {
       .guide-shell { grid-template-columns: 1fr; }
-      .rail { position: static; max-height: none; border-bottom: 1px solid var(--border); padding-bottom: var(--space-3); }
+      .rail { position: static; max-height: none; }
     }
   </style>
 </Layout>

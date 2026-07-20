@@ -50,11 +50,30 @@ html[data-theme='changeling'] { --font-reading-display: 'Uncial Antiqua', serif;
   margin-block: var(--space-3) 0.3em;
 }
 .reading-body p { margin-block: 0 0.9em; }
+/* Two headings back-to-back (a flattened category→item hierarchy, e.g. an
+   attributes/skills list) shouldn't repeat the full section-break gap — the
+   second heading belongs with the first, not with a phantom paragraph. */
+.reading-body :is(h2, h3, h4) + :is(h2, h3, h4) { margin-block-start: 0.3em; }
 
-/* kicker above the page title (LIBRO · CAPÍTULO · PARTE) */
+/* Chapter-opener lede: the first paragraph of rules prose (not fiction/reference,
+   which have their own opening treatment) gets a quiet print-style flourish —
+   its first visual line in small caps, the classic chapter-opening convention —
+   without the weight of a full drop cap, which is reserved for fiction. */
+.reading-body:not(.is-fiction):not(.is-reference) > p:first-of-type::first-line {
+  font-variant: small-caps;
+  letter-spacing: 0.02em;
+}
+
+/* kicker above the page title (LIBRO · CAPÍTULO · PARTE) — a short accent tick
+   stands in for the drop-cap/ornament this label is too small to carry itself. */
 .reading-body .kicker {
   font-family: var(--font-sans); font-size: 0.75rem; font-weight: 700;
-  text-transform: uppercase; letter-spacing: 0.08em; color: var(--accent); margin: 0;
+  text-transform: uppercase; letter-spacing: 0.08em; color: var(--accent);
+  margin: 0 0 0.7em; display: flex; align-items: center; gap: 0.6em;
+}
+.reading-body .kicker::before {
+  content: ''; display: inline-block; width: 1.75rem; height: 2px;
+  background: var(--accent); flex: none;
 }
 
 /* --- fiction register: tinted inset, NOT wholesale italic ---------------- */
@@ -69,6 +88,21 @@ html[data-theme='changeling'] { --font-reading-display: 'Uncial Antiqua', serif;
   font-size: 3.1em; line-height: 0.8; float: left;
   padding: 0.05em 0.12em 0 0; color: var(--accent);
 }
+/* Interior scene breaks within an interlude are a beat change, not a new
+   document section — centred, italic and unbordered so they read as a print
+   scene-break mark, never confusable with the h2 section headings of rules
+   prose (left-aligned, ruled, upright). */
+.reading-body.is-fiction h2 {
+  text-align: center; font-style: italic; font-weight: 400;
+  font-size: clamp(1.1rem, 1rem + 0.4vw, 1.3rem);
+  letter-spacing: 0.03em; border-bottom: none; color: var(--accent);
+  margin-block: var(--space-6) var(--space-3);
+}
+.reading-body.is-fiction h2::before,
+.reading-body.is-fiction h2::after {
+  content: '·'; display: inline-block; margin-inline: 0.6em; opacity: 0.55;
+  font-style: normal;
+}
 
 /* --- reference register: appendix/bestiary pages read as reference, not prose */
 .reading-body.is-reference {
@@ -76,6 +110,30 @@ html[data-theme='changeling'] { --font-reading-display: 'Uncial Antiqua', serif;
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: var(--space-4) var(--space-5);
+  box-shadow: inset 0 1px 0 color-mix(in oklab, var(--fg) 6%, transparent);
+}
+/* Inside the reference box, each h2 is a dictionary/bestiary *entry*, not a
+   section of prose — a quiet hairline divider between entries reads better at
+   ~30-plus short entries than the full section-break border+gap rules prose
+   gets, and the entry's stat lines (Atributos/Habilidades/…) are set as
+   compact tabular data, not narrative sentences, matching the "reference =
+   sans, tabular, boxed" register everywhere else on the site. */
+.reading-body.is-reference h2 {
+  font-size: clamp(1.05rem, 1rem + 0.3vw, 1.3rem);
+  border-bottom: none;
+  border-top: 1px solid var(--border);
+  margin-block: var(--space-4) 0.35em;
+  padding-top: var(--space-3);
+}
+.reading-body.is-reference h2:first-child {
+  border-top: 0; padding-top: 0; margin-block-start: 0;
+}
+.reading-body.is-reference p {
+  font-family: var(--font-sans);
+  font-size: 0.88em;
+  line-height: 1.55;
+  margin-block: 0 0.3em;
+  font-variant-numeric: tabular-nums;
 }
 
 /* --- tables / dot ratings ----------------------------------------------- */
@@ -96,4 +154,22 @@ html[data-theme='changeling'] { --font-reading-display: 'Uncial Antiqua', serif;
 .reading-body hr {
   border: 0; border-top: 1px solid var(--border);
   width: 30%; margin: var(--space-6) auto;
+}
+
+/* --- print ---------------------------------------------------------------
+   Reading pages are the one part of the site worth printing (a chapter for
+   the table). Chrome recedes entirely; the text column gets the full page
+   width; colour washes that exist only as on-screen affordances are dropped
+   so the page prints cleanly in black on white without wasting toner. Scoped
+   here because reading.css is only ever loaded by the two guide-book pages. */
+@media print {
+  header, footer, .skip, .rail, .breadcrumb, .in-page-toc, .prev-next { display: none !important; }
+  .guide-shell { display: block; }
+  .reading-body, .reading-body.is-fiction, .reading-body.is-reference {
+    max-width: none; background: none; border: 0; box-shadow: none; padding: 0;
+  }
+  .reading-body.is-fiction > p:first-of-type::first-letter { color: #000; }
+  .reading-body :is(h2, h3) { color: #000; border-bottom-color: #999; }
+  .reading-body a { color: #000; text-decoration: underline; }
+  .reading-body table { overflow-x: visible; }
 }

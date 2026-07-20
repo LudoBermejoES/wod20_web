@@ -121,6 +121,7 @@ const guidePages = defineCollection({
     block_title: z.string(),
     chapter: z.string().nullable().optional(),
     part: z.string().nullable().optional(),
+    section: z.string().nullable().optional(),
     title: z.string(),
     content_type: z.string(),
     source_line_range: z.array(z.number().int()).length(2),

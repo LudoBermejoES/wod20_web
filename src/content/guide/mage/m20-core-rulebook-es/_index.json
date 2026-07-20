@@ -3,7 +3,7 @@
   "line": "mage",
   "title_es": "Mago: La Ascensión — Libro Básico 20.º Aniversario",
   "book_title_es": "M20 Core Rulebook (ES)",
-  "page_count": 49,
+  "page_count": 138,
   "tree": [
     {
       "block": "front-matter",
@@ -49,6 +49,12 @@
             {
               "slug": "glosario",
               "title": "Glosario",
+              "part": "Glosario",
+              "content_type": "glossary"
+            },
+            {
+              "slug": "glosario-terminologia-de-las-tradiciones",
+              "title": "Terminología de las Tradiciones",
               "part": null,
               "content_type": "glossary"
             }
@@ -66,6 +72,18 @@
             {
               "slug": "capitulo-uno-la-senda-del-mago",
               "title": "Capítulo Uno: La Senda del Mago",
+              "part": "Capítulo Uno: La Senda del Mago",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-uno-la-senda-del-mago-el-avatar",
+              "title": "El Avatar",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-uno-la-senda-del-mago-estancamiento",
+              "title": "Estancamiento",
               "part": null,
               "content_type": "rule"
             }
@@ -77,6 +95,24 @@
             {
               "slug": "capitulo-dos-magia-el-arte-de-la-realidad",
               "title": "Capítulo Dos: Magia El Arte de la Realidad",
+              "part": "Capítulo Dos: Magia El Arte de la Realidad",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-dos-magia-el-arte-de-la-realidad-el-genio-y-el-avatar",
+              "title": "El Genio y el Avatar",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-dos-magia-el-arte-de-la-realidad-las-esferas-misticas",
+              "title": "Las Esferas místicas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-dos-magia-el-arte-de-la-realidad-fuerzas-los-principios-del-poder-elemental",
+              "title": "Fuerzas: Los principios del poder elemental",
               "part": null,
               "content_type": "rule"
             }
@@ -88,6 +124,12 @@
             {
               "slug": "capitulo-tres-el-mundo-de-sombras",
               "title": "Capítulo Tres: El Mundo de Sombras",
+              "part": "Capítulo Tres: El Mundo de Sombras",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-tres-el-mundo-de-sombras-sangre-vital-de-la-realidad",
+              "title": "Sangre vital de la realidad",
               "part": null,
               "content_type": "rule"
             }
@@ -99,6 +141,36 @@
             {
               "slug": "capitulo-cuatro-los-mundos-mas-alla",
               "title": "Capítulo Cuatro: Los Mundos Más Allá",
+              "part": "Capítulo Cuatro: Los Mundos Más Allá",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-los-mundos-mas-alla-infinito-dado-forma",
+              "title": "Infinito dado forma",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-los-mundos-mas-alla-pericarpios",
+              "title": "Pericarpios",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-los-mundos-mas-alla-la-tempestad",
+              "title": "La Tempestad",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-los-mundos-mas-alla-tecgnosis-y-transhumanismo",
+              "title": "Tecgnosis y transhumanismo",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-los-mundos-mas-alla-el-horizonte",
+              "title": "El Horizonte",
               "part": null,
               "content_type": "rule"
             }
@@ -126,9 +198,51 @@
               "content_type": "rule"
             },
             {
+              "slug": "parte-i-una-historia-de-los-despertados-magos-y-brujas-clerigos-y-caballeros",
+              "title": "Magos y brujas, clérigos y caballeros",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-i-una-historia-de-los-despertados-caos-y-transgresion",
+              "title": "Caos y transgresión",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-i-una-historia-de-los-despertados-el-crisol",
+              "title": "El crisol",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
               "slug": "parte-ii-el-concilio-de-las-nueve-tradiciones-misticas",
               "title": "Parte II: El Concilio de las Nueve Tradiciones Místicas",
               "part": "Parte II: El Concilio de las Nueve Tradiciones Místicas",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-ii-el-concilio-de-las-nueve-tradiciones-misticas-titulos-honorificos",
+              "title": "Títulos honoríficos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-ii-el-concilio-de-las-nueve-tradiciones-misticas-la-colonia",
+              "title": "La Colonia",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-ii-el-concilio-de-las-nueve-tradiciones-misticas-estereotipos",
+              "title": "Estereotipos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-ii-el-concilio-de-las-nueve-tradiciones-misticas-yo-no-manifiest-o-cambio-yo-me-convier-t-o-en-el-cambio",
+              "title": "Yo no 'manifiest o' cambio . Yo ME CONVIER T O en el Cambio .",
+              "part": null,
               "content_type": "rule"
             },
             {
@@ -138,9 +252,57 @@
               "content_type": "rule"
             },
             {
+              "slug": "parte-iii-la-union-tecnocratica-amenaza-nula",
+              "title": "Amenaza Nula",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iii-la-union-tecnocratica-viejavida-y-nuevavida",
+              "title": "Viejavida y nuevavida",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iii-la-union-tecnocratica-operativos-inusuales",
+              "title": "Operativos inusuales",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iii-la-union-tecnocratica-genio",
+              "title": "Genio",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iii-la-union-tecnocratica-esferas-afines-fuerzas-materia-o-tiempo",
+              "title": "Esferas Afines: Fuerzas, Materia o Tiempo.",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
               "slug": "parte-iv-los-dispares",
               "title": "Parte IV: Los Dispares",
               "part": "Parte IV: Los Dispares",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iv-los-dispares-estereotipos",
+              "title": "Estereotipos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iv-los-dispares-estereotipos-2",
+              "title": "Estereotipos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iv-los-dispares-estereotipos-3",
+              "title": "Estereotipos",
+              "part": null,
               "content_type": "rule"
             },
             {
@@ -150,10 +312,28 @@
               "content_type": "rule"
             },
             {
-              "slug": "parte-los-locos",
-              "title": "Parte ?*!: Los Locos",
-              "part": "Parte ?*!: Los Locos",
+              "slug": "parte-v-los-caidos-cultos-infernales",
+              "title": "Cultos infernales",
+              "part": null,
               "content_type": "rule"
+            },
+            {
+              "slug": "parte-v-los-caidos-herramientas-para-maleficia",
+              "title": "Herramientas para maleficia",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-vi-los-locos",
+              "title": "Parte VI: Los Locos",
+              "part": "Parte VI: Los Locos",
+              "content_type": "lore"
+            },
+            {
+              "slug": "parte-vi-los-locos-como-volverte-loco-personajes-merodeadores",
+              "title": "Cómo volverte loco: Personajes Merodeadores",
+              "part": null,
+              "content_type": "lore"
             }
           ]
         },
@@ -170,6 +350,18 @@
               "slug": "parte-i-crear-tu-personaje",
               "title": "Parte I: Crear tu personaje",
               "part": "Parte I: Crear tu personaje",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-i-crear-tu-personaje-paso-cinco-toques-finales",
+              "title": "Paso Cinco: Toques Finales",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-i-crear-tu-personaje-paso-cinco",
+              "title": "Paso Cinco",
+              "part": null,
               "content_type": "rule"
             },
             {
@@ -191,9 +383,69 @@
               "content_type": "rule"
             },
             {
+              "slug": "habilidades-tecnicas",
+              "title": "Técnicas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "habilidades-conocimientos",
+              "title": "Conocimientos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "habilidades-talentos-secundarios",
+              "title": "Talentos secundarios",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "habilidades-conocimientos-secundarios",
+              "title": "Conocimientos secundarios",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
               "slug": "trasfondos",
               "title": "Trasfondos",
               "part": "Trasfondos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "trasfondos-avatar-genio",
+              "title": "Avatar / Genio",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "trasfondos-destino",
+              "title": "Destino",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "trasfondos-identidad-alternativa",
+              "title": "Identidad Alternativa",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "trasfondos-patron",
+              "title": "Patrón",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "trasfondos-sueno-hiperestudio",
+              "title": "Sueño / Hiperestudio",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "trasfondos-recuperar-fuerza-de-voluntad",
+              "title": "Recuperar Fuerza de Voluntad",
+              "part": null,
               "content_type": "rule"
             },
             {
@@ -210,6 +462,48 @@
             {
               "slug": "capitulo-siete-contar-la-historia",
               "title": "Capítulo Siete: Contar la Historia",
+              "part": "Capítulo Siete: Contar la Historia",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-siete-contar-la-historia-la-palabra-con-d",
+              "title": "La palabra con 'D'",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-siete-contar-la-historia-morder-el-anzuelo",
+              "title": "Morder el anzuelo",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-siete-contar-la-historia-tacticas-el-medio-para-un-fin",
+              "title": "Tácticas: El medio para un fin",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-siete-contar-la-historia-el-bien-contra-el-mal",
+              "title": "¿El Bien contra el Mal?",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-siete-contar-la-historia-atmosfera",
+              "title": "Atmósfera",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-siete-contar-la-historia-ascension-puede-haber-solo-una",
+              "title": "Ascensión: ¿Puede haber sólo una?",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-siete-contar-la-historia-la-cronica-de-las-tradiciones",
+              "title": "La crónica de las Tradiciones",
               "part": null,
               "content_type": "rule"
             }
@@ -227,6 +521,12 @@
             {
               "slug": "capitulo-ocho-el-libro-de-las-reglas",
               "title": "Capítulo Ocho: El Libro de las Reglas",
+              "part": "Capítulo Ocho: El Libro de las Reglas",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-ocho-el-libro-de-las-reglas-fallar-o-fracasar-una-tirada-extendida",
+              "title": "Fallar o fracasar una tirada extendida",
               "part": null,
               "content_type": "rule"
             }
@@ -266,9 +566,75 @@
               "content_type": "rule"
             },
             {
+              "slug": "parte-iv-combate-fase-tres-dano",
+              "title": "Parte IV: Combate: Fase tres: Daño",
+              "part": "Parte IV: Combate",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iv-combate-emboscada",
+              "title": "Emboscada",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iv-combate-dano-n-a-acciones-1",
+              "title": "Daño: N/A Acciones: 1",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iv-combate-do",
+              "title": "Do",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iv-combate-core-war",
+              "title": "Core war",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iv-combate-explosiones",
+              "title": "Explosiones",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iv-combate-drogas-venenos-y-enfermedades",
+              "title": "Drogas, venenos y enfermedades",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iv-combate-el-personaje-es",
+              "title": "El personaje es...",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iv-combate-armas-arrojadizas",
+              "title": "Armas arrojadizas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
               "slug": "parte-v-el-mundo-tecnologico",
               "title": "Parte V: El mundo tecnológico",
               "part": "Parte V: El mundo tecnológico",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-v-el-mundo-tecnologico-vehiculos-militares",
+              "title": "Vehículos militares",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-v-el-mundo-tecnologico-inventar-modificar-y-mejorar-tecnologia",
+              "title": "Inventar, modificar y mejorar tecnología",
+              "part": null,
               "content_type": "rule"
             },
             {
@@ -284,9 +650,33 @@
               "content_type": "rule"
             },
             {
+              "slug": "parte-vii-los-otros-mundos-la-estancia-agama",
+              "title": "La estancia agama",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-vii-los-otros-mundos-desconexion-y-descarnamiento",
+              "title": "Desconexión y Descarnamiento",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
               "slug": "parte-viii-entidades-espirituales-umbroles",
               "title": "Parte VIII: Entidades espirituales Umbroles",
               "part": "Parte VIII: Entidades espirituales Umbroles",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-viii-entidades-espirituales-umbroles-continuacion",
+              "title": "(continuación)",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-viii-entidades-espirituales-umbroles-interpretar-y-narrar-las-entidades-espirituales",
+              "title": "Interpretar y narrar las entidades espirituales",
+              "part": null,
               "content_type": "rule"
             }
           ]
@@ -307,15 +697,57 @@
               "content_type": "rule"
             },
             {
+              "slug": "parte-i-realizar-magia-paso-cuatro-resultado-que-sucede",
+              "title": "Paso cuatro - resultado: ¿Qué sucede?",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
               "slug": "parte-ii-las-esferas",
               "title": "Parte II: Las Esferas",
               "part": "Parte II: Las Esferas",
               "content_type": "rule"
             },
             {
+              "slug": "parte-ii-las-esferas-entropia",
+              "title": "Entropía",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-ii-las-esferas-tiempo",
+              "title": "Tiempo",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-ii-las-esferas-conexiones-de-datos",
+              "title": "Conexiones de Datos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
               "slug": "parte-iii-lanzar-magia-paso-a-paso",
               "title": "Parte III: Lanzar Magia, paso a paso",
               "part": "Parte III: Lanzar Magia, paso a paso",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iii-lanzar-magia-paso-a-paso-paso-dos-habilidad",
+              "title": "Paso dos: Habilidad",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iii-lanzar-magia-paso-a-paso-paso-tres-tirada",
+              "title": "Paso tres: Tirada",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-iii-lanzar-magia-paso-a-paso-paso-cuatro-resultados",
+              "title": "Paso cuatro: Resultados",
+              "part": null,
               "content_type": "rule"
             },
             {
@@ -355,15 +787,63 @@
               "content_type": "rule"
             },
             {
+              "slug": "practicas-chamanismo",
+              "title": "Chamanismo",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "practicas-magia-callejera",
+              "title": "Magia callejera",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "practicas-yoga",
+              "title": "Yoga",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
               "slug": "instrumentos",
               "title": "Instrumentos",
               "part": "Instrumentos",
               "content_type": "rule"
             },
             {
+              "slug": "instrumentos-continuacion",
+              "title": "(continuación)",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "instrumentos-continuacion-2",
+              "title": "(continuación 2)",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "instrumentos-para-mas-detalles-ver-el-manual-como-haces-eso",
+              "title": "Para más detalles, ver el manual ¿Cómo HACES Eso?",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
               "slug": "parte-viii-ajustes-procedimientos-y-formulas",
               "title": "Parte VIII: Ajustes, Procedimientos y fórmulas",
               "part": "Parte VIII: Ajustes, Procedimientos y fórmulas",
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-viii-ajustes-procedimientos-y-formulas-pistolero-de-oro-tiempo-fuerzas",
+              "title": "Pistolero de Oro (Tiempo ··· / Fuerzas ·· )",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "parte-viii-ajustes-procedimientos-y-formulas-venganza-de-la-bruja-entropia-vida-tiempo-o-las-tres-normalmente-con-correspondencia-o-datos",
+              "title": "Venganza de la Bruja (Entropía ···· , Vida ··· / Tiempo ··· , o las tres; normalmente con Correspondencia o Datos)",
+              "part": null,
               "content_type": "rule"
             },
             {
@@ -386,6 +866,30 @@
             {
               "slug": "aliados-y-antagonistas",
               "title": "Aliados y Antagonistas",
+              "part": "Aliados y Antagonistas",
+              "content_type": "reference"
+            },
+            {
+              "slug": "aliados-y-antagonistas-tipico-ciborg-piel-de-acero",
+              "title": "Típico cíborg 'piel de acero'",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "aliados-y-antagonistas-enemigos-despertados",
+              "title": "Enemigos Despertados",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "aliados-y-antagonistas-cuervo",
+              "title": "Cuervo",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "aliados-y-antagonistas-espiritu-tormenta",
+              "title": "Espíritu tormenta",
               "part": null,
               "content_type": "reference"
             }
@@ -403,12 +907,42 @@
             {
               "slug": "meritos-defectos-y-trastornos",
               "title": "Méritos, Defectos y Trastornos",
+              "part": "Méritos, Defectos y Trastornos",
+              "content_type": "reference"
+            },
+            {
+              "slug": "meritos-defectos-y-trastornos-ecos-defecto-sobrenatural-de-1-a-5-puntos",
+              "title": "Ecos (Defecto sobrenatural de 1 a 5 puntos)",
               "part": null,
               "content_type": "reference"
             },
             {
               "slug": "maravillas-y-tecnologia",
               "title": "Maravillas y Tecnología",
+              "part": "Maravillas y Tecnología",
+              "content_type": "reference"
+            },
+            {
+              "slug": "maravillas-y-tecnologia-biotecnologia",
+              "title": "Maravillas y Tecnología: Biotecnología",
+              "part": "Maravillas y Tecnología",
+              "content_type": "reference"
+            },
+            {
+              "slug": "maravillas-y-tecnologia-continuacion",
+              "title": "(continuación)",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "maravillas-y-tecnologia-continuacion-2",
+              "title": "(continuación 2)",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "maravillas-y-tecnologia-unico",
+              "title": "Único",
               "part": null,
               "content_type": "reference"
             }

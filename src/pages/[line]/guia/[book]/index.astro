@@ -32,47 +32,103 @@ const base = `/${line}/guia/${book}`;
   />
 
   <article class="book-landing reading-body">
-    <p class="kicker">Guía de lectura</p>
-    <h1>{data.title_es}</h1>
-    <p class="lead">{data.book_title_es} — {data.page_count} secciones de lectura.</p>
+    <header class="title-page">
+      <p class="eyebrow">{info.nombre}</p>
+      <p class="kicker">Guía de lectura</p>
+      <h1>{data.title_es}</h1>
+      <p class="meta">{data.book_title_es} · {data.page_count} secciones de lectura</p>
+    </header>
 
-    {
-      data.tree.map((blk) => (
-        <section class="block-card">
-          <h2>{blk.block_title}</h2>
-          {blk.chapters.map((ch) => (
-            <div>
-              {ch.chapter !== '—' && <h3>{ch.chapter}</h3>}
-              <ul>
-                {ch.pages.map((pg) => (
-                  <li>
-                    <a href={`${base}/${pg.slug}`}>{pg.part ?? pg.title}</a>
-                    {pg.content_type === 'fiction' && <span class="tag">ficción</span>}
-                  </li>
-                ))}
-              </ul>
-            </div>
-          ))}
-        </section>
-      ))
-    }
+    <nav class="contents" aria-label="Contenidos del libro">
+      {
+        data.tree.map((blk) => (
+          <section class="blk">
+            <h2>{blk.block_title}</h2>
+            {blk.chapters.map((ch) => (
+              <div class="chap">
+                {ch.chapter !== '—' && <h3 class="chap-title">{ch.chapter}</h3>}
+                <ul>
+                  {ch.pages.map((pg) => (
+                    <li>
+                      <a href={`${base}/${pg.slug}`}>{pg.part ?? pg.title}</a>
+                      {pg.content_type === 'fiction' && <span class="tag">ficción</span>}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </section>
+        ))
+      }
+    </nav>
   </article>
 
   <style>
-    .book-landing { max-width: 60rem; }
-    .lead { color: var(--muted); margin-bottom: var(--space-4); }
-    .block-card {
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: var(--space-3) var(--space-4);
-      margin-block: var(--space-3);
+    .book-landing { max-width: 64rem; }
+
+    /* --- title page: the book's cover, not a fourth card ------------------ */
+    .title-page {
+      margin-bottom: var(--space-6);
+      padding-bottom: var(--space-5);
+      border-bottom: 1px solid var(--border);
     }
-    .block-card h2 { margin-top: 0; }
-    .block-card ul { list-style: none; padding-left: 0; columns: 2; }
-    @media (max-width: 40rem) { .block-card ul { columns: 1; } }
-    .block-card li { margin: 0.2rem 0; break-inside: avoid; }
+    .title-page .eyebrow {
+      margin: 0 0 1.5em;
+      font-family: var(--font-sans);
+      font-size: 0.78rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      color: var(--muted);
+    }
+    .title-page .kicker { margin-bottom: 0.9em; }
+    .title-page h1 {
+      font-size: clamp(2.2rem, 1.6rem + 3.2vw, 3.75rem);
+      letter-spacing: 0.005em;
+      max-width: 22ch;
+    }
+    .title-page .meta {
+      margin: 0.9em 0 0;
+      font-family: var(--font-sans);
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+
+    /* --- contents: a printed table of contents, not a grid of cards ------- */
+    .contents { display: block; }
+    .blk {
+      margin-block: 0;
+      padding-block: var(--space-4);
+    }
+    .blk + .blk { border-top: 1px solid var(--border); }
+    .blk h2 {
+      margin: 0 0 var(--space-3);
+      font-family: var(--font-sans);
+      font-size: 0.8rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+      border-bottom: none;
+      padding-bottom: 0;
+    }
+    .chap { margin-block: 0 var(--space-3); }
+    .chap:last-child { margin-bottom: 0; }
+    h3.chap-title {
+      margin: 0 0 0.3em;
+      font-size: 1rem;
+      font-family: var(--font-reading-body);
+      font-weight: 700;
+      color: var(--fg);
+    }
+    .contents ul { list-style: none; padding-left: 0; margin: 0; columns: 2; column-gap: var(--space-5); }
+    @media (max-width: 40rem) { .contents ul { columns: 1; } }
+    .contents li { margin: 0.3rem 0; break-inside: avoid; line-height: 1.4; }
+    .contents a { text-decoration: none; }
+    .contents a:hover { color: var(--accent); text-decoration: underline; }
     .tag {
-      font-size: 0.7em;
+      font-family: var(--font-sans);
+      font-size: 0.68em;
       text-transform: uppercase;
       letter-spacing: 0.05em;
       color: var(--muted);
