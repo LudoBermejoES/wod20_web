@@ -9885,10 +9885,6 @@
       }
     ],
     "related": [],
-    "review": {
-      "reason": "dual/compound name — may be two entities",
-      "conflicts": []
-    },
     "edges": []
   },
   {
@@ -9925,11 +9921,11 @@
     "edges": []
   },
   {
-    "id": "berserker-atavismo-por-estres",
+    "id": "berserker",
     "type": "merit",
     "line": "mage",
-    "name_en": "Berserker / Atavismo por Estrés",
-    "name_es": "Berserker / Atavismo por Estrés",
+    "name_en": "Berserker",
+    "name_es": "Berserker",
     "body_es": "A  la  gente  no  le  gusta  cuando  te  enfadas.  En  combate te conviertes en un verdadero monstruo que destruye todo y a  cualquiera que se encuentre en las cercanías. Por un lado, es una bendición, por otro una maldición, ya que, aunque tu dedicación a las matanzas tiene indudables ventajas, también es claramente una carga… especialmente si perteneces a un grupo que prefiere la disciplina a la brutalidad.\n\nSea Mérito o Defecto, los efectos son los mismos: bajo estrés intenso (combate, heridas,  humillación,  muerte  o  incapacitación de un camarada, etc.) la neblina roja empieza a hacer efecto. Fallar una tirada de Fuerza de Voluntad (dificultad 8) conduce a un frenesí berserker . El personaje obtiene tres niveles de Salud temporales de Magullado, ignora las penalizaciones por heridas, suma dos dados a Fuerza y un dado a Resistencia hasta que todos los enemigos cercanos o a la vista estén muertos o incapacitados.\n\nÉsa  era  la  parte  buena;  la  mala  es  que todo  el  mundo se convierte en tu enemigo. Aliados, enemigos y espectadores por igual parecen objetivos hasta que el sangriento trance acaba. La Magia y el pensamiento estratégico se vuelven imposibles y tu personaje usa cualquier arma que tenga a mano para maximizar la matanza. A menos que alguien lo deje inconsciente, lo incapacite o lo mate, o simplemente lo deje solo durante unos minutos (tiempo durante el que destruye todo lo que hay cerca), se queda atascado en su estado asesino.\n\n¿Esto es un Mérito o un Defecto? Depende. Si el personaje pertenece a un grupo que aprecia la sed de sangre y puede permitirse el lujo del asesinato en masa en el mundo moderno (esto es, miembro de unas tropas de choque o el guerrero de élite de una organización de asesinos), es un Mérito; si pertenece a un grupo que exige sutileza, control y autocontrol, entonces es sin duda un Defecto. En cualquier caso, tu personaje es un arma de gatillo extremadamente fácil… apuntada en una dirección y abandonada para que arda o explote.",
     "tags": [
       "mental"
@@ -9943,15 +9939,51 @@
         "book_id": "m20-core-rulebook-es",
         "book_title_es": "M20 Core Rulebook (ES)",
         "page": null,
-        "section_anchor": "berserker-atavismo-por-estres",
+        "section_anchor": "berserker",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "berserker",
         "variant": "base"
       }
     ],
     "related": [],
-    "review": {
-      "reason": "dual/compound name — may be two entities",
-      "conflicts": []
+    "edges": []
+  },
+  {
+    "id": "atavismo-por-estres",
+    "type": "flaw",
+    "line": "mage",
+    "name_en": "Atavismo por Estrés",
+    "name_es": "Atavismo por Estrés",
+    "body_es": "A  la  gente  no  le  gusta  cuando  te  enfadas.  En  combate te conviertes en un verdadero monstruo que destruye todo y a  cualquiera que se encuentre en las cercanías. Por un lado, es una bendición, por otro una maldición, ya que, aunque tu dedicación a las matanzas tiene indudables ventajas, también es claramente una carga… especialmente si perteneces a un grupo que prefiere la disciplina a la brutalidad.\n\nSea Mérito o Defecto, los efectos son los mismos: bajo estrés intenso (combate, heridas,  humillación,  muerte  o  incapacitación de un camarada, etc.) la neblina roja empieza a hacer efecto. Fallar una tirada de Fuerza de Voluntad (dificultad 8) conduce a un frenesí berserker . El personaje obtiene tres niveles de Salud temporales de Magullado, ignora las penalizaciones por heridas, suma dos dados a Fuerza y un dado a Resistencia hasta que todos los enemigos cercanos o a la vista estén muertos o incapacitados.\n\nÉsa  era  la  parte  buena;  la  mala  es  que todo  el  mundo se convierte en tu enemigo. Aliados, enemigos y espectadores por igual parecen objetivos hasta que el sangriento trance acaba. La Magia y el pensamiento estratégico se vuelven imposibles y tu personaje usa cualquier arma que tenga a mano para maximizar la matanza. A menos que alguien lo deje inconsciente, lo incapacite o lo mate, o simplemente lo deje solo durante unos minutos (tiempo durante el que destruye todo lo que hay cerca), se queda atascado en su estado asesino.\n\n¿Esto es un Mérito o un Defecto? Depende. Si el personaje pertenece a un grupo que aprecia la sed de sangre y puede permitirse el lujo del asesinato en masa en el mundo moderno (esto es, miembro de unas tropas de choque o el guerrero de élite de una organización de asesinos), es un Mérito; si pertenece a un grupo que exige sutileza, control y autocontrol, entonces es sin duda un Defecto. En cualquier caso, tu personaje es un arma de gatillo extremadamente fácil… apuntada en una dirección y abandonada para que arda o explote.",
+    "tags": [
+      "mental"
+    ],
+    "mechanics": {
+      "bonus": "4",
+      "category": "mental"
     },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "atavismo-por-estres",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "atavismo-por-estres",
+        "variant": "base"
+      }
+    ],
+    "related": [],
     "edges": []
   },
   {
@@ -22054,10 +22086,32 @@
       }
     ],
     "related": [],
-    "review": {
-      "reason": "declared 'Mérito o Defecto' — verify type",
-      "conflicts": []
+    "edges": []
+  },
+  {
+    "id": "esteril",
+    "type": "flaw",
+    "line": "mage",
+    "name_en": "Estéril",
+    "name_es": "Estéril",
+    "body_es": "Por alguna razón física, eres incapaz de concebir hijos. Si esto es un Mérito o un Defecto depende de si quieres engendrar hijos o no. Por lo general, esta clase de condición suele poder curarse con un poco de Magia de Vida; aunque en tu caso, no puede subsanarse a menos que tú, el jugador, descartes el Mérito o pagues por el Defecto.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "bonus": "1",
+      "category": "físico"
     },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "esteril",
+        "variant": "base"
+      }
+    ],
+    "related": [],
     "edges": []
   },
   {
@@ -22196,10 +22250,6 @@
       }
     ],
     "related": [],
-    "review": {
-      "reason": "dual/compound name — may be two entities",
-      "conflicts": []
-    },
     "edges": []
   },
   {
@@ -23162,10 +23212,6 @@
       }
     ],
     "related": [],
-    "review": {
-      "reason": "dual/compound name — may be two entities",
-      "conflicts": []
-    },
     "edges": []
   },
   {
@@ -23227,32 +23273,6 @@
         "via": "id:voluntad-de-hierro"
       }
     ]
-  },
-  {
-    "id": "berserker",
-    "type": "merit",
-    "line": "mage",
-    "name_en": "Berserker",
-    "name_es": "Berserker",
-    "body_es": "Ver Mago 20 , pág. 644 y el Defecto Atavismo por Estrés .",
-    "tags": [
-      "mental"
-    ],
-    "mechanics": {
-      "cost": "4",
-      "category": "mental"
-    },
-    "sources": [
-      {
-        "book_id": "m20-libro-de-los-secretos",
-        "book_title_es": "M20 Libro de los Secretos",
-        "page": null,
-        "section_anchor": "berserker",
-        "variant": "base"
-      }
-    ],
-    "related": [],
-    "edges": []
   },
   {
     "id": "sabiduria-del-juez",
@@ -24185,32 +24205,6 @@
     "edges": []
   },
   {
-    "id": "atavismo-por-estres",
-    "type": "flaw",
-    "line": "mage",
-    "name_en": "Atavismo por Estrés",
-    "name_es": "Atavismo por Estrés",
-    "body_es": "Ver Mago 20 , pág. 644 y el Mérito Berserker .",
-    "tags": [
-      "mental"
-    ],
-    "mechanics": {
-      "bonus": "4",
-      "category": "mental"
-    },
-    "sources": [
-      {
-        "book_id": "m20-libro-de-los-secretos",
-        "book_title_es": "M20 Libro de los Secretos",
-        "page": null,
-        "section_anchor": "atavismo-por-estres",
-        "variant": "base"
-      }
-    ],
-    "related": [],
-    "edges": []
-  },
-  {
     "id": "deficit-de-habilidad",
     "type": "flaw",
     "line": "mage",
@@ -25104,10 +25098,6 @@
       }
     ],
     "related": [],
-    "review": {
-      "reason": "dual/compound name — may be two entities",
-      "conflicts": []
-    },
     "edges": []
   },
   {
@@ -26666,10 +26656,32 @@
       }
     ],
     "related": [],
-    "review": {
-      "reason": "declared 'Mérito o Defecto' — verify type",
-      "conflicts": []
+    "edges": []
+  },
+  {
+    "id": "iman-de-espiritus",
+    "type": "flaw",
+    "line": "mage",
+    "name_en": "Imán de Espíritus",
+    "name_es": "Imán de Espíritus",
+    "body_es": "Las entidades efiméricas se congregan a tu alrededor. La esencia de quién eres (benigno o maligno) atrae a los espíritus y ellos, a cambio, afectan la esencia de quién eres. En su mayor parte, estas entidades se apiñan en torno a ti en la Penumbra, invisibles  a  las  percepciones  de  los  mortales;  aunque  cuando  cruzas la Celosía (ya sea con tus percepciones o de forma corpórea) te esperan allí. Los espíritus que pueden manifestar formas físicas pueden cruzar la Celosía para visitarte y aquéllos que no pueden adquirir cuerpo físico aún cargan de energía la atmósfera espiritual de tu entorno. Si esto es algo bueno para ti o no depende de si has seleccionado este Rasgo como Mérito o como Defecto:\n\n-  La  versión  Mérito  de  Imán  Espiritual  suele  atraer  a espíritus  benevolentes:  Naturae,  Lúnulas,  entidades animales y Tótems de la variedad más amable, etc. Estos espíritus te protegen de entidades malignas, te avisan de peligros inminentes, te ofrecen consejo, te ayudan cuando visitas los Otros Mundos y suelen hacer tu vida más fácil. La gente que puede sentir a esos espíritus (médiums,  chamanes,  hombres  medicina,  criaturas cambiantes, etc.) tiende a favorecerte; después de todo, si le gustas a la mejor clase de espíritus, entonces debes ser alguien que vale la pena conocer.\n-  La versión Defecto representa la presencia de espíritus malévolos:  Perdiciones,  demonios  y  otras  desagradables bestias umbrales. Estas entidades, invocadas por maldiciones o corrupción espiritual, buscan tentarte, envenenarte, alimentarse de tu vitalidad  y  de  alguna  otra forma convertir tu vida en un Infierno sobre Ruedas propio. La gente que siente a los espíritus te evitará a menos que les vaya esa clase de cosas y los hombres lobo te  considerarán  'del  Wyrm'  (signifique  lo  que  signifique eso ) aunque sólo sea por la compañía que mantienes. Aunque podrías no considerarte malo de corazón, ¡tus compañeros espirituales dicen lo contrario!\n\nLa puntuación de este Mérito y Defecto se basa, como siempre, en lo útiles o problemáticos que pueden ser estos espíritus, lo poderosos que son y con cuántos de ellos tienes que lidiar cuando aparecen.\n\n-  (3 puntos) Entidades menores ofrecen ayuda o molestan de forma ocasional.\n-  (4 puntos) Aparecen entidades menores de forma frecuente o en pequeñas cantidades.\n-  (5  puntos)  Suelen  rodearte  entidades  menores  las  quieras o no y otras más potentes han mostrado interés en tu existencia.\n-  (6 puntos) Te has ganado el interés de una o dos entidades importantes y muchas menores te prestan gran atención.\n-  (7 puntos) Nunca estás solo,  ni  siquiera  cuando  desearías poder estarlo.\n\nEsta compañía espiritual podría oponerse por completo a tu verdadera naturaleza. Alguien realmente horrible podría atraer a entidades benévolas que quieren salvarlo, mientras que un auténtico San Antonio podría ser acosado por demonios que pretenden joder su alma. Aun así, esa presencia constante sí afecta  a  tu  salud  general.  Cuerpo, mente y espíritu están entretejidos ya queramos reconocerlo o no y a un mortal que atrae entidades altermundanas le pasa algo inusual bajo la piel.",
+    "tags": [
+      "sobrenatural"
+    ],
+    "mechanics": {
+      "bonus": "3 a 7",
+      "category": "sobrenatural"
     },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "iman-de-espiritus",
+        "variant": "base"
+      }
+    ],
+    "related": [],
     "edges": []
   },
   {
@@ -27136,10 +27148,6 @@
       }
     ],
     "related": [],
-    "review": {
-      "reason": "dual/compound name — may be two entities",
-      "conflicts": []
-    },
     "edges": []
   },
   {
@@ -27590,10 +27598,6 @@
       }
     ],
     "related": [],
-    "review": {
-      "reason": "dual/compound name — may be two entities",
-      "conflicts": []
-    },
     "edges": []
   },
   {
@@ -40124,9 +40128,6 @@
     "tags": [
       "paradigma"
     ],
-    "review": {
-      "reason": "Extracción de doble columna: la frase 'al tiempo que se aseguran de conservar los medios para realizar los sacrificios que les dan poder.' (línea 771) aparece separada del párrafo al que pertenece. Reintegrada de forma razonable; verificar contra el original si es crítico."
-    },
     "sources": [
       {
         "book_id": "m20-the-rich-bastards-guide-to-magick",
