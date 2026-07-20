@@ -158,7 +158,8 @@
     "body_es": "Los espíritus de fuego estuvieron entre los primeros en crear pactos con la humanidad, permitiendo a los hombres calentarse, ahuyentar a las bestias salvajes y despejar la tierra. Estos simples actos pusieron las piedras angulares de la civilización, concediendo a los espíritus de la llama mucho prestigio. Los Garou Homínidos recuerdan y continúan invocando estos antiguos pactos para protegerse según se aproximan los fuegos finales del Apocalipsis. Un espíritu Ancestro o un elemental de fuego enseña este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis. Durante el resto de la escena, el fuego inflige al Garou daño contundente en vez de agravado.",
     "tags": [
       "don",
-      "Homínido"
+      "Homínido",
+      "Fenrir"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -184,69 +185,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "level": 1,
-            "breed_auspice": [
-              "Homínido"
-            ],
-            "system_es": "El jugador gasta un punto de Gnosis. Durante el resto de la escena, el fuego inflige al Garou daño contundente en vez de agravado."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "auspices_tribes": [
-              "Fenrir"
-            ],
-            "reference": "Como el Don Homínido"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "level": "Nivel uno",
-            "reference": "Igual que el Don Homínido."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -285,33 +223,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "level": 1,
-            "breed_auspice": [
-              "Homínido"
-            ],
-            "system_es": "Los animales salvajes no sobrenaturales pierden dos dados de sus reservas cuando interactúen con el Garou, salvo cuando se defiendan o salgan corriendo y, si es posible, estarán más inclinados a huir que a atacar. Los animales domesticados reconocen al hombre lobo como un amigo, e incluso los perros entrenados para el ataque no harán más que menear sus colas ante el personaje a menos que se les ataque primero. Los efectos de este Don están siempre activos."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Garou Homínido."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -324,7 +235,8 @@
     "body_es": "Este Don imbuye las palabras de un Homínido con una credibilidad y convicción intrínsecas, provocando que suenen como verdaderas al oído y que alcancen al corazón. Un espíritu Ancestro enseña este Don.\n\n**Sistema:** El jugador tira Carisma + Subterfugio (dificultad 7). Los éxitos bajan la dificultad de todas las tiradas Sociales en uno durante el resto de la escena y permite que las tiradas exitosas tengan un impacto extraordinariamente fuerte (como cambiar viejos ideales políticos, o hacer que un adicto reconsidere seriamente el curso de su vida).",
     "tags": [
       "don",
-      "Homínido"
+      "Homínido",
+      "Philodox"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -349,96 +261,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "level": 1,
-            "breed_auspice": [
-              "Homínido"
-            ],
-            "system_es": "El jugador tira Carisma + Subterfugio (dificultad 7). Los éxitos bajan la dificultad de todas las tiradas Sociales en uno durante el resto de la escena y permite que las tiradas exitosas tengan un impacto extraordinariamente fuerte (como cambiar viejos ideales políticos, o hacer que un adicto reconsidere seriamente el curso de su vida)."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "auspices_tribes": [
-              "Philodox"
-            ],
-            "reference": "Como el Don Homínido"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Garou Homínido."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Garou Homínido."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp",
-            "w20-nsr-aniversario-parte-3-290pp",
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno (linterna); Nivel uno (espejo); Nivel dos (cortesano)"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -476,58 +298,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "level": 2,
-            "breed_auspice": [
-              "Homínido"
-            ],
-            "system_es": "El jugador gasta un punto de Gnosis, tira (Manipulación + Artesanía) y elige el nivel de complejidad que intenta afectar. Todos los aparatos tecnológicos (es decir, cualquier aparato creado a partir de materiales procesados como metal o plástico) de esa complejidad dentro de 15 metros (50 pies) dejarán de funcionar dos turnos por éxito. Permanecen inalterados, pero inertes: los cuchillos no cortan, la pólvora no prende, los engranajes no giran, etcétera. La dificultad de la tirada se basa en la siguiente tabla:\n| Aparato | Dificultad |\n|-------------|--------------|\n| Computadora | 4 |\n| Teléfono | 5 |\n| Automóvil | 7 |\n| Pistola | 8 |\n| Cuchillo | 9 |"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "reference": "Como el Don Garou Homínido."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "reference": "Como el Don Garou Homínido."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -540,7 +310,8 @@
     "body_es": "Este Don permite a los guerreros de Gaia leer y hacer uso del espíritu del habla, evitando la necesidad de aprender diferentes idiomas y dialectos. El Garou puede hablar y comprender cualquier lengua humana con la que se encuentre, aunque habla con un obvio acento que lo marca como forastero. Habla del Mundo no conlleva la alfabetización ni es una enciclopedia de información cultural. Un espíritu Ancestro enseña este Don.\n\n**Sistema:** El jugador tira Inteligencia + Academicismo (dificultad 7). El efecto dura una escena.",
     "tags": [
       "don",
-      "Homínido"
+      "Homínido",
+      "Caminantes Silenciosos"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -565,55 +336,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "level": 2,
-            "breed_auspice": [
-              "Homínido"
-            ],
-            "system_es": "El jugador tira Inteligencia + Academicismo (dificultad 7). El efecto dura una escena."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "auspices_tribes": [
-              "Caminantes Silenciosos"
-            ],
-            "reference": "Como el Don Homínido"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "reference": "Como el Don Garou Homínido."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp",
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres / Nivel dos",
-            "reference": "Como el Don Garou Homínido."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -683,49 +405,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "level": 2,
-            "breed_auspice": [
-              "Homínido"
-            ],
-            "system_es": "Este Don afecta a un solo objetivo a la vez. El jugador tira Carisma + Intimidación (dificultad 5 + el Rango del objetivo, si es aplicable). La víctima huye durante un turno por éxito, aunque puede gastar un punto de Fuerza de Voluntad para resistir los efectos del Don durante un turno. Si el jugador obtiene cinco o más éxitos, la víctima huye durante el resto de la escena. Los Garou y otros cambiaformas con Rabia no huyen, pero no pueden atacar mientras el Don esté en uso."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "reference": "Como el Don Garou Homínido."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -763,33 +442,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "level": 3,
-            "breed_auspice": [
-              "Homínido"
-            ],
-            "system_es": "El jugador gasta un punto de Gnosis. Durante el resto de la escena, el Garou gana dos dados adicionales de absorción contra todas las herramientas manufacturadas que no estén hechas de plata."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "reference": "Como el Don Garou Homínido."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -828,40 +480,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "level": 3,
-            "breed_auspice": [
-              "Homínido"
-            ],
-            "system_es": "El jugador gasta un punto de Fuerza de Voluntad y tira Manipulación + Impulso Primario (dificultad 8). Si tiene éxito, el punto de Fuerza de Voluntad tranquiliza a un Garou en Frenesí en un radio de 9 metros (30 pies), cancelando el Frenesí. Gastando un punto adicional de Fuerza de Voluntad, este Don puede afectar a los no Garou en estado de Frenesí, como otros cambiaformas o vampiros."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -900,33 +518,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "level": 3,
-            "breed_auspice": [
-              "Homínido"
-            ],
-            "system_es": "El jugador tira Manipulación + Empatía contra una dificultad igual a la Fuerza de Voluntad del objetivo. Si tiene éxito, ese oponente será incapaz de recuperar Rabia durante el resto de la escena, y todas las dificultades para acciones extendidas se aumentarán en uno. Además, el objetivo se vuelve apático y menos inclinado de forma general a llevar a cabo cualquier acción de dudosa necesidad, como investigar unos ruidos extraños."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "reference": "Como el Don Garou Homínido."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -965,57 +556,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "level": 3,
-            "breed_auspice": [
-              "Homínido"
-            ],
-            "system_es": "El jugador tira Manipulación + Artesanía contra una dificultad definida por el alcance y la complejidad de la transformación (convertir una rama rota de un árbol en una lanza tendría una dificultad 5, un árbol caído en una canoa sería 8) y gasta un punto de Gnosis. La transformación persiste durante una escena por éxito. Gastar un punto adicional de Gnosis permite a un arma creada así infligir daño agravado durante el resto de la escena en la que fue creada."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "reference": "Como el Don Garou Homínido."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -1028,7 +568,9 @@
     "body_es": "Los Garou criados en el cambiante laberinto de la sociedad humana están bien preparados para las interminables adaptaciones que Gaia exige a sus protectores. Un espíritu Ancestro enseña este Don.\n\n**Sistema:** El Garou puede usar su Cambio de Forma para alterar sus Atributos Físicos: un punto de Destreza puede cambiarse a Fuerza o Resistencia, etcétera. El jugador tira Resistencia + Impulso Primario (dificultad 9). Por cada dos éxitos puede cambiarse un punto de Atributo Físico durante el resto de la escena.",
     "tags": [
       "don",
-      "Homínido"
+      "Homínido",
+      "Ahroun",
+      "Fenrir"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -1047,38 +589,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "level": 4,
-            "breed_auspice": [
-              "Homínido"
-            ],
-            "system_es": "El Garou puede usar su Cambio de Forma para alterar sus Atributos Físicos: un punto de Destreza puede cambiarse a Fuerza o Resistencia, etcétera. El jugador tira Resistencia + Impulso Primario (dificultad 9). Por cada dos éxitos puede cambiarse un punto de Atributo Físico durante el resto de la escena."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es",
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "auspices_tribes": [
-              "Ahroun",
-              "Fenrir"
-            ],
-            "reference": "Como el Don Homínido"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -1116,32 +626,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "level": 4,
-            "breed_auspice": [
-              "Homínido"
-            ],
-            "system_es": "El Garou gasta un punto de Gnosis. Mientras el hombre lobo permanezca en el capullo, cualquier ataque contra él debe hacer un daño al menos igual a su Resistencia + Rituales; el capullo lo mantiene a salvo de cualquier daño inferior a esa cantidad, pero queda destruido si es agujereado. El capullo dura un día, pero su duración puede alargarse gastando más Gnosis para renovarla. El Garou puede emerger de él en cualquier momento que lo desee."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "cuatro"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -1185,7 +669,8 @@
     "body_es": "Este Don permite a un hombre lobo protegerse de los espíritus realizando un rápido Rito de protección. El hombre lobo traza un pictograma invisible en el aire que asusta y pone nerviosos a todos los espíritus cercanos, y que viaja con el Garou mientras el efecto persista. Un espíritu Ancestro enseña este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Manipulación + Rituales (dificultad 7). Los espíritus en un radio de 30 metros (100 pies) del personaje restan un dado de sus reservas por cada éxito. Cualquier espíritu que se acerque a 15 metros (50 pies) del personaje (excepto un espíritu de Túmulo o el Tótem de la manada del personaje) pierde un punto de Esencia por turno por cada éxito obtenido por el personaje. Este Don dura una escena.",
     "tags": [
       "don",
-      "Homínido"
+      "Homínido",
+      "Theurge"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -1212,51 +697,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "level": 4,
-            "breed_auspice": [
-              "Homínido",
-              "Theurge"
-            ],
-            "system_es": "El jugador gasta un punto de Gnosis y tira Manipulación + Rituales (dificultad 7). Los espíritus en un radio de 30 metros (100 pies) del personaje restan un dado de sus reservas por cada éxito. Cualquier espíritu que se acerque a 15 metros (50 pies) del personaje (excepto un espíritu de Túmulo o el Tótem de la manada del personaje) pierde un punto de Esencia por turno por cada éxito obtenido por el personaje. Este Don dura una escena."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp",
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "reference": "Como el Don Garou Homínido."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -1326,42 +766,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco",
-            "level": 5,
-            "breed_auspice": [
-              "Homínido"
-            ],
-            "system_es": "El jugador tira Manipulación + Empatía. Si tiene éxito, el personaje interactúa con los miembros de otra cultura como si fuese uno de ellos. La dificultad depende de cómo de extraña sea la cultura. Otro clan Garou sería 5, mientras que una colmena de los Danzantes de la Espiral Negra o un país extranjero podría ser de hasta 9. El personaje no sufre penalizaciones Sociales cuando interactúa con los miembros de esa cultura, aunque tampoco disfrutará de beneficios especiales. Este Don dura una escena, más un día por punto de Fuerza de Voluntad gastado al activarlo."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp",
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco",
-            "reference": "Como el Don Garou Homínido."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -1461,49 +865,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "level": 1,
-            "breed_auspice": [
-              "Metis"
-            ],
-            "system_es": "El jugador gasta un punto de Gnosis y tira Gnosis. Cada éxito permite al personaje crear aproximadamente 0,3 metros (un pie) cúbicos del elemento deseado, hasta un peso máximo de 45 kilos (100 libras), en cualquier sitio que pueda ver en un radio de 18 metros (60 pies). El elemento permanece en existencia hasta que se usa (se respira, en el caso del aire, o se agota, en el caso de un fuego sin combustible que lo mantenga). Las llamas creadas por este Don infligen un nivel de Salud por éxito, hasta un máximo de tres niveles de daño."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Garou Metis."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -1535,33 +896,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "level": 1,
-            "breed_auspice": [
-              "Metis"
-            ],
-            "system_es": "El personaje puede infligirse un único nivel de daño agravado una vez por escena, y a cambio gana tres puntos de Rabia (incluso si hacerlo hace que supere de su valor de Rabia permanente)."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "level": "Nivel uno",
-            "reference": "Igual que el Don Metis."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -1599,32 +933,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "level": 1,
-            "breed_auspice": [
-              "Metis"
-            ],
-            "system_es": "El jugador tira Destreza + Impulso Primario (dificultad 7). Si la tirada tiene éxito, el personaje pierde un mechón de pelo o piel (revelando piel nueva sana), lo que le permitirá escapar de forcejeos o ataduras como cuerdas o cadenas."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -1637,7 +945,10 @@
     "body_es": "El hombre lobo puede sentir manifestaciones del Wyrm cercanas. Este Don implica un sentido místico, no una imagen visual u olfativa, aunque los Garou a menudo describen las emanaciones espirituales del Wyrm como pestilentes. Este Don no detecta necesariamente devoción al Wyrm, meramente el contacto con su esencia espiritual que puede aferrarse incluso a las almas intachables. Sentir al Wyrm requiere concentración activa; la capacidad espiritual que concede no funciona de forma pasiva. Cualquier espíritu de Gaia puede enseñar este Don.\n\n**Sistema:** El jugador tira Percepción + Ocultismo. La dificultad depende de la concentración y la fuerza de la influencia del Wyrm: sentir a un único Fomor en la habitación contigua tendría dificultad 6, mientras que detectar el hedor de una Perdición que estuvo en la habitación hace una hora tendría dificultad 7. Los vampiros son percibidos como manchados por el Wyrm, salvo aquéllos con valores de Humanidad 7 o más.",
     "tags": [
       "don",
-      "Metis"
+      "Metis",
+      "Caminantes Silenciosos",
+      "Colmillos Plateados",
+      "Theurge"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -1686,82 +997,9 @@
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel uno",
-            "auspices_tribes": [
-              "Caminantes Silenciosos",
-              "Colmillos Plateados"
-            ],
-            "reference": "Como el Don Metis"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "level": "Nivel uno",
-            "reference": "Igual que el Don Metis."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
             "nivel": "uno",
             "tribu": "Danzantes de la Espiral Negra",
             "referencia": "Igual que el Don Metis"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp",
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Garou Metis."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "level": "Nivel uno",
-            "reference": "Como el Don Garou Metis."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
           }
         }
       ]
@@ -1803,40 +1041,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "level": 2,
-            "breed_auspice": [
-              "Metis"
-            ],
-            "system_es": "Cuando se Cambia de Forma (ver pág. 285), todas las dificultades se reducen en 1. Además, cuando se realicen transformaciones parciales (ver pág. 286), el jugador ya no necesitará gastar un punto de Fuerza de Voluntad, y la dificultad de la tirada es 7. Los efectos de este Don son permanentes."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -1875,41 +1079,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "level": 2,
-            "breed_auspice": [
-              "Metis"
-            ],
-            "system_es": "El jugador tira Fuerza + Atletismo contra una dificultad que depende de la materia a excavar (4 para lodo suelto, 9 para roca sólida). Algunos metales (como las aleaciones de acero y titanio) y otras estructuras reforzadas no cederán ante el hombre lobo sin importar con qué fuerza cave. El personaje puede excavar un metro (una yarda) por turno por cada éxito. Tras la tirada inicial, el personaje no necesita tirar de nuevo para continuar a la misma velocidad."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Garou Metis."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -1948,32 +1117,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "level": 2,
-            "breed_auspice": [
-              "Metis"
-            ],
-            "system_es": "El jugador gasta un punto de Gnosis y tira Manipulación + Expresión (dificultad igual a la Fuerza de Voluntad del objetivo). Si tiene éxito, su oponente pierde dos puntos de Fuerza de Voluntad y dos puntos de Rabia. Este Don sólo puede usarse contra un oponente una vez por escena."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -1986,7 +1129,9 @@
     "body_es": "A aquéllos nacidos verdaderamente Garou, Luna les ha concedido la habilidad de sentir la mayor debilidad de un hombre lobo. Una Lúnula enseña este Don, el cual permite al Metis detectar la presencia de plata.\n\n**Sistema:** El jugador tira Percepción + Impulso Primario (dificultad 7). Si tiene éxito, puede detectar la presencia de plata en un radio de 100 metros o yardas. Tres éxitos le permiten señalar la localización de la plata.",
     "tags": [
       "don",
-      "Metis"
+      "Metis",
+      "Ahroun",
+      "Colmillos Plateados"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -2011,55 +1156,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "level": 2,
-            "breed_auspice": [
-              "Metis"
-            ],
-            "system_es": "El jugador tira Percepción + Impulso Primario (dificultad 7). Si tiene éxito, puede detectar la presencia de plata en un radio de 100 metros o yardas. Tres éxitos le permiten señalar la localización de la plata."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es",
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "auspices_tribes": [
-              "Ahroun",
-              "Colmillos Plateados"
-            ],
-            "reference": "Como el Don Metis"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "reference": "Como el Don Garou Metis."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -2122,33 +1218,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "level": 3,
-            "breed_auspice": [
-              "Metis"
-            ],
-            "system_es": "El jugador tira Fuerza de Voluntad (dificultad la Rabia del propio personaje). El éxito aísla al Metis durante una escena tras una barrera mística y psicológica, inmunizándolo ante magias de manipulación mental de todo tipo durante el resto de la escena. Sin embargo, no puede obtener ningún éxito en las tiradas de Empatía, Impulso Primario o Rabia, ni gastar puntos de Rabia."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "level": "Nivel tres",
-            "reference": "Igual que el Don Metis."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -2218,33 +1287,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "level": 3,
-            "breed_auspice": [
-              "Metis"
-            ],
-            "system_es": "El personaje no sufre penalizaciones por la oscuridad. Este Poder puede usarse a voluntad; no requiere tirada o gasto alguno."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "reference": "Como el Don Garou Metis."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -2344,33 +1386,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "level": 4,
-            "breed_auspice": [
-              "Metis"
-            ],
-            "system_es": "El jugador gasta un punto de Gnosis y tira Fuerza de Voluntad (dificultad igual a la Resistencia de la víctima + 4). Se suma dos a la dificultad de todas las tiradas de Destreza de la víctima. Si una pierna resulta tullida, sólo se podrá mover a la mitad de su velocidad normal."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "reference": "Como el Don Garou Metis."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -2501,50 +1516,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco",
-            "level": 5,
-            "breed_auspice": [
-              "Metis"
-            ],
-            "system_es": "El jugador gasta un punto de Gnosis y tira Manipulación + Intimidación (dificultad igual a la Fuerza de Voluntad de la víctima). El objetivo comienza a sufrir un Trastorno de forma inmediata (ver pág. 485). La locura dura un número de días igual a los éxitos obtenidos. Durante ese tiempo, el Metis puede aumentar o disminuir la severidad de la locura, concediendo a la víctima lucidez y luego llevándola a la psicosis. Incluso después de que el Don haya terminado, las secuelas pueden perseguir a la víctima durante el resto de su vida."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco",
-            "reference": "Como el Don Garou Metis."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco",
-            "reference": "Como el Don Garou Metis."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -2650,7 +1621,8 @@
     "body_es": "Este Don afina los sentidos del hombre lobo en grado sumo. Disfrutará de la agudeza olfativa y auditiva de un lobo siempre que esté en las Formas Homínido y Glabro, junto a una visión nocturna superior. En Crinos, Hispo y Lupus, sus sentidos se vuelven preternaturalmente potentes, permitiendo proezas sensoriales que rozan la precognición. Sin embargo, los ruidos fuertes repentinos, las luces brillantes o los olores abrumadores pueden desorientarlo. Los espíritus lobo enseñan este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis para activar este Don durante una escena. En Formas Homínido y Glabro, las dificultades de Percepción descienden en dos para el hombre lobo y puede tirar Percepción + Impulso Primario para realizar hazañas sensoriales asombrosas como rastrear siguiendo un olor. En Crinos, Hispo y Lupus, las dificultades de Percepción disminuyen en tres (esto no es acumulativo con las bonificaciones ordinarias a la Percepción en la Forma Lupus) y el hombre lobo gana un dado adicional para las reservas de Impulso Primario.",
     "tags": [
       "don",
-      "Lupus"
+      "Lupus",
+      "Galliard"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -2675,86 +1647,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "level": 1,
-            "breed_auspice": [
-              "Lupus"
-            ],
-            "system_es": "El jugador gasta un punto de Gnosis para activar este Don durante una escena. En Formas Homínido y Glabro, las dificultades de Percepción descienden en dos para el hombre lobo y puede tirar Percepción + Impulso Primario para realizar hazañas sensoriales asombrosas como rastrear siguiendo un olor. En Crinos, Hispo y Lupus, las dificultades de Percepción disminuyen en tres (esto no es acumulativo con las bonificaciones ordinarias a la Percepción en la Forma Lupus) y el hombre lobo gana un dado adicional para las reservas de Impulso Primario."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "auspices_tribes": [
-              "Galliard"
-            ],
-            "reference": "Como el Don Lupus"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Lupus."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Lupus."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -2786,33 +1678,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "level": 1,
-            "breed_auspice": [
-              "Lupus"
-            ],
-            "system_es": "El jugador tira Percepción + Impulso Primario. La dificultad es 5 en ambientes naturales y 7 en ambientes urbanos. Superar la tirada indica la localización de sufi- - cientes presas como para alimentar a una manada grande durante un día."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "level": "Nivel uno",
-            "reference": "Igual que el Don Lupus."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -2825,7 +1690,8 @@
     "body_es": "El Lupus alcanza a sentir la presencia de Gaia con su espíritu, centrándose en su relación con la Madre. Mientras viaje por el Reino de Gaia, siempre sabe en qué dirección viaja o su orientación. Los espíritus de las aves migratorias enseñan este Don.\n\n**Sistema:** Los efectos de este Don son permanentes.",
     "tags": [
       "don",
-      "Lupus"
+      "Lupus",
+      "Caminantes Silenciosos"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -2844,36 +1710,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "level": 2,
-            "breed_auspice": [
-              "Lupus"
-            ],
-            "system_es": "Los efectos de este Don son permanentes."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "auspices_tribes": [
-              "Caminantes Silenciosos"
-            ],
-            "reference": "Como el Don Lupus"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -2886,7 +1722,8 @@
     "body_es": "El hombre lobo adquiere una comprensión instintiva de los habitantes de la Umbra. Puede sentir el tipo y niveles de Rasgos aproximados (Rabia, Gnosis, Fuerza de Voluntad) de los espíritus. Los espíritus búho y cuervo enseñan este Don.\n\n**Sistema:** El jugador gasta un punto de Fuerza de Voluntad y tira Percepción + Ocultismo (dificultad 8).",
     "tags": [
       "don",
-      "Lupus"
+      "Lupus",
+      "Theurge"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -2913,59 +1750,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "level": 2,
-            "breed_auspice": [
-              "Lupus",
-              "Theurge"
-            ],
-            "system_es": "El jugador gasta un punto de Fuerza de Voluntad y tira Percepción + Ocultismo (dificultad 8)."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp",
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "reference": "Como el Don Lupus."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -3035,33 +1819,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "level": 2,
-            "breed_auspice": [
-              "Lupus"
-            ],
-            "system_es": "El hombre lobo sustituye totalmente su visión por su sentido del olfato, permitiéndole distinguir identidades y localizaciones a la perfección (el color y los pequeños detalles, como las letras en una página, quedan fuera de su alcance). Puede requerirse una tirada de Percepción + Impulso Primario para detectar cosas que activamente oculten su olor."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "reference": "Como el Don Lupus."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -3074,7 +1831,8 @@
     "body_es": "El Lupus puede alargar su cola y usarla como un apéndice prensil a voluntad. Aunque no sustituye a una mano, puede alcanzar objetos, enroscarse en ramas e incluso permite al Garou colgar cabeza abajo. Un espíritu mono enseña este Don.\n\n**Sistema:** El Garou puede emplear su cola prensil a voluntad en cualquier Forma que posea cola. Manipular la cola con éxito requiere una tirada de Destreza + Atletismo (la dificultad varía dependiendo de la tarea).",
     "tags": [
       "don",
-      "Lupus"
+      "Lupus",
+      "Ragabash"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -3101,33 +1859,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "level": 3,
-            "breed_auspice": [
-              "Lupus",
-              "Ragabash"
-            ],
-            "system_es": "El Garou puede emplear su cola prensil a voluntad en cualquier Forma que posea cola. Manipular la cola con éxito requiere una tirada de Destreza + Atletismo (la dificultad varía dependiendo de la tarea)."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -3205,7 +1936,8 @@
     "body_es": "El hombre lobo puede sentir cualquier presencia sobrenatural y determinar su tipo y fuerza aproximadas. Las presencias sobrenaturales pueden incluir la magia, espíritus, manchas del Wyrm, fantasmas, vampiros, hadas y cualquier otra manifestación antinatural, aunque no los identificará específicamente como tales. Un hombre lobo puede percibir a una persona embrujada con la misma facilidad que a un fantasma. Cualquier siervo de Gaia enseña este Don.\n\n**Sistema:** El jugador tira Percepción + Enigmas (dificultad 6). Cuanto más éxitos consiga, más información obtiene. Sin embargo, el registro sensorial es vago y objeto de interpretación. Por ejemplo, un vampiro podría oler a sangre coagulada, miedo, carne putrefacta o cualquier cosa que el Narrador encuentre apropiada.",
     "tags": [
       "don",
-      "Lupus"
+      "Lupus",
+      "Caminantes Silenciosos"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -3230,54 +1962,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "level": 3,
-            "breed_auspice": [
-              "Lupus"
-            ],
-            "system_es": "El jugador tira Percepción + Enigmas (dificultad 6). Cuanto más éxitos consiga, más información obtiene. Sin embargo, el registro sensorial es vago y objeto de interpretación. Por ejemplo, un vampiro podría oler a sangre coagulada, miedo, carne putrefacta o cualquier cosa que el Narrador encuentre apropiada."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "auspices_tribes": [
-              "Caminantes Silenciosos"
-            ],
-            "reference": "Como el Don Lupus"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp",
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos (Swara) / Nivel tres (Corax)",
-            "reference": "Como el Don Lupus."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -3321,7 +2005,8 @@
     "body_es": "El Garou emite un horrible y devastador grito imbuido con la Rabia y el dolor de Gaia. La fuerza del grito golpea a los enemigos y los derriba. Los espíritus de tormenta enseñan este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Rabia. Cualquiera que esté dentro de un radio de 15 metros (50 pies), a excepción de la manada del hombre lobo, es lanzado al suelo y sufre un nivel de Salud no absorbible de daño contundente por éxito cuando la onda de choque arrasa el área.",
     "tags": [
       "don",
-      "Lupus"
+      "Lupus",
+      "Fenrir"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -3340,36 +2025,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "level": 4,
-            "breed_auspice": [
-              "Lupus"
-            ],
-            "system_es": "El jugador gasta un punto de Gnosis y tira Rabia. Cualquiera que esté dentro de un radio de 15 metros (50 pies), a excepción de la manada del hombre lobo, es lanzado al suelo y sufre un nivel de Salud no absorbible de daño contundente por éxito cuando la onda de choque arrasa el área."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "auspices_tribes": [
-              "Fenrir"
-            ],
-            "reference": "Como el Don Lupus"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -3408,40 +2063,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "level": 4,
-            "breed_auspice": [
-              "Lupus"
-            ],
-            "system_es": "El jugador gasta un punto de Fuerza de Voluntad y tira Resistencia + 4 contra una dificultad variable (3 para madera, 6 para esposas de acero, 9 para un acople entre trenes). El tiempo que lleva roer algo depende del número de éxitos. Adicionalmente, el Don concede al mordisco del personaje dos dados adicionales de daño durante el resto de la escena."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -3513,49 +2134,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "level": 4,
-            "breed_auspice": [
-              "Lupus"
-            ],
-            "system_es": "El personaje gana permanentemente la habilidad de comunicarse con todos los animales, sin importar la Forma que tenga en ese momento. Para atraer a los animales, el jugador gasta un punto de Gnosis y tira Carisma + Trato con Animales (dificultad 7). Todos los animales a 16 kilómetros (10 millas) por éxito responderán a la llamada, y obedecerán cualquier orden del Garou. Se considera costumbre hacer una ofrenda al espíritu de cualquier animal al que se le ordene sacrificarse con este Don; si no lo hiciera se arriesgaría a enfadar al mundo espiritual."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "reference": "Como el Don Lupus."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -3594,41 +2172,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco",
-            "level": 5,
-            "breed_auspice": [
-              "Lupus"
-            ],
-            "system_es": "El jugador gasta dos puntos de Gnosis y tira Carisma + Impulso Primario (dificultad 8). Sacar más éxitos mejora la disposición de la Gran Bestia. Los Rasgos se dejan a discreción del Narrador, pero siempre deberían ser impresionantes."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco",
-            "reference": "Como el Don Lupus."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "cinco"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -3667,41 +2210,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco",
-            "level": 5,
-            "breed_auspice": [
-              "Lupus"
-            ],
-            "system_es": "El jugador gasta un punto de Gnosis y tira Gnosis (dificultad 8). Si tiene éxito, el Garou llama a un elemental que le concede la habilidad de controlar un gran volumen de aire, tierra, fuego o agua, aproximadamente 6 x 6 metros (20 x 20 pies) por éxito. El efecto dura una escena, o hasta que el elemental se vaya o sea destruido. Los elementales invocados con este Don son aproximadamente tan poderosos como un Vagabundo de los Nexos (ver pág. 447)."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco",
-            "reference": "Como el Don Lupus."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -3739,75 +2247,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "level": 1,
-            "breed_auspice": [
-              "Ragabash"
-            ],
-            "system_es": "El jugador tira Gnosis (dificultad igual a la puntuación de Celosía local). Si el objeto está sellado mágicamente, el jugador debe gastar un punto de Gnosis antes de hacer el intento."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Ragabash."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Ragabash."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Ragabash."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -3877,57 +2316,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "level": 1,
-            "breed_auspice": [
-              "Ragabash"
-            ],
-            "system_es": "La dificultad de todas las tiradas para rastrear al Garou aumenta en dos. Los efectos de este Don son permanentes, aunque el Ragabash puede suprimirlos temporalmente a voluntad (algo que puede ser necesario para integrarse en las manadas de lobos)."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Ragabash."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -4002,7 +2390,8 @@
     "body_es": "El Garou puede volverse completamente invisible a todos los sentidos, espíritus o sistemas de monitorización quedándose quieto. Un espíritu camaleón enseña este Don. -\n\n**Sistema:** El jugador tira Resistencia + Sigilo (dificultad 5). Cada éxito resta un éxito de la tirada de Percepción + Alerta de aquéllos que busquen al personaje. Si nadie está buscando activamente al hombre lobo, un éxito basta para ocultarse a la perfección.",
     "tags": [
       "don",
-      "Ragabash"
+      "Ragabash",
+      "Caminantes Silenciosos"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -4028,52 +2417,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "level": 2,
-            "breed_auspice": [
-              "Ragabash"
-            ],
-            "system_es": "El jugador tira Resistencia + Sigilo (dificultad 5). Cada éxito resta un éxito de la tirada de Percepción + Alerta de aquéllos que busquen al personaje. Si nadie está buscando activamente al hombre lobo, un éxito basta para ocultarse a la perfección."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "auspices_tribes": [
-              "Caminantes Silenciosos"
-            ],
-            "reference": "Como el Don Ragabash"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -4143,65 +2486,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "level": 2,
-            "breed_auspice": [
-              "Ragabash"
-            ],
-            "system_es": "No se requiere una tirada a menos que el objetivo esté ocultándose activamente, en cuyo caso el jugador tiraría Percepción + Enigmas contra una dificultad que sería la suma de la Astucia + Sigilo del objetivo. Si el objetivo es un espíritu, la dificultad es la Gnosis de éste."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "reference": "Como el Don Ragabash."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -4239,50 +2523,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "level": 2,
-            "breed_auspice": [
-              "Ragabash"
-            ],
-            "system_es": "Después de robar con éxito el objeto, el jugador debe sacar tres éxitos en una tirada de Astucia + Latrocinio (a una dificultad igual a la Inteligencia + Callejeo de la víctima)."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "reference": "Como el Don Ragabash."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "reference": "Como el Don Ragabash."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -4320,40 +2560,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "level": 3,
-            "breed_auspice": [
-              "Ragabash"
-            ],
-            "system_es": "El jugador gasta un punto de Gnosis. Ver el Rito del Puente Abierto (pág. 217) para más información sobre abrir Puentes Lunares. La distancia máxima que se puede cubrir es de 1600 kilómetros (1000 millas)."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -4422,41 +2628,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "level": 3,
-            "breed_auspice": [
-              "Ragabash"
-            ],
-            "system_es": "El jugador tira Percepción + Supervivencia (para las zonas naturales) o Callejeo (para entornos urbanos) contra dificultad 7. El número de éxitos se corresponde con la calidad del camino que abre y con la disminución del tiempo de viaje. Cada éxito reduce el tiempo invertido aproximadamente en un diez por ciento, hasta un máximo de la mitad del tiempo de viaje original. La dificultad de cualquier tirada para rastrear al hombre lobo aumenta en dos cuando este Don esté activo; esta disminución se acumula a otros efectos similares, como Olor a Agua Corriente."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "reference": "Como el Don Ragabash."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -4495,32 +2666,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "level": 3,
-            "breed_auspice": [
-              "Ragabash"
-            ],
-            "system_es": "El jugador tira Manipulación + Intimidación; la dificultad está determinada por la complejidad del objeto. Cuantos más éxitos obtenga el Garou, mayor daño sufrirá el aparato. Tres éxitos desactivan el objeto permanentemente (el espíritu ha huido). Una buena interpretación podría garantizar de uno a tres dados adicionales, a discreción del Narrador.\n| Aparato | Dificultad |\n|-------------|--------------|\n| Computadora | 4 |\n| Teléfono | 6 |\n| Coche | 7 |\n| Pistola | 8 |\n| Cuchillo | 9 |"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -4621,32 +2766,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "level": 4,
-            "breed_auspice": [
-              "Ragabash"
-            ],
-            "system_es": "Cuando trate de esquivar un ataque cuerpo a cuerpo, el jugador gasta un punto de Gnosis y aumenta la dificultad de la esquiva en uno o al valor de la Celosía local, lo que sea mayor. Si logra esquivar el ataque por completo, el atacante es enviado a la Penumbra (o al mundo físico si este Don se usa en la Penumbra)."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -4684,33 +2803,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco",
-            "level": 5,
-            "breed_auspice": [
-              "Ragabash"
-            ],
-            "system_es": "El jugador debe obtener tres éxitos en una tirada de Astucia + Latrocinio (la dificultad es la Fuerza de Voluntad del objetivo). Si tiene éxito, el Ragabash roba el Poder objetivo, privando al dueño de su uso. Los Poderes se roban de forma fragmentaria, por lo que un Ragabash que robe un Poder vampírico para fundirse con la tierra (Protean ···) no gana también la habilidad de ver en la oscuridad o de que le crezcan garras (Protean · y ··). El Garou puede mantener el Poder todos los turnos que desee mientras que pague un punto de Gnosis cada turno. La Gnosis del hombre lobo sustituye cualquier Rasgo exclusivo de la víctima que haga funcionar el Poder, como la reserva de Sangre de un vampiro o el Areté de un mago. El Ragabash debe saber algo sobre los Poderes de su objetivo, ya sea por haberlos observado o por rumores, y debe declarar un Poder como objetivo en términos que le resulten comprensibles ('¡Deseo robar la habilidad del mago para gobernar el fuego!'). Este Don no otorga conocimiento alguno sobre el Poder robado, por lo que los fracasos tienden a ser dramáticos y memorables."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco",
-            "reference": "Como el Don Ragabash, el cual originalmente enseñaron los Corax a los Garou."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -4748,57 +2840,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco",
-            "level": 5,
-            "breed_auspice": [
-              "Ragabash"
-            ],
-            "system_es": "El jugador gasta un punto de Gnosis y tira Inteligencia + Trato con Animales (dificultad 6). Un éxito permite al personaje asumir la forma de cualquier animal normal. Durante el resto de la escena, puede hacer tiradas de transformación adicionales sin gastar más Gnosis siempre que sólo tome la forma de animales normales. Para permitir al personaje tomar una forma mítica, el jugador debe gastar un punto adicional de Gnosis y superar una dificultad de 9."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "cinco"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "level": "Nivel cinco",
-            "reference": "Como el Don Ragabash."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -4898,82 +2939,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "level": 1,
-            "breed_auspice": [
-              "Theurge"
-            ],
-            "system_es": "Los efectos de este Don son permanentes."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Theurge."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "level": "Nivel uno",
-            "reference": "Como el Don Theurge."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5012,58 +2977,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "level": 1,
-            "breed_auspice": [
-              "Theurge"
-            ],
-            "system_es": "El jugador gasta un punto de Gnosis y tira Inteligencia + Empatía (la dificultad es el nivel de Rabia actual del objetivo o 5 para quienes no poseen Rabia). Cada éxito cura un nivel de daño letal, contundente o agravado. El sanador puede incluso curar Cicatrices de Batalla (ver pág. 260) de esta forma si el Don se aplica durante la misma escena en la que se recibe la Cicatriz y se gasta un punto adicional de Gnosis."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "level": "Nivel uno",
-            "reference": "Igual que el Don Theurge."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Theurge."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5155,40 +3068,7 @@
           ],
           "mechanics": {
             "rank": "Nivel dos",
-            "reference": "Como el Don Theurge."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
             "danza_umbral": true
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
           }
         }
       ]
@@ -5239,32 +3119,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "level": 2,
-            "breed_auspice": [
-              "Theurge"
-            ],
-            "system_es": "El jugador gasta un punto de Gnosis y tira Inteligencia + Ocultismo (dificultad 7). El mandala de batalla abarca un radio de 15 metros por éxito (o de 50 pies por éxito) en torno al Garou; los espíritus (que no sean el Tótem de manada del Garou) que se encuentren dentro del mandala pierden un punto de Esencia por turno. El mandala se disipa al final de la escena o cuando el hombre lobo salga fuera de sus límites, lo que suceda antes."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5303,33 +3157,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "level": 2,
-            "breed_auspice": [
-              "Theurge"
-            ],
-            "system_es": "Las visiones están enteramente bajo el control del Narrador y se manejan mejor a través de la interpretación, aunque un jugador que se haya quedado verdaderamente sin palabras puede pedir una tirada de Astucia + Ocultismo (dificultad 7) para tratar de interpretar una visión particularmente desconcertante."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp",
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos (pilar); Nivel dos (cortesano)"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5368,32 +3195,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "level": 3,
-            "breed_auspice": [
-              "Theurge"
-            ],
-            "system_es": "El jugador gasta un punto de Gnosis y tira Carisma + Ciencias (dificultad 7). Los éxitos permiten al Garou (y su manada, mientras se mantenga cerca de éste) viajar a través de la Umbra por la Urdimbre como si fuese un Puente Lunar. Que las hebras vayan donde el Garou quiere viajar es otro tema."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5456,23 +3257,6 @@
             "rank": "Nivel tres",
             "danza_umbral": true
           }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp",
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres (espejo); Nivel tres (hoja)"
-          }
         }
       ]
     },
@@ -5514,75 +3298,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "level": 3,
-            "breed_auspice": [
-              "Theurge"
-            ],
-            "system_es": "El hombre lobo debe concentrarse durante tres turnos ininterrumpidos. Si el espíritu no desea irse, el jugador debe tirar Manipulación + Intimidación (la dificultad es la Fuerza de Voluntad del espíritu). Si éste estaba vinculado a su alojamiento, el exorcista debe obtener más éxitos que los que consiguiese quien lo ancló cuando unió al espíritu a su localización. Este Don puede usarse para 'curar' Fomori, aunque hacerlo inflige diez niveles de daño agravado a un ritmo de un nivel por turno según la Perdición va siendo arrancada de su hogar carnal. Esto garantiza la muerte del huésped a menos que un poderoso sanador se las arregle para preservar su vida durante el exorcismo."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "reference": "Como el Don Theurge."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "level": "Nivel tres",
-            "reference": "Como el Don Theurge."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp",
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro (heng); Nivel tres (cortesano)"
-          }
-        }
-      ]
-    },
     "edges": [
       {
         "target": "mage/exorcism",
@@ -5629,58 +3344,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "level": 3,
-            "breed_auspice": [
-              "Theurge"
-            ],
-            "system_es": "Si la Gnosis permanente del Garou iguala o excede la Celosía local, puede ver en la Umbra de manera automática. Si no, el jugador debe tirar Gnosis para ver a través de la Celosía (la dificultad es el valor de Celosía). Este tipo de consciencia dura el resto de la escena o hasta que el personaje entre en un área con una Celosía más fuerte."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "level": "Nivel tres",
-            "reference": "Igual que el Don Theurge."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "reference": "Como el Don Theurge."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5741,32 +3404,7 @@
           ],
           "mechanics": {
             "rank": "Nivel cuatro",
-            "reference": "Como el Don Theurge."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "cinco"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
             "danza_umbral": true
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
           }
         }
       ]
@@ -5809,32 +3447,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "level": 4,
-            "breed_auspice": [
-              "Theurge"
-            ],
-            "system_es": "El jugador hace una tirada enfrentada de Gnosis contra el espíritu. Si el jugador tiene éxito, el espíritu pierde un punto de Esencia por cada éxito durante el resto de la escena. Por cada dos puntos drenados, el Garou gana un punto temporal de Fuerza de Voluntad. Pierde cualquier punto que exceda su máximo al final de la escena."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5904,40 +3516,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco",
-            "level": 5,
-            "breed_auspice": [
-              "Theurge"
-            ],
-            "system_es": "la Astucia + Enigmas del objetivo)."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5977,47 +3555,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco",
-            "level": 5,
-            "breed_auspice": [
-              "Theurge"
-            ],
-            "system_es": "El jugador debe superar al espíritu en una tirada enfrentada de Gnosis. La dificultad está basada en qué es lo que intenta conseguir el Garou, mientras que la del espíritu es la Gnosis del Garou.\n\n| Cambio | Dificultad |\n|---|---|\n| Características (Fuerza de Voluntad, Rabia, Gnosis; un punto cambiado por éxito) | 6 |\n| Disposición (Amistoso, neutral, hostil) | 7 |\n| Tipo (Naturae, Elemental, Perdición, etc) | 9 |"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco",
-            "reference": "Como el Don Theurge."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "cinco"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco"
-          }
-        }
-      ]
+      "reason": "La tabla 'Cambio/Dificultad' quedó aplanada por la extracción del PDF (cabeceras y valores mezclados con el texto); se ha reconstruido emparejando cada tipo de cambio con su dificultad (Características 6, Disposición 7, Tipo 9)."
     },
     "edges": [],
     "related": []
@@ -6242,18 +3780,18 @@
     "line": "werewolf",
     "name_en": "Resist Pain",
     "name_es": "Resistir Dolor",
-    "body_es": "Fortaleciéndose con resolución y voluntad, el hombre lobo calma el dolor de sus heridas. Un espíritu oso o tejón enseña este Don. Sistema: El jugador gasta un punto de Fuerza de Voluntad; el personaje ignora todas las penalizaciones por heridas durante el resto de la escena.",
+    "body_es": "Igual que el Don Philodox. Los Danzantes que suelen usar este Don aún sienten dolor, pero eso no les resta destreza en una lucha. Algunos aprenden a disfrutar de la emoción de sufrir terribles heridas y sobrevivir.",
     "tags": [
       "don",
-      "Philodox",
-      "Fenrir"
+      "danzantes-de-la-espiral-negra",
+      "nivel-1",
+      "Fenrir",
+      "Philodox"
     ],
     "mechanics": {
-      "rank": "Nivel uno",
-      "auspices_tribes": [
-        "Philodox",
-        "Fenrir"
-      ]
+      "nivel": "uno",
+      "tribu": "Danzantes de la Espiral Negra",
+      "referencia": "Igual que el Don Philodox"
     },
     "sources": [
       {
@@ -6271,83 +3809,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es",
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "auspices_tribes": [
-              "Philodox",
-              "Fenrir"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "nivel": "uno",
-            "tribu": "Danzantes de la Espiral Negra",
-            "referencia": "Igual que el Don Philodox"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Philodox."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -8179,16 +5640,18 @@
     "line": "werewolf",
     "name_en": "Mind Weave",
     "name_es": "Tejido de la Mente",
-    "body_es": "Los más grandes Galliard pueden traer a la vida los productos de su imaginación, creando criaturas a partir de la esencia de los sueños. Los Quimerlinos enseñan este Don. Sistema: El jugador debe hacer una tirada extendida de Inteligencia + Interpretación (dificultad 8). Puede crear cualquier forma de vida que pueda imaginar, asignándole un punto de Rasgos por cada éxito conseguido en la tirada. El hombre lobo puede tomarse el tiempo que quiera para darle forma a la criatura, acumulando éxitos turno a turno, pero una vez se detenga, el ser onírico toma forma y requiere el gasto de un punto de Gnosis por escena para seguir manifestándose.",
+    "body_es": "Como el Don Galliard.",
     "tags": [
       "don",
+      "uktena",
+      "referencia-cruzada",
       "Galliard"
     ],
     "mechanics": {
+      "type_label": "Don",
       "rank": "Nivel cinco",
-      "auspices_tribes": [
-        "Galliard"
-      ]
+      "tribu": "Uktena",
+      "cross_reference": "Como el Don Galliard"
     },
     "sources": [
       {
@@ -8206,42 +5669,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco",
-            "auspices_tribes": [
-              "Galliard"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "type_label": "Don",
-            "rank": "Nivel cinco",
-            "tribu": "Uktena",
-            "cross_reference": "Como el Don Galliard"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco",
-            "reference": "Como el Don Galliard."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -11620,13 +9047,16 @@
     "line": "werewolf",
     "name_en": "Resist Toxin",
     "name_es": "Resistir Toxina",
-    "body_es": "El cuerpo del hombre lobo es inmune a toda clase de toxinas. Un espiritu rata ensena este Don.\n\n**Sistema:** El hombre lobo esta permanentemente inmunizado contra los venenos mundanos, desde el arsenico al alcohol, y anade tres dados para resistir los efectos de las toxinas mejoradas por el Wyrm. Este Don puede activarse y desactivarse a voluntad (como, por ejemplo, para disfrutar del alcohol).\n\n(Los Roehuesos comparten este Don: 'Como el Don Fianna'.)",
+    "body_es": "Igual que el Don de los Fianna. Debido a los numerosos peligros tóxicos que hay en una Colmena, este Don suele ser necesario para sobrevivir.",
     "tags": [
-      "fianna",
-      "bone-gnawers"
+      "don",
+      "danzantes-de-la-espiral-negra",
+      "nivel-1"
     ],
     "mechanics": {
-      "rank": "Nivel uno"
+      "nivel": "uno",
+      "tribu": "Danzantes de la Espiral Negra",
+      "referencia": "Igual que el Don de los Fianna"
     },
     "sources": [
       {
@@ -11636,38 +9066,6 @@
         "book_title_es": "W20 Aniversario Core (ES)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "level": "Nivel uno",
-            "reference": "Igual que el Don de los Roehuesos."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "nivel": "uno",
-            "tribu": "Danzantes de la Espiral Negra",
-            "referencia": "Igual que el Don de los Fianna"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -12205,7 +9603,9 @@
     "name_es": "Agonia Visceral",
     "body_es": "Las garras del hombre lobo se transforman en punzantes y retorcidos espolones que gotean veneno negro. Aunque este veneno no es letal en si mismo, inflige una incapacitante agonia. Un espiritu de dolor ensena este Don.\n\n**Sistema:** El jugador gasta un punto de Rabia antes de que el personaje ataque. Cualquier penalizacion por heridas sufrida como resultado de los ataques del personaje durante ese turno se dobla (por ejemplo, un enemigo Herido perderia cuatro dados) durante el resto de la escena. En cambio, si el objetivo es resistente al dolor (como durante el Frenesi), sufre la penalizacion por heridas normal.",
     "tags": [
-      "black-furies"
+      "black-furies",
+      "Ahroun",
+      "Metis"
     ],
     "mechanics": {
       "rank": "Nivel tres"
@@ -12591,7 +9991,8 @@
     "name_es": "Sombras del Impergium",
     "body_es": "El Garra Roja se convierte en la encarnacion de todos los miedos primordiales de la humanidad para con los lobos, llevando consigo un fuerte miasma de terror ancestral. Un espiritu de miedo ensena este Don.\n\n**Sistema:** El hombre lobo causa Delirio en Forma Hispo, aunque se considera que los observadores tienen +2 a la Fuerza de Voluntad cuando se determinan sus reacciones (ver pag. 262). Se considera que cualquiera que sucumba al Delirio por haber visto al hombre lobo en Forma Crinos tiene una Fuerza de Voluntad cinco puntos inferior a su valor real (minimo 1) a la hora de determinar su reaccion. Los efectos de este Don son permanentes, aunque pueden suprimirse durante una escena si se desea.",
     "tags": [
-      "red-talons"
+      "red-talons",
+      "Galliard"
     ],
     "mechanics": {
       "rank": "Nivel dos"
@@ -13754,7 +11155,8 @@
     "name_es": "Sobrecarga de Energia",
     "body_es": "Tras hablar con los espiritus de electricidad el Garou causa un apagon en una amplia area. Un elemental de electricidad ensena este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Astucia + Ciencias (dificultad 7). El numero de exitos determina el tamano del area que sufre el apagon. Un exito apagaria una unica habitacion, mientras que cinco dejaria sin electricidad a un barrio entero.",
     "tags": [
-      "glass-walkers"
+      "glass-walkers",
+      "Homínido"
     ],
     "mechanics": {
       "rank": "Nivel dos"
@@ -14543,7 +11945,8 @@
     "name_es": "Llamar al Oxido",
     "body_es": "Al silbar suavemente entre dientes, el hombre lobo puede invocar un oxido repentino y destructivo sobre cualquier metal que este en sus inmediaciones. Las pistolas se corroen y se atascan, los cuchillos se mellan y los coches se vuelven descascarillados trozos de chatarra. Un elemental de agua ensena este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Astucia + Artesania, con una dificultad que depende de la cantidad de metal por corroer. Para una pistola o cuchillo la dificultad seria 6, mientras que para un coche podria ser 8.",
     "tags": [
-      "bone-gnawers"
+      "bone-gnawers",
+      "Homínido"
     ],
     "mechanics": {
       "rank": "Nivel tres"
@@ -15385,32 +12788,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "type_label": "Don",
-            "rank": "Nivel cuatro",
-            "tribu": "Hakken",
-            "roll": "Manipulación + Etiqueta",
-            "difficulty": "7",
-            "spirit_teacher": "espíritu Ancestro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "cuatro"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -15519,31 +12896,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "type_label": "Don",
-            "rank": "Nivel tres",
-            "tribu": "Señores de la Sombra",
-            "roll": "Carisma + Intimidación",
-            "difficulty": "Fuerza de Voluntad del objetivo",
-            "cost": "un punto de Gnosis",
-            "spirit_teacher": "Cuervo de la Tempestad"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        }
-      ]
+      "reason": "Encabezado de la sección de Dones de los Señores de la Sombra ausente en el fragmento; se usó el ## más cercano ('DONES DE LOS HAKKEN')."
     },
     "edges": [],
     "related": []
@@ -15609,22 +12962,6 @@
             "nivel": "cuatro",
             "tribu": "Danzantes de la Espiral Negra",
             "referencia": "Igual que el Don de los Señores de la Sombra"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
           }
         }
       ]
@@ -15700,30 +13037,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "type_label": "Don",
-            "rank": "Nivel cuatro",
-            "tribu": "Señores de la Sombra",
-            "roll": "Astucia + Intimidación",
-            "difficulty": "Fuerza de Voluntad del objetivo",
-            "spirit_teacher": "Cuervo de la Tempestad"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "cuatro"
-          }
-        }
-      ]
+      "reason": "Encabezado de la sección de Dones de los Señores de la Sombra ausente en el fragmento; se usó el ## más cercano ('DONES DE LOS HAKKEN')."
     },
     "edges": [],
     "related": []
@@ -15800,41 +13114,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "type_label": "Don",
-            "rank": "Nivel cinco",
-            "tribu": "Señores de la Sombra",
-            "roll": "Carisma + Liderazgo",
-            "difficulty": "8",
-            "cost": "un punto de Gnosis",
-            "resistance": "Fuerza de Voluntad (dificultad 8)",
-            "spirit_teacher": "Cuervo de la Tempestad"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco",
-            "reference": "Como el Don de los Señores de la Sombra."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "cinco"
-          }
-        }
-      ]
+      "reason": "Encabezado de la sección de Dones de los Señores de la Sombra ausente en el fragmento; se usó el ## más cercano ('DONES DE LOS HAKKEN')."
     },
     "edges": [],
     "related": []
@@ -15938,50 +13218,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "type_label": "Don",
-            "rank": "Nivel uno",
-            "tribu": "Uktena",
-            "roll": "Percepción + Enigmas",
-            "difficulty": "variable (según fuerza y sutileza de la magia)",
-            "spirit_teacher": "espíritu sirviente de Uktena"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Uktena."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "reference": "Como el Don de los Uktena."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -16076,15 +13312,6 @@
             "nivel": "uno",
             "tribu": "Danzantes de la Espiral Negra",
             "referencia": "Igual que el Don de los Uktena"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don de los Uktena."
           }
         }
       ]
@@ -16190,44 +13417,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "type_label": "Don",
-            "rank": "Nivel dos",
-            "tribu": "Uktena",
-            "roll": "Resistencia + Trato con Animales",
-            "difficulty": "7",
-            "cost": "un punto de Gnosis",
-            "duration": "una hora por éxito",
-            "spirit_teacher": "cualquier espíritu pez"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "reference": "Como el Don de los Uktena."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "level": "Nivel dos",
-            "reference": "Como el Don de los Uktena."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -16327,34 +13516,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "type_label": "Don",
-            "rank": "Nivel tres",
-            "tribu": "Uktena",
-            "roll": "Destreza + Enigmas",
-            "difficulty": "7",
-            "cost": "un punto de Gnosis",
-            "spirit_teacher": "espíritu niebla"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "reference": "Como el Don de los Uktena."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -16548,42 +13709,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "type_label": "Don",
-            "rank": "Nivel cuatro",
-            "tribu": "Uktena",
-            "roll": "Gnosis (dificultad = Celosía de la zona); luego Manipulación + Ocultismo (dificultad 7)",
-            "cost": "un punto de Gnosis",
-            "spirit_teacher": "un elemental"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "reference": "Como el Don de los Uktena."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "level": "Nivel cuatro",
-            "reference": "Como el Don de los Uktena."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -16622,42 +13747,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "type_label": "Don",
-            "rank": "Nivel cuatro",
-            "tribu": "Uktena",
-            "roll": "Destreza + Ocultismo",
-            "difficulty": "7",
-            "cost": "un punto de Gnosis",
-            "spirit_teacher": "un elemental de aire y un elemental de tierra"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "level": "Nivel cuatro",
-            "reference": "Igual que el Don Uktena."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "cuatro"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -16695,31 +13784,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "type_label": "Don",
-            "rank": "Nivel cinco",
-            "tribu": "Uktena",
-            "roll": "Percepción + Artesanía (dificultad 8, crear); Inteligencia + Medicina (dificultad = Fuerza de Voluntad de la víctima, atacar)",
-            "spirit_teacher": "espíritu Ancestro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -16948,33 +14012,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "type_label": "Don",
-            "rank": "Nivel dos",
-            "tribu": "Wendigo",
-            "roll": "Manipulación + Expresión",
-            "difficulty": "8",
-            "spirit_teacher": "espíritu de viento"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "reference": "Como el Don de los Wendigo."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -17232,35 +14269,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "type_label": "Don",
-            "rank": "Nivel cuatro",
-            "tribu": "Wendigo",
-            "roll": "Inteligencia + Ocultismo",
-            "difficulty": "variable: 4 si ya es invierno, 6 para primavera, 9 para verano",
-            "cost": "un punto de Gnosis",
-            "duration": "un día por éxito",
-            "spirit_teacher": "espíritu sirviente de Gran Wendigo"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "reference": "Como el Don de los Wendigo."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -17418,35 +14426,6 @@
         "book_title_es": "W20 Aniversario Core (ES)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "type_label": "Don",
-            "rank": "Nivel cinco",
-            "tribu": "Wendigo",
-            "roll": "Fuerza de Voluntad",
-            "difficulty": "variable (cercanía al clima actual de la zona)",
-            "cost": "un punto de Gnosis",
-            "effect": "rayos: Astucia + Ocultismo para golpear, 10 dados de daño agravado",
-            "spirit_teacher": "avatar de Gran Wendigo"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "level": "Nivel cinco",
-            "reference": "Igual que el Don de los Wendigo."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -26039,7 +23018,8 @@
     "body_es": "Don Lupus de nivel dos: Los dingos de toda Australia, en especial los próximos a la Cerca del Dingo, se enfrentan a la amenaza constante de las trampas humanas: cepos, trampas de lazo y venenos. Los dingos se han vuelto más hábiles a la hora de detectar estos peligros e incluso desarmarlos. Este Don permite al hombre lobo identificar cebos, trampas y hasta emboscadas. Un espíritu dingo enseña este Don.\n\n**Sistema:** El Narrador tira Percepción + Impulso Primario cuando el hombre lobo se acerca a menos de su Gnosis x 5 metros o yardas del disparador de la trampa. La dificultad para detectar trampas simples, fosos y cebos envenenados en la zona es 5. Identificar trampas tecnológicamente más complejas, como objetos electrificados y trampas activadas por movimiento, tiene dificultad 6. Las trampas sobrenaturales tienen dificultad 7. Además, cada vez que el hombre lobo se aproxime a una emboscada, el Narrador tira Percepción + Impulso Primario a dificultad 6 para ver si el Garou reconoce la emboscada antes de que ésta se lleve a cabo. El hombre lobo no necesita activar este Don, ya que proporciona un 'sexto sentido' en todo momento.",
     "tags": [
       "don",
-      "lupus"
+      "lupus",
+      "Lupus"
     ],
     "mechanics": {
       "rank": "2",
@@ -28354,26 +25334,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "system": "El jugador tira Resistencia + Intimidación a dificultad 7. Durante un turno por cada éxito, todo el mundo en un radio de 6 metros (20 pies) se queda sordo y tiene +1 de dificultad en todas las tiradas."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
+      "reason": "Artefacto de extracción PDF: la etiqueta 'Sistema:' aparece desplazada, partiendo el texto del sistema ('...se queda sordo' / 'Sistema: y tiene +1 de dificultad...'). Reconstruido en orden de lectura."
     },
     "edges": [],
     "related": []
@@ -28692,37 +25653,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "system": "Los efectos de este Don son permanentes."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "reference": "Como el Don general de los Bastet de nivel cuatro. Sólo los Swara pueden comprarlo como un Don de nivel dos. Éste es uno de sus secretos mejor guardados."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -48642,7 +45572,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "general"
+      "general",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -48670,7 +45601,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "general"
+      "general",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -48698,7 +45630,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "general"
+      "general",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -48726,7 +45659,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "general"
+      "general",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -48754,7 +45688,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "general"
+      "general",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -48782,7 +45717,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "general"
+      "general",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -48810,7 +45746,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "general"
+      "general",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -48838,7 +45775,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "general"
+      "general",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -48866,7 +45804,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "general"
+      "general",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -48894,7 +45833,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "general"
+      "general",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -48922,7 +45862,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "general"
+      "general",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -48950,7 +45891,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "general"
+      "general",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -48978,7 +45920,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "general"
+      "general",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -49006,7 +45949,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "general"
+      "general",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -49034,7 +45978,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "general"
+      "general",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -49062,7 +46007,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "general"
+      "general",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -49090,7 +46036,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "general"
+      "general",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -49118,7 +46065,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "general"
+      "general",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -49146,7 +46094,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "general"
+      "general",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
@@ -49174,7 +46123,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "general"
+      "general",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
@@ -49202,7 +46152,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "general"
+      "general",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
@@ -49230,7 +46181,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Alba"
+      "Alba",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -49258,7 +46210,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Alba"
+      "Alba",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -49286,7 +46239,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Alba"
+      "Alba",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -49314,7 +46268,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Alba"
+      "Alba",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -49342,7 +46297,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Alba"
+      "Alba",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -49370,7 +46326,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Alba"
+      "Alba",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -49398,7 +46355,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Alba"
+      "Alba",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -49426,7 +46384,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Alba"
+      "Alba",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -49454,7 +46413,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Alba"
+      "Alba",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -49482,7 +46442,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Alba"
+      "Alba",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -49510,7 +46471,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Alba"
+      "Alba",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -49538,7 +46500,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Alba"
+      "Alba",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -49566,7 +46529,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Alba"
+      "Alba",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -49594,7 +46558,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Alba"
+      "Alba",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -49622,7 +46587,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Alba"
+      "Alba",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -49650,7 +46616,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Alba"
+      "Alba",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -49678,7 +46645,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Alba"
+      "Alba",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -49706,7 +46674,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Alba"
+      "Alba",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -49734,7 +46703,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Alba"
+      "Alba",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -49762,7 +46732,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Alba"
+      "Alba",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
@@ -49790,7 +46761,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Alba"
+      "Alba",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
@@ -49818,7 +46790,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Medianoche"
+      "Medianoche",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -49846,7 +46819,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Medianoche"
+      "Medianoche",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -49874,7 +46848,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Medianoche"
+      "Medianoche",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -49902,7 +46877,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Medianoche"
+      "Medianoche",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -49930,7 +46906,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Medianoche"
+      "Medianoche",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -49958,7 +46935,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Medianoche"
+      "Medianoche",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -49986,7 +46964,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Medianoche"
+      "Medianoche",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -50014,7 +46993,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Medianoche"
+      "Medianoche",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -50042,7 +47022,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Medianoche"
+      "Medianoche",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -50070,7 +47051,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Medianoche"
+      "Medianoche",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -50098,7 +47080,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Medianoche"
+      "Medianoche",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -50126,7 +47109,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Medianoche"
+      "Medianoche",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -50154,7 +47138,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Medianoche"
+      "Medianoche",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -50182,7 +47167,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Medianoche"
+      "Medianoche",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -50210,7 +47196,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Medianoche"
+      "Medianoche",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -50238,7 +47225,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Medianoche"
+      "Medianoche",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -50266,7 +47254,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Medianoche"
+      "Medianoche",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -50294,7 +47283,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Medianoche"
+      "Medianoche",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -50322,7 +47312,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Medianoche"
+      "Medianoche",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -50350,7 +47341,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Medianoche"
+      "Medianoche",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
@@ -50378,7 +47370,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Medianoche"
+      "Medianoche",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
@@ -50406,7 +47399,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Ocaso"
+      "Ocaso",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -50434,7 +47428,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Ocaso"
+      "Ocaso",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -50462,7 +47457,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Ocaso"
+      "Ocaso",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -50490,7 +47486,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Ocaso"
+      "Ocaso",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -50518,7 +47515,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Ocaso"
+      "Ocaso",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -50546,7 +47544,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Ocaso"
+      "Ocaso",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -50574,7 +47573,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Ocaso"
+      "Ocaso",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -50602,7 +47602,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Ocaso"
+      "Ocaso",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -50630,7 +47631,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Ocaso"
+      "Ocaso",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -50658,7 +47660,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Ocaso"
+      "Ocaso",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -50689,7 +47692,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Ocaso"
+      "Ocaso",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -50717,7 +47721,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Ocaso"
+      "Ocaso",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -50748,7 +47753,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Ocaso"
+      "Ocaso",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -50776,7 +47782,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Ocaso"
+      "Ocaso",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -50807,7 +47814,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Ocaso"
+      "Ocaso",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -50835,7 +47843,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Ocaso"
+      "Ocaso",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -50866,7 +47875,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Ocaso"
+      "Ocaso",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -50894,7 +47904,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Ocaso"
+      "Ocaso",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -50922,7 +47933,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Ocaso"
+      "Ocaso",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -50950,7 +47962,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Ocaso"
+      "Ocaso",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -50978,7 +47991,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Ocaso"
+      "Ocaso",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
@@ -51006,7 +48020,8 @@
     "tags": [
       "ajaba",
       "gift",
-      "Ocaso"
+      "Ocaso",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
@@ -51034,7 +48049,8 @@
     "tags": [
       "ajaba",
       "rite",
-      "reconciliacion"
+      "reconciliacion",
+      "Ajaba"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -51061,7 +48077,8 @@
     "body_es": "Nivel uno, Gnosis 5. Los Ajaba fueron forzados a integrarse en culturas extrañas para evitar a los cazadores de Diente Negro. Estos simples Fetiches les facilitan la tarea y se han extendido rápidamente por toda la diáspora. Este Fetiche se crea con una genuina guía de viaje de cualquier lugar, con un espíritu Ancestro vinculado a sus páginas. Cuando se activa, el Ajaba ve reducida en 2 la dificultad de cualquier tirada social o de Callejeo realizada para encajar en un grupo o cultura.",
     "tags": [
       "ajaba",
-      "fetish"
+      "fetish",
+      "Ajaba"
     ],
     "mechanics": {
       "level": "Nivel uno",
@@ -51088,7 +48105,8 @@
     "body_es": "Nivel tres, Gnosis 7. Esta pequeña baratija de metal tiene un elemental metálico altamente reflectante en su interior. Originalmente, los Ajaba los crearon para escapar de los Simba, pero también funcionan contra otros. Cuando se activa, todo el mundo que vea el Fetiche debe hacer una tirada de Fuerza de Voluntad a una dificultad igual a la Gnosis del espejo de vanidad. Si no igualan al menos el número de éxitos que el Ajaba obtuvo en la tirada de activación, encuentran irresistible cualquier superficie reflectante cercana y no puede realizar ninguna acción durante un número de turnos igual a su Gnosis. Atacar a cualquiera que esté así de embelesado proporciona al atacante dos dados adicionales en su acción. El efecto del Don termina de inmediato si se ataca a cualquiera de las personas afectadas; este Fetiche se creó para huir, no para luchar.",
     "tags": [
       "ajaba",
-      "fetish"
+      "fetish",
+      "Ajaba"
     ],
     "mechanics": {
       "level": "Nivel tres",
@@ -51144,7 +48162,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "general"
+      "general",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -51172,7 +48191,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "general"
+      "general",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -51200,7 +48220,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "general"
+      "general",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -51228,7 +48249,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "general"
+      "general",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -51256,7 +48278,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "general"
+      "general",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -51284,7 +48307,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "general"
+      "general",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -51312,7 +48336,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "general"
+      "general",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -51340,7 +48365,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "general"
+      "general",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -51368,7 +48394,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "general"
+      "general",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -51396,7 +48423,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "general"
+      "general",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -51424,7 +48452,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "general"
+      "general",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -51452,7 +48481,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "general"
+      "general",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -51480,7 +48510,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "general"
+      "general",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -51508,7 +48539,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "general"
+      "general",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -51536,7 +48568,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "general"
+      "general",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -51564,7 +48597,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "general"
+      "general",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
@@ -51592,7 +48626,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "general"
+      "general",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
@@ -51620,7 +48655,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Tenere"
+      "Tenere",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -51648,7 +48684,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Tenere"
+      "Tenere",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -51676,7 +48713,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Tenere"
+      "Tenere",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -51707,7 +48745,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Tenere"
+      "Tenere",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -51735,7 +48774,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Tenere"
+      "Tenere",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -51763,7 +48803,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Tenere"
+      "Tenere",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -51791,7 +48832,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Tenere"
+      "Tenere",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -51819,7 +48861,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Tenere"
+      "Tenere",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -51850,7 +48893,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Tenere"
+      "Tenere",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
@@ -51881,7 +48925,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Hatar"
+      "Hatar",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -51909,7 +48954,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Hatar"
+      "Hatar",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -51940,7 +48986,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Hatar"
+      "Hatar",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -51968,7 +49015,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Hatar"
+      "Hatar",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -51996,7 +49044,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Hatar"
+      "Hatar",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -52024,7 +49073,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Hatar"
+      "Hatar",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -52052,7 +49102,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Hatar"
+      "Hatar",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -52080,7 +49131,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Hatar"
+      "Hatar",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -52108,7 +49160,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Hatar"
+      "Hatar",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
@@ -52136,7 +49189,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Kumoti"
+      "Kumoti",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -52164,7 +49218,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Kumoti"
+      "Kumoti",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -52192,7 +49247,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Kumoti"
+      "Kumoti",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -52220,7 +49276,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Kumoti"
+      "Kumoti",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -52248,7 +49305,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Kumoti"
+      "Kumoti",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -52276,7 +49334,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Kumoti"
+      "Kumoti",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -52304,7 +49363,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Kumoti"
+      "Kumoti",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -52332,7 +49392,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Kumoti"
+      "Kumoti",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -52360,7 +49421,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Kumoti"
+      "Kumoti",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
@@ -52388,7 +49450,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Mirmidón"
+      "Mirmidón",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -52416,7 +49479,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Mirmidón"
+      "Mirmidón",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -52444,7 +49508,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Mirmidón"
+      "Mirmidón",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -52472,7 +49537,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Mirmidón"
+      "Mirmidón",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -52500,7 +49566,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Mirmidón"
+      "Mirmidón",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -52528,7 +49595,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Mirmidón"
+      "Mirmidón",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -52556,7 +49624,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Mirmidón"
+      "Mirmidón",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -52584,7 +49653,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Mirmidón"
+      "Mirmidón",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -52612,7 +49682,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Mirmidón"
+      "Mirmidón",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
@@ -52640,7 +49711,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Viskr"
+      "Viskr",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -52668,7 +49740,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Viskr"
+      "Viskr",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -52699,7 +49772,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Viskr"
+      "Viskr",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -52727,7 +49801,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Viskr"
+      "Viskr",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -52755,7 +49830,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Viskr"
+      "Viskr",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -52783,7 +49859,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Viskr"
+      "Viskr",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -52811,7 +49888,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Viskr"
+      "Viskr",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -52839,7 +49917,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Viskr"
+      "Viskr",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -52867,7 +49946,8 @@
     "tags": [
       "ananasi",
       "gift",
-      "Viskr"
+      "Viskr",
+      "Ananasi"
     ],
     "mechanics": {
       "rank": "Nivel cinco",

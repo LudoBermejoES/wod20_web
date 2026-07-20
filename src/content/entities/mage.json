@@ -21773,81 +21773,6 @@
     "related": []
   },
   {
-    "id": "the-ddgr-card",
-    "type": "wonder",
-    "line": "mage",
-    "name_en": "The DDGR Card",
-    "name_es": "Tarjeta BTRAS",
-    "mechanics": {
-      "category": "Ciencia extraña (Maravilla)",
-      "rank": null
-    },
-    "sources": [
-      {
-        "book_id": "m20-glosario-basico-es",
-        "book_title_es": "Glosario M20 Básico",
-        "page": null,
-        "section_anchor": "ciencia-extrana",
-        "variant": "base"
-      }
-    ],
-    "review": {
-      "reason": "Rango de la Maravilla no recuperable: la columna de puntuación aparece entremezclada por la extracción del PDF y no puede emparejarse con seguridad con este nombre."
-    },
-    "edges": [],
-    "related": []
-  },
-  {
-    "id": "kid-kimotas-jovian-thundergloves",
-    "type": "wonder",
-    "line": "mage",
-    "name_en": "Kid Kimota's Jovian Thundergloves",
-    "name_es": "Guantes Jovianos del Trueno de Kid Kimota",
-    "mechanics": {
-      "category": "Ciencia extraña (Maravilla)",
-      "rank": null
-    },
-    "sources": [
-      {
-        "book_id": "m20-glosario-basico-es",
-        "book_title_es": "Glosario M20 Básico",
-        "page": null,
-        "section_anchor": "ciencia-extrana",
-        "variant": "base"
-      }
-    ],
-    "review": {
-      "reason": "Rango de la Maravilla no recuperable: la columna de puntuación aparece entremezclada por la extracción del PDF y no puede emparejarse con seguridad con este nombre."
-    },
-    "edges": [],
-    "related": []
-  },
-  {
-    "id": "the-rebooter-self-retrieval-bio-printer",
-    "type": "wonder",
-    "line": "mage",
-    "name_en": "The Rebooter Self-Retrieval Bio-Printer",
-    "name_es": "Bioimpresora Reiniciadora de Autorrecuperación",
-    "mechanics": {
-      "category": "Ciencia extraña (Maravilla)",
-      "rank": null
-    },
-    "sources": [
-      {
-        "book_id": "m20-glosario-basico-es",
-        "book_title_es": "Glosario M20 Básico",
-        "page": null,
-        "section_anchor": "ciencia-extrana",
-        "variant": "base"
-      }
-    ],
-    "review": {
-      "reason": "Rango de la Maravilla no recuperable: la columna de puntuación aparece entremezclada por la extracción del PDF y no puede emparejarse con seguridad con este nombre."
-    },
-    "edges": [],
-    "related": []
-  },
-  {
     "id": "trushades",
     "type": "wonder",
     "line": "mage",
@@ -21886,31 +21811,6 @@
         "variant": "base"
       }
     ],
-    "edges": [],
-    "related": []
-  },
-  {
-    "id": "falconi-and-associates-elite-business-attire",
-    "type": "wonder",
-    "line": "mage",
-    "name_en": "Falconi & Associates Elite Business Attire",
-    "name_es": "traje de negocios de élite Falconi & Associates",
-    "mechanics": {
-      "category": "Disp. / Inv. (Herramienta Tecnocrática)",
-      "rank": "2"
-    },
-    "sources": [
-      {
-        "book_id": "m20-glosario-basico-es",
-        "book_title_es": "Glosario M20 Básico",
-        "page": null,
-        "section_anchor": "herramientas-tecnocraticas",
-        "variant": "base"
-      }
-    ],
-    "review": {
-      "reason": "En origen figura como 'Falconi & Associates Elite Business Attirel' (posible errata 'Attirel') y la traducción como 'Falconi & Associated'."
-    },
     "edges": [],
     "related": []
   },
