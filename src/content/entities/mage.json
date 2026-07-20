@@ -2212,9 +2212,6 @@
         "book_title_es": "M20 Book of the Fallen"
       }
     ],
-    "review": {
-      "reason": "Extraction split: the source interleaves the sidebar «Antinomianismo» in the middle of this entry (heading text ends '...seguir la propia Senda' and resumes '...allá adonde le lleve'). Body reassembled across the split; verify against source."
-    },
     "edges": [],
     "related": []
   },
@@ -2325,9 +2322,6 @@
         "book_title_es": "M20 Book of the Fallen"
       }
     ],
-    "review": {
-      "reason": "Extraction garble: the 'Habilidades asociadas' line ends with a duplicated 'Subterfugio' and runs directly into 'Instrumentos habituales:' with no line break in the source ('...entidades extradimensionales), Subterfugio Instrumentos habituales: Atrocidad...'). Fields separated as best inferred; the trailing duplicate 'Subterfugio' preserved verbatim."
-    },
     "edges": [],
     "related": []
   },
@@ -39901,9 +39895,6 @@
     "tags": [
       "paradigma"
     ],
-    "review": {
-      "reason": "El texto de este paradigma aparece desordenado por la extracción de doble columna del PDF (fragmentos entrelazados de líneas 737 y 743-749). Reordenado de forma razonable para preservar el contenido; verificar contra el original si es crítico."
-    },
     "sources": [
       {
         "book_id": "m20-the-rich-bastards-guide-to-magick",
@@ -39970,9 +39961,6 @@
     "tags": [
       "paradigma"
     ],
-    "review": {
-      "reason": "Extracción de doble columna: el fragmento 'Garantizar la seguridad y la santidad de la movilidad mundana y mística...' (línea 781) aparece intercalado. Reintegrado de forma razonable; verificar contra el original si es crítico."
-    },
     "sources": [
       {
         "book_id": "m20-the-rich-bastards-guide-to-magick",
@@ -39999,9 +39987,6 @@
       "paradigmas_asociados": "Todo Tiene un Valor, El Poder Da la Razón ( Mago 20 , p. 570), Más es Más",
       "tecnicas_asociadas": "Pelea, Armas de Fuego, Intimidación, Leyes, Política",
       "instrumentos_asociados": "Contactos, Terreno Sagrado, Dominación Social, Metales Preciosos"
-    },
-    "review": {
-      "reason": "Extracción de doble columna con bleed entre la introducción de 'Prácticas' y esta entrada: fragmentos como 'los tratos sean siquiera justos. Por desgracia, la mayoría de las manifestaciones de esta práctica no son más que un intercambio entre iguales disfrazado...' (líneas 789) parecen pertenecer al texto introductorio de las Prácticas o de otra práctica y no se han integrado aquí. Cuerpo reconstruido a partir del texto claramente atribuible a Apropiación."
     },
     "sources": [
       {
@@ -40079,9 +40064,6 @@
       "paradigmas_asociados": "Orden Divino y Caos Terrenal, Todo Son Datos, El Poder Gotea Hacia Abajo; Todo Tiene un Valor, Un Cosmos Mecánico ( Mago 20 , p. 568), Filantropía en Todas las Cosas",
       "tecnicas_asociadas": "Arte, Empatía, Expresión, Intimidación, Política, Subterfugio, Tecnología",
       "instrumentos_comunes": "Obras de Arte; Libros, Pergaminos y Publicaciones Periódicas; Contacto Visual; Moda; Medios de Masas; Medios Físicos; Redes Sociales; Escritos, Inscripciones y Runas"
-    },
-    "review": {
-      "reason": "Extracción de doble columna: aparecen DOS líneas 'Paradigmas asociados' consecutivas (líneas 851 y 855), probablemente una de ellas es bleed de otra práctica. Se han conservado ambas listas fusionadas en 'paradigmas_asociados' para no perder datos; verificar cuál corresponde realmente a Control de Medios contra el original."
     },
     "sources": [
       {
