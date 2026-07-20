@@ -85,7 +85,7 @@ const kicker = isFiction
           )
         }
 
-        <Fragment set:html={page.body_html} />
+        <div class="reading-flow" set:html={page.body_html} />
       </article>
 
       <nav class="prev-next" aria-label="Navegación de lectura">
@@ -111,6 +111,11 @@ const kicker = isFiction
       grid-template-columns: minmax(0, 16rem) minmax(0, 1fr);
       gap: var(--space-5);
       align-items: start;
+      /* Cap + center the whole shell (sidebar + measure + gutter) so on a wide
+         monitor the leftover width becomes balanced margins, not a lopsided dead
+         zone on the right. ~84rem fits the 16rem rail + 72ch measure + 240px TOC. */
+      max-width: 84rem;
+      margin-inline: auto;
     }
     /* The rail reads as a quiet panel (recessed tint + hairline), not text
        floating loose beside the column — the persistent book tree earns its
@@ -150,17 +155,30 @@ const kicker = isFiction
        direction). Below this width it stays inline, as today. The threshold
        accounts for the persistent book-tree rail *plus* the measure *plus*
        the gutter all fitting without cramping any of the three. */
+    /* At a wide viewport the mini-TOC becomes a sticky gutter element beside the
+       measure. The grid has exactly three REAL children — .page-head, .in-page-toc,
+       .reading-flow — each explicitly placed; the rendered body markdown lives
+       INSIDE .reading-flow (one grid item), so injected `set:html` content never
+       participates in grid auto-placement. (Previously the body was injected as bare
+       children and a `:not(.in-page-toc){grid-column:1}` rule — which Astro's scoped
+       CSS never stamps onto injected HTML — let paragraphs scatter into column 2.) */
     @media (min-width: 90rem) {
       .reading-body {
         display: grid;
         grid-template-columns: minmax(0, var(--measure)) minmax(200px, 240px);
+        grid-template-rows: auto 1fr;
         column-gap: var(--space-5);
         align-items: start;
+        /* the base rule caps the article at the measure; here the article is
+           measure (text) + a SEPARATE gutter, so the text keeps its full ~72ch
+           instead of sharing the 72ch with the TOC. */
+        max-width: none;
       }
-      .reading-body > :not(.in-page-toc) { grid-column: 1; }
+      .reading-body > .page-head { grid-column: 1; grid-row: 1; }
+      .reading-body > .reading-flow { grid-column: 1; grid-row: 2; min-width: 0; }
       .reading-body > .in-page-toc {
         grid-column: 2;
-        grid-row: 1 / -1;
+        grid-row: 1 / 3;
         position: sticky;
         top: var(--space-4);
         align-self: start;

@@ -29,7 +29,7 @@
   --space-5: 2.5rem;
   --font-serif: ui-serif, Georgia, 'Times New Roman', serif;
   --font-sans: ui-sans-serif, system-ui, -apple-system, sans-serif;
-  --measure: 68ch;
+  --measure: 72ch;
   --pad: clamp(1rem, 4vw, 2.5rem);
 
   color-scheme: dark light;

@@ -22,8 +22,10 @@ html[data-theme='changeling'] { --font-reading-display: 'Uncial Antiqua', serif;
 /* --- reading body ------------------------------------------------------- */
 .reading-body {
   font-family: var(--font-reading-body);
-  max-width: var(--measure, 68ch);
-  font-size: clamp(1rem, 0.97rem + 0.15vw, 1.125rem);
+  max-width: var(--measure, 72ch);
+  /* Base reading size scales up on wider viewports — ~19px small screens to ~20.8px
+     wide, so pages don't read small on a large monitor while staying comfortable. */
+  font-size: clamp(1.05rem, 1rem + 0.35vw, 1.3rem);
   line-height: 1.65;
   font-feature-settings: 'onum' 1;
 }
