@@ -957,7 +957,9 @@
         "Metis",
         "Theurge"
       ],
-      "system_es": "El jugador tira Percepción + Ocultismo. La dificultad depende de la concentración y la fuerza de la influencia del Wyrm: sentir a un único Fomor en la habitación contigua tendría dificultad 6, mientras que detectar el hedor de una Perdición que estuvo en la habitación hace una hora tendría dificultad 7. Los vampiros son percibidos como manchados por el Wyrm, salvo aquéllos con valores de Humanidad 7 o más."
+      "system_es": "El jugador tira Percepción + Ocultismo. La dificultad depende de la concentración y la fuerza de la influencia del Wyrm: sentir a un único Fomor en la habitación contigua tendría dificultad 6, mientras que detectar el hedor de una Perdición que estuvo en la habitación hace una hora tendría dificultad 7. Los vampiros son percibidos como manchados por el Wyrm, salvo aquéllos con valores de Humanidad 7 o más.",
+      "nivel": "uno",
+      "tribu": "Danzantes de la Espiral Negra"
     },
     "sources": [
       {
@@ -975,35 +977,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "level": 1,
-            "breed_auspice": [
-              "Metis",
-              "Theurge"
-            ],
-            "system_es": "El jugador tira Percepción + Ocultismo. La dificultad depende de la concentración y la fuerza de la influencia del Wyrm: sentir a un único Fomor en la habitación contigua tendría dificultad 6, mientras que detectar el hedor de una Perdición que estuvo en la habitación hace una hora tendría dificultad 7. Los vampiros son percibidos como manchados por el Wyrm, salvo aquéllos con valores de Humanidad 7 o más."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "nivel": "uno",
-            "tribu": "Danzantes de la Espiral Negra",
-            "referencia": "Igual que el Don Metis"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -3028,7 +3001,8 @@
       "breed_auspice": [
         "Theurge"
       ],
-      "system_es": "El jugador gasta un punto de Fuerza de Voluntad y tira Carisma + Liderazgo (la dificultad es la Gnosis del espíritu). El personaje puede darle órdenes sucesivas una vez que esté bajo su control; cada orden adicional requiere que el jugador gaste un punto de Fuerza de Voluntad adicional. Al espíritu no se le puede ordenar que deje un lugar u objeto (o, en el caso de Fomori, una persona) al que esté vinculado."
+      "system_es": "El jugador gasta un punto de Fuerza de Voluntad y tira Carisma + Liderazgo (la dificultad es la Gnosis del espíritu). El personaje puede darle órdenes sucesivas una vez que esté bajo su control; cada orden adicional requiere que el jugador gaste un punto de Fuerza de Voluntad adicional. Al espíritu no se le puede ordenar que deje un lugar u objeto (o, en el caso de Fomori, una persona) al que esté vinculado.",
+      "danza_umbral": true
     },
     "sources": [
       {
@@ -3046,33 +3020,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "level": 2,
-            "breed_auspice": [
-              "Theurge"
-            ],
-            "system_es": "El jugador gasta un punto de Fuerza de Voluntad y tira Carisma + Liderazgo (la dificultad es la Gnosis del espíritu). El personaje puede darle órdenes sucesivas una vez que esté bajo su control; cada orden adicional requiere que el jugador gaste un punto de Fuerza de Voluntad adicional. Al espíritu no se le puede ordenar que deje un lugar u objeto (o, en el caso de Fomori, una persona) al que esté vinculado."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "danza_umbral": true
-          }
-        }
-      ]
-    },
     "edges": [
       {
         "target": "mage/command-spirit",
@@ -3215,7 +3162,8 @@
       "breed_auspice": [
         "Theurge"
       ],
-      "system_es": "El jugador gasta un punto de Gnosis y durante el resto de la escena es completamente invisible para los sentidos espirituales. Puede moverse con normalidad pero no puede realizar ninguna acción de ataque sin interrumpir el efecto de este Don."
+      "system_es": "El jugador gasta un punto de Gnosis y durante el resto de la escena es completamente invisible para los sentidos espirituales. Puede moverse con normalidad pero no puede realizar ninguna acción de ataque sin interrumpir el efecto de este Don.",
+      "danza_umbral": true
     },
     "sources": [
       {
@@ -3233,33 +3181,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "level": 3,
-            "breed_auspice": [
-              "Theurge"
-            ],
-            "system_es": "El jugador gasta un punto de Gnosis y durante el resto de la escena es completamente invisible para los sentidos espirituales. Puede moverse con normalidad pero no puede realizar ninguna acción de ataque sin interrumpir el efecto de este Don."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "danza_umbral": true
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -3364,7 +3285,8 @@
       "breed_auspice": [
         "Theurge"
       ],
-      "system_es": "El personaje debe sujetar el objeto o persona que desee llevar consigo hacia o desde el mundo espiritual y gastar cierta cantidad de puntos de Fuerza de Voluntad: uno para objetos pequeños (un cuchillo o un teléfono), dos para objetos mayores (una mochila o una pistola) y tres para objetos de tamaño humano (incluyendo personas). El jugador hace la tirada habitual de Gnosis para atravesar la Celosía y caminar de lado; si tiene éxito, tanto él como el objeto o persona deseados pasan a la Umbra. Un sujeto reticente puede resistirse con una tirada de Fuerza de Voluntad; cada éxito resta uno de los del Garou. Si se les deja en la Umbra durante demasiado tiempo, los seres vivos se transforman en espíritus por completo."
+      "system_es": "El personaje debe sujetar el objeto o persona que desee llevar consigo hacia o desde el mundo espiritual y gastar cierta cantidad de puntos de Fuerza de Voluntad: uno para objetos pequeños (un cuchillo o un teléfono), dos para objetos mayores (una mochila o una pistola) y tres para objetos de tamaño humano (incluyendo personas). El jugador hace la tirada habitual de Gnosis para atravesar la Celosía y caminar de lado; si tiene éxito, tanto él como el objeto o persona deseados pasan a la Umbra. Un sujeto reticente puede resistirse con una tirada de Fuerza de Voluntad; cada éxito resta uno de los del Garou. Si se les deja en la Umbra durante demasiado tiempo, los seres vivos se transforman en espíritus por completo.",
+      "danza_umbral": true
     },
     "sources": [
       {
@@ -3382,33 +3304,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "level": 4,
-            "breed_auspice": [
-              "Theurge"
-            ],
-            "system_es": "El personaje debe sujetar el objeto o persona que desee llevar consigo hacia o desde el mundo espiritual y gastar cierta cantidad de puntos de Fuerza de Voluntad: uno para objetos pequeños (un cuchillo o un teléfono), dos para objetos mayores (una mochila o una pistola) y tres para objetos de tamaño humano (incluyendo personas). El jugador hace la tirada habitual de Gnosis para atravesar la Celosía y caminar de lado; si tiene éxito, tanto él como el objeto o persona deseados pasan a la Umbra. Un sujeto reticente puede resistirse con una tirada de Fuerza de Voluntad; cada éxito resta uno de los del Garou. Si se les deja en la Umbra durante demasiado tiempo, los seres vivos se transforman en espíritus por completo."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "danza_umbral": true
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -3655,17 +3550,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel uno",
-            "auspices_tribes": [
-              "Philodox"
-            ]
+            "rank": "Nivel uno"
           }
         },
         {
@@ -3721,56 +3613,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "auspices_tribes": [
-              "Philodox"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Philodox."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Philodox."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -3844,56 +3686,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "auspices_tribes": [
-              "Philodox"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Philodox."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Philodox."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -3912,7 +3704,8 @@
       "rank": "Nivel dos",
       "auspices_tribes": [
         "Philodox"
-      ]
+      ],
+      "level": "Nivel dos"
     },
     "sources": [
       {
@@ -3930,27 +3723,21 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel dos",
-            "auspices_tribes": [
-              "Philodox"
-            ]
+            "rank": "Nivel dos"
           }
         },
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
-          "mechanics": {
-            "level": "Nivel dos",
-            "reference": "Igual que el Don Philodox."
-          }
+          "mechanics": {}
         },
         {
           "sources": [
@@ -4030,17 +3817,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel dos",
-            "auspices_tribes": [
-              "Philodox"
-            ]
+            "rank": "Nivel dos"
           }
         },
         {
@@ -4048,8 +3832,7 @@
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
-            "rank": "Nivel dos",
-            "reference": "Como el Don Philodox."
+            "rank": "Nivel dos"
           }
         },
         {
@@ -4135,17 +3918,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel tres",
-            "auspices_tribes": [
-              "Philodox"
-            ]
+            "rank": "Nivel tres"
           }
         },
         {
@@ -4153,8 +3933,7 @@
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
-            "rank": "Nivel tres",
-            "reference": "Como el Don Philodox."
+            "rank": "Nivel tres"
           }
         },
         {
@@ -4162,8 +3941,7 @@
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
-            "rank": "Nivel tres",
-            "reference": "Como el Don Philodox."
+            "rank": "Nivel tres"
           }
         },
         {
@@ -4195,7 +3973,8 @@
       "auspices_tribes": [
         "Philodox"
       ],
-      "reference": "Como el Don Metis"
+      "reference": "Como el Don Metis",
+      "level": "Nivel uno"
     },
     "sources": [
       {
@@ -4206,32 +3985,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "auspices_tribes": [
-              "Philodox"
-            ],
-            "reference": "Como el Don Metis"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "level": "Nivel uno",
-            "reference": "Igual que el Don Galliard."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -4296,49 +4049,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "auspices_tribes": [
-              "Philodox"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "reference": "Como el Don Philodox."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp",
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "reference": "Como el Don Philodox."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -4404,17 +4114,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel cuatro",
-            "auspices_tribes": [
-              "Philodox"
-            ]
+            "rank": "Nivel cuatro"
           }
         },
         {
@@ -4529,17 +4236,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel cinco",
-            "auspices_tribes": [
-              "Philodox"
-            ]
+            "rank": "Nivel cinco"
           }
         },
         {
@@ -4613,17 +4317,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel cinco",
-            "auspices_tribes": [
-              "Philodox"
-            ]
+            "rank": "Nivel cinco"
           }
         },
         {
@@ -4703,30 +4404,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "auspices_tribes": [
-              "Galliard"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -4763,55 +4440,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "auspices_tribes": [
-              "Galliard"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Galliard."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -4878,17 +4506,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel uno",
-            "auspices_tribes": [
-              "Galliard"
-            ]
+            "rank": "Nivel uno"
           }
         },
         {
@@ -4896,8 +4521,7 @@
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Galliard."
+            "rank": "Nivel uno"
           }
         },
         {
@@ -4929,7 +4553,8 @@
       "rank": "Nivel dos",
       "auspices_tribes": [
         "Galliard"
-      ]
+      ],
+      "level": "Nivel dos"
     },
     "sources": [
       {
@@ -4940,39 +4565,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "auspices_tribes": [
-              "Galliard"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "level": "Nivel dos",
-            "reference": "Igual que el Don Galliard."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5009,47 +4601,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "auspices_tribes": [
-              "Galliard"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "reference": "Como el Don Galliard."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5115,30 +4666,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "auspices_tribes": [
-              "Galliard"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5204,30 +4731,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "auspices_tribes": [
-              "Galliard"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5257,30 +4760,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "auspices_tribes": [
-              "Galliard"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5317,17 +4796,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel tres",
-            "auspices_tribes": [
-              "Galliard"
-            ]
+            "rank": "Nivel tres"
           }
         },
         {
@@ -5335,8 +4811,7 @@
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
-            "rank": "Nivel tres",
-            "reference": "Como el Don Galliard."
+            "rank": "Nivel tres"
           }
         },
         {
@@ -5402,17 +4877,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel cuatro",
-            "auspices_tribes": [
-              "Galliard"
-            ]
+            "rank": "Nivel cuatro"
           }
         },
         {
@@ -5469,39 +4941,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "auspices_tribes": [
-              "Galliard"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "reference": "Como el Don Galliard."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5539,17 +4978,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel cuatro",
-            "auspices_tribes": [
-              "Galliard"
-            ]
+            "rank": "Nivel cuatro"
           }
         },
         {
@@ -5557,8 +4993,7 @@
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
-            "rank": "Nivel cuatro",
-            "reference": "Como el Don Galliard."
+            "rank": "Nivel cuatro"
           }
         },
         {
@@ -5607,30 +5042,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco",
-            "auspices_tribes": [
-              "Galliard"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5737,7 +5148,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -5745,11 +5156,7 @@
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel uno",
-            "auspices_tribes": [
-              "Ahroun",
-              "Fenrir"
-            ]
+            "rank": "Nivel uno"
           }
         },
         {
@@ -5757,8 +5164,7 @@
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Ahroun."
+            "rank": "Nivel uno"
           }
         },
         {
@@ -5817,7 +5223,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -5825,11 +5231,7 @@
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel uno",
-            "auspices_tribes": [
-              "Ahroun",
-              "Colmillos Plateados"
-            ]
+            "rank": "Nivel uno"
           }
         },
         {
@@ -5887,17 +5289,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel uno",
-            "auspices_tribes": [
-              "Ahroun"
-            ]
+            "rank": "Nivel uno"
           }
         },
         {
@@ -5913,8 +5312,7 @@
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Ahroun."
+            "rank": "Nivel uno"
           }
         },
         {
@@ -5963,17 +5361,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel uno",
-            "auspices_tribes": [
-              "Ahroun"
-            ]
+            "rank": "Nivel uno"
           }
         },
         {
@@ -6030,38 +5425,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "auspices_tribes": [
-              "Ahroun"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -6098,39 +5461,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "auspices_tribes": [
-              "Ahroun"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "reference": "Como el Don Ahroun."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -6167,30 +5497,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "auspices_tribes": [
-              "Ahroun"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -6227,17 +5533,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel tres",
-            "auspices_tribes": [
-              "Ahroun"
-            ]
+            "rank": "Nivel tres"
           }
         },
         {
@@ -6245,8 +5548,7 @@
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
-            "rank": "Nivel dos",
-            "reference": "Como el Don Ahroun."
+            "rank": "Nivel dos"
           }
         }
       ]
@@ -6287,17 +5589,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel tres",
-            "auspices_tribes": [
-              "Ahroun"
-            ]
+            "rank": "Nivel tres"
           }
         },
         {
@@ -6357,7 +5656,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -6365,11 +5664,7 @@
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel tres",
-            "auspices_tribes": [
-              "Ahroun",
-              "Colmillos Plateados"
-            ]
+            "rank": "Nivel tres"
           }
         },
         {
@@ -6484,30 +5779,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "auspices_tribes": [
-              "Ahroun"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -6544,17 +5815,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel cuatro",
-            "auspices_tribes": [
-              "Ahroun"
-            ]
+            "rank": "Nivel cuatro"
           }
         },
         {
@@ -6611,17 +5879,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel cinco",
-            "auspices_tribes": [
-              "Ahroun"
-            ]
+            "rank": "Nivel cinco"
           }
         },
         {
@@ -6629,8 +5894,7 @@
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
-            "rank": "Nivel cuatro",
-            "reference": "Como el Don Ahroun."
+            "rank": "Nivel cuatro"
           }
         },
         {
@@ -6679,30 +5943,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco",
-            "auspices_tribes": [
-              "Ahroun"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -6768,38 +6008,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "auspices_tribes": [
-              "Fenrir"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -6926,30 +6134,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "auspices_tribes": [
-              "Fenrir"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -7073,30 +6257,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "auspices_tribes": [
-              "Fenrir"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -7133,30 +6293,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "auspices_tribes": [
-              "Fenrir"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -7175,7 +6311,8 @@
       "rank": "Nivel cuatro",
       "auspices_tribes": [
         "Fenrir"
-      ]
+      ],
+      "level": "Nivel cuatro"
     },
     "sources": [
       {
@@ -7187,29 +6324,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "auspices_tribes": [
-              "Fenrir"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "level": "Nivel cuatro",
-            "reference": "Igual que el Don de la Camada de Fenris."
-          }
-        }
-      ]
+      "reason": "Bloque partido por la extracción PDF: una frase de 'Aguante de Heimdall' se intercaló aquí y se ha reasignado a esa entrada."
     },
     "edges": [],
     "related": []
@@ -7425,17 +6540,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel uno",
-            "auspices_tribes": [
-              "Caminantes Silenciosos"
-            ]
+            "rank": "Nivel uno"
           }
         },
         {
@@ -7724,17 +6836,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel cuatro",
-            "auspices_tribes": [
-              "Caminantes Silenciosos"
-            ]
+            "rank": "Nivel cuatro"
           }
         },
         {
@@ -7742,8 +6851,7 @@
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
-            "rank": "Nivel tres",
-            "reference": "Como el Don de los Caminantes Silenciosos."
+            "rank": "Nivel tres"
           }
         }
       ]
@@ -7785,18 +6893,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel cuatro",
-            "auspices_tribes": [
-              "Caminantes Silenciosos"
-            ],
-            "reference": "Como el Don de los Moradores pero, cuando se aprende, el Caminante debe decidir si el Don funciona en la ciudad o en plena naturaleza"
+            "rank": "Nivel cuatro"
           }
         },
         {
@@ -7812,8 +6916,7 @@
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
-            "rank": "Nivel cuatro",
-            "reference": "Como el Don de los Caminantes Silenciosos."
+            "rank": "Nivel cuatro"
           }
         },
         {
@@ -8208,30 +7311,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "auspices_tribes": [
-              "Colmillos Plateados"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -8268,38 +7347,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro",
-            "auspices_tribes": [
-              "Colmillos Plateados"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -8365,17 +7412,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "rank": "Nivel cuatro",
-            "auspices_tribes": [
-              "Colmillos Plateados"
-            ]
+            "rank": "Nivel cuatro"
           }
         },
         {
@@ -8727,7 +7771,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -8836,7 +7880,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -9201,7 +8245,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -9259,7 +8303,8 @@
       "fianna"
     ],
     "mechanics": {
-      "rank": "Nivel tres"
+      "rank": "Nivel tres",
+      "level": "Nivel tres"
     },
     "sources": [
       {
@@ -9269,28 +8314,6 @@
         "book_title_es": "W20 Aniversario Core (ES)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "level": "Nivel tres",
-            "reference": "Igual que el Don de los Fianna."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -9608,7 +8631,12 @@
       "Metis"
     ],
     "mechanics": {
-      "rank": "Nivel tres"
+      "rank": "Nivel tres",
+      "level": 3,
+      "breed_auspice": [
+        "Metis",
+        "Ahroun"
+      ]
     },
     "sources": [
       {
@@ -9625,33 +8653,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-el-libro-del-wyrm"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "level": 3,
-            "breed_auspice": [
-              "Metis",
-              "Ahroun"
-            ],
-            "referencia": "Como el Don de las Furias Negras."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -9840,7 +8841,8 @@
       "red-talons"
     ],
     "mechanics": {
-      "rank": "Nivel uno"
+      "rank": "Nivel uno",
+      "level": 2
     },
     "sources": [
       {
@@ -9858,7 +8860,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -9873,9 +8875,7 @@
             "w20-el-libro-del-wyrm"
           ],
           "mechanics": {
-            "rank": "Nivel dos",
-            "level": 2,
-            "referencia": "Como el Don de los Garras Rojas."
+            "rank": "Nivel dos"
           }
         }
       ]
@@ -9959,7 +8959,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -9974,8 +8974,7 @@
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don de los Garras Rojas."
+            "rank": "Nivel uno"
           }
         }
       ]
@@ -9995,7 +8994,11 @@
       "Galliard"
     ],
     "mechanics": {
-      "rank": "Nivel dos"
+      "rank": "Nivel dos",
+      "level": 2,
+      "breed_auspice": [
+        "Galliard"
+      ]
     },
     "sources": [
       {
@@ -10012,32 +9015,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-el-libro-del-wyrm"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "level": 2,
-            "breed_auspice": [
-              "Galliard"
-            ],
-            "referencia": "Como el Don de los Garras Rojas."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -10186,7 +9163,8 @@
       "red-talons"
     ],
     "mechanics": {
-      "rank": "Nivel cuatro"
+      "rank": "Nivel cuatro",
+      "level": "Nivel cuatro"
     },
     "sources": [
       {
@@ -10197,26 +9175,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "level": "Nivel cuatro",
-            "reference": "Igual que el Don de los Garras Rojas."
-          }
-        }
-      ]
+      "reason": "La fuente presenta dos atribuciones de espiritu maestro contradictorias: 'Un elemental de tierra ensena este Don' (en la descripcion) y 'Un espiritu lobo ensena este Don' (al final del Sistema). Artefacto de extraccion; conservada la de la descripcion."
     },
     "edges": [],
     "related": []
@@ -10465,7 +9424,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -10516,7 +9475,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -10643,7 +9602,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -10751,7 +9710,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -10850,7 +9809,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -10925,7 +9884,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -11159,7 +10118,11 @@
       "Homínido"
     ],
     "mechanics": {
-      "rank": "Nivel dos"
+      "rank": "Nivel dos",
+      "level": 2,
+      "breed_auspice": [
+        "Homínido"
+      ]
     },
     "sources": [
       {
@@ -11183,40 +10146,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-el-libro-del-wyrm"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "level": 2,
-            "breed_auspice": [
-              "Homínido"
-            ],
-            "referencia": "Como el Don de los Moradores del Cristal."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -11335,7 +10264,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -11466,7 +10395,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -11684,7 +10613,8 @@
       "bone-gnawers"
     ],
     "mechanics": {
-      "rank": "Nivel uno"
+      "rank": "Nivel uno",
+      "level": "Nivel uno"
     },
     "sources": [
       {
@@ -11702,34 +10632,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "level": "Nivel uno",
-            "reference": "Igual que el Don de los Roehuesos."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
+      "reason": "En la extraccion la etiqueta 'Sistema:' aparece desplazada y el texto del sistema quedo partido/reordenado ('...que acepte como' / 'Sistema: precio por este Don'). Reconstruido en orden logico; verificar contra la fuente."
     },
     "edges": [],
     "related": []
@@ -11914,7 +10817,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -11949,7 +10852,11 @@
       "Homínido"
     ],
     "mechanics": {
-      "rank": "Nivel tres"
+      "rank": "Nivel tres",
+      "level": 3,
+      "breed_auspice": [
+        "Homínido"
+      ]
     },
     "sources": [
       {
@@ -11966,32 +10873,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-el-libro-del-wyrm"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres",
-            "level": 3,
-            "breed_auspice": [
-              "Homínido"
-            ],
-            "referencia": "Como el Don de los Roehuesos."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -12047,7 +10928,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -12151,7 +11032,8 @@
       "bone-gnawers"
     ],
     "mechanics": {
-      "rank": "Nivel cinco"
+      "rank": "Nivel cinco",
+      "level": "Nivel cinco"
     },
     "sources": [
       {
@@ -12169,34 +11051,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "level": "Nivel cinco",
-            "reference": "Igual que el Don de los Roehuesos."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco"
-          }
-        }
-      ]
+      "reason": "En la extraccion la descripcion (bloque de 'Superviviente') y su Sistema aparecen separados y reordenados: el Sistema figura antes del encabezado de los Senores de la Sombra y la descripcion despues. Reagrupados; verificar contra la fuente."
     },
     "edges": [],
     "related": []
@@ -12253,7 +11108,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -12268,8 +11123,7 @@
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
-            "rank": "Nivel dos",
-            "reference": "Como el Don de los Señores de la Sombra."
+            "rank": "Nivel dos"
           }
         },
         {
@@ -12313,7 +11167,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -12364,7 +11218,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -12447,7 +11301,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -12462,8 +11316,7 @@
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
-            "rank": "Nivel tres",
-            "reference": "Como el Don de los Señores de la Sombra."
+            "rank": "Nivel tres"
           }
         }
       ]
@@ -12523,7 +11376,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -12919,7 +11772,8 @@
       "roll": "Fuerza + Medicina",
       "difficulty": "7",
       "cost": "un punto de Gnosis",
-      "spirit_teacher": "espíritu de dolor"
+      "spirit_teacher": "espíritu de dolor",
+      "nivel": "cuatro"
     },
     "sources": [
       {
@@ -12938,20 +11792,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: tribu",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "type_label": "Don",
-            "rank": "Nivel cuatro",
-            "tribu": "Señores de la Sombra",
-            "roll": "Fuerza + Medicina",
-            "difficulty": "7",
-            "cost": "un punto de Gnosis",
-            "spirit_teacher": "espíritu de dolor"
+            "tribu": "Señores de la Sombra"
           }
         },
         {
@@ -12959,9 +11807,7 @@
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "nivel": "cuatro",
-            "tribu": "Danzantes de la Espiral Negra",
-            "referencia": "Igual que el Don de los Señores de la Sombra"
+            "tribu": "Danzantes de la Espiral Negra"
           }
         }
       ]
@@ -13269,7 +12115,8 @@
       "roll": "Gnosis",
       "difficulty": "variable: 3 al anochecer, 6 en interiores, 9 bajo la luz más brillante del Sol",
       "cost": "un punto de Gnosis",
-      "spirit_teacher": "espíritu de noche"
+      "spirit_teacher": "espíritu de noche",
+      "nivel": "uno"
     },
     "sources": [
       {
@@ -13288,20 +12135,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: tribu",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "type_label": "Don",
-            "rank": "Nivel uno",
-            "tribu": "Uktena",
-            "roll": "Gnosis",
-            "difficulty": "variable: 3 al anochecer, 6 en interiores, 9 bajo la luz más brillante del Sol",
-            "cost": "un punto de Gnosis",
-            "spirit_teacher": "espíritu de noche"
+            "tribu": "Uktena"
           }
         },
         {
@@ -13309,9 +12150,7 @@
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "nivel": "uno",
-            "tribu": "Danzantes de la Espiral Negra",
-            "referencia": "Igual que el Don de los Uktena"
+            "tribu": "Danzantes de la Espiral Negra"
           }
         }
       ]
@@ -17302,7 +16141,14 @@
       "background_cost": "7",
       "individual_traits": "Los seguidores de Abuelo Trueno ganan un punto temporal de Honor y dos dados adicionales en cualquier tirada de Intimidación cuando invocan el nombre de Trueno.",
       "pack_traits": "Las manadas que siguen a Abuelo Trueno ganan tres puntos de Etiqueta, así como cinco puntos temporales de Fuerza de Voluntad por historia. Los Señores de la Sombra siguen sus actividades con interés.",
-      "ban": "Los hijos de Trueno no deben conceder a sus compañeros ni a sus rivales más respeto del que hayan ganado por sus acciones. Los aduladores son contrarios a la naturaleza de Trueno."
+      "ban": "Los hijos de Trueno no deben conceder a sus compañeros ni a sus rivales más respeto del que hayan ganado por sus acciones. Los aduladores son contrarios a la naturaleza de Trueno.",
+      "rol": "Tótem Tribal",
+      "tribu": "Señores de la Sombra",
+      "categoria": "Tótem de respeto",
+      "alcance": "Tótem de clan",
+      "rasgos_comunes": "Todos los miembros de un clan dedicado a Abuelo Trueno obtienen 2 dados adicionales en las tiradas de Intimidación.",
+      "rasgos_de_manada": "Abuelo Trueno puede distribuir 3 puntos de Etiqueta a las manadas de su clan.",
+      "prohibicion": "Abuelo Trueno exige que los líderes de sus clanes sean Garou de acciones en lugar de palabras. Los apoyará mientras lideren desde el frente y se ganen el respeto que exigen a sus clanes y los abandonará si se duermen en los laureles."
     },
     "sources": [
       {
@@ -17320,43 +16166,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 2 (127pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "background_cost": "7",
-            "individual_traits": "Los seguidores de Abuelo Trueno ganan un punto temporal de Honor y dos dados adicionales en cualquier tirada de Intimidación cuando invocan el nombre de Trueno.",
-            "pack_traits": "Las manadas que siguen a Abuelo Trueno ganan tres puntos de Etiqueta, así como cinco puntos temporales de Fuerza de Voluntad por historia. Los Señores de la Sombra siguen sus actividades con interés.",
-            "ban": "Los hijos de Trueno no deben conceder a sus compañeros ni a sus rivales más respeto del que hayan ganado por sus acciones. Los aduladores son contrarios a la naturaleza de Trueno."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rol": "Tótem Tribal",
-            "tribu": "Señores de la Sombra"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-2-127pp"
-          ],
-          "mechanics": {
-            "categoria": "Tótem de respeto",
-            "alcance": "Tótem de clan",
-            "rasgos_comunes": "Todos los miembros de un clan dedicado a Abuelo Trueno obtienen 2 dados adicionales en las tiradas de Intimidación.",
-            "rasgos_de_manada": "Abuelo Trueno puede distribuir 3 puntos de Etiqueta a las manadas de su clan.",
-            "prohibicion": "Abuelo Trueno exige que los líderes de sus clanes sean Garou de acciones en lugar de palabras. Los apoyará mientras lideren desde el frente y se ganen el respeto que exigen a sus clanes y los abandonará si se duermen en los laureles."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -17375,7 +16184,14 @@
       "background_cost": "5",
       "individual_traits": "Los seguidores de Halcón ganan dos puntos temporales de Honor.",
       "pack_traits": "Las manadas que siguen a Halcón obtienen tres puntos de Liderazgo, así como cuatro puntos temporales de Fuerza de Voluntad por historia.",
-      "ban": "El deshonor es peor que la muerte para Halcón: ninguno de los hijos de Halcón puede perder jamás Honor permanente. Si lo hace, debe corregir el error inmediatamente o realizar un Rito de Contrición y además expiar su deshonra lanzándose contra un poderoso esbirro del Wyrm. Por un lado, es un suicidio casi seguro. Por el otro, su sangre limpiará la mancha de su nombre, al igual que la victoria."
+      "ban": "El deshonor es peor que la muerte para Halcón: ninguno de los hijos de Halcón puede perder jamás Honor permanente. Si lo hace, debe corregir el error inmediatamente o realizar un Rito de Contrición y además expiar su deshonra lanzándose contra un poderoso esbirro del Wyrm. Por un lado, es un suicidio casi seguro. Por el otro, su sangre limpiará la mancha de su nombre, al igual que la victoria.",
+      "rol": "Tótem Tribal",
+      "tribu": "Colmillos Plateados",
+      "categoria": "Tótem de respeto",
+      "alcance": "Tótem de clan",
+      "rasgos_comunes": "Todos los hijos de Halcón obtienen el Don Verdad de Gaia cuando se invoca a Halcón.",
+      "rasgos_de_manada": "Cuando Halcón extiende su bendición al clan, puede dividir 3 puntos de Liderazgo y 4 puntos permanentes de Fuerza de Voluntad entre sus manadas.",
+      "prohibicion": "Los clanes dedicados a Halcón deben mantener una reputación honorable a ojos de los demás Garou. Si alguna vez Halcón retira su apoyo, sólo volverá al clan si los líderes de éste realizan un acto de heroísmo en su nombre… o mueren intentándolo."
     },
     "sources": [
       {
@@ -17393,43 +16209,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 2 (127pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "background_cost": "5",
-            "individual_traits": "Los seguidores de Halcón ganan dos puntos temporales de Honor.",
-            "pack_traits": "Las manadas que siguen a Halcón obtienen tres puntos de Liderazgo, así como cuatro puntos temporales de Fuerza de Voluntad por historia.",
-            "ban": "El deshonor es peor que la muerte para Halcón: ninguno de los hijos de Halcón puede perder jamás Honor permanente. Si lo hace, debe corregir el error inmediatamente o realizar un Rito de Contrición y además expiar su deshonra lanzándose contra un poderoso esbirro del Wyrm. Por un lado, es un suicidio casi seguro. Por el otro, su sangre limpiará la mancha de su nombre, al igual que la victoria."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rol": "Tótem Tribal",
-            "tribu": "Colmillos Plateados"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-2-127pp"
-          ],
-          "mechanics": {
-            "categoria": "Tótem de respeto",
-            "alcance": "Tótem de clan",
-            "rasgos_comunes": "Todos los hijos de Halcón obtienen el Don Verdad de Gaia cuando se invoca a Halcón.",
-            "rasgos_de_manada": "Cuando Halcón extiende su bendición al clan, puede dividir 3 puntos de Liderazgo y 4 puntos permanentes de Fuerza de Voluntad entre sus manadas.",
-            "prohibicion": "Los clanes dedicados a Halcón deben mantener una reputación honorable a ojos de los demás Garou. Si alguna vez Halcón retira su apoyo, sólo volverá al clan si los líderes de éste realizan un acto de heroísmo en su nombre… o mueren intentándolo."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -17448,7 +16227,9 @@
       "background_cost": "4",
       "individual_traits": "Los hijos de Pegaso ganan dos puntos temporales de Honor.",
       "pack_traits": "Las manadas de Pegaso pueden recurrir a tres puntos de Trato con Animales y tres puntos temporales de Fuerza de Voluntad por historia. Las Furias Negras están predispuestas de forma favorable hacia la manada.",
-      "ban": "Los hijos de Pegaso no pueden rechazar proporcionar ayuda a las hembras de ninguna especie, especialmente a las hembras jóvenes."
+      "ban": "Los hijos de Pegaso no pueden rechazar proporcionar ayuda a las hembras de ninguna especie, especialmente a las hembras jóvenes.",
+      "rol": "Tótem Tribal",
+      "tribu": "Furias Negras"
     },
     "sources": [
       {
@@ -17459,31 +16240,6 @@
         "book_title_es": "W20 Aniversario Core (ES)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "background_cost": "4",
-            "individual_traits": "Los hijos de Pegaso ganan dos puntos temporales de Honor.",
-            "pack_traits": "Las manadas de Pegaso pueden recurrir a tres puntos de Trato con Animales y tres puntos temporales de Fuerza de Voluntad por historia. Las Furias Negras están predispuestas de forma favorable hacia la manada.",
-            "ban": "Los hijos de Pegaso no pueden rechazar proporcionar ayuda a las hembras de ninguna especie, especialmente a las hembras jóvenes."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rol": "Tótem Tribal",
-            "tribu": "Furias Negras"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -17502,7 +16258,9 @@
       "background_cost": "6",
       "individual_traits": "Los elegidos de Venado ganan tres puntos de Honor y un punto adicional de Resistencia que sólo puede utilizarse en carreras de fondo.",
       "pack_traits": "Las manadas de Venado tienen acceso a tres puntos de Supervivencia y a tres puntos temporales de Fuerza de Voluntad por historia. Los Fianna tienen una buena disposición hacia la manada, y las hadas, espíritus y changelings también pueden honrarlos.",
-      "ban": "Los hijos de Venado no pueden rechazar ayudar a las criaturas feéricas ni a los espíritus cuando les piden ayuda. También deben respetar siempre a su presa, incluyendo realizar una Plegaria por la Presa tras cada caza con éxito."
+      "ban": "Los hijos de Venado no pueden rechazar ayudar a las criaturas feéricas ni a los espíritus cuando les piden ayuda. También deben respetar siempre a su presa, incluyendo realizar una Plegaria por la Presa tras cada caza con éxito.",
+      "rol": "Tótem Tribal",
+      "tribu": "Fianna"
     },
     "sources": [
       {
@@ -17513,31 +16271,6 @@
         "book_title_es": "W20 Aniversario Core (ES)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "background_cost": "6",
-            "individual_traits": "Los elegidos de Venado ganan tres puntos de Honor y un punto adicional de Resistencia que sólo puede utilizarse en carreras de fondo.",
-            "pack_traits": "Las manadas de Venado tienen acceso a tres puntos de Supervivencia y a tres puntos temporales de Fuerza de Voluntad por historia. Los Fianna tienen una buena disposición hacia la manada, y las hadas, espíritus y changelings también pueden honrarlos.",
-            "ban": "Los hijos de Venado no pueden rechazar ayudar a las criaturas feéricas ni a los espíritus cuando les piden ayuda. También deben respetar siempre a su presa, incluyendo realizar una Plegaria por la Presa tras cada caza con éxito."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rol": "Tótem Tribal",
-            "tribu": "Fianna"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -17585,7 +16318,9 @@
       "background_cost": "4",
       "individual_traits": "Los hijos de Grifo pueden comunicarse con las aves de presa sin el uso de un Don y obtienen dos puntos de Gloria.",
       "pack_traits": "Las manadas de Grifo ganan tres puntos de Alerta y los Garras Rojas muestran su respeto por la manada.",
-      "ban": "Los seguidores de Grifo no pueden asociarse con humanos. Grifo aún no ha aceptado a una manada que contenga a un Garou Homínido."
+      "ban": "Los seguidores de Grifo no pueden asociarse con humanos. Grifo aún no ha aceptado a una manada que contenga a un Garou Homínido.",
+      "rol": "Tótem Tribal",
+      "tribu": "Garras Rojas"
     },
     "sources": [
       {
@@ -17596,31 +16331,6 @@
         "book_title_es": "W20 Aniversario Core (ES)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "background_cost": "4",
-            "individual_traits": "Los hijos de Grifo pueden comunicarse con las aves de presa sin el uso de un Don y obtienen dos puntos de Gloria.",
-            "pack_traits": "Las manadas de Grifo ganan tres puntos de Alerta y los Garras Rojas muestran su respeto por la manada.",
-            "ban": "Los seguidores de Grifo no pueden asociarse con humanos. Grifo aún no ha aceptado a una manada que contenga a un Garou Homínido."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rol": "Tótem Tribal",
-            "tribu": "Garras Rojas"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -17668,7 +16378,13 @@
       "background_cost": "5",
       "individual_traits": "Los hijos de Oso ganan un punto de Fuerza, pueden usar el Don Roce Materno una vez al día y pueden hibernar hasta tres meses seguidos sin necesidad de comida o agua. Los Garou pierden cinco puntos temporales de Honor (si tienen tantos para perder) y ven reducidas todas sus recompensas de Honor en un punto.",
       "pack_traits": "Las manadas de Oso pueden usar tres puntos de Medicina y los hombres oso tienen buena predisposición hacia ellos.",
-      "ban": "Oso no pide ningún comportamiento específico a los Garou. Pedir su favor ya les ha costado mucho en términos de posición entre su propia gente."
+      "ban": "Oso no pide ningún comportamiento específico a los Garou. Pedir su favor ya les ha costado mucho en términos de posición entre su propia gente.",
+      "bonus_comun": "+1 Supervivencia",
+      "facetas": {
+        "Ursa Minor": "+1 Expresión, +1 Latrocinio",
+        "Ursa Major": "+1 Empatía, +1 Medicina",
+        "Mangi": "+1 Pelea, +1 Enigmas"
+      }
     },
     "sources": [
       {
@@ -17686,35 +16402,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "background_cost": "5",
-            "individual_traits": "Los hijos de Oso ganan un punto de Fuerza, pueden usar el Don Roce Materno una vez al día y pueden hibernar hasta tres meses seguidos sin necesidad de comida o agua. Los Garou pierden cinco puntos temporales de Honor (si tienen tantos para perder) y ven reducidas todas sus recompensas de Honor en un punto.",
-            "pack_traits": "Las manadas de Oso pueden usar tres puntos de Medicina y los hombres oso tienen buena predisposición hacia ellos.",
-            "ban": "Oso no pide ningún comportamiento específico a los Garou. Pedir su favor ya les ha costado mucho en términos de posición entre su propia gente."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "bonus_comun": "+1 Supervivencia",
-            "facetas": {
-              "Ursa Minor": "+1 Expresión, +1 Latrocinio",
-              "Ursa Major": "+1 Empatía, +1 Medicina",
-              "Mangi": "+1 Pelea, +1 Enigmas"
-            }
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -17733,7 +16420,14 @@
       "background_cost": "5",
       "individual_traits": "Los hijos de Rata restan uno a la dificultad de todas las tiradas para morder y de todas las dificultades de las tiradas que impliquen sigilo o silencio.",
       "pack_traits": "Las manadas de Rata pueden usar una reserva de cinco puntos temporales de Fuerza de Voluntad por historia. Los Roehuesos ayudarán a la manada y hasta los Ratkin serán, en cierta forma, tolerantes con su existencia.",
-      "ban": "Los hijos de Rata no deben matar alimañas de ninguna clase."
+      "ban": "Los hijos de Rata no deben matar alimañas de ninguna clase.",
+      "rol": "Tótem Tribal",
+      "tribu": "Roehuesos",
+      "categoria": "Tótem de guerra",
+      "alcance": "Tótem de clan",
+      "rasgos_comunes": "Los miembros de los clanes de Rata restan 1 a la dificultad de todas las tiradas de mordisco, así como de las tiradas que impliquen la habilidad Sigilo o permanecer de alguna otra forma quieto y desapercibido.",
+      "rasgos_de_manada": "Rata puede repartir 5 puntos de Fuerza de Voluntad entre las manadas de sus clanes.",
+      "prohibicion": "Los clanes dedicados a Rata no pueden hacer nada para matar o espantar a las ratas que aniden en su Túmulo."
     },
     "sources": [
       {
@@ -17751,43 +16445,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 2 (127pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "background_cost": "5",
-            "individual_traits": "Los hijos de Rata restan uno a la dificultad de todas las tiradas para morder y de todas las dificultades de las tiradas que impliquen sigilo o silencio.",
-            "pack_traits": "Las manadas de Rata pueden usar una reserva de cinco puntos temporales de Fuerza de Voluntad por historia. Los Roehuesos ayudarán a la manada y hasta los Ratkin serán, en cierta forma, tolerantes con su existencia.",
-            "ban": "Los hijos de Rata no deben matar alimañas de ninguna clase."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rol": "Tótem Tribal",
-            "tribu": "Roehuesos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-2-127pp"
-          ],
-          "mechanics": {
-            "categoria": "Tótem de guerra",
-            "alcance": "Tótem de clan",
-            "rasgos_comunes": "Los miembros de los clanes de Rata restan 1 a la dificultad de todas las tiradas de mordisco, así como de las tiradas que impliquen la habilidad Sigilo o permanecer de alguna otra forma quieto y desapercibido.",
-            "rasgos_de_manada": "Rata puede repartir 5 puntos de Fuerza de Voluntad entre las manadas de sus clanes.",
-            "prohibicion": "Los clanes dedicados a Rata no pueden hacer nada para matar o espantar a las ratas que aniden en su Túmulo."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -17836,7 +16493,9 @@
       "background_cost": "5",
       "individual_traits": "Los hijos de Búho obtienen alas cuando están en la Umbra, lo cual les permite volar de un sitio a otro. También reducen en dos la dificultad de las tiradas relacionadas con el sigilo o el silencio y ganan dos puntos temporales de Sabiduría.",
       "pack_traits": "Las manadas de Búho suelen recibir premoniciones y sueños proféticos que las llevan a lugares místicos largo tiempo olvidados. La manada obtiene tres dados para usar en Dones que impliquen aire, viajar, movimiento u oscuridad. Los Caminantes Silenciosos pueden aparecer en ayuda de la manada cuando esté en peligro, pero las manadas que siguen a Rata (y los Ratkin) no sienten aprecio por los Garou de Búho.",
-      "ban": "Los hijos de Búho deben dejar pequeños roedores atados e indefensos en el bosque para él y los suyos."
+      "ban": "Los hijos de Búho deben dejar pequeños roedores atados e indefensos en el bosque para él y los suyos.",
+      "rol": "Tótem Tribal",
+      "tribu": "Caminantes Silenciosos"
     },
     "sources": [
       {
@@ -17847,31 +16506,6 @@
         "book_title_es": "W20 Aniversario Core (ES)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "background_cost": "5",
-            "individual_traits": "Los hijos de Búho obtienen alas cuando están en la Umbra, lo cual les permite volar de un sitio a otro. También reducen en dos la dificultad de las tiradas relacionadas con el sigilo o el silencio y ganan dos puntos temporales de Sabiduría.",
-            "pack_traits": "Las manadas de Búho suelen recibir premoniciones y sueños proféticos que las llevan a lugares místicos largo tiempo olvidados. La manada obtiene tres dados para usar en Dones que impliquen aire, viajar, movimiento u oscuridad. Los Caminantes Silenciosos pueden aparecer en ayuda de la manada cuando esté en peligro, pero las manadas que siguen a Rata (y los Ratkin) no sienten aprecio por los Garou de Búho.",
-            "ban": "Los hijos de Búho deben dejar pequeños roedores atados e indefensos en el bosque para él y los suyos."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rol": "Tótem Tribal",
-            "tribu": "Caminantes Silenciosos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -17890,7 +16524,14 @@
       "background_cost": "6",
       "individual_traits": "La dificultad de todas las tiradas de los elegidos de Cucaracha relacionadas con la informática, la electricidad y la ciencia aplicada disminuye en dos. También pueden percibir los contenidos de las corrientes de datos en la Umbra, viéndolas como vídeos de YouTube o escuchándolas en una llamada de teléfono al superar una tirada de Gnosis (dificultad 6).",
       "pack_traits": "Las manadas de Cucaracha ganan tres dados que pueden usar en cualquier tirada para activar un Don que afecte a la tecnología.",
-      "ban": "Los miembros de la manada nunca deben matar a una cucaracha."
+      "ban": "Los miembros de la manada nunca deben matar a una cucaracha.",
+      "rol": "Tótem Tribal",
+      "tribu": "Moradores del Cristal",
+      "categoria": "Tótem de sabiduría",
+      "alcance": "Tótem de clan",
+      "rasgos_comunes": "Los clanes dedicados a Cucaracha restan 2 a la dificultad de todas las tiradas relacionadas con informática, electricidad y ciencias aplicadas. Tienen el poder de percibir el contenido de los flujos de datos en la Umbra, incluyendo las llamadas telefónicas y la información que viaja a través de Internet mediante una tirada de Gnosis a dificultad 6.",
+      "rasgos_de_manada": "Cuando se invoca a Cucaracha puede dividir 3 dados entre las manadas a las que bendice. Estos dados de bonificación se aplican a cualquier tirada para activar un Don que afecte a la tecnología.",
+      "prohibicion": "Los clanes dedicados a Cucaracha no pueden hacer nada para matar o espantar a las cucarachas que aniden en el Túmulo."
     },
     "sources": [
       {
@@ -17908,43 +16549,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 2 (127pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "background_cost": "6",
-            "individual_traits": "La dificultad de todas las tiradas de los elegidos de Cucaracha relacionadas con la informática, la electricidad y la ciencia aplicada disminuye en dos. También pueden percibir los contenidos de las corrientes de datos en la Umbra, viéndolas como vídeos de YouTube o escuchándolas en una llamada de teléfono al superar una tirada de Gnosis (dificultad 6).",
-            "pack_traits": "Las manadas de Cucaracha ganan tres dados que pueden usar en cualquier tirada para activar un Don que afecte a la tecnología.",
-            "ban": "Los miembros de la manada nunca deben matar a una cucaracha."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rol": "Tótem Tribal",
-            "tribu": "Moradores del Cristal"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-2-127pp"
-          ],
-          "mechanics": {
-            "categoria": "Tótem de sabiduría",
-            "alcance": "Tótem de clan",
-            "rasgos_comunes": "Los clanes dedicados a Cucaracha restan 2 a la dificultad de todas las tiradas relacionadas con informática, electricidad y ciencias aplicadas. Tienen el poder de percibir el contenido de los flujos de datos en la Umbra, incluyendo las llamadas telefónicas y la información que viaja a través de Internet mediante una tirada de Gnosis a dificultad 6.",
-            "rasgos_de_manada": "Cuando se invoca a Cucaracha puede dividir 3 dados entre las manadas a las que bendice. Estos dados de bonificación se aplican a cualquier tirada para activar un Don que afecte a la tecnología.",
-            "prohibicion": "Los clanes dedicados a Cucaracha no pueden hacer nada para matar o espantar a las cucarachas que aniden en el Túmulo."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -17963,7 +16567,8 @@
       "background_cost": "5",
       "individual_traits": "Los miembros de la manada ganan un punto temporal de Sabiduría.",
       "pack_traits": "Las manadas de Cuervo tienen tres puntos de Supervivencia, uno de Subterfugio y uno de Enigmas. Los hombres cuervo tienen una buena disposición hacia los seguidores del Tótem.",
-      "ban": "Los hijos de Cuervo no pueden portar riquezas, han de confiar en que su Tótem proveerá."
+      "ban": "Los hijos de Cuervo no pueden portar riquezas, han de confiar en que su Tótem proveerá.",
+      "boon": "Un punto gratuito de Atletismo, Enigmas y Subterfugio"
     },
     "extraction_note": "La etiqueta 'Rasgos de manada:' aparece mal ubicada en la extracción (partiendo la frase); el texto se ha recompuesto en su orden lógico.",
     "sources": [
@@ -17983,16 +16588,13 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: ban",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "background_cost": "5",
-            "individual_traits": "Los miembros de la manada ganan un punto temporal de Sabiduría.",
-            "pack_traits": "Las manadas de Cuervo tienen tres puntos de Supervivencia, uno de Subterfugio y uno de Enigmas. Los hombres cuervo tienen una buena disposición hacia los seguidores del Tótem.",
             "ban": "Los hijos de Cuervo no pueden portar riquezas, han de confiar en que su Tótem proveerá."
           }
         },
@@ -18000,16 +16602,13 @@
           "sources": [
             "w20-nsr-aniversario-parte-3-290pp"
           ],
-          "mechanics": {
-            "background_cost": "5"
-          }
+          "mechanics": {}
         },
         {
           "sources": [
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
-            "boon": "Un punto gratuito de Atletismo, Enigmas y Subterfugio",
             "ban": "Cada secreto que aprendan deben susurrarlo al aire para que Cuervo también pueda oírlo."
           }
         }
@@ -18033,7 +16632,14 @@
       "background_cost": "7",
       "individual_traits": "Los Garou de Quimera reducen en dos la dificultad de todas las tiradas relacionadas con adivinanzas, interpretación de sueños o enigmas, y ganan dos puntos temporales de Sabiduría. Además, también pueden disfrazarse como algo distinto cuando están en la Umbra mediante una tirada de Gnosis (dificultad 7).",
       "pack_traits": "Las manadas de Quimera ganan tres puntos de Enigmas y uno de Percepción.",
-      "ban": "Aunque Quimera exige que la manada busque la iluminación, no impone ninguna restricción acerca de cómo ha de hacerlo."
+      "ban": "Aunque Quimera exige que la manada busque la iluminación, no impone ninguna restricción acerca de cómo ha de hacerlo.",
+      "rol": "Tótem Tribal",
+      "tribu": "Contemplaestrellas",
+      "categoria": "Tótem de sabiduría",
+      "alcance": "Tótem de clan",
+      "rasgos_comunes": "Los clanes de Quimera restan 2 a la dificultad de todas las tiradas que impliquen acertijos, interpretar sueños y otros enigmas. Tienen el poder de disfrazarse como otras criaturas en la Umbra con una tirada de Gnosis a dificultad 7.",
+      "rasgos_de_manada": "Cuando se invoca a Quimera, ésta puede dividir 3 puntos de Enigmas y 1 de Percepción entre las manadas a las que escoja bendecir.",
+      "prohibicion": "Los clanes dedicados a Quimera deben buscar la iluminación por encima de todo."
     },
     "sources": [
       {
@@ -18051,43 +16657,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 2 (127pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "background_cost": "7",
-            "individual_traits": "Los Garou de Quimera reducen en dos la dificultad de todas las tiradas relacionadas con adivinanzas, interpretación de sueños o enigmas, y ganan dos puntos temporales de Sabiduría. Además, también pueden disfrazarse como algo distinto cuando están en la Umbra mediante una tirada de Gnosis (dificultad 7).",
-            "pack_traits": "Las manadas de Quimera ganan tres puntos de Enigmas y uno de Percepción.",
-            "ban": "Aunque Quimera exige que la manada busque la iluminación, no impone ninguna restricción acerca de cómo ha de hacerlo."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rol": "Tótem Tribal",
-            "tribu": "Contemplaestrellas"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-2-127pp"
-          ],
-          "mechanics": {
-            "categoria": "Tótem de sabiduría",
-            "alcance": "Tótem de clan",
-            "rasgos_comunes": "Los clanes de Quimera restan 2 a la dificultad de todas las tiradas que impliquen acertijos, interpretar sueños y otros enigmas. Tienen el poder de disfrazarse como otras criaturas en la Umbra con una tirada de Gnosis a dificultad 7.",
-            "rasgos_de_manada": "Cuando se invoca a Quimera, ésta puede dividir 3 puntos de Enigmas y 1 de Percepción entre las manadas a las que escoja bendecir.",
-            "prohibicion": "Los clanes dedicados a Quimera deben buscar la iluminación por encima de todo."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -18136,7 +16705,14 @@
       "background_cost": "7",
       "individual_traits": "Los hijos de Unicornio se mueven al doble de la velocidad normal en la Umbra y reducen en dos la dificultad de todas las tiradas que impliquen curación y empatía, aunque aumentan en dos la de todas las tiradas para dañar a otro Garou (excepto a los Danzantes de la Espiral Negra y otros corrompidos por el Wyrm). Los Garou de Unicornio ganan tres puntos de Sabiduría.",
       "pack_traits": "Las manadas de Unicornio ganan tres dados cuando usan Dones de curación, fuerza y protección. Los Hijos de Gaia ayudarán a la manada y, por lo general, se pondrán de su parte en las disputas.",
-      "ban": "Los hijos de Unicornio deben proteger y ayudar a los débiles y explotados siempre que al hacerlo no favorezcan al Wyrm."
+      "ban": "Los hijos de Unicornio deben proteger y ayudar a los débiles y explotados siempre que al hacerlo no favorezcan al Wyrm.",
+      "rol": "Tótem Tribal",
+      "tribu": "Hijos de Gaia",
+      "categoria": "Tótem de sabiduría",
+      "alcance": "Tótem de clan",
+      "rasgos_comunes": "Los hijos de Unicornio se mueven al doble de su velocidad normal en la Umbra. También restan 2 de la dificultad de las tiradas que impliquen sanación y empatía, pero suman 2 a la dificultad para dañar a otros Garou (salvo a los Danzantes de la Espiral Negra y otros manchados por el Wyrm).",
+      "rasgos_de_manada": "Unicornio puede repartir 3 dados entre las manadas de sus clanes. Esta bonificación se aplica a los Dones de sanación, fuerza y protección.",
+      "prohibicion": "Los clanes dedicados a Unicornio deben ayudar a los débiles y explotados, aunque deben evitar ayudar accidentalmente al Wyrm cuando lo hacen."
     },
     "extraction_note": "La etiqueta 'Prohibición:' aparece mal ubicada en la extracción (partiendo la frase); el texto de la Prohibición se ha recompuesto en su orden lógico.",
     "sources": [
@@ -18155,43 +16731,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 2 (127pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "background_cost": "7",
-            "individual_traits": "Los hijos de Unicornio se mueven al doble de la velocidad normal en la Umbra y reducen en dos la dificultad de todas las tiradas que impliquen curación y empatía, aunque aumentan en dos la de todas las tiradas para dañar a otro Garou (excepto a los Danzantes de la Espiral Negra y otros corrompidos por el Wyrm). Los Garou de Unicornio ganan tres puntos de Sabiduría.",
-            "pack_traits": "Las manadas de Unicornio ganan tres dados cuando usan Dones de curación, fuerza y protección. Los Hijos de Gaia ayudarán a la manada y, por lo general, se pondrán de su parte en las disputas.",
-            "ban": "Los hijos de Unicornio deben proteger y ayudar a los débiles y explotados siempre que al hacerlo no favorezcan al Wyrm."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rol": "Tótem Tribal",
-            "tribu": "Hijos de Gaia"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-2-127pp"
-          ],
-          "mechanics": {
-            "categoria": "Tótem de sabiduría",
-            "alcance": "Tótem de clan",
-            "rasgos_comunes": "Los hijos de Unicornio se mueven al doble de su velocidad normal en la Umbra. También restan 2 de la dificultad de las tiradas que impliquen sanación y empatía, pero suman 2 a la dificultad para dañar a otros Garou (salvo a los Danzantes de la Espiral Negra y otros manchados por el Wyrm).",
-            "rasgos_de_manada": "Unicornio puede repartir 3 dados entre las manadas de sus clanes. Esta bonificación se aplica a los Dones de sanación, fuerza y protección.",
-            "prohibicion": "Los clanes dedicados a Unicornio deben ayudar a los débiles y explotados, aunque deben evitar ayudar accidentalmente al Wyrm cuando lo hacen."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -18273,7 +16812,10 @@
       "coste_trasfondo": "7",
       "rasgos_individuales": "Cada miembro de la manada gana un punto de Manipulación, pero resta uno de cualquier recompensa de Honor temporal.",
       "rasgos_de_manada": "Las manadas de Zorro pueden usar dos puntos de Sigilo, dos de Callejeo y tres de Subterfugio.",
-      "prohibicion": "Los hijos de Zorro nunca pueden participar en una caza de zorros y deben sabotear cualquier cacería que encuentren."
+      "prohibicion": "Los hijos de Zorro nunca pueden participar en una caza de zorros y deben sabotear cualquier cacería que encuentren.",
+      "categoria": "Tótem de astucia",
+      "alcance": "Tótem de clan",
+      "rasgos_comunes": "Cuando se invoca a Zorro, éste concede a todos sus hijos 1 punto de Manipulación."
     },
     "sources": [
       {
@@ -18292,17 +16834,15 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: prohibicion, rasgos_de_manada",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
           "mechanics": {
-            "coste_trasfondo": "7",
-            "rasgos_individuales": "Cada miembro de la manada gana un punto de Manipulación, pero resta uno de cualquier recompensa de Honor temporal.",
-            "rasgos_de_manada": "Las manadas de Zorro pueden usar dos puntos de Sigilo, dos de Callejeo y tres de Subterfugio.",
-            "prohibicion": "Los hijos de Zorro nunca pueden participar en una caza de zorros y deben sabotear cualquier cacería que encuentren."
+            "prohibicion": "Los hijos de Zorro nunca pueden participar en una caza de zorros y deben sabotear cualquier cacería que encuentren.",
+            "rasgos_de_manada": "Las manadas de Zorro pueden usar dos puntos de Sigilo, dos de Callejeo y tres de Subterfugio."
           }
         },
         {
@@ -18310,11 +16850,8 @@
             "w20-nsr-aniversario-parte-2-127pp"
           ],
           "mechanics": {
-            "categoria": "Tótem de astucia",
-            "alcance": "Tótem de clan",
-            "rasgos_comunes": "Cuando se invoca a Zorro, éste concede a todos sus hijos 1 punto de Manipulación.",
-            "rasgos_de_manada": "Zorro puede repartir 2 puntos de Sigilo, Callejeo y Subterfugio entre las manadas de sus clanes.",
-            "prohibicion": "Los clanes deben conceder santuario a los zorros salvajes, permitiendo que corran libres por el boun."
+            "prohibicion": "Los clanes deben conceder santuario a los zorros salvajes, permitiendo que corran libres por el boun.",
+            "rasgos_de_manada": "Zorro puede repartir 2 puntos de Sigilo, Callejeo y Subterfugio entre las manadas de sus clanes."
           }
         }
       ]
@@ -19006,7 +17543,10 @@
       "level": null,
       "roll": null,
       "difficulty": null,
-      "notes": "El origen no indica rango/nivel ni sistema de tirada; sólo describe la función del Rito de forma narrativa (los Corax lo usan para engendrar hijos; el huevo eclosiona en la edad adulta y transforma al joven en Corax). Es el Rito propio de los Corax que el Rito del Ala Rota perverte."
+      "notes": "El origen no indica rango/nivel ni sistema de tirada; sólo describe la función del Rito de forma narrativa (los Corax lo usan para engendrar hijos; el huevo eclosiona en la edad adulta y transforma al joven en Corax). Es el Rito propio de los Corax que el Rito del Ala Rota perverte.",
+      "rank": "Nivel dos",
+      "rite_type": "Rito místico",
+      "system": "Este Rito sólo puede realizarse en la Umbra y requiere un testigo de la Raza opuesta a la del Corax 'progenitor'. El Corax pasa tres horas y gasta tres puntos de Gnosis permanente para crear el huevo espiritual y después otra hora para vincularlo al alma deseada. Si el Rito es interrumpido en cualquier parte del proceso, se pierde la Gnosis y el Rito falla."
     },
     "related": [],
     "sources": [
@@ -19031,32 +17571,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-el-libro-del-wyrm"
-          ],
-          "mechanics": {
-            "level": null,
-            "roll": null,
-            "difficulty": null,
-            "notes": "El origen no indica rango/nivel ni sistema de tirada; sólo describe la función del Rito de forma narrativa (los Corax lo usan para engendrar hijos; el huevo eclosiona en la edad adulta y transforma al joven en Corax). Es el Rito propio de los Corax que el Rito del Ala Rota perverte."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos",
-            "rite_type": "Rito místico",
-            "system": "Este Rito sólo puede realizarse en la Umbra y requiere un testigo de la Raza opuesta a la del Corax 'progenitor'. El Corax pasa tres horas y gasta tres puntos de Gnosis permanente para crear el huevo espiritual y después otra hora para vincularlo al alma deseada. Si el Rito es interrumpido en cualquier parte del proceso, se pierde la Gnosis y el Rito falla."
-          }
-        }
-      ]
-    },
     "edges": []
   },
   {
@@ -19080,6 +17594,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -19176,6 +17691,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -19681,7 +18197,15 @@
       "requirement_es": "las pieles de cinco Garou",
       "effect_es": "Rito diseñado para que la Parentela se convirtiese en hombre lobo.",
       "character_creation_es": "El personaje debe comprar el requisito de cinco puntos en el Conocimiento Rituales y otros cinco en el Trasfondo Ritos para representar su conocimiento del Rito del Sagrado Renacimiento.",
-      "note": "Este fragmento sólo aporta descripción narrativa del Rito (nombre, función y requisito material). No incluye bloque de sistema formal: sin nivel de Rito, tirada ni dificultad."
+      "note": "Este fragmento sólo aporta descripción narrativa del Rito (nombre, función y requisito material). No incluye bloque de sistema formal: sin nivel de Rito, tirada ni dificultad.",
+      "nivel": "Nivel cinco",
+      "reserva_de_dados": "Astucia + Rituales",
+      "dificultad": "9",
+      "exitos_requeridos": "un éxito",
+      "type": "rite",
+      "requisito": "El aspirante a Danzante de la Piel debe obtener todas las pieles que necesite bajo la misma fase lunar",
+      "uso_variante": "Puede usarse con pieles de Danzantes de la Espiral Negra como herramienta de guerra",
+      "nota_extraccion": "En este fragmento no se especifican el Nivel del Rito, el tipo (Rito Mistico/de Caedes/etc.), la reserva de dados ni la dificultad; solo se describe su función y requisitos narrativos"
     },
     "notes": "section_anchor procede de la cabecera de sección más cercana, que aparece ilegible/cifrada por la extracción del PDF (texto '7BODaBKWVLODRIIL'). La subsección 'Los Danzantes de la Piel' no conserva su propia cabecera en el Markdown extraído.",
     "sources": [
@@ -19700,44 +18224,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "requirement_es": "las pieles de cinco Garou",
-            "effect_es": "Rito diseñado para que la Parentela se convirtiese en hombre lobo.",
-            "character_creation_es": "El personaje debe comprar el requisito de cinco puntos en el Conocimiento Rituales y otros cinco en el Trasfondo Ritos para representar su conocimiento del Rito del Sagrado Renacimiento.",
-            "note": "Este fragmento sólo aporta descripción narrativa del Rito (nombre, función y requisito material). No incluye bloque de sistema formal: sin nivel de Rito, tirada ni dificultad."
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "nivel": "Nivel cinco",
-            "reserva_de_dados": "Astucia + Rituales",
-            "dificultad": "9",
-            "exitos_requeridos": "un éxito"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-1-59pp"
-          ],
-          "mechanics": {
-            "type": "rite",
-            "requisito": "El aspirante a Danzante de la Piel debe obtener todas las pieles que necesite bajo la misma fase lunar",
-            "uso_variante": "Puede usarse con pieles de Danzantes de la Espiral Negra como herramienta de guerra",
-            "nota_extraccion": "En este fragmento no se especifican el Nivel del Rito, el tipo (Rito Mistico/de Caedes/etc.), la reserva de dados ni la dificultad; solo se describe su función y requisitos narrativos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -19754,7 +18240,16 @@
     "mechanics": {
       "coste_de_trasfondo": "6",
       "rasgos": "Concede acceso a espíritus que enseñan Dones de nivel tres o inferior (a coste de fuera de Tribu); un punto de Resistencia y uno de Supervivencia adicionales",
-      "prohibicion": "Dañar y asesinar a cualquier hijo de Pegaso con el que se encuentren; nunca dejar vivir en paz a una Furia Negra u otro hombre lobo que siga a Pegaso"
+      "prohibicion": "Dañar y asesinar a cualquier hijo de Pegaso con el que se encuentren; nunca dejar vivir en paz a una Furia Negra u otro hombre lobo que siga a Pegaso",
+      "type": "totem",
+      "rol": "Tótem patrón ('tribal') de los Danzantes de la Piel",
+      "estado": "Corrompido/encadenado por el Wyrm mediante hebras de corrupción; recibe un dado de penalización a todas las acciones debido a los enloquecedores grilletes del Wyrm",
+      "combate": [
+        "Cada vez que Minotauro falle un ataque, su ira hace que se manifieste otra intrusión que amenaza a un personaje jugador al azar",
+        "Hebras de corrupción: objetivos difíciles, requieren una tirada de ataque con dificultad 9; cada una tiene cuatro dados de absorción y cuatro niveles de Salud; cortar las cinco pone fin a la lucha y Minotauro cae de rodillas delirante y exhausto"
+      ],
+      "negociacion": "Pasar una tirada de Manipulación + Expresión (dificultad 10) hace que se calme durante un turno; esto reduce la dificultad de cortar las hebras de corrupción a 7 durante ese turno",
+      "purificacion": "Un Rito de Purificación revertirá el estado de corrupción una vez cortadas las hebras (mantendrá en su pecho el retazo de ira que lo hizo vulnerable)"
     },
     "sources": [
       {
@@ -19771,37 +18266,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 1 (59pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "coste_de_trasfondo": "6",
-            "rasgos": "Concede acceso a espíritus que enseñan Dones de nivel tres o inferior (a coste de fuera de Tribu); un punto de Resistencia y uno de Supervivencia adicionales",
-            "prohibicion": "Dañar y asesinar a cualquier hijo de Pegaso con el que se encuentren; nunca dejar vivir en paz a una Furia Negra u otro hombre lobo que siga a Pegaso"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-1-59pp"
-          ],
-          "mechanics": {
-            "type": "totem",
-            "rol": "Tótem patrón ('tribal') de los Danzantes de la Piel",
-            "estado": "Corrompido/encadenado por el Wyrm mediante hebras de corrupción; recibe un dado de penalización a todas las acciones debido a los enloquecedores grilletes del Wyrm",
-            "combate": [
-              "Cada vez que Minotauro falle un ataque, su ira hace que se manifieste otra intrusión que amenaza a un personaje jugador al azar",
-              "Hebras de corrupción: objetivos difíciles, requieren una tirada de ataque con dificultad 9; cada una tiene cuatro dados de absorción y cuatro niveles de Salud; cortar las cinco pone fin a la lucha y Minotauro cae de rodillas delirante y exhausto"
-            ],
-            "negociacion": "Pasar una tirada de Manipulación + Expresión (dificultad 10) hace que se calme durante un turno; esto reduce la dificultad de cortar las hebras de corrupción a 7 durante ese turno",
-            "purificacion": "Un Rito de Purificación revertirá el estado de corrupción una vez cortadas las hebras (mantendrá en su pecho el retazo de ira que lo hizo vulnerable)"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -21944,16 +20408,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-el-libro-del-wyrm"
           ],
           "mechanics": {
-            "rank": "Nivel dos",
-            "level": 2,
-            "referencia": "Como el Don de las Furias Negras Arrodillarse."
+            "rank": "Nivel dos"
           }
         },
         {
@@ -21961,8 +20423,7 @@
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don de las Furias Negras Arrodillarse."
+            "rank": "Nivel uno"
           }
         }
       ]
@@ -22896,7 +21357,21 @@
       "coste_de_trasfondo": "4",
       "rasgos_individuales": "Los hijos de Garrapata obtienen un dado de absorción adicional contra el daño contundente.",
       "rasgos_de_manada": "Las manadas de Garrapata pueden usar tres puntos de Supervivencia y dos de Fuerza de Voluntad por historia.",
-      "prohibicion": "Garrapata requiere un diezmo de sangre regular. Su manada debe ofrecerle una cantidad de sangre (suya o de otros) equivalente a un nivel de Salud por cada miembro de la manada más o menos una vez por semana (la noche exacta de la Luna nueva, la media o la llena). Además, no permite que sus hijos Garou maten o extraigan garrapatas que ya se hayan adherido a un huésped y se estén alimentando de él."
+      "prohibicion": "Garrapata requiere un diezmo de sangre regular. Su manada debe ofrecerle una cantidad de sangre (suya o de otros) equivalente a un nivel de Salud por cada miembro de la manada más o menos una vez por semana (la noche exacta de la Luna nueva, la media o la llena). Además, no permite que sus hijos Garou maten o extraigan garrapatas que ya se hayan adherido a un huésped y se estén alimentando de él.",
+      "type": "totem",
+      "rol": "Tótem de astucia; aspirante a Tótem tribal de los Danzantes de la Piel",
+      "poderes_usados": [
+        "Terremoto Umbral",
+        "Rabia"
+      ],
+      "esencia": [
+        "Cruzar una línea rociada con mezcla de vinagre y queroseno: pierde 10 puntos de Esencia cada vez que la cruce (hasta que el suelo viviente la absorba dos turnos después)",
+        "Vinagre/queroseno usado como componente en un Rito: añade dos dados a la reserva de dados pertinente",
+        "Beber de un vaso sanguíneo de su guarida: restaura 15 puntos de Esencia, pero pierde un dado de su reserva el siguiente turno por embriaguez",
+        "Engañada para beber vinagre o queroseno: pierde 15 puntos de Esencia y dos dados de todas sus reservas durante dos turnos",
+        "Si su Esencia baja a 10 o menos, se rinde rápidamente"
+      ],
+      "persuasion_social": "Acción extendida; requiere acumular 20 éxitos para que abandone sus planes. Dificultad base 8 (tiradas de credibilidad, charlatanería, oratoria, interpretación). Intimidarla es dificultad 9. Argumentos que apelan a su 'elevado interés propio' o persuadirla sutilmente del peligro: -1 a la dificultad. Adularla con éxito en Astucia + Etiqueta: -1 a la dificultad; con fallo: +1 a la dificultad."
     },
     "sources": [
       {
@@ -22907,44 +21382,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-1-59pp"
-          ],
-          "mechanics": {
-            "categoria": "Tótem de astucia",
-            "coste_de_trasfondo": "4",
-            "rasgos_individuales": "Los hijos de Garrapata obtienen un dado de absorción adicional contra el daño contundente.",
-            "rasgos_de_manada": "Las manadas de Garrapata pueden usar tres puntos de Supervivencia y dos de Fuerza de Voluntad por historia.",
-            "prohibicion": "Garrapata requiere un diezmo de sangre regular. Su manada debe ofrecerle una cantidad de sangre (suya o de otros) equivalente a un nivel de Salud por cada miembro de la manada más o menos una vez por semana (la noche exacta de la Luna nueva, la media o la llena). Además, no permite que sus hijos Garou maten o extraigan garrapatas que ya se hayan adherido a un huésped y se estén alimentando de él."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-1-59pp"
-          ],
-          "mechanics": {
-            "type": "totem",
-            "rol": "Tótem de astucia; aspirante a Tótem tribal de los Danzantes de la Piel",
-            "poderes_usados": [
-              "Terremoto Umbral",
-              "Rabia"
-            ],
-            "esencia": [
-              "Cruzar una línea rociada con mezcla de vinagre y queroseno: pierde 10 puntos de Esencia cada vez que la cruce (hasta que el suelo viviente la absorba dos turnos después)",
-              "Vinagre/queroseno usado como componente en un Rito: añade dos dados a la reserva de dados pertinente",
-              "Beber de un vaso sanguíneo de su guarida: restaura 15 puntos de Esencia, pero pierde un dado de su reserva el siguiente turno por embriaguez",
-              "Engañada para beber vinagre o queroseno: pierde 15 puntos de Esencia y dos dados de todas sus reservas durante dos turnos",
-              "Si su Esencia baja a 10 o menos, se rinde rápidamente"
-            ],
-            "persuasion_social": "Acción extendida; requiere acumular 20 éxitos para que abandone sus planes. Dificultad base 8 (tiradas de credibilidad, charlatanería, oratoria, interpretación). Intimidarla es dificultad 9. Argumentos que apelan a su 'elevado interés propio' o persuadirla sutilmente del peligro: -1 a la dificultad. Adularla con éxito en Astucia + Etiqueta: -1 a la dificultad; con fallo: +1 a la dificultad."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -23058,7 +21495,8 @@
       "rite_type": "místico",
       "descriptor": "Rito místico, nivel tres",
       "roll": "Percepción + Rituales",
-      "difficulty": "según la distancia: 5 (<800 km) / 6 (800-1600 km) / 7 (1601-3200 km) / 8 (3201-4800 km) / 9 (>4800 km)"
+      "difficulty": "según la distancia: 5 (<800 km) / 6 (800-1600 km) / 7 (1601-3200 km) / 8 (3201-4800 km) / 9 (>4800 km)",
+      "note": "Rito exclusivo del Túmulo de Tullu Demtu; la fuente narrativa no indica nivel, tirada ni sistema mecánico."
     },
     "sources": [
       {
@@ -23070,32 +21508,6 @@
       }
     ],
     "related": [],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-2-127pp"
-          ],
-          "mechanics": {
-            "level": "3",
-            "rite_type": "místico",
-            "descriptor": "Rito místico, nivel tres",
-            "roll": "Percepción + Rituales",
-            "difficulty": "según la distancia: 5 (<800 km) / 6 (800-1600 km) / 7 (1601-3200 km) / 8 (3201-4800 km) / 9 (>4800 km)"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-2-127pp"
-          ],
-          "mechanics": {
-            "rank": null,
-            "note": "Rito exclusivo del Túmulo de Tullu Demtu; la fuente narrativa no indica nivel, tirada ni sistema mecánico."
-          }
-        }
-      ]
-    },
     "edges": []
   },
   {
@@ -25551,15 +23963,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
-            "rank": "Nivel tres",
-            "reference": "Como el Don de los Uktena."
+            "rank": "Nivel tres"
           }
         },
         {
@@ -26764,15 +25175,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
-            "rank": "Nivel dos",
-            "reference": "Como el Don Galliard."
+            "rank": "Nivel dos"
           }
         },
         {
@@ -26780,8 +25190,7 @@
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
-            "rank": "Nivel dos",
-            "reference": "Como el Don Galliard."
+            "rank": "Nivel dos"
           }
         },
         {
@@ -27011,15 +25420,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
-            "rank": "Nivel tres",
-            "reference": "Como el Don de los Fianna."
+            "rank": "Nivel tres"
           }
         },
         {
@@ -27692,15 +26100,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
-            "rank": "Nivel cuatro",
-            "reference": "Como el Don Philodox, salvo que afecta a todos los animales en 90 metros (300 pies) a la redonda."
+            "rank": "Nivel cuatro"
           }
         },
         {
@@ -31515,15 +29922,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
-            "rank": "Nivel uno",
-            "reference": "Como el Don Theurge."
+            "rank": "Nivel uno"
           }
         },
         {
@@ -33104,7 +31510,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -33516,7 +31922,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -33616,7 +32022,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -33768,7 +32174,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -40738,7 +39144,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: rank",
       "conflicts": [
         {
           "sources": [
@@ -40914,7 +39320,9 @@
     ],
     "mechanics": {
       "level": null,
-      "note": "Mecánicamente idéntico al Rito del Tótem; la fuente no especifica un nivel numérico."
+      "note": "Mecánicamente idéntico al Rito del Tótem; la fuente no especifica un nivel numérico.",
+      "rite_type": "Rito místico",
+      "roll": "no requiere tirada"
     },
     "sources": [
       {
@@ -40925,31 +39333,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "level": null,
-            "note": "Mecánicamente idéntico al Rito del Tótem; la fuente no especifica un nivel numérico."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "level": "Nivel tres",
-            "rite_type": "Rito místico",
-            "roll": "no requiere tirada",
-            "reference": "Idéntico al Rito del Tótem (H20, pág. 212), salvo que no se entra en la Umbra."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },

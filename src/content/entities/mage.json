@@ -179,6 +179,7 @@
         "book_title_es": "Forbidden and Forgotten Orders - M20"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -201,6 +202,7 @@
         "book_title_es": "Forbidden and Forgotten Orders - M20"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -4000,7 +4002,8 @@
       "spheres": [
         "Tiempo •••••"
       ],
-      "notes": "Requiere haber establecido un Punto de Anclaje para regresar. Se aplican todas las reglas anteriores de perturbación temporal."
+      "notes": "Requiere haber establecido un Punto de Anclaje para regresar. Se aplican todas las reglas anteriores de perturbación temporal.",
+      "effect": "Viajar en el tiempo*"
     },
     "sources": [
       {
@@ -4019,7 +4022,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: spheres",
       "conflicts": [
         {
           "sources": [
@@ -4028,8 +4031,7 @@
           "mechanics": {
             "spheres": [
               "Tiempo 5"
-            ],
-            "notes": "Requiere haber establecido un Punto de Anclaje para regresar. Se aplican todas las reglas anteriores de perturbación temporal."
+            ]
           }
         },
         {
@@ -4037,7 +4039,6 @@
             "m20-core-rulebook-es"
           ],
           "mechanics": {
-            "effect": "Viajar en el tiempo*",
             "spheres": "Tiempo 5"
           }
         }
@@ -4626,7 +4627,8 @@
       "spheres": [
         "Mente ••• + Fuerzas •• o superior"
       ],
-      "notes": "Capacidad de peso según tabla Fuerzas y peso (pág. 49). Tirada de Fuerza de Voluntad además de la de Areté; regla opcional: gastar 1 punto temporal de Fuerza de Voluntad para objetivos grandes/pesados. A menudo vulgar."
+      "notes": "Capacidad de peso según tabla Fuerzas y peso (pág. 49). Tirada de Fuerza de Voluntad además de la de Areté; regla opcional: gastar 1 punto temporal de Fuerza de Voluntad para objetivos grandes/pesados. A menudo vulgar.",
+      "effect": "Telequinesis"
     },
     "sources": [
       {
@@ -4645,7 +4647,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: spheres",
       "conflicts": [
         {
           "sources": [
@@ -4654,8 +4656,7 @@
           "mechanics": {
             "spheres": [
               "Mente 3 + Fuerzas 2 o superior"
-            ],
-            "notes": "Capacidad de peso según tabla Fuerzas y peso (pág. 49). Tirada de Fuerza de Voluntad además de la de Areté; regla opcional: gastar 1 punto temporal de Fuerza de Voluntad para objetivos grandes/pesados. A menudo vulgar."
+            ]
           }
         },
         {
@@ -4663,7 +4664,6 @@
             "m20-core-rulebook-es"
           ],
           "mechanics": {
-            "effect": "Telequinesis",
             "spheres": "Fuerzas 2+"
           }
         }
@@ -5602,6 +5602,7 @@
         "book_title_es": "M20 Como Haces Eso (ES)"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -5624,6 +5625,7 @@
         "book_title_es": "M20 Como Haces Eso (ES)"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -5646,6 +5648,7 @@
         "book_title_es": "M20 Como Haces Eso (ES)"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -5668,6 +5671,7 @@
         "book_title_es": "M20 Como Haces Eso (ES)"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -5690,6 +5694,7 @@
         "book_title_es": "M20 Como Haces Eso (ES)"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -5757,6 +5762,7 @@
         "book_title_es": "M20 Como Haces Eso (ES)"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -5779,6 +5785,7 @@
         "book_title_es": "M20 Como Haces Eso (ES)"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -5801,6 +5808,7 @@
         "book_title_es": "M20 Como Haces Eso (ES)"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -5823,6 +5831,7 @@
         "book_title_es": "M20 Como Haces Eso (ES)"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -7309,7 +7318,10 @@
     "mechanics": {
       "tipo": "Resonancia Elemental",
       "referencia": "pág. 25 (reglas de Resonancia y Silencio en Mago 20)",
-      "notas": "Aspecto emparejado con el Morbo (fascinación del Silencio, Mago 20 pág. 558); un mago que emplea necrosíntesis recibe automáticamente 1 punto en Jhor (o Sinergia Entrópica)"
+      "notas": "Aspecto emparejado con el Morbo (fascinación del Silencio, Mago 20 pág. 558); un mago que emplea necrosíntesis recibe automáticamente 1 punto en Jhor (o Sinergia Entrópica)",
+      "resonance_flavor": "muerte",
+      "trigger": "trabajar con las energías del Inframundo",
+      "resonance_type": "Resonancia de muerte"
     },
     "related": [],
     "sources": [
@@ -7328,26 +7340,19 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: note",
       "conflicts": [
         {
           "sources": [
             "m20-como-haces-eso-es"
           ],
-          "mechanics": {
-            "tipo": "Resonancia Elemental",
-            "referencia": "pág. 25 (reglas de Resonancia y Silencio en Mago 20)",
-            "notas": "Aspecto emparejado con el Morbo (fascinación del Silencio, Mago 20 pág. 558); un mago que emplea necrosíntesis recibe automáticamente 1 punto en Jhor (o Sinergia Entrópica)"
-          }
+          "mechanics": {}
         },
         {
           "sources": [
             "m20-core-rulebook-es"
           ],
           "mechanics": {
-            "resonance_flavor": "muerte",
-            "trigger": "trabajar con las energías del Inframundo",
-            "trait_rating": null,
             "note": "En este pasaje el Jhor sólo se menciona brevemente como excepción histórica al carácter opcional de la Resonancia; no se da valor numérico de Rasgo aquí. Las reglas completas se remiten a Cap. Dos (pág. 57-58), Cap. Seis (pág. 333) y Cap. Diez (pág. 503, 560-561)."
           }
         },
@@ -7355,10 +7360,7 @@
           "sources": [
             "m20-core-rulebook-es"
           ],
-          "mechanics": {
-            "resonance_type": "Resonancia de muerte",
-            "cross_reference": "Capítulo Diez, pág. 560-561"
-          }
+          "mechanics": {}
         },
         {
           "sources": [
@@ -7386,7 +7388,8 @@
       "matriz"
     ],
     "mechanics": {
-      "spheres": "Cardinal •••"
+      "spheres": "Cardinal •••",
+      "effect": "Usar Periapto"
     },
     "sources": [
       {
@@ -7405,7 +7408,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: spheres",
       "conflicts": [
         {
           "sources": [
@@ -7420,7 +7423,6 @@
             "m20-core-rulebook-es"
           ],
           "mechanics": {
-            "effect": "Usar Periapto",
             "spheres": "Cardinal 2; o Correspondencia 2 / Cardinal 2 (valor de Avatar para usarlo de forma refleja)"
           }
         }
@@ -8522,7 +8524,8 @@
         "Seis o más": "Teletransporte totalmente a ciegas"
       },
       "recognition": "Correspondencia 1 o 2 + Inteligencia + Consciencia (dificultad 6)",
-      "vulgar": true
+      "vulgar": true,
+      "effect": "Teleportación"
     },
     "sources": [
       {
@@ -8541,24 +8544,14 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: spheres",
       "conflicts": [
         {
           "sources": [
             "m20-como-haces-eso-es"
           ],
           "mechanics": {
-            "spheres": "Correspondencia 3 (caminar entre localizaciones)",
-            "range_table": {
-              "Uno": "A la vista",
-              "Dos": "Lugar muy familiar (hogar, sanctum)",
-              "Tres": "Familiar / visto recientemente / posee profundos datos informáticos",
-              "Cuatro": "Visitado brevemente / posee dirección IP / ve el lugar en línea",
-              "Cinco": "Oído o leído una descripción / posee datos de coordenadas",
-              "Seis o más": "Teletransporte totalmente a ciegas"
-            },
-            "recognition": "Correspondencia 1 o 2 + Inteligencia + Consciencia (dificultad 6)",
-            "vulgar": true
+            "spheres": "Correspondencia 3 (caminar entre localizaciones)"
           }
         },
         {
@@ -8566,7 +8559,6 @@
             "m20-core-rulebook-es"
           ],
           "mechanics": {
-            "effect": "Teleportación",
             "spheres": "Correspondencia 3 (4)"
           }
         }
@@ -10025,7 +10017,8 @@
     "body_es": "Las  creencias  fuertes  son  esenciales  para  un  mago.  Sin embargo, las tuyas son más fuertes de lo habitual. Tienes fe en un poder externo que puedes canalizar para realizar hazañas milagrosas que sobrepasan la simple Magia.\n\nEn términos de juego, tu personaje posee un punto de Fe Verdadera, una fuerza potente en el Mundo de Tinieblas que refleja devoción en un dios o un panteón. A pesar de la asociación habitual entre fe y cristianismo, tu personaje puede pertenecer a cualquier credo sincero con un código moral establecido y un legado histórico (lo sentimos, pero la Fe Verdadera en sátiras posmodernas como el Monstruo de Espagueti Volador no cuentan). Un Tecnócrata también puede tener Fe, aunque sea algo bastante inusual (ver Fe Tecnocrática, Capítulo Cinco, pág. 184) . Incluso los Merodeadores y los Nefandos pueden poseer Fe Verdadera, aunque la versión de los Caídos de este Mérito le da la vuelta a",
     "tags": [],
     "mechanics": {
-      "cost": "7"
+      "cost": "7",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -10046,28 +10039,6 @@
     "related": [
       "vampire/fe-verdadera"
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "cost": "7"
-          }
-        },
-        {
-          "sources": [
-            "m20-libro-de-los-secretos"
-          ],
-          "mechanics": {
-            "cost": "7",
-            "category": "sobrenatural"
-          }
-        }
-      ]
-    },
     "edges": [
       {
         "target": "vampire/fe-verdadera",
@@ -11335,7 +11306,19 @@
     ],
     "mechanics": {
       "habilidad_minima": "al menos un punto en Artes Marciales (o Do) por cada punto en la mayor Esfera empleada mediante las técnicas de artes marciales",
-      "referencia": "Práctica: La forma del foco, Capítulo Diez, pág. 574-575"
+      "referencia": "Práctica: La forma del foco, Capítulo Diez, pág. 574-575",
+      "paradigmas_asociados": [
+        "La Creación Es Divina y Está Viva",
+        "Un Mundo de Dioses y Monstruos",
+        "Orden Divino y Caos Terrenal",
+        "El Poder Da la Razón",
+        "La Tecnología Tiene Todas las Respuestas",
+        "Todo Es Caos",
+        "Todo Es una Ilusión, una Prisión o un Error",
+        "Traer de Vuelta la Edad Dorada"
+      ],
+      "habilidades_asociadas": "Acrobacias, Alerta, Artes Marciales, Atletismo, Consciencia, Esoterismo, Etiqueta, Intimidación, Medicina, Meditación, Pelea con Armas",
+      "instrumentos_comunes": "Armas, danzas y movimiento, energía, ejercicio físico, hierbas, meditación, ordalías y esfuerzos, símbolos, varas y varitas, voz"
     },
     "sources": [
       {
@@ -11377,39 +11360,6 @@
         ]
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "habilidad_minima": "al menos un punto en Artes Marciales (o Do) por cada punto en la mayor Esfera empleada mediante las técnicas de artes marciales",
-            "referencia": "Práctica: La forma del foco, Capítulo Diez, pág. 574-575"
-          }
-        },
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "paradigmas_asociados": [
-              "La Creación Es Divina y Está Viva",
-              "Un Mundo de Dioses y Monstruos",
-              "Orden Divino y Caos Terrenal",
-              "El Poder Da la Razón",
-              "La Tecnología Tiene Todas las Respuestas",
-              "Todo Es Caos",
-              "Todo Es una Ilusión, una Prisión o un Error",
-              "Traer de Vuelta la Edad Dorada"
-            ],
-            "habilidades_asociadas": "Acrobacias, Alerta, Artes Marciales, Atletismo, Consciencia, Esoterismo, Etiqueta, Intimidación, Medicina, Meditación, Pelea con Armas",
-            "instrumentos_comunes": "Armas, danzas y movimiento, energía, ejercicio físico, hierbas, meditación, ordalías y esfuerzos, símbolos, varas y varitas, voz"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -15835,7 +15785,8 @@
     ],
     "mechanics": {
       "effect": "Anular Paradoja",
-      "spheres": "Cardinal •••••"
+      "spheres": "Cardinal •••••",
+      "sphere_value_raw": "Utilidad Primordial 5"
     },
     "sources": [
       {
@@ -15853,14 +15804,13 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: spheres",
       "conflicts": [
         {
           "sources": [
             "m20-core-rulebook-es"
           ],
           "mechanics": {
-            "effect": "Anular Paradoja",
             "spheres": "Cardinal 5"
           }
         },
@@ -15874,8 +15824,7 @@
                 "sphere": "Utilidad Primordial",
                 "rating": 5
               }
-            ],
-            "sphere_value_raw": "Utilidad Primordial 5"
+            ]
           }
         }
       ]
@@ -16441,6 +16390,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -16470,6 +16420,7 @@
         "book_title_es": "M20 Technocracy Reloaded"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -16506,6 +16457,7 @@
         "section_anchor": "supervisor-elizabeth-betsy-horne"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -16529,6 +16481,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -16552,6 +16505,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -16575,6 +16529,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -16598,6 +16553,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -16621,6 +16577,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -16658,6 +16615,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -16683,6 +16641,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -16708,6 +16667,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -16733,6 +16693,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -16758,6 +16719,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [
       {
         "target": "vampire/temperamental",
@@ -16791,6 +16753,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -16816,6 +16779,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -16841,6 +16805,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -17941,6 +17906,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18012,6 +17978,7 @@
       }
     ],
     "extraction_note": "El texto de esta entrada aparece partido en el origen por el recuadro 'Administración y recursos humanos'; aquí se ha reunido en orden de lectura (bloques 139 + 176-178).",
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18117,6 +18084,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18141,6 +18109,7 @@
       }
     ],
     "extraction_note": "El texto de esta entrada aparece partido en el origen por el recuadro 'Búsquedas de visión'; aquí se ha reunido en orden de lectura (bloques 196 + 211-215).",
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18171,6 +18140,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18194,6 +18164,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18230,6 +18201,7 @@
         "section_anchor": "supervisor-elizabeth-betsy-horne"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18253,6 +18225,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18276,6 +18249,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18312,6 +18286,7 @@
         "section_anchor": "supervisor-elizabeth-betsy-horne"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18348,6 +18323,7 @@
         "section_anchor": "agent-beth-deuce"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18384,6 +18360,7 @@
         "section_anchor": "supervisor-elizabeth-betsy-horne"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18420,6 +18397,7 @@
         "section_anchor": "agent-beth-deuce"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18443,6 +18421,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18473,6 +18452,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18496,6 +18476,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18558,6 +18539,7 @@
         "section_anchor": "supervisor-elizabeth-betsy-horne"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18588,6 +18570,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18611,6 +18594,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18634,6 +18618,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18664,6 +18649,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18687,6 +18673,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18710,6 +18697,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18740,6 +18728,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18770,6 +18759,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18800,6 +18790,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18823,6 +18814,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18853,6 +18845,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18876,6 +18869,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18912,6 +18906,7 @@
         "section_anchor": "supervisor-elizabeth-betsy-horne"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18948,6 +18943,7 @@
         "section_anchor": "supervisor-elizabeth-betsy-horne"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -18985,6 +18981,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -19008,6 +19005,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -19064,6 +19062,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -19094,6 +19093,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -19117,6 +19117,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -19147,6 +19148,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -19183,6 +19185,7 @@
         "section_anchor": "supervisor-elizabeth-betsy-horne"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -19213,6 +19216,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -19236,6 +19240,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -19266,6 +19271,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -19289,6 +19295,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -19319,6 +19326,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -19349,6 +19357,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -19385,6 +19394,7 @@
         "section_anchor": "supervisor-elizabeth-betsy-horne"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -19408,6 +19418,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -19438,6 +19449,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -19461,6 +19473,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -20632,6 +20645,7 @@
         "book_title_es": "M20 Core Rulebook (ES)"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -20662,6 +20676,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -20790,6 +20805,7 @@
         "book_title_es": "M20 Core Rulebook (ES)"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -20812,6 +20828,7 @@
         "book_title_es": "M20 Core Rulebook (ES)"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -20834,6 +20851,7 @@
         "book_title_es": "M20 Core Rulebook (ES)"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -20869,6 +20887,7 @@
         "section_anchor": "agent-beth-deuce"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -20898,6 +20917,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -20959,6 +20979,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -20977,6 +20998,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -21031,6 +21053,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -21103,6 +21126,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -21121,6 +21145,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -21139,6 +21164,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -21169,6 +21195,7 @@
         "section_anchor": "agent-beth-deuce"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -21187,6 +21214,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -21205,6 +21233,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -21235,6 +21264,7 @@
         "section_anchor": "agent-beth-deuce"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -21253,6 +21283,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -21271,6 +21302,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -21289,6 +21321,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -21307,6 +21340,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -21325,6 +21359,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -21343,6 +21378,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -21361,6 +21397,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -21379,6 +21416,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -21397,6 +21435,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -21415,6 +21454,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -21445,6 +21485,7 @@
         "section_anchor": "supervisor-elizabeth-betsy-horne"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -21463,6 +21504,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -21481,6 +21523,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -21499,6 +21542,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -21517,6 +21561,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -30233,6 +30278,7 @@
         "book_title_es": "M20 Lore of the Traditions"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -30256,6 +30302,7 @@
         "book_title_es": "M20 Lore of the Traditions"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -30278,6 +30325,7 @@
         "book_title_es": "M20 Lore of the Traditions"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -30301,6 +30349,7 @@
         "book_title_es": "M20 Lore of the Traditions"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -30471,6 +30520,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": []
   },
   {
@@ -30494,6 +30544,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -30518,6 +30569,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -34272,6 +34324,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -34296,6 +34349,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -34320,6 +34374,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -34344,6 +34399,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -34368,6 +34424,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -34392,6 +34449,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -34416,6 +34474,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -34440,6 +34499,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -34464,6 +34524,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -34488,6 +34549,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -34511,6 +34573,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -34534,6 +34597,7 @@
         "variant": "base"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -37733,6 +37797,7 @@
         "section_anchor": "supervisor-elizabeth-betsy-horne"
       }
     ],
+    "mechanics": {},
     "edges": []
   },
   {
@@ -37756,6 +37821,7 @@
         "section_anchor": "agent-beth-deuce"
       }
     ],
+    "mechanics": {},
     "edges": []
   },
   {
@@ -37778,6 +37844,7 @@
         "section_anchor": "supervisor-elizabeth-betsy-horne"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -37801,6 +37868,7 @@
         "section_anchor": "agent-beth-deuce"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -37824,6 +37892,7 @@
         "section_anchor": "agent-beth-deuce"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -39843,6 +39912,7 @@
         "section_anchor": "todo-tiene-un-valor"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -39864,6 +39934,7 @@
         "section_anchor": "mas-es-mas"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -39885,6 +39956,7 @@
         "section_anchor": "filantropia-en-todas-las-cosas"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -39909,6 +39981,7 @@
         "section_anchor": "el-poder-gotea-hacia-abajo"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -40039,6 +40112,7 @@
         "section_anchor": "artefactos-y-antiguedades"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -40060,6 +40134,7 @@
         "section_anchor": "contratos"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -40081,6 +40156,7 @@
         "section_anchor": "criptomoneda"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -40102,6 +40178,7 @@
         "section_anchor": "empleados"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -40123,6 +40200,7 @@
         "section_anchor": "gobiernos"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -40144,6 +40222,7 @@
         "section_anchor": "mercados"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -40165,6 +40244,7 @@
         "section_anchor": "medios-fisicos"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -40186,6 +40266,7 @@
         "section_anchor": "metales-preciosos"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -40207,6 +40288,7 @@
         "section_anchor": "terreno-sagrado"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   },
@@ -40228,6 +40310,7 @@
         "section_anchor": "redes-sociales"
       }
     ],
+    "mechanics": {},
     "edges": [],
     "related": []
   }

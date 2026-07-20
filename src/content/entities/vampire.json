@@ -7985,15 +7985,15 @@
     ],
     "related": [],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: discipline, level",
       "conflicts": [
         {
           "sources": [
             "v20-core-rulebook-es"
           ],
           "mechanics": {
-            "level": 3,
-            "discipline": "Podredumbre de la Tumba"
+            "discipline": "Podredumbre de la Tumba",
+            "level": 3
           }
         },
         {
@@ -8001,8 +8001,8 @@
             "v20-core-rulebook-es"
           ],
           "mechanics": {
-            "level": 4,
-            "discipline": "Tanatosis"
+            "discipline": "Tanatosis",
+            "level": 4
           }
         }
       ]
@@ -9617,15 +9617,15 @@
     ],
     "related": [],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: discipline, level",
       "conflicts": [
         {
           "sources": [
             "v20-core-rulebook-es"
           ],
           "mechanics": {
-            "level": 4,
-            "discipline": "Quimerismo"
+            "discipline": "Quimerismo",
+            "level": 4
           }
         },
         {
@@ -9633,8 +9633,8 @@
             "v20-core-rulebook-es"
           ],
           "mechanics": {
-            "level": 2,
-            "discipline": "Senda de la Conjuración"
+            "discipline": "Senda de la Conjuración",
+            "level": 2
           }
         }
       ]
@@ -13301,14 +13301,13 @@
     ],
     "related": [],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: discipline",
       "conflicts": [
         {
           "sources": [
             "v20-core-rulebook-es"
           ],
           "mechanics": {
-            "level": 1,
             "discipline": "Obeah"
           }
         },
@@ -13317,7 +13316,6 @@
             "v20-core-rulebook-es"
           ],
           "mechanics": {
-            "level": 1,
             "discipline": "Valeren"
           }
         }
@@ -13351,14 +13349,13 @@
     ],
     "related": [],
     "review": {
-      "reason": "mechanics differ across sources",
+      "reason": "mechanics differ across sources: discipline",
       "conflicts": [
         {
           "sources": [
             "v20-core-rulebook-es"
           ],
           "mechanics": {
-            "level": 2,
             "discipline": "Obeah"
           }
         },
@@ -13367,7 +13364,6 @@
             "v20-core-rulebook-es"
           ],
           "mechanics": {
-            "level": 2,
             "discipline": "Valeren"
           }
         }
