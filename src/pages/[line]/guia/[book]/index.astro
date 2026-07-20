@@ -5,6 +5,7 @@ import Layout from '../../../../layouts/Layout.astro';
 import Breadcrumb from '../../../../components/Breadcrumb.astro';
 import { lineUrl } from '../../../../lib/entities';
 import { lineInfo } from '../../../../lib/lines';
+import '../../../../styles/reading.css';
 
 export async function getStaticPaths() {
   const books = await getCollection('guideBooks');
@@ -30,7 +31,8 @@ const base = `/${line}/guia/${book}`;
     ]}
   />
 
-  <article class="book-landing">
+  <article class="book-landing reading-body">
+    <p class="kicker">Guía de lectura</p>
     <h1>{data.title_es}</h1>
     <p class="lead">{data.book_title_es} — {data.page_count} secciones de lectura.</p>
 

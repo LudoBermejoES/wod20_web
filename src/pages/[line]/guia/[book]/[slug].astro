@@ -25,6 +25,14 @@ const info = lineInfo(line)!;
 const { page, book: bookMeta } = Astro.props as Props;
 const base = `/${line}/guia/${book}`;
 const isFiction = page.content_type === 'fiction';
+const isReference = ['reference', 'glossary'].includes(page.content_type);
+// Structural kicker (BLOQUE · CAPÍTULO) above every title — the "unambiguous at a
+// glance" cue; fiction gets its own label.
+const kicker = isFiction
+  ? 'Ficción'
+  : [page.block_title, page.chapter && page.chapter !== '—' ? page.chapter : null]
+      .filter(Boolean)
+      .join(' · ');
 ---
 
 <Layout title={`${page.title} — ${bookMeta.book_title_es}`} theme={line}>
@@ -51,9 +59,12 @@ const isFiction = page.content_type === 'fiction';
         ]}
       />
 
-      <article class={`prose reading-body${isFiction ? ' is-fiction' : ''}`} data-content-type={page.content_type}>
+      <article
+        class={`prose reading-body${isFiction ? ' is-fiction' : ''}${isReference ? ' is-reference' : ''}`}
+        data-content-type={page.content_type}
+      >
         <header class="page-head">
-          {isFiction && <p class="kicker">Ficción</p>}
+          {kicker && <p class="kicker">{kicker}</p>}
           <h1>{page.title}</h1>
         </header>
 
