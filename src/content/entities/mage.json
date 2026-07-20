@@ -886,8 +886,16 @@
         "book_title_es": "Forbidden and Forgotten Orders - M20"
       }
     ],
-    "edges": [],
-    "related": []
+    "edges": [
+      {
+        "target": "changeling/augury",
+        "type": "cross-line",
+        "via": "id:augury"
+      }
+    ],
+    "related": [
+      "changeling/augury"
+    ]
   },
   {
     "id": "cleromancy",
@@ -1013,7 +1021,9 @@
       "clan": "Yoruba",
       "affinity_sphere": "Espíritu"
     },
-    "related": [],
+    "related": [
+      "werewolf/possession"
+    ],
     "sources": [
       {
         "book_id": "forbidden-and-forgotten-orders-m20",
@@ -1022,7 +1032,13 @@
         "book_title_es": "Forbidden and Forgotten Orders - M20"
       }
     ],
-    "edges": []
+    "edges": [
+      {
+        "target": "werewolf/possession",
+        "type": "cross-line",
+        "via": "id:possession"
+      }
+    ]
   },
   {
     "id": "basic-complex-and-sublime-transmutation",
@@ -5462,8 +5478,16 @@
         "book_title_es": "M20 Como Haces Eso (ES)"
       }
     ],
-    "edges": [],
-    "related": []
+    "edges": [
+      {
+        "target": "werewolf/exorcism",
+        "type": "cross-line",
+        "via": "id:exorcism"
+      }
+    ],
+    "related": [
+      "werewolf/exorcism"
+    ]
   },
   {
     "id": "sleep-spells",
@@ -5786,12 +5810,6 @@
         {
           "sources": [
             "m20-core-rulebook-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
           ],
           "mechanics": {}
         },
@@ -11170,8 +11188,16 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": [
+      "changeling/backup"
+    ],
+    "edges": [
+      {
+        "target": "changeling/backup",
+        "type": "cross-line",
+        "via": "id:backup"
+      }
+    ]
   },
   {
     "id": "sanctum-laboratorio",
@@ -11424,12 +11450,6 @@
             "habilidades_asociadas": "Acrobacias, Alerta, Artes Marciales, Atletismo, Consciencia, Esoterismo, Etiqueta, Intimidación, Medicina, Meditación, Pelea con Armas",
             "instrumentos_comunes": "Armas, danzas y movimiento, energía, ejercicio físico, hierbas, meditación, ordalías y esfuerzos, símbolos, varas y varitas, voz"
           }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
         },
         {
           "sources": [
@@ -12841,8 +12861,16 @@
         "variant": "base"
       }
     ],
-    "edges": [],
-    "related": []
+    "edges": [
+      {
+        "target": "werewolf/command-spirit",
+        "type": "cross-line",
+        "via": "id:command-spirit"
+      }
+    ],
+    "related": [
+      "werewolf/command-spirit"
+    ]
   },
   {
     "id": "awaken-object-spirit",
@@ -16913,35 +16941,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "paradigmas_asociados": [
-              "Un Cosmos Mecánico",
-              "La Creación Es Divina y Está Viva",
-              "Orden Divino y Caos Terrenal",
-              "El Poder Da la Razón",
-              "La Tecnología Tiene Todas las Respuestas",
-              "Todo Es Datos",
-              "Traer de Vuelta la Edad Dorada"
-            ],
-            "habilidades_asociadas": "Arte, Artesanía, Ciencias (Química), Criptografía, Enigmas, Esoterismo, Farmacopea, Medicina",
-            "instrumentos_comunes": "Diseños, dispositivos, drogas, fórmulas, laboratorios, libros, pócimas y pociones"
-          }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -17014,12 +17013,6 @@
             "habilidades_asociadas": "Academicismo, Artesanía, Cosmología, Documentación, Esoterismo, Expresión, Investigación. Liderazgo, Meditación, Ocultismo, Sistemas de Creencias",
             "instrumentos_comunes": "Alineamientos celestiales, armas (espadas y cuchillos), círculos y diseños, computadoras (para los hechiceros modernos), contacto visual, copas y recipientes, dominación social, elementos, escritura e inscripciones, formas de pensamiento, gemas, gestos, lenguas (latín, sánscrito, mandarín, griego, etc.), libros, meditación, moda, nombres verdaderos, números y numerología, ofrendas y sacrificios, plegarias e invocaciones, símbolos, varas y varitas"
           }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
         },
         {
           "sources": [
@@ -17182,12 +17175,6 @@
         },
         {
           "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
             "m20-stv-m-charles-supplement-104pp"
           ],
           "mechanics": {}
@@ -17292,12 +17279,6 @@
         },
         {
           "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
             "m20-stv-m-charles-supplement-104pp"
           ],
           "mechanics": {}
@@ -17346,34 +17327,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "paradigmas_asociados": [
-              "La Creación Es Divina y Está Viva",
-              "Un Mundo de Dioses y Monstruos",
-              "Orden Divino y Caos Terrenal",
-              "Todo Es una Ilusión, una Prisión o un Error",
-              "Todo Está Bien: ¡Ten Fe!",
-              "Traer de Vuelta la Edad Dorada"
-            ],
-            "habilidades_asociadas": "Alerta, Arte, Callejeo, Cosmología, Enigmas, Esoterismo, Expresión, Farmacopea, Medicina, Sueño Lúcido, Supervivencia",
-            "instrumentos_comunes": "Armas, computadoras, danzas, drogas y brebajes, elementos, formas de pensamiento, herramientas domésticas, hierbas, huesos y restos mortales, juguetes, nombres verdaderos, ofrendas y sacrificios, ordalías, sangre y fluidos corporales, sexo y sensualidad, voz"
-          }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -17416,34 +17369,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "paradigmas_asociados": [
-              "Un Cosmos Mecánico",
-              "El Poder Da la Razón",
-              "La Tecnología Tiene Todas las Respuestas",
-              "Todo Es Datos",
-              "Todo Es una Ilusión, una Prisión o un Error",
-              "Viaje Sólo de Ida al Olvido"
-            ],
-            "habilidades_asociadas": "Academicismo, Armas de Energía, Artesanía, Biotecnología, Ciencias, Hipertecnología, Informática, Medios de Comunicación, Política, Tecnología",
-            "instrumentos_comunes": "Armas, artilugios e invenciones, computadoras y equipo informático, dispositivos y máquinas, escritura e inscripciones, interfaz cerebro-computadora, laboratorios, lenguas, libros, medios de comunicación de masas, nanotecnología, números y numerología"
-          }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -17517,12 +17442,6 @@
         },
         {
           "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
             "m20-stv-m-charles-supplement-104pp"
           ],
           "mechanics": {}
@@ -17573,36 +17492,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "paradigmas_asociados": [
-              "Un Cosmos Mecánico",
-              "Un Mundo de Dioses y Monstruos",
-              "Orden Divino y Caos Terrenal",
-              "El Poder Da la Razón",
-              "La Tecnología Tiene Todas las Respuestas",
-              "Todo Es Caos",
-              "Traer de Vuelta la Edad Dorada",
-              "Viaje Sólo de Ida al Olvido"
-            ],
-            "habilidades_asociadas": "Academicismo (Historia, Psicología), Arte, Empatía, Expresión, Intimidación, Liderazgo, Medios de Comunicación, Política, Seducción, Sistemas de Creencias, Tecnología",
-            "instrumentos_comunes": "Arte, contacto visual, dominación social, formas de pensamiento, interfaz cerebro-computadora, lenguas, medios de comunicación de masas, moda, música, ritos grupales, símbolos, trucos e ilusiones, voz"
-          }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -17675,12 +17564,6 @@
         {
           "sources": [
             "m20-core-rulebook-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
           ],
           "mechanics": {}
         },
@@ -17772,12 +17655,6 @@
         },
         {
           "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
             "m20-the-operative-dossier",
             "m20-the-operative-dossier"
           ],
@@ -17864,12 +17741,6 @@
         },
         {
           "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
             "m20-technocracy-reloaded"
           ],
           "mechanics": {
@@ -17935,34 +17806,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "paradigmas_asociados": [
-              "La Creación Es Divina y Está Viva",
-              "Un Mundo de Dioses y Monstruos",
-              "Orden Divino y Caos Terrenal",
-              "El Poder Da la Razón",
-              "Todo Es Caos",
-              "Todo Es una Ilusión, una Prisión o un Error",
-              "Todo Está Bien: ¡Ten Fe!",
-              "Viaje Sólo de Ida al Olvido"
-            ],
-            "habilidades_asociadas": "Afinidad Animal (Ratas, Gatos, Cuervos, etc.), Armas de Fuego, Arte, Artesanía, Callejeo, Conocimiento Regional, Expresión, Farmacopea, Intimidación, Supervivencia (Urbana), Tecnología",
-            "instrumentos_comunes": "Armas, contacto visual, danzas, drogas y venenos, herramientas domésticas, hierbas y plantas, huesos y restos mortales, moda, música, naipes y dados, obras de arte, ofrendas y sacrificios, sangre y fluidos, trucos e ilusiones, vehículos"
-          }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
-        }
-      ]
+      "reason": "Instrumentos comunes list was split in source by an interrupting '## Sendas de las Manos Izquierda y Derecha' heading; the tail ('y restos mortales ... vehículos') was reattached here."
     },
     "edges": [],
     "related": []
@@ -18008,36 +17852,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "paradigmas_asociados": [
-              "Un Cosmos Mecánico",
-              "La Creación Es Divina y Está Viva",
-              "Un Mundo de Dioses y Monstruos",
-              "Orden Divino y Caos Terrenal",
-              "El Poder Da la Razón",
-              "Todo Es Caos",
-              "Todo Es una Ilusión, una Prisión o un Error",
-              "Viaje Sólo de Ida al Olvido"
-            ],
-            "habilidades_asociadas": "Alternar, Arte, Callejeo, Consciencia, Esoterismo, Expresión, Farmacopea, Informática, Meditación, Sueño Lúcido, Tecnología",
-            "instrumentos_comunes": "Cualquier cosa que funcione, siempre que no sea demasiado estable ni restrictiva"
-          }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -18081,35 +17895,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "paradigmas_asociados": [
-              "Un Mundo de Dioses y Monstruos",
-              "Orden Divino y Caos Terrenal",
-              "El Poder Da la Razón",
-              "Todo Es Caos",
-              "Todo Es una Ilusión, una Prisión o un Error",
-              "Traer de Vuelta la Edad Dorada",
-              "Viaje Sólo de Ida al Olvido"
-            ],
-            "habilidades_asociadas": "Cosmología, Enigmas, Esoterismo, Expresión, Farmacopea, Intimidación, Ocultismo, Pelea con Armas, Seducción, Tortura",
-            "instrumentos_comunes": "Armas, círculos y diseños, contacto visual, copas y recipientes, drogas y venenos, ejercicio físico, elementos, gemas y objetos de valor, huesos y restos mortales (a menudo frescos), maldiciones, música, obras de arte, ofrendas y sacrificios, plegarias e invocaciones, ritos grupales, sangre y fluidos corporales, sexo (normalmente no consentido), voz"
-          }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -18186,12 +17971,6 @@
         },
         {
           "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
             "m20-the-operative-dossier"
           ],
           "mechanics": {}
@@ -18241,35 +18020,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "paradigmas_asociados": [
-              "La Creación Es Divina y Está Viva",
-              "Un Mundo de Dioses y Monstruos",
-              "Orden Divino y Caos Terrenal",
-              "Todo Es Caos",
-              "Todo Es una Ilusión, una Prisión o un Error",
-              "Todo Está Bien: ¡Ten Fe!",
-              "Viaje Sólo de Ida al Olvido"
-            ],
-            "habilidades_asociadas": "Arte, Alternar, Atletismo, Esoterismo, Farmacopea, Meditación, Sueño Lúcido, Supervivencia",
-            "instrumentos_comunes": "Danzas, dominación social, drogas, formas de pensamiento, huesos y restos mortales, interfaz cerebro-computadora, juguetes, trucos e ilusiones, música, ordalías, sangre y fluidos corporales, sexo y sensualidad, voz"
-          }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -18313,35 +18063,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "paradigmas_asociados": [
-              "La Creación Es Divina y Está Viva",
-              "Un Mundo de Dioses y Monstruos",
-              "Orden Divino y Caos Terrenal",
-              "El Poder Da la Razón",
-              "Todo Es una Ilusión, una Prisión o un Error",
-              "Traer de Vuelta la Edad Dorada",
-              "Viaje Sólo de Ida al Olvido"
-            ],
-            "habilidades_asociadas": "Alternar, Arte, Artesanía, Atletismo, Callejeo, Consciencia, Empatía, Intimidación, Medicina, Meditación, Sistemas de Creencias, Sueño Lúcido",
-            "instrumentos_comunes": "Armas, bendiciones y maldiciones, cartas y dados, copas y recipientes, contacto visual, danzas y movimiento, drogas y venenos, elementos, encrucijadas, escritura, hierbas, herramientas domésticas, huesos y restos mortales, lenguas, meditación, moda, música, nombres verdaderos, nudos y cuerdas, obras de arte ( vévés ), ofrendas y sacrificios, plegarias e invocaciones, ritos grupales, sangre, sexo y sensualidad, símbolos, varas y varitas, voz"
-          }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -18387,37 +18108,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "paradigmas_asociados": [
-              "Un Cosmos Mecánico",
-              "La Creación Es Divina y Está Viva",
-              "Un Mundo de Dioses y Monstruos",
-              "Orden Divino y Caos Terrenal",
-              "El Poder Da la Razón",
-              "La Tecnología Tiene Todas las Respuestas",
-              "Todo Es una Ilusión, una Prisión o un Error",
-              "Todo Está Bien: ¡Ten Fe!",
-              "Traer de Vuelta la Edad Dorada"
-            ],
-            "habilidades_asociadas": "Atletismo, Consciencia, Enigmas, Esoterismo, Expresión, Medicina, Meditación, Supervivencia",
-            "instrumentos_comunes": "Círculos y diseños, danzas y movimiento, ejercicio físico, energía, escritura e inscripciones, formas de pensamiento, lenguas (sánscrito), meditación, música, ordalías, plegarias, sexo y sensualidad, símbolos, voz (mantras, el Om )"
-          }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -18619,25 +18309,6 @@
     "mechanics": {
       "nota": "Debe crearse o modificarse con Esferas. Un punto de Quintaesencia imbuido con Cardinal 2 o superior puede hacerla resistente al daño agravado."
     },
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "nota": "Debe crearse o modificarse con Esferas. Un punto de Quintaesencia imbuido con Cardinal 2 o superior puede hacerla resistente al daño agravado."
-          }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -18734,12 +18405,6 @@
         },
         {
           "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
             "m20-the-operative-dossier"
           ],
           "mechanics": {}
@@ -18796,12 +18461,6 @@
           "mechanics": {
             "nota": "En términos de juego, las bendiciones y las maldiciones suelen ser coincidentes."
           }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
         },
         {
           "sources": [
@@ -19245,25 +18904,6 @@
     ],
     "mechanics": {
       "nota": "Para magos con la Esfera Cardinal, focaliza la Magia basada en la Quintaesencia."
-    },
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "nota": "Para magos con la Esfera Cardinal, focaliza la Magia basada en la Quintaesencia."
-          }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
-        }
-      ]
     },
     "edges": [],
     "related": []
@@ -19777,25 +19417,6 @@
     "mechanics": {
       "modificador_dificultad": "-2 a las dificultades de lanzamiento (actúa como instrumento personal único) para quien posea el Nombre Verdadero de un objetivo"
     },
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "modificador_dificultad": "-2 a las dificultades de lanzamiento (actúa como instrumento personal único) para quien posea el Nombre Verdadero de un objetivo"
-          }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -20302,29 +19923,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "spheres": "Vida ··· , Fuerzas ·· , o ambas; quizás con Entropía ·· y/o Cardinal ··"
-          }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {
-            "category": "Ajuste Iluminado",
-            "spheres": "Vida 3 y/o Fuerzas 2, Entropía 2 (op), Cardinal 2 (op)",
-            "notes": "Las Esferas marcadas con (op) son optativas para realizar el Efecto."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -20358,29 +19956,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "spheres": "Mente ··· / Datos ··· ; a menudo con Fuerzas · , Vida · , Materia · , Cardinal · , Ciencia Dimensional ·· , o cualquier combinación de éstas"
-          }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {
-            "category": "Ajuste Iluminado",
-            "spheres": "Mente / Datos 3, Fuerzas 1 (op), Vida 1 (op), Materia 1 (op), Cardinal 1(op), Ciencia Dimensional 2 (op)",
-            "notes": "Las Esferas marcadas con (op) son optativas para realizar el Efecto."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -20414,29 +19989,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "spheres": "Mente ···· ; quizás con Entropía ··"
-          }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {
-            "category": "Ajuste Iluminado",
-            "spheres": "Mente 4, Entropía 2 (op)",
-            "notes": "Las Esferas marcadas con (op) son optativas para realizar el Efecto."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -20496,29 +20048,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "spheres": "Mente ·· o ··· / Fuerzas · / Materia · ; quizás con Fuerzas ···"
-          }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {
-            "category": "Procedimiento Tecnocrático",
-            "spheres": "Mente 2 o 3, Fuerzas 1, Materia 1; Fuerzas 3 (op)",
-            "notes": "Las Esferas marcadas con (op) son optativas para realizar el Efecto."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -20712,29 +20241,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "spheres": "Mente ··· o ···· / Datos ·· / Fuerzas ·· quizás con Espíritu en vez de Datos ··",
-            "notas_extraccion": "La fuente aclara que 'en sentido estricto no se trata de una fórmula'; se cataloga como Efecto/disciplina de Esferas. Tras el encabezado la extracción dejó un ';' suelto (artefacto), sin afectar al bloque de Esferas."
-          }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {
-            "category": "Hechizo místico / fórmula tradicional",
-            "spheres": "Mente 3 o 4, Datos o Espíritu 2, Fuerzas 2"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -20796,30 +20302,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "spheres": "Entropía ···· , Vida ··· / Tiempo ··· , o las tres; normalmente con Correspondencia o Datos",
-            "variante_hombre-tic-tac": "Variante con Datos que envejece a la víctima a distancia (Datos/Correspondencia + Tiempo + Vida)."
-          }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {
-            "category": "Hechizo místico / fórmula tradicional",
-            "spheres": "Entropía 4 y/o Vida 3 y/o Tiempo 3, Correspondencia / Datos (op)",
-            "notes": "Las Esferas marcadas con (op) son optativas para realizar el Efecto."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -20947,32 +20429,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "wonder_type": "Baratija",
-            "rank": "···",
-            "stat_line": "Areté N/A, Quintaesencia N/A, 6 puntos de Trasfondo",
-            "arete": "N/A",
-            "quintessence": "N/A",
-            "background_cost": "6 puntos de Trasfondo"
-          }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {
-            "category": "Baratija (Maravilla mística)"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -21494,33 +20950,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "wonder_type": "Fetiche / Talismán",
-            "rank": "·····",
-            "stat_line": "Areté 7, Quintaesencia N/A, 10 puntos de Trasfondo (por caja de cinco)",
-            "arete": "7",
-            "quintessence": "N/A",
-            "background_cost": "10 puntos de Trasfondo (por caja de cinco)"
-          }
-        },
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {
-            "category": "Ciencia extraña (Maravilla)",
-            "rank": null
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -21659,8 +21088,16 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": [
+      "werewolf/balance"
+    ],
+    "edges": [
+      {
+        "target": "werewolf/balance",
+        "type": "cross-line",
+        "via": "id:balance"
+      }
+    ]
   },
   {
     "id": "gnosticism",
@@ -21927,8 +21364,19 @@
     "id": "everything-is-data",
     "type": "paradigm",
     "line": "mage",
-    "name_en": "Everything is Data",
-    "name_es": "Todo Es Datos",
+    "name_en": "Everything Is Data",
+    "name_es": "Todo es Datos",
+    "body_es": "Muchos Estadísticos sostienen la creencia de que Todo es Datos, aunque hay más matices que eso. Sí, la Realidad es una simulación construida, y si conoces el código, puedes hacer cambios, pero entre los Iteradores existe la creencia subyacente de que el código sin una máquina son simplemente líneas sin sentido. El código le dice a la máquina qué hacer, cómo actuar, y dónde y cuándo realizar ciertas funciones, y si conoces el código puedes predecir a la perfección las acciones de la máquina.",
+    "tags": [
+      "technocracy",
+      "iteracion-x",
+      "estadisticos",
+      "focus-paradigm"
+    ],
+    "mechanics": {
+      "focus_element": "paradigm",
+      "convention": "Iteración X"
+    },
     "sources": [
       {
         "book_id": "m20-glosario-basico-es",
@@ -21948,12 +21396,6 @@
     "review": {
       "reason": "mechanics differ across sources",
       "conflicts": [
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
-        },
         {
           "sources": [
             "m20-technocracy-reloaded"
@@ -21997,7 +21439,12 @@
     "type": "paradigm",
     "line": "mage",
     "name_en": "A Mechanistic Cosmos",
-    "name_es": "Un Cosmos Mecánico",
+    "name_es": "Un Cosmos Mecanicista",
+    "body_es": "Los paradigmas de los Akashi pueden variar de un practicante a otro, pero la mayoría concibe la magia como Un Cosmos Mecanicista, si bien se trata de una visión del cosmos propia de la Akashayana.",
+    "tags": [
+      "akashayana",
+      "tradicion"
+    ],
     "sources": [
       {
         "book_id": "m20-glosario-basico-es",
@@ -22036,12 +21483,6 @@
     "review": {
       "reason": "mechanics differ across sources",
       "conflicts": [
-        {
-          "sources": [
-            "m20-glosario-basico-es"
-          ],
-          "mechanics": {}
-        },
         {
           "sources": [
             "m20-lore-of-the-traditions"
@@ -22132,8 +21573,14 @@
     "id": "bodywork",
     "type": "instrument",
     "line": "mage",
-    "name_en": "bodywork",
-    "name_es": "ejercicio físico",
+    "name_en": "Bodywork",
+    "name_es": "Trabajo Corporal",
+    "body_es": "Herramienta habitual de la Agente Beth Deuce.",
+    "tags": [
+      "technocracy",
+      "foco",
+      "instrument"
+    ],
     "sources": [
       {
         "book_id": "m20-glosario-basico-es",
@@ -22192,8 +21639,14 @@
     "id": "brews-and-concoctions",
     "type": "instrument",
     "line": "mage",
-    "name_en": "brews and concoctions",
-    "name_es": "pociones y brebajes",
+    "name_en": "Brews and Concoctions",
+    "name_es": "Preparación de Brebajes",
+    "body_es": "Herramienta habitual de la Agente Beth Deuce.",
+    "tags": [
+      "technocracy",
+      "foco",
+      "instrument"
+    ],
     "sources": [
       {
         "book_id": "m20-glosario-basico-es",
@@ -22396,8 +21849,14 @@
     "id": "management-and-hr",
     "type": "instrument",
     "line": "mage",
-    "name_en": "management and HR",
-    "name_es": "administración y RRHH",
+    "name_en": "Management and HR",
+    "name_es": "Gestión y RR. HH.",
+    "body_es": "Instrumento favorito de la Supervisora Elizabeth 'Betsy' Horne.",
+    "tags": [
+      "technocracy",
+      "foco",
+      "instrument"
+    ],
     "sources": [
       {
         "book_id": "m20-glosario-basico-es",

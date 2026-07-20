@@ -16772,11 +16772,19 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
+    "related": [
+      "werewolf/weather-control"
+    ],
     "review": {
       "reason": "El mapeo nivel→fenómeno de Control del Clima está corrompido por la extracción del PDF: los puntos de nivel aparecen separados de las descripciones de los fenómenos. Se preservan los fenómenos verbatim sin asignación de nivel para no inventar datos."
     },
-    "edges": []
+    "edges": [
+      {
+        "target": "werewolf/weather-control",
+        "type": "cross-line",
+        "via": "id:weather-control"
+      }
+    ]
   },
   {
     "id": "path-of-corruption",
@@ -18008,8 +18016,16 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "edges": [],
-    "related": []
+    "edges": [
+      {
+        "target": "werewolf/burning-blade",
+        "type": "cross-line",
+        "via": "id:burning-blade"
+      }
+    ],
+    "related": [
+      "werewolf/burning-blade"
+    ]
   },
   {
     "id": "principal-focus-of-vitae-infusion",
@@ -18550,8 +18566,16 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": [
+      "werewolf/paper-flesh"
+    ],
+    "edges": [
+      {
+        "target": "werewolf/paper-flesh",
+        "type": "cross-line",
+        "via": "id:paper-flesh"
+      }
+    ]
   },
   {
     "id": "blood-contract",
