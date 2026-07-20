@@ -1,0 +1,477 @@
+{
+  "book_id": "m20-technocracy-reloaded",
+  "line": "mage",
+  "title_es": "Mago: La Tecnocracia Recargada",
+  "book_title_es": "Mago: La Tecnocracia Recargada",
+  "page_count": 56,
+  "tree": [
+    {
+      "block": "front-matter",
+      "block_title": "Portada y Créditos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos-y-edicion",
+              "title": "Créditos y edición",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "relato",
+      "block_title": "Relato: Utopía",
+      "chapters": [
+        {
+          "chapter": "Relato",
+          "pages": [
+            {
+              "slug": "relato-utopia",
+              "title": "Relato: Utopía",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "Introducción",
+          "pages": [
+            {
+              "slug": "la-ultima-mejor-esperanza",
+              "title": "La Última Mejor Esperanza",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "como-usar-este-libro-e-inspiraciones",
+              "title": "Cómo Usar Este Libro e Inspiraciones",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "lexico-tecnocratico",
+              "title": "Léxico Tecnocrático",
+              "part": null,
+              "content_type": "glossary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "unidad-1",
+      "block_title": "Unidad 1: El Manual del Operativo",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "estableciendo-el-consenso",
+              "title": "Estableciendo el Consenso",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "una-alianza-mutua",
+              "title": "Una Alianza Mutua",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "estructura-organizativa",
+              "title": "Estructura Organizativa",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "las-acciones-tienen-consecuencias",
+              "title": "Las Acciones Tienen Consecuencias",
+              "part": "Las Acciones Tienen Consecuencias",
+              "content_type": "rule"
+            },
+            {
+              "slug": "tu-amalgama-recursos-y-la-epifania",
+              "title": "Tu Amalgama, Recursos y la Epifanía",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "por-encima-de-mi-sueldo-la-cima-de-la-piramide",
+              "title": "Por Encima de Mi Sueldo: La Cima de la Pirámide",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "unidad-2",
+      "block_title": "Unidad 2: Objetivos, Activos, Tácticas y Planes",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "por-que-luchamos-los-seis-preceptos",
+              "title": "Por qué Luchamos: Los Seis Preceptos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "objetivos-y-activos",
+              "title": "Objetivos y Activos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "moldeando-el-consenso",
+              "title": "Moldeando el Consenso",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-doctrina-de-la-fuerza-necesaria",
+              "title": "La Doctrina de la Fuerza Necesaria",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "incidentes-de-subversores-de-la-realidad-isr",
+              "title": "Incidentes de Subversores de la Realidad (ISR)",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "planificacion-de-misiones",
+              "title": "Planificación de Misiones",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "unidad-3",
+      "block_title": "Unidad 3: Teatros de Operaciones",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "un-mundo-de-locos-bajo-un-control-justo",
+              "title": "Un Mundo de Locos Bajo un Control Justo",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "esfera-de-influencia-africa",
+              "title": "Esfera de Influencia: África",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "esfera-de-influencia-las-americas",
+              "title": "Esfera de Influencia: Las Américas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "esfera-de-influencia-la-antartida",
+              "title": "Esfera de Influencia: La Antártida",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "esfera-de-influencia-asia",
+              "title": "Esfera de Influencia: Asia",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "esfera-de-influencia-europa",
+              "title": "Esfera de Influencia: Europa",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "esfera-de-influencia-la-region-del-pacifico",
+              "title": "Esfera de Influencia: La Región del Pacífico",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "unidad-4",
+      "block_title": "Unidad 4: Asuntos Internos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "fortaleza-familia-hogar",
+              "title": "Fortaleza. Familia. Hogar.",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "hacia-la-humanidad-tecnocratica",
+              "title": "Hacia la Humanidad Tecnocrática",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-discapacidad-dentro-de-la-union",
+              "title": "La Discapacidad dentro de la Unión",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "genero-y-sexualidad",
+              "title": "Género y Sexualidad",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "relaciones",
+              "title": "Relaciones",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "prodigios-hijos-y-crianza-en-la-tecnocracia",
+              "title": "Prodigios: Hijos y Crianza en la Tecnocracia",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "un-motor-de-control",
+              "title": "Un Motor de Control",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "facciones-disidentes",
+              "title": "Facciones Disidentes",
+              "part": "Facciones Disidentes",
+              "content_type": "lore"
+            },
+            {
+              "slug": "facciones-disidentes-la-sociedad-de-ideologias-altruistas-iluminadas-seai",
+              "title": "La Sociedad de Ideologías Altruistas Iluminadas (SEAI)",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "convenciones",
+      "block_title": "Unidad 4: Las Cinco Convenciones",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "las-convenciones-y-metodologias-hoy",
+              "title": "Las Convenciones y Metodologías Hoy",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "iteracion-x",
+              "title": "Iteración X",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-nuevo-orden-mundial",
+              "title": "El Nuevo Orden Mundial",
+              "part": "El Nuevo Orden Mundial",
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-nuevo-orden-mundial-division-q",
+              "title": "División Q",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-progenitores",
+              "title": "Los Progenitores",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-sindicato",
+              "title": "El Sindicato",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-ingenieros-del-vacio",
+              "title": "Los Ingenieros del Vacío",
+              "part": "Los Ingenieros del Vacío",
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-ingenieros-del-vacio-organizacion",
+              "title": "Organización",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "unidad-5",
+      "block_title": "Unidad 5: División Q",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "enfoque-tecnocratico-ajustes-y-procedimientos",
+              "title": "Enfoque Tecnocrático: Ajustes y Procedimientos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "gadgets",
+              "title": "Gadgets",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "baratijas",
+              "title": "Baratijas",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "dispositivos",
+              "title": "Dispositivos",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "mejoras-invenciones-cartillas-y-matrices",
+              "title": "Mejoras, Invenciones, Cartillas y Matrices",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "unidad-6",
+      "block_title": "Unidad 6: Recursos Humanos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "la-elite-iluminada",
+              "title": "La Élite Iluminada",
+              "part": "La Élite Iluminada",
+              "content_type": "reference"
+            },
+            {
+              "slug": "la-elite-iluminada-cupcake",
+              "title": "Cupcake",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "la-elite-iluminada-liona",
+              "title": "Liona",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "unidad-7",
+      "block_title": "Unidad 7: Control de Misión",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "preparando-el-escenario",
+              "title": "Preparando el Escenario",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "contar-una-historia-de-la-tecnocracia",
+              "title": "Contar una Historia de la Tecnocracia",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "ganchos-de-campana",
+              "title": "Ganchos de Campaña",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "construyendo-mundos-juntos",
+              "title": "Construyendo Mundos Juntos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "cuando-todo-se-derrumba",
+              "title": "Cuando Todo se Derrumba",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "unidad-8",
+      "block_title": "Unidad 8: La Vista de Paralaje",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "una-cuestion-de-perspectiva-la-union-tecnocratica",
+              "title": "Una Cuestión de Perspectiva: La Unión Tecnocrática",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "facciones-caidas-y-amenaza-nula",
+              "title": "Facciones Caídas y Amenaza Nula",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

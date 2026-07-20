@@ -1,0 +1,27 @@
+{
+  "book_id": "m20-book-of-the-fallen",
+  "line": "mage",
+  "order": 1,
+  "slug": "advertencia-de-contenido",
+  "block": "preliminares",
+  "block_title": "Preliminares",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Advertencia de Contenido",
+  "content_type": "front-matter",
+  "source_line_range": [
+    274,
+    288
+  ],
+  "body_md": "## Advertencia de Contenido\n\nEste libro trata explícitamente con personas, actividades y culturas abusivas. No para glorificarlas, sino para exponerlas.\n\nEste libro incluye descripciones y debates gráficos sobre el abuso de niños y adultos, trauma, guerra, fanatismo, blasfemia, tortura, trata de personas, [violación](/mage/instruments/violation) sexual y otras formas de maldad humana.\n\nEsta es tu oportunidad de dar marcha atrás ahora.\n\nLas cosas solo empeoran a partir de aquí, y aunque tratamos esta temática con madurez y sensibilidad, animamos encarecidamente a los lectores a considerar sus límites antes de continuar.\n\nPrefacio del Autor:\n\nEl Mal no es un Juguete",
+  "toc": [],
+  "prev": {
+    "slug": "creditos",
+    "title": "Créditos"
+  },
+  "next": {
+    "slug": "prefacio-del-autor-el-mal-no-es-un-juguete",
+    "title": "Prefacio del Autor: El Mal no es un Juguete"
+  }
+}

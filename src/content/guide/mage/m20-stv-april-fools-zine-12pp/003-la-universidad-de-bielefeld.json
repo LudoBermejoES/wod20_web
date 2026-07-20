@@ -1,0 +1,56 @@
+{
+  "book_id": "m20-stv-april-fools-zine-12pp",
+  "line": "mage",
+  "order": 3,
+  "slug": "la-universidad-de-bielefeld",
+  "block": "expediente",
+  "block_title": "El Expediente de Bielefeld",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "La Universidad de Bielefeld",
+  "content_type": "reference",
+  "source_line_range": [
+    267,
+    304
+  ],
+  "body_md": "## UNIVERSIDAD\n\nEn la Universidad de Bielefeld, investigar significa ir más allá de los límites.\n\n- Extracto de la página web de la Universidad\n\nLa universidad ha sido la base de operaciones de los tecnócratas en Bielefeld durante décadas. Resulta apropiado que parezca más un edificio de empresa o fábrica que una universidad, ya que así es como las Influencias Tecnocráticas gestionan los [recursos](/mage/backgrounds/resources) disponibles, incluyendo tanto al alumnado como al personal.\n\n## 1 Edificio X\n\nEste es el edificio donde el NOM lleva a cabo la mayoría de sus 'Estudios Psicológicos' (es decir, experimentos de lavado de cerebro). Es obligatorio para los estudiantes de Psicología, y cualquier otro alumno puede ganar unos cuantos euros si se ofrece voluntario a dedicar su tiempo al servicio de la 'Ciencia'. La Sra. Rost-Roth lo supervisa todo. Incontables cámaras transmiten en directo a su despacho, situado en el piso más alto, y tiene una línea directa con cualquier otra persona que tenga siquiera un ápice de autoridad en la universidad.\n\n## 2 Edificio Principal de la Universidad\n\nAquí es donde se imparten la mayoría de las clases regulares, y donde los estudiantes reciben su educación superior. Fabian Weide suele mezclarse con los estudiantes corrientes para reclutarlos en sus 'estudios' o para detectar potencial que pueda ser utilizado por la Unión Tecnocrática.\n\n## 3 'Zona de Obras'\n\nUna gran parte de la universidad existente ha sido acordonada, supuestamente para una ampliación del ala este. Se están construyendo nuevas estructuras, pero las estructuras ya existentes, precintadas con cinta que advierte a los transeúntes de los peligros de adentrarse en una obra, protegen los últimos proyectos de Iteración X. Amparados por el ruido de los Durmientes trabajando duro, Etit y su equipo perforan, sueldan y desmontan. En lo alto de una estructura temporal de varillas metálicas descansa la joya de la corona de su trabajo: la máquina voladora más sofisticada jamás construida por sus manos, lista para despegar.\n\n\n\n## P Aparcamiento\n\nHay amplias posibilidades de aparcar por todo el campus. Los dos aparcamientos más cercanos al Edificio X están vigilados por un Sensor de Cambio del Consenso estacionario, que alerta a la Sra. Rost-Roth de la presencia de cualquier individuo cuya propia existencia sea fantástica y, por tanto, una amenaza para el consenso y un peldaño hacia desentrañar el origen del Fenómeno.\n\n## H Estación de Tranvía\n\nAquí es donde puedes satisfacer el inevitable deseo de marcharte, sin necesidad de un coche.\n\n## Departamento de Tráfico\n\nOh, ¿lo necesitas ahora? Con ese tono, desde luego que no. Estoy en el descanso, colega.\n\n## - El Constructor de Mundos, absolutamente harto de un cliente\n\nEl departamento de tráfico es el último lugar donde la mayoría iría a buscar a un changeling, y mucho menos a un Nocker. Pero el mercado laboral es un lugar cruel, y así fue como el hada amante de la planificación urbana y el [transporte](/mage/hedge-paths/transporte) público acabó expidiendo carnés y sellando permisos para propietarios de coches. Bachmann, como pequeña venganza, convirtió la trastienda en el cuartel general de la contraconspiración. Resulta conveniente, la verdad, ya que cierran sobre las 12:30 la mayoría de los días. La sala real de las reuniones es una oficina pequeña y abarrotada, con las paredes cubiertas de mapas y notas.",
+  "toc": [
+    {
+      "text": "1 Edificio X",
+      "anchor": "1-edificio-x"
+    },
+    {
+      "text": "2 Edificio Principal de la Universidad",
+      "anchor": "2-edificio-principal-de-la-universidad"
+    },
+    {
+      "text": "3 'Zona de Obras'",
+      "anchor": "3-zona-de-obras"
+    },
+    {
+      "text": "P Aparcamiento",
+      "anchor": "p-aparcamiento"
+    },
+    {
+      "text": "H Estación de Tranvía",
+      "anchor": "h-estacion-de-tranvia"
+    },
+    {
+      "text": "Departamento de Tráfico",
+      "anchor": "departamento-de-trafico"
+    },
+    {
+      "text": "- El Constructor de Mundos, absolutamente harto de un cliente",
+      "anchor": "el-constructor-de-mundos-absolutamente-harto-de-un-cliente"
+    }
+  ],
+  "prev": {
+    "slug": "los-personajes-ellos-y-la-contraconspiracion",
+    "title": "Los Personajes: ELLOS y la Contraconspiración"
+  },
+  "next": {
+    "slug": "ganchos-de-trama",
+    "title": "Ganchos de Trama"
+  }
+}

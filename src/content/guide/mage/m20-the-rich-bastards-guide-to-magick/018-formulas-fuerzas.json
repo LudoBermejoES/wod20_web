@@ -1,0 +1,40 @@
+{
+  "book_id": "m20-the-rich-bastards-guide-to-magick",
+  "line": "mage",
+  "order": 18,
+  "slug": "formulas-fuerzas",
+  "block": "capitulo-3",
+  "block_title": "Capítulo Tres: Magia monetaria",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Fórmulas: Fuerzas",
+  "content_type": "rule",
+  "source_line_range": [
+    1409,
+    1451
+  ],
+  "body_md": "## Fuerzas\n\nCon Fuerzas, el poder de los ricos sobre la naturaleza y la tecnología se vuelve absoluto. Nada escapa a sus sentidos, y no hay acto de dios que ocurra sin su permiso.\n\n\n## Cotilleo Sin Restricciones (· Fuerzas)\n\nLas noticias de entretenimiento están repletas de las idas y venidas de los ultrarricos. Los tabloides difunden historias picantes de celebridades, algunas basadas en verdades distorsionadas. Los programas de televisión dramatizan las vidas de los ricos y famosos, mostrando cómo un secreto revelado puede destruir una dinastía.\n\nEste hechizo es una de las formas en que los magos participan en el juego de las intrigas. Cuando está activo, un susurro y un grito son una misma cosa.\n\nSistema: Fuerzas 1 agudiza el oído del mago, permitiéndole escuchar todas las conversaciones en una habitación, sin importar a qué volumen hablen sus sujetos. Esto también funciona si un mago pone su oído contra la pared, o si las voces que intenta escuchar están cubiertas por un ruido fuerte como un motor a reacción o una máquina de ruido blanco.\n\nUn éxito permite al mago escuchar su entorno inmediato. Cada éxito adicional extiende este alcance en otra habitación o en seis metros más, lo que sea más aplicable a la situación.\n\nEste siempre es un efecto coincidente.\n\n\n## Aura de Superioridad (··· Fuerzas/ ··· Mente)\n\nMientras algunos mantienen un sentido de modestia, los ricos tienen un sentido inherente de superioridad. Tienen lo mejor de todo, y algunos han vivido toda su vida sin conocer las penurias. Si experimentan la vida en su mejor forma, ¿por qué molestarse con el resto de la humanidad?\n\nEste hechizo toma esta mentalidad y la transforma en una fuerza real, empuñable. Cuando el aura empuja a su víctima hacia afuera, es una manifestación de la verdad: no tienen derecho a estar en presencia del lanzador.\n\nSistema: Este hechizo convierte las señales electroquímicas en el cerebro que acompañan a los pensamientos de superioridad en una fuerza telekinética, creando un fuerte campo repelente de un metro alrededor del mago. Cada asalto, cada objetivo atrapado en el área debe tirar Fuerza + Atletismo contra la tirada de lanzamiento del hechizo para evitar salir despedido. Cualquiera que salga despedido queda derribado y postrado.\n\nEsta aura también puede defender al lanzador de [armas](/mage/instruments/weapons) a distancia. Cada grado de éxito aumenta la dificultad de cualquier ataque a distancia hasta un máximo de +3.\n\nEste siempre es un efecto vulgar.\n\n\n## El Gobernante del Cielo (····· Fuerzas/ ···· Entropía)\n\nAunque la acción humana altera los patrones climáticos, puede decirse que los ricos han impulsado esa acción desde la Revolución Industrial. Este hechizo convierte eso en algo más personal, y, a veces, para mejor en general.\n\nCon este hechizo, los magos pueden cambiar patrones climáticos enteros, transformando una temporada de huracanes tranquila en un diluvio constante de ciclones de Categoría 5, o asegurando que una región entera nunca vea una tormenta de nieve peor que unos pocos centímetros. Aunque el hechizo rara vez es permanente, a menudo es lo bastante impresionante como para hacer que un Tecnócrata veterano se lo piense dos veces antes de enfrentarse al mago.\n\nSistema: Fuerzas 5 conjura o termina el clima en sí, mientras que Entropía 4 reensambla el [patrón](/mage/backgrounds/patron) detrás del fenómeno en algo que el mago aprueba. El mago debe estar presente en la región donde desea que cambie el [patrón](/mage/backgrounds/patron) climático para lanzar el hechizo.\n\nEste efecto es un ritual que necesita quince éxitos para completarse. Cada tirada para el ritual lleva una hora.\n\nEste siempre es un efecto vulgar.",
+  "toc": [
+    {
+      "text": "Cotilleo Sin Restricciones (· Fuerzas)",
+      "anchor": "cotilleo-sin-restricciones-fuerzas"
+    },
+    {
+      "text": "Aura de Superioridad (··· Fuerzas/ ··· Mente)",
+      "anchor": "aura-de-superioridad-fuerzas-mente"
+    },
+    {
+      "text": "El Gobernante del Cielo (····· Fuerzas/ ···· Entropía)",
+      "anchor": "el-gobernante-del-cielo-fuerzas-entropia"
+    }
+  ],
+  "prev": {
+    "slug": "formulas-entropia",
+    "title": "Fórmulas: Entropía"
+  },
+  "next": {
+    "slug": "formulas-vida",
+    "title": "Fórmulas: Vida"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "book_id": "m20-libro-de-los-secretos",
+  "line": "mage",
+  "order": 0,
+  "slug": "creditos-y-edicion",
+  "block": "front-matter",
+  "block_title": "Portada y créditos",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Créditos y edición",
+  "content_type": "front-matter",
+  "source_line_range": [
+    1,
+    75
+  ],
+  "body_md": "XVIII\n\nEl Sol\n\nUn amplio companion para Mago 20 o Aniversario\n\n## Créditos\n\nAutor y desarrollador: Satyros Phil Brucato.\n\nMaterial adicional: Brian  Campbell  ( Interpretar  a  un  Operativo Tecnocrático).\n\nDirector creativo: Richard Thomas.\n\nEditora: Carol Darnell.\n\nDirector artístico: Mike Chaney.\n\nDiseño del libro: Josh Kubat.\n\nIlustraciones: Aaron  Acevedo,  Echo  Chernik,  Michael Gaydos, Michel Giorgi, Jeff Holt, Leif Jones, Brian LeBlanc, Vince Locke, Eric Lofgren, Ken Meyer Jr, Grzegorz Pedrycz, Preston Stone y Andrew Trabbold.\n\nAsesores  /  pruebas  de  juego: Eva  Cruz  Andrade,  Maria Archimandriti, Liz Argall, Rose Bailey, Hope Basoco, Raven Bond,  Bill  Bridges,  Kate  Bullock,  Sandra  Buskirk,  Brian Campbell, Maggie Carroll, Mara Elkheart / R.S. Udell, Tristån Erickson, Adam J. Faber, Khaos Farbauti, Antonios Rave-n Galatis,  Nina  Galatis,  Boomer  Hanke,  Damian  Lincoln  Hector, James High, Oliver Hoffmann, Ernie LaFountain, Travis Legge, Êmili  Lemanski,  Shep  Turner  MacGregor,  Ryan  Macklin,  Logan L. Masterson, Rafael Mastromauro, Camille Meehan, Balogun Ojetade, Isabella L. Price, Chris Rubenstahl, Michael Schatz, Zakariya Ali Sher, Thaynah Leal Simas, J.P. Sugarbroad, Bryan Syme, Richard Thomas, Allen Turner, Ioanna Vagianou, Brian Ward, Coyote Ward, Jason Weeks, Wendell B. Whittaker Jr., Travis Williams y Lindsay Woodcock.\n\n## Para Stewart Wieck\n\nEste libro está dedicado, ahora y por siempre, a Stewart Wieck, el creador original de Mago: La Ascensión , cofundador de White Wolf Game Studio, cocreador del Mundo de Tinieblas y el hombre que inspiró a todos los que le conocimos, le amamos o simplemente disfrutamos de su trabajo.\n\nMuchas manos y muchas mentes han dado forma al mundo de Mago ;  pero todo comenzó con la visión de un hombre y con el coraje y el intelecto que dedicó a esa idea radical. El concepto de Mago de Stewart se alejaba de todas las representaciones previas de la hechicería en los juegos de rol. Un cuarto de siglo después de que empezase su labor en Mago , su visión desafía a lectores, creadores y normalmente a la propia realidad.\n\nLas  últimas  palabras  en  la  última  página  de  este  libro  sintetizan no sólo la visión que Stewart tenía para Mago ,  sino  también el efecto que él mismo tuvo en todos los que le conocieron.\n\nAún no puedo creer que ya no esté en este mundo. Su legado vivirá por siempre.\n\nGracias, Stew, por Despertarnos a todos.\n\n## Edición en Español\n\nDirector y productor ejecutivo: Héctor Gómez Herrero.\n\nTraductores: Aixa  Algaba Maye, Héctor Gómez Herrero, Jordi Torres Serra 'Uxas'.\n\nCorrectora: Isabel Panadero Gutiérrez.\n\nMaquetador: Marcos Manuel 'EnOcH' Peral Villaverde.\n\nR.I.P.: Logan  Masterson.  Descansa  en  paz,  hermano.  Te echamos de menos.\n\n\n\nCoordinador editorial: Sergio M. Vergara.\n\nPublicado por: Nosolorol Ediciones, C/ Ocaña 32, 28047 Madrid.\n\n## ©2020 WHITE WOLF ENTERTAINMENT, AB\n\nTodos los derechos reservados. La reproducción sin el permiso escrito de la editorial está expresamente prohibida, salvo para la elaboración de reseñas y las hojas de personaje en blanco, que pueden ser reproducidas sólo para uso personal.\n\nISBN:\n\nDepósito legal:\n\n\n\nWhite Wolf, Vampiro: La Mascarada y Mundo de Tinieblas son marcas comerciales registradas de White Wolf Entertainment AB. Todos los derechos reservados. Visita White Wolf Entertainment online en www.white-wolf.com y www.worldofdarkness.com.\n\nVisita Onyx Path online en http://www.theonyxpath.com.\n\nVisita [Biblioteca](/mage/backgrounds/library) Oscura online en www.bibliotecaoscura.com.\n\nVisita Nosolorol online en www.nosolorol.com.",
+  "toc": [
+    {
+      "text": "Para Stewart Wieck",
+      "anchor": "para-stewart-wieck"
+    },
+    {
+      "text": "Edición en Español",
+      "anchor": "edicion-en-espanol"
+    },
+    {
+      "text": "©2020 WHITE WOLF ENTERTAINMENT, AB",
+      "anchor": "2020-white-wolf-entertainment-ab"
+    }
+  ],
+  "prev": null,
+  "next": {
+    "slug": "relato-de-apertura",
+    "title": "Relato de apertura"
+  }
+}

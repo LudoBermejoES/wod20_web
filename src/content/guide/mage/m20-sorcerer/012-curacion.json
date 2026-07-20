@@ -1,0 +1,52 @@
+{
+  "book_id": "m20-sorcerer",
+  "line": "mage",
+  "order": 12,
+  "slug": "curacion",
+  "block": "capitulo-1",
+  "block_title": "Capítulo Uno: Hechicería",
+  "chapter": "Capítulo Uno: Hechicería",
+  "part": "Curación",
+  "section": null,
+  "title": "Curación",
+  "content_type": "rule",
+  "source_line_range": [
+    1017,
+    1064
+  ],
+  "body_md": "## Curación\n\nAllí donde prospera la humanidad, existe la necesidad de curar. Desde los albores de la civilización, los sanadores surgieron por empatía y necesidad comunitaria. Mucho antes de que la ciencia conociera la teoría microbiana, los sanadores aprendieron a servir a su gente a través de la tradición, la [comunión](/mage/rotes/communion) con los espíritus, el ensayo y error, y muchas otras formas. Ahora, incluso cuando la ciencia puede prevenir y curar enfermedades horribles, muchos siguen sin acceso a esas técnicas. En los desiertos médicos y en las comunidades históricamente perjudicadas por el sistema médico, la necesidad persiste. La gente sigue buscando desesperadamente sanadores. Puede que no crean del todo en la magia o en los milagros, pero entre la certeza de la agonía y un rayo de esperanza, muchos se arriesgan.\n\nLa magia estática puede lograr resultados milagrosos. Un sanador maestro puede curar cánceres y acelerar la [curación](/mage/hedge-paths/curacion) de heridas graves más allá de lo que debería ser posible, pero no lo anuncia. Aunque tantas personas son ignoradas y abandonadas por el sistema médico, es ilegal ejercer la [medicina](/mage/practices/medicine-work) sin licencia. Además, la fama puede ser una carga muy pesada. Muchos magos estáticos entusiastas y empáticos comienzan a aprender la senda de la [Curación](/mage/hedge-paths/curacion), pero pocos llegan a dominarla: a menudo se queman pronto ante un mundo frío e ingrato, y cambian a otras Artes si es que siguen practicando magia.\n\nAunque no siempre lo exige su Práctica, muchos sanadores magos estáticos sí aprenden alguna forma de [medicina](/mage/practices/medicine-work). Quienes no confían en la ciencia extraordinaria suelen aprender formas de [curación](/mage/hedge-paths/curacion) no basadas en la [medicina](/mage/practices/medicine-work) moderna. Como mínimo, en los casos en que sí aprenden los fundamentos de la ciencia médica moderna, su enfoque del tratamiento puede ser radicalmente distinto en filosofía y técnica.\n\nUn sanador podría curar enfermedades o deformidades congénitas de leves a moderadas, pero ejemplos más extremos, como regenerar extremidades o resucitar a los muertos recientes, pertenecen al reino de la [leyenda](/mage/backgrounds/legend).\n\n\n## Sistema\n\nModificadores: el lanzamiento rápido solo puede utilizarse para estabilizar daño letal o agravado o para reducir las penalizaciones por heridas. Cualquier otro uso debe recurrir a hechizos normales, hechizos de tirada extendida o rituales.\n\n- 1 éxito adicional para corregir una herida mal curada\n- +1 a la dificultad para curar a un paciente poco cooperativo\n\nAspectos: esta senda utiliza el Aspecto de Daño/[Curación](/mage/hedge-paths/curacion). El daño contundente puede curarse con un éxito por nivel de daño. Además, cada éxito puede reducir en un nivel una intoxicación, enfermedad o penalización por herida (causada por el dolor y no por la pérdida de un miembro, por ejemplo). Véase Mago 20 p. 406 para más información sobre las penalizaciones por heridas y p. 442 para la tabla de intoxicaciones y enfermedades.\n\nPrecio del [Fallo](/mage/flaws/failure): un [fallo](/mage/flaws/failure) simplemente significa que la magia no funcionó; el daño estaba más allá de la capacidad de [curación](/mage/hedge-paths/curacion) del hechicero. Un fracaso puede volverse espantoso rápidamente. Un Sanador podría hacer que la persona fuera más susceptible a la toxina que está intentando combatir, aumentando la clasificación de la toxina efectiva. Podrían llegar a causar daño directamente o curar algo de forma incorrecta, como fusionar los párpados o dejar un hueso mal colocado, de modo que haya que romperlo de nuevo más tarde. El sanador también podría contagiarse de la enfermedad que estaba intentando curar.\n\n\n## Rituales de Ejemplo\n\n\n## Hibernación Curativa ( · )\n\nEl sanador trata a un paciente dispuesto (o inconsciente) y lo sume en un sueño profundo y reparador. Si tiene éxito, el paciente permanece dormido durante 9 horas; cuando despierta, se cura todo el daño contundente y recupera un punto de Fuerza de Voluntad. Por cada éxito adicional por encima de uno, se resta una hora al tiempo de sueño necesario. El sanador no puede tratar heridas letales o agravadas de esta manera.\n\n\n## Sacudida ( ·· )\n\nEl hechicero gasta un punto de Fuerza de Voluntad y despierta mágicamente a una persona que está dormida, inconsciente o en coma. Esto normalmente requiere un éxito, pero requiere tantos éxitos como la clasificación de la toxina para despertar a alguien drogado, y cuatro éxitos para despertar a quien está en coma.\n\nRevertir un efecto mágico requiere tantos éxitos como el efecto original +1 para invertirlo. Este poder no cura la enfermedad, lesión o intoxicación subyacente, y el paciente vuelve a quedar inconsciente al final de la escena si el sanador no resuelve el problema de fondo. Esto puede utilizarse para ayudar a identificar al paciente y reunir información sobre quién o qué lo puso en ese estado.\n\n\n## El Cúralotodo de Mike ( ··· )\n\nAunque se han realizado rituales similares durante siglos, o más, esta versión se registró por primera vez en Chicago durante la Ley Seca y se basaba en los cúralotodos de la época victoriana. El sanador puede obligar al cuerpo de un paciente a purgar todas las drogas y toxinas por cualquier vía posible, y a veces por todas ellas a la vez. Esto incluye vómitos, sudor, lágrimas, diarrea, etc. El proceso es increíblemente desagradable, pero puede salvar a la víctima de un envenenamiento o a alguien que ha sufrido una sobredosis. El hechicero debe obtener al menos tantos éxitos como la clasificación de la toxina más potente presente en el sistema del paciente. No se cura ningún daño, pero el paciente no sufre más efectos nocivos. Esto también puede purgar pociones mágicas.\n\n\n## Alineación de los Humores ( ···· )\n\nEste es un ritual antiguo para curar dolencias crónicas y congénitas. Se remonta a la Edad Media, cuando el Humorismo estaba en boga. El sanador sangra al paciente con sanguijuelas, un cuchillo ritual u otra herramienta adecuada a su práctica, lo que inflige un nivel de daño letal. El sanador gasta un punto de Fuerza de Voluntad y debe obtener al menos 5 éxitos en la tirada. El sanador puede realizar este ritual como una acción extendida. El paciente descansa durante tres días, tras los cuales se curan tanto el daño letal como la dolencia. Este descanso no tiene que ser únicamente sueño. El paciente puede moverse mínimamente para realizar funciones corporales básicas, pero por lo demás debe permanecer tumbado. Si el paciente está demasiado activo durante los tres días, el ritual fracasa automáticamente. El ritual también fracasará si el paciente sufre un estrés mental o emocional significativo, como intentar trabajar desde la cama o tener una discusión acalorada.",
+  "toc": [
+    {
+      "text": "Sistema",
+      "anchor": "sistema"
+    },
+    {
+      "text": "Rituales de Ejemplo",
+      "anchor": "rituales-de-ejemplo"
+    },
+    {
+      "text": "Hibernación Curativa ( · )",
+      "anchor": "hibernacion-curativa"
+    },
+    {
+      "text": "Sacudida ( ·· )",
+      "anchor": "sacudida"
+    },
+    {
+      "text": "El Cúralotodo de Mike ( ··· )",
+      "anchor": "el-curalotodo-de-mike"
+    },
+    {
+      "text": "Alineación de los Humores ( ···· )",
+      "anchor": "alineacion-de-los-humores"
+    }
+  ],
+  "prev": {
+    "slug": "fortuna",
+    "title": "Fortuna"
+  },
+  "next": {
+    "slug": "fuego-infernal",
+    "title": "Fuego Infernal"
+  }
+}

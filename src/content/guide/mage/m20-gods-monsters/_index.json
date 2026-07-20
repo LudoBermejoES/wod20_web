@@ -1,0 +1,360 @@
+{
+  "book_id": "m20-gods-monsters",
+  "line": "mage",
+  "title_es": "Mago: Dioses y Monstruos",
+  "book_title_es": "Mago: Dioses y Monstruos",
+  "page_count": 47,
+  "tree": [
+    {
+      "block": "preliminares",
+      "block_title": "Preliminares",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos",
+              "title": "Créditos",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "prologo",
+      "block_title": "Prólogo",
+      "chapters": [
+        {
+          "chapter": "Prólogo",
+          "pages": [
+            {
+              "slug": "prologo-huesos-ardientes",
+              "title": "Prólogo: Huesos Ardientes",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "criaturas",
+      "block_title": "Criaturas y Compañeros",
+      "chapters": [
+        {
+          "chapter": "Introducción",
+          "pages": [
+            {
+              "slug": "introduccion-algo-rico-y-extrano",
+              "title": "Introducción: Algo Rico y Extraño",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Uno: Durmientes, Consortes, Cazadores y Gente de la Noche",
+          "pages": [
+            {
+              "slug": "capitulo-uno-durmientes-consortes-cazadores-y-gente-de-la-noche",
+              "title": "Capítulo Uno: Durmientes, Consortes, Cazadores y Gente de la Noche",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "durmientes-las-edades-de-la-vida",
+              "title": "Durmientes: Las Edades de la Vida",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "durmientes-gente-corriente-y-tipos-duros",
+              "title": "Durmientes: Gente Corriente y Tipos Duros",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "durmientes-poder-recursos-y-subculturas",
+              "title": "Durmientes: Poder, Recursos y Subculturas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "consortes-roles-y-motivaciones",
+              "title": "Consortes: Roles y Motivaciones",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "consortes-cultistas-manipuladores-e-igors",
+              "title": "Consortes: Cultistas, Manipuladores e Igors",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "consortes-amantes-profesionales-y-sirvientes",
+              "title": "Consortes: Amantes, Profesionales y Sirvientes",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "cazadores-y-adeptos-estaticos",
+              "title": "Cazadores y Adeptos «Estáticos»",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "cazadores-aberraciones-espiritus-y-brujas",
+              "title": "Cazadores: Aberraciones, Espíritus y Brujas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-gente-de-la-noche-vampiros",
+              "title": "La Gente de la Noche: Vampiros",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-gente-de-la-noche-cambiabestias",
+              "title": "La Gente de la Noche: Cambiabestias",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-gente-de-la-noche-las-hadas",
+              "title": "La Gente de la Noche: Las Hadas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-gente-de-la-noche-fantasmas",
+              "title": "La Gente de la Noche: Fantasmas",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Dos: Constructos y Familiares",
+          "pages": [
+            {
+              "slug": "capitulo-dos-constructos-y-familiares",
+              "title": "Capítulo Dos: Constructos y Familiares",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "constructos-reanimados",
+              "title": "Constructos: Reanimados",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "constructos-flores-del-alma",
+              "title": "Constructos: Flores del Alma",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "zombis",
+              "title": "Zombis",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "familiares",
+              "title": "Familiares",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Tres: Cerca de Casa, y Lejos",
+          "pages": [
+            {
+              "slug": "capitulo-tres-cerca-de-casa-y-lejos",
+              "title": "Capítulo Tres: Cerca de Casa, y Lejos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "monstruos-preteritos",
+              "title": "Monstruos Pretéritos",
+              "part": "Monstruos Pretéritos",
+              "content_type": "lore"
+            },
+            {
+              "slug": "monstruos-preteritos-jiangshi",
+              "title": "Jiangshi",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "monstruos-preteritos-susurros-del-cielo",
+              "title": "Susurros del Cielo",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Cuatro: Entidades Efímeras",
+          "pages": [
+            {
+              "slug": "capitulo-cuatro-entidades-efimeras",
+              "title": "Capítulo Cuatro: Entidades Efímeras",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-djinn",
+              "title": "El Djinn",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "entidades-menores",
+              "title": "Entidades Menores",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "personajes-efimeros",
+              "title": "Personajes Efímeros",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "manifestaciones-de-paradoja",
+              "title": "Manifestaciones de Paradoja",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "espiritus-totem",
+              "title": "Espíritus Tótem",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "formas-divinas",
+              "title": "Formas Divinas",
+              "part": "Formas Divinas",
+              "content_type": "lore"
+            },
+            {
+              "slug": "formas-divinas-kudu-la-vieja-tortuga",
+              "title": "Kudu, la Vieja Tortuga",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-grandes-kami",
+              "title": "Los Grandes Kami",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-loa",
+              "title": "Los Loa",
+              "part": "Los Loa",
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-loa-legba-guardian-de-la-encrucijada",
+              "title": "Legba, Guardián de la Encrucijada",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-loa-shango-el-tronador",
+              "title": "Shango, el Tronador",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Cinco: Creando Personajes",
+          "pages": [
+            {
+              "slug": "capitulo-cinco-creando-personajes",
+              "title": "Capítulo Cinco: Creando Personajes",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "creacion-de-personajes-companeros",
+              "title": "Creación de Personajes Compañeros",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "la-mentalidad-no-humana",
+              "title": "La Mentalidad No Humana",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "meritos-defectos-y-ventajas-especiales",
+              "title": "Méritos, Defectos y Ventajas Especiales",
+              "part": "Méritos, Defectos y Ventajas Especiales",
+              "content_type": "rule"
+            },
+            {
+              "slug": "meritos-defectos-y-ventajas-especiales-dedos-torpes-defecto-fisico-de-2-pts",
+              "title": "Dedos Torpes (Defecto Físico de 2 pts.)",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "meritos-defectos-y-ventajas-especiales-empathic-bond-2-puntos",
+              "title": "Empathic Bond (2 puntos)",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "meritos-defectos-y-ventajas-especiales-needleteeth-3-puntos",
+              "title": "Needleteeth (3 puntos)",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "meritos-defectos-y-ventajas-especiales-unaging-5-puntos",
+              "title": "Unaging (5 puntos)",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "encantamientos-espirituales",
+              "title": "Encantamientos Espirituales",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cierre",
+      "block_title": "Cierre",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "recursos-sugeridos",
+              "title": "Recursos Sugeridos",
+              "part": null,
+              "content_type": "back-matter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

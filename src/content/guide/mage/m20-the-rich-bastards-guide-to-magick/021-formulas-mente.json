@@ -1,0 +1,40 @@
+{
+  "book_id": "m20-the-rich-bastards-guide-to-magick",
+  "line": "mage",
+  "order": 21,
+  "slug": "formulas-mente",
+  "block": "capitulo-3",
+  "block_title": "Capítulo Tres: Magia monetaria",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Fórmulas: Mente",
+  "content_type": "rule",
+  "source_line_range": [
+    1544,
+    1589
+  ],
+  "body_md": "## Mente\n\nTodo lo que alguien necesita hacer para cambiar de opinión a otra persona es lograr que el cambio le merezca la pena. Si eso no funciona, la Mente es un atajo útil.\n\n\n## Estudio de Mercado ( ·· Mente)\n\n'¿Qué quieres?' Es una pregunta sencilla que, sin embargo, resulta difícil de responder. Nuestra conciencia lucha contra nuestro inconsciente, creando una embriagadora mezcla de deseos efervescentes y desesperados. A menudo, una persona dice querer una cosa, pero solo descubre demasiado tarde lo que realmente desea.\n\nEste hechizo atraviesa el caos de la mente y va directo al grano. Los deseos del objetivo resuenan alto y claro, listos para ser explotados.\n\nSistema: El mago hace [contacto visual](/mage/instruments/eye-contact) con su objetivo. Mente 2 escanea su mente y encuentra sus deseos más profundos, en concreto aquellos que pueden satisfacerse en este mismo momento.\n\nTres éxitos identifican los deseos de un objetivo, lo cual reduce en 2 la dificultad de cualquier manipulación social sobre él. Los grados de éxito adicionales permiten al mago conocer los deseos de una persona más en la sala por cada éxito, con los mismos beneficios para cada objetivo individual.\n\nEsto suele ser un efecto coincidente, a menos que el mago utilice un deseo que el objetivo haya mantenido en secreto y que de otro modo no crea que se ha descubierto.\n\n\n## FOMO ( ···· Mente)\n\nEl FOMO, o «miedo a quedarse fuera» (por sus siglas en inglés, Fear of Missing Out), es una inquietud que hace pensar a una persona que, si no se sube al carro de algo, tal vez nunca cosechará las recompensas materiales ni disfrutará de sus beneficios sociales. Es la fuerza que hay detrás de las modas, los movimientos y los esquemas piramidales. En su forma más inocua, es la necesidad de asistir a una fiesta para estar presente cuando ocurra algo memorable. También es lo que hace que la gente entregue sus ahorros para entrar desde el principio en apasionantes oportunidades de negocio, por mucho que la estructura empresarial se parezca a una pirámide.\n\nPara los magos, el FOMO es una herramienta. La incertidumbre que genera en una persona les permite hacer un discurso de reclutamiento o conseguir que un intruso molesto mire hacia otro lado. Entre los magos adinerados, inducir el FOMO es una forma de mantener fieles a sus inversores y clientela.\n\nSistema: Mientras mantiene [contacto visual](/mage/instruments/eye-contact) y conversa con un objetivo, el mago menciona algo sobre una posible oportunidad o acontecimiento. Mente 4 obliga a la mente del objetivo a obsesionarse con ello, llevándolo a un estado de ansiedad elevado que solo se resuelve con el tiempo o persiguiendo activamente la oportunidad o el acontecimiento.\n\nCuatro éxitos reducen en 3 la dificultad de todas las tiradas sociales para convencer al objetivo de que persiga la oportunidad, durante el resto de la escena. Alternativamente, el mago puede dejar que el objetivo se consuma en sus miedos, reduciendo cualquier reserva de dados sociales en el grado de éxito, hasta un máximo de -5, durante el resto de la escena.\n\nSi la oportunidad o el acontecimiento se encuentra dentro de los intereses habituales del objetivo, esto es un efecto coincidente.\n\n\n## Mentalidad Invencible ( ····· Mente/ opcionalmente con ·· Materia)\n\nUn estilo de vida adinerado viene acompañado de grandes expectativas: qué se supone que debes vestir, cómo actuar, cómo hablar. Los magos que acaban de heredar una [fortuna](/mage/hedge-paths/fortuna) inesperada pueden tener dificultades para mantener claras todas las reglas mientras se adaptan. Esto puede resultar perjudicial tanto psicológica como incluso físicamente.\n\n\n\nLos magos recién enriquecidos tienen formas de sortear esto. Si el problema es una cuestión de preparación mental, ¿qué mejor manera de superarlo que crear una mente completamente nueva, más preparada de lo que el mago normal podría llegar a estar jamás? Los Maestros de la Mente tienen la oportunidad no solo de remodelar sus sentimientos y actitudes, sino de ponérselos y quitárselos como si fueran ropa. El mago ahora tiene lo mejor de ambos mundos: un yo preparado para afrontar los retos de la riqueza, y un yo que todavía recuerda a la gente sencilla.\n\nSistema: El mago desarrolla una mentalidad alternativa, imaginando su yo ideal, o cómo cree que se espera que actúe. Con una invocación, el mago asume esta nueva identidad, convirtiéndose en esta persona durante el resto de la escena. Añadiendo Materia 2, el mago adapta un objeto físico que toca para que esté a la altura: el bolso desgastado que compró en unos grandes almacenes se convierte en un bolso de diseño único.\n\nUn ritual de cuatro éxitos crea esta nueva mentalidad para que la use el propio mago o para que la use otra persona. Cada tirada equivale a media hora de tiempo. Las tiradas futuras para ponerse y quitarse la mentalidad solo requieren un éxito.\n\nSi la mentalidad no se aparta demasiado de las creencias del mago, o de las creencias de la persona para la que está creando la mentalidad, esto es un efecto coincidente.",
+  "toc": [
+    {
+      "text": "Estudio de Mercado ( ·· Mente)",
+      "anchor": "estudio-de-mercado-mente"
+    },
+    {
+      "text": "FOMO ( ···· Mente)",
+      "anchor": "fomo-mente"
+    },
+    {
+      "text": "Mentalidad Invencible ( ····· Mente/ opcionalmente con ·· Materia)",
+      "anchor": "mentalidad-invencible-mente-opcionalmente-con-materia"
+    }
+  ],
+  "prev": {
+    "slug": "formulas-materia",
+    "title": "Fórmulas: Materia"
+  },
+  "next": {
+    "slug": "formulas-cardinal",
+    "title": "Fórmulas: Cardinal"
+  }
+}

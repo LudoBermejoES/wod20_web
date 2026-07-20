@@ -1,0 +1,238 @@
+{
+  "book_id": "m20-faces-of-magick",
+  "line": "mage",
+  "title_es": "Mago: Rostros de la Magia",
+  "book_title_es": "Mago: Rostros de la Magia",
+  "page_count": 29,
+  "tree": [
+    {
+      "block": "preliminares",
+      "block_title": "Preliminares",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos",
+              "title": "Créditos",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "Introducción",
+          "pages": [
+            {
+              "slug": "introduccion-algo-en-la-gravedad",
+              "title": "Introducción: Algo en la Gravedad",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "incorporando-personajes-de-rostros-de-la-magia",
+              "title": "Incorporando personajes de Rostros de la Magia",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "relato",
+      "block_title": "Relato",
+      "chapters": [
+        {
+          "chapter": "Relato",
+          "pages": [
+            {
+              "slug": "relato-1983-ahora",
+              "title": "Relato: 1983 / Ahora",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "personajes",
+      "block_title": "Los Personajes",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "celeste-el-fin-del-linaje",
+              "title": "Céleste: El Fin del Linaje",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "corey-clutz-whitman-altruista-despierta",
+              "title": "Corey «Clutz» Whitman: Altruista Despierta",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "danni-wildheart-davies-estrella-apagada-que-aun-arde",
+              "title": "Danni «Wildheart» Davies: Estrella Apagada que Aún Arde",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "elsa-doppler-la-espia-que-no-pudo-volver-del-frio",
+              "title": "Elsa Doppler: La Espía que No Pudo Volver del Frío",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "emma-tavares-pintora-de-otros-mundos",
+              "title": "Emma Tavares: Pintora de Otros Mundos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "hyeonmyeong-sunim",
+              "title": "Hyeonmyeong Sunim",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "jack-el-ladron-de-lo-arcano",
+              "title": "Jack: El Ladrón de lo Arcano",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "jacob-mullen-la-muerte-llega-de-tres-en-tres",
+              "title": "Jacob Mullen: La Muerte Llega de Tres en Tres",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "jano-highwalker-dos-veces-nacido",
+              "title": "Jano Highwalker: Dos Veces Nacido",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "julieta-santos-la-fiestera-de-24-horas",
+              "title": "Julieta Santos: La Fiestera de 24 Horas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "meiling-xiao",
+              "title": "Měilíng Xiāo",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "mickey-el-cuco-inquieto",
+              "title": "Mickey: El Cuco Inquieto",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "netra-nur-el-reflejo",
+              "title": "Netra Nur: El Reflejo",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "onkgopotse-de-groot-nuestra-memoria-hablada",
+              "title": "Onkgopotse de Groot: Nuestra Memoria Hablada",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "pulmari-la-voz-incendiaria",
+              "title": "Pulmari: La Voz Incendiaria",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "purnama-la-metamorfa",
+              "title": "Purnama: La Metamorfa",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "rocio-medina-carrillo-la-pacificadora",
+              "title": "Rocío Medina-Carrillo: La Pacificadora",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "tom-laughing-eagle-smithson",
+              "title": "Tom «Laughing Eagle» Smithson",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "torin-roberts-el-hombre-del-momento",
+              "title": "Torin Roberts: El Hombre del Momento",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "xavier-leroux-corredor-del-vacio",
+              "title": "Xavier Leroux: Corredor del Vacío",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "xiaofeng-qiu",
+              "title": "Xiǎofēng Qiū",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "xoca-el-cruzado",
+              "title": "Xoca: El Cruzado",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "xoxotlacotl-el-cosechador",
+              "title": "Xoxotlacotl: El Cosechador",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "yoshi-e-wiibaru-charon",
+              "title": "Yoshi'e Wiibaru: Charon",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cierre",
+      "block_title": "Cierre",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "personajes-interconectados-con-motivaciones-unicas",
+              "title": "Personajes Interconectados con Motivaciones Únicas",
+              "part": null,
+              "content_type": "back-matter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

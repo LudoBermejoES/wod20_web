@@ -1,0 +1,32 @@
+{
+  "book_id": "m20-the-rich-bastards-guide-to-magick",
+  "line": "mage",
+  "order": 15,
+  "slug": "privilegio-sobre-privilegio",
+  "block": "capitulo-3",
+  "block_title": "Capítulo Tres: Magia monetaria",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Privilegio sobre privilegio",
+  "content_type": "lore",
+  "source_line_range": [
+    1303,
+    1316
+  ],
+  "body_md": "## Privilegio sobre privilegio\n\nSi el dinero no puede comprar la felicidad, desde luego puede comprar todo lo demás. Las personas más ricas ostentan una cantidad de poder y capacidad de acción sin precedentes, mucho más de lo que cualquiera de su clase habría soñado siquiera hace una década. Con suficientes activos, todo y cualquier cosa está a la venta: castillos, yates, jets, [gobiernos](/mage/instruments/governments), medios, personas. Con suficiente planificación y artimañas, la riqueza crea dinastías que duran siglos.\n\nAhora mézclalo con la magia. Cuando la fuerza motriz de la sociedad se encuentra con los componentes básicos de la realidad, la Artesana de la Voluntad adinerada se encuentra en una posición única. La prosperidad y todas sus encarnaciones y expresiones pueden crearse, manipularse, e infligirse a otros. Algunos magos ricos incluso incorporan su opulencia a su cosmovisión, adoptando Paradigmas que abrazan su riqueza como cuestión de fe.\n\nEstos son solo una muestra de lo que el dinero y la magia pueden hacer. Como la riqueza misma, el cielo es el límite.\n\n\n## Fórmulas\n\nLas siguientes Fórmulas se organizan por Esfera. Las Fórmulas que requieren múltiples Esferas se colocan en la Esfera con mayor [influencia](/mage/backgrounds/influence) sobre su Efecto.",
+  "toc": [
+    {
+      "text": "Fórmulas",
+      "anchor": "formulas"
+    }
+  ],
+  "prev": {
+    "slug": "relato-la-distraccion",
+    "title": "Relato: La Distracción"
+  },
+  "next": {
+    "slug": "formulas-correspondencia",
+    "title": "Fórmulas: Correspondencia"
+  }
+}

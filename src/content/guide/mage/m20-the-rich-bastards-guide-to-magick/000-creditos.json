@@ -1,0 +1,29 @@
+{
+  "book_id": "m20-the-rich-bastards-guide-to-magick",
+  "line": "mage",
+  "order": 0,
+  "slug": "creditos",
+  "block": "preliminares",
+  "block_title": "Preliminares",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Créditos",
+  "content_type": "front-matter",
+  "source_line_range": [
+    1,
+    37
+  ],
+  "body_md": "## Créditos\n\nRedacción: Brooke Chang, Hiromi Cota, Jose Garcia, Alan Gowing, Joshua Heath, Victor Kinzer, Lauren Roy, Hilary Sklar, Rachel Wilkinson\n\nDesarrolladora: Lauren Roy\n\nDesarrollador de World of Darkness: Matthew Dawkins\n\nEditor: Matt Click\n\nArte: Emmanuel Desiati, Mirko Failoni, Mike Gaydos,\n\nKen Meyer Jr, Drew Tucker\n\nDirector de Arte: Michael Chaney Director Creativo: Richard Thomas\n\n\n## Agradecimientos especiales\n\nMi marido, Greg Roy, quien puso Mage: The Ascension en mis manos por primera vez hace 20 años.\n\n\n\n© 2022 Paradox Entertainment AB. Todos los derechos reservados. Ninguna parte de esta publicación puede reproducirse, almacenarse en un sistema de recuperación o transmitirse de ninguna forma ni por ningún medio, ya sea electrónico, mecánico, fotocopia, grabación o de otro modo, sin el permiso previo por escrito de Paradox Entertainment AB. Las prohibiciones de reproducción no se aplican a las hojas de personaje contenidas en este libro cuando se reproducen para uso personal.\n\nWhite Wolf, Vampire y Chronicles of Darkness son marcas registradas de Paradox Entertainment AB. Todos los derechos reservados. Vampire the Requiem, Werewolf the Forsaken, Mage the Awakening y Sistema Narrativo son marcas comerciales de Paradox Entertainment AB. Todos los derechos reservados. Todos los personajes, nombres, lugares y textos aquí presentes están protegidos por derechos de autor de Paradox Entertainment AB.\n\nLa mención o referencia a cualquier empresa o producto en estas páginas no constituye un desafío a la marca registrada o los derechos de autor correspondientes.\n\nEste libro utiliza lo sobrenatural como escenario, personajes y temática. Todos los [elementos](/mage/instruments/elements) místicos y sobrenaturales son ficticios y están destinados únicamente a fines de entretenimiento. Este libro contiene contenido para adultos. Se recomienda discreción al lector.\n\nVisita Onyx Path en http://www.theonyxpath.com",
+  "toc": [
+    {
+      "text": "Agradecimientos especiales",
+      "anchor": "agradecimientos-especiales"
+    }
+  ],
+  "prev": null,
+  "next": {
+    "slug": "preludio-segun-lo-planeado",
+    "title": "Preludio: Según lo planeado"
+  }
+}

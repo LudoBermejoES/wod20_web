@@ -1,0 +1,325 @@
+{
+  "book_id": "m20-sorcerer",
+  "line": "mage",
+  "title_es": "Mago: El Hechicero",
+  "book_title_es": "Mago: El Hechicero",
+  "page_count": 38,
+  "tree": [
+    {
+      "block": "front-matter",
+      "block_title": "Portada y créditos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "portada-y-creditos",
+              "title": "Portada y Créditos",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "apertura",
+      "block_title": "Relato de Apertura",
+      "chapters": [
+        {
+          "chapter": "Relato de Apertura",
+          "pages": [
+            {
+              "slug": "arderan-en-tu-venganza",
+              "title": "Arderán en tu Venganza",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "Introducción",
+          "pages": [
+            {
+              "slug": "introduccion-hechiceros-y-videntes",
+              "title": "Introducción: Hechiceros y Videntes",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "capitulo-1",
+      "block_title": "Capítulo Uno: Hechicería",
+      "chapters": [
+        {
+          "chapter": "Capítulo Uno: Hechicería",
+          "pages": [
+            {
+              "slug": "reglas-basicas-de-la-magia-de-sendas",
+              "title": "Reglas Básicas de la Magia de Sendas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "alquimia",
+              "title": "Alquimia",
+              "part": "Alquimia",
+              "content_type": "rule"
+            },
+            {
+              "slug": "conjuracion",
+              "title": "Conjuración",
+              "part": "Conjuración",
+              "content_type": "rule"
+            },
+            {
+              "slug": "transporte",
+              "title": "Transporte",
+              "part": "Transporte",
+              "content_type": "rule"
+            },
+            {
+              "slug": "adivinacion",
+              "title": "Adivinación",
+              "part": "Adivinación",
+              "content_type": "rule"
+            },
+            {
+              "slug": "efimera",
+              "title": "Efímera",
+              "part": "Efímera",
+              "content_type": "rule"
+            },
+            {
+              "slug": "encantamiento",
+              "title": "Encantamiento",
+              "part": "Encantamiento",
+              "content_type": "rule"
+            },
+            {
+              "slug": "fascinacion",
+              "title": "Fascinación",
+              "part": "Fascinación",
+              "content_type": "rule"
+            },
+            {
+              "slug": "fortuna",
+              "title": "Fortuna",
+              "part": "Fortuna",
+              "content_type": "rule"
+            },
+            {
+              "slug": "curacion",
+              "title": "Curación",
+              "part": "Curación",
+              "content_type": "rule"
+            },
+            {
+              "slug": "fuego-infernal",
+              "title": "Fuego Infernal",
+              "part": "Fuego Infernal",
+              "content_type": "rule"
+            },
+            {
+              "slug": "ilusion",
+              "title": "Ilusión",
+              "part": "Ilusión",
+              "content_type": "rule"
+            },
+            {
+              "slug": "voragines",
+              "title": "Vorágines",
+              "part": "Vorágines",
+              "content_type": "rule"
+            },
+            {
+              "slug": "necromancia",
+              "title": "Necromancia",
+              "part": "Necromancia",
+              "content_type": "rule"
+            },
+            {
+              "slug": "necronica",
+              "title": "Necrónica",
+              "part": "Necrónica",
+              "content_type": "rule"
+            },
+            {
+              "slug": "oniromancia",
+              "title": "Oniromancia",
+              "part": "Oniromancia",
+              "content_type": "rule"
+            },
+            {
+              "slug": "manipulacion-de-la-quintaesencia",
+              "title": "Manipulación de la Quintaesencia",
+              "part": "Manipulación de la Quintaesencia",
+              "content_type": "rule"
+            },
+            {
+              "slug": "sombras",
+              "title": "Sombras",
+              "part": "Sombras",
+              "content_type": "rule"
+            },
+            {
+              "slug": "cambio-de-forma",
+              "title": "Cambio de Forma",
+              "part": "Cambio de Forma",
+              "content_type": "rule"
+            },
+            {
+              "slug": "luz-de-las-estrellas",
+              "title": "Luz de las Estrellas",
+              "part": "Luz de las Estrellas",
+              "content_type": "rule"
+            },
+            {
+              "slug": "invocacion-vinculacion-y-proteccion",
+              "title": "Invocación, Vinculación y Protección",
+              "part": "Invocación, Vinculación y Protección",
+              "content_type": "rule"
+            },
+            {
+              "slug": "control-del-clima",
+              "title": "Control del Clima",
+              "part": "Control del Clima",
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "capitulo-2",
+      "block_title": "Capítulo Dos: Fenómenos Psíquicos",
+      "chapters": [
+        {
+          "chapter": "Capítulo Dos: Fenómenos Psíquicos",
+          "pages": [
+            {
+              "slug": "fenomenos-psiquicos",
+              "title": "Fenómenos Psíquicos",
+              "part": "Fenómenos Psíquicos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "fenomenos-psiquicos-clarividencia",
+              "title": "Clarividencia",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "fenomenos-psiquicos-escudos-mentales",
+              "title": "Escudos Mentales",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "fenomenos-psiquicos-psicocinesis",
+              "title": "Psicocinesis",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "capitulo-3",
+      "block_title": "Capítulo Tres: Practicantes",
+      "chapters": [
+        {
+          "chapter": "Capítulo Tres: Practicantes",
+          "pages": [
+            {
+              "slug": "aquelarres-y-afiliaciones",
+              "title": "Aquelarres y Afiliaciones",
+              "part": "Aquelarres y Afiliaciones",
+              "content_type": "lore"
+            },
+            {
+              "slug": "aquelarres-y-afiliaciones-los-doce-sacerdotes-de-la-orden-pitica",
+              "title": "Los Doce Sacerdotes de la Orden Pítica",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "aquelarres-y-afiliaciones-los-siete-truenos",
+              "title": "Los Siete Truenos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-concilio-de-las-nueve-tradiciones-misticas",
+              "title": "El Concilio de las Nueve Tradiciones Místicas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-alianza-dispar",
+              "title": "La Alianza Dispar",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-union-tecnocratica",
+              "title": "La Unión Tecnocrática",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "capitulo-4",
+      "block_title": "Capítulo Cuatro: Herramientas y Rasgos",
+      "chapters": [
+        {
+          "chapter": "Capítulo Cuatro: Herramientas y Rasgos",
+          "pages": [
+            {
+              "slug": "creacion-de-personajes",
+              "title": "Creación de Personajes",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "herramientas-del-oficio",
+              "title": "Herramientas del Oficio",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "back-matter",
+      "block_title": "Contraportada",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "magos-y-mentalistas",
+              "title": "Magos y Mentalistas",
+              "part": null,
+              "content_type": "back-matter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

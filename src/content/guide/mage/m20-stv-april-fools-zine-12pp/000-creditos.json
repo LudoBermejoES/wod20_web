@@ -1,0 +1,29 @@
+{
+  "book_id": "m20-stv-april-fools-zine-12pp",
+  "line": "mage",
+  "order": 0,
+  "slug": "creditos",
+  "block": "preliminares",
+  "block_title": "Preliminares",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Créditos",
+  "content_type": "front-matter",
+  "source_line_range": [
+    1,
+    37
+  ],
+  "body_md": "## Créditos\n\nEscrito por:\n\nDivid Poetters\n\nDesarrollado por:\n\nDivid Poetters\n\nEditado por:\n\nDivid Poetters\n\n\n\n## Agradecimientos especiales:\n\nNic Doran, por apoyarme y poner en pausa nuestra colaboración para que pudiera terminar este libro a tiempo. También por la corrección de pruebas. Jules Große, por acompañarme a modo de 'body double' hasta el final y traerme aperitivos.\n\n¡ELLOS!\n\nAchim Held, el creador de la conspiración\n\n\n\n\n\nTítulo del libro\n\n© 2018 White Wolf Entertainment AB. Todos los derechos reservados. Vampire: The Masquerade®, World of Darkness®, Storytelling System™ y Storytellers Vault™ son marcas comerciales y/o marcas registradas de White Wolf Entertainment AB. Todos los derechos reservados.\n\nPara más información sobre White Wolf y el World of Darkness, visite: www.white-wolf.com, www.worldofdarkness.com y www.storytellersvault.com.",
+  "toc": [
+    {
+      "text": "Agradecimientos especiales:",
+      "anchor": "agradecimientos-especiales"
+    }
+  ],
+  "prev": null,
+  "next": {
+    "slug": "la-conspiracion-de-bielefeld",
+    "title": "La Conspiración de Bielefeld"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "book_id": "m20-the-rich-bastards-guide-to-magick",
+  "line": "mage",
+  "order": 23,
+  "slug": "formulas-espiritu",
+  "block": "capitulo-3",
+  "block_title": "Capítulo Tres: Magia monetaria",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Fórmulas: Espíritu",
+  "content_type": "rule",
+  "source_line_range": [
+    1640,
+    1679
+  ],
+  "body_md": "## Espíritu\n\nAunque los espíritus puedan parecer ajenos a la necesidad de riquezas, todo el mundo, incluidos los habitantes de la Umbra, tiene un precio.\n\n\n## Espíritu del Capitalismo ( ·· Espíritu)\n\nEl dinero realmente puede hablar. También puede hacerlo la bolsa, una hipoteca, e incluso el mostrador de cambio de divisas del aeropuerto. Allá donde haya comercio, [mercados](/mage/instruments/markets) o capital, también están sus espíritus. Con algo de persuasión y un poco de cháchara comercial, estos espíritus parlotean con entusiasmo sobre casi cualquier cosa, como el tipo de clientela que frecuenta su negocio, o los últimos momentos de una persona desaparecida.\n\nSistema: El mago realiza una tarea que aplaca al espíritu comercial con el que desea hablar, como comprar un artículo, firmar un contrato, invertir o cambiar dinero. Con Espíritu 2, atraviesa la Celosía para despertar al espíritu elegido de su sueño.\n\nPor cada grado de éxito, el mago formula una pregunta que recibe una respuesta clara y veraz, sin condiciones. Después, puede conversar con el espíritu y hacer más preguntas, pero el espíritu puede pedir un [favor](/mage/merits/favor) a cambio, o simplemente volver a dormirse.\n\nEsto es un efecto coincidente.\n\n\n## El Simple Soborno de Toda la Vida ( ··· Espíritu/ ··· Cardinal / ·· Materia)\n\nConvencer a un espíritu de que haga cualquier cosa, y no digamos ya de que acepte quedar ligado a un [Fetiche](/mage/sphere-effects/fetish), es difícil. Algunos magos lo consiguen por pura fuerza de voluntad, pero los magos ricos tienen otra solución: comprar la [lealtad](/mage/merits/lealtad) de un espíritu transformando bienes físicos en Esencia.\n\nSistema: Espíritu 3 despierta al espíritu, mientras que Cardinal 3 y Materia 2 reescriben el [Patrón](/mage/backgrounds/patron) de un bien físico convirtiéndolo en Esencia pura. Esta Esencia tienta al espíritu, haciendo que acceda en el acto a las peticiones del mago.\n\nEl hechizo requiere el sacrificio de al menos dos puntos de [Recursos](/mage/backgrounds/resources), hasta un máximo de ocho a discreción del Narrador. Cada grado de éxito reduce el sacrificio en uno, hasta un mínimo de un punto. Cuando se completa el hechizo, el jugador elimina los puntos de [Recursos](/mage/backgrounds/resources) requeridos, y el espíritu obedece las órdenes del mago durante el resto de la historia.\n\nA menos que el espíritu esté haciendo algo extravagante, esto es un efecto coincidente.\n\n\n## Dejando un Legado ( ····· Espíritu/ ····· Entropía)\n\nIncluso esos raros magos que alargan su esperanza de vida rara vez igualan la longevidad de los espíritus. Los magos adinerados interesados en asegurar el éxito de sus descendientes ven esto como otro activo potencial. Algunos buscan proteger a sus hijos, nietos y bisnietos. Otros, convencidos de que sus descendientes Despertarán, les legan más orientación de la que sus Avatares por sí solos podrían proporcionar.\n\nRegalan a su progenie el propio espíritu guardián de la familia, un auténtico pater familias que velará por el linaje del mago durante lo que esperan que sea toda la eternidad.\n\nSistema: Espíritu 5 crea un espíritu, y Entropía 5 lo vincula al [destino](/mage/backgrounds/destiny) del mago y sus descendientes.\n\nEste es un ritual extendido que requiere 20 éxitos. Cada tirada representa cinco horas. Al completarlo, el jugador debe nombrar al espíritu y repartir los éxitos entre la Fuerza de Voluntad, la Rabia y la gnosis del espíritu. Este comienza con 20 puntos de Esencia. El jugador y el Narrador colaboran para determinar cuándo despierta el espíritu y cuáles son sus órdenes.\n\nEsto es un efecto vulgar.",
+  "toc": [
+    {
+      "text": "Espíritu del Capitalismo ( ·· Espíritu)",
+      "anchor": "espiritu-del-capitalismo-espiritu"
+    },
+    {
+      "text": "El Simple Soborno de Toda la Vida ( ··· Espíritu/ ··· Cardinal / ·· Materia)",
+      "anchor": "el-simple-soborno-de-toda-la-vida-espiritu-cardinal-materia"
+    },
+    {
+      "text": "Dejando un Legado ( ····· Espíritu/ ····· Entropía)",
+      "anchor": "dejando-un-legado-espiritu-entropia"
+    }
+  ],
+  "prev": {
+    "slug": "formulas-cardinal",
+    "title": "Fórmulas: Cardinal"
+  },
+  "next": {
+    "slug": "formulas-tiempo",
+    "title": "Fórmulas: Tiempo"
+  }
+}

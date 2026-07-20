@@ -1,0 +1,33 @@
+{
+  "book_id": "m20-the-mage-cookbook",
+  "line": "mage",
+  "order": 29,
+  "slug": "contraportada-la-comida-es-vida",
+  "block": "cierre",
+  "block_title": "Cierre",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Contraportada: La Comida es Vida",
+  "content_type": "back-matter",
+  "source_line_range": [
+    3407,
+    3437
+  ],
+  "body_md": "## La comida es vida\n\nSomos lo que comemos. Como han comprendido los magos a lo largo de la historia, los alimentos que sustentan nuestros cuerpos también sustentan la Iluminación. Tales alimentos se convierten en extensiones de las personas y culturas que los crean. Ahora el hermano Oliver Lyon, Caballero Templario e hijo humilde de un panadero, viaja por el mundo cazando a los Caídos y recopilando buenas recetas por el camino.\n\n\n## Recetas encantadoras\n\nDesde cabezas de león mandarinas hasta licores alquímicos, la colección de deliciosas recetas del hermano Oliver abarca los reinos culturales del mundo humano de Mage. Entre estas muchas creaciones culinarias, encontrarás…\n\nBisque de langosta\n\nTarta de ángel\n\nNanban de pollo\n\nFufu de maíz\n\nWellington de ternera\n\nBizcocho Battenburg\n\nEstofado del Caníbal, y mucho más\n\n\n## Alimenta tu cuerpo, alimenta tu alma\n\nEl Libro de Cocina de Mage es una perspectiva culinaria no canónica pero deliciosa sobre el mundo de Mage: The Ascension",
+  "toc": [
+    {
+      "text": "Recetas encantadoras",
+      "anchor": "recetas-encantadoras"
+    },
+    {
+      "text": "Alimenta tu cuerpo, alimenta tu alma",
+      "anchor": "alimenta-tu-cuerpo-alimenta-tu-alma"
+    }
+  ],
+  "prev": {
+    "slug": "coda-buena-cocina-casera",
+    "title": "Coda: Buena Cocina Casera"
+  },
+  "next": null
+}

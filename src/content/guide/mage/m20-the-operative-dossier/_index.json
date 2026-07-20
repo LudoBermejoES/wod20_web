@@ -1,0 +1,355 @@
+{
+  "book_id": "m20-the-operative-dossier",
+  "line": "mage",
+  "title_es": "Mago: El Dosier del Operativo",
+  "book_title_es": "Mago: El Dosier del Operativo",
+  "page_count": 37,
+  "tree": [
+    {
+      "block": "preliminares",
+      "block_title": "Preliminares",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos",
+              "title": "Créditos",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "relato",
+      "block_title": "Relato de Apertura",
+      "chapters": [
+        {
+          "chapter": "Relato",
+          "pages": [
+            {
+              "slug": "te-e-intriga",
+              "title": "Té e Intriga",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "Introducción",
+          "pages": [
+            {
+              "slug": "introduccion-afrontando-el-futuro",
+              "title": "Introducción: Afrontando el Futuro",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "capitulo-1",
+      "block_title": "Capítulo Uno: Constructos y Simposios",
+      "chapters": [
+        {
+          "chapter": "Capítulo Uno: Constructos y Simposios",
+          "pages": [
+            {
+              "slug": "ideas-hechas-realidad",
+              "title": "Ideas Hechas Realidad",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "proyecto-arcologia-x-sejong-corea",
+              "title": "Proyecto Arcología X (Sejong, Corea)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "emplazamiento-de-desarrollo-militar-multinacional-australia",
+              "title": "Emplazamiento de Desarrollo Militar Multinacional (Australia)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "investigacion-y-aplicacion-de-terranormalizacion-lake-delton-wisconsin",
+              "title": "Investigación y Aplicación de Terranormalización (Lake Delton, Wisconsin)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "ultima-thule-antartida",
+              "title": "Ultima Thule (Antártida)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "simposio-de-la-estacion-experimental",
+              "title": "Simposio de la Estación Experimental",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "capitulo-2",
+      "block_title": "Capítulo Dos: Aliados Improbables",
+      "chapters": [
+        {
+          "chapter": "Capítulo Dos: Aliados Improbables",
+          "pages": [
+            {
+              "slug": "capitulo-dos-aliados-improbables",
+              "title": "Capítulo Dos: Aliados Improbables",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "el-concilio-de-las-nueve-tradiciones-misticas",
+              "title": "El Concilio de las Nueve Tradiciones Místicas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "permutaciones-disidentes-e-iniciativas-transconvencion",
+              "title": "Permutaciones Disidentes e Iniciativas Transconvención",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "las-dagas-negras",
+              "title": "Las Dagas Negras",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-fundacion-desafiar-al-destino",
+              "title": "La Fundación Desafiar al Destino",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-complejo-de-cassandra",
+              "title": "El Complejo de Cassandra",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "amigos-de-courage",
+              "title": "Amigos de Courage",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "navalon",
+              "title": "Návalon",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "mokteshaf-al-nour",
+              "title": "Mokteshaf Al Nour",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "proyecto-invictus",
+              "title": "Proyecto Invictus",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "huerfanos-y-no-alineados",
+              "title": "Huérfanos y No Alineados",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "aliados-anomalos",
+              "title": "Aliados Anómalos",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "capitulo-3",
+      "block_title": "Capítulo Tres: Red Digital 3.0",
+      "chapters": [
+        {
+          "chapter": "Capítulo Tres: Red Digital 3.0",
+          "pages": [
+            {
+              "slug": "bienvenido-a-la-red-digital-3-0",
+              "title": "Bienvenido a la Red Digital 3.0",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "procedimientos-acciones-y-combate-en-la-red",
+              "title": "Procedimientos, Acciones y Combate en la Red",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "paradoja-y-la-estructura-de-la-red",
+              "title": "Paradoja y la Estructura de la Red",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "apps-redes-sociales-y-la-red-oscura",
+              "title": "Apps, Redes Sociales y la Red Oscura",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "capitulo-4",
+      "block_title": "Capítulo Cuatro: El Baúl de los Juguetes",
+      "chapters": [
+        {
+          "chapter": "Capítulo Cuatro: El Baúl de los Juguetes",
+          "pages": [
+            {
+              "slug": "ajustes",
+              "title": "Ajustes",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "procedimientos",
+              "title": "Procedimientos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "aparatos",
+              "title": "Aparatos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "estatus-y-creacion-de-constructos",
+              "title": "Estatus y Creación de Constructos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "terranormalizacion",
+              "title": "Terranormalización",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "capitulo-5",
+      "block_title": "Capítulo Cinco: Declaración de Misiones",
+      "chapters": [
+        {
+          "chapter": "Capítulo Cinco: Declaración de Misiones",
+          "pages": [
+            {
+              "slug": "mision-uno-esperanza",
+              "title": "Misión Uno: Esperanza",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "mision-dos-el-milagro-de-la-creacion",
+              "title": "Misión Dos: El Milagro de la Creación",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "mision-tres-el-progreso-es-un-proceso",
+              "title": "Misión Tres: El Progreso es un Proceso",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "mision-cuatro-gatos-en-la-dox-box",
+              "title": "Misión Cuatro: Gatos en la Dox Box",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "mision-cinco-este-equipo-no-ha-sido-probado",
+              "title": "Misión Cinco: Este Equipo No Ha Sido Probado",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "mision-seis-heridas-de-guerra",
+              "title": "Misión Seis: Heridas de Guerra",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cierre",
+      "block_title": "Cierre",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "una-nueva-mision-para-un-nuevo-mundo",
+              "title": "Una Nueva Misión para un Nuevo Mundo",
+              "part": null,
+              "content_type": "back-matter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

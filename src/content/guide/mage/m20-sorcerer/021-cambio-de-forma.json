@@ -1,0 +1,64 @@
+{
+  "book_id": "m20-sorcerer",
+  "line": "mage",
+  "order": 21,
+  "slug": "cambio-de-forma",
+  "block": "capitulo-1",
+  "block_title": "Capítulo Uno: Hechicería",
+  "chapter": "Capítulo Uno: Hechicería",
+  "part": "Cambio de Forma",
+  "section": null,
+  "title": "Cambio de Forma",
+  "content_type": "rule",
+  "source_line_range": [
+    1471,
+    1532
+  ],
+  "body_md": "## Cambio de Forma\n\nIncluso entre las magias primigenias, la capacidad de transformarse en un animal destaca como algo excepcional. Muchos monstruos que acechan en la noche poseen el poder de la transformación, incluidos aquellos que son verdaderos cambiaformas. Los magos estáticos que estudian la Senda del [Cambio de Forma](/mage/sphere-effects/shapeshifting) imitan una cierta parte de ese poder, transformando primero partes de sí mismos y más adelante su cuerpo entero de formas espectaculares.\n\nLa mayoría piensa en esta Senda como transformarse a uno mismo o a otros en animales. Cuando los magos que cambian de forma optan por la sutileza, pueden convertirse en [espías](/mage/backgrounds/spies) extraordinarios. Pueden realizar cambios cosméticos para parecer una persona diferente, y luego complementar su disfraz con sentidos agudizados. Pueden transformarse en algo más peligroso si su tapadera queda al descubierto.\n\nEl mayor riesgo de esta Senda es que la mente humana no está preparada para [cambiar de forma](/mage/sphere-effects/change-shape). Toda transformación conlleva un riesgo, pero es mayor al realizar un cambio completo a forma animal. Entonces, incluso sin un fracaso, el mago necesita realizar una tirada de Fuerza de Voluntad (dificultad 6) para conservar su propia mente, en lugar de perderse en su naturaleza animal.\n\n\n## Sistema\n\nDuración\n\n\n## : Escena\n\nAspectos: ninguno de los Aspectos estándar se aplica al [Cambio de Forma](/mage/sphere-effects/shapeshifting). En su lugar, utiliza:\n\n\n## Escala\n\n- Solo cambios cosméticos, como el color de ojos o dejarse crecer el pelo.\n- ·· Cambios pequeños pero perceptibles, como que le crezcan [garras](/mage/rotes/claws) o escamas.\n- ··· El mago puede cambiar una sola parte de su cuerpo por la de otra criatura.\n- ···· Semicambio: el mago puede cambiar la mitad de su cuerpo por el de un animal, o adoptar una forma a medio camino entre humano y animal.\n- ····· Cambio Completo: el mago puede transformarse por completo en un animal.\n\n\n## Sujeto\n\n- ··· El mago solo puede afectarse a sí mismo.\n- ···· El mago puede transformar a otro objetivo.\n- ····· El mago puede afectar a dos sujetos a la vez.\n\n\n## Disparidad\n\n- ··· Solo un único rasgo animal.\n- ···· El mago puede adoptar dos cambios no relacionados, como la cabeza de un animal y el cuerpo de otro.\n- ····· Son posibles tres cambios no relacionados.\n\nPrecio del [Fallo](/mage/flaws/failure): cuando un cambiaformas fracasa, el mejor de los casos consiste en una transformación inesperada y desagradable. También puede perderse en su otra forma, volviéndose funcionalmente salvaje. En el peor de los casos, puede sufrir un arrebato similar al Defecto [Berserker](/mage/merits/berserker)/[Atavismo por Estrés](/mage/flaws/atavismo-por-estres) (Mago 20 p. 644).\n\n\n## Rituales de Ejemplo\n\n\n## Robo de Rostro ( · )\n\nEl ritual clave para el espionaje basado en el [Cambio de Forma](/mage/sphere-effects/shapeshifting), [Robo de Rostro](/mage/rituals/face-theft) permite al mago adoptar la forma precisa de otro ser humano. Debe poseer algún fragmento de la persona, como mechones de pelo o recortes de uñas. El ritual requiere un éxito para una persona ampliamente similar al lanzador, y un éxito adicional por cada aspecto en que la forma difiera en raza, sexo, o en más de 20 años de edad.\n\n\n## Fijar la Forma Verdadera ( ···· )\n\nLos cambiaformas a menudo se encuentran en conflicto entre sí. También se topan con cosas más extrañas que tienen [múltiples formas](/mage/sphere-effects/multiple-forms). [Fijar la Forma Verdadera](/mage/rituals/fix-true-form) fue desarrollado por alguien que afirmaba descender de hombres lobo. Obliga a cualquiera que sea su objetivo a adoptar su forma «verdadera» si falla una tirada de Fuerza de Voluntad (dificultad 8). En el caso de los magos, simplemente revierten a su forma natural, como la mayoría de los demás cambiaformas. Irónicamente, a pesar de haber sido creado en parte para forzar a los hombres lobo a adoptar sus formas humana o lobuna, este ritual obliga en cambio a los Garou y a los Fera a adoptar sus formas mixtas, a menudo con consecuencias terribles para un mago [estático](/mage/resonances/static) demasiado confiado.\n\n\n## Transformación en Megafauna ( ····· )\n\nLa Senda del [Cambio de Forma](/mage/sphere-effects/shapeshifting) permite al lanzador adoptar formas animales, incluidas transformaciones parciales. Pero al final, el lanzador normalmente solo puede transformarse por completo en un animal normal. Este ritual le permite convertirse en una versión gigantesca de cualquier animal en el que quiera transformarse. En la mayoría de los casos, se trata de un regreso completo a una versión extinta del animal, como el megaterio (perezoso gigante) de las Américas. Esto requiere al menos cinco éxitos.",
+  "toc": [
+    {
+      "text": "Sistema",
+      "anchor": "sistema"
+    },
+    {
+      "text": ": Escena",
+      "anchor": "escena"
+    },
+    {
+      "text": "Escala",
+      "anchor": "escala"
+    },
+    {
+      "text": "Sujeto",
+      "anchor": "sujeto"
+    },
+    {
+      "text": "Disparidad",
+      "anchor": "disparidad"
+    },
+    {
+      "text": "Rituales de Ejemplo",
+      "anchor": "rituales-de-ejemplo"
+    },
+    {
+      "text": "Robo de Rostro ( · )",
+      "anchor": "robo-de-rostro"
+    },
+    {
+      "text": "Fijar la Forma Verdadera ( ···· )",
+      "anchor": "fijar-la-forma-verdadera"
+    },
+    {
+      "text": "Transformación en Megafauna ( ····· )",
+      "anchor": "transformacion-en-megafauna"
+    }
+  ],
+  "prev": {
+    "slug": "sombras",
+    "title": "Sombras"
+  },
+  "next": {
+    "slug": "luz-de-las-estrellas",
+    "title": "Luz de las Estrellas"
+  }
+}

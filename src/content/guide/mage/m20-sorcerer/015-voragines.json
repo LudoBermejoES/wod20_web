@@ -1,0 +1,52 @@
+{
+  "book_id": "m20-sorcerer",
+  "line": "mage",
+  "order": 15,
+  "slug": "voragines",
+  "block": "capitulo-1",
+  "block_title": "Capítulo Uno: Hechicería",
+  "chapter": "Capítulo Uno: Hechicería",
+  "part": "Vorágines",
+  "section": null,
+  "title": "Vorágines",
+  "content_type": "rule",
+  "source_line_range": [
+    1178,
+    1223
+  ],
+  "body_md": "## Vorágines\n\nDescubierta por accidente, la Senda de las [Vorágines](/mage/hedge-paths/voragines) fue originalmente un intento de redescubrir el [Control del Clima](/mage/hedge-paths/control-del-clima). Tradicionalmente conocida como «Silbido» (como en «silbar para llamar a una tormenta»), los magos que la usaban buscaban invocar intensos vendavales de viento y lluvia en el mundo de los vivos. No fue hasta el siglo XIX cuando se descubrió que estas tempestades eran robadas de las Tierras de las [Sombras](/mage/hedge-paths/sombras).\n\nLa Vorágine extrae la [energía](/mage/instruments/energy) para crear sus tormentas de dos fuentes. La primera es la fuerza de voluntad del lanzador. Los hechizos y rituales de esta Senda cuestan un punto de Fuerza de Voluntad por nivel, en lugar del habitual punto fijo único de la mayoría de las Sendas. La otra fuente de poder son las propias Tierras de las [Sombras](/mage/hedge-paths/sombras), de las que se extrae [energía](/mage/instruments/energy), calmando a los fantasmas de la zona o expulsando por la fuerza a los muertos de la zona, según el tamaño de la tormenta.\n\nEl instrumento más habitual para esta Senda es, con diferencia, la [música](/mage/instruments/music). La mayoría de los usuarios dicen que desde el momento en que la aprendieron, podían oír [música](/mage/instruments/music) en su cabeza, y algunos creen que suena más fuerte cuanto más intensas son las tormentas de las que pueden extraer poder. Para estas personas, su Alerta queda limitada a un máximo de 3, debido a la distracción de la [música](/mage/instruments/music). Otros, sin embargo, no experimentan este efecto y no sufren ninguna penalización.\n\n\n## Sistema\n\nAspectos: Área, Duración, e Intensidad\n\n\n## Intensidad\n\n- Atraer una brisa y niebla del inframundo hacia el mundo de los vivos apacigua las Tierras de las [Sombras](/mage/hedge-paths/sombras) locales. Los fantasmas de la zona se calman. Se defenderán, pero por lo demás no atacarán a nadie en la zona durante la duración sin antes superar una tirada de Fuerza de Voluntad (dificultad 6).\n- ·· Se invoca una tormenta de lluvia, que drena tanta [energía](/mage/instruments/energy) del inframundo que los fantasmas quedan paralizados en el sitio a menos que superen una tirada de Fuerza de Voluntad (dificultad 7). Se vuelven lo bastante corpóreos como para que el mago pueda moverlos físicamente. Normalmente, esto se usa para retirar a los fantasmas de una zona en la que no son bienvenidos.\n- ··· Invocar una tormenta eléctrica a gran escala hace todavía más por calmar las Tierras de las [Sombras](/mage/hedge-paths/sombras). Esto drena el poder del Olvido de la zona. Los fantasmas quedan sedados como en el primer rango, pero aquellos bajo el control de sus [Sombras](/mage/hedge-paths/sombras) recuperan la razón. Los resultados varían con los espectros, pero existen leyendas de magos estáticos con esta Senda que han logrado alejar a un espectro del Olvido.\n- ···· Las tormentas poderosas en el mundo de los vivos, con vientos huracanados, granizo y abundantes\n\ndaños materiales, pueden agotar de verdad el poder del Olvido en las Tierras de las [Sombras](/mage/hedge-paths/sombras). Los espectros y otros fantasmas profundamente maliciosos que fallen una tirada de Fuerza de Voluntad (dificultad 8) desaparecen entre la ráfaga de viento y granizo. Ningún mago [estático](/mage/resonances/static) sabe con certeza qué les ocurre a estos espíritus, pero nunca se les vuelve a ver en el lugar donde se invocó el poder durante un año y un día.\n\n- ····· Una tormenta masiva que drena toda la [energía](/mage/instruments/energy) de la región correspondiente de las Tierras de las [Sombras](/mage/hedge-paths/sombras). Tanto el área como su reflejo en las Tierras de las [Sombras](/mage/hedge-paths/sombras) se vuelven completamente inhabitables para los fantasmas. Los Muertos Sin Reposo deben huir de la zona, o de lo contrario sufren cinco dados de daño por asalto hasta que lo hagan.\n\nPrecio del [Fallo](/mage/flaws/failure): el control del mago sobre estas tormentas es, en el mejor de los casos, tenue. En caso de [fallo](/mage/flaws/failure), la Fuerza de Voluntad se gasta igualmente, pero no ocurre nada. Los fracasos, sin embargo, provocan que las tormentas se descontrolen, tanto en el mundo de los vivos como en las Tierras de las [Sombras](/mage/hedge-paths/sombras). Cuando un mago [estático](/mage/resonances/static) pierde el control de las energías de esta Senda, invoca un fragmento de la Tempestad. Esto hace que los fantasmas normales se desorienten y tengan dificultades para moverse. Los espectros, por el contrario, prosperan en este entorno. Estos espíritus, los más maliciosos, cabalgan la Tempestad directamente hacia las Tierras de las [Sombras](/mage/hedge-paths/sombras) y les resulta más fácil manifestarse en la zona durante el tiempo que habría durado el hechizo.\n\n\n## Rituales de Ejemplo\n\n\n## Descansa en Paz ( ·· )\n\nAl invocar una tormenta eléctrica desde el inframundo, el mago puede sumir a los fantasmas cercanos en un estado de Hibernación. La Hibernación se parece en muchos aspectos al sueño de los vivos. Es reparadora para la forma [efímera](/mage/hedge-paths/efimera) del fantasma y descansada para su mente y personalidad. Mientras está en Hibernación, el fantasma pierde la consciencia de su entorno, y en su lugar experimenta sueños vívidos. Por lo general, esos sueños son animados y coloridos, centrados en las pasiones del fantasma, pero con una oscuridad que los cubre debido a la [Sombra](/mage/psychic-phenomenons/sombra). La Hibernación creada por este ritual trae sueños mejores y más apacibles. La [influencia](/mage/backgrounds/influence) de la [Sombra](/mage/psychic-phenomenons/sombra) sobre ellos se reduce a nada, e incluso los Espectros se encuentran teniendo sueños positivos por primera vez desde que cayeron ante sus [Sombras](/mage/hedge-paths/sombras). Un solo éxito siempre sume en Hibernación a un objetivo dispuesto, pero los objetivos no dispuestos (como la mayoría de los Espectros) realizan una tirada de Fuerza de Voluntad (dificultad 6) y deben obtener más éxitos que el ritual para permanecer despiertos.\n\n\n## Calma Arriba, Infierno Abajo ( ··· )\n\nLos hechizos de la Senda de las [Vorágines](/mage/hedge-paths/voragines) generalmente traen la [energía](/mage/instruments/energy) de la Tempestad desde el Inframundo hacia el mundo físico. Esto crea las tormentas arriba y calma abajo. Este ritual invierte eso. Solo puede realizarse durante una tormenta, y al completarse, cualquier tormenta normal en la zona amaina. Los fenómenos meteorológicos extremos apenas se ven afectados y pueden usarse para realizar este ritual varias veces, incluso reduciendo la dificultad en uno. Sin embargo, rara vez es buena idea quedarse fuera en un huracán durante varias horas. La [energía](/mage/instruments/energy) de la tormenta enfurece a los fantasmas de la zona. Con un solo éxito, deben realizar tiradas de Fuerza de Voluntad (dificultad 6), o empiezan a arremeter, atacándose entre sí e incluso a los vivos si tienen el poder de hacerlo. Si el lanzador obtiene cinco o más éxitos, esto además crea una Vorágine, haciendo que la mayoría de los fantasmas intenten huir de la zona, antes de ser atacados por los espectros que tales disturbios inevitablemente atraen.\n\n\n## Refugio para los Muertos ( ····· )\n\nUn ritual poderoso pero solo útil en situaciones concretas, [Refugio para los Muertos](/mage/rituals/shelter-for-the-dead) solo puede realizarse con las mayores tormentas del Inframundo: las Grandes [Vorágines](/mage/hedge-paths/voragines). Nadie sabe cómo ni cuándo se desarrolló, pero se usó por primera vez para proteger a los fantasmas de Constantinopla durante la Gran Vorágine causada por la Peste Negra. El ritual es transmitido por los pocos que lo conocen a sus alumnos, con la esperanza de que nunca sea necesario, pero sabiendo lo valioso que puede llegar a ser si ocurre lo peor. A riesgo de provocar una tormenta extrema que azote las tierras de los vivos, [Refugio para los Muertos](/mage/rituals/shelter-for-the-dead) crea una región, no mayor que una manzana de una ciudad moderna, en la que la Vorágine no puede entrar. Más bien, si los fragmentos de la Gran Vorágine sí entran, se transforman de inmediato en tormentas brutales, con vientos extremos, granizo del tamaño de puños y otras cosas extrañas, sin importar el clima habitual de la zona. El ritual requiere diez éxitos, casi siempre necesitando un grupo, y dura un día, más uno adicional por cada éxito extra por encima del mínimo de diez.",
+  "toc": [
+    {
+      "text": "Sistema",
+      "anchor": "sistema"
+    },
+    {
+      "text": "Intensidad",
+      "anchor": "intensidad"
+    },
+    {
+      "text": "Rituales de Ejemplo",
+      "anchor": "rituales-de-ejemplo"
+    },
+    {
+      "text": "Descansa en Paz ( ·· )",
+      "anchor": "descansa-en-paz"
+    },
+    {
+      "text": "Calma Arriba, Infierno Abajo ( ··· )",
+      "anchor": "calma-arriba-infierno-abajo"
+    },
+    {
+      "text": "Refugio para los Muertos ( ····· )",
+      "anchor": "refugio-para-los-muertos"
+    }
+  ],
+  "prev": {
+    "slug": "ilusion",
+    "title": "Ilusión"
+  },
+  "next": {
+    "slug": "necromancia",
+    "title": "Necromancia"
+  }
+}

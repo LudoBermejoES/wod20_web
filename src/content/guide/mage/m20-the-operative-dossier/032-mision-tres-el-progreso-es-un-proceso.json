@@ -1,0 +1,56 @@
+{
+  "book_id": "m20-the-operative-dossier",
+  "line": "mage",
+  "order": 32,
+  "slug": "mision-tres-el-progreso-es-un-proceso",
+  "block": "capitulo-5",
+  "block_title": "Capítulo Cinco: Declaración de Misiones",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Misión Tres: El Progreso es un Proceso",
+  "content_type": "rule",
+  "source_line_range": [
+    3089,
+    3136
+  ],
+  "body_md": "## Misión Tres: El Progreso es un Proceso\n\nLa Amalgama del Proyecto Arcology X rastrea un cargamento desaparecido vital para el Nodo del [Constructo](/mage/flaws/construct). En el proceso, descubren que la Arcology fue atacada por un hacker que parecía ser una Entidad Terianthrópica. La batalla que enfrenta desde hace décadas a los Dragones y a las ETs autodenominadas Glass Walkers por el control del Nodo se ha reavivado. ¿O no?\n\n\n## Preparación\n\nNo supone una sorpresa total para la Amalgama que los sensores IoT desaparecidos, utilizados para vigilar su Nodo, aparezcan en la oficina del engañosamente descuidado capitán Li, aunque un robo tan descarado parece impropio de él. En realidad, Jack Fenrir, un Adepto Virtual obsesionado con los lobos, pirateó dos AROs e intercambió sus ubicaciones, provocando que el cargamento se entregara en el lugar equivocado.\n\nLos Agentes tienen mucho trabajo por delante: recuperar el cargamento, asegurar la Red y castigar al hacker sin desencadenar una nueva guerra con los hombres lobo.\n\n\n## Involucrando a los Agentes\n\nLos agentes de logística o seguridad reciben una alerta de que el cargamento fue entregado, pero nadie lo ha visto. Con los millones de sensores y el sistema de guía automatizado de la Ciudad de Sejong y la Arcology, los errores de envío sencillamente no ocurren, lo que despierta sospechas. Los agentes centrados en la Red se enteran del incidente al revisar los registros de seguridad.\n\n\n## Qué Ocurre a Continuación\n\nDada la importancia de los sensores para controlar el Nodo, recuperarlos es la máxima prioridad de la Amalgama.\n\n\n## Recuperación\n\nRastrear el trayecto de los sensores es sencillo, ya que estuvo bajo la vigilancia del Dragón de Tierra. Sin embargo, hace falta algo de untar manos o un poco de pirateo para acceder a los registros. Una vez que los agentes encuentran el cargamento, deben convencer al capitán Li de que se desprenda de él.\n\nLi tiene un rango superior al de los agentes, así que intimidar al Traje Gris es inútil, igual que apelar a su buena voluntad; es un maestro de [espías](/mage/backgrounds/spies) y le resultan más útiles los dispositivos de vigilancia que los argumentos morales. Demostrar que el cargamento se entregó por error le intriga, pero necesita saber cómo ocurrió antes de liberar el cargamento. Para las estadísticas de juego de Li, utiliza las de un Black Dagger (Technocracy Reloaded, p. XX).\n\n\n## La Red Digital\n\nUna sencilla investigación en la Red revela que los AROs del muelle de carga/descarga de la Arcology X y los de Vigilancia y Control de Sejong fueron intercambiados, pero averiguar cómo ocurrió exige más trabajo de campo. Las incoherencias en los registros de los AROs dan a los agentes una hora aproximada del pirateo. Al cruzar esa información con los programas de vigilancia se revela al intruso: un hombre lobo, o un hacker con un icono de hombre lobo muy bien elaborado.\n\n\n## Tratos con Lobos\n\nIdentificar y tratar con el intruso es el último paso. La vigilancia del Dragón de Tierra señala a Seo Nari, la última superviviente conocida de la manada que vivía en el Nodo de la Arcology. Ha estado viviendo en los bosques circundantes, albergando un rencor tremendo contra la Unión Tecnocrática. Ella no tuvo nada que ver con el pirateo, así que enfrentarse a ella no le reportará mucho a los agentes. Para sus estadísticas, utiliza Hombre Lobo Asesino (Gods and Monsters, p. 66).\n\nBuscar a un hacker con temática de hombre lobo lleva hasta Jack Fenrir, un Adepto Virtual que se aloja actualmente en el Hotel Valhalla de Sejong. Convencido de ser el hijo lobo de Loki, Fenrir eligió esa ciudad por su nivel tecnológico y por el nombre del hotel. Los AROs fueron simplemente blancos de oportunidad. Para sus estadísticas, utiliza Hacktivista Despertado (Mage 20, p. 628).\n\n\n## Resolución\n\nAtacar a Seo Nari aumenta las tensiones con las ETs, lo que crea problemas futuros para la Amalgama. Del mismo modo, atacar a Fenrir molesta a los Adeptos, aunque beneficia a Seo, ya que las acciones de él mancharon la reputación de su manada. No deshará décadas de conflicto, pero es un comienzo.\n\nNo conseguir asegurar al menos la mitad de los sensores supone una reprimenda (Technocracy Reloaded, p. XX). No descubrir o no informar de la intrusión en la Red deja un agujero de seguridad Digital que alguien puede aprovechar. Si una investigación futura determina que un agente se enteró del pirateo y no lo informó, ese agente queda bajo vigilancia.",
+  "toc": [
+    {
+      "text": "Preparación",
+      "anchor": "preparacion"
+    },
+    {
+      "text": "Involucrando a los Agentes",
+      "anchor": "involucrando-a-los-agentes"
+    },
+    {
+      "text": "Qué Ocurre a Continuación",
+      "anchor": "que-ocurre-a-continuacion"
+    },
+    {
+      "text": "Recuperación",
+      "anchor": "recuperacion"
+    },
+    {
+      "text": "La Red Digital",
+      "anchor": "la-red-digital"
+    },
+    {
+      "text": "Tratos con Lobos",
+      "anchor": "tratos-con-lobos"
+    },
+    {
+      "text": "Resolución",
+      "anchor": "resolucion"
+    }
+  ],
+  "prev": {
+    "slug": "mision-dos-el-milagro-de-la-creacion",
+    "title": "Misión Dos: El Milagro de la Creación"
+  },
+  "next": {
+    "slug": "mision-cuatro-gatos-en-la-dox-box",
+    "title": "Misión Cuatro: Gatos en la Dox Box"
+  }
+}

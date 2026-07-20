@@ -1,0 +1,48 @@
+{
+  "book_id": "m20-faces-of-magick",
+  "line": "mage",
+  "order": 2,
+  "slug": "incorporando-personajes-de-rostros-de-la-magia",
+  "block": "introduccion",
+  "block_title": "Introducción",
+  "chapter": "Introducción",
+  "part": null,
+  "section": null,
+  "title": "Incorporando personajes de Rostros de la Magia",
+  "content_type": "reference",
+  "source_line_range": [
+    90,
+    123
+  ],
+  "body_md": "## Incorporando personajes de Faces of Magick\n\nAl igual que ocurre con Icons of Rage para Werewolf: The Apocalypse 20th Anniversary Edition o Children of the Blood para Vampire: The Masquerade 5th Edition, Faces of Magick presenta un abanico de personajes interesantes para incluir en tus crónicas. Pero, como en aquellos libros, son más que simples personajes interesantes sobre los que leer y luego archivar. Los personajes de los tres libros (y más) son idóneos para incluirse en tus crónicas. La pregunta es: ¿cómo?\n\n## Aliados\n\nLos [Aliados](/mage/backgrounds/allies) podrían representar una afiliación de Tradición compartida, pero es más probable que existan en forma de personajes con un propósito compartido. Un personaje podría elegir tener a alguien como Céleste como Aliada porque lo ayudó a asesinar a su madre (ese tipo de acto une a la gente de una manera u otra), o podría tener a Clutz como Aliada porque han ayudado a limpiar algunos crímenes mágicos en Seattle.\n\nConsidera cómo nacen las alianzas y qué podría implicar una alianza con un personaje (o personajes) de este libro. El elenco de Faces of Magick es un rico filón de gente que el Narrador puede proponer como [aliados](/mage/backgrounds/allies) desde el principio, y de quienes pueden desplegarse historias.\n\n## Contactos\n\nLos [Contactos](/mage/backgrounds/contacts) son más sencillos de incorporar a las crónicas que los [Aliados](/mage/backgrounds/allies), en el sentido de que no necesitan aparecer físicamente para ser útiles. Además, es menos probable que los [Contactos](/mage/backgrounds/contacts) tengan relaciones personales con los personajes, y en su lugar comparten un contacto por conveniencia o por favores debidos.\n\nComo ejemplos, los personajes de tus partidas de Mage pueden tener a Wildheart como Contacto porque la contrataron en un local de [música](/mage/instruments/music) en directo antes de que se hiciera famosa, y ella siempre se ha sentido en deuda con ellos por ello. Elsa podría ser Contacto para personajes con vínculos gubernamentales o de espionaje, especialmente si es una reconocida «intermediaria» para fuerzas con las que los personajes prefieren no tratar personalmente.\n\n## Mentores\n\nAl igual que con los [Aliados](/mage/backgrounds/allies), es típico buscar Mentores dentro de la Tradición existente de un personaje. Esto no tiene por qué ser así, y un [Mentor](/mage/backgrounds/mentor) ni siquiera necesita ser de naturaleza mágica. Los Mentores son cualquiera a quien el personaje admire o a quien acuda en busca de consejo.\n\nEmma Tavares es un excelente personaje [Mentor](/mage/backgrounds/mentor) para personajes con inclinaciones artísticas. Quizá los haya guiado en clases de arte, les haya dado tutoría individual, o simplemente sea una inspiración para ellos y se hayan convertido en uno de sus mecenas. Hyeonmyeong Sunim, por su parte, tiene más probabilidades de ser un [Mentor](/mage/backgrounds/mentor) tradicional en el sentido de que es antiguo, poderoso y posee abundantes secretos místicos. Hyeonmyeong es el tipo de [Mentor](/mage/backgrounds/mentor) al que los magos jugadores podrían peregrinar en busca de guía.\n\n## Rivales\n\nLos Rivales no siempre son enemigos. Cuando dos magos Despiertan en la misma ciudad casi al mismo tiempo, suele existir un vínculo entre ellos a nivel astral. A veces es de amistad o parentesco; otras veces es como mirar dos caras de la misma moneda, una pulida y refinada, la otra rayada y deslustrada.\n\nLos personajes criminales pueden tener fácilmente a Jack como Rival. No es asesino ni cruel, pero es competitivo y siempre está buscando el próximo gran golpe. Dado cómo son las rivalidades en el submundo criminal, los personajes podrían intentar constantemente superarse mutuamente sin que su competencia llegue nunca al odio. Jacob, por otro lado, podría ser un Rival hacia el que un personaje sienta verdadera enemistad, aunque tenga menos que ver con los actos de Jacob y más con los actos de sus dobles.\n\n## Enemigos, Amigos, Iguales y Amantes\n\nCada una de las formas mencionadas de vincular a los personajes de Faces of Magick con los personajes de tu crónica son sugerencias, pero considera otras formas de usarlos en tus partidas. ¿Es Jano Highwalker uno de los enemigos jurados de tus personajes? Julieta parece preparada para ser amante o amiga.\n\nLas relaciones ayudan a construir el mundo de Mage. Utiliza la información de este libro para poblar tu mundo y hacer que se sienta denso de magia y vida.",
+  "toc": [
+    {
+      "text": "Aliados",
+      "anchor": "aliados"
+    },
+    {
+      "text": "Contactos",
+      "anchor": "contactos"
+    },
+    {
+      "text": "Mentores",
+      "anchor": "mentores"
+    },
+    {
+      "text": "Rivales",
+      "anchor": "rivales"
+    },
+    {
+      "text": "Enemigos, Amigos, Iguales y Amantes",
+      "anchor": "enemigos-amigos-iguales-y-amantes"
+    }
+  ],
+  "prev": {
+    "slug": "introduccion-algo-en-la-gravedad",
+    "title": "Introducción: Algo en la Gravedad"
+  },
+  "next": {
+    "slug": "relato-1983-ahora",
+    "title": "Relato: 1983 / Ahora"
+  }
+}

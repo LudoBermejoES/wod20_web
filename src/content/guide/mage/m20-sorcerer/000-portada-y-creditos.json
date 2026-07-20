@@ -1,0 +1,29 @@
+{
+  "book_id": "m20-sorcerer",
+  "line": "mage",
+  "order": 0,
+  "slug": "portada-y-creditos",
+  "block": "front-matter",
+  "block_title": "Portada y créditos",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Portada y Créditos",
+  "content_type": "front-matter",
+  "source_line_range": [
+    1,
+    39
+  ],
+  "body_md": "Un suplemento para\n\nMage: The Ascension 20.ª Edición Aniversario\n\n\n\n\n## Créditos\n\nDesarrollador: Travis Legge\n\nDesarrollador consultor: Terry Skochko Robinson\n\nDesarrollador de la línea Mundo de Tinieblas: Matthew Dawkins\n\nEscritores: Bek Andrew Evans, Drew Kuehndorf, Travis Legge, Conri Purcell, Charles Siegel\n\nEditor: Richard Stratton\n\nArte: Alex Ngo, Nicholas Phillips, Skan Srisuwan\n\nDirector de arte: Maria Cabardo\n\nDirector creativo: Richard Thomas\n\n\n\n© 2022 PARADOX INTERACTIVE AB.\n\nTodos los derechos reservados. La reproducción sin el consentimiento por escrito del editor está expresamente prohibida, salvo con fines de reseña y en el caso de las hojas de personaje en blanco, que pueden reproducirse únicamente para uso personal. Mage: The Ascension y el Mundo de Tinieblas son marcas registradas de Paradox Interactive AB (publ). Todos los derechos reservados.\n\nVisita el Mundo de Tinieblas en línea en www.worldofdarkness.com\n\n\n## Agradecimientos Especiales\n\nScott Ashcraft, Mary Diamond, Mike Diamond, Corey Frang, Lewis Harris, Tony Kurtz, Bill Phillips, Dan McDorman, Alejandro Rodriguez, David A. Rodriguez, Cat Stark, Jason ssg y Chris Sweeney. Los años de noches en vela en el Denny's, con café, dados y la mejor compañía que un tipo podría pedir, han dado sus frutos. Gracias a todos por enseñarme a narrar historias.",
+  "toc": [
+    {
+      "text": "Agradecimientos Especiales",
+      "anchor": "agradecimientos-especiales"
+    }
+  ],
+  "prev": null,
+  "next": {
+    "slug": "arderan-en-tu-venganza",
+    "title": "Arderán en tu Venganza"
+  }
+}

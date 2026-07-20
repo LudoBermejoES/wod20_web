@@ -1,0 +1,123 @@
+{
+  "book_id": "m20-stv-mage-made-easy-183pp",
+  "line": "mage",
+  "title_es": "Mago: Magia para Principiantes",
+  "book_title_es": "Mago: Magia para Principiantes",
+  "page_count": 11,
+  "tree": [
+    {
+      "block": "preliminares",
+      "block_title": "Preliminares",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "portada-y-creditos",
+              "title": "Portada y créditos",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "guia",
+      "block_title": "La Guía",
+      "chapters": [
+        {
+          "chapter": "Introducción",
+          "pages": [
+            {
+              "slug": "introduccion-dioses-mios-que-he-hecho",
+              "title": "Introducción: Dioses Míos, ¿Qué He Hecho?",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Uno: El Camino Fácil",
+          "pages": [
+            {
+              "slug": "capitulo-uno-el-camino-facil",
+              "title": "Capítulo Uno: El Camino Fácil",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "el-foco-por-encima-de-las-esferas",
+              "title": "El Foco por Encima de las Esferas",
+              "part": "El Foco por Encima de las Esferas",
+              "content_type": "rule"
+            },
+            {
+              "slug": "los-elementos-complejos-de-mago",
+              "title": "Los Elementos Complejos de Mago",
+              "part": "Los Elementos Complejos de Mago",
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Dos: Enfoques Arcanos",
+          "pages": [
+            {
+              "slug": "capitulo-dos-enfoques-arcanos",
+              "title": "Capítulo Dos: Enfoques Arcanos",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "enfoques-arcanos-sanador-a-nigromante",
+              "title": "Enfoques Arcanos: Sanador a Nigromante",
+              "part": "Enfoques Arcanos: Sanador a Nigromante",
+              "content_type": "reference"
+            },
+            {
+              "slug": "enfoques-arcanos-hacker-de-la-realidad-a-bruja",
+              "title": "Enfoques Arcanos: Hacker de la Realidad a Bruja",
+              "part": "Enfoques Arcanos: Hacker de la Realidad a Bruja",
+              "content_type": "reference"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Tres: Contar Historias",
+          "pages": [
+            {
+              "slug": "capitulo-tres-contar-historias",
+              "title": "Capítulo Tres: Contar Historias",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "los-monstruos-interiores-y-conceptos-de-cronica",
+              "title": "Los Monstruos Interiores y Conceptos de Crónica",
+              "part": "Los Monstruos Interiores y Conceptos de Crónica",
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cierre",
+      "block_title": "Cierre",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "mago-hecho-facil",
+              "title": "¿Mago? ¿Hecho Fácil?",
+              "part": null,
+              "content_type": "back-matter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

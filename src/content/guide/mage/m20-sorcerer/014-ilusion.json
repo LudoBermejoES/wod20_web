@@ -1,0 +1,60 @@
+{
+  "book_id": "m20-sorcerer",
+  "line": "mage",
+  "order": 14,
+  "slug": "ilusion",
+  "block": "capitulo-1",
+  "block_title": "Capítulo Uno: Hechicería",
+  "chapter": "Capítulo Uno: Hechicería",
+  "part": "Ilusión",
+  "section": null,
+  "title": "Ilusión",
+  "content_type": "rule",
+  "source_line_range": [
+    1113,
+    1177
+  ],
+  "body_md": "## Ilusión\n\nUna de las magias más fundamentales es el poder de engañar a otros para que crean lo que el mago quiere. La Senda de la [Ilusión](/mage/hedge-paths/ilusion) confunde los sentidos, haciendo que sus objetivos perciban cosas que no están ahí o alterando su percepción de lo que sí está. La mayoría de la gente confía en sus sentidos. «Ver para creer», pero cuando hay un ilusionista cerca, este viejo refrán puede matarte.\n\nLa Senda de la [Ilusión](/mage/hedge-paths/ilusion) es mucho menos directa en la mayoría de sus aplicaciones que algunas de las otras Sendas. Los ilusionistas suelen ser manipuladores astutos, al menos para elegir la visión falsa adecuada para la tarea que deba completarse. Esto a menudo requiere extraños patrones de pensamiento y pensamiento lateral, lo que hace que los ilusionistas se vuelvan excéntricos con el tiempo.\n\nCuando se es objetivo de la Senda de la [Ilusión](/mage/hedge-paths/ilusion), siempre existe la posibilidad de evitar el engaño. Una tirada de Percepción + Alerta a dificultad (4 + el Aspecto de Realismo) para hechizos, y dificultad (4 + Rango) para rituales, revela las pequeñas imperfecciones de la [ilusión](/mage/hedge-paths/ilusion). Esto requiere un éxito por cada sentido cubierto por la [ilusión](/mage/hedge-paths/ilusion), aunque en los casos en que se omita un sentido esencial, según determine el Narrador, el número de éxitos necesarios puede disminuir. Cualquiera que realice esta tirada puede percatarse de que lo que percibe no es real, aunque percibe tanto la [ilusión](/mage/hedge-paths/ilusion) como la verdad. Si alerta a otros de este hecho, puede repetir la tirada una vez.\n\n\n## Sistema\n\nModificadores: -1 a -3 de dificultad si se utiliza una base similar al objetivo (hacer que una mesa parezca diferente es más fácil que hacer aparecer una mesa de la nada)\n\nAspectos: Duración, Número de Objetivos, y los siguientes:\n\n\n## Sentidos\n\n- Afecta a un sentido\n- ·· Afecta a dos sentidos\n- ··· Afecta a tres sentidos\n- ···· Afecta a cuatro sentidos\n- ····· Rango sensorial completo\n\n\n## Realismo\n\n- Completamente inmóvil y fija; si es visual, plana\n- ·· Cambia con la perspectiva, de modo que el movimiento del observador no la altera de inmediato\n- ··· Las ilusiones pueden tener partes móviles, pero solo las grandes\n- ···· Son posibles movimientos y variaciones más pequeños, pero aún existen indicios sutiles\n- ····· Totalmente inmersiva, este nivel engaña por completo todos los sentidos afectados\n\nPrecio del [Fallo](/mage/flaws/failure): los magos ingenuos piensan que fracasar con una [ilusión](/mage/hedge-paths/ilusion) no debe de ser gran cosa. El hechizo no hizo nada real, así que nada real debería ocurrir cuando sale mal.\n\n\n\nPor el contrario, las percepciones del lanzador se ven alteradas. Peor aún, la mayoría de las alteraciones son sutiles y fáciles de pasar por alto. Sin embargo, en el caso de hechizos más grandes, eventualmente se producirá un cambio sustancial, probablemente en el momento más peligroso para que el lanzador sea sorprendido desprevenido.\n\n\n## Rituales de Ejemplo\n\n\n## Susurros Crueles ( ·· )\n\nLos ilusionistas a menudo deben ser maestros de la guerra psicológica. No pueden crear nada verdaderamente real, así que juegan con los miedos y ansiedades de sus objetivos para controlarlos. Uno de los rituales clave para esto es [Susurros Crueles](/mage/rituals/cruel-whispers). Una [ilusión](/mage/hedge-paths/ilusion) puramente auditiva, [Susurros Crueles](/mage/rituals/cruel-whispers) sigue a su objetivo durante veinticuatro horas. Aunque el mago nunca sepa qué dicen los susurros, la víctima oye voces, apenas audibles, que señalan cada defecto, cada inseguridad y cada paso en falso que comete durante el día. Esto lo distrae, dándole +1 a la dificultad en todas las tiradas durante el día, y cada vez que fracasa debe realizar una tirada de Fuerza de Voluntad (dificultad 6) o sufrir los efectos del Defecto [Depresión Crónica](/mage/flaws/depresion-cronica) (Libro de los Secretos, pág. 51) durante una semana.\n\n\n\n\n## Constructos de Luz Sólida ( ··· )\n\nUn ritual popular entre los tecnohechiceros, los [Constructos de Luz Sólida](/mage/rituals/solid-light-constructs) son ilusiones que todos los implicados saben que son falsas. Esto crea escenografía, muebles, etc., que parecen y se sienten reales, aunque apoyar el peso sobre ellos no sería buena idea. A menudo se usa para simular imágenes en las que no se necesita cada detalle, pero que tienen partes móviles. Crea la [ilusión](/mage/hedge-paths/ilusion) para todos los espectadores, en lugar de para un conjunto fijo de objetivos. Al menos un Ciudadano Extraordinario ha sido amonestado por usar [Constructos de Luz Sólida](/mage/rituals/solid-light-constructs) para dirigir su partida de Mundo de las [Sombras](/mage/hedge-paths/sombras).\n\n\n## Festín Instantáneo ( ···· )\n\nLa comida ilusoria es engañosamente difícil de crear. El sabor, el olor, la imagen y la textura deben ser exactamente los correctos para engañar a alguien y hacerle creer que está comiendo una comida real. El objetivo realiza una tirada de Percepción + Alerta (dificultad 7). Si falla, cree que está comiendo comida real durante toda la comida, sea cual sea el alimento que el mago pueda imaginar. Sin embargo, sigue teniendo hambre. Esto no proporciona ningún sustento (a menos que la [ilusión](/mage/hedge-paths/ilusion) esté ocultando algún otro alimento), aunque si se obtienen seis o más éxitos en el lanzamiento, las señales de hambre se suprimen durante un número de horas igual a la Resistencia del objetivo, antes de que vuelva a sentir hambre. Esto no puede paliar los efectos de la inanición.\n\n\n## Oubliette ( ····· )\n\nUno de los rituales más aterradores de la Senda de la [Ilusión](/mage/hedge-paths/ilusion), [Oubliette](/mage/rituals/oubliette) ha quebrado a algunas de las personas más fuertes del mundo. El mago debe estar a pocos metros de su objetivo durante la totalidad de un ritual de tres horas, que requiere al menos 5 éxitos. Si lo consigue, el ritual elimina los cinco sentidos de la víctima. Quedan atrapados en un mundo sin ninguna sensación hasta que el mago los libera o hasta que acumulan 5 éxitos en tiradas de Percepción a dificultad 9, realizando una cada hora. La víctima debe empezar de nuevo en caso de fracaso. A menudo, las víctimas de este ritual están siendo castigadas por crímenes atroces, y se les lanza antes de ser arrojadas a un agujero y olvidadas, dejándolas morir de hambre sin siquiera saber que están muriendo de hambre.",
+  "toc": [
+    {
+      "text": "Sistema",
+      "anchor": "sistema"
+    },
+    {
+      "text": "Sentidos",
+      "anchor": "sentidos"
+    },
+    {
+      "text": "Realismo",
+      "anchor": "realismo"
+    },
+    {
+      "text": "Rituales de Ejemplo",
+      "anchor": "rituales-de-ejemplo"
+    },
+    {
+      "text": "Susurros Crueles ( ·· )",
+      "anchor": "susurros-crueles"
+    },
+    {
+      "text": "Constructos de Luz Sólida ( ··· )",
+      "anchor": "constructos-de-luz-solida"
+    },
+    {
+      "text": "Festín Instantáneo ( ···· )",
+      "anchor": "festin-instantaneo"
+    },
+    {
+      "text": "Oubliette ( ····· )",
+      "anchor": "oubliette"
+    }
+  ],
+  "prev": {
+    "slug": "fuego-infernal",
+    "title": "Fuego Infernal"
+  },
+  "next": {
+    "slug": "voragines",
+    "title": "Vorágines"
+  }
+}

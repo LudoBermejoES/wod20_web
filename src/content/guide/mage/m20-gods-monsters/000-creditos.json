@@ -1,0 +1,33 @@
+{
+  "book_id": "m20-gods-monsters",
+  "line": "mage",
+  "order": 0,
+  "slug": "creditos",
+  "block": "preliminares",
+  "block_title": "Preliminares",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Créditos",
+  "content_type": "front-matter",
+  "source_line_range": [
+    1,
+    56
+  ],
+  "body_md": "II\n\nCriaturas y compañeros para Criaturas y compañeros para\n\nMage: The Ascension 20th Anniversary Edition Mage: The Ascension 20th Anniversary Edition\n\n\n## Créditos\n\nAutores: Cedar Blake, Satyros Phil Brucato, Hiromi Cota, Matthew Dawkins, Atalanti Evripidou, Antonios Galatis, Joshua Heath, Chance Jason Kallisti, Isabella M. Price, James H. Sambrano, y John Snead\n\nDesarrolladores: Satyros Phil Brucato, Matthew Dawkins, y Eddy Webb\n\nDesarrollador de línea de World of Darkness: Matthew Dawkins Director Creativo: Richard Thomas\n\nEditora: Dixie Cochran\n\nDirección de Arte: Mike Chaney\n\nDiseño del libro: Josh Kubat\n\nArte: Michael Gaydos, Brian Leblanc, Eric Lofgren, Andrew Trabbold, Ivan Dixon, Claudio Pozas, Drew Tucker, Ken Meyer Jr.\n\nBrain-Trust: Eva Cruz Andrade, Maria Archimandriti, Liz Argall, Rose Bailey, Hope Blood, Raven Bond, Bill Bridges, Kate Bullock, Sandra Buskirk, Brian Campbell, Luka Carroll, Mara Elkheart/ R.S. Udell, Tristån Erickson, Adam J. Faber, Khaos Farbauti, Antonios Rave-n Galatis, Nina Galatis, Boomer Hanke, Damian Lincoln Hector, James High, Oliver Hoffmann, Ernie LaFountain, Travis Legge, Êmili Lemanski, Shep Turner MacGregor, Ryan Macklin, Logan L. Masterson, Rafael Mastromauro, Camille Meehan, Balogun Ojetade, Isabella L. Price, Chris Rubenstahl, Michael Schatz, Zakariya Ali Sher, Thaynah Leal Simas, J.P. Sugarbroad, Bryan Syme, Richard Thomas, Allen Turner, Ioanna Vagianou, Brian Ward, Coyote Ward, Jason Weeks, Wendell B. Whittaker Jr., Travis Williams, y Lindsay Woodcock\n\n\n\n\n## Dedicatoria\n\nPara mi amigo Raven Bond: sanador, mago, terapeuta, embaucador, un descontento contra el orden establecido, y uno de los mejores hombres que jamás he conocido. Venciste las probabilidades durante cinco largos años, y dejaste este mundo en un lugar mucho mejor gracias a tu presencia entre nosotros. Vuela bien, viejo amigo, y gracias por la insensata magia de tu sabiduría.\n\nPoco antes de terminar este libro, nuestra amiga Ember Johnston Nannysdotter murió en un accidente de coche. Ember había sido una luminaria creativa de nuestra comunidad de Seattle y una voz feroz en [favor](/mage/merits/favor) de la justicia y la transformación. Su repentina e imprevisible muerte (el pronombre elegido por Ember) subraya la necesidad de que todos apreciemos los unos a los otros mientras podamos, y de que vivamos vidas que hagan de nuestro mundo un lugar mejor mucho después de que dejemos de ser partes físicas de él. Gracias, Ember, por la belleza que compartiste y el espíritu que revelaste a través de tus artes.\n\n\n## Agradecimientos Especiales\n\nA Josh Heath, por ayudarnos a caminar por el Camino.\n\n© 2019 White Wolf Entertainment. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, almacenada en un sistema de recuperación de datos, ni transmitida de ninguna forma ni por ningún medio, ya sea electrónico, mecánico, mediante fotocopia, grabación o de cualquier otro modo, sin el permiso previo por escrito de White Wolf Entertainment. Las prohibiciones de reproducción no se aplican a las hojas de personaje contenidas en este libro cuando se reproducen para uso personal.\n\nWhite Wolf, Vampire y Chronicles of Darkness son marcas registradas de White Wolf Entertainment. Todos los derechos reservados. Vampire the Requiem, Werewolf the Forsaken, Mage the Awakening, y Sistema Narrativo son marcas comerciales de White Wolf Entertainment. Todos los derechos reservados. Todos los personajes, nombres, lugares y textos aquí contenidos están protegidos por los derechos de autor de White Wolf Entertainment.\n\n\n\nLa mención o referencia a cualquier empresa o producto en estas páginas no constituye un desafío a la marca registrada o al copyright correspondiente.\n\nEste libro utiliza lo sobrenatural como escenario, personajes y temática. Todos los [elementos](/mage/instruments/elements) místicos y sobrenaturales son ficticios y están destinados únicamente al entretenimiento. Este libro contiene contenido para adultos. Se aconseja discreción al lector.\n\nVisita a White Wolf en línea en http://www.white-wolf.com\n\n[Visita Onyx Path en http://www.theonyxpath.com](http://www.theonyxpath.com/)",
+  "toc": [
+    {
+      "text": "Dedicatoria",
+      "anchor": "dedicatoria"
+    },
+    {
+      "text": "Agradecimientos Especiales",
+      "anchor": "agradecimientos-especiales"
+    }
+  ],
+  "prev": null,
+  "next": {
+    "slug": "prologo-huesos-ardientes",
+    "title": "Prólogo: Huesos Ardientes"
+  }
+}

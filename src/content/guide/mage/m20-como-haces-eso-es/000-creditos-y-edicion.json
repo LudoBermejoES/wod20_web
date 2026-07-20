@@ -1,0 +1,29 @@
+{
+  "book_id": "m20-como-haces-eso-es",
+  "line": "mage",
+  "order": 0,
+  "slug": "creditos-y-edicion",
+  "block": "front-matter",
+  "block_title": "Portada y créditos",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Créditos y edición",
+  "content_type": "front-matter",
+  "source_line_range": [
+    10,
+    71
+  ],
+  "body_md": "## Créditos\n\nAutor y desarrollador: Satyros Phil Brucato.\n\nDirector creativo: Richard Thomas.\n\nEditora: Lindsay Woodcock.\n\nDirección artística: Mike Chaney.\n\nMaqueta y diseño: Charles A. Wright.\n\nIlustraciones: Aaron Acevedo, Michael Gaydos, Jeff 'El Jeffe' Holt, Lawrence van der Merwe, Andrew Trabbold.\n\nPortada: Andrew Trabbold.\n\nCerebros  de  [confianza](/mage/merits/confianza)  / Playtesters: Brian  Campbell, Tristån Erickson, Khaos Farbauti, Antonios Rave-N Galatis, Nina  Galatis,  Damian  Lincoln  Hector,  James  High,  Ernie LaFountain,  Thayna  Leal,  Êmili  Lemanski,  Ian  Lemke, Rafael Mastromauro, Tadd McDivitt, Eva Morrissey, Quintus Peltrasius,  Chris  Rubenstahl,  Michael  Schatz,  Zakariya  Ali Sher, Charles Siegel, Emma Ussel, Brian Ward, Coyote Ward y Lindsay Woodcock.\n\nAgradecimientos  especiales  a: Ernie  '¡Di  Patata!' LaFountain, Charles 'Guardado' Siegel y Lindsay 'Efectos de Tiempo' Woodcock por hacer más de lo que les correspondía en el departamento de cerebros de [confianza](/mage/merits/confianza).\n\n\n\n\n\n\n\n## Edición en Español\n\nDirector y productor ejecutivo: Héctor Gómez Herrero.\n\nTraductores: Jordi Torres Serra 'Uxas', Héctor Gómez Herrero.\n\nCorrectora: Alejandra 'Argentea' González.\n\nMaquetador: Marcos Manuel 'EnOcH' Peral Villaverde.\n\nCoordinador editorial: Sergio M. Vergara.\n\nPublicado por: Nosolorol  Ediciones,  C/  Ocaña  32,  28047 Madrid.\n\n\n\n© 2019 White Wolf Entertainment. Todos los derechos reservados. La reproducción sin el permiso escrito de la editorial está expresamente prohibida, salvo para la elaboración de reseñas y las hojas de personaje en blanco, que pueden ser reproducidas solo para uso personal.\n\nWhite Wolf, Vampiro, Mundo de Tinieblas, Vampiro: La Mascarada y Mago: La Ascensión son marcas comerciales registradas de White Wolf Entertainment AB. Todos los derechos reservados. Hombre Lobo: El Apocalipsis y Sistema Narrativo son marcas registradas de White Wolf Entertainment AB.\n\nTodos los  derechos  reservados.  Todos  los  personajes,  nombres,  lugares  y  texto  del  presente  documento  son  [propiedad](/mage/merits/propiedad)  de  White  Wolf  Entertainment  AB.\n\nEste libro hace uso de lo sobrenatural para ambientaciones, personajes y temas. Todos los [elementos](/mage/instruments/elements) místicos y sobrenaturales son ficticios y están destinados únicamente a propósitos lúdicos. Este libro contiene material explícito. Se recomienda sólo para lectores adultos.\n\nVisita White Wolf online en http://www.white-wolf.com .\n\nVisita [Biblioteca](/mage/backgrounds/library) Oscura online en http://www.bibliotecaoscura.com .\n\n[Visita Onyx Path online en http://www.theonyxpath.com](http://www.theonyxpath.com/)\n\n[Visita Nosolorol online en http://www.nosolorol.com](http://www.nosolorol.com/)\n\n. .",
+  "toc": [
+    {
+      "text": "Edición en Español",
+      "anchor": "edicion-en-espanol"
+    }
+  ],
+  "prev": null,
+  "next": {
+    "slug": "relato-larga-division",
+    "title": "Relato: Larga División"
+  }
+}

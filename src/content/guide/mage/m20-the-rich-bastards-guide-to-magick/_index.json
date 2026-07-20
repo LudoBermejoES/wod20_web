@@ -1,0 +1,408 @@
+{
+  "book_id": "m20-the-rich-bastards-guide-to-magick",
+  "line": "mage",
+  "title_es": "Mago: Guía del Cabrón Rico para la Magia",
+  "book_title_es": "Mago: Guía del Cabrón Rico para la Magia",
+  "page_count": 51,
+  "tree": [
+    {
+      "block": "preliminares",
+      "block_title": "Preliminares",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos",
+              "title": "Créditos",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "Preludio",
+          "pages": [
+            {
+              "slug": "preludio-segun-lo-planeado",
+              "title": "Preludio: Según lo planeado",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        },
+        {
+          "chapter": "Introducción",
+          "pages": [
+            {
+              "slug": "el-dinero-hace-girar-el-mundo",
+              "title": "El dinero hace girar el mundo",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "capitulo-1",
+      "block_title": "Capítulo Uno: El dinero y el mago",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "relato-en-la-nube",
+              "title": "Relato: En la Nube",
+              "part": null,
+              "content_type": "fiction"
+            },
+            {
+              "slug": "quien-necesita-dinero-cuando-tienes-magia",
+              "title": "¿Quién necesita dinero cuando tienes Magia?",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "las-tradiciones-y-la-mano-invisible",
+              "title": "Las Tradiciones y la mano invisible",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-union-tecnocratica",
+              "title": "La Unión Tecnocrática",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "dinero-de-locos-los-merodeadores",
+              "title": "Dinero de locos: los Merodeadores",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "estilos-de-vida-de-los-ricos-y-caidos-los-nefandos",
+              "title": "Estilos de vida de los ricos y caídos: los Nefandos",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "capitulo-2",
+      "block_title": "Capítulo Dos: Creando personajes ricos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "relato-despertad",
+              "title": "Relato: Despertad",
+              "part": null,
+              "content_type": "fiction"
+            },
+            {
+              "slug": "tu-dinero-y-tu-vida",
+              "title": "Tu dinero y tu vida",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "desarrollando-tu-trasfondo",
+              "title": "Desarrollando tu trasfondo",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "arquetipos-de-los-ricos",
+              "title": "Arquetipos de los ricos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "nuevos-meritos-y-defectos",
+              "title": "Nuevos Méritos y Defectos",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "capitulo-3",
+      "block_title": "Capítulo Tres: Magia monetaria",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "relato-la-distraccion",
+              "title": "Relato: La Distracción",
+              "part": null,
+              "content_type": "fiction"
+            },
+            {
+              "slug": "privilegio-sobre-privilegio",
+              "title": "Privilegio sobre privilegio",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "formulas-correspondencia",
+              "title": "Fórmulas: Correspondencia",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "formulas-entropia",
+              "title": "Fórmulas: Entropía",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "formulas-fuerzas",
+              "title": "Fórmulas: Fuerzas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "formulas-vida",
+              "title": "Fórmulas: Vida",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "formulas-materia",
+              "title": "Fórmulas: Materia",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "formulas-mente",
+              "title": "Fórmulas: Mente",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "formulas-cardinal",
+              "title": "Fórmulas: Cardinal",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "formulas-espiritu",
+              "title": "Fórmulas: Espíritu",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "formulas-tiempo",
+              "title": "Fórmulas: Tiempo",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "paradigmas-practicas-e-instrumentos",
+              "title": "Paradigmas, Prácticas e Instrumentos",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "capitulo-4",
+      "block_title": "Capítulo Cuatro: La afiliación tiene sus privilegios",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "relato-el-portal-averiado",
+              "title": "Relato: El Portal Averiado",
+              "part": null,
+              "content_type": "fiction"
+            },
+            {
+              "slug": "una-caja-de-arena-magica",
+              "title": "Una Caja de Arena Mágica",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "clinica-greenhill",
+              "title": "Clínica Greenhill",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "el-club-constelacion",
+              "title": "El Club Constelación",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "la-elite",
+              "title": "La Élite",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "los-entendidos-del-levante",
+              "title": "Los Entendidos del Levante",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "buscadores-rastreadores",
+              "title": "Buscadores, Rastreadores",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "la-fundacion-oakenash",
+              "title": "La Fundación Oakenash",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "f474-m0r64n4",
+              "title": "F474 M0R64N4",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "cheops-suplementos",
+              "title": "Cheops Suplementos",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "los-escapistas",
+              "title": "Los Escapistas",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "el-club-de-los-aventureros-sensacionales",
+              "title": "El Club de los Aventureros Sensacionales",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "los-arcologos",
+              "title": "Los Arcólogos",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "capitulo-5",
+      "block_title": "Capítulo Cinco: Lo mejor que el dinero puede comprar",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "relato-el-ultimo-salto",
+              "title": "Relato: El Último Salto",
+              "part": null,
+              "content_type": "fiction"
+            },
+            {
+              "slug": "se-vive-bien-en-la-cima",
+              "title": "Se Vive Bien en la Cima…",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "manufactura-con-dinero-contante",
+              "title": "Manufactura con Dinero Contante",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "tesoros-y-maravillas-los-tesoros-de-doissetep",
+              "title": "Tesoros y Maravillas: los Tesoros de Doissetep",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "obras-de-arte",
+              "title": "Obras de Arte",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "drogas-de-diseno",
+              "title": "Drogas de Diseño",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "maravillas",
+              "title": "Maravillas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "tenemos-gente-para-eso",
+              "title": "Tenemos Gente para Eso",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "lugares-a-los-que-ir-gente-a-la-que-ver",
+              "title": "Lugares a los que Ir, Gente a la que Ver",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "capitulo-6",
+      "block_title": "Capítulo Seis: Narrando a los ricos y famosos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "relato-el-testamento-de-banesworth",
+              "title": "Relato: El Testamento de Banesworth",
+              "part": null,
+              "content_type": "fiction"
+            },
+            {
+              "slug": "el-mundo-es-tu-ostra",
+              "title": "El Mundo Es Tu Ostra",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "nunca-un-momento-aburrido",
+              "title": "Nunca un Momento Aburrido",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book_id": "m20-sorcerer",
+  "line": "mage",
+  "order": 6,
+  "slug": "transporte",
+  "block": "capitulo-1",
+  "block_title": "Capítulo Uno: Hechicería",
+  "chapter": "Capítulo Uno: Hechicería",
+  "part": "Transporte",
+  "section": null,
+  "title": "Transporte",
+  "content_type": "rule",
+  "source_line_range": [
+    626,
+    675
+  ],
+  "body_md": "## Transporte\n\nYa sea soñando con la teletransportación o con escobas voladoras, la gente siempre ha querido viajar rápidamente de un lugar a otro. Por rápido que lo consigan, nunca es lo bastante rápido, y muchos recurren a la magia y a extrañas ciencias para llegar a donde van mucho antes. Para los hechiceros, estas proezas quizá no sean rutinarias, pero pocos de ellos se preocupan por que les asignen un asiento central en un vuelo.\n\nHasta que alcanzan las cumbres del [dominio](/mage/practices/dominion) de la Senda, un hechicero que usa la Senda del [Transporte](/mage/hedge-paths/transporte) requiere algún tipo de vehículo, que el hechicero prepara para un único viaje. Los místicos tienden a preferir botas de siete leguas, alfombras y escobas voladoras, y cosas más extrañas como carros tirados por gatos divinos, mientras que los hechiceros más científicos usan mochilas propulsoras, coches transformables y similares.\n\nSin embargo, los poderosos manejadores de esta Senda pueden cubrir distancia sin cruzar el espacio intermedio. La teletransportación no tiene por qué ser instantánea, pero tiende a no necesitar un vehículo; normalmente un ritual o [dispositivo](/mage/sphere-effects/device) en el punto de origen bastará para enviar al hechicero adondequiera que desee ir.\n\n\n## Sistema\n\nModificadores: +2 a la dificultad por cada objetivo no dispuesto, -1 a la dificultad para ubicaciones bien conocidas.\n\nAspectos: Además de los Aspectos de Distancia, [Velocidad](/mage/sphere-effects/speed) de Viaje y Pasajeros, cada uno de los siguientes aumenta el número de éxitos necesarios:\n\n- 1 éxito para viajar a una ubicación en la que el hechicero nunca ha estado.\n- 2 éxitos para teletransportarse, aunque no sea instantáneo. Esto es necesario para intentar usar el [Transporte](/mage/hedge-paths/transporte) de forma ofensiva.\n- Cada barrera cruzada cuesta un éxito. Las barreras deben ser posibles de sortear. Esta Senda no puede penetrar cámaras herméticamente selladas.\n\nPrecio del Fracaso: Los percances con la Senda del [Transporte](/mage/hedge-paths/transporte) pueden ser extremadamente peligrosos. Los fallos son bastante inocuos, pues simplemente no ocurre nada. Los fracasos, sin embargo, tienden a ser específicos del método de [transporte](/mage/hedge-paths/transporte) usado y suelen afectar al conjurador (valga el juego de palabras) a mitad del viaje. Las escobas voladoras caen del cielo, las botas de siete leguas te dejan varado a leguas de tu [destino](/mage/backgrounds/destiny), y cuerpos enteros de ciencia ficción debaten qué ocurre cuando la teletransportación sale mal.\n\n\n## Rituales de Muestra\n\n\n## Esprint ( · )\n\nA veces, un hechicero necesita recorrer una distancia corta con rapidez. Aunque los preparativos varían, sobre todo según la práctica y la Habilidad, este ritual siempre concluye atándose un par de zapatillas azules. Una vez puestas, el hechicero puede correr más rápido que cualquier humano mundano, siempre que nadie lo vea hacerlo. Cada éxito en el ritual duplica la [velocidad](/mage/sphere-effects/speed) de carrera y otorga un minuto de carrera. Al terminar, el ritual deja al hechicero exhausto, y debe descansar durante cinco minutos.\n\n\n## Protección contra Teletransporte ( ·· )\n\nLos hechiceros que estudian la Senda del [Transporte](/mage/hedge-paths/transporte) aprenden rápidamente a defenderse de ella. Al marcar una habitación o un edificio de una forma apropiada —un círculo de tiza, [sigilos](/mage/instruments/sigils) en las paredes, o proyectores de campo antiteletransporte, etc.—, pueden dificultar que otros hechiceros usen la Senda para entrar en la zona. Una vez fijado el ritual, cada éxito debe ser superado por un lanzador que intente entrar en el área delimitada. Esta protección se degrada a un ritmo de un éxito por mes, pero un solo éxito en otra tirada de ritual la restaura.\n\n\n## ¡Sácame de Aquí de una Vez! ( ··· )\n\nUna de las herramientas más útiles que un hechicero puede tener en el bolsillo es una ruta de escape para cuando las cosas se ponen feas. Este ritual devuelve al instante al hechicero a una ubicación de hogar previamente preparada a menos de 50 millas de él. Requiere al menos cuatro éxitos para lanzarse, aunque los éxitos adicionales añaden 20 millas cada uno al alcance del ritual. Una tirada adicional al lanzar el ritual permite al hechicero regresar a una ubicación secundaria si su hogar dedicado está demasiado lejos. Este ritual casi siempre se lanza como ritual en suspenso.\n\n\n## Autopista de la Información ( ···· )\n\nPara los hechiceros basados en la tecnología, hay un medio de [transporte](/mage/hedge-paths/transporte) inusual que los místicos a menudo pasan por alto. Es más difícil de acceder que otros, pero a veces puede llegar a lugares a los que el [Transporte](/mage/hedge-paths/transporte) normalmente no puede. Este ritual permite al lanzador viajar desde cualquier enchufe eléctrico a cualquier otro, convirtiendo al hechicero en electricidad. El alcance está limitado a 5 millas por éxito. Este viaje tarda un minuto por cada 5 millas. Sin embargo, la arquetípica habitación sellada a la que el [Transporte](/mage/hedge-paths/transporte) no puede acceder normalmente no está aislada de la electricidad: si existe un enchufe, entonces el hechicero puede llegar a él.\n\n\n## Teleportal ( ····· )\n\nLos maestros de la Senda del [Transporte](/mage/hedge-paths/transporte) pueden hacer más que simplemente transportarse a sí mismos y a otros de un lugar a otro. Pueden crear pasarelas estables entre dos ubicaciones. Primero, el hechicero debe preparar ambos emplazamientos para que se cree el portal. Esto lleva tres días de preparación en cada emplazamiento, usando aderezos y materiales apropiados a la Habilidad de Senda del lanzador. Una vez completados los preparativos apropiados, el hechicero hace una tirada extendida, con una tirada por hora. Requiere al menos un éxito por cada 10 millas entre los portales. Cada éxito extra añade cinco usos del portal o una condición en uno o ambos extremos, como una restricción sobre quién puede usarlo o hacer que el portal sea de un solo sentido. Crear este portal cuesta un punto permanente de Fuerza de Voluntad, que no se reembolsa si el portal se disipa. [Teleportal](/mage/rituals/teleportal) es un ritual complejo, que se logra mejor con ayudantes.",
+  "toc": [
+    {
+      "text": "Sistema",
+      "anchor": "sistema"
+    },
+    {
+      "text": "Rituales de Muestra",
+      "anchor": "rituales-de-muestra"
+    },
+    {
+      "text": "Esprint ( · )",
+      "anchor": "esprint"
+    },
+    {
+      "text": "Protección contra Teletransporte ( ·· )",
+      "anchor": "proteccion-contra-teletransporte"
+    },
+    {
+      "text": "¡Sácame de Aquí de una Vez! ( ··· )",
+      "anchor": "sacame-de-aqui-de-una-vez"
+    },
+    {
+      "text": "Autopista de la Información ( ···· )",
+      "anchor": "autopista-de-la-informacion"
+    },
+    {
+      "text": "Teleportal ( ····· )",
+      "anchor": "teleportal"
+    }
+  ],
+  "prev": {
+    "slug": "conjuracion",
+    "title": "Conjuración"
+  },
+  "next": {
+    "slug": "adivinacion",
+    "title": "Adivinación"
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "book_id": "m20-the-mage-cookbook",
+  "line": "mage",
+  "title_es": "Mago: El Recetario del Mago",
+  "book_title_es": "Mago: El Recetario del Mago",
+  "page_count": 30,
+  "tree": [
+    {
+      "block": "preliminares",
+      "block_title": "Preliminares",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "portada-y-creditos",
+              "title": "Portada y créditos",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "Introducción",
+          "pages": [
+            {
+              "slug": "introduccion-un-humilde-hijo-de-panadero",
+              "title": "Introducción: Un humilde hijo de panadero",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "conversiones-y-medidas-de-cocina",
+              "title": "Conversiones y Medidas de Cocina",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "comidas-misticas",
+      "block_title": "Capítulo Uno: Comidas Místicas",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "muchas-estancias-en-la-casa-de-mi-padre",
+              "title": "Muchas estancias en la casa de mi Padre",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "ahl-i-batin-pollo-nanban-miso-nasu-y-mayonesa-japonesa-casera",
+              "title": "Ahl-i-Batin: Pollo Nanban, Miso Nasu y Mayonesa Japonesa Casera",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "hermandad-akashica-amok-de-pescado",
+              "title": "Hermandad Akáshica: Amok de Pescado",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "bata-a-ceviche-y-mofongo",
+              "title": "Bata'a: Ceviche y Mofongo",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "coro-celestial-amaretto-y-tarta-de-angel",
+              "title": "Coro Celestial: Amaretto y Tarta de Ángel",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "hijos-del-conocimiento-solificati-sectas-salvajes-en-la-clase-obrera",
+              "title": "Hijos del Conocimiento (Solificati): Sectas Salvajes en la Clase Obrera",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "culto-del-extasis-bisque-de-langosta-de-nueva-inglaterra-con-pan-crujiente",
+              "title": "Culto del Éxtasis: Bisque de Langosta de Nueva Inglaterra, con Pan Crujiente",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "cuentasuenos-y-la-sociedad-del-trueno-pan-frito-y-wojapi",
+              "title": "Cuentasueños y la Sociedad del Trueno: Pan Frito y Wojapi",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "eutanatos-madzimbabwe-muamba-nsusu-con-fufu-de-maiz",
+              "title": "Eutánatos / Madzimbabwe: Muamba Nsusu, con Fufu de Maíz",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "huecos-postres-decadentes",
+              "title": "Huecos: Postres Decadentes",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "kopa-loei-poke-de-atun-y-salmon",
+              "title": "Kopa Loei: Poke de Atún y Salmón",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "n-goma-hoppin-john-al-estilo-sureno-verduras-collard-y-condimento-gullah",
+              "title": "N'goma: Hoppin' John al Estilo Sureño, Verduras Collard y Condimento Gullah",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "orden-de-hermes-wellingtons-de-ternera",
+              "title": "Orden de Hermes: Wellingtons de Ternera",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "huerfanos-guiso-canibal-de-coyote",
+              "title": "Huérfanos: Guiso Caníbal de Coyote",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "hermanas-de-hipolita-lahanodolmades",
+              "title": "Hermanas de Hipólita: Lahanodolmades",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "hijos-del-eter-bizcocho-battenburg-o-gateau-a-la-domino",
+              "title": "Hijos del Éter: Bizcocho Battenburg, o Gateau á la Domino",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "taftani-sharbat-sorbete-rahat-lokum-y-te-de-flor-de-borraja",
+              "title": "Taftani: Sharbat, Sorbete, Rahat Lokum y Té de Flor de Borraja",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "verbena-polpetted-estate-en-ragu-de-tomate-con-pizza-bianca",
+              "title": "Verbena: Polpetted'estate en Ragú de Tomate, con Pizza Bianca",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "adeptos-virtuales-kuih-lapis",
+              "title": "Adeptos Virtuales: Kuih Lapis",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "wu-lung-hongshao-shizitou-con-arroz-frito-mandarin",
+              "title": "Wu Lung: Hongshao Shizitou, con Arroz Frito Mandarín",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "alimentos-tecnocraticos",
+      "block_title": "Capítulo Dos: Alimentos Tecnocráticos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "iteracion-x-queso-sintetico-de-curry-de-anacardos",
+              "title": "Iteración X: Queso Sintético de Curry de Anacardos",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "nuevo-orden-mundial-logica-del-pretzel",
+              "title": "Nuevo Orden Mundial: Lógica del Pretzel",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "progenitores-los-huevos-fueron-primero",
+              "title": "Progenitores: Los Huevos Fueron Primero",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "sindicato-postres-seductores",
+              "title": "Sindicato: Postres Seductores",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "ingenieros-del-vacio-el-sandwich-de-ternera-en-salazon-estadisticamente-inevitable",
+              "title": "Ingenieros del Vacío: El Sándwich de Ternera en Salazón Estadísticamente Inevitable",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "apendice",
+      "block_title": "Apéndice: Coda",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "coda-buena-cocina-casera",
+              "title": "Coda: Buena Cocina Casera",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cierre",
+      "block_title": "Cierre",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "contraportada-la-comida-es-vida",
+              "title": "Contraportada: La Comida es Vida",
+              "part": null,
+              "content_type": "back-matter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book_id": "m20-sorcerer",
+  "line": "mage",
+  "order": 16,
+  "slug": "necromancia",
+  "block": "capitulo-1",
+  "block_title": "Capítulo Uno: Hechicería",
+  "chapter": "Capítulo Uno: Hechicería",
+  "part": "Necromancia",
+  "section": null,
+  "title": "Necromancia",
+  "content_type": "rule",
+  "source_line_range": [
+    1224,
+    1279
+  ],
+  "body_md": "## Necromancia\n\nHay cosas que deberían permanecer enterradas. La principal de ellas: los muertos. Pero quienes siguen la Senda de la Necromancia ven las cosas de forma un poco distinta. Como el [Fuego Infernal](/mage/hedge-paths/fuego-infernal), la Necromancia tiene fama de ser una práctica repugnante, ejercida solo por los peores entre los peores. A diferencia del [Fuego Infernal](/mage/hedge-paths/fuego-infernal), esta reputación está, al menos en parte, merecida. Incluso el más simple de los hechizos de Necromancia implica doblegar por la fuerza a los muertos a la voluntad del mago, y los más poderosos de ellos pueden manipular los poderes de las Tierras de las [Sombras](/mage/hedge-paths/sombras) para afectar también a los vivos.\n\nAunque los métodos varían enormemente según la práctica, la Necromancia siempre exige que los primeros instrumentos del mago incluyan un fragmento conservado del cadáver de alguien a quien apreciaba, casi siempre un familiar. Esto crea el vínculo entre el mago y el inframundo, permitiéndole convertirse en un conducto para las energías de la muerte misma. Mientras que para los magos místicos, elaborar semejante instrumento a menudo resulta natural, los tecnomagos suelen encontrarse con objetos únicos y macabros, como teclados con teclas hechas de hueso o chips de ordenador con neuronas cerebrales incrustadas en el circuito.\n\nUsar esta Senda es difícil. No en el sentido de la técnica -no es más compleja de usar que cualquier otra Senda-. Más bien, supone un desgaste emocional para el mago. Los vivos no están hechos para canalizar las energías de la muerte de forma tan directa. Sienten el duelo de sus ancestros, de siglos, quizá milenios atrás. Esta desesperación abrumadora ante la pérdida de innumerables generaciones provoca complicaciones, sobre todo en los magos con poca Fuerza de Voluntad. Por último, esas energías causan daño al usuario, y cada hechizo o ritual hace que el lanzador sufra un nivel de daño contundente por cada nivel del poder invocado, a menos que se indique lo contrario en la descripción.\n\n\n## Sistema\n\nAspectos: Duración, junto con la Vinculación de Fantasmas:\n\n\n## Vinculación de Fantasmas\n\n- El lanzador puede ver, oír y hablar con los fantasmas en su vecindad, sea cual sea el lado del Manto en el que se encuentren.\n- ·· El mago ahora puede aterrorizar a los muertos sin reposo. Al llenarse de la [energía](/mage/instruments/energy) necrótica de las Tierras de las [Sombras](/mage/hedge-paths/sombras), los muertos lo ven como alguien vivo pero imbuido del poder de la muerte. Esto se traduce en -2 a la dificultad en todas las tiradas de Intimidación y Subterfugio contra los muertos.\n- ··· El lanzador obliga a un fantasma a adoptar una forma corpórea, pueda hacerlo por sí mismo o no. Durante la duración, el fantasma vuelve a ser, a todos los efectos, una persona viva, incluyendo los siete niveles de Salud habituales. Sin embargo, si muere, no vuelve simplemente a ser un fantasma. En cambio, la experiencia lo transforma en un espectro, un fantasma consumido por los poderes del Olvido y subyugado a ellos. Y este espectro guarda rencor contra el lanzador.\n\n····\n\nCualquier fantasma puede ser invocado ante el lanzador en este nivel. Todo lo que el mago necesita es el\n\n·····\n\nNombre Verdadero del fantasma y ganar una tirada de Fuerza de Voluntad enfrentada. Si el nigromante tiene éxito, el fantasma debe presentarse de inmediato. Ten en cuenta que la mayoría de la gente muerta no se convierte en fantasmas, y a la mayoría de los fantasmas no les gusta que los invoquen.\n\nLos maestros de la Necromancia pueden obligar a los muertos a obedecer. Además de la tirada de Senda, deben ganar una tirada de Fuerza de Voluntad enfrentada. Si lo consiguen, pueden exigir al fantasma que realice una tarea sencilla o responda a una pregunta sencilla lo mejor que pueda. Para las tareas, el Aspecto de Duración determina cuánto tiempo debe intentar el fantasma llevarla a cabo.\n\nPrecio del [Fallo](/mage/flaws/failure): el [fallo](/mage/flaws/failure), en la mayoría de las Sendas, simplemente hace que no ocurra nada. En el caso de la Necromancia, la desesperación de generaciones los abruma, provocando un Trastorno, normalmente depresión severa, durante una hora. Si tienen menos de tres puntos temporales de Fuerza de Voluntad, el Trastorno dura en cambio una semana. Los fracasos son verdaderamente peligrosos, ya que no solo los Trastornos duran más (un mes entero) y existe la casi certeza de fantasmas muy enfadados, sino que el mago corre el riesgo de ser expulsado de su cuerpo, dejándolo aparentemente en coma mientras su mente pasa el mes «viviendo» como uno de los muertos sin reposo.\n\n\n## Rituales de Ejemplo\n\n\n## Visión de la Muerte ( · )\n\nNormalmente, un nigromante solo puede ver a los fantasmas que lo rodean. No puede ver el entorno que los fantasmas llaman hogar. Este ritual cambia eso. Con él, un mago no solo ve a los Muertos Sin Reposo, sino que puede llegar a asomarse a las Tierras de las [Sombras](/mage/hedge-paths/sombras). Este efecto dura un minuto por cada éxito en el ritual. Mientras esté bajo la [influencia](/mage/backgrounds/influence) de este ritual, el nigromante no puede percibir el mundo normal; solo las Tierras de las [Sombras](/mage/hedge-paths/sombras) son visibles para él.\n\n\n## Envuelto en un Manto ( ··· )\n\nEl Manto separa el mundo de los vivos del mundo de los muertos. Cruzar esta barrera puede ser difícil, un hecho que protege tanto a los vivos como a los muertos los unos de los otros. Por lo general, para que puedan interactuar, un nigromante debe alcanzar desde la tierra de los vivos hacia el mundo de los muertos, o un fantasma debe haber cruzado para lograr algo entre los vivos. Durante un minuto por cada éxito en este ritual, el nigromante logra situarse literalmente entre ambos mundos, capaz de interactuar directamente con ambos sin más magia. Tanto los seres humanos como los fantasmas pueden interactuar libremente con el mago, para bien o para mal.\n\n\n## Médium Forzado ( ···· )\n\nA algunas personas les resulta naturalmente más fácil ser poseídas por fantasmas. Estos médiums pueden verlo como un don o una maldición, pero eso los distingue del resto. Son las personas que tratan con los mundos espirituales, y a quienes los fantasmas acuden para pedirles que resuelvan un problema, o bien para tomar el control de su cuerpo y obligarlos a hacerlo. Este ritual otorga al objetivo el Mérito [Médium](/mage/merits/medium) (Libro de los Secretos, pág. 69) durante una semana, junto con -2 a la dificultad de los intentos de [posesión](/mage/instruments/possession) por parte de fantasmas.\n\n\n## Robar la Vida ( ····· )\n\nUna de las artes más oscuras de la Necromancia: los maestros de la Senda pueden robar la [energía](/mage/instruments/energy) vital de otra persona viva. El lanzador primero se llena de [energía](/mage/instruments/energy) de muerte, pero no la moldea directamente en un hechizo. En cambio, antes de que pueda absorber su propia fuerza vital, la empuja hacia su víctima. Esta transferencia se lleva consigo los cinco niveles de Salud de daño más recientes que el lanzador sufre actualmente. El lanzador cura esas heridas. La mayoría de las versiones de este ritual implican tallar [sigilos](/mage/instruments/sigils) en la víctima (o atravesarla con alambres eléctricos, o cualquier otra técnica) causando daño adicional. Ni que decir tiene que muy pocos sobreviven a este proceso, y quienes lo hacen a menudo persiguen al nigromante hasta el fin de sus días.",
+  "toc": [
+    {
+      "text": "Sistema",
+      "anchor": "sistema"
+    },
+    {
+      "text": "Vinculación de Fantasmas",
+      "anchor": "vinculacion-de-fantasmas"
+    },
+    {
+      "text": "Rituales de Ejemplo",
+      "anchor": "rituales-de-ejemplo"
+    },
+    {
+      "text": "Visión de la Muerte ( · )",
+      "anchor": "vision-de-la-muerte"
+    },
+    {
+      "text": "Envuelto en un Manto ( ··· )",
+      "anchor": "envuelto-en-un-manto"
+    },
+    {
+      "text": "Médium Forzado ( ···· )",
+      "anchor": "medium-forzado"
+    },
+    {
+      "text": "Robar la Vida ( ····· )",
+      "anchor": "robar-la-vida"
+    }
+  ],
+  "prev": {
+    "slug": "voragines",
+    "title": "Vorágines"
+  },
+  "next": {
+    "slug": "necronica",
+    "title": "Necrónica"
+  }
+}

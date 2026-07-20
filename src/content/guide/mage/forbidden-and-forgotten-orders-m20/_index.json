@@ -1,0 +1,154 @@
+{
+  "book_id": "forbidden-and-forgotten-orders-m20",
+  "line": "mage",
+  "title_es": "Mago: Órdenes Prohibidas y Olvidadas",
+  "book_title_es": "Mago: Órdenes Prohibidas y Olvidadas",
+  "page_count": 15,
+  "tree": [
+    {
+      "block": "preliminares",
+      "block_title": "Preliminares",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos",
+              "title": "Créditos",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "Introducción",
+          "pages": [
+            {
+              "slug": "introduccion-cuidar-de-los-nuestros",
+              "title": "Introducción: Cuidar de los Nuestros",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "precursores",
+      "block_title": "Capítulo Uno: Los Precursores",
+      "chapters": [
+        {
+          "chapter": "Capítulo Uno: Los Precursores",
+          "pages": [
+            {
+              "slug": "al-frente-y-visibles",
+              "title": "Al Frente y Visibles",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "ngoma",
+              "title": "Ngoma",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "caballeros-del-templo-de-salomon",
+              "title": "Caballeros del Templo de Salomón",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "taftani",
+              "title": "Taftâni",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "huecos",
+              "title": "Huecos",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "intermedios",
+      "block_title": "Capítulo Dos: Los Intermedios",
+      "chapters": [
+        {
+          "chapter": "Capítulo Dos: Los Intermedios",
+          "pages": [
+            {
+              "slug": "ahl-i-batin",
+              "title": "Ahl-i-Batin",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "kahu",
+              "title": "Kahu",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "hermanas-de-hipolita",
+              "title": "Hermanas de Hipólita",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "wu-lung",
+              "title": "Wu Lung",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "foraneos",
+      "block_title": "Capítulo Tres: Los Foráneos",
+      "chapters": [
+        {
+          "chapter": "Capítulo Tres: Los Foráneos",
+          "pages": [
+            {
+              "slug": "de-fuera-hacia-dentro",
+              "title": "De Fuera Hacia Dentro",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "bata-a",
+              "title": "Bata'a",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "solificati",
+              "title": "Solificati",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "huerfanos",
+              "title": "Huérfanos",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

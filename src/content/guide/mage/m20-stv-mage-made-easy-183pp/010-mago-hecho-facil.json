@@ -1,0 +1,29 @@
+{
+  "book_id": "m20-stv-mage-made-easy-183pp",
+  "line": "mage",
+  "order": 10,
+  "slug": "mago-hecho-facil",
+  "block": "cierre",
+  "block_title": "Cierre",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "¿Mago? ¿Hecho Fácil?",
+  "content_type": "back-matter",
+  "source_line_range": [
+    1331,
+    1350
+  ],
+  "body_md": "## ¿Mage? ¿Hecho FÁCIL?\n\nDurante casi 30 años, Mage: The Ascension ha deleitado a unos y confundido a otros. Con una escala que va de lo íntimo a lo épico, este «juego de posibilidades infinitas» ofrece innumerables reglas, opciones interminables, y una metatrama que desafía a todos menos a los jugadores más dedicados. Hasta ahora.\n\n\n## Conserva, Cambia, Descarta\n\nEscrito por Satyros Phil Brucato —autor veterano, diseñador,  y  cocreador  de  la  línea— Mage  Made  Easy presenta una caja de herramientas de sugerencias que permiten a los aspirantes a jugadores de Mage reducir la metatrama y las reglas. Estas sugerencias incluyen:\n\nReglas simplificadas para el eje de lanzamiento coincidente/vulgar\n\nOpciones para agilizar los efectos de la Paradoja\n\n15 Enfoques Arcanos 13 conceptos de crónica neutrales respecto a la metatrama Ganchos argumentales, una lista de comprobación de Búsquedas, el foco por encima de las Esferas, y más…",
+  "toc": [
+    {
+      "text": "Conserva, Cambia, Descarta",
+      "anchor": "conserva-cambia-descarta"
+    }
+  ],
+  "prev": {
+    "slug": "los-monstruos-interiores-y-conceptos-de-cronica",
+    "title": "Los Monstruos Interiores y Conceptos de Crónica"
+  },
+  "next": null
+}

@@ -1,0 +1,36 @@
+{
+  "book_id": "m20-sorcerer",
+  "line": "mage",
+  "order": 23,
+  "slug": "invocacion-vinculacion-y-proteccion",
+  "block": "capitulo-1",
+  "block_title": "Capítulo Uno: Hechicería",
+  "chapter": "Capítulo Uno: Hechicería",
+  "part": "Invocación, Vinculación y Protección",
+  "section": null,
+  "title": "Invocación, Vinculación y Protección",
+  "content_type": "rule",
+  "source_line_range": [
+    1564,
+    1592
+  ],
+  "body_md": "## Invocación, Vinculación y Protección\n\nLos hechiceros, tanto en la ficción como en la [leyenda](/mage/backgrounds/legend), son bien conocidos por su capacidad de invocar y controlar a otros, tanto vivos como efímeros. Con estos poderes, el mago puede invocar animales, espíritus, fantasmas, demonios y otros seres extraños. También puede defenderse de estos seres, vincularlos y obligarlos a obedecerle. Aunque existe cierto solapamiento con la Senda de la Efimeria, esta Senda se centra en métodos de coerción, en lugar de cooperación, con los seres que son invocados y con los que se trata.\n\nToda la magia de [Invocación, Vinculación y Protección](/mage/hedge-paths/invocacion-vinculacion-y-proteccion) consiste en rituales, y existen rituales para alcanzar a seres individuales o a clases enteras de seres. Hay rituales distintos para invocar, vincular y proteger contra cada objetivo. Esto ha llevado a la perdición a muchos magos. Aunque invocar a un ser puede despertar su interés, intentar vincularlo tiende a provocar hostilidad, y los magos que no conocen o fallan al lanzar el ritual de protección a menudo se encuentran en serios problemas.\n\nAdemás de las complicaciones propias de cada ser específico o tipo de ser con el que el mago [estático](/mage/resonances/static) pretenda trabajar, existen varias versiones de esta Senda que se aprenden de forma completamente separada. Existen variantes para invocar criaturas materiales (como animales y personas), ángeles y demonios, fantasmas, espíritus de la naturaleza y otros seres sintientes. Incluso hay informes de variantes centradas en objetos inanimados y creaciones virtuales, que permiten a algunos magos proteger sus ordenadores contra virus o invocar sus coches cuando lo necesitan.\n\n\n## Sistema\n\nAspectos: las tres partes distintas de la Senda tienen Aspectos separados. La Protección tiene Duración y Fuerza, cuyo nivel resta un dado a todas las acciones que el ser invocado realice contra el mago. Con tres éxitos, la Fuerza de Protección permite crear un Círculo de Protección, que el ser no puede cruzar sin realizar una tirada de Fuerza de Voluntad (dificultad 6) en la que obtenga más éxitos que el mago.\n\nLa Invocación tiene la Duración como Aspecto. Además, tiene el Número de seres invocados (o enjambres) y el Peso Metafísico del ser invocado. El ser invocado se ve obligado a aparecer ante el mago, pero aun así debe trasladarse hasta allí por sí mismo. Solo los seres más poderosos pueden viajar verdaderamente de forma instantánea.\n\nLa Vinculación tiene de manera similar los Aspectos de Duración y Peso Metafísico, además de la Intensidad de Vinculación. Un ser puede gastar un punto de Fuerza de Voluntad para resistirse a una vinculación, pero la vinculación puede volver a lanzarse. Algunos seres, especialmente aquellos con Peso Metafísico 5, son lo bastante poderosos como para requerir rituales de vinculación con grandes Umbrales además de los requisitos habituales, a veces tan altos como 20 o más éxitos.\n\n\n## Intensidad de Vinculación\n\n- La criatura no puede actuar directamente contra el mago.\n- ·· Cualquier pregunta individual debe responderse con sinceridad.\n- ··· Todas las preguntas durante la duración deben responderse con sinceridad, y el ser puede ser obligado a realizar un servicio, aunque puede interpretar la orden con libertad siempre que la satisfaga literalmente.\n- ···· Se realiza una única tarea tal como se indica, siguiendo las órdenes al pie de la letra.\n- ····· El mago puede transferir un control limitado de la vinculación a otra persona. El ser realiza una tarea para ella y responde a cualquier pregunta que el invocador le haga.\n\nPrecio del [Fallo](/mage/flaws/failure): la Senda de [Invocación, Vinculación y Protección](/mage/hedge-paths/invocacion-vinculacion-y-proteccion) no necesita costes especiales de [fallo](/mage/flaws/failure) o fracaso. En cambio, las consecuencias de los fallos y fracasos las inflige sobre el mago el propio ser invocado. La mayor fuente de estos problemas es que, en caso de fracaso, el mago a menudo acaba bajo la falsa impresión de haber tenido éxito.",
+  "toc": [
+    {
+      "text": "Sistema",
+      "anchor": "sistema"
+    },
+    {
+      "text": "Intensidad de Vinculación",
+      "anchor": "intensidad-de-vinculacion"
+    }
+  ],
+  "prev": {
+    "slug": "luz-de-las-estrellas",
+    "title": "Luz de las Estrellas"
+  },
+  "next": {
+    "slug": "control-del-clima",
+    "title": "Control del Clima"
+  }
+}

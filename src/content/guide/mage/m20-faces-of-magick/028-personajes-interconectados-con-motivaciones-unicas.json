@@ -1,0 +1,29 @@
+{
+  "book_id": "m20-faces-of-magick",
+  "line": "mage",
+  "order": 28,
+  "slug": "personajes-interconectados-con-motivaciones-unicas",
+  "block": "cierre",
+  "block_title": "Cierre",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Personajes Interconectados con Motivaciones Únicas",
+  "content_type": "back-matter",
+  "source_line_range": [
+    1883,
+    1895
+  ],
+  "body_md": "## Personajes Interconectados con Motivaciones Únicas\n\nFaces of Magick es un suplemento para Narradores que buscan introducir al grupo en un mundo interconectado de personajes y tramas argumentales en Mage: The Ascension. Con el tiempo, los magos pueden seguir la cadena de conflictos entre personajes de las Tradiciones Místicas, llevándolos a encuentros únicos y poderosos con Durmientes, Despertares, el Consenso, y entre sí.\n\n## Dentro de este libro, encontrarás:\n\n- 24 personajes motivados de cada una de las Nueve Tradiciones Místicas, muchos de los cuales aparecen en M20: Lore of the Traditions.\n- Más de 75 conflictos y alianzas únicos que conectan a cada personaje del libro.\n- Personajes célebres y rostros nuevos por igual, incluyendo poderosos Primi, el legendario Xoca, Corey 'Clutz' Whitman —amiga y aliada de los enigmáticos Trolls del Puente de Seattle—, y más.",
+  "toc": [
+    {
+      "text": "Dentro de este libro, encontrarás:",
+      "anchor": "dentro-de-este-libro-encontraras"
+    }
+  ],
+  "prev": {
+    "slug": "yoshi-e-wiibaru-charon",
+    "title": "Yoshi'e Wiibaru: Charon"
+  },
+  "next": null
+}

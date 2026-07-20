@@ -1,0 +1,40 @@
+{
+  "book_id": "m20-the-rich-bastards-guide-to-magick",
+  "line": "mage",
+  "order": 16,
+  "slug": "formulas-correspondencia",
+  "block": "capitulo-3",
+  "block_title": "Capítulo Tres: Magia monetaria",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Fórmulas: Correspondencia",
+  "content_type": "rule",
+  "source_line_range": [
+    1317,
+    1362
+  ],
+  "body_md": "## Correspondencia\n\nCon acceso sin esfuerzo al [transporte](/mage/hedge-paths/transporte), el mundo de los ricos ya es pequeño. Con Correspondencia, nada está fuera de límites.\n\n\n## Punto de Venta (·· Correspondencia/ · Entropía)\n\nLas economías se basan en el eterno tira y afloja entre oferta y demanda, o al menos así es como prefiere verlo el Sindicato. Aunque el concepto de escasez existe dentro del paradigma dominante, siempre hay alguien que necesita algo, y otra persona más que encantada de vendérselo. Para que eso ocurra, deben encontrarse.\n\nEsta fórmula útil ha servido a los magos durante años, permitiéndoles encontrar exactamente lo que necesitan. Es tan útil que no sorprende que la Tecnocracia la haya incorporado al paradigma dominante mediante aplicaciones de mapas repletas de algoritmos útiles. La mayoría de los magos fuera de las Convenciones, salvo aquellos que pueden programar o construir sus propios teléfonos, se ciñen a métodos más arcanos. Cuando el NOM puede señalar tu ubicación con precisión perfecta, es mejor dejar el smartphone en casa.\n\nSistema: Cuando el mago expresa el deseo de comprar o adquirir algo, Correspondencia 2 le permite ver el lugar más cercano donde puede conseguirlo, y Entropía 1 identifica su disponibilidad.\n\nCon un éxito, el mago sabe el lugar más cercano para obtener lo que necesita y exactamente cómo llegar allí. Grados adicionales de éxito revelan más detalles, como qué quiere el vendedor que pague el mago o cualquier peligro potencial mientras compra. Usar este hechizo con Correspondencia 3 o superior permite al mago ver múltiples ubicaciones y resultados.\n\nEste siempre es un efecto coincidente.\n\n\n## Mi Casa de Verano (··· Correspondencia)\n\nLos magos a menudo tienen múltiples lugares a los que llaman hogar. Ir y venir entre estas ubicaciones es un fastidio, y peor aún, crea patrones de viaje claros que partes hostiles pueden examinar. Aunque esta fórmula intercambia patrones de viaje físicos por otros detectados mediante magia, muchos Artesanos de la Voluntad lo consideran un trato justo, incluso con la Paradoja potencial. A medida que el mago comprende más el universo, este hechizo se convierte en la raíz de lo que algunos magos llaman «Arquitectura Despertada», donde las puertas son un componente inherente del diseño de un edificio.\n\nSistema: El mago coloca una inscripción o alteración similar en puertas, escaleras, o cualquier otro espacio de transición en un edificio que posea. Cuando el mago toca la inscripción al entrar en el espacio, Correspondencia 3 abre y cierra una puerta hacia el edificio más cercano con la misma inscripción, sin importar lo lejos que esté.\n\nEste efecto solo necesita un éxito, como si se teletransportara dentro de la percepción inmediata. Con Correspondencia 4, estas puertas se vuelven permanentes, teletransportando automáticamente al mago cuando se toca la inscripción.\n\nEste efecto es vulgar cuando es presenciado por Durmientes, o cuando un Durmiente sabe que la distancia que el mago ha recorrido es imposible.\n\n\n## Supervisión Corporativa (···· Correspondencia/ ··· Vida/ · Mente)\n\nAl igual que los magos normales, los magos adinerados a menudo necesitan equilibrar su vida mágica con su vida mundana. Esta fórmula les permite estar en múltiples lugares a la vez, normalmente en sus propias propiedades o edificios corporativos. Este hechizo no surgió solo por conveniencia: tener riqueza y poder sin seguir el paradigma Tecnocrático convierte al mago en un objetivo obvio. Con este hechizo, pueden aparentar ser «normales» durante unos preciosos momentos mientras planean su próximo movimiento.\n\nLa Tecnocracia desarrolló un hechizo similar para observar múltiples lugares bajo su [influencia](/mage/backgrounds/influence) a la vez, y como método de intimidación para los Subversores de la Realidad. Se hace pasar por una técnica avanzada de telefonía, que funciona mientras nadie se dé cuenta de que el «holograma» con el que están hablando está en la habitación con ellos.\n\n\n\nQuién desarrolló este hechizo primero, y por tanto cuál debe ser su verdadera intención, es un argumento popular entre los magos de clases socioeconómicas más bajas.\n\nSistema: Correspondencia 4 permite al mago estar en múltiples lugares a la vez, Vida 3 produce un duplicado perfecto del cuerpo del mago para cada uno de esos lugares, y Mente 1 permite al mago procesar el input sensorial de todos los lugares en los que está, haciéndolo capaz de mantener múltiples conversaciones o acciones a la vez.\n\nCada grado de éxito es una ubicación en la que el mago puede estar más allá de su ubicación actual. Si todos los lugares en los que el mago quiere estar son lugares que posee directamente, como múltiples hogares y negocios, cada grado de éxito le permite proyectarse en dos ubicaciones más allá de la actual.\n\nEste siempre es un efecto vulgar.",
+  "toc": [
+    {
+      "text": "Punto de Venta (·· Correspondencia/ · Entropía)",
+      "anchor": "punto-de-venta-correspondencia-entropia"
+    },
+    {
+      "text": "Mi Casa de Verano (··· Correspondencia)",
+      "anchor": "mi-casa-de-verano-correspondencia"
+    },
+    {
+      "text": "Supervisión Corporativa (···· Correspondencia/ ··· Vida/ · Mente)",
+      "anchor": "supervision-corporativa-correspondencia-vida-mente"
+    }
+  ],
+  "prev": {
+    "slug": "privilegio-sobre-privilegio",
+    "title": "Privilegio sobre privilegio"
+  },
+  "next": {
+    "slug": "formulas-entropia",
+    "title": "Fórmulas: Entropía"
+  }
+}

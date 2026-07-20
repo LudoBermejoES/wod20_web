@@ -1,0 +1,373 @@
+{
+  "book_id": "m20-lore-of-the-traditions",
+  "line": "mage",
+  "title_es": "Mago: El Saber de las Tradiciones",
+  "book_title_es": "Mago: El Saber de las Tradiciones",
+  "page_count": 36,
+  "tree": [
+    {
+      "block": "front-matter",
+      "block_title": "Portada y Créditos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos",
+              "title": "Créditos",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "Relato de Apertura",
+          "pages": [
+            {
+              "slug": "concordia-el-sueno-de-anyaza",
+              "title": "Concordia: El Sueño de Anyaza",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        },
+        {
+          "chapter": "El Concilio de las Nueve",
+          "pages": [
+            {
+              "slug": "el-concilio-de-las-nueve-tradiciones-misticas",
+              "title": "El Concilio de las Nueve Tradiciones Místicas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "estado-actual-y-facciones-del-concilio",
+              "title": "Estado Actual y Facciones del Concilio",
+              "part": "Estado Actual y Facciones del Concilio",
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "akashayana",
+      "block_title": "La Hermandad Akáshica",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "la-hermandad-akashica",
+              "title": "La Hermandad Akáshica",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "sucesos-actuales-y-personalidades",
+              "title": "Sucesos Actuales y Personalidades",
+              "part": "Sucesos Actuales y Personalidades",
+              "content_type": "lore"
+            },
+            {
+              "slug": "paradigma-magia-y-aliados",
+              "title": "Paradigma, Magia y Aliados",
+              "part": "Paradigma, Magia y Aliados",
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "coro-celestial",
+      "block_title": "El Coro Celestial",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "el-coro-celestial",
+              "title": "El Coro Celestial",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "facciones-magia-y-miembros",
+              "title": "Facciones, Magia y Miembros",
+              "part": "Facciones, Magia y Miembros",
+              "content_type": "lore"
+            },
+            {
+              "slug": "personalidades-y-aliados",
+              "title": "Personalidades y Aliados",
+              "part": "Personalidades y Aliados",
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "culto-extasis",
+      "block_title": "El Culto del Éxtasis",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "el-culto-del-extasis",
+              "title": "El Culto del Éxtasis",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "sucesos-actuales-y-facciones",
+              "title": "Sucesos Actuales y Facciones",
+              "part": "Sucesos Actuales y Facciones",
+              "content_type": "lore"
+            },
+            {
+              "slug": "personalidades-y-paradigma",
+              "title": "Personalidades y Paradigma",
+              "part": "Personalidades y Paradigma",
+              "content_type": "lore"
+            },
+            {
+              "slug": "practicas-instrumentos-y-aliados",
+              "title": "Prácticas, Instrumentos y Aliados",
+              "part": "Prácticas, Instrumentos y Aliados",
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cuentasuenos",
+      "block_title": "Los Cuentasueños",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "los-cuentasuenos",
+              "title": "Los Cuentasueños",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "personalidades-destacadas",
+              "title": "Personalidades Destacadas",
+              "part": "Personalidades Destacadas",
+              "content_type": "lore"
+            },
+            {
+              "slug": "paradigma-magia-y-aliados-2",
+              "title": "Paradigma, Magia y Aliados",
+              "part": "Paradigma, Magia y Aliados",
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "euthanatos",
+      "block_title": "Los Euthanatos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "los-euthanatos",
+              "title": "Los Euthanatos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "sucesos-facciones-y-personalidades",
+              "title": "Sucesos, Facciones y Personalidades",
+              "part": "Sucesos, Facciones y Personalidades",
+              "content_type": "lore"
+            },
+            {
+              "slug": "paradigma-magia-y-aliados-3",
+              "title": "Paradigma, Magia y Aliados",
+              "part": "Paradigma, Magia y Aliados",
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "orden-hermes",
+      "block_title": "La Orden de Hermes",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "la-orden-de-hermes",
+              "title": "La Orden de Hermes",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "acontecimientos-actuales-y-personalidades",
+              "title": "Acontecimientos Actuales y Personalidades",
+              "part": "Acontecimientos Actuales y Personalidades",
+              "content_type": "lore"
+            },
+            {
+              "slug": "paradigma-magia-y-aliados-4",
+              "title": "Paradigma, Magia y Aliados",
+              "part": "Paradigma, Magia y Aliados",
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "sociedad-eter",
+      "block_title": "La Sociedad del Éter",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "la-sociedad-del-eter",
+              "title": "La Sociedad del Éter",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "destinos-sucesos-y-facciones",
+              "title": "Destinos, Sucesos y Facciones",
+              "part": "Destinos, Sucesos y Facciones",
+              "content_type": "lore"
+            },
+            {
+              "slug": "personalidades-paradigma-y-maravillas",
+              "title": "Personalidades, Paradigma y Maravillas",
+              "part": "Personalidades, Paradigma y Maravillas",
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "verbena",
+      "block_title": "Los Verbena",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "los-verbena",
+              "title": "Los Verbena",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "verbenae-modernos-y-personalidades",
+              "title": "Verbenae Modernos y Personalidades",
+              "part": "Verbenae Modernos y Personalidades",
+              "content_type": "lore"
+            },
+            {
+              "slug": "costumbres-maravillas-y-facciones",
+              "title": "Costumbres, Maravillas y Facciones",
+              "part": "Costumbres, Maravillas y Facciones",
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "adeptos-virtuales",
+      "block_title": "Los Adeptos Virtuales",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "los-adeptos-virtuales",
+              "title": "Los Adeptos Virtuales",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "actualidad-y-personalidades",
+              "title": "Actualidad y Personalidades",
+              "part": "Actualidad y Personalidades",
+              "content_type": "lore"
+            },
+            {
+              "slug": "paradigma-magia-y-aliados-5",
+              "title": "Paradigma, Magia y Aliados",
+              "part": "Paradigma, Magia y Aliados",
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "personalidades",
+      "block_title": "Personalidades Notables",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "personalidades-notables",
+              "title": "Personalidades Notables",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "porthos-y-theora",
+              "title": "Porthos y Theora",
+              "part": "Porthos y Theora",
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-viles-y-cartas-salvajes",
+              "title": "Los Viles y Cartas Salvajes",
+              "part": "Los Viles y Cartas Salvajes",
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cierre",
+      "block_title": "Cierre",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "contraportada",
+              "title": "Contraportada",
+              "part": null,
+              "content_type": "back-matter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

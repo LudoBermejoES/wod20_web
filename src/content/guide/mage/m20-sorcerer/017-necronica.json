@@ -1,0 +1,56 @@
+{
+  "book_id": "m20-sorcerer",
+  "line": "mage",
+  "order": 17,
+  "slug": "necronica",
+  "block": "capitulo-1",
+  "block_title": "Capítulo Uno: Hechicería",
+  "chapter": "Capítulo Uno: Hechicería",
+  "part": "Necrónica",
+  "section": null,
+  "title": "Necrónica",
+  "content_type": "rule",
+  "source_line_range": [
+    1280,
+    1338
+  ],
+  "body_md": "## Necrónica\n\nUna de las Sendas más recientes, descubierta solo por cazafantasmas a finales de la década de 1990, la Senda de la [Necrónica](/mage/hedge-paths/necronica) fue estudiada por primera vez por hackers de «sombrero negro» que intentaban combinar sus conocimientos de electrónica con el mundo de los muertos. Utilizan diversas técnicas para manipular su propia bioelectricidad, o [energía](/mage/instruments/energy) vital, con el fin de afectar de alguna manera al mundo de los muertos. Dado que la [energía](/mage/instruments/energy) vital es antitética a las Tierras de las [Sombras](/mage/hedge-paths/sombras), esto tiende a dificultar los esfuerzos de los fantasmas por gestionar sus embrujos.\n\nAl ser una Senda nueva, todavía hay mucho que no se entiende sobre la [Necrónica](/mage/hedge-paths/necronica). Casi todos los practicantes actuales usan dispositivos electrónicos -normalmente ordenadores, teléfonos y tabletas- para lanzar hechizos de [Necrónica](/mage/hedge-paths/necronica). Aunque existen equivalentes en culturas tradicionales, esas Sendas pueden o no ser lo mismo que la [Necrónica](/mage/hedge-paths/necronica), empleando métodos más tradicionales y de menor tecnología. Los cazafantasmas que investigan la [Necrónica](/mage/hedge-paths/necronica) suelen sentirse fascinados por estas prácticas. Creen que estudiarlas les proporcionará nuevas técnicas que podrán aplicar para gestionar embrujos.\n\nAdemás de las consecuencias del fracaso que se detallan más abajo, la [Necrónica](/mage/hedge-paths/necronica) conlleva otro gran peligro para el mago. Dado que los usuarios manipulan su bioelectricidad con tanta intensidad, tocarlos mientras trabajan resulta peligroso. Incluso el más leve contacto de otro ser vivo desbarata la [concentración](/mage/merits/concentracion) y el control de la bioelectricidad del mago, provocando la formación de un bucle de retroalimentación. Esta retroalimentación hace que sufra un nivel de daño agravado y que el hechizo o ritual fracase. El mago necesita atención médica inmediata para estabilizarse y queda debilitado (-1 dado a todas las acciones) durante una semana por cada nivel del hechizo o ritual interrumpido.\n\n\n## Sistema\n\nAspectos: Área, Duración, e Impedancia:\n\n\n## Impedancia\n\n- El mago inunda el inframundo local con [energía](/mage/instruments/energy) eléctrica, desactivando todos los poderes fantasmales activos. Los fantasmas pueden ignorar esto y seguir como estaban si superan una tirada de Fuerza de Voluntad (dificultad 8).\n- ·· En este nivel, en lugar de simplemente detener un embrujo, el mago puede aumentar la clasificación del Manto. Esto cuesta un éxito por cada rango aumentado, con el primer rango incluido en el coste base del hechizo (así que, además de los requisitos habituales, se necesitan 2 éxitos para aumentar el Manto de 6 a 9).\n- ··· Los lugares pueden defenderse de un embrujo mediante la sencilla técnica de engañar al fantasma para que embruje otro sitio. En este rango, el mago puede crear una trampa, un reino falso que el fantasma puede embrujar en lugar del lugar real. Un fantasma puede darse cuenta de que ha sido engañado con una tirada de Astucia + Enigmas (dificultad 8) y puede escapar con otra.\n- ···· En este nivel, el mago puede usar directamente su bioelectricidad como ataque contra un fantasma. Al usar este rango de [Necrónica](/mage/hedge-paths/necronica), los Aspectos de Área y Duración se sustituyen por Daño y Alcance.\n- ····· Los maestros de esta Senda son capaces de devastar una región de las Tierras de las [Sombras](/mage/hedge-paths/sombras) y a sus habitantes. Lo llaman «crear un cero», y «formatean» el espacio a un [patrón](/mage/backgrounds/patron) predeterminado. Cuando tiene éxito, no queda nada. Durante la duración del hechizo, la región se vuelve inhabitable para los fantasmas, haciendo que los Muertos Sin Reposo pierdan Corpus a un ritmo de 3 por asalto hasta que consigan escapar de la zona. Si no logran escapar antes de quedarse sin niveles de Corpus, desaparecen. Los magos generalmente creen que estos fantasmas han sido destruidos por completo, en lugar de sufrir las\n\nconsecuencias habituales de quedarse sin Corpus. Dado que ningún experto en [Necrónica](/mage/hedge-paths/necronica) ha visto jamás a uno que sobreviviera a ser «puesto a cero», esta parece ser la mejor conjetura.\n\nPrecio del [Fallo](/mage/flaws/failure): dado que el mago de [Necrónica](/mage/hedge-paths/necronica) usa su propia bioelectricidad para interactuar con los muertos, los fracasos son particularmente arriesgados. No solo está extendiendo sentidos místicos, sino una parte muy real y física de sí mismo. En caso de fracaso, el efecto pretendido no ocurre. En cambio, todos los fantasmas de la zona ganan Pathos y Angst igual al nivel del hechizo o ritual que se estaba realizando. También se vuelven agudamente conscientes del mago que intenta controlarlos o desterrarlos, y pueden afectar al mago directamente con sus poderes como si él fuera un fantasma, en lugar de tener que actuar a través del Manto o de poderes específicos que les permitan tocar a los vivos.\n\n\n## Rituales de Ejemplo\n\n\n## Burbuja de Manto ( ··· )\n\nA veces, cuando todo lo demás falla, lo mejor que puede hacer un mago frente a un embrujo problemático es esconderse y esperar a que pase. El problema es que los fantasmas tienen la desagradable tendencia de atravesar paredes y la mayoría de las demás barreras protectoras. También suelen ser implacables, a menudo obsesivos cuando centran su mente en una tarea. Los magos desesperados, acosados por fantasmas perseverantes, inventaron el concepto de la [Burbuja de Manto](/mage/rituals/shroud-bubble) para protegerse, especialmente mientras esperan la llegada de [refuerzos](/mage/backgrounds/backup) para encargarse del fantasma de forma más directa. El ritual requiere tres éxitos, pero aumenta el Manto a 10 en las cercanías del mago. De hecho, la clasificación del Manto aumenta en una esfera justo lo bastante grande para contenerlo. El efecto permanece estacionario, de modo que el mago no puede abandonar la zona sin aumentar su riesgo frente a los fantasmas, y dura 8 horas.\n\n\n## Ciérralo ( ··· )\n\nLos embrujos pueden variar en escala. Para aquellos confinados a una habitación o dos, es bastante sencillo desactivar los poderes que los fantasmas usan para interactuar con el mundo físico. Sin embargo, con más frecuencia hay todo un edificio o un área mayor embrujada, y si se le niega una habitación al fantasma, simplemente irá a otra. Con [Ciérralo](/mage/rituals/shut-it-down), se puede silenciar un área mucho mayor de lo habitual, de modo que resulte imposible usar los poderes fantasmales. El mago debe marcar las esquinas del edificio o área, que puede ser tan grande como una manzana entera de terreno vacío o un solo edificio. El ritual requiere al menos 3 éxitos, y los fantasmas del interior solo pueden usar sus poderes si superan una tirada de Fuerza de Voluntad a dificultad 8.\n\n\n## Doxeo ( ···· )\n\nLeyendo las corrientes generadas por un fantasma y sus movimientos, el mago puede extraer información de él. Cada dato tiene un coste y debe declararse y pagarse antes del lanzamiento. Cualquier recurso gastado de esta manera no se reembolsa si el ritual fracasa. No se obtiene ninguna información si el ritual no logra alcanzar el número de éxitos necesarios para la información buscada:\n\n- Identificar una Pasión: un éxito por cada una. Esto identifica tanto la Pasión como la emoción a la que está ligada.\n- Naturaleza, Conducta y Arquetipo de [Sombra](/mage/psychic-phenomenons/sombra): un éxito y un punto de Fuerza de Voluntad por cada uno.\n- Identificar un Grillete: mucho más difícil, esto requiere dos éxitos y un punto de Fuerza de Voluntad.\n- El Nombre Verdadero del fantasma: esto requiere cinco éxitos y dos puntos de Fuerza de Voluntad.\n\n\n## Sobrescribir ( ····· )\n\nLa expresión definitiva de la Senda de la [Necrónica](/mage/hedge-paths/necronica): el practicante concluye que todos los fantasmas son señales electromagnéticas atrapadas en la matriz de la personalidad de una persona que antes vivía. Esto explica por qué son tan maleables, para bien o para mal. Con este ritual, el mago puede reescribir la naturaleza del fantasma a un nivel fundamental. Para ello, debe conocer el Nombre Verdadero del fantasma y poseer uno de sus Grilletes. El ritual dura 12 horas y requiere dos tiradas de Resistencia (a dificultad 6) para completarse. Durante todo ese tiempo, el fantasma debe permanecer confinado en la misma habitación que el lanzador, un espacio de aproximadamente 10 por 10 pies. Al completar el ritual, pueden realizarse cambios significativos en el fantasma, pero cada uno tiene un coste. Por defecto duran un ciclo lunar, pero se vuelven permanentes si se duplican los costes. Algunos de los cambios posibles son:\n\n- 1 éxito y 1 punto de Fuerza de Voluntad por nivel para cambiar Pasiones, y un punto extra de Fuerza de Voluntad para cambiar a una emoción diferente.\n- 2 éxitos y 1 nivel de Salud -no daño, el propio nivel de Salud desaparece durante la duración- para añadir o eliminar un punto de Angst.\n- 5 éxitos y 5 puntos de Fuerza de Voluntad para [sobrescribir](/mage/rituals/overwrite) por completo al fantasma con otra personalidad específica.",
+  "toc": [
+    {
+      "text": "Sistema",
+      "anchor": "sistema"
+    },
+    {
+      "text": "Impedancia",
+      "anchor": "impedancia"
+    },
+    {
+      "text": "Rituales de Ejemplo",
+      "anchor": "rituales-de-ejemplo"
+    },
+    {
+      "text": "Burbuja de Manto ( ··· )",
+      "anchor": "burbuja-de-manto"
+    },
+    {
+      "text": "Ciérralo ( ··· )",
+      "anchor": "cierralo"
+    },
+    {
+      "text": "Doxeo ( ···· )",
+      "anchor": "doxeo"
+    },
+    {
+      "text": "Sobrescribir ( ····· )",
+      "anchor": "sobrescribir"
+    }
+  ],
+  "prev": {
+    "slug": "necromancia",
+    "title": "Necromancia"
+  },
+  "next": {
+    "slug": "oniromancia",
+    "title": "Oniromancia"
+  }
+}

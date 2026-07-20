@@ -1,0 +1,33 @@
+{
+  "book_id": "m20-lore-of-the-traditions",
+  "line": "mage",
+  "order": 0,
+  "slug": "creditos",
+  "block": "front-matter",
+  "block_title": "Portada y Créditos",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Créditos",
+  "content_type": "front-matter",
+  "source_line_range": [
+    1,
+    42
+  ],
+  "body_md": "Satyros Phil Brucato, Hiromi Cota, Cat Evans, Rachel Judd, Tyler Middleton, Terry Skochko Robinson, J.F. Sambrano, Theanos Thrax\n\n\n## Créditos\n\nDesarrollador: Travis Legge\n\nDesarrollador de la línea Mundo de Tinieblas: Matthew Dawkins\n\nEscritores: Satyros Phil Brucato, Hiromi Cota, Cat Evans, Rachel Judd, Tyler Middleton, Terry Skochko Robinson, J.F. Sambrano, Theanos Thrax\n\nEditor: Sándor Gebei\n\nArte: Mike Gaydos, Farri Lensen, Sam Denmark, Alex Sheikman, Michael William Kaluta, Melissa Uran, Chris Shy\n\nDirector de Arte: Mike Chaney\n\nDiseñador Gráfico: Mike Chaney\n\nDirector Creativo: Richard Thomas\n\n\n\n\n## © 2023 PARADOX INTERACTIVE AB.\n\nTodos los derechos reservados. Queda expresamente prohibida la reproducción sin el consentimiento por escrito del editor, excepto con fines de reseña, y para hojas de personaje en blanco, que pueden reproducirse únicamente para uso personal. Mage: The Ascension y el Mundo de Tinieblas son marcas registradas de Paradox Interactive AB (publ). Todos los derechos reservados.\n\nVisita el Mundo de Tinieblas en línea en www.worldofdarkness.com\n\n\n## Agradecimientos Especiales\n\nA los gigantes a cuyos hombros nos subimos. A todo desarrollador, escritor, Narrador y jugador que ha ayudado a dar forma al Mundo de Tinieblas y a Mage: The Ascension durante tres décadas. Esperamos que nuestras palabras os hayan honrado.",
+  "toc": [
+    {
+      "text": "© 2023 PARADOX INTERACTIVE AB.",
+      "anchor": "2023-paradox-interactive-ab"
+    },
+    {
+      "text": "Agradecimientos Especiales",
+      "anchor": "agradecimientos-especiales"
+    }
+  ],
+  "prev": null,
+  "next": {
+    "slug": "concordia-el-sueno-de-anyaza",
+    "title": "Concordia: El Sueño de Anyaza"
+  }
+}

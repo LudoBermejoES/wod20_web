@@ -1,0 +1,44 @@
+{
+  "book_id": "m20-the-operative-dossier",
+  "line": "mage",
+  "order": 30,
+  "slug": "mision-uno-esperanza",
+  "block": "capitulo-5",
+  "block_title": "Capítulo Cinco: Declaración de Misiones",
+  "chapter": "Capítulo Cinco: Declaración de Misiones",
+  "part": null,
+  "section": null,
+  "title": "Misión Uno: Esperanza",
+  "content_type": "rule",
+  "source_line_range": [
+    3000,
+    3035
+  ],
+  "body_md": "## Misión Uno: Esperanza\n\nLa humanidad se revuelca en la desesperación a nivel global. Ven poca alegría en el horizonte, y prefieren entregarse al escapismo a través de los medios de comunicación masivos y el consumismo sin sentido. Han olvidado la alegría de construir algo para la siguiente generación, de elegir la esperanza.\n\nLa Fundación Reto al [Destino](/mage/backgrounds/destiny) tiene una respuesta: Marte. El alunizaje de 1969 cambió el mundo de maneras profundas y duraderas. Una nave espacial que posara pies humanos en el Planeta Rojo uniría e inspiraría de forma similar a nueve mil millones de humanos.\n\n\n## Preparación\n\nAlgunos humanos con visión de futuro ya han comenzado, lo que requiere la implicación de la Tecnocracia para mantener a los civiles alejados de las partes del espacio que la Unión preferiría que no conocieran todavía. Pero la Unión no disfruta del control exclusivo del proyecto. Misión: Marte ha atraído la atención de varios miembros de la Alianza Dispar, incluyendo a los Hijos del Conocimiento, Wu Lung, e incluso a un Huérfano brillante o dos.\n\nComplicando las cosas está el hecho de que ninguna nación, ni siquiera una superpotencia, tiene la riqueza necesaria. Así, se formó una coalición internacional bajo la dirección de la Fundación Reto al [Destino](/mage/backgrounds/destiny), con sede en la Antártida. Varios otros CMURD se han enganchado al proyecto a través de sus [gobiernos](/mage/instruments/governments) de origen, incluyendo a los Ngoma y varios Caballeros Templarios.\n\n\n## Involucrando a las Agentes\n\nReto al [Destino](/mage/backgrounds/destiny) no puede simplemente echar a estos MURD del equipo. Las preocupaciones políticas mantienen presentes a los Dispares, y las operativas han descubierto rápidamente que los CMURD tienen contribuciones valiosas que hacer después de todo. Para bien o para mal, todos se encuentran obligados a trabajar juntos. Las tensiones estallan constantemente, mientras la arrogancia Tecnocrática choca continuamente contra la autosuficiencia Dispar.\n\n\n## Qué Sucede Después\n\nPara resolver estos problemas, Reto al [Destino](/mage/backgrounds/destiny) ha formado un equipo de buena voluntad, compuesto por operativas y Dispares. Este equipo interactúa con cada aspecto del proyecto, resolviendo problemas y guiando a partes iguales para mantener la misión en curso. El equipo elegido debe abordar los diversos obstáculos de una misión a Marte exitosa, incluyendo:\n\n- Atención mortal. Aunque la Unión y sus [aliados](/mage/backgrounds/allies) MURD lideran la empresa, Misión: Marte no puede tener éxito sin la cooperación de cientos, si no miles, de mortales. Todos ellos, altamente educados, pueden detectar fácilmente las discrepancias físicas producidas por la Ciencia Iluminada. Sin embargo, sin tales contribuciones, el proyecto sigue siendo probable que fracase. Cuando las operativas sienten que un determinado científico mortal podría estar acercándose demasiado a la verdad, recurren al equipo para solucionar el problema.\n- Costes. Diseñar, construir y lanzar una nave capaz de llegar a Marte, sin mencionar el entrenamiento de los astronautas, requiere cantidades de dinero difíciles de imaginar. Cada entidad que acepta contribuir quiere algo a cambio de su participación en el proyecto. El equipo conjunto de buena voluntad debe hilar cuidadosamente estas negociaciones y evitar alterar el equilibrio de poder global.\n- Requisitos de combustible. El peso de la comida, el agua, el aire, y otros suministros necesarios para llegar a Marte y regresar es literalmente astronómico. Ni siquiera la hiperfusión puede lograrlo. El equipo debe averiguar cómo combinar la Ciencia Iluminada con la ciencia mortal para crear el tipo adecuado de combustible.\n- Personal. Sin duda, la tripulación final incluirá una combinación de operativas y CMURD, quizá incluso el propio equipo de buena voluntad. Ciertamente pueden manejar cualquier problema que surja durante la preparación de la misión. Sin embargo, una vez lanzada, todos los ojos mortales quedan fijos en la nave. Los astronautas deben actuar con cuidado, incluyendo aplicaciones abiertas de Ciencia Iluminada.\n\n\n## Resolución\n\nEl éxito significa un paradigma cambiado globalmente, y nuevas fronteras abiertas para la exploración humana. El énfasis en el logro científico puede alejar a la humanidad aún más de depender de la superstición. Quizá incluso podrían estar listos para entender lo que les espera más allá de su propia realidad mundana.\n\nEl fracaso, por supuesto, no es una opción.",
+  "toc": [
+    {
+      "text": "Preparación",
+      "anchor": "preparacion"
+    },
+    {
+      "text": "Involucrando a las Agentes",
+      "anchor": "involucrando-a-las-agentes"
+    },
+    {
+      "text": "Qué Sucede Después",
+      "anchor": "que-sucede-despues"
+    },
+    {
+      "text": "Resolución",
+      "anchor": "resolucion"
+    }
+  ],
+  "prev": {
+    "slug": "terranormalizacion",
+    "title": "Terranormalización"
+  },
+  "next": {
+    "slug": "mision-dos-el-milagro-de-la-creacion",
+    "title": "Misión Dos: El Milagro de la Creación"
+  }
+}

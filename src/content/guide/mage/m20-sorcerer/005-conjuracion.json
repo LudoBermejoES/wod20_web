@@ -1,0 +1,52 @@
+{
+  "book_id": "m20-sorcerer",
+  "line": "mage",
+  "order": 5,
+  "slug": "conjuracion",
+  "block": "capitulo-1",
+  "block_title": "Capítulo Uno: Hechicería",
+  "chapter": "Capítulo Uno: Hechicería",
+  "part": "Conjuración",
+  "section": null,
+  "title": "Conjuración",
+  "content_type": "rule",
+  "source_line_range": [
+    577,
+    625
+  ],
+  "body_md": "## Conjuración\n\nLa [Conjuración](/mage/hedge-paths/conjuracion) es la Senda por excelencia de los magos de escenario: sacar conejos de sombreros y cartas del bolsillo de un miembro del público son ejemplos comunes de sus aplicaciones más básicas. Los hechiceros que desean ganarse la vida con sus estudios suelen aprender [Conjuración](/mage/hedge-paths/conjuracion). Debido a esta inextricable asociación con la magia de escenario, los Durmientes tienden a racionalizar la [Conjuración](/mage/hedge-paths/conjuracion) como simple juego de manos experto.\n\nLa Senda de la [Conjuración](/mage/hedge-paths/conjuracion) es la capacidad de mover o invocar un objeto o ser. Mientras que un [novato](/mage/flaws/novato) quizá solo realice trucos de salón, como hacer girar una moneda, un hechicero avanzado en [Conjuración](/mage/hedge-paths/conjuracion) puede dejar en suspenso un hechizo sobre su compañero antes de entrar en una situación peligrosa, lo que le permite sacar a su amigo de las (quizá literales) fauces de la muerte si es necesario.\n\nCasi tan importante como lo que la [Conjuración](/mage/hedge-paths/conjuracion) es, es lo que la [Conjuración](/mage/hedge-paths/conjuracion) no es. La [Conjuración](/mage/hedge-paths/conjuracion) es muy similar a la Senda del [Transporte](/mage/hedge-paths/transporte) mecánicamente, hasta el punto de que a menudo se confunden ambas Sendas, especialmente entre los Magos Despertados que pueden lograr resultados comunes a ambas Sendas con la Esfera de la Correspondencia. La [Conjuración](/mage/hedge-paths/conjuracion) no puede mover al hechicero que la maneja, mientras que el [Transporte](/mage/hedge-paths/transporte) sí. Un hechicero tampoco puede usar esta Senda para «invocar» ataques elementales; ese es el [dominio](/mage/practices/dominion) del [Fuego Infernal](/mage/hedge-paths/fuego-infernal). La [Conjuración](/mage/hedge-paths/conjuracion) puede invocar un cubo de arena pero no crear una tormenta de arena.\n\n\n## Sistema\n\nModificadores: Para cualquier aplicación que pueda hacerse pasar por —o describirse de forma suficientemente parecida a— magia de escenario, conserva un éxito que de otro modo habrían eliminado los testigos. Incluso el consenso racional está predispuesto por la cultura popular a creer que hacer aparecer un elefante de la nada es posible con un ingenioso truco visual. Ten en cuenta que las acciones que causan un daño físico evidente no pueden explicarse de esta manera.\n\nUsar [Conjuración](/mage/hedge-paths/conjuracion) sobre un objeto que está en manos de alguien que se resiste activamente conlleva un +1 a la dificultad. Intentar [Conjuración](/mage/hedge-paths/conjuracion) para mover a un objetivo que se resiste conlleva un +2 a la dificultad. Aplica un -1 a la dificultad para un objeto bien conocido por el hechicero (véase también [Permanencia del Objeto](/mage/rituals/object-permanence) más abajo).\n\nAspectos: La [Conjuración](/mage/hedge-paths/conjuracion) usa los Aspectos de Distancia, Número de Objetivos y Peso. La [Conjuración](/mage/hedge-paths/conjuracion), cabe destacar, no usa [Velocidad](/mage/sphere-effects/speed). El objetivo invocado aparece instantáneamente al completar con éxito un hechizo o ritual. El hechicero también puede optar por comprar los siguientes efectos con éxitos adicionales:\n\n- 1 éxito para poder usar [Conjuración](/mage/hedge-paths/conjuracion) para atacar torpemente sin tocar el arma (penalización de -1 dado al ataque).\n- 2 éxitos para atacar como arriba pero sin penalización, o para dar control motor fino a cualquier objeto conjurado, como usar un juego de ganzúas a distancia.\n- 1 éxito por cada asalto adicional que el hechicero desee mantener el efecto. El hechicero no puede cambiar drásticamente el efecto, como lanzar\n\nuna marioneta para golpear a alguien después de haberla hecho bailar, sin volver a tirar [Conjuración](/mage/hedge-paths/conjuracion).\n\nPrecio del Fracaso: Mientras que un simple [fallo](/mage/flaws/failure) significa que ningún objeto es transportado, un fracaso de [Conjuración](/mage/hedge-paths/conjuracion) abarca todo el espectro, desde lo muy inconveniente hasta lo espeluznante. Un hechicero podría enviar un objeto al lugar equivocado, como enviar un objeto más lejos de su alcance o conjurar un arma preparada directamente a su propia mano. A veces el hechicero invoca el objeto equivocado por completo. Alternativamente, un hechicero podría conjurar solo parte del objeto previsto, y basta con imaginar el horror de fracasar en la [Conjuración](/mage/hedge-paths/conjuracion) de un ser vivo.\n\n\n## Rituales de Muestra\n\n\n## Permanencia del Objeto ( ·· )\n\nA los hechiceros les resulta naturalmente más fácil invocar objetivos con los que tienen una fuerte conexión, como una mascota querida o el cuchillo ritual que les regaló su [mentor](/mage/backgrounds/mentor). Con [Permanencia del Objeto](/mage/rituals/object-permanence), el hechicero fuerza una conexión sobrenatural con los objetos para invocarlos en el futuro. Esto trata al objetivo como «bien conocido por el hechicero», aunque el hechicero lo haya encontrado en un contenedor de basura hace una hora. El hechicero medita a menos de 10 pies del objetivo y gasta un punto de Fuerza de Voluntad. Cada éxito representa un día que el objetivo mantiene la conexión sobrenatural con el hechicero. Un hechicero puede tener vinculados de este modo, a la vez, un número máximo de objetivos igual a sus puntos en [Conjuración](/mage/hedge-paths/conjuracion).\n\n\n## Siempre Armado ( ··· )\n\nEl hechicero no tiene por qué parecer armado para tener un arma lista. Debido a la naturaleza de este ritual, casi siempre se deja en suspenso antes de que el hechicero entre en una situación potencialmente peligrosa. Si necesita acceder al arma, el hechicero completa el ritual metiendo la mano en su gabardina o en una [sombra](/mage/psychic-phenomenons/sombra) conveniente para invocarla. Tradicionalmente, los hechiceros usaban este ritual para conjurar espadas, pero en los tiempos modernos es más común que un hechicero invoque una escopeta o un rifle. El arma invocada no puede ser mayor que una escopeta o una espada larga.\n\n\n## Tormenta de Mierda ( ··· )\n\nEl hechicero se rodea a sí mismo y a sus compañeros que estén a menos de 25 pies con una arremolinada coraza de pequeños objetos inanimados. Esto añade +1 a la dificultad para golpear con un ataque a distancia a cualquiera cubierto por el efecto, por cada 2 éxitos de activación. Además, cualquiera que intente el combate cercano contra los afectados por el ritual debe absorber [éxitos de activación] en daño. Esto suele ser contundente, a menos que el hechicero estuviera en una habitación llena de [cristales](/mage/instruments/crystals) rotos, cuchillos pequeños u otros objetos afilados, en cuyo caso el daño es letal. El hechicero no tiene por qué apuntar a ningún [enemigo](/mage/flaws/enemigo) en particular para que esto ocurra. Cualquiera, amigo o [enemigo](/mage/flaws/enemigo), que se acerque demasiado a los escombros voladores es golpeado y debe absorber el daño.\n\n\n## Extracción ( ···· )\n\nOtro ritual que se deja en suspenso comúnmente «por si acaso», la [Extracción](/mage/rituals/extraction) permite al hechicero sacar del combate y poner a salvo a los compañeros caídos o desbordados. El hechicero primero se mueve fuera del alcance del combate, típicamente tras una cobertura, y saca a sus compañeros de una [sombra](/mage/psychic-phenomenons/sombra). No hay aumento de dificultad ni penalización de éxitos si los compañeros no se resisten y no son objetivo inmediato: el caos del combate puede ocultar el uso de este ritual. Una vez que el hechicero y sus compañeros están fuera del alcance, no se los cuenta como que están en combate, a menos que un combatiente los encuentre y los ataque. Este poderoso ritual puede funcionar con hasta 10 compañeros, a los que el hechicero debe definir al realizar inicialmente el ritual.",
+  "toc": [
+    {
+      "text": "Sistema",
+      "anchor": "sistema"
+    },
+    {
+      "text": "Rituales de Muestra",
+      "anchor": "rituales-de-muestra"
+    },
+    {
+      "text": "Permanencia del Objeto ( ·· )",
+      "anchor": "permanencia-del-objeto"
+    },
+    {
+      "text": "Siempre Armado ( ··· )",
+      "anchor": "siempre-armado"
+    },
+    {
+      "text": "Tormenta de Mierda ( ··· )",
+      "anchor": "tormenta-de-mierda"
+    },
+    {
+      "text": "Extracción ( ···· )",
+      "anchor": "extraccion"
+    }
+  ],
+  "prev": {
+    "slug": "alquimia",
+    "title": "Alquimia"
+  },
+  "next": {
+    "slug": "transporte",
+    "title": "Transporte"
+  }
+}

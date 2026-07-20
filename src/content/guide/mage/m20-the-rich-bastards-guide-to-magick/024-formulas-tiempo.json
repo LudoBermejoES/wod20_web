@@ -1,0 +1,40 @@
+{
+  "book_id": "m20-the-rich-bastards-guide-to-magick",
+  "line": "mage",
+  "order": 24,
+  "slug": "formulas-tiempo",
+  "block": "capitulo-3",
+  "block_title": "Capítulo Tres: Magia monetaria",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Fórmulas: Tiempo",
+  "content_type": "rule",
+  "source_line_range": [
+    1680,
+    1727
+  ],
+  "body_md": "## Tiempo\n\nLos Durmientes adinerados pasan toda su vida intentando cambiar el curso de la historia. Los magos adinerados no tienen que esperar ni de lejos tanto tiempo.\n\n\n## Historia con Solera ( ·· Tiempo)\n\nSi la medida de la riqueza de alguien no basta para separar a la alta sociedad de la gente vulgar, entonces la herencia y la historia se convierten en la línea divisoria. Quienes tienen dinero de toda la vida tienden a mirar por encima del hombro a los nouveau riche . La riqueza del pasado de una persona, tanto literal como figuradamente, otorga a un rico más autenticidad que a alguien que ha llegado a su [fortuna](/mage/hedge-paths/fortuna) hace poco.\n\nEste hechizo se desarrolló a partir de esa mentalidad, para ayudar a determinar quién pertenece al círculo social de la élite y quién simplemente se ha colado en él. Despliega la historia de una persona como un rollo de película, lista para el escrutinio del mago.\n\nSistema: El mago mantiene [contacto visual](/mage/instruments/eye-contact) con una persona, y Tiempo 2 le permite rastrear el pasado de su objetivo.\n\nCada grado de éxito otorga al mago un dato relevante sobre el pasado del objetivo. Aunque estos datos son ciertos, se ven a través de la perspectiva del objetivo, y puede que no reflejen necesariamente toda la historia.\n\nEsto es un efecto coincidente.\n\n\n## Uso de Información Privilegiada ( ··· Tiempo/ ··· Entropía/ ·\n\n\n## Mente)\n\nLos [mercados](/mage/instruments/markets) pueden ser impredecibles. Incluso el Sindicato se encuentra lidiando con Cisnes Negros y correcciones del mercado que se convierten en algo mucho peor. Cuando las cosas se ponen difíciles, solo hay una persona capaz de salvar su cartera de [inversión](/mage/practices/investment): el yo pasado del mago.\n\nAunque este hechizo lo desarrolló un grupo de corredores de bolsa Despertados para mejorar su [balance](/mage/paradigms/balance) final, se ha popularizado como un botón de pánico multiuso para todo tipo de crisis.\n\nSistema: Con Tiempo 3, el mago dilata el tiempo. Examina su línea temporal y determina, mediante Entropía 3, métodos para evitar el resultado no deseado, y con Mente 1 transmite la información a través de la dilatación hasta su propia mente de hasta una semana atrás.\n\nCuando el mago se encuentra en una situación peligrosa, el jugador declara con cuánta antelación quiere que se transmita la advertencia de su mago, y luego tira los dados. Por cada grado de éxito, el jugador elige un curso de acción distinto para evitar la circunstancia no deseada, y la partida continúa como si esa preparación siempre hubiera estado en marcha.\n\nEsto es un efecto vulgar.\n\n\n\n[A Prueba de Futuro](/mage/sphere-effects/future-proof) ( ····· Tiempo/ ····· Materia/ ··· Entropía)\n\n'Nada dura para siempre.' Es una frase pensada para humillar a la gente, para recordarles que todo es efímero. Un mago poderoso sabe que no es así. No solo pueden las cosas durar para siempre: pueden hacer que duren para siempre.\n\nEste hechizo suele reservarse para objetos que el mago considera demasiado preciados o útiles como para desprenderse de ellos. El objeto se sitúa fuera del tiempo y se adapta a la estética moderna. Con el tiempo, se transformará en un objeto completamente nuevo con el mismo propósito. Por ejemplo, un portátil lento pero fiable en el salón de un Extático fue en su día una máquina de escribir. El lanzador conserva una familiaridad perfecta con el objeto, sin importar la forma que adopte.\n\nSistema: Tiempo 5 envuelve al objeto en un capullo que lo protege del paso del tiempo, Materia 5 altera su forma cuando es necesario, y Entropía 3 evita el desgaste.\n\nDos éxitos preservan cualquier objeto que el mago pueda sostener con las dos manos. Tres éxitos preservan objetos de hasta poco más de dos metros de longitud. Cuatro éxitos preservan [vehículos](/mage/instruments/vehicles). Cualquier cosa más grande que un vehículo sigue la tabla de 'Proezas de Magia del Tiempo' ( Mago 20 , p. 505). Si un objeto transformado requiere una Técnica distinta para usarse, el jugador puede optar por usar la Técnica original del objeto si su puntuación es mayor que la de la nueva Técnica requerida.\n\nEsto es un efecto vulgar.",
+  "toc": [
+    {
+      "text": "Historia con Solera ( ·· Tiempo)",
+      "anchor": "historia-con-solera-tiempo"
+    },
+    {
+      "text": "Uso de Información Privilegiada ( ··· Tiempo/ ··· Entropía/ ·",
+      "anchor": "uso-de-informacion-privilegiada-tiempo-entropia"
+    },
+    {
+      "text": "Mente)",
+      "anchor": "mente"
+    }
+  ],
+  "prev": {
+    "slug": "formulas-espiritu",
+    "title": "Fórmulas: Espíritu"
+  },
+  "next": {
+    "slug": "paradigmas-practicas-e-instrumentos",
+    "title": "Paradigmas, Prácticas e Instrumentos"
+  }
+}

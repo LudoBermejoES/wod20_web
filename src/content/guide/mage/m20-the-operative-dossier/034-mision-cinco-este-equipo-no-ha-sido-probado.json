@@ -1,0 +1,56 @@
+{
+  "book_id": "m20-the-operative-dossier",
+  "line": "mage",
+  "order": 34,
+  "slug": "mision-cinco-este-equipo-no-ha-sido-probado",
+  "block": "capitulo-5",
+  "block_title": "Capítulo Cinco: Declaración de Misiones",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Misión Cinco: Este Equipo No Ha Sido Probado",
+  "content_type": "rule",
+  "source_line_range": [
+    3173,
+    3224
+  ],
+  "body_md": "## Misión Cinco: Este Equipo No Ha Sido Probado\n\nUna prueba de armamento de la MMDS dejó dos docenas de miembros del personal de Nivel 0 y dos agentes Iluminados muertos. Se necesitan investigadores externos imparciales para descubrir la verdad.\n\n\n## Preparación\n\nLos Operativos Junior Nkosi y Lauren Donnelly dirigieron una prueba de campo del 'cañón cuántico', apodado coloquialmente el QuStion Mark. Veinticinco asistentes de Nivel 0 estaban presentes para observar, recopilar datos y encargarse de tareas menores como conducir hasta el lugar de la prueba en el interior remoto y ocuparse del catering. No era un equipo de pruebas inusualmente grande para los estándares de la MMDS.\n\nUna hora después, el personal de la MMDS vio una cúpula de luz azul expandiéndose rápidamente en el desierto. Tras perder el contacto con el equipo de pruebas, un equipo de rescate encontró un cráter y numerosos cadáveres: esqueletos ennegrecidos, con toda la carne evaporada.\n\n\n## Involucrando a los Agentes\n\nLa conclusión obvia es que un arma peligrosa se disparó por error, pero la Jefa de Pruebas, Alexis Carmody, sospecha que hay juego sucio y ha llamado a investigadores externos: la Amalgama de los personajes.\n\n\n## Qué Ocurre a Continuación\n\nLa Amalgama investiga como los agentes prefieran: tienen acceso total al lugar de la prueba, a las pruebas forenses y al personal de la MMDS. La participación activa de los personajes debería reducir considerablemente los plazos indicados a continuación, de más de una semana a dos días o menos.\n\n\n## Forense\n\nUn equipo de [empleados](/mage/instruments/employees) Progenitores de la MMDS examina los restos humanos. No es su especialidad, y les lleva tres días identificar todos los cadáveres y confirmar que Donnelly no está entre ellos.\n\nEl [equipo informático](/mage/instruments/computer-gear) utilizado en el lugar de la prueba está destrozado. La recuperación de datos por parte de los Gestores de Tiempos y Movimientos lleva una semana. Las imágenes recuperadas de las cámaras muestran que Donnelly activó otro [dispositivo](/mage/sphere-effects/device) que causó la violenta explosión: una versión granada del QuStion Mark. Ella quedó protegida de la explosión, al igual que el arma que estaban probando. Abandonó la zona a pie y viajó hacia el sur.\n\n\n## Investigación del Lugar\n\nLa explosión en el lugar incluyó una liberación de [energía](/mage/instruments/energy) cuántica que confunde a los procedimientos temporales. La 'limpieza', mediante los virus consumidores de [Energía](/mage/instruments/energy) Primordial de la MMDS, lleva varios días, pero finalmente revela lo mismo que las imágenes de las cámaras (véase Forense).\n\nLa Amalgama puede rastrear a Donnelly hasta un campamento en el desierto, donde espera su [extracción](/mage/rituals/extraction) (véase Resolución).\n\n\n## Entrevistas al personal\n\nHay más de un centenar de miembros del personal en la MMDS, y todos están afligidos y de duelo. Los operativos de Nivel 0 restantes del [Constructo](/mage/flaws/construct) están planeando un día de protesta. No debería haber sido posible que tantas vidas se perdieran de forma tan casual. Si los personajes no logran calmar la situación, esto retrasa las investigaciones forenses varios días.\n\nLas entrevistas dibujan a Nkosi como un operativo amistoso y competente, apreciado por todos, y a Donnelly como una mujer que odiaba su trabajo. Presentó quejas repetidas sobre investigaciones 'sin impacto real en el mundo'. Se unió a la Tecnocracia para mejorar el mundo, no para construir un arma más grande. Se le habían denegado varios traslados: su conjunto de habilidades era demasiado útil en el desarrollo de armamento.\n\n\n## Resolución\n\nLa Agente Donnelly está abandonando la Tecnocracia. Ha cerrado un trato con Dorothy McIntyre, una TAMURD Eterita de Perth: le proporcionará tecnología experimental de la MMDS a cambio de ayudarla a desaparecer. La Amalgama llega al escondite de Donnelly, un campamento a la [sombra](/mage/psychic-phenomenons/sombra) de una vasta formación rocosa roja en el desierto, al mismo tiempo que McIntyre. La Eterita es una mujer baja y gruesa, con una estética y un paradigma 'dieselpunk', y un [marcado](/mage/flaws/marcado) acento australiano.\n\nMcIntyre asume de inmediato que la presencia de otros Tecnócratas significa una traición, Donnelly entra en pánico y usa el QuStion Mark, y el escenario probablemente degenera en un tiroteo a tres bandas. McIntyre no sabe que Donnelly mató a 25 personas para lograr su fuga, y si se le informa de ello, esto ayuda a la Amalgama a someterla.\n\nMcIntyre y Donnelly tienen ambas reservas de dados de combate de 7, Areté 4, Fuerzas 3 y [Energía](/mage/instruments/energy) Primordial 3. McIntyre tiene Materia 3 y Donnelly tiene Ciencia Dimensional 3.",
+  "toc": [
+    {
+      "text": "Preparación",
+      "anchor": "preparacion"
+    },
+    {
+      "text": "Involucrando a los Agentes",
+      "anchor": "involucrando-a-los-agentes"
+    },
+    {
+      "text": "Qué Ocurre a Continuación",
+      "anchor": "que-ocurre-a-continuacion"
+    },
+    {
+      "text": "Forense",
+      "anchor": "forense"
+    },
+    {
+      "text": "Investigación del Lugar",
+      "anchor": "investigacion-del-lugar"
+    },
+    {
+      "text": "Entrevistas al personal",
+      "anchor": "entrevistas-al-personal"
+    },
+    {
+      "text": "Resolución",
+      "anchor": "resolucion"
+    }
+  ],
+  "prev": {
+    "slug": "mision-cuatro-gatos-en-la-dox-box",
+    "title": "Misión Cuatro: Gatos en la Dox Box"
+  },
+  "next": {
+    "slug": "mision-seis-heridas-de-guerra",
+    "title": "Misión Seis: Heridas de Guerra"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "book_id": "m20-technocracy-reloaded",
+  "line": "mage",
+  "order": 20,
+  "slug": "esfera-de-influencia-la-antartida",
+  "block": "unidad-3",
+  "block_title": "Unidad 3: Teatros de Operaciones",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Esfera de Influencia: La Antártida",
+  "content_type": "lore",
+  "source_line_range": [
+    2778,
+    2803
+  ],
+  "body_md": "## Esfera de Influencia: La Antártida\n\n\n\nDurante seis meses del año, cerca de cuatro mil de los mejores científicos del mundo viven aquí estudiando de todo, desde el cambio climático hasta los patrones de reproducción de los pingüinos. Acompañados de familiares y personal de apoyo no dedicado a la investigación, como cocineros y médicos, estos puestos de investigación representan la mayoría de la población antártica.\n\nEl aislamiento de las Masas, el clima único y la proximidad al agujero en la capa de ozono\n\nhacen de la Antártida un lugar único y vital para la investigación y el desarrollo Tecnocráticos.\n\n\n## Iteración X (Proyecto de Generación MMP X-14, Plataforma de Hielo Cosgrove, Antártida)\n\nAprovechando el aislamiento de la Antártida, los Gerentes de Tiempos y Movimientos de Iteración X en esta instalación de investigación trabajan hacia el desarrollo de una máquina de movimiento perpetuo. Aunque el progreso en el esfuerzo de investigación principal es lento, los Iteradores están dando grandes saltos en potencia de generadores, control climático y adaptación al frío de la tecnología existente.\n\n\n## NOM (Utopía Sur, Plataforma de Hielo Abbot, Antártida)\n\nUtopía Sur es una colonia subterránea aislada y con control climático, utilizada para experimentación hipersociológica. Los residentes de Utopía Sur se crían hablando con fluidez la neolengua, siguen un día de 36 horas y participan en actividades rígidamente programadas. Se prueban Procedimientos experimentales en fragmentos de la población para examinar los efectos de esos Procedimientos frente a la población de control general. Esos datos se envían luego a la EDAV para su procesamiento y difusión entre los agentes de campo que buscan perfeccionar sus propios Procedimientos de Mente y Ajustes sobre el terreno.\n\n\n## Progenitores/Ingenieros del Vacío (Ultima Thule, Tierra de la Reina Maud, Antártida)\n\nEste puesto de investigación conjunto se centra en crear y adaptar vida para la supervivencia en entornos extremos. Los Progenitores exponen a agentes clonados y operativos genéticamente modificados a los extremos de la Antártida, recopilando datos y ajustando en consecuencia los patrones de Vida de los sujetos de prueba. Los Ingenieros del Vacío de aquí ayudan más en esta investigación aplicando los resultados encontrados en las pruebas antárticas a ubicaciones transdimensionales, lo que permite a ambas Convenciones cotejar los datos y crear modelos viables para biomodificaciones que ayudarán a los Ingenieros del Vacío en la exploración espacial.",
+  "toc": [
+    {
+      "text": "Iteración X (Proyecto de Generación MMP X-14, Plataforma de Hielo Cosgrove, Antártida)",
+      "anchor": "iteracion-x-proyecto-de-generacion-mmp-x-14-plataforma-de-hielo-cosgrove-antartida"
+    },
+    {
+      "text": "NOM (Utopía Sur, Plataforma de Hielo Abbot, Antártida)",
+      "anchor": "nom-utopia-sur-plataforma-de-hielo-abbot-antartida"
+    },
+    {
+      "text": "Progenitores/Ingenieros del Vacío (Ultima Thule, Tierra de la Reina Maud, Antártida)",
+      "anchor": "progenitores-ingenieros-del-vacio-ultima-thule-tierra-de-la-reina-maud-antartida"
+    }
+  ],
+  "prev": {
+    "slug": "esfera-de-influencia-las-americas",
+    "title": "Esfera de Influencia: Las Américas"
+  },
+  "next": {
+    "slug": "esfera-de-influencia-asia",
+    "title": "Esfera de Influencia: Asia"
+  }
+}

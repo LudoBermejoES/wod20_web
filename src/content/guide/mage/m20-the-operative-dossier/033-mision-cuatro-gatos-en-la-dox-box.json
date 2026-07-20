@@ -1,0 +1,44 @@
+{
+  "book_id": "m20-the-operative-dossier",
+  "line": "mage",
+  "order": 33,
+  "slug": "mision-cuatro-gatos-en-la-dox-box",
+  "block": "capitulo-5",
+  "block_title": "Capítulo Cinco: Declaración de Misiones",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Misión Cuatro: Gatos en la Dox Box",
+  "content_type": "rule",
+  "source_line_range": [
+    3137,
+    3172
+  ],
+  "body_md": "## Misión Cuatro: Gatos en la Dox Box\n\nLa Amalgama es enviada al Control de Daños de la Cuenca del Amazonas, conocido coloquialmente como la Dox Box, para ayudar a frenar a unos industriales dedicados a la tala y quema. Al llegar, se dan cuenta de que no se trata de simples mercenarios corrientes, sino de monstruosidades horriblemente mutadas empeñadas en la destrucción; y, por si fuera poco, hay un contingente de Entidades Terianthrópicas cegadas por la rabia, decididas a destruirlos, que apenas distinguen entre la Amalgama y los mutantes. Este escenario es brutalmente violento y peligroso, y también uno en el que los jugadores pueden recurrir a algunos de los Procedimientos más Vulgares para controlar a la oposición.\n\n\n## Preparación\n\nYoung and Smith, Incorporated ha aumentado recientemente su interés en las tierras de cultivo de la Cuenca del Amazonas. Para disponer rápidamente de tierras para el cultivo de soja, han contratado a contratistas independientes para quemar la selva. Los contratistas y mercenarios son Fomori y están corrompiendo activamente la tierra para que también propague enfermedades. Estas acciones agresivas han agitado a las ETs localmente dominantes, de la variedad Felidae, autodenominadas Balam. Estos viciosos hombres gato emplean tácticas de guerrilla y se muestran activamente hostiles con cualquiera que consideren que invade su territorio.\n\n\n## Involucrando a los Personajes\n\nLa Amalgama asignada a esta misión podría proceder de otra parte del mundo, o estar específicamente asociada con la ABDC (algo temático si son principalmente de Iteración X y Progenitores), por lo que no tiene elección en la asignación. La Dox Box podría ser una empresa emocionante para tecnomantes experimentales ('¡Esta es la oportunidad perfecta para probar sobre el terreno el último Modelo Tigre Cíberdiente!') o para aquellos con un evidente deseo de morir. La premisa es sencilla, pero los métodos de la Amalgama pueden producir resultados enormemente distintos.\n\n\n## Qué Ocurre a Continuación\n\nBajo la dirección del Investigador Principal Carvalho, la Amalgama es enviada a adentrarse en la profundidad de la selva para investigar uno de los campamentos de mercenarios responsables de los últimos incendios provocados.\n\n- Los intentos de intimidar o razonar con los mercenarios son inútiles. Están inmersos en una misión sin sentido de destrucción absoluta y responden a esos intentos con violencia.\n- Este conflicto es brutal, violento y peligroso, pero la Amalgama sale victoriosa.\n- Los mercenarios son mutantes. Luchan contra los personajes con horribles apéndices de hueso y carne, provocan incendios con la mente y explotan al morir.\n\n- Los Científicos Dimensionales descubren que se trata de EEDs que han poseído a seres vivos.\n- En la siguiente misión, Carvalho envía a la Amalgama a un incendio activo, respaldando a la Amalgama con Requerimientos de [armas](/mage/instruments/weapons) pesadas y/o Tigres Cíberdiente.\n- Carvalho no está en condiciones de ayudar con Dispositivos relacionados con la Ciencia Dimensional. La Amalgama debe recurrir a sus propios [recursos](/mage/backgrounds/resources) para esto.\n- Este conflicto tiene lugar sobre el telón de fondo épico de un enorme incendio en la selva mientras los mercenarios mutantes luchan contra la Amalgama.\n- A mitad de la batalla, un grupo de ETs ataca (en un número igual al de la Amalgama) y, aunque sus objetivos principales son los mutantes, atacan a la Amalgama sin distinción. Les resultan especialmente ofensivos los Tigres Cíberdiente, contra los que libran una guerra encarnizada.\n- Estos hombres jaguar son luchadores inteligentes y no se sacrifican ni libran batallas perdidas. Causan el daño que pueden y luego se dispersan por la selva.\n\n\n## Resolución\n\nLa Amalgama puede optar por razonar con las ETs y unir fuerzas. Esto debería resultar difícil, ya que las ETs consideran a la Amalgama como intrusos en su territorio, igualmente merecedores de desprecio, pero se les puede convencer lo suficiente como para que reconozcan que los Fomori son su verdadero [enemigo](/mage/flaws/enemigo). Cualquier tregua de este tipo es temporal. Los personajes también pueden optar por hacerles la guerra a ambos bandos por igual, aunque esto podría tener graves consecuencias para la Amalgama. Alternativamente, podrían optar por organizar enfrentamientos entre los Fomori y los Balam, ayudando a las ETs a distancia - pero ¿qué gracia tendría eso?",
+  "toc": [
+    {
+      "text": "Preparación",
+      "anchor": "preparacion"
+    },
+    {
+      "text": "Involucrando a los Personajes",
+      "anchor": "involucrando-a-los-personajes"
+    },
+    {
+      "text": "Qué Ocurre a Continuación",
+      "anchor": "que-ocurre-a-continuacion"
+    },
+    {
+      "text": "Resolución",
+      "anchor": "resolucion"
+    }
+  ],
+  "prev": {
+    "slug": "mision-tres-el-progreso-es-un-proceso",
+    "title": "Misión Tres: El Progreso es un Proceso"
+  },
+  "next": {
+    "slug": "mision-cinco-este-equipo-no-ha-sido-probado",
+    "title": "Misión Cinco: Este Equipo No Ha Sido Probado"
+  }
+}

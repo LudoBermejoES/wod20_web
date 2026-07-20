@@ -1,0 +1,33 @@
+{
+  "book_id": "m20-the-mage-cookbook",
+  "line": "mage",
+  "order": 0,
+  "slug": "portada-y-creditos",
+  "block": "preliminares",
+  "block_title": "Preliminares",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Portada y créditos",
+  "content_type": "front-matter",
+  "source_line_range": [
+    1,
+    54
+  ],
+  "body_md": "XIV\n\nTemplanza XIV\n\nTemplanza\n\n\n## Créditos\n\nAutores: R.S. Udell, con Victor Joseph Kinzer\n\nMaterial adicional, recetas, equipo de cerebros y personal de cocina: Eva Cruz Andrade, Satyros Phil Brucato, Abie Ekenezar, Nina Galati, Antonios Galatis, Kayla Graves, J.F. High, Rafael Mastromauro, Balogun Ojetade, Sandra Damiana Swan, Chef Wang, Coyote Ashley Ward, Jason Weeks, y Zack Wilson\n\nDesarrollador: Satyros Phil Brucato\n\nDirector Creativo: Richard Thomas\n\nEditora: Carol Darnell\n\nDirección de Arte y Diseño: Mike Chaney\n\nArte: Aaron Acevedo, Scott Baxa, Joel Biske, Dan Brereton, Echo Chernik, Robert McNeil, Steve Prescott, Alex Sheikman, Chris Shy, y Joshua Gabriel Timbrook\n\n\n## Agradecimientos especiales a:\n\nAFK Tavern (1510 41st St Everett, WA 98201, http://www.afktavern.com/), de donde procede la inspiración de Kayla para las bebidas de las Sectas Salvajes en la Clase Obrera.\n\n\n## Para Coyote Ashley Ward\n\nAmor mío, ojalá hubieras podido vivir para ver esto. Gracias por los muchos años de magia, sabiduría, locura y amor. Ah, sí… y gracias también por el estofado caníbal. Estaba delicioso, aunque habría sido mejor si hubiéramos podido compartirlo en persona. Quizá la próxima vez.\n\nComo me dijiste hace años, al leer un primer borrador de Mago 20: «Se acabó el descanso. Hora de volver a la guerra.»\n\n\n\n© 2017 White Wolf Entertainment. Todos los derechos reservados. Ninguna parte de esta publicación puede reproducirse, almacenarse en un sistema de recuperación ni transmitirse de ninguna forma ni por ningún medio, electrónico, mecánico, fotocopia, grabación o de cualquier otro modo, sin el permiso previo por escrito de White Wolf Entertainment. Las prohibiciones de reproducción no se aplican a las hojas de personaje contenidas en este libro cuando se reproducen para uso personal.\n\n\n\nWhite Wolf, Vampire y Chronicles of Darkness son marcas registradas de White Wolf Entertainment. Todos los derechos reservados. Vampire the Requiem, Werewolf the Forsaken, Mage the Awakening y Storytelling System son marcas comerciales de White Wolf Entertainment. Todos los derechos reservados. Todos los personajes, nombres, lugares y textos aquí presentes están protegidos por derechos de autor de White Wolf Entertainment.\n\nLa mención o referencia a cualquier compañía o producto en estas páginas no supone un desafío a la marca registrada o los derechos de autor correspondientes.\n\nEste libro emplea lo sobrenatural como ambientación, personajes y temática. Todos los [elementos](/mage/instruments/elements) místicos y sobrenaturales son ficticios y están destinados únicamente al entretenimiento. Este libro contiene contenido para adultos. Se recomienda discreción al lector.\n\nVisita White Wolf en línea en http://www.white-wolf.com\n\nVisita Onyx Path en http://www.theonyxpath.com",
+  "toc": [
+    {
+      "text": "Agradecimientos especiales a:",
+      "anchor": "agradecimientos-especiales-a"
+    },
+    {
+      "text": "Para Coyote Ashley Ward",
+      "anchor": "para-coyote-ashley-ward"
+    }
+  ],
+  "prev": null,
+  "next": {
+    "slug": "introduccion-un-humilde-hijo-de-panadero",
+    "title": "Introducción: Un humilde hijo de panadero"
+  }
+}

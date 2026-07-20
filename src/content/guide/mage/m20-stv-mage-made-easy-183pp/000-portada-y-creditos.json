@@ -1,0 +1,41 @@
+{
+  "book_id": "m20-stv-mage-made-easy-183pp",
+  "line": "mage",
+  "order": 0,
+  "slug": "portada-y-creditos",
+  "block": "preliminares",
+  "block_title": "Preliminares",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Portada y créditos",
+  "content_type": "front-matter",
+  "source_line_range": [
+    2,
+    48
+  ],
+  "body_md": "## Mage Made Easy\n\n\n## Consejos de Ese Maldito Tío del Mago\n\n\n\nUna guía para la edición del 20º aniversario de Mage\n\n\n## Mage Made Easy Consejos de Ese Maldito Tío del Mago\n\n\n\nPor Satyros Phil Brucato, también conocido como Ese [Maldito](/mage/flaws/maldito) Tío del Mago\n\n\n## Créditos\n\nEscrito y desarrollado por: Satyros Phil Brucato\n\nEditado por: Sandra Damiana Swan\n\nMaquetación y diseño gráfico por: Satyros Phil Brucato\n\nIlustraciones de: Echo Chernik, John Cobb, Darryl Elliot, Michael Gaydos, Jeff Holt, Mark Jackson, Leif Jones, Eric Lefgren, Larry  MacDougall,  Ken  Meyer  Jr,  Steve  Prescott,  Alex Sheikman, Ron Spencer, Preston Stone, Joshua Gabriel Timbrook y Drew Tucker\n\nGrupo de ideas: Hope Blood, Michael Alexander Bourbon, Bill Bridges, Hiromi Cota, Antonios Galatis, Karl Erik Larsen Hoftaniska, Chance Jason Kallisti, Victor Joseph Kinzer, Travis  Legge,  Rafael  Mastromauro,  Harris  Mkali,  John Rintamaki,  James  F.  Sambrano,  Thaynah  Leal  Simos, Brian Ward, Zachariah Wilson y Kristen Leigh Wood\n\nQuiet Thunder Productions / Silver Satyr Studios\n\n\n\nMage Made Easy\n\n\n\n© 2020 White Wolf Entertainment AB. Todos los derechos reservados. Vampire:  The Masquerade®, World of Darkness®, Storytelling System™, y Storytellers Vault™ son marcas comerciales y/o marcas registradas de White Wolf Entertainment AB. Todos los derechos reservados.\n\nPara más información sobre White Wolf y el World of Darkness, visita: www.white-wolf.com, www.worldofdarkness.com y www.storytellersvault.com.\n\n\n## Agradecimientos especiales a:\n\nMatt McElroy, Dhaunae De Vir y Meredith Gerber, por la existencia de la Storytellers Vault; Josh Heath, por sus vídeos tutoriales; Victor Joseph Kinzer, por su ayuda con la pantalla compartida; y Zach Wilson, cuya partida introductoria de Mage me inspiró a sentarme por fin a escribir este libro.",
+  "toc": [
+    {
+      "text": "Consejos de Ese Maldito Tío del Mago",
+      "anchor": "consejos-de-ese-maldito-tio-del-mago"
+    },
+    {
+      "text": "Mage Made Easy Consejos de Ese Maldito Tío del Mago",
+      "anchor": "mage-made-easy-consejos-de-ese-maldito-tio-del-mago"
+    },
+    {
+      "text": "Créditos",
+      "anchor": "creditos"
+    },
+    {
+      "text": "Agradecimientos especiales a:",
+      "anchor": "agradecimientos-especiales-a"
+    }
+  ],
+  "prev": null,
+  "next": {
+    "slug": "introduccion-dioses-mios-que-he-hecho",
+    "title": "Introducción: Dioses Míos, ¿Qué He Hecho?"
+  }
+}

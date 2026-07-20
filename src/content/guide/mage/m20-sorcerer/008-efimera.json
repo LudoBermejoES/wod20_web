@@ -1,0 +1,36 @@
+{
+  "book_id": "m20-sorcerer",
+  "line": "mage",
+  "order": 8,
+  "slug": "efimera",
+  "block": "capitulo-1",
+  "block_title": "Capítulo Uno: Hechicería",
+  "chapter": "Capítulo Uno: Hechicería",
+  "part": "Efímera",
+  "section": null,
+  "title": "Efímera",
+  "content_type": "rule",
+  "source_line_range": [
+    793,
+    821
+  ],
+  "body_md": "## Efímera\n\nAlgunos hechiceros —los que se centran en la Senda de la [Invocación, Vinculación y Protección](/mage/hedge-paths/invocacion-vinculacion-y-proteccion)— dan órdenes a los espíritus. Los que siguen la Senda de la [Efímera](/mage/hedge-paths/efimera) buscan una relación de mayor familiaridad con ellos. Para los hechiceros que usan la Senda de la [Efímera](/mage/hedge-paths/efimera), su relación con los espíritus se parece más a la de familia y amigos que a la de amo y sirviente. Cuando llaman a un espíritu, es una invitación, no una citación judicial.\n\nEn lugar de vincular y dar órdenes a los espíritus, la Senda de la [Efímera](/mage/hedge-paths/efimera) permite al hechicero negociar con ellos. Este proceso, llamado chiminage, es un toma y daca. Cada espíritu quiere algo distinto, relacionado con su naturaleza. La petición del espíritu depende del poder del espíritu y del tamaño de la tarea implicada. Pedir a un Incarna que emprenda una tarea difícil y a largo plazo requiere mucho del hechicero, quizá algo solo posible con una difícil misión propia. Pedir a un Gaffling que haga algo simple que enlace directamente con su naturaleza (p. ej., pedir a un espíritu del fuego que encienda una vela) requeriría, por el contrario, casi nada del hechicero, quizá solo la oportunidad de hacerlo. Este proceso, naturalmente, tiene una curva de aprendizaje pronunciada. La mayoría de los hechiceros salen perdiendo en uno o dos tratos antes de cogerle el tranquillo.\n\nEsta Senda casi siempre se centra en la Umbra Media y, más raramente, en la Umbra Baja. Los rumores de versiones que trabajan con la Umbra Alta son persistentes, pero no pasan de ser habladurías.\n\n\n## Sistema\n\nModificadores: -2 a +2 a la dificultad según la opinión que el espíritu tenga del hechicero.\n\nAspectos: Peso Metafísico y Alcance Espiritual.\n\n\n## Alcance Espiritual\n\n- El hechicero puede sentir a los espíritus y captar su atención, pero poco más puede hacer.\n- ·· El hechicero está restringido a llamar a un tipo general de espíritu\n- ··· Ahora pueden llamarse espíritus específicos mediante rituales hechos a medida, y casi siempre acuden a menos que el hechicero los haya ofendido de algún modo.\n- ···· Los espíritus empiezan a acercarse al hechicero sin que se lo pidan. El hechicero puede ver la Penumbra, lo que aumenta el número y los tipos de espíritu con los que puede interactuar. El hechicero también puede defenderse de los espíritus si lo necesita, aunque la mayoría intenta evitarlo.\n- ····· El hechicero puede ahora ir hacia los espíritus en lugar de necesitar que vengan al mundo físico. Aunque el viaje físico a la Umbra sigue siendo imposible, el hechicero puede proyectarse astralmente\n\nallí, usando Astucia por Destreza, Manipulación por Fuerza, Inteligencia como Resistencia y Fuerza de Voluntad como Niveles de Salud. Están conectados a su cuerpo por un hilo de plata y, si se quedan sin Fuerza de Voluntad, este se rompe, cortando su conexión y dejándolos varados.\n\nPrecio del Fracaso: Los tratos con los espíritus pueden ser peligrosos, especialmente en las primeras etapas, cuando todo lo que un hechicero puede hacer es captar la atención de lo que haya cerca. Incluso en los niveles más altos, lo más peligroso posible en un fracaso es llamar al espíritu equivocado, siendo los banes especialmente comunes.",
+  "toc": [
+    {
+      "text": "Sistema",
+      "anchor": "sistema"
+    },
+    {
+      "text": "Alcance Espiritual",
+      "anchor": "alcance-espiritual"
+    }
+  ],
+  "prev": {
+    "slug": "adivinacion",
+    "title": "Adivinación"
+  },
+  "next": {
+    "slug": "encantamiento",
+    "title": "Encantamiento"
+  }
+}

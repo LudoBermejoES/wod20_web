@@ -1,0 +1,133 @@
+{
+  "book_id": "m20-stv-m-charles-supplement-104pp",
+  "line": "mage",
+  "title_es": "Mago: Suplemento de M. Charles",
+  "book_title_es": "Mago: Suplemento de M. Charles",
+  "page_count": 10,
+  "tree": [
+    {
+      "block": "cuerpo",
+      "block_title": "El Suplemento",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "portada-y-creditos",
+              "title": "Portada y Créditos",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo 1: Enseñando Magia",
+          "pages": [
+            {
+              "slug": "capitulo-1-ensenando-magia",
+              "title": "Capítulo 1: Enseñando Magia",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo 2: Caminantes Marginales",
+          "pages": [
+            {
+              "slug": "los-caminantes-marginales",
+              "title": "Los Caminantes Marginales",
+              "part": "Los Caminantes Marginales",
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-caminantes-marginales-ahi-esta-lilitu",
+              "title": "'Ahí Está Lilitu'",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo 3: Las Esferas Variantes de los Oficios Dispares",
+          "pages": [
+            {
+              "slug": "capitulo-3-las-esferas-variantes-de-los-oficios-dispares",
+              "title": "Capítulo 3: Las Esferas Variantes de los Oficios Dispares",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo 4: Esferas Variantes de los Caídos y los Locos",
+          "pages": [
+            {
+              "slug": "esferas-variantes-de-los-caidos-y-los-locos",
+              "title": "Esferas Variantes de los Caídos y los Locos",
+              "part": "Esferas Variantes de los Caídos y los Locos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "esferas-variantes-de-los-caidos-y-los-locos-universos-infinitos-magos-infinitos",
+              "title": "Universos Infinitos, Magos Infinitos",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "apendice-i",
+      "block_title": "Apéndice I: Cabos Sueltos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "cabos-sueltos",
+              "title": "Cabos Sueltos",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "apendice-ii",
+      "block_title": "Apéndice II: Fuera de Tema",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "fuera-de-tema",
+              "title": "Fuera de Tema",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "epilogo",
+      "block_title": "Epílogo",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "epilogo-resumen-del-20-o-aniversario-y-mago-5-a-edicion",
+              "title": "Epílogo: Resumen del 20.º Aniversario y Mago 5.ª Edición",
+              "part": null,
+              "content_type": "back-matter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "book_id": "m20-stv-april-fools-zine-12pp",
+  "line": "mage",
+  "title_es": "Los Archivos de Bielefeld",
+  "book_title_es": "Los Archivos de Bielefeld",
+  "page_count": 5,
+  "tree": [
+    {
+      "block": "preliminares",
+      "block_title": "Preliminares",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos",
+              "title": "Créditos",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "expediente",
+      "block_title": "El Expediente de Bielefeld",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "la-conspiracion-de-bielefeld",
+              "title": "La Conspiración de Bielefeld",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "los-personajes-ellos-y-la-contraconspiracion",
+              "title": "Los Personajes: ELLOS y la Contraconspiración",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "la-universidad-de-bielefeld",
+              "title": "La Universidad de Bielefeld",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "ganchos-de-trama",
+              "title": "Ganchos de Trama",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

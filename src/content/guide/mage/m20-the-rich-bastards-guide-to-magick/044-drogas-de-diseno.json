@@ -1,0 +1,48 @@
+{
+  "book_id": "m20-the-rich-bastards-guide-to-magick",
+  "line": "mage",
+  "order": 44,
+  "slug": "drogas-de-diseno",
+  "block": "capitulo-5",
+  "block_title": "Capítulo Cinco: Lo mejor que el dinero puede comprar",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Drogas de Diseño",
+  "content_type": "rule",
+  "source_line_range": [
+    2764,
+    2807
+  ],
+  "body_md": "## Drogas de Diseño\n\nCualquier cosa que una persona normal pueda poseer, es prácticamente seguro que algún cabrón rico tiene una versión más cara y vistosa, incluyendo sustancias psicoactivas.\n\n\n## Cocaína Obra Maestra ·· (Baratija)\n\nAreté N/D, Quintaesencia 10, Coste de Trasfondo 6 pts.\n\nRequisito previo: [Recursos](/mage/backgrounds/resources) 5+\n\nLa creación de [El Collage](/mage/wonders/the-collage) por Witchfar dejó metros de pinturas invaluables hechas jirones. Pero el artista no era de los que desperdiciaban materiales. En cambio, puso a hervir diez cubas de agua y hojas de coca y dejó caer los restos de cada pintura en una de las cubas. Una vez limpiados los aceites, las tinturas y los minerales más pesados de los lienzos, sacó la tela y refinó la mezcla restante en diez lotes de cocaína increíblemente rara. El estimulante se vende por alrededor de 1 millón de dólares por vial de 50 mg, aunque los precios siguen subiendo.\n\nEsnifar la droga inunda la mente del usuario con ecos psíquicos de un pintor maestro, haciéndole recordar una parte de las pinceladas y emociones de la obra original, y confiriéndole claridad creativa. Además, gracias a la incapacidad del cuerpo para procesar los metales pesados de la pintura, parte de cada dosis se vuelve una parte permanente del cuerpo del usuario.\n\nSistema: La [cocaína obra maestra](/mage/wonders/masterpiece-cocaine) funciona de forma similar a la cocaína normal (Mage 20, pg. 443), otorgando al usuario acciones adicionales a cambio de reservas de dados reducidas, aunque solo un nivel de Salud en daño contundente debido a la calidad. Cada dosis también es Tass, equivalente a 1 de Quintaesencia. Los usuarios con Cardinal o la Esfera de [Energía](/mage/instruments/energy) Primordial pueden absorberla; el resto de usuarios simplemente se dejan llevar mientras absorben un trozo del alma del artista original, ganando dos dados adicionales para cualquier tirada de Expresión mientras dure el efecto. No todo es diversión; la [cocaína obra maestra](/mage/wonders/masterpiece-cocaine) está cargada de metales pesados de pigmentos y pinturas, infligiendo cinco niveles de daño letal a los usuarios que fallen estrepitosamente su tirada de Resistencia al estimulante.\n\n\n## Infusores Obra Maestra ·· (Baratija)\n\nAreté N/D, Quintaesencia 10, Coste de Trasfondo 4 pts.\n\n\n## Requisito previo: Recursos 5+\n\nReutilizando aún más los lienzos que componían [El Collage](/mage/wonders/the-collage), estas pequeñas bolsitas sirven como infusores para bebidas calientes, específicamente Kopi Luwak (café de civeta) y té Da Hong Pao. Aunque estos infusores han sido despojados de su pintura, los patrones originales siguen siendo bastante visibles, lo que los convierte en piezas expositivas por derecho propio. Debido a la rareza del té Da Hong Pao, cada infusor envuelto en obra maestra cuesta 5 millones de dólares. El café de civeta es significativamente más barato, a un mero 2 millones de dólares por infusor. Reutilizar los infusores para preparar una segunda tetera es común entre los bebedores de té, pero una tercera ya es de mal gusto.\n\nSistema: Al igual que el café y el té normales, las bebidas creadas por los [infusores obra maestra](/mage/wonders/masterpiece-infusers) son ricas en purinas nootrópicas, principalmente cafeína y teobromina. Como tales, los usuarios experimentan una mayor [concentración](/mage/merits/concentracion) mental, otorgando un dado adicional para cualquier tirada Mental durante la hora posterior a consumir la bebida.\n\n\n## Dicha Perfecta ··· (Baratija)\n\nAreté N/D, Quintaesencia 15, Coste de Trasfondo 7 pts.\n\n\n## Requisito previo: Recursos 6\n\nCultivada en un laboratorio, la [Dicha Perfecta](/mage/wonders/perfect-bliss) es un híbrido de loto y opio creado por los Hijos del Conocimiento. El subidón creado por la [Dicha Perfecta](/mage/wonders/perfect-bliss) es suficiente para expandir la mente a lugares que hasta los Extáticos envidian en su búsqueda de pasión y liberación. De hecho, el [Culto](/mage/backgrounds/cult) son los principales proveedores de la planta fuera de los Hijos del Conocimiento, así como varios miembros adinerados del Sindicato. Buscar el mejor subidón cruza los límites normales de la Guerra de la Ascensión.\n\nSistema: La [Dicha Perfecta](/mage/wonders/perfect-bliss) aumenta la Consciencia del personaje en 2 y disminuye su Resistencia en 1 mientras recorre su cuerpo. Este efecto dura 12 horas. El uso regular (diario durante 12 días) de la droga impondrá el Defecto de [Hambre Extraña](/mage/flaws/hambre-extrana) con 5 puntos. (M20: El Libro de los Secretos p. 87)\n\npero también aumenta la Esfera de Mente en 1 hasta el final de la historia. Esto puede permitir que el personaje tenga puntos en Mente por encima de su límite de Areté.",
+  "toc": [
+    {
+      "text": "Cocaína Obra Maestra ·· (Baratija)",
+      "anchor": "cocaina-obra-maestra-baratija"
+    },
+    {
+      "text": "Infusores Obra Maestra ·· (Baratija)",
+      "anchor": "infusores-obra-maestra-baratija"
+    },
+    {
+      "text": "Requisito previo: Recursos 5+",
+      "anchor": "requisito-previo-recursos-5"
+    },
+    {
+      "text": "Dicha Perfecta ··· (Baratija)",
+      "anchor": "dicha-perfecta-baratija"
+    },
+    {
+      "text": "Requisito previo: Recursos 6",
+      "anchor": "requisito-previo-recursos-6"
+    }
+  ],
+  "prev": {
+    "slug": "obras-de-arte",
+    "title": "Obras de Arte"
+  },
+  "next": {
+    "slug": "maravillas",
+    "title": "Maravillas"
+  }
+}

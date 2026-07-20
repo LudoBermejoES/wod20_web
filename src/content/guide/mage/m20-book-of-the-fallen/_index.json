@@ -1,0 +1,371 @@
+{
+  "book_id": "m20-book-of-the-fallen",
+  "line": "mage",
+  "title_es": "Mago: El Libro de los Caídos",
+  "book_title_es": "Mago: El Libro de los Caídos",
+  "page_count": 48,
+  "tree": [
+    {
+      "block": "preliminares",
+      "block_title": "Preliminares",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos",
+              "title": "Créditos",
+              "part": null,
+              "content_type": "front-matter"
+            },
+            {
+              "slug": "advertencia-de-contenido",
+              "title": "Advertencia de Contenido",
+              "part": null,
+              "content_type": "front-matter"
+            },
+            {
+              "slug": "prefacio-del-autor-el-mal-no-es-un-juguete",
+              "title": "Prefacio del Autor: El Mal no es un Juguete",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "Introducción",
+          "pages": [
+            {
+              "slug": "introduccion-devoradores-de-los-debiles",
+              "title": "Introducción: Devoradores de los Débiles",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "lexico-nefando",
+              "title": "Léxico Nefando",
+              "part": null,
+              "content_type": "glossary"
+            },
+            {
+              "slug": "titulos-nefandos",
+              "title": "Títulos Nefandos",
+              "part": null,
+              "content_type": "glossary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "capitulos",
+      "block_title": "Los Capítulos",
+      "chapters": [
+        {
+          "chapter": "Capítulo Uno: La Terrible Verdad",
+          "pages": [
+            {
+              "slug": "capitulo-uno-la-terrible-verdad",
+              "title": "Capítulo Uno: La Terrible Verdad",
+              "part": "Capítulo Uno: La Terrible Verdad",
+              "content_type": "fiction"
+            },
+            {
+              "slug": "capitulo-uno-la-terrible-verdad-rumores-blasfemos",
+              "title": "Rumores Blasfemos",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Dos: El Camino hacia Leviatán",
+          "pages": [
+            {
+              "slug": "capitulo-dos-el-camino-hacia-leviatan",
+              "title": "Capítulo Dos: El Camino hacia Leviatán",
+              "part": "Capítulo Dos: El Camino hacia Leviatán",
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-el-camino-hacia-leviatan-pero-sigue-sin-ser-un-nefando",
+              "title": "Pero sigue sin ser un Nefando.",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-el-camino-hacia-leviatan-autoridades",
+              "title": "Autoridades",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-el-camino-hacia-leviatan-exilio-altermundano",
+              "title": "Exilio Altermundano",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-el-camino-hacia-leviatan-avatares-nefandos-almas-del-abismo",
+              "title": "Avatares Nefandos: Almas del Abismo",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-el-camino-hacia-leviatan-socavamiento",
+              "title": "Socavamiento",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Tres: Sino Oscuridad Visible",
+          "pages": [
+            {
+              "slug": "capitulo-tres-sino-oscuridad-visible",
+              "title": "Capítulo Tres: Sino Oscuridad Visible",
+              "part": "Capítulo Tres: Sino Oscuridad Visible",
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-tres-sino-oscuridad-visible-organizacion-objetivos-y-tacticas",
+              "title": "Organización, Objetivos y Tácticas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-tres-sino-oscuridad-visible-organizacion-objetivos-y-tacticas-2",
+              "title": "Organización, Objetivos y Tácticas",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-tres-sino-oscuridad-visible-heraldos-del-basilisco-basks-embaucadores-del-mundo-conectado",
+              "title": "Heraldos del Basilisco (Basks): Embaucadores del Mundo Conectado",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-tres-sino-oscuridad-visible-enfoque-y-hechizos",
+              "title": "Enfoque y Hechizos",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Cuatro: El Árbol Oscuro del Conocimiento",
+          "pages": [
+            {
+              "slug": "capitulo-cuatro-el-arbol-oscuro-del-conocimiento",
+              "title": "Capítulo Cuatro: El Árbol Oscuro del Conocimiento",
+              "part": "Capítulo Cuatro: El Árbol Oscuro del Conocimiento",
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-cuatro-el-arbol-oscuro-del-conocimiento-las-profundidades",
+              "title": "Las Profundidades",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-cuatro-el-arbol-oscuro-del-conocimiento-sistemas-de-juego-qlifoticos",
+              "title": "Sistemas de Juego Qlifóticos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-cuatro-el-arbol-oscuro-del-conocimiento-8-samael-el-veneno-de-dios",
+              "title": "8: Samael, el Veneno de Dios",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-cuatro-el-arbol-oscuro-del-conocimiento-2-ghagiel-los-obstaculizadores",
+              "title": "2: Ghagiel, los Obstaculizadores",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Cinco: Y Todos los Poderes del Infierno",
+          "pages": [
+            {
+              "slug": "capitulo-cinco-y-todos-los-poderes-del-infierno",
+              "title": "Capítulo Cinco: Y Todos los Poderes del Infierno",
+              "part": "Capítulo Cinco: Y Todos los Poderes del Infierno",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cinco-y-todos-los-poderes-del-infierno-regla-opcional-pactos-infernales",
+              "title": "Regla Opcional: Pactos Infernales",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cinco-y-todos-los-poderes-del-infierno-pase-de-acceso-total-inversion-de-6-puntos",
+              "title": "Pase de Acceso Total (Inversión de 6 puntos)",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cinco-y-todos-los-poderes-del-infierno-palo-mayombe",
+              "title": "Palo Mayombe",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cinco-y-todos-los-poderes-del-infierno-la-existencia-es-incognoscible-irracional-y-sublime",
+              "title": "La existencia es incognoscible, irracional y sublime",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cinco-y-todos-los-poderes-del-infierno-practicas-de-los-caidos",
+              "title": "Prácticas de los Caídos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cinco-y-todos-los-poderes-del-infierno-goetia",
+              "title": "Goetia",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cinco-y-todos-los-poderes-del-infierno-perversion",
+              "title": "Perversión",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cinco-y-todos-los-poderes-del-infierno-cada-hombre-contra-su-hermano-o-mente-posiblemente-con-los-puntos-correspondientes-en-correspondencia-anadidos",
+              "title": "Cada Hombre Contra su Hermano ( ·· , ··· , ···· o ····· Mente; posiblemente con los puntos correspondientes en Correspondencia añadidos)",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cinco-y-todos-los-poderes-del-infierno-terrores-aferrantes-materia-posiblemente-con-cardinal-o-espiritu-anadidos",
+              "title": "Terrores Aferrantes ( ··· Materia; posiblemente con ·· Cardinal o ··· Espíritu añadidos)",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cinco-y-todos-los-poderes-del-infierno-invocar-a-la-bestia-correspondencia-espiritu-a-menudo-con-mente-anadida",
+              "title": "Invocar a la Bestia ( ···· Correspondencia, ··· -···· Espíritu, a menudo con ·· Mente añadida)",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cinco-y-todos-los-poderes-del-infierno-el-cazador-y-la-presa-manual",
+              "title": "El Cazador y la Presa ( ·· Manual)",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cinco-y-todos-los-poderes-del-infierno-armas-malignas",
+              "title": "Armas Malignas",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Seis: Tus Amigos y Vecinos",
+          "pages": [
+            {
+              "slug": "capitulo-seis-tus-amigos-y-vecinos",
+              "title": "Capítulo Seis: Tus Amigos y Vecinos",
+              "part": "Capítulo Seis: Tus Amigos y Vecinos",
+              "content_type": "reference"
+            },
+            {
+              "slug": "capitulo-seis-tus-amigos-y-vecinos-artista-de-escandalo",
+              "title": "Artista de Escándalo",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "capitulo-seis-tus-amigos-y-vecinos-moru-raven-press",
+              "title": "Moru Raven Press",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "capitulo-seis-tus-amigos-y-vecinos-imp-tu-pequeno-amigo",
+              "title": "Imp: Tu Pequeño Amigo",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "capitulo-seis-tus-amigos-y-vecinos-stolas-el-buho-coronado",
+              "title": "Stolas: El Búho Coronado",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "capitulo-seis-tus-amigos-y-vecinos-garrick-browne-el-rey-de-los-inversores",
+              "title": "Garrick Browne: El Rey de los Inversores",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Siete: Teatro de la Crueldad",
+          "pages": [
+            {
+              "slug": "capitulo-siete-teatro-de-la-crueldad",
+              "title": "Capítulo Siete: Teatro de la Crueldad",
+              "part": "Capítulo Siete: Teatro de la Crueldad",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-siete-teatro-de-la-crueldad-abuso-sexual",
+              "title": "Abuso Sexual",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-siete-teatro-de-la-crueldad-date-cuenta-de-que-las-cosas-se-torceran-rapido",
+              "title": "Date Cuenta de que las Cosas se Torcerán Rápido",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-siete-teatro-de-la-crueldad-un-mundo-ido-al-infierno",
+              "title": "Un Mundo Ido al Infierno",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cierre",
+      "block_title": "Cierre",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "palabras-finales-del-autor-no-bajo-mi-guardia",
+              "title": "Palabras Finales del Autor: No Bajo Mi Guardia",
+              "part": null,
+              "content_type": "back-matter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

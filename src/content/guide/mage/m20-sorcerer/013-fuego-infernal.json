@@ -1,0 +1,52 @@
+{
+  "book_id": "m20-sorcerer",
+  "line": "mage",
+  "order": 13,
+  "slug": "fuego-infernal",
+  "block": "capitulo-1",
+  "block_title": "Capítulo Uno: Hechicería",
+  "chapter": "Capítulo Uno: Hechicería",
+  "part": "Fuego Infernal",
+  "section": null,
+  "title": "Fuego Infernal",
+  "content_type": "rule",
+  "source_line_range": [
+    1065,
+    1112
+  ],
+  "body_md": "## Fuego Infernal\n\nLa Senda del [Fuego Infernal](/mage/hedge-paths/fuego-infernal) sigue siendo una de las Sendas más populares de la magia estática, a pesar de tener cierta mala reputación asociada. Para la mayoría de la gente, el atractivo de desatar poder [elemental](/mage/resonances/elemental) y destruir a sus enemigos supera la creencia de que pueda estar de alguna manera contaminada por el mal, si no directamente por lo infernal. A pesar de estos sentimientos, muchos magos estáticos se especializan en la pirotecnia que esta Senda pone a su disposición, siendo una de las Sendas más espectaculares de la magia estática.\n\nIncluso los estudiantes principiantes del [Fuego Infernal](/mage/hedge-paths/fuego-infernal) suelen recibir el respeto, y no poco miedo, de sus compañeros. Aprenden pronto que pueden invocar rayos y fuego, provocar terremotos y ahogar a sus enemigos si así lo desean, incluso si personalmente no saben cómo hacerlo. A los aprendices también se les da una advertencia esencial: no son inmunes a sus propios poderes. Esta [vulnerabilidad](/mage/flaws/vulnerabilidad) no se limita a los intentos de magia fracasados (véase el Precio del [Fallo](/mage/flaws/failure) más abajo). Los practicantes deben tener cuidado de no encontrarse dentro de las áreas que tienen como objetivo, y el fuego, una vez desatado, puede ser difícil de controlar.\n\n\n## Sistema\n\nAspectos: Daño, Alcance, Área, y pueden añadirse los siguientes Efectos Especiales:\n\n- Descomposición: en lugar de dañar a objetivos vivos, el hechizo descompone cualquier cosa que lleven puesta o consigo. Por cada punto de daño que infligiría, puede convertir en chatarra tres libras de material.\n- Tormenta de Polvo: el hechizo invoca una tormenta de polvo que arrasa el área (que debe tener al menos tres puntos) y, además de daño, provoca ceguera en el área durante un turno por cada nivel de Salud infligido.\n- Aguanieve: un chorro de hielo y agua helada provoca ceguera breve y deja el suelo resbaladizo. Esto no puede convertirse en agravado.\n- Humo: el lanzador emite una nube de humo venenoso que envuelve el área (que debe tener al menos tres puntos en el Aspecto de Área). Todos los que estén dentro de [la nube](/mage/wonders/the-cloud) sufren un nivel de daño por turno a menos que estén protegidos. Una máscara antigás normal proporciona dos turnos de protección antes de quedar inutilizada. Los seres que no necesitan respirar son inmunes a este daño. La visión, incluso si está potenciada, queda completamente oscurecida mientras se está dentro de [la nube](/mage/wonders/the-cloud).\n- ·· Terremoto: el hechizo hace que el suelo se abra y engulla, y luego aplaste, al objetivo. Puede realizar una tirada de Fuerza a dificultad 6 para intentar excavar y liberarse. Necesita tantos éxitos como niveles de Salud de daño haya sufrido. Esto no puede convertirse en agravado.\n- ·· Relámpago: en lugar de fuego, el hechizo dispara un rayo de electricidad. Cualquiera que esté en contacto con el objetivo a través de un material conductor sufre el mismo daño que el objetivo.\n- ·· Enredadera: las plantas se agitan y atacan al objetivo, arrojándole espinas, astillas y otros trozos de madera. Con una suerte extrema (al menos tres éxitos por encima de lo que requiere el hechizo), esto puede empalar a un vampiro, pero un mago que cuente con ello probablemente se llevará una gran decepción. Si el objetivo se encuentra en medio de maleza densa, las plantas lo atrapan. Una criatura inmovilizada de esta manera no puede moverse hasta que acumule tantos éxitos en una tirada de Fuerza (dificultad 7) como daño haya causado el hechizo. Esto no puede convertirse en agravado.\n- ···· Marea Ahogadora: esto requiere una piscina de tamaño olímpico o una masa de agua mayor. El objetivo es arrastrado bajo el agua por una ola repentina o una resaca, lo que hace que empiece a ahogarse (véase Mago 20 página 440-441). Escapar del agua requiere una tirada extendida de Fuerza, dificultad 8, con al menos dos éxitos necesarios, a menudo más. Esto solo inflige daño por ahogamiento.\n\nLos Efectos Especiales anteriores deben adquirirse con Puntos Gratuitos o de Experiencia a un coste igual a la puntuación en puntos + 1.\n\nPrecio del [Fallo](/mage/flaws/failure): cuando juegas con fuego, a veces te quemas. Fracasar al usar la Senda del [Fuego Infernal](/mage/hedge-paths/fuego-infernal) normalmente hace que el hechizo rebote sobre el lanzador. Este sufre el mismo daño que intentaba infligir a su objetivo.\n\n\n## Rituales de Ejemplo\n\n\n## El Bien del Fuego ( ·· )\n\nEl fuego es uno de los peligros más peligrosos del Mundo de Tinieblas; incluso las llamas naturales pueden causar fácilmente daño permanente a poderosos seres sobrenaturales. Con este ritual, el mago puede otorgar protección contra el fuego de todo tipo. Con dos éxitos, el ritual permite al objetivo absorber el daño de fuego, incluso llama sobrenatural, como si fuera contundente, independientemente del daño que cause. Los éxitos por encima de dos reducen la dificultad en las tiradas de absorción contra el fuego (hasta un modificador máximo de -3), de modo que cuatro éxitos en total dan como resultado absorber el daño de fuego a -2 de dificultad.\n\n\n## Espada Infernal ( ·· )\n\nUn ritual vistoso, [Espada Infernal](/mage/rituals/hellfire-sword) sintoniza un arma, tradicionalmente una espada, con la Senda del [Fuego Infernal](/mage/hedge-paths/fuego-infernal). Una vez sintonizada, el mago puede gastar un punto de Fuerza de Voluntad para envolver el arma en llamas. La llama hace que el arma inflija dos dados adicionales de daño y convierte su daño en agravado. Esto dura una escena, aunque el ritual termina si el arma sale de la mano del lanzador. Este ritual requiere un mínimo de dos éxitos.\n\n\n## Purificación del Infierno ( ··· )\n\nTras un desafortunado encuentro con un vampiro, Charles Moran desarrolló este ritual para protegerse en el futuro. Por desgracia, este ritual no distingue entre amigos y enemigos, lo que lo convierte en un ritual extremadamente arriesgado de lanzar cuando el mago pueda estar en espacios reducidos con otras personas, como en un ascensor. [Purificación del Infierno](/mage/rituals/hells-purification) actúa como un mecanismo de seguridad defensivo. La primera persona que toque al mago después del ritual estalla inmediatamente en llamas, sufriendo cuatro dados de daño agravado. Las llamas se vuelven entonces completamente mundanas, infligiendo tres puntos de daño letal por turno, que pueden absorberse a dificultad 8 hasta que se apaguen. El ritual requiere tres éxitos en el lanzamiento.\n\n\n## Ruina Humeante ( ····· )\n\nEl objetivo más común de la Senda del [Fuego Infernal](/mage/hedge-paths/fuego-infernal) es un [enemigo](/mage/flaws/enemigo) individual. Es magia directamente ofensiva, y los magos lo saben y la usan como tal. A veces, atacar a individuos e incluso a grupos resulta una escala demasiado pequeña. A veces un mago simplemente quiere desatarse por completo, y la magia estática no ofrece demasiadas vías para hacerlo. Sin embargo, los maestros del [Fuego Infernal](/mage/hedge-paths/fuego-infernal) desarrollaron este ritual precisamente para eso: desatarse y causar daño a todos sus enemigos a la vez. [Ruina Humeante](/mage/rituals/smoking-ruin) requiere tres horas completas para lanzarse, y en todas sus formas debe realizarse una tirada de Resistencia (dificultad 6) solo para completar el agotador ritual. Una vez completado, el mago gasta 3 puntos de Fuerza de Voluntad y debe lograr al menos 5 éxitos. A pesar de la dificultad, el éxito merece el esfuerzo: el ritual prende fuego a un edificio, quemándolo hasta los cimientos. Ningún esfuerzo mundano puede extinguir este fuego, alimentado por el deseo de destrucción del lanzador, aunque los medios sobrenaturales sí son capaces de hacerlo. Puede incluso quemar edificios hechos de materiales normalmente resistentes e ignífugos. Cabe destacar que el lanzador debe realizar el ritual estando dentro del edificio, y luego esperar poder escapar antes de quedar atrapado en su interior.",
+  "toc": [
+    {
+      "text": "Sistema",
+      "anchor": "sistema"
+    },
+    {
+      "text": "Rituales de Ejemplo",
+      "anchor": "rituales-de-ejemplo"
+    },
+    {
+      "text": "El Bien del Fuego ( ·· )",
+      "anchor": "el-bien-del-fuego"
+    },
+    {
+      "text": "Espada Infernal ( ·· )",
+      "anchor": "espada-infernal"
+    },
+    {
+      "text": "Purificación del Infierno ( ··· )",
+      "anchor": "purificacion-del-infierno"
+    },
+    {
+      "text": "Ruina Humeante ( ····· )",
+      "anchor": "ruina-humeante"
+    }
+  ],
+  "prev": {
+    "slug": "curacion",
+    "title": "Curación"
+  },
+  "next": {
+    "slug": "ilusion",
+    "title": "Ilusión"
+  }
+}

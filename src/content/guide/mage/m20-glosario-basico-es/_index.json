@@ -1,0 +1,89 @@
+{
+  "book_id": "m20-glosario-basico-es",
+  "line": "mage",
+  "title_es": "Mago: Glosario Básico",
+  "book_title_es": "Mago: Glosario Básico",
+  "page_count": 6,
+  "tree": [
+    {
+      "block": "front-matter",
+      "block_title": "Portada y créditos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos",
+              "title": "Créditos",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "introduccion-y-criterios-de-uso",
+              "title": "Introducción y criterios de uso",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "glosario",
+      "block_title": "Glosario",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "glosario-espanol-ingles-aj",
+              "title": "Glosario Español – Inglés (A–J)",
+              "part": null,
+              "content_type": "glossary"
+            },
+            {
+              "slug": "glosario-espanol-ingles-kz",
+              "title": "Glosario Español – Inglés (K–Z)",
+              "part": "Glosario Español – Inglés (K–Z)",
+              "content_type": "glossary"
+            },
+            {
+              "slug": "glosario-ingles-espanol",
+              "title": "Glosario Inglés – Español",
+              "part": null,
+              "content_type": "glossary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "apendice",
+      "block_title": "Apéndice",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "apendice-listados-de-terminos",
+              "title": "Apéndice: listados de términos",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "book_id": "m20-libro-de-los-secretos",
+  "line": "mage",
+  "title_es": "Mago: El Libro de los Secretos",
+  "book_title_es": "Mago: El Libro de los Secretos",
+  "page_count": 69,
+  "tree": [
+    {
+      "block": "front-matter",
+      "block_title": "Portada y créditos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos-y-edicion",
+              "title": "Créditos y edición",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "preludio",
+      "block_title": "Preludio",
+      "chapters": [
+        {
+          "chapter": "Preludio",
+          "pages": [
+            {
+              "slug": "relato-de-apertura",
+              "title": "Relato de apertura",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "Introducción: El Anexo del Mago",
+          "pages": [
+            {
+              "slug": "un-tesoro-personal",
+              "title": "Un tesoro personal",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "los-capitulos",
+      "block_title": "Los Capítulos",
+      "chapters": [
+        {
+          "chapter": "Capítulo Uno: Rasgos Heroicos",
+          "pages": [
+            {
+              "slug": "capitulo-uno-rasgos-heroicos",
+              "title": "Capítulo Uno: Rasgos Heroicos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "arquetipos",
+              "title": "Arquetipos",
+              "part": "Arquetipos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "habilidades-secundarias",
+              "title": "Habilidades secundarias",
+              "part": "Habilidades secundarias",
+              "content_type": "rule"
+            },
+            {
+              "slug": "habilidades-secundarias-tecnicas",
+              "title": "Técnicas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "habilidades-secundarias-conocimientos",
+              "title": "Conocimientos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "meritos-y-defectos",
+              "title": "Méritos y Defectos",
+              "part": "Méritos y Defectos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "meritos-fisicos",
+              "title": "Méritos físicos",
+              "part": "Méritos físicos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "defectos-fisicos",
+              "title": "Defectos físicos",
+              "part": "Defectos físicos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "meritos-mentales",
+              "title": "Méritos mentales",
+              "part": "Méritos mentales",
+              "content_type": "rule"
+            },
+            {
+              "slug": "defectos-mentales",
+              "title": "Defectos mentales",
+              "part": "Defectos mentales",
+              "content_type": "rule"
+            },
+            {
+              "slug": "meritos-sociales",
+              "title": "Méritos sociales",
+              "part": "Méritos sociales",
+              "content_type": "rule"
+            },
+            {
+              "slug": "defectos-sociales",
+              "title": "Defectos sociales",
+              "part": "Defectos sociales",
+              "content_type": "rule"
+            },
+            {
+              "slug": "defectos-sociales-agente-doble-defecto-de-2-puntos",
+              "title": "Agente Doble (Defecto de 2 puntos)",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "meritos-sobrenaturales",
+              "title": "Méritos sobrenaturales",
+              "part": "Méritos sobrenaturales",
+              "content_type": "rule"
+            },
+            {
+              "slug": "meritos-sobrenaturales-sentido-del-peligro-merito-de-3-puntos",
+              "title": "Sentido del Peligro (Mérito de 3 puntos)",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "meritos-sobrenaturales-inmortal-merito-de-5-o-7-puntos",
+              "title": "'Inmortal' (Mérito de 5 o 7 puntos)",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "defectos-sobrenaturales",
+              "title": "Defectos sobrenaturales",
+              "part": "Defectos sobrenaturales",
+              "content_type": "rule"
+            },
+            {
+              "slug": "defectos-sobrenaturales-alma-avida-de-sangre-defecto-de-2-3-o-5-puntos",
+              "title": "Alma Ávida de Sangre (Defecto de 2, 3 o 5 puntos)",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "defectos-sobrenaturales-perjuro-defecto-de-4-puntos",
+              "title": "Perjuro (Defecto de 4 puntos)",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "meritos-y-defectos-tablas-resumen",
+              "title": "Méritos y Defectos: tablas resumen",
+              "part": "Méritos y Defectos: tablas resumen",
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Dos: Opciones y Reglas Expandidas",
+          "pages": [
+            {
+              "slug": "capitulo-dos-opciones-y-reglas-expandidas",
+              "title": "Capítulo Dos: Opciones y Reglas Expandidas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "sistemas-de-combate-expandidos",
+              "title": "Sistemas de combate expandidos",
+              "part": "Sistemas de combate expandidos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "sistemas-de-combate-expandidos-tablas-mexicanas",
+              "title": "Tablas mexicanas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "sistemas-de-combate-expandidos-bloquear",
+              "title": "Bloquear",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "ninos-magos-reglas-de-creacion",
+              "title": "Niños magos: reglas de creación",
+              "part": "Niños magos: reglas de creación",
+              "content_type": "rule"
+            },
+            {
+              "slug": "sistemas-informaticos-e-infotecnologia",
+              "title": "Sistemas informáticos e infotecnología",
+              "part": "Sistemas informáticos e infotecnología",
+              "content_type": "rule"
+            },
+            {
+              "slug": "sistemas-informaticos-e-infotecnologia-computadoras-ternarias",
+              "title": "Computadoras ternarias",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "sistemas-informaticos-e-infotecnologia-ejemplo-de-juego-hackeo-informatico",
+              "title": "Ejemplo de juego: Hackeo informático",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "resonancia-fisica-de-la-consecuencia",
+              "title": "Resonancia: física de la consecuencia",
+              "part": "Resonancia: física de la consecuencia",
+              "content_type": "rule"
+            },
+            {
+              "slug": "resonancia-fisica-de-la-consecuencia-el-rasgo-resonancia",
+              "title": "El Rasgo Resonancia",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "maravillas-objetos-encantados",
+              "title": "Maravillas: objetos encantados",
+              "part": "Maravillas: objetos encantados",
+              "content_type": "rule"
+            },
+            {
+              "slug": "maravillas-objetos-encantados-invenciones",
+              "title": "Invenciones",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "maravillas-objetos-encantados-maravillas-y-paradoja",
+              "title": "Maravillas y Paradoja",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "maravillas-objetos-encantados-paso-uno-base",
+              "title": "Paso Uno: Base",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "maravillas-objetos-encantados-paso-dos-energia-quintaesencia-tass-y-resonancia",
+              "title": "Paso dos: Energía - Quintaesencia, Tass y Resonancia",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "maravillas-objetos-encantados-paso-tres-investidura-acelerar-la-maravilla",
+              "title": "Maravillas: objetos encantados: Paso Tres: Investidura Acelerar la Maravilla",
+              "part": "Maravillas: objetos encantados",
+              "content_type": "rule"
+            },
+            {
+              "slug": "maravillas-objetos-encantados-el-proceso-de-negociacion-e-invocar-posesion-espiritual-en-como-haces-eso-pag-86-90-y-71-73",
+              "title": "El proceso de negociación e Invocar posesión espiritual en ¿Cómo HACES eso? , pág. 86-90 y 71-73 ).",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Tres: Asuntos de Foco",
+          "pages": [
+            {
+              "slug": "capitulo-tres-asuntos-de-foco",
+              "title": "Capítulo Tres: Asuntos de Foco",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "como-funciona-el-foco",
+              "title": "Cómo funciona el foco",
+              "part": "Cómo funciona el foco",
+              "content_type": "rule"
+            },
+            {
+              "slug": "foco-paso-a-paso",
+              "title": "Foco, paso a paso",
+              "part": "Foco, paso a paso",
+              "content_type": "rule"
+            },
+            {
+              "slug": "preguntas-frecuentes-sobre-el-foco",
+              "title": "Preguntas frecuentes sobre el Foco",
+              "part": "Preguntas frecuentes sobre el Foco",
+              "content_type": "rule"
+            },
+            {
+              "slug": "ejemplos-en-juego",
+              "title": "Ejemplos en juego",
+              "part": "Ejemplos en juego",
+              "content_type": "rule"
+            },
+            {
+              "slug": "paradigmas-expandidos",
+              "title": "Paradigmas expandidos",
+              "part": "Paradigmas expandidos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "paradigmas-expandidos-no-somos-hombres",
+              "title": "¡NO Somos Hombres!",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "practicas-expandidas",
+              "title": "Prácticas expandidas",
+              "part": "Prácticas expandidas",
+              "content_type": "rule"
+            },
+            {
+              "slug": "practicas-expandidas-mediumnidad",
+              "title": "Mediumnidad",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "instrumentos-expandidos",
+              "title": "Instrumentos expandidos",
+              "part": "Instrumentos expandidos",
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Cuatro: Justicia e Influencia",
+          "pages": [
+            {
+              "slug": "capitulo-cuatro-justicia-e-influencia",
+              "title": "Capítulo Cuatro: Justicia e Influencia",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "entre-las-tradiciones",
+              "title": "Entre las Tradiciones",
+              "part": "Entre las Tradiciones",
+              "content_type": "lore"
+            },
+            {
+              "slug": "entre-las-tradiciones-marcas-de-castigo-de-las-tradiciones",
+              "title": "Marcas de castigo de las Tradiciones",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "dentro-de-la-union-tecnocratica",
+              "title": "Dentro de la Unión Tecnocrática",
+              "part": "Dentro de la Unión Tecnocrática",
+              "content_type": "lore"
+            },
+            {
+              "slug": "dentro-de-la-union-tecnocratica-reprimenda",
+              "title": "Reprimenda",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "entre-los-oficios-dispares",
+              "title": "Entre los Oficios Dispares",
+              "part": "Entre los Oficios Dispares",
+              "content_type": "lore"
+            },
+            {
+              "slug": "entre-los-caidos",
+              "title": "Entre los Caídos",
+              "part": "Entre los Caídos",
+              "content_type": "lore"
+            },
+            {
+              "slug": "entre-los-locos",
+              "title": "Entre los Locos",
+              "part": "Entre los Locos",
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Cinco: Por hablar de todo un poco...",
+          "pages": [
+            {
+              "slug": "capitulo-cinco-por-hablar-de-todo-un-poco",
+              "title": "Capítulo Cinco: Por hablar de todo un poco...",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "pura-magia-preguntas-frecuentes-de-m20",
+              "title": "Pura Magia: preguntas frecuentes de M20",
+              "part": "Pura Magia: preguntas frecuentes de M20",
+              "content_type": "lore"
+            },
+            {
+              "slug": "metatrama-de-mago-20",
+              "title": "Metatrama de Mago 20",
+              "part": "Metatrama de Mago 20",
+              "content_type": "lore"
+            },
+            {
+              "slug": "reglas-de-mago-20",
+              "title": "Reglas de Mago 20",
+              "part": "Reglas de Mago 20",
+              "content_type": "lore"
+            },
+            {
+              "slug": "narrativa-genero-y-mago",
+              "title": "Narrativa, género y Mago",
+              "part": "Narrativa, género y Mago",
+              "content_type": "lore"
+            },
+            {
+              "slug": "sabores-de-genero",
+              "title": "Sabores de género",
+              "part": "Sabores de género",
+              "content_type": "lore"
+            },
+            {
+              "slug": "sabores-de-genero-ciencia-ficcion",
+              "title": "Ciencia ficción",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "sabores-de-genero-comedia-satira",
+              "title": "Comedia / sátira",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "iluminaciones-e-inquietas-divagaciones",
+              "title": "Iluminaciones e inquietas divagaciones",
+              "part": "Iluminaciones e inquietas divagaciones",
+              "content_type": "lore"
+            },
+            {
+              "slug": "iluminaciones-e-inquietas-divagaciones-magia-simpatica",
+              "title": "Magia simpática",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "recursos-recomendados",
+              "title": "Recursos recomendados",
+              "part": "Recursos recomendados",
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

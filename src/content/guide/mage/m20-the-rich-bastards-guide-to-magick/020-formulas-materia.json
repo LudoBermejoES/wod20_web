@@ -1,0 +1,40 @@
+{
+  "book_id": "m20-the-rich-bastards-guide-to-magick",
+  "line": "mage",
+  "order": 20,
+  "slug": "formulas-materia",
+  "block": "capitulo-3",
+  "block_title": "Capítulo Tres: Magia monetaria",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Fórmulas: Materia",
+  "content_type": "rule",
+  "source_line_range": [
+    1500,
+    1543
+  ],
+  "body_md": "## Materia\n\nAunque la Materia y la riqueza suelen asociarse con gemas y [metales preciosos](/mage/instruments/precious-metals), esta Esfera sirve para mucho más que simplemente aumentar los tesoros del mago. La moneda física, los objetos elaborados y los [recursos](/mage/backgrounds/resources) naturales como el petróleo y el carbón también entran dentro de su [dominio](/mage/practices/dominion).\n\n\n## Sello de Calidad ( · Materia)\n\nIncluso los objetos mejor elaborados tienen defectos. Aunque no son visibles a simple vista, los magos pueden examinar un objeto a nivel molecular y señalar exactamente qué falló en su construcción. Esto resulta útil para determinar el valor o la autenticidad de un objeto.\n\nSistema: Cuando el mago sostiene un objeto, Materia 1 separa sus componentes y le permite ver defectos y daños que, de otro modo, permanecerían ocultos o serían demasiado pequeños para el ojo humano.\n\nUn éxito revela los defectos. Cada grado de éxito adicional proporciona más información, como si son inherentes o se introdujeron después de la construcción, si aplicar presión rompería el objeto, y así sucesivamente.\n\nEsto siempre es un efecto coincidente.\n\n\n## A Especificaciones Personales ( ··· Materia)\n\nA veces, ni siquiera los Durmientes adinerados consiguen lo que quieren: un rival reservó antes la Suite Presidencial, o su coche con chófer se averió en mitad de la nada, y no queda más remedio que aceptar un viaje en una tartana o esperar horas a que llegue un sustituto de lujo. No así con los magos adinerados. Cuando piden prestado el cacharro de coche de un amigo o se conforman con una habitación de hotel mediocre, pueden usar la Materia para convertir temporalmente objetos y lugares en las cosas opulentas a las que están acostumbrados. Con un gesto de las manos, hasta el material más ordinario se transforma en algo espléndido.\n\nSistema: El mago extiende la mano hacia lo que quiere alterar, y Materia 3 hace que el objeto sea moldeable. Con el ojo de su mente, el mago remodela partes del objeto en partes más adecuadas.\n\nPor cada grado de éxito, el jugador puede determinar una manera en que su mago transforma un aspecto del objeto en algo más hermoso, más resistente o hecho con materiales de mayor calidad. Este Efecto dura hasta que termina la escena.\n\nEsto suele ser un efecto coincidente si las alteraciones no resultan evidentemente fuera de lugar.\n\n\n## Impresora de Dinero ( ····· Materia/ ·· Cardinal)\n\nEste hechizo lo desarrolló una cábala de Huecos que buscaban hacerse ricos produciendo en serie billetes con una impresora de sobremesa. Hoy en día, se usa más entre los adinerados. Cuando se les pregunta cómo sucedió esto, los Huecos responden con amargura: es más fácil creer que los ricos se hicieron más ricos.\n\nLos Despertados adinerados afirman que la verdadera razón es que resulta más difícil rastrear los fondos que crean. El dinero y los bienes, como cualquier otra cosa, se rastrean mediante números de serie o compras. Incluso en la era digital, la Tecnocracia es la maestra del rastro documental, y a menudo emplea métodos no mágicos para dar caza a sus enemigos. Los adinerados pueden mezclar la moneda nueva con la antigua. Aunque la creación del dinero corre el riesgo de dejar firmas mágicas para quien mire con demasiada atención, para cuando los investigadores descifran el código, el mago hace tiempo que se ha marchado y el resto de sus fondos ya están en circulación.\n\nTradicionalmente, el objeto que se convierte en la llamada '[impresora de dinero](/mage/sphere-effects/money-printer)' es una impresora de inyección de tinta. Hoy en día, las impresoras 3D son una opción más popular.\n\nSistema: El mago dedica un objeto con el propósito de crear moneda o un bien de alto valor monetario. Materia 5 amplía las capacidades del objeto, permitiéndole imprimir o producir cosas sin importar el tamaño del objeto ni el de sus productos. Cardinal 2 permite que los objetos que imprime el objeto se creen de la nada.\n\nCada éxito aumenta en 1 los [Recursos](/mage/backgrounds/resources) del personaje, hasta un máximo de [Recursos](/mage/backgrounds/resources) 10, durante el resto del capítulo. Una vez gastado el dinero, desaparece.\n\nPara los magos ricos, esto suele ser una acción coincidente al imprimir moneda, o incluso objetos de valor que se espera que posea su clase social, como joyas. Sin embargo, aunque la realidad acepte este tipo de creación, una repentina avalancha de dinero en un mercado, o la aparición de una gema más grande que las conocidas hasta la fecha, atrae una atención no deseada.\n\nCuando los magos ricos imprimen objetos que no deberían tener, como armamento raro, o cuando imprimen más dinero u objetos de valor de los que se percibe que su clase social debería poseer, esto es un efecto vulgar.",
+  "toc": [
+    {
+      "text": "Sello de Calidad ( · Materia)",
+      "anchor": "sello-de-calidad-materia"
+    },
+    {
+      "text": "A Especificaciones Personales ( ··· Materia)",
+      "anchor": "a-especificaciones-personales-materia"
+    },
+    {
+      "text": "Impresora de Dinero ( ····· Materia/ ·· Cardinal)",
+      "anchor": "impresora-de-dinero-materia-cardinal"
+    }
+  ],
+  "prev": {
+    "slug": "formulas-vida",
+    "title": "Fórmulas: Vida"
+  },
+  "next": {
+    "slug": "formulas-mente",
+    "title": "Fórmulas: Mente"
+  }
+}

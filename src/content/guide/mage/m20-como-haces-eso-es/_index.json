@@ -1,0 +1,332 @@
+{
+  "book_id": "m20-como-haces-eso-es",
+  "line": "mage",
+  "title_es": "Mago: ¿Cómo Haces Eso?",
+  "book_title_es": "Mago: ¿Cómo Haces Eso?",
+  "page_count": 30,
+  "tree": [
+    {
+      "block": "front-matter",
+      "block_title": "Portada y créditos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos-y-edicion",
+              "title": "Créditos y edición",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "relato",
+      "block_title": "Relato",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "relato-larga-division",
+              "title": "Relato: Larga División",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "Introducción",
+          "pages": [
+            {
+              "slug": "introduccion-la-hora-de-la-verdad",
+              "title": "Introducción: La Hora de la Verdad",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "artes-marciales",
+      "block_title": "Artes Marciales",
+      "chapters": [
+        {
+          "chapter": "Artes Marciales",
+          "pages": [
+            {
+              "slug": "artes-de-dominio-supremo",
+              "title": "Artes de dominio supremo",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "golpes",
+              "title": "Golpes",
+              "part": "Golpes",
+              "content_type": "rule"
+            },
+            {
+              "slug": "defensa",
+              "title": "Defensa",
+              "part": "Defensa",
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "conjuracion",
+      "block_title": "Conjuración y Transformación",
+      "chapters": [
+        {
+          "chapter": "Conjuración y Transformación",
+          "pages": [
+            {
+              "slug": "conjuracion-transformacion-cambio-de-forma-y-modificacion",
+              "title": "Conjuración, transformación, cambio de forma y modificación",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "modificaciones-permanentes",
+              "title": "Modificaciones permanentes",
+              "part": "Modificaciones permanentes",
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "tiempo",
+      "block_title": "Distorsión y Viaje Temporales",
+      "chapters": [
+        {
+          "chapter": "Distorsión y Viaje Temporales",
+          "pages": [
+            {
+              "slug": "redirigir-el-flujo",
+              "title": "Redirigir el flujo",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "dominio-elemental",
+      "block_title": "Dominio Elemental",
+      "chapters": [
+        {
+          "chapter": "Dominio Elemental",
+          "pages": [
+            {
+              "slug": "sustancias-y-energias",
+              "title": "Sustancias y energías",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "trucos-clasicos-de-fisica-mistica",
+              "title": "Trucos clásicos de física mística",
+              "part": "Trucos clásicos de física mística",
+              "content_type": "rule"
+            },
+            {
+              "slug": "elementalismo-psiquico-y-espiritual",
+              "title": "Elementalismo psíquico y espiritual",
+              "part": "Elementalismo psíquico y espiritual",
+              "content_type": "rule"
+            },
+            {
+              "slug": "brujeria-climatica",
+              "title": "Brujería climática",
+              "part": "Brujería climática",
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "influencia",
+      "block_title": "Influencia Asombrosa",
+      "chapters": [
+        {
+          "chapter": "Influencia Asombrosa",
+          "pages": [
+            {
+              "slug": "que-encantador",
+              "title": "Qué encantador…",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "el-elemento-social",
+              "title": "El elemento social",
+              "part": "El elemento social",
+              "content_type": "rule"
+            },
+            {
+              "slug": "asalto-psiquico",
+              "title": "Asalto psíquico",
+              "part": "Asalto psíquico",
+              "content_type": "rule"
+            },
+            {
+              "slug": "verdad-y-engano",
+              "title": "Verdad y engaño",
+              "part": "Verdad y engaño",
+              "content_type": "rule"
+            },
+            {
+              "slug": "artes-de-ilusion",
+              "title": "Artes de ilusión",
+              "part": "Artes de ilusión",
+              "content_type": "rule"
+            },
+            {
+              "slug": "destino-y-fortuna",
+              "title": "Destino y fortuna",
+              "part": "Destino y fortuna",
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "invocacion",
+      "block_title": "Invocación, Vinculación y Protección",
+      "chapters": [
+        {
+          "chapter": "Invocación, Vinculación y Protección",
+          "pages": [
+            {
+              "slug": "una-cuestion-de-encantamiento",
+              "title": "Una cuestión de encantamiento",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "proteccion",
+              "title": "Protección",
+              "part": "Protección",
+              "content_type": "rule"
+            },
+            {
+              "slug": "guardas-menores",
+              "title": "Guardas menores",
+              "part": "Guardas menores",
+              "content_type": "rule"
+            },
+            {
+              "slug": "penetrar-una-guarda",
+              "title": "Penetrar una guarda",
+              "part": "Penetrar una guarda",
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "necromancia",
+      "block_title": "Necromancia",
+      "chapters": [
+        {
+          "chapter": "Necromancia",
+          "pages": [
+            {
+              "slug": "una-cuestion-de-derecho",
+              "title": "Una cuestión de derecho",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "percepciones",
+      "block_title": "Percepciones Aumentadas",
+      "chapters": [
+        {
+          "chapter": "Percepciones Aumentadas",
+          "pages": [
+            {
+              "slug": "sentir-mas-alla-de-lo-obvio",
+              "title": "Sentir más allá de lo obvio",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "trabajo-energias",
+      "block_title": "Trabajo con Energías",
+      "chapters": [
+        {
+          "chapter": "Trabajo con Energías",
+          "pages": [
+            {
+              "slug": "energias-esenciales",
+              "title": "Energías esenciales",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "energizar-organismos",
+              "title": "Energizar organismos",
+              "part": "Energizar organismos",
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "viaje-mistico",
+      "block_title": "Viaje Místico",
+      "chapters": [
+        {
+          "chapter": "Viaje Místico",
+          "pages": [
+            {
+              "slug": "de-aqui-a-alli",
+              "title": "De aquí a allí",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "vuelo",
+              "title": "Vuelo",
+              "part": "Vuelo",
+              "content_type": "rule"
+            },
+            {
+              "slug": "puertas-y-portales",
+              "title": "Puertas y Portales",
+              "part": "Puertas y Portales",
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
