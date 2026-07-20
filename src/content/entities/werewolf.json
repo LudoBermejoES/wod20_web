@@ -85,7 +85,10 @@
         "type": "shares-charm",
         "via": "charms:armadura"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "charms": "Armadura (cuatro dados de absorción sin coste de Esencia), Encarnar* (coste: ninguno, este Encantamiento es permanente para los Ooralath), <a href=\"/werewolf/gifts/burrow\">Excavar</a>*, <a href=\"/werewolf/gifts/sense-trails\">Sentir Trochas</a>"
+    }
   },
   {
     "id": "craftsman-monkey-blessing",
@@ -519,7 +522,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system_es": "El jugador tira Manipulación + <a href=\"/werewolf/gifts/empathy\">Empatía</a> contra una dificultad igual a la Fuerza de Voluntad del objetivo. Si tiene éxito, ese oponente será incapaz de recuperar Rabia durante el resto de la escena, y todas las dificultades para acciones extendidas se aumentarán en uno. Además, el objetivo se vuelve apático y menos inclinado de forma general a llevar a cabo cualquier acción de dudosa necesidad, como investigar unos ruidos extraños."
+    }
   },
   {
     "id": "reshape-object",
@@ -698,7 +704,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system_es": "El jugador gasta un punto de Gnosis y tira Manipulación + Rituales (dificultad 7). Los espíritus en un radio de 30 metros (100 pies) del personaje restan un dado de sus reservas por cada éxito. Cualquier espíritu que se acerque a 15 metros (50 pies) del personaje (excepto un espíritu de Túmulo o el <a href=\"/werewolf/backgrounds/totem\">Tótem</a> de la manada del personaje) pierde un punto de Esencia por turno por cada éxito obtenido por el personaje. Este Don dura una escena."
+    }
   },
   {
     "id": "part-the-veil",
@@ -729,7 +738,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system_es": "El jugador gasta un punto de Gnosis y tira Carisma + <a href=\"/werewolf/gifts/empathy\">Empatía</a>. Sólo se necesita un éxito."
+    }
   },
   {
     "id": "assimilation",
@@ -767,7 +779,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system_es": "El jugador tira Manipulación + <a href=\"/werewolf/gifts/empathy\">Empatía</a>. Si tiene éxito, el personaje interactúa con los miembros de otra cultura como si fuese uno de ellos. La dificultad depende de cómo de extraña sea la cultura. Otro clan Garou sería 5, mientras que una colmena de los Danzantes de la Espiral Negra o un país extranjero podría ser de hasta 9. El personaje no sufre penalizaciones Sociales cuando interactúa con los miembros de esa cultura, aunque tampoco disfrutará de beneficios especiales. Este Don dura una escena, más un día por punto de Fuerza de Voluntad gastado al activarlo."
+    }
   },
   {
     "id": "beyond-human",
@@ -1192,7 +1207,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system_es": "El jugador tira Fuerza de Voluntad (dificultad la Rabia del propio personaje). El éxito aísla al Metis durante una escena tras una barrera mística y psicológica, inmunizándolo ante magias de manipulación mental de todo tipo durante el resto de la escena. Sin embargo, no puede obtener ningún éxito en las tiradas de <a href=\"/werewolf/gifts/empathy\">Empatía</a>, Impulso Primario o Rabia, ni gastar puntos de Rabia."
+    }
   },
   {
     "id": "mind-speak",
@@ -1223,7 +1241,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system_es": "El jugador tira Carisma + <a href=\"/werewolf/gifts/empathy\">Empatía</a> (dificultad 8) y gasta un punto de Fuerza de Voluntad; el efecto dura una escena. El personaje puede mantener una conversación mental con un objetivo a una distancia máxima de 16 kilómetros (10 millas) por éxito. Leer la mente no es posible, pero el hombre lobo puede usar Habilidades Sociales como Intimidación."
+    }
   },
   {
     "id": "eyes-of-the-cat",
@@ -1453,7 +1474,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system_es": "La habilidad del personaje para transformarse parcialmente (ver pág. 286) se modifica permanentemente, permitiéndole hacer casi cualquier grotesca modificación que el jugador pueda imaginar. Estas modificaciones deben otorgar de forma lógica uno de los siguientes beneficios: +2 dados en una categoría concreta de tiradas de ataque (miembros adicionales con garras para ataques de garrazo, tentáculos para agarres, etc.), +2 al daño en una categoría concreta de tiradas de ataque (un pico de calamar en el pecho para daño adicional en los agarres, brazos revestidos de <a href=\"/werewolf/flaws/dientes-de-tiburon\">dientes de tiburón</a> para aumentar los ataques de garrazo, etc.) o +5 metros por turno de movimiento (piernas adicionales, alas vestigiales, etc.)."
+    }
   },
   {
     "id": "madness",
@@ -1583,7 +1607,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system_es": "El jugador realiza una tirada refleja de Fuerza + Atletismo (dificultad 7) para activar este Don. Si tiene éxito, la distancia de <a href=\"/werewolf/gifts/ananasi-general-leap\">salto</a> de su personaje se dobla durante el resto de la escena o se triplica durante un único turno con el gasto de un punto de Fuerza de Voluntad (ver Saltar, pág. 275)."
+    }
   },
   {
     "id": "heightened-senses",
@@ -1833,7 +1860,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system_es": "El Garou puede emplear su <a href=\"/werewolf/gifts/prehensile-tail\">cola prensil</a> a voluntad en cualquier Forma que posea cola. Manipular la cola con éxito requiere una tirada de Destreza + Atletismo (la dificultad varía dependiendo de la tarea)."
+    }
   },
   {
     "id": "strength-of-gaia",
@@ -1999,7 +2029,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system_es": "El jugador gasta un punto de Gnosis y tira Rabia. Cualquiera que esté dentro de un radio de 15 metros (50 pies), a excepción de la manada del hombre lobo, es lanzado al suelo y sufre un nivel de Salud no absorbible de daño contundente por éxito cuando la <a href=\"/werewolf/gifts/shockwave\">onda de choque</a> arrasa el área."
+    }
   },
   {
     "id": "gnaw",
@@ -2534,7 +2567,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system_es": "El jugador gasta un punto de Gnosis. Ver el <a href=\"/werewolf/rites/rite-of-the-opened-bridge\">Rito del Puente Abierto</a> (pág. 217) para más información sobre abrir Puentes Lunares. La distancia máxima que se puede cubrir es de 1600 kilómetros (1000 millas)."
+    }
   },
   {
     "id": "art-of-the-liar",
@@ -2602,7 +2638,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system_es": "El jugador tira Percepción + <a href=\"/werewolf/gifts/survival\">Supervivencia</a> (para las zonas naturales) o Callejeo (para entornos urbanos) contra dificultad 7. El número de éxitos se corresponde con la calidad del camino que abre y con la disminución del tiempo de viaje. Cada éxito reduce el tiempo invertido aproximadamente en un diez por ciento, hasta un máximo de la mitad del tiempo de viaje original. La dificultad de cualquier tirada para rastrear al hombre lobo aumenta en dos cuando este Don esté activo; esta disminución se acumula a otros efectos similares, como <a href=\"/werewolf/gifts/scent-of-running-water\">Olor a Agua Corriente</a>."
+    }
   },
   {
     "id": "gremlins",
@@ -2951,7 +2990,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system_es": "El jugador gasta un punto de Gnosis y tira Inteligencia + <a href=\"/werewolf/gifts/empathy\">Empatía</a> (la dificultad es el nivel de Rabia actual del objetivo o 5 para quienes no poseen Rabia). Cada éxito cura un nivel de daño letal, contundente o agravado. El sanador puede incluso curar Cicatrices de Batalla (ver pág. 260) de esta forma si el Don se aplica durante la misma escena en la que se recibe la Cicatriz y se gasta un punto adicional de Gnosis."
+    }
   },
   {
     "id": "spirit-snare",
@@ -3067,7 +3109,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system_es": "El jugador gasta un punto de Gnosis y tira Inteligencia + Ocultismo (dificultad 7). El mandala de batalla abarca un radio de 15 metros por éxito (o de 50 pies por éxito) en torno al Garou; los espíritus (que no sean el <a href=\"/werewolf/backgrounds/totem\">Tótem</a> de manada del Garou) que se encuentren dentro del mandala pierden un punto de Esencia por turno. El mandala se disipa al final de la escena o cuando el hombre lobo salga fuera de sus límites, lo que suceda antes."
+    }
   },
   {
     "id": "sight-from-beyond",
@@ -3305,7 +3350,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system_es": "El personaje debe sujetar el objeto o persona que desee llevar consigo hacia o desde el mundo espiritual y gastar cierta cantidad de puntos de Fuerza de Voluntad: uno para objetos pequeños (un cuchillo o un teléfono), dos para objetos mayores (una mochila o una pistola) y tres para objetos de tamaño humano (incluyendo personas). El jugador hace la tirada habitual de Gnosis para atravesar la Celosía y <a href=\"/werewolf/merits/step-sideways\">caminar de lado</a>; si tiene éxito, tanto él como el objeto o persona deseados pasan a la Umbra. Un sujeto reticente puede resistirse con una tirada de Fuerza de Voluntad; cada éxito resta uno de los del Garou. Si se les deja en la Umbra durante demasiado tiempo, los seres vivos se transforman en espíritus por completo."
+    }
   },
   {
     "id": "drain-spirit",
@@ -3484,7 +3532,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system_es": "El jugador tira Astucia + <a href=\"/werewolf/gifts/empathy\">Empatía</a> (dificultad igual a la Fuerza de Voluntad + 3 del oponente, máximo 10) y gasta cierta cantidad de puntos de Gnosis. Si tiene éxito, el Garou puede destruir el Atributo Inteligencia del objetivo de forma permanente; el objetivo pierde un punto de Inteligencia por cada dos puntos de Gnosis gastados, aunque no puede perder más Inteligencia que el número de éxitos obtenidos en la tirada. La Inteligencia perdida es reemplazada por un comportamiento bestial y salvaje."
+    }
   },
   {
     "id": "as-at-the-beginning",
@@ -4091,7 +4142,13 @@
     ],
     "related": [
       "changeling/geas"
-    ]
+    ],
+    "mechanics_html": {
+      "rank": [
+        "Nivel cinco",
+        "Nivel cinco (<a href=\"/werewolf/gifts/lantern\">linterna</a>); Nivel cinco (cortesano)"
+      ]
+    }
   },
   {
     "id": "wall-of-granite",
@@ -4741,7 +4798,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
+    }
   },
   {
     "id": "claws-like-stingers",
@@ -5844,7 +5904,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como la máxima expresión del pacto entre Tribu y <a href=\"/werewolf/backgrounds/totem\">Tótem</a>, los mayores héroes de la Camada pueden invocar al avatar de guerra de su <a href=\"/werewolf/backgrounds/totem\">Tótem</a> tribal para que los ayude en los momentos de necesidad"
+    }
   },
   {
     "id": "sky-guide",
@@ -10442,7 +10505,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "spirit_teacher": "espíritu <a href=\"/werewolf/totems/raven\">cuervo</a>"
+    }
   },
   {
     "id": "living-treasure",
@@ -10548,7 +10614,10 @@
       "reason": "El encabezado de sección de los Dones de los Señores de la Sombra no aparece en el fragmento extraído (quedó antes del bloque 133 o se perdió); se usó el encabezado ## más cercano presente ('DONES DE LOS HAKKEN'). La tribu se deduce del texto ('Señor de la Sombra', 'Cuervo de la Tempestad')."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "spirit_teacher": "<a href=\"/werewolf/totems/raven\">Cuervo</a> de la Tempestad"
+    }
   },
   {
     "id": "paralyzing-stare",
@@ -10590,7 +10659,10 @@
       "reason": "Encabezado de la sección de Dones de los Señores de la Sombra ausente en el fragmento; se usó el ## más cercano ('DONES DE LOS HAKKEN')."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "spirit_teacher": "<a href=\"/werewolf/totems/raven\">Cuervo</a> de la Tempestad"
+    }
   },
   {
     "id": "open-wounds",
@@ -10724,7 +10796,10 @@
       "reason": "Encabezado de la sección de Dones de los Señores de la Sombra ausente en el fragmento; se usó el ## más cercano ('DONES DE LOS HAKKEN')."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "spirit_teacher": "<a href=\"/werewolf/totems/raven\">Cuervo</a> de la Tempestad"
+    }
   },
   {
     "id": "shadow-pack",
@@ -10801,7 +10876,10 @@
       "reason": "Encabezado de la sección de Dones de los Señores de la Sombra ausente en el fragmento; se usó el ## más cercano ('DONES DE LOS HAKKEN')."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "spirit_teacher": "<a href=\"/werewolf/totems/raven\">Cuervo</a> de la Tempestad"
+    }
   },
   {
     "id": "spirit-of-the-lizard",
@@ -10836,7 +10914,10 @@
       "reason": "Encabezado de la sección de Dones Uktena ausente como ## en el fragmento (aparece como párrafo introductorio, no como heading); se usó el ## más cercano presente ('DONES DE LOS HAKKEN'). Tribu confirmada por el texto."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
+    }
   },
   {
     "id": "spirit-speech-uktena",
@@ -10866,7 +10947,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
+    }
   },
   {
     "id": "sense-magic",
@@ -10903,7 +10987,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>",
+      "spirit_teacher": "espíritu sirviente de <a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
+    }
   },
   {
     "id": "sense-wyrm-uktena",
@@ -10933,7 +11021,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
+    }
   },
   {
     "id": "shroud",
@@ -10994,7 +11085,10 @@
       ]
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
+    }
   },
   {
     "id": "coils-of-the-serpent",
@@ -11025,7 +11119,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
+    }
   },
   {
     "id": "spirit-of-the-bird",
@@ -11056,7 +11153,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
+    }
   },
   {
     "id": "spirit-of-the-fish",
@@ -11095,7 +11195,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
+    }
   },
   {
     "id": "shadows-by-the-dawn",
@@ -11126,7 +11229,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
+    }
   },
   {
     "id": "fetish-fetch",
@@ -11156,7 +11262,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
+    }
   },
   {
     "id": "chains-of-mist",
@@ -11194,7 +11303,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
+    }
   },
   {
     "id": "rend-the-manufacture",
@@ -11224,7 +11336,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
+    }
   },
   {
     "id": "banish-totem",
@@ -11256,7 +11371,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>",
+      "difficulty": "suma de las puntuaciones de <a href=\"/werewolf/backgrounds/totem\">Tótem</a> de la manada (máximo 10)"
+    }
   },
   {
     "id": "scrying-uktena",
@@ -11288,7 +11407,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
+    }
   },
   {
     "id": "invisibility-uktena",
@@ -11320,7 +11442,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>",
+      "spirit_teacher": "espíritu sirviente de <a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
+    }
   },
   {
     "id": "captivity-uktena",
@@ -11350,7 +11476,10 @@
         "book_title_es": "W20 Aniversario Core (ES)"
       }
     ],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
+    }
   },
   {
     "id": "call-elemental",
@@ -11387,7 +11516,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
+    }
   },
   {
     "id": "hand-of-the-earth-lords",
@@ -11425,7 +11557,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
+    }
   },
   {
     "id": "fetish-doll",
@@ -11462,7 +11597,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
+    }
   },
   {
     "id": "camouflage-wendigo",
@@ -11495,7 +11633,10 @@
       "reason": "Encabezado de la sección de Dones Wendigo ausente como ## en el fragmento (aparece como párrafo introductorio); se usó el ## más cercano ('DONES DE LOS HAKKEN'). Tribu confirmada por el texto."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>"
+    }
   },
   {
     "id": "ice-echo",
@@ -11527,7 +11668,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>"
+    }
   },
   {
     "id": "call-the-breeze",
@@ -11560,7 +11704,10 @@
       "reason": "Extracción a dos columnas: la descripción del Don (bloque anterior) y su 'Sistema' (aparece tras el recuadro 'DONES DE LOS DESCASTADOS') quedaron separados en el texto extraído; se reunieron aquí. Verificar contra el PDF."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>"
+    }
   },
   {
     "id": "resist-pain-wendigo",
@@ -11590,7 +11737,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>"
+    }
   },
   {
     "id": "rhythm-of-the-heart-drum",
@@ -11623,7 +11773,12 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>",
+      "roll": "Percepción + <a href=\"/werewolf/gifts/survival\">Supervivencia</a>",
+      "spirit_teacher": "espíritu sirviente de Gran <a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>"
+    }
   },
   {
     "id": "claws-of-the-frozen-death",
@@ -11653,7 +11808,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>",
+      "cross_reference": "Como el Don de la Camada de <a href=\"/werewolf/totems/fenris\">Fenris</a> <a href=\"/werewolf/gifts/fangs-of-the-north\">Colmillos del Norte</a>"
+    }
   },
   {
     "id": "speak-with-wind-spirits",
@@ -11690,7 +11849,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>"
+    }
   },
   {
     "id": "true-fear-wendigo",
@@ -11720,7 +11882,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>"
+    }
   },
   {
     "id": "swim-like-a-salmon",
@@ -11753,7 +11918,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>"
+    }
   },
   {
     "id": "cutting-wind",
@@ -11784,7 +11952,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>",
+      "spirit_teacher": "espíritu sirviente de Gran <a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>"
+    }
   },
   {
     "id": "sky-running",
@@ -11815,7 +11987,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>",
+      "spirit_teacher": "avatar de Gran <a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>"
+    }
   },
   {
     "id": "bloody-feast",
@@ -11847,7 +12023,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>",
+      "spirit_teacher": "avatar de Gran <a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>"
+    }
   },
   {
     "id": "wisdom-of-the-old-ways",
@@ -11877,7 +12057,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>"
+    }
   },
   {
     "id": "blood-of-the-north",
@@ -11908,7 +12091,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>",
+      "effect": "ignora penalizaciones por frío/congelación; +5 dados de absorción contra ataques de frío; -2 a la dificultad de <a href=\"/werewolf/gifts/survival\">Supervivencia</a> en frío"
+    }
   },
   {
     "id": "chill-of-early-frost",
@@ -11947,7 +12134,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>",
+      "spirit_teacher": "espíritu sirviente de Gran <a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>"
+    }
   },
   {
     "id": "cry-of-gaia-wendigo",
@@ -11977,7 +12168,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>"
+    }
   },
   {
     "id": "call-the-cannibal-spirit",
@@ -12009,7 +12203,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>",
+      "spirit_teacher": "avatar de Gran <a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>"
+    }
   },
   {
     "id": "heros-stance-wendigo",
@@ -12039,7 +12237,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>",
+      "cross_reference": "Como el Don de la Camada de <a href=\"/werewolf/totems/fenris\">Fenris</a>"
+    }
   },
   {
     "id": "heart-of-ice",
@@ -12071,7 +12273,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>",
+      "spirit_teacher": "avatar de Gran <a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>"
+    }
   },
   {
     "id": "summon-the-storm-spirits",
@@ -12104,7 +12310,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>",
+      "spirit_teacher": "avatar de Gran <a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>"
+    }
   },
   {
     "id": "see-beneath-the-skin",
@@ -12136,7 +12346,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "grupo": "Descastados (Danzantes de la Piel / bendiciones de <a href=\"/werewolf/totems/minotaur\">Minotauro</a>)",
+      "spirit_teacher": "sirviente de <a href=\"/werewolf/totems/minotaur\">Minotauro</a>"
+    }
   },
   {
     "id": "mask-the-corruption",
@@ -12170,7 +12384,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "grupo": "Descastados (Danzantes de la Piel / bendiciones de <a href=\"/werewolf/totems/minotaur\">Minotauro</a>)",
+      "spirit_teacher": "sirviente de <a href=\"/werewolf/totems/minotaur\">Minotauro</a>"
+    }
   },
   {
     "id": "rite-of-the-jackdaw",
@@ -12738,7 +12956,10 @@
       "reason": "Anclaje derivado del encabezado ## corrupto de 'Ritos místicos' ('3FQLPJ]PQFLP')."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "roll": "Inteligencia + <a href=\"/werewolf/gifts/survival\">Supervivencia</a>"
+    }
   },
   {
     "id": "rite-mystic-finding-level-one",
@@ -12936,7 +13157,10 @@
       "reason": "El encabezado con el nombre del Rito se perdió/está corrupto en la extracción del PDF. Descripción, Sistema y tablas completos; nombre propio no recuperable del texto (rito de invocación de espíritus). No se inventa nombre. La celda '5' de la tabla de éxitos aparecía separada del cuerpo por la extracción y se reintegró."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "difficulty": "según tipo de espíritu (Gaflino 4, Yaglino 5, Avatar de <a href=\"/werewolf/backgrounds/totem\">Tótem</a> 7, Incarna 8-9, Avatar de un Celeste 10); -1 por hora invertida, mínimo 3"
+    }
   },
   {
     "id": "rite-mystic-deep-umbra-travel-level-two",
@@ -13070,7 +13294,10 @@
       "reason": "El encabezado con el nombre del Rito se perdió/está corrupto en la extracción del PDF. Descripción y Sistema completos; el nombre propio no aparece en el texto (corresponde al 'Rito del Tótem'), pero no se afirma para no inventar."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "requisito": "los personajes deben comprar el Trasfondo <a href=\"/werewolf/backgrounds/totem\">Tótem</a>"
+    }
   },
   {
     "id": "gathering-for-the-departed",
@@ -13238,7 +13465,10 @@
     ],
     "related": [],
     "notes": "Encabezado perdido en la extracción PDF; el libro sólo da el apodo 'Cambio de Luna' (usado como name_es). El nombre completo del Rito y su name_en ('Rite of the Adopted Auspice') se infieren; requieren verificación.",
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "sistema_es": "El personaje que cambia de Auspicio debe comenzar de nuevo en Rango 1. Aunque mantiene cualquier Don que ya haya aprendido, nunca podrá aprender nuevos Dones de su antiguo Auspicio, sin importar quién se los enseñe. Sin embargo, los Dones de su Auspicio adoptado cuestan ahora Rango x3 puntos de Experiencia. También existen variantes de este Rito que permiten al Garou renunciar a su Tribu y unirse a otra nueva, pero esto no sólo se considera un grave insulto a la Tribu abandonada, sino también al <a href=\"/werewolf/backgrounds/totem\">Tótem</a> tribal. En ningún caso puede usarse este Rito para devolver a un Garou al Auspicio o Tribu a la que haya renunciado."
+    }
   },
   {
     "id": "rite-of-the-loyal-pack",
@@ -13325,7 +13555,10 @@
     ],
     "related": [],
     "notes": "El nombre 'Rito del Cielo Abierto' procede del encabezado H2, recuperado descifrando la mojibake de la extracción (cifrado César +3).",
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "sistema_es": "Este Rito funciona de forma muy parecida al <a href=\"/werewolf/rites/rite-of-cleansing\">Rito de Purificación</a>, pero puede abarcar todo un Túmulo y a quienes en él se encuentren. El celebrante gasta sólo un punto de Gnosis para limpiar una zona, pero por cada otros dos puntos que gaste, todo personaje dentro del Túmulo se cura un nivel de daño, incluso de daño agravado. La dificultad de este Rito depende del nivel de corrupción, como por ejemplo el valor de Gnosis de un espíritu mancillado. Como en el <a href=\"/werewolf/rites/rite-of-cleansing\">Rito de Purificación</a>, la dificultad de este Rito también puede reducirse en uno si se invoca al alba. Los seres del Wyrm y los vampiros sufren de manera atroz si se exponen a este Rito, aunque no resultan realmente purificados ni dañados. Para usar este Rito fuera de un Túmulo, el celebrante debe gastar diez puntos de Gnosis, una hazaña que sólo los más poderosos Maestros del Rito de los Garou son capaces de realizar."
+    }
   },
   {
     "id": "rite-of-the-wound",
@@ -13383,7 +13616,10 @@
     ],
     "related": [],
     "notes": "Encabezado perdido en la extracción PDF; nombre inferido del contenido (fanfarronada ritualizada). Requiere verificación.",
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "sistema_es": "Tirada estándar, aunque la dificultad puede verse modificada por la complejidad y la magnitud de la hazaña propuesta; es más difícil alardear de metas modestas que de impresionantes locuras. Por cada dos éxitos, la fanfarronada obtiene un punto potencial adicional de Gloria temporal, hasta doblar, como máximo, la cantidad de Gloria que la hazaña daría normalmente. Si lleva a cabo su audacia, el Garou gana el bono adicional de Gloria. Si falla y vive, pierde esa misma cantidad. Si muere mientras realiza su hazaña, no habrá pérdida ni ganancia adicional de <a href=\"/werewolf/backgrounds/renombre\">Renombre</a>. Una manada puede jactarse de una hazaña, pero sólo el alfa puede realizar el Rito. En este caso la dificultad aumenta en uno y la manada entera gana o pierde la recompensa de Gloria."
+    }
   },
   {
     "id": "rite-of-praise",
@@ -13469,7 +13705,10 @@
     ],
     "related": [],
     "notes": "name_es 'Rito de Reconocimiento' tomado del cuerpo. name_en canónico ('Rite of Accomplishment') inferido para el merge; verificar.",
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "sistema_es": "Este Rito se realiza cuando un personaje tiene 10 puntos de <a href=\"/werewolf/backgrounds/renombre\">Renombre</a> temporal en una categoría y desea obtener un punto de <a href=\"/werewolf/backgrounds/renombre\">Renombre</a> permanente. La dificultad es sólo de 4 a menos que alguien se oponga al Rito. En dicho caso, la dificultad aumenta a 6. Sólo se necesita un éxito. Un fallo en la tirada se considera indicio de un fallo en el candidato. El celebrante del Rito a menudo recibe un presagio de Gaia mostrando su poca valía. Si la tirada fracasa, el candidato debe someterse a una penitencia antes de que pueda considerársele nuevamente apto para someterse a un Rito de Reconocimiento. Tal es la injusticia de la sociedad Garou. Es posible, aunque raro, que alguien se oponga al Rito. En este caso, quien esté disconforme se alza e interrumpe al ejecutor del Rito mientras lo lleva a cabo, haciendo duras afirmaciones sobre las cualidades negativas del aspirante. Éste, insultado, debe realizar una tirada de Rabia para no entrar en Frenesí; si lo hace, el Rito concluye. Si se mantiene tranquilo y el Rito tiene éxito, nadie puede cuestionar lo justo de su valía durante al menos tres Lunas (es decir, nadie puede oponerse ningún Rito de Reconocimiento realizado sobre él durante el próximo mes y medio) y el disconforme puede perder un punto de Honor o Sabiduría."
+    }
   },
   {
     "id": "rite-of-the-council",
@@ -13665,7 +13904,10 @@
     ],
     "related": [],
     "notes": "Nombre 'Rito del Puente Abierto' del encabezado H2 (descifrado de mojibake).",
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "sistema_es": "La tirada es Astucia + Enigmas (la dificultad es 8 menos el nivel del Túmulo del celebrante). Si el <a href=\"/werewolf/backgrounds/totem\">Tótem</a> de la manada del Garou que dirige el Rito es el mismo que el del Túmulo, recibe una bonificación de tres dados a la tirada. Si el Rito no tuvo éxito anteriormente, el nivel de dificultad del mismo aumenta en uno. El celebrante necesita obtener un número de éxitos igual al nivel del Túmulo objetivo para completar el Rito. Si el Rito tiene éxito, el puente lunar se abre inmediatamente y se establece un lazo espiritual entre las dos piedras del camino. A partir de ahora, en cualquier momento pueden abrirse Puentes Lunares entre los dos Túmulos. Esto puede hacerse mediante el <a href=\"/werewolf/rites/rite-of-the-opened-caern\">Rito del Túmulo Abierto</a> o con el Don Ragabash <a href=\"/werewolf/gifts/open-moon-bridge\">Abrir Puente Lunar</a> (si se realiza en el Túmulo). Si el Rito falla, no se abre ningún Puente Lunar y el Rito debe intentarse de nuevo al año siguiente. Aún pueden abrirse Puentes Lunares hacia el Túmulo, pero no son tan seguros como deberían. Ver pág. 311 para las distancias de los Puentes Lunares."
+    }
   },
   {
     "id": "rite-of-caern-building",
@@ -13711,7 +13953,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "sistema_es": "El Rito dura desde el anochecer hasta el amanecer. Cuando el Sol aparece por el horizonte, el Garou realiza una tirada de Astucia + Rituales de dificultad 8 (que disminuirá en uno por cada cinco Garou que participen en el Rito y gasten Gnosis además de los 13 participantes necesarios, hasta una dificultad mínima de 4). El número de éxitos obtenidos determina el nivel del Túmulo resultante: | Éxitos | Nivel | |----------|--------------| | 1 - 3 | Nivel uno | | 4 - 6 | Nivel dos | | 7 - 8 | Nivel tres | | 9+ | Nivel cuatro | Dado que se necesita una enorme cantidad de Gnosis para abrirse paso a través de la Celosía y darle poder al nuevo Túmulo, en el Rito deben participar un mínimo de trece Garou, uno por cada Luna del año. Al final del Rito, los Garou participantes canalizan Gnosis al Túmulo emergente; se necesita un total de 100 puntos de Gnosis para <a href=\"/werewolf/gifts/awaken\">despertar</a> el lugar sagrado. Si se ofrece una cantidad insuficiente de Gnosis, los participantes en el Rito comienzan a sufrir heridas agravadas al sacrificar su fuerza vital para crear el Túmulo. Cada herida cuenta como tres puntos más de Gnosis en el total. Para completar el ritual, cada uno de los trece participantes principales debe sacrificar un punto permanente de Gnosis. El mundo ha sufrido tanto daño que el Rito de Construcción del Túmulo ya no puede <a href=\"/werewolf/gifts/awaken\">despertar</a> de forma natural un Túmulo de nivel cinco; sólo una ofrenda adicional de Gnosis puede traer semejante pureza y poder de vuelta a la moribunda tierra. Ofrecer 100 puntos adicionales de Gnosis (200 puntos de Gnosis en total) da mayor poder al Rito, creando un Túmulo de un nivel más que el que los éxitos conseguidos por el celebrante hubiesen indicado de otra forma. Los peligros del Rito son muchos. Un fallo azota los cuerpos y los espíritus de todos los Garou involucrados, tanto de aquéllos que están donando Gnosis como los que los protegen, infligiendo cuatro niveles de daño letal debido a la violenta reacción espiritual. Un fracaso inflige siete niveles de daño letal; aquéllos que queden por debajo de Incapacitado debido a este daño sufren severas Cicatrices de Guerra (ver pág. 260). Los esbirros del Wyrm representan, en definitiva, la mayor amenaza para el Rito. Tan pronto comienza, todos los seres corrompidos por el Wyrm (Perdiciones, Fomori, Danzantes de la Espiral Negra, incluso vampiros especialmente degenerados o fantasmas depravados) en kilómetros a la redonda toman consciencia del mismo; muchos no se detendrán ante nada para evitar que se complete. Los Garou pueden tener que resistir un asedio que dure al menos hasta el alba, y posiblemente más tiempo. Si el personaje de un jugador de alguna manera asume el rol de celebrante del Rito y tiene éxito, recibe tres puntos de Gloria, cinco puntos de Honor y siete puntos de Sabiduría. Cualquier otro que participe en el Rito recibe cinco puntos de Gloria y tres puntos de Honor. Ésta es una tarea legendaria que merece una recompensa apropiada."
+    }
   },
   {
     "id": "rite-of-the-mothers-breath",
@@ -15005,7 +15250,12 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> Tribal",
+      "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de respeto",
+      "alcance": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de clan"
+    }
   },
   {
     "id": "falcon",
@@ -15048,7 +15298,14 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "ban": "El deshonor es peor que la muerte para Halcón: ninguno de los hijos de Halcón puede perder jamás Honor permanente. Si lo hace, debe corregir el error inmediatamente o realizar un <a href=\"/werewolf/rites/rite-of-contrition\">Rito de Contrición</a> y además expiar su deshonra lanzándose contra un poderoso esbirro del Wyrm. Por un lado, es un suicidio casi seguro. Por el otro, su sangre limpiará la mancha de su nombre, al igual que la victoria.",
+      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> Tribal",
+      "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de respeto",
+      "alcance": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de clan",
+      "rasgos_comunes": "Todos los hijos de Halcón obtienen el Don <a href=\"/werewolf/gifts/truth-of-gaia\">Verdad de Gaia</a> cuando se invoca a Halcón."
+    }
   },
   {
     "id": "pegasus",
@@ -15079,7 +15336,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> Tribal"
+    }
   },
   {
     "id": "stag",
@@ -15110,7 +15370,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "pack_traits": "Las manadas de Venado tienen acceso a tres puntos de <a href=\"/werewolf/gifts/survival\">Supervivencia</a> y a tres puntos temporales de Fuerza de Voluntad por historia. Los Fianna tienen una buena disposición hacia la manada, y las hadas, espíritus y changelings también pueden honrarlos.",
+      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> Tribal"
+    }
   },
   {
     "id": "fenris",
@@ -15139,7 +15403,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "individual_traits": "Cada hombre lobo obtiene dos puntos temporales de Gloria e incrementa en un punto uno de sus Atributos Físicos (a escoger cuando la manada es aceptada por el <a href=\"/werewolf/backgrounds/totem\">Tótem</a>)."
+    }
   },
   {
     "id": "griffin",
@@ -15170,7 +15437,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> Tribal"
+    }
   },
   {
     "id": "boar",
@@ -15241,7 +15511,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "individual_traits": "Los hijos de Oso ganan un punto de Fuerza, pueden usar el Don <a href=\"/werewolf/gifts/mothers-touch\">Roce Materno</a> una vez al día y pueden hibernar hasta tres meses seguidos sin necesidad de comida o agua. Los Garou pierden cinco puntos temporales de Honor (si tienen tantos para perder) y ven reducidas todas sus recompensas de Honor en un punto.",
+      "bonus_comun": "+1 <a href=\"/werewolf/gifts/survival\">Supervivencia</a>"
+    }
   },
   {
     "id": "rat",
@@ -15284,7 +15558,15 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "individual_traits": "Los hijos de Rata restan uno a la dificultad de todas las tiradas para morder y de todas las dificultades de las tiradas que impliquen sigilo o <a href=\"/werewolf/gifts/silence\">silencio</a>.",
+      "pack_traits": "Las manadas de Rata pueden usar una reserva de cinco puntos temporales de Fuerza de Voluntad por historia. Los Roehuesos ayudarán a la manada y hasta los <a href=\"/werewolf/changing-breeds/ratkin\">Ratkin</a> serán, en cierta forma, tolerantes con su existencia.",
+      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> Tribal",
+      "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de guerra",
+      "alcance": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de clan",
+      "rasgos_comunes": "Los miembros de los clanes de Rata restan 1 a la dificultad de todas las tiradas de mordisco, así como de las tiradas que impliquen la habilidad Sigilo o permanecer de alguna otra forma quieto y <a href=\"/werewolf/gifts/ananasi-tenere-unnoticed\">desapercibido</a>."
+    }
   },
   {
     "id": "wendigo-totem",
@@ -15314,7 +15596,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "pack_traits": "Los miembros de la Tribu Wendigo respetan a las manadas que toman a su patrón como <a href=\"/werewolf/backgrounds/totem\">Tótem</a>, aunque no confían plenamente en ellas."
+    }
   },
   {
     "id": "owl",
@@ -15345,7 +15630,12 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "individual_traits": "Los hijos de Búho obtienen alas cuando están en la Umbra, lo cual les permite volar de un sitio a otro. También reducen en dos la dificultad de las tiradas relacionadas con el sigilo o el <a href=\"/werewolf/gifts/silence\">silencio</a> y ganan dos puntos temporales de Sabiduría.",
+      "pack_traits": "Las manadas de Búho suelen recibir premoniciones y sueños proféticos que las llevan a lugares místicos largo tiempo olvidados. La manada obtiene tres dados para usar en Dones que impliquen aire, viajar, movimiento u oscuridad. Los Caminantes Silenciosos pueden aparecer en ayuda de la manada cuando esté en peligro, pero las manadas que siguen a Rata (y los <a href=\"/werewolf/changing-breeds/ratkin\">Ratkin</a>) no sienten aprecio por los Garou de Búho.",
+      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> Tribal"
+    }
   },
   {
     "id": "cockroach",
@@ -15388,7 +15678,12 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> Tribal",
+      "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de sabiduría",
+      "alcance": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de clan"
+    }
   },
   {
     "id": "raven",
@@ -15453,7 +15748,11 @@
       ]
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "pack_traits": "Las manadas de Cuervo tienen tres puntos de <a href=\"/werewolf/gifts/survival\">Supervivencia</a>, uno de Subterfugio y uno de Enigmas. Los hombres cuervo tienen una buena disposición hacia los seguidores del <a href=\"/werewolf/backgrounds/totem\">Tótem</a>.",
+      "ban": "Los hijos de Cuervo no pueden portar riquezas, han de confiar en que su <a href=\"/werewolf/backgrounds/totem\">Tótem</a> proveerá."
+    }
   },
   {
     "id": "chimera",
@@ -15496,7 +15795,13 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> Tribal",
+      "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de sabiduría",
+      "alcance": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de clan",
+      "prohibicion": "Los clanes dedicados a Quimera deben <a href=\"/werewolf/gifts/seek\">buscar</a> la iluminación por encima de todo."
+    }
   },
   {
     "id": "uktena-totem",
@@ -15526,7 +15831,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "individual_traits": "Los seguidores de Uktena añaden tres dados a todas las tiradas de absorción cuando están en la Umbra y obtienen dos puntos de Experiencia adicionales por historia que sólo pueden utilizarse para mejorar Enigmas, Ocultismo, Rituales, Dones y otros conocimientos místicos. Los Garou también ganan dos puntos temporales de Sabiduría. Los hijos de Uktena añaden uno a la dificultad de todas las tiradas sociales cuando interactúan con hombres lobo de Tribus distintas a los Uktena o los <a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>."
+    }
   },
   {
     "id": "unicorn",
@@ -15570,7 +15878,14 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "individual_traits": "Los hijos de Unicornio se mueven al doble de la velocidad normal en la Umbra y reducen en dos la dificultad de todas las tiradas que impliquen curación y <a href=\"/werewolf/gifts/empathy\">empatía</a>, aunque aumentan en dos la de todas las tiradas para dañar a otro Garou (excepto a los Danzantes de la Espiral Negra y otros corrompidos por el Wyrm). Los Garou de Unicornio ganan tres puntos de Sabiduría.",
+      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> Tribal",
+      "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de sabiduría",
+      "alcance": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de clan",
+      "rasgos_comunes": "Los hijos de Unicornio se mueven al doble de su velocidad normal en la Umbra. También restan 2 de la dificultad de las tiradas que impliquen sanación y <a href=\"/werewolf/gifts/empathy\">empatía</a>, pero suman 2 a la dificultad para dañar a otros Garou (salvo a los Danzantes de la Espiral Negra y otros manchados por el Wyrm)."
+    }
   },
   {
     "id": "coyote",
@@ -15603,7 +15918,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "pack_traits": "Las manadas de Coyote ganan tres puntos de Sigilo, tres de Callejeo, uno de Subterfugio y uno de <a href=\"/werewolf/gifts/survival\">Supervivencia</a>. Los avatares de Coyote siempre pueden encontrar a sus manadas (la manada no necesita gastar puntos de <a href=\"/werewolf/backgrounds/totem\">Tótem</a> en esta habilidad)."
+    }
   },
   {
     "id": "cuckoo",
@@ -15695,7 +16013,11 @@
       ]
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de astucia",
+      "alcance": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de clan"
+    }
   },
   {
     "id": "touch-of-eve",
@@ -16086,7 +16408,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Igual que el Don de los <a href=\"/werewolf/totems/uktena-totem\">Uktena</a>."
+    }
   },
   {
     "id": "crocodiles-cunning",
@@ -16409,7 +16734,11 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "notes": "El origen no indica rango/nivel ni sistema de tirada; sólo describe la función del Rito de forma narrativa (los <a href=\"/werewolf/changing-breeds/corax\">Corax</a> lo usan para engendrar hijos; el huevo eclosiona en la edad adulta y transforma al joven en <a href=\"/werewolf/changing-breeds/corax\">Corax</a>). Es el Rito propio de los <a href=\"/werewolf/changing-breeds/corax\">Corax</a> que el <a href=\"/werewolf/rites/rite-of-the-broken-wing\">Rito del Ala Rota</a> perverte.",
+      "system": "Este Rito sólo puede realizarse en la Umbra y requiere un testigo de la Raza opuesta a la del <a href=\"/werewolf/changing-breeds/corax\">Corax</a> &#x27;progenitor&#x27;. El <a href=\"/werewolf/changing-breeds/corax\">Corax</a> pasa tres horas y gasta tres puntos de Gnosis permanente para crear el huevo espiritual y después otra hora para vincularlo al alma deseada. Si el Rito es interrumpido en cualquier parte del proceso, se pierde la Gnosis y el Rito falla."
+    }
   },
   {
     "id": "rite-of-the-hidey-hole",
@@ -16568,7 +16897,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "rasgos_individuales": "Los bastardos de Chotacabras obtienen la habilidad de imitar a la perfección el canto de cualquier pájaro, así como 1 dado adicional en todas sus tiradas de <a href=\"/werewolf/gifts/empathy\">Empatía</a> para identificar individuos que se están cuestionando sus ideales."
+    }
   },
   {
     "id": "smell-fear",
@@ -16600,7 +16932,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tirada": "Percepción + <a href=\"/werewolf/gifts/empathy\">Empatía</a>"
+    }
   },
   {
     "id": "bane-protector",
@@ -16930,7 +17265,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "referencia": "Igual que el Don de los <a href=\"/werewolf/totems/uktena-totem\">Uktena</a>, excepto que se invoca a un elemental del Wyrm (como un Furmlino o un Hoglino)"
+    }
   },
   {
     "id": "creeping-venom",
@@ -17017,7 +17355,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "traits_es": "Los hijos de Marta Cibelina ganan un punto en <a href=\"/werewolf/gifts/survival\">Supervivencia</a> y dos en Sigilo. La Destreza de cada miembro de la manada se incrementa en uno de forma permanente y pueden usar el Don <a href=\"/werewolf/gifts/call-the-breeze\">Llamar a la Brisa</a> una vez al día. Además, las manadas de Marta Cibelina adquieren resistencia completa contra el daño letal provocado por el frío extremo. Los hijos de Marta Cibelina son considerados aliados por los espíritus del viento y pueden hablar con ellos libremente sin el Don <a href=\"/werewolf/gifts/spirit-speech\">Lenguaje Espiritual</a>. Sin embargo los espíritus de la prole de <a href=\"/werewolf/totems/falcon\">Halcón</a> ven a los hijos de Marta Cibelina como salvajes mestizos y deshonestos, y bajo ninguna circunstancia se comunicarán con un Siberakh ni lo admitirán en una manada que hayan escogido como suya.",
+      "ban_es": "Marta Cibelina confía en que sus hijos protejan sus tierras; de ahí que ninguna manada con Marta Cibelina como su <a href=\"/werewolf/backgrounds/totem\">Tótem</a> pueda cruzar las fronteras de Siberia por ninguna razón."
+    }
   },
   {
     "id": "rite-of-the-sacred-rebirth",
@@ -17063,7 +17405,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "effect_es": "Rito diseñado para que la <a href=\"/werewolf/backgrounds/kinfolk\">Parentela</a> se convirtiese en hombre lobo.",
+      "character_creation_es": "El personaje debe comprar el requisito de cinco puntos en el Conocimiento Rituales y otros cinco en el Trasfondo Ritos para representar su conocimiento del <a href=\"/werewolf/rites/sacred-rebirth\">Rito del Sagrado Renacimiento</a>."
+    }
   },
   {
     "id": "minotaur",
@@ -17105,7 +17451,13 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "rasgos": "Concede acceso a espíritus que enseñan Dones de nivel tres o inferior (a coste de fuera de Tribu); un punto de Resistencia y uno de <a href=\"/werewolf/gifts/survival\">Supervivencia</a> adicionales",
+      "prohibicion": "Dañar y asesinar a cualquier hijo de <a href=\"/werewolf/totems/pegasus\">Pegaso</a> con el que se encuentren; nunca dejar vivir en paz a una Furia Negra u otro hombre lobo que siga a <a href=\"/werewolf/totems/pegasus\">Pegaso</a>",
+      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> patrón (&#x27;tribal&#x27;) de los Danzantes de la Piel",
+      "purificacion": "Un <a href=\"/werewolf/rites/rite-of-cleansing\">Rito de Purificación</a> revertirá el estado de corrupción una vez cortadas las hebras (mantendrá en su pecho el retazo de ira que lo hizo vulnerable)"
+    }
   },
   {
     "id": "goblin-eyes",
@@ -17213,7 +17565,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> Tribal",
+      "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
+    }
   },
   {
     "id": "ablifet",
@@ -17263,7 +17619,10 @@
         "type": "shares-charm",
         "via": "charms:toque de plaga"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "charms": "Controlar Sistemas Eléctricos, Cortocircuito, Iluminar, Quebrar Cristal, Secreto de Todo el Mundo*, Sentido del Reino, <a href=\"/werewolf/gifts/sense-trails\">Sentir Trochas</a>, Toque de Plaga"
+    }
   },
   {
     "id": "alimentadores-de-mentes",
@@ -17319,7 +17678,10 @@
         "type": "shares-charm",
         "via": "charms:corrupción"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "charms": "<a href=\"/werewolf/gifts/sense-trails\">Sentir Trochas</a>, Corrupción (ganan 1 punto de Esencia cada vez que su presa actúa siguiendo sus oscuras sugerencias), <a href=\"/werewolf/gifts/possession\">Posesión</a>"
+    }
   },
   {
     "id": "arpias",
@@ -17437,7 +17799,10 @@
         "type": "shares-charm",
         "via": "charms:armadura"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "charms": "Armadura, Paseo de Carroña*, Rastrear, Rayo en la Carne*, <a href=\"/werewolf/gifts/sense-trails\">Sentir Trochas</a>, Toque de Plaga"
+    }
   },
   {
     "id": "ciervos-quebrados",
@@ -17561,7 +17926,10 @@
         "type": "shares-charm",
         "via": "charms:armadura"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "charms": "Armadura, Disolución*, Materializarse, <a href=\"/werewolf/gifts/sense-trails\">Sentir Trochas</a>"
+    }
   },
   {
     "id": "hijos-de-la-plaga",
@@ -17685,7 +18053,10 @@
         "type": "shares-charm",
         "via": "charms:corrupción"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "charms": "Corrupción, Materializarse, <a href=\"/werewolf/gifts/possession\">Posesión</a>*, Rastrear, <a href=\"/werewolf/gifts/sense-trails\">Sentir Trochas</a>"
+    }
   },
   {
     "id": "kalus",
@@ -17785,7 +18156,10 @@
         "type": "shares-charm",
         "via": "charms:posesión"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "charms": "Curación, Materializarse, <a href=\"/werewolf/gifts/possession\">Posesión</a>, <a href=\"/werewolf/gifts/sense-trails\">Sentir Trochas</a>, Vida Prolongada*"
+    }
   },
   {
     "id": "nihilach",
@@ -17859,7 +18233,10 @@
         "type": "shares-charm",
         "via": "charms:armadura"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "charms": "Armadura, Estallido, Materializarse, Recuperar la Forma, <a href=\"/werewolf/gifts/sense-trails\">Sentir Trochas</a>, Toque de Plaga*, Vacío Profundo*"
+    }
   },
   {
     "id": "nocturnae",
@@ -17897,7 +18274,10 @@
         "type": "shares-charm",
         "via": "charms:escudriñar"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "charms": "Escudriñar, Materializarse, Retorcer Sueño*, <a href=\"/werewolf/gifts/sense-trails\">Sentir Trochas</a>"
+    }
   },
   {
     "id": "pestilencia-carmesi",
@@ -17927,7 +18307,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "charms": "<a href=\"/werewolf/gifts/awaken\">Despertar</a> la Corrupción*, Materializarse, <a href=\"/werewolf/gifts/sense-trails\">Sentir Trochas</a>, Toque de Corrupción, Vuelo Raudo"
+    }
   },
   {
     "id": "raptor",
@@ -17977,7 +18360,10 @@
         "type": "shares-charm",
         "via": "charms:corrupción"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "charms": "<a href=\"/werewolf/gifts/sense-trails\">Sentir Trochas</a>, Corrupción, Materializarse, Aura Sórdida*"
+    }
   },
   {
     "id": "demonios-de-sombra",
@@ -18004,7 +18390,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "powers": "Aura Silenciosa*, Coloración Camaleónica (Paseo de Sombras), Inmunidad al Delirio, Juego de Sombras, <a href=\"/werewolf/gifts/dark-vision\">Visión Oscura</a>"
+    }
   },
   {
     "id": "ferectoi",
@@ -18172,7 +18561,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "powers": "Homogeneidad, Inmunidad al Delirio, Mordisco <a href=\"/werewolf/merits/venenoso\">Venenoso</a>, <a href=\"/werewolf/gifts/sense-the-unnatural\">Sentir lo Antinatural</a>"
+    }
   },
   {
     "id": "pies-raros",
@@ -18199,7 +18591,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "powers": "<a href=\"/werewolf/gifts/rat-head\">Cabeza de Rata</a>, Colmillos, Inmunidad al Delirio, Moco Babeante, Modelar"
+    }
   },
   {
     "id": "sabuesos-sangrientos",
@@ -19249,7 +19644,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "referencia": "Como el Don de las Furias Negras <a href=\"/werewolf/gifts/kneel\">Arrodillarse</a>."
+    }
   },
   {
     "id": "corrupt-totem",
@@ -19278,7 +19676,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "referencia": "Como el Don de los <a href=\"/werewolf/totems/uktena-totem\">Uktena</a> <a href=\"/werewolf/gifts/banish-totem\">Desterrar Tótem</a>."
+    }
   },
   {
     "id": "blade-of-ichor",
@@ -19335,7 +19736,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "referencia": "Como el Don <a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a> <a href=\"/werewolf/gifts/call-the-cannibal-spirit\">Llamar al Espíritu Caníbal</a>."
+    }
   },
   {
     "id": "summon-wyrm-elemental",
@@ -19364,7 +19768,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "referencia": "Como el Don <a href=\"/werewolf/totems/uktena-totem\">Uktena</a> <a href=\"/werewolf/gifts/call-elemental\">Llamar Elemental</a>."
+    }
   },
   {
     "id": "cloak-of-anthelios",
@@ -19450,7 +19857,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tipo_rito": "Rito de <a href=\"/werewolf/backgrounds/renombre\">Renombre</a>"
+    }
   },
   {
     "id": "rite-of-the-flayed-god",
@@ -19509,7 +19919,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "rasgos_individuales": "Los bastardos de Kirijama obtienen el Don <a href=\"/werewolf/totems/uktena-totem\">Uktena</a> <a href=\"/werewolf/gifts/invisibility-uktena\">Invisibilidad</a>."
+    }
   },
   {
     "id": "green-dragon",
@@ -19599,7 +20012,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "rasgos_individuales": "Murciélago otorga a sus bastardos uno de los siguientes Dones Danzantes, a elegir entre <a href=\"/werewolf/gifts/patagia\">Patagio</a> y <a href=\"/werewolf/gifts/bat-ears\">Orejas de Murciélago</a>.",
+      "rasgos_de_manada": "Los bastardos de Murciélago reciben un dado adicional en todas las tiradas de Intimidación, Sigilo y <a href=\"/werewolf/gifts/survival\">Supervivencia</a>."
+    }
   },
   {
     "id": "dark-fungus",
@@ -19629,7 +20046,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "rasgos_de_manada": "Cuando se encuentran bajo los efectos de hongos psicoactivos, los bastardos de este <a href=\"/werewolf/backgrounds/totem\">Tótem</a> obtienen acceso al Don <a href=\"/werewolf/gifts/pulse-of-the-invisible\">Pulso de lo Invisible</a>."
+    }
   },
   {
     "id": "glough",
@@ -19659,7 +20079,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "rasgos_individuales": "G&#x27;lough otorga a sus bastardos el Don <a href=\"/werewolf/gifts/mind-weave\">Tejido de la Mente</a>."
+    }
   },
   {
     "id": "relshab",
@@ -19689,7 +20112,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "rasgos_individuales": "Los bastardos de Relshab obtienen el Don Ragabash <a href=\"/werewolf/gifts/whelp-body\">Cuerpo de Cachorro</a>."
+    }
   },
   {
     "id": "rite-of-the-broken-wing",
@@ -20203,7 +20629,14 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de astucia",
+      "rasgos_individuales": "Los hijos de <a href=\"/werewolf/banes/garrapata\">Garrapata</a> obtienen un dado de absorción adicional contra el daño contundente.",
+      "rasgos_de_manada": "Las manadas de <a href=\"/werewolf/banes/garrapata\">Garrapata</a> pueden usar tres puntos de <a href=\"/werewolf/gifts/survival\">Supervivencia</a> y dos de Fuerza de Voluntad por historia.",
+      "prohibicion": "<a href=\"/werewolf/banes/garrapata\">Garrapata</a> requiere un diezmo de sangre regular. Su manada debe ofrecerle una cantidad de sangre (suya o de otros) equivalente a un nivel de Salud por cada miembro de la manada más o menos una vez por semana (la noche exacta de la Luna nueva, la media o la llena). Además, no permite que sus hijos Garou maten o extraigan garrapatas que ya se hayan adherido a un huésped y se estén alimentando de él.",
+      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de astucia; aspirante a <a href=\"/werewolf/backgrounds/totem\">Tótem</a> tribal de los Danzantes de la Piel"
+    }
   },
   {
     "id": "suppliants-compass",
@@ -20233,7 +20666,10 @@
         "book_title_es": "W20 NSR Aniversario - Parte 1 (59pp)"
       }
     ],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "funcion": "Se sintoniza con cualquier <a href=\"/werewolf/backgrounds/totem\">Tótem</a> con quien el donante de sangre tenga un vínculo; con sangre del donante permite viajar al reino de ese <a href=\"/werewolf/backgrounds/totem\">Tótem</a> por un camino seguro"
+    }
   },
   {
     "id": "thundering-howl-grand-klaive",
@@ -20264,7 +20700,11 @@
         "book_title_es": "W20 NSR Aniversario - Parte 1 (59pp)"
       }
     ],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/werewolf/fetishs/great-klaive\">Gran Klaive</a>",
+      "nota_extraccion": "En este fragmento no se dan estadísticas del arma (daño, Nivel, Gnosis, espíritu ligado); solo se nombra el arma y su recompensa de <a href=\"/werewolf/backgrounds/renombre\">Renombre</a>. name_en es una traducción literal aproximada; el nombre español es el autoritativo."
+    }
   },
   {
     "id": "trappers-bane",
@@ -20473,7 +20913,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "prohibicion": "Estruendoso Bum Bum no tolera la insubordinación de ningún tipo. Sus seguidores deben seguir cualquier orden dada por un Garou de mayor Rango. Negarse ante una orden directa del propio Estruendoso Bum Bum deviene en el abandono del <a href=\"/werewolf/backgrounds/totem\">Tótem</a>."
+    }
   },
   {
     "id": "honey-badger",
@@ -20502,7 +20945,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "rasgos_de_manada": "Las manadas que siguen a Tejón Melero obtienen acceso al Don <a href=\"/werewolf/gifts/resist-pain\">Resistir Dolor</a>."
+    }
   },
   {
     "id": "flow-freely",
@@ -20531,7 +20977,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "teacher": "<a href=\"/werewolf/totems/singing-dog\">Perro Cantor</a>"
+    }
   },
   {
     "id": "citizen-of-the-world",
@@ -20562,7 +21011,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "teacher": "Un espíritu <a href=\"/werewolf/gifts/chameleon\">camaleón</a>"
+    }
   },
   {
     "id": "singing-dogs-wail",
@@ -20595,7 +21047,10 @@
       "reason": "Inconsistencia de nombre en el origen: en el bloque de personaje de Thomas y en el Tótem Perro Cantor este Don aparece como 'Aullido de Perro Cantor', mientras que en la sección 'Nuevos Dones' (donde se define) se llama 'Alarido de Perro Cantor'. Se usa el nombre de la definición."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "teacher": "<a href=\"/werewolf/totems/singing-dog\">Perro Cantor</a>"
+    }
   },
   {
     "id": "speech-of-all-things",
@@ -20624,7 +21079,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "teacher": "Un sirviente de <a href=\"/werewolf/totems/unicorn\">Unicornio</a>"
+    }
   },
   {
     "id": "rite-of-hearth-fire",
@@ -20681,7 +21139,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "totem_category": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de Astucia"
+    }
   },
   {
     "id": "reindeer",
@@ -20709,7 +21170,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "totem_category": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de Honor",
+      "pack_traits": "3 puntos de Fuerza de Voluntad para gastar y 3 puntos de <a href=\"/werewolf/gifts/survival\">Supervivencia</a> compartibles."
+    }
   },
   {
     "id": "bird-of-paradise",
@@ -20737,7 +21202,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "totem_category": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de Guerra"
+    }
   },
   {
     "id": "lion",
@@ -20787,7 +21255,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "individual_traits": "+1 punto de Fuerza y +1 de Resistencia; puede usar el Don <a href=\"/werewolf/gifts/mothers-touch\">Roce Materno</a> una vez al día; puede regenerar extremidades perdidas gastando 1 punto de Fuerza de Voluntad (sana niveles de salud no agravados de la extremidad); pierden 5 puntos de Honor temporal y todas las recompensas de Honor se reducen en 1 punto."
+    }
   },
   {
     "id": "menhir",
@@ -20817,7 +21288,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de respeto",
+      "alcance": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de clan"
+    }
   },
   {
     "id": "wasp",
@@ -20847,7 +21322,13 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de guerra",
+      "alcance": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de clan",
+      "rasgos_comunes": "Cuando se la invoca, Avispa concede a todos sus hijos el Don <a href=\"/werewolf/gifts/mind-speak\">Lenguaje Mental</a>, aunque sólo se puede usar para comunicarse con compañeros de clan.",
+      "rasgos_de_manada": "Una manada imbuida con la bendición de Avispa obtiene 1 punto adicional de daño en todos los ataques sin armas. Estos ataques causan daño letal incluso en Forma Homínido. La manada también obtiene los efectos del Don <a href=\"/werewolf/gifts/resist-toxin\">Resistir Toxina</a>."
+    }
   },
   {
     "id": "dog",
@@ -20877,7 +21358,13 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de sabiduría",
+      "alcance": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de clan",
+      "rasgos_comunes": "Perro puede conceder a todos sus hijos 1 punto adicional de Resistencia y 1 de <a href=\"/werewolf/gifts/survival\">Supervivencia</a>.",
+      "rasgos_de_manada": "Una manada que recibe la bendición especial de Perro obtiene una reserva de 3 puntos de Fuerza de Voluntad y una bonificación de 2 dados adicionales cuando usa <a href=\"/werewolf/gifts/pack-tactics\">tácticas de manada</a>."
+    }
   },
   {
     "id": "hidden-glen",
@@ -20907,7 +21394,12 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de astucia",
+      "alcance": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de clan",
+      "rasgos_de_manada": "Cuando Calvero Oculto bendice a una manada con su presencia, ésta gana el Don <a href=\"/werewolf/gifts/territory\">Territorio</a>."
+    }
   },
   {
     "id": "rite-of-the-guardian-spirit",
@@ -20935,7 +21427,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "sistema": "Aunque los campeones y el sacrificio son componentes necesarios, sólo el celebrante del Rito necesita hacer una tirada. Este ritual puede realizarse en presencia de un Túmulo abierto (ver H20, pág. 217). Un clan sólo puede tener un <a href=\"/werewolf/backgrounds/totem\">Tótem</a> a la vez; este ritual falla automáticamente si el Túmulo ya está ocupado."
+    }
   },
   {
     "id": "memory-in-a-flash",
@@ -21076,7 +21571,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "tirada": "Percepción + <a href=\"/werewolf/gifts/empathy\">Empatía</a>, dificultad igual a la Fuerza de Voluntad de la persona al otro lado de la línea."
+    }
   },
   {
     "id": "almighty-dollar-and-easy-credit",
@@ -21106,7 +21604,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de sabiduría"
+    }
   },
   {
     "id": "city-father",
@@ -21135,7 +21636,12 @@
         "book_title_es": "W20 NSR Aniversario - Parte 2 (127pp)"
       }
     ],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de sabiduría",
+      "rasgos_individuales": "Los seguidores de un Padre Ciudad pueden interactuar con los espíritus de su ciudad como si tuviesen el Don de los Roehuesos <a href=\"/werewolf/gifts/attunement\">Sintonización</a>. Los Moradores del Cristal ganan 1 punto temporal de Sabiduría cuando son aceptados por un Padre Ciudad pero los miembros de las demás Tribus pierden 1 punto temporal de Honor. Además, el <a href=\"/werewolf/backgrounds/totem\">Tótem</a> también puede, de vez en cuando, ofrecer advertencias sobre un peligro inminente, ya sea de forma directa o a través de un mensajero.",
+      "prohibicion": "Las Madres o Padres Ciudad a menudo pedirán a sus manadas que realicen tareas por el bien de la ciudad. Si la manada se niega, el <a href=\"/werewolf/backgrounds/totem\">Tótem</a> les retirará su apoyo."
+    }
   },
   {
     "id": "big-joe-magarac",
@@ -21165,7 +21671,11 @@
         "book_title_es": "W20 NSR Aniversario - Parte 2 (127pp)"
       }
     ],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de sabiduría (Padre Ciudad específico)",
+      "rasgos_individuales": "Los &#x27;compañeros de trabajo&#x27; de Gran Joe pueden invocar una versión del Don Homínido <a href=\"/werewolf/gifts/reshape-object\">Remodelar Objeto</a> con la limitación de que sólo puede afectar al acero, el hierro o alguna aleación relacionada. En la versión del Don de Gran Joe, la tirada es Fuerza + Artesanía en lugar de Manipulación. Los Moradores del Cristal y los Roehuesos ganan 1 punto temporal de Sabiduría cuando son aceptados por Gran Joe, pero los miembros de las demás Tribus pierden 1 punto temporal de Honor. También puede, de vez en cuando, ofrecer advertencias sobre un peligro inminente, ya sea de forma directa o a través de un mensajero."
+    }
   },
   {
     "id": "the-general",
@@ -21198,7 +21708,11 @@
         "book_title_es": "W20 NSR Aniversario - Parte 2 (127pp)"
       }
     ],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de sabiduría (Padre Ciudad específico)",
+      "rasgos_individuales": "Los miembros de la manada que sirven al General pueden recurrir a una versión del Don <a href=\"/werewolf/totems/uktena-totem\">Uktena</a> <a href=\"/werewolf/gifts/call-elemental\">Llamar Elemental</a>. Pero debido a que es adorado en un templo taoísta, concede la habilidad de invocar elementales de los cinco elementos taoístas: madera, fuego, tierra, metal y agua. Los Moradores del Cristal ganan 1 punto temporal de Sabiduría cuando son aceptados por el General, pero los miembros de las demás Tribus pierden 1 punto temporal de Honor. También puede, de vez en cuando, ofrecer advertencias sobre un peligro inminente, ya sea de forma directa o a través de un mensajero."
+    }
   },
   {
     "id": "one-voice",
@@ -21227,7 +21741,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de guerra",
+      "rasgos_de_manada": "Las manadas de Una Voz tienen acceso al Don Philodox <a href=\"/werewolf/gifts/command-the-gathering\">Liderar la Reunión</a>."
+    }
   },
   {
     "id": "forma-de-hombre",
@@ -22145,7 +22663,10 @@
       "reason": "Artefacto de extracción PDF: la etiqueta 'Sistema:' aparece desplazada en el original ('Sistema: Ingenio del Ananasi'), partiendo el texto del sistema. Se ha reconstruido en orden de lectura; verificar contra fuente."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Sangre y tira Destreza + Pelea con Armas a dificultad 8. Superar la tirada ciega a la víctima durante tantos turnos como el Ingenio del <a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>."
+    }
   },
   {
     "id": "tick-body",
@@ -22279,7 +22800,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El hombre araña se purifica a sí mismo y al área elegida durante una semana; entonces tira Inteligencia + Ocultismo (dificultad 9, aunque cada día de <a href=\"/werewolf/gifts/fasting\">ayuno</a> y meditación rituales más allá de la semana obligatoria reduce la dificultad en 1). Tras gastar cuatro puntos de Gnosis, el <a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a> puede construir el Sylie, el cual existe tanto en el mundo físico como en la Umbra. Cada éxito reduce la dificultad para trepar de lado al Sylie en uno."
+    }
   },
   {
     "id": "the-masters-needs",
@@ -22306,7 +22830,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "Tras cada día, la víctima hace una tirada de Fuerza de Voluntad (la dificultad es igual a la Gnosis del <a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>). Si falla, debe un servicio al hombre araña. Sin importar el resultado, su cuerpo sana un nivel de Salud del daño del veneno tras cada tirada."
+    }
   },
   {
     "id": "tracking-web",
@@ -22410,7 +22937,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Ahroun <a href=\"/werewolf/gifts/razor-claws\">Garras como Cuchillas</a>."
+    }
   },
   {
     "id": "lick-wounds",
@@ -22436,7 +22966,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Theurge <a href=\"/werewolf/gifts/mothers-touch\">Roce Materno</a>."
+    }
   },
   {
     "id": "catfeet-general",
@@ -22488,7 +23021,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Garou Metis <a href=\"/werewolf/gifts/sense-wyrm\">Sentir al Wyrm</a>."
+    }
   },
   {
     "id": "sense-the-truth",
@@ -22514,7 +23050,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Philodox <a href=\"/werewolf/gifts/truth-of-gaia\">Verdad de Gaia</a>."
+    }
   },
   {
     "id": "pilfer",
@@ -22540,7 +23079,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Ragabash <a href=\"/werewolf/gifts/take-the-forgotten\">Tomar lo Olvidado</a>."
+    }
   },
   {
     "id": "screech",
@@ -22595,7 +23137,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Garou Homínido <a href=\"/werewolf/gifts/hold-the-gaze\">Sostener la Mirada</a>."
+    }
   },
   {
     "id": "night-step",
@@ -22624,7 +23169,10 @@
       "reason": "Artefacto de extracción PDF: la etiqueta 'Sistema:' aparece desplazada, partiendo el texto del sistema. Reconstruido en orden de lectura."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Gnosis y tira Destreza + Subterfugio u Ocultismo a dificultad 7. El <a href=\"/werewolf/changing-breeds/bastet\">Bastet</a> &#x27;desaparece&#x27; durante el resto de la escena o hasta que ataque a alguien o salga de las sombras."
+    }
   },
   {
     "id": "first-strike",
@@ -22653,7 +23201,10 @@
       "reason": "Artefacto de extracción PDF: la referencia aparece partida en dos líneas ('- Como el Don Ahroun' / '- Primer Corte (Nivel dos): Espíritu de la Refriega.'). Reconstruida en orden de lectura."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Ahroun <a href=\"/werewolf/gifts/spirit-of-the-fray\">Espíritu de la Refriega</a>."
+    }
   },
   {
     "id": "prey-pulse",
@@ -22705,7 +23256,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Garou Metis <a href=\"/werewolf/gifts/eyes-of-the-cat\">Ojos de Gato</a>."
+    }
   },
   {
     "id": "caper",
@@ -22731,7 +23285,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador tira Manipulación + Expresión a dificultad 3 y el personaje baila o se mueve de una forma diseñada para atraer la atención de quienes están a su alrededor. Cualquier observador cuya Fuerza de Voluntad sea igual o menor que los éxitos obtenidos cae en un agradable atontamiento mientras el <a href=\"/werewolf/changing-breeds/bastet\">Bastet</a> continúe con la danza. La violencia rompe el trance, pero las acciones sutiles (como que los aliados del <a href=\"/werewolf/changing-breeds/bastet\">Bastet</a> salgan a hurtadillas o entren en una zona restringida) pasan desapercibidas."
+    }
   },
   {
     "id": "impala-flight",
@@ -22786,7 +23343,10 @@
       "reason": "Artefacto de extracción PDF: la referencia aparece partida ('- Como el Don de los Uktena.' / '- Invisibilidad (Nivel tres):'). Reconstruida en orden de lectura."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los <a href=\"/werewolf/totems/uktena-totem\">Uktena</a>."
+    }
   },
   {
     "id": "touch-the-mind",
@@ -22815,7 +23375,10 @@
       "reason": "Artefacto de extracción PDF: la referencia aparece partida ('- Tocar la Mente (Nivel tres): Metis Lenguaje Mental.' / '- Como el Don Garou'). Reconstruida en orden de lectura."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Garou Metis <a href=\"/werewolf/gifts/mind-speak\">Lenguaje Mental</a>."
+    }
   },
   {
     "id": "remote-sight",
@@ -22841,7 +23404,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los <a href=\"/werewolf/totems/uktena-totem\">Uktena</a> <a href=\"/werewolf/gifts/scrying-uktena\">Escrutar</a>."
+    }
   },
   {
     "id": "walk-between-worlds",
@@ -22896,7 +23462,10 @@
       "reason": "Artefacto de extracción PDF: la referencia aparece partida ('- Como el Don' / '- Terror del Lobo (Nivel cuatro): Ahroun Garras de Plata.'). Reconstruida en orden de lectura."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Ahroun <a href=\"/werewolf/gifts/silver-claws\">Garras de Plata</a>."
+    }
   },
   {
     "id": "storm-of-claws",
@@ -22925,7 +23494,10 @@
       "reason": "Artefacto de extracción PDF: la etiqueta 'Sistema:' aparece desplazada, partiendo el texto del sistema. Reconstruido en orden de lectura."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "Gastando un punto de Rabia y otro de Fuerza de Voluntad, el <a href=\"/werewolf/changing-breeds/bastet\">Bastet</a> hace cuatro ataques cuerpo a cuerpo en un único turno. No puede gastar Rabia para obtener más ataques o usar este Don más veces por lucha que su Resistencia en Forma Homínido."
+    }
   },
   {
     "id": "withering-gaze",
@@ -22977,7 +23549,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Gnosis y tira Astucia + Latrocinio a dificultad 6; el <a href=\"/werewolf/changing-breeds/bastet\">Bastet</a> (junto con su ropa y cualquier objeto que porte) puede atravesar cualquier objeto no vivo (¡incluyendo balas y armas cuerpo a cuerpo!) que desee durante cinco minutos por éxito. Si desea agarrar algo, se vuelve sólido para él e intangible para el resto durante el segundo en que lo hace. Aún es visible y es vulnerable a los ataques sin armas. Los atacantes que deseen usar balas o cuchillos deben sorprenderlo o no recibirá daño, y los golpes del <a href=\"/werewolf/changing-breeds/bastet\">Bastet</a> ignoran cualquier armadura no viva. También respira, pero no puede verse afectado por ningún gas."
+    }
   },
   {
     "id": "urban-hunter",
@@ -23006,7 +23581,10 @@
       "reason": "Artefacto de extracción PDF: la referencia aparece partida ('- Cazador Urbano (Nivel uno): Homínido Carrera Urbana.' / '- Como el Don Garou'). Reconstruida en orden de lectura."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Garou Homínido <a href=\"/werewolf/gifts/city-running\">Carrera Urbana</a>."
+    }
   },
   {
     "id": "hunters-sweet-smile",
@@ -23035,7 +23613,10 @@
       "reason": "Artefacto de extracción PDF: la referencia aparece partida ('- Como el' / '- Dulce Sonrisa del Cazador (Nivel uno): Don Garou Homínido Persuasión.'). Reconstruida en orden de lectura."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Garou Homínido <a href=\"/werewolf/gifts/persuasion\">Persuasión</a>."
+    }
   },
   {
     "id": "cat-claws",
@@ -23090,7 +23671,10 @@
       "reason": "Artefacto de extracción PDF: la referencia aparece partida ('- Como el Don de los' / '- Oreja del Fisgón (Nivel dos): Señores de la Sombra Atrapar Susurros.'). Reconstruida en orden de lectura."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los Señores de la Sombra <a href=\"/werewolf/gifts/catch-whispers\">Atrapar Susurros</a>."
+    }
   },
   {
     "id": "makers-craft",
@@ -23119,7 +23703,10 @@
       "reason": "Artefacto de extracción PDF: la referencia aparece partida ('- Como el' / '- Manufactura del Creador (Nivel tres): Don Garou Homínido Remodelar Objeto.'). Reconstruida en orden de lectura."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Garou Homínido <a href=\"/werewolf/gifts/reshape-object\">Remodelar Objeto</a>."
+    }
   },
   {
     "id": "technospeak",
@@ -23223,7 +23810,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Garou Metis <a href=\"/werewolf/gifts/sense-wyrm\">Sentir al Wyrm</a> (dificultad un punto más alta; detecta Tejedora, Wyrm y Kaos simultáneamente)."
+    }
   },
   {
     "id": "blinding-moonbeam-gaze",
@@ -23249,7 +23839,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador tira Gnosis a dificultad 7 y puede encender y apagar las &#x27;largas&#x27; a voluntad durante el resto de la escena. Los rayos de Luna equivalen más o menos a una <a href=\"/werewolf/gifts/lantern\">linterna</a> de gran potencia."
+    }
   },
   {
     "id": "whisker-sight",
@@ -23327,7 +23920,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Rabia y tira Rabia a dificultad 6 (para objetos inanimados) u 8 (para objetivos vivos y no-muertos). Cada éxito destruye 4 kilos (10 libras) de material adyacente, reduciéndolo a polvo. Un <a href=\"/werewolf/changing-breeds/bastet\">Bastet</a> astuto podría usar este Don para debilitar un edificio o deshacerse de desechos tóxicos. Usado sobre una criatura viva, cada éxito inflige un nivel de daño contundente. El <a href=\"/werewolf/changing-breeds/bastet\">Bastet</a> debe ser capaz de ver lo que trata de destruir y estar lo bastante cerca de su objetivo como para que éste lo oiga rugir."
+    }
   },
   {
     "id": "moon-gate",
@@ -23353,7 +23949,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Ragabash <a href=\"/werewolf/gifts/open-moon-bridge\">Abrir Puente Lunar</a>."
+    }
   },
   {
     "id": "wrath-of-nala",
@@ -23379,7 +23978,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los Hakken <a href=\"/werewolf/gifts/divine-wind\">Viento Divino</a>."
+    }
   },
   {
     "id": "pounce",
@@ -23405,7 +24007,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Lupus <a href=\"/werewolf/gifts/hares-leap\">Salto de Liebre</a>."
+    }
   },
   {
     "id": "mine",
@@ -23457,7 +24062,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Lupus <a href=\"/werewolf/gifts/monkey-tail\">Cola de Mono</a>."
+    }
   },
   {
     "id": "catfeet-feline",
@@ -23509,7 +24117,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los Señores de la Sombra <a href=\"/werewolf/gifts/fatal-flaw\">Defecto Fatal</a>."
+    }
   },
   {
     "id": "earth-rebellion",
@@ -23535,7 +24146,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los Garras Rojas <a href=\"/werewolf/gifts/gaia-s-vengeance\">Venganza de Gaia</a>."
+    }
   },
   {
     "id": "tree-climber",
@@ -23561,7 +24175,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los Contemplaestrellas <a href=\"/werewolf/gifts/balance\">Equilibrio</a>."
+    }
   },
   {
     "id": "escape-of-humbaba",
@@ -23613,7 +24230,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Philodox <a href=\"/werewolf/gifts/command-the-gathering\">Liderar la Reunión</a>."
+    }
   },
   {
     "id": "surge-of-oya",
@@ -23691,7 +24311,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta dos puntos de Rabia y dos puntos de Gnosis. El Bagheera adquiere la Forma Juddho y entra en un indiscriminado frenesí asesino. Esta Forma persiste durante un número de turnos igual a la Rabia del <a href=\"/werewolf/changing-breeds/bastet\">Bastet</a>. Después de que la transformación termine, el <a href=\"/werewolf/changing-breeds/bastet\">Bastet</a> pierde toda su Rabia, asume su Forma de Raza y duerme durante cuatro horas. Los Rasgos de la Forma Juddho son: Fuerza +6, Destreza +3, Resistencia +6, Apariencia 0 y sus armas infligen Fuerza +4 de daño agravado."
+    }
   },
   {
     "id": "hunters-mists",
@@ -23743,7 +24366,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los Roehuesos <a href=\"/werewolf/gifts/scent-of-sweet-honey\">Olor a Miel Dulce</a>."
+    }
   },
   {
     "id": "terrors",
@@ -23769,7 +24395,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Ahroun <a href=\"/werewolf/gifts/true-fear\">Miedo Verdadero</a>."
+    }
   },
   {
     "id": "ancestral-wings",
@@ -23795,7 +24424,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de las Furias Negras <a href=\"/werewolf/gifts/wings-of-pegasus\">Alas de Pegaso</a>."
+    }
   },
   {
     "id": "wandering-woods",
@@ -23821,7 +24453,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los Garras Rojas <a href=\"/werewolf/gifts/trackless-waste\">Yermo sin Sendas</a>."
+    }
   },
   {
     "id": "cloud-of-visions",
@@ -23951,7 +24586,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Garou Homínido <a href=\"/werewolf/gifts/spirit-ward\">Guarda Espiritual</a>."
+    }
   },
   {
     "id": "dream-speech",
@@ -24029,7 +24667,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Garou Homínido <a href=\"/werewolf/gifts/speech-of-the-world\">Habla del Mundo</a>."
+    }
   },
   {
     "id": "weapons-of-the-dark",
@@ -24055,7 +24696,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los <a href=\"/werewolf/totems/uktena-totem\">Uktena</a> <a href=\"/werewolf/gifts/coils-of-the-serpent\">Anillos de la Serpiente</a>."
+    }
   },
   {
     "id": "shadow-brothers",
@@ -24081,7 +24725,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los Señores de la Sombra <a href=\"/werewolf/gifts/shadow-pack\">Manada de Sombra</a>."
+    }
   },
   {
     "id": "wisdom-of-the-satyr",
@@ -24133,7 +24780,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Garou Homínido <a href=\"/werewolf/gifts/master-of-fire\">Maestro del Fuego</a>."
+    }
   },
   {
     "id": "sorcerers-blade",
@@ -24243,7 +24893,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los Roehuesos <a href=\"/werewolf/gifts/riot\">Disturbio</a>."
+    }
   },
   {
     "id": "favor-of-the-rhino",
@@ -24350,7 +25003,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Bubasti <a href=\"/werewolf/gifts/banish-the-spawn-of-cahlash\">Desterrar a la Prole de Cahlash</a>. El pelaje del hombre tigre se vuelve blanco con el uso en lugar de negro."
+    }
   },
   {
     "id": "claws-of-the-raging-spirit-tiger",
@@ -24402,7 +25058,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta dos puntos de Gnosis. Para apuntar la bola de fuego se usa Destreza + Pelea y ésta inflige tantos niveles de daño agravado como puntos de Ferocidad tenga el <a href=\"/werewolf/changing-breeds/bastet\">Bastet</a>. En los turnos siguientes el objetivo sigue ardiendo sufriendo la mitad de daño que el recibido en el turno anterior (redondeando hacia abajo) hasta que las llamas se consumen."
+    }
   },
   {
     "id": "hammer-of-the-celestial-thunder",
@@ -24454,7 +25113,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los <a href=\"/werewolf/changing-breeds/corax\">Corax</a> <a href=\"/werewolf/gifts/voice-of-the-mimic\">Voz del Imitador</a>."
+    }
   },
   {
     "id": "favor-of-the-wanderer",
@@ -24480,7 +25142,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Fuerza de Voluntad y tira Resistencia + <a href=\"/werewolf/gifts/survival\">Supervivencia</a> a dificultad 6. Cada éxito le permite obtener uno de los siguientes beneficios: ignorar los peores efectos del calor o el frío normales durante una semana, soportar un día sin agua o tres días sin comida. La dificultad de este Don aumenta en 1 por cada vez seguida que se repita."
+    }
   },
   {
     "id": "embrace-of-the-bayou",
@@ -24506,7 +25171,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los Garras Rojas <a href=\"/werewolf/gifts/quicksand\">Arenas Movedizas</a>."
+    }
   },
   {
     "id": "lightning",
@@ -24532,7 +25200,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Rabia y tira Destreza + <a href=\"/werewolf/gifts/survival\">Supervivencia</a> para apuntar (dificultad 8 en condiciones relativamente despejadas, 6 durante una tormenta). El rayo inflige tantos dados de daño como el Ingenio del <a href=\"/werewolf/changing-breeds/bastet\">Bastet</a>."
+    }
   },
   {
     "id": "cry-of-the-thunderbird",
@@ -24558,7 +25229,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los Hakken <a href=\"/werewolf/gifts/divine-wind\">Viento Divino</a>."
+    }
   },
   {
     "id": "breakfast-of-stones",
@@ -24584,7 +25258,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Pumonca <a href=\"/werewolf/gifts/favor-of-the-wanderer\">Favor del Vagabundo</a>."
+    }
   },
   {
     "id": "turned-pelt",
@@ -24610,7 +25287,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don <a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a> <a href=\"/werewolf/gifts/camouflage-wendigo\">Camuflaje</a>, salvo porque el Qualmi debe deshacerse de toda su ropa y equipo antes de activar el Don."
+    }
   },
   {
     "id": "nothing-hidden",
@@ -24665,7 +25345,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador tira Manipulación + Enigmas (la dificultad es igual a la Fuerza de Voluntad del objetivo). Un éxito revuelve la orientación y la capacidad para relacionarse del objetivo; tres o más hacen que entre en pánico, forzando a los cambiaformas a hacer una tirada de Frenesí y a los humanos normales a huir de terror. Los cambiaformas que tengan la opción sucumben al Frenesí del <a href=\"/werewolf/totems/fox\">Zorro</a> como resultado de este Don. Los efectos duran 15 minutos."
+    }
   },
   {
     "id": "water-sight",
@@ -24717,7 +25400,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don <a href=\"/werewolf/changing-breeds/rokea\">Rokea</a> <a href=\"/werewolf/gifts/fish-king\">Rey Pez</a>."
+    }
   },
   {
     "id": "armor-of-kings",
@@ -24743,7 +25429,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los Colmillos Plateados <a href=\"/werewolf/gifts/lunas-armor\">Armadura de Luna</a>."
+    }
   },
   {
     "id": "heart-of-storms",
@@ -24769,7 +25458,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de la Camada de <a href=\"/werewolf/totems/fenris\">Fenris</a> <a href=\"/werewolf/gifts/might-of-thor\">Poderío de Thor</a>."
+    }
   },
   {
     "id": "claws-of-the-sun",
@@ -24821,7 +25513,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los Colmillos Plateados <a href=\"/werewolf/gifts/wrath-of-gaia\">Ira de Gaia</a>."
+    }
   },
   {
     "id": "king-of-beasts",
@@ -24876,7 +25571,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don general de los <a href=\"/werewolf/changing-breeds/bastet\">Bastet</a>. Sólo los Swara pueden comprarlo como un Don de nivel uno."
+    }
   },
   {
     "id": "ghostly-caress",
@@ -24957,7 +25655,10 @@
       "reason": "GARBLED: la extracción a dos columnas entrelazó el 'Sistema:' de este Rito con la descripción/sistema del Fetiche 'Falsa protección' (bloques 273-295 del origen). El texto del Sistema se reensambló uniendo los fragmentos que corresponden al Rito (meditar / colocar mensaje en movimientos + tirada Astucia + Enigmas según distancia). Verificar contra la fuente."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El celebrante del Rito medita, centrándose en los pensamientos que desea compartir, y abre sus ojos a los movimientos que hay a su alrededor. Por cada éxito cuando activa el Rito, el <a href=\"/werewolf/changing-breeds/bastet\">Bastet</a> puede colocar un mensaje en un tipo de movimiento: las ondulaciones de la hierba larga, el balanceo de las hojas de los árboles o incluso en las cambiantes formas de las nubes. El mensaje puede ser cualquier cosa que pudiera transmitirse en un minuto. Otros <a href=\"/werewolf/changing-breeds/bastet\">Bastet</a> por todo el mundo que vean movimientos similares pueden descifrar el mensaje haciendo una tirada de Astucia + Enigmas. La dificultad de la tirada se basa en la distancia del observador a quien celebra el Rito: dificultad 5 por hasta 160 kilómetros (100 millas), 6 por 1600 kilómetros (1000 millas), 7 en el mismo continente y dificultad 8 en cualquier otra parte del mundo."
+    }
   },
   {
     "id": "false-protection",
@@ -25035,7 +25736,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Gnosis, obteniendo conocimiento instintivo de si un objeto concreto que el <a href=\"/werewolf/changing-breeds/corax\">Corax</a> perciba es o no de valor (esto puede indicar valor financiero o práctico, o si será útil en el futuro, el <a href=\"/werewolf/changing-breeds/corax\">Corax</a> no sabe cuál)."
+    }
   },
   {
     "id": "morse",
@@ -25060,7 +25764,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Gnosis para asegurarse de que el <a href=\"/werewolf/changing-breeds/corax\">Corax</a> más próximo oiga (y entienda) claramente el mensaje. Con una tirada de Astucia + Expresión a dificultad 8 puede dirigirse el mensaje al cambiaformas gaiano más cercano sin importar su Raza."
+    }
   },
   {
     "id": "word-beyond",
@@ -25085,7 +25792,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador tira Astucia + Expresión a dificultad 6 para crear una señal a partir de los materiales umbrales cercanos. El número de éxitos indica la complejidad del mensaje que puede cifrarse en la señal; un éxito sería suficiente para conceptos simples como &#x27;peligro&#x27; o &#x27;refugio seguro&#x27;, mientras que con cinco podrían expresarse conceptos complejos equivalentes a un ensayo corto. Los no <a href=\"/werewolf/changing-breeds/corax\">Corax</a> no pueden leer estas señales."
+    }
   },
   {
     "id": "voice-of-the-mimic",
@@ -25138,7 +25848,10 @@
       "reason": "Artefacto de extracción PDF: la etiqueta 'Sistema:' quedó desplazada respecto a su texto en el original (bloques 588-592). Texto reensamblado en orden de lectura; verificar contra la fuente."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El <a href=\"/werewolf/changing-breeds/corax\">Corax</a> apunta para dejar caer el paquete con Percepción + Pelea con Armas a dificultad 7 sin que importen las condiciones climáticas, los vientos, etc. El <a href=\"/werewolf/changing-breeds/corax\">Corax</a> debe poder ver a su objetivo."
+    }
   },
   {
     "id": "wire-keeper",
@@ -25163,7 +25876,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Ragabash <a href=\"/werewolf/gifts/song-of-the-spider\">Canción de la Araña</a>."
+    }
   },
   {
     "id": "call-of-the-carrion",
@@ -25191,7 +25907,10 @@
       "reason": "Artefacto de extracción PDF: la etiqueta 'Sistema:' quedó desplazada respecto a su texto en el original (bloques 597-601). Texto reensamblado en orden de lectura; verificar contra la fuente."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador tira Percepción + <a href=\"/werewolf/gifts/empathy\">Empatía</a> a dificultad 6. El <a href=\"/werewolf/changing-breeds/corax\">Corax</a> adquiere consciencia de todos los cadáveres en un radio de 1,6 kilómetros por éxito (o una milla por éxito)."
+    }
   },
   {
     "id": "feathers-like-blades",
@@ -25244,7 +25963,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Gnosis. El <a href=\"/werewolf/changing-breeds/corax\">Corax</a> vuelve al lugar que realmente considera &#x27;hogar&#x27; en piloto automático, sin ninguna conciencia del camino que toma; puede hacerlo incluso mientras se sana o duerme."
+    }
   },
   {
     "id": "talk-of-the-dead",
@@ -25294,7 +26016,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Rabia. Durante el resto de la escena puede atacar con una tirada de Destreza + Pelea con Armas a dificultad 5 hasta a una distancia de 15 metros (50 pies), causando Destreza +3 de daño letal de base. Con <a href=\"/werewolf/gifts/feathers-like-blades\">Plumas como Cuchillas</a> activo, el daño es agravado. Este Don sólo puede usarse en Forma Córvido y Crinos."
+    }
   },
   {
     "id": "scry",
@@ -25327,7 +26052,10 @@
     ],
     "related": [
       "wraith/scry"
-    ]
+    ],
+    "mechanics_html": {
+      "reference": "Como el Don de los <a href=\"/werewolf/totems/uktena-totem\">Uktena</a>."
+    }
   },
   {
     "id": "guard-of-the-sun",
@@ -25355,7 +26083,10 @@
       "reason": "Artefacto de extracción PDF: el nombre 'Guardia del Sol (Nivel tres):' y la etiqueta 'Sistema:' quedaron desplazados respecto a su texto en el original (bloques 624-629). Texto reensamblado en orden de lectura; verificar contra la fuente."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta dos puntos de Rabia y tira Resistencia + Impulso Primario a dificultad 6. El <a href=\"/werewolf/changing-breeds/corax\">Corax</a> es completamente inmune a las llamas o el calor, no importa su fuente o intensidad, durante un turno por éxito. Sigue siendo vulnerable a las piras de corrupción."
+    }
   },
   {
     "id": "eyes-of-the-eagle",
@@ -25411,7 +26142,10 @@
       "reason": "Artefacto de extracción PDF: la descripción y el nombre 'Roce del Estornino (Nivel tres):' quedaron en líneas separadas/desordenadas en el original (bloques 636-639). Texto reensamblado en orden de lectura; verificar contra la fuente."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta dos puntos de Gnosis y obtiene el conocimiento de cualquier Don Garou de Rango menor que el del <a href=\"/werewolf/changing-breeds/corax\">Corax</a>. Este Don puede usarse en cualquier momento posterior una sola vez. Roce del Estornino sólo permite &#x27;almacenar&#x27; un Don a la vez. En el caso de Dones permanentes, el <a href=\"/werewolf/changing-breeds/corax\">Corax</a> puede disfrutar de los beneficios del Don una escena antes de que se desvanezca."
+    }
   },
   {
     "id": "gauntlet-runner",
@@ -25461,7 +26195,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El Tengu debe estar en el aire cuando usa este Don. El jugador gasta tanto tres puntos de Gnosis y dos de Rabia como su acción este turno. La tormenta de plumas causa Destreza + 4 dados de daño letal a todos los que estén bajo el Tengu en un radio de 4,5 metros (15 pies). Quienes queden atrapados por la tormenta deben obtener tres éxitos en una tirada de Destreza + Atletismo a dificultad 8 para evitar el daño. Si está activo <a href=\"/werewolf/gifts/feathers-like-blades\">Plumas como Cuchillas</a>, el daño es agravado."
+    }
   },
   {
     "id": "sense-trails",
@@ -25511,7 +26248,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta dos puntos de Gnosis. Los enemigos deben hacer una tirada de Percepción + Enigmas (dificultad 3 + el Honor del hombre <a href=\"/werewolf/totems/raven\">cuervo</a>, máximo 9) para determinar qué pájaro es el original. Los cuervos falsos creados por este Don desaparecen al siguiente amanecer, hasta entonces continúan volando tan lejos y rápido como podría hacerlo el <a href=\"/werewolf/changing-breeds/corax\">Corax</a>."
+    }
   },
   {
     "id": "auguries",
@@ -25536,7 +26276,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta dos puntos de Gnosis y tira Inteligencia + Enigmas a dificultad 8; entonces pide una visión del futuro respecto a cierto tema. Más éxitos conceden una mayor <a href=\"/werewolf/gifts/clarity\">claridad</a>."
+    }
   },
   {
     "id": "deceptive-demise",
@@ -25586,7 +26329,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Fuerza de Voluntad y uno de Rabia; después, hace una tirada enfrentada de Fuerza de Voluntad contra la víctima. Si el <a href=\"/werewolf/changing-breeds/corax\">Corax</a> vence, su víctima es arrojada a la oscuridad, capaz de ver sólo luz artificial. Los efectos de Robo de Estrellas duran tanto como la Gloria del <a href=\"/werewolf/changing-breeds/corax\">Corax</a> en horas."
+    }
   },
   {
     "id": "fortitude-of-the-messenger",
@@ -25628,7 +26374,11 @@
       ]
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "rank": "Nivel tres (Swara) / Nivel dos (<a href=\"/werewolf/changing-breeds/corax\">Corax</a>)",
+      "reference": "Como el Don de los Caminantes Silenciosos (la versión <a href=\"/werewolf/changing-breeds/corax\">Corax</a> posibilita el vuelo en lugar de la carrera)."
+    }
   },
   {
     "id": "eyes-of-the-flock",
@@ -25654,7 +26404,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "Cuando el Rito se realiza con éxito, el celebrante y cualquier otro participante puede ver a través de los ojos de cada <a href=\"/werewolf/totems/raven\">cuervo</a>, grajo y cualquier otro córvido en 1,6 kilómetros (1 milla) por cada punto de Gnosis que tenga. Esta carga sensorial es enorme, pero puede compartirse entre los participantes. El <a href=\"/werewolf/changing-breeds/corax\">Corax</a> que conduce el Rito tira Percepción + Enigmas (dificultad 9, -1 por cada dos participantes adicionales) para cribar la avasalladora corriente visual y encontrar lo que está buscando."
+    }
   },
   {
     "id": "rite-of-the-bright-sunbeam",
@@ -25680,7 +26433,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "Este Rito no tiene coste. El jugador hace una tirada estándar de Astucia + Rituales a dificultad 7. La luz solar que se toma prestada brilla desde el lugar donde está el <a href=\"/werewolf/changing-breeds/corax\">Corax</a> al finalizar el Rito, iluminando todo en un radio de 20 metros (o yardas). Dura una hora por éxito en la tirada de activación y persiste incluso si el <a href=\"/werewolf/changing-breeds/corax\">Corax</a> abandona la zona."
+    }
   },
   {
     "id": "rite-of-the-theft-of-memory",
@@ -25706,7 +26462,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "Este Rito cuesta un punto de Gnosis, otro de Fuerza de Voluntad y otro de Rabia, y dura tanto como lleve cantar todas las hazañas de la víctima. También requiere una tirada enfrentada de Fuerza de Voluntad a dificultad 8 entre el celebrante del Rito y la víctima, aunque cada <a href=\"/werewolf/changing-breeds/corax\">Corax</a> presente adicional reduce la dificultad del celebrante en 1, hasta un mínimo de 3. Este Rito sólo puede usarse sobre otro <a href=\"/werewolf/changing-breeds/corax\">Corax</a>."
+    }
   },
   {
     "id": "uphone",
@@ -25836,7 +26595,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Gnosis y tira Percepción + <a href=\"/werewolf/gifts/survival\">Supervivencia</a> a dificultad 7."
+    }
   },
   {
     "id": "purification-of-ursa",
@@ -26073,7 +26835,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Gnosis y tira Manipulación + Sigilo (dificultad 7). El <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> puede ocultar a 12 objetivos, incluido él mismo, durante una hora por éxito."
+    }
   },
   {
     "id": "hide-the-bear",
@@ -26183,7 +26948,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> alza las manos hacia el cielo mientras el jugador hace una tirada de Carisma + Ocultismo (dificultad 6). Un éxito produce una luz suave que ilumina un área de 9 metros cuadrados (100 pies cuadrados) o manda un faro direccional de 100 metros o yardas de alcance. Si puede ver la Osa Mayor o la Osa Menor, se duplica el área afectada."
+    }
   },
   {
     "id": "weather-control",
@@ -26300,7 +27068,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador hacer una tirada de Percepción + <a href=\"/werewolf/gifts/empathy\">Empatía</a>. El número de éxitos obtenidos determina con cuánta <a href=\"/werewolf/gifts/clarity\">claridad</a> se siente empujado hacia un individuo en necesidad, si es que existe alguno dentro de un radio igual a su Socorro por 1,6 kilómetros (o de su Socorro en millas)."
+    }
   },
   {
     "id": "spirit-shield",
@@ -26432,7 +27203,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> gana de forma permanente cinco dados adicionales en las tiradas de <a href=\"/werewolf/gifts/survival\">Supervivencia</a> para predecir el tiempo."
+    }
   },
   {
     "id": "dig",
@@ -26644,7 +27418,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Gnosis y hace una tirada de Carisma + <a href=\"/werewolf/gifts/empathy\">Empatía</a> a una dificultad igual a la Fuerza de Voluntad del objetivo. Cuanto mayor sea el objeto o servicio solicitado, más éxitos se necesitan; cinco éxitos camelarán a un humano para que entregue su hogar."
+    }
   },
   {
     "id": "safe-passage",
@@ -26803,7 +27580,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Gnosis y hace una tirada enfrentada de Fuerza de Voluntad (dificultad 6). Superarla permite al <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> presentar al enemigo dos posibilidades, y el oponente debe elegir una o la otra. El <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> no puede hacer que ninguna de estas órdenes sea suicida o directamente dañina para el oponente, ni que ambas sean simples reenunciaciones de la misma acción."
+    }
   },
   {
     "id": "menace",
@@ -26830,7 +27610,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Rabia y hace una tirada de Carisma + Intimidación con una dificultad igual a la Fuerza de Voluntad de la víctima +2 (máximo 9). Tres o más éxitos hacen que la víctima huya de terror durante un número de turnos igual al Honor del <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a>; menos éxitos simplemente inducen miedo y con ello una penalización de -1 dado a todas las acciones durante el mismo período."
+    }
   },
   {
     "id": "strong-arms-of-mangi",
@@ -26857,7 +27640,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> gasta una acción para concentrarse. Entonces, el jugador gasta un punto de Rabia y tira Fuerza + Impulso Primario. Cada éxito añade un dado al daño del <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> en su próximo ataque de presa con éxito."
+    }
   },
   {
     "id": "crush",
@@ -26937,7 +27723,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Gnosis y hace una tirada de Astucia + Ocultismo o Medicina a dificultad 6. Cada éxito garantiza al objetivo un nivel de Salud Incapacitado adicional durante el resto de la escena. El <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> no puede usar este Don sobre sí mismo si ya está Incapacitado."
+    }
   },
   {
     "id": "rage-of-the-mother-bear",
@@ -26964,7 +27753,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Gnosis y hace una tirada de Destreza + Rituales a dificultad 6. Cada éxito concede al <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> una acción adicional con su reserva de dados completa el próximo turno."
+    }
   },
   {
     "id": "gaze-of-stone",
@@ -27018,7 +27810,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador hace una tirada de Percepción + Impulso Primario (dificultad 6) y gasta un punto de Gnosis. El <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> escucha el evento más significativo que haya ocurrido en ese lugar hasta hace un máximo de días igual al número de éxitos obtenido."
+    }
   },
   {
     "id": "eyes-of-the-soul",
@@ -27097,7 +27892,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Gnosis y tira Astucia + <a href=\"/werewolf/gifts/empathy\">Empatía</a> (la dificultad es igual a la Fuerza de Voluntad del objetivo). Esta lectura de mentes dura tantos turnos como éxitos se obtengan."
+    }
   },
   {
     "id": "probe-thoughts",
@@ -27124,7 +27922,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Gnosis (y un punto de Fuerza de Voluntad si el objetivo es sobrenatural) y tira Astucia + <a href=\"/werewolf/gifts/empathy\">Empatía</a> (la dificultad es igual a la Fuerza de Voluntad del objetivo). Cada éxito revela algo de información que el objetivo esté tratando de ocultar de forma activa."
+    }
   },
   {
     "id": "shadows-by-the-fire",
@@ -27177,7 +27978,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Gnosis (y uno de Fuerza de Voluntad si el objetivo es una criatura sobrenatural) y hace una tirada de Astucia + <a href=\"/werewolf/gifts/empathy\">Empatía</a> (la dificultad es igual a la Fuerza de Voluntad del objetivo)."
+    }
   },
   {
     "id": "diagnosis",
@@ -27231,7 +28035,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> debe tocar a un objetivo. El jugador gasta un punto de Gnosis; el objetivo no sufre penalizaciones por heridas hasta el final del combate."
+    }
   },
   {
     "id": "spirit-healing",
@@ -27258,7 +28065,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador hace una tirada de Carisma + Ocultismo (la dificultad es igual a la Fuerza de Voluntad del Espíritu). Un éxito permite al <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> gastar Gnosis para restaurar la Esencia del espíritu a razón de dos puntos de Esencia por punto de Gnosis."
+    }
   },
   {
     "id": "spirit-form",
@@ -27285,7 +28095,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "Este Don sólo funciona en la Umbra. El jugador gasta un punto de Gnosis y tira Apariencia + Enigmas (dificultad 7). El cuerpo del <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> asume el aspecto deseado durante un número de días igual a su Sabiduría. El <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> puede decidir terminar los efectos antes si lo desea."
+    }
   },
   {
     "id": "image-of-the-star-bear",
@@ -27312,7 +28125,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Gnosis y tira Astucia + Rituales. El <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> puede entonces tocar al objetivo y sanar instantáneamente cinco niveles de daño letal o contundente, tres de daño agravado o conceder al objetivo una armadura mística (equivalente a un chaleco antibalas) durante el resto de la escena. Uno de los puntos de luz del cuerpo del <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> se apaga cada vez que usa los beneficios de este Don; cuando todo ellos se han extinguido, también lo hace el Don."
+    }
   },
   {
     "id": "befriend",
@@ -27366,7 +28182,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador tira Astucia + <a href=\"/werewolf/gifts/empathy\">Empatía</a> (la dificultad es igual a la Fuerza de Voluntad del personaje) y gasta un punto de Gnosis. Cada éxito hace que el objetivo sea incapaz de mentir deliberadamente durante un minuto."
+    }
   },
   {
     "id": "presence-of-the-great-bear",
@@ -27473,7 +28292,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Gnosis y tira Astucia + Ocultismo (dificultad 7) mientras describe la bendición que desea conceder. Ésta puede ser un éxito automático cuando se emprende una tarea concreta o una bonificación de un punto en un Atributo. La bendición dura tantas horas como puntuación de Sabiduría del <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a>."
+    }
   },
   {
     "id": "quell-the-rage-of-the-crowd",
@@ -27500,7 +28322,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador tira Carisma + Liderazgo (la dificultad es igual a la puntuación de Fuerza de Voluntad más alta entre la multitud). El grado en el que 30 individuos por punto de Socorro del <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> reducen su hostilidad depende de los éxitos obtenidos."
+    }
   },
   {
     "id": "oath-of-the-great-bear",
@@ -27553,7 +28378,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Gnosis y tira Carisma + Rituales (la dificultad es igual a la Celosía local). Un éxito significa que el <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> tarda cinco minutos en escarbar a través de la Celosía. Dos reducen el tiempo a 30 segundos, mientras que tres o más le permiten desgarrar la Celosía de manera inmediata. El <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> no necesita hacer ninguna tirada para salir de la Umbra."
+    }
   },
   {
     "id": "winter-dreams",
@@ -27580,7 +28408,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> activa este Rito antes de Hibernar o antes de una noche de sueño normal. Mientras duerme, sueña con el mundo que lo rodea. Estos sueños suelen mostrar los eventos que ocurren en el <a href=\"/werewolf/gifts/territory\">territorio</a> del hombre oso, pero muchos representan escenas de cualquier parte del mundo si son relevantes para el soñador. El jugador del <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> puede tirar Inteligencia + Ocultismo para determinar si tiene conocimiento de un evento ocurrido mientras dormía. La dificultad de esta tirada depende de la relevancia personal del evento para el <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a>."
+    }
   },
   {
     "id": "rite-of-replenishment",
@@ -27607,7 +28438,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador tira Astucia + Rituales (dificultad 8, -1 por cada 15 minutos que se pasen bailando y cantando a Gaia). El <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> gana un punto de Gnosis temporal por éxito, que puede distribuir entre los participantes en el Rito."
+    }
   },
   {
     "id": "rite-of-the-river-of-omens",
@@ -27634,7 +28468,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "Tras capturar al pez, el jugador tira Inteligencia + Enigmas (dificultad 8). El número de éxitos determina cómo de claros e inteligibles son los <a href=\"/werewolf/gifts/auguries\">augurios</a> y presagios."
+    }
   },
   {
     "id": "rite-of-true-mating",
@@ -27661,7 +28498,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El jugador gasta un punto de Gnosis y hace una tirada de Carisma + <a href=\"/werewolf/gifts/empathy\">Empatía</a> (dificultad 7). Sólo es necesario un éxito."
+    }
   },
   {
     "id": "rite-of-the-healing-winds",
@@ -27688,7 +28528,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> entra en la Umbra y tira Manipulación + Rituales para localizar e invocar a un espíritu chinuc. La dificultad de la tirada depende del nivel de polución de la zona objetivo. Por ejemplo, una zona muy envenenada puede requerir una dificultad de 8 o mayor (hasta un máximo de 10 para los vertederos nucleares o de fuertes toxinas químicas). Si no se obtienen éxitos, el Rito simplemente falla, mientras que un fracaso indica que la realización del Rito ha enfadado al espíritu chinuc."
+    }
   },
   {
     "id": "rite-of-the-pure-land",
@@ -27715,7 +28558,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "Los jugadores de todos los <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> que participen en el Rito tiran Resistencia + Rituales a dificultad 8. Cada <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> debe obtener al menos un éxito para que el Rito funcione."
+    }
   },
   {
     "id": "rite-of-the-freed-spirit",
@@ -27742,7 +28588,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> y el Fomor cautivo deben entran en la Umbra para realizar este Rito. El jugador debe sacrificar un punto permanente de Gnosis y tira Fuerza de Voluntad a dificultad 9. Sólo se necesita un éxito, pero el <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> no puede gastar Fuerza de Voluntad para obtener un éxito automático. Si el ritual falla, tanto el Fomor como el <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> que realizan el Rito mueren al instante. Un fracaso provoca la muerte del Fomor y que la Perdición se transfiera al cuerpo del <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> que realizó el Rito."
+    }
   },
   {
     "id": "rite-of-fighting-the-death-bear",
@@ -27769,7 +28618,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El Rito falla de forma automática si ya se ha usado <a href=\"/werewolf/gifts/breath-of-gaia\">Hálito de Gaia</a> y el individuo no ha reaccionado a él. Los Rasgos de Mangi se dejan a discreción del Narrador; aunque es claramente un espíritu fiero, puede derrotársele y ha sido derrotado por <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> de Rango medio en algunas raras ocasiones."
+    }
   },
   {
     "id": "rattle-trap",
@@ -27797,7 +28649,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "system": "El <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> activa el Fetiche antes de dormir; éste permanece activo hasta que se despierte. Si una persona o espíritu con intenciones dañinas se acerca a una distancia inferior a la puntuación de Gnosis del <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> en metros o yardas, el Fetiche traquetea, traspasando el sopor del Oso al intruso. El <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> puede actuar sin penalización, mientras que el intruso debe superar una tirada de Fuerza de Voluntad (dificultad 7) para permanecer activo o sucumbirá al sueño del <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a>. Si la intrusión ocurre en invierno, el intruso padecerá las lentas reacciones del <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> incluso si supera la tirada de Fuerza de Voluntad. Los enemigos astutos que conocen la magia de los <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a> atacarán en grupo. El Fetiche sólo afectará a uno de los suyos, pero seguirá alertando al <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a>."
+    }
   },
   {
     "id": "ishin-deshin",
@@ -27825,7 +28680,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Galliard <a href=\"/werewolf/gifts/mind-speech\">Habla Mental</a>."
+    }
   },
   {
     "id": "sense-chi",
@@ -28079,7 +28937,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los Fianna <a href=\"/werewolf/gifts/eloquent-tongue\">Lengua Elocuente</a>."
+    }
   },
   {
     "id": "oblivion",
@@ -28161,7 +29022,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Lupus <a href=\"/werewolf/gifts/hares-leap\">Salto de Liebre</a>."
+    }
   },
   {
     "id": "sense-imbalance",
@@ -28336,7 +29200,10 @@
       "reason": "Fragmento reordenado por la extraccion del PDF; texto reconstruido a partir de las lineas contiguas del origen."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Lupus <a href=\"/werewolf/gifts/beast-life\">Vida de Bestia</a>."
+    }
   },
   {
     "id": "aura-flow",
@@ -28712,7 +29579,10 @@
       "reason": "Fragmento reordenado por la extraccion del PDF; texto reconstruido a partir de las lineas contiguas del origen."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los <a href=\"/werewolf/totems/uktena-totem\">Uktena</a>."
+    }
   },
   {
     "id": "vision-beyond",
@@ -29097,7 +29967,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Lupus <a href=\"/werewolf/gifts/song-of-the-great-beast\">Canción de la Gran Bestia</a>, salvo que invoca a un dragón hecho de uno de los elementos."
+    }
   },
   {
     "id": "fire-immunity",
@@ -29125,7 +29998,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Ahroun <a href=\"/werewolf/gifts/kiss-of-helios\">Beso de Helios</a>."
+    }
   },
   {
     "id": "clear-the-mind",
@@ -29153,7 +30029,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los Hijos de Gaia <a href=\"/werewolf/gifts/calm\">Calmar</a>."
+    }
   },
   {
     "id": "clouded-eye",
@@ -29267,7 +30146,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Ragabash <a href=\"/werewolf/gifts/gremlins\">Gremlins</a>."
+    }
   },
   {
     "id": "moon-fan-face-shadow",
@@ -29406,7 +30288,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Galliard <a href=\"/werewolf/gifts/call-the-wyrm\">Llamada del Wyrm</a>."
+    }
   },
   {
     "id": "stillness",
@@ -29680,7 +30565,10 @@
       "reason": "Fragmento reordenado por la extraccion del PDF; texto reconstruido a partir de las lineas contiguas del origen."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Ragabash <a href=\"/werewolf/gifts/thousand-forms\">Miles de Formas</a>."
+    }
   },
   {
     "id": "paper-flesh",
@@ -29716,7 +30604,10 @@
     ],
     "related": [
       "vampire/paper-flesh"
-    ]
+    ],
+    "mechanics_html": {
+      "reference": "Como el Don <a href=\"/werewolf/gifts/paper-beast\">Bestia de Papel</a>"
+    }
   },
   {
     "id": "correction-of-conduct",
@@ -29770,7 +30661,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "rite_type": "Rito de <a href=\"/werewolf/backgrounds/renombre\">Renombre</a>"
+    }
   },
   {
     "id": "plenipotentiary",
@@ -30823,7 +31717,13 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "rank": [
+        "Nivel dos (<a href=\"/werewolf/gifts/lantern\">linterna</a>); Nivel dos (pilar)",
+        "dos"
+      ]
+    }
   },
   {
     "id": "dragons-simulacrum",
@@ -34328,7 +35228,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "rite_type": "Rito de <a href=\"/werewolf/backgrounds/renombre\">Renombre</a>"
+    }
   },
   {
     "id": "singing-back-the-dead",
@@ -36206,7 +37109,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "variante_de": "Rito del <a href=\"/werewolf/backgrounds/totem\">Tótem</a>"
+    }
   },
   {
     "id": "rite-of-the-pain-dagger",
@@ -37943,7 +38849,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "note": "Mecánicamente idéntico al Rito del <a href=\"/werewolf/backgrounds/totem\">Tótem</a>; la fuente no especifica un nivel numérico."
+    }
   },
   {
     "id": "ananasa",
@@ -38029,7 +38938,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Roehuesos <a href=\"/werewolf/gifts/desperate-strength\">Fuerza Desesperada</a>"
+    }
   },
   {
     "id": "apis-beast-speech",
@@ -38315,7 +39227,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Garou Metis <a href=\"/werewolf/gifts/sense-silver\">Sentir Plata</a> (variante: detecta plata y oro)"
+    }
   },
   {
     "id": "apis-signs-of-sun-and-moon",
@@ -38512,7 +39427,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de la Camada de <a href=\"/werewolf/totems/fenris\">Fenris</a>"
+    }
   },
   {
     "id": "apis-find-the-blood",
@@ -38775,7 +39693,10 @@
       "reason": "El extractor PDF desordenó el texto de este Don (descripción separada de su encabezado); reconstruido a partir de los fragmentos adyacentes. Verificar contra la fuente."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don Lupus <a href=\"/werewolf/gifts/scent-of-sight\">Olor de la Vista</a> (usando el sonido en lugar del olor)"
+    }
   },
   {
     "id": "camazotz-world-sense",
@@ -39044,7 +39965,10 @@
       "reason": "El extractor PDF desordenó la entrada ('- Como el Don' precede a 'Alas como Cuchillas (Nivel dos): genérico de los Corax Plumas como Cuchillas.'); reconstruida. Verificar contra la fuente."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don genérico de los <a href=\"/werewolf/changing-breeds/corax\">Corax</a> <a href=\"/werewolf/gifts/feathers-like-blades\">Plumas como Cuchillas</a>"
+    }
   },
   {
     "id": "camazotz-under-the-sun",
@@ -39340,7 +40264,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los <a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
+    }
   },
   {
     "id": "camazotz-blood-feast",
@@ -39369,7 +40296,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los <a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>"
+    }
   },
   {
     "id": "camazotz-invisibility",
@@ -39398,7 +40328,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los <a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
+    }
   },
   {
     "id": "camazotz-night-messengers",
@@ -40388,7 +41321,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "raza": "Bardos <a href=\"/werewolf/changing-breeds/ratkin\">Ratkin</a>",
+      "reference": "Como el Don de los Ragabash <a href=\"/werewolf/gifts/contagious-laughter\">Risa Contagiosa</a>"
+    }
   },
   {
     "id": "ratkin-bard-mindspeak",
@@ -40418,7 +41355,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "raza": "Bardos <a href=\"/werewolf/changing-breeds/ratkin\">Ratkin</a>"
+    }
   },
   {
     "id": "ratkin-bard-persuasion",
@@ -40448,7 +41388,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "raza": "Bardos <a href=\"/werewolf/changing-breeds/ratkin\">Ratkin</a>"
+    }
   },
   {
     "id": "ratkin-bard-quiet",
@@ -40478,7 +41421,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "raza": "Bardos <a href=\"/werewolf/changing-breeds/ratkin\">Ratkin</a>",
+      "reference": "Como el Don Philodox <a href=\"/werewolf/gifts/command-the-gathering\">Liderar la Reunión</a>"
+    }
   },
   {
     "id": "ratkin-bard-speech-of-the-world",
@@ -40508,7 +41455,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "raza": "Bardos <a href=\"/werewolf/changing-breeds/ratkin\">Ratkin</a>"
+    }
   },
   {
     "id": "ratkin-bard-lucky-bastard",
@@ -40538,7 +41488,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "raza": "Bardos <a href=\"/werewolf/changing-breeds/ratkin\">Ratkin</a>",
+      "reference": "Como el Don de los Fianna <a href=\"/werewolf/gifts/good-fortune\">Buena Fortuna</a>"
+    }
   },
   {
     "id": "ratkin-bard-whispered-dreams",
@@ -40568,7 +41522,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "raza": "Bardos <a href=\"/werewolf/changing-breeds/ratkin\">Ratkin</a>",
+      "reference": "Como el Don de los Fianna <a href=\"/werewolf/gifts/phantasmagoria\">Fantasmagoría</a>"
+    }
   },
   {
     "id": "ratkin-bard-legendary-form",
@@ -40596,7 +41554,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "raza": "Bardos <a href=\"/werewolf/changing-breeds/ratkin\">Ratkin</a>"
+    }
   },
   {
     "id": "rite-of-one-blood",
@@ -40832,7 +41793,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los Galliard: <a href=\"/werewolf/gifts/beast-speech\">Lenguaje de las Bestias</a>."
+    }
   },
   {
     "id": "jaws-of-fury",
@@ -40864,7 +41828,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "teaching_spirits": "un espíritu <a href=\"/werewolf/totems/raven\">cuervo</a> y un espíritu hiena"
+    }
   },
   {
     "id": "bosom-of-the-river",
@@ -40894,7 +41861,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "roll": "Astucia + <a href=\"/werewolf/gifts/survival\">Supervivencia</a> (dificultad 6)"
+    }
   },
   {
     "id": "impenetrable-veil",
@@ -40982,7 +41952,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de la Camada de <a href=\"/werewolf/totems/fenris\">Fenris</a>."
+    }
   },
   {
     "id": "shadows-hide-fangs",
@@ -41127,7 +42100,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "reference": "Como el Don de los Garras Rojas: <a href=\"/werewolf/gifts/gorge\">Atiborrarse</a>."
+    }
   },
   {
     "id": "nuptials-of-sun-and-moon",
@@ -41156,7 +42132,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "effect": "Durante el resto de la escena, la vulnerabilidad a la plata pasa al oro y viceversa; no funciona con quienes son vulnerables a ambos (p. ej. <a href=\"/werewolf/changing-breeds/mokole\">Mokolé</a>)."
+    }
   },
   {
     "id": "unity-of-all-beasts",
@@ -41186,7 +42165,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "effect": "Ofrece uno de los Dones del personaje al <a href=\"/werewolf/backgrounds/totem\">Tótem</a> de la kganmadi como &#x27;Don adicional&#x27; usable por un compañero a la vez.",
+      "teaching_spirits": "un espíritu león y un espíritu <a href=\"/werewolf/totems/raven\">cuervo</a>"
+    }
   },
   {
     "id": "spider-escape",
@@ -42581,7 +43564,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-general-primal-anger",
@@ -42610,7 +43596,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-general-feral-grimace",
@@ -42639,7 +43628,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-general-eye-of-the-hunter",
@@ -42668,7 +43660,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-general-infectious-laughter",
@@ -42697,7 +43692,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-general-sense-prey",
@@ -42726,7 +43724,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-general-odious-aroma",
@@ -42755,7 +43756,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-general-sex-change",
@@ -42784,7 +43788,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-general-curse-of-hatred",
@@ -42813,7 +43820,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-general-crushing-jaws",
@@ -42842,7 +43852,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-general-pulse-of-the-prey",
@@ -42871,7 +43884,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-general-laughter-of-the-soul",
@@ -42900,7 +43916,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-general-gift-of-the-skunk",
@@ -42929,7 +43948,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-general-clenched-jaw",
@@ -42958,7 +43980,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-general-laughter-of-the-hyena",
@@ -42987,7 +44012,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-general-gorge",
@@ -43016,7 +44044,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-general-gnaw",
@@ -43045,7 +44076,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-general-cull-the-weak",
@@ -43074,7 +44108,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-general-strength-of-kilimanjaro",
@@ -43103,7 +44140,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-general-withering-stare",
@@ -43132,7 +44172,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-general-survivor",
@@ -43161,7 +44204,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dawn-razor-claws",
@@ -43190,7 +44236,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dawn-final-strike",
@@ -43219,7 +44268,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dawn-lightning-reflexes",
@@ -43248,7 +44300,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dawn-resist-pain",
@@ -43277,7 +44332,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dawn-heart-drum-rhythm",
@@ -43306,7 +44364,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dawn-sense-wyrm",
@@ -43335,7 +44396,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dawn-pack-tactics",
@@ -43364,7 +44428,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dawn-command-spirit",
@@ -43393,7 +44460,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dawn-dance-with-the-dawn",
@@ -43422,7 +44492,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dawn-teeth-of-the-dawn",
@@ -43451,7 +44524,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dawn-shield-of-rage",
@@ -43480,7 +44556,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dawn-spirit-of-the-fray",
@@ -43509,7 +44588,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dawn-bloody-feast",
@@ -43538,7 +44620,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dawn-silver-jaws",
@@ -43567,7 +44652,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dawn-redirect-pain",
@@ -43596,7 +44684,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dawn-sense-the-unnatural",
@@ -43625,7 +44716,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dawn-grasp-the-beyond",
@@ -43654,7 +44748,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dawn-stoke-furys-furnace",
@@ -43683,7 +44780,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dawn-battle-fury-focus",
@@ -43712,7 +44812,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dawn-strength-of-will",
@@ -43741,7 +44844,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dawn-bonecrusher",
@@ -43770,7 +44876,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-midnight-sear-the-sight",
@@ -43799,7 +44908,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-midnight-mindspeak",
@@ -43828,7 +44940,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-midnight-tears-of-the-heavens",
@@ -43857,7 +44972,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-midnight-beast-speech",
@@ -43886,7 +45004,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-midnight-persuasion",
@@ -43915,7 +45036,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-midnight-perfect-recall",
@@ -43944,7 +45068,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-midnight-mothers-touch",
@@ -43973,7 +45100,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-midnight-bless-the-rains",
@@ -44002,7 +45132,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-midnight-distractions",
@@ -44031,7 +45164,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-midnight-dreamspeak",
@@ -44060,7 +45196,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-midnight-scavenge",
@@ -44089,7 +45228,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-midnight-shadows-of-the-serengeti",
@@ -44118,7 +45260,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-midnight-song-of-heroes",
@@ -44147,7 +45292,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-midnight-exorcism",
@@ -44176,7 +45324,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-midnight-call-the-eshu",
@@ -44205,7 +45356,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-midnight-wisdom-of-the-ancient-ways",
@@ -44234,7 +45388,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-midnight-phantasm",
@@ -44263,7 +45420,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-midnight-bitter-tears",
@@ -44292,7 +45452,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-midnight-gift-of-dreams",
@@ -44321,7 +45484,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-midnight-rain-of-doom",
@@ -44350,7 +45516,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-midnight-mindweave",
@@ -44379,7 +45548,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dusk-open-seal",
@@ -44408,7 +45580,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dusk-laughter-in-the-night",
@@ -44437,7 +45612,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dusk-fatal-flaw",
@@ -44466,7 +45644,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dusk-spirit-speech",
@@ -44495,7 +45676,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dusk-clouded-eye",
@@ -44524,7 +45708,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dusk-scent-of-running-water",
@@ -44553,7 +45740,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dusk-whispers-in-the-grass",
@@ -44582,7 +45772,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dusk-spirit-snare",
@@ -44611,7 +45804,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dusk-lunas-armor",
@@ -44640,7 +45836,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dusk-blissful-ignorance",
@@ -44672,7 +45871,10 @@
       "reason": "Orden del texto alterado por la extracción del PDF (etiqueta/nombre y descripción intercalados); cuerpo reconstruido a partir de los fragmentos de la fuente."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dusk-ambush",
@@ -44701,7 +45903,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dusk-take-the-forgotten",
@@ -44733,7 +45938,10 @@
       "reason": "Orden del texto alterado por la extracción del PDF (etiqueta/nombre y descripción intercalados); cuerpo reconstruido a partir de los fragmentos de la fuente."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dusk-sight-from-beyond",
@@ -44762,7 +45970,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dusk-umbral-strike",
@@ -44794,7 +46005,10 @@
       "reason": "Orden del texto alterado por la extracción del PDF (etiqueta/nombre y descripción intercalados); cuerpo reconstruido a partir de los fragmentos de la fuente."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dusk-paralyzing-stare",
@@ -44823,7 +46037,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dusk-pulse-of-the-invisible",
@@ -44855,7 +46072,10 @@
       "reason": "Orden del texto alterado por la extracción del PDF (etiqueta/nombre y descripción intercalados); cuerpo reconstruido a partir de los fragmentos de la fuente."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dusk-smoke-step",
@@ -44884,7 +46104,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dusk-open-wounds",
@@ -44913,7 +46136,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dusk-become-the-night-jester",
@@ -44942,7 +46168,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dusk-echoes-of-asamando",
@@ -44971,7 +46200,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dusk-reach-the-umbra",
@@ -45000,7 +46232,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-dusk-shadow-pack",
@@ -45029,7 +46264,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-rite-song-of-home",
@@ -45058,7 +46296,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-fetish-travel-guide",
@@ -45086,7 +46327,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "ajaba-fetish-mirror-of-vanity",
@@ -45114,7 +46358,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "queen-ananasa",
@@ -45142,7 +46389,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "cost": "8 puntos (para Óvidos favorecidos; gratuito para los <a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>)",
+      "ban": "seguir las Leyes de <a href=\"/werewolf/totems/ananasa\">Ananasa</a>; no favorece ni sigue a manadas"
+    }
   },
   {
     "id": "ananasi-general-grasp",
@@ -45171,7 +46422,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-general-balance",
@@ -45200,7 +46454,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-general-stolen-moments",
@@ -45229,7 +46486,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-general-many-eyes",
@@ -45258,7 +46518,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-general-resist-pain",
@@ -45287,7 +46550,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-general-resist-toxin",
@@ -45316,7 +46582,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-general-fangs-at-hand",
@@ -45345,7 +46614,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-general-human-spider-form",
@@ -45374,7 +46646,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-general-quills",
@@ -45403,7 +46678,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-general-replenish-the-flesh",
@@ -45432,7 +46710,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-general-pump-blood",
@@ -45461,7 +46742,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-general-spiders-grace",
@@ -45490,7 +46774,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-general-leap",
@@ -45519,7 +46806,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-general-hydraulic-strength",
@@ -45548,7 +46838,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-general-entropic-bite",
@@ -45577,7 +46870,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-general-carapace",
@@ -45606,7 +46902,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-general-survivor",
@@ -45635,7 +46934,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-tenere-preen",
@@ -45664,7 +46966,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-tenere-ananasas-patience",
@@ -45693,7 +46998,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-tenere-ananasas-breath",
@@ -45725,7 +47033,10 @@
       "reason": "La extracción del PDF desplazó la etiqueta 'Sistema:' y partió la frase de la tirada; el cuerpo se reconstruyó uniendo los fragmentos de la fuente (descripción + sistema)."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-tenere-unnoticed",
@@ -45754,7 +47065,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-tenere-mothers-gaze",
@@ -45783,7 +47097,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-tenere-reshape-object",
@@ -45812,7 +47129,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-tenere-cloak-of-webs",
@@ -45841,7 +47161,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-tenere-understand-the-tapestry",
@@ -45873,7 +47196,10 @@
       "reason": "La extracción del PDF intercaló el nombre/nivel dentro de la descripción y desplazó la etiqueta 'Sistema:'; el cuerpo se reconstruyó a partir de los fragmentos de la fuente."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-tenere-spiders-thieving-touch",
@@ -45905,7 +47231,10 @@
       "reason": "Orden del texto alterado por la extracción del PDF (etiqueta/nombre y descripción intercalados); cuerpo reconstruido a partir de los fragmentos de la fuente."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-hatar-affinity-with-wyrm-spirits",
@@ -45934,7 +47263,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-hatar-blood-of-pain",
@@ -45966,7 +47298,10 @@
       "reason": "Orden del texto alterado por la extracción del PDF (etiqueta/nombre y descripción intercalados); cuerpo reconstruido a partir de los fragmentos de la fuente."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-hatar-call-of-the-wyrm",
@@ -45995,7 +47330,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-hatar-blood-of-illusion",
@@ -46024,7 +47362,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-hatar-corrupt",
@@ -46053,7 +47394,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-hatar-pulse-of-the-invisible",
@@ -46082,7 +47426,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-hatar-still-blood",
@@ -46111,7 +47458,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-hatar-sickening-winds",
@@ -46140,7 +47490,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-hatar-burning-blood",
@@ -46169,7 +47522,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-kumoti-inspire",
@@ -46198,7 +47554,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-kumoti-mothers-touch",
@@ -46227,7 +47586,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-kumoti-arachnophobia",
@@ -46256,7 +47618,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-kumoti-mothers-insight",
@@ -46285,7 +47650,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-kumoti-alter-lilian",
@@ -46314,7 +47682,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-kumoti-sense-movement",
@@ -46343,7 +47714,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-kumoti-mind-block",
@@ -46372,7 +47746,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-kumoti-beast-nature",
@@ -46401,7 +47778,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-kumoti-assimilation",
@@ -46430,7 +47810,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-myrmidon-open-seal",
@@ -46459,7 +47842,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-myrmidon-illusion-of-size",
@@ -46488,7 +47874,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-myrmidon-hydraulic-strength",
@@ -46517,7 +47906,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-myrmidon-true-fear",
@@ -46546,7 +47938,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-myrmidon-weak-arm",
@@ -46575,7 +47970,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-myrmidon-scorpion-tail",
@@ -46604,7 +48002,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-myrmidon-blood-hunt",
@@ -46633,7 +48034,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-myrmidon-desiccating-bite",
@@ -46662,7 +48066,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-myrmidon-image-of-the-great-mother",
@@ -46691,7 +48098,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-viskr-curse-of-the-great-web",
@@ -46720,7 +48130,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-viskr-shroud",
@@ -46752,7 +48165,10 @@
       "reason": "Orden del texto alterado por la extracción del PDF (etiqueta/nombre y descripción intercalados); cuerpo reconstruido a partir de los fragmentos de la fuente."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-viskr-minor-unweaving",
@@ -46781,7 +48197,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-viskr-mindspeak",
@@ -46810,7 +48229,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-viskr-calcify",
@@ -46839,7 +48261,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-viskr-cocoon",
@@ -46868,7 +48293,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-viskr-call-of-brethren",
@@ -46897,7 +48325,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-viskr-attunement",
@@ -46926,7 +48357,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "ananasi-viskr-shatter",
@@ -46955,6 +48389,9 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   }
 ]

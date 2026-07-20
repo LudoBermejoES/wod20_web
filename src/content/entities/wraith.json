@@ -294,7 +294,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "Sistema de <a href=\"/wraith/dark-arcanos/osseum\">Osseum</a>"
+    }
   },
   {
     "id": "cegar-de-iniciado",
@@ -321,7 +324,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "Sistema de <a href=\"/wraith/dark-arcanos/osseum\">Osseum</a>"
+    }
   },
   {
     "id": "sombra-de-coriolis-comun",
@@ -348,7 +354,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "Sistema de <a href=\"/wraith/dark-arcanos/osseum\">Osseum</a>"
+    }
   },
   {
     "id": "manto-oseo-de-iniciado",
@@ -375,7 +384,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "Sistema de <a href=\"/wraith/dark-arcanos/osseum\">Osseum</a>"
+    }
   },
   {
     "id": "arsenal-oseo-comun",
@@ -402,7 +414,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "Sistema de <a href=\"/wraith/dark-arcanos/osseum\">Osseum</a>"
+    }
   },
   {
     "id": "sumidero-de-iniciado",
@@ -429,7 +444,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "Sistema de <a href=\"/wraith/dark-arcanos/osseum\">Osseum</a>"
+    }
   },
   {
     "id": "ciudadela-osea-comun",
@@ -456,7 +474,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "Sistema de <a href=\"/wraith/dark-arcanos/osseum\">Osseum</a>"
+    }
   },
   {
     "id": "cenizas-a-las-cenizas-de-iniciado",
@@ -483,7 +504,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "Sistema de <a href=\"/wraith/dark-arcanos/osseum\">Osseum</a>"
+    }
   },
   {
     "id": "rey-mendigo-comun",
@@ -510,7 +534,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "Sistema de <a href=\"/wraith/dark-arcanos/osseum\">Osseum</a>"
+    }
   },
   {
     "id": "polvo-al-polvo-de-iniciado",
@@ -537,7 +564,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "Sistema de <a href=\"/wraith/dark-arcanos/osseum\">Osseum</a>"
+    }
   },
   {
     "id": "les-yeux-du-chasseur-comun",
@@ -564,7 +594,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/connaissance\">Connaissance</a> sistemas de <a href=\"/wraith/dark-arcanos/connaissance\">Connaissance</a>"
+    }
   },
   {
     "id": "reler-baka-de-iniciado",
@@ -913,7 +946,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "artifact_level": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de nivel 1"
+    }
   },
   {
     "id": "disarticulation-armor",
@@ -948,7 +984,15 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "artifact_level": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de nivel 4",
+      "poderes": [
+        "Desensamblar para siempre al wraith atrapado (Salvaje, Moliar ·····)",
+        "Implantar Angustia permanente (<a href=\"/wraith/arcanos-powers/conversion\">Conversión</a>, Maleficencia ·····)"
+      ],
+      "creacion": "Si el herrero no tiene las Artes: recolectar 15 puntos de Pathos o Corpus de un maestro de las <a href=\"/wraith/artifacts/mascaras\">Máscaras</a> y 15 puntos de Angustia o Corpus de un practicante avanzado de Maleficencia; imbuir requiere 20 éxitos en una tirada extendida de Inteligencia + Artesanía."
+    }
   },
   {
     "id": "pulse-rifle",
@@ -985,7 +1029,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "artifact_level": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de nivel 5"
+    }
   },
   {
     "id": "st-elmos-fire-lantern",
@@ -1014,7 +1061,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "clase": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a>",
+      "rating_source": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de nivel 1"
+    }
   },
   {
     "id": "ferrymans-oar",
@@ -1044,7 +1095,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "clase": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a>",
+      "rating_source": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de nivel 1"
+    }
   },
   {
     "id": "vasa-diving-bell",
@@ -1378,7 +1433,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/osseum\">Osseum</a>",
+      "roll": "Percepción + <a href=\"/wraith/dark-arcanos/osseum\">Osseum</a> a dificultad 8"
+    }
   },
   {
     "id": "blind",
@@ -1418,7 +1477,11 @@
         "type": "cross-line",
         "via": "id:blind"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/osseum\">Osseum</a>",
+      "roll": "Resistencia + <a href=\"/wraith/dark-arcanos/osseum\">Osseum</a> a dificultad 8"
+    }
   },
   {
     "id": "coriolis-shadow",
@@ -1450,7 +1513,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/osseum\">Osseum</a>",
+      "roll": "Astucia + <a href=\"/wraith/dark-arcanos/osseum\">Osseum</a> a dificultad 7"
+    }
   },
   {
     "id": "bone-mantle",
@@ -1482,7 +1549,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/osseum\">Osseum</a>",
+      "roll": "Resistencia + <a href=\"/wraith/dark-arcanos/osseum\">Osseum</a> a dificultad 8"
+    }
   },
   {
     "id": "bone-arsenal",
@@ -1517,7 +1588,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/osseum\">Osseum</a>",
+      "roll": "Resistencia + <a href=\"/wraith/dark-arcanos/osseum\">Osseum</a> a dificultad 6 (una tirada por arma o armadura)"
+    }
   },
   {
     "id": "sinkhole",
@@ -1549,7 +1624,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/osseum\">Osseum</a>"
+    }
   },
   {
     "id": "bone-citadel",
@@ -1582,7 +1660,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/osseum\">Osseum</a>",
+      "roll": "Resistencia + <a href=\"/wraith/dark-arcanos/osseum\">Osseum</a> a dificultad 8"
+    }
   },
   {
     "id": "ashes-to-ashes",
@@ -1616,7 +1698,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/osseum\">Osseum</a>",
+      "roll": "Resistencia + <a href=\"/wraith/dark-arcanos/osseum\">Osseum</a> a dificultad 6"
+    }
   },
   {
     "id": "beggar-king",
@@ -1649,7 +1735,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/osseum\">Osseum</a>",
+      "roll": "Resistencia + <a href=\"/wraith/dark-arcanos/osseum\">Osseum</a> a dificultad 8"
+    }
   },
   {
     "id": "dust-to-dust",
@@ -1682,7 +1772,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/osseum\">Osseum</a>",
+      "roll": "Astucia + <a href=\"/wraith/dark-arcanos/osseum\">Osseum</a> a dificultad 6"
+    }
   },
   {
     "id": "eagle-two",
@@ -1860,7 +1954,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/connaissance\">Connaissance</a>",
+      "tirada": "Astucia + <a href=\"/wraith/dark-arcanos/connaissance\">Connaissance</a> a dificultad 8"
+    }
   },
   {
     "id": "reler-baka",
@@ -1894,7 +1992,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/connaissance\">Connaissance</a>",
+      "tirada": "Manipulación + <a href=\"/wraith/dark-arcanos/connaissance\">Connaissance</a> a dificultad 6"
+    }
   },
   {
     "id": "la-langue",
@@ -1932,7 +2034,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/connaissance\">Connaissance</a>",
+      "tirada": "Astucia + <a href=\"/wraith/dark-arcanos/connaissance\">Connaissance</a> a dificultad 8"
+    }
   },
   {
     "id": "renvoyer-baka",
@@ -1966,7 +2072,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/connaissance\">Connaissance</a>",
+      "tirada": "Manipulación + <a href=\"/wraith/dark-arcanos/connaissance\">Connaissance</a> a dificultad 8"
+    }
   },
   {
     "id": "renforcer-les-chevaux",
@@ -2000,7 +2110,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/connaissance\">Connaissance</a>",
+      "tirada": "Manipulación + <a href=\"/wraith/dark-arcanos/connaissance\">Connaissance</a> a dificultad 8 (menos 1 si Cabalga la Piel del mortal o durante una ceremonia)"
+    }
   },
   {
     "id": "engagement",
@@ -2033,7 +2147,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/connaissance\">Connaissance</a>",
+      "tirada": "Manipulación + <a href=\"/wraith/dark-arcanos/connaissance\">Connaissance</a> a dificultad 5 + el número de objetivos (máximo 5 objetivos)"
+    }
   },
   {
     "id": "retirer-den-bas-de-leau",
@@ -2069,7 +2187,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/connaissance\">Connaissance</a>",
+      "tirada": "Astucia + <a href=\"/wraith/dark-arcanos/connaissance\">Connaissance</a> a dificultad 7"
+    }
   },
   {
     "id": "reler-mystere",
@@ -2104,7 +2226,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/connaissance\">Connaissance</a>",
+      "tirada": "Astucia + <a href=\"/wraith/dark-arcanos/connaissance\">Connaissance</a> a dificultad 8"
+    }
   },
   {
     "id": "bonte-abyssale",
@@ -2139,7 +2265,12 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/connaissance\">Connaissance</a>",
+      "tirada": "Astucia + <a href=\"/wraith/dark-arcanos/connaissance\">Connaissance</a> a dificultad 8",
+      "coste": "1 punto de Pathos y 1 de Fuerza de Voluntad temporal por nivel de la Reliquia o <a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> deseado"
+    }
   },
   {
     "id": "marrer-baka",
@@ -2174,7 +2305,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/connaissance\">Connaissance</a>",
+      "tirada": "Manipulación + <a href=\"/wraith/dark-arcanos/connaissance\">Connaissance</a> contra el Pathos del objetivo (tirada enfrentada)"
+    }
   },
   {
     "id": "scent-of-life",
@@ -7677,7 +7812,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/contaminate\">contaminar</a>"
+    }
   },
   {
     "id": "hablar-con-la-sombra",
@@ -7704,7 +7842,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/contaminate\">contaminar</a>"
+    }
   },
   {
     "id": "transferir-angustia",
@@ -7731,7 +7872,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/contaminate\">contaminar</a>"
+    }
   },
   {
     "id": "despertar-espinas",
@@ -7758,7 +7902,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/contaminate\">contaminar</a>"
+    }
   },
   {
     "id": "invocar-a-la-sombra",
@@ -7785,7 +7932,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/contaminate\">contaminar</a>"
+    }
   },
   {
     "id": "visiones-espantosas",
@@ -8190,7 +8340,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/rend-the-shroud\">rasgar el Manto</a>"
+    }
   },
   {
     "id": "presencia-acechante",
@@ -8217,7 +8370,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/rend-the-shroud\">rasgar el Manto</a>"
+    }
   },
   {
     "id": "pesadilla",
@@ -8244,7 +8400,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/rend-the-shroud\">rasgar el Manto</a>"
+    }
   },
   {
     "id": "aparecido-del-manto",
@@ -8271,7 +8430,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/rend-the-shroud\">rasgar el Manto</a>"
+    }
   },
   {
     "id": "recuerdos-transparentes",
@@ -8298,7 +8460,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/rend-the-shroud\">rasgar el Manto</a>"
+    }
   },
   {
     "id": "agujero-de-gusano",
@@ -8325,7 +8490,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/weave-the-tempest\">Tejer la Tempestad</a>"
+    }
   },
   {
     "id": "cabalgar-la-tempestad",
@@ -8360,7 +8528,10 @@
         "type": "cross-line",
         "via": "id:cabalgar-la-tempestad"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/weave-the-tempest\">Tejer la Tempestad</a>"
+    }
   },
   {
     "id": "echar-mano-a-la-tempestad",
@@ -8387,7 +8558,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/weave-the-tempest\">Tejer la Tempestad</a>"
+    }
   },
   {
     "id": "desechos-propicios",
@@ -8414,7 +8588,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/weave-the-tempest\">Tejer la Tempestad</a>"
+    }
   },
   {
     "id": "tallar-el-caos",
@@ -8441,7 +8618,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/weave-the-tempest\">Tejer la Tempestad</a>"
+    }
   },
   {
     "id": "buscador-de-la-tormenta",
@@ -9143,7 +9323,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/path-of-the-farmer\">senda del Granjero</a>"
+    }
   },
   {
     "id": "acobardar-al-espiritu-bestial",
@@ -9170,7 +9353,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/path-of-the-farmer\">senda del Granjero</a>"
+    }
   },
   {
     "id": "purificar",
@@ -9197,7 +9383,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/path-of-the-farmer\">senda del Granjero</a>"
+    }
   },
   {
     "id": "aplacar-espiritu",
@@ -9224,7 +9413,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/path-of-the-farmer\">senda del Granjero</a>"
+    }
   },
   {
     "id": "segar-al-fantasma-hambriento",
@@ -9251,7 +9443,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/path-of-the-farmer\">senda del Granjero</a>"
+    }
   },
   {
     "id": "transferir",
@@ -9548,7 +9743,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/chains-of-the-emperor\">cadenas del Emperador</a>"
+    }
   },
   {
     "id": "esposas",
@@ -9575,7 +9773,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/chains-of-the-emperor\">cadenas del Emperador</a>"
+    }
   },
   {
     "id": "celada",
@@ -9602,7 +9803,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/chains-of-the-emperor\">cadenas del Emperador</a>"
+    }
   },
   {
     "id": "lazo",
@@ -9629,7 +9833,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/chains-of-the-emperor\">cadenas del Emperador</a>"
+    }
   },
   {
     "id": "red",
@@ -9656,7 +9863,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/chains-of-the-emperor\">cadenas del Emperador</a>"
+    }
   },
   {
     "id": "evadir",
@@ -9683,7 +9893,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/chains-of-the-emperor\">cadenas del Emperador</a>"
+    }
   },
   {
     "id": "transfusion",
@@ -9710,7 +9923,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/chains-of-the-emperor\">cadenas del Emperador</a>"
+    }
   },
   {
     "id": "reconfigurar",
@@ -9737,7 +9953,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/chains-of-the-emperor\">cadenas del Emperador</a>"
+    }
   },
   {
     "id": "transformar",
@@ -9764,7 +9983,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/chains-of-the-emperor\">cadenas del Emperador</a>"
+    }
   },
   {
     "id": "rastrear",
@@ -9791,7 +10013,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/chains-of-the-emperor\">cadenas del Emperador</a>"
+    }
   },
   {
     "id": "hurgar",
@@ -10564,7 +10789,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "bonificacion": "+2 en tiradas de Fuerza de Voluntad y 1 punto de Pathos a los <a href=\"/wraith/backgrounds/allies\">aliados</a> mientras ondea"
+    }
   },
   {
     "id": "sweeneys-pride",
@@ -10648,7 +10876,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a>",
+      "nivel_es": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de nivel 1"
+    }
   },
   {
     "id": "masks",
@@ -10675,7 +10907,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a>",
+      "nivel_es": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de nivel 1"
+    }
   },
   {
     "id": "star-of-the-east",
@@ -10705,7 +10941,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a>",
+      "nivel_es": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de nivel 2"
+    }
   },
   {
     "id": "soulfire-lantern",
@@ -10737,7 +10977,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a>",
+      "nivel_es": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de nivel 2"
+    }
   },
   {
     "id": "soulfire-mask",
@@ -10769,7 +11013,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a>",
+      "nivel_es": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de nivel 2"
+    }
   },
   {
     "id": "instant-nihil",
@@ -10798,7 +11046,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a>",
+      "nivel_es": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de nivel 2"
+    }
   },
   {
     "id": "red-eyes",
@@ -10829,7 +11081,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a>",
+      "nivel_es": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de nivel 2"
+    }
   },
   {
     "id": "hacks-quill",
@@ -10859,7 +11115,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a>",
+      "nivel_es": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de nivel 2"
+    }
   },
   {
     "id": "stygian-steel-armor",
@@ -10888,7 +11148,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a>",
+      "nivel_es": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de nivel 3"
+    }
   },
   {
     "id": "soul-candelabra",
@@ -10919,7 +11183,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a>",
+      "nivel_es": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de nivel 3"
+    }
   },
   {
     "id": "emap",
@@ -10947,7 +11215,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a>",
+      "nivel_es": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de nivel 3"
+    }
   },
   {
     "id": "stygian-deadflies",
@@ -10981,7 +11253,12 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a>",
+      "nivel_es": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de nivel 3",
+      "variante_rara": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de nivel 4: puede teleportarse de vuelta a su dueño"
+    }
   },
   {
     "id": "living-chains",
@@ -11016,7 +11293,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a>",
+      "nivel_es": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de nivel 4"
+    }
   },
   {
     "id": "fetterkeep",
@@ -11046,7 +11327,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a>",
+      "nivel_es": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de nivel 5"
+    }
   },
   {
     "id": "soulfire-and-soul-weapons",
@@ -11078,7 +11363,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a>",
+      "nivel_es": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de nivel variable"
+    }
   },
   {
     "id": "beast-hide",
@@ -11108,7 +11397,12 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de piel",
+      "nivel_es": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de piel de nivel 1",
+      "mantenimiento_artefacto_de_piel": "2 puntos de Pathos al día para mantener el <a href=\"/wraith/backgrounds/status\">estatus</a> activo; reactivar requiere un día y 4 puntos de Pathos; cualquier fracaso al usarlo otorga 1 punto de Angustia temporal"
+    }
   },
   {
     "id": "bloodnets",
@@ -11142,7 +11436,12 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de piel",
+      "nivel_es": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de piel de nivel 2",
+      "mantenimiento_artefacto_de_piel": "2 puntos de Pathos al día para mantener el <a href=\"/wraith/backgrounds/status\">estatus</a> activo; reactivar requiere un día y 4 puntos de Pathos; cualquier fracaso al usarlo otorga 1 punto de Angustia temporal"
+    }
   },
   {
     "id": "mantleripper-gloves",
@@ -11173,7 +11472,12 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de piel",
+      "nivel_es": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de piel de nivel 3",
+      "mantenimiento_artefacto_de_piel": "2 puntos de Pathos al día para mantener el <a href=\"/wraith/backgrounds/status\">estatus</a> activo; reactivar requiere un día y 4 puntos de Pathos; cualquier fracaso al usarlo otorga 1 punto de Angustia temporal"
+    }
   },
   {
     "id": "moaning-tongue",
@@ -11202,7 +11506,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de piel",
+      "nivel_es": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de piel de nivel 4"
+    }
   },
   {
     "id": "guardian-orb",
@@ -11232,7 +11540,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de piel",
+      "nivel_es": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> de piel de nivel 5"
+    }
   },
   {
     "id": "false-bait",
@@ -11261,7 +11573,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> espectral",
+      "nivel_es": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> espectral de nivel 1"
+    }
   },
   {
     "id": "luckys-mister-bunny",
@@ -11319,7 +11635,12 @@
         "variant": "base"
       }
     ],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> espectral",
+      "nivel_es": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> espectral de nivel 3",
+      "beneficio": "-3 a la dificultad en todas las tiradas de <a href=\"/wraith/arcanos-powers/echar-mano-a-la-tempestad\">Echar Mano a la Tempestad</a>"
+    }
   },
   {
     "id": "larva-revolver",
@@ -11356,7 +11677,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "eliminar_larvas": "Moliar o escarbar tras ellas (hiere a la víctima); o Castigar 3 (<a href=\"/wraith/arcanos-powers/purificar\">Purificar</a>), matando una larva por cada éxito sin causar más daño"
+    }
   },
   {
     "id": "bean-nighes-caul",
@@ -11390,7 +11714,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "categoria": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> espectral",
+      "nivel_es": "<a href=\"/wraith/backgrounds/artefacto\">Artefacto</a> espectral de nivel 5"
+    }
   },
   {
     "id": "chains-of-the-emperor",
@@ -11774,7 +12102,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/path-of-the-farmer\">Senda del Granjero</a>",
+      "path": "<a href=\"/wraith/dark-arcanos/path-of-the-farmer\">Senda del Granjero</a>"
+    }
   },
   {
     "id": "cow-the-bestial-spirit",
@@ -11804,7 +12136,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/path-of-the-farmer\">Senda del Granjero</a>",
+      "path": "<a href=\"/wraith/dark-arcanos/path-of-the-farmer\">Senda del Granjero</a>"
+    }
   },
   {
     "id": "purify",
@@ -11834,7 +12170,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/path-of-the-farmer\">Senda del Granjero</a>",
+      "path": "<a href=\"/wraith/dark-arcanos/path-of-the-farmer\">Senda del Granjero</a>"
+    }
   },
   {
     "id": "placate-spirit",
@@ -11864,7 +12204,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/path-of-the-farmer\">Senda del Granjero</a>",
+      "path": "<a href=\"/wraith/dark-arcanos/path-of-the-farmer\">Senda del Granjero</a>"
+    }
   },
   {
     "id": "reap-the-hungry-ghost",
@@ -11894,7 +12238,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/path-of-the-farmer\">Senda del Granjero</a>",
+      "path": "<a href=\"/wraith/dark-arcanos/path-of-the-farmer\">Senda del Granjero</a>"
+    }
   },
   {
     "id": "transfer",
@@ -12224,7 +12572,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/chains-of-the-emperor\">Cadenas del Emperador</a>"
+    }
   },
   {
     "id": "manacles",
@@ -12254,7 +12605,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/chains-of-the-emperor\">Cadenas del Emperador</a>"
+    }
   },
   {
     "id": "snare",
@@ -12284,7 +12638,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/chains-of-the-emperor\">Cadenas del Emperador</a>"
+    }
   },
   {
     "id": "lasso",
@@ -12314,7 +12671,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/chains-of-the-emperor\">Cadenas del Emperador</a>"
+    }
   },
   {
     "id": "net",
@@ -12344,7 +12704,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/chains-of-the-emperor\">Cadenas del Emperador</a>"
+    }
   },
   {
     "id": "ride-wraith",
@@ -12412,7 +12775,10 @@
       "reason": "El bloque Sistema de esta Arte quedó bajo una cabecera duplicada 'tvashtriya' en la extracción."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "note": "El párrafo &#x27;Sistema:&#x27; de <a href=\"/wraith/arcanos-powers/evadir\">Evadir</a> aparece en el original bajo una cabecera repetida y errónea &#x27;tvashtriya&#x27;."
+    }
   },
   {
     "id": "transfusion",
@@ -12574,7 +12940,10 @@
       "reason": "La extracción intercambió el contenido de las cabeceras de Instancia: la descripción y Sistema de Hurgar aparecen bajo la cabecera 'Restricciones', y los de Rastrear bajo la cabecera '· Hurgar'. Contenido asignado por el nombre del Arte citado en cada Sistema; anclas conservadas por nombre nominal del Arte."
     },
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "note": "Contenido tomado de la cabecera &#x27;· <a href=\"/wraith/arcanos-powers/hurgar\">Hurgar</a>&#x27; del original (intercambio de cabeceras en la extracción)."
+    }
   },
   {
     "id": "scry",
@@ -12679,7 +13048,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "note": "Requiere haber usado <a href=\"/wraith/arcanos-powers/escrutar\">Escrutar</a> con éxito. Nivel mostrado como &#x27;···&#x27; en el original."
+    }
   },
   {
     "id": "murmur",
@@ -12712,7 +13084,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "note": "Requiere haber usado <a href=\"/wraith/arcanos-powers/escrutar\">Escrutar</a> con éxito. Nivel mostrado como &#x27;····&#x27; en el original."
+    }
   },
   {
     "id": "veer",
@@ -12745,7 +13120,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "note": "Requiere haber usado <a href=\"/wraith/arcanos-powers/escrutar\">Escrutar</a> con éxito. Incluye la tabla compartida de dificultad por objeto de Instancia (referida como &#x27;ver tabla&#x27; por las demás Artes de Instancia)."
+    }
   },
   {
     "id": "leonardos-flying-machine",
@@ -13073,7 +13451,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/contaminate\">Contaminar</a>",
+      "roll": "Inteligencia + <a href=\"/wraith/dark-arcanos/contaminate\">Contaminar</a>"
+    }
   },
   {
     "id": "speak-with-the-shadow",
@@ -13106,7 +13488,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/contaminate\">Contaminar</a>",
+      "roll": "Manipulación + <a href=\"/wraith/dark-arcanos/contaminate\">Contaminar</a> (enfrentada vs. Manipulación + Castigar del objetivo)"
+    }
   },
   {
     "id": "transfer-angst",
@@ -13140,7 +13526,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/contaminate\">Contaminar</a>",
+      "roll": "Resistencia + <a href=\"/wraith/dark-arcanos/contaminate\">Contaminar</a>"
+    }
   },
   {
     "id": "awaken-thorns",
@@ -13173,7 +13563,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/contaminate\">Contaminar</a>",
+      "roll": "Carisma + <a href=\"/wraith/dark-arcanos/contaminate\">Contaminar</a> (enfrentada vs. Astucia + Castigar del objetivo)"
+    }
   },
   {
     "id": "summon-the-shadow",
@@ -13206,7 +13600,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/contaminate\">Contaminar</a>",
+      "roll": "Fuerza + <a href=\"/wraith/dark-arcanos/contaminate\">Contaminar</a>"
+    }
   },
   {
     "id": "frightful-visions",
@@ -13480,7 +13878,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "source_note": "El Arcanos Oscuro Latrocinio de nivel ··· (rango 3) no aparece en este fragmento de origen: los encabezados saltan de «·· <a href=\"/wraith/arcanos-powers/infeccion-emocional\">Infección Emocional</a>» a «···· <a href=\"/wraith/arcanos-powers/resistir-al-olvido\">Resistir al Olvido</a>», por lo que la Arte de rango 3 falta en el Markdown extraído."
+    }
   },
   {
     "id": "defy-oblivion",
@@ -13614,7 +14015,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "requisito": "El mortal debe haber sido previamente infundido con Angustia (<a href=\"/wraith/arcanos-powers/investidura\">Investidura</a>)."
+    }
   },
   {
     "id": "empower",
@@ -13714,7 +14118,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/rend-the-shroud\">Rasgar el Manto</a>",
+      "roll": "Percepción + <a href=\"/wraith/dark-arcanos/rend-the-shroud\">Rasgar el Manto</a>"
+    }
   },
   {
     "id": "lurking-presence",
@@ -13747,7 +14155,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/rend-the-shroud\">Rasgar el Manto</a>",
+      "roll": "Manipulación + <a href=\"/wraith/dark-arcanos/rend-the-shroud\">Rasgar el Manto</a>"
+    }
   },
   {
     "id": "nightmare",
@@ -13781,7 +14193,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/rend-the-shroud\">Rasgar el Manto</a>",
+      "roll": "Destreza + <a href=\"/wraith/dark-arcanos/rend-the-shroud\">Rasgar el Manto</a>"
+    }
   },
   {
     "id": "shroud-apparition",
@@ -13816,7 +14232,12 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/rend-the-shroud\">Rasgar el Manto</a>",
+      "roll": "Manipulación + <a href=\"/wraith/dark-arcanos/rend-the-shroud\">Rasgar el Manto</a>",
+      "duracion": "Tantos turnos como éxitos; cadáver con 5 niveles de Salud (1 por extremidad). El cadáver no puede llevar más de Resistencia + <a href=\"/wraith/dark-arcanos/rend-the-shroud\">Rasgar el Manto</a> días muerto."
+    }
   },
   {
     "id": "transparent-memories",
@@ -13849,7 +14270,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/rend-the-shroud\">Rasgar el Manto</a>",
+      "roll": "Percepción + <a href=\"/wraith/dark-arcanos/rend-the-shroud\">Rasgar el Manto</a>"
+    }
   },
   {
     "id": "wormhole",
@@ -13881,7 +14306,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/weave-the-tempest\">Tejer la Tempestad</a>",
+      "roll": "Resistencia + <a href=\"/wraith/dark-arcanos/weave-the-tempest\">Tejer la Tempestad</a>"
+    }
   },
   {
     "id": "ride-the-tempest",
@@ -13914,7 +14343,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/weave-the-tempest\">Tejer la Tempestad</a>",
+      "roll": "Destreza + <a href=\"/wraith/dark-arcanos/weave-the-tempest\">Tejer la Tempestad</a>"
+    }
   },
   {
     "id": "grasp-the-tempest",
@@ -13945,7 +14378,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/weave-the-tempest\">Tejer la Tempestad</a>",
+      "roll": "Destreza + <a href=\"/wraith/dark-arcanos/weave-the-tempest\">Tejer la Tempestad</a>"
+    }
   },
   {
     "id": "fortuitous-flotsam",
@@ -13976,7 +14413,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/weave-the-tempest\">Tejer la Tempestad</a>",
+      "roll": "Astucia + <a href=\"/wraith/dark-arcanos/weave-the-tempest\">Tejer la Tempestad</a>"
+    }
   },
   {
     "id": "carve-the-chaos",
@@ -14006,7 +14447,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "arcanos": "<a href=\"/wraith/dark-arcanos/weave-the-tempest\">Tejer la Tempestad</a>",
+      "roll": "Inteligencia + <a href=\"/wraith/dark-arcanos/weave-the-tempest\">Tejer la Tempestad</a>"
+    }
   },
   {
     "id": "storm-seeker",

@@ -72,7 +72,7 @@ outer: for (const book of books) {
     entity.body_es && <p class="body-es">{entity.body_es}</p>
   )}
 
-  <StatBlock type={entity.type} mechanics={entity.mechanics} />
+  <StatBlock type={entity.type} mechanics={entity.mechanics} mechanicsHtml={entity.mechanics_html} />
 
   {
     entity.variants && entity.variants.length > 0 && (

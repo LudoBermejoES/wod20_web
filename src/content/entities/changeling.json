@@ -122,7 +122,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
+    }
   },
   {
     "id": "rumor-silk-fan",
@@ -149,7 +152,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
+    }
   },
   {
     "id": "starlight-tiara",
@@ -176,7 +182,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
+    }
   },
   {
     "id": "dragon-scale-brooch",
@@ -204,7 +213,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
+    }
   },
   {
     "id": "wyvern-hide-apron",
@@ -231,7 +243,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
+    }
   },
   {
     "id": "moonlight-dress",
@@ -258,7 +273,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
+    }
   },
   {
     "id": "shadowwool-overcoat",
@@ -286,7 +304,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
+    }
   },
   {
     "id": "spun-thunder-suit",
@@ -314,7 +335,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
+    }
   },
   {
     "id": "sensitive-fiber-summer-dress",
@@ -342,7 +366,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
+    }
   },
   {
     "id": "ashcloth-shirt",
@@ -370,7 +397,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
+    }
   },
   {
     "id": "snowy-owl-mantle",
@@ -397,7 +427,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
+    }
   },
   {
     "id": "copper-raven-pauldrons",
@@ -426,7 +459,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
+    }
   },
   {
     "id": "meteoric-glow-cuirass",
@@ -456,7 +492,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
+    }
   },
   {
     "id": "widows-keening-helm",
@@ -485,7 +524,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
+    }
   },
   {
     "id": "spider-steel-corset",
@@ -514,7 +556,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
+    }
   },
   {
     "id": "mandrake-leather-jacket",
@@ -543,7 +588,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
+    }
   },
   {
     "id": "tricksters-artistic-glove",
@@ -570,7 +618,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único",
+      "poder": "Absurdez (<a href=\"/changeling/arts/legerdemain\">Prestidigitación</a> ····)"
+    }
   },
   {
     "id": "silver-tongue-brooch",
@@ -597,7 +649,11 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único",
+      "poder": "<a href=\"/changeling/cantrips/stranger-than-fiction\">Más Extraño que la Ficción</a> (<a href=\"/changeling/arts/narration\">Narración</a> ·····)"
+    }
   },
   {
     "id": "ladys-favor",
@@ -624,7 +680,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
+    }
   },
   {
     "id": "narcissas-identifier",
@@ -651,7 +710,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
+    }
   },
   {
     "id": "auroras-omen",
@@ -679,7 +741,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
+    }
   },
   {
     "id": "smoke-bomb",
@@ -707,7 +772,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único",
+      "poder": "<a href=\"/changeling/cantrips/portal-passage\">Portal de Paso</a> (<a href=\"/changeling/arts/wayfare\">Viaje</a> ···)"
+    }
   },
   {
     "id": "backup",
@@ -743,7 +812,10 @@
     ],
     "related": [
       "mage/backup"
-    ]
+    ],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
+    }
   },
   {
     "id": "dowsing-pendulum",
@@ -772,7 +844,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único",
+      "poder": "<a href=\"/changeling/cantrips/omen\">Presagio</a> (<a href=\"/changeling/arts/soothsay\">Adivinación</a> ·)"
+    }
   },
   {
     "id": "rewinding-watch",
@@ -801,7 +877,10 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
+    }
   },
   {
     "id": "kiss-seal",
@@ -829,7 +908,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único",
+      "poder": "<a href=\"/changeling/cantrips/dictum\">Dictum</a> (<a href=\"/changeling/arts/sovereign\">Soberanía</a> ····)"
+    }
   },
   {
     "id": "jack-of-all-suits",
@@ -857,7 +940,11 @@
       }
     ],
     "edges": [],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único",
+      "poder": "Danza de los Cinco Reyes (<a href=\"/changeling/arts/primal\">Primal</a> ·····)"
+    }
   },
   {
     "id": "infusion",
@@ -910,7 +997,10 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arte": "<a href=\"/changeling/arts/infusion\">Infusión</a>"
+    }
   },
   {
     "id": "make-it-work",
@@ -937,7 +1027,10 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arte": "<a href=\"/changeling/arts/infusion\">Infusión</a>"
+    }
   },
   {
     "id": "energize",
@@ -964,7 +1057,10 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arte": "<a href=\"/changeling/arts/infusion\">Infusión</a>"
+    }
   },
   {
     "id": "reforge",
@@ -992,7 +1088,10 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arte": "<a href=\"/changeling/arts/infusion\">Infusión</a>"
+    }
   },
   {
     "id": "apotheosis",
@@ -1022,7 +1121,10 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arte": "<a href=\"/changeling/arts/infusion\">Infusión</a>"
+    }
   },
   {
     "id": "narration",
@@ -1076,7 +1178,10 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arte": "<a href=\"/changeling/arts/narration\">Narración</a>"
+    }
   },
   {
     "id": "win-the-room",
@@ -1103,7 +1208,10 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arte": "<a href=\"/changeling/arts/narration\">Narración</a>"
+    }
   },
   {
     "id": "breathless",
@@ -1130,7 +1238,10 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arte": "<a href=\"/changeling/arts/narration\">Narración</a>"
+    }
   },
   {
     "id": "of-legend",
@@ -1158,7 +1269,10 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arte": "<a href=\"/changeling/arts/narration\">Narración</a>"
+    }
   },
   {
     "id": "stranger-than-fiction",
@@ -1186,7 +1300,10 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "arte": "<a href=\"/changeling/arts/narration\">Narración</a>"
+    }
   },
   {
     "id": "recruitment",
@@ -1227,7 +1344,16 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "base_cantrip": "<a href=\"/changeling/cantrips/dictum\">Dictum</a> (<a href=\"/changeling/arts/sovereign\">Soberanía</a> ····, Changeling: el Ensueño, pág. 226)",
+      "art": "<a href=\"/changeling/arts/sovereign\">Soberanía</a> ····",
+      "realm_optional": [
+        "<a href=\"/changeling/realms/scene\">Escena</a> (para afectar a más de un changeling)",
+        "Tiempo (debe establecerse la activación antes de que acabe la Cacería)"
+      ],
+      "notes": "Resistirse con éxito y el gasto de Fuerza de Voluntad funcionan como en el cantrip <a href=\"/changeling/cantrips/dictum\">Dictum</a>. Sólo disponible para el Cazador que dirige la Cacería Salvaje mientras ésta dura."
+    }
   },
   {
     "id": "codigo-de-honor-merito-de-1-punto-codigo-de-honor",
@@ -3876,7 +4002,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "note": "En el Markdown fuente la tabla se extrajo linealizada (sin estructura de tabla) y los dots como &#x27;z&#x27;; mapeo nivel→<a href=\"/changeling/backgrounds/titulo\">título</a>→descripción reconstruido de forma inequívoca a partir del orden secuencial."
+    }
   },
   {
     "id": "nature",
@@ -3928,7 +4057,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "note": "En el Markdown fuente la tabla se extrajo linealizada y los dots como &#x27;z&#x27;; mapeo nivel→<a href=\"/changeling/backgrounds/titulo\">título</a>→descripción reconstruido de forma inequívoca a partir del orden secuencial."
+    }
   },
   {
     "id": "prop",
@@ -4516,7 +4648,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "reino_es": "Depende del propietario/<a href=\"/changeling/realms/prop\">objeto</a>; normalmente <a href=\"/changeling/realms/prop\">Objeto</a> (o Hada/<a href=\"/changeling/realms/actor\">Actor</a> según el propietario)",
+      "note": "El slice no nombra el Arte al que pertenece este cantrip (aparece antes de la sección de <a href=\"/changeling/arts/primal\">Primal</a>, probablemente <a href=\"/changeling/arts/legerdemain\">Prestidigitación</a>/Legerdemain); no se asume."
+    }
   },
   {
     "id": "phantom-shadows",
@@ -4550,7 +4686,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "reino_es": "Determinado por el <a href=\"/changeling/realms/prop\">objeto</a>/criatura creada; <a href=\"/changeling/realms/scene\">Escena</a> para edificios enteros",
+      "note": "El slice no nombra el Arte al que pertenece este cantrip (aparece antes de la sección de <a href=\"/changeling/arts/primal\">Primal</a>, probablemente <a href=\"/changeling/arts/legerdemain\">Prestidigitación</a>/Legerdemain); no se asume. Referencia cruzada al cantrip <a href=\"/changeling/cantrips/effigy\">Efigie</a> (Effigy), no incluido en este slice."
+    }
   },
   {
     "id": "willow-whisper",
@@ -4584,7 +4724,18 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "art_es": "<a href=\"/changeling/arts/primal\">Primal</a>",
+      "reino_es": "<a href=\"/changeling/realms/nature\">Naturaleza</a> y <a href=\"/changeling/realms/prop\">Objeto</a> (los más comunes); describe el <a href=\"/changeling/realms/prop\">objeto</a> con el que se comunica",
+      "success_table": [
+        "1 éxito - Respuestas murmuradas, tortuosas; sólo una pregunta.",
+        "2 éxitos - Respuestas vagas y oscuras; tres preguntas.",
+        "3 éxitos - Respuestas claras pero extrañas (el <a href=\"/changeling/realms/prop\">objeto</a> piensa según sus patrones, no en términos humanos o feéricos); dura una <a href=\"/changeling/realms/scene\">escena</a>.",
+        "4 éxitos - Respuestas claras y directas, pero muy aburridas; dura una semana.",
+        "5 éxitos - Respuestas perfectamente claras, lúcidas e interesantes; dura un mes."
+      ]
+    }
   },
   {
     "id": "eldritch-prime",
@@ -4613,7 +4764,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "art_es": "<a href=\"/changeling/arts/primal\">Primal</a>",
+      "reino_es": "<a href=\"/changeling/realms/nature\">Naturaleza</a> (y el apropiado si se afecta a un individuo)"
+    }
   },
   {
     "id": "oakenshield",
@@ -4641,7 +4796,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "art_es": "<a href=\"/changeling/arts/primal\">Primal</a>",
+      "reino_es": "<a href=\"/changeling/realms/actor\">Actor</a> y Hada (los más comunes); <a href=\"/changeling/realms/prop\">Objeto</a> y <a href=\"/changeling/realms/nature\">Naturaleza</a> posibles"
+    }
   },
   {
     "id": "heather-balm-holly-strike",
@@ -4669,7 +4828,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "art_es": "<a href=\"/changeling/arts/primal\">Primal</a>",
+      "reino_es": "Casi cualquier Reino; lo determina la persona u <a href=\"/changeling/realms/prop\">objeto</a> curado o dañado; <a href=\"/changeling/realms/scene\">Escena</a> para área"
+    }
   },
   {
     "id": "elder-form",
@@ -4703,7 +4866,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "art_es": "<a href=\"/changeling/arts/primal\">Primal</a>"
+    }
   },
   {
     "id": "protocol",
@@ -4731,7 +4897,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "art_es": "<a href=\"/changeling/arts/sovereign\">Soberanía</a>",
+      "reino_es": "Describe los objetivos afectados (<a href=\"/changeling/realms/prop\">Objeto</a> es inútil)"
+    }
   },
   {
     "id": "dictum",
@@ -4760,7 +4930,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "art_es": "<a href=\"/changeling/arts/sovereign\">Soberanía</a>"
+    }
   },
   {
     "id": "grandeur",
@@ -4789,7 +4962,12 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "art_es": "<a href=\"/changeling/arts/sovereign\">Soberanía</a>",
+      "reino_es": "Determinado por el sujeto(s); <a href=\"/changeling/realms/scene\">Escena</a> para múltiples objetivos",
+      "duration": "Una <a href=\"/changeling/realms/scene\">escena</a>"
+    }
   },
   {
     "id": "weaver-ward",
@@ -4817,7 +4995,10 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "art_es": "<a href=\"/changeling/arts/sovereign\">Soberanía</a>"
+    }
   },
   {
     "id": "geas",
@@ -4867,7 +5048,18 @@
         "type": "cross-line",
         "via": "id:geas"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "art_es": "<a href=\"/changeling/arts/sovereign\">Soberanía</a>",
+      "reino_es": "Determinado por el objetivo; <a href=\"/changeling/realms/scene\">Escena</a> para múltiples objetivos",
+      "success_table_busquedas_o_prohibiciones": [
+        "1 éxito - Una Geas o Prohibición sencilla (llévame al aeropuerto, deja de rascarte la nariz).",
+        "2 éxitos - Una Geas o Prohibición moderada (recupera un <a href=\"/changeling/realms/prop\">objeto</a> conocido que tiene unos pocos guardianes; exilio de un lugar rara vez visitado)",
+        "3 éxitos - Una Geas o Prohibición difícil (encuentra a una desconocida; abandona cualquier actividad importante para ti)",
+        "4 éxitos - Una Geas o Prohibición casi imposible (encuentra un político honesto; exilio de un área en la que has vivido toda tu vida)",
+        "5 éxitos - Una Geas o Prohibición legendaria (trae de vuelta el &#x27;Siege Perilous&#x27; de Arcadia; nunca visites al amor con el que has pronunciado el Juramento de los Corazones Sinceros)"
+      ]
+    }
   },
   {
     "id": "hopscotch",
@@ -4901,7 +5093,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "art_es": "<a href=\"/changeling/arts/wayfare\">Viaje</a>",
+      "reino_es": "Determinado por el <a href=\"/changeling/realms/prop\">objeto</a> imbuido; <a href=\"/changeling/realms/scene\">Escena</a> para varias personas (dividiendo éxitos)"
+    }
   },
   {
     "id": "quicksilver",
@@ -4929,7 +5125,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "art_es": "<a href=\"/changeling/arts/wayfare\">Viaje</a>",
+      "reino_es": "Determinado por el sujeto; <a href=\"/changeling/realms/scene\">Escena</a> para múltiples personas (dividiendo éxitos)"
+    }
   },
   {
     "id": "portal-passage",
@@ -4958,7 +5158,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "art_es": "<a href=\"/changeling/arts/wayfare\">Viaje</a>",
+      "reino_es": "Determinado por la sustancia de la barrera; normalmente <a href=\"/changeling/realms/nature\">Naturaleza</a> (<a href=\"/changeling/realms/scene\">Escena</a> u <a href=\"/changeling/realms/prop\">Objeto</a> según el caso)"
+    }
   },
   {
     "id": "wind-runner",
@@ -4987,7 +5191,11 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "art_es": "<a href=\"/changeling/arts/wayfare\">Viaje</a>",
+      "reino_es": "Determinado por el objetivo (casi siempre <a href=\"/changeling/realms/actor\">Actor</a> o Hada); <a href=\"/changeling/realms/scene\">Escena</a> para varios seres (dividiendo éxitos)"
+    }
   },
   {
     "id": "flicker-flash",
@@ -5021,6 +5229,17 @@
       }
     ],
     "related": [],
-    "edges": []
+    "edges": [],
+    "mechanics_html": {
+      "art_es": "<a href=\"/changeling/arts/wayfare\">Viaje</a>",
+      "reino_es": "Determinado por la <a href=\"/changeling/realms/nature\">naturaleza</a> de la persona u <a href=\"/changeling/realms/prop\">objeto</a> afectado; <a href=\"/changeling/realms/scene\">Escena</a> para varias personas (dividiendo éxitos)",
+      "success_table": [
+        "1 éxito - El <a href=\"/changeling/arts/wayfare\">viaje</a> dura una hora (o más).",
+        "2 éxitos - El <a href=\"/changeling/arts/wayfare\">viaje</a> dura unos cinco minutos.",
+        "3 éxitos - El <a href=\"/changeling/arts/wayfare\">viaje</a> dura un minuto.",
+        "4 éxitos - El <a href=\"/changeling/arts/wayfare\">viaje</a> dura unos 10 segundos.",
+        "5 éxitos - El <a href=\"/changeling/arts/wayfare\">viaje</a> es instantáneo."
+      ]
+    }
   }
 ]

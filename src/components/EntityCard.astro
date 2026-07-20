@@ -14,6 +14,7 @@ export interface Props {
     name_es: string;
     body_es?: string;
     mechanics: Record<string, unknown>;
+    mechanics_html?: Record<string, string | string[]>;
     sources: Array<{ book_id: string; book_title_es?: string; page?: number | string | null }>;
     review?: unknown;
   };
@@ -43,7 +44,7 @@ const excerpt = entity.body_es ? plainExcerpt(entity.body_es) : '';
   <p class="type-badge">{typeLabelEs(entity.type)}</p>
   <h3><a href={href}>{entity.name_es}</a></h3>
   {excerpt && <p class="excerpt">{excerpt}</p>}
-  <StatBlock type={entity.type} mechanics={entity.mechanics} />
+  <StatBlock type={entity.type} mechanics={entity.mechanics} mechanicsHtml={entity.mechanics_html} />
   {
     entity.review && (
       <p class="review-flag" role="status">

@@ -39,6 +39,8 @@ const entitySchema = z
     // Type-specific mechanical fields (per webgen/taxonomy.json); shape
     // varies by `type`, values preserved verbatim from the source.
     mechanics: z.record(z.string(), z.unknown()).default({}),
+    // Pre-rendered HTML (with deep-links) for string/list mechanic values.
+    mechanics_html: z.record(z.string(), z.union([z.string(), z.array(z.string())])).optional(),
     sources: z.array(sourceSchema).min(1),
     related: z.array(z.string()).default([]),
     review: reviewSchema,

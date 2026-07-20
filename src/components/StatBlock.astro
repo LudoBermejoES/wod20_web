@@ -9,8 +9,11 @@ import { mechanicLabelEs, sphereLabelEs, TYPE_INFO } from '../lib/taxonomy';
 export interface Props {
   type: string;
   mechanics: Record<string, unknown>;
+  // Pre-rendered HTML (with deep-links) for string/list mechanics values; keyed
+  // by mechanic. Present only where an entity link was injected.
+  mechanicsHtml?: Record<string, string | string[]>;
 }
-const { type, mechanics } = Astro.props;
+const { type, mechanics, mechanicsHtml = {} } = Astro.props;
 
 // Fields rendered as dot ratings when their value is a plain number.
 const DOT_FIELDS = new Set([
@@ -60,6 +63,7 @@ interface Field {
   arrayValue?: unknown[]; // array of primitives → comma list
   objectValue?: Array<[string, unknown]>; // single object → key/value list
   textValue?: string;
+  html?: string | string[]; // pre-rendered HTML (deep-links) for text/array values
 }
 
 const fields: Field[] = fieldKeys.map((key) => {
@@ -85,7 +89,8 @@ const fields: Field[] = fieldKeys.map((key) => {
     !isSphereMap && numericValue === undefined && !rows && !arrayValue && !objectValue
       ? String(value)
       : undefined;
-  return { key, label: mechanicLabelEs(key), sphereEntries, numericValue, rows, columns, arrayValue, objectValue, textValue };
+  const html = mechanicsHtml[key]; // pre-rendered HTML with deep-links, if any
+  return { key, label: mechanicLabelEs(key), sphereEntries, numericValue, rows, columns, arrayValue, objectValue, textValue, html };
 });
 ---
 
@@ -120,7 +125,15 @@ const fields: Field[] = fieldKeys.map((key) => {
                 </tbody>
               </table>
             )}
-            {field.arrayValue && field.arrayValue.map(cell).join(', ')}
+            {field.arrayValue &&
+              (Array.isArray(field.html)
+                ? field.html.map((h, i) => (
+                    <>
+                      {i > 0 && ', '}
+                      <Fragment set:html={h} />
+                    </>
+                  ))
+                : field.arrayValue.map(cell).join(', '))}
             {field.objectValue && (
               <ul class="obj-list">
                 {field.objectValue.map(([k, v]) => (
@@ -130,7 +143,8 @@ const fields: Field[] = fieldKeys.map((key) => {
                 ))}
               </ul>
             )}
-            {field.textValue}
+            {field.textValue &&
+              (typeof field.html === 'string' ? <Fragment set:html={field.html} /> : field.textValue)}
           </dd>
         </>
       ))}
