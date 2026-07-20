@@ -20856,12 +20856,6 @@
           "sources": [
             "w20-aniversario-core-es"
           ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
           "mechanics": {
             "rol": "Tótem Tribal",
             "tribu": "Roehuesos"
@@ -22090,13 +22084,18 @@
     "line": "werewolf",
     "name_en": "Rite of the Spirit Egg",
     "name_es": "Rito del Huevo Espiritual",
-    "body_es": "Cuando un Corax quiere tener un hijo, busca una pareja compatible y realiza un ritual denominado Rito del Huevo Espiritual. Esto crea un huevo espiritual en la Umbra, vinculado al alma del niño, que eclosiona durante el Primer Cambio.",
+    "body_es": "Cada pareja de hombres cuervo debe crear deliberadamente a sus hijos usando el Rito del Huevo Espiritual. Conforme el niño madura, el huevo empieza a abrirse. Eclosiona cuando el joven llega a la edad adulta transformando al joven humano o cuervo en un Corax. Al menos así es como deberían ser las cosas.\n\nEl Rito del Huevo Espiritual es extremadamente difícil y exigente. Muchos Corax sólo lo realizan una vez en toda su existencia, y por ello protegen el huevo espiritual con sus vidas. Los Corax consideran que su deber de guardar los huevos de sus hijos es una de sus responsabilidades más sagradas.",
     "tags": [
-      "fera",
       "corax",
-      "reproduccion"
+      "aves-de-rapina"
     ],
-    "notes": "Mención narrativa dentro de la descripción de los Corax; en este pasaje no se indican nivel ni sistema del Rito.",
+    "mechanics": {
+      "level": null,
+      "roll": null,
+      "difficulty": null,
+      "notes": "El origen no indica rango/nivel ni sistema de tirada; sólo describe la función del Rito de forma narrativa (los Corax lo usan para engendrar hijos; el huevo eclosiona en la edad adulta y transforma al joven en Corax). Es el Rito propio de los Corax que el Rito del Ala Rota perverte."
+    },
+    "related": [],
     "sources": [
       {
         "book_id": "w20-aniversario-core-es",
@@ -22124,12 +22123,6 @@
       "conflicts": [
         {
           "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
             "w20-el-libro-del-wyrm"
           ],
           "mechanics": {
@@ -22151,8 +22144,7 @@
         }
       ]
     },
-    "edges": [],
-    "related": []
+    "edges": []
   },
   {
     "id": "rite-of-the-hidey-hole",
@@ -22184,12 +22176,15 @@
     "line": "werewolf",
     "name_en": "Rite of the Birthing Plague",
     "name_es": "Rito de la Plaga Naciente",
-    "body_es": "La Parentela Ratkin tiene una sangre sobrenaturalmente corrupta. Los Ratkin pueden morder a sus Parientes y realizar el Rito de la Plaga Naciente para incitar el Primer Cambio. Algunas víctimas se transforman con éxito, otras mueren.",
+    "body_es": "Nivel uno, Rito místico.\n\n[La narrativa aparece entremezclada (interleaved) en la extracción; texto verbatim de la fuente:] «Los Garou heredan un legado de heroísmo; los Ratkin reciben una maldición. Durante este Rito, el Tótem Rata conduce a la manada de hombres rata hasta su Parentela y un cambiaformas solitario ataca y muerde a la víctima, rios y los Parientes de sangre débil mueren agonizando, los / infectándola con la Plaga Naciente. Los humanos ordinaParientes más fuertes emergen de ella como nuevos Ratkin.» (Lectura reconstruida: «…un cambiaformas solitario ataca y muerde a la víctima, infectándola con la Plaga Naciente. Los humanos ordinarios y los Parientes de sangre débil mueren agonizando, los Parientes más fuertes emergen de ella como nuevos Ratkin.»)\n\nSistema: El ritual sólo afecta a Parentela Ratkin. Tras efectuar el mordisco, el celebrante del Rito tira Astucia + Rituales a dificultad 7. La víctima debe hacer una tirada de Resistencia con una dificultad igual a 10 menos los éxitos del celebrante del Rito para sobrevivir a las alucinaciones, visiones y fiebres de la Plaga Naciente. Si el objetivo sobrevive, tira un dado. Con un resultado de 8 a 10, el Pariente sobrevive sin secuelas. De 3 a 7 indica que la víctima sobrevive, pero con un nuevo Trastorno. La víctima emerge como Ratkin sólo con un resultado de 1 o 2 (para humanos) o 1 (para ratas).",
     "tags": [
-      "fera",
-      "ratkin"
+      "ratkin",
+      "rite"
     ],
-    "notes": "Mención narrativa dentro de los Rasgos de los Ratkin; en este pasaje no se indican nivel ni sistema del Rito.",
+    "mechanics": {
+      "rank": "Nivel uno",
+      "tipo": "Rito místico"
+    },
     "sources": [
       {
         "book_id": "w20-aniversario-core-es",
@@ -22207,24 +22202,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno",
-            "tipo": "Rito místico"
-          }
-        }
-      ]
+      "reason": "Artefacto de extracción PDF: la narrativa descriptiva aparece entremezclada (interleaved) entre líneas; el Sistema está intacto."
     },
     "edges": [],
     "related": []
@@ -22235,12 +22213,15 @@
     "line": "werewolf",
     "name_en": "Rite of Crossing the Web",
     "name_es": "Rito de Atravesar la Red",
-    "body_es": "Los Rokea no pueden caminar de lado sin usar un Don o el Rito de Atravesar la Red. Sin embargo, pueden percibir y comunicarse con espíritus pelágicos sin necesidad de Dones.",
+    "body_es": "Los Rokea a veces se refieren a la Celosía como la Red. Dado que no pueden nadar de lado de forma normal, necesitan este Rito. Debe realizarse en una Gruta, donde el Rokea pide a Mar que le permita atravesar la Red. El éxito concede al Rokea 28 días en la Umbra, al final de los cuales reaparece en la Gruta donde comenzó.\n\nSistema: El jugador tira Carisma + Rituales a dificultad 7 para nadar de lado.",
     "tags": [
-      "fera",
-      "rokea"
+      "rokea",
+      "ritos"
     ],
-    "notes": "Solo se nombra dentro de los Rasgos de los Rokea, con su función implícita (permitir caminar de lado); sin nivel ni sistema en este pasaje.",
+    "mechanics": {
+      "level": "Nivel dos",
+      "category": "Rito místico"
+    },
     "sources": [
       {
         "book_id": "w20-aniversario-core-es",
@@ -22257,26 +22238,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "level": "Nivel dos",
-            "category": "Rito místico"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -22310,13 +22271,19 @@
     "type": "totem",
     "line": "werewolf",
     "name_en": "Whippoorwill",
-    "name_es": "Chotacabras",
-    "body_es": "La mayoría de los Danzantes de la Espiral Negra sirven al Tótem tribal Chotacabras, un espíritu de mala suerte y ruina. Además de sus espeluznantes aullidos de lobo, los Danzantes pueden emular al pájaro del mismo nombre.",
+    "name_es": "El Chotacabras",
+    "body_es": "Este Tótem adoptó los métodos del Wyrm en el albor de los tiempos, cuando descubrió que su canto atraía las almas a la deriva de los muertos, y que las almas perdidas constituían un buen festín.\n\nLa mayor fortaleza de este Tótem es encontrar a aquéllos que se han desviado de su camino, en especial aquéllos que han perdido de vista la razón para continuar combatiendo por Gaia.",
     "tags": [
-      "danzantes-de-la-espiral-negra",
-      "totem-tribal"
+      "totem",
+      "danzantes-espiral-negra",
+      "totem-de-astucia"
     ],
-    "notes": "Mención narrativa en la descripción de los Danzantes de la Espiral Negra; no se detallan rasgos, ventajas, prohibición ni coste de Trasfondo del Tótem en este pasaje.",
+    "mechanics": {
+      "coste_de_trasfondo": "6",
+      "rasgos_individuales": "Los bastardos de Chotacabras obtienen la habilidad de imitar a la perfección el canto de cualquier pájaro, así como 1 dado adicional en todas sus tiradas de Empatía para identificar individuos que se están cuestionando sus ideales.",
+      "rasgos_de_manada": "Chotacabras otorga 2 puntos de Percepción, pero sólo de noche o en ambientes oscuros.",
+      "tabu": "Chotacabras prohíbe a sus bastardos causar daño a cualquier pájaro y reclama que se celebren dos asambleas en su honor cada año."
+    },
     "sources": [
       {
         "book_id": "w20-aniversario-core-es",
@@ -22333,28 +22300,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-el-libro-del-wyrm"
-          ],
-          "mechanics": {
-            "coste_de_trasfondo": "6",
-            "rasgos_individuales": "Los bastardos de Chotacabras obtienen la habilidad de imitar a la perfección el canto de cualquier pájaro, así como 1 dado adicional en todas sus tiradas de Empatía para identificar individuos que se están cuestionando sus ideales.",
-            "rasgos_de_manada": "Chotacabras otorga 2 puntos de Percepción, pero sólo de noche o en ambientes oscuros.",
-            "tabu": "Chotacabras prohíbe a sus bastardos causar daño a cualquier pájaro y reclama que se celebren dos asambleas en su honor cada año."
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -22866,12 +22811,6 @@
             "dificultad": "9",
             "exitos_requeridos": "un éxito"
           }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-1-59pp"
-          ],
-          "mechanics": {}
         },
         {
           "sources": [

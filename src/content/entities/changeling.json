@@ -3568,10 +3568,15 @@
     "line": "changeling",
     "name_en": "Soothsay",
     "name_es": "Adivinación",
-    "body_es": "Permite lanzar cantrips relativos a la suerte y las profecías.",
+    "body_es": "Adivinación es el Arte de la profecía, la predicción y la relación con Dán, la creencia feérica en el destino.\n\nDán es como un tapiz inmenso, complejo y cambiante, demasiado complicado para siquiera imaginarlo. Todos los seres, sean mortales, hadas o Pródigos, tienen las hebras de sus destinos atrapadas en este tapiz. Agusanados y ciegos, siguen su camino a lo largo de sus hebras, hasta que de pronto se dan cuenta de que, sin darse cuenta, han provocado el final al que han llegado.\n\nOcasionalmente, las fuerzas de Dán se hacen visibles para una persona. Las más dramáticas de estas encarnaciones son las Nornas, o las Tres Hermanas, pero la visita puede ser más sutil. Un sacerdote mira hacia abajo y ve una moneda de oro brillante. En vez de darla a la iglesia, se la guarda para sí. Años después, lo atrapan cometiendo un desfalco con los fondos de la iglesia.\n\nEste Arte es para duendes pensadores y contemplativos. Como tal, se puede encontrar a menudo a las hadas que se especializan en Adivinación como videntes y consejeros de los nobles. La mayoría de la Estirpe tiene visiones ampliamente diferenciadas sobre las hadas expertas en el Arte de Adivinación. Los nobles las encuentran útiles para la intriga cortesana, y los plebeyos son cautos sobre su conocimiento. En general, se les tiene un gran respeto.\n\nAtributo: Inteligencia",
     "tags": [
-      "arte"
+      "arte",
+      "cantrips"
     ],
+    "mechanics": {
+      "attribute": "Inteligencia"
+    },
+    "related": [],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -3581,27 +3586,7 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {
-            "attribute": "Inteligencia"
-          }
-        }
-      ]
-    },
-    "edges": [],
-    "related": []
+    "edges": []
   },
   {
     "id": "chicanery",
@@ -3609,10 +3594,15 @@
     "line": "changeling",
     "name_en": "Chicanery",
     "name_es": "Embustes",
-    "body_es": "Permite lanzar cantrips relativos al engaño y la confusión.",
+    "body_es": "Embustes es el Arte del engaño y es el preferido de aquellos que utilizan la mentira para timar a los incautos. Este Arte trata de confundir los sentidos y obnubilar la mente a niveles altos. Los que practican Embustes son normalmente considerados sospechosos por los nobles y vigilados estrechamente. Unos pocos nobles se han hecho tristemente famosos mediante el uso poco juicioso de este Arte, aunque Embustes está considerada generalmente como un Arte plebeyo.\n\nAtributo: Manipulación",
     "tags": [
-      "arte"
+      "arte",
+      "cantrips"
     ],
+    "mechanics": {
+      "attribute": "Manipulación"
+    },
+    "related": [],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -3622,27 +3612,7 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {
-            "attribute": "Manipulación"
-          }
-        }
-      ]
-    },
-    "edges": [],
-    "related": []
+    "edges": []
   },
   {
     "id": "legerdemain",
@@ -3650,10 +3620,18 @@
     "line": "changeling",
     "name_en": "Legerdemain",
     "name_es": "Prestidigitación",
-    "body_es": "Permite lanzar cantrips relativos a los trucos y las ilusiones.",
+    "body_es": "Prestidigitación es el Arte de los juegos de manos y la ilusión. Basado originalmente en las ilusiones y la 'magia de escenario', Prestidigitación trasciende dichos trucos de salón, permitiendo al hada afectar la realidad física. Los duendes que son los artistas de la Estirpe (bufones, payasos, pooka, etc.) se especializan generalmente en este Arte. Aunque también se la considera un Arte plebeya, un usuario de Prestidigitación no es tan sospechoso como uno de Embustes; sin embargo, un pooka Oscuro armado con este Arte será vigilado.\n\nAunque muchos efectos de Prestidigitación duplican los de Embustes, el uso de este Arte difiere en que crea una ilusión sustancial que es visible para todos los duendes y seres encantados en vez de alterar la percepción de un individuo. Hay algunos que afirman que algunos usos de este Arte crean quimeras temporales.\n\nAtributo: [garabateado en la extracción] Destreza",
     "tags": [
-      "arte"
+      "arte",
+      "cantrips"
     ],
+    "mechanics": {
+      "attribute": "Destreza"
+    },
+    "review": {
+      "reason": "El valor del campo 'Atributo:' de Prestidigitación aparece vacío en su sitio en la extracción PDF; el token 'Destreza' quedó desplazado dentro del cuerpo del cantrip Enredar (partiendo la palabra 'repentinamente'). Se ha reconstruido attribute='Destreza' por posición, pero requiere verificación humana contra el original."
+    },
+    "related": [],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -3663,27 +3641,7 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {
-            "attribute": "Destreza"
-          }
-        }
-      ]
-    },
-    "edges": [],
-    "related": []
+    "edges": []
   },
   {
     "id": "primal",
@@ -3691,10 +3649,13 @@
     "line": "changeling",
     "name_en": "Primal",
     "name_es": "Primal",
-    "body_es": "Permite lanzar cantrips relativos a la curación y la resistencia.",
+    "body_es": "La mayoría del poder de un duende emerge de la afinidad elemental entre las almas feéricas y las fuerzas de la naturaleza. En tiempos antiguos, los espíritus de las rocas y árboles susurraban sus secretos a las hadas que vivían en los bosques y arboledas. La mayoría de las hadas perdieron capacidad de oír los susurros de los bosques durante la Ruptura, recordándolo tan sólo los Inanimae. Una de las primeras cosas que los Inanimae enseñaron a las hadas tras la ruptura fue cómo volver a susurrar.\n\nLas Inanimae están durmiendo en su mayoría ahora, y el Arte que enseñan - Primal - se rumorea que es sólo una fracción de la sabiduría que los espíritus de la naturaleza podrían haber impartido. Como señal de gratitud hacia estos seres, los cantrips de Primal reciben el nombre de los espíritus que ayudaron a las hadas a reaprender estas conexiones.\n\nLos cantrips de Primal no tienen efecto en nada que esté hecho de hierro puro, aunque pueden afectar aleaciones, como el acero.\n\nAtributo: Resistencia",
     "tags": [
-      "arte"
+      "art"
     ],
+    "mechanics": {
+      "atributo_es": "Resistencia"
+    },
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -3704,27 +3665,8 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {
-            "atributo_es": "Resistencia"
-          }
-        }
-      ]
-    },
-    "edges": [],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "sovereign",
@@ -3732,10 +3674,14 @@
     "line": "changeling",
     "name_en": "Sovereign",
     "name_es": "Soberanía",
-    "body_es": "Permite lanzar cantrips relativos a las órdenes y el gobierno.",
+    "body_es": "En los tiempos antiguos, los sidhe usaban Soberanía regularmente para reforzar sus dictados nobiliarios sobre los linajes plebeyos. Unos pocos nobles muy conservadores (e impopulares) siguen adhiriéndose a esta costumbre. El Arte de Soberanía obliga a plebeyos y a nobles de igual o menor rango a obedecer los dictados del lanzador. Así, un caballero no podría usar Soberanía con un barón.\n\nEste Arte es el agravio más extendido que los duendes plebeyos tienen contra la nobleza sidhe. Como tal, los nobles sabios usan este Arte con cuidado, o se arriesgan a una revuelta entre sus súbditos.\n\nEn cualquier momento en que este cantrip se use para afectar a un hada de rango equivalente (los plebeyos se consideran todos de rango equivalente), el objetivo puede hacer una tirada opuesta de Fuerza de Voluntad (dificultad 6) para resistirse a los efectos del cantrip. Cada éxito reduce los éxitos del lanzador en uno. Cualquier personaje puede gastar un punto de Fuerza de Voluntad para que se le permita una tirada similar, pero con una dificultad de 7.\n\nAtributo: Carisma",
     "tags": [
-      "arte"
+      "art"
     ],
+    "mechanics": {
+      "atributo_es": "Carisma",
+      "note": "Resistencia general: tirada opuesta de Fuerza de Voluntad (dificultad 6; o dificultad 7 gastando un punto de Fuerza de Voluntad). Cada éxito reduce los del lanzador en uno."
+    },
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -3745,28 +3691,8 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {
-            "atributo_es": "Carisma",
-            "note": "Resistencia general: tirada opuesta de Fuerza de Voluntad (dificultad 6; o dificultad 7 gastando un punto de Fuerza de Voluntad). Cada éxito reduce los del lanzador en uno."
-          }
-        }
-      ]
-    },
-    "edges": [],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "wayfare",
@@ -3774,10 +3700,13 @@
     "line": "changeling",
     "name_en": "Wayfare",
     "name_es": "Viaje",
-    "body_es": "Permite lanzar cantrips relativos al movimiento y los viajes.",
+    "body_es": "Viaje es el Arte del transporte eficiente. Desarrollada originalmente por exploradores y mensajeros, este Arte también ha encontrado uso entre los círculos nobiliarios como forma de espionaje, dado que sus poderes a alto nivel permiten trasladarse a lugares aparentemente imposibles. Por esta razón, el usar abiertamente los niveles superiores de Viaje es vigilado cuidadosamente por algunos nobles (y prohibido por otros). En los niveles inferiores, el Arte se considera más una herramienta útil que un arma peligrosa. En general, los plebeyos, los criados de los nobles y los eshu son los más propensos a poseer Viaje.\n\nAtributo: Astucia",
     "tags": [
-      "arte"
+      "art"
     ],
+    "mechanics": {
+      "atributo_es": "Astucia"
+    },
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -3787,27 +3716,8 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {
-            "atributo_es": "Astucia"
-          }
-        }
-      ]
-    },
-    "edges": [],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "actor",
@@ -3815,10 +3725,40 @@
     "line": "changeling",
     "name_en": "Actor",
     "name_es": "Actor",
-    "body_es": "Describe tu afinidad con la gente.",
+    "body_es": "Este Reino trata de los mortales. Cuanto más elevado es el nivel, menos necesita conocer personalmente el lanzador a la persona. Este Reino incluye a seres sobrenaturales tales como vampiros, wraiths, etc. pero no a otras hadas.",
     "tags": [
-      "reino"
+      "realm"
     ],
+    "mechanics": {
+      "levels": [
+        {
+          "rating": "•",
+          "title_es": "Amigo Íntimo",
+          "description_es": "Alguien de mucha confianza, compañero, etc."
+        },
+        {
+          "rating": "••",
+          "title_es": "Contacto Personal",
+          "description_es": "Has tenido una larga conversación con esta persona y sabes su nombre."
+        },
+        {
+          "rating": "•••",
+          "title_es": "Cara Familiar",
+          "description_es": "Reconoces su cara, pero no has de saber su nombre."
+        },
+        {
+          "rating": "••••",
+          "title_es": "Extraño",
+          "description_es": "No necesitas información, pero la persona no puede ser tu enemigo."
+        },
+        {
+          "rating": "•••••",
+          "title_es": "Enemigo",
+          "description_es": "Esta persona puede ser tu enemigo, o competir contigo; un amigo contra el que estés jugando a algo entra en esta categoría."
+        }
+      ],
+      "note": "En el Markdown fuente las puntuaciones de dots se extrajeron como la letra 'z' (z=•, zz=••, ... zzzzz=•••••); reconstruidas aquí como dots."
+    },
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -3828,54 +3768,8 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {
-            "levels": [
-              {
-                "rating": "•",
-                "title_es": "Amigo Íntimo",
-                "description_es": "Alguien de mucha confianza, compañero, etc."
-              },
-              {
-                "rating": "••",
-                "title_es": "Contacto Personal",
-                "description_es": "Has tenido una larga conversación con esta persona y sabes su nombre."
-              },
-              {
-                "rating": "•••",
-                "title_es": "Cara Familiar",
-                "description_es": "Reconoces su cara, pero no has de saber su nombre."
-              },
-              {
-                "rating": "••••",
-                "title_es": "Extraño",
-                "description_es": "No necesitas información, pero la persona no puede ser tu enemigo."
-              },
-              {
-                "rating": "•••••",
-                "title_es": "Enemigo",
-                "description_es": "Esta persona puede ser tu enemigo, o competir contigo; un amigo contra el que estés jugando a algo entra en esta categoría."
-              }
-            ],
-            "note": "En el Markdown fuente las puntuaciones de dots se extrajeron como la letra 'z' (z=•, zz=••, ... zzzzz=•••••); reconstruidas aquí como dots."
-          }
-        }
-      ]
-    },
-    "edges": [],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "scene",
@@ -3883,10 +3777,40 @@
     "line": "changeling",
     "name_en": "Scene",
     "name_es": "Escena",
-    "body_es": "Describe tu afinidad con un lugar o escenario concreto.",
+    "body_es": "Este Reino determina el área de lanzamiento. Permite al hada afectar a múltiples objetivos (aunque debe poseer también los Reinos necesarios para los objetivos afectados. No puede usar Escena 3 por sí solo para afectar un patio lleno de niños.)\n\nLas excepciones en el uso de los Reinos son Escena y Tiempo. En la mayoría de los casos, Escena permite al lanzador afectar a múltiples objetivos. Hay algunas ocasiones en las que Escena puede usarse como Reino principal, y en tales casos se utiliza para determinar la Reserva de Dados.",
     "tags": [
-      "reino"
+      "realm"
     ],
+    "mechanics": {
+      "levels": [
+        {
+          "rating": "•",
+          "title_es": "Cámara",
+          "description_es": "Hasta 8 metros cuadrados."
+        },
+        {
+          "rating": "••",
+          "title_es": "Cabaña",
+          "description_es": "Hasta 60 metros cuadrados."
+        },
+        {
+          "rating": "•••",
+          "title_es": "Casa",
+          "description_es": "Hasta 250 metros cuadrados"
+        },
+        {
+          "rating": "••••",
+          "title_es": "Parque",
+          "description_es": "Hasta 600 metros cuadrados"
+        },
+        {
+          "rating": "•••••",
+          "title_es": "Reino",
+          "description_es": "Hasta 16.000 metros cuadrados."
+        }
+      ],
+      "note": "En el Markdown fuente los dots se extrajeron como 'z' (z=•...zzzzz=•••••); reconstruidos como dots."
+    },
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -3896,54 +3820,11 @@
         "variant": "base"
       }
     ],
+    "related": [],
     "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {
-            "levels": [
-              {
-                "rating": "•",
-                "title_es": "Cámara",
-                "description_es": "Hasta 8 metros cuadrados."
-              },
-              {
-                "rating": "••",
-                "title_es": "Cabaña",
-                "description_es": "Hasta 60 metros cuadrados."
-              },
-              {
-                "rating": "•••",
-                "title_es": "Casa",
-                "description_es": "Hasta 250 metros cuadrados"
-              },
-              {
-                "rating": "••••",
-                "title_es": "Parque",
-                "description_es": "Hasta 600 metros cuadrados"
-              },
-              {
-                "rating": "•••••",
-                "title_es": "Reino",
-                "description_es": "Hasta 16.000 metros cuadrados."
-              }
-            ],
-            "note": "En el Markdown fuente los dots se extrajeron como 'z' (z=•...zzzzz=•••••); reconstruidos como dots."
-          }
-        }
-      ]
+      "reason": "Tabla de niveles desordenada por la extracción del PDF: el nivel 5 (••••• 'Reino' — 'Hasta 16.000 metros cuadrados') aparece separado y por encima de la tabla, y su fila quedó vacía en la tabla original. Reconstruido a partir del texto disponible; verificar contra el PDF original."
     },
-    "edges": [],
-    "related": []
+    "edges": []
   },
   {
     "id": "fae",
@@ -3951,10 +3832,40 @@
     "line": "changeling",
     "name_en": "Fae",
     "name_es": "Hada",
-    "body_es": "Describe tu afinidad con las hadas y lo feérico.",
+    "body_es": "Este Reino gobierna a todas las criaturas del Ensueño.",
     "tags": [
-      "reino"
+      "realm"
     ],
+    "mechanics": {
+      "levels": [
+        {
+          "rating": "•",
+          "title_es": "Plebeyo",
+          "description_es": "Un hada plebeya."
+        },
+        {
+          "rating": "••",
+          "title_es": "Noble",
+          "description_es": "Cualquier duende con título."
+        },
+        {
+          "rating": "•••",
+          "title_es": "Quimera",
+          "description_es": "Criaturas u objetos quiméricos."
+        },
+        {
+          "rating": "••••",
+          "title_es": "Galain elusivo",
+          "description_es": "Utilizable en seres feéricos no categorizados: Nunnehi, Inanimae o cualquier otro inexplicable pero perteneciente al Ensueño."
+        },
+        {
+          "rating": "•••••",
+          "title_es": "Portador de Glamour",
+          "description_es": "Cualquier cosa compuesta por Glamour: cantrips, tesoros, barcia, etc. (Nota: Necesitas poseer este nivel para intentar contrarrestar cualquier cantrip lanzado.)"
+        }
+      ],
+      "note": "En el Markdown fuente la tabla se extrajo linealizada (sin estructura de tabla) y los dots como 'z'; mapeo nivel→título→descripción reconstruido de forma inequívoca a partir del orden secuencial."
+    },
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -3964,54 +3875,8 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {
-            "levels": [
-              {
-                "rating": "•",
-                "title_es": "Plebeyo",
-                "description_es": "Un hada plebeya."
-              },
-              {
-                "rating": "••",
-                "title_es": "Noble",
-                "description_es": "Cualquier duende con título."
-              },
-              {
-                "rating": "•••",
-                "title_es": "Quimera",
-                "description_es": "Criaturas u objetos quiméricos."
-              },
-              {
-                "rating": "••••",
-                "title_es": "Galain elusivo",
-                "description_es": "Utilizable en seres feéricos no categorizados: Nunnehi, Inanimae o cualquier otro inexplicable pero perteneciente al Ensueño."
-              },
-              {
-                "rating": "•••••",
-                "title_es": "Portador de Glamour",
-                "description_es": "Cualquier cosa compuesta por Glamour: cantrips, tesoros, barcia, etc. (Nota: Necesitas poseer este nivel para intentar contrarrestar cualquier cantrip lanzado.)"
-              }
-            ],
-            "note": "En el Markdown fuente la tabla se extrajo linealizada (sin estructura de tabla) y los dots como 'z'; mapeo nivel→título→descripción reconstruido de forma inequívoca a partir del orden secuencial."
-          }
-        }
-      ]
-    },
-    "edges": [],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "nature",
@@ -4019,10 +3884,40 @@
     "line": "changeling",
     "name_en": "Nature",
     "name_es": "Naturaleza",
-    "body_es": "Describe tu afinidad con las cosas del mundo natural: animales, plantas, aire, fuego, agua, tierra.",
+    "body_es": "Este Reino engloba los animales, los elementos y las criaturas no sobrenaturales de la naturaleza.",
     "tags": [
-      "reino"
+      "realm"
     ],
+    "mechanics": {
+      "levels": [
+        {
+          "rating": "•",
+          "title_es": "Materia Prima",
+          "description_es": "Materia no viva, orgánica (cuerda, papel, piedra, etc.). Si es inorgánica (acero, etc.) no es de este Reino."
+        },
+        {
+          "rating": "••",
+          "title_es": "Bosque Verde",
+          "description_es": "Plantas vivas orgánicas (no animales)."
+        },
+        {
+          "rating": "•••",
+          "title_es": "Animal Feroz",
+          "description_es": "Animales no inteligentes vivos (los animales conscientes entran bajo el dominio de Actor)"
+        },
+        {
+          "rating": "••••",
+          "title_es": "Fenómeno Natural",
+          "description_es": "Fenómenos naturales: clima, erupciones volcánicas, terremotos, etc."
+        },
+        {
+          "rating": "•••••",
+          "title_es": "Elemento Básico",
+          "description_es": "Elementos naturales (basados en el carbono), o en los cuatro tradicionales: fuego, agua, tierra y aire."
+        }
+      ],
+      "note": "En el Markdown fuente la tabla se extrajo linealizada y los dots como 'z'; mapeo nivel→título→descripción reconstruido de forma inequívoca a partir del orden secuencial."
+    },
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -4032,54 +3927,8 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {
-            "levels": [
-              {
-                "rating": "•",
-                "title_es": "Materia Prima",
-                "description_es": "Materia no viva, orgánica (cuerda, papel, piedra, etc.). Si es inorgánica (acero, etc.) no es de este Reino."
-              },
-              {
-                "rating": "••",
-                "title_es": "Bosque Verde",
-                "description_es": "Plantas vivas orgánicas (no animales)."
-              },
-              {
-                "rating": "•••",
-                "title_es": "Animal Feroz",
-                "description_es": "Animales no inteligentes vivos (los animales conscientes entran bajo el dominio de Actor)"
-              },
-              {
-                "rating": "••••",
-                "title_es": "Fenómeno Natural",
-                "description_es": "Fenómenos naturales: clima, erupciones volcánicas, terremotos, etc."
-              },
-              {
-                "rating": "•••••",
-                "title_es": "Elemento Básico",
-                "description_es": "Elementos naturales (basados en el carbono), o en los cuatro tradicionales: fuego, agua, tierra y aire."
-              }
-            ],
-            "note": "En el Markdown fuente la tabla se extrajo linealizada y los dots como 'z'; mapeo nivel→título→descripción reconstruido de forma inequívoca a partir del orden secuencial."
-          }
-        }
-      ]
-    },
-    "edges": [],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "prop",
@@ -4087,10 +3936,40 @@
     "line": "changeling",
     "name_en": "Prop",
     "name_es": "Objeto",
-    "body_es": "Describe tu afinidad con las cosas hechas por el hombre, desde collares a cerillas u ordenadores.",
+    "body_es": "Objeto gobierna todo lo que no es natural y ha sido creado por manos humanas. Incluye objetos hechos de materias naturales a los que se ha trabajado para convertirlos en otra cosa (esculturas de madera, papier maché, etc.)",
     "tags": [
-      "reino"
+      "realm"
     ],
+    "mechanics": {
+      "levels": [
+        {
+          "rating": "•",
+          "title_es": "Prenda Ornada",
+          "description_es": "Objetos que se llevan puestos normalmente (ropa, anillos, tatuajes, etc.)"
+        },
+        {
+          "rating": "••",
+          "title_es": "Herramienta",
+          "description_es": "Un objeto sin partes móviles (espadas, escudos, pero no armas de fuego, y ni siquiera un mayal)"
+        },
+        {
+          "rating": "•••",
+          "title_es": "Objeto Mecánico",
+          "description_es": "Un objeto con partes móviles, pero que no necesita combustible para funcionar (incluidos los ordenadores que necesitan electricidad)."
+        },
+        {
+          "rating": "••••",
+          "title_es": "Máquina Compleja",
+          "description_es": "Un único objeto con componentes móviles, a veces electrónicos pero con un mecanismo fácil de entender (tostadoras, coches, presas de impresión, pero no ordenadores, televisores, etc.)"
+        },
+        {
+          "rating": "•••••",
+          "title_es": "Artefacto Arcano",
+          "description_es": "Cualquier objeto manufacturado no listado anteriormente, con componentes complejos."
+        }
+      ],
+      "note": "En el Markdown fuente los dots se extrajeron como 'z' (z=•...zzzzz=•••••); reconstruidos como dots."
+    },
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -4100,54 +3979,8 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {
-            "levels": [
-              {
-                "rating": "•",
-                "title_es": "Prenda Ornada",
-                "description_es": "Objetos que se llevan puestos normalmente (ropa, anillos, tatuajes, etc.)"
-              },
-              {
-                "rating": "••",
-                "title_es": "Herramienta",
-                "description_es": "Un objeto sin partes móviles (espadas, escudos, pero no armas de fuego, y ni siquiera un mayal)"
-              },
-              {
-                "rating": "•••",
-                "title_es": "Objeto Mecánico",
-                "description_es": "Un objeto con partes móviles, pero que no necesita combustible para funcionar (incluidos los ordenadores que necesitan electricidad)."
-              },
-              {
-                "rating": "••••",
-                "title_es": "Máquina Compleja",
-                "description_es": "Un único objeto con componentes móviles, a veces electrónicos pero con un mecanismo fácil de entender (tostadoras, coches, presas de impresión, pero no ordenadores, televisores, etc.)"
-              },
-              {
-                "rating": "•••••",
-                "title_es": "Artefacto Arcano",
-                "description_es": "Cualquier objeto manufacturado no listado anteriormente, con componentes complejos."
-              }
-            ],
-            "note": "En el Markdown fuente los dots se extrajeron como 'z' (z=•...zzzzz=•••••); reconstruidos como dots."
-          }
-        }
-      ]
-    },
-    "edges": [],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "time",
@@ -4155,10 +3988,35 @@
     "line": "changeling",
     "name_en": "Time",
     "name_es": "Tiempo",
-    "body_es": "Describe tu afinidad con el reino del tiempo.",
+    "body_es": "Este Reino permite al lanzador implantar un 'retraso' en un cantrip. Puede lanzar el cantrip, abandonar el área y esperar a que se active sin estar presente. La puntuación determina lo grande que puede ser el retraso, y la dificultad que se aplica al lanzamiento.\n\nLas excepciones en el uso de los Reinos son Escena y Tiempo. Tiempo permite que un cantrip sea lanzado con un tiempo de retraso antes de entrar en efecto (literalmente un temporizador). Cuando se emplean de esta forma, ninguno de los Reinos se usan en la Reserva de Dados.",
     "tags": [
-      "reino"
+      "realm"
     ],
+    "mechanics": {
+      "levels": [
+        {
+          "rating": "•",
+          "tiempo_de_retraso_es": "1 turno"
+        },
+        {
+          "rating": "••",
+          "tiempo_de_retraso_es": "1 hora"
+        },
+        {
+          "rating": "•••",
+          "tiempo_de_retraso_es": "1 día"
+        },
+        {
+          "rating": "••••",
+          "tiempo_de_retraso_es": "1 semana"
+        },
+        {
+          "rating": "•••••",
+          "tiempo_de_retraso_es": "1 mes"
+        }
+      ],
+      "note": "Tabla 'Nivel / Tiempo de Retraso'. En el Markdown fuente se extrajo linealizada y los dots como 'z'; mapeo reconstruido de forma inequívoca a partir del orden secuencial."
+    },
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -4168,49 +4026,8 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "changelling-el-ensueno-manual-basico"
-          ],
-          "mechanics": {
-            "levels": [
-              {
-                "rating": "•",
-                "tiempo_de_retraso_es": "1 turno"
-              },
-              {
-                "rating": "••",
-                "tiempo_de_retraso_es": "1 hora"
-              },
-              {
-                "rating": "•••",
-                "tiempo_de_retraso_es": "1 día"
-              },
-              {
-                "rating": "••••",
-                "tiempo_de_retraso_es": "1 semana"
-              },
-              {
-                "rating": "•••••",
-                "tiempo_de_retraso_es": "1 mes"
-              }
-            ],
-            "note": "Tabla 'Nivel / Tiempo de Retraso'. En el Markdown fuente se extrajo linealizada y los dots como 'z'; mapeo reconstruido de forma inequívoca a partir del orden secuencial."
-          }
-        }
-      ]
-    },
-    "edges": [],
-    "related": []
+    "related": [],
+    "edges": []
   },
   {
     "id": "omen",

@@ -839,26 +839,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "forbidden-and-forgotten-orders-m20"
-          ],
-          "mechanics": {
-            "clan": "Kongo",
-            "affinity_sphere": "Cardinal"
-          }
-        },
-        {
-          "sources": [
-            "m20-stv-m-charles-supplement-104pp"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -1998,25 +1978,6 @@
         "section_anchor": "supervisor-elizabeth-betsy-horne"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-book-of-the-fallen"
-          ],
-          "mechanics": {
-            "associated_practices": "Arte del Deseo, Bardismo, Magia del Caos, Cibernética, Dominio, Magia de Arroyo, Pirateo de la Realidad."
-          }
-        },
-        {
-          "sources": [
-            "m20-the-operative-dossier"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -2149,25 +2110,6 @@
         "book_title_es": "M20 Technocracy Reloaded"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-book-of-the-fallen"
-          ],
-          "mechanics": {
-            "associated_practices": "animalismo, Arte del Deseo, dominio, vigorización, artes marciales, psiónica, vudú, brujería."
-          }
-        },
-        {
-          "sources": [
-            "m20-technocracy-reloaded"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5796,31 +5738,6 @@
         "section_anchor": "supervisor-elizabeth-betsy-horne"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-como-haces-eso-es"
-          ],
-          "mechanics": {
-            "successes": "Al menos 10, y posiblemente 30 o más, según lo extrema de la influencia y lo difuso del medio"
-          }
-        },
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "m20-the-operative-dossier"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -7453,12 +7370,6 @@
           "mechanics": {
             "note": "Mención narrativa: el texto la nombra y tipifica como «la Resonancia de Muerte» pero no ofrece valor mecánico (sin puntuación en puntos ni dificultad) en esta seccion."
           }
-        },
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {}
         }
       ]
     },
@@ -16992,36 +16903,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "paradigmas_asociados": [
-              "Un Cosmos Mecánico",
-              "Un Mundo de Dioses y Monstruos",
-              "Orden Divino y Caos Terrenal",
-              "El Poder Da la Razón",
-              "La Tecnología Tiene Todas las Respuestas",
-              "Todo Es Datos",
-              "Todo Es una Ilusión, una Prisión o un Error",
-              "Traer de Vuelta la Edad Dorada"
-            ],
-            "habilidades_asociadas": "Academicismo, Artesanía, Cosmología, Documentación, Esoterismo, Expresión, Investigación. Liderazgo, Meditación, Ocultismo, Sistemas de Creencias",
-            "instrumentos_comunes": "Alineamientos celestiales, armas (espadas y cuchillos), círculos y diseños, computadoras (para los hechiceros modernos), contacto visual, copas y recipientes, dominación social, elementos, escritura e inscripciones, formas de pensamiento, gemas, gestos, lenguas (latín, sánscrito, mandarín, griego, etc.), libros, meditación, moda, nombres verdaderos, números y numerología, ofrendas y sacrificios, plegarias e invocaciones, símbolos, varas y varitas"
-          }
-        },
-        {
-          "sources": [
-            "m20-stv-m-charles-supplement-104pp"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -17060,37 +16941,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "paradigmas_asociados": [
-              "Un Cosmos Mecánico",
-              "Orden Divino y Caos Terrenal",
-              "El Poder Da la Razón",
-              "La Tecnología Tiene Todas las Respuestas",
-              "Todo Es Caos",
-              "Todo Es Datos",
-              "Todo Es una Ilusión, una Prisión o un Error",
-              "Traer de Vuelta la Edad Dorada",
-              "Viaje Sólo de Ida al Olvido"
-            ],
-            "habilidades_asociadas": "Academicismo (Cultura, Filosofía, Psicología), Alternar, Artes Marciales, Atletismo, Consciencia, Etiqueta, Expresión, Finanzas, Intimidación, Liderazgo, Medios de Comunicación, Política, Seducción, Subterfugio",
-            "instrumentos_comunes": "Armas, artilugios, cartas y dados, contacto visual, danzas y ademanes (muy refinados), dinero y riqueza, dominación social, maquillaje, medios de comunicación de masas, moda, sexo, vehículos, voz"
-          }
-        },
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -17175,12 +17025,6 @@
         },
         {
           "sources": [
-            "m20-stv-m-charles-supplement-104pp"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
             "m20-technocracy-reloaded"
           ],
           "mechanics": {
@@ -17248,43 +17092,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "paradigmas_asociados": [
-              "La Creación Es Divina y Está Viva",
-              "Un Mundo de Dioses y Monstruos",
-              "Orden Divino y Caos Terrenal",
-              "El Poder Da la Razón",
-              "Todo Es Caos",
-              "Todo Está Bien: ¡Ten Fe!",
-              "Todo Es una Ilusión, una Prisión o un Error",
-              "Traer de Vuelta la Edad Dorada",
-              "Viaje Sólo de Ida al Olvido"
-            ],
-            "habilidades_asociadas": "Academicismo, Afinidad Animal, Arte, Artesanía, Consciencia, Farmacopea, Medicina, Meditación, Ocultismo",
-            "instrumentos_comunes": "Alineamientos celestiales, armas, bendiciones y maldiciones, brebajes, cartas, círculos, contacto visual, copas y recipientes, danzas, dominación social, drogas y venenos, ejercicio físico, elementos, encrucijadas, escritura e inscripciones,"
-          }
-        },
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "m20-stv-m-charles-supplement-104pp"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -17419,35 +17226,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "paradigmas_asociados": [
-              "Un Cosmos Mecánico",
-              "Orden Divino y Caos Terrenal",
-              "El Poder Da la Razón",
-              "La Tecnología Tiene Todas las Respuestas",
-              "Todo Es Datos",
-              "Todo Está Bien: ¡Ten Fe!",
-              "Traer de Vuelta la Edad Dorada"
-            ],
-            "habilidades_asociadas": "Academicismo, Armas de Energía, Artesanía, Ciencias, Documentación, Esoterismo (diversas teorías científicas rechazadas), Hipertecnología, Tecnología",
-            "instrumentos_comunes": "Alineamientos celestiales, armaduras, armas, artilugios e invenciones, computadoras y equipo informático, dispositivos y máquinas, elementos, escritura e inscripciones, huesos y restos mortales, interfaz cerebro-computadora, juguetes, laboratorios, lenguas, libros, números y numerología, vehículos"
-          }
-        },
-        {
-          "sources": [
-            "m20-stv-m-charles-supplement-104pp"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -17541,40 +17319,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "paradigmas_asociados": [
-              "La Creación Es Divina y Está Viva",
-              "Un Mundo de Dioses y Monstruos",
-              "Orden Divino y Caos Terrenal",
-              "Todo Es una Ilusión, una Prisión o un Error",
-              "Todo Está Bien: ¡Ten Fe!",
-              "Traer de Vuelta la Edad Dorada"
-            ],
-            "habilidades_asociadas": "Academicismo (Doctrinas de la Fe), Consciencia, Cosmología, Empatía, Enigmas, Esoterismo, Expresión, Medicina, Sistemas de Creencias",
-            "instrumentos_comunes": "Bendiciones y maldiciones, comida y bebida, copas y recipientes, energía, escritura e inscripciones, formas de pensamiento, iconografía sagrada, libros (escrituras), música, ofrendas y sacrificios, ordalías y esfuerzos, plegarias e invocaciones, ritos grupales, símbolos, voz"
-          }
-        },
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "m20-stv-m-charles-supplement-104pp"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -17628,40 +17372,6 @@
         "section_anchor": "supervisor-elizabeth-betsy-horne"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "paradigmas_asociados": [
-              "Un Cosmos Mecánico",
-              "La Creación Es Divina y Está Viva",
-              "Un Mundo de Dioses y Monstruos",
-              "Orden Divino y Caos Terrenal",
-              "El Poder Da la Razón",
-              "La Tecnología Tiene Todas las Respuestas",
-              "Todo Es Caos",
-              "Todo Es Datos",
-              "Todo Es una Ilusión, una Prisión o un Error",
-              "Traer de Vuelta la Edad Dorada",
-              "Viaje Sólo de Ida al Olvido"
-            ],
-            "habilidades_asociadas": "Academicismo (Historia, Filosofía, Ciencias Sociales), Arte, Ciencias (tanto Psicología como Ciencias Físicas), Expresión, Gobierno, Informática, Medios de Comunicación, Política, Sistemas de Creencias, Subterfugio, Tecnología",
-            "instrumentos_comunes": "Armas, computadoras y equipo informático, contacto visual, dinero y riqueza, dispositivos y máquinas, dominación social, drogas, formas de pensamiento, interfaz cerebro-computadora, lenguas, libros, medios de comunicación de masas, música, nanotecnología, obras de arte, ritos grupales, sexo, símbolos, trucos e ilusiones, voz"
-          }
-        },
-        {
-          "sources": [
-            "m20-the-operative-dossier",
-            "m20-the-operative-dossier"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -17751,13 +17461,6 @@
               "dispositivos de laboratorio"
             ]
           }
-        },
-        {
-          "sources": [
-            "m20-the-operative-dossier",
-            "m20-the-operative-dossier"
-          ],
-          "mechanics": {}
         }
       ]
     },
@@ -17946,37 +17649,6 @@
         "section_anchor": "agent-beth-deuce"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "paradigmas_asociados": [
-              "Un Cosmos Mecánico",
-              "La Creación Es Divina y Está Viva",
-              "Un Mundo de Dioses y Monstruos",
-              "Orden Divino y Caos Terrenal",
-              "La Tecnología Tiene Todas las Respuestas",
-              "Todo Está Bien: ¡Ten Fe!",
-              "Todo Es Caos",
-              "Todo Es una Ilusión, una Prisión o un Error",
-              "Traer de Vuelta la Edad Dorada"
-            ],
-            "habilidades_asociadas": "Academicismo (Prácticas Curativas), Arte (Máscaras, Baile, Música, etc.), Ciencias, Consciencia, Empatía, Esoterismo (Herbología, Trabajo con Energías, Ejercicio Físico, Prácticas Curativas y de Meditación), Farmacopea, Medicina, Meditación, Tecnología",
-            "instrumentos_comunes": "Armas (instrumental quirúrgico), bendiciones y maldiciones, computadoras, copas y recipientes, danzas y movimiento, dispositivos y máquinas, dominación social, drogas y venenos, ejercicio físico, hierbas, huesos y restos mortales, laboratorios, lenguas (latín, jerga y esa extraña escritura que usan los médicos cuando escriben recetas), libros, meditación, música, obras de arte, ofrendas y sacrificios, plegarias e invocaciones, pócimas y pociones, ritos grupales (operaciones), sangre y fluidos corporales, voz"
-          }
-        },
-        {
-          "sources": [
-            "m20-the-operative-dossier"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -18389,28 +18061,6 @@
       "extranos": "incapaces de usar el dispositivo",
       "condicion": "instrumentos personales y únicos para el creador; únicos para aliados"
     },
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "modificador_dificultad_creador": "-2",
-            "modificador_dificultad_aliados": "-1",
-            "extranos": "incapaces de usar el dispositivo",
-            "condicion": "instrumentos personales y únicos para el creador; únicos para aliados"
-          }
-        },
-        {
-          "sources": [
-            "m20-the-operative-dossier"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -18450,25 +18100,6 @@
     ],
     "mechanics": {
       "nota": "En términos de juego, las bendiciones y las maldiciones suelen ser coincidentes."
-    },
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "nota": "En términos de juego, las bendiciones y las maldiciones suelen ser coincidentes."
-          }
-        },
-        {
-          "sources": [
-            "m20-stv-m-charles-supplement-104pp"
-          ],
-          "mechanics": {}
-        }
-      ]
     },
     "edges": [],
     "related": []
@@ -21393,26 +21024,6 @@
         "book_title_es": "M20 Technocracy Reloaded"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-technocracy-reloaded"
-          ],
-          "mechanics": {
-            "focus_element": "paradigm",
-            "convention": "Iteración X"
-          }
-        },
-        {
-          "sources": [
-            "m20-technocracy-reloaded"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -21440,11 +21051,16 @@
     "line": "mage",
     "name_en": "A Mechanistic Cosmos",
     "name_es": "Un Cosmos Mecanicista",
-    "body_es": "Los paradigmas de los Akashi pueden variar de un practicante a otro, pero la mayoría concibe la magia como Un Cosmos Mecanicista, si bien se trata de una visión del cosmos propia de la Akashayana.",
+    "body_es": "La mayoría de los Iteradores siguen el paradigma de Un Cosmos Mecanicista. Es lógico pensar que todo puede definirse como una máquina. Las ecuaciones matemáticas calculan y describen casi todos los fenómenos naturales, y las redundancias están incorporadas hasta un grado absurdo. Una vez te das cuenta de que todo esto no es más que una gran máquina, cada pieza móvil un engranaje o una rueda dentada que impulsa o alimenta otra, todo lo demás cobra sentido, al menos para los Iteradores. Toda la Convención se alinea y se ve a sí misma como una máquina, cada agente un engranaje o una rueda dentada que ayuda a que la máquina funcione con suavidad.",
     "tags": [
-      "akashayana",
-      "tradicion"
+      "technocracy",
+      "iteracion-x",
+      "focus-paradigm"
     ],
+    "mechanics": {
+      "focus_element": "paradigm",
+      "convention": "Iteración X"
+    },
     "sources": [
       {
         "book_id": "m20-glosario-basico-es",
@@ -21480,38 +21096,6 @@
         "section_anchor": "supervisor-elizabeth-betsy-horne"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-lore-of-the-traditions"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "m20-stv-m-charles-supplement-104pp"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "m20-technocracy-reloaded"
-          ],
-          "mechanics": {
-            "focus_element": "paradigm",
-            "convention": "Iteración X"
-          }
-        },
-        {
-          "sources": [
-            "m20-the-operative-dossier"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -29281,25 +28865,6 @@
         "book_title_es": "M20 Technocracy Reloaded"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-libro-de-los-secretos"
-          ],
-          "mechanics": {
-            "associated_practices": "Alquimia (especialmente entre todos los tipos de Solificati), Alta Magia Ritual (la cual suele tratar de cambiar las propias percepciones de 'lo que es' en 'lo que quiero que sea'), Arte del Deseo / hipereconomía ('trata de lo que tú piensas que vale…'), artes marciales, dominio (obviamente), hackeo de la realidad (para el que este paradigma es una clase de cimiento), hipertecnología, Magia del caos, psiónica, sabiduría loca (obviamente), vigorización, yoga (volviendo a las raíces de la idea en la filosofía hinduista y budista)."
-          }
-        },
-        {
-          "sources": [
-            "m20-technocracy-reloaded"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -29590,12 +29155,6 @@
           "mechanics": {
             "external_reference": "Libro de los Secretos, pp. 198-203"
           }
-        },
-        {
-          "sources": [
-            "m20-stv-m-charles-supplement-104pp"
-          ],
-          "mechanics": {}
         }
       ]
     },
@@ -29656,12 +29215,6 @@
           "mechanics": {
             "external_reference": "Libro de los Secretos, pp. 198-203"
           }
-        },
-        {
-          "sources": [
-            "m20-technocracy-reloaded"
-          ],
-          "mechanics": {}
         }
       ]
     },
@@ -34895,12 +34448,16 @@
     "line": "mage",
     "name_en": "Technology Holds All the Answers",
     "name_es": "La Tecnología Tiene Todas las Respuestas",
-    "body_es": "Paradigma citado en el Foco de los Thal'hun: 'Los paradigmas realmente pueden depender del escenario. Traer de Vuelta la Edad de Oro, Un Cosmos Mecanicista, La Tecnología Tiene Todas las Respuestas, y El Poder Hace la Razón podrían funcionar todos dependiendo del caso.'",
+    "body_es": "Cuestionar la idea de que todo es una máquina que funciona a base de programas y engranajes bien engrasados encaja en el paradigma de La Tecnología Tiene Todas las Respuestas; no es que el mundo en sí sea una máquina, sino que las máquinas son la clave para comprender el mundo de una manera racional. La tecnología no es, entonces, un producto del cosmos mecanicista, sino más bien la herramienta a través de la cual se revela la verdad del propio cosmos. Muchos Iteradores combinan ambos paradigmas, ya que a veces resulta difícil separar la tecnología de la comprensión.",
     "tags": [
-      "paradigma",
-      "foco",
-      "thal-hun"
+      "technocracy",
+      "iteracion-x",
+      "focus-paradigm"
     ],
+    "mechanics": {
+      "focus_element": "paradigm",
+      "convention": "Iteración X"
+    },
     "sources": [
       {
         "book_id": "m20-stv-m-charles-supplement-104pp",
@@ -34923,38 +34480,6 @@
         "section_anchor": "agent-beth-deuce"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-stv-m-charles-supplement-104pp"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "m20-technocracy-reloaded"
-          ],
-          "mechanics": {
-            "focus_element": "paradigm",
-            "convention": "Iteración X"
-          }
-        },
-        {
-          "sources": [
-            "m20-technocracy-reloaded"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "m20-the-operative-dossier"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -35343,31 +34868,6 @@
         "section_anchor": "supervisor-elizabeth-betsy-horne"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-technocracy-reloaded"
-          ],
-          "mechanics": {
-            "focus_element": "practice",
-            "convention": "Iteración X",
-            "instruments": [
-              "fórmulas matemáticas",
-              "contacto visual",
-              "interacciones físicas"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "m20-the-operative-dossier"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
