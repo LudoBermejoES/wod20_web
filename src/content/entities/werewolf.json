@@ -3549,35 +3549,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -3722,33 +3693,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -3816,43 +3760,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -3917,43 +3824,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -4093,7 +3963,10 @@
       "Philodox"
     ],
     "mechanics": {
-      "rank": "Nivel cuatro",
+      "rank": [
+        "Nivel cuatro",
+        "cinco"
+      ],
       "auspices_tribes": [
         "Philodox"
       ]
@@ -4113,35 +3986,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "cinco"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -4215,7 +4059,10 @@
       "Philodox"
     ],
     "mechanics": {
-      "rank": "Nivel cinco",
+      "rank": [
+        "Nivel cinco",
+        "Nivel cinco (linterna); Nivel cinco (cortesano)"
+      ],
       "auspices_tribes": [
         "Philodox"
       ]
@@ -4235,44 +4082,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "cinco"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp",
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco (linterna); Nivel cinco (cortesano)"
-          }
-        }
-      ]
-    },
     "edges": [
       {
         "target": "changeling/geas",
@@ -4316,27 +4125,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "cinco"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -4484,7 +4272,10 @@
       "Galliard"
     ],
     "mechanics": {
-      "rank": "Nivel uno",
+      "rank": [
+        "Nivel uno",
+        "Nivel uno (pilar); Nivel uno (cortesano)"
+      ],
       "auspices_tribes": [
         "Galliard"
       ]
@@ -4505,36 +4296,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp",
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno (pilar); Nivel uno (cortesano)"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -4795,51 +4556,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -4855,7 +4571,10 @@
       "Galliard"
     ],
     "mechanics": {
-      "rank": "Nivel cuatro",
+      "rank": [
+        "Nivel cuatro",
+        "Nivel cuatro (pilar); Nivel cuatro (cortesano)"
+      ],
       "auspices_tribes": [
         "Galliard"
       ]
@@ -4876,36 +4595,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp",
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro (pilar); Nivel cuatro (cortesano)"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -4977,35 +4666,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "cuatro"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5147,44 +4807,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es",
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5222,36 +4844,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es",
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5288,43 +4880,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5360,35 +4915,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5512,7 +5038,10 @@
       "Ahroun"
     ],
     "mechanics": {
-      "rank": "Nivel tres",
+      "rank": [
+        "Nivel dos",
+        "Nivel tres"
+      ],
       "auspices_tribes": [
         "Ahroun"
       ]
@@ -5532,27 +5061,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5588,35 +5096,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5633,7 +5112,10 @@
       "Colmillos Plateados"
     ],
     "mechanics": {
-      "rank": "Nivel tres",
+      "rank": [
+        "Nivel tres",
+        "dos"
+      ],
       "auspices_tribes": [
         "Ahroun",
         "Colmillos Plateados"
@@ -5655,36 +5137,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es",
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5814,35 +5266,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "cuatro"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -5858,7 +5281,10 @@
       "Ahroun"
     ],
     "mechanics": {
-      "rank": "Nivel cinco",
+      "rank": [
+        "Nivel cinco",
+        "Nivel cuatro"
+      ],
       "auspices_tribes": [
         "Ahroun"
       ]
@@ -5878,35 +5304,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -6539,35 +5936,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -6815,7 +6183,10 @@
       "Caminantes Silenciosos"
     ],
     "mechanics": {
-      "rank": "Nivel cuatro",
+      "rank": [
+        "Nivel cuatro",
+        "Nivel tres"
+      ],
       "auspices_tribes": [
         "Caminantes Silenciosos"
       ]
@@ -6835,27 +6206,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -6892,59 +6242,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -7411,27 +6708,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "cuatro"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -7770,35 +7046,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -7862,7 +7109,10 @@
       "referencia-cruzada"
     ],
     "mechanics": {
-      "rank": "Nivel tres"
+      "rank": [
+        "Nivel dos",
+        "Nivel tres"
+      ]
     },
     "sources": [
       {
@@ -7879,27 +7129,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -8244,27 +7473,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -8841,7 +8049,10 @@
       "red-talons"
     ],
     "mechanics": {
-      "rank": "Nivel uno",
+      "rank": [
+        "Nivel dos",
+        "Nivel uno"
+      ],
       "level": 2
     },
     "sources": [
@@ -8859,27 +8070,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-el-libro-del-wyrm"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -8942,7 +8132,10 @@
       "red-talons"
     ],
     "mechanics": {
-      "rank": "Nivel dos"
+      "rank": [
+        "Nivel dos",
+        "Nivel uno"
+      ]
     },
     "sources": [
       {
@@ -8958,27 +8151,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -9423,27 +8595,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -9474,27 +8625,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -9601,35 +8731,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -9693,7 +8794,10 @@
       "children-of-gaia"
     ],
     "mechanics": {
-      "rank": "Nivel tres"
+      "rank": [
+        "Nivel tres",
+        "dos"
+      ]
     },
     "sources": [
       {
@@ -9709,27 +8813,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -9808,27 +8891,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "cuatro"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -9883,27 +8945,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "cinco"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -10246,7 +9287,10 @@
       "glass-walkers"
     ],
     "mechanics": {
-      "rank": "Nivel cuatro"
+      "rank": [
+        "Nivel cuatro",
+        "Nivel tres"
+      ]
     },
     "sources": [
       {
@@ -10263,35 +9307,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -10394,27 +9409,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cinco"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "cinco"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -10799,7 +9793,10 @@
       "bone-gnawers"
     ],
     "mechanics": {
-      "rank": "Nivel tres"
+      "rank": [
+        "Nivel dos",
+        "Nivel tres"
+      ]
     },
     "sources": [
       {
@@ -10816,27 +9813,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -10927,35 +9903,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -11091,7 +10038,10 @@
       "shadow-lords"
     ],
     "mechanics": {
-      "rank": "Nivel uno"
+      "rank": [
+        "Nivel dos",
+        "Nivel uno"
+      ]
     },
     "sources": [
       {
@@ -11108,33 +10058,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
+      "reason": "El texto del Sistema aparece con palabras entremezcladas en la extraccion ('a 60 fectamente metros (200 pies) resultan peraudibles'). Reconstruido como '60 metros (200 pies) resultan perfectamente audibles'; verificar contra la fuente."
     },
     "edges": [],
     "related": []
@@ -11167,25 +10091,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "uno"
-          }
-        }
-      ]
+      "reason": "En la extraccion este Don quedo promovido a encabezado Markdown ('## . Aura de Confianza (Nivel uno)'); es una entrada de Don, no una seccion. Los Dones posteriores toman este texto como encabezado mas cercano."
     },
     "edges": [],
     "related": []
@@ -11217,35 +10123,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -11284,7 +10161,10 @@
       "shadow-lords"
     ],
     "mechanics": {
-      "rank": "Nivel dos"
+      "rank": [
+        "Nivel dos",
+        "Nivel tres"
+      ]
     },
     "sources": [
       {
@@ -11300,27 +10180,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -11375,27 +10234,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -20388,7 +19226,10 @@
       "robado"
     ],
     "mechanics": {
-      "rank": "Nivel dos",
+      "rank": [
+        "Nivel dos",
+        "Nivel uno"
+      ],
       "level": 2,
       "referencia": "Como el Don de las Furias Negras Arrodillarse."
     },
@@ -20407,27 +19248,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-el-libro-del-wyrm"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -23963,25 +22783,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "tres"
-          }
-        }
-      ]
+      "reason": "Artefacto de extracción PDF: la referencia aparece partida ('- Como el Don de los Uktena.' / '- Invisibilidad (Nivel tres):'). Reconstruida en orden de lectura."
     },
     "edges": [],
     "related": []
@@ -25174,43 +23976,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -25408,7 +24173,10 @@
       "ceilican"
     ],
     "mechanics": {
-      "rank": "Nivel tres",
+      "rank": [
+        "Nivel cuatro",
+        "Nivel tres"
+      ],
       "reference": "Como el Don de los Fianna."
     },
     "sources": [
@@ -25419,27 +24187,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -26088,7 +24835,10 @@
       "simba"
     ],
     "mechanics": {
-      "rank": "Nivel cuatro",
+      "rank": [
+        "Nivel cuatro",
+        "Nivel dos"
+      ],
       "reference": "Como el Don Philodox, salvo que afecta a todos los animales en 90 metros (300 pies) a la redonda."
     },
     "sources": [
@@ -26099,27 +24849,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -29909,7 +28638,10 @@
       "doshi"
     ],
     "mechanics": {
-      "rank": "Nivel uno",
+      "rank": [
+        "Nivel dos",
+        "Nivel uno"
+      ],
       "reference": "Como el Don Theurge."
     },
     "sources": [
@@ -29921,35 +28653,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -31509,27 +30212,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel cuatro"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -31911,7 +30593,10 @@
       "sol-de-medianoche"
     ],
     "mechanics": {
-      "rank": "cuatro"
+      "rank": [
+        "Nivel tres",
+        "cuatro"
+      ]
     },
     "sources": [
       {
@@ -31921,27 +30606,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "cuatro"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -32011,7 +30675,10 @@
       "extraccion-reordenada"
     ],
     "mechanics": {
-      "rank": "dos"
+      "rank": [
+        "Nivel tres",
+        "dos"
+      ]
     },
     "sources": [
       {
@@ -32021,27 +30688,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -32163,7 +30809,10 @@
       "sol-decorado"
     ],
     "mechanics": {
-      "rank": "dos"
+      "rank": [
+        "Nivel dos (linterna); Nivel dos (pilar)",
+        "dos"
+      ]
     },
     "sources": [
       {
@@ -32173,28 +30822,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "dos"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp",
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel dos (linterna); Nivel dos (pilar)"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },
@@ -39132,7 +37759,10 @@
       "cross-reference"
     ],
     "mechanics": {
-      "rank": "Nivel tres"
+      "rank": [
+        "Nivel tres",
+        "Nivel uno"
+      ]
     },
     "sources": [
       {
@@ -39143,27 +37773,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: rank",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel tres"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "rank": "Nivel uno"
-          }
-        }
-      ]
-    },
     "edges": [],
     "related": []
   },

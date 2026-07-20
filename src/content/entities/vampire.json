@@ -7971,7 +7971,10 @@
       "Podredumbre de la Tumba"
     ],
     "mechanics": {
-      "level": 3,
+      "level": [
+        3,
+        4
+      ],
       "discipline": [
         "Podredumbre de la Tumba",
         "Tanatosis"
@@ -7987,27 +7990,6 @@
       }
     ],
     "related": [],
-    "review": {
-      "reason": "mechanics differ across sources: level",
-      "conflicts": [
-        {
-          "sources": [
-            "v20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "level": 3
-          }
-        },
-        {
-          "sources": [
-            "v20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "level": 4
-          }
-        }
-      ]
-    },
     "edges": []
   },
   {
@@ -9604,7 +9586,10 @@
       "Quimerismo"
     ],
     "mechanics": {
-      "level": 4,
+      "level": [
+        2,
+        4
+      ],
       "discipline": [
         "Quimerismo",
         "Senda de la Conjuración"
@@ -9620,27 +9605,6 @@
       }
     ],
     "related": [],
-    "review": {
-      "reason": "mechanics differ across sources: level",
-      "conflicts": [
-        {
-          "sources": [
-            "v20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "level": 4
-          }
-        },
-        {
-          "sources": [
-            "v20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "level": 2
-          }
-        }
-      ]
-    },
     "edges": []
   },
   {
