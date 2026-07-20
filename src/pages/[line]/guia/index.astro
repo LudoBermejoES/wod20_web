@@ -1,0 +1,125 @@
+---
+// Per-line guide index: every book with a reading site for this line.
+// (add-reading-mage-books — /‹line›/guia/ landing above the per-book sites.)
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+import { lineUrl } from '../../../lib/entities';
+import { lineInfo } from '../../../lib/lines';
+import '../../../styles/reading.css';
+
+export async function getStaticPaths() {
+  const books = await getCollection('guideBooks');
+  const byLine = new Map<string, typeof books>();
+  for (const b of books) {
+    const arr = byLine.get(b.data.line) ?? [];
+    arr.push(b);
+    byLine.set(b.data.line, arr);
+  }
+  return [...byLine.entries()].map(([line, entries]) => ({
+    params: { line },
+    props: {
+      books: entries
+        .map((e) => e.data)
+        .sort((a, b) => b.page_count - a.page_count),
+    },
+  }));
+}
+
+const { line } = Astro.params as { line: string };
+const info = lineInfo(line)!;
+const { books } = Astro.props as { books: Array<{ book_id: string; book_title_es: string; page_count: number }> };
+const totalPages = books.reduce((n, b) => n + b.page_count, 0);
+---
+
+<Layout title={`Guía de lectura — ${info.nombre}`} theme={line}>
+  <Breadcrumb
+    items={[
+      { label: 'Inicio', href: '/' },
+      { label: info.nombre, href: lineUrl(line) },
+      { label: 'Guía de lectura' },
+    ]}
+  />
+
+  <article class="guide-index reading-body">
+    <header class="title-page">
+      <p class="eyebrow">{info.nombre} · {info.subtitulo}</p>
+      <p class="kicker">Guía de lectura</p>
+      <h1>Los libros</h1>
+      <p class="meta">{books.length} {books.length === 1 ? 'libro' : 'libros'} · {totalPages} secciones de lectura</p>
+    </header>
+
+    <nav class="book-list" aria-label="Libros con guía de lectura">
+      <ul>
+        {
+          books.map((b) => (
+            <li>
+              <a href={`/${line}/guia/${b.book_id}`}>
+                <span class="bt">{b.book_title_es}</span>
+                <span class="pc">{b.page_count} secciones</span>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+  </article>
+
+  <style>
+    .guide-index { max-width: 60rem; }
+
+    .title-page {
+      margin-bottom: var(--space-6);
+      padding-bottom: var(--space-5);
+      border-bottom: 1px solid var(--border);
+    }
+    .title-page .eyebrow {
+      margin: 0 0 1.5em;
+      font-family: var(--font-sans);
+      font-size: 0.78rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      color: var(--muted);
+    }
+    .title-page .kicker { margin-bottom: 0.9em; }
+    .title-page h1 {
+      font-size: clamp(2.2rem, 1.6rem + 3.2vw, 3.75rem);
+      letter-spacing: 0.005em;
+    }
+    .title-page .meta {
+      margin: 0.9em 0 0;
+      font-family: var(--font-sans);
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+
+    .book-list ul { list-style: none; margin: 0; padding: 0; }
+    .book-list li { margin: 0; }
+    .book-list li + li { border-top: 1px solid var(--border); }
+    .book-list a {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: var(--space-4);
+      padding: var(--space-3) 0;
+      text-decoration: none;
+      color: var(--fg);
+    }
+    .book-list .bt {
+      font-family: var(--font-reading-display, var(--font-reading-body));
+      font-size: 1.25rem;
+      line-height: 1.25;
+    }
+    .book-list a:hover .bt { color: var(--accent); text-decoration: underline; }
+    .book-list .pc {
+      flex: none;
+      font-family: var(--font-sans);
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--muted);
+      white-space: nowrap;
+    }
+  </style>
+</Layout>
