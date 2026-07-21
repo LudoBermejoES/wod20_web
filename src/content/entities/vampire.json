@@ -19,8 +19,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "pacificador",
@@ -42,8 +41,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "papito-rico",
@@ -65,8 +63,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "tribuna",
@@ -88,8 +85,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "fecha-de-caducidad",
@@ -111,8 +107,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "oveja-negra",
@@ -134,8 +129,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "domain",
@@ -166,8 +160,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "caitiff",
@@ -196,8 +189,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "brujah",
@@ -219,8 +211,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "gangrel",
@@ -249,8 +240,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "lasombra",
@@ -272,8 +262,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "malkavian",
@@ -302,8 +291,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "nosferatu",
@@ -325,8 +313,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "toreador",
@@ -348,8 +335,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "tremere",
@@ -378,8 +364,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "tzimisce",
@@ -408,8 +393,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "ventrue",
@@ -431,8 +415,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "remote-access-buffer",
@@ -458,9 +441,7 @@
         "variant": "base",
         "book_title_es": "V20 Anarquistas Liberados (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "instant-change",
@@ -486,9 +467,7 @@
         "variant": "base",
         "book_title_es": "V20 Anarquistas Liberados (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "suck-it-up",
@@ -513,9 +492,7 @@
         "variant": "base",
         "book_title_es": "V20 Anarquistas Liberados (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "internet-famous",
@@ -544,8 +521,6 @@
         "book_title_es": "V20 Anarquistas Liberados (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "reference": "funciona igual que el poder de Presencia <a href=\"/vampire/discipline-powers/invocacion\">Invocación</a> (ver V20, pág. 198)"
     }
@@ -583,9 +558,7 @@
         "variant": "base",
         "book_title_es": "V20 Anarquistas Liberados (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "humberside-panic",
@@ -612,8 +585,6 @@
         "book_title_es": "V20 Anarquistas Liberados (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "cost": "un punto de Sangre más otro punto por cada miembro de su coterie al que conceda Celeridad; un punto de Sangre por personaje y turno para mantener el beneficio (sujeto al límite de gasto de Sangre por turno según la <a href=\"/vampire/backgrounds/generacion\">Generación</a>)"
     }
@@ -641,9 +612,7 @@
         "variant": "base",
         "book_title_es": "V20 Anarquistas Liberados (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "slenderman",
@@ -669,9 +638,7 @@
         "variant": "base",
         "book_title_es": "V20 Anarquistas Liberados (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "smiling-jacks-trick",
@@ -700,8 +667,6 @@
         "book_title_es": "V20 Anarquistas Liberados (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "restriction": "sólo afecta a objetivos de <a href=\"/vampire/backgrounds/generacion\">Generación</a> igual o mayor que la del usuario"
     }
@@ -731,9 +696,7 @@
         "variant": "base",
         "book_title_es": "V20 Anarquistas Liberados (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "stone-vision",
@@ -761,9 +724,7 @@
         "variant": "base",
         "book_title_es": "V20 Anarquistas Liberados (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "simulate-vitality",
@@ -791,9 +752,7 @@
         "variant": "base",
         "book_title_es": "V20 Companion (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "ambidiestro",
@@ -815,16 +774,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/ambidiestro"
-    ],
-    "edges": [
-      {
-        "target": "mage/ambidiestro",
-        "type": "cross-line",
-        "via": "id:ambidiestro"
-      }
-    ]
+    "related": []
   },
   {
     "id": "cara-amistosa",
@@ -846,8 +796,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "comer-comida",
@@ -869,8 +818,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "equilibrio-felino",
@@ -892,16 +840,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/equilibrio-felino"
-    ],
-    "edges": [
-      {
-        "target": "mage/equilibrio-felino",
-        "type": "cross-line",
-        "via": "id:equilibrio-felino"
-      }
-    ]
+    "related": []
   },
   {
     "id": "madrugador",
@@ -923,8 +862,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "maton",
@@ -946,8 +884,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sentido-agudo",
@@ -969,8 +906,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "color-saludable",
@@ -992,8 +928,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "voz-encantadora",
@@ -1015,8 +950,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "digestion-eficiente",
@@ -1038,8 +972,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "temerario",
@@ -1061,16 +994,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/temerario"
-    ],
-    "edges": [
-      {
-        "target": "mage/temerario",
-        "type": "cross-line",
-        "via": "id:temerario"
-      }
-    ]
+    "related": []
   },
   {
     "id": "corpulento",
@@ -1092,16 +1016,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/corpulento"
-    ],
-    "edges": [
-      {
-        "target": "mage/corpulento",
-        "type": "cross-line",
-        "via": "id:corpulento"
-      }
-    ]
+    "related": []
   },
   {
     "id": "bajo",
@@ -1123,16 +1038,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/bajo"
-    ],
-    "edges": [
-      {
-        "target": "mage/bajo",
-        "type": "cross-line",
-        "via": "id:bajo"
-      }
-    ]
+    "related": []
   },
   {
     "id": "duro-de-oido",
@@ -1154,8 +1060,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "olor-de-la-tumba",
@@ -1177,8 +1082,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "tic",
@@ -1200,8 +1104,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "defecto-visual",
@@ -1223,8 +1126,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "decimocuarta-generacion",
@@ -1246,8 +1148,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "desfigurado",
@@ -1269,8 +1170,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "mordisco-debil",
@@ -1292,8 +1192,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "mordisco-infeccioso",
@@ -1315,8 +1214,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "tuerto",
@@ -1338,8 +1236,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "vulnerabilidad-a-la-plata",
@@ -1361,8 +1258,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "herida-abierta",
@@ -1384,8 +1280,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "adiccion",
@@ -1407,16 +1302,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/adiccion"
-    ],
-    "edges": [
-      {
-        "target": "mage/adiccion",
-        "type": "cross-line",
-        "via": "id:adiccion"
-      }
-    ]
+    "related": []
   },
   {
     "id": "cojo",
@@ -1438,8 +1324,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "colmillos-permanentes",
@@ -1461,8 +1346,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "curacion-lenta",
@@ -1484,8 +1368,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "deformidad",
@@ -1507,8 +1390,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "herida-permanente",
@@ -1530,16 +1412,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/herida-permanente"
-    ],
-    "edges": [
-      {
-        "target": "mage/herida-permanente",
-        "type": "cross-line",
-        "via": "id:herida-permanente"
-      }
-    ]
+    "related": []
   },
   {
     "id": "monstruoso",
@@ -1561,16 +1434,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/monstruoso"
-    ],
-    "edges": [
-      {
-        "target": "mage/monstruoso",
-        "type": "cross-line",
-        "via": "id:monstruoso"
-      }
-    ]
+    "related": []
   },
   {
     "id": "kid",
@@ -1592,16 +1456,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/kid"
-    ],
-    "edges": [
-      {
-        "target": "mage/kid",
-        "type": "cross-line",
-        "via": "id:kid"
-      }
-    ]
+    "related": []
   },
   {
     "id": "ojos-brillantes",
@@ -1623,8 +1478,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "perezoso",
@@ -1646,8 +1500,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "decimoquinta-generacion",
@@ -1669,8 +1522,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "mudo",
@@ -1692,8 +1544,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "portador-de-enfermedad",
@@ -1715,8 +1566,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sangre-debil",
@@ -1738,8 +1588,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sordo",
@@ -1761,8 +1610,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "carne-cadaverica",
@@ -1784,8 +1632,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "vitae-esteril",
@@ -1807,8 +1654,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "ciego",
@@ -1830,8 +1676,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "concentracion",
@@ -1853,16 +1698,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/concentracion"
-    ],
-    "edges": [
-      {
-        "target": "mage/concentracion",
-        "type": "cross-line",
-        "via": "id:concentracion"
-      }
-    ]
+    "related": []
   },
   {
     "id": "conocimiento-util",
@@ -1884,8 +1720,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "fria-logica",
@@ -1907,8 +1742,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "idioma",
@@ -1930,16 +1764,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/idioma"
-    ],
-    "edges": [
-      {
-        "target": "mage/idioma",
-        "type": "cross-line",
-        "via": "id:idioma"
-      }
-    ]
+    "related": []
   },
   {
     "id": "introspeccion",
@@ -1961,8 +1786,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sentido-comun",
@@ -1984,16 +1808,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/sentido-comun"
-    ],
-    "edges": [
-      {
-        "target": "mage/sentido-comun",
-        "type": "cross-line",
-        "via": "id:sentido-comun"
-      }
-    ]
+    "related": []
   },
   {
     "id": "sentido-del-tiempo",
@@ -2015,16 +1830,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/sentido-del-tiempo"
-    ],
-    "edges": [
-      {
-        "target": "mage/sentido-del-tiempo",
-        "type": "cross-line",
-        "via": "id:sentido-del-tiempo"
-      }
-    ]
+    "related": []
   },
   {
     "id": "aptitud-informatica",
@@ -2046,16 +1852,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/aptitud-informatica"
-    ],
-    "edges": [
-      {
-        "target": "mage/aptitud-informatica",
-        "type": "cross-line",
-        "via": "id:aptitud-informatica"
-      }
-    ]
+    "related": []
   },
   {
     "id": "codigo-de-honor",
@@ -2077,16 +1874,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/codigo-de-honor"
-    ],
-    "edges": [
-      {
-        "target": "mage/codigo-de-honor",
-        "type": "cross-line",
-        "via": "id:codigo-de-honor"
-      }
-    ]
+    "related": []
   },
   {
     "id": "linguista-natural",
@@ -2108,16 +1896,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/linguista-natural"
-    ],
-    "edges": [
-      {
-        "target": "mage/linguista-natural",
-        "type": "cross-line",
-        "via": "id:linguista-natural"
-      }
-    ]
+    "related": []
   },
   {
     "id": "memoria-eidetica",
@@ -2139,16 +1918,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/memoria-eidetica"
-    ],
-    "edges": [
-      {
-        "target": "mage/memoria-eidetica",
-        "type": "cross-line",
-        "via": "id:memoria-eidetica"
-      }
-    ]
+    "related": []
   },
   {
     "id": "sueno-ligero",
@@ -2170,16 +1940,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/sueno-ligero"
-    ],
-    "edges": [
-      {
-        "target": "mage/sueno-ligero",
-        "type": "cross-line",
-        "via": "id:sueno-ligero"
-      }
-    ]
+    "related": []
   },
   {
     "id": "corazon-calmado",
@@ -2201,8 +1962,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "precoz",
@@ -2224,8 +1984,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "voluntad-de-hierro",
@@ -2247,16 +2006,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/voluntad-de-hierro"
-    ],
-    "edges": [
-      {
-        "target": "mage/voluntad-de-hierro",
-        "type": "cross-line",
-        "via": "id:voluntad-de-hierro"
-      }
-    ]
+    "related": []
   },
   {
     "id": "compasivo",
@@ -2278,16 +2028,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/compasivo"
-    ],
-    "edges": [
-      {
-        "target": "mage/compasivo",
-        "type": "cross-line",
-        "via": "id:compasivo"
-      }
-    ]
+    "related": []
   },
   {
     "id": "esceptico",
@@ -2309,8 +2050,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "exclusion-de-presa",
@@ -2332,8 +2072,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "impaciente",
@@ -2355,16 +2094,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/impaciente"
-    ],
-    "edges": [
-      {
-        "target": "mage/impaciente",
-        "type": "cross-line",
-        "via": "id:impaciente"
-      }
-    ]
+    "related": []
   },
   {
     "id": "impedimento-del-habla",
@@ -2386,16 +2116,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/impedimento-del-habla"
-    ],
-    "edges": [
-      {
-        "target": "mage/impedimento-del-habla",
-        "type": "cross-line",
-        "via": "id:impedimento-del-habla"
-      }
-    ]
+    "related": []
   },
   {
     "id": "pesadillas",
@@ -2417,16 +2138,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/pesadillas"
-    ],
-    "edges": [
-      {
-        "target": "mage/pesadillas",
-        "type": "cross-line",
-        "via": "id:pesadillas"
-      }
-    ]
+    "related": []
   },
   {
     "id": "sueno-profundo",
@@ -2448,8 +2160,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "timido",
@@ -2471,16 +2182,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/timido"
-    ],
-    "edges": [
-      {
-        "target": "mage/timido",
-        "type": "cross-line",
-        "via": "id:timido"
-      }
-    ]
+    "related": []
   },
   {
     "id": "amnesia",
@@ -2502,16 +2204,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/amnesia"
-    ],
-    "edges": [
-      {
-        "target": "mage/amnesia",
-        "type": "cross-line",
-        "via": "id:amnesia"
-      }
-    ]
+    "related": []
   },
   {
     "id": "estereotipo",
@@ -2533,8 +2226,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "fobia",
@@ -2556,16 +2248,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/fobia"
-    ],
-    "edges": [
-      {
-        "target": "mage/fobia",
-        "type": "cross-line",
-        "via": "id:fobia"
-      }
-    ]
+    "related": []
   },
   {
     "id": "lunatico",
@@ -2587,8 +2270,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sed-de-inocencia",
@@ -2610,8 +2292,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "temperamental",
@@ -2633,16 +2314,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/temperamental"
-    ],
-    "edges": [
-      {
-        "target": "mage/temperamental",
-        "type": "cross-line",
-        "via": "id:temperamental"
-      }
-    ]
+    "related": []
   },
   {
     "id": "territorial",
@@ -2664,8 +2336,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "vengativo",
@@ -2687,16 +2358,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/vengativo"
-    ],
-    "edges": [
-      {
-        "target": "mage/vengativo",
-        "type": "cross-line",
-        "via": "id:vengativo"
-      }
-    ]
+    "related": []
   },
   {
     "id": "victima-de-la-mascarada",
@@ -2718,8 +2380,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "timorato",
@@ -2741,8 +2402,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "atormentado-por-la-culpa",
@@ -2764,8 +2424,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "consuncion-conspicua",
@@ -2787,8 +2446,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "flash-backs",
@@ -2810,8 +2468,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "antiguo-ghoul",
@@ -2833,8 +2490,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "habitual-del-eliseo",
@@ -2856,8 +2512,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "inofensivo",
@@ -2879,8 +2534,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "lider-natural",
@@ -2902,16 +2556,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/lider-natural"
-    ],
-    "edges": [
-      {
-        "target": "mage/lider-natural",
-        "type": "cross-line",
-        "via": "id:lider-natural"
-      }
-    ]
+    "related": []
   },
   {
     "id": "protegido",
@@ -2933,16 +2578,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/protegido"
-    ],
-    "edges": [
-      {
-        "target": "mage/protegido",
-        "type": "cross-line",
-        "via": "id:protegido"
-      }
-    ]
+    "related": []
   },
   {
     "id": "representante",
@@ -2964,8 +2600,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sire-prestigioso",
@@ -2987,8 +2622,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "superviviente-del-sabbat",
@@ -3010,8 +2644,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "favor",
@@ -3033,16 +2666,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/favor"
-    ],
-    "edges": [
-      {
-        "target": "mage/favor",
-        "type": "cross-line",
-        "via": "id:favor"
-      }
-    ]
+    "related": []
   },
   {
     "id": "amigo-de-la-autoridad",
@@ -3064,8 +2688,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "camino-despejado",
@@ -3087,8 +2710,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "conocimiento-de-enemigos",
@@ -3110,8 +2732,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "conocimiento-de-otros",
@@ -3133,8 +2754,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "esbirro",
@@ -3156,8 +2776,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "santidad",
@@ -3179,16 +2798,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/santidad"
-    ],
-    "edges": [
-      {
-        "target": "mage/santidad",
-        "type": "cross-line",
-        "via": "id:santidad"
-      }
-    ]
+    "related": []
   },
   {
     "id": "viejo-amigo",
@@ -3210,8 +2820,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "amigo-del-submundo",
@@ -3233,8 +2842,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "joven-promesa",
@@ -3256,16 +2864,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/joven-promesa"
-    ],
-    "edges": [
-      {
-        "target": "mage/joven-promesa",
-        "type": "cross-line",
-        "via": "id:joven-promesa"
-      }
-    ]
+    "related": []
   },
   {
     "id": "topo",
@@ -3287,8 +2886,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "amistad-con-la-primogenitura-el-obispado",
@@ -3314,8 +2912,7 @@
     "review": {
       "reason": "dual/compound name — may be two entities",
       "conflicts": []
-    },
-    "edges": []
+    }
   },
   {
     "id": "amistad-con-un-clan",
@@ -3337,8 +2934,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "vinculo-roto",
@@ -3360,8 +2956,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "comprension-incompleta",
@@ -3383,8 +2978,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "confusion-de-identidad",
@@ -3406,16 +3000,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/confusion-de-identidad"
-    ],
-    "edges": [
-      {
-        "target": "mage/confusion-de-identidad",
-        "type": "cross-line",
-        "via": "id:confusion-de-identidad"
-      }
-    ]
+    "related": []
   },
   {
     "id": "novato",
@@ -3437,16 +3022,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/novato"
-    ],
-    "edges": [
-      {
-        "target": "mage/novato",
-        "type": "cross-line",
-        "via": "id:novato"
-      }
-    ]
+    "related": []
   },
   {
     "id": "objetivo-de-reclutamiento",
@@ -3468,8 +3044,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "prescindible",
@@ -3491,16 +3066,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/prescindible"
-    ],
-    "edges": [
-      {
-        "target": "mage/prescindible",
-        "type": "cross-line",
-        "via": "id:prescindible"
-      }
-    ]
+    "related": []
   },
   {
     "id": "presentacion-torpe",
@@ -3522,8 +3088,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "recien-llegado",
@@ -3545,8 +3110,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "responsabilidad-especial",
@@ -3568,16 +3132,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/responsabilidad-especial"
-    ],
-    "edges": [
-      {
-        "target": "mage/responsabilidad-especial",
-        "type": "cross-line",
-        "via": "id:responsabilidad-especial"
-      }
-    ]
+    "related": []
   },
   {
     "id": "secreto-oscuro",
@@ -3599,16 +3154,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/secreto-oscuro"
-    ],
-    "edges": [
-      {
-        "target": "mage/secreto-oscuro",
-        "type": "cross-line",
-        "via": "id:secreto-oscuro"
-      }
-    ]
+    "related": []
   },
   {
     "id": "sympathizer",
@@ -3630,16 +3176,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/sympathizer"
-    ],
-    "edges": [
-      {
-        "target": "mage/sympathizer",
-        "type": "cross-line",
-        "via": "id:sympathizer"
-      }
-    ]
+    "related": []
   },
   {
     "id": "sire-infame",
@@ -3661,8 +3198,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sire-resentido",
@@ -3684,8 +3220,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "enemigo",
@@ -3707,16 +3242,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/enemigo"
-    ],
-    "edges": [
-      {
-        "target": "mage/enemigo",
-        "type": "cross-line",
-        "via": "id:enemigo"
-      }
-    ]
+    "related": []
   },
   {
     "id": "arrogante",
@@ -3738,8 +3264,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "fiasco",
@@ -3761,8 +3286,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "objetivo-frustrado",
@@ -3784,8 +3308,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "pawn",
@@ -3807,16 +3330,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/pawn"
-    ],
-    "edges": [
-      {
-        "target": "mage/pawn",
-        "type": "cross-line",
-        "via": "id:pawn"
-      }
-    ]
+    "related": []
   },
   {
     "id": "sires-rivales",
@@ -3838,8 +3352,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "transgresor-de-la-mascarada",
@@ -3861,8 +3374,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "viejo-amor",
@@ -3884,16 +3396,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/viejo-amor"
-    ],
-    "edges": [
-      {
-        "target": "mage/viejo-amor",
-        "type": "cross-line",
-        "via": "id:viejo-amor"
-      }
-    ]
+    "related": []
   },
   {
     "id": "vinculado",
@@ -3915,16 +3418,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/vinculado"
-    ],
-    "edges": [
-      {
-        "target": "mage/vinculado",
-        "type": "cross-line",
-        "via": "id:vinculado"
-      }
-    ]
+    "related": []
   },
   {
     "id": "antiguo-principe",
@@ -3946,8 +3440,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "cazado-como-un-perro",
@@ -3969,8 +3462,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "desgracia-para-la-sangre",
@@ -3992,8 +3484,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "durmiendo-con-el-enemigo",
@@ -4015,16 +3506,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/durmiendo-con-el-enemigo"
-    ],
-    "edges": [
-      {
-        "target": "mage/durmiendo-con-el-enemigo",
-        "type": "cross-line",
-        "via": "id:durmiendo-con-el-enemigo"
-      }
-    ]
+    "related": []
   },
   {
     "id": "soplon",
@@ -4046,16 +3528,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/soplon"
-    ],
-    "edges": [
-      {
-        "target": "mage/soplon",
-        "type": "cross-line",
-        "via": "id:soplon"
-      }
-    ]
+    "related": []
   },
   {
     "id": "desbordado",
@@ -4077,16 +3550,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/desbordado"
-    ],
-    "edges": [
-      {
-        "target": "mage/desbordado",
-        "type": "cross-line",
-        "via": "id:desbordado"
-      }
-    ]
+    "related": []
   },
   {
     "id": "enemistad-con-un-clan",
@@ -4108,8 +3572,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "miembro-de-secta-a-prueba",
@@ -4131,8 +3594,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "perseguido",
@@ -4154,8 +3616,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "reinante-detestable",
@@ -4177,8 +3638,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "caza-de-sangre",
@@ -4200,8 +3660,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "hazmerreir",
@@ -4223,8 +3682,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "lista-roja",
@@ -4246,8 +3704,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "aura-enganosa",
@@ -4269,8 +3726,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "inofensivo-para-los-animales",
@@ -4292,8 +3748,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "toque-curativo",
@@ -4315,8 +3770,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "medium",
@@ -4338,16 +3792,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/medium"
-    ],
-    "edges": [
-      {
-        "target": "mage/medium",
-        "type": "cross-line",
-        "via": "id:medium"
-      }
-    ]
+    "related": []
   },
   {
     "id": "resistencia-a-la-magia",
@@ -4369,8 +3814,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "afortunado",
@@ -4392,16 +3836,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/afortunado"
-    ],
-    "edges": [
-      {
-        "target": "mage/afortunado",
-        "type": "cross-line",
-        "via": "id:afortunado"
-      }
-    ]
+    "related": []
   },
   {
     "id": "diablerie-oculta",
@@ -4423,8 +3858,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "dotes-de-oraculo",
@@ -4446,8 +3880,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "espiritu-mentor",
@@ -4469,16 +3902,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/espiritu-mentor"
-    ],
-    "edges": [
-      {
-        "target": "mage/espiritu-mentor",
-        "type": "cross-line",
-        "via": "id:espiritu-mentor"
-      }
-    ]
+    "related": []
   },
   {
     "id": "amor-verdadero",
@@ -4500,16 +3924,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/amor-verdadero"
-    ],
-    "edges": [
-      {
-        "target": "mage/amor-verdadero",
-        "type": "cross-line",
-        "via": "id:amor-verdadero"
-      }
-    ]
+    "related": []
   },
   {
     "id": "disciplina-adicional",
@@ -4531,8 +3946,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "invinculable",
@@ -4554,16 +3968,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/invinculable"
-    ],
-    "edges": [
-      {
-        "target": "mage/invinculable",
-        "type": "cross-line",
-        "via": "id:invinculable"
-      }
-    ]
+    "related": []
   },
   {
     "id": "nueve-vidas",
@@ -4585,16 +3990,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/nueve-vidas"
-    ],
-    "edges": [
-      {
-        "target": "mage/nueve-vidas",
-        "type": "cross-line",
-        "via": "id:nueve-vidas"
-      }
-    ]
+    "related": []
   },
   {
     "id": "fe-verdadera",
@@ -4616,16 +4012,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/fe-verdadera"
-    ],
-    "edges": [
-      {
-        "target": "mage/fe-verdadera",
-        "type": "cross-line",
-        "via": "id:fe-verdadera"
-      }
-    ]
+    "related": []
   },
   {
     "id": "brisa-gelida",
@@ -4647,8 +4034,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "repelido-por-el-ajo",
@@ -4670,8 +4056,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sin-reflejo",
@@ -4693,8 +4078,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "toque-de-escarcha",
@@ -4716,8 +4100,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "maldito",
@@ -4739,16 +4122,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/maldito"
-    ],
-    "edges": [
-      {
-        "target": "mage/maldito",
-        "type": "cross-line",
-        "via": "id:maldito"
-      }
-    ]
+    "related": []
   },
   {
     "id": "faro-impio",
@@ -4770,8 +4144,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "presencia-inquietante",
@@ -4793,8 +4166,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "senor-de-las-moscas",
@@ -4816,8 +4188,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "vision-de-muerte",
@@ -4839,8 +4210,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "embrujado",
@@ -4862,16 +4232,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/embrujado"
-    ],
-    "edges": [
-      {
-        "target": "mage/embrujado",
-        "type": "cross-line",
-        "via": "id:embrujado"
-      }
-    ]
+    "related": []
   },
   {
     "id": "repelido-por-las-cruces",
@@ -4893,8 +4254,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "rios-infranqueables",
@@ -4916,8 +4276,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "presa-de-condenacion",
@@ -4939,8 +4298,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sensible-a-la-luz",
@@ -4962,8 +4320,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sino-aciago",
@@ -4985,16 +4342,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/sino-aciago"
-    ],
-    "edges": [
-      {
-        "target": "mage/sino-aciago",
-        "type": "cross-line",
-        "via": "id:sino-aciago"
-      }
-    ]
+    "related": []
   },
   {
     "id": "generacion",
@@ -5018,8 +4366,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "allies",
@@ -5043,22 +4390,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/allies",
-      "wraith/allies"
-    ],
-    "edges": [
-      {
-        "target": "mage/allies",
-        "type": "cross-line",
-        "via": "id:allies"
-      },
-      {
-        "target": "wraith/allies",
-        "type": "cross-line",
-        "via": "id:allies"
-      }
-    ]
+    "related": []
   },
   {
     "id": "contacts",
@@ -5082,22 +4414,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/contacts",
-      "wraith/contacts"
-    ],
-    "edges": [
-      {
-        "target": "mage/contacts",
-        "type": "cross-line",
-        "via": "id:contacts"
-      },
-      {
-        "target": "wraith/contacts",
-        "type": "cross-line",
-        "via": "id:contacts"
-      }
-    ]
+    "related": []
   },
   {
     "id": "retainers",
@@ -5121,16 +4438,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/retainers"
-    ],
-    "edges": [
-      {
-        "target": "mage/retainers",
-        "type": "cross-line",
-        "via": "id:retainers"
-      }
-    ]
+    "related": []
   },
   {
     "id": "status",
@@ -5154,28 +4462,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "hunter/status",
-      "mage/status",
-      "wraith/status"
-    ],
-    "edges": [
-      {
-        "target": "hunter/status",
-        "type": "cross-line",
-        "via": "id:status"
-      },
-      {
-        "target": "mage/status",
-        "type": "cross-line",
-        "via": "id:status"
-      },
-      {
-        "target": "wraith/status",
-        "type": "cross-line",
-        "via": "id:status"
-      }
-    ]
+    "related": []
   },
   {
     "id": "fame",
@@ -5199,16 +4486,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/fame"
-    ],
-    "edges": [
-      {
-        "target": "mage/fame",
-        "type": "cross-line",
-        "via": "id:fame"
-      }
-    ]
+    "related": []
   },
   {
     "id": "influence",
@@ -5232,16 +4510,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/influence"
-    ],
-    "edges": [
-      {
-        "target": "mage/influence",
-        "type": "cross-line",
-        "via": "id:influence"
-      }
-    ]
+    "related": []
   },
   {
     "id": "mentor",
@@ -5265,28 +4534,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "hunter/mentor",
-      "mage/mentor",
-      "wraith/mentor"
-    ],
-    "edges": [
-      {
-        "target": "hunter/mentor",
-        "type": "cross-line",
-        "via": "id:mentor"
-      },
-      {
-        "target": "mage/mentor",
-        "type": "cross-line",
-        "via": "id:mentor"
-      },
-      {
-        "target": "wraith/mentor",
-        "type": "cross-line",
-        "via": "id:mentor"
-      }
-    ]
+    "related": []
   },
   {
     "id": "rebano",
@@ -5310,8 +4558,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "resources",
@@ -5335,22 +4582,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "hunter/resources",
-      "mage/resources"
-    ],
-    "edges": [
-      {
-        "target": "hunter/resources",
-        "type": "cross-line",
-        "via": "id:resources"
-      },
-      {
-        "target": "mage/resources",
-        "type": "cross-line",
-        "via": "id:resources"
-      }
-    ]
+    "related": []
   },
   {
     "id": "susurros-salvajes",
@@ -5376,8 +4608,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "llamada",
@@ -5403,8 +4634,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "reprimir-a-la-bestia",
@@ -5430,8 +4660,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "comunion-de-espiritus",
@@ -5457,8 +4686,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "expulsar-a-la-bestia",
@@ -5484,8 +4712,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "alma-compartida",
@@ -5511,8 +4738,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "habla-de-la-especie",
@@ -5538,8 +4764,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "suculencia-animal",
@@ -5565,8 +4790,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "conquistar-a-la-bestia",
@@ -5592,8 +4816,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "provocar-a-la-bestia-enjaulada",
@@ -5619,8 +4842,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "desencadenar-a-la-bestia",
@@ -5646,8 +4868,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sentidos-agudizados",
@@ -5673,8 +4894,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "percepcion-del-aura",
@@ -5700,8 +4920,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "toque-del-espiritu",
@@ -5727,8 +4946,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "telepatia",
@@ -5754,16 +4972,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/telepatia"
-    ],
-    "edges": [
-      {
-        "target": "mage/telepatia",
-        "type": "cross-line",
-        "via": "id:telepatia"
-      }
-    ]
+    "related": []
   },
   {
     "id": "proyeccion-psiquica",
@@ -5789,8 +4998,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "clarividencia",
@@ -5816,16 +5024,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/clarividencia"
-    ],
-    "edges": [
-      {
-        "target": "mage/clarividencia",
-        "type": "cross-line",
-        "via": "id:clarividencia"
-      }
-    ]
+    "related": []
   },
   {
     "id": "comunicacion-telepatica",
@@ -5851,8 +5050,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "prediccion",
@@ -5878,8 +5076,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "reflejo-especular",
@@ -5905,8 +5102,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "vision-karmica",
@@ -5932,8 +5128,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "asalto-psiquico",
@@ -5959,8 +5154,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "falso-reposo",
@@ -5986,8 +5180,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "proyectil",
@@ -6013,8 +5206,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "flor-de-muerte",
@@ -6040,8 +5232,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "cefiro",
@@ -6067,8 +5258,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "pasion",
@@ -6094,8 +5284,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "tortura-mental",
@@ -6121,8 +5310,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "ojos-del-caos",
@@ -6148,8 +5336,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "voz-de-locura",
@@ -6175,8 +5362,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "locura-total",
@@ -6202,8 +5388,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "afliccion-persistente",
@@ -6229,8 +5414,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "espejo-roto",
@@ -6256,8 +5440,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "reestructuracion",
@@ -6283,8 +5466,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "flagelo-personal",
@@ -6310,8 +5492,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "erupcion-lunatica",
@@ -6337,8 +5518,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "orden",
@@ -6364,8 +5544,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "mesmerismo",
@@ -6391,8 +5570,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "mente-olvidadiza",
@@ -6418,8 +5596,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "condicionamiento",
@@ -6445,8 +5622,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "posesion",
@@ -6472,8 +5648,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "encadenar-la-psique",
@@ -6499,8 +5674,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "lealtad",
@@ -6526,16 +5700,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/lealtad"
-    ],
-    "edges": [
-      {
-        "target": "mage/lealtad",
-        "type": "cross-line",
-        "via": "id:lealtad"
-      }
-    ]
+    "related": []
   },
   {
     "id": "obediencia",
@@ -6561,8 +5726,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "detener-la-carne-mortal",
@@ -6588,8 +5752,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "manipulacion-en-masa",
@@ -6615,8 +5778,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "dominio-lejano",
@@ -6642,8 +5804,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "hablar-a-traves-de-la-sangre",
@@ -6669,8 +5830,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "silencio-de-la-muerte",
@@ -6696,8 +5856,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "toque-de-escorpion",
@@ -6723,8 +5882,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "llamada-de-dagon",
@@ -6750,8 +5908,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "caricia-de-baal",
@@ -6777,8 +5934,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sabor-a-muerte",
@@ -6804,8 +5960,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "ondas-del-corazon",
@@ -6831,8 +5986,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "purificacion",
@@ -6858,8 +6012,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "silencio-selectivo",
@@ -6885,8 +6038,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sudor-de-sangre",
@@ -6912,8 +6064,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "envenenar-la-fuente-de-la-vida",
@@ -6939,8 +6090,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sangrientas-garras-de-baal",
@@ -6966,8 +6116,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "canciones-de-vitae-distante",
@@ -6993,8 +6142,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "condenar-los-pecados-del-padre",
@@ -7020,8 +6168,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "armadura-personal",
@@ -7047,8 +6194,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "fuerza-compartida",
@@ -7074,8 +6220,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "adamantino",
@@ -7101,8 +6246,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "testigo-de-la-muerte",
@@ -7129,7 +6273,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/sepulchre-path\">Senda del Sepulcro</a>"
     }
@@ -7159,7 +6302,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/sepulchre-path\">Senda del Sepulcro</a>"
     }
@@ -7189,7 +6331,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/sepulchre-path\">Senda del Sepulcro</a>"
     }
@@ -7219,7 +6360,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/sepulchre-path\">Senda del Sepulcro</a>"
     }
@@ -7249,7 +6389,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/sepulchre-path\">Senda del Sepulcro</a>"
     }
@@ -7279,7 +6418,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/corpse-in-the-monster\">Cadáver dentro del Monstruo</a>"
     }
@@ -7309,7 +6447,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/corpse-in-the-monster\">Cadáver dentro del Monstruo</a>"
     }
@@ -7339,7 +6476,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/corpse-in-the-monster\">Cadáver dentro del Monstruo</a>"
     }
@@ -7369,7 +6505,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/corpse-in-the-monster\">Cadáver dentro del Monstruo</a>"
     }
@@ -7399,7 +6534,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/corpse-in-the-monster\">Cadáver dentro del Monstruo</a>"
     }
@@ -7429,7 +6563,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/ash-path\">Senda de las Cenizas</a>"
     }
@@ -7459,7 +6592,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/ash-path\">Senda de las Cenizas</a>"
     }
@@ -7489,7 +6621,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/ash-path\">Senda de las Cenizas</a>"
     }
@@ -7519,7 +6650,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/ash-path\">Senda de las Cenizas</a>"
     }
@@ -7549,7 +6679,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/ash-path\">Senda de las Cenizas</a>"
     }
@@ -7579,7 +6708,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/cenotaph-path\">Senda del Cenotafio</a>"
     }
@@ -7609,7 +6737,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/cenotaph-path\">Senda del Cenotafio</a>"
     }
@@ -7639,7 +6766,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/cenotaph-path\">Senda del Cenotafio</a>"
     }
@@ -7669,7 +6795,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/cenotaph-path\">Senda del Cenotafio</a>"
     }
@@ -7699,7 +6824,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/cenotaph-path\">Senda del Cenotafio</a>"
     }
@@ -7729,7 +6853,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/path-of-the-four-humors\">Senda de los Cuatro Humores</a>"
     }
@@ -7759,7 +6882,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/path-of-the-four-humors\">Senda de los Cuatro Humores</a>"
     }
@@ -7789,7 +6911,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/path-of-the-four-humors\">Senda de los Cuatro Humores</a>"
     }
@@ -7819,7 +6940,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/path-of-the-four-humors\">Senda de los Cuatro Humores</a>"
     }
@@ -7849,7 +6969,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/path-of-the-four-humors\">Senda de los Cuatro Humores</a>"
     }
@@ -7879,7 +6998,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/bone-path\">Senda del Osario</a>"
     }
@@ -7909,7 +7027,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/bone-path\">Senda del Osario</a>"
     }
@@ -7939,7 +7056,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/bone-path\">Senda del Osario</a>"
     }
@@ -7969,7 +7085,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/bone-path\">Senda del Osario</a>"
     }
@@ -7999,7 +7114,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/bone-path\">Senda del Osario</a>"
     }
@@ -8029,7 +7143,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/graves-decay\">Podredumbre de la Tumba</a>"
     }
@@ -8059,7 +7172,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/graves-decay\">Podredumbre de la Tumba</a>"
     }
@@ -8095,7 +7207,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": [
         "<a href=\"/vampire/necromancy-paths/graves-decay\">Podredumbre de la Tumba</a>",
@@ -8128,7 +7239,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/graves-decay\">Podredumbre de la Tumba</a>"
     }
@@ -8158,7 +7268,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/graves-decay\">Podredumbre de la Tumba</a>"
     }
@@ -8188,7 +7297,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/vitreous-path\">Senda Vítrea</a>"
     }
@@ -8218,7 +7326,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/vitreous-path\">Senda Vítrea</a>"
     }
@@ -8248,7 +7355,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/vitreous-path\">Senda Vítrea</a>"
     }
@@ -8278,7 +7384,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/vitreous-path\">Senda Vítrea</a>"
     }
@@ -8308,7 +7413,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/necromancy-paths/vitreous-path\">Senda Vítrea</a>"
     }
@@ -8337,8 +7441,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "manto-de-la-noche",
@@ -8364,8 +7467,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "brazos-del-abismo",
@@ -8391,8 +7493,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "metamorfosis-negra",
@@ -8418,8 +7519,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "forma-tenebrosa",
@@ -8445,8 +7545,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "caminar-por-las-sombras",
@@ -8472,8 +7571,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "oscuridad-interior",
@@ -8499,8 +7597,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "gemelo-de-sombra",
@@ -8526,8 +7623,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "mazmorra",
@@ -8553,8 +7649,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "dominios-de-ahriman",
@@ -8580,8 +7675,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "capa-de-sombras",
@@ -8607,8 +7701,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "presencia-invisible",
@@ -8634,8 +7727,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "mascara-de-las-mil-caras",
@@ -8661,8 +7753,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "desvanecerse-del-ojo-de-la-mente",
@@ -8688,8 +7779,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "encubrimiento-de-la-concurrencia",
@@ -8715,8 +7805,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "mascara-del-alma",
@@ -8742,8 +7831,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "mente-en-blanco",
@@ -8769,8 +7857,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "ocultar",
@@ -8796,8 +7883,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "escondrijo",
@@ -8823,8 +7909,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "velo-de-dichosa-ignorancia",
@@ -8850,8 +7935,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "viejo-amigo",
@@ -8877,8 +7961,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "crear-nombre",
@@ -8904,8 +7987,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "dejar-huella",
@@ -8931,8 +8013,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "temblor-de-tierra",
@@ -8958,8 +8039,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "capirotazo",
@@ -8985,8 +8065,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "fascinacion",
@@ -9012,16 +8091,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/fascinacion"
-    ],
-    "edges": [
-      {
-        "target": "mage/fascinacion",
-        "type": "cross-line",
-        "via": "id:fascinacion"
-      }
-    ]
+    "related": []
   },
   {
     "id": "mirada-aterradora",
@@ -9047,8 +8117,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "charm",
@@ -9074,16 +8143,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/charm"
-    ],
-    "edges": [
-      {
-        "target": "mage/charm",
-        "type": "cross-line",
-        "via": "id:charm"
-      }
-    ]
+    "related": []
   },
   {
     "id": "invocacion",
@@ -9109,8 +8169,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "majestad",
@@ -9136,8 +8195,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "amor",
@@ -9163,8 +8221,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "chispa-de-ira",
@@ -9190,8 +8247,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "mirada-paralizante",
@@ -9217,8 +8273,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "cooperacion",
@@ -9244,8 +8299,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "orden-irresistible",
@@ -9271,8 +8325,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "pulso-de-la-ciudad",
@@ -9298,8 +8351,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "ojos-de-la-bestia",
@@ -9325,8 +8377,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "garras-salvajes",
@@ -9352,8 +8403,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "fusion-con-la-tierra",
@@ -9379,8 +8429,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "forma-de-la-bestia",
@@ -9406,8 +8455,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "forma-de-niebla",
@@ -9433,8 +8481,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "carne-de-marmol",
@@ -9460,8 +8507,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "control-de-la-tierra",
@@ -9487,8 +8533,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "cuerpo-espectral",
@@ -9514,8 +8559,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "forma-de-la-ira-de-la-bestia",
@@ -9541,8 +8585,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "restaurar-la-faz-mortal",
@@ -9568,8 +8611,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "purificar-la-bestia-empalada",
@@ -9595,8 +8637,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "concentracion-introspectiva",
@@ -9622,8 +8663,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "ignis-fatuus",
@@ -9649,8 +8689,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "fata-morgana",
@@ -9676,8 +8715,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "aparicion",
@@ -9703,8 +8741,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "permanencia",
@@ -9737,7 +8774,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": [
         "Quimerismo",
@@ -9769,8 +8805,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "dominio-del-fatuus",
@@ -9796,8 +8831,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "falsa-resonancia",
@@ -9823,8 +8857,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "pesadilla-compartida",
@@ -9850,8 +8883,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "fatuus-lejano",
@@ -9877,8 +8909,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "suspension-de-incredulidad",
@@ -9904,8 +8935,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sinestesia",
@@ -9931,8 +8961,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "mayaparisatya",
@@ -9958,8 +8987,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "ojos-de-serpiente",
@@ -9985,8 +9013,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "lengua-de-aspid",
@@ -10012,8 +9039,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "piel-de-vibora",
@@ -10039,8 +9065,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "forma-de-cobra",
@@ -10066,8 +9091,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "corazon-de-las-tinieblas",
@@ -10093,8 +9117,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "colmillos-de-cobra",
@@ -10120,8 +9143,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "imagen-divina",
@@ -10147,8 +9169,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "ladron-de-corazones",
@@ -10174,8 +9195,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sombra-de-apep",
@@ -10201,8 +9221,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sabor-de-la-sangre",
@@ -10229,7 +9248,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-blood\">Senda de la Sangre</a>"
     }
@@ -10259,7 +9277,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-blood\">Senda de la Sangre</a>"
     }
@@ -10289,7 +9306,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-blood\">Senda de la Sangre</a>"
     }
@@ -10319,7 +9335,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-blood\">Senda de la Sangre</a>"
     }
@@ -10349,7 +9364,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-blood\">Senda de la Sangre</a>"
     }
@@ -10379,7 +9393,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-conjuring\">Senda de la Conjuración</a>"
     }
@@ -10409,7 +9422,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-conjuring\">Senda de la Conjuración</a>"
     }
@@ -10439,7 +9451,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-conjuring\">Senda de la Conjuración</a>"
     }
@@ -10469,7 +9480,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-conjuring\">Senda de la Conjuración</a>"
     }
@@ -10499,7 +9509,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-corruption\">Senda de la Corrupción</a>"
     }
@@ -10529,7 +9538,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-corruption\">Senda de la Corrupción</a>"
     }
@@ -10559,7 +9567,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-corruption\">Senda de la Corrupción</a>"
     }
@@ -10588,16 +9595,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/adiccion"
-    ],
-    "edges": [
-      {
-        "target": "mage/adiccion",
-        "type": "cross-line",
-        "via": "id:adiccion"
-      }
-    ],
+    "related": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-corruption\">Senda de la Corrupción</a>"
     }
@@ -10627,7 +9625,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-corruption\">Senda de la Corrupción</a>"
     }
@@ -10657,7 +9654,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/elemental-mastery\">Dominio Elemental</a>"
     }
@@ -10687,7 +9683,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/elemental-mastery\">Dominio Elemental</a>"
     }
@@ -10717,7 +9712,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/elemental-mastery\">Dominio Elemental</a>"
     }
@@ -10747,7 +9741,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/elemental-mastery\">Dominio Elemental</a>"
     }
@@ -10777,7 +9770,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/elemental-mastery\">Dominio Elemental</a>"
     }
@@ -10807,7 +9799,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/hands-of-destruction\">Manos de Destrucción</a>"
     }
@@ -10837,7 +9828,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/hands-of-destruction\">Manos de Destrucción</a>"
     }
@@ -10867,7 +9857,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/hands-of-destruction\">Manos de Destrucción</a>"
     }
@@ -10897,7 +9886,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/hands-of-destruction\">Manos de Destrucción</a>"
     }
@@ -10927,7 +9915,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/hands-of-destruction\">Manos de Destrucción</a>"
     }
@@ -10957,7 +9944,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-mars\">Senda de Marte</a>"
     }
@@ -10987,7 +9973,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-mars\">Senda de Marte</a>"
     }
@@ -11017,7 +10002,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-mars\">Senda de Marte</a>"
     }
@@ -11047,7 +10031,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-mars\">Senda de Marte</a>"
     }
@@ -11077,7 +10060,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-mars\">Senda de Marte</a>"
     }
@@ -11107,7 +10089,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/neptunes-might\">Poder de Neptuno</a>"
     }
@@ -11137,7 +10118,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/neptunes-might\">Poder de Neptuno</a>"
     }
@@ -11167,7 +10147,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/neptunes-might\">Poder de Neptuno</a>"
     }
@@ -11197,7 +10176,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/neptunes-might\">Poder de Neptuno</a>"
     }
@@ -11227,7 +10205,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/neptunes-might\">Poder de Neptuno</a>"
     }
@@ -11257,7 +10234,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-technomancy\">Senda de la Tecnomancia</a>"
     }
@@ -11287,7 +10263,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-technomancy\">Senda de la Tecnomancia</a>"
     }
@@ -11317,7 +10292,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-technomancy\">Senda de la Tecnomancia</a>"
     }
@@ -11347,7 +10321,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-technomancy\">Senda de la Tecnomancia</a>"
     }
@@ -11377,7 +10350,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-technomancy\">Senda de la Tecnomancia</a>"
     }
@@ -11407,7 +10379,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-the-fathers-vengeance\">Senda de la Venganza del Padre</a>"
     }
@@ -11437,7 +10408,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-the-fathers-vengeance\">Senda de la Venganza del Padre</a>"
     }
@@ -11467,7 +10437,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-the-fathers-vengeance\">Senda de la Venganza del Padre</a>"
     }
@@ -11497,7 +10466,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-the-fathers-vengeance\">Senda de la Venganza del Padre</a>"
     }
@@ -11527,7 +10495,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-the-fathers-vengeance\">Senda de la Venganza del Padre</a>"
     }
@@ -11557,7 +10524,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/the-green-path\">Senda Verde</a>"
     }
@@ -11587,7 +10553,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/the-green-path\">Senda Verde</a>"
     }
@@ -11617,7 +10582,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/the-green-path\">Senda Verde</a>"
     }
@@ -11647,7 +10611,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/the-green-path\">Senda Verde</a>"
     }
@@ -11677,7 +10640,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/the-green-path\">Senda Verde</a>"
     }
@@ -11706,8 +10668,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "moldear-carne",
@@ -11733,8 +10694,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "moldear-hueso",
@@ -11760,8 +10720,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "forma-horrenda",
@@ -11787,8 +10746,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "forma-de-sangre",
@@ -11814,8 +10772,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "merodeador-quiroptero",
@@ -11841,8 +10798,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sangre-acida",
@@ -11868,8 +10824,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "caparazon",
@@ -11895,8 +10850,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "aliento-del-dragon",
@@ -11922,8 +10876,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "vasto-refugio-de-tierra",
@@ -11949,8 +10902,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "restaurar-humanitas",
@@ -11976,8 +10928,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "signo-de-destierro-de-thoth",
@@ -12003,8 +10954,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "don-de-apis",
@@ -12030,8 +10980,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "pilar-de-osiris",
@@ -12057,8 +11006,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "paradox",
@@ -12084,8 +11032,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "favor-de-anubis",
@@ -12111,8 +11058,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "invocar-el-alba",
@@ -12138,8 +11084,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "momificacion",
@@ -12165,8 +11110,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "bendicion-de-ra",
@@ -12192,8 +11136,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sentir-el-pecado",
@@ -12219,8 +11162,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "miedo-al-vacio-inferior",
@@ -12246,8 +11188,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "conflagracion",
@@ -12273,8 +11214,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "psicomaquia",
@@ -12300,8 +11240,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "condena",
@@ -12327,8 +11266,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "concordancia",
@@ -12354,8 +11292,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "invocar-al-heraldo-de-tofet",
@@ -12381,8 +11318,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "contagio",
@@ -12408,8 +11344,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "llamar-a-la-gran-bestia",
@@ -12435,8 +11370,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "conversar-con-la-hoja",
@@ -12463,7 +11397,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/awakening-of-the-steel\">Despertar del Acero</a>"
     }
@@ -12493,7 +11426,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/awakening-of-the-steel\">Despertar del Acero</a>"
     }
@@ -12523,7 +11455,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/awakening-of-the-steel\">Despertar del Acero</a>"
     }
@@ -12553,7 +11484,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/awakening-of-the-steel\">Despertar del Acero</a>"
     }
@@ -12583,7 +11513,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/awakening-of-the-steel\">Despertar del Acero</a>"
     }
@@ -12613,7 +11542,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/way-of-water\">Vía del Agua</a>"
     }
@@ -12643,7 +11571,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/way-of-water\">Vía del Agua</a>"
     }
@@ -12673,7 +11600,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/way-of-water\">Vía del Agua</a>"
     }
@@ -12703,7 +11629,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/way-of-water\">Vía del Agua</a>"
     }
@@ -12733,7 +11658,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/way-of-water\">Vía del Agua</a>"
     }
@@ -12763,7 +11687,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/way-of-fire\">Vía del Fuego</a>"
     }
@@ -12793,7 +11716,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/way-of-fire\">Vía del Fuego</a>"
     }
@@ -12823,7 +11745,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/way-of-fire\">Vía del Fuego</a>"
     }
@@ -12853,7 +11774,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/way-of-fire\">Vía del Fuego</a>"
     }
@@ -12883,7 +11803,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/way-of-fire\">Vía del Fuego</a>"
     }
@@ -12913,7 +11832,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/way-of-earth\">Vía de la Tierra</a>"
     }
@@ -12943,7 +11861,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/way-of-earth\">Vía de la Tierra</a>"
     }
@@ -12973,7 +11890,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/way-of-earth\">Vía de la Tierra</a>"
     }
@@ -13003,7 +11919,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/way-of-earth\">Vía de la Tierra</a>"
     }
@@ -13033,7 +11948,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/way-of-earth\">Vía de la Tierra</a>"
     }
@@ -13063,7 +11977,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/way-of-wind\">Vía del Viento</a>"
     }
@@ -13093,7 +12006,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/way-of-wind\">Vía del Viento</a>"
     }
@@ -13123,7 +12035,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/way-of-wind\">Vía del Viento</a>"
     }
@@ -13152,16 +12063,7 @@
         "variant": "base"
       }
     ],
-    "related": [
-      "wraith/cabalgar-la-tempestad"
-    ],
-    "edges": [
-      {
-        "target": "wraith/cabalgar-la-tempestad",
-        "type": "cross-line",
-        "via": "id:cabalgar-la-tempestad"
-      }
-    ],
+    "related": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/way-of-wind\">Vía del Viento</a>"
     }
@@ -13191,7 +12093,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "discipline": "<a href=\"/vampire/thaumaturgy-paths/way-of-wind\">Vía del Viento</a>"
     }
@@ -13220,8 +12121,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "hablante-fantasma",
@@ -13247,8 +12147,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "madrigal",
@@ -13274,8 +12173,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "canto-de-sirena",
@@ -13301,8 +12199,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "virtuosa",
@@ -13328,8 +12225,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "crescendo-devastador",
@@ -13355,8 +12251,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "eco-persistente",
@@ -13382,8 +12277,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sinsentido",
@@ -13409,8 +12303,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "vision-feerica",
@@ -13436,8 +12329,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "absorcion-del-aura",
@@ -13463,8 +12355,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "proteccion-feerica",
@@ -13490,8 +12381,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "acertijo-fantastico",
@@ -13517,8 +12407,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "robar-la-mente",
@@ -13544,8 +12433,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "absorber-la-mente",
@@ -13571,8 +12459,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "el-mayor-truco",
@@ -13598,8 +12485,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sentir-vitalidad",
@@ -13628,8 +12514,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "toque-anestesico",
@@ -13658,8 +12543,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "corpore-sano",
@@ -13685,8 +12569,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "vigilia-del-pastor",
@@ -13712,8 +12595,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "mens-sana",
@@ -13739,8 +12621,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "alivio-del-alma-bestial",
@@ -13766,8 +12647,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "vigor-renovado",
@@ -13793,8 +12673,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "paso-seguro",
@@ -13820,8 +12699,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "liberar-el-alma-revestida-de-carne",
@@ -13847,8 +12725,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "consagrar-arboleda",
@@ -13874,8 +12751,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "pigmento-carmesi",
@@ -13901,8 +12777,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "inscribir-la-maldicion",
@@ -13928,8 +12803,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "luna-y-sol",
@@ -13955,8 +12829,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "beber-de-la-tierra-hasta-secarla",
@@ -13982,8 +12855,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "inscribir-los-nombres-olvidados",
@@ -14009,8 +12881,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sangre-de-hermano",
@@ -14036,8 +12907,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "octopodo",
@@ -14063,8 +12933,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "gestalt",
@@ -14090,8 +12959,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "camino-de-cain",
@@ -14117,8 +12985,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "entidad-coagulada",
@@ -14144,8 +13011,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "ayuda-de-los-espiritus",
@@ -14171,8 +13037,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "invocar-bestias-espirituales",
@@ -14198,8 +13063,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "aspecto-de-la-bestia",
@@ -14225,8 +13089,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "furia-del-englino",
@@ -14252,8 +13115,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "la-bestia-salvaje",
@@ -14279,8 +13141,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "arrugas-de-bruja",
@@ -14306,8 +13167,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "putrefaccion",
@@ -14333,8 +13193,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "cenizas-a-las-cenizas",
@@ -14360,8 +13219,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "necrosis",
@@ -14387,8 +13245,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "infeccion-insidiosa",
@@ -14414,8 +13271,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "polvo-al-polvo",
@@ -14441,8 +13297,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "servidumbre-putrescente",
@@ -14468,8 +13323,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "reloj-de-arena-mental",
@@ -14495,8 +13349,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "contemplacion-recurrente",
@@ -14522,8 +13375,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "momento-plumbeo",
@@ -14549,8 +13401,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "paciencia-de-las-nornas",
@@ -14576,8 +13427,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "don-de-cloto",
@@ -14603,8 +13453,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "beso-de-laquesis",
@@ -14630,8 +13479,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "enganar-al-destino",
@@ -14657,8 +13505,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "beso-de-clio",
@@ -14684,8 +13531,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "enredar-la-mano-de-atropos",
@@ -14711,8 +13557,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "toque-ardiente",
@@ -14738,8 +13583,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "armadura-de-la-furia-de-cain",
@@ -14765,8 +13609,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "venganza-de-samiel",
@@ -14792,8 +13635,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "agonia-dichosa",
@@ -14819,8 +13661,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "piel-de-camaleon",
@@ -14846,8 +13687,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "vislumbrar-el-corazon-de-piedra",
@@ -14873,8 +13713,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "vinculo-con-la-montana",
@@ -14900,8 +13739,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "armadura-de-terra",
@@ -14927,8 +13765,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "fluir-dentro-de-la-montana",
@@ -14954,8 +13791,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "baali",
@@ -14977,8 +13813,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "nagaraja",
@@ -15000,8 +13835,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "salubri",
@@ -15023,8 +13857,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "samedi",
@@ -15053,8 +13886,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "ravnos",
@@ -15076,8 +13908,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "ducheski",
@@ -15099,8 +13930,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "grimaldi",
@@ -15122,8 +13952,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "obertus",
@@ -15145,8 +13974,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "zantosa",
@@ -15168,8 +13996,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "awakening-of-the-steel",
@@ -15226,9 +14053,7 @@
         "page": null,
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "way-of-water",
@@ -15286,9 +14111,7 @@
         "page": null,
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "way-of-fire",
@@ -15346,9 +14169,7 @@
         "page": null,
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "way-of-earth",
@@ -15406,9 +14227,7 @@
         "page": null,
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "way-of-wind",
@@ -15466,9 +14285,7 @@
         "page": null,
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "sepulchre-path",
@@ -15535,8 +14352,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "corpse-in-the-monster",
@@ -15603,7 +14419,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "path_note": "Senda de Necromancia. Una de las tres Sendas de Mortis presentadas en este libro, enumeradas como Sendas de Necromancia por simplicidad. Los Capadocios (ver pág. 418) se especializaban o bien en Cadáver dentro del Monstruo o en <a href=\"/vampire/necromancy-paths/graves-decay\">Podredumbre de la Tumba</a>; los Heraldos de las Calaveras del Sabbat la habrían recuperado como parte de la &#x27;Senda Mortuus&#x27;."
     }
@@ -15672,8 +14487,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "cenotaph-path",
@@ -15740,8 +14554,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "path-of-the-four-humors",
@@ -15808,8 +14621,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "bone-path",
@@ -15876,8 +14688,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "graves-decay",
@@ -15945,7 +14756,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "path_note": "Senda de Necromancia. Una de las tres Sendas de Mortis presentadas en este libro, enumeradas como Sendas de Necromancia. Los Capadocios se especializaban en ella o en <a href=\"/vampire/necromancy-paths/corpse-in-the-monster\">Cadáver dentro del Monstruo</a>; los Heraldos de las Calaveras la habrían recuperado como parte de la &#x27;Senda Mortuus&#x27;."
     }
@@ -16003,7 +14813,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "path_note": "Senda de Necromancia. Extremadamente rara; manipula la entropía. Desarrollada por la Línea de Sangre <a href=\"/vampire/clans/nagaraja\">Nagaraja</a> (que a veces la llaman &#x27;Nihilística&#x27;).",
       "truncation_note": "El extracto (bloques 375–431) sólo incluye los niveles · (<a href=\"/vampire/discipline-powers/ojos-de-los-muertos\">Ojos de los Muertos</a>), ·· (<a href=\"/vampire/discipline-powers/aura-de-descomposicion\">Aura de Descomposición</a>) y ··· (<a href=\"/vampire/discipline-powers/banquete-de-almas\">Banquete de Almas</a>). Los niveles ···· y ····· quedan fuera del final del extracto y NO están presentes aquí; complétense al fusionar con el resto del libro."
@@ -16041,9 +14850,7 @@
         "page": null,
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "night-cry",
@@ -16075,8 +14882,6 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "cost": "un punto de Fuerza de Voluntad, más un punto de Sangre por cada blanco aparte del primero (se aplican los límites por <a href=\"/vampire/backgrounds/generacion\">Generación</a>)"
     }
@@ -16107,8 +14912,6 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "aspects": "Visión de Vida (leer auras como Auspex nivel dos, <a href=\"/vampire/discipline-powers/percepcion-del-aura\">Percepción del Aura</a>) o <a href=\"/vampire/flaws/vision-de-muerte\">Visión de Muerte</a> (ver fantasmas y las Tierras de las Sombras); no se pueden usar ambas a la vez",
       "cross_references": "<a href=\"/vampire/discipline-powers/ojos-de-los-muertos\">Ojos de los Muertos</a> pág. 177"
@@ -16140,8 +14943,6 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "duration": "una hora por éxito obtenido en la tirada de <a href=\"/vampire/discipline-powers/invocacion\">invocación</a>"
     }
@@ -16170,9 +14971,7 @@
         "page": null,
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "minestra-di-morte",
@@ -16200,8 +14999,6 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "cross_references": "Mérito <a href=\"/vampire/merits/comer-comida\">Comer Comida</a> pág. 480"
     }
@@ -16230,9 +15027,7 @@
         "page": null,
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "insight",
@@ -16267,9 +15062,7 @@
         "page": null,
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "two-centimes",
@@ -16294,9 +15087,7 @@
         "page": null,
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "hand-of-glory",
@@ -16327,8 +15118,6 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "effect": "todos los mortales dentro de la vivienda caen en un <a href=\"/vampire/flaws/sueno-profundo\">sueño profundo</a> (sin efecto sobre criaturas sobrenaturales); por cada ocupante no afectado, un dedo no prende"
     }
@@ -16360,8 +15149,6 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "benefit": "<a href=\"/vampire/discipline-powers/vision-del-manto\">Visión del Manto</a> (pág. 168) permanente y siempre activa (sin tirada); si el cadáver era de un Espectro, escuchar cuchicheos de Espectros cercanos con Percepción + Ocultismo",
       "cross_references": "<a href=\"/vampire/discipline-powers/vision-del-manto\">Visión del Manto</a> pág. 168"
@@ -16393,9 +15180,7 @@
         "page": null,
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "ritual-of-pochtli",
@@ -16422,9 +15207,7 @@
         "page": null,
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "puppet",
@@ -16451,9 +15234,7 @@
         "page": null,
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "blood-dance",
@@ -16483,9 +15264,7 @@
     ],
     "review": {
       "reason": "Artefacto de extracción: la cabecera de sección de nivel 3 y el título del ritual quedaron fusionados en el markdown fuente ('## Rituales de nivel tres Danza de la Sangre'). El contenido del ritual es íntegro; sólo la cabecera/anchor está afectada."
-    },
-    "edges": [],
-    "related": []
+    }
   },
   {
     "id": "din-of-the-damned",
@@ -16515,8 +15294,6 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "spy_roll": "Percepción + Ocultismo (dificultad 7); debe sacar más éxitos que el invocador; si falla, el espía queda <a href=\"/vampire/flaws/sordo\">sordo</a> durante lo que queda de noche",
       "cross_references": "<a href=\"/vampire/discipline-rituals/call-of-the-hungry-dead\">Llamada de los Muertos Hambrientos</a> pág. 180"
@@ -16548,8 +15325,6 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "cross_references": "<a href=\"/vampire/necromancy-paths/sepulchre-path\">Senda del Sepulcro</a> pág. 163"
     }
@@ -16579,8 +15354,6 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "effect": "predecir el próximo curso de acción del objetivo; sobre fantasmas equivale a tener uno de los Grilletes de ese wraith (ver <a href=\"/vampire/discipline-rituals/unearthed-fetter\">Grillete Desenterrado</a>)"
     }
@@ -16610,8 +15383,6 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "duration": "el tiempo que desee el vampiro (los fantasmas piden un <a href=\"/vampire/merits/favor\">favor</a> a cambio)"
     }
@@ -16641,9 +15412,7 @@
         "page": null,
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "bastone-diabolico",
@@ -16673,8 +15442,6 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "effect": "los fantasmas golpeados pierden un punto de su reserva de <a href=\"/vampire/discipline-powers/pasion\">Pasión</a> (pág. 385); como maza causa un dado adicional de daño agravado contra muertos vivientes (no vampiros)"
     }
@@ -16708,8 +15475,6 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "effect": "quien ingiere una porción obtiene <a href=\"/vampire/discipline-powers/vision-del-manto\">Visión del Manto</a> (pág. 168) durante tantas horas como puntos de Resistencia tenga el necromante",
       "cross_references": "<a href=\"/vampire/discipline-powers/vision-del-manto\">Visión del Manto</a> pág. 168"
@@ -16742,9 +15507,7 @@
         "page": null,
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "cadavers-touch",
@@ -16772,9 +15535,7 @@
         "page": null,
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "ritual-of-xipe-totec",
@@ -16803,9 +15564,7 @@
         "page": null,
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "grasp-the-ghostly",
@@ -16832,9 +15591,7 @@
         "page": null,
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "esilio",
@@ -16863,9 +15620,7 @@
         "page": null,
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "chill-of-oblivion",
@@ -16895,8 +15650,6 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "drawbacks": "aura con vetas negras similares a la Diablerie; frío hasta a un brazo de distancia (efectos idénticos a los Defectos <a href=\"/vampire/flaws/toque-de-escarcha\">Toque de Escarcha</a> y <a href=\"/vampire/flaws/presencia-inquietante\">Presencia Inquietante</a>, pág. 494); atrae fantasmas hostiles"
     }
@@ -16937,9 +15690,7 @@
         "page": null,
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "path-of-blood",
@@ -17004,8 +15755,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "path-of-conjuring",
@@ -17071,8 +15821,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "weather-control",
@@ -17111,19 +15860,10 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [
-      "werewolf/weather-control"
-    ],
+    "related": [],
     "review": {
       "reason": "El mapeo nivel→fenómeno de Control del Clima está corrompido por la extracción del PDF: los puntos de nivel aparecen separados de las descripciones de los fenómenos. Se preservan los fenómenos verbatim sin asignación de nivel para no inventar datos."
     },
-    "edges": [
-      {
-        "target": "werewolf/weather-control",
-        "type": "cross-line",
-        "via": "id:weather-control"
-      }
-    ],
     "mechanics_html": {
       "extraction_note": "En el texto extraído los marcadores de nivel (·, ··, ···, ····, ·····) aparecen separados de las descripciones de los fenómenos meteorológicos (maquetación del PDF a dos columnas). No es posible determinar con certeza qué fenómeno corresponde a cada nivel; se listan los ocho fenómenos en el <a href=\"/vampire/discipline-powers/orden\">orden</a> en que aparecen en el texto.",
       "phenomena_es": [
@@ -17200,8 +15940,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "elemental-mastery",
@@ -17264,8 +16003,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "lure-of-flames",
@@ -17325,8 +16063,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "hands-of-destruction",
@@ -17390,8 +16127,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "path-of-mars",
@@ -17455,8 +16191,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "movement-of-the-mind",
@@ -17507,7 +16242,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "path_note": "El número de éxitos indica durante cuánto tiempo puede controlar el objeto (o al objetivo) el invocador. Cada éxito permite manipular el objetivo un turno, aunque el Vástago puede intentar mantener el control pasado ese tiempo haciendo otra tirada (no es necesario gastar Sangre de nuevo). Si la tirada tiene éxito, el control se mantiene. Si el taumaturgo pierde o abandona el control sobre un objeto y posteriormente lo manipula de nuevo, se considera un nuevo intento y el jugador debe gastar otro punto de Sangre. Con cinco éxitos o más en la tirada inicial, el vampiro puede controlar el objeto durante toda la escena.\n\nSi el Poder se usa para manipular un ser vivo, el objetivo puede intentar resistir. En ese caso, el invocador y el blanco del Poder hacen tiradas opuestas de Fuerza de Voluntad cada vez que se ejerza el control.\n\nComo con <a href=\"/vampire/thaumaturgy-paths/lure-of-flames\">Encanto de las Llamas</a>, no se describen Poderes individuales para los distintos niveles de la Senda. Consulta la siguiente tabla para ver cuánto peso puede manejar el taumaturgo. Una vez un Vástago ha alcanzado una puntuación de 3, puede levitar y &#x27;volar&#x27; a aproximadamente la velocidad de alguien que corre, sea cual sea su peso, aunque las restricciones se siguen aplicando si manipula otras cosas u objetivos. Una vez ha alcanzado el cuarto nivel puede &#x27;lanzar&#x27; objetos con una Fuerza igual a su nivel de <a href=\"/vampire/backgrounds/domain\">dominio</a> de esta Senda."
     }
@@ -17574,8 +16308,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "path-of-technomancy",
@@ -17638,8 +16371,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "path-of-the-fathers-vengeance",
@@ -17705,7 +16437,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "path_note": "El Poder de esta Senda no procede sólo de la Magia de Sangre, sino también de ensalmos de los versículos del Libro de Nod. Para que cualquiera de estos Poderes produzca algún efecto, el invocador debe pronunciar la <a href=\"/vampire/discipline-powers/condena\">condena</a>, y por lo general el objetivo debe ser capaz de oír al invocador (aunque escribir las palabras y mostrárselas también funciona). Estos Poderes sólo se aplican a vampiros: no afectan a mortales, Ghouls ni otras criaturas sobrenaturales."
     }
@@ -17771,8 +16502,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "bind-the-accusing-tongue",
@@ -17800,9 +16530,7 @@
         "variant": "base",
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "communicate-with-kindred-sire",
@@ -17830,9 +16558,7 @@
         "variant": "base",
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "defense-of-the-sacred-haven",
@@ -17860,9 +16586,7 @@
         "variant": "base",
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "wake-with-evenings-freshness",
@@ -17890,9 +16614,7 @@
         "variant": "base",
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "deflection-of-wooden-doom",
@@ -17920,9 +16642,7 @@
         "variant": "base",
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "engaging-the-vessel-of-transference",
@@ -17951,8 +16671,6 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "system_es": "Se tarda tres horas en realizar el ritual (menos 15 minutos por cada éxito en la tirada de <a href=\"/vampire/discipline-powers/invocacion\">invocación</a>) y se requiere el gasto de un punto de Sangre (aunque no tiene por qué ser necesariamente Sangre del invocador), que queda sellado en el interior del recipiente. El ritual sólo intercambia la sangre con un individuo que lo toque con la piel desnuda, incluso los más finos guantes de algodón impiden que se active.\n\nLos individuos que tengan al menos cuatro puntos en Ocultismo reconocen el símbolo hermético con dos éxitos en una tirada de Inteligencia + Ocultismo (dificultad 8)."
     }
@@ -17983,9 +16701,7 @@
         "variant": "base",
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "incantation-of-the-shepherd",
@@ -18014,8 +16730,6 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "system_es": "Este ritual proporciona al personaje la localización (relativa a sí mismo) de todos los miembros de su <a href=\"/vampire/backgrounds/rebano\">Rebaño</a>. Si no tiene el Trasfondo <a href=\"/vampire/backgrounds/rebano\">Rebaño</a>, Ensalmo del Pastor localiza a los tres mortales más cercanos de los cuales se haya alimentado al menos tres veces. El ritual tiene un alcance máximo de 15 kilómetros o 10 millas multiplicados por la puntuación del personaje en <a href=\"/vampire/backgrounds/rebano\">Rebaño</a>, u ocho kilómetros (cinco millas) si no tiene ese Trasfondo."
     }
@@ -18046,9 +16760,7 @@
         "variant": "base",
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "illuminate-the-trail-of-prey",
@@ -18076,9 +16788,7 @@
         "variant": "base",
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "purity-of-flesh",
@@ -18106,9 +16816,7 @@
         "variant": "base",
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "widows-spite",
@@ -18136,9 +16844,7 @@
         "variant": "base",
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "devils-touch",
@@ -18166,9 +16872,7 @@
         "variant": "base",
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "machine-blitz",
@@ -18196,9 +16900,7 @@
         "variant": "base",
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "blood-walk",
@@ -18227,8 +16929,6 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "system_es": "Completar el ritual lleva tres horas, menos 15 minutos por cada éxito obtenido en la tirada de activación. Se necesita un punto de Sangre del objetivo. Cada éxito permite al invocador &#x27;remontarse&#x27; una <a href=\"/vampire/backgrounds/generacion\">Generación</a> (hasta el límite de la Cuarta; la Tercera <a href=\"/vampire/backgrounds/generacion\">Generación</a> no revela sus secretos tan fácilmente) proporcionándole tanto el nombre verdadero del ancestro como una imagen de su cara. El invocador también averigua la <a href=\"/vampire/backgrounds/generacion\">Generación</a> del individuo y el Clan o Línea de Sangre de la que desciende. Con tres éxitos, el taumaturgo obtiene además la identidad de todos aquellos con los que el sujeto comparte un Vínculo de Sangre, sea como reinante o como esclavo."
     }
@@ -18260,8 +16960,6 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "system_es": "Para el ritual se necesitan tres puntos de Sangre mortal. El invocador determina el tamaño del círculo de protección cuando realiza el ritual; el radio por defecto es de 3 metros o 10 pies, y cada 3 metros o 10 pies adicionales hacen que la dificultad aumente en uno hasta un máximo de nueve (por cada incremento más allá del necesario para llevar la dificultad a nueve se hace necesario un éxito adicional). El jugador gasta un punto de Sangre por cada 3 metros o 10 pies de radio y tira. Si el efecto del ritual va a ser de corta duración (permaneciendo activo el resto de la noche) la <a href=\"/vampire/discipline-powers/invocacion\">invocación</a> tarda la cantidad de tiempo habitual; si va a ser de larga duración (durando un año y un día) se tarda toda la noche.\n\nUna vez establecido el círculo, cualquier Ghoul que intente traspasar su límite siente un hormigueo en la piel y una ligera brisa en la cara. Si pasa una tirada de Inteligencia + Ocultismo (dificultad 8), identifica que se trata de un círculo de protección. Si el Ghoul intenta continuar, debe obtener más éxitos en una tirada de Fuerza de Voluntad (la dificultad es la puntuación en Taumaturgia del invocador + 3) que los que obtuvo el taumaturgo al establecer la protección. Un fallo indica que la defensa le impide el paso e inflige tres dados de daño contundente; la siguiente tirada para intentar entrar en el círculo tiene un +1 a la dificultad. Si el Ghoul abandona el círculo y después intenta entrar de nuevo, debe repetir la tirada. Nada impide abandonar el círculo."
     }
@@ -18294,8 +16992,6 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "system_es": "Los efectos que sufren las criaturas objetivo son los mismos que los de <a href=\"/vampire/discipline-rituals/warding-circle-versus-ghouls\">Círculo de Protección contra Ghouls</a>. Los componentes materiales son los mismos que los del ritual de protección correspondiente, pero en cantidades mayores. Cada ritual debe aprenderse por separado.",
       "extraction_note": "El slice sólo nombra este ritual y le asigna un nivel; su sistema completo se describe por referencia a &#x27;<a href=\"/vampire/discipline-rituals/warding-circle-versus-ghouls\">Círculo de Protección contra Ghouls</a>&#x27; (no se repite verbatim en el texto)."
@@ -18329,8 +17025,6 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "system_es": "Los efectos que sufren las criaturas objetivo son los mismos que los de <a href=\"/vampire/discipline-rituals/warding-circle-versus-ghouls\">Círculo de Protección contra Ghouls</a>. Los componentes materiales son los mismos que los del ritual de protección correspondiente, pero en cantidades mayores. Cada ritual debe aprenderse por separado.",
       "extraction_note": "El slice sólo nombra este ritual y le asigna un nivel; su sistema completo se describe por referencia a &#x27;<a href=\"/vampire/discipline-rituals/warding-circle-versus-ghouls\">Círculo de Protección contra Ghouls</a>&#x27; (no se repite verbatim en el texto)."
@@ -18364,8 +17058,6 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "system_es": "Los efectos que sufren las criaturas objetivo son los mismos que los de <a href=\"/vampire/discipline-rituals/warding-circle-versus-ghouls\">Círculo de Protección contra Ghouls</a>. Los componentes materiales son los mismos que los del ritual de protección correspondiente, pero en cantidades mayores. Cada ritual debe aprenderse por separado.",
       "extraction_note": "El slice sólo nombra este ritual y le asigna un nivel; su sistema completo se describe por referencia a &#x27;<a href=\"/vampire/discipline-rituals/warding-circle-versus-ghouls\">Círculo de Protección contra Ghouls</a>&#x27; (no se repite verbatim en el texto)."
@@ -18397,16 +17089,6 @@
         "variant": "base",
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [
-      {
-        "target": "werewolf/burning-blade",
-        "type": "cross-line",
-        "via": "id:burning-blade"
-      }
-    ],
-    "related": [
-      "werewolf/burning-blade"
     ]
   },
   {
@@ -18435,9 +17117,7 @@
         "variant": "base",
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "eyes-of-the-nighthawk",
@@ -18466,8 +17146,6 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "system_es": "Mientras dure el efecto del ritual, el vampiro es capaz de controlar mentalmente a dónde viaja el pájaro. Éste no llevará a cabo necesariamente ninguna acción que no sea volar: el invocador no puede ordenarle que combata, agarre un objeto y lo traiga, ni que arañe a un objetivo. Cuando acaba su vuelo, el pájaro vuelve al vampiro. Si entonces éste no le saca los ojos, queda <a href=\"/vampire/flaws/ciego\">ciego</a> durante tres noches. El efecto del ritual acaba al amanecer."
     }
@@ -18499,8 +17177,6 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "system_es": "Este ritual puede ser utilizado simultáneamente sobre un número de objetivos igual a la puntuación de Ocultismo del invocador; por cada uno después del primero hay que añadir cinco minutos al tiempo necesario para realizar la <a href=\"/vampire/discipline-powers/invocacion\">invocación</a>. Un observador sólo puede detectar a los individuos que están bajo la Máscara de Sombras si posee un Poder (como Auspex) que sea capaz de superar Ofuscación 3. La Máscara de Sombras dura tantas horas como éxitos se obtuviesen en la tirada de activación, o bien hasta que el invocador la retira voluntariamente."
     }
@@ -18531,9 +17207,7 @@
         "variant": "base",
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "remedy-of-the-homeland",
@@ -18561,9 +17235,7 @@
         "variant": "base",
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "clinging-of-the-insect",
@@ -18591,9 +17263,7 @@
         "variant": "base",
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "sanguineous-assistant",
@@ -18621,9 +17291,7 @@
         "variant": "base",
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "shaft-of-belated-quiescence",
@@ -18650,8 +17318,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "flesh-of-fiery-touch",
@@ -18678,8 +17345,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "mirror-of-second-sight",
@@ -18706,8 +17372,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "incorporeal-passage",
@@ -18734,8 +17399,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "pavis-of-the-foul-presence",
@@ -18762,8 +17426,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "ward-versus-lupines",
@@ -18791,8 +17454,9 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": [
+      "ward-versus-ghouls"
+    ]
   },
   {
     "id": "splinter-servant",
@@ -18818,8 +17482,9 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": [
+      "shaft-of-belated-quiescence"
+    ]
   },
   {
     "id": "firewalker",
@@ -18845,8 +17510,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "heart-of-stone",
@@ -18872,8 +17536,9 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": [
+      "shaft-of-belated-quiescence"
+    ]
   },
   {
     "id": "bone-of-lies",
@@ -18899,8 +17564,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "ward-versus-kindred",
@@ -18927,8 +17591,10 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": [
+      "ward-versus-ghouls",
+      "ward-versus-lupines"
+    ]
   },
   {
     "id": "paper-flesh",
@@ -18954,16 +17620,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [
-      "werewolf/paper-flesh"
-    ],
-    "edges": [
-      {
-        "target": "werewolf/paper-flesh",
-        "type": "cross-line",
-        "via": "id:paper-flesh"
-      }
-    ]
+    "related": []
   },
   {
     "id": "blood-contract",
@@ -18989,8 +17646,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "enchant-talisman",
@@ -19016,8 +17672,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "escape-to-a-true-friend",
@@ -19043,8 +17698,7 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "ward-versus-spirits",
@@ -19071,8 +17725,11 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": [
+      "ward-versus-ghouls",
+      "ward-versus-ghosts",
+      "ward-versus-demons"
+    ]
   },
   {
     "id": "ward-versus-ghosts",
@@ -19100,8 +17757,9 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": [
+      "ward-versus-spirits"
+    ]
   },
   {
     "id": "ward-versus-demons",
@@ -19129,8 +17787,9 @@
         "book_title_es": "V20 Core Rulebook (ES)"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": [
+      "ward-versus-spirits"
+    ]
   },
   {
     "id": "meritos-y-defectos-el-alto-precio",
@@ -19152,8 +17811,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "simplemente-esperando",
@@ -19175,8 +17833,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "presencia-carronera",
@@ -19198,8 +17855,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "aura-oscura",
@@ -19221,8 +17877,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "plaga-de-demonios",
@@ -19244,8 +17899,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "quietud-de-la-muerte",
@@ -19267,8 +17921,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "manos-pesadas",
@@ -19290,8 +17943,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "lengua-de-piedra",
@@ -19313,8 +17965,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "debilidad-de-la-sangre",
@@ -19336,8 +17987,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "discipulo-de-lazarus-japheth",
@@ -19363,8 +18013,7 @@
     "review": {
       "reason": "dual/compound name — may be two entities",
       "conflicts": []
-    },
-    "edges": []
+    }
   },
   {
     "id": "bautismo-estigio",
@@ -19386,8 +18035,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "media-vida",
@@ -19409,8 +18057,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "abrazo-no-aprobado",
@@ -19432,8 +18079,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "marcado-por-las-sombras",
@@ -19455,8 +18101,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "meritos-y-defectos-instinto-de-fuga",
@@ -19478,8 +18123,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "coro-entrenado",
@@ -19501,8 +18145,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "futura-banshee",
@@ -19524,8 +18167,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "coleccion-preciada",
@@ -19547,8 +18189,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "lazo-paranormal",
@@ -19570,8 +18211,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "perfeccion-alienigena",
@@ -19593,8 +18233,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "piel-de-porcelana",
@@ -19616,8 +18255,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "mutacion-de-la-vitae",
@@ -19639,8 +18277,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "peso-ligero",
@@ -19662,8 +18299,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "analfabeto",
@@ -19685,8 +18321,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "paladar-refinado",
@@ -19708,8 +18343,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "espantosa-mara",
@@ -19731,8 +18365,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "meritos-y-defectos-superafilados",
@@ -19754,8 +18387,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "comedor-rapido",
@@ -19777,8 +18409,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "paladar-de-carcayu",
@@ -19800,8 +18431,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "grandes-fauces",
@@ -19823,8 +18453,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "rastro-de-cuerpos",
@@ -19846,8 +18475,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "meritos-y-defectos-olor-ajeno",
@@ -19869,8 +18497,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "corazon-de-guerrero",
@@ -19892,8 +18519,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "vista-mas-alla-de-la-vista",
@@ -19915,8 +18541,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "el-octavo",
@@ -19938,8 +18563,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "meritos-y-defectos-comprension-de-la-muerte",
@@ -19961,8 +18585,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "remendado",
@@ -19984,8 +18607,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "cuerpo-quebradizo",
@@ -20007,8 +18629,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "flashbacks-mortales",
@@ -20030,8 +18651,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "tecnologia-avanzada",
@@ -20053,8 +18673,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "fatalista",
@@ -20076,8 +18695,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "verdadera-celeridad",
@@ -20099,8 +18717,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "fuera-de-fase",
@@ -20122,8 +18739,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "command-the-swarm",
@@ -20163,8 +18779,6 @@
         "variant": "base"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "bloodline": "<a href=\"/vampire/clans/baali\">Baali</a>"
     }
@@ -20197,9 +18811,7 @@
         "variant": "base",
         "book_title_es": "V20 NSR Aniversario (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "tune-out",
@@ -20227,9 +18839,7 @@
         "variant": "base",
         "book_title_es": "V20 NSR Aniversario (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "silent-voice",
@@ -20258,9 +18868,7 @@
         "variant": "base",
         "book_title_es": "V20 NSR Aniversario (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "dream-stalker",
@@ -20311,9 +18919,7 @@
         "variant": "base",
         "book_title_es": "V20 NSR Aniversario (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "sacrifice-to-the-nightmare",
@@ -20349,8 +18955,6 @@
     "review": {
       "reason": "Extraction interleaved the 'Alquimia Kiasyd' sidebar and image markers into the middle of the Sistema stat block. The continuation ('que puede resistirse con una tirada enfrentada de Fuerza...') appears after the sidebar in the source and was reassembled into reading order here. Content is recoverable but should be verified against the source PDF."
     },
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "requires": "<a href=\"/vampire/discipline-powers/proteccion-feerica\">Protección Feérica</a> (V20, pág. 455)"
     }
@@ -20380,8 +18984,6 @@
         "book_title_es": "V20 NSR Aniversario (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "prerequisites": "Necromancia (<a href=\"/vampire/necromancy-paths/vitreous-path\">Senda Vítrea</a>) ··, Ofuscación ··"
     }
@@ -20442,8 +19044,6 @@
         "book_title_es": "V20 NSR Aniversario (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "prerequisites": "Necromancia (<a href=\"/vampire/necromancy-paths/vitreous-path\">Senda Vítrea</a>) ···, Auspex ····"
     }
@@ -20472,9 +19072,7 @@
         "variant": "base",
         "book_title_es": "V20 NSR Aniversario (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "exquisite-corpse",
@@ -20500,9 +19098,7 @@
         "variant": "base",
         "book_title_es": "V20 NSR Aniversario (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "changed-in-death",
@@ -20531,9 +19127,7 @@
         "variant": "base",
         "book_title_es": "V20 NSR Aniversario (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "gruesome-gris-gris",
@@ -20560,9 +19154,7 @@
         "variant": "base",
         "book_title_es": "V20 NSR Aniversario (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "drilling-punch",
@@ -20592,9 +19184,7 @@
         "variant": "base",
         "book_title_es": "V20 NSR Aniversario (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "old-friend",
@@ -20632,9 +19222,7 @@
         "variant": "base",
         "book_title_es": "V20 NSR Aniversario (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "shoulders-of-atlas",
@@ -20664,9 +19252,7 @@
     ],
     "review": {
       "reason": "Extraction split the heading: '## Disciplinas Combinadas Los Hombros de Atlas' is followed by a separate heading '## (Vuelo ··, Potencia ··)'. Name and prerequisite notation reassembled from both heading lines; verify against source."
-    },
-    "edges": [],
-    "related": []
+    }
   },
   {
     "id": "falconers-dive",
@@ -20694,9 +19280,7 @@
         "page": null,
         "book_title_es": "V20 NSR Aniversario (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "bearing-the-mountains-burden",
@@ -20725,8 +19309,6 @@
         "book_title_es": "V20 NSR Aniversario (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "cross_reference": "<a href=\"/vampire/discipline-powers/armadura-de-terra\">Armadura de Terra</a> (V20, pág. 476)"
     }
@@ -20757,9 +19339,7 @@
         "page": null,
         "book_title_es": "V20 NSR Aniversario (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "winged-sepulcher-protection",
@@ -20785,9 +19365,7 @@
         "page": null,
         "book_title_es": "V20 NSR Aniversario (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "bloodstained-hands",
@@ -20822,9 +19400,7 @@
         "page": null,
         "book_title_es": "V20 NSR Aniversario (ES)"
       }
-    ],
-    "edges": [],
-    "related": []
+    ]
   },
   {
     "id": "gaze-of-hades",
@@ -20853,8 +19429,6 @@
         "book_title_es": "V20 NSR Aniversario (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "cross_reference": "<a href=\"/vampire/discipline-powers/ojos-de-serpiente\">Ojos de Serpiente</a> (V20, pág. 210)"
     }
@@ -20888,8 +19462,6 @@
         "book_title_es": "V20 NSR Aniversario (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "cross_reference": "<a href=\"/vampire/discipline-powers/don-del-cadaver\">Don del Cadáver</a> (V20, pág. 166)"
     }
@@ -20921,8 +19493,6 @@
         "book_title_es": "V20 NSR Aniversario (ES)"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "cross_reference": "<a href=\"/vampire/discipline-rituals/call-of-the-hungry-dead\">Llamada de los Muertos Hambrientos</a> (V20, pág. 180)"
     }
