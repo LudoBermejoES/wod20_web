@@ -24,45 +24,33 @@ const containsCurrent = (blk: (typeof tree)[number]) =>
 ---
 
 <nav class="guide-sidebar" aria-label={`Índice de ${bookTitle}`}>
-  {/* On mobile (≤55rem, see [slug].astro's .rail breakpoint) the whole rail
-      sits above the prose, so a fully-expanded ~40–50-entry tree pushes the
-      article far below the fold. Collapsing it behind one top-level
-      disclosure — closed by default — lets the reader land on the prose and
-      open the index on demand. At wider viewports `.book-index-summary` is
-      hidden and `.book-index-body` is forced visible via CSS (zero-JS), so
-      the sticky rail renders exactly as before. */}
-  <details class="book-index">
-    <summary class="book-index-summary">Índice del libro</summary>
-    <div class="book-index-body">
-      <p class="eyebrow">Índice</p>
-      <a class="book-home" href={base}>{bookTitle}</a>
-      {
-        tree.map((blk) => (
-          <details class="blk" open={containsCurrent(blk)}>
-            <summary class="blk-title">{blk.block_title}</summary>
-            {blk.chapters.map((ch) => (
-              <div class="chap">
-                {ch.chapter !== '—' && <p class="chap-title">{ch.chapter}</p>}
-                <ul>
-                  {ch.pages.map((pg) => (
-                    <li>
-                      <a
-                        href={`${base}/${pg.slug}`}
-                        aria-current={pg.slug === currentSlug ? 'page' : undefined}
-                        class={pg.slug === currentSlug ? 'current' : undefined}
-                      >
-                        {pg.part ?? pg.title}
-                      </a>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ))}
-          </details>
-        ))
-      }
-    </div>
-  </details>
+  <p class="eyebrow">Índice</p>
+  <a class="book-home" href={base}>{bookTitle}</a>
+  {
+    tree.map((blk) => (
+      <details class="blk" open={containsCurrent(blk)}>
+        <summary class="blk-title">{blk.block_title}</summary>
+        {blk.chapters.map((ch) => (
+          <div class="chap">
+            {ch.chapter !== '—' && <p class="chap-title">{ch.chapter}</p>}
+            <ul>
+              {ch.pages.map((pg) => (
+                <li>
+                  <a
+                    href={`${base}/${pg.slug}`}
+                    aria-current={pg.slug === currentSlug ? 'page' : undefined}
+                    class={pg.slug === currentSlug ? 'current' : undefined}
+                  >
+                    {pg.part ?? pg.title}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </details>
+    ))
+  }
 </nav>
 
 <style>
@@ -92,42 +80,6 @@ const containsCurrent = (blk: (typeof tree)[number]) =>
     color: var(--fg);
   }
   .book-home:hover { color: var(--accent); }
-
-  /* Top-level "Índice del libro" disclosure: closed by default (mobile),
-     forced open and visually neutral from 55rem up (desktop) — see the
-     media query below. Mirrors the .blk-title chevron treatment. */
-  .book-index-summary {
-    margin: 0 0 var(--space-3);
-    padding: 0.5rem 0.1rem;
-    font-family: var(--font-sans);
-    font-size: 0.8rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    color: var(--accent);
-    cursor: pointer;
-    list-style: none;
-  }
-  .book-index-summary::-webkit-details-marker { display: none; }
-  .book-index-summary::marker { content: ''; }
-  .book-index-summary::before {
-    content: '›';
-    display: inline-block;
-    width: 1em;
-    color: var(--accent);
-    transition: transform 0.15s ease;
-  }
-  .book-index[open] > .book-index-summary::before { transform: rotate(90deg); }
-  .book-index-summary:hover { color: var(--fg); }
-
-  /* Desktop (matches the .rail sticky breakpoint in [slug].astro): neutralize
-     the disclosure entirely so the tree renders exactly as it did before —
-     no summary control, body always visible, <details> out of the box model. */
-  @media (min-width: 55.0625rem) {
-    .book-index { display: contents; }
-    .book-index-summary { display: none; }
-    .book-index-body { display: block !important; }
-  }
 
   .blk { margin-bottom: 0.15rem; }
   .blk-title {

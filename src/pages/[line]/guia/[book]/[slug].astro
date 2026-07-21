@@ -210,7 +210,10 @@ const kicker = isFiction
     .pn.next { align-items: flex-end; text-align: right; margin-left: auto; }
     @media (max-width: 55rem) {
       .guide-shell { grid-template-columns: 1fr; }
-      .rail { position: static; max-height: none; }
+      /* On mobile the rail sits above the prose; bound it to a scrollable box so a
+         40–50-entry book index doesn't push the article far below the fold (zero-JS,
+         no fragile <details> display:contents hack). */
+      .rail { position: static; max-height: 60vh; overflow-y: auto; }
     }
   </style>
 </Layout>
