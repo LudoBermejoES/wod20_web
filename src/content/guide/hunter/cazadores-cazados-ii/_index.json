@@ -1,0 +1,377 @@
+{
+  "book_id": "cazadores-cazados-ii",
+  "line": "hunter",
+  "title_es": "Cazador: Cazadores Cazados II",
+  "book_title_es": "Cazador: Cazadores Cazados II",
+  "page_count": 43,
+  "tree": [
+    {
+      "block": "front-matter",
+      "block_title": "Portada y créditos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos-y-edicion",
+              "title": "Créditos y edición",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "todo-esta-en-juego",
+              "title": "Todo Está en Juego",
+              "part": null,
+              "content_type": "fiction"
+            },
+            {
+              "slug": "introduccion",
+              "title": "Introducción",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "capitulo-uno",
+      "block_title": "Capítulo Uno: Solo en la Noche",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "capitulo-uno-solo-en-la-noche",
+              "title": "Capítulo Uno: Solo en la Noche",
+              "part": "Capítulo Uno: Solo en la Noche",
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-uno-solo-en-la-noche-cosas-seguras",
+              "title": "Cosas seguras",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-uno-solo-en-la-noche-la-palabra-por-c",
+              "title": "La palabra por C",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "capitulo-dos",
+      "block_title": "Capítulo Dos: Creación de Personajes y Rasgos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "capitulo-dos-creacion-de-personajes-y-rasgos",
+              "title": "Capítulo Dos: Creación de Personajes y Rasgos",
+              "part": "Capítulo Dos: Creación de Personajes y Rasgos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-dos-creacion-de-personajes-y-rasgos-paso-cuatro-seleccionar-ventajas",
+              "title": "Paso Cuatro: Seleccionar Ventajas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-dos-creacion-de-personajes-y-rasgos-paso-cinco-toques-finales",
+              "title": "Paso Cinco: Toques finales",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "capitulo-tres",
+      "block_title": "Capítulo Tres: Herramientas y Tácticas",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "capitulo-tres-herramientas-y-tacticas",
+              "title": "Capítulo Tres: Herramientas y Tácticas",
+              "part": "Capítulo Tres: Herramientas y Tácticas",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-tres-herramientas-y-tacticas-el-plan",
+              "title": "El plan",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-tres-herramientas-y-tacticas-cambiar-el-plan",
+              "title": "Cambiar el plan",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-tres-herramientas-y-tacticas-explosivos-y-armas-quimicas",
+              "title": "Explosivos y armas químicas",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "capitulo-cuatro",
+      "block_title": "Capítulo Cuatro: Númina",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "capitulo-cuatro-numina",
+              "title": "Capítulo Cuatro: Númina",
+              "part": "Capítulo Cuatro: Númina",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-numina-herramientas-adivinatorias",
+              "title": "Herramientas adivinatorias",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-numina-piroquinesis",
+              "title": "Piroquinesis",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "capitulo-cinco",
+      "block_title": "Capítulo Cinco: Narración",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "capitulo-cinco-narracion",
+              "title": "Capítulo Cinco: Narración",
+              "part": "Capítulo Cinco: Narración",
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-cinco-narracion-preludio-pistoletazos-de-salida",
+              "title": "Preludio: Pistoletazos de salida",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-cinco-narracion-sandbox",
+              "title": "Sandbox",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-cinco-narracion-la-trama-se-complica",
+              "title": "La trama se complica",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-cinco-narracion-punto-de-mira-inconnu",
+              "title": "Punto de mira: Inconnu",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "capitulo-seis",
+      "block_title": "Capítulo Seis: Organizaciones y Recursos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "capitulo-seis-organizaciones-y-recursos",
+              "title": "Capítulo Seis: Organizaciones y Recursos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-sociedad-de-leopoldo",
+              "title": "La Sociedad de Leopoldo",
+              "part": "La Sociedad de Leopoldo",
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-sociedad-de-leopoldo-meritos-y-defectos",
+              "title": "Méritos y Defectos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-gobierno-estadounidense",
+              "title": "El gobierno estadounidense",
+              "part": "El gobierno estadounidense",
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-gobierno-estadounidense-acceso-no-estandar-merito-de-3-puntos",
+              "title": "Acceso no Estándar (Mérito de 3 puntos)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-arcanum",
+              "title": "El Arcanum",
+              "part": "El Arcanum",
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-arcanum-superviviente-del-sabbat",
+              "title": "Superviviente del Sabbat",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "criminales-y-crimen-organizado",
+              "title": "Criminales y crimen organizado",
+              "part": "Criminales y crimen organizado",
+              "content_type": "lore"
+            },
+            {
+              "slug": "criminales-y-crimen-organizado-la-conspiracion-caitiff",
+              "title": "La conspiración Caitiff",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "facciones-menores",
+              "title": "Facciones menores",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "equipo-de-caza",
+              "title": "Equipo de caza",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "reliquias-y-artefactos",
+              "title": "Reliquias y Artefactos",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "epilogo",
+              "title": "Epílogo",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "apendice",
+      "block_title": "Apéndice: Personajes de Ejemplo",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "apendice-personajes-de-ejemplo",
+              "title": "Apéndice: Personajes de Ejemplo",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "la-detective-obsesionada",
+              "title": "La detective obsesionada",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-inspector-paranoico",
+              "title": "El inspector paranoico",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-cruzada-indigente",
+              "title": "La cruzada indigente",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-concejal-arruinado",
+              "title": "El concejal arruinado",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-esposa-vengativa",
+              "title": "La esposa vengativa",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "la-doctora-brillante",
+              "title": "La doctora brillante",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-periodista-hastiado",
+              "title": "El periodista hastiado",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "back-matter",
+      "block_title": "Cierre",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "proximamente-anarquistas-liberados",
+              "title": "Próximamente: Anarquistas Liberados",
+              "part": null,
+              "content_type": "back-matter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -12,15 +12,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "meritos-y-defectos-mentales-impasible",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "blanco-y-negro",
@@ -35,23 +34,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "blanco-y-negro",
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/blanco-y-negro"
-    ],
-    "edges": [
-      {
-        "target": "mage/blanco-y-negro",
-        "type": "cross-line",
-        "via": "id:blanco-y-negro"
-      }
-    ]
+    "related": []
   },
   {
     "id": "combatiente-novato",
@@ -66,15 +56,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "combatiente-novato",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "adicto-a-la-sangre-vampirica",
@@ -89,15 +78,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "adicto-a-la-sangre-vampirica",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "hemofilico",
@@ -115,15 +103,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "hemofilico",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "laboratorio-cientifico",
@@ -141,15 +128,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "laboratorio-cientifico",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "biblioteca-ocultista",
@@ -167,15 +153,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "biblioteca-ocultista",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "aura-palida",
@@ -193,15 +178,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "aura-palida",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "vista-clara",
@@ -219,15 +203,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "vista-clara",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sangre-venenosa",
@@ -245,15 +228,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "sangre-venenosa",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "santuario",
@@ -271,15 +253,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "santuario",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "efecto-inquietante",
@@ -297,15 +278,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "efecto-inquietante",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "foco-psi",
@@ -323,15 +303,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "foco-psi",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "crianza-aislada",
@@ -349,15 +328,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "crianza-aislada",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "histeria-religiosa",
@@ -375,15 +353,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "histeria-religiosa",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "rango-eclesiastico",
@@ -401,15 +378,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "rango-eclesiastico",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "bruja-aprobada",
@@ -427,15 +403,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "bruja-aprobada",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "rebelde",
@@ -453,15 +428,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "rebelde",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "aura-de-santidad",
@@ -479,15 +453,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "aura-de-santidad",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "ecstatic",
@@ -505,15 +478,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "extatico",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "ecumenista",
@@ -531,15 +503,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "ecumenista",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "puno-de-dios",
@@ -557,15 +528,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "puno-de-dios",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "paraiso-perdido",
@@ -583,15 +553,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "paraiso-perdido",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "paranoico",
@@ -609,15 +578,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "paranoico",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "mentalidad-de-sitio",
@@ -635,15 +603,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "mentalidad-de-sitio",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "mensajero-del-miedo",
@@ -661,15 +628,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "mensajero-del-miedo",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "autorizacion",
@@ -687,15 +653,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "autorizacion",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "enlace-entre-agencias",
@@ -713,15 +678,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "enlace-entre-agencias",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "acceso-no-estandar",
@@ -739,15 +703,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "acceso-no-estandar",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "agente-integrado",
@@ -765,15 +728,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "agente-integrado",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "credulo",
@@ -791,23 +753,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "credulo",
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/credulo"
-    ],
-    "edges": [
-      {
-        "target": "mage/credulo",
-        "type": "cross-line",
-        "via": "id:credulo"
-      }
-    ]
+    "related": []
   },
   {
     "id": "de-recursos-identidad-suplementaria",
@@ -825,15 +778,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "de-recursos-identidad-suplementaria",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "envejecido",
@@ -851,15 +803,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "envejecido",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "camaleon-cultural",
@@ -877,15 +828,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "camaleon-cultural",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "beca-de-investigacion",
@@ -903,23 +853,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "beca-de-investigacion",
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/beca-de-investigacion"
-    ],
-    "edges": [
-      {
-        "target": "mage/beca-de-investigacion",
-        "type": "cross-line",
-        "via": "id:beca-de-investigacion"
-      }
-    ]
+    "related": []
   },
   {
     "id": "sobrenaturales-inocente",
@@ -937,15 +878,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "sobrenaturales-inocente",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "perspicaz",
@@ -963,23 +903,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "perspicaz",
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/perspicaz"
-    ],
-    "edges": [
-      {
-        "target": "mage/perspicaz",
-        "type": "cross-line",
-        "via": "id:perspicaz"
-      }
-    ]
+    "related": []
   },
   {
     "id": "sentir-influencia",
@@ -997,15 +928,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "sentir-influencia",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "matones",
@@ -1023,15 +953,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "matones",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "legado",
@@ -1049,23 +978,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "legado",
         "variant": "base"
       }
     ],
-    "related": [
-      "wraith/legado"
-    ],
-    "edges": [
-      {
-        "target": "wraith/legado",
-        "type": "cross-line",
-        "via": "id:legado"
-      }
-    ]
+    "related": []
   },
   {
     "id": "sobrenaturales-zona-muerta",
@@ -1083,15 +1003,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "sobrenaturales-zona-muerta",
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "status",
@@ -1108,35 +1027,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "estatus",
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/status",
-      "vampire/status",
-      "wraith/status"
-    ],
-    "edges": [
-      {
-        "target": "mage/status",
-        "type": "cross-line",
-        "via": "id:status"
-      },
-      {
-        "target": "vampire/status",
-        "type": "cross-line",
-        "via": "id:status"
-      },
-      {
-        "target": "wraith/status",
-        "type": "cross-line",
-        "via": "id:status"
-      }
-    ]
+    "related": []
   },
   {
     "id": "rank",
@@ -1153,29 +1051,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "rango",
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/rank",
-      "werewolf/rank"
-    ],
-    "edges": [
-      {
-        "target": "mage/rank",
-        "type": "cross-line",
-        "via": "id:rank"
-      },
-      {
-        "target": "werewolf/rank",
-        "type": "cross-line",
-        "via": "id:rank"
-      }
-    ]
+    "related": []
   },
   {
     "id": "artefacto",
@@ -1192,23 +1075,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "artefacto",
         "variant": "base"
       }
     ],
-    "related": [
-      "wraith/artefacto"
-    ],
-    "edges": [
-      {
-        "target": "wraith/artefacto",
-        "type": "cross-line",
-        "via": "id:artefacto"
-      }
-    ]
+    "related": []
   },
   {
     "id": "mentor",
@@ -1225,35 +1099,14 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "mentor",
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/mentor",
-      "vampire/mentor",
-      "wraith/mentor"
-    ],
-    "edges": [
-      {
-        "target": "mage/mentor",
-        "type": "cross-line",
-        "via": "id:mentor"
-      },
-      {
-        "target": "vampire/mentor",
-        "type": "cross-line",
-        "via": "id:mentor"
-      },
-      {
-        "target": "wraith/mentor",
-        "type": "cross-line",
-        "via": "id:mentor"
-      }
-    ]
+    "related": []
   },
   {
     "id": "resources",
@@ -1270,28 +1123,13 @@
     },
     "sources": [
       {
-        "book_id": "v20-cazadores-cazados-ii-compress",
+        "book_id": "cazadores-cazados-ii",
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "recursos",
         "variant": "base"
       }
     ],
-    "related": [
-      "mage/resources",
-      "vampire/resources"
-    ],
-    "edges": [
-      {
-        "target": "mage/resources",
-        "type": "cross-line",
-        "via": "id:resources"
-      },
-      {
-        "target": "vampire/resources",
-        "type": "cross-line",
-        "via": "id:resources"
-      }
-    ]
+    "related": []
   }
 ]

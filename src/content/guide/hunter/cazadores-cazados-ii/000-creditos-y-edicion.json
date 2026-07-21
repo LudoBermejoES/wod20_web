@@ -1,0 +1,33 @@
+{
+  "book_id": "cazadores-cazados-ii",
+  "line": "hunter",
+  "order": 0,
+  "slug": "creditos-y-edicion",
+  "block": "front-matter",
+  "block_title": "Portada y créditos",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Créditos y edición",
+  "content_type": "front-matter",
+  "source_line_range": [
+    1,
+    83
+  ],
+  "body_md": "## Créditos\n\nAutores: Justin Achilli, Jason Andrew, Joshua Alan Doetsch, Martin Henley, Ryan Macklin, Matthew McFarland, Matthew Sanderson, Ree Soesbee, Eddy Webb, y Stew Wilson.\n\nAutor de la primera edición: Bill Bridges.\n\nDesarrollador: Justin Achilli.\n\nDesarrollador del Capítulo Seis: Eddy Webb\n\nEditor: John Chambers\n\nDirector creativo: Rich Thomas.\n\nDirección y diseño artístico: Mike Chaney.\n\nIlustración de cubierta: Michael Gaydos.\n\nIlustraciones: Michael Gaydos, Steven Stahlberg, Andrew Hepworth, Cathy Wilkins, James Denton, Aaron Acevedo, Marco Mazzoni, John Bridges, Josh Timbrook, Avery Butterworth, Janel Auslisio, Tomek Tworek, Tyler Wyndham.\n\n## Agradecimientos especiales\n\nJustin 'Ginebra &amp; Jagermeister' Achilli por saber cómo lubricar una fiesta.\n\nRich 'Ráfaga Ártica' Thomas por quedarse aislado bajo la nieve sin electricidad durante, al menos, seis meses o algo así.\n\n\n\nJohn 'Mentiras, Malditas Mentiras y Nuevas Habilidades' Chambers por encontrar trozos del predesarrollo en el post-desarrollo.\n\nMike 'Dr. Google' Chaney por compartir los secretos.\n\nMatthew 'Caballero Bebedor' Sanderson por el Midtown Rampage en Atlanta by Night.\n\nAlessandro 'El Pionero' Kellis , por ser el primero en llenar sin miedo el vacío.\n\nRyan 'Muchos Sombreros' Merritt, por ayudar a la dirección artística mientras desarrolla, toca el organillo y hace malabares con motosierras en llamas.\n\nLos asistentes a la presentación en vivo de Anarquistas Liberados en Atlanta by Night por la mejor presentación de Mundo de Tinieblas en la historia.\n\n## Edición en español\n\nDirectora y productora ejecutiva: Dhaunae De Vir 'Daphne'.\n\nTraductores: Héctor Gómez Herrero, Miguel Ángel Lucas, Daniel M. Schultes.\n\nCorrectores: Alejandra 'Argéntea' González, Héctor Gómez Herrero, Daniel M. Schultes, Miguel Ángel Lucas.\n\nMaquetador: Marcos Manuel 'EnOcH' Peral Villaverde.\n\nCoordinación editorial: Manuel J. Sueiro.\n\n\n\nBiblioteca Oscura\n\n\n\n\n\n© 2015 CCP hf. Todos los derechos reservados. La reproducción sin el permiso escrito de la editorial está expresamente prohibida, salvo para la elaboración de reseñas y las hojas de personaje en blanco, que pueden ser reproducidas solo para uso personal.\n\nWhite Wolf, Vampiro, Mundo de Tinieblas, Vampiro: La Mascarada y Mago: La Ascensión son marcas comerciales registradas de CCP hf. Todos los derechos reservados. Vampiro: El Réquiem, Hombre Lobo: El Apocalipsis, Hombre Lobo: El Exilio, Mago: El Despertar, Promethean: The Created, Changeling: The Lost, Hunter: The Vigil, Geist: The Sin-Eaters, V20, Cazadores Cazados 2 y Sistema Narrativo son marcas registradas de CCP hf.\n\nTodos los derechos reservados. Todos los personajes, nombres, lugares y texto del presente documento son propiedad de CCP hf. CCP North America Inc. es una subsidiaria propiedad absoluta de CCP hf.\n\nEste libro hace uso de lo sobrenatural para ambientaciones, personajes y temas. Todos los elementos místicos y sobrenaturales son ficticios y están destinados únicamente a propósitos lúdicos. Este libro contiene material explícito. Se recomienda sólo para lectores adultos.\n\nVisita White Wolf online en http://www.white-wolf.com.\n\nVisita Onyx Path online en http://www.theonyxpath.com.\n\nVisita Biblioteca Oscura online en http://www.bibliotecaoscura.com.\n\nVisita Nosolorol online en http://www.nosolorol.com.\n\n2",
+  "toc": [
+    {
+      "text": "Agradecimientos especiales",
+      "anchor": "agradecimientos-especiales"
+    },
+    {
+      "text": "Edición en español",
+      "anchor": "edicion-en-espanol"
+    }
+  ],
+  "prev": null,
+  "next": {
+    "slug": "todo-esta-en-juego",
+    "title": "Todo Está en Juego"
+  }
+}
