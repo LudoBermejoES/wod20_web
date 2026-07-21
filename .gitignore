@@ -7,6 +7,9 @@ dist/
 node_modules/
 
 # logs
+logs/
+# transformers.js model cache (downloaded at runtime; persisted server-side)
+.model-cache*/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*

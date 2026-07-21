@@ -1,0 +1,154 @@
+name: Deploy WoD20 web
+
+# Deploy-only pipeline: build the static Astro site + Node server, ship dist/ and the
+# package manifests, and install runtime node_modules ON the server (native deps like
+# @lancedb/lancedb resolve the correct Linux binary there — CI builds on a different
+# arch). The 74MB LanceDB search index (derived/lancedb) and the model cache are NOT
+# shipped from CI: they are large, regenerable offline, and gitignored, so they live on
+# the server as persistent data and are PRESERVED across deploys. Upload / refresh the
+# index with scripts/upload-index.sh (run after a re-index). Served at wod.ludobermejo.es.
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch: {} # allow manual redeploys from the Actions tab
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4.2.2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4.4.0
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build Astro site (static pages + Node server)
+        run: npm run build
+
+      - name: Create deployment archive
+        run: |
+          mkdir -p /tmp/wod20-deploy
+          # Runtime payload only: the built output + the server wrapper + manifests + pm2
+          # config. node_modules is installed on the server; derived/ and the model cache
+          # stay server-side.
+          cp -r dist /tmp/wod20-deploy/
+          cp server.mjs /tmp/wod20-deploy/
+          cp ecosystem.config.cjs /tmp/wod20-deploy/
+          cp package.json /tmp/wod20-deploy/
+          cp package-lock.json /tmp/wod20-deploy/
+
+          cd /tmp/wod20-deploy
+          tar -czf "$GITHUB_WORKSPACE/wod20-web.tar.gz" .
+          cd "$GITHUB_WORKSPACE"
+          echo "Archive created:"
+          ls -lh wod20-web.tar.gz
+
+      - name: Upload archive to server
+        uses: appleboy/scp-action@master
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USERNAME }}
+          key: ${{ secrets.SSH_KEY }}
+          port: ${{ secrets.SSH_PORT }}
+          source: 'wod20-web.tar.gz'
+          target: '/tmp/'
+
+      - name: Deploy to server
+        uses: appleboy/ssh-action@master
+        env:
+          WOD20_AUTH_USER: ${{ secrets.WOD20_AUTH_USER }}
+          WOD20_AUTH_PASS: ${{ secrets.WOD20_AUTH_PASS }}
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USERNAME }}
+          key: ${{ secrets.SSH_KEY }}
+          port: ${{ secrets.SSH_PORT }}
+          envs: WOD20_AUTH_USER,WOD20_AUTH_PASS
+          script: |
+            set -e
+
+            # Load NVM (same setup as the aleph deploy on this box)
+            export NVM_DIR="/var/www/.nvm"
+            [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+            [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
+
+            DEPLOY_PATH="/var/www/wod20"
+            BACKUP_PATH="/var/www/wod20-backup-$(date +%Y%m%d-%H%M%S)"
+
+            # Back up small mutable bits (the big index is preserved in place, not copied)
+            if [ -d "$DEPLOY_PATH" ]; then
+              echo "Creating backup at $BACKUP_PATH..."
+              mkdir -p "$BACKUP_PATH"
+              [ -d "$DEPLOY_PATH/logs" ] && cp -r "$DEPLOY_PATH/logs" "$BACKUP_PATH/" || true
+              [ -f "$DEPLOY_PATH/.env" ] && cp "$DEPLOY_PATH/.env" "$BACKUP_PATH/" || true
+            fi
+
+            echo "Stopping PM2..."
+            pm2 stop wod20-web 2>/dev/null || echo "Process not running"
+
+            # Replace code, but PRESERVE persistent server-side data:
+            #   derived/       -> the LanceDB search index (74MB, uploaded separately)
+            #   .model-cache/  -> BGE-M3 ONNX weights (downloaded once at first query)
+            #   logs/ .env     -> runtime state / secrets
+            mkdir -p "$DEPLOY_PATH"
+            cd "$DEPLOY_PATH"
+            find . -maxdepth 1 ! -name '.' ! -name '..' \
+              ! -name 'derived' ! -name '.model-cache' ! -name 'logs' ! -name '.env' \
+              -exec rm -rf {} + 2>/dev/null || true
+
+            echo "Extracting new version..."
+            tar -xzf /tmp/wod20-web.tar.gz -C "$DEPLOY_PATH"
+
+            # Ensure the preserved dirs exist (first deploy)
+            mkdir -p "$DEPLOY_PATH/derived" "$DEPLOY_PATH/.model-cache" "$DEPLOY_PATH/logs"
+
+            # Write the password-gate credentials into .env (loaded by pm2 via
+            # --env-file-if-exists). Secrets never touch git; only refresh the two auth
+            # keys, leaving any other .env lines intact.
+            if [ -n "$WOD20_AUTH_PASS" ]; then
+              echo "Configuring password gate..."
+              touch "$DEPLOY_PATH/.env"
+              sed -i '/^WOD20_AUTH_USER=/d; /^WOD20_AUTH_PASS=/d' "$DEPLOY_PATH/.env"
+              echo "WOD20_AUTH_USER=${WOD20_AUTH_USER:-amigo}" >> "$DEPLOY_PATH/.env"
+              echo "WOD20_AUTH_PASS=${WOD20_AUTH_PASS}" >> "$DEPLOY_PATH/.env"
+              chmod 600 "$DEPLOY_PATH/.env"
+            else
+              echo "WARNING: WOD20_AUTH_PASS secret not set — password gate will be OFF."
+            fi
+
+            # Install PRODUCTION deps on the server so @lancedb/lancedb and
+            # @huggingface/transformers pull this box's native binaries.
+            echo "Installing dependencies..."
+            cd "$DEPLOY_PATH"
+            npm ci --omit=dev 2>/dev/null || npm install --omit=dev
+
+            # Guard: the app runs, but search 503s until the index is present.
+            if [ ! -d "$DEPLOY_PATH/derived/lancedb" ] || [ -z "$(ls -A "$DEPLOY_PATH/derived/lancedb" 2>/dev/null)" ]; then
+              echo "WARNING: derived/lancedb is empty — semantic search will return 503."
+              echo "         Upload the index from your machine: scripts/upload-index.sh"
+            fi
+
+            chown -R www-data:www-data "$DEPLOY_PATH"
+
+            echo "Starting PM2..."
+            cd "$DEPLOY_PATH"
+            pm2 restart wod20-web --update-env || pm2 start ecosystem.config.cjs --env production
+            pm2 save
+
+            rm -f /tmp/wod20-web.tar.gz
+
+            # Rotate backups (keep the last 3)
+            cd /var/www
+            ls -td wod20-backup-* 2>/dev/null | tail -n +4 | xargs rm -rf 2>/dev/null || true
+
+            echo ""
+            echo "Deployment complete!"
+            pm2 list

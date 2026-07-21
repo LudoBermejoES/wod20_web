@@ -5,11 +5,17 @@
 // content_type / language filters. Local-only; no cloud, no API key.
 import type { APIRoute } from 'astro';
 import * as lancedb from '@lancedb/lancedb';
-import { pipeline, type FeatureExtractionPipeline } from '@huggingface/transformers';
+import { pipeline, env, type FeatureExtractionPipeline } from '@huggingface/transformers';
 import path from 'node:path';
 import { guideAnchorIndex, resolveGuideHref, type GuideTarget } from '../../lib/guide-anchors';
 
 export const prerender = false; // opt this route into on-demand rendering
+
+// The BGE-M3 ONNX weights download on first use. The default cache is INSIDE
+// node_modules, which a redeploy's `npm ci` wipes — forcing a full re-download every
+// time. Point it at a persistent dir (set on the server, preserved across deploys) so
+// the model is fetched once. Unset in dev → library default (node_modules cache).
+if (process.env.WOD20_MODEL_CACHE) env.cacheDir = process.env.WOD20_MODEL_CACHE;
 
 // ASCII-slug a heading the same way the guide loader builds its anchor ids, so a chunk's
 // heading resolves to a guide page's TOC anchor (deep link to the passage).

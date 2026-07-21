@@ -9,13 +9,19 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "start:prod": "pm2-runtime ecosystem.config.cjs --env production",
+    "preview:prod": "node --env-file-if-exists=.env server.mjs",
+    "pm2:start": "pm2 start ecosystem.config.cjs --env production",
+    "pm2:status": "pm2 status wod20-web",
+    "pm2:logs": "pm2 logs wod20-web"
   },
   "dependencies": {
     "@astrojs/node": "^11.0.2",
     "@huggingface/transformers": "^4.2.0",
     "@lancedb/lancedb": "^0.31.0",
-    "astro": "^7.1.1"
+    "astro": "^7.1.1",
+    "sirv": "^3.0.2"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.9",
