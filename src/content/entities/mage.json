@@ -8552,16 +8552,13 @@
     "line": "mage",
     "name_en": "Spatial Mutation",
     "name_es": "Mutación espacial",
-    "body_es": "La aplicación de Correspondencia 5 'más sencilla' implica reducir o expandir las dimensiones espaciales entre zonas: así, un pequeño corredor podría extenderse durante millas, o una senda en un bosque podría llevar a un viajero a un claro en el otro extremo del mundo. En términos narrativos, el Narrador podría manejar esta clase de cosas de dos formas: [la descripción de los sistemas continúa más allá del final de este fragmento].",
+    "body_es": "La aplicación de Correspondencia 5 'más sencilla' implica reducir o expandir las dimensiones espaciales entre zonas: así, un pequeño corredor podría extenderse durante millas, o una senda en un bosque podría llevar a un viajero a un claro en el otro extremo del mundo. En términos narrativos, el Narrador podría manejar esta clase de cosas de dos formas: **Unir lugares semejantes:** si el mago quiere unir dos lugares semejantes con un sencillo 'pliegue' espacial, la tarea tiene una base de 5 éxitos; por cada nivel de Rango en la tabla Lugares de [teletransporte](/mage/sphere-effects/teleportation) suma un éxito más, y cuanto más familiar sea el lugar, más fácil es la conexión. **Mutaciones indefinidas:** si el mago quiere plegar el espacio de forma indefinida (como hacer que un salón se extienda millas), basa los éxitos en la tabla Tareas de Magia; el Narrador decide el número de éxitos, y cuanto mayor sea la distorsión, más éxitos necesitará.",
     "tags": [
       "correspondencia",
       "espacio"
     ],
     "mechanics": {
       "spheres": "Correspondencia •••••"
-    },
-    "review": {
-      "reason": "Sección truncada en el límite del fragmento (bloque 440): el texto termina en 'el Narrador podría manejar esta clase de cosas de dos formas:' sin enumerar las dos formas/sistemas. Mecánica incompleta, no inventada."
     },
     "sources": [
       {
@@ -14053,7 +14050,7 @@
     "line": "mage",
     "name_en": "Data 3",
     "name_es": "··· Teleportación cuántica / Cortafuegos / Centro de vigilancia",
-    "body_es": "Las técnicas de transferencia avanzada de Datos permiten al especialista prescindir en cierto modo de la física convencional de dimensiones espaciales. En la práctica, esto le permite",
+    "body_es": "Las técnicas de transferencia avanzada de Datos permiten al especialista prescindir en cierto modo de la física convencional de dimensiones espaciales. En la práctica, esto le permite descargarse a sí mismo en un modo de teleportación cuántica; erigir cortafuegos de partículas físicas que protejan de forma efectiva objetos, lugares o personas; y dividir su percepción entre las diversas localizaciones de un centro de vigilancia. Si se combina con otras Esferas, este nivel de pericia permite al agente mover objetos, fuerzas y seres vivos a través del espacio. Estos Procedimientos requieren, también, del equipo necesario en ambos extremos para que el Efecto tenga lugar. Tales violaciones de la física convencional precisan la tecnología adecuada.",
     "tags": [
       "esfera",
       "tecnocracia"
@@ -14073,10 +14070,7 @@
         "section_anchor": "teleportacion-cuantica-cortafuegos-centro-de-vigilancia",
         "variant": "base"
       }
-    ],
-    "review": {
-      "reason": "Cuerpo truncado en el límite del slice (el texto se corta en 'En la práctica, esto le permite'); los Rangos 4-5 de Datos quedan fuera de este slice."
-    }
+    ]
   },
   {
     "id": "open-portal-between-two-locations",
@@ -15223,7 +15217,7 @@
     "type": "sphere-effect",
     "line": "mage",
     "name_en": "Redistribute Physical Properties / Fold Space / Hyperdimensional Perception",
-    "name_es": "Resdistribuir propiedades físicas / Plegar espacio / Percepción hiperdimensional",
+    "name_es": "Redistribuir propiedades físicas / Plegar espacio / Percepción hiperdimensional",
     "body_es": "El [dominio](/mage/practices/dominion) de Datos fusiona la física convencional con sofisticadas hipermatemáticas. Los pocos especialistas a este nivel pueden apilar varias localizaciones en el mismo espacio, alterar las dimensiones y propiedades espaciales de un objetivo o expandir su percepción a tantos lugares que puede considerarse de dicho especialista que tiene ojos y oídos en todas partes.",
     "tags": [
       "technocracy",
@@ -15244,10 +15238,7 @@
         "variant": "base",
         "book_title_es": "M20 Core Rulebook (ES)"
       }
-    ],
-    "review": {
-      "reason": "Encabezado con probable errata de extracción/traducción: 'Resdistribuir' (por 'Redistribuir'). name_es y section_anchor preservados verbatim del origen."
-    }
+    ]
   },
   {
     "id": "cardinal-1-appraise-primal-utility",
