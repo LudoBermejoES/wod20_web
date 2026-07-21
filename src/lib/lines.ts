@@ -2,7 +2,7 @@
 // Spanish display name and subtitle. Slugs (the `id`) are the English line
 // ids used in content collections and URLs; display text is Spanish.
 export interface LineInfo {
-  id: 'mage' | 'vampire' | 'werewolf' | 'wraith' | 'changeling' | 'hunter';
+  id: 'mage' | 'vampire' | 'werewolf' | 'wraith' | 'changeling' | 'hunter' | 'shared';
   nombre: string;
   subtitulo: string;
 }
@@ -14,6 +14,8 @@ export const LINES: LineInfo[] = [
   { id: 'wraith', nombre: 'Wraith', subtitulo: 'El Olvido' },
   { id: 'changeling', nombre: 'Changeling', subtitulo: 'El Ensueño' },
   { id: 'hunter', nombre: 'Cazador', subtitulo: 'La Venganza' },
+  // Cross-line content (Storyteller System): combat maneuvers, martial arts, vehicles.
+  { id: 'shared', nombre: 'Reglas Generales', subtitulo: 'Sistema Narrador' },
 ];
 
 export function lineInfo(id: string): LineInfo | undefined {

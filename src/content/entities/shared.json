@@ -1,0 +1,4529 @@
+[
+  {
+    "id": "mordisco-pelea",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Bite",
+    "name_es": "Mordisco (Pelea)",
+    "body_es": "",
+    "tags": [
+      "brawl",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Pelea",
+      "difficulty": "7",
+      "damage": "Fuerza/B"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "bite",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "mordisco",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "desarmar-pelea",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Disarm",
+    "name_es": "Desarmar (Pelea)",
+    "body_es": "Resta 1 dado a la reserva habitual de Destreza + Pelea. Si obtienes más éxitos que la Fuerza del oponente, le arrebatas su arma.",
+    "tags": [
+      "brawl",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Pelea",
+      "difficulty": "8"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "disarm",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "desarmar",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "distraccion-pelea",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Diversion",
+    "name_es": "Distracción (Pelea)",
+    "body_es": "El oponente resiste con Astucia + Alerta. Si el personaje obtiene más éxitos que su víctima, todas las acciones defensivas de ésta se realizan a +2 de dificultad durante el turno siguiente.",
+    "tags": [
+      "brawl",
+      "standard",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Carisma + Subterfugio (Or other appropriate pool)",
+      "difficulty": "6"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "diversion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "grapple",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Grapple",
+    "name_es": "Presa",
+    "body_es": "Si el atacante quiere hacer daño a su enemigo, puede tirar su Fuerza para infligir daño, comenzando en el turno siguiente y hasta que el oponente se libere. Si el atacante desea inmovilizar a su oponente, éste queda atrapado en su presa hasta su siguiente acción. El oponente puede liberarse superando a su atacante en una tirada enfrentada de Fuerza + Pelea; o puede invertir la presa haciendo lo mismo y obteniendo después dos éxitos más que su atacante.",
+    "tags": [
+      "brawl",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Fuerza + Pelea Destreza + Pelea (When reversing)",
+      "difficulty": "6",
+      "damage": "Fuerza/B"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "grapple",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "presa",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "kick",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Kick",
+    "name_es": "Patada",
+    "body_es": "N/A",
+    "tags": [
+      "brawl",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Pelea",
+      "difficulty": "7",
+      "damage": "Fuerza+1/B"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "kick",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "patada",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "strike",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Strike",
+    "name_es": "Golpe",
+    "body_es": "N/A",
+    "tags": [
+      "brawl",
+      "standard",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Pelea",
+      "difficulty": "6",
+      "damage": "Fuerza/B"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "strike",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "sweep",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Sweep",
+    "name_es": "Barrido",
+    "body_es": "El oponente es derribado si la tirada tiene éxito.",
+    "tags": [
+      "brawl",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Pelea",
+      "difficulty": "8"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "sweep",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "barrido",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "reading-opponent",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Reading Opponent",
+    "name_es": "Escrutar a un oponente",
+    "body_es": "Tirada enfrentada: la Percepción + Rasgo de combate del observador contra la Astucia + Rasgo de combate de su oponente. Si el observador tiene éxito, añade un dado por éxito a la reserva de dados de su siguiente acción contra el oponente. El personaje sólo puede intentar esto una vez por escena de combate por cada punto que tenga en Astucia. El Narrador puede optar por limitar este truco a los personajes que tengan al menos dos puntos tanto en Astucia como en el Rasgo de combate apropiado. A distancias superiores a unos 6 metros (20 pies), este truco no funciona a menos que el observador tenga al menos un punto en Auspex o en las Esferas de Correspondencia/Mente y emplee un Efecto perceptivo para escrutar a su oponente a distancia. Los Garou también pueden escrutar oponentes más allá de los 6 metros, pero deben usar una acción para aguzar sus agudos sentidos*",
+    "tags": [
+      "brawl",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Percepción + Rasgo de Combate",
+      "difficulty": "6"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "reading-opponent",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "escrutar-a-un-oponente",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "tackle",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Tackle",
+    "name_es": "Placaje",
+    "body_es": "Requiere al menos dos metros de distancia. Cada combatiente debe superar una tirada de Destreza + Atletismo (dificultad 6 para el atacante, dificultad 6 + los éxitos del atacante para el objetivo) o resultar derribado. Incluso si la tirada de Atletismo del objetivo tiene éxito, éste sufre +1 de dificultad a sus acciones durante el turno siguiente. Un aspirante a placador que obtenga un fracaso tropieza y cae (infligiéndose un dado de daño por cada metro que corriese); choca contra otra cosa (infligiéndose ese daño más su daño de Fuerza); o se estrella contra su objetivo y rebota (sufriendo la Resistencia del oponente en daño, pero dejando ileso al objetivo). En la mayoría de los casos, el placaje inflige daño contundente.",
+    "tags": [
+      "brawl",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Fuerza + Pelea",
+      "difficulty": "7",
+      "damage": "Fuerza/B"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "tackle",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "placaje",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "bloqueo-pelea",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Block",
+    "name_es": "Bloqueo (Pelea)",
+    "body_es": "Sólo puede usarse contra daño cuerpo a cuerpo/contundente, a menos que el defensor lleve una armadura apropiada o haya endurecido su piel con Magia de Vida o la Disciplina de Fortaleza.",
+    "tags": [
+      "brawl",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Pelea",
+      "difficulty": "Same as attacker’s difficulty"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "block",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "bloqueo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "esquiva-pelea",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Dodge",
+    "name_es": "Esquiva (Pelea)",
+    "body_es": "Esquivar requiere cierto espacio para moverse; las acrobacias, todavía más.",
+    "tags": [
+      "brawl",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Atletismo or Acrobacias",
+      "difficulty": "5 (hand to hand) 6 9/10 (Firearms)"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "dodge",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "esquiva",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "defensa-desesperada-pelea",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Desperate Defence",
+    "name_es": "Defensa desesperada (Pelea)",
+    "body_es": "Volcándolo todo en alejarse del peligro, no puedes hacer nada más ese turno. Para una defensa desesperada, tira la Destreza + Atletismo o Acrobacias de tu personaje si tienes suficiente espacio. Tu personaje usa toda su reserva de dados contra el primer ataque, pero debe restar un dado por cada ataque posterior de ese turno.",
+    "tags": [
+      "brawl",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Atletismo or Acrobacias",
+      "difficulty": "5 (hand to hand) 6 9/10 (Firearms)"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "desperate-defence",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "defensa-desesperada",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "mordisco-vampiro",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Bite",
+    "name_es": "Mordisco (Vampiro)",
+    "body_es": "Para usar un ataque de mordisco, el vampiro debe realizar primero un forcejeo, un agarre o un [placaje](/shared/maneuvers/tackle) con éxito. En el turno siguiente al ataque logrado, el jugador puede declarar el intento de mordisco y hacer una tirada con los modificadores indicados a continuación.",
+    "tags": [
+      "brawl",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "vampire",
+      "roll": "Destreza + Pelea +1",
+      "difficulty": "6",
+      "damage": "Fuerza+1/A"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "bite",
+        "variant": "base"
+      },
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "mordisco",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "kiss",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Kiss",
+    "name_es": "El Beso",
+    "body_es": "El Beso se resuelve de la misma forma que un mordisco normal, pero no inflige ningún nivel de Salud de daño. Al conectar un Beso, el vampiro puede empezar a drenar la sangre de la víctima a (normalmente) hasta tres puntos de sangre por turno, y la víctima suele quedar indefensa para resistirse. Tras el Beso, si lo desea, el vampiro puede lamer la herida punzante del Beso hasta cerrarla, eliminando así cualquier evidencia de que se ha alimentado.",
+    "tags": [
+      "brawl",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "vampire",
+      "roll": "Destreza + Pelea +1",
+      "difficulty": "6"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "kiss",
+        "variant": "base"
+      },
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "el-beso",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "bite-crinos-hispo-lupus",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Bite (Crinos, Hispo, Lupus)",
+    "name_es": "Mordisco (Crinos, Hispo, Lupus)",
+    "body_es": "",
+    "tags": [
+      "brawl",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "werewolf",
+      "roll": "Destreza + Pelea",
+      "difficulty": "5  (8 in Glabro form)",
+      "damage": "Fuerza + 1/A (Fuerza \\- 1 L in Glabro form)"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "bite-crinos-hispo-lupus",
+        "variant": "base"
+      },
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "mordisco",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "claw-glabro-crinos-hispo-lupus",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Claw (Glabro, Crinos, Hispo, Lupus)",
+    "name_es": "Garrazo (Glabro, Crinos, Hispo, Lupus)",
+    "body_es": "",
+    "tags": [
+      "brawl",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "werewolf",
+      "roll": "Destreza + Pelea",
+      "difficulty": "6",
+      "damage": "Fuerza + 1/A (Fuerza + 1/B in Glabro and Lupus form)"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "claw-glabro-crinos-hispo-lupus",
+        "variant": "base"
+      },
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "garrazo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "cegar-pelea",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Blinding**",
+    "name_es": "Cegar (Pelea)",
+    "body_es": "Apuntando a los ojos: si el atacante tiene éxito, el enemigo queda cegado durante un turno por cada éxito y pierde dos dados de sus reservas hasta que se recupere. Cegar con armas o productos químicos puede infligir uno o dos niveles de Salud de daño letal además de la ceguera, y cinco éxitos o más pueden destruir los ojos por completo.",
+    "tags": [
+      "brawl",
+      "learned",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "learned",
+      "applies_to": "shared",
+      "roll": "Destreza + Subterfugio",
+      "difficulty": "9",
+      "damage": "Dependant"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "blinding",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "body-slam",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Body Slam**",
+    "name_es": "Embestida",
+    "body_es": "Esta maniobra requiere primero un ataque de [presa](/shared/maneuvers/grapple) con éxito; si el enemigo no puede liberarse ese turno, el atacante puede usar su siguiente acción para estrellarlo contra la superficie más cercana y dolorosa.",
+    "tags": [
+      "brawl",
+      "learned",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "learned",
+      "applies_to": "shared",
+      "roll": "Fuerza + Pelea",
+      "difficulty": "6",
+      "damage": "Fuerza +2/B Fuerza +2/L (Slammed on appropriate surface)"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "body-slam",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "curbstomp",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Curbstomp**",
+    "name_es": "Pisotón",
+    "body_es": "El pisotón requiere un objetivo aturdido o inmovilizado, además de un turno para colocar su cara en posición.",
+    "tags": [
+      "brawl",
+      "learned",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "learned",
+      "applies_to": "shared",
+      "roll": "Fuerza + Pelea",
+      "difficulty": "6",
+      "damage": "Fuerza + 2/L"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "curbstomp",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "evasive-action",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Evasive Action***",
+    "name_es": "Acción evasiva",
+    "body_es": "Funciona como una esquiva, aunque el personaje que evade no puede abortar la acción que declaró previamente para usar esta táctica. Cada éxito conseguido por el evasor resta un éxito de la tirada del atacante. Si obtiene más éxitos que su atacante, puede golpearlo en el turno siguiente con un –1 a su dificultad de ataque, suponiendo que actúe antes que él.",
+    "tags": [
+      "brawl",
+      "learned"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "learned",
+      "applies_to": "shared",
+      "roll": "Astucia + Atletismo",
+      "difficulty": "6"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "evasive-action",
+        "variant": "base"
+      },
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "accion-evasiva",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "haymaker",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Haymaker**",
+    "name_es": "Puñetazo demoledor",
+    "body_es": "Si tiene éxito, este [golpe](/shared/maneuvers/strike) suele hacer retroceder al oponente un metro o así, a menos que supere una tirada de Fuerza (dificultad 8) para resistir sus efectos; si obtiene un fracaso en esa tirada, cae al suelo.",
+    "tags": [
+      "brawl",
+      "learned",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "learned",
+      "applies_to": "shared",
+      "roll": "Destreza + Pelea",
+      "difficulty": "7",
+      "damage": "Fuerza + 2/B"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "haymaker",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "headbutt",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Headbutt**",
+    "name_es": "Cabezazo",
+    "body_es": "Si el objetivo absorbe todo ese daño, el atacante queda aturdido durante un turno. Cualquiera lo bastante estúpido como para dar un cabezazo a una gárgola u otro oponente inflexible sufre el daño que habría infligido y también queda aturdido durante un turno.",
+    "tags": [
+      "brawl",
+      "learned",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "learned",
+      "applies_to": "shared",
+      "roll": "Destreza +  Pelea",
+      "difficulty": "6",
+      "damage": "Fuerza + 1/B"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "headbutt",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "jab-pistol",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Jab Pistol",
+    "name_es": "Golpe con pistola",
+    "body_es": "Como el arma se usa cuerpo a cuerpo, la maniobra emplea Pelea en lugar de Armas de Fuego. Sólo pueden usarse pistolas de esta forma, y los resultados son… repugnantes.",
+    "tags": [
+      "brawl",
+      "learned",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "learned",
+      "applies_to": "shared",
+      "roll": "Dex + Pelea",
+      "difficulty": "6",
+      "damage": "As per firearm +2"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "jab-pistol",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "joint-break",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Joint Break",
+    "name_es": "Rotura de articulación",
+    "body_es": "Primero hay que apresar al oponente. Si el daño tras la absorción supera los 2 niveles de Salud*, el miembro del objetivo queda inutilizado hasta que sane. Los personajes con una pierna inutilizada no pueden moverse a más de dos metros por turno hasta que la lesión se cure, y añaden +2 a la dificultad de cualquier tirada para evitar ser derribados.",
+    "tags": [
+      "brawl",
+      "learned",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "learned",
+      "applies_to": "shared",
+      "roll": "Fuerza + Pelea",
+      "difficulty": "9",
+      "damage": "Fuerza/L + Cripple"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "joint-break",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "low-blow",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Low Blow**",
+    "name_es": "Golpe bajo",
+    "body_es": "Apuntando a zonas como el tabique nasal, los testículos o los riñones. Con una tirada de ataque exitosa, el objetivo acaba aturdido durante un turno por cada nivel de Salud infligido tras la tirada de absorción. Puede tratar de sobreponerse con una tirada de Resistencia (dificultad 8), pero de lo contrario queda retorciéndose o paralizado por el dolor.",
+    "tags": [
+      "brawl",
+      "learned",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "learned",
+      "applies_to": "shared",
+      "roll": "Destreza + Pelea",
+      "difficulty": "7",
+      "damage": "Fuerza/B + Stun"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "low-blow",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "riposte",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Riposte",
+    "name_es": "Contraataque",
+    "body_es": "Esta maniobra debe seguir a un bloqueo o una parada con éxito, y sólo puede realizarse en combate cuerpo a cuerpo.",
+    "tags": [
+      "brawl",
+      "learned",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "learned",
+      "applies_to": "shared",
+      "roll": "Destreza + Pelea",
+      "difficulty": "4",
+      "damage": "Fuerza/B"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "riposte",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "tactics",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Tactics",
+    "name_es": "Tácticas",
+    "body_es": "Por cada éxito puedes ofrecer a un aliado un –1 de dificultad en su siguiente tirada. Puedes ofrecer bonificaciones adicionales al mismo personaje, pero afectan a tiradas posteriores; no se «acumulan» como mayores bonificaciones de dificultad en una sola tirada.",
+    "tags": [
+      "brawl",
+      "learned",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "learned",
+      "applies_to": "shared",
+      "roll": "Inteligencia + Liderazgo roll",
+      "difficulty": "6"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "tactics",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "taunt",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Taunt***",
+    "name_es": "Mofarse",
+    "body_es": "Por cada dos éxitos que obtenga el agresor en una tirada de Manipulación + Intimidación o Expresión, el objetivo pierde un dado en su siguiente acción que no sea un ataque contra el agresor. Un Garou o un Vampiro pueden ser incitados al frenesí mediante las mofas.",
+    "tags": [
+      "brawl",
+      "learned"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "learned",
+      "applies_to": "shared",
+      "roll": "Manipulación + Expresión/ Intimidación",
+      "difficulty": "Opponent’s Wits + 4",
+      "damage": "None"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "taunt",
+        "variant": "base"
+      },
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "mofarse",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "fur-gnarl-glabro-crinos-hispo-lupus",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Fur Gnarl (Glabro, Crinos, Hispo, Lupus)",
+    "name_es": "Retorcer la piel (Glabro, Crinos, Hispo, Lupus)",
+    "body_es": "Un compañero de manada arranca las capas protectoras de la [presa](/shared/maneuvers/grapple), y luego otro compañero se lanza a atacar la zona recién expuesta. La protección en cuestión no tiene por qué ser pelaje: puede ser una placa de armadura, equipo de protección u otra cosa. El primer atacante tira Destreza + Pelea, dificultad 7, para arrancar la protección; por cada dos éxitos en esta tirada, el defensor pierde un dado de sus tiradas de absorción en esa zona. El siguiente compañero de manada puede entonces atacar esa zona; aunque añade dos a su dificultad, ese segundo hombre lobo golpea el punto débil, sorteando la protección que estaría allí si su compañero no la hubiera eliminado primero. Hasta que pueda regenerar o sustituir su armadura, la [presa](/shared/maneuvers/grapple) permanece en bastante mal estado… sobre todo porque los hombres lobo pueden arrancar más capas con nuevos ataques.",
+    "tags": [
+      "pack-tactic",
+      "special"
+    ],
+    "mechanics": {
+      "category": "pack-tactic",
+      "tier": "special",
+      "applies_to": "werewolf",
+      "roll": "Destreza + Pelea",
+      "difficulty": "7",
+      "packmates": "2 or more"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "fur-gnarl-glabro-crinos-hispo-lupus",
+        "variant": "base"
+      },
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "retorcer-la-piel",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "harrying-hispo-lupus",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Harrying (Hispo, Lupus)",
+    "name_es": "Hostigar (Hispo, Lupus)",
+    "body_es": "Para hostigar a un objetivo, al menos cuatro hombres lobo lo rodean: uno delante de la [presa](/shared/maneuvers/grapple), uno detrás y dos o más en cada flanco. El Garou más rezagado hace una tirada de Destreza + Atletismo, dificultad 5; la [presa](/shared/maneuvers/grapple) hace la misma tirada a la misma dificultad. Si el hombre lobo obtiene más éxitos, la «pasa» a otra ronda de hostigamiento. Si la [presa](/shared/maneuvers/grapple) obtiene más éxitos que el jugador del hombre lobo, gana algo de ventaja. El jugador Garou puede tratar de hostigarla de nuevo, pero esta vez cada éxito que ella sacó por encima de los suyos añade +1 a su dificultad. Debe superar los éxitos de su [presa](/shared/maneuvers/grapple) en la nueva dificultad, más alta, para perseguirla hasta el siguiente compañero de manada. Si falla, la [presa](/shared/maneuvers/grapple) escapa y la manada debe darle caza de nuevo. Por cada «pase» con éxito, la [presa](/shared/maneuvers/grapple) añade +1 a su dificultad; por cada «pase» con éxito tras el primero, la [presa](/shared/maneuvers/grapple) pierde un dado de sus reservas. Los humanos normales también pierden un punto de Fuerza de Voluntad cada vez que son «pasados» entre los hombres lobo, mientras que las entidades humanoides (vampiros, changelings, magos, etc.) pierden un punto de Fuerza de Voluntad por cada dos intercambios con éxito.",
+    "tags": [
+      "pack-tactic",
+      "special"
+    ],
+    "mechanics": {
+      "category": "pack-tactic",
+      "tier": "special",
+      "applies_to": "werewolf",
+      "roll": "Destreza + Atletismo",
+      "difficulty": "5",
+      "packmates": "4 or more"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "harrying-hispo-lupus",
+        "variant": "base"
+      },
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "hostigar",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "savage-any-form",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Savage (Any form)",
+    "name_es": "Salvajismo (cualquier forma)",
+    "body_es": "El primer atacante ejecuta un [barrido](/shared/maneuvers/sweep) o un [placaje](/shared/maneuvers/tackle); si tiene éxito, la [presa](/shared/maneuvers/grapple) cae al suelo y los compañeros de manada se lanzan a atacar. Si la [presa](/shared/maneuvers/grapple) logra sobrevivir al asalto inicial, puede tratar de levantarse de nuevo. Este intento requiere una tirada con éxito de Fuerza + Atletismo, con una dificultad de 4 + 1 por cada Garou involucrado en el ataque (máximo 10).",
+    "tags": [
+      "pack-tactic",
+      "special"
+    ],
+    "mechanics": {
+      "category": "pack-tactic",
+      "tier": "special",
+      "applies_to": "werewolf",
+      "packmates": "3 or more"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "savage-any-form",
+        "variant": "base"
+      },
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "salvajismo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "evasive-action-all-forms",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Evasive Action (All forms)",
+    "name_es": "Acción evasiva (todas las formas)",
+    "body_es": "Esta maniobra funciona como una esquiva, aunque el personaje que evade no puede abortar la acción que declaró previamente para usar esta táctica. Cada éxito conseguido por el evasor resta un éxito de la tirada del atacante. Si obtiene más éxitos que su atacante, puede golpearlo en el turno siguiente con un –1 a su dificultad de ataque.",
+    "tags": [
+      "brawl",
+      "special"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "special",
+      "applies_to": "werewolf",
+      "roll": "Astucia + Atletismo or Acrobacias",
+      "difficulty": "6"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "evasive-action-all-forms",
+        "variant": "base"
+      },
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "accion-evasiva",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "jaw-lock-crinos-hispo-lupus",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Jaw Lock (Crinos, Hispo, Lupus)",
+    "name_es": "Presa de mandíbula (Crinos, Hispo, Lupus)",
+    "body_es": "El hombre lobo atacante rodea la garganta de su rival con los dientes, pero no le muerde… todavía. Una vez que el rival ha sido volteado o derribado al suelo, el lobo atacante envuelve su garganta con las mandíbulas: una tirada de mordisco con un +1 adicional a su dificultad. Si el rival decide contraatacar, ambos jugadores hacen una tirada enfrentada de Fuerza + Atletismo; si gana el atacante, obliga al otro lobo a quedar en el suelo y lo domina; si pierde el atacante, no logra inmovilizar a su objetivo, pero inflige el daño normal del mordisco. Si el defensor decide no rendirse, su jugador puede tirar Fuerza + Pelea en el turno siguiente, en una tirada enfrentada contra la Fuerza + Pelea del atacante. La dificultad del defensor es la Pelea del atacante + 4, mientras que la dificultad del atacante es la Pelea del defensor + 2. Si falla, sigue dominado; si iguala sus éxitos, se libera pero sufre un daño igual a los éxitos del atacante ese turno. (Puede tratar de absorber este daño.) Si obtiene más éxitos que él, escapa.",
+    "tags": [
+      "brawl",
+      "special"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "special",
+      "applies_to": "werewolf",
+      "roll": "Destreza + Pelea",
+      "difficulty": "6",
+      "damage": "None or as Bite damage"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "jaw-lock-crinos-hispo-lupus",
+        "variant": "base"
+      },
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "presa-de-mandibula",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "hamstring-all-forms",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Hamstring (All forms)",
+    "name_es": "Desjarretar (todas las formas)",
+    "body_es": "Un ataque de desjarrete con éxito derriba a un objetivo bípedo y le dificulta volver a levantarse (Destreza + Atletismo, dificultad 8), y mucho más moverse (1/4 del movimiento normal) hasta que la lesión sane. Los oponentes de múltiples patas reducen a la mitad su movimiento habitual, y pueden ser derribados a menos que superen una tirada de Destreza + Atletismo para mantenerse en pie (dificultad 7). Cuando lo infligen los colmillos o garras de un hombre lobo, el daño de este ataque es agravado. Los personajes humanoides pueden tratar de desjarretar a un enemigo con un arma que cause daño letal, como una hoja o un hacha, usando Destreza + Pelea con Armas (dificultad 9).",
+    "tags": [
+      "brawl",
+      "special"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "special",
+      "applies_to": "werewolf",
+      "roll": "Destreza + Pelea",
+      "difficulty": "8/9",
+      "damage": "Fuerza/A or L"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "hamstring-all-forms",
+        "variant": "base"
+      },
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "desjarretar",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "leaping-rake-homid-glabro-crinos",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Leaping Rake (Homid, Glabro, Crinos)",
+    "name_es": "Zarpazo en salto (Homínido, Glabro, Crinos)",
+    "body_es": "El atacante elige dónde quiere que aterrice su personaje. El Narrador determina cuántos éxitos necesitará en una tirada de Destreza + Atletismo para llegar allí a salvo. (La dificultad es 3; las distancias pueden consultarse en el apartado de Saltar de la sección de Tareas físicas.) Si el jugador obtiene suficientes éxitos para alcanzar su objetivo, puede tratar de alcanzar a su blanco con una tirada adicional de Destreza + Pelea. (Requiere dividir la reserva.) Si falla la tirada de salto, acaba dentro del alcance de su enemigo. Un hombre lobo en Forma Homínido o Glabro podría intentar este truco con un arma, infligiendo daño letal o quizá contundente con una tirada de Destreza + Pelea con Armas exitosa.",
+    "tags": [
+      "brawl",
+      "special",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "special",
+      "applies_to": "werewolf",
+      "roll": "Destreza + Atletismo and Destreza + Pelea",
+      "difficulty": "8",
+      "damage": "Fuerza + 1/(Dependant on weapon)"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "leaping-rake-homid-glabro-crinos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "taunt-all-forms",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Taunt (All forms)",
+    "name_es": "Mofarse (todas las formas)",
+    "body_es": "Por cada dos éxitos que obtenga el agresor en una tirada de Manipulación + Intimidación (para los no Garou) o Expresión (para otros hombres lobo), el objetivo pierde un dado en su siguiente acción que no sea un ataque contra el agresor. Un Garou o un Vampiro pueden ser incitados al frenesí mediante las mofas.",
+    "tags": [
+      "brawl",
+      "special"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "special",
+      "applies_to": "werewolf",
+      "roll": "Manipulación + Expresión/ Intimidación",
+      "difficulty": "Opponent’s Wits + 4",
+      "damage": "None"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "taunt-all-forms",
+        "variant": "base"
+      },
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "mofarse",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "wishbone-glabro-crinos-hispo-lupus",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Wishbone (Glabro, Crinos, Hispo, Lupus)",
+    "name_es": "Descuartizar (Glabro, Crinos, Hispo, Lupus)",
+    "body_es": "Cada personaje involucrado en el intento de descuartizamiento debe superar una tirada de Destreza + Pelea. La dificultad empieza en 6 y disminuye en uno por cada Garou involucrado en el ataque. Suponiendo que tengan éxito, los monstruos pueden usar su siguiente acción para dar un buen tirón. Este daño es letal si los hombres lobo emplean su fuerza bruta, y agravado si usan los dientes. Obviamente, los Garou pueden decidir no tirar; ésta suele ser una forma bastante eficaz de coacción. Si los hombres lobo deciden hacerlo durar, pueden tirar despacio, infligiendo daño contundente en lugar de letal o agravado. Si el hombre lobo no está de humor para juegos, puede simplemente decidir arrancar de cuajo. Si un solo Garou inflige más de tres niveles de Salud (tras la absorción) con este ataque, la extremidad en cuestión queda rota o… ejem, arrancada.",
+    "tags": [
+      "brawl",
+      "special"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "special",
+      "applies_to": "werewolf",
+      "roll": "Fuerza + Pelea",
+      "difficulty": "6 / –1 for each additional werewolf involved",
+      "damage": "Fuerza/L or A (for each Garou involved)"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "wishbone-glabro-crinos-hispo-lupus",
+        "variant": "base"
+      },
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "descuartizar",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "elbow-knee-strike",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Elbow/Knee strike",
+    "name_es": "Codazo o rodillazo",
+    "body_es": "",
+    "tags": [
+      "martial-arts",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "martial-arts",
+      "tier": "standard",
+      "applies_to": "shared",
+      "style": "any",
+      "roll": "Destreza + Artes Marciales",
+      "difficulty": "5",
+      "damage": "Fuerza +1/B",
+      "min_ability": "Martial Arts 1"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "elbow-knee-strike",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "codazo-o-rodillazo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "joint-lock",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Joint Lock",
+    "name_es": "Llave",
+    "body_es": "El jugador tira Destreza + Artes Marciales para apresar a su oponente y, acto seguido, puede tirar Destreza + Artes Marciales (sin dividir su reserva de dados) para infligir daño. Cada éxito obtenido inflige un nivel de Salud de daño letal.",
+    "tags": [
+      "martial-arts",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "martial-arts",
+      "tier": "standard",
+      "applies_to": "shared",
+      "style": "any",
+      "roll": "Destreza + Artes Marciales",
+      "difficulty": "5",
+      "damage": "Éxitos/L",
+      "min_ability": "Martial Arts 2 and  Athletics or Acrobatics 2"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "joint-lock",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "llave",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "nerve-pressure-point-strike",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Nerve/ Pressure point strike",
+    "name_es": "Golpe a un nervio",
+    "body_es": "Si el atacante obtiene al menos tres éxitos para golpear a su oponente, éste debe hacer una tirada de Resistencia (dificultad 8) o quedará aturdido en el turno siguiente. Un fracaso en esa tirada lo aturde durante tres turnos en su lugar.",
+    "tags": [
+      "martial-arts",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "martial-arts",
+      "tier": "standard",
+      "applies_to": "shared",
+      "style": "any",
+      "roll": "Destreza + Artes Marciales",
+      "difficulty": "7",
+      "damage": "Fuerza +3/B",
+      "min_ability": "Martial Arts 3 (any style)"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "nerve-pressure-point-strike",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "golpe-a-un-nervio",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "snake-step",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Snake step",
+    "name_es": "Andares de serpiente",
+    "body_es": "Esta maniobra actúa como una esquiva, con una bonificación de tres dados y usando Destreza + Artes Marciales como reserva de dados.",
+    "tags": [
+      "martial-arts",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "martial-arts",
+      "tier": "standard",
+      "applies_to": "shared",
+      "style": "any",
+      "roll": "Destreza + Artes Marciales",
+      "difficulty": "5 (Soft style) 6 (Hard style)",
+      "min_ability": "Martial Arts 1, Athletics or Acrobatics 1"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "snake-step",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "andares-de-serpiente",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "throw",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Throw",
+    "name_es": "Lanzamiento",
+    "body_es": "Tras haber apresado a su oponente (o haber usado una [contraproyección](/shared/maneuvers/counter-throw)), el artista marcial lo estrella contra una superficie conveniente. El atacante necesita una reserva de Destreza + Artes Marciales igual o mayor que la Destreza de su oponente. Con una tirada exitosa, el artista marcial puede lanzar a su oponente hasta un metro por cada éxito que obtenga en su tirada de ataque. Así, siempre que tenga una trayectoria despejada hacia el lugar, puede elegir dónde aterriza su oponente. Al aterrizar, éste sufre daño en función de la fuerza del atacante. Si el oponente estaba cargando contra ella cuando fue lanzado, el impacto inflige además +1 dado por cada 3 metros (10 pies) que estuviera recorriendo en ese momento (máximo +10 dados). Si el impacto inflige más de tres niveles de Salud de daño (tras la absorción), el oponente debe hacer una tirada de Resistencia (dificultad 8) o quedará aturdido durante un turno. Si el artista marcial lanza a un oponente contra otro, el enemigo volante inflige un dado de daño contundente por cada punto de Resistencia que tenga, más un dado adicional por el impulso y el impacto si uno o ambos oponentes se movían en ese momento. (Un enemigo con Resistencia 3, por ejemplo, que acabara de correr 6 metros antes de ser lanzado infligiría cinco dados de daño contundente sobre su compañero.) Lanzar a un oponente contra otro añade +2 a la dificultad de la tirada de ese lanzamiento.",
+    "tags": [
+      "martial-arts",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "martial-arts",
+      "tier": "standard",
+      "applies_to": "shared",
+      "style": "any",
+      "roll": "Destreza + Martial arts",
+      "difficulty": "6 (Soft style) 7 (Hard style)",
+      "damage": "Fuerza + movement/B",
+      "min_ability": "Martial Arts 2"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "throw",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "lanzamiento",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "bloqueo-y-desvio-artes-marciales",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Block",
+    "name_es": "Bloqueo y desvío (Artes Marciales)",
+    "body_es": "Como el bloqueo estándar, pero permite al usuario bloquear el daño de las armas (el jugador aún no puede bloquear daño letal sin armadura o capacidades sobrenaturales).",
+    "tags": [
+      "martial-arts",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "martial-arts",
+      "tier": "standard",
+      "applies_to": "shared",
+      "style": "any",
+      "roll": "Destreza + Artes Marciales",
+      "difficulty": "6 8 (vs. Weapon)",
+      "min_ability": "Martial arts 1"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "block",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "bloqueo-y-desvio",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "counter-throw",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Counter Throw",
+    "name_es": "Contraproyección",
+    "body_es": "Cuando el artista marcial es atacado, haz una tirada enfrentada de Destreza + Artes Marciales contra la Destreza + Pelea, Pelea con Armas o Artes Marciales del atacante (dependiendo de la Habilidad que el oponente esté usando para atacar). Si obtienes más éxitos que tu atacante, desvías el ataque y puedes tratar de proyectarlo (sin tener que dividir tu reserva de dados). Si fallas la proyección, aun así esquivas su ataque.",
+    "tags": [
+      "martial-arts",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "martial-arts",
+      "tier": "standard",
+      "applies_to": "shared",
+      "style": "soft",
+      "roll": "Destreza + Artes Marciales",
+      "difficulty": "6",
+      "damage": "As throw",
+      "min_ability": "Martial Arts 1 and Athletics 1"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "counter-throw",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "contraproyeccion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "deflecting-block",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Deflecting Block",
+    "name_es": "Bloqueo Desviador",
+    "body_es": "Si el defensor obtiene más éxitos que su atacante, este último debe tirar Destreza (dificultad 8) o caerá al suelo (o se estrellará contra una superficie cercana), sufriendo su propia Fuerza en daño contundente.",
+    "tags": [
+      "martial-arts",
+      "standard",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "martial-arts",
+      "tier": "standard",
+      "applies_to": "shared",
+      "style": "soft",
+      "roll": "Destreza + Artes Marciales",
+      "difficulty": "6",
+      "damage": "Attacker’s Fuerza/B",
+      "min_ability": "Martial Arts 2 and Athletics or Acrobatics 2"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "deflecting-block",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "soft-strike",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Soft Strike",
+    "name_es": "Golpe Suave",
+    "body_es": "",
+    "tags": [
+      "martial-arts",
+      "standard",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "martial-arts",
+      "tier": "standard",
+      "applies_to": "shared",
+      "style": "soft",
+      "roll": "Destreza + Artes Marciales",
+      "difficulty": "6",
+      "damage": "Fuerza +1/B",
+      "min_ability": "Martial Arts 1"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "soft-strike",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "withering-grasp",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Withering Grasp",
+    "name_es": "Presa Marchitante",
+    "body_es": "Para arrebatar el arma de la mano de un enemigo, el artista marcial debe obtener al menos tres éxitos; con cinco éxitos, puede quitársela y usarla él mismo en un turno posterior.",
+    "tags": [
+      "martial-arts",
+      "standard",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "martial-arts",
+      "tier": "standard",
+      "applies_to": "shared",
+      "style": "soft",
+      "roll": "Destreza + Artes Marciales",
+      "difficulty": "7",
+      "damage": "Fuerza/B",
+      "min_ability": "Martial Arts 3"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "withering-grasp",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "death-strike",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Death Strike",
+    "name_es": "Golpe Mortal",
+    "body_es": "",
+    "tags": [
+      "martial-arts",
+      "standard",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "martial-arts",
+      "tier": "standard",
+      "applies_to": "shared",
+      "style": "hard",
+      "roll": "Destreza + Artes Marciales",
+      "difficulty": "7*",
+      "damage": "Fuerza +2/L",
+      "min_ability": "Martial Arts 3"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "death-strike",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "dragon-tail-sweep",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Dragon Tail Sweep",
+    "name_es": "Barrido de Cola de Dragón",
+    "body_es": "Como «proyección», pero el artista marcial no necesita agarrar primero a su oponente.",
+    "tags": [
+      "martial-arts",
+      "standard",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "martial-arts",
+      "tier": "standard",
+      "applies_to": "shared",
+      "style": "hard",
+      "roll": "Destreza + Artes Marciales",
+      "difficulty": "8",
+      "damage": "As throw",
+      "min_ability": "Martial Arts 1 and Athletics or Acrobatics 1"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "dragon-tail-sweep",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "flying-kick",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Flying Kick",
+    "name_es": "Patada Voladora",
+    "body_es": "",
+    "tags": [
+      "martial-arts",
+      "standard",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "martial-arts",
+      "tier": "standard",
+      "applies_to": "shared",
+      "style": "hard",
+      "roll": "Destreza + Artes Marciales",
+      "difficulty": "7",
+      "damage": "Fuerza +2/B",
+      "min_ability": "Martial Arts 1 and Athletics or Acrobatics 1"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "flying-kick",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "hard-strike",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Hard Strike",
+    "name_es": "Golpe Duro",
+    "body_es": "",
+    "tags": [
+      "martial-arts",
+      "standard",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "martial-arts",
+      "tier": "standard",
+      "applies_to": "shared",
+      "style": "hard",
+      "roll": "Destreza + Artes Marciales",
+      "difficulty": "5",
+      "damage": "Fuerza +1/B",
+      "min_ability": "Martial Arts 1"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "hard-strike",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "snap-kick",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Snap Kick",
+    "name_es": "Patada Rápida",
+    "body_es": "",
+    "tags": [
+      "martial-arts",
+      "standard",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "martial-arts",
+      "tier": "standard",
+      "applies_to": "shared",
+      "style": "hard",
+      "roll": "Destreza + Artes Marciales",
+      "difficulty": "5",
+      "damage": "Fuerza +1/B",
+      "min_ability": "Martial Arts 1"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "snap-kick",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "spinning-kick",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Spinning Kick",
+    "name_es": "Patada Giratoria",
+    "body_es": "",
+    "tags": [
+      "martial-arts",
+      "standard",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "martial-arts",
+      "tier": "standard",
+      "applies_to": "shared",
+      "style": "hard",
+      "roll": "Destreza + Artes Marciales",
+      "difficulty": "6",
+      "damage": "Fuerza +3/B",
+      "min_ability": "Martial Arts 2 and Athletics or Acrobatics 2"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "spinning-kick",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "thunder-kick",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Thunder Kick",
+    "name_es": "Patada del Trueno",
+    "body_es": "Cada éxito añade un dado adicional a la reserva de daño de la [patada](/shared/maneuvers/kick). Un personaje no puede usar Patada del Trueno más de una vez cada cinco turnos.",
+    "tags": [
+      "martial-arts",
+      "standard",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "martial-arts",
+      "tier": "standard",
+      "applies_to": "shared",
+      "style": "hard",
+      "roll": "Destreza + Artes Marciales",
+      "difficulty": "7",
+      "damage": "Fuerza +3 + successes/B",
+      "min_ability": "Martial Arts 3 and Athletics or Acrobatics 2"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "thunder-kick",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "vital-punch",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Vital punch",
+    "name_es": "Puñetazo Vital",
+    "body_es": "",
+    "tags": [
+      "martial-arts",
+      "standard",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "martial-arts",
+      "tier": "standard",
+      "applies_to": "shared",
+      "style": "hard",
+      "roll": "Destreza + Martial arts",
+      "difficulty": "6*",
+      "damage": "Fuerza/L",
+      "min_ability": "Martial Arts 2"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "vital-punch",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "arrow-cutting",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Arrow Cutting",
+    "name_es": "Desviar flechas",
+    "body_es": "A dificultad 7, el devoto puede desviar un proyectil entrante a velocidad de flecha o más lento. A dificultad 9, puede atraparlo y devolverlo con su siguiente acción. Añadiendo un Efecto de Atrapar Balas de Tiempo 3 / Fuerzas 2 / Vida 2 a la proeza de Desviar flechas, un personaje Akáshico puede atrapar balas. Para realizar este truco, un mago Akáshico que sea consciente del ataque puede lanzar el Efecto, enfocarlo a través del Do y luego tirar su Destreza + Do como si fuera una esquiva contra el disparo. Si obtiene más éxitos que su atacante, atrapa la bala antes de que pueda alcanzarle. Esta proeza no funciona contra escopetas o armas de fuego rápido.",
+    "tags": [
+      "brawl",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Do",
+      "difficulty": "7/9",
+      "damage": "N/A or As weapon"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "arrow-cutting",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "desviar-flechas",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "hurricane-throw",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Hurricane Throw",
+    "name_es": "Lanzamiento huracán",
+    "body_es": "En esencia, se trata de una proyección típica de artes marciales con el daño y la dificultad indicados. Sin embargo, cada éxito añade un dado a la reserva de daño del Lanzamiento huracán.",
+    "tags": [
+      "brawl",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Do",
+      "difficulty": "8",
+      "damage": "Fuerza +3 + successes/B"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "hurricane-throw",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "lanzamiento-huracan",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "iron-shirt",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Iron Shirt",
+    "name_es": "Camisa de hierro",
+    "body_es": "La Camisa de hierro no puede absorber daño letal. El personaje siempre sufrirá un nivel de Salud de daño por un [golpe](/shared/maneuvers/strike) que supere su Rasgo de Resistencia.",
+    "tags": [
+      "brawl",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Adds Do trait to soak"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "iron-shirt",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "camisa-de-hierro",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "kiaijutsu",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Kiaijutsu",
+    "name_es": "Kiaijutsu",
+    "body_es": "Una vez por combate. Resistencia: El Tao-shih puede endurecerse contra los golpes, concediéndose una bonificación de Resistencia de tres turnos de un punto por cada éxito en una tirada de Resistencia + Do. Terror: Puede aterrorizar a sus enemigos tirando Manipulación + Do (la dificultad es la Fuerza de Voluntad del objetivo +3). Cada éxito añade +1 de dificultad a la siguiente acción del objetivo, hasta un máximo de +3 de dificultad. Si los éxitos del devoto superan la Fuerza de Voluntad del objetivo, ese enemigo queda paralizado por la inmovilidad durante un turno más o menos, o bien se ve impulsado a huir. Contra varios oponentes de voluntad débil (Fuerza de Voluntad 4 o menos), el Grito de Hierro provoca que un enemigo huya por cada éxito obtenido. Elocuencia: Canalizando su poder hacia una voz más suave, puede contener el Grito y llenar sus palabras de energía feroz. En este caso, tira Carisma + Do (dificultad 8), y cada éxito añade un éxito a su siguiente tirada de Expresión, Liderazgo, Intimidación o Arte basado en una interpretación.",
+    "tags": [
+      "brawl",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Dependant on effect used",
+      "difficulty": "7 (Stamina) Opponent’s Willpower +3 (Terror) 8 (Eloquence)"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "kiaijutsu",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "kiaijutsu",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "plum-flower-blossom",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Plum Flower Blossom",
+    "name_es": "Flor de ciruelo",
+    "body_es": "Tirando Destreza + Do (dificultad 6), un practicante puede duplicar su distancia de salto o rebotar de objeto en objeto durante un turno, más otro turno por cada dos éxitos obtenidos. Si uno de esos saltos se usa como ataque, la dificultad aumenta en +1 pero añade dos dados de daño adicionales a ese ataque. Saltar y atacar siguen considerándose dos acciones diferentes, por lo que exige la habitual división de la reserva de dados.",
+    "tags": [
+      "brawl",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Do",
+      "difficulty": "6",
+      "damage": "+2 damage dice"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "plum-flower-blossom",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "flor-de-ciruelo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "soft-fist",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Soft Fist",
+    "name_es": "Puño suave",
+    "body_es": "Si el personaje que usa esta técnica obtiene más éxitos que su atacante, atrapa el [golpe](/shared/maneuvers/strike) y lo redirige hacia un personaje cercano, probablemente el que le atacó, o posiblemente un enemigo distinto. Inflige la Fuerza + arma del atacante, más un dado por cada éxito obtenido por el personaje por encima de los que necesitaba para atrapar el ataque.",
+    "tags": [
+      "brawl",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Do",
+      "difficulty": "7",
+      "damage": "Dependant"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "soft-fist",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "puno-suave",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "ten-thousand-weapons",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Ten Thousand Weapons",
+    "name_es": "Diez mil armas",
+    "body_es": "El personaje puede usar cualquier objeto —una moneda, una cartera, un periódico, lo que sea— para infligir daño. Si el objeto no es normalmente un arma, causa un dado de daño contundente por cada punto en el Rasgo de Do del personaje. Si es un arma que normalmente inflige daño contundente, causa daño letal. Si normalmente causa daño letal, inflige un dado de daño adicional cuando este personaje lo emplea.",
+    "tags": [
+      "brawl",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Do",
+      "damage": "Dependant"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "ten-thousand-weapons",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "diez-mil-armas",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "typhoon-kick",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Typhoon Kick",
+    "name_es": "Patada tifón",
+    "body_es": "",
+    "tags": [
+      "brawl",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Do",
+      "difficulty": "8",
+      "damage": "Fuerza +5 + successes"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "typhoon-kick",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "patada-tifon",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "weapon-art",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Weapon Art",
+    "name_es": "Arte de las armas",
+    "body_es": "",
+    "tags": [
+      "brawl",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "brawl",
+      "tier": "standard",
+      "applies_to": "shared"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "weapon-art",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "arte-de-las-armas",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "distraccion-armas-c-c",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Diversion",
+    "name_es": "Distracción (Armas c.c.)",
+    "body_es": "El oponente resiste con Astucia + Alerta. Si el personaje consigue más éxitos que su víctima, todas las acciones defensivas de la víctima se realizan con +2 de dificultad durante el siguiente turno.",
+    "tags": [
+      "melee",
+      "standard",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "melee",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Carisma + Subterfugio (Or other appropriate pool)",
+      "difficulty": "6"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "diversion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "pistol-whip",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Pistol Whip",
+    "name_es": "Culatazo",
+    "body_es": "Puede dejar aturdido al oponente durante un turno si falla una tirada de Resistencia (dificultad 8). Un fracaso en la tirada de Resistencia deja al oponente aturdido durante dos turnos.",
+    "tags": [
+      "melee",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "melee",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Armas c.c.",
+      "difficulty": "7",
+      "damage": "Fuerza +2/L"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "pistol-whip",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "culatazo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "weapon-strike",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Weapon strike",
+    "name_es": "Ataque con arma",
+    "body_es": "Algunas armas letales pueden causar daño contundente con +1 de dificultad para acertar, a discreción del Narrador.*",
+    "tags": [
+      "melee",
+      "standard",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "melee",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Armas c.c.",
+      "difficulty": "As weapon",
+      "damage": "Weapon damage"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "weapon-strike",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "esquiva-armas-c-c",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Dodge",
+    "name_es": "Esquiva (Armas c.c.)",
+    "body_es": "Esquivar requiere cierta cantidad de espacio para moverse; las acrobacias requieren aún más.",
+    "tags": [
+      "melee",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "melee",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Atletismo or Acrobacias",
+      "difficulty": "5 (hand to hand) 6 9/10 (Firearms)"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "dodge",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "esquiva",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "defensa-desesperada-armas-c-c",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Desperate Defence",
+    "name_es": "Defensa desesperada (Armas c.c.)",
+    "body_es": "Poniendo todo su empeño en alejarse del peligro, no puedes hacer nada más ese turno. Para una defensa desesperada, tira la Destreza + Atletismo o Acrobacias de tu personaje si tienes suficiente espacio. Tu personaje usa su reserva de dados completa contra el primer ataque, pero debe restar un dado por cada ataque subsiguiente de ese turno.",
+    "tags": [
+      "melee",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "melee",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Atletismo or Acrobacias",
+      "difficulty": "5 (hand to hand) 6 9/10 (Firearms)"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "desperate-defence",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "defensa-desesperada",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "bash",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Bash",
+    "name_es": "Aporreo",
+    "body_es": "Sólo con armas de cuerpo a cuerpo que inflijan daño letal o agravado.",
+    "tags": [
+      "melee",
+      "learned"
+    ],
+    "mechanics": {
+      "category": "melee",
+      "tier": "learned",
+      "applies_to": "shared",
+      "roll": "Destreza + Pelea",
+      "difficulty": "Weapon",
+      "damage": "Weapon \\-1/B"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "bash",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "aporreo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "cegar-armas-c-c",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Blinding**",
+    "name_es": "Cegar (Armas c.c.)",
+    "body_es": "Apuntando a los ojos, si el atacante tiene éxito, el enemigo queda cegado durante un turno por éxito y pierde dos dados de sus reservas hasta que se recupera. Cegar con armas o productos químicos podría infligir uno o dos niveles de Salud de daño letal además de la ceguera, y cinco éxitos o más pueden destruir los ojos por completo.",
+    "tags": [
+      "melee",
+      "learned"
+    ],
+    "mechanics": {
+      "category": "melee",
+      "tier": "learned",
+      "applies_to": "shared",
+      "roll": "Destreza + Subterfugio",
+      "difficulty": "9",
+      "damage": "Dependant"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "blinding",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "cegar",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "charge",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Charge",
+    "name_es": "Carga",
+    "body_es": "Requiere espacio para moverse en línea recta hacia el oponente.",
+    "tags": [
+      "melee",
+      "learned"
+    ],
+    "mechanics": {
+      "category": "melee",
+      "tier": "learned",
+      "applies_to": "shared",
+      "roll": "Destreza + Armas c.c.",
+      "difficulty": "7",
+      "damage": "Weapon + 1"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "charge",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "flecha-carga",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "curtain-of-blood",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Curtain of Blood",
+    "name_es": "Cortina de sangre",
+    "body_es": "Se necesitan al menos dos éxitos en la tirada de ataque para hacer brotar esa sangre. El efecto de «cortina» surte efecto un turno después de realizar el corte. El corte es demasiado superficial para causar daño; hasta que el objetivo pueda despejarse los ojos y detener ese flujo de sangre, usa la mitad de sus reservas de dados habituales. Detener la hemorragia requiere una acción completa, a menos que el oponente pueda cerrar las heridas mediante fuerza de voluntad o capacidades de curación innatas.",
+    "tags": [
+      "melee",
+      "learned"
+    ],
+    "mechanics": {
+      "category": "melee",
+      "tier": "learned",
+      "applies_to": "shared",
+      "roll": "Destreza + Armas c.c.",
+      "difficulty": "8"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "curtain-of-blood",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "cortina-de-sangre",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "desarmar-armas-c-c",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Disarm",
+    "name_es": "Desarmar (Armas c.c.)",
+    "body_es": "Si obtienes más éxitos que la Fuerza del oponente, le arrebatas su arma.",
+    "tags": [
+      "melee",
+      "learned"
+    ],
+    "mechanics": {
+      "category": "melee",
+      "tier": "learned",
+      "applies_to": "shared",
+      "roll": "Destreza + Armas c.c.",
+      "difficulty": "8"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "disarm",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "desarmar",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "entangling",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Entangling",
+    "name_es": "Enredar",
+    "body_es": "Sólo las armas largas y flexibles como cadenas o látigos pueden realizar ataques de enredo. Una vez que ha enredado a un objetivo, el atacante puede intentar derribarlo mediante una tirada enfrentada de Fuerza contra el objetivo; ambas tiradas de Fuerza son a dificultad 6. El atacante añade a su Fuerza un número de dados igual a los éxitos que obtuvo en el ataque de enredo inicial. Si el atacante gana, el objetivo es derribado; si gana el objetivo, permanece en pie. Para escapar del enredo, el objetivo debe hacer una tirada de Destreza + Atletismo en una tirada enfrentada contra la Destreza + Armas c.c. del atacante; ambas tiradas son también a dificultad 6. Intentar derribar a un objetivo o resistir este efecto consume acciones, al igual que los intentos de escapar del enredo o de resistir el escape.",
+    "tags": [
+      "melee",
+      "learned",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "melee",
+      "tier": "learned",
+      "applies_to": "shared",
+      "roll": "Destreza + Armas c.c.",
+      "difficulty": "+1",
+      "damage": "N.A"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "entangling",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "feint",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Feint  (**)*",
+    "name_es": "Finta",
+    "body_es": "Requiere 2 acciones:",
+    "tags": [
+      "melee",
+      "learned"
+    ],
+    "mechanics": {
+      "category": "melee",
+      "tier": "learned",
+      "applies_to": "shared",
+      "roll": "Manipulación + Armas c.c.",
+      "difficulty": "6",
+      "damage": "Weapon + 2"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "feint",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "finta",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "aiming",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Aiming",
+    "name_es": "Apuntar",
+    "body_es": "Debe tener al menos un punto en Armas de Fuego, Armas de Energía o Tiro con Arco. Las miras añaden dos dados adicionales, aunque esta bonificación sólo se aplica a un único disparo. Algunas miras también reducen la dificultad del ataque.",
+    "tags": [
+      "ranged",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "ranged",
+      "tier": "standard",
+      "applies_to": "shared"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "aiming",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "apuntar",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "full-auto",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Full Auto",
+    "name_es": "Fuego automático",
+    "body_es": "Requiere como mínimo 1/capacidad. Usa el cargador entero.",
+    "tags": [
+      "ranged",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "ranged",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Armas de Fuego",
+      "difficulty": "+2"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "full-auto",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "fuego-automatico",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "esquiva-a-distancia",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Dodge",
+    "name_es": "Esquiva (A distancia)",
+    "body_es": "Esquivar requiere cierta cantidad de espacio para moverse; las acrobacias requieren aún más.",
+    "tags": [
+      "ranged",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "ranged",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Atletismo or Acrobacias",
+      "difficulty": "5 (hand to hand) 6 9/10 (Firearms)"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "dodge",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "esquiva",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "defensa-desesperada-a-distancia",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Desperate Defence",
+    "name_es": "Defensa desesperada (A distancia)",
+    "body_es": "Poniendo todo su empeño en alejarse del peligro, no puedes hacer nada más ese turno. Para una defensa desesperada, tira la Destreza + Atletismo o Acrobacias de tu personaje si tienes suficiente espacio. Tu personaje usa su reserva de dados completa contra el primer ataque, pero debe restar un dado por cada ataque subsiguiente de ese turno.",
+    "tags": [
+      "ranged",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "ranged",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Atletismo or Acrobacias",
+      "difficulty": "5 (hand to hand) 6 9/10 (Firearms)"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "desperate-defence",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "defensa-desesperada",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "distraccion-a-distancia",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Diversion",
+    "name_es": "Distracción (A distancia)",
+    "body_es": "El oponente resiste con Astucia + Alerta. Si el personaje consigue más éxitos que su víctima, todas las acciones defensivas de la víctima se realizan con +2 de dificultad durante el siguiente turno.",
+    "tags": [
+      "ranged",
+      "standard",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "ranged",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Carisma + Subterfugio (Or other appropriate pool)",
+      "difficulty": "6"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "diversion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "rain-of-arrows",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Rain of Arrows",
+    "name_es": "Lluvia de flechas",
+    "body_es": "Un arquero puede lanzar tantas flechas como puntos de Tiro con Arco tenga, usando las reglas de acción múltiple. El ataque no puede realizarse a dificultad 10 o superior como parte de una acción múltiple. Sólo puede beneficiarse de la maniobra de [apuntar](/shared/maneuvers/aiming) en el primer ataque de la lluvia.",
+    "tags": [
+      "ranged",
+      "standard",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "ranged",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Archery"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "rain-of-arrows",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "reload",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Reload",
+    "name_es": "Recargar",
+    "body_es": "Requiere una acción. Un personaje con una puntuación de Armas de Fuego de 1 o superior puede recargar sin hacer una tirada en circunstancias normales, aunque ciertas complicaciones (estar malherido, recargar en un coche en marcha, etc.) podrían exigirla. Recargar un cargador vacío o un cargador rápido con balas nuevas requiere una tirada de Destreza + Armas de Fuego (dificultad 6) y un turno entero.",
+    "tags": [
+      "ranged",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "ranged",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Armas de Fuego",
+      "difficulty": "6"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "reload",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "recargar",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "strafing",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Strafing",
+    "name_es": "Fuego de cobertura",
+    "body_es": "Requiere como mínimo 1/capacidad. Usa el cargador entero. Los éxitos se distribuyen a partes iguales entre cada objetivo implicado. Si el número de éxitos obtenidos resulta menor que el número de objetivos, entonces el Narrador decide a quién ha alcanzado y a quién ha errado esa ráfaga de balas.",
+    "tags": [
+      "ranged",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "ranged",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Armas de Fuego",
+      "difficulty": "+2"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "strafing",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "fuego-de-cobertura",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "suppressive-fire",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Suppressive Fire",
+    "name_es": "Fuego de supresión",
+    "body_es": "Realizar esta maniobra requiere tres o más puntos de Tiro con Arco (o Armas de Fuego*). Un personaje sólo puede usar esta maniobra a alcance largo o medio, y no puede usarla como parte de una acción múltiple. Dispara por delante de su oponente que avanza. Si el oponente se mantiene atrás, no corre peligro directo. Si avanza, cualquier maniobra defensiva que realice se hace con +2 de dificultad, y el ataque del personaje se realiza a -2 de dificultad.",
+    "tags": [
+      "ranged",
+      "standard",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "ranged",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Archery Destreza + Armas de Fuego*",
+      "difficulty": "\\-2"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "suppressive-fire",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "three-round-burst",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Three Round Burst",
+    "name_es": "Ráfaga de tres balas",
+    "body_es": "",
+    "tags": [
+      "ranged",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "ranged",
+      "tier": "standard",
+      "applies_to": "shared",
+      "roll": "Destreza + Armas de Fuego",
+      "difficulty": "+1"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "three-round-burst",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "rafaga",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "two-weapons",
+    "type": "maneuver",
+    "line": "shared",
+    "name_en": "Two Weapons",
+    "name_es": "Dos armas",
+    "body_es": "Divide su reserva de dados de Destreza + Armas de Fuego entre ambas armas.",
+    "tags": [
+      "ranged",
+      "standard"
+    ],
+    "mechanics": {
+      "category": "ranged",
+      "tier": "standard",
+      "applies_to": "shared",
+      "difficulty": "+1 off hand"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "two-weapons",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "dos-armas",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "mythical-goose",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Mythical Goose",
+    "name_es": "Oca Mítica",
+    "body_es": "Ojos láser: Dificultad 5, 10 de daño agravado, cadencia 2, alcance 500, capacidad Infinita, capaz de ametrallar en pasada, [fuego automático](/shared/maneuvers/full-auto) y ráfaga de tres disparos",
+    "tags": [
+      "vehicle",
+      "cycles",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "cycles",
+      "safe_speed": "900",
+      "max_speed": "1000",
+      "maneuverability": "10",
+      "crew": "1",
+      "durability": "15",
+      "structure": "15",
+      "weapons": "Ojos láser: Dificultad 5, 10 de daño agravado, cadencia 2, alcance 500, capacidad Infinita, capaz de ametrallar en pasada, fuego automático y ráfaga de tres disparos"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "mythical-goose",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "weapons": "Ojos láser: Dificultad 5, 10 de daño agravado, cadencia 2, alcance 500, capacidad Infinita, capaz de ametrallar en pasada, <a href=\"/shared/maneuvers/full-auto\">fuego automático</a> y ráfaga de tres disparos"
+    }
+  },
+  {
+    "id": "unicycle",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Unicycle",
+    "name_es": "Monociclo",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "cycles",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "cycles",
+      "safe_speed": "1 x Strength",
+      "max_speed": "3 x Strength",
+      "maneuverability": "5",
+      "crew": "1",
+      "durability": "1",
+      "structure": "3"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "unicycle",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "mountain-bike",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Mountain Bike",
+    "name_es": "Bicicleta de montaña",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "cycles",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "cycles",
+      "safe_speed": "3 x Strength",
+      "max_speed": "8 x Strength",
+      "maneuverability": "5",
+      "crew": "1",
+      "durability": "2",
+      "structure": "3"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "mountain-bike",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "racing-bike",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Racing Bike",
+    "name_es": "Bicicleta de carreras",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "cycles",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "cycles",
+      "safe_speed": "4 x Strength",
+      "max_speed": "10 x Strength",
+      "maneuverability": "6",
+      "crew": "1",
+      "durability": "2",
+      "structure": "3"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "racing-bike",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "dirt-bike-motorcycle",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Dirt Bike (Motorcycle)",
+    "name_es": "Moto de cross (Motocicleta)",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "cycles",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "cycles",
+      "safe_speed": "50",
+      "max_speed": "80",
+      "maneuverability": "9",
+      "crew": "1",
+      "durability": "4",
+      "structure": "4"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "dirt-bike-motorcycle",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "light-motorcycle",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Light Motorcycle",
+    "name_es": "Motocicleta ligera",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "cycles",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "cycles",
+      "safe_speed": "75",
+      "max_speed": "130",
+      "maneuverability": "8",
+      "crew": "1",
+      "durability": "2",
+      "structure": "3"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "light-motorcycle",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "touring-motorcycle",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Touring Motorcycle",
+    "name_es": "Motocicleta de turismo",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "cycles",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "cycles",
+      "safe_speed": "90",
+      "max_speed": "170",
+      "maneuverability": "5",
+      "crew": "1 (1 pass.)",
+      "durability": "4",
+      "structure": "4"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "touring-motorcycle",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "crotch-rocket",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Crotch Rocket",
+    "name_es": "Moto deportiva",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "cycles",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "cycles",
+      "safe_speed": "100",
+      "max_speed": "200",
+      "maneuverability": "7",
+      "crew": "1",
+      "durability": "2",
+      "structure": "3"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "crotch-rocket",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "badass-hypercycle",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Badass Hypercycle",
+    "name_es": "Hipermoto Bestial",
+    "body_es": "Dos de las siguientes:  Dos ametralladoras del calibre .30, surtidor de mancha de aceite, surtidor de cortina de humo, seis cohetes pequeños, un cañón de 30mm",
+    "tags": [
+      "vehicle",
+      "cycles",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "cycles",
+      "safe_speed": "120",
+      "max_speed": "250",
+      "maneuverability": "7",
+      "crew": "1",
+      "durability": "5",
+      "structure": "5",
+      "weapons": "Dos de las siguientes:  Dos ametralladoras del calibre .30, surtidor de mancha de aceite, surtidor de cortina de humo, seis cohetes pequeños, un cañón de 30mm"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "badass-hypercycle",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "atv",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "ATV",
+    "name_es": "Quad (ATV)",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "cycles",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "cycles",
+      "safe_speed": "30",
+      "max_speed": "70",
+      "maneuverability": "5",
+      "crew": "1",
+      "durability": "3",
+      "structure": "5"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "atv",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "jeep",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Jeep",
+    "name_es": "Jeep",
+    "body_es": "Los jeeps militares pueden tener uno de los siguientes:",
+    "tags": [
+      "vehicle",
+      "cars",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "cars",
+      "safe_speed": "60",
+      "max_speed": "80",
+      "maneuverability": "6",
+      "crew": "1 (4 pass.)",
+      "durability": "4",
+      "structure": "6",
+      "weapons": "Los jeeps militares pueden tener uno de los siguientes:"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "jeep",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "limo",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Limo",
+    "name_es": "Limusina",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "trucks",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "trucks",
+      "safe_speed": "70",
+      "max_speed": "110",
+      "maneuverability": "4",
+      "crew": "1 (5 pass.)",
+      "durability": "4",
+      "structure": "6"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "limo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "armoured-limo",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Armoured Limo",
+    "name_es": "Limusina blindada",
+    "body_es": "",
+    "tags": [
+      "vehicle",
+      "trucks",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "trucks",
+      "safe_speed": "70",
+      "max_speed": "100",
+      "maneuverability": "4",
+      "crew": "1 (5 pass.)",
+      "durability": "8",
+      "structure": "6"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "armoured-limo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "stretch-car",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Stretch Car",
+    "name_es": "Coche alargado",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "trucks",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "trucks",
+      "safe_speed": "80",
+      "max_speed": "100",
+      "maneuverability": "3",
+      "crew": "1 (5-7 pass.)",
+      "durability": "3",
+      "structure": "5"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "stretch-car",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "pickup-truck",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Pickup Truck",
+    "name_es": "Camioneta pickup",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "trucks",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "trucks",
+      "safe_speed": "70",
+      "max_speed": "110",
+      "maneuverability": "5-7",
+      "crew": "1 (1-4 pass.)",
+      "durability": "3",
+      "structure": "6"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "pickup-truck",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "suv-van",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "SUV/Van",
+    "name_es": "SUV/Furgoneta",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "trucks",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "trucks",
+      "safe_speed": "60",
+      "max_speed": "120",
+      "maneuverability": "6",
+      "crew": "1 (3-7 pass.)",
+      "durability": "4",
+      "structure": "7"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "suv-van",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "armoured-supervan",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Armoured Supervan",
+    "name_es": "Superfurgoneta blindada",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "trucks",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "trucks",
+      "safe_speed": "50",
+      "max_speed": "100",
+      "maneuverability": "5",
+      "crew": "1 (3 pass.)",
+      "durability": "10",
+      "structure": "10"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "armoured-supervan",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "off-road-truck",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Off-Road Truck",
+    "name_es": "Camión todoterreno",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "trucks",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "trucks",
+      "safe_speed": "60",
+      "max_speed": "90",
+      "maneuverability": "5",
+      "crew": "1 (1-3 pass.)",
+      "durability": "4",
+      "structure": "7"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "off-road-truck",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "hummer",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Hummer",
+    "name_es": "Hummer",
+    "body_es": "",
+    "tags": [
+      "vehicle",
+      "trucks",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "trucks",
+      "safe_speed": "80",
+      "max_speed": "120",
+      "maneuverability": "5",
+      "crew": "1 (1-5 pass.)",
+      "durability": "5",
+      "structure": "8"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "hummer",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "armored-car",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Armored Car",
+    "name_es": "Coche blindado",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "trucks",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "trucks",
+      "safe_speed": "60",
+      "max_speed": "80",
+      "maneuverability": "4",
+      "crew": "1 (1-5 pass.)",
+      "durability": "10",
+      "structure": "10"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "armored-car",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "rv",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "RV",
+    "name_es": "Autocaravana",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "trucks",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "trucks",
+      "safe_speed": "60",
+      "max_speed": "80",
+      "maneuverability": "3",
+      "crew": "1 (1-5 pass.)",
+      "durability": "3",
+      "structure": "8"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "rv",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "bus",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Bus",
+    "name_es": "Autobús",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "trucks",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "trucks",
+      "safe_speed": "60",
+      "max_speed": "100",
+      "maneuverability": "3",
+      "crew": "1 (20+ pass.)",
+      "durability": "4",
+      "structure": "8"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "bus",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "large-truck",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Large Truck",
+    "name_es": "Camión grande",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "trucks",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "trucks",
+      "safe_speed": "60",
+      "max_speed": "110",
+      "maneuverability": "4-5",
+      "crew": "1 (1 pass.)",
+      "durability": "4",
+      "structure": "6"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "large-truck",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "heavy-truck",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Heavy Truck",
+    "name_es": "Camión pesado",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "trucks",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "trucks",
+      "safe_speed": "60",
+      "max_speed": "100",
+      "maneuverability": "4",
+      "crew": "1 (5+ pass.)",
+      "durability": "6",
+      "structure": "8"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "heavy-truck",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "18-wheeler",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "18-Wheeler",
+    "name_es": "Tráiler (18 ruedas)",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "trucks",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "trucks",
+      "safe_speed": "70",
+      "max_speed": "110",
+      "maneuverability": "4",
+      "crew": "1 (1 pass.)",
+      "durability": "5",
+      "structure": "8"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "18-wheeler",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "apc",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "APC",
+    "name_es": "Transporte blindado de personal (APC)",
+    "body_es": "\\!",
+    "tags": [
+      "vehicle",
+      "ground military weapon stages",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "ground military weapon stages",
+      "safe_speed": "30",
+      "max_speed": "60",
+      "maneuverability": "4",
+      "crew": "2 (11 pass.)",
+      "durability": "12",
+      "structure": "15",
+      "weapons": "\\!"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "apc",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "riot-tank",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Riot Tank",
+    "name_es": "Tanque antidisturbios",
+    "body_es": "\\!\\!",
+    "tags": [
+      "vehicle",
+      "ground military weapon stages",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "ground military weapon stages",
+      "safe_speed": "30",
+      "max_speed": "50",
+      "maneuverability": "3",
+      "crew": "2",
+      "durability": "10",
+      "structure": "15",
+      "weapons": "\\!\\!"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "riot-tank",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "light-tank",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Light Tank",
+    "name_es": "Tanque ligero",
+    "body_es": "\\!\\!\\!",
+    "tags": [
+      "vehicle",
+      "ground military weapon stages",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "ground military weapon stages",
+      "safe_speed": "20",
+      "max_speed": "30 (on road)",
+      "maneuverability": "2",
+      "crew": "4",
+      "durability": "18 (Front) 15 (sides)",
+      "structure": "18",
+      "weapons": "\\!\\!\\!"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "light-tank",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "heavy-tank",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Heavy Tank",
+    "name_es": "Tanque pesado",
+    "body_es": "\\!\\!\\!\\!",
+    "tags": [
+      "vehicle",
+      "ground military weapon stages",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "ground military weapon stages",
+      "safe_speed": "30",
+      "max_speed": "50 (on road)",
+      "maneuverability": "2",
+      "crew": "4",
+      "durability": "22 (Front) 20 (Sides)",
+      "structure": "25",
+      "weapons": "\\!\\!\\!\\!"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "heavy-tank",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "hot-air-balloon",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Hot Air Balloon",
+    "name_es": "Globo aerostático",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "hot air balloon",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "hot air balloon",
+      "safe_speed": "Wind",
+      "max_speed": "Wind",
+      "maneuverability": "0",
+      "crew": "1 (3 pass.)",
+      "durability": "4",
+      "structure": "4"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "hot-air-balloon",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "jetpack",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Jetpack",
+    "name_es": "Mochila propulsora",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "jetpacks",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "jetpacks",
+      "safe_speed": "100",
+      "max_speed": "250",
+      "maneuverability": "10",
+      "crew": "1",
+      "durability": "4",
+      "structure": "4"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "jetpack",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "ornithopter",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Ornithopter",
+    "name_es": "Ornitóptero",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "jetpacks",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "jetpacks",
+      "safe_speed": "120",
+      "max_speed": "200",
+      "maneuverability": "10",
+      "crew": "1",
+      "durability": "4",
+      "structure": "2"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "ornithopter",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "gyrocopter",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Gyrocopter",
+    "name_es": "Girocóptero",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "helicopter",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "helicopter",
+      "safe_speed": "70",
+      "max_speed": "150",
+      "maneuverability": "5",
+      "crew": "1",
+      "durability": "3",
+      "structure": "3"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "gyrocopter",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "news-copter",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "News Copter",
+    "name_es": "Helicóptero de noticias",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "helicopter",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "helicopter",
+      "safe_speed": "140",
+      "max_speed": "220",
+      "maneuverability": "6",
+      "crew": "1 (1 pass.)",
+      "durability": "4",
+      "structure": "6"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "news-copter",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "large-helicopter",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Large Helicopter",
+    "name_es": "Helicóptero grande",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "helicopter",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "helicopter",
+      "safe_speed": "150",
+      "max_speed": "250",
+      "maneuverability": "6",
+      "crew": "2 (4 pass.)",
+      "durability": "5",
+      "structure": "6"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "large-helicopter",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "attack-helicopter",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Attack Helicopter",
+    "name_es": "Helicóptero de ataque",
+    "body_es": "\\!",
+    "tags": [
+      "vehicle",
+      "helicopter",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "helicopter",
+      "safe_speed": "180",
+      "max_speed": "280",
+      "maneuverability": "9",
+      "crew": "3",
+      "durability": "12",
+      "structure": "10",
+      "weapons": "\\!"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "attack-helicopter",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "military-utility-helicopter",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Military Utility Helicopter",
+    "name_es": "Helicóptero utilitario militar",
+    "body_es": "\\!\\!",
+    "tags": [
+      "vehicle",
+      "helicopter",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "helicopter",
+      "safe_speed": "180",
+      "max_speed": "280",
+      "maneuverability": "7",
+      "crew": "3 (10 pass.)",
+      "durability": "8",
+      "structure": "10",
+      "weapons": "\\!\\!"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "military-utility-helicopter",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "black-helicopter",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Black ** Helicopter",
+    "name_es": "Helicóptero Negro **",
+    "body_es": "\\!\\!\\!",
+    "tags": [
+      "vehicle",
+      "helicopter",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "helicopter",
+      "safe_speed": "200",
+      "max_speed": "400",
+      "maneuverability": "10",
+      "crew": "3",
+      "durability": "13",
+      "structure": "13",
+      "weapons": "\\!\\!\\!"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "black-helicopter",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "small-prop",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Small Prop",
+    "name_es": "Avioneta de hélice pequeña",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "small planes",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "small planes",
+      "safe_speed": "110",
+      "max_speed": "170",
+      "maneuverability": "5",
+      "crew": "2 (3 pass.",
+      "durability": "5",
+      "structure": "6"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "small-prop",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "medium-prop",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Medium Prop",
+    "name_es": "Avión de hélice mediano",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "small planes",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "small planes",
+      "safe_speed": "180",
+      "max_speed": "230",
+      "maneuverability": "4",
+      "crew": "2 (10 pass.",
+      "durability": "6",
+      "structure": "8"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "medium-prop",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "large-prop",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Large Prop",
+    "name_es": "Avión de hélice grande",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "small planes",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "small planes",
+      "safe_speed": "300",
+      "max_speed": "400",
+      "maneuverability": "3",
+      "crew": "2 (50 pass.",
+      "durability": "6",
+      "structure": "10"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "large-prop",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "learjet",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "LearJet",
+    "name_es": "LearJet",
+    "body_es": "N/A",
+    "tags": [
+      "vehicle",
+      "small planes",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "small planes",
+      "safe_speed": "350",
+      "max_speed": "450",
+      "maneuverability": "4",
+      "crew": "2 (20 pass.",
+      "durability": "8",
+      "structure": "15"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "learjet",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "fighter-jet",
+    "type": "vehicle",
+    "line": "shared",
+    "name_en": "Fighter Jet",
+    "name_es": "Caza de combate",
+    "body_es": "\\!\\!\\!\\!",
+    "tags": [
+      "vehicle",
+      "small planes",
+      "compilacion"
+    ],
+    "mechanics": {
+      "category": "small planes",
+      "safe_speed": "Mach 2",
+      "max_speed": "Mach 2.5",
+      "maneuverability": "7",
+      "crew": "1",
+      "durability": "8",
+      "structure": "15",
+      "weapons": "\\!\\!\\!\\!"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "fighter-jet",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "soft-style",
+    "type": "martial-art",
+    "line": "shared",
+    "name_en": "Soft Style",
+    "name_es": "Estilo Suave",
+    "body_es": "| Ataque | Tirada | Dificultad | Daño | Habilidad mín. | Notas |\n| :---: | :---: | :---: | :---: | :---: | ----- |\n| Contraproyección | Destreza \\+ Artes Marciales | 6 | Como proyección | Artes Marciales 1 y Atletismo 1 | Cuando atacan al artista marcial, se realiza una tirada resistida de Destreza \\+ Artes Marciales contra la Destreza \\+ Pelea, Armas C.C. o Artes Marciales del atacante (según la Habilidad que el oponente esté usando para atacar). Si obtienes más éxitos que tu atacante, desvías el ataque y puedes intentar proyectarlo (sin tener que dividir tu reserva de dados). Si fallas la proyección, aun así esquivas su ataque.  |\n| Bloqueo desviador | Destreza \\+ Artes Marciales  | 6 |  Fuerza del atacante/B | Artes Marciales 2 y Atletismo o Acrobacia 2 |  Si el defensor obtiene más éxitos que su atacante, este debe tirar Destreza (dificultad 8\\) o caer al suelo (o estrellarse contra una superficie cercana), sufriendo daño contundente igual a su propia Fuerza.  |\n| Golpe suave | Destreza \\+ Artes Marciales  | 6 |  Fuerza \\+1/B | Artes Marciales 1 |  |\n| Presa debilitante | Destreza \\+ Artes Marciales | 7 | Fuerza/B | Artes Marciales 3 | Para arrebatar el arma de la mano de un enemigo, el artista marcial debe obtener al menos tres éxitos; con cinco éxitos, puede quitársela y usarla él mismo en un turno posterior. |\n\n####\n\n#### Estilo Duro {#hard-style}\n\n| Ataque | Tirada | Dificultad | Daño | Habilidad mín. | Notas |\n| :---: | ----- | :---: | :---: | :---: | ----- |\n| Golpe Mortal ",
+    "tags": [
+      "arte-marcial",
+      "soft",
+      "compilacion"
+    ],
+    "mechanics": {
+      "style_type": "soft"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "soft-style",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "hard-style",
+    "type": "martial-art",
+    "line": "shared",
+    "name_en": "Hard Style",
+    "name_es": "Estilo Duro",
+    "body_es": "| Ataque | Tirada | Dificultad | Daño | Habilidad mín. | Notas |\n| :---: | ----- | :---: | :---: | :---: | ----- |\n| Golpe Mortal | Destreza \\+ Artes Marciales   | 7\\* | Fuerza \\+2/L  | Artes Marciales 3 |  |\n| Barrido de Cola de Dragón | Destreza \\+ Artes Marciales  | 8 | Como proyección | Artes Marciales 1 y Atletismo o Acrobacia 1 | Como la «proyección», pero el artista marcial no necesita agarrar primero a su oponente. |\n| Patada Voladora | Destreza \\+ Artes Marciales  | 7 | Fuerza \\+2/B | Artes Marciales 1 y Atletismo o Acrobacia 1 |  |\n| Golpe Duro | Destreza \\+ Artes Marciales | 5 |  Fuerza \\+1/B | Artes Marciales 1 |  |\n| Patada Seca | Destreza \\+ Artes Marciales | 5 |  Fuerza \\+1/B | Artes Marciales 1 |  |\n| Patada Giratoria | Destreza \\+ Artes Marciales | 6 |  Fuerza \\+3/B | Artes Marciales 2 y Atletismo o Acrobacia 2 |  |\n| Patada del Trueno | Destreza \\+ Artes Marciales  | 7 |  Fuerza \\+3 \\+ éxitos/B | Artes Marciales 3 y Atletismo o Acrobacia 2 | Cada éxito añade un dado adicional al daño de la patada. Un personaje no puede usar la Patada del Trueno más de una vez cada cinco turnos. |\n| Puñetazo Vital | Destreza \\+ Artes Marciales | 6\\* | Fuerza/L  | Artes Marciales 2 |  |",
+    "tags": [
+      "arte-marcial",
+      "hard",
+      "compilacion"
+    ],
+    "mechanics": {
+      "style_type": "hard"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "hard-style",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "kailindo",
+    "type": "martial-art",
+    "line": "shared",
+    "name_en": "Kailindo",
+    "name_es": "Kailindo",
+    "body_es": "Arte marcial de cambio de forma practicado por los Garou Contemplaestrellas\n\nNo existen reglas oficiales de la edición 20.º aniversario sobre cómo debería funcionar el kailindo, pero sugiero lo siguiente:   \nEl kailindo permite replicar cualquier maniobra de arte marcial, pero requiere una tirada exitosa de Resistencia \\+ Instinto Primario antes de intentarlo, ya que algunas formas se adaptan mejor a ciertas técnicas, o el cambio rápido a un tamaño menor puede usarse para esquivar.\\*",
+    "tags": [
+      "arte-marcial",
+      "special",
+      "compilacion"
+    ],
+    "mechanics": {
+      "style_type": "special"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "kailindo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "do",
+    "type": "martial-art",
+    "line": "shared",
+    "name_en": "Do",
+    "name_es": "Do",
+    "body_es": "El arte marcial por excelencia del que supuestamente descienden todas las demás disciplinas, el Do es mucho más que una simple colección de técnicas de combate.   \nCuando se dirige hacia fines pacíficos, el Do permite a una persona refinar un enorme potencial. Y cuando se dirige, por triste necesidad, hacia fines violentos, el Do es legendario por sus aplicaciones marciales   \nUn Tao-shih (erudito/guerrero del Camino) debe dedicar al menos una hora cada día a practicar el Do; si no lo haces, perderás puntos temporalmente hasta que reanudes el entrenamiento regular, aproximadamente un punto por cada dos semanas sin práctica\n\n#### Beneficios y premisas básicas {#basic-benefits-and-premises}\n\n##### Compromiso, entrenamiento y destreza en combate {#commitment,-training-and-fighting-prowess}\n\n| Enseñanza secreta | Solo los Akashayana más hábiles pueden enseñar los secretos del Do. En términos de juego, un personaje debe tener no menos de tres puntos en Do y debe ser miembro (o al menos exmiembro) de la Tradición Akáshica para poder entrenar a un estudiante en este Arte. Un maestro puede transmitir una maniobra de combate por cada punto de Do que posea, más una adicional por cada punto en su rasgo de Inteligencia. Un estudiante no puede aprender Do sin estudiar también las ocho ramas del Do. (Véase más abajo.) El Camino implica algo más que simplemente golpear rocas. |\n| :---- | :---- |\n| Flexibilidad | Un personaje que use Do puede emplear cualquiera de las maniobras de combate generales o de artes marciales, siempre que tenga al menos un punto en Do por cada punto en Artes Marciales que necesitaría para esa maniobra. No **puede*",
+    "tags": [
+      "arte-marcial",
+      "special",
+      "compilacion"
+    ],
+    "mechanics": {
+      "style_type": "special"
+    },
+    "sources": [
+      {
+        "book_id": "combat-compendium",
+        "book_title_es": "Compendio de Combate",
+        "page": null,
+        "section_anchor": "do",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  }
+]
