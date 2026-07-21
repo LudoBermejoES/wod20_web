@@ -2870,10 +2870,7 @@
         "page": null,
         "section_anchor": "catastrofe-memetica-de-kraft"
       }
-    ],
-    "review": {
-      "reason": "Encabezado fragmentado por la extracción del PDF: el título/lista de Esferas aparece partido en tres bloques (una 'o' colgante y '·· Entropía añadidas)' quedó como encabezado suelto). Se reconstruyó la cadena de Esferas de forma contigua; verificar contra el original."
-    }
+    ]
   },
   {
     "id": "black-winds-shadow",
@@ -2985,10 +2982,7 @@
         "page": null,
         "section_anchor": "enredar-lenguas-o-ved-esta-escrito-o-jabberhash"
       }
-    ],
-    "review": {
-      "reason": "La tabla de dificultad quedó parcialmente rota por la extracción: las filas de dificultad 8 y 9 aparecen como líneas sueltas fuera de la tabla Markdown (bloques 187-193). Se reconstruyeron emparejando cada dificultad con su descripción; verificar contra el original."
-    }
+    ]
   },
   {
     "id": "summon-the-beast",
@@ -5119,9 +5113,6 @@
       "difficulty": "Fuerza de Voluntad del objetivo (o ese Rasgo +3 / +5)",
       "damage": "Daño agravado; no puede absorberse salvo con Efecto de Mente de escudo psíquico o protección interna",
       "vulgar_coincident": "Extremadamente vulgar"
-    },
-    "review": {
-      "reason": "Encabezado y cuerpo separados por el recuadro 'Resonancia psíquica' en la extracción PDF (bloques 348-359); reensamblado sin adivinar."
     },
     "sources": [
       {
@@ -10895,10 +10886,7 @@
         "variant": "base",
         "book_title_es": "M20 Core Rulebook (ES)"
       }
-    ],
-    "review": {
-      "reason": "Named Efecto with a Sphere value (Entropía 1), but it appears only inside a worked rules example (John Courage, sección «Magia contra objetos»), not as a catalog reference entity. Human should confirm whether it belongs in the reference layer or should be dropped as example flavor."
-    }
+    ]
   },
   {
     "id": "astral-immersion",
@@ -10927,10 +10915,7 @@
         "variant": "base",
         "book_title_es": "M20 Core Rulebook (ES)"
       }
-    ],
-    "review": {
-      "reason": "Named magical access method with an explicit Sphere dot requirement (Correspondencia 2) and full dice mechanics, but the source phrases it as «al menos dos puntos en la Esfera Correspondencia» rather than the literal genus «un Efecto de Correspondencia 2» used by its sibling Inmersión holística. Human should confirm it belongs in the sphere-effect reference layer."
-    }
+    ]
   },
   {
     "id": "holistic-immersion",
@@ -16078,9 +16063,6 @@
         "book_title_es": "M20 Technocracy Reloaded"
       }
     ],
-    "review": {
-      "reason": "Heading '## Artesanía' missing in source extraction; text was appended to the previous 'Artes marciales' section. section_anchor set to nearest surviving heading."
-    },
     "variants": [
       {
         "label": "Tecnocracia (Technocracy Reloaded)",
@@ -16675,9 +16657,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "Instrumentos comunes list was split in source by an interrupting '## Sendas de las Manos Izquierda y Derecha' heading; the tail ('y restos mortales ... vehículos') was reattached here."
-    },
     "mechanics_html": {
       "paradigmas_asociados": [
         "<a href=\"/mage/paradigms/creations-divine-and-alive\">La Creación Es Divina y Está Viva</a>",
@@ -26393,9 +26372,6 @@
       ],
       "referencia": "Mago 20, pág. 462-464 (Inventar, modificar y mejorar tecnología); Mago 20, pág. 533-534 (El eje de la coincidencia)."
     },
-    "review": {
-      "reason": "El PDF-extraction separó la columna de 'Resultado' (10, 9-8, 7-6, 5-4, 3-2, 1) de sus descripciones de 'Función de la máquina' (Maravilla, Bien, Funcional, Malo, Basura, y la cita final). Los pares se han reconstruido por orden descendente estándar de la tabla, pero conviene verificar el emparejamiento 9-8→Bien / 7-6→Funcional / 5-4→Malo / 3-2→Basura contra el original."
-    },
     "related": [],
     "sources": [
       {
@@ -34183,9 +34159,6 @@
         "book_title_es": "M20 The operative dossier"
       }
     ],
-    "review": {
-      "reason": "El texto fuente intercala el recuadro «Sal en la Tormenta» a mitad del cuerpo de la práctica (bloques 451–455); el body_es se ha reconstruido cruzando la interrupción."
-    },
     "mechanics_html": {
       "associated_paradigms": "<a href=\"/mage/paradigms/a-mechanistic-cosmos\">un Cosmos Mecanicista</a>; <a href=\"/mage/paradigms/everything-is-data\">Todo es Datos</a>; Magia de Memes; <a href=\"/mage/paradigms/technology-holds-all-the-answers\">la Tecnología Tiene Todas las Respuestas</a>"
     }
@@ -34507,9 +34480,6 @@
         "book_title_es": "M20 The operative dossier"
       }
     ],
-    "review": {
-      "reason": "En la extracción el nombre y la fórmula de Esferas quedan en encabezados separados: «## Índice de Archivos Guardados» seguido de «## ( ·· Tiempo / · Cardinal / ··· Correspondencia)». Se han unificado como un solo Ajuste."
-    },
     "mechanics_html": {
       "destruction": "Muerte de Icono destruye ese Icono permanentemente; <a href=\"/mage/rotes/whiteout-adjustment\">Nevasca</a> elimina el lugar guardado"
     }
@@ -34568,9 +34538,6 @@
         "book_title_es": "M20 The operative dossier"
       }
     ],
-    "review": {
-      "reason": "El cuerpo del Ajuste queda partido por el recuadro «Los Seis Sentidos» (bloques 729–735): la frase «Cualquier Icono a 10 yardas por éxito (incluido el usuario) en» continúa después del recuadro con «la tirada de Estragos en el Sistema sufre Daño Agravado…». El body_es se ha reconstruido cruzando la interrupción."
-    },
     "mechanics_html": {
       "damage_table": "Tabla de Daño Base (Mage 20, p.504) contra <a href=\"/mage/practices/cybernetics\">cibernética</a>/Dispositivos eléctricos",
       "digital_web": "Iconos a 10 yardas por éxito sufren Daño Agravado; Absorción vía Fuerza de Voluntad, Dificultad 8; siempre vulgar con testigos; Contragolpe de Paradoja por <a href=\"/mage/rotes/whiteout-adjustment\">Nevasca</a> a Dificultad 4"
@@ -35917,9 +35884,6 @@
         }
       ],
       "sphere_value_raw": "Vida 3"
-    },
-    "review": {
-      "reason": "Artefacto de extracción: el valor de Esfera aparece partido entre líneas en el origen ('Curar Vida (Vida' + '3)'). Reensamblado como 'Vida 3' de forma inequívoca, consistente con las entradas contiguas."
     },
     "sources": [
       {
@@ -37515,9 +37479,6 @@
       "spheres": "••• Tiempo/ ••• Entropía/ • Mente",
       "effect_class": "vulgar"
     },
-    "review": {
-      "reason": "Encabezado partido por la extracción del PDF: la Esfera Mente quedó separada del resto del título en un heading aparte ('## Mente)'), de modo que el valor de Esfera aparece como '··· Tiempo/ ··· Entropía/ ·' seguido de 'Mente)'. Reconstruido como '· Mente' y confirmado por el texto de Sistema (Tiempo 3, Entropía 3, Mente 1)."
-    },
     "sources": [
       {
         "book_id": "m20-the-rich-bastards-guide-to-magick",
@@ -37542,9 +37503,6 @@
       "effect_class": "vulgar",
       "effect": "2 éxitos preservan objetos sostenibles con las dos manos; 3 éxitos objetos de hasta poco más de dos metros; 4 éxitos vehículos",
       "reference": "tabla de 'Proezas de Magia del Tiempo' (Mago 20, p. 505)"
-    },
-    "review": {
-      "reason": "En la extracción del PDF el título 'A Prueba de Futuro ( ····· Tiempo/ ····· Materia/ ··· Entropía)' aparece como texto plano, sin el marcador de encabezado '##' (precedido de un <!-- image -->). Se trata igualmente de una Fórmula/sphere-effect del apartado Tiempo."
     },
     "sources": [
       {

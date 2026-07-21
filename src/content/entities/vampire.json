@@ -2908,11 +2908,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "review": {
-      "reason": "dual/compound name — may be two entities",
-      "conflicts": []
-    }
+    "related": []
   },
   {
     "id": "amistad-con-un-clan",
@@ -15261,10 +15257,7 @@
         "page": null,
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ],
-    "review": {
-      "reason": "Artefacto de extracción: la cabecera de sección de nivel 3 y el título del ritual quedaron fusionados en el markdown fuente ('## Rituales de nivel tres Danza de la Sangre'). El contenido del ritual es íntegro; sólo la cabecera/anchor está afectada."
-    }
+    ]
   },
   {
     "id": "din-of-the-damned",
@@ -15861,9 +15854,6 @@
       }
     ],
     "related": [],
-    "review": {
-      "reason": "El mapeo nivel→fenómeno de Control del Clima está corrompido por la extracción del PDF: los puntos de nivel aparecen separados de las descripciones de los fenómenos. Se preservan los fenómenos verbatim sin asignación de nivel para no inventar datos."
-    },
     "mechanics_html": {
       "extraction_note": "En el texto extraído los marcadores de nivel (·, ··, ···, ····, ·····) aparecen separados de las descripciones de los fenómenos meteorológicos (maquetación del PDF a dos columnas). No es posible determinar con certeza qué fenómeno corresponde a cada nivel; se listan los ocho fenómenos en el <a href=\"/vampire/discipline-powers/orden\">orden</a> en que aparecen en el texto.",
       "phenomena_es": [
@@ -18009,11 +17999,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "review": {
-      "reason": "dual/compound name — may be two entities",
-      "conflicts": []
-    }
+    "related": []
   },
   {
     "id": "bautismo-estigio",
@@ -18952,9 +18938,6 @@
         "book_title_es": "V20 NSR Aniversario (ES)"
       }
     ],
-    "review": {
-      "reason": "Extraction interleaved the 'Alquimia Kiasyd' sidebar and image markers into the middle of the Sistema stat block. The continuation ('que puede resistirse con una tirada enfrentada de Fuerza...') appears after the sidebar in the source and was reassembled into reading order here. Content is recoverable but should be verified against the source PDF."
-    },
     "mechanics_html": {
       "requires": "<a href=\"/vampire/discipline-powers/proteccion-feerica\">Protección Feérica</a> (V20, pág. 455)"
     }
@@ -19116,9 +19099,6 @@
       "difficulty": "igual a la Fuerza de Voluntad actual del observador",
       "cost_xp": "12 puntos de Experiencia"
     },
-    "review": {
-      "reason": "Texto de introducción interrumpido por la extracción del PDF: la frase 'Sin embargo, parecerse al' se corta y salta directamente a 'Sistema:'; su continuación ('cadáver correcto en el momento correcto puede ser muy útil.') aparece desplazada más adelante en el flujo, dentro del bloque del Poder 'Horripilante Grisgrís'. Se reconstruyó y marcó con [...]; verificar contra el PDF original."
-    },
     "sources": [
       {
         "book_id": "v20-nsr-aniversario-es",
@@ -19249,10 +19229,7 @@
         "page": null,
         "book_title_es": "V20 NSR Aniversario (ES)"
       }
-    ],
-    "review": {
-      "reason": "Extraction split the heading: '## Disciplinas Combinadas Los Hombros de Atlas' is followed by a separate heading '## (Vuelo ··, Potencia ··)'. Name and prerequisite notation reassembled from both heading lines; verify against source."
-    }
+    ]
   },
   {
     "id": "falconers-dive",

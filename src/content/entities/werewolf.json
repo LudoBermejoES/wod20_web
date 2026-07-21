@@ -1858,10 +1858,7 @@
         "section_anchor": "dones-de-nivel-seis",
         "variant": "base"
       }
-    ],
-    "review": {
-      "reason": "El marcador 'Sistema:' quedó desplazado a mitad de frase por la extracción a dos columnas del PDF; el texto del sistema se ha recompuesto uniendo el fragmento previo ('...en vez de en el') con el posterior ('punto habitual, durante el resto de la escena.')."
-    }
+    ]
   },
   {
     "id": "cat-feet",
@@ -2082,10 +2079,7 @@
         "section_anchor": "dones-de-nivel-seis",
         "variant": "base"
       }
-    ],
-    "review": {
-      "reason": "La descripción venía intercalada línea a línea por extracción a dos columnas del PDF; se ha recompuesto a partir de los fragmentos entrelazados. El texto del sistema no estaba afectado."
-    }
+    ]
   },
   {
     "id": "beast-life",
@@ -3574,10 +3568,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "La tabla 'Cambio/Dificultad' quedó aplanada por la extracción del PDF (cabeceras y valores mezclados con el texto); se ha reconstruido emparejando cada tipo de cambio con su dificultad (Características 6, Disposición 7, Tipo 9)."
-    }
+    ]
   },
   {
     "id": "wild-lobotomy",
@@ -5738,10 +5729,7 @@
         "section_anchor": "lkbpqof-ibp",
         "variant": "base"
       }
-    ],
-    "review": {
-      "reason": "La etiqueta 'Sistema:' aparece desplazada en la extracción PDF (el texto del sistema precede a la etiqueta). Contenido preservado sin reordenar."
-    }
+    ]
   },
   {
     "id": "predators-growl",
@@ -6001,10 +5989,7 @@
         "section_anchor": "lkbpqof-ibp",
         "variant": "base"
       }
-    ],
-    "review": {
-      "reason": "El nombre del Don se insertó en mitad de la primera frase en la extracción PDF (nombre y descripción entremezclados); frase reconstruida a partir de las dos porciones."
-    }
+    ]
   },
   {
     "id": "horde-of-valhalla",
@@ -6652,10 +6637,7 @@
         "section_anchor": "avatar-de-guerra-de-fenris",
         "variant": "base"
       }
-    ],
-    "review": {
-      "reason": "La etiqueta 'Sistema:' aparece desplazada al final del bloque en la extracción PDF. Contenido preservado sin reordenar."
-    }
+    ]
   },
   {
     "id": "ajaba-dusk-lunas-armor",
@@ -8508,10 +8490,7 @@
         "page": null,
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "La fuente presenta dos atribuciones de espiritu maestro contradictorias: 'Un elemental de tierra ensena este Don' (en la descripcion) y 'Un espiritu lobo ensena este Don' (al final del Sistema). Artefacto de extraccion; conservada la de la descripcion."
-    }
+    ]
   },
   {
     "id": "howl-of-death",
@@ -9699,10 +9678,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "En la extraccion la etiqueta 'Sistema:' aparece desplazada y el texto del sistema quedo partido/reordenado ('...que acepte como' / 'Sistema: precio por este Don'). Reconstruido en orden logico; verificar contra la fuente."
-    }
+    ]
   },
   {
     "id": "scent-of-sweet-honey",
@@ -10165,10 +10141,7 @@
         "page": null,
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "El texto del Sistema aparece con palabras entremezcladas en la extraccion ('a 60 fectamente metros (200 pies) resultan peraudibles'). Reconstruido como '60 metros (200 pies) resultan perfectamente audibles'; verificar contra la fuente."
-    }
+    ]
   },
   {
     "id": "aura-of-confidence",
@@ -10196,10 +10169,7 @@
         "page": null,
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "En la extraccion este Don quedo promovido a encabezado Markdown ('## . Aura de Confianza (Nivel uno)'); es una entrada de Don, no una seccion. Los Dones posteriores toman este texto como encabezado mas cercano."
-    }
+    ]
   },
   {
     "id": "ajaba-dusk-fatal-flaw",
@@ -10382,10 +10352,7 @@
         "page": null,
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "En la extraccion el bloque de Sistema de este Don aparece desplazado (antes del nombre del Don) y entremezclado con el de 'Dirigir la Tormenta'. Reagrupado por contenido; verificar contra la fuente."
-    }
+    ]
   },
   {
     "id": "direct-the-storm",
@@ -10407,10 +10374,7 @@
         "page": null,
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "El bloque de Sistema queda cortado al final del slice ('...hacerlo requiere que'). Ademas su ubicacion en la extraccion esta desplazada respecto al nombre del Don. Continua fuera de los bloques 128-133."
-    }
+    ]
   },
   {
     "id": "dream-of-a-thousand-cranes",
@@ -10639,9 +10603,6 @@
         "book_title_es": "W20 Aniversario Core (ES)"
       }
     ],
-    "review": {
-      "reason": "El encabezado de sección de los Dones de los Señores de la Sombra no aparece en el fragmento extraído (quedó antes del bloque 133 o se perdió); se usó el encabezado ## más cercano presente ('DONES DE LOS HAKKEN'). La tribu se deduce del texto ('Señor de la Sombra', 'Cuervo de la Tempestad')."
-    },
     "mechanics_html": {
       "spirit_teacher": "<a href=\"/werewolf/totems/raven\">Cuervo</a> de la Tempestad"
     }
@@ -10686,9 +10647,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Encabezado de la sección de Dones de los Señores de la Sombra ausente en el fragmento; se usó el ## más cercano ('DONES DE LOS HAKKEN')."
-    },
     "mechanics_html": {
       "spirit_teacher": "<a href=\"/werewolf/totems/raven\">Cuervo</a> de la Tempestad",
       "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
@@ -10735,9 +10693,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Encabezado de la sección de Dones de los Señores de la Sombra ausente en el fragmento; se usó el ## más cercano ('DONES DE LOS HAKKEN')."
-    },
     "mechanics_html": {
       "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
     }
@@ -10777,9 +10732,6 @@
         "book_title_es": "W20 Aniversario Core (ES)"
       }
     ],
-    "review": {
-      "reason": "Encabezado de la sección de Dones de los Señores de la Sombra ausente en el fragmento; se usó el ## más cercano ('DONES DE LOS HAKKEN')."
-    },
     "mechanics_html": {
       "tribu": [
         "Señores de la Sombra",
@@ -10822,9 +10774,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Encabezado de la sección de Dones de los Señores de la Sombra ausente en el fragmento; se usó el ## más cercano ('DONES DE LOS HAKKEN')."
-    },
     "mechanics_html": {
       "spirit_teacher": "<a href=\"/werewolf/totems/raven\">Cuervo</a> de la Tempestad"
     }
@@ -10868,9 +10817,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Encabezado de la sección de Dones de los Señores de la Sombra ausente en el fragmento; se usó el ## más cercano ('DONES DE LOS HAKKEN')."
-    },
     "mechanics_html": {
       "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
     }
@@ -10912,9 +10858,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Encabezado de la sección de Dones de los Señores de la Sombra ausente en el fragmento; se usó el ## más cercano ('DONES DE LOS HAKKEN')."
-    },
     "mechanics_html": {
       "spirit_teacher": "<a href=\"/werewolf/totems/raven\">Cuervo</a> de la Tempestad"
     }
@@ -10949,9 +10892,6 @@
         "book_title_es": "W20 Aniversario Core (ES)"
       }
     ],
-    "review": {
-      "reason": "Encabezado de la sección de Dones Uktena ausente como ## en el fragmento (aparece como párrafo introductorio, no como heading); se usó el ## más cercano presente ('DONES DE LOS HAKKEN'). Tribu confirmada por el texto."
-    },
     "mechanics_html": {
       "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
     }
@@ -11565,9 +11505,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Encabezado de la sección de Dones Wendigo ausente como ## en el fragmento (aparece como párrafo introductorio); se usó el ## más cercano ('DONES DE LOS HAKKEN'). Tribu confirmada por el texto."
-    },
     "mechanics_html": {
       "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>"
     }
@@ -11634,9 +11571,6 @@
         "book_title_es": "W20 Aniversario Core (ES)"
       }
     ],
-    "review": {
-      "reason": "Extracción a dos columnas: la descripción del Don (bloque anterior) y su 'Sistema' (aparece tras el recuadro 'DONES DE LOS DESCASTADOS') quedaron separados en el texto extraído; se reunieron aquí. Verificar contra el PDF."
-    },
     "mechanics_html": {
       "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>"
     }
@@ -12195,10 +12129,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "El anclaje de sección refleja el único encabezado ## cercano en el fragmento, que está corrupto por la extracción del PDF ('MOBKBORK3FQL', probablemente 'APRENDER UN RITO'). El encabezado de la categoría 'Ritos de castigo' aparece como texto, no como ##."
-    }
+    ]
   },
   {
     "id": "stone-of-scorn",
@@ -12226,10 +12157,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "Un párrafo descriptivo quedó entremezclado/corrupto por la maquetación a dos columnas del PDF (texto marcado con nota entre corchetes). Anclaje de sección corresponde al único ## cercano corrupto ('MOBKBORK3FQL')."
-    }
+    ]
   },
   {
     "id": "rite-punishment-ostracism-level-two",
@@ -12258,10 +12186,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "El encabezado con el nombre del Rito se perdió en la extracción del PDF. Descripción y Sistema completos; el nombre propio no es recuperable del texto (el contenido describe un rito de ostracismo/destierro social). No se inventa nombre."
-    }
+    ]
   },
   {
     "id": "rite-punishment-jackal-voice-level-two",
@@ -12289,10 +12214,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "El encabezado con el nombre del Rito se perdió en la extracción del PDF. Descripción y Sistema completos; nombre propio no recuperable ('sabuesos-chacal' es el término para el castigado, no el título del Rito). No se inventa nombre."
-    }
+    ]
   },
   {
     "id": "the-hunt",
@@ -12319,10 +12241,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "Anclaje de sección corresponde al único ## cercano corrupto por la extracción ('MOBKBORK3FQL')."
-    }
+    ]
   },
   {
     "id": "rite-punishment-fallen-alpha-level-three",
@@ -12350,10 +12269,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "El encabezado con el nombre del Rito se perdió en la extracción del PDF. Descripción y Sistema completos; nombre propio no recuperable del texto. No se inventa nombre."
-    }
+    ]
   },
   {
     "id": "rite-of-satire",
@@ -12382,10 +12298,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "Anclaje de sección corresponde al único ## cercano corrupto por la extracción ('MOBKBORK3FQL')."
-    }
+    ]
   },
   {
     "id": "acteons-folly",
@@ -12413,10 +12326,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "Anclaje de sección corresponde al único ## cercano corrupto por la extracción ('MOBKBORK3FQL')."
-    }
+    ]
   },
   {
     "id": "rite-punishment-traitor-level-five",
@@ -12444,10 +12354,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "El encabezado con el nombre del Rito se perdió en la extracción del PDF. Descripción y Sistema completos; nombre propio no recuperable del texto. No se inventa nombre."
-    }
+    ]
   },
   {
     "id": "rite-of-the-winter-winds",
@@ -12475,10 +12382,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "El encabezado de categoría 'Ritos estacionales' no es un ## en el fragmento; anclaje de sección corresponde al único ## cercano corrupto ('MOBKBORK3FQL')."
-    }
+    ]
   },
   {
     "id": "rite-seasonal-spring-equinox-level-two",
@@ -12506,10 +12410,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "El encabezado con el nombre del Rito se perdió en la extracción del PDF. Descripción completa; nombre propio no recuperable del texto. No se inventa nombre."
-    }
+    ]
   },
   {
     "id": "rite-seasonal-great-hunt-level-two",
@@ -12538,10 +12439,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "El encabezado con el nombre del Rito se perdió en la extracción del PDF. Descripción y Sistema completos; nombre propio no recuperable ('la Gran Cacería' es el evento invocado). No se inventa nombre."
-    }
+    ]
   },
   {
     "id": "the-long-vigil",
@@ -12569,10 +12467,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "Anclaje de sección corresponde al único ## cercano corrupto por la extracción ('MOBKBORK3FQL')."
-    }
+    ]
   },
   {
     "id": "rite-mystic-kin-marking-level-one",
@@ -12600,10 +12495,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "El encabezado con el nombre del Rito se perdió en la extracción del PDF. Descripción y Sistema completos; nombre propio no recuperable del texto. No se inventa nombre. Anclaje derivado del encabezado ## corrupto de 'Ritos místicos' ('3FQLPJ]PQFLP')."
-    }
+    ]
   },
   {
     "id": "rite-mystic-plant-growth-level-one",
@@ -12633,10 +12525,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "El encabezado con el nombre del Rito se perdió en la extracción del PDF. Descripción y Sistema completos; nombre propio no recuperable del texto. No se inventa nombre."
-    }
+    ]
   },
   {
     "id": "rite-of-heritage",
@@ -12664,10 +12553,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "Anclaje derivado del encabezado ## corrupto de 'Ritos místicos' ('3FQLPJ]PQFLP')."
-    }
+    ]
   },
   {
     "id": "cardboard-palace",
@@ -12698,9 +12584,6 @@
         "book_title_es": "W20 Aniversario Core (ES)"
       }
     ],
-    "review": {
-      "reason": "Anclaje derivado del encabezado ## corrupto de 'Ritos místicos' ('3FQLPJ]PQFLP')."
-    },
     "mechanics_html": {
       "roll": "Inteligencia + <a href=\"/werewolf/gifts/survival\">Supervivencia</a>"
     }
@@ -12731,10 +12614,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "El encabezado con el nombre del Rito se perdió en la extracción del PDF. Descripción y Sistema completos; nombre propio no recuperable del texto. No se inventa nombre."
-    }
+    ]
   },
   {
     "id": "rite-mystic-talisman-dedication-level-one",
@@ -12762,10 +12642,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "El encabezado con el nombre del Rito se perdió en la extracción del PDF. Descripción y Sistema completos; el nombre propio no aparece en el texto (corresponde al clásico 'Rito de Dedicación del Talismán', pero no se afirma para no inventar). No se inventa nombre."
-    }
+    ]
   },
   {
     "id": "rite-of-binding",
@@ -12795,10 +12672,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "Extracción a dos columnas: la descripción/inicio del Sistema (bloque anterior) y la continuación del Sistema (tras el recuadro 'RITO DEL SAGRADO RENACIMIENTO') quedaron separados; se reunieron aquí. El propio Rito no se titula en su descripción, pero se le nombra explícitamente 'Rito de Vinculación' en el fragmento (Rito del Despertar del Espíritu). Verificar contra el PDF."
-    }
+    ]
   },
   {
     "id": "sacred-rebirth",
@@ -12876,10 +12750,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "El encabezado ## de esta sección está corrupto por la extracción del PDF ('3FQLBI%BPMBOQO&amp;PMFOFQRI'). El nombre 'Rito del Despertar del Espíritu' se deriva del contenido ('despertar a un espíritu durmiente') y del encabezado corrupto; verificar el título exacto contra el PDF."
-    }
+    ]
   },
   {
     "id": "rite-mystic-summoning-level-two",
@@ -12908,9 +12779,6 @@
         "book_title_es": "W20 Aniversario Core (ES)"
       }
     ],
-    "review": {
-      "reason": "El encabezado con el nombre del Rito se perdió/está corrupto en la extracción del PDF. Descripción, Sistema y tablas completos; nombre propio no recuperable del texto (rito de invocación de espíritus). No se inventa nombre. La celda '5' de la tabla de éxitos aparecía separada del cuerpo por la extracción y se reintegró."
-    },
     "mechanics_html": {
       "difficulty": "según tipo de espíritu (Gaflino 4, Yaglino 5, Avatar de <a href=\"/werewolf/backgrounds/totem\">Tótem</a> 7, Incarna 8-9, Avatar de un Celeste 10); -1 por hora invertida, mínimo 3"
     }
@@ -12941,10 +12809,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "El encabezado con el nombre del Rito se perdió/está corrupto en la extracción del PDF. Descripción y Sistema completos; nombre propio no recuperable del texto. No se inventa nombre."
-    }
+    ]
   },
   {
     "id": "rite-mystic-fetish-creation-level-three",
@@ -12972,10 +12837,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "El encabezado con el nombre del Rito se perdió/está corrupto en la extracción del PDF. Descripción y Sistema completos; el nombre propio no aparece en el texto (corresponde al 'Rito del Fetiche'), pero no se afirma para no inventar."
-    }
+    ]
   },
   {
     "id": "rite-mystic-underworld-travel-level-three",
@@ -13005,10 +12867,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "review": {
-      "reason": "El encabezado con el nombre del Rito se perdió/está corrupto en la extracción del PDF. Descripción y Sistema completos; nombre propio no recuperable del texto. No se inventa nombre."
-    }
+    ]
   },
   {
     "id": "rite-mystic-pack-totem-level-three",
@@ -13037,9 +12896,6 @@
         "book_title_es": "W20 Aniversario Core (ES)"
       }
     ],
-    "review": {
-      "reason": "El encabezado con el nombre del Rito se perdió/está corrupto en la extracción del PDF. Descripción y Sistema completos; el nombre propio no aparece en el texto (corresponde al 'Rito del Tótem'), pero no se afirma para no inventar."
-    },
     "mechanics_html": {
       "requisito": "los personajes deben comprar el Trasfondo <a href=\"/werewolf/backgrounds/totem\">Tótem</a>"
     }
@@ -15729,10 +15585,7 @@
         "section_anchor": "fetiches-de-la-parentela",
         "variant": "base"
       }
-    ],
-    "review": {
-      "reason": "El encabezado con el nombre del Fetiche no aparece en el texto extraído (sólo la línea 'Nivel 1, Gnosis 3.'). El nombre 'Cuerno de la Aflicción' se recupera del cuerpo ('el cuerno alerta a todos los hombres lobo') y de la referencia cruzada del propio libro ('Este Amuleto difiere del Fetiche cuerno de la aflicción...')."
-    }
+    ]
   },
   {
     "id": "kinship-amulet",
@@ -15758,10 +15611,7 @@
         "section_anchor": "fetiches-de-la-parentela",
         "variant": "base"
       }
-    ],
-    "review": {
-      "reason": "El encabezado con el nombre del Fetiche no aparece en el texto extraído (sólo 'Nivel 2, Gnosis 5.'). El nombre 'Amuleto de Parentesco' se recupera del cuerpo ('El hombre lobo debe activar el amuleto de parentesco...')."
-    }
+    ]
   },
   {
     "id": "klaive-hammer",
@@ -15787,10 +15637,7 @@
         "section_anchor": "fetiches-de-la-parentela",
         "variant": "base"
       }
-    ],
-    "review": {
-      "reason": "El encabezado con el nombre del Fetiche no aparece en el texto extraído (sólo 'Nivel 3, Gnosis 5.'). El nombre 'Martillo de Klaives' se recupera del cuerpo ('Un martillo de klaives permite a la Parentela crear un klaive...')."
-    }
+    ]
   },
   {
     "id": "awe-inspiring-howl",
@@ -16015,10 +15862,7 @@
         "section_anchor": "bunyip",
         "variant": "base"
       }
-    ],
-    "review": {
-      "reason": "La escala de dificultad se fragmentó en la extracción: '...desde 5 si ya se avecina una tormenta umbral, a' y luego, como ítem de lista aparte, '- 9 si los cielos del mundo espiritual están despejados.'. Reunido verbatim como 'a 9' en el cuerpo; sin pérdida de valores."
-    }
+    ]
   },
   {
     "id": "billabong-bridge",
@@ -16068,10 +15912,7 @@
         "section_anchor": "croatanos",
         "variant": "base"
       }
-    ],
-    "review": {
-      "reason": "La extracción desordenó la etiqueta 'Sistema:': aparece a mitad de la última frase ('...después de que haya pasado' / 'Sistema: una cantidad específica de tiempo.'). El texto del sistema está completo pero fuera de orden; conservado verbatim."
-    }
+    ]
   },
   {
     "id": "turtle-shell",
@@ -16276,10 +16117,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: la narrativa descriptiva aparece entremezclada (interleaved) entre líneas; el Sistema está intacto."
-    }
+    ]
   },
   {
     "id": "rite-of-crossing-the-web",
@@ -20300,9 +20138,6 @@
     "related": [
       "city-father"
     ],
-    "review": {
-      "reason": "El párrafo descriptivo introductorio venía con las columnas entrelazadas en el Markdown de origen (líneas 591-593). Se reordenó para lectura sin inventar contenido; verificar contra el PDF. Los rasgos mecánicos no están afectados."
-    },
     "sources": [
       {
         "book_id": "w20-nsr-aniversario-parte-2-127pp",
@@ -20705,11 +20540,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "review": {
-      "reason": "dual/compound name — may be two entities",
-      "conflicts": []
-    }
+    "related": []
   },
   {
     "id": "dientes-de-tiburon",
@@ -21168,9 +20999,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: la etiqueta 'Sistema:' aparece desplazada en el original ('Sistema: Ingenio del Ananasi'), partiendo el texto del sistema. Se ha reconstruido en orden de lectura; verificar contra fuente."
-    },
     "mechanics_html": {
       "system": "El jugador gasta un punto de Sangre y tira Destreza + Pelea con Armas a dificultad 8. Superar la tirada ciega a la víctima durante tantos turnos como el Ingenio del <a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>."
     }
@@ -21197,10 +21025,7 @@
         "page": null,
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: la etiqueta 'Sistema:' aparece desplazada ('Sistema: 4 es 20 y a Rango 5 es 25'), partiendo la tabla de valores. Reconstruido en orden de lectura; verificar los valores 15/20/25 contra fuente."
-    }
+    ]
   },
   {
     "id": "mantis-blades",
@@ -21559,10 +21384,7 @@
         "page": null,
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: la etiqueta 'Sistema:' aparece desplazada, partiendo el texto del sistema ('...se queda sordo' / 'Sistema: y tiene +1 de dificultad...'). Reconstruido en orden de lectura."
-    }
+    ]
   },
   {
     "id": "unsettling-eyes",
@@ -21614,9 +21436,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: la etiqueta 'Sistema:' aparece desplazada, partiendo el texto del sistema. Reconstruido en orden de lectura."
-    },
     "mechanics_html": {
       "system": "El jugador gasta un punto de Gnosis y tira Destreza + Subterfugio u Ocultismo a dificultad 7. El <a href=\"/werewolf/changing-breeds/bastet\">Bastet</a> &#x27;desaparece&#x27; durante el resto de la escena o hasta que ataque a alguien o salga de las sombras."
     }
@@ -21644,9 +21463,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: la referencia aparece partida en dos líneas ('- Como el Don Ahroun' / '- Primer Corte (Nivel dos): Espíritu de la Refriega.'). Reconstruida en orden de lectura."
-    },
     "mechanics_html": {
       "reference": "Como el Don Ahroun <a href=\"/werewolf/gifts/ajaba-dawn-spirit-of-the-fray\">Espíritu de la Refriega</a>."
     }
@@ -21752,9 +21568,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: la referencia aparece partida ('- Tocar la Mente (Nivel tres): Metis Lenguaje Mental.' / '- Como el Don Garou'). Reconstruida en orden de lectura."
-    },
     "mechanics_html": {
       "reference": "Como el Don Garou Metis <a href=\"/werewolf/gifts/mind-speak\">Lenguaje Mental</a>."
     }
@@ -21833,9 +21646,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: la referencia aparece partida ('- Como el Don' / '- Terror del Lobo (Nivel cuatro): Ahroun Garras de Plata.'). Reconstruida en orden de lectura."
-    },
     "mechanics_html": {
       "reference": "Como el Don Ahroun <a href=\"/werewolf/gifts/silver-claws\">Garras de Plata</a>."
     }
@@ -21863,9 +21673,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: la etiqueta 'Sistema:' aparece desplazada, partiendo el texto del sistema. Reconstruido en orden de lectura."
-    },
     "mechanics_html": {
       "system": "Gastando un punto de Rabia y otro de Fuerza de Voluntad, el <a href=\"/werewolf/changing-breeds/bastet\">Bastet</a> hace cuatro ataques cuerpo a cuerpo en un único turno. No puede gastar Rabia para obtener más ataques o usar este Don más veces por lucha que su Resistencia en Forma Homínido."
     }
@@ -21950,9 +21757,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: la referencia aparece partida ('- Cazador Urbano (Nivel uno): Homínido Carrera Urbana.' / '- Como el Don Garou'). Reconstruida en orden de lectura."
-    },
     "mechanics_html": {
       "reference": "Como el Don Garou Homínido <a href=\"/werewolf/gifts/city-running\">Carrera Urbana</a>."
     }
@@ -21980,9 +21784,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: la referencia aparece partida ('- Como el' / '- Dulce Sonrisa del Cazador (Nivel uno): Don Garou Homínido Persuasión.'). Reconstruida en orden de lectura."
-    },
     "mechanics_html": {
       "reference": "Como el Don Garou Homínido <a href=\"/werewolf/gifts/persuasion\">Persuasión</a>."
     }
@@ -22034,9 +21835,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: la referencia aparece partida ('- Como el Don de los' / '- Oreja del Fisgón (Nivel dos): Señores de la Sombra Atrapar Susurros.'). Reconstruida en orden de lectura."
-    },
     "mechanics_html": {
       "reference": "Como el Don de los Señores de la Sombra <a href=\"/werewolf/gifts/camazotz-catching-whispers\">Atrapar Susurros</a>."
     }
@@ -22064,9 +21862,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: la referencia aparece partida ('- Como el' / '- Manufactura del Creador (Nivel tres): Don Garou Homínido Remodelar Objeto.'). Reconstruida en orden de lectura."
-    },
     "mechanics_html": {
       "reference": "Como el Don Garou Homínido <a href=\"/werewolf/gifts/reshape-object\">Remodelar Objeto</a>."
     }
@@ -23050,10 +22845,7 @@
         "page": null,
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: el nombre 'Primo Pequeño (Nivel cuatro):' aparece insertado a mitad de la frase descriptiva en el original (bloques 156-159). Texto reensamblado en orden de lectura; verificar contra la fuente."
-    }
+    ]
   },
   {
     "id": "mob-madness",
@@ -23104,10 +22896,7 @@
         "page": null,
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: el nombre 'Favor del Rinoceronte (Nivel uno):' y la etiqueta 'Sistema:' aparecen desplazados a mitad de las frases en el original (bloques 166-171). Texto reensamblado en orden de lectura; verificar contra la fuente."
-    }
+    ]
   },
   {
     "id": "jade-skin",
@@ -23470,10 +23259,7 @@
         "page": null,
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: la etiqueta 'Sistema:' quedó separada de su texto en el original (bloques 218-222). Texto reensamblado en orden de lectura; verificar contra la fuente."
-    }
+    ]
   },
   {
     "id": "west-wind",
@@ -23729,9 +23515,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "GARBLED: la extracción a dos columnas entrelazó el 'Sistema:' de este Rito con la descripción/sistema del Fetiche 'Falsa protección' (bloques 273-295 del origen). El texto del Sistema se reensambló uniendo los fragmentos que corresponden al Rito (meditar / colocar mensaje en movimientos + tirada Astucia + Enigmas según distancia). Verificar contra la fuente."
-    },
     "mechanics_html": {
       "system": "El celebrante del Rito medita, centrándose en los pensamientos que desea compartir, y abre sus ojos a los movimientos que hay a su alrededor. Por cada éxito cuando activa el Rito, el <a href=\"/werewolf/changing-breeds/bastet\">Bastet</a> puede colocar un mensaje en un tipo de movimiento: las ondulaciones de la hierba larga, el balanceo de las hojas de los árboles o incluso en las cambiantes formas de las nubes. El mensaje puede ser cualquier cosa que pudiera transmitirse en un minuto. Otros <a href=\"/werewolf/changing-breeds/bastet\">Bastet</a> por todo el mundo que vean movimientos similares pueden descifrar el mensaje haciendo una tirada de Astucia + Enigmas. La dificultad de la tirada se basa en la distancia del observador a quien celebra el Rito: dificultad 5 por hasta 160 kilómetros (100 millas), 6 por 1600 kilómetros (1000 millas), 7 en el mismo continente y dificultad 8 en cualquier otra parte del mundo."
     }
@@ -23757,10 +23540,7 @@
         "page": null,
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "GARBLED: la extracción a dos columnas entrelazó la descripción/sistema de este Fetiche con el 'Sistema:' del Rito 'Llamadas de Gato' (bloques 284-295 del origen). El 'Nivel dos, Gnosis 6' y el texto del Fetiche (cambio de Yava por los de otra Tribu, tirada Inteligencia + Ocultismo dif. 7, uso por los Ajaba) se reensamblaron a partir de los fragmentos. Verificar contra la fuente."
-    }
+    ]
   },
   {
     "id": "ways-of-the-enemy",
@@ -23908,9 +23688,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: la etiqueta 'Sistema:' quedó desplazada respecto a su texto en el original (bloques 588-592). Texto reensamblado en orden de lectura; verificar contra la fuente."
-    },
     "mechanics_html": {
       "system": "El <a href=\"/werewolf/changing-breeds/corax\">Corax</a> apunta para dejar caer el paquete con Percepción + Pelea con Armas a dificultad 7 sin que importen las condiciones climáticas, los vientos, etc. El <a href=\"/werewolf/changing-breeds/corax\">Corax</a> debe poder ver a su objetivo."
     }
@@ -23963,9 +23740,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: la etiqueta 'Sistema:' quedó desplazada respecto a su texto en el original (bloques 597-601). Texto reensamblado en orden de lectura; verificar contra la fuente."
-    },
     "mechanics_html": {
       "system": "El jugador tira Percepción + <a href=\"/werewolf/gifts/empathy\">Empatía</a> a dificultad 6. El <a href=\"/werewolf/changing-breeds/corax\">Corax</a> adquiere consciencia de todos los cadáveres en un radio de 1,6 kilómetros por éxito (o una milla por éxito)."
     }
@@ -23991,10 +23765,7 @@
         "page": null,
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: la etiqueta 'Sistema:' quedó desplazada respecto a su texto en el original (bloques 603-607). Texto reensamblado en orden de lectura; verificar contra la fuente."
-    }
+    ]
   },
   {
     "id": "return-of-the-swallow",
@@ -24093,9 +23864,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: el nombre 'Guardia del Sol (Nivel tres):' y la etiqueta 'Sistema:' quedaron desplazados respecto a su texto en el original (bloques 624-629). Texto reensamblado en orden de lectura; verificar contra la fuente."
-    },
     "mechanics_html": {
       "system": "El jugador gasta dos puntos de Rabia y tira Resistencia + Impulso Primario a dificultad 6. El <a href=\"/werewolf/changing-breeds/corax\">Corax</a> es completamente inmune a las llamas o el calor, no importa su fuente o intensidad, durante un turno por éxito. Sigue siendo vulnerable a las piras de corrupción."
     }
@@ -24121,10 +23889,7 @@
         "page": null,
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: la descripción y el nombre 'Ojos del Águila (Nivel tres):' quedaron en líneas separadas/desordenadas en el original (bloques 631-634). Texto reensamblado en orden de lectura; verificar contra la fuente."
-    }
+    ]
   },
   {
     "id": "brush-of-the-starling",
@@ -24148,9 +23913,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: la descripción y el nombre 'Roce del Estornino (Nivel tres):' quedaron en líneas separadas/desordenadas en el original (bloques 636-639). Texto reensamblado en orden de lectura; verificar contra la fuente."
-    },
     "mechanics_html": {
       "system": "El jugador gasta dos puntos de Gnosis y obtiene el conocimiento de cualquier Don Garou de Rango menor que el del <a href=\"/werewolf/changing-breeds/corax\">Corax</a>. Este Don puede usarse en cualquier momento posterior una sola vez. Roce del Estornino sólo permite &#x27;almacenar&#x27; un Don a la vez. En el caso de Dones permanentes, el <a href=\"/werewolf/changing-breeds/corax\">Corax</a> puede disfrutar de los beneficios del Don una escena antes de que se desvanezca."
     }
@@ -24801,10 +24563,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Bloque Sistema desordenado por la extraccion del PDF; reconstruido a partir de fragmentos ('El personaje ya no esta sujeto a la Maldicion , pag. 262)...' / 'Sistema: (ver H20 los que estan a su alrededor.'). Verificar contra el original."
-    }
+    ]
   },
   {
     "id": "breath-of-gaia",
@@ -24882,10 +24641,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Nombre y descripcion intercalados por la extraccion del PDF ('El Gurahl puede modificar la temperatura... Un espiritu de' / 'Control Climatico (Nivel dos): ave migratoria enseña este Don.'); reconstruido sin ambiguedad. Verificar."
-    }
+    ]
   },
   {
     "id": "painful-visage",
@@ -26822,9 +26578,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Fragmento reordenado por la extraccion del PDF; texto reconstruido a partir de las lineas contiguas del origen."
-    },
     "mechanics_html": {
       "reference": "Como el Don Lupus <a href=\"/werewolf/gifts/beast-life\">Vida de Bestia</a>."
     }
@@ -26877,10 +26630,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Fragmento reordenado por la extraccion del PDF; texto reconstruido a partir de las lineas contiguas del origen."
-    }
+    ]
   },
   {
     "id": "past-whispers",
@@ -26931,10 +26681,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Fragmento reordenado por la extraccion del PDF; texto reconstruido a partir de las lineas contiguas del origen."
-    }
+    ]
   },
   {
     "id": "marionette",
@@ -27011,10 +26758,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Fragmento reordenado por la extraccion del PDF; texto reconstruido a partir de las lineas contiguas del origen."
-    }
+    ]
   },
   {
     "id": "bless-the-blade",
@@ -27039,10 +26783,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Fragmento reordenado por la extraccion del PDF; texto reconstruido a partir de las lineas contiguas del origen."
-    }
+    ]
   },
   {
     "id": "blood-omen",
@@ -27429,10 +27170,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Fragmento reordenado por la extraccion del PDF; texto reconstruido a partir de las lineas contiguas del origen."
-    }
+    ]
   },
   {
     "id": "fingers-of-ebisu",
@@ -27819,9 +27557,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Fragmento reordenado por la extraccion del PDF; texto reconstruido a partir de las lineas contiguas del origen."
-    },
     "mechanics_html": {
       "reference": "Como el Don Ragabash <a href=\"/werewolf/gifts/thousand-forms\">Miles de Formas</a>."
     }
@@ -31130,10 +30865,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Extraccion del PDF (dos columnas) separo/entremezclo las lineas del bloque; contenido reconstruido en su orden logico, verificar contra el original."
-    }
+    ]
   },
   {
     "id": "secret-question",
@@ -31202,10 +30934,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Extraccion del PDF (dos columnas) separo/entremezclo las lineas del bloque; contenido reconstruido en su orden logico, verificar contra el original."
-    }
+    ]
   },
   {
     "id": "the-emperors-clothes",
@@ -31251,10 +30980,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Extraccion del PDF (dos columnas) separo/entremezclo las lineas del bloque; contenido reconstruido en su orden logico, verificar contra el original."
-    }
+    ]
   },
   {
     "id": "otters-breath",
@@ -31277,10 +31003,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Extraccion del PDF (dos columnas) separo/entremezclo las lineas del bloque; contenido reconstruido en su orden logico, verificar contra el original."
-    }
+    ]
   },
   {
     "id": "under-the-electronic-bridge",
@@ -31326,10 +31049,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Extraccion del PDF (dos columnas) separo/entremezclo las lineas del bloque; contenido reconstruido en su orden logico, verificar contra el original."
-    }
+    ]
   },
   {
     "id": "tiny-coyote",
@@ -31651,10 +31371,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Extraccion del PDF (dos columnas) separo/entremezclo las lineas del bloque; contenido reconstruido en su orden logico, verificar contra el original."
-    }
+    ]
   },
   {
     "id": "umbral-sight",
@@ -32092,10 +31809,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: la descripción/Sistema aparecen fragmentados y posiblemente mezclados con un Don adyacente sin encabezado."
-    }
+    ]
   },
   {
     "id": "from-behind",
@@ -32349,10 +32063,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: el texto del Sistema aparece partido y reordenado."
-    }
+    ]
   },
   {
     "id": "war-of-vengeance",
@@ -33312,10 +33023,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Artefacto de extracción PDF: la referencia cruzada («Como el Don Ragabash Arte del Mentiroso») aparece partida y reordenada."
-    }
+    ]
   },
   {
     "id": "taste-of-madness",
@@ -34198,10 +33906,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "La extracción del PDF desordenó el bloque de Sistema (la etiqueta 'Sistema:' aparece fuera de lugar); el texto se ha reensamblado en orden lógico preservando todos los valores."
-    }
+    ]
   },
   {
     "id": "gift-of-the-narke",
@@ -34304,10 +34009,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "La extracción del PDF partió la palabra 'Como' en una línea aparte; el texto se ha reensamblado."
-    }
+    ]
   },
   {
     "id": "best-policy",
@@ -34357,10 +34059,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "La extracción del PDF desordenó el nombre, la descripción y el bloque 'Sistema:'; el texto se ha reensamblado en orden lógico preservando todos los valores."
-    }
+    ]
   },
   {
     "id": "blood-of-darkness",
@@ -34386,10 +34085,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "La extracción del PDF desordenó el nombre y la descripción entre dos líneas; el texto se ha reensamblado."
-    }
+    ]
   },
   {
     "id": "winds-of-sea",
@@ -34439,10 +34135,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "La extracción del PDF desordenó el bloque 'Sistema:'; el texto se ha reensamblado en orden lógico."
-    }
+    ]
   },
   {
     "id": "strange-blood",
@@ -34595,10 +34288,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "La extracción del PDF desordenó la descripción y el bloque 'Sistema:'; el texto se ha reensamblado en orden lógico preservando todos los valores."
-    }
+    ]
   },
   {
     "id": "wisdom-of-sea",
@@ -35031,10 +34721,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "La extracción del PDF partió el nombre y la referencia entre dos líneas; el texto se ha reensamblado."
-    }
+    ]
   },
   {
     "id": "distant-voice-of-sea",
@@ -35140,10 +34827,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Tótem definido de forma sucinta dentro del texto de Trasfondos de la Raza Ananasi (no como una ficha de Tótem formal); se conservan los valores mecánicos indicados."
-    }
+    ]
   },
   {
     "id": "apis-gift-of-the-flesh",
@@ -35495,9 +35179,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "El extractor PDF desordenó el texto de este Don (descripción separada de su encabezado); reconstruido a partir de los fragmentos adyacentes. Verificar contra la fuente."
-    },
     "mechanics_html": {
       "reference": "Como el Don Lupus <a href=\"/werewolf/gifts/scent-of-sight\">Olor de la Vista</a> (usando el sonido en lugar del olor)"
     }
@@ -35552,10 +35233,7 @@
         "page": null,
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "El extractor PDF desordenó el bloque Sistema ('El jugador tira...' aparece antes de la etiqueta 'Sistema:' y 'turno por éxito' quedó separado); reconstruido en orden lógico. Verificar contra la fuente."
-    }
+    ]
   },
   {
     "id": "camazotz-blade-wings",
@@ -35584,9 +35262,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "El extractor PDF desordenó la entrada ('- Como el Don' precede a 'Alas como Cuchillas (Nivel dos): genérico de los Corax Plumas como Cuchillas.'); reconstruida. Verificar contra la fuente."
-    },
     "mechanics_html": {
       "reference": "Como el Don genérico de los <a href=\"/werewolf/changing-breeds/corax\">Corax</a> <a href=\"/werewolf/gifts/feathers-like-blades\">Plumas como Cuchillas</a>"
     }
@@ -35641,10 +35316,7 @@
         "page": null,
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "El extractor PDF separó el bloque Sistema del encabezado; reconstruido en orden lógico. Verificar contra la fuente."
-    }
+    ]
   },
   {
     "id": "camazotz-hemorrhagic-bite",
@@ -35696,10 +35368,7 @@
         "page": null,
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "El extractor PDF separó el bloque Sistema del encabezado; reconstruido en orden lógico. Verificar contra la fuente."
-    }
+    ]
   },
   {
     "id": "camazotz-form-of-the-thousand-wings",
@@ -35725,10 +35394,7 @@
         "page": null,
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "El extractor PDF intercaló fragmentos ('- El Mensajero de' y la etiqueta 'Sistema:') dentro de este Don; texto reconstruido. Verificar contra la fuente."
-    }
+    ]
   },
   {
     "id": "camazotz-blinding-spit",
@@ -35754,10 +35420,7 @@
         "page": null,
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "El extractor PDF desordenó la primera frase ('Salivazo Cegador (Nivel tres): Luna puede cegar...' con 'El Mensajero de' desplazado a otra línea); reconstruida. Verificar contra la fuente."
-    }
+    ]
   },
   {
     "id": "camazotz-night-messengers",
@@ -36561,9 +36224,6 @@
       "effect": "El objetivo recibe -3 a cualquier acción que no sea intentar atacar a quien lo mordió durante [Rango del personaje +1] turnos (reconstruido; fuente desordenada).",
       "teaching_spirits": "un espíritu cuervo y un espíritu hiena"
     },
-    "review": {
-      "reason": "El bloque 'Sistema' está desordenado por la extracción del PDF (la etiqueta 'Sistema:' y sus fragmentos aparecen intercalados). El efecto se ha reconstruido pero no puede confirmarse verbatim."
-    },
     "sources": [
       {
         "book_id": "w20-nsr-aniversario-parte-3-290pp",
@@ -37136,10 +36796,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Extracción PDF desordenó el texto: la etiqueta 'Sistema:' aparece separada del párrafo de sistema en la fuente (bloque 283). Reconstruido a partir de las piezas contiguas."
-    }
+    ]
   },
   {
     "id": "sight-without-seeing",
@@ -37189,10 +36846,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Extracción PDF desordenó el texto: 'Como el Don' aparece como línea separada antes del nombre (bloques 291-292). Reconstruido a partir de las piezas contiguas."
-    }
+    ]
   },
   {
     "id": "perfect-predator",
@@ -37342,10 +36996,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Extracción PDF: el párrafo 'Sistema:' de este Don aparece tras el recuadro '¿ESTÁN DESCOMPENSADOS LOS ZHONG LUNG?' (bloque 403), separado de su encabezado (bloque 394). Reconstruido por contexto."
-    }
+    ]
   },
   {
     "id": "harmony-of-soul",
@@ -37370,10 +37021,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "Extracción PDF desordenó el texto: 'Como el Don' aparece como línea separada antes del nombre (bloques 405-406). Reconstruido a partir de las piezas contiguas."
-    }
+    ]
   },
   {
     "id": "sleep-of-hsi-wang-mu",
@@ -38346,9 +37994,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Orden del texto alterado por la extracción del PDF (etiqueta/nombre y descripción intercalados); cuerpo reconstruido a partir de los fragmentos de la fuente."
-    },
     "mechanics_html": {
       "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
     }
@@ -39043,9 +38688,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "La extracción del PDF desplazó la etiqueta 'Sistema:' y partió la frase de la tirada; el cuerpo se reconstruyó uniendo los fragmentos de la fuente (descripción + sistema)."
-    },
     "mechanics_html": {
       "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
     }
@@ -39166,9 +38808,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "La extracción del PDF intercaló el nombre/nivel dentro de la descripción y desplazó la etiqueta 'Sistema:'; el cuerpo se reconstruyó a partir de los fragmentos de la fuente."
-    },
     "mechanics_html": {
       "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
     }
@@ -39199,9 +38838,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Orden del texto alterado por la extracción del PDF (etiqueta/nombre y descripción intercalados); cuerpo reconstruido a partir de los fragmentos de la fuente."
-    },
     "mechanics_html": {
       "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
     }
@@ -39262,9 +38898,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "Orden del texto alterado por la extracción del PDF (etiqueta/nombre y descripción intercalados); cuerpo reconstruido a partir de los fragmentos de la fuente."
-    },
     "mechanics_html": {
       "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
     }

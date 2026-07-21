@@ -11251,9 +11251,6 @@
       "coste_empunar": "1 punto de Angustia temporal por cada disparo",
       "eliminar_larvas": "Moliar o escarbar tras ellas (hiere a la víctima); o Castigar 3 (Purificar), matando una larva por cada éxito sin causar más daño"
     },
-    "review": {
-      "reason": "Extracción PDF: la descripción del Revólver larva quedó fragmentada. La oración que empieza «aunque este proceso tiende a herir...» (bloque en la sección del Revólver larva) carece de su comienzo, que aparece desplazado dentro de la sección posterior «Placenta de la Bean Nighe» como «Las larvas excavadoras pueden eliminarse mediante Moliar o simplemente escarbando tras ellas en los orificios que han generado;». Aquí se han reunido ambos fragmentos y marcado el reubicado; verificar contra el PDF original."
-    },
     "sources": [
       {
         "book_id": "wraith20-el-olvido-nsr-es",
@@ -11285,9 +11282,6 @@
       "beneficio_combate": "equivalente a Lamento 4 (Arte común y de iniciado); visión de 360 grados",
       "recurrir_a_los_wraiths": "Subterfugio + Carisma a dificultad 7, cuesta 2 puntos de Angustia temporal; +1 dado por cada éxito",
       "penalizacion_wraith_no_espectro": "+3 de dificultad a sus propios Arcanoi; pierde 1 punto de Corpus por turno; quitársela requiere Destreza a dificultad 7 (2 éxitos)"
-    },
-    "review": {
-      "reason": "Extracción PDF: dentro de esta sección aparece intercalada una oración ajena («Las larvas excavadoras pueden eliminarse mediante Moliar...») que pertenece al «Revólver larva» y ha sido reubicada allí. El cuerpo aquí recogido excluye ese fragmento intruso; verificar contra el PDF original."
     },
     "sources": [
       {
@@ -12261,10 +12255,7 @@
         "section_anchor": "fracasos",
         "variant": "base"
       }
-    ],
-    "review": {
-      "reason": "Cabecera de nivel perdida en la extracción; el nombre 'Cabalgar Wraith' se toma del cuerpo del texto y el nivel 1 se infiere del orden."
-    }
+    ]
   },
   {
     "id": "evade",
@@ -12294,9 +12285,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "El bloque Sistema de esta Arte quedó bajo una cabecera duplicada 'tvashtriya' en la extracción."
-    },
     "mechanics_html": {
       "note": "El párrafo &#x27;Sistema:&#x27; de <a href=\"/wraith/arcanos-powers/evadir\">Evadir</a> aparece en el original bajo una cabecera repetida y errónea &#x27;tvashtriya&#x27;."
     }
@@ -12414,10 +12402,7 @@
         "section_anchor": "hurgar",
         "variant": "base"
       }
-    ],
-    "review": {
-      "reason": "La extracción intercambió el contenido de las cabeceras de Instancia: la descripción y Sistema de Hurgar aparecen bajo la cabecera 'Restricciones', y los de Rastrear bajo la cabecera '· Hurgar'. Contenido asignado por el nombre del Arte citado en cada Sistema; anclas conservadas por nombre nominal del Arte."
-    }
+    ]
   },
   {
     "id": "track",
@@ -12449,9 +12434,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "La extracción intercambió el contenido de las cabeceras de Instancia: la descripción y Sistema de Hurgar aparecen bajo la cabecera 'Restricciones', y los de Rastrear bajo la cabecera '· Hurgar'. Contenido asignado por el nombre del Arte citado en cada Sistema; anclas conservadas por nombre nominal del Arte."
-    },
     "mechanics_html": {
       "note": "Contenido tomado de la cabecera &#x27;· <a href=\"/wraith/arcanos-powers/hurgar\">Hurgar</a>&#x27; del original (intercambio de cabeceras en la extracción)."
     }
@@ -12681,10 +12663,7 @@
         "section_anchor": "aeronaves-artefacto",
         "variant": "base"
       }
-    ],
-    "review": {
-      "reason": "Extracción PDF: los nombres Wright Flyer, Hindenburg y Glamorous Glennis aparecen agrupados y separados de sus tres bloques de estadísticas. La asociación nombre->estadísticas se hace por orden documental y plausibilidad física; verificar contra el PDF original."
-    }
+    ]
   },
   {
     "id": "hindenburg",
@@ -12713,10 +12692,7 @@
         "section_anchor": "aeronaves-artefacto",
         "variant": "base"
       }
-    ],
-    "review": {
-      "reason": "Extracción PDF: los nombres Wright Flyer, Hindenburg y Glamorous Glennis aparecen agrupados y separados de sus tres bloques de estadísticas. La asociación nombre->estadísticas se hace por orden documental y plausibilidad física (Corpus 50 = zepelín); verificar contra el PDF original."
-    }
+    ]
   },
   {
     "id": "glamorous-glennis",
@@ -12744,10 +12720,7 @@
         "section_anchor": "aeronaves-artefacto",
         "variant": "base"
       }
-    ],
-    "review": {
-      "reason": "Extracción PDF: los nombres Wright Flyer, Hindenburg y Glamorous Glennis aparecen agrupados y separados de sus tres bloques de estadísticas. La asociación nombre->estadísticas se hace por orden documental y plausibilidad física (velocidad supersónica = Bell X-1); verificar contra el PDF original."
-    }
+    ]
   },
   {
     "id": "shared-whispers",

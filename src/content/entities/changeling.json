@@ -1620,11 +1620,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "review": {
-      "reason": "dual/compound name — may be two entities",
-      "conflicts": []
-    }
+    "related": []
   },
   {
     "id": "venganza-defecto-de-2-puntos-venganza",
@@ -2438,11 +2434,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "review": {
-      "reason": "dual/compound name — may be two entities",
-      "conflicts": []
-    }
+    "related": []
   },
   {
     "id": "corazon-de-poeta-merito-de-3-puntos-corazon-de-poeta",
@@ -3622,9 +3614,6 @@
     "mechanics": {
       "attribute": "Destreza"
     },
-    "review": {
-      "reason": "El valor del campo 'Atributo:' de Prestidigitación aparece vacío en su sitio en la extracción PDF; el token 'Destreza' quedó desplazado dentro del cuerpo del cantrip Enredar (partiendo la palabra 'repentinamente'). Se ha reconstruido attribute='Destreza' por posición, pero requiere verificación humana contra el original."
-    },
     "related": [
       "gimmix",
       "ensnare",
@@ -3831,10 +3820,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "review": {
-      "reason": "Tabla de niveles desordenada por la extracción del PDF: el nivel 5 (••••• 'Reino' — 'Hasta 16.000 metros cuadrados') aparece separado y por encima de la tabla, y su fila quedó vacía en la tabla original. Reconstruido a partir del texto disponible; verificar contra el PDF original."
-    }
+    "related": []
   },
   {
     "id": "fae",
@@ -4463,9 +4449,6 @@
         "4": "Como el anterior, pero el objetivo ha de lograr cinco éxitos.",
         "5": "Como el anterior, pero el objetivo ha de lograr 10 éxitos."
       }
-    },
-    "review": {
-      "reason": "El token 'Destreza' (atributo desplazado de la cabecera del Arte Prestidigitación) aparece incrustado en la extracción PDF dentro de la palabra 'repentinamente' de este cantrip. En body_es se ha restaurado la palabra 'repentinamente' y el atributo se ha atribuido a Prestidigitación; conviene verificación humana."
     },
     "related": [
       "legerdemain"
