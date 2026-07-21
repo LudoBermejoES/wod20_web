@@ -1,5 +1,269 @@
 [
   {
+    "id": "el-abusador",
+    "type": "shadow-archetype",
+    "line": "wraith",
+    "name_en": "El Abusador",
+    "name_es": "El Abusador",
+    "body_es": "Esta Sombra impaciente y celosa, dañada terriblemente hace tiempo, existe para infligir dolor a los demás. Observa los fallos de todos los que le rodean y les colma de desdén siempre que puede. En parte lo hace por reafirmar su propia imagen, pero sobre todo para herir a todos tanto como ella lo está. A menudo, el Abusador te incitará a hacer lo imposible, sólo para verte fallar y deleitarse con el autodesprecio que ese fallo genera.\n\nCaótico y enloquecido, ataca a cualquier objetivo salvo su favorito: él mismo. Cuando tiene el control, escupe su veneno en todas direcciones. Cualquier excusa le sirve, y si no hay ninguna, creará una. Las exigencias de obediencia, las solicitudes absurdas y los abusos verbales o físicos sistemáticos son la marca de esta Sombra. Después de todo, ¿por qué el resto del mundo debería sufrir menos que él?",
+    "tags": [
+      "arquetipo-sombra"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20: El Olvido",
+        "page": null,
+        "section_anchor": "el-abusador",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "el-director",
+    "type": "shadow-archetype",
+    "line": "wraith",
+    "name_en": "El Director",
+    "name_es": "El Director",
+    "body_es": "Tranquilo y organizado, te desmontará con precisión de relojero. Gélido en su odio, te desposeerá de tus defensas capa a capa, mientras disfruta de la quirúrgica naturaleza del tormento que inflige. No hay nada personal en lo que el Director hace; sólo está poniendo las cosas en su sitio al eliminar cualquier mentira que pudieras haberte creído sobre tu bondad, cordura o cualquier otra cualidad digna que pudieras haber pensado que tenías. El modus operandi habitual del Director es rebuscar en los cajones del fondo de tu mente, catalogar cada debilidad, cada recuerdo doloroso y cada fallo de la personalidad sin importar lo minúsculo que sea. No usa esta munición de manera aleatoria, sino que la acumula para ocasiones especiales. Si tu conexión con la realidad comienza a fallar, el Director sabe cuánta presión aplicar para llevarte más allá del límite.\n\nCuando está al mando, al Director le gusta disponer planes a largo plazo para la siguiente vez que lo esté y preparar pequeñas revelaciones para que las descubras a intervalos cuidadosamente establecidos. También disfruta desmontando a tus compañeros, haciendo observaciones afiladas que envenenarán a cualquier amistad que pudieras tener. Y lo peor es que suele estar en lo cierto.",
+    "tags": [
+      "arquetipo-sombra"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20: El Olvido",
+        "page": null,
+        "section_anchor": "el-director",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "el-falso-amigo",
+    "type": "shadow-archetype",
+    "line": "wraith",
+    "name_en": "El Falso Amigo",
+    "name_es": "El Falso Amigo",
+    "body_es": "Alegre y amable, no parece un enemigo. Sí, es dado a los comentarios desagradables sobre sus socios cuando están cerca y, por supuesto, menosprecia cualquier curso de acción que se te ocurra con cruel agudeza, pero es tan divertido tenerlo cerca que no te importa. El hecho de que esté envenenando poco a poco tu relación con todos los que conoces al llenarte de desdén hacia ellos se te escapa. Tu Sombra te hace sentirte genial; así que, ¿para qué necesitas a esos perdedores? Y cuando te haya separado de tus amigos, es cuando el Falso Amigo se vuelve y te hace saber exactamente lo que piensa de ti, lo fácil que es engañarte, lo poco que vales y lo poco fiel que eres realmente.\n\nEn última instancia, el Falso Amigo busca destrozarte con tu propia hipocresía, te lleva a burlarte de los mismos defectos en otros que luego señalará en ti. Siempre está pensando en cómo colar el cuchillo, hacerte sentirte superior un momento y luego dejarte incapaz de pedir ayuda al siguiente. Te hará derribar a todos los que te rodean hasta que todos se alejen y el único objetivo que le quede seas tú.",
+    "tags": [
+      "arquetipo-sombra"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20: El Olvido",
+        "page": null,
+        "section_anchor": "el-falso-amigo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "el-investigador",
+    "type": "shadow-archetype",
+    "line": "wraith",
+    "name_en": "El Investigador",
+    "name_es": "El Investigador",
+    "body_es": "Nada es tan sencillo como parece, y nada vale nada a menos que implique algo importante. Esta Sombra ahonda en las profundidades de todo en busca de un subtexto incluso si no existe: «¿Qué estás pensando realmente ?» es su mantra; «¿Por qué hiciste realmente eso?». El Investigador no está satisfecho con respuestas fáciles u obvias; tiene que desmontar todo hasta que te vuelva completamente loco a ti, a tus amigos y todos los que te encuentras.\n\nEl Investigador no es paranoico en el sentido tradicional de la palabra, puede sospechar de conspiraciones en tu contra, pero no es en lo que realmente se concentra. No, sólo quiere descubrir qué hay más allá de las respuestas obvias, y no aceptará que algunas cosas son exactamente lo que parecen ser. Cuando se hace con el control, la Sombra hace preguntas dolorosamente inquisitivas, disecciona cada respuesta y vuelve a por más. Al buscar la raíz tras cada gesto, broma o mirada, te empuja por una espiral descendente en la que hay que cuestionárselo todo… una y otra y otra vez. Que sobreanalice todo de forma incansable hace que su Psique (en el mejor de los casos) ponga a prueba de forma continua la paciencia de quienes le rodean, incluso aunque debido a la bizantina naturaleza de la política estigia eso signifique que de cuando en cuando podría estar en lo cierto.",
+    "tags": [
+      "arquetipo-sombra"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20: El Olvido",
+        "page": null,
+        "section_anchor": "el-investigador",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "el-martir",
+    "type": "shadow-archetype",
+    "line": "wraith",
+    "name_en": "El Mártir",
+    "name_es": "El Mártir",
+    "body_es": "El autosacrificio noble tiene su lugar, pero lo que el Mártir ofrece es una vana burla de él. Al exigir constantemente que te entregues a ti mismo porque puedes soportar el dolor mejor que nadie, el Mártir devalúa tu lealtad y alimenta tu arrogancia. Afirma que tu sacrificio será por un bien mayor, pero luego se deleita demostrando que tu dolor no sirvió para nada en absoluto y que tu sufrimiento careció de sentido… Pero eso no le impedirá impelerte a entregarte por otros cuando se dé la siguiente oportunidad. Después de todo, sólo busca una buena excusa para encontrar la salida fácil.\n\nCuando el Mártir se hace con el control, trata de forzarte a situaciones en las que, no importa cómo, tengas que renunciar a algo importante. El Mártir también trata de disponer de testigos siempre que sea posible para que sus sacrificios públicos puedan usarse para llevar a otros a actos autodestructivos similares por pura vergüenza.",
+    "tags": [
+      "arquetipo-sombra"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20: El Olvido",
+        "page": null,
+        "section_anchor": "el-martir",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "el-monstruo",
+    "type": "shadow-archetype",
+    "line": "wraith",
+    "name_en": "El Monstruo",
+    "name_es": "El Monstruo",
+    "body_es": "Para esta Sombra, brutalmente directa, todo es dolor y avaricia. Sea lo que sea que quiera, te ordenará que lo tomes. Sea lo que sea que odie, te exigirá que lo destruyas. Si te niegas, te destruirá también a ti, ya que no puede soportar que se resistan a ella de ninguna forma. No hay compromiso o sutileza con el Monstruo, y suelen ser los wraiths más dignos y delicados los que tienen a un Monstruo yaciendo tras sus ojos. Verlo tomando el control es ver un atisbo de lo que es ser un Espectro. Devastará todo a su paso, tomará lo que quiere y destruirá todo lo demás por puro rencor. Gutural y vulgar, rara vez tiene nada que decir que no sea una obscenidad. ¿Por qué molestarse en ser educado con nadie cuando no son más que obstáculos para tu placer?",
+    "tags": [
+      "arquetipo-sombra"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20: El Olvido",
+        "page": null,
+        "section_anchor": "el-monstruo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "el-pajaro-de-mal-aguero",
+    "type": "shadow-archetype",
+    "line": "wraith",
+    "name_en": "El Pájaro de Mal Agüero",
+    "name_es": "El Pájaro de Mal Agüero",
+    "body_es": "Esta Sombra, siempre portadora de malas noticias, está convencida de que hay una mina bajo cada bache. Está segura de que cada wraith tiene malas intenciones, que cada acción terminará en desastre y que cada rincón alberga a un Espectro acechante. Es más, detallará estas preocupaciones ad nauseam a la Psique, recreándose en cada desagradable detalle que pueda inventar. Por lo que respecta al Pájaro de [Mal Agüero](/wraith/arcanos-powers/mal-aguero), no es suficiente que los actos del wraith estén condenados al fracaso. El wraith ha de fracasar de forma espectacular, y de tal forma que el wraith tenga la oportunidad de lamentar ese error durante mucho tiempo.\n\nCuando está al mando, hace lo que puede por disuadir a los compañeros del wraith de cualquier acción que pudiera ser beneficiosa para la Psique. Señala adustamente las posibles consecuencias y repercusiones, todas las cuales están destinadas a ser catastróficas. También se esfuerza por poner trampas a la obra de la Psique, asegurándose de que el terrible destino que pronostica tenga lugar.",
+    "tags": [
+      "arquetipo-sombra"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20: El Olvido",
+        "page": null,
+        "section_anchor": "el-pajaro-de-mal-aguero",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "el-perfeccionista",
+    "type": "shadow-archetype",
+    "line": "wraith",
+    "name_en": "El Perfeccionista",
+    "name_es": "El Perfeccionista",
+    "body_es": "Nada de lo que hagas será jamás suficientemente bueno para el Perfeccionista. Haz siete cosas imposibles antes del desayuno y te gritará por no haber hecho la octava. Cualquier imperfección puede servir como punto de partida para una discusión; cualquier defecto será un imán para un devastador sarcasmo. Al exagerar tus inevitables errores, el Perfeccionista inspira tu autodesprecio y mina tu confianza en tus propias capacidades. Entonces, una vez que haya destrozado tu confianza, estará más que dispuesto a intervenir y demostrarte cómo se hacen las cosas . Si tuvieses el más mínimo sentido común, le cederías todo permanentemente y te asegurarías de que las cosas se hicieran bien por primera vez. Después de todo, no es como si tú fueras a ser capaz.\n\nCuando tiene el control, el Perfeccionista aprovecha cada oportunidad para criticar todo y a todos los que ve. También aprovecha la oportunidad para embrollarte en escenarios imposibles, esperando ansioso tu inevitable fallo. Aun así, al menos no tiene favoritismos. Cuando todo el mundo que le rodea está igualmente lleno de fallos, cualquier objetivo es igual de bueno.",
+    "tags": [
+      "arquetipo-sombra"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20: El Olvido",
+        "page": null,
+        "section_anchor": "el-perfeccionista",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "el-progenitor",
+    "type": "shadow-archetype",
+    "line": "wraith",
+    "name_en": "El Progenitor",
+    "name_es": "El Progenitor",
+    "body_es": "Nadie puede quererte tanto, o tan bien, como el Progenitor. Nadie puede cuidarte tan bien o hacerte tan feliz. El Progenitor acepta incluso tus pequeñas imperfecciones, de las cuales hablará sin descanso para demostrar que te ama a pesar de tus casi infinitos fallos. Te protegerá de la gente que no busca lo mejor para ti, y sólo él puede decidir quiénes son (normalmente, toda la gente a la que conoces). Eres su querido bebé, así que sin duda te ayudará a tomar las decisiones difíciles, e incluso las tomará por ti.\n\nMamá (o Papá) sabe lo que te conviene, incluso si le rompes el corazón porque nunca le escuchas y andas con esos vándalos Renegados…\n\nCuando está al mando, el Progenitor buscará aislarte de cualquier influencia corruptora o peligrosa (es decir, todo y todos). Para lograrlo, hará y dirá lo que sea para apartarte de los que se preocupan por ti, usando el hecho de que se les podía alejar como prueba de que no eran realmente tus amigos en primer lugar. Sólo va a mostrar que está en lo cierto y que nadie te ama como él lo hace.",
+    "tags": [
+      "arquetipo-sombra"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20: El Olvido",
+        "page": null,
+        "section_anchor": "el-progenitor",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "el-sonambulo",
+    "type": "shadow-archetype",
+    "line": "wraith",
+    "name_en": "El Sonámbulo",
+    "name_es": "El Sonámbulo",
+    "body_es": "La vida fue un borrón, la no-vida aún más. El Sonámbulo camina como dormido por el más allá chorreando tedio. Nada es digno de su atención a menos que esté directamente frente a él, y entonces no hará nada para eliminar el obstáculo.\n\nEl Sonámbulo minusvalora la importancia de todo, asegurando siempre que los detalles son irrelevantes. Quiere que la Psique se relaje y no le dé dolores de cabeza por preocuparse por lo que ese parche negro que no deja de crecer en el muro podría supondrá más adelante. Por el momento, la mancha no es nada, y eso es todo lo que preocupa al Sonámbulo.\n\nCuando está a los mandos, el Sonámbulo se retira de toda actividad y compromiso. Nunca está a la altura, a ser posible de forma espectacular: «Sí, sé que necesitábamos esas espadas forjadas, pero no me sentía motivado. O espera, ¿eso son Espectros?». En apariencia es una Sombra relativamente suave, pero el Sonámbulo disfruta dando a la Psique una sensación de falsa seguridad, y entonces retira el telón para descubrir una desagradable sorpresa.",
+    "tags": [
+      "arquetipo-sombra"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20: El Olvido",
+        "page": null,
+        "section_anchor": "el-sonambulo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "la-voz-de-la-esperanza",
+    "type": "shadow-archetype",
+    "line": "wraith",
+    "name_en": "La Voz de la Esperanza",
+    "name_es": "La Voz de la Esperanza",
+    "body_es": "Realmente nunca moriste. Todo esto es un error. Una vez que logres revertir esta condición, podrás regresar a tu vida normal como si no hubiera pasado nada. Todo esto no es más que una larga [pesadilla](/wraith/arcanos-powers/pesadilla). Despertarás … tienes que hacerlo, antes o después, ¿verdad?\n\nEsta cruel Sombra niega la realidad que es tu existencia fantasmal. Sostiene una brillante vela que te sustenta a través de los malos momentos, pero que se convierte en un insoportable tormento conforme pasa el tiempo. ¿Cuánto podría durar una [pesadilla](/wraith/arcanos-powers/pesadilla), después de todo? ¿ Terminará alguna vez?\n\nCuando toma el control, la Voz de la Esperanza ignora cualquier posibilidad de que el Inframundo no sea más que una prolongada [pesadilla](/wraith/arcanos-powers/pesadilla). Si alguna vez logras convencerla de que de hecho estás condenado a esta existencia crepuscular, entonces se concentra en encontrar una «cura» para tu estado Sin Reposo. Te conducirá a wraiths más ancianos, sabios vivos, hechizos mágicos y búsquedas espirituales, todo lo que supuestamente deshará tu muerte y te restaurará al mundo vivo.\n\nAunque parece relativamente alegre en comparación con, por ejemplo, [el Monstruo](/wraith/shadow-archetypes/el-monstruo), esta Sombra inflige un interminable dolor al ofrecer esperanza, ver cómo ésta se ve frustrada y repetir el proceso infinitamente.",
+    "tags": [
+      "arquetipo-sombra"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20: El Olvido",
+        "page": null,
+        "section_anchor": "la-voz-de-la-esperanza",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "la-quiescente",
+    "type": "shadow-archetype",
+    "line": "wraith",
+    "name_en": "La Quiescente",
+    "name_es": "La Quiescente",
+    "body_es": "Toda guerra se basa en el engaño, y el mayor truco que una Sombra puede realizar es convencerte de que no existe. La Quiescente, casi ubicua entre los Desvaídos y desconocida entre otros wraiths, sólo habla rara vez y la Psique puede creer legítimamente que «simplemente» está manteniendo un diálogo interno. Las Espinas de la Quiescente tienden a ser sutiles, e incluso la Catarsis se ve como si el Desvaído se «dejase llevar» un poco. Los dados de la Sombra se ofrecen durante períodos de estrés emocional o furia, y aunque un Desvaído es consciente de que está alimentando sus instintos más oscuros no suele reconocer lo literal que se ha vuelto esa metáfora. Como resultado, los Desvaídos son muy reticentes y reacios a someterse al examen de los Perdonadores («¡No! ¡Yo no oigo voces en mi cabeza!»). Incluso los Perdonadores veteranos se ven algo perdidos por las sucintas comunicaciones de una Sombra Quiescente, aunque Castigar funciona de forma normal en ellas.\n\nLas Pasiones Oscuras de una Sombra Quiescente son reflejo de las Pasiones normales de un Desvaído; incluso si la resonancia emocional no está ligada a una emoción negativa normal, la Quiescente puede obtener Angustia de ello. Cada vez que un Desvaído obtiene Pathos de sus Pasiones, su Sombra se fortalece igualmente. Si un Desvaído logra purgar su mancha de pigmento y convertirse en un wraith completo, la Sombra se convierte de inmediato en otro Arquetipo, con Pasiones Oscuras más apropiadas para el personaje.",
+    "tags": [
+      "arquetipo-sombra"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20: El Olvido",
+        "page": null,
+        "section_anchor": "nuevo-arquetipo-de-sombra-quiescente",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
     "id": "olor-de-vida",
     "type": "arcanos-power",
     "line": "wraith",
