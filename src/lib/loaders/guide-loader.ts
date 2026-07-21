@@ -14,6 +14,24 @@ import type { Loader, LoaderContext } from 'astro/loaders';
 
 const GUIDE_DIR = new URL('../../content/guide/', import.meta.url);
 const IMAGE_PLACEHOLDER = /<!--\s*image\s*-->/g;
+const HEADING_ID = /(<h[1-6]\b[^>]*\sid=")([^"]*)(")/g;
+
+// Astro's markdown renderer gives headings Unicode-preserving ids (e.g. `pasaría`),
+// but the mini-TOC anchors and entity cross-links are built with Python's `slugify`,
+// which strips accents to ASCII (`pasaria`). Rewrite the rendered heading ids to the
+// same accent-stripped ASCII form so every `#anchor` resolves (previously any heading
+// with an accent produced a dead anchor). Mirrors webgen/slugs.py slugify exactly.
+function asciiHeadingIds(html: string): string {
+  return html.replace(HEADING_ID, (_m, pre: string, id: string, post: string) => {
+    const ascii = id
+      .normalize('NFKD')
+      .replace(/[^\x00-\x7F]/g, '') // drop combining marks + any non-ASCII (NFKD-then-ascii-ignore)
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-+|-+$/g, '');
+    return pre + ascii + post;
+  });
+}
 
 async function walkBooks(): Promise<{ line: string; book: string; dir: URL }[]> {
   const root = fileURLToPath(GUIDE_DIR);
@@ -69,7 +87,7 @@ export function guidePagesLoader(): Loader {
           const id = `${raw.line}/${raw.book_id}/${raw.slug}`;
           const data = await parseData({
             id,
-            data: { ...raw, body_md: cleaned, body_html: rendered.html },
+            data: { ...raw, body_md: cleaned, body_html: asciiHeadingIds(rendered.html) },
             filePath,
           });
           store.set({ id, data, filePath: posixRelative(fileURLToPath(config.root), filePath) });
