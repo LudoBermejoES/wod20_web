@@ -3909,29 +3909,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: spheres",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-como-haces-eso-es"
-          ],
-          "mechanics": {
-            "spheres": [
-              "Tiempo 5"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "spheres": "Tiempo 5"
-          }
-        }
-      ]
-    },
     "mechanics_html": {
       "notes": "Requiere haber establecido un <a href=\"/mage/sphere-effects/anchor-point\">Punto de Anclaje</a> para regresar. Se aplican todas las reglas anteriores de perturbación temporal."
     }
@@ -4532,30 +4509,7 @@
         "section_anchor": "poderes-de-percepcion-y-psiquicos",
         "variant": "base"
       }
-    ],
-    "review": {
-      "reason": "mechanics differ across sources: spheres",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-como-haces-eso-es"
-          ],
-          "mechanics": {
-            "spheres": [
-              "Mente 3 + Fuerzas 2 o superior"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "spheres": "Fuerzas 2+"
-          }
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "pyrokinesis",
@@ -6968,34 +6922,7 @@
         "section_anchor": "poderes-de-percepcion-y-psiquicos",
         "variant": "base"
       }
-    ],
-    "review": {
-      "reason": "mechanics differ across sources: spheres",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-como-haces-eso-es"
-          ],
-          "mechanics": {
-            "spheres": [
-              "Contacto físico (sin coste de Esfera adicional)",
-              "Mente 2 (personaje voluntario cercano)",
-              "Mente 2 / Correspondencia 2 (voluntario a mayor distancia)",
-              "Mente 3 (personaje involuntario)",
-              "Mente 3 / Correspondencia 3 (involuntario a mayor distancia)"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "spheres": "Mente 2 / [Esfera adecuada] 1"
-          }
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "projecting-images-and-impressions",
@@ -7118,31 +7045,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: spheres",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-como-haces-eso-es"
-          ],
-          "mechanics": {
-            "spheres": [
-              "Cardinal 1 (detectar el flujo de Quintaesencia, leer marcas, infundir el Patrón más allá del Avatar)",
-              "Cardinal 2 (canalizar Quintaesencia a Patrones existentes o nuevos)",
-              "Cardinal 3 o Utilidad Primordial 3 (usar más Quintaesencia que la puntuación de Avatar)"
-            ]
-          }
-        },
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "spheres": "Cardinal 3"
-          }
-        }
-      ]
-    },
     "mechanics_html": {
       "spheres": [
         "Cardinal • (detectar el flujo de Quintaesencia, leer marcas, infundir el <a href=\"/mage/backgrounds/patron\">Patrón</a> más allá del Avatar)",
@@ -7277,39 +7179,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: note",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-como-haces-eso-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "note": "En este pasaje el Jhor sólo se menciona brevemente como excepción histórica al carácter opcional de la Resonancia; no se da valor numérico de Rasgo aquí. Las reglas completas se remiten a Cap. Dos (pág. 57-58), Cap. Seis (pág. 333) y Cap. Diez (pág. 503, 560-561)."
-          }
-        },
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "note": "Mención narrativa: el texto la nombra y tipifica como «la Resonancia de Muerte» pero no ofrece valor mecánico (sin puntuación en puntos ni dificultad) en esta seccion."
-          }
-        }
-      ]
-    },
     "mechanics_html": {
       "tipo": "<a href=\"/mage/resonances/elemental-resonance\">Resonancia Elemental</a>",
       "notas": "Aspecto emparejado con el Morbo (<a href=\"/mage/hedge-paths/fascinacion\">fascinación</a> del Silencio, Mago 20 pág. 558); un mago que emplea <a href=\"/mage/sphere-effects/necrosynthesis\">necrosíntesis</a> recibe automáticamente 1 punto en Jhor (o <a href=\"/mage/resonances/entropic-synergy\">Sinergia Entrópica</a>)",
@@ -7348,28 +7217,7 @@
         "section_anchor": "quintaesencia",
         "variant": "base"
       }
-    ],
-    "review": {
-      "reason": "mechanics differ across sources: spheres",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-como-haces-eso-es"
-          ],
-          "mechanics": {
-            "spheres": "Cardinal 3"
-          }
-        },
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "spheres": "Cardinal 2; o Correspondencia 2 / Cardinal 2 (valor de Avatar para usarlo de forma refleja)"
-          }
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "access-quintessence-tass-periapt",
@@ -8445,28 +8293,7 @@
         "section_anchor": "tiempo-y-distancia",
         "variant": "base"
       }
-    ],
-    "review": {
-      "reason": "mechanics differ across sources: spheres",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-como-haces-eso-es"
-          ],
-          "mechanics": {
-            "spheres": "Correspondencia 3 (caminar entre localizaciones)"
-          }
-        },
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "spheres": "Correspondencia 3 (4)"
-          }
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "the-blink",
@@ -11197,28 +11024,7 @@
         "variant": "base",
         "book_title_es": "M20 Core Rulebook (ES)"
       }
-    ],
-    "review": {
-      "reason": "mechanics differ across sources: spheres",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "spheres": "Espíritu 3 (para caminar de lado); Espíritu 4 (para abrir una entrada en la Celosía o llevar a otra persona)"
-          }
-        },
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "spheres": "Espíritu 3"
-          }
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "astral-sojourn",
@@ -15156,33 +14962,7 @@
         "page": null,
         "section_anchor": "supervisor-elizabeth-betsy-horne"
       }
-    ],
-    "review": {
-      "reason": "mechanics differ across sources: spheres",
-      "conflicts": [
-        {
-          "sources": [
-            "m20-core-rulebook-es"
-          ],
-          "mechanics": {
-            "spheres": "Cardinal 5"
-          }
-        },
-        {
-          "sources": [
-            "m20-the-operative-dossier"
-          ],
-          "mechanics": {
-            "spheres": [
-              {
-                "sphere": "Utilidad Primordial",
-                "rating": 5
-              }
-            ]
-          }
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "share-exchange-quintessence",

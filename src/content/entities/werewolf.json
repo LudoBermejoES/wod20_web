@@ -2214,7 +2214,15 @@
       "breed_auspice": [
         "Ragabash"
       ],
-      "system_es": "El jugador tira Gnosis (dificultad igual a la puntuación de Celosía local). Si el objeto está sellado mágicamente, el jugador debe gastar un punto de Gnosis antes de hacer el intento."
+      "system_es": "El jugador tira Gnosis (dificultad igual a la puntuación de Celosía local). Si el objeto está sellado mágicamente, el jugador debe gastar un punto de Gnosis antes de hacer el intento.",
+      "breed": [
+        "Ajaba",
+        "Ananasi"
+      ],
+      "category": [
+        "Mirmidón",
+        "Ocaso"
+      ]
     },
     "sources": [
       {
@@ -2231,33 +2239,10 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: breed, category",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "breed": "Ajaba",
-            "category": "Ocaso"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "breed": "Ananasi",
-            "category": "Mirmidón"
-          }
-        }
+    "mechanics_html": {
+      "breed": [
+        "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>",
+        "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
       ]
     }
   },
@@ -3036,7 +3021,15 @@
       "breed_auspice": [
         "Theurge"
       ],
-      "system_es": "El jugador gasta un punto de Gnosis y tira Inteligencia + Empatía (la dificultad es el nivel de Rabia actual del objetivo o 5 para quienes no poseen Rabia). Cada éxito cura un nivel de daño letal, contundente o agravado. El sanador puede incluso curar Cicatrices de Batalla (ver pág. 260) de esta forma si el Don se aplica durante la misma escena en la que se recibe la Cicatriz y se gasta un punto adicional de Gnosis."
+      "system_es": "El jugador gasta un punto de Gnosis y tira Inteligencia + Empatía (la dificultad es el nivel de Rabia actual del objetivo o 5 para quienes no poseen Rabia). Cada éxito cura un nivel de daño letal, contundente o agravado. El sanador puede incluso curar Cicatrices de Batalla (ver pág. 260) de esta forma si el Don se aplica durante la misma escena en la que se recibe la Cicatriz y se gasta un punto adicional de Gnosis.",
+      "breed": [
+        "Ajaba",
+        "Ananasi"
+      ],
+      "category": [
+        "Kumoti",
+        "Medianoche"
+      ]
     },
     "sources": [
       {
@@ -3054,37 +3047,12 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: breed, category",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "breed": "Ajaba",
-            "category": "Medianoche"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "breed": "Ananasi",
-            "category": "Kumoti"
-          }
-        }
-      ]
-    },
     "mechanics_html": {
-      "system_es": "El jugador gasta un punto de Gnosis y tira Inteligencia + <a href=\"/werewolf/gifts/empathy\">Empatía</a> (la dificultad es el nivel de Rabia actual del objetivo o 5 para quienes no poseen Rabia). Cada éxito cura un nivel de daño letal, contundente o agravado. El sanador puede incluso curar Cicatrices de Batalla (ver pág. 260) de esta forma si el Don se aplica durante la misma escena en la que se recibe la Cicatriz y se gasta un punto adicional de Gnosis."
+      "system_es": "El jugador gasta un punto de Gnosis y tira Inteligencia + <a href=\"/werewolf/gifts/empathy\">Empatía</a> (la dificultad es el nivel de Rabia actual del objetivo o 5 para quienes no poseen Rabia). Cada éxito cura un nivel de daño letal, contundente o agravado. El sanador puede incluso curar Cicatrices de Batalla (ver pág. 260) de esta forma si el Don se aplica durante la misma escena en la que se recibe la Cicatriz y se gasta un punto adicional de Gnosis.",
+      "breed": [
+        "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>",
+        "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+      ]
     }
   },
   {
@@ -3387,7 +3355,15 @@
       "breed_auspice": [
         "Theurge"
       ],
-      "system_es": "Si la Gnosis permanente del Garou iguala o excede la Celosía local, puede ver en la Umbra de manera automática. Si no, el jugador debe tirar Gnosis para ver a través de la Celosía (la dificultad es el valor de Celosía). Este tipo de consciencia dura el resto de la escena o hasta que el personaje entre en un área con una Celosía más fuerte."
+      "system_es": "Si la Gnosis permanente del Garou iguala o excede la Celosía local, puede ver en la Umbra de manera automática. Si no, el jugador debe tirar Gnosis para ver a través de la Celosía (la dificultad es el valor de Celosía). Este tipo de consciencia dura el resto de la escena o hasta que el personaje entre en un área con una Celosía más fuerte.",
+      "breed": [
+        "Ajaba",
+        "Ananasi"
+      ],
+      "category": [
+        "Hatar",
+        "Ocaso"
+      ]
     },
     "sources": [
       {
@@ -3405,33 +3381,10 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: breed, category",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "breed": "Ajaba",
-            "category": "Ocaso"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "breed": "Ananasi",
-            "category": "Hatar"
-          }
-        }
+    "mechanics_html": {
+      "breed": [
+        "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>",
+        "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
       ]
     }
   },
@@ -3752,6 +3705,10 @@
       ],
       "auspices_tribes": [
         "Philodox"
+      ],
+      "raza": [
+        "Apis",
+        "Camazotz"
       ]
     },
     "sources": [
@@ -3768,58 +3725,7 @@
         "page": null,
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "mechanics differ across sources: raza",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "raza": "Apis"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "raza": "Camazotz"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {}
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "resist-pain-wendigo",
@@ -3845,7 +3751,15 @@
       "type_label": "Don",
       "rank": "Nivel uno",
       "tribu": "Wendigo",
-      "cross_reference": "Como el Don Philodox"
+      "cross_reference": "Como el Don Philodox",
+      "breed": [
+        "Ajaba",
+        "Ananasi"
+      ],
+      "category": [
+        "Alba",
+        "general"
+      ]
     },
     "sources": [
       {
@@ -3863,37 +3777,12 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: breed, category",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "breed": "Ajaba",
-            "category": "Alba"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "breed": "Ananasi",
-            "category": "general"
-          }
-        }
-      ]
-    },
     "mechanics_html": {
-      "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>"
+      "tribu": "<a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>",
+      "breed": [
+        "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>",
+        "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+      ]
     }
   },
   {
@@ -4464,8 +4353,14 @@
         "Nivel dos",
         "Nivel uno"
       ],
-      "breed": "Ajaba",
-      "category": "Medianoche"
+      "breed": [
+        "Ajaba",
+        "Ananasi"
+      ],
+      "category": [
+        "Medianoche",
+        "Viskr"
+      ]
     },
     "sources": [
       {
@@ -4482,31 +4377,11 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: breed, category",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "breed": "Ajaba",
-            "category": "Medianoche"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "breed": "Ananasi",
-            "category": "Viskr"
-          }
-        }
-      ]
-    },
     "mechanics_html": {
-      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+      "breed": [
+        "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>",
+        "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+      ]
     }
   },
   {
@@ -8913,7 +8788,11 @@
       "Grondr"
     ],
     "mechanics": {
-      "rank": "Nivel uno"
+      "rank": "Nivel uno",
+      "raza": [
+        "Apis",
+        "Grondr"
+      ]
     },
     "sources": [
       {
@@ -8928,40 +8807,7 @@
         "page": null,
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "mechanics differ across sources: raza",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "raza": "Apis"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "raza": "Grondr"
-          }
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "unicorn-s-arsenal",
@@ -10238,7 +10084,10 @@
     ],
     "mechanics": {
       "rank": "Nivel cinco",
-      "breed": "Ajaba",
+      "breed": [
+        "Ajaba",
+        "Ananasi"
+      ],
       "category": "general"
     },
     "sources": [
@@ -10256,29 +10105,11 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: breed",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "breed": "Ajaba"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "breed": "Ananasi"
-          }
-        }
-      ]
-    },
     "mechanics_html": {
-      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+      "breed": [
+        "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>",
+        "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+      ]
     }
   },
   {
@@ -10927,7 +10758,10 @@
     "mechanics": {
       "type_label": "Don",
       "rank": "Nivel cuatro",
-      "tribu": "Señores de la Sombra",
+      "tribu": [
+        "Señores de la Sombra",
+        "Uktena"
+      ],
       "cost": "un punto de Gnosis (reflejo)",
       "spirit_teacher": "espíritu araña"
     },
@@ -10944,24 +10778,12 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources: tribu",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "tribu": "Señores de la Sombra"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "tribu": "Uktena"
-          }
-        }
+      "reason": "Encabezado de la sección de Dones de los Señores de la Sombra ausente en el fragmento; se usó el ## más cercano ('DONES DE LOS HAKKEN')."
+    },
+    "mechanics_html": {
+      "tribu": [
+        "Señores de la Sombra",
+        "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
       ]
     }
   },
@@ -13024,39 +12846,6 @@
         "variant": "base"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: requisito",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "requisito": "capturar y desollar a cinco hombres lobo bajo la misma fase lunar; ceremonia final dura exactamente una hora"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-1-59pp"
-          ],
-          "mechanics": {
-            "requisito": "El aspirante a Danzante de la Piel debe obtener todas las pieles que necesite bajo la misma fase lunar"
-          }
-        }
-      ]
-    },
     "mechanics_html": {
       "effect_es": "Rito diseñado para que la <a href=\"/werewolf/backgrounds/kinfolk\">Parentela</a> se convirtiese en hombre lobo."
     }
@@ -15603,33 +15392,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: ban",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "ban": "Los hijos de Cuervo no pueden portar riquezas, han de confiar en que su Tótem proveerá."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "ban": "Cada secreto que aprendan deben susurrarlo al aire para que Cuervo también pueda oírlo."
-          }
-        }
-      ]
-    },
     "mechanics_html": {
       "pack_traits": "Las manadas de Cuervo tienen tres puntos de <a href=\"/werewolf/gifts/survival\">Supervivencia</a>, uno de Subterfugio y uno de Enigmas. Los hombres cuervo tienen una buena disposición hacia los seguidores del <a href=\"/werewolf/backgrounds/totem\">Tótem</a>.",
       "ban": "Los hijos de Cuervo no pueden portar riquezas, han de confiar en que su <a href=\"/werewolf/backgrounds/totem\">Tótem</a> proveerá."
@@ -15866,29 +15628,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 2 (127pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: prohibicion, rasgos_de_manada",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "prohibicion": "Los hijos de Zorro nunca pueden participar en una caza de zorros y deben sabotear cualquier cacería que encuentren.",
-            "rasgos_de_manada": "Las manadas de Zorro pueden usar dos puntos de Sigilo, dos de Callejeo y tres de Subterfugio."
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-2-127pp"
-          ],
-          "mechanics": {
-            "prohibicion": "Los clanes deben conceder santuario a los zorros salvajes, permitiendo que corran libres por el boun.",
-            "rasgos_de_manada": "Zorro puede repartir 2 puntos de Sigilo, Callejeo y Subterfugio entre las manadas de sus clanes."
-          }
-        }
-      ]
-    },
     "mechanics_html": {
       "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de astucia",
       "alcance": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de clan"
@@ -39141,7 +38880,10 @@
         "Nivel dos"
       ],
       "breed": "Ananasi",
-      "category": "general"
+      "category": [
+        "Mirmidón",
+        "general"
+      ]
     },
     "sources": [
       {
@@ -39151,27 +38893,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: category",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "category": "general"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "category": "Mirmidón"
-          }
-        }
-      ]
-    },
     "mechanics_html": {
       "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
     }
