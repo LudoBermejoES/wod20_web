@@ -22,29 +22,53 @@ function slugifyHeading(s: string): string {
     .replace(/^-+|-+$/g, '');
 }
 
+// Structural divider titles ("Libro III", "Capítulo Diez", "Parte IV: …", "Paso Dos")
+// are generic and recur as anchors across pages, so their #fragment matches are
+// unreliable — accept only a clean page-level match for them.
+const DIVIDER = /^\s*(libro|parte|acto|fase|paso|cap[ií]tulo)\b/i;
+
 // Resolve a hit to the best guide URL:
-//  1) the chunk's OWN sub-headings → the exact passage (page + in-page anchor);
-//  2) else the block/chapter, but ONLY a clean page-level match (no #fragment), so a
-//     generic divider title (e.g. "LIBRO III") can't mis-match an anchor on another page;
+//  1) the chunk's OWN `guide_slug` → the EXACT reading page. Each chunk carries the
+//     slug of the guide page that renders its recover()-block (1:1; set in chunk.py to
+//     match generate_guide's `_slug_unique`), so this is a direct, non-heuristic hit —
+//     e.g. the "Necromancia" block resolves to page `una-cuestion-de-derecho`, whose
+//     own title differs from the block title and so was unreachable by title-matching.
+//     Refine to an in-page #anchor only when a chunk sub-heading is a TOC anchor of
+//     that same page.
+//  2) fallback (guide_slug missing/unresolved — e.g. flat-fallback books): sub-headings,
+//     then part/chapter/block, rejecting #fragment matches from structural dividers.
 //  3) else the book's guide index.
 function resolveHref(
   idx: Map<string, GuideTarget>,
   line: string,
   bookId: string,
   text: string,
+  guideSlug: string,
   blockTitle: string,
-  chapter: string
+  chapter: string,
+  part: string
 ): string | undefined {
   if (!line || !bookId) return undefined;
   const headings = [...text.matchAll(/^#{1,6}\s+(.+)$/gm)].map((m) => m[1].trim());
+
+  const pageHref = guideSlug ? resolveGuideHref(idx, line, bookId, guideSlug) : undefined;
+  if (pageHref) {
+    const page = pageHref.split('#')[0];
+    for (const h of headings) {
+      const r = resolveGuideHref(idx, line, bookId, slugifyHeading(h));
+      if (r && r.includes('#') && r.split('#')[0] === page) return r; // same-page anchor
+    }
+    return pageHref; // exact page
+  }
+
   for (const h of headings) {
     const r = resolveGuideHref(idx, line, bookId, slugifyHeading(h));
     if (r) return r; // precise passage
   }
-  for (const s of [blockTitle, chapter]) {
+  for (const s of [part, chapter, blockTitle]) {
     if (!s) continue;
     const r = resolveGuideHref(idx, line, bookId, slugifyHeading(s));
-    if (r && !r.includes('#')) return r; // block's own page, never a stray anchor
+    if (r && (!r.includes('#') || !DIVIDER.test(s))) return r;
   }
   return `/${line}/guia/${bookId}`;
 }
@@ -125,7 +149,9 @@ export const GET: APIRoute = async ({ url }) => {
       const text = (r.text as string) ?? '';
       const blockTitle = (r.block_title as string) || '';
       const chapter = (r.chapter as string) || '';
-      const href = resolveHref(idx, line, bookId, text, blockTitle, chapter);
+      const part = (r.part as string) || '';
+      const guideSlug = (r.guide_slug as string) || '';
+      const href = resolveHref(idx, line, bookId, text, guideSlug, blockTitle, chapter, part);
       return {
         text,
         book_id: bookId,
