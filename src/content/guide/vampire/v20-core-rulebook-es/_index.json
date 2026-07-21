@@ -3,7 +3,7 @@
   "line": "vampire",
   "title_es": "Vampiro: La Mascarada — Libro Básico 20.º Aniversario",
   "book_title_es": "Vampiro: La Mascarada — Libro Básico 20.º Aniversario",
-  "page_count": 124,
+  "page_count": 123,
   "tree": [
     {
       "block": "front-matter",
@@ -65,8 +65,8 @@
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-uno-un-mundo-de-tinieblas-y-todo-lo-demas",
-              "title": "Y todo lo demás",
+              "slug": "capitulo-uno-un-mundo-de-tinieblas-lexicon",
+              "title": "Lexicón",
               "part": null,
               "content_type": "lore"
             }
@@ -82,8 +82,8 @@
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-dos-sectas-y-clanes-rituales",
-              "title": "Rituales",
+              "slug": "capitulo-dos-sectas-y-clanes-la-vision-desde-el-exterior",
+              "title": "La visión desde el exterior",
               "part": null,
               "content_type": "lore"
             },
@@ -380,8 +380,8 @@
               "content_type": "rule"
             },
             {
-              "slug": "taumaturgia-comunicacion-con-el-sire-del-vastago",
-              "title": "Comunicación con el Sire del Vástago",
+              "slug": "taumaturgia-despertar-con-la-frescura-de-la-tarde",
+              "title": "Despertar con la Frescura de la Tarde",
               "part": null,
               "content_type": "rule"
             },
@@ -426,44 +426,44 @@
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-seis-sistemas-y-drama-tareas-mentales",
-              "title": "Tareas mentales",
+              "slug": "capitulo-seis-sistemas-y-drama-tareas-sociales",
+              "title": "Tareas sociales",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-seis-sistemas-y-drama-usar-la-reserva-de-sangre",
-              "title": "Usar la reserva de Sangre",
+              "slug": "capitulo-seis-sistemas-y-drama-sistemas-de-combate",
+              "title": "Sistemas de combate",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-seis-sistemas-y-drama-maniobras-generales",
-              "title": "Maniobras generales",
+              "slug": "capitulo-seis-sistemas-y-drama-maniobras-de-combate-a-distancia",
+              "title": "Maniobras de combate a distancia",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-seis-sistemas-y-drama-tabla-de-armas-de-combate-cuerpo-a-cuerpo",
-              "title": "Tabla de armas de combate cuerpo a cuerpo",
+              "slug": "capitulo-seis-sistemas-y-drama-dano-agravado",
+              "title": "Daño agravado",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-seis-sistemas-y-drama-diablerie",
-              "title": "Diablerie",
+              "slug": "capitulo-seis-sistemas-y-drama-sistemas",
+              "title": "Sistemas",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-seis-sistemas-y-drama-fuego-y-quemaduras",
-              "title": "Fuego y quemaduras",
+              "slug": "capitulo-seis-sistemas-y-drama-bulimia",
+              "title": "Bulimia",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-seis-sistemas-y-drama-paranoia",
-              "title": "Paranoia",
+              "slug": "capitulo-seis-sistemas-y-drama-puntuaciones-de-vinculum",
+              "title": "Puntuaciones de Vinculum",
               "part": null,
               "content_type": "rule"
             }
@@ -479,32 +479,26 @@
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-siete-moralidad-crear-un-seguidor-de-senda",
-              "title": "Crear un seguidor de Senda",
+              "slug": "capitulo-siete-moralidad-cambiar-de-humanidad-a-una-senda",
+              "title": "Cambiar de Humanidad a una Senda",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-siete-moralidad-senda-de-los-cataros",
-              "title": "Senda de los Cátaros",
+              "slug": "capitulo-siete-moralidad-historia",
+              "title": "Historia",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-siete-moralidad-seguir-la-senda",
-              "title": "Seguir la Senda",
-              "part": null,
+              "slug": "capitulo-siete-moralidad-practicas-actuales",
+              "title": "Capítulo Siete: Moralidad: Prácticas actuales",
+              "part": "Capítulo Siete: Moralidad",
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-siete-moralidad-descripcion-de-los-seguidores",
-              "title": "Descripción de los seguidores",
-              "part": null,
-              "content_type": "rule"
-            },
-            {
-              "slug": "capitulo-siete-moralidad-descripcion-de-los-seguidores-2",
-              "title": "Descripción de los seguidores",
+              "slug": "capitulo-siete-moralidad-etica-de-la-senda",
+              "title": "Ética de la Senda",
               "part": null,
               "content_type": "rule"
             }
@@ -567,8 +561,8 @@
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-nueve-los-otros-bestiario",
-              "title": "Bestiario",
+              "slug": "capitulo-nueve-los-otros-arana",
+              "title": "Araña",
               "part": null,
               "content_type": "lore"
             }
@@ -805,14 +799,14 @@
               "content_type": "reference"
             },
             {
-              "slug": "meritos-y-defectos-compasivo-defecto-de-1-punto",
-              "title": "Méritos y Defectos: Compasivo (Defecto de 1 punto)",
+              "slug": "meritos-y-defectos-esceptico-defecto-de-1-punto",
+              "title": "Méritos y Defectos: Escéptico (Defecto de 1 punto)",
               "part": "Méritos y Defectos",
               "content_type": "reference"
             },
             {
-              "slug": "meritos-y-defectos-peon-defecto-de-2-puntos",
-              "title": "Peón (Defecto de 2 puntos)",
+              "slug": "meritos-y-defectos-sires-rivales-defecto-de-2-puntos",
+              "title": "Sires Rivales (Defecto de 2 puntos)",
               "part": null,
               "content_type": "reference"
             },

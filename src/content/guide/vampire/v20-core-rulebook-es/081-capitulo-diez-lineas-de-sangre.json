@@ -1,0 +1,32 @@
+{
+  "book_id": "v20-core-rulebook-es",
+  "line": "vampire",
+  "order": 81,
+  "slug": "capitulo-diez-lineas-de-sangre",
+  "block": "libro-tercero-las-permutaciones",
+  "block_title": "LIBRO TERCERO: LAS PERMUTACIONES",
+  "chapter": "Capítulo Diez: Líneas de Sangre",
+  "part": null,
+  "section": null,
+  "title": "Capítulo Diez: Líneas de Sangre",
+  "content_type": "lore",
+  "source_line_range": [
+    12423,
+    12440
+  ],
+  "body_md": "«De ellos aprendí a separar, de la sangre la oscuridad, de la carne las heridas, del mundo la maldad. Y aunque puedo morir, vosotros, mis Chiquillos, seguiréis estando vivos.»\n\n- El Libro de Nod\n\nEn los años transcurridos desde la [aparición](/vampire/discipline-powers/aparicion) de Vampiro , los siete Clanes crecieron a trece, con un número impresionante de antiguos Clanes, sub-Clanes y Líneas de Sangre añadidos. Este capítulo incluye descripciones de muchas de estas Líneas de Sangre, para que los antiguos fans puedan disfrutar jugar de nuevo con ellas, y los nuevos jugadores se den cuenta de lo diverso que es realmente Vampiro .\n\n## Jugando con Líneas de Sangre\n\nLas Líneas de Sangre descritas en este capítulo son raras o, en algunos casos, están completamente extintas en las noches actuales. ¿Significa esto que no es viable que los jugadores interpreten tales personajes? Para nada. Jugar al último superviviente de, por ejemplo, los [Tremere](/vampire/clans/tremere) Telyavos es una oportunidad para un gran dramatismo. Sencillamente requiere que el jugador y el Narrador estén listos para los tipos de situaciones que ello puede crear.\n\nSe puede argumentar que un jugador que crea un personaje así tan sólo está tratando de ser 'más único' que otros vampiros. Es posible pero, ¿y qué? Si el objetivo es contar una historia interesante, centrarse en personajes que son, por definición, más interesantes que cualquier otro (es decir, tus personajes); entonces, ¿por qué no crear algo que no existe en ninguna otra parte? Si te atrae interpretar a un Hermano de Sangre que de algún modo ha roto los lazos de su círculo y ha logrado ser autónomo, entonces adelante (si tienes la aprobación del Narrador). Sólo sé consciente de que con eso envías un mensaje acerca del Mundo de Tinieblas que no haces al jugar con un pintor [Toreador](/vampire/clans/toreador), aunque tal vez no sea algo malo.\n\n## La historia y los vampiros\n\nAunque los Neonatos actuales saben bien poco acerca de cómo sus Antiguos sobrevivieron durante los siglos pasados, algunos vampiros todavía activos se acuerdan de los Capadocios, las Lamias y otras Líneas de Sangre similares. Así, es apropiado señalar que tanto la Camarilla como el Sabbat fueron creados después de la caída de algunos Clanes.\n\nHasta mediados del siglo xv , más o menos, la sociedad vampírica dividía a los Clanes en dos grupos: los Altos Clanes y los Bajos Clanes. Los Altos Clanes eran los [Brujah](/vampire/clans/brujah), Capadocios, [Lasombra](/vampire/clans/lasombra), [Toreador](/vampire/clans/toreador), [Tzimisce](/vampire/clans/tzimisce) y [Ventrue](/vampire/clans/ventrue). Los Bajos Clanes eran los Assamitas, Seguidores de Set, [Gangrel](/vampire/clans/gangrel), [Malkavian](/vampire/clans/malkavian), [Nosferatu](/vampire/clans/nosferatu), [Ravnos](/vampire/clans/ravnos) y [Tremere](/vampire/clans/tremere) (considerados usurpadores por lo que les hicieron a los [Salubri](/vampire/clans/salubri)). Los estereotipos y citas pertenecientes a las Líneas de Sangre que no sobrevivieron a la Edad Oscura, o lo hicieron por poco tiempo (los Anda, Capadocios, Lamia, Lhiannan y Noiad), se corresponden con esta clasificación, en lugar de con la división entre la Camarilla y el Sabbat.",
+  "toc": [
+    {
+      "text": "La historia y los vampiros",
+      "anchor": "la-historia-y-los-vampiros"
+    }
+  ],
+  "prev": {
+    "slug": "capitulo-nueve-los-otros-arana",
+    "title": "Capítulo Nueve: Los Otros: Araña"
+  },
+  "next": {
+    "slug": "baali",
+    "title": "Baali"
+  }
+}

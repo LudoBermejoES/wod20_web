@@ -3,7 +3,7 @@
   "line": "changeling",
   "title_es": "Changeling: El Ensueño — Manual Básico",
   "book_title_es": "Changeling: El Ensueño — Manual Básico",
-  "page_count": 55,
+  "page_count": 53,
   "tree": [
     {
       "block": "front-matter",
@@ -66,12 +66,6 @@
             {
               "slug": "prologo-el-joven-caballero",
               "title": "Prólogo: El Joven Caballero",
-              "part": "Prólogo: El Joven Caballero",
-              "content_type": "fiction"
-            },
-            {
-              "slug": "prologo-el-joven-caballero-continuacion",
-              "title": "(continuación)",
               "part": null,
               "content_type": "fiction"
             }
@@ -239,26 +233,26 @@
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cuatro-creacion-de-personajes-titulo",
-              "title": "Título",
+              "slug": "capitulo-cuatro-creacion-de-personajes-temples",
+              "title": "Temples",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cuatro-creacion-de-personajes-intolerancia-defecto-de-1-punto",
-              "title": "Capítulo Cuatro: Creación de Personajes: Intolerancia: (Defecto de 1 punto)",
+              "slug": "capitulo-cuatro-creacion-de-personajes-secreto-siniestro-defecto-de-1-punto",
+              "title": "Capítulo Cuatro: Creación de Personajes: Secreto Siniestro: (Defecto de 1 punto)",
               "part": "Capítulo Cuatro: Creación de Personajes",
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cuatro-creacion-de-personajes-corazon-de-poeta-merito-de-3-puntos",
-              "title": "Capítulo Cuatro: Creación de Personajes: Corazón de Poeta: (Mérito de 3 puntos)",
+              "slug": "capitulo-cuatro-creacion-de-personajes-arte-afin-merito-de-5-puntos",
+              "title": "Capítulo Cuatro: Creación de Personajes: Arte Afín: (Mérito de 5 puntos)",
               "part": "Capítulo Cuatro: Creación de Personajes",
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cuatro-creacion-de-personajes-mentor-infame-defecto-de-1-punto",
-              "title": "Mentor Infame: (Defecto de 1 punto)",
+              "slug": "capitulo-cuatro-creacion-de-personajes-lazos-con-el-mercado-negro-merito-de-1-5-puntos",
+              "title": "Lazos con el Mercado Negro: (Mérito de 1-5 puntos)",
               "part": null,
               "content_type": "rule"
             }
@@ -274,20 +268,20 @@
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cinco-artes-y-reinos-perdida-de-memoria",
-              "title": "Pérdida de Memoria",
+              "slug": "capitulo-cinco-artes-y-reinos-duracion",
+              "title": "Duración",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cinco-artes-y-reinos-escudo-de-roble",
-              "title": "Escudo de Roble",
+              "slug": "capitulo-cinco-artes-y-reinos-balsamo-de-brezo-o-golpe-de-acebo",
+              "title": "Bálsamo de Brezo (o Golpe de Acebo)",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cinco-artes-y-reinos-reinos",
-              "title": "Reinos",
+              "slug": "capitulo-cinco-artes-y-reinos-actor",
+              "title": "Actor",
               "part": null,
               "content_type": "rule"
             }
@@ -303,8 +297,8 @@
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-seis-reglas-basicas-dificultades-y-exitos",
-              "title": "Dificultades y éxitos",
+              "slug": "capitulo-seis-reglas-basicas-dificultades",
+              "title": "Dificultades",
               "part": null,
               "content_type": "rule"
             }
@@ -332,26 +326,26 @@
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-siete-sistemas-de-glamour-z-juramento-de-aceptacion-de-la-carga",
-              "title": "z Juramento de Aceptación de la Carga",
+              "slug": "capitulo-siete-sistemas-de-glamour-z-juramento-de-los-corazones-sinceros",
+              "title": "z Juramento de los Corazones Sinceros",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-siete-sistemas-de-glamour-barcia",
-              "title": "Barcia",
+              "slug": "capitulo-siete-sistemas-de-glamour-tipos-de-barcia",
+              "title": "Tipos de Barcia",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-siete-sistemas-de-glamour-quimeras-no-sintientes",
-              "title": "Quimeras no sintientes",
+              "slug": "capitulo-siete-sistemas-de-glamour-habilidades",
+              "title": "Habilidades",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-siete-sistemas-de-glamour-feudos",
-              "title": "Feudos",
+              "slug": "capitulo-siete-sistemas-de-glamour-naturaleza-onirica",
+              "title": "Naturaleza Onírica",
               "part": null,
               "content_type": "rule"
             }
@@ -374,14 +368,8 @@
             },
             {
               "slug": "capitulo-ocho-sistemas-dramaticos-escudos",
-              "title": "Escudos",
-              "part": null,
-              "content_type": "rule"
-            },
-            {
-              "slug": "capitulo-ocho-sistemas-dramaticos-fuego",
-              "title": "Fuego",
-              "part": null,
+              "title": "Capítulo Ocho: Sistemas Dramáticos: Escudos",
+              "part": "Capítulo Ocho: Sistemas Dramáticos",
               "content_type": "rule"
             },
             {
@@ -408,8 +396,8 @@
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-nueve-narracion-z-sucesos-misteriosos",
-              "title": "z Sucesos misteriosos",
+              "slug": "capitulo-nueve-narracion-z-convocado-a-la-corte",
+              "title": "z Convocado a la corte",
               "part": null,
               "content_type": "lore"
             }

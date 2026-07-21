@@ -3,7 +3,7 @@
   "line": "mage",
   "title_es": "Mago: Dioses y Monstruos",
   "book_title_es": "Mago: Dioses y Monstruos",
-  "page_count": 47,
+  "page_count": 46,
   "tree": [
     {
       "block": "preliminares",
@@ -318,15 +318,9 @@
               "content_type": "rule"
             },
             {
-              "slug": "meritos-defectos-y-ventajas-especiales-needleteeth-3-puntos",
-              "title": "Needleteeth (3 puntos)",
-              "part": null,
-              "content_type": "rule"
-            },
-            {
-              "slug": "meritos-defectos-y-ventajas-especiales-unaging-5-puntos",
-              "title": "Unaging (5 puntos)",
-              "part": null,
+              "slug": "meritos-defectos-y-ventajas-especiales-nightsight-3-puntos",
+              "title": "Méritos, Defectos y Ventajas Especiales: Nightsight (3 puntos)",
+              "part": "Méritos, Defectos y Ventajas Especiales",
               "content_type": "rule"
             },
             {

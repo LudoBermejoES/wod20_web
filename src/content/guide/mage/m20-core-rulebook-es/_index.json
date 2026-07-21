@@ -3,7 +3,7 @@
   "line": "mage",
   "title_es": "Mago: La Ascensión — Libro Básico 20.º Aniversario",
   "book_title_es": "Mago: La Ascensión — Libro Básico 20.º Aniversario",
-  "page_count": 144,
+  "page_count": 137,
   "tree": [
     {
       "block": "front-matter",
@@ -105,14 +105,14 @@
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-dos-magia-el-arte-de-la-realidad-las-esferas-misticas",
-              "title": "Las Esferas místicas",
+              "slug": "capitulo-dos-magia-el-arte-de-la-realidad-las-esferas-tecnocraticas",
+              "title": "Las Esferas Tecnocráticas",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-dos-magia-el-arte-de-la-realidad-fuerzas-los-principios-del-poder-elemental",
-              "title": "Fuerzas: Los principios del poder elemental",
+              "slug": "capitulo-dos-magia-el-arte-de-la-realidad-materia-dominio-de-las-sustancias-inertes",
+              "title": "Materia: Dominio de las sustancias inertes",
               "part": null,
               "content_type": "rule"
             }
@@ -157,8 +157,8 @@
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cuatro-los-mundos-mas-alla-la-tempestad",
-              "title": "La Tempestad",
+              "slug": "capitulo-cuatro-los-mundos-mas-alla-misterios-oscuros",
+              "title": "Misterios oscuros",
               "part": null,
               "content_type": "rule"
             },
@@ -210,8 +210,8 @@
               "content_type": "rule"
             },
             {
-              "slug": "parte-i-una-historia-de-los-despertados-el-crisol",
-              "title": "El crisol",
+              "slug": "parte-i-una-historia-de-los-despertados-sonar-cosas-imposibles",
+              "title": "Soñar cosas imposibles",
               "part": null,
               "content_type": "rule"
             },
@@ -240,8 +240,8 @@
               "content_type": "rule"
             },
             {
-              "slug": "parte-ii-el-concilio-de-las-nueve-tradiciones-misticas-yo-no-manifiest-o-cambio-yo-me-convier-t-o-en-el-cambio",
-              "title": "Yo no 'manifiest o' cambio . Yo ME CONVIER T O en el Cambio .",
+              "slug": "parte-ii-el-concilio-de-las-nueve-tradiciones-misticas-estereotipos-2",
+              "title": "Estereotipos",
               "part": null,
               "content_type": "rule"
             },
@@ -377,8 +377,8 @@
               "content_type": "rule"
             },
             {
-              "slug": "parte-ii-rasgos-de-personajes-martir",
-              "title": "Mártir",
+              "slug": "parte-ii-rasgos-de-personajes-monstruo",
+              "title": "Monstruo",
               "part": null,
               "content_type": "rule"
             },
@@ -478,20 +478,20 @@
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-siete-contar-la-historia-la-palabra-con-d",
-              "title": "La palabra con 'D'",
+              "slug": "capitulo-siete-contar-la-historia-preparar-el-lugar",
+              "title": "Preparar el lugar",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-siete-contar-la-historia-morder-el-anzuelo",
-              "title": "Capítulo Siete: Contar la Historia: Morder el anzuelo",
+              "slug": "capitulo-siete-contar-la-historia-vinculos-que-atan",
+              "title": "Capítulo Siete: Contar la Historia: Vínculos que atan",
               "part": "Capítulo Siete: Contar la Historia",
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-siete-contar-la-historia-tacticas-el-medio-para-un-fin",
-              "title": "Tácticas: El medio para un fin",
+              "slug": "capitulo-siete-contar-la-historia-objetivos-encubiertos",
+              "title": "Objetivos encubiertos",
               "part": null,
               "content_type": "rule"
             },
@@ -584,50 +584,44 @@
               "content_type": "rule"
             },
             {
-              "slug": "parte-iv-combate-emboscada",
-              "title": "Emboscada",
+              "slug": "parte-iv-combate-espiritus-combatientes",
+              "title": "Espíritus combatientes",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "parte-iv-combate-dano-n-a-acciones-1",
-              "title": "Daño: N/A Acciones: 1",
+              "slug": "parte-iv-combate-truco-de-mago-el-punetazo-trueno",
+              "title": "Truco de mago: El puñetazo trueno",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "parte-iv-combate-do",
-              "title": "Do",
+              "slug": "parte-iv-combate-kuei-lung-chuan-kung-fu-del-espiritu-dragon",
+              "title": "Kuei Lung Chuan: Kung-fu del Espíritu Dragón",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "parte-iv-combate-core-war",
-              "title": "Core war",
+              "slug": "parte-iv-combate-el-desafio-de-la-realidad",
+              "title": "El desafío de la realidad",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "parte-iv-combate-explosiones",
-              "title": "Explosiones",
+              "slug": "parte-iv-combate-manejar-explosivos",
+              "title": "Manejar explosivos",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "parte-iv-combate-drogas-venenos-y-enfermedades",
-              "title": "Drogas, venenos y enfermedades",
+              "slug": "parte-iv-combate-puntuaciones-de-toxinas",
+              "title": "Puntuaciones de toxinas",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "parte-iv-combate-el-personaje-es",
-              "title": "El personaje es...",
-              "part": null,
-              "content_type": "rule"
-            },
-            {
-              "slug": "parte-iv-combate-armas-arrojadizas",
-              "title": "Armas arrojadizas",
+              "slug": "parte-iv-combate-maniobras-de-pelea-sucia-minimo-de-tres-puntos-en-pelea",
+              "title": "Maniobras de pelea sucia (mínimo de tres puntos en Pelea)",
               "part": null,
               "content_type": "rule"
             },
@@ -635,18 +629,6 @@
               "slug": "parte-v-el-mundo-tecnologico",
               "title": "Parte V: El mundo tecnológico",
               "part": "Parte V: El mundo tecnológico",
-              "content_type": "rule"
-            },
-            {
-              "slug": "parte-v-el-mundo-tecnologico-vehiculos-militares",
-              "title": "Vehículos militares",
-              "part": null,
-              "content_type": "rule"
-            },
-            {
-              "slug": "parte-v-el-mundo-tecnologico-inventar-modificar-y-mejorar-tecnologia",
-              "title": "Inventar, modificar y mejorar tecnología",
-              "part": null,
               "content_type": "rule"
             },
             {
@@ -715,38 +697,20 @@
               "content_type": "rule"
             },
             {
-              "slug": "parte-i-realizar-magia-paso-cuatro-resultado-que-sucede",
-              "title": "Parte I: Realizar Magia: Paso cuatro - resultado: ¿Qué sucede?",
-              "part": "Parte I: Realizar Magia",
-              "content_type": "rule"
-            },
-            {
-              "slug": "parte-i-realizar-magia-colores-y-texturas-del-aura",
-              "title": "Colores y texturas del aura",
-              "part": null,
-              "content_type": "rule"
-            },
-            {
               "slug": "parte-ii-las-esferas",
               "title": "Parte II: Las Esferas",
               "part": "Parte II: Las Esferas",
               "content_type": "rule"
             },
             {
-              "slug": "parte-ii-las-esferas-entropia",
-              "title": "Entropía",
+              "slug": "parte-ii-las-esferas-espiritu",
+              "title": "Espíritu",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "parte-ii-las-esferas-tiempo",
-              "title": "Tiempo",
-              "part": null,
-              "content_type": "rule"
-            },
-            {
-              "slug": "parte-ii-las-esferas-conexiones-de-datos",
-              "title": "Conexiones de Datos",
+              "slug": "parte-ii-las-esferas-vida-la-forma-viviente",
+              "title": "Vida La forma viviente",
               "part": null,
               "content_type": "rule"
             },
@@ -793,8 +757,8 @@
               "content_type": "rule"
             },
             {
-              "slug": "parte-v-silencio-morbo",
-              "title": "Morbo",
+              "slug": "parte-v-silencio-efectos-del-morbo",
+              "title": "Efectos del Morbo",
               "part": null,
               "content_type": "rule"
             },
@@ -831,12 +795,6 @@
             {
               "slug": "practicas-magia-callejera",
               "title": "Magia callejera",
-              "part": null,
-              "content_type": "rule"
-            },
-            {
-              "slug": "practicas-yoga",
-              "title": "Yoga",
               "part": null,
               "content_type": "rule"
             },
@@ -947,8 +905,8 @@
               "content_type": "reference"
             },
             {
-              "slug": "meritos-defectos-y-trastornos-ecos-defecto-sobrenatural-de-1-a-5-puntos",
-              "title": "Ecos (Defecto sobrenatural de 1 a 5 puntos)",
+              "slug": "meritos-defectos-y-trastornos-enemigo-defecto-social-de-1-a-5-puntos",
+              "title": "Enemigo (Defecto social de 1 a 5 puntos)",
               "part": null,
               "content_type": "reference"
             },

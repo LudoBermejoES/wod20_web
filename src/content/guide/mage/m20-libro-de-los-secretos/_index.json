@@ -3,7 +3,7 @@
   "line": "mage",
   "title_es": "Mago: El Libro de los Secretos",
   "book_title_es": "Mago: El Libro de los Secretos",
-  "page_count": 72,
+  "page_count": 70,
   "tree": [
     {
       "block": "front-matter",
@@ -213,8 +213,8 @@
               "content_type": "rule"
             },
             {
-              "slug": "sistemas-de-combate-expandidos-bloquear",
-              "title": "Bloquear",
+              "slug": "sistemas-de-combate-expandidos-esquiva-de-locus",
+              "title": "Esquiva de locus",
               "part": null,
               "content_type": "rule"
             },
@@ -231,14 +231,8 @@
               "content_type": "rule"
             },
             {
-              "slug": "sistemas-informaticos-e-infotecnologia-computadoras-ternarias",
-              "title": "Computadoras ternarias",
-              "part": null,
-              "content_type": "rule"
-            },
-            {
-              "slug": "sistemas-informaticos-e-infotecnologia-ejemplo-de-juego-hackeo-informatico",
-              "title": "Ejemplo de juego: Hackeo informático",
+              "slug": "sistemas-informaticos-e-infotecnologia-truco-de-mago-tiempo-flash-tiempo-lag",
+              "title": "Truco de mago: Tiempo flash / tiempo lag",
               "part": null,
               "content_type": "rule"
             },
@@ -249,8 +243,8 @@
               "content_type": "rule"
             },
             {
-              "slug": "resonancia-fisica-de-la-consecuencia-el-rasgo-resonancia",
-              "title": "El Rasgo Resonancia",
+              "slug": "resonancia-fisica-de-la-consecuencia-puntos-iniciales",
+              "title": "Puntos iniciales",
               "part": null,
               "content_type": "rule"
             },
@@ -286,13 +280,7 @@
             },
             {
               "slug": "maravillas-objetos-encantados-paso-tres-investidura-acelerar-la-maravilla",
-              "title": "Maravillas: objetos encantados: Paso Tres: Investidura Acelerar la Maravilla",
-              "part": "Maravillas: objetos encantados",
-              "content_type": "rule"
-            },
-            {
-              "slug": "maravillas-objetos-encantados-el-proceso-de-negociacion-e-invocar-posesion-espiritual-en-como-haces-eso-pag-86-90-y-71-73",
-              "title": "El proceso de negociación e Invocar posesión espiritual en ¿Cómo HACES eso? , pág. 86-90 y 71-73 ).",
+              "title": "Paso Tres: Investidura Acelerar la Maravilla",
               "part": null,
               "content_type": "rule"
             }
@@ -338,8 +326,8 @@
               "content_type": "rule"
             },
             {
-              "slug": "paradigmas-expandidos-no-somos-hombres",
-              "title": "¡NO Somos Hombres!",
+              "slug": "paradigmas-expandidos-veneracion-de-ancestros",
+              "title": "Veneración de Ancestros",
               "part": null,
               "content_type": "rule"
             },
@@ -350,8 +338,8 @@
               "content_type": "rule"
             },
             {
-              "slug": "practicas-expandidas-mediumnidad",
-              "title": "Mediumnidad",
+              "slug": "practicas-expandidas-psionica",
+              "title": "Psiónica",
               "part": null,
               "content_type": "rule"
             },

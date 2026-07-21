@@ -3,7 +3,7 @@
   "line": "werewolf",
   "title_es": "Hombre Lobo: Razas Cambiantes (Parte 3)",
   "book_title_es": "Hombre Lobo: Razas Cambiantes (Parte 3)",
-  "page_count": 62,
+  "page_count": 60,
   "tree": [
     {
       "block": "front-matter",
@@ -100,8 +100,8 @@
               "content_type": "lore"
             },
             {
-              "slug": "ajaba-dones-alba",
-              "title": "Dones Alba",
+              "slug": "ajaba-dones-medianoche",
+              "title": "Dones Medianoche",
               "part": null,
               "content_type": "lore"
             }
@@ -129,8 +129,8 @@
               "content_type": "lore"
             },
             {
-              "slug": "ananasi-dones-de-los-viskr",
-              "title": "Dones de los Viskr",
+              "slug": "ananasi-dones-de-los-wyrsta",
+              "title": "Dones de los Wyrsta",
               "part": null,
               "content_type": "lore"
             }
@@ -164,8 +164,8 @@
               "content_type": "lore"
             },
             {
-              "slug": "bastet-dones-metis",
-              "title": "Dones Metis",
+              "slug": "bastet-dones-felino",
+              "title": "Dones Felino",
               "part": null,
               "content_type": "lore"
             }
@@ -303,14 +303,8 @@
               "content_type": "lore"
             },
             {
-              "slug": "nagah-auspicios",
-              "title": "Auspicios",
-              "part": null,
-              "content_type": "lore"
-            },
-            {
-              "slug": "nagah-samskara-ritos-nagah",
-              "title": "Samskara: Ritos Nagah",
+              "slug": "nagah-razas-de-serpientes",
+              "title": "RAZAS DE SERPIENTES",
               "part": null,
               "content_type": "lore"
             }
@@ -332,8 +326,14 @@
               "content_type": "lore"
             },
             {
-              "slug": "nuwisha-estadisticas-de-las-formas",
-              "title": "Estadísticas de las Formas",
+              "slug": "nuwisha-continuacion",
+              "title": "(continuación)",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "nuwisha-ritos",
+              "title": "Ritos",
               "part": null,
               "content_type": "lore"
             }
@@ -355,8 +355,8 @@
               "content_type": "lore"
             },
             {
-              "slug": "ratkin-credo-del-ingenio",
-              "title": "CREDO DEL INGENIO",
+              "slug": "ratkin-razas",
+              "title": "Razas",
               "part": null,
               "content_type": "lore"
             },
@@ -428,18 +428,6 @@
               "slug": "renombre",
               "title": "Renombre",
               "part": "Renombre",
-              "content_type": "reference"
-            },
-            {
-              "slug": "renombre-continuacion",
-              "title": "(continuación)",
-              "part": null,
-              "content_type": "reference"
-            },
-            {
-              "slug": "renombre-bastet",
-              "title": "Bastet",
-              "part": null,
               "content_type": "reference"
             },
             {

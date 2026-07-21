@@ -3,7 +3,7 @@
   "line": "werewolf",
   "title_es": "Hombre Lobo: El Libro del Wyrm",
   "book_title_es": "Hombre Lobo: El Libro del Wyrm",
-  "page_count": 45,
+  "page_count": 44,
   "tree": [
     {
       "block": "preliminares",
@@ -278,14 +278,8 @@
               "content_type": "lore"
             },
             {
-              "slug": "los-caidos-quebrantadores-del-wyrm-las-muchas-memorias",
-              "title": "laS MuCHaS MeMoriaS",
-              "part": null,
-              "content_type": "lore"
-            },
-            {
-              "slug": "los-caidos-quebrantadores-del-wyrm-crear-tiburones-pira-de-corrupcion",
-              "title": "Crear tiBuroneS pira De CorrupCiÓn",
+              "slug": "los-caidos-quebrantadores-del-wyrm-crear-mneticos",
+              "title": "Crear MnÉtiCoS",
               "part": null,
               "content_type": "lore"
             },
@@ -337,8 +331,8 @@
               "content_type": "reference"
             },
             {
-              "slug": "productos-la-naturaleza-de-la-corrupcion-full-force-solutions",
-              "title": "Full Force Solutions",
+              "slug": "productos-la-naturaleza-de-la-corrupcion-ft-13-px-66f-y-demas",
+              "title": "FT-13, PX-66F y demás",
               "part": null,
               "content_type": "reference"
             }

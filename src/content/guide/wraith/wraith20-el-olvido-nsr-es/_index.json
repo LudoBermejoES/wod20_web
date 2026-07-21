@@ -3,7 +3,7 @@
   "line": "wraith",
   "title_es": "Wraith: El Olvido — 20.º Aniversario",
   "book_title_es": "Wraith: El Olvido — 20.º Aniversario",
-  "page_count": 98,
+  "page_count": 97,
   "tree": [
     {
       "block": "front-matter",
@@ -106,32 +106,32 @@
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-dos-ambientacion-resumen-de-las-legiones",
-              "title": "RESUMEn DE LAS LEGIOnES",
+              "slug": "capitulo-dos-ambientacion-segundo-valor-los-engranajes-mueven-las-ruedas",
+              "title": "Segundo Valor: Los engranajes mueven las ruedas",
               "part": null,
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-dos-ambientacion-la-legion-del-destino",
-              "title": "La Legión del Destino",
+              "slug": "capitulo-dos-ambientacion-los-sementales-estigios",
+              "title": "LOS SEMEnTALES ESTIGIOS",
               "part": null,
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-dos-ambientacion-vida-civil",
-              "title": "Vida civil",
+              "slug": "capitulo-dos-ambientacion-vida-militar",
+              "title": "Vida militar",
               "part": null,
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-dos-ambientacion-cada-rayo-de-luz-tiene-una-nube-oscura",
-              "title": "Cada rayo de luz tiene una nube oscura",
+              "slug": "capitulo-dos-ambientacion-los-diez-mil",
+              "title": "Los Diez Mil",
               "part": null,
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-dos-ambientacion-vida-fuera-de-la-sociedad",
-              "title": "Vida fuera de la sociedad",
+              "slug": "capitulo-dos-ambientacion-los-gremios-en-la-estigia-actual",
+              "title": "Los Gremios en la Estigia actual",
               "part": null,
               "content_type": "lore"
             }
@@ -164,12 +164,6 @@
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cuatro-personajes-paso-cuatro-ventajas",
-              "title": "Paso Cuatro: Ventajas",
-              "part": null,
-              "content_type": "rule"
-            },
-            {
               "slug": "capitulo-cuatro-personajes-paso-cinco-toques-finales",
               "title": "Paso Cinco: Toques Finales",
               "part": null,
@@ -193,8 +187,8 @@
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cinco-rasgos-atributos-sociales",
-              "title": "Atributos Sociales",
+              "slug": "capitulo-cinco-rasgos-carisma",
+              "title": "Carisma",
               "part": null,
               "content_type": "rule"
             },
@@ -476,8 +470,8 @@
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-diez-espectros-afinidad-con-la-tempestad",
-              "title": "Afinidad con la Tempestad",
+              "slug": "capitulo-diez-espectros-psique",
+              "title": "psique",
               "part": null,
               "content_type": "rule"
             },
@@ -488,20 +482,20 @@
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-diez-espectros-desterrados",
-              "title": "Desterrados",
+              "slug": "capitulo-diez-espectros-apariencia",
+              "title": "Apariencia",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-diez-espectros-espectros-como-enemigos",
-              "title": "Espectros como enemigos",
+              "slug": "capitulo-diez-espectros-espectros-como-protagonistas",
+              "title": "Espectros como protagonistas",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-diez-espectros-practicando-el-olvido-seguro",
-              "title": "prAcTIcANDo EL oLVIDo sEGUro",
+              "slug": "capitulo-diez-espectros-sirvientes-del-olvido",
+              "title": "sirvientes del olvido",
               "part": null,
               "content_type": "rule"
             },
@@ -600,8 +594,8 @@
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-doce-el-mundo-de-tinieblas-fantasma",
-              "title": "Fantasma",
+              "slug": "capitulo-doce-el-mundo-de-tinieblas-fatalismo",
+              "title": "Fatalismo",
               "part": null,
               "content_type": "lore"
             },

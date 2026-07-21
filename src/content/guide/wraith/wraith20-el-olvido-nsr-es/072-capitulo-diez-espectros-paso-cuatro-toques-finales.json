@@ -1,0 +1,116 @@
+{
+  "book_id": "wraith20-el-olvido-nsr-es",
+  "line": "wraith",
+  "order": 72,
+  "slug": "capitulo-diez-espectros-paso-cuatro-toques-finales",
+  "block": "libro-dos",
+  "block_title": "Libro Dos: Narración y Reglas",
+  "chapter": "Capítulo Diez: Espectros",
+  "part": "Capítulo Diez: Espectros",
+  "section": "paso cuatro: Toques finales",
+  "title": "Capítulo Diez: Espectros: paso cuatro: Toques finales",
+  "content_type": "rule",
+  "source_line_range": [
+    13815,
+    13966
+  ],
+  "body_md": "## paso cuatro: Toques finales\n\nEn este estadio, aplicas cualquier ajuste final a la Psique gastando puntos gratuitos. Pueden incrementar su Pathos y sus Pasiones y determinar sus poderes, conocidos como Frondes (para más detalles, ver la siguiente sección).\n\nLa puntuación de Pathos de la Psique no puede superar la Fuerza de Voluntad del Espectro, aunque puedes adquirir puntos temporales adicionales para la reserva de Pathos.\n\n| Rasgos | Puntos por punto / poder |\n|---------------------|----------------------------|\n| Pathos (puntuación) | 5 |\n| Pathos (reserva) | 2 |\n| Pasión | 1 |\n| Frondes | Varía |\n\n## Frondes\n\nLos Frondes de la Psique son el equivalente de las Espinas de la Sombra (pág. 231). El Guía de la Psique usa estos singulares dones para hostigar al Espectro. Idealmente, el jugador del Espectro no debería saber qué Frondes tiene la Psique hasta que los manifieste en el juego.\n\n## Aliados (1 punto por nivel)\n\nLa Psique se comunica regularmente con wraiths de la zona. Este Fronde equivale al Trasfondo [Aliados](/wraith/backgrounds/allies), aunque sólo se aplica a wraiths asociados con el lugar.\n\n## Espejo (1 punto)\n\nLa Psique gasta 3 puntos de Pathos para activar este Fronde, el cual revela en cada superficie que ve el Espectro, una imagen de cómo solía ser el Espectro, o los aspectos más horribles de su persona puestos de manifiesto. Ver lo que podría haber sido o la verdad sin tapujos de su estado actual inquieta hasta a los Espectros.\n\nCuando se enfrenta a esta horripilante visión el Espectro tira Fuerza de Voluntad en una acción enfrentada contra el Pathos de la Psique. Si supera la tirada, el Espectro está sometido a +1 de dificultad en cualquier tirada relacionada con Carisma durante el siguiente turno mientras se recompone; si falla, el Espectro está destrozado por el autodesprecio y es incapaz de actuar salvo en defensa propia durante el resto de la escena.\n\n## Inspiración (1 punto por nivel, hasta 5)\n\nEste Fronde funciona de la misma forma que la Espina Infamia (pág. 231), salvo que mide la cantidad de esperanza, coraje, amabilidad y otras cualidades positivas que el recuerdo del Espectro aún inspira en los vivos. Cada vez que el Espectro con este Fronde cae en Sopor, el Guía de la Psique hace una tirada estándar usando tantos dados como el nivel del Fronde. Cada éxito proporciona a la Psique 1 punto de Pathos.\n\n## recuerdos de Vida (1 punto)\n\nLa Psique recuerda todo lo que el Espectro ha olvidado sobre su anterior existencia (como mortal o como wraith). Con la conformidad del Espectro, la Psique puede proporcionar al Espectro información o conocimientos de esa vida. Esto puede incluir habilidades olvidadas, cierta información y otros detalles que pueden resultar útiles para un Espectro que se esfuerce por recordar algo vital. Si el Espectro acepta esta ayuda, los destellos de recuerdos asociados con esa existencia previa más valiosa provocan una tirada de Fuerza de Voluntad. Si la supera, el Espectro se perturba pero por lo demás está bien. Si la falla, el Espectro pierde tantos puntos de Angustia como la Pasión más fuerte de la Psique. Con un fracaso, el Espectro pierde el doble de esa cantidad.\n\n## reliquia pura (1 punto por nivel)\n\nEste Fronde funciona de la misma manera que la Espina Reliquia Corrupta (pág. 231), salvo porque la Reliquia está\n\nvinculada a la Psique y tiene cierta importancia en la existencia previa del Espectro.\n\n## sello de la psique (1 a 3 puntos)\n\nEste Fronde, semejante a la Espina Sello de la Muerte (pág. 231), es una manifestación de la posible redención que representa la Psique. Este sello es de naturaleza alegre o inspiradora (olor a rosas o pan recién hecho, el eco de un coro cantando o de risas de niños, o algún otro desencadenante sensorial) y permanece allí donde está presente el Espectro. La manifestación es sutil, pero evidente, con todas las ventajas y desventajas que ofrece. El número de puntos de este Fronde indica la fuerza del sello. Un sello de 1 punto podría influir en los intentos de intimidación o sigilo del Espectro, mientras que uno de 3 puntos podría alterar los efectos de sus Arcanoi Oscuros.\n\nEl Espectro puede gastar 1 punto de Fuerza de Voluntad para suprimir los efectos del Fronde durante una escena.\n\n## rasgo de la psique (2 puntos)\n\nA solicitud del Espectro, la Psique puede concederle 1 punto adicional en un Atributo o Habilidad concretos durante el resto de la escena. El Rasgo concreto debe decidirse al adquirir este Fronde. La Psique gana 1 punto de Pathos cada vez que el Espectro recurra a este punto adicional.\n\nEste Fronde puede adquirirse múltiples veces, y cada una potencia un Rasgo distinto.\n\n## culpa (3 puntos)\n\nLa Psique gasta 1 punto de Pathos para activar este Fronde, el cual somete al Espectro a una tremenda culpa a causa de una acción reciente. El Espectro tira Fuerza de Voluntad en una acción enfrentada contra el Pathos actual de la Psique. Si supera la tirada, el Espectro está sometido a un +1 a la dificultad de todas las acciones durante el próximo turno mientras se recompone. Si falla, el Espectro sufre una culpa agónica y pierde 1 punto de Fuerza de Voluntad por cada éxito adicional que obtuviese la Psique.\n\n## Indulgencia (3 puntos)\n\nEste Fronde, semejante a Pacto Maldito (pág. 232), representa un trato entre el Espectro y su Psique. A cambio de no verse obstaculizado por su Psique en una acción inminente, el Espectro accede a concederle puntos de Pathos. El Espectro puede ofrecerle entre 1 y 5 puntos, y la Psique hace contraofertas hasta que ambos se ponen de acuerdo o rompen la negociación. Una vez alcanzado el acuerdo, la Psique recibe esa cantidad de Pathos y no debe interferir en la acción inminente de ninguna forma, ni siquiera para reprender o comentar.\n\n## Desliz Freudiano (4 puntos)\n\nIdéntica a la Espina homónima (pág. 233). Aun así, el Espectro sólo necesita un éxito para resistir sus efectos.\n\n## Luz celestial (5 puntos)\n\nGastando 1 punto de Pathos la Psique puede iluminar al Espectro en un haz de luz blanca que parece venir de arriba. Esto puede ser extraño, especialmente en una audiencia con un Malfeo o cuando intenta una emboscada, pero la Psique debe tener cuidado de no usarlo en circunstancias que podrían hacer que matasen al Espectro. El efecto dura una escena por punto gastado.\n\n\n\n## penitencia (6 puntos)\n\nLa Psique puede interceder cuando el Espectro podría de otra forma perder Corpus al Olvido (mediante un fracaso u otros medios). Si el Espectro acepta, la Psique niega la pérdida de Corpus, y prescribe una penitencia que el Espectro debe llevar a cabo a la primera oportunidad. La Psique no necesita revelar el acto hasta después de que el Espectro acepte. La penitencia suele ser algún acto de bondad o digno y no debería necesitarse más de una escena o dos para llevarlo a cabo.\n\n## Vida secreta (7 puntos)\n\nEste Fronde, semejante a la Espina Vida Sombría (pág. 233), permite a la Psique tomar control del Corpus del Espectro mientras éste está en Sopor. El Espectro no es consciente de nada de lo que la Psique hace durante este tiempo. Dado que la Psique tiene una existencia independiente, el Espectro puede verse con responsabilidades, [aliados](/wraith/backgrounds/allies) y enemigos que no recuerda haber hecho, o incluso cayendo en trampas que la Psique diseñó para él.\n\n## Interpretar a la psique\n\nInterpretar a la Psique en una crónica de Espectros es tan importante como interpretar a la Sombra en una crónica tradicional de Wraith . Aunque la Psique es un personaje secundario para el Guía de la Psique, debería interpretarse con el mismo cuidado y dedicación que el jugador tiene por su propio personaje Espectro.\n\nEl Guía de la Psique debe mantener un registro del Pathos de la Psique y la Fuerza de Voluntad del Espectro. También ha de tener una amplia comprensión de la personalidad, metas e historia del Espectro al que guía, para así poder retratar más acertadamente los reprimidos [impulsos](/wraith/arcanos-powers/impulsos) superiores del mismo. Una estampida sin control hacia la bondad y la piedad, independientemente de la personalidad del personaje, carece de sentido. La Psique es parte de la personalidad del Espectro, igual que la Sombra lo es de un wraith, y opera dentro del marco de su personalidad.\n\nPor último, la Psique es el único fragmento de bondad que sobrevive dentro del Espectro. Incluso si el personaje era cruel y malicioso en vida, aún tenía algunos aspectos que se esforzaban por ser buenos y sinceros. La Psique es la encarnación de estas cualidades, un minúsculo faro de luz en la oscura alma del Espectro. Guiar a tal mal hacia la redención es un desafío hercúleo, pero se enfrenta con la indomable voluntad de la Psique en su órdago por la supervivencia.\n\n## curación psíquica\n\nLa Psique lucha por salvar el alma del Espectro, pero las herramientas que usa son muy distintas al abuso, el engaño, la crueldad y la brutalidad que las Sombras usan para corromper wraiths. En su lugar, la Psique busca llevar luz a la existencia del Espectro a través de palabras amables y recuerdos placenteros. El camino a la redención es arduo, requiere una mano delicada que aleje al Espectro de la depravación y la ruina. Además, la Psique sabe bien que está condenada si el Espectro cae al Vacío, lo cual suma un trasfondo de desesperación a la lucha.\n\n## Adquirir pathos\n\nEl Pathos representa el poder de la redención que yace en la Psique. Cuanto más Pathos posee, más fuerte se vuelve la Psique, hasta que puede intentar hacerse con el control del Espectro y guiarlo más directamente hacia la luz, o al menos impedir que el Espectro se condene más aún.\n\nLa meta definitiva de la Psique es la Redención, así que influirá en las circunstancias para poner al Espectro en situaciones en las que deba confiar en la ayuda de la Psique. De esta forma, la Psique gana Pathos, se vuelve más fuerte e influye en el Espectro en un grado cada vez mayor. Esto, por supuesto, sólo lo hace por el beneficio del Espectro y nunca debería confundirse con la clase de manipulación hecha por la Sombra de un wraith.\n\nDesde el punto de vista de los sistemas, la Psique adquiere Pathos de forma casi idéntica a como la Sombra gana Angustia (ver pág. 235). Cualquier distinción se señala a continuación.\n\n- Arcanoi: La Psique puede ganar puntos de Pathos cuando se usan ciertos Arcanos Oscuros (ver las listas individuales para más detalles). Para las Artes de los Arcanos, si un fracaso concedería Angustia a la Sombra, en su lugar concede Pathos a la Psique.\n\nLa única excepción es durante la Catarsis (ver Uso de Arcanos durante la Catarsis a continuación).\n\n- Dados de la Psique: Cuando el Espectro necesita tirar para realizar una tarea, la Psique puede ofrecer dados adicionales para ello. Puede ofrecer tantos dados como su puntuación de Pathos. Cualquier dado de la Psique usado se considera parte de la reserva del Espectro para determinar éxitos, pero los dados se tiran por separado para mantener registro del resultado (el Narrador puede incluso hacer que el Guía de la Psique tire los dados de la Psique). Cualquier 1 en los dados de la Psique concede a ésta 1 punto de Pathos.\n\nAdemás, si la tirada tiene como resultado un fracaso, el Espectro no pierde 1 nivel permanente de Corpus (ver Vida breve, pág. 348). Esto representa la influencia benévola de la Psique y da a la Psique influencia adicional al guiar al Espectro por el camino hacia la luz.\n\n- Interpretación: Una escena en la que un Espectro se enfrente a dudas, miedos o problemas externos que tenga impacto en los esfuerzos de la Psique en pos de la redención puede garantizar 1 punto de Pathos a discreción del Narrador si el jugador está de acuerdo. Dado que esto ocurre como resultado de la interpretación en lugar de a través de sistemas establecidos, es importante que la decisión sea mutua.\n- Pasiones de la Psique: La Psique puede ganar Pathos por satisfacer sus Pasiones. Haz una tirada estándar basada en la Pasión apropiada cada vez que la Psique logre la meta de esa Pasión. Cada éxito concede 1 punto de Pathos. Como con las Sombras, la Psique también puede tirar (a dificultad 9) para ganar puntos de Pathos si alienta a otro a satisfacer una emoción que alimente una de las Pasiones de la Psique.\n\n## perder pathos\n\nAl igual que con el hecho de adquirir Pathos, los métodos para perderlo son consistentes con cómo la Sombra pierde Angustia. Cualquier diferencia se señala a continuación.\n\n- Fracasar durante la Catarsis: Un fracaso en cualquier tirada de la Psique mientras domina al Espectro durante la Catarsis no provoca que el Espectro pierda 1 nivel de Corpus permanente. En su lugar, la Psique pierde 1 punto de Pathos. Éste representa que el control de la Psique se le escapa, aunque brevemente.\n- Interpretación: Si un Espectro hace un serio esfuerzo por debilitar a su Psique, el Narrador puede decidir que es apropiado perder 1 o 2 puntos de Pathos. Esta recompensa debería usarse sólo en circunstancias excepcionales y sólo cuando sea crucial para la\n\n## rEDENcIÓN\n\nNadie sabe realmente lo que significa la Redención, o si es siquiera posible. Existen historias de Espectros que la alcanzan y desaparecen al instante del Laberinto, pero siempre son de segunda mano. Algunos dicen que los Espectros desaparecidos renacen como wraiths y deben lidiar con la existencia en las Tierras de las Sombras en busca de la Trascendencia. Otros afirman que la Redención es realmente un atajo a la propia Trascendencia. E incluso otros sugieren que el alma renace como mortal dando una nueva oportunidad en la vida. Luego están los que murmuran que todo es un timo, que la Psique es simplemente otro cebo del Olvido y que Redención es sólo otro nombre para el Vacío.\n\nDesde el punto de vista de los sistemas, un Espectro alcanza la Redención si su Psique logra 10 puntos de Pathos permanente. Lo que pasa después depende del Narrador. Sea como sea, la Redención es un evento realmente trascendental. El Narrador debería revisar la puntuación de Pathos de cada personaje de forma regular para estar al corriente del progreso de la Psique. Si una Psique parece estar aproximándose al noble objetivo de la máxima puntuación de Pathos permanente, el Narrador debería considerar ajustar el curso de la crónica para abordar la posibilidad de la Redención; y qué pasos podrían tomar los compañeros Roídos por la Sombra del Espectro para impedirla.\n\nlucha en pos de la redención entre el Espectro y la Psique. Igual que con ganar Pathos antes, cualquier resultado debería acordarse entre Narrador y jugador.\n\n- Uso de Arcanoi durante la Catarsis: Cuando la Psique usa Arcanoi o Arcanoi Oscuros mientras controla al Espectro, cualquier Pathos que normalmente se ganaría, se ve en cambio restado de la reserva actual de Pathos de la Psique.\n- Uso de Frondes: Para activar algunos Frondes se requiere el gasto de Pathos.\n\n## catarsis\n\nIgual que la Sombra puede controlar a un wraith, también la Psique puede dominar temporalmente a un Espectro. Si los puntos actuales de Pathos exceden la puntuación de Fuerza de Voluntad de un Espectro, la Psique puede tratar de ejercer el control de su cuerpo compartido durante el resto de la escena. Otros Espectros no se percatan del cambio de inmediato; deben deducirlo por el comportamiento inusual del personaje recién controlado por la Psique.\n\n## La tirada de catarsis\n\nPara tratar de hacerse con el control del Espectro, la Psique primero gasta 1 punto de Pathos. Que el gasto de Pathos haga que la reserva de Pathos quede por debajo de la Fuerza de Voluntad del Espectro no niega el intento de Catarsis.\n\nLa Psique tira entonces su reserva actual de Pathos (no su puntuación permanente), en una acción enfrentada contra la puntuación de Fuerza de Voluntad del Espectro. Si la Psique obtiene más éxitos, gana el control del personaje Espectro durante el resto de la escena.\n\n## Interpretar la catarsis\n\nEl jugador del Espectro, no el Guía de la Psique, interpreta al personaje mientras el Espectro está sometido a la Catarsis.\n\nLa Catarsis es idéntica al proceso descrito para la Sombra (pág. 236), salvo por dos diferencias clave: los Rasgos usados en la tirada de Catarsis y quién interpreta al personaje dominado por la Psique.\n\nAunque la Psique es dominante, tiene acceso a todas las habilidades y poderes del Espectro, incluyendo cualquier Arcanos, Arcanos Oscuro y Arte Sombría. La Psique retiene también el acceso a sus propios Frondes. Por lo demás, los parámetros de la Catarsis son consistentes con los descritos en el Capítulo Seis (pág. 221).\n\nEspEcTros",
+  "toc": [
+    {
+      "text": "Frondes",
+      "anchor": "frondes"
+    },
+    {
+      "text": "Aliados (1 punto por nivel)",
+      "anchor": "aliados-1-punto-por-nivel"
+    },
+    {
+      "text": "Espejo (1 punto)",
+      "anchor": "espejo-1-punto"
+    },
+    {
+      "text": "Inspiración (1 punto por nivel, hasta 5)",
+      "anchor": "inspiracion-1-punto-por-nivel-hasta-5"
+    },
+    {
+      "text": "recuerdos de Vida (1 punto)",
+      "anchor": "recuerdos-de-vida-1-punto"
+    },
+    {
+      "text": "reliquia pura (1 punto por nivel)",
+      "anchor": "reliquia-pura-1-punto-por-nivel"
+    },
+    {
+      "text": "sello de la psique (1 a 3 puntos)",
+      "anchor": "sello-de-la-psique-1-a-3-puntos"
+    },
+    {
+      "text": "rasgo de la psique (2 puntos)",
+      "anchor": "rasgo-de-la-psique-2-puntos"
+    },
+    {
+      "text": "culpa (3 puntos)",
+      "anchor": "culpa-3-puntos"
+    },
+    {
+      "text": "Indulgencia (3 puntos)",
+      "anchor": "indulgencia-3-puntos"
+    },
+    {
+      "text": "Desliz Freudiano (4 puntos)",
+      "anchor": "desliz-freudiano-4-puntos"
+    },
+    {
+      "text": "Luz celestial (5 puntos)",
+      "anchor": "luz-celestial-5-puntos"
+    },
+    {
+      "text": "penitencia (6 puntos)",
+      "anchor": "penitencia-6-puntos"
+    },
+    {
+      "text": "Vida secreta (7 puntos)",
+      "anchor": "vida-secreta-7-puntos"
+    },
+    {
+      "text": "Interpretar a la psique",
+      "anchor": "interpretar-a-la-psique"
+    },
+    {
+      "text": "curación psíquica",
+      "anchor": "curacion-psiquica"
+    },
+    {
+      "text": "Adquirir pathos",
+      "anchor": "adquirir-pathos"
+    },
+    {
+      "text": "perder pathos",
+      "anchor": "perder-pathos"
+    },
+    {
+      "text": "rEDENcIÓN",
+      "anchor": "redencion"
+    },
+    {
+      "text": "catarsis",
+      "anchor": "catarsis"
+    },
+    {
+      "text": "La tirada de catarsis",
+      "anchor": "la-tirada-de-catarsis"
+    },
+    {
+      "text": "Interpretar la catarsis",
+      "anchor": "interpretar-la-catarsis"
+    }
+  ],
+  "prev": {
+    "slug": "capitulo-diez-espectros-paso-cinco-toques-finales",
+    "title": "Capítulo Diez: Espectros: paso cinco: Toques finales"
+  },
+  "next": {
+    "slug": "capitulo-once-los-resucitados",
+    "title": "Capítulo Once: Los Resucitados"
+  }
+}

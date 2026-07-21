@@ -1,0 +1,36 @@
+{
+  "book_id": "v20-core-rulebook-es",
+  "line": "vampire",
+  "order": 86,
+  "slug": "hijas-de-la-cacofonia",
+  "block": "libro-tercero-las-permutaciones",
+  "block_title": "LIBRO TERCERO: LAS PERMUTACIONES",
+  "chapter": "Capítulo Diez: Líneas de Sangre",
+  "part": "Hijas de la Cacofonía",
+  "section": null,
+  "title": "Hijas de la Cacofonía",
+  "content_type": "rule",
+  "source_line_range": [
+    12641,
+    12688
+  ],
+  "body_md": "## Hijas de la Cacofonía\n\nLas Hijas de la Cacofonía emergieron como una Línea de Sangre distinta en algún momento del siglo xix . Antes de ello, por supuesto, ya había Vástagos que contemplaron la música y el canto como un modo de mantenerse cuerdos. Los académicos entre los Vástagos creen que las Hijas surgieron de la Sangre de o bien el Clan [Toreador](/vampire/clans/toreador) (por su apasionada obsesión artística) o el [Malkavian](/vampire/clans/malkavian) (dada su proclividad a causar la locura), pero sus Poderes sobrenaturales apuntan más al Clan [Ventrue](/vampire/clans/ventrue). Esto sigue siendo objeto de debate, pues se desconoce quién fue la 'prime-\n\nra' Hija de la Cacofonía. Independientemente de sus orígenes, las Sirenas (tal y como son llamadas en los círculos vampíricos) son todas cantantes, y la Línea de Sangre siempre ha sido mayoritariamente femenina.\n\n402\n\nDe hecho, las Hijas de la Cacofonía basan sus no-vidas en el canto. Vagan por la eternidad siempre con música en sus oídos, y ello hace que a los demás Vástagos les parezcan distraídas o frívolas. Ésta es una de las razones, junto con su rareza, de que ninguna de las grandes Sectas vampíricas las considere una amenaza o algo más que una diversión. Sin embargo, los Vástagos que se hayan encontrado con una Sirena pueden preguntarse por qué quienes pasan demasiado tiempo escuchando sus canciones siempre parecen cambiados por la experiencia.\n\nApodo: Sirenas.\n\nSecta: Las Sirenas pueden pertenecer a cualquier Secta que ostente el poder a nivel local. Si se les pregunta, la mayoría de Hijas se declararán Independientes o miembros de la Camarilla.\n\nApariencia: Una Sirena puede ser una intérprete callejera que se viste con prendas de tiendas de segunda mano, una rockera punk con tatuajes y piercings , o una artista de renombre con dinero y prestigio. Aparte del hecho de que las Hijas son mayoritariamente mujeres, su apariencia varía considerablemente.\n\nRefugio: La mayoría de Sirenas tienen una habitación silenciosa con buena acústica en la que pueden cantar sin que nadie las oiga. Aunque a muchas de las Hijas les encanta actuar, también preferirían que las dejasen en paz al terminar su actuación, por lo que la apariencia externa de sus refugios no es tan importante como mantener su secretismo.\n\nTrasfondo: La mayor parte de las Sirenas también eran cantantes antes de su Abrazo. Muy ocasionalmente, una Hija Abraza a alguien que nunca desarrolló su habilidad de canto, pero éstas descubren su talento rápidamente.\n\nLas Hijas no discriminan según el estilo musical. Cantantes de jazz, esqueléticas vocalistas de nu-metal, divas de ópera, sensuales intérpretes de clubes nocturnos… cualquier cantante puede ser una Sirena.\n\nCreación del personaje: Los Atributos Sociales suelen ser primarios. Expresión e Interpretación son casi siempre altas, y muchas tienen Fama. Las Sirenas que mueren con seguidores cosechan los beneficios de sus fans ([Rebaño](/vampire/backgrounds/rebano)). Aquéllas menos afortunadas suelen tener [Contactos](/vampire/backgrounds/contacts) en el mundo del espectáculo.\n\nDisciplinas de Clan: Fortaleza, Melpómene, Presencia.\n\nDebilidad: Las Hijas de la Cacofonía escuchan música constantemente. Esto puede ser una forma de [sinestesia](/vampire/discipline-powers/sinestesia) o una alucinación. Esta canción constante distrae a las Hijas tanto como las guía. Las dificultades de todas sus tiradas de Percepción aumentan en dos, y ninguna Hija de la Cacofonía puede tener Alerta por encima de tres.\n\nOrganización: Sus cifras son demasiado bajas para estar realmente organizadas, aunque a veces las Sirenas actúan al unísono. De vez en cuando, las Sirenas de todos los lugares realizan una actuación la misma noche. No cantan necesariamente las mismas canciones, pero todas las Sirenas despiertas cantan exactamente al mismo tiempo.\n\n## Estereotipos\n\nCamarilla: ¿Desearíais escuchar otra, mi señor?\n\nSabbat: Muy bien. ¿No te importa si tarareo un poco, supongo?\n\n[Toreador](/vampire/clans/toreador): Si sólo tu arte tuviera un poder real, como el mío.\n\nCita: Escuché la canción cuando fallecí. Me guió fuera de la oscuridad y del frío, y vino a mis labios con la Sangre de mi madre-hermana. Y ahora canto, porque si la canción acabara sería el fin de todo.\n\n## Visión desde fuera\n\nCamarilla: La política del Príncipe es no permitir que el fratricidio quede sin respuesta, incluso entre los Clanes menos importantes. ¿Podrías dejar de cantar un rato?\n\nSabbat: ¡Ya que no podemos hacer que sigan nuestro camino, esperemos que sigan el suyo, Hermanas!\n\nGiovanni: No sé de qué canciones están hablando. Tengo la desagradable sospecha, no obstante, de que podría escucharlas si quisiera.",
+  "toc": [
+    {
+      "text": "Estereotipos",
+      "anchor": "estereotipos"
+    },
+    {
+      "text": "Visión desde fuera",
+      "anchor": "vision-desde-fuera"
+    }
+  ],
+  "prev": {
+    "slug": "hermanos-de-sangre",
+    "title": "Hermanos de Sangre"
+  },
+  "next": {
+    "slug": "kiasyd",
+    "title": "Kiasyd"
+  }
+}
