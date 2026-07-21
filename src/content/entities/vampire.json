@@ -1288,7 +1288,7 @@
     "line": "vampire",
     "name_en": "Adicción",
     "name_es": "Adicción",
-    "body_es": "Sufres de adicción a una sustancia que debe estar presente en la sangre que bebes (o entras en Frenesí automáticamente, como en el Defecto [Exclusión de Presa](/vampire/flaws/exclusion-de-presa)). Puede ser alcohol, nicotina, drogas duras o simplemente adrenalina. Esta sustancia siempre te perjudica (ver 'Venenos y drogas', pág. 298, para más detalles).",
+    "body_es": "Sufres de adicción a una sustancia que debe estar presente en la sangre que bebes (o entras en Frenesí automáticamente, como en el Defecto [Exclusión de Presa](/vampire/flaws/exclusion-de-presa)). Puede ser [alcohol](/vampire/equipments/alcohol), nicotina, drogas duras o simplemente adrenalina. Esta sustancia siempre te perjudica (ver 'Venenos y drogas', pág. 298, para más detalles).",
     "tags": [],
     "mechanics": {
       "bonus": "3"
@@ -5401,6 +5401,194 @@
     "related": []
   },
   {
+    "id": "alcohol",
+    "type": "equipment",
+    "line": "vampire",
+    "name_en": "Alcohol",
+    "name_es": "Alcohol",
+    "body_es": "El vampiro pierde un dado de sus reservas de Destreza e Inteligencia por el equivalente a dos bebidas alcohólicas en la sangre de la víctima. El efecto des-",
+    "tags": [
+      "equipo",
+      "substance"
+    ],
+    "mechanics": {
+      "category": "substance",
+      "effect": "El vampiro pierde un dado de sus reservas de Destreza e Inteligencia por el equivalente a dos bebidas alcohólicas en la sangre de la víctima. El efecto des-"
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "alcohol",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "cocaina-anfetaminas-speed",
+    "type": "equipment",
+    "line": "vampire",
+    "name_en": "Cocaína/anfetaminas/speed",
+    "name_es": "Cocaína/anfetaminas/speed",
+    "body_es": "Los vampiros que tienen Celeridad ganan un nivel extra en la Disciplina durante (10 minutos - Resistencia) después de beber. Las dificultades de resistir o controlar el Frenesí se incrementan en uno.",
+    "tags": [
+      "equipo",
+      "substance"
+    ],
+    "mechanics": {
+      "category": "substance",
+      "effect": "Los vampiros que tienen Celeridad ganan un nivel extra en la Disciplina durante (10 minutos - Resistencia) después de beber. Las dificultades de resistir o controlar el Frenesí se incrementan en uno."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "cocaina-anfetaminas-speed",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "alucinogenos",
+    "type": "equipment",
+    "line": "vampire",
+    "name_en": "Alucinógenos",
+    "name_es": "Alucinógenos",
+    "body_es": "Las reservas del vampiro se reducen entre en uno y tres dados debido a la incapacidad para concentrarse. Sufre un efecto similar al del Poder de nivel dos de Dementación, [Tortura Mental](/vampire/discipline-powers/tortura-mental). Dependiendo de la naturaleza concreta del 'viaje' puede ganar algún dado adicional en Habilidades concretas como Consciencia u obtener un aumento de un punto o más en la Disciplina Auspex. El efecto dura (8 - Resistencia) horas.",
+    "tags": [
+      "equipo",
+      "substance"
+    ],
+    "mechanics": {
+      "category": "substance",
+      "effect": "Las reservas del vampiro se reducen entre en uno y tres dados debido a la incapacidad para concentrarse. Sufre un efecto similar al del Poder de nivel dos de Dementación, Tortura Mental. Dependiendo de la naturaleza concreta del 'viaje' puede ganar algún dado adicional en Habilidades concretas como Consciencia u obtener un aumento de un punto o más en la Disciplina Auspex. El efecto dura (8 - Resistencia) horas."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "alucinogenos",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "effect": "Las reservas del vampiro se reducen entre en uno y tres dados debido a la incapacidad para concentrarse. Sufre un efecto similar al del Poder de nivel dos de Dementación, <a href=\"/vampire/discipline-powers/tortura-mental\">Tortura Mental</a>. Dependiendo de la naturaleza concreta del &#x27;viaje&#x27; puede ganar algún dado adicional en Habilidades concretas como Consciencia u obtener un aumento de un punto o más en la Disciplina Auspex. El efecto dura (8 - Resistencia) horas."
+    }
+  },
+  {
+    "id": "heroina-morfina-barbituricos",
+    "type": "equipment",
+    "line": "vampire",
+    "name_en": "Heroína/morfina/barbitúricos",
+    "name_es": "Heroína/morfina/barbitúricos",
+    "body_es": "Las reservas de Destreza y de todas las Habilidades disminuyen en dos durante (10 - Resistencia) minutos, y el vampiro se encuentra en un estado de ensoñación durante (12 - Resistencia) horas. La dificultad de todas las tiradas de Frenesí disminuye en uno.",
+    "tags": [
+      "equipo",
+      "substance"
+    ],
+    "mechanics": {
+      "category": "substance",
+      "effect": "Las reservas de Destreza y de todas las Habilidades disminuyen en dos durante (10 - Resistencia) minutos, y el vampiro se encuentra en un estado de ensoñación durante (12 - Resistencia) horas. La dificultad de todas las tiradas de Frenesí disminuye en uno."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "heroina-morfina-barbituricos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "marihuana",
+    "type": "equipment",
+    "line": "vampire",
+    "name_en": "Marihuana",
+    "name_es": "Marihuana",
+    "body_es": "El vampiro tiene un [sentido del tiempo](/vampire/merits/sentido-del-tiempo) ligeramente alterado, además de sufrir una reducción de un dado en las reservas de Percepción. La dificultad de las tiradas de Frenesí desciende en uno debido a que la droga actúa como calmante. El efecto dura alrededor de media hora.",
+    "tags": [
+      "equipo",
+      "substance"
+    ],
+    "mechanics": {
+      "category": "substance",
+      "effect": "El vampiro tiene un sentido del tiempo ligeramente alterado, además de sufrir una reducción de un dado en las reservas de Percepción. La dificultad de las tiradas de Frenesí desciende en uno debido a que la droga actúa como calmante. El efecto dura alrededor de media hora."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "marihuana",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "effect": "El vampiro tiene un <a href=\"/vampire/merits/sentido-del-tiempo\">sentido del tiempo</a> ligeramente alterado, además de sufrir una reducción de un dado en las reservas de Percepción. La dificultad de las tiradas de Frenesí desciende en uno debido a que la droga actúa como calmante. El efecto dura alrededor de media hora."
+    }
+  },
+  {
+    "id": "veneno",
+    "type": "equipment",
+    "line": "vampire",
+    "name_en": "Veneno",
+    "name_es": "Veneno",
+    "body_es": "Se resta un dado de todas las reservas del vampiro, que sufre entre uno y tres niveles de daño por escena o incluso por turno, dependiendo de la fuerza del veneno. Pocos venenos tienen efectos reales sobre los vampiros, de los cuales la mayor parte causa una cantidad de daño máxima fija antes de desaparecer. El vampiro puede purgar la Sangre gastándola a su ritmo normal; los efectos se curan automáticamente al cabo de unos minutos u horas después de la eliminación de la Sangre.",
+    "tags": [
+      "equipo",
+      "substance"
+    ],
+    "mechanics": {
+      "category": "substance",
+      "effect": "Se resta un dado de todas las reservas del vampiro, que sufre entre uno y tres niveles de daño por escena o incluso por turno, dependiendo de la fuerza del veneno. Pocos venenos tienen efectos reales sobre los vampiros, de los cuales la mayor parte causa una cantidad de daño máxima fija antes de desaparecer. El vampiro puede purgar la Sangre gastándola a su ritmo normal; los efectos se curan automáticamente al cabo de unos minutos u horas después de la eliminación de la Sangre."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "veneno",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "salmonela-intoxicacion-alimentaria",
+    "type": "equipment",
+    "line": "vampire",
+    "name_en": "Salmonela (intoxicación alimentaria)",
+    "name_es": "Salmonela (intoxicación alimentaria)",
+    "body_es": "El vampiro sufre náuseas, lo que lo incapacita para consumir más sangre (para superarlo se tira Resistencia, dificultad 6), y sufre un nivel de Salud de daño contundente. El efecto dura aproximadamente un día.",
+    "tags": [
+      "equipo",
+      "substance"
+    ],
+    "mechanics": {
+      "category": "substance",
+      "effect": "El vampiro sufre náuseas, lo que lo incapacita para consumir más sangre (para superarlo se tira Resistencia, dificultad 6), y sufre un nivel de Salud de daño contundente. El efecto dura aproximadamente un día."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "salmonela-intoxicacion-alimentaria",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
     "id": "susurros-salvajes",
     "type": "discipline-power",
     "line": "vampire",
@@ -6680,7 +6868,7 @@
     "line": "vampire",
     "name_en": "Toque de Escorpión",
     "name_es": "Toque de Escorpión",
-    "body_es": "Cambiando las propiedades de su Sangre, el vampiro puede crear un poderoso veneno que despoja a la víctima de su resistencia. Este Poder es muy temido por otros Vástagos; entre temblorosas coteries circulan historias espantosas sobre las formas en las que puede ser administrado. Se sabe que los Vástagos con Extinción aplican el veneno cubriendo sus armas con él, malogrando a sus enemigos con un toque o escupiéndolo como una cobra. Un informe apócrifo relata cómo un orgulloso Príncipe descubrió a un Assamita que planeaba desangrarlo y comenzó a Diabolizar a su asesino en potencia. A mitad del proceso se dio cuenta de que había ingerido una cantidad tremenda de Sangre contaminada y era incapaz de resistir el renovado ataque del debilitado hashashiyyin .\n\nSistema: Para convertir un poco de su Sangre en veneno, el jugador del Vástago gasta al menos un punto de Sangre y tira Fuerza de Voluntad (dificultad 6). Si la tirada tiene éxito y el vampiro impacta (no hace falta que cause daño) a su oponente, el objetivo pierde un número de puntos de Resistencia igual al número de puntos de Sangre convertidos en veneno; se considera que los vampiros que tratan de beber la Sangre de un Vástago que tenga Toque de Escorpión 'reciben un impacto'.\n\nLa víctima puede resistir el veneno con una tirada de Resistencia + Fortaleza (dificultad 6); los éxitos de la tirada de resistencia se restan de los obtenidos por el vampiro. El número máximo de puntos de Sangre que el Vástago puede convertir en un momento dado es igual a su Resistencia. El número de éxitos obtenido indica la duración de la pérdida de Resistencia.\n\n| Éxitos | Resultado |\n|----------|---------------------------------------------------------------------------------|\n| 1 éxito | Un turno. |\n| 2 éxitos | Una hora. |\n| 3 éxitos | Un día. |\n| 4 éxitos | Un mes. |\n| 5 éxitos | Permanente (aunque la Resistencia puede volver a adquirirse con Experiencia). |\n\nSi la Resistencia de un mortal cae a cero a causa del uso de Toque de Escorpión, queda convertido en un enfermo terminal y pierde la inmunidad a las enfermedades, sucumbiendo su cuerpo a las afecciones en el plazo de un año si no consigue incrementar su Resistencia de nuevo. Si la Resistencia de un Vástago cae a cero, el vampiro entra en Letargo y permanece en ese estado hasta que recupera uno de sus puntos de Resistencia. Si la Resistencia de un Vástago se reduce a cero permanentemente , sólo se podrá recuperar del Letargo usando medios místicos.\n\nPara afectar a alguien con el veneno, el Cainita tiene que tocar la carne de su víctima o golpearlo con algo que porte el veneno. Muchos Assamitas cubren sus armas con la excreción, otros acumulan la toxina en las manos (o se embadurnan los labios para otorgar un 'beso de la muerte') y las aplican sobre sus oponentes. Las armas envenenadas de esta manera tienen que ser de combate cuerpo a cuerpo; las flechas, piedras lanzadas con honda, balas, armas arrojadizas y proyectiles similares, o bien no pueden sostener la suficiente cantidad de sustancia como para hacer daño, o bien la pierden durante el vuelo. Los jugadores cuyos vampiros quieran escupir a sus objetivos deben hacer una tirada de Resistencia + Atletismo (dificultad 6). No se puede esputar veneno por valor de más de dos puntos de Sangre; el Vástago puede escupir hasta a una distancia de tres metros (10 pies) por cada punto de Fuerza (y Potencia) que posea. Los vampiros que tienen Extinción son inmunes a su propio veneno, no así al de otros Vástagos que posean este Poder.",
+    "body_es": "Cambiando las propiedades de su Sangre, el vampiro puede crear un poderoso [veneno](/vampire/equipments/veneno) que despoja a la víctima de su resistencia. Este Poder es muy temido por otros Vástagos; entre temblorosas coteries circulan historias espantosas sobre las formas en las que puede ser administrado. Se sabe que los Vástagos con Extinción aplican el [veneno](/vampire/equipments/veneno) cubriendo sus armas con él, malogrando a sus enemigos con un toque o escupiéndolo como una cobra. Un informe apócrifo relata cómo un orgulloso Príncipe descubrió a un Assamita que planeaba desangrarlo y comenzó a Diabolizar a su asesino en potencia. A mitad del proceso se dio cuenta de que había ingerido una cantidad tremenda de Sangre contaminada y era incapaz de resistir el renovado ataque del debilitado hashashiyyin .\n\nSistema: Para convertir un poco de su Sangre en [veneno](/vampire/equipments/veneno), el jugador del Vástago gasta al menos un punto de Sangre y tira Fuerza de Voluntad (dificultad 6). Si la tirada tiene éxito y el vampiro impacta (no hace falta que cause daño) a su oponente, el objetivo pierde un número de puntos de Resistencia igual al número de puntos de Sangre convertidos en [veneno](/vampire/equipments/veneno); se considera que los vampiros que tratan de beber la Sangre de un Vástago que tenga Toque de Escorpión 'reciben un impacto'.\n\nLa víctima puede resistir el [veneno](/vampire/equipments/veneno) con una tirada de Resistencia + Fortaleza (dificultad 6); los éxitos de la tirada de resistencia se restan de los obtenidos por el vampiro. El número máximo de puntos de Sangre que el Vástago puede convertir en un momento dado es igual a su Resistencia. El número de éxitos obtenido indica la duración de la pérdida de Resistencia.\n\n| Éxitos | Resultado |\n|----------|---------------------------------------------------------------------------------|\n| 1 éxito | Un turno. |\n| 2 éxitos | Una hora. |\n| 3 éxitos | Un día. |\n| 4 éxitos | Un mes. |\n| 5 éxitos | Permanente (aunque la Resistencia puede volver a adquirirse con Experiencia). |\n\nSi la Resistencia de un mortal cae a cero a causa del uso de Toque de Escorpión, queda convertido en un enfermo terminal y pierde la inmunidad a las enfermedades, sucumbiendo su cuerpo a las afecciones en el plazo de un año si no consigue incrementar su Resistencia de nuevo. Si la Resistencia de un Vástago cae a cero, el vampiro entra en Letargo y permanece en ese estado hasta que recupera uno de sus puntos de Resistencia. Si la Resistencia de un Vástago se reduce a cero permanentemente , sólo se podrá recuperar del Letargo usando medios místicos.\n\nPara afectar a alguien con el [veneno](/vampire/equipments/veneno), el Cainita tiene que tocar la carne de su víctima o golpearlo con algo que porte el [veneno](/vampire/equipments/veneno). Muchos Assamitas cubren sus armas con la excreción, otros acumulan la toxina en las manos (o se embadurnan los labios para otorgar un 'beso de la muerte') y las aplican sobre sus oponentes. Las armas envenenadas de esta manera tienen que ser de combate cuerpo a cuerpo; las flechas, piedras lanzadas con honda, balas, armas arrojadizas y proyectiles similares, o bien no pueden sostener la suficiente cantidad de sustancia como para hacer daño, o bien la pierden durante el vuelo. Los jugadores cuyos vampiros quieran escupir a sus objetivos deben hacer una tirada de Resistencia + Atletismo (dificultad 6). No se puede esputar [veneno](/vampire/equipments/veneno) por valor de más de dos puntos de Sangre; el Vástago puede escupir hasta a una distancia de tres metros (10 pies) por cada punto de Fuerza (y Potencia) que posea. Los vampiros que tienen Extinción son inmunes a su propio [veneno](/vampire/equipments/veneno), no así al de otros Vástagos que posean este Poder.",
     "tags": [
       "disciplina",
       "Extinción"
@@ -6732,7 +6920,7 @@
     "line": "vampire",
     "name_en": "Caricia de Baal",
     "name_es": "Caricia de Baal",
-    "body_es": "Casi el uso definitivo de la Sangre como arma (ya cerca de la mismísima Diablerie), Caricia de Baal permite al Vástago transmutar su Sangre en un icor ponzoñoso que destruye la carne que toca, esté ésta viva o no-muerta. En las noches de antaño, cuando los Assamitas dirigían las cargas de las legiones sarracenas, a menudo se veía a los Asesinos lamer sus hojas, rasgándose la lengua y cubriendo sus armas con esta nauseabunda secreción.\n\nCaricia de Baal se puede usar para mejorar cualquier arma de filo; desde cuchillos o espadas envenenadas a uñas o garras contaminadas, hay referencias a casi cualquier cosa.\n\nSistema: Caricia de Baal no incrementa el daño causado por un arma determinada, sino que hace que ésta inflija daño agravado en vez de normal. No se necesita tirada para activar el Poder, pero se consume un punto de Sangre por impacto. Por ejemplo, si un Cainita envenena su [cuchillo](/vampire/weapons/cuchillo) y alcanza a su oponente (aunque no cause daño alguno), se pierde veneno por valor de un punto de Sangre. Por esa razón muchos vampiros prefieren recubrir sus armas con una cantidad considerable de Vitae. Si el vampiro falla no se consume Sangre venenosa alguna.",
+    "body_es": "Casi el uso definitivo de la Sangre como arma (ya cerca de la mismísima Diablerie), Caricia de Baal permite al Vástago transmutar su Sangre en un icor ponzoñoso que destruye la carne que toca, esté ésta viva o no-muerta. En las noches de antaño, cuando los Assamitas dirigían las cargas de las legiones sarracenas, a menudo se veía a los Asesinos lamer sus hojas, rasgándose la lengua y cubriendo sus armas con esta nauseabunda secreción.\n\nCaricia de Baal se puede usar para mejorar cualquier arma de filo; desde cuchillos o espadas envenenadas a uñas o garras contaminadas, hay referencias a casi cualquier cosa.\n\nSistema: Caricia de Baal no incrementa el daño causado por un arma determinada, sino que hace que ésta inflija daño agravado en vez de normal. No se necesita tirada para activar el Poder, pero se consume un punto de Sangre por impacto. Por ejemplo, si un Cainita envenena su [cuchillo](/vampire/weapons/cuchillo) y alcanza a su oponente (aunque no cause daño alguno), se pierde [veneno](/vampire/equipments/veneno) por valor de un punto de Sangre. Por esa razón muchos vampiros prefieren recubrir sus armas con una cantidad considerable de Vitae. Si el vampiro falla no se consume Sangre venenosa alguna.",
     "tags": [
       "disciplina",
       "Extinción"
@@ -6888,7 +7076,7 @@
     "line": "vampire",
     "name_en": "·· Envenenar la Fuente de la Vida",
     "name_es": "·· Envenenar la Fuente de la Vida",
-    "body_es": "Además de dejar trazas de emociones en la sangre de un sujeto, quien domina este Poder de Extinción puede corromper esa misma Vitae, convirtiéndola en un veneno funesto para cualquier otro Cainita que beba de ese mortal. Algunos vampiros usan Envenenar la Fuente de la Vida para proteger sus rebaños de 'furtivos' o para proteger a recipientes específicos de la alimentación indiscriminada. Se sabe que algunos lo han usado como trampas sutiles contra otros vampiros, volviendo a los rebaños contra sus dueños.\n\nSistema: El personaje toca al mortal al que quiere contaminar y unge la piel de la víctima con un poco de su Vitae. El jugador gasta tres puntos de Sangre y tira Resistencia + Ocultismo (dificultad 7). Durante tantos meses como éxitos obtenga, cualquier otro vampiro que beba de ese mortal recibe dos niveles de Salud de daño agravado por cada punto de Sangre tomado. El daño se manifiesta como una combinación de quemadura por ácido y shock tóxico.\n\nMientras el mortal es venenoso para los vampiros el equilibrio alquímico de su cuerpo tiende ligeramente hacia la toxicidad. Recibe dos puntos adicionales de Resistencia a efectos de soportar los efectos y el daño de venenos y ácidos. Sin embargo, sus excreciones corporales, especialmente el sudor, son más insalubres de lo normal. Sufre un dado de penalización a todas las reservas de dados Sociales si la persona con la que ha elegido interactuar tiene una nariz especialmente sensible y está lo suficientemente cerca como para olerlo.",
+    "body_es": "Además de dejar trazas de emociones en la sangre de un sujeto, quien domina este Poder de Extinción puede corromper esa misma Vitae, convirtiéndola en un [veneno](/vampire/equipments/veneno) funesto para cualquier otro Cainita que beba de ese mortal. Algunos vampiros usan Envenenar la Fuente de la Vida para proteger sus rebaños de 'furtivos' o para proteger a recipientes específicos de la alimentación indiscriminada. Se sabe que algunos lo han usado como trampas sutiles contra otros vampiros, volviendo a los rebaños contra sus dueños.\n\nSistema: El personaje toca al mortal al que quiere contaminar y unge la piel de la víctima con un poco de su Vitae. El jugador gasta tres puntos de Sangre y tira Resistencia + Ocultismo (dificultad 7). Durante tantos meses como éxitos obtenga, cualquier otro vampiro que beba de ese mortal recibe dos niveles de Salud de daño agravado por cada punto de Sangre tomado. El daño se manifiesta como una combinación de quemadura por ácido y shock tóxico.\n\nMientras el mortal es venenoso para los vampiros el equilibrio alquímico de su cuerpo tiende ligeramente hacia la toxicidad. Recibe dos puntos adicionales de Resistencia a efectos de soportar los efectos y el daño de venenos y ácidos. Sin embargo, sus excreciones corporales, especialmente el sudor, son más insalubres de lo normal. Sufre un dado de penalización a todas las reservas de dados Sociales si la persona con la que ha elegido interactuar tiene una nariz especialmente sensible y está lo suficientemente cerca como para olerlo.",
     "tags": [
       "disciplina",
       "Extinción"
@@ -6914,7 +7102,7 @@
     "line": "vampire",
     "name_en": "·· Sangrientas Garras de Baal",
     "name_es": "·· Sangrientas Garras de Baal",
-    "body_es": "La toxina generada con [Caricia de Baal](/vampire/discipline-powers/caricia-de-baal) no es tan efectiva como para herir a enemigos realmente temibles. Esta mejora de dicha técnica inferior permite al usuario emponzoñar su arma con un veneno sanguíneo tan potente que corroe incluso la propia arma que lo porta, carcomiendo el metal más resistente en un minuto o menos. Sin embargo, los efectos en las víctimas son tan espectaculares que hacen que merezca la pena la pérdida incluso de las hojas más valiosas. La duración del Poder es muy limitada, ya que la sustancia que crea se evapora rápidamente.\n\nSistema: El personaje cubre un arma de filo con su propia Sangre como con [Caricia de Baal](/vampire/discipline-powers/caricia-de-baal), gasta uno o más puntos de Sangre y tira Fuerza de Voluntad (dificultad 7). A partir de este momento el arma hace daño agravado. Además, gana un número de dados de daño adicionales igual al número de éxitos obtenido más la cantidad de puntos de Sangre gastada. Estos dados de daño adicionales desaparecen al ritmo de uno por turno conforme se disipa el veneno, se escurre y reacciona con el material del arma. Una vez han desaparecido todos los dados de daño adicionales, el daño base del arma comienza a disminuir igualmente al mismo ritmo. El arma se rompe si se utiliza después de que su daño de base haya quedado reducido a la Fuerza del usuario o menos. Las únicas armas capaces de resistir la corrosión son las creadas mediante un Poder sobrenatural de un nivel de igual o mayor que el nivel de Extinción del usuario, aunque incluso esta posibilidad queda sujeta a la discreción del Narrador.\n\nSangrientas Garras de Baal tiene las mismas limitaciones que [Caricia de Baal](/vampire/discipline-powers/caricia-de-baal), excepto el límite en el número de impactos que hacen daño agravado. El arma afectada por este Poder hace daño agravado en todos los ataques realizados con éxito hasta que resulta destruida.\n\nA discreción del Narrador, el personaje puede usar el veneno que produce este Poder para otros propósitos como corroer un candado hasta romperlo o destruir una cinta incriminatoria. Sin embargo, no puede almacenar el veneno para usarlo más tarde; incluso si el recipiente es resistente a éste, la sustancia se queda inerte al cabo de pocos minutos de haber abandonado el cuerpo de su creador.",
+    "body_es": "La toxina generada con [Caricia de Baal](/vampire/discipline-powers/caricia-de-baal) no es tan efectiva como para herir a enemigos realmente temibles. Esta mejora de dicha técnica inferior permite al usuario emponzoñar su arma con un [veneno](/vampire/equipments/veneno) sanguíneo tan potente que corroe incluso la propia arma que lo porta, carcomiendo el metal más resistente en un minuto o menos. Sin embargo, los efectos en las víctimas son tan espectaculares que hacen que merezca la pena la pérdida incluso de las hojas más valiosas. La duración del Poder es muy limitada, ya que la sustancia que crea se evapora rápidamente.\n\nSistema: El personaje cubre un arma de filo con su propia Sangre como con [Caricia de Baal](/vampire/discipline-powers/caricia-de-baal), gasta uno o más puntos de Sangre y tira Fuerza de Voluntad (dificultad 7). A partir de este momento el arma hace daño agravado. Además, gana un número de dados de daño adicionales igual al número de éxitos obtenido más la cantidad de puntos de Sangre gastada. Estos dados de daño adicionales desaparecen al ritmo de uno por turno conforme se disipa el [veneno](/vampire/equipments/veneno), se escurre y reacciona con el material del arma. Una vez han desaparecido todos los dados de daño adicionales, el daño base del arma comienza a disminuir igualmente al mismo ritmo. El arma se rompe si se utiliza después de que su daño de base haya quedado reducido a la Fuerza del usuario o menos. Las únicas armas capaces de resistir la corrosión son las creadas mediante un Poder sobrenatural de un nivel de igual o mayor que el nivel de Extinción del usuario, aunque incluso esta posibilidad queda sujeta a la discreción del Narrador.\n\nSangrientas Garras de Baal tiene las mismas limitaciones que [Caricia de Baal](/vampire/discipline-powers/caricia-de-baal), excepto el límite en el número de impactos que hacen daño agravado. El arma afectada por este Poder hace daño agravado en todos los ataques realizados con éxito hasta que resulta destruida.\n\nA discreción del Narrador, el personaje puede usar el [veneno](/vampire/equipments/veneno) que produce este Poder para otros propósitos como corroer un candado hasta romperlo o destruir una cinta incriminatoria. Sin embargo, no puede almacenar el [veneno](/vampire/equipments/veneno) para usarlo más tarde; incluso si el recipiente es resistente a éste, la sustancia se queda inerte al cabo de pocos minutos de haber abandonado el cuerpo de su creador.",
     "tags": [
       "disciplina",
       "Extinción"
@@ -7679,7 +7867,7 @@
     "line": "vampire",
     "name_en": "Beso de la Madre Oscura",
     "name_es": "Beso de la Madre Oscura",
-    "body_es": "Cuando el necromante se sirve de Beso de la Madre Oscura mezcla su Vitae con bilis negra convirtiéndola en un pernicioso veneno. El necromante hace que se forme en su boca como en su momento se formaba la saliva. El sabor de la Vitae es agrio y amargo, como si se hubiera quemado. Una vez que el necromante se ha recubierto los labios y los dientes con ella, su mordisco es capaz de causar daños tremendos.\n\nSistema: El jugador gasta un punto de Sangre; activar el Poder es una acción refleja, pero debe hacerse antes de atacar con un mordisco. Si se acierta con el ataque, el daño agravado infligido en un único mordisco se dobla antes de calcular la absorción. Este Poder no afecta a la capacidad del personaje de extraer sangre del objetivo, ni aumenta el daño causado por la pérdida de sangre. El mordisco del necromante retiene su potencia hasta que tenga éxito en un ataque o hasta que pase un turno limpiándose la Sangre oscura de la boca.",
+    "body_es": "Cuando el necromante se sirve de Beso de la Madre Oscura mezcla su Vitae con bilis negra convirtiéndola en un pernicioso [veneno](/vampire/equipments/veneno). El necromante hace que se forme en su boca como en su momento se formaba la saliva. El sabor de la Vitae es agrio y amargo, como si se hubiera quemado. Una vez que el necromante se ha recubierto los labios y los dientes con ella, su mordisco es capaz de causar daños tremendos.\n\nSistema: El jugador gasta un punto de Sangre; activar el Poder es una acción refleja, pero debe hacerse antes de atacar con un mordisco. Si se acierta con el ataque, el daño agravado infligido en un único mordisco se dobla antes de calcular la absorción. Este Poder no afecta a la capacidad del personaje de extraer sangre del objetivo, ni aumenta el daño causado por la pérdida de sangre. El mordisco del necromante retiene su potencia hasta que tenga éxito en un ataque o hasta que pase un turno limpiándose la Sangre oscura de la boca.",
     "tags": [
       "disciplina",
       "Senda de los Cuatro Humores"
@@ -7708,7 +7896,7 @@
     "line": "vampire",
     "name_en": "Humores Oscuros",
     "name_es": "Humores Oscuros",
-    "body_es": "El vampiro puede exudar un humor determinado que recubre su piel y que causa que cualquiera que lo toque experimente la forma más intensa de emoción asociada a ese humor. Después de que el necromante use este Poder, generalmente siente la sensación contraria a la que transmitiría el humor: usar Sangre lo deja deprimido y pesimista; usar bilis amarilla lo calma y apacigua; usar la bilis negra lo hace sentirse optimista; usar flema lo deja excitado y enfadado.\n\nSistema: El jugador gasta dos puntos de Sangre. El necromante elige qué humor desea excretar. Éste puede recubrir la piel (en cuyo caso lo que hace que el humor tenga efecto es tocar la piel de la víctima) o se puede añadir a una bebida (o a la Vitae) como se haría con un veneno. La víctima debe hacer una tirada de Resistencia (dificultad 8) para resistir los efectos del humor:\n\n- Flema: El objetivo se vuelve letárgico; todas las reservas de dados se reducen en dos por lo que queda de escena.\n- Sangre (Vitae): El objetivo tiene tendencia a sangrar excesivamente, así que cualquier herida letal o agravada que sufra producirá un nivel de Salud adicional de daño en el turno posterior al del daño original. La Vitae alterada con Humores Oscuros no sirve para convertir a un humano en Ghoul ni para iniciar un Vínculo de Sangre.\n- Bilis Negra: El objetivo sufre un número de niveles de Salud de daño igual a la Resistencia del necromante. Este daño se considera letal y puede ser absorbido (si la víctima normalmente es capaz de absorber ese tipo de daño), aunque la armadura no protege del mismo.\n- Bilis Amarilla: El objetivo se pone melancólico y se ve acosado por visiones de muerte. No puede gastar puntos de Fuerza de Voluntad durante el resto de la escena y todas las tiradas de Fuerza de Voluntad tienen un +2 a la dificultad.",
+    "body_es": "El vampiro puede exudar un humor determinado que recubre su piel y que causa que cualquiera que lo toque experimente la forma más intensa de emoción asociada a ese humor. Después de que el necromante use este Poder, generalmente siente la sensación contraria a la que transmitiría el humor: usar Sangre lo deja deprimido y pesimista; usar bilis amarilla lo calma y apacigua; usar la bilis negra lo hace sentirse optimista; usar flema lo deja excitado y enfadado.\n\nSistema: El jugador gasta dos puntos de Sangre. El necromante elige qué humor desea excretar. Éste puede recubrir la piel (en cuyo caso lo que hace que el humor tenga efecto es tocar la piel de la víctima) o se puede añadir a una bebida (o a la Vitae) como se haría con un [veneno](/vampire/equipments/veneno). La víctima debe hacer una tirada de Resistencia (dificultad 8) para resistir los efectos del humor:\n\n- Flema: El objetivo se vuelve letárgico; todas las reservas de dados se reducen en dos por lo que queda de escena.\n- Sangre (Vitae): El objetivo tiene tendencia a sangrar excesivamente, así que cualquier herida letal o agravada que sufra producirá un nivel de Salud adicional de daño en el turno posterior al del daño original. La Vitae alterada con Humores Oscuros no sirve para convertir a un humano en Ghoul ni para iniciar un Vínculo de Sangre.\n- Bilis Negra: El objetivo sufre un número de niveles de Salud de daño igual a la Resistencia del necromante. Este daño se considera letal y puede ser absorbido (si la víctima normalmente es capaz de absorber ese tipo de daño), aunque la armadura no protege del mismo.\n- Bilis Amarilla: El objetivo se pone melancólico y se ve acosado por visiones de muerte. No puede gastar puntos de Fuerza de Voluntad durante el resto de la escena y todas las tiradas de Fuerza de Voluntad tienen un +2 a la dificultad.",
     "tags": [
       "disciplina",
       "Senda de los Cuatro Humores"
@@ -9889,7 +10077,7 @@
     "line": "vampire",
     "name_en": "Forma de Cobra",
     "name_es": "Forma de Cobra",
-    "body_es": "El Cainita puede cambiar de forma transformándose en una enorme cobra negra. La serpiente pesa lo mismo que el vampiro en forma humana, mide más de tres metros (o diez pies) y tiene un grosor de unos 50 cm (20 pulgadas). Forma de Cobra conlleva algunas ventajas, incluyendo un mordisco venenoso, la habilidad de deslizarse por espacios reducidos y una gran mejora del sentido del olfato. Bajo esta forma, el vampiro puede usar cualquier Disciplina salvo aquéllas para las que se necesitan manos (como en [Garras Salvajes](/vampire/discipline-powers/garras-salvajes)).\n\nSistema: El vampiro gasta un punto de Sangre; el cambio es automático, pero tarda tres turnos. La ropa y los objetos personales pequeños se transforman junto con él. El vampiro permanece en forma serpentina hasta el siguiente amanecer a menos que desee regresar antes a su forma original. El Narrador puede conceder al Setita dados adicionales para las tiradas que tienen que ver con el olor, pero las dificultades de las tiradas en las que interviene el oído aumentan en dos. La mordedura de la cobra hace el mismo daño que la del vampiro, pero éste no necesita forcejear con la víctima; además, el veneno inoculado es mortal para los humanos.",
+    "body_es": "El Cainita puede cambiar de forma transformándose en una enorme cobra negra. La serpiente pesa lo mismo que el vampiro en forma humana, mide más de tres metros (o diez pies) y tiene un grosor de unos 50 cm (20 pulgadas). Forma de Cobra conlleva algunas ventajas, incluyendo un mordisco venenoso, la habilidad de deslizarse por espacios reducidos y una gran mejora del sentido del olfato. Bajo esta forma, el vampiro puede usar cualquier Disciplina salvo aquéllas para las que se necesitan manos (como en [Garras Salvajes](/vampire/discipline-powers/garras-salvajes)).\n\nSistema: El vampiro gasta un punto de Sangre; el cambio es automático, pero tarda tres turnos. La ropa y los objetos personales pequeños se transforman junto con él. El vampiro permanece en forma serpentina hasta el siguiente amanecer a menos que desee regresar antes a su forma original. El Narrador puede conceder al Setita dados adicionales para las tiradas que tienen que ver con el olor, pero las dificultades de las tiradas en las que interviene el oído aumentan en dos. La mordedura de la cobra hace el mismo daño que la del vampiro, pero éste no necesita forcejear con la víctima; además, el [veneno](/vampire/equipments/veneno) inoculado es mortal para los humanos.",
     "tags": [
       "disciplina",
       "Serpentis"
@@ -9941,7 +10129,7 @@
     "line": "vampire",
     "name_en": "· Colmillos de Cobra",
     "name_es": "· Colmillos de Cobra",
-    "body_es": "Además de hacerle tomar forma serpentina, el Poder [Forma de Cobra](/vampire/discipline-powers/forma-de-cobra) hace que la mordedura del personaje se vuelva venenosa. Por desgracia, las cobras negras gigantes tienden a provocar que la gente huya lo más rápido posible. Este Poder de Serpentis permite al vampiro adquirir el mordisco mortal sin la transformación completa, haciéndolo más práctico para sorprender a las víctimas. Aun así, la policía hace preguntas cuando alguien muere por un mordisco de cobra en circunstancias extrañas, de modo que aún es necesaria una cierta discreción al usarlo.\n\nSistema: El Vástago gasta un punto de Sangre y en un turno sus colmillos se vuelven huecos, más delgados y venenosos. El vampiro inyecta veneno al morder. Sigue teniendo que forcejear con la víctima para realizar el mordisco, y éste hace la cantidad normal de daño; sin embargo el veneno mata a un mortal en menos de un minuto. Los vampiros u otras criaturas de resistencia sobrenatural que reciban mordiscos sufren (10 - la Resistencia y Fortaleza de la víctima) niveles de daño agravado en un plazo de cinco minutos.",
+    "body_es": "Además de hacerle tomar forma serpentina, el Poder [Forma de Cobra](/vampire/discipline-powers/forma-de-cobra) hace que la mordedura del personaje se vuelva venenosa. Por desgracia, las cobras negras gigantes tienden a provocar que la gente huya lo más rápido posible. Este Poder de Serpentis permite al vampiro adquirir el mordisco mortal sin la transformación completa, haciéndolo más práctico para sorprender a las víctimas. Aun así, la policía hace preguntas cuando alguien muere por un mordisco de cobra en circunstancias extrañas, de modo que aún es necesaria una cierta discreción al usarlo.\n\nSistema: El Vástago gasta un punto de Sangre y en un turno sus colmillos se vuelven huecos, más delgados y venenosos. El vampiro inyecta [veneno](/vampire/equipments/veneno) al morder. Sigue teniendo que forcejear con la víctima para realizar el mordisco, y éste hace la cantidad normal de daño; sin embargo el [veneno](/vampire/equipments/veneno) mata a un mortal en menos de un minuto. Los vampiros u otras criaturas de resistencia sobrenatural que reciban mordiscos sufren (10 - la Resistencia y Fortaleza de la víctima) niveles de daño agravado en un plazo de cinco minutos.",
     "tags": [
       "disciplina",
       "Serpentis"
@@ -13887,7 +14075,7 @@
     "line": "vampire",
     "name_en": "Aspecto de la Bestia",
     "name_es": "Aspecto de la Bestia",
-    "body_es": "En vez de invocar espíritus animales, el vampiro aprende a emular algunas características de esos espíritus él mismo. De esta forma puede ganar velocidad, fuerza, resistencia u obtener los poderes especiales de casi cualquier animal, suponiendo que éste sea nativo de la zona.\n\nSistema: El jugador gasta un punto de Sangre y tira Manipulación + Ocultismo (dificultad 7). El Poder dura un turno por éxito a menos que se diga lo contrario. A continuación se citan algunos ejemplos de características, aunque jugadores y Narradores pueden perfectamente inventar otras:\n\nColores de Camaleón: La Ahrimán adquiere la capacidad de cambiar de color para adaptarse al entorno (-2 a las dificultades de las tiradas de Sigilo que tengan que ver con esconderse).\n\nEquilibrio de Ardilla: La Ahrimán puede desplazarse por las ramas de los árboles o por una cuerda floja sin miedo a caer. Ese tipo de tiradas de Atletismo se hacen a una dificultad reducida en dos.\n\nFerocidad del Puma: Todas las tiradas de Coraje se hacen con -2 a la dificultad.\n\nFuerza de Oso: Proporciona a la Ahrimán dos puntos adicionales en Fuerza.\n\nMordisco de Castor: El mordisco de la Ahrimán se vuelve tan fuerte y afilado como para poder atravesar casi cualquier sustancia (aunque no por ello causa daño adicional a los objetivos vivos o no-muertos).\n\nNariz de Sabueso: El sentido del olfato de la Ahrimán es mucho más sensible que el de un mortal. Incluso puede rastrear mediante el olor con una tirada de Percepción + Supervivencia (el Narrador debe decidir cuál es la dificultad).\n\nOídos de Liebre: La Ahrimán puede oír tan bien como un conejo, lo que reduce la dificultad de las tiradas de Percepción en dos cuando se trata de escuchar.\n\nOjo de Halcón: La Ahrimán puede ver a grandes distancias como si tuviera la capacidad visual de un halcón (-3 a todas las tiradas de Percepción cuando el sentido implicado es la vista).\n\nRapidez del Venado: La Ahrimán puede correr al doble de su velocidad normal.\n\nSalto de Rana: La Ahrimán puede saltar tres veces la altura o distancia normal (ver pág. 262 para leer las reglas sobre los saltos).\n\nSonido del Grillo: Concede la capacidad de producir un sonido irritante y chirriante suficientemente fuerte como para ensordecer a las personas cercanas. A menos que supere una tirada de Fuerza de Voluntad (dificultad 7), el objetivo sufre un +4 a todas las tiradas de Percepción centradas en el sentido del oído.\n\nVeneno de Serpiente: El mordisco de la Ahrimán transmite una toxina venenosa que causa dos niveles de Salud de daño a las víctimas vivas por turno (ver 'Venenos y drogas', pág. 299). El daño continúa hasta que la toxina es eliminada, pierde su efecto, o hasta que el Poder de la Ahrimán termine.",
+    "body_es": "En vez de invocar espíritus animales, el vampiro aprende a emular algunas características de esos espíritus él mismo. De esta forma puede ganar velocidad, fuerza, resistencia u obtener los poderes especiales de casi cualquier animal, suponiendo que éste sea nativo de la zona.\n\nSistema: El jugador gasta un punto de Sangre y tira Manipulación + Ocultismo (dificultad 7). El Poder dura un turno por éxito a menos que se diga lo contrario. A continuación se citan algunos ejemplos de características, aunque jugadores y Narradores pueden perfectamente inventar otras:\n\nColores de Camaleón: La Ahrimán adquiere la capacidad de cambiar de color para adaptarse al entorno (-2 a las dificultades de las tiradas de Sigilo que tengan que ver con esconderse).\n\nEquilibrio de Ardilla: La Ahrimán puede desplazarse por las ramas de los árboles o por una cuerda floja sin miedo a caer. Ese tipo de tiradas de Atletismo se hacen a una dificultad reducida en dos.\n\nFerocidad del Puma: Todas las tiradas de Coraje se hacen con -2 a la dificultad.\n\nFuerza de Oso: Proporciona a la Ahrimán dos puntos adicionales en Fuerza.\n\nMordisco de Castor: El mordisco de la Ahrimán se vuelve tan fuerte y afilado como para poder atravesar casi cualquier sustancia (aunque no por ello causa daño adicional a los objetivos vivos o no-muertos).\n\nNariz de Sabueso: El sentido del olfato de la Ahrimán es mucho más sensible que el de un mortal. Incluso puede rastrear mediante el olor con una tirada de Percepción + Supervivencia (el Narrador debe decidir cuál es la dificultad).\n\nOídos de Liebre: La Ahrimán puede oír tan bien como un conejo, lo que reduce la dificultad de las tiradas de Percepción en dos cuando se trata de escuchar.\n\nOjo de Halcón: La Ahrimán puede ver a grandes distancias como si tuviera la capacidad visual de un halcón (-3 a todas las tiradas de Percepción cuando el sentido implicado es la vista).\n\nRapidez del Venado: La Ahrimán puede correr al doble de su velocidad normal.\n\nSalto de Rana: La Ahrimán puede saltar tres veces la altura o distancia normal (ver pág. 262 para leer las reglas sobre los saltos).\n\nSonido del Grillo: Concede la capacidad de producir un sonido irritante y chirriante suficientemente fuerte como para ensordecer a las personas cercanas. A menos que supere una tirada de Fuerza de Voluntad (dificultad 7), el objetivo sufre un +4 a todas las tiradas de Percepción centradas en el sentido del oído.\n\n[Veneno](/vampire/equipments/veneno) de Serpiente: El mordisco de la Ahrimán transmite una toxina venenosa que causa dos niveles de Salud de daño a las víctimas vivas por turno (ver 'Venenos y drogas', pág. 299). El daño continúa hasta que la toxina es eliminada, pierde su efecto, o hasta que el Poder de la Ahrimán termine.",
     "tags": [
       "disciplina",
       "Spiritus"
@@ -17963,7 +18151,7 @@
     "line": "vampire",
     "name_en": "Purity of Flesh",
     "name_es": "Pureza de la Carne",
-    "body_es": "Con este ritual el invocador purifica su cuerpo de todas las sustancias extrañas. Para llevarlo a cabo medita sobre tierra o roca desnudas estando rodeado por un círculo de 13 piedras afiladas. Durante el transcurso del ritual el invocador expulsa todas las impurezas físicas: suciedad, alcohol, drogas, veneno, balas alojadas en la carne y tinta de tatuajes se ven afectadas por igual, saliendo a la superficie de la piel del invocador al tiempo que forman una película granulosa y gris que se descama depositándose en el interior del círculo. También se disuelven las joyas, el maquillaje o la ropa que lleve el portador.",
+    "body_es": "Con este ritual el invocador purifica su cuerpo de todas las sustancias extrañas. Para llevarlo a cabo medita sobre tierra o roca desnudas estando rodeado por un círculo de 13 piedras afiladas. Durante el transcurso del ritual el invocador expulsa todas las impurezas físicas: suciedad, [alcohol](/vampire/equipments/alcohol), drogas, [veneno](/vampire/equipments/veneno), balas alojadas en la carne y tinta de tatuajes se ven afectadas por igual, saliendo a la superficie de la piel del invocador al tiempo que forman una película granulosa y gris que se descama depositándose en el interior del círculo. También se disuelven las joyas, el maquillaje o la ropa que lleve el portador.",
     "tags": [
       "taumaturgia",
       "ritual",

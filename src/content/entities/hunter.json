@@ -268,7 +268,7 @@
     "line": "hunter",
     "name_en": "Efecto Inquietante",
     "name_es": "Efecto Inquietante",
-    "body_es": "Los Poderes de los Númina suelen ser imperceptibles. Sin embargo, algo del Numen de tu personaje provoca que otros reconozcan que está pasando algo raro. Con el Defecto de un punto, un único Poder intangible (como Telepatía o Psicometría) genera un efecto evidente y perceptible. Quizás los objetivos sientan que el personaje está rebuscando en su mente, o puede que todo el mundo alrededor del psíquico sienta una oleada de perturbadoras sensaciones cuando toca un objeto con resonancias. Con el Defecto de tres puntos, todos los Poderes intangibles de tu personaje (incluyendo los que aprenda más adelante) tienen alguna clase de efecto inquietante, probablemente compartiendo una 'marca' distintiva o estilo similar.",
+    "body_es": "Los Poderes de los Númina suelen ser imperceptibles. Sin embargo, algo del Numen de tu personaje provoca que otros reconozcan que está pasando algo raro. Con el Defecto de un punto, un único Poder intangible (como Telepatía o [Psicometría](/hunter/numens/psicometria)) genera un efecto evidente y perceptible. Quizás los objetivos sientan que el personaje está rebuscando en su mente, o puede que todo el mundo alrededor del psíquico sienta una oleada de perturbadoras sensaciones cuando toca un objeto con resonancias. Con el Defecto de tres puntos, todos los Poderes intangibles de tu personaje (incluyendo los que aprenda más adelante) tienen alguna clase de efecto inquietante, probablemente compartiendo una 'marca' distintiva o estilo similar.",
     "tags": [
       "físico"
     ],
@@ -493,7 +493,7 @@
     "line": "hunter",
     "name_en": "Ecumenista",
     "name_es": "Ecumenista",
-    "body_es": "El Espíritu Santo 'sopla donde quiere'. Tú entiendes esto. Ves los reflejos fractales de tu Dios en otras religiones, y permaneces humilde al darte cuenta de lo poco que sabes acerca de lo divino. Donde otros deben blandir los símbolos sagrados de la tradición cuando usan Fe Verdadera, tú ves el destello celestial en el núcleo de las creencias más allá de la tuya, y eres capaz de usar sus iconos religiosos y suelo sagrado cuando te enfrentas a lo sobrenatural. Igualmente, en tu presencia, un grupo de individuos de diversas religiones puede compartir su Fe Verdadera para un mayor efecto. Tal reserva comunitaria requiere sólo que una persona tenga este Mérito. Puedes hacer de puente que conecte todas las fes como hermanos y hermanas en la larga y oscura noche del alma.",
+    "body_es": "El Espíritu Santo 'sopla donde quiere'. Tú entiendes esto. Ves los reflejos fractales de tu Dios en otras religiones, y permaneces humilde al darte cuenta de lo poco que sabes acerca de lo divino. Donde otros deben blandir los símbolos sagrados de la tradición cuando usan [Fe Verdadera](/hunter/numens/fe-verdadera), tú ves el destello celestial en el núcleo de las creencias más allá de la tuya, y eres capaz de usar sus iconos religiosos y suelo sagrado cuando te enfrentas a lo sobrenatural. Igualmente, en tu presencia, un grupo de individuos de diversas religiones puede compartir su [Fe Verdadera](/hunter/numens/fe-verdadera) para un mayor efecto. Tal reserva comunitaria requiere sólo que una persona tenga este Mérito. Puedes hacer de puente que conecte todas las fes como hermanos y hermanas en la larga y oscura noche del alma.",
     "tags": [
       "físico"
     ],
@@ -543,7 +543,7 @@
     "line": "hunter",
     "name_en": "Paraíso Perdido",
     "name_es": "Paraíso Perdido",
-    "body_es": "Una vez tuviste una Fe Verdadera que podía iluminar la noche. Ahora está extinta. Esto no es simplemente la pérdida de una ventaja, sino una herida abierta en el alma. Sabes lo que es ser visto bajo la luz de lo divino, pero ahora tropiezas fuera de la vista de Dios y te ahogas en la lóbrega gelidez de las dudas, un río que siempre fluye sin fin a la vista.\n\n<!-- image -->\n\nSiempre que te enfrentes a esta pérdida (cuando sujetes un objeto sagrado, se te pida que realices un milagro, entres en una iglesia, etc.), haz una tirada de Fuerza de Voluntad (dificultad 7) o pierde un dado en todas las acciones durante una escena, según la pena se apodera de ti. Fracasar en una tirada de Fuerza de Voluntad consume un punto temporal de Fuerza de Voluntad y te arroja a la desesperación. Satisfacer un vicio (alcohol, drogas, pornografía, etc.) puede reponer los puntos perdidos de esta forma.\n\nEste Defecto puede obtenerse en medio de una crónica con una pérdida de Fe Verdadera, o puede adquirirse durante la creación de personaje como parte de unos antecedentes trágicos, como posible inicio de una historia de redención y recuperación de la fe.",
+    "body_es": "Una vez tuviste una [Fe Verdadera](/hunter/numens/fe-verdadera) que podía iluminar la noche. Ahora está extinta. Esto no es simplemente la pérdida de una ventaja, sino una herida abierta en el alma. Sabes lo que es ser visto bajo la luz de lo divino, pero ahora tropiezas fuera de la vista de Dios y te ahogas en la lóbrega gelidez de las dudas, un río que siempre fluye sin fin a la vista.\n\n<!-- image -->\n\nSiempre que te enfrentes a esta pérdida (cuando sujetes un objeto sagrado, se te pida que realices un milagro, entres en una iglesia, etc.), haz una tirada de Fuerza de Voluntad (dificultad 7) o pierde un dado en todas las acciones durante una escena, según la pena se apodera de ti. Fracasar en una tirada de Fuerza de Voluntad consume un punto temporal de Fuerza de Voluntad y te arroja a la desesperación. Satisfacer un vicio (alcohol, drogas, pornografía, etc.) puede reponer los puntos perdidos de esta forma.\n\nEste Defecto puede obtenerse en medio de una crónica con una pérdida de [Fe Verdadera](/hunter/numens/fe-verdadera), o puede adquirirse durante la creación de personaje como parte de unos antecedentes trágicos, como posible inicio de una historia de redención y recuperación de la fe.",
     "tags": [
       "físico"
     ],
@@ -1127,6 +1127,483 @@
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "recursos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "fe-verdadera",
+    "type": "numen",
+    "line": "hunter",
+    "name_en": "Fe Verdadera",
+    "name_es": "Fe Verdadera",
+    "body_es": "- Cualquier personaje con Fe Verdadera puede intentar repeler vampiros, fantasmas u otras criaturas sobrenaturales blandiendo un símbolo sagrado o mediante oraciones en voz alta. El jugador gasta un punto de Fuerza de Voluntad y tira su puntuación de Fe Verdadera contra una dificultad igual a la Fuerza de Voluntad permanente de la criatura.\n\nLos éxitos obtenidos indican el número de turnos que la criatura debe huir del personaje mientras éste invoca la protección de la oración o del símbolo sagrado. Si no se logran éxitos en la tirada de activación, el ser sobrenatural no tiene que retirarse, pero tampoco puede avanzar. Un fracaso indica que puede avanzar sin trabas. Si se coloca el símbolo religioso sobre el cuerpo de un vampiro, cada éxito causa un nivel de daño agravado al quemar la carne de la criatura.\n\n- ·· El fiel puede sentir la presencia de un vampiro. No necesita intentar detectarla conscientemente, pero tiene que estar en un entorno tranquilo y silencioso, quizá solo y sumido en sus pensamientos, rezando, leyendo un libro religioso, meditando, etc. El fiel no sentirá al vampiro si está distraído (por ejemplo, discutiendo) o en un lugar atestado y ruidoso (siendo empujado por una multitud, en medio de una fiesta, etc.). Esta capacidad no ilumina al vampiro como un faro; el Narrador revela la presencia de éste sólo cuando la percepción del fiel lo detectaría. Ten en cuenta que el personaje no sabe exactamente qué es lo que siente mediante su fe; sólo sabe que hay algo siniestro en las cercanías.\n- ··· El fiel es inmune a Dementación, Dominación, Ofuscación, Quimerismo y otros efectos sobrenaturales que confunden la mente.\n- ···· No se puede convertir al fiel en Ghoul. Es inmune a Presencia y otros efectos sobrenaturales que manipulen las emociones.\n- ····· La mera presencia del fiel puede llenar a un vampiro o a otra criatura sobrenatural de odio hacia sí mismo, asco, terror o incluso dolor físico. El jugador de cualquier vampiro que escuche rezar o predicar al fiel, o que sea tocado por él, debe superar una tirada de Rötschreck (dificultad 9) para que el Vástago no huya inmediatamente hasta el final de la escena. Un vampiro incapaz de huir queda reducido a un despojo balbuceante que tiembla en el suelo, grita, solloza o implora piedad.",
+    "tags": [
+      "numen",
+      "true-faith"
+    ],
+    "mechanics": {
+      "category": "true-faith"
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "fe-verdadera",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "senda-de-la-adivinacion",
+    "type": "numen",
+    "line": "hunter",
+    "name_en": "Senda de la Adivinación",
+    "name_es": "Senda de la Adivinación",
+    "body_es": "- El mago estático interpreta signos o advertencias sobre el estado de sus circunstancias inmediatas, lo que hace que la dificultad de sus tiradas de Iniciativa disminuya en 1 (para más información sobre el orden de Iniciativa y sus modificaciones, ver pág. 271 y 272 del V20 ). Cada éxito obtenido en la tirada de activación extiende esta capacidad una hora.\n- ·· El mago estático elimina posibles resultados negativos al compararlos con antelación. Puede pedirle al Narrador, que representa a la entidad metafísica que hace de guía, información para ayudar a determinar cuál es la mejor elección en una decisión simple. El jugador hace una pregunta como: '¿Debo ir al centro con este extraño?'. El Narrador proporciona entonces como respuesta cierta cantidad de información que ayudará a decidir al jugador.\n\nA la hora de contestar estas preguntas, el Narrador debe considerar una serie de factores. ¿Con qué intención plantea el mago estático la pregunta? ¿Está preguntando cuál es la decisión más segura? ¿Está buscando la ruta más rápida hacia su objetivo? ¿Qué decisión va a tener mayor impacto sobre el estado actual de la crónica? Ver 'Predecir el futuro' más atrás para encontrar más información sobre cómo tratar estas cuestiones.\n\nEl hado no siempre es amable con quienes intentan desentrañarlo. Puede que el destino de un personaje sea seguir a un extraño hasta el centro, donde será atacado por una banda de Ghouls, pero ésa podría ser la forma de averiguar la localización del vampiro que los controla.\n\n- ··· El mago estático puede sentir pautas de probabilidad que le permiten recabar información a corto plazo en relación a decisiones específicas. Una adivinación con éxito revela información sobre la pregunta como en el nivel\n\nanterior, pero también proporciona un atisbo de cuáles serán las siguientes decisiones requeridas para otras opciones disponibles. Este grado de adivinación proporciona pistas sobre el futuro, pero también revela una o más de las elecciones o consecuencias a las que se enfrentará el personaje.\n\nVolviendo a la pregunta de ejemplo, '¿Debo ir al centro con este extraño?', mediante este Poder el jugador obtendría información crucial. El jugador sabría que, si el mago estático se va con el extraño, se enfrentará a un peligro físico (recuerda que será atacado). Si lo supera, le esperará una nueva senda. Y si rechaza acompañar al extraño, ese mismo peligro se cernirá sobre otro. En esta situación, el jugador tiene muchas opciones y cierta cantidad de información sobre cada una de ellas, pero la información es imperfecta. El jugador se basa más en impresiones que en verdades tangibles, hecho que representa la naturaleza de la adivinación.\n\n- ···· El mago estático es capaz de adivinar sucesos específicos del futuro. Éstos aún no están definidos, pero son mucho más probables que las nebulosas posibilidades anteriores. Si el objetivo de la adivinación cambia su comportamiento actual, esos sucesos se vuelven menos probables. Los detalles siguen siendo vagos: mejor 'Encontrarás a un hombre con el que compartirás tu corazón' que 'Encontrarás a un hombre enérgico vestido de verde que se convertirá en tu amante'.\n- ····· El mago estático adquiere la capacidad de sentir detalles claros y concretos del futuro y de predecir sucesos específicos con fiabilidad. Ahora puede describir al hombre de verde del ejemplo anterior con todo detalle. Además, podría saber su nombre y detalles íntimos sobre su vida y su futuro.\n\nPara este nivel de la Senda de la Adivinación se requiere el gasto de un punto de Fuerza de Voluntad y superar una tirada de Percepción + Ocultismo (dificultad 8). El Narrador puede disminuir la dificultad entre 1 y 3 si el invocador tiene un conocimiento profundo de la materia, una posesión preciada del objetivo o algo personal del mismo, como un mechón de pelo o un poco de sangre.\n\nGastando un punto adicional de Fuerza de Voluntad, el mago estático también puede transmitir a esa persona una sensación sutil del sentimiento general que produce la adivinación. Puede tomar la forma de un presentimiento si la situación es peligrosa, o un sentimiento de paz si todo va bien. El receptor de esa sensación no la reconocerá como una comunicación de ningún tipo, sino que la vivirá como algo endógeno, como si fuera una 'corazonada'.",
+    "tags": [
+      "numen",
+      "static-magic"
+    ],
+    "mechanics": {
+      "category": "static-magic",
+      "roll": "Percepción + Ocultismo (dificultad 7).",
+      "cost": "Varía.",
+      "duration": "Una única revelación."
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "senda-de-la-adivinacion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "senda-de-las-maldiciones",
+    "type": "numen",
+    "line": "hunter",
+    "name_en": "Senda de las Maldiciones",
+    "name_es": "Senda de las Maldiciones",
+    "body_es": "- La víctima sufre breves contratiempos, como dejar caer un objeto, decir algo estúpido o que una motocicleta le pise el pie. Mecánicamente, esto se representa con la adición por parte del Narrador de un +1 a la dificultad de las tiradas apropiadas según la situación especificada mientras dure la maldición. Por ejemplo, el pie herido podría hacer que aumentase la dificultad de las tiradas de Atletismo en 1, mientras que decir algo estúpido podría causar que las dificultades relacionadas con Etiqueta se incrementasen de la misma forma.\n- ·· La víctima sufre una serie de errores y mala suerte que resulta en heridas o vergüenza duraderas, como pisar un clavo, romper una reliquia familiar o contraer una enfermedad menor. Mecánicamente, el Narrador representa la situación aumentando en 2 la dificultad de las tiradas apropiadas para la maldición mientras dure ésta.\n- ··· La víctima sufre serios accidentes y desgracias. Efectos típicos serían la rotura de huesos, pérdida de ingresos o enfermedades graves. Mecánicamente, el Narrador representa la situación aumentando en 3 la dificultad de las tiradas apropiadas para la maldición mientras dure ésta.\n- ···· La víctima sufre grandes catástrofes y enfermedades crónicas. Mecánicamente, el Narrador representa la situación aumentando en 3 la dificultad de las tiradas apropiadas para la maldición mientras dure ésta. Además, se resta un dado a las reservas de la víctima relacionadas con la misma en los momentos adecuados de la historia.\n- ····· Las maldiciones de este nivel son casi bíblicas en su alcance. Durante la duración de la misma, a la víctima nada le sale bien. Su vida es un ejercicio de miseria y podría perfectamente ir acompañada de efectos como plagas de langostas, quedar estéril o la desesperación de aquéllos con quienes trata. Mecánicamente, el Narrador representa la situación aumentando en 4 la dificultad de las tiradas apropiadas para la maldición mientras dure ésta. Además, se restan dos dados de las reservas relacionadas de la víctima en los momentos adecuados de la historia. Invocar una maldición de esta magnitud exige que los magos estáticos cuya puntuación de Humanidad sea 4 o más hagan una tirada de Humanidad.",
+    "tags": [
+      "numen",
+      "static-magic"
+    ],
+    "mechanics": {
+      "category": "static-magic",
+      "roll": "Manipulación + Intimidación (dificultad 7).",
+      "cost": "1 punto de Fuerza de Voluntad.",
+      "duration": "Varía (ver más adelante)."
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "senda-de-las-maldiciones",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "senda-de-la-sanacion",
+    "type": "numen",
+    "line": "hunter",
+    "name_en": "Senda de la Sanación",
+    "name_es": "Senda de la Sanación",
+    "body_es": "- Los usuarios de la Senda de la Sanación pueden examinar pacientes con un simple toque y diagnosticar instantáneamente enfermedades, comprender la naturaleza de heridas o descubrir defectos genéticos. Cada\n\n<!-- image -->\n\néxito obtenido en la tirada de activación proporciona información médica relevante adicional.\n\n- ·· Un mago estático que alcance este nivel tiene un control rudimentario del cuerpo de su paciente y puede estimular el proceso curativo. Puede sanar instantáneamente torceduras, jaquecas, gripe o infecciones poco importantes sin dificultad.\n\nSi el jugador gasta un punto de Fuerza de Voluntad y tiene éxito en la tirada, el mago estático puede tocar a un paciente y mitigar el dolor de sus heridas o curar enfermedades contagiosas como el resfriado común, la gripe o incluso enfermedades de transmisión sexual. Sin embargo, este nivel de la Senda no sirve para curar males graves como el cáncer o los problemas cardíacos.\n\nCada éxito obtenido en la tirada de activación niega la penalización a las reservas de dados por heridas sufridas por el objetivo durante 10 minutos. Para más información sobre los efectos del daño y las penalizaciones a las reservas, ver pág. 282-286 del V20 .\n\n- ··· El mago estático es capaz de curar huesos rotos y aliviar enfermedades crónicas pero no mortales (como la artritis, piedras en el riñón o asma) con un simple toque. Las heridas que causan daño contundente o letal sanan al doble de la velocidad normal y sin riesgo de infección gracias a la asistencia del sanador. El mago estático también puede inducir un estado de trance curativo para impedir que el desangramiento u otros traumatismos maten al paciente antes de que se pueda llevar a cabo la cirugía adecuada.\n\nPara usar este Poder, es necesario superar una tirada y gastar un punto de Fuerza de Voluntad.\n\n···· El mago estático puede detener y curar casi cualquier lesión con un solo toque.\n\nSi el jugador gasta un punto de Fuerza de Voluntad y pasa una tirada, el mago estático puede curar instantáneamente un nivel de daño contundente o letal de un paciente. Cada éxito adicional en la tirada de activación cura un nivel más de daño contundente o letal. Sin embargo, sanar daño letal de esta manera conlleva un precio: por cada nivel de daño letal curado, el mago estático sufre una aturdidora migraña durante una hora; ésta provoca que todas las dificultades de las tiradas del mago aumenten en 1. Sin embargo, el jugador puede gastar un punto de Fuerza de Voluntad para ignorar ese efecto durante una escena.\n\n····· El cuerpo humano no tiene secretos para un mago estático que domine este nivel de la Senda de la Sanación. Puede curar enfermedades crónicas y graves (como cáncer, sida o apoplejías), corregir defectos genéticos o eliminar adicciones químicas.\n\nEstos tratamientos son difíciles para los magos estáticos y exigen mantener bajo cuidados constantes al paciente durante algún tiempo. El Narrador debe determinar la duración exacta del tratamiento, así como la necesidad de otros requerimientos, pero generalmente debería ser al menos un cuarto del tiempo de recuperación normal para ese tipo de casos indicado en las páginas 285-286 del V20 .\n\nEsta simpatía tiene un coste para el cuerpo, así que el mago estático puede sufrir un incremento de +1 o +2 a las dificultades de todas las tiradas no relacionadas con la curación durante el período de convalecencia, según determine el Narrador. No es necesario aplicarlo a todos los usos de este Poder, sólo a aquéllos que implican la sanación de las enfermedades más debilitantes y las adicciones más incapacitantes.\n\nAdemás, el mago estático puede superar los efectos del daño sobrenatural sobre el cuerpo. Si el jugador gasta un punto de Fuerza de Voluntad y supera una tirada de Manipulación + Medicina (dificultad 8), un usuario puede curar inmediatamente daño agravado en un objetivo. Cada éxito en la tirada de activación sana un nivel de daño agravado.\n\nSin embargo, curar este tipo de daño tiene un coste. Por cada nivel de daño agravado curado, el mago estático sufre por simpatía un nivel de doloroso daño contundente. No es posible curar este daño simpático mediante aplicaciones de esta Senda (sin importar si la usa el mago que sufre el daño u otro sanador).",
+    "tags": [
+      "numen",
+      "static-magic"
+    ],
+    "mechanics": {
+      "category": "static-magic",
+      "roll": "Manipulación + Medicina (dificultad 7).",
+      "cost": "Varía.",
+      "duration": "Varía según el efecto (ver a continuación)."
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "senda-de-la-sanacion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "ciberquinesis",
+    "type": "numen",
+    "line": "hunter",
+    "name_en": "Ciberquinesis",
+    "name_es": "Ciberquinesis",
+    "body_es": "- Este nivel de Ciberquinesis permite al ciberquineta proyectar sus percepciones al interior de un dispositivo electrónico, posibilitando la comprensión de la tarea para la que fue construido, los principios de su funcionamiento y la manera en la que opera. El ciberquineta debe tocar el aparato y el jugador superar la tirada de activación. El número de éxitos indica lo bien que el psíquico comprende el dispositivo, de una idea general (un éxito) a un conocimiento holístico del mismo, de la arquitectura del procesador, sus fuentes de energía y sus estructuras de datos (cinco éxitos).\n- ·· El ciberquineta comprende intuitivamente las debilidades de los equipos electrónicos. Con sólo tocar un dispositivo puede provocar una sobrecarga en las fuentes de alimentación y causar una interrupción del funcionamiento del aparato o incluso destruirlo. Para ello, el jugador sólo ha de gastar un punto de Fuerza de Voluntad y pasar la tirada de activación. No se puede usar este Poder para dañar a una persona directamente (aunque destruir el chip de control de inyección de combustible de un vehículo puede provocar posteriormente un accidente grave, por ejemplo). El número de éxitos obtenidos en la tirada de activación determina el grado de daño que recibe el dispositivo. Un único éxito produce una caída de tensión, pero no causa daños. Tres éxitos hacen que el aparato se apague, requiriéndose un reinicio manual o remoto. Cinco éxitos indican que se produce un apagón permanente y se quema la fuente de alimentación, la cual debe ser sustituida para volver a hacer posible el encendido. Ten en cuenta que no es posible interrumpir el funcionamiento de sistemas complejos de ordenadores, como redes a gran escala y sistemas de almacenamiento remoto en la nube, haciendo fallar un único dispositivo.\n- ··· El ciberquineta puede leer, cifrar y descifrar telepáticamente comunicaciones electrónicas con sorprendente velocidad y precisión. Si el jugador pasa la tirada de activación, con sólo tocar un dispositivo el psíquico puede abrir, cifrar o descifrar (pero no alterar) cualquier archivo almacenado en él. Si el ciberquineta cifra los datos, el número de éxitos obtenidos en la tirada de activación se aplica como penalización a la dificultad a cualquier otra persona que intente leer esos datos.\n\nPara más información sobre el uso de ordenadores y el almacenamiento de información, ver pág. 264-265 del V20 .\n\n- ···· El ciberquineta puede acceder mentalmente a cualquier dispositivo en su línea de visión. No se trata de una forma de [telequinesis](/hunter/numens/telequinesis) en la que el psíquico presiona los mandos; más bien el ciberquineta alcanza el aparato usando una versión psíquica de las ondas de radio semejante al WiFi , infiltrándose en él y controlándolo desde dentro. Cuando está conectado a un aparato mediante este Poder, puede emplear cualquiera de los otros niveles de Ciberquinesis sin tener contacto físico con él.\n- ····· Si el jugador gasta un punto de Fuerza de Voluntad y pasa la tirada de activación, el ciberquineta puede usar cualquier computadora, o aparato asistido por una, que toque o al que acceda mediante la vista (según se menciona anteriormente). Puede activar cualquier función del dispositivo: utilizar apps , compartir archivos, enviar datos a redes, abrir cerraduras mecánicas, etc. Ten en cuenta que las funciones avanzadas o seguras deberán resolverse mediante otros métodos, ya sea en la forma de otras aplicaciones de Ciberquinesis o simplemente sabiendo la contraseña.\n\nCada éxito en la tirada de activación permite controlar el aparato objetivo durante 10 minutos. El ciberquineta se desconecta de los aparatos que son retirados de su línea de visión o del contacto físico con él, según el caso. Si se destruye el equipo mientras lo controla, el ciberquineta sufre cinco niveles de daño contundente debido a la conmoción sináptica.",
+    "tags": [
+      "numen",
+      "psychic"
+    ],
+    "mechanics": {
+      "category": "psychic",
+      "roll": "Manipulación + Tecnología (dificultad 7).",
+      "cost": "Varía.",
+      "duration": "Generalmente instantánea."
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "ciberquinesis",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "piroquinesis",
+    "type": "numen",
+    "line": "hunter",
+    "name_en": "Piroquinesis",
+    "name_es": "Piroquinesis",
+    "body_es": "- Vela (dificultad 3 para absorber, un nivel de Salud de daño agravado por turno).\n- ·· Mano de fuego (dificultad 4 para absorber, un nivel de Salud de daño agravado por turno).\n- ··· Fogata (dificultad 5 para absorber, dos niveles de Salud de daño agravado por turno).\n- ···· Pira (dificultad 7 para absorber, dos niveles de Salud de daño agravado por turno).\n- ····· Infierno (dificultad 9 para absorber, tres niveles de Salud de daño agravado por turno).",
+    "tags": [
+      "numen",
+      "psychic"
+    ],
+    "mechanics": {
+      "category": "psychic",
+      "roll": "Manipulación + Consciencia.",
+      "cost": "1 punto de Fuerza de Voluntad.",
+      "duration": "Una vez liberado, el fuego piroquinético se convierte en fuego normal, que se comporta como se describe en la pág. 292 del V20 ."
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "piroquinesis",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "proyeccion-astral",
+    "type": "numen",
+    "line": "hunter",
+    "name_en": "Proyección Astral",
+    "name_es": "Proyección Astral",
+    "body_es": "- El psíquico tiene una consciencia rudimentaria de lo que hay en el plano astral, aunque aún no puede viajar por él. Puede dirigir sus sentidos hacia el reino astral, donde puede ver a los viajeros que hay allí y comunicarse con ellos. Primero tiene que concentrarse un turno para que su mente se ajuste al conflicto de imágenes, tras lo cual el psíquico ve el reino astral sobrepuesto al mundo físico normal.\n- ·· Gastando un punto de Fuerza de Voluntad y pasando una tirada de Percepción + Consciencia (dificultad 8), el psíquico puede abandonar su cuerpo durante breves períodos de tiempo y viajar al reino astral. Cada éxito en la tirada de activación permite un minuto de viaje astral. Si el psíquico quiere hacer un esfuerzo, el jugador puede gastar un punto de Fuerza de Voluntad para ampliar el tiempo del personaje en otro minuto más. Cuando ese tiempo ha acabado, regresa rápidamente a su cuerpo físico a menos que haya sucedido algo extraño y funesto.\n- ··· Si el jugador gasta un punto de Fuerza de Voluntad, el psíquico puede manifestar su forma astral en el\n- mundo material. De esta forma, puede aparecerse en la punta opuesta del mundo respecto al lugar donde deja su cuerpo físico usando la enorme velocidad del viaje astral para visitar lugares remotos en forma de pensamiento. Un viajero astral parece una versión borrosa y translúcida de su apariencia física habitual. Un peregrino astral que se manifiesta no puede tocar o afectar el mundo material, pero puede ser visto por no-psíquicos y puede hablar en débiles susurros.\n- ···· A este nivel de capacidad, el psíquico puede internarse en las profundidades del plano astral durante períodos prolongados de tiempo. Si el jugador gasta un punto de Fuerza de Voluntad y pasa una tirada de Percepción + Consciencia (dificultad 8), el psíquico puede visitar el reino astral durante una hora por éxito. Si quiere hacer un esfuerzo, puede gastar un punto de Fuerza de Voluntad para ampliar el tiempo del personaje en una hora más.\n- ····· Si el jugador gasta un punto de Fuerza de Voluntad y pasa una tirada de Manipulación + Consciencia (dificultad 8), el psíquico puede ocultar su presencia en el plano astral (incluyendo su cordón de plata) ante otros viajeros astrales. A discreción del Narrador, puede que otros psíquicos rivales o entidades nativas del plano astral sientan la presencia de algo extraño, pero no serán capaces de identificar el origen de su inquietud a menos que sus jugadores obtengan más éxitos en una tirada de Percepción + Consciencia que el peregrino astral oculto en su tirada de activación.",
+    "tags": [
+      "numen",
+      "psychic"
+    ],
+    "mechanics": {
+      "category": "psychic",
+      "roll": "Varía.",
+      "cost": "Varía.",
+      "duration": "Depende de los éxitos."
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "proyeccion-astral",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "psicometria",
+    "type": "numen",
+    "line": "hunter",
+    "name_en": "Psicometría",
+    "name_es": "Psicometría",
+    "body_es": "- El psíquico puede percibir la resonancia psíquica de un objeto o un lugar para obtener información sobre la identidad del dueño del objeto o del visitante más significativo del lugar.\n- ·· El psíquico obtiene información sobre todo lo que ha ocurrido junto al objeto o el lugar durante las últimas 24 horas.\n- ··· El psíquico puede descubrir y entender la historia completa del objeto o el lugar. Puede observar los sucesos clave acaecidos en las cercanías del objeto o el lugar.\n- ···· El psíquico puede armonizarse con un objeto, lo que le permite sintonizar su visión con la localización del propietario del objeto. Así, puede observarlo en cualquier parte del mundo durante 10 minutos por éxito en la tirada de activación (con la claridad indicada en la tabla de efectos de más adelante).\n- ····· El psíquico puede seguir la resonancia psíquica hasta el propietario de un objeto. Así averigua la dirección y la distancia a la que se encuentra éste en el mundo físico o el astral (dependiendo de la claridad del efecto, como se indica más abajo). Esta conexión dura una hora por éxito obtenido en la tirada de activación.",
+    "tags": [
+      "numen",
+      "psychic"
+    ],
+    "mechanics": {
+      "category": "psychic",
+      "roll": "Percepción + Empatía (dificultad 7).",
+      "cost": "1 punto de Fuerza de Voluntad.",
+      "duration": "Generalmente no aplicable, pero los niveles superiores conceden 10 minutos o una hora por éxito de conexión activa."
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "psicometria",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "telequinesis",
+    "type": "numen",
+    "line": "hunter",
+    "name_en": "Telequinesis",
+    "name_es": "Telequinesis",
+    "body_es": "- Medio kilo o una libra.\n\n- ••\n\n10 kilos o 20 libras.\n\n- •••\n\n100 kilos o 200 libras.\n\n- ••••\n\n250 kilos o 500 libras.\n\n- •••••\n\n500 kilos o 1000 libras.",
+    "tags": [
+      "numen",
+      "psychic"
+    ],
+    "mechanics": {
+      "category": "psychic",
+      "roll": "Astucia + Consciencia.",
+      "cost": "1 punto de Fuerza de Voluntad.",
+      "duration": "Depende de los éxitos y de la resistencia de los objetivos involuntarios."
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "telequinesis",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "via-geniorum",
+    "type": "numen",
+    "line": "hunter",
+    "name_en": "Via Geniorum",
+    "name_es": "Via Geniorum",
+    "body_es": "· Ritual de Revelación: El teúrgo no escudriña el mundo espiritual, sino que ordena a las criaturas celestiales próximas que se revelen. Superando una tirada de Caris-\n\n- ma + Ocultismo (dificultad 8), el teúrgo puede ver todos los espíritus del área próxima (incluyendo a aquéllos que estén poseyendo cuerpos físicos).\n- ·· Ritual de Protección: Superando una tirada de Astucia + Ocultismo (dificultad 7), el teúrgo puede dibujar signos protectores en objetos transportables o en un pequeño círculo a su alrededor. Las tiradas extendidas de ritual permiten hacer círculos mayores o proteger lugares de forma más completa, siendo suficientes 10 éxitos para proteger una casa pequeña. Una vez protegido, los espíritus no pueden atormentar a la persona o entrar en dicho lugar sin superar una tirada de Fuerza de Voluntad (dificultad 9). La protección dura un mes o hasta que se altere el signo (un símbolo tallado es mucho más difícil de alterar que uno dibujado con tiza).\n- ··· Ritual de Rechazo: El teúrgo puede enviar a un espíritu de vuelta a su reino nativo. Esto requiere una tirada de Carisma + Ocultismo (dificultad 9). El número de éxitos requeridos en un ritual extendido varía ampliamente de acuerdo al poder del espíritu (y queda a discreción del Narrador).\n- ···· Ritual de Invocación: Un teúrgo puede invocar entidades espirituales. Se necesita una tirada de Carisma + Ocultismo (dificultad 9). El número de éxitos requeridos en un ritual extendido varía ampliamente de acuerdo al poder del espíritu (y queda a discreción del Narrador). El espíritu invocado debe permanecer en presencia del teúrgo durante una escena o hasta que haya respondido a tres preguntas (no se puede hacer que revele su nombre verdadero de esta forma). Toda interacción posterior depende de tiradas Sociales, sacrificios u otros poderes. Un fracaso invoca a un espíritu iracundo que probablemente ataque al desafortunado teúrgo.\n- ····· Ritual de Vinculación: Ahora el teúrgo puede forzar a un espíritu a servirle. Esto requiere una tirada de Manipulación + Ocultismo (dificultad 9). El número de éxitos requeridos en un ritual extendido varía ampliamente de acuerdo al poder del espíritu (y queda a discreción del Narrador). A un espíritu vinculado se le puede pedir realizar una acción concreta ('¡Ataca al vampiro!') o una acción prolongada ('Cuida de mí') que dure hasta el próximo amanecer o atardecer.",
+    "tags": [
+      "numen",
+      "static-magic"
+    ],
+    "mechanics": {
+      "category": "static-magic",
+      "roll": "Varía (ver más adelante).",
+      "cost": "1 punto de Fuerza de Voluntad.",
+      "duration": "Varía (ver más adelante)."
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "via-geniorum",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "via-necromantiae",
+    "type": "numen",
+    "line": "hunter",
+    "name_en": "Via Necromantiae",
+    "name_es": "Via Necromantiae",
+    "body_es": "- Ritual de Despertar: El teúrgo puede ordenar a un cadáver reciente que despierte. Superando una tirada de Carisma + Ocultismo (dificultad 7), el cadáver se sentará y responderá las preguntas del teúrgo lo mejor que pueda durante un minuto por éxito. Por cada 24 horas que el cadáver haya estado muerto, se suma 1 a la dificultad. Un cadáver muerto desde hace más de tres días no puede ser despertado.\n- ·· Ritual de Custodia: Los teúrgos pueden proteger una zona de intrusiones fantasmales. Superando una tirada de Astucia + Ocultismo (dificultad 7), el teúrgo puede impedir que los fantasmas entren en un área del tamaño de una habitación. Cada éxito significa una semana de protección exitosa.\n- ··· Ritual de Comunicación: Los teúrgos pueden contactar con los muertos haciendo una tirada de Carisma + Ocultismo (dificultad 10). Esa dificultad disminuye, de forma acumulativa, si se cumple cualquiera de las siguientes condiciones: el teúrgo posee un objeto importante para el fantasma cuando estaba vivo (-1), está presente una persona importante para el fantasma (-1), el ritual se realiza en la antigua casa del fantasma (-1), el ritual se realiza en un lugar donde el velo entre el Inframundo y el mundo de los vivos es tenue (-2). Mantener el contacto con los muertos es difícil. Cada éxito obtenido por el teúrgo permite un minuto de comunicación. Este período puede duplicarse gastando otro punto de Fuerza de Voluntad.\n- ···· Ritual de Expulsión: Los teúrgos pueden expulsar a un fantasma. Se necesita una tirada Carisma + Ocultismo (dificultad igual a la Fuerza de Voluntad del fantasma + 3, máximo 9); ésta es una tirada extendida y se requiere un número de éxitos igual al doble de la Fuerza de Voluntad del fantasma. Sólo el hecho de iniciar el destierro cuesta un punto temporal de Fuerza de Voluntad, pero no es necesario gastar más durante el resto de la lucha.\n- ····· Ritual de Vivificación: El teúrgo puede ahora instar a un cadáver a alzarse. Esto requiere una tirada de Manipulación + Ocultismo (dificultad 8). Cada éxito anima el cadáver durante una semana, y ese tiempo puede duplicarse gastando otro punto de Fuerza de Voluntad. Los cadáveres animados no tendrán demasiada personalidad o inteligencia, pero pueden seguir órdenes sencillas.",
+    "tags": [
+      "numen",
+      "static-magic"
+    ],
+    "mechanics": {
+      "category": "static-magic",
+      "roll": "Varía (ver más adelante).",
+      "cost": "1 punto temporal de Fuerza de Voluntad.",
+      "duration": "Varía (ver más adelante)."
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "via-necromantiae",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "psi-animal",
+    "type": "numen",
+    "line": "hunter",
+    "name_en": "Psi Animal",
+    "name_es": "Psi Animal",
+    "body_es": "- Leer Intención Básica/Comunicación: El usuario puede leer la intención básica de un animal, tal como saber si va a atacar o a huir, y puede tanto hablar con el animal como entender lo que el animal le 'responde'.\n- ·· Leer Emociones Actuales/Orden Sencilla: El psíquico puede leer el estado emocional actual de un animal, tal como saber si un animal ataca por rabia, odio o hambre. Además, el psíquico puede dar una orden simple que el animal está obligado a seguir, la cual no puede ser de más de seis palabras.\n- ··· Leer Deseos y Necesidades/Orden Compleja: El psíquico puede leer los deseos y necesidades de un animal sin necesidad de preguntar, y saber si un animal quiere que lo siga o que se aleje. El psíquico también puede darle una orden compleja, normalmente en forma de dos órdenes sencillas unidas ('Sigue a ese hombre y luego vuelve conmigo'). El animal seguirá las órdenes mientras dure el Poder.\n- ···· Anticipar Instintos/Tomar Prestados Recuerdos: El psíquico puede anticipar los instintos complejos de un animal y saber cómo reaccionará ante eventos que aún no han ocurrido. También puede tomar prestados recuerdos del animal y averiguar lo que ha visto, oído u olido en las últimas seis horas.\n- ····· Comunión Mental: El psíquico puede mandar sus sentidos junto con el animal, impulsándolo a ir donde él desea que vaya, y percibiendo con todos sus sentidos (el sentido del olfato de un perro, o la vista de un ave de presa). Cuando se usa este Poder, el psíquico ignora por completo su propio entorno.",
+    "tags": [
+      "numen",
+      "psychic"
+    ],
+    "mechanics": {
+      "category": "psychic",
+      "roll": "Percepción + Trato con Animales (dificultad 7). Modificadores: Por tipo de animal, según se describe arriba.",
+      "cost": "Ninguno.",
+      "duration": "Puede comunicarse un minuto por éxito."
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "psi-animal",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "anti-psi",
+    "type": "numen",
+    "line": "hunter",
+    "name_en": "Anti-Psi",
+    "name_es": "Anti-Psi",
+    "body_es": "- La nube se extiende hasta un radio de cinco metros o yardas alrededor del usuario. Cualquiera dentro de la nube resta un dado de todas las reservas de fenómenos psíquicos.\n- ·· La nube se extiende hasta un radio de diez metros o yardas alrededor del usuario. Cualquiera dentro de la nube resta dos dados de todas las reservas de fenómenos psíquicos.\n- ··· La nube se extiende hasta un radio de quince metros o yardas alrededor del usuario. Cualquier dentro de la nube resta cuatro dados de todas las reservas de fenómenos psíquicos.\n- ···· La nube se extiende hasta un radio de veinte metros o yardas alrededor del usuario. Cualquiera dentro de la nube resta seis dados de todas las reservas de fenómenos psíquicos.\n- ····· La nube se extiende hasta un radio de veinticinco metros o yardas alrededor del usuario. Cualquiera dentro de la nube resta ocho dados de todas las reservas de fenómenos psíquicos.\n\n<!-- image -->",
+    "tags": [
+      "numen",
+      "psychic"
+    ],
+    "mechanics": {
+      "category": "psychic",
+      "roll": "Ninguna.",
+      "cost": "Ninguno.",
+      "duration": "Anti-Psi está siempre activo. Los usuarios pueden atenuar el poder al nivel de un punto, pero añaden un +2 a la dificultad a todas las acciones Mentales durante esta intensa concentración."
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "anti-psi",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "senda-de-la-alquimia",
+    "type": "numen",
+    "line": "hunter",
+    "name_en": "Senda de la Alquimia",
+    "name_es": "Senda de la Alquimia",
+    "body_es": "- El alquimista puede crear elixires y polvos menores, incluyendo pociones simples, tranquilizantes, anestésicos, estimulantes y brebajes de curación menores. Un elixir de curación reduce la penalización a la reserva debido a las heridas en 1 (hasta un mínimo de 0), y reduce el tiempo de curación del daño contundente y letal ya sufrido a la mitad.\n\nLos espías del Arcanum tienen otros usos para estas creaciones: líquidos que borran la memoria a corto plazo, polvos que contrarrestan los efectos intoxicantes del alcohol, elixires que ayudan a un sueño reparador sin que luego se tenga recuerdo de haber soñado, etc. (muchos Templarios ofrecen sus [recursos](/hunter/backgrounds/resources) y servicios a cambio de una noche de paz [N.d.T.: Los Templarios son una orden dentro del Arcanum]). Como siempre, si se puede intentar un efecto alquímico queda a discreción del Narrador.\n\nCrear efectos de un punto no tiene coste de Fuerza de Voluntad.\n\n- ·· El alquimista entiende mejor cómo interactúan los reactivos, logrando efectos más fuertes que armonizan con el cuerpo y la mente. Esto incluye polvos que conceden visiones simbólicas en sueños (posiblemente del futuro o de algo inminente), líquidos que permiten aguantar toda una semana con sólo una hora de sueño cada noche y elixires que alteran elementos físicos (como el color de la piel, del pelo o de los ojos) durante unas horas.\n\nUn elixir de curación de dos puntos funciona como la versión de un punto, pero además cura dos niveles contundentes o letales de forma inmediata. Junto con esto, el alquimista puede elaborar un elixir que potencie las habilidades naturales de un usuario en una situación concreta. Escoge la Habilidad y Especialización cuando crea el efecto; por ejemplo, Empatía e Intuición (para leer las emociones) o Subterfugio y Encanto (para magnetismo personal). El usuario gana esa Especialidad; si ya la posee, adquiere en su lugar dos dados adicionales cuando ésta entre en juego (además de que los 10 cuenten como dos éxitos). Esto dura un número de horas igual al número de éxitos obtenidos en la tirada de activación.\n\nCrear efectos de dos puntos no tiene coste de Fuerza de Voluntad.\n\n- ··· El alquimista es lo suficientemente competente con los brebajes para conceder habilidades sobrehumanas. Diferentes fórmulas pueden conceder a quien las beba un Numen específico por el resto de la escena. Tales fórmulas suelen ser barrocas o necesitar extraños componentes; un alquimista usa los restos de un habano, con ceniza y todo, mezclados con el filamento de una vieja bombilla que se fundió en Canadá como base de un elixir de [Piroquinesis](/hunter/numens/piroquinesis). El alquimista sólo puede crear efectos de menos puntos que sus puntos en Alquimia, y quien beba el elixir debe pagar cualquier coste de Fuerza de Voluntad asociado con el efecto.\n\nEl alquimista también puede imbuir metales con extrañas propiedades, eliminar impurezas y crear elementos del ideal platónico. Entre otros usos, la Alquimia puede hacer que armas pequeñas (dagas, o un puñado de balas) hagan daño agravado a las criaturas sobrenaturales. Los metales también pueden ser imbuidos con algunos efectos de la Alquimia de dos puntos.\n\nCrear efectos de tres puntos cuesta 1 punto de Fuerza de Voluntad.\n\nA este nivel, el alquimista puede crear un brebaje normal de un punto mucho más fácilmente, sólo necesita un pequeño kit de viaje (además de los materiales apropiados). Éste reduce el tiempo necesario para reunir los materiales a un día, como mucho dos para los efectos que necesitan de ingredientes raros. Crear estos efectos no tiene coste de Fuerza de Voluntad.\n\n- ···· El alquimista ha dominado todas las formas inferiores de Alquimia. Puede crear versiones mucho más poderosas de las fórmulas, así como brebajes que incrementen temporalmente una Habilidad o Atributo en uno o dos puntos. Las fórmulas que conceden un punto duran hasta el final de la escena, aquéllas que conceden dos (ya sean en la misma Habilidad o Atributo, o un punto en dos distintas) duran un turno. Tales fórmulas son esotéricas, ya que el alquimista ahonda en sustancias que representan tanto ideales platónicos y pureza emocional como pureza física.\n\nBastantes Arcanistas han hecho uso de cosas extrañas para tales fórmulas, como orina de aquéllos que están cerca del coma etílico como componente para un polvo que concede al usuario un punto de Manipulación durante el resto de la escena.\n\nCrear efectos de cuatro puntos cuesta 1 punto de Fuerza de Voluntad. Los efectos de dos puntos pueden extenderse durante toda una escena al coste de 2 puntos de Fuerza de Voluntad.\n\nA este nivel, el alquimista también puede crear un brebaje de dos puntos con un kit de viaje. Esto reduce al tiempo necesario para reunir el material a un día, como\n\n- mucho dos para los efectos que requieran ingredientes raros (para los efectos de un punto, reduce el tiempo necesario para reunir el material a un día como mucho ). Crear estos efectos no tiene coste alguno de Fuerza de Voluntad.\n- ····· Junto con las versiones más impresionantes de las fórmulas inferiores, un maestro de la Alquimia puede crear efectos trascendentes que conceden amplias habilidades a la par con las de las criaturas sobrenaturales que los Arcanistas observan y catalogan. Casi todas estas fórmulas requieren alguna parte de una criatura como catalizador. Suelen durar un turno por éxito y no pueden superar el segundo nivel de una Disciplina u otro Poder. Los elixires de Disciplinas vampíricas requieren al menos cinco puntos de Vitae vampírica.\n\nEl alquimista puede crear un polvo regenerativo que, cuando entra en el torrente sanguíneo (normalmente aplicándolo a una herida abierta), cierra las heridas del usuario. Regenera un nivel de daño cada dos turnos hasta el final de la sesión.\n\nCrear efectos de cinco puntos cuesta un punto de Fuerza de Voluntad, además de los atroces componentes necesarios.\n\nA este nivel, el alquimista también puede crear un brebaje de tres puntos con un kit de viaje. Cualquier efecto de tres puntos sobre metales dura más, como si se hubiera obtenido un éxito adicional.",
+    "tags": [
+      "numen",
+      "static-magic"
+    ],
+    "mechanics": {
+      "category": "static-magic",
+      "roll": "Inteligencia + Ocultismo (dificultad 8).",
+      "cost": "Varía.",
+      "duration": "Varía."
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "senda-de-la-alquimia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "golpear-en-el-mismo-sitio",
+    "type": "tactic",
+    "line": "hunter",
+    "name_en": "Golpear en el mismo sitio",
+    "name_es": "Golpear en el mismo sitio",
+    "body_es": "Incluso la carne no-muerta de un vampiro tiene sus límites. Con esta táctica, los cazadores apuntan a la misma parte del cuerpo con sus armas: espadas, objetos contundentes, lo que quieran usar. Golpear el mismo punto que el cazador anterior supone un +1 a la dificultad pero, por cada impacto logrado después del primero, la dificultad de absorción del vampiro aumenta en 1.",
+    "tags": [
+      "táctica"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "golpear-en-el-mismo-sitio",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "que-ardan",
+    "type": "tactic",
+    "line": "hunter",
+    "name_en": "¡Que ardan!",
+    "name_es": "¡Que ardan!",
+    "body_es": "Las reglas para el fuego y su efecto sobre los vampiros se encuentran en la pág. 292 del V20 . Sin embargo, usarlo en un combate es algo arriesgado porque tiende a extenderse quedando fuera de control, y un vampiro ardiendo ciego de pánico es peligroso para cualquiera que esté cerca. Esta táctica permite un poco más de control sobre la incineración. Un cazador hace la tirada para prender fuego al vampiro (la manera más segura de lograrlo es usar un cóctel molotov o algo similar; se puede encontrar información al respecto más adelante, en el apartado Herramientas). Mientras tanto, los demás, equipados con armas largas, empujan y golpean al vampiro para contenerlo. Las horcas son el arma ideal pero, si no hay más remedio, pueden usarse lanzas, garrotes e incluso bates de béisbol (aunque todo lo que mida menos de 30 cm o un pie no es efectivo).",
+    "tags": [
+      "táctica"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "que-ardan",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "estacar",
+    "type": "tactic",
+    "line": "hunter",
+    "name_en": "Estacar",
+    "name_es": "Estacar",
+    "body_es": "Éste es el clásico método de destruir a un vampiro en el que los cazadores lo sujetan y uno de ellos le atraviesa el corazón con una estaca de madera. La parte difícil es mantenerlo lo suficientemente quieto como para poder colocar la estaca con precisión.",
+    "tags": [
+      "táctica"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "estacar",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "tentar-a-la-bestia",
+    "type": "tactic",
+    "line": "hunter",
+    "name_en": "Tentar a la bestia",
+    "name_es": "Tentar a la bestia",
+    "body_es": "Ésta es una táctica extremadamente peligrosa para la que se requiere que un cazador tenga una herida visible y sangrante (autoinfligida o recibida en combate, ambas posibilidades valen). El cazador se acerca al vampiro de forma que éste pueda oler la sangre y sale disparado. El otro, siguiendo su instinto, se abalanza sobre el cazador, momento en el que los demás atacan aprovechando la distracción del vampiro.",
+    "tags": [
+      "táctica"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "tentar-a-la-bestia",
         "variant": "base"
       }
     ],

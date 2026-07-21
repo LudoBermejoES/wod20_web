@@ -13482,6 +13482,330 @@
     "related": []
   },
   {
+    "id": "disruptores-ectoplasmicos",
+    "type": "equipment",
+    "line": "mage",
+    "name_en": "Disruptores ectoplásmicos",
+    "name_es": "Disruptores ectoplásmicos",
+    "body_es": "5, A · El impacto causa daño agravado a entidades espirituales y vampiros; daño normal a los seres físicos.",
+    "tags": [
+      "equipo",
+      "ammunition"
+    ],
+    "mechanics": {
+      "category": "ammunition",
+      "effect": "5, A · El impacto causa daño agravado a entidades espirituales y vampiros; daño normal a los seres físicos."
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "disruptores-ectoplasmicos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "proyectiles-explosivos",
+    "type": "equipment",
+    "line": "mage",
+    "name_en": "Proyectiles explosivos",
+    "name_es": "Proyectiles explosivos",
+    "body_es": "6, L · Minigranadas; el blanco recibe seis dados, menos un dado por metro o yarda hasta el impacto hasta un máximo de -6 dados; utilizable sólo con escopetas y [armas](/mage/instruments/weapons) de fuego de la Tecnocracia.",
+    "tags": [
+      "equipo",
+      "ammunition"
+    ],
+    "mechanics": {
+      "category": "ammunition",
+      "effect": "6, L · Minigranadas; el blanco recibe seis dados, menos un dado por metro o yarda hasta el impacto hasta un máximo de -6 dados; utilizable sólo con escopetas y armas de fuego de la Tecnocracia."
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "proyectiles-explosivos",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "effect": "6, L · Minigranadas; el blanco recibe seis dados, menos un dado por metro o yarda hasta el impacto hasta un máximo de -6 dados; utilizable sólo con escopetas y <a href=\"/mage/instruments/weapons\">armas</a> de fuego de la Tecnocracia."
+    }
+  },
+  {
+    "id": "flechettes",
+    "type": "equipment",
+    "line": "mage",
+    "name_en": "Flechettes",
+    "name_es": "Flechettes",
+    "body_es": "7, L · Pequeños dardos; se aplica un -2 a la protección de las armaduras modernas, pero las armaduras de estilo antiguo gruesas cuentan como doble (sólo contra esta munición); utilizable sólo con escopetas y [armas](/mage/instruments/weapons) de fuego de la Tecnocracia.",
+    "tags": [
+      "equipo",
+      "ammunition"
+    ],
+    "mechanics": {
+      "category": "ammunition",
+      "effect": "7, L · Pequeños dardos; se aplica un -2 a la protección de las armaduras modernas, pero las armaduras de estilo antiguo gruesas cuentan como doble (sólo contra esta munición); utilizable sólo con escopetas y armas de fuego de la Tecnocracia."
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "flechettes",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "effect": "7, L · Pequeños dardos; se aplica un -2 a la protección de las armaduras modernas, pero las armaduras de estilo antiguo gruesas cuentan como doble (sólo contra esta munición); utilizable sólo con escopetas y <a href=\"/mage/instruments/weapons\">armas</a> de fuego de la Tecnocracia."
+    }
+  },
+  {
+    "id": "proyectiles-incendiarios",
+    "type": "equipment",
+    "line": "mage",
+    "name_en": "Proyectiles incendiarios",
+    "name_es": "Proyectiles incendiarios",
+    "body_es": "4, A · Fósforo; se prende fuego en el aire cuando se dispara; causa dos dados de daño agravado durante un turno después del impacto; encienden los objetos inflamables.",
+    "tags": [
+      "equipo",
+      "ammunition"
+    ],
+    "mechanics": {
+      "category": "ammunition",
+      "effect": "4, A · Fósforo; se prende fuego en el aire cuando se dispara; causa dos dados de daño agravado durante un turno después del impacto; encienden los objetos inflamables."
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "proyectiles-incendiarios",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "balas-de-goma",
+    "type": "equipment",
+    "line": "mage",
+    "name_en": "Balas de goma",
+    "name_es": "Balas de goma",
+    "body_es": "C · El daño es el normal para el arma, pero contundente, no letal.",
+    "tags": [
+      "equipo",
+      "ammunition"
+    ],
+    "mechanics": {
+      "category": "ammunition",
+      "effect": "C · El daño es el normal para el arma, pero contundente, no letal."
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "balas-de-goma",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "balas-taser",
+    "type": "equipment",
+    "line": "mage",
+    "name_en": "Balas táser",
+    "name_es": "Balas táser",
+    "body_es": "5, C · La carga eléctrica causa 5 niveles de daño contundente durante dos turnos; munición especial de la Tecnocracia.",
+    "tags": [
+      "equipo",
+      "ammunition"
+    ],
+    "mechanics": {
+      "category": "ammunition",
+      "effect": "5, C · La carga eléctrica causa 5 niveles de daño contundente durante dos turnos; munición especial de la Tecnocracia."
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "balas-taser",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "cartuchos-de-gas-lacrimogeno",
+    "type": "equipment",
+    "line": "mage",
+    "name_en": "Cartuchos de gas lacrimógeno",
+    "name_es": "Cartuchos de gas lacrimógeno",
+    "body_es": "C · Llena dos metros de radio de gas lacrimógeno; ver Toxinas , pág. 456 ; sólo para escopetas y [armas](/mage/instruments/weapons) de fuego de la Tecnocracia.",
+    "tags": [
+      "equipo",
+      "ammunition"
+    ],
+    "mechanics": {
+      "category": "ammunition",
+      "effect": "C · Llena dos metros de radio de gas lacrimógeno; ver Toxinas , pág. 456 ; sólo para escopetas y armas de fuego de la Tecnocracia."
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "cartuchos-de-gas-lacrimogeno",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "effect": "C · Llena dos metros de radio de gas lacrimógeno; ver Toxinas , pág. 456 ; sólo para escopetas y <a href=\"/mage/instruments/weapons\">armas</a> de fuego de la Tecnocracia."
+    }
+  },
+  {
+    "id": "balas-de-teflon",
+    "type": "equipment",
+    "line": "mage",
+    "name_en": "Balas de teflón",
+    "name_es": "Balas de teflón",
+    "body_es": "L · El daño es el normal para el arma, pero se reduce el valor de protección de la [armadura](/mage/instruments/armor) en 1.",
+    "tags": [
+      "equipo",
+      "ammunition"
+    ],
+    "mechanics": {
+      "category": "ammunition",
+      "effect": "L · El daño es el normal para el arma, pero se reduce el valor de protección de la armadura en 1."
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "balas-de-teflon",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "effect": "L · El daño es el normal para el arma, pero se reduce el valor de protección de la <a href=\"/mage/instruments/armor\">armadura</a> en 1."
+    }
+  },
+  {
+    "id": "mira-laser",
+    "type": "equipment",
+    "line": "mage",
+    "name_en": "Mira láser",
+    "name_es": "Mira láser",
+    "body_es": "-1 · Un turno para apuntar.",
+    "tags": [
+      "equipo",
+      "accessory"
+    ],
+    "mechanics": {
+      "category": "accessory",
+      "effect": "-1 · Un turno para apuntar."
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "mira-laser",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "mira-de-francotirador",
+    "type": "equipment",
+    "line": "mage",
+    "name_en": "Mira de francotirador",
+    "name_es": "Mira de francotirador",
+    "body_es": "-2 · Dos turnos para apuntar.",
+    "tags": [
+      "equipo",
+      "accessory"
+    ],
+    "mechanics": {
+      "category": "accessory",
+      "effect": "-2 · Dos turnos para apuntar."
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "mira-de-francotirador",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "mira-de-vision-nocturna",
+    "type": "equipment",
+    "line": "mage",
+    "name_en": "Mira de visión nocturna",
+    "name_es": "Mira de visión nocturna",
+    "body_es": "-1 · Sólo en la oscuridad; permite al usuario ver en la oscuridad.",
+    "tags": [
+      "equipo",
+      "accessory"
+    ],
+    "mechanics": {
+      "category": "accessory",
+      "effect": "-1 · Sólo en la oscuridad; permite al usuario ver en la oscuridad."
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "mira-de-vision-nocturna",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "control-de-fuego-por-ordenador",
+    "type": "equipment",
+    "line": "mage",
+    "name_en": "Control de fuego por ordenador",
+    "name_es": "Control de fuego por ordenador",
+    "body_es": "-3 · Un turno para apuntar.",
+    "tags": [
+      "equipo",
+      "accessory"
+    ],
+    "mechanics": {
+      "category": "accessory",
+      "effect": "-3 · Un turno para apuntar."
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "control-de-fuego-por-ordenador",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
     "id": "demolishing-punch",
     "type": "sphere-effect",
     "line": "mage",
