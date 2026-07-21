@@ -1,0 +1,111 @@
+{
+  "book_id": "combate",
+  "line": "shared",
+  "title_es": "Combate — Compendio (compilación)",
+  "book_title_es": "Combate — Compendio (compilación)",
+  "page_count": 6,
+  "tree": [
+    {
+      "block": "reglas-basicas",
+      "block_title": "Reglas básicas de combate",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "dificultad-de-combate-y-modificadores",
+              "title": "Dificultad de combate y modificadores",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "combate-sin-armas",
+      "block_title": "Combate sin armas",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "combate-sin-armas",
+              "title": "Combate sin armas",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "armas",
+      "block_title": "Armas",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "armas-cuerpo-a-cuerpo",
+              "title": "Armas cuerpo a cuerpo",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "armas-a-distancia",
+      "block_title": "Armas a distancia",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "armas-a-distancia",
+              "title": "Armas a distancia",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "entornos",
+      "block_title": "Entornos, sustancias y objetos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "entornos-sustancias-y-objetos",
+              "title": "Entornos, sustancias y objetos",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "vehiculos",
+      "block_title": "Vehículos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "vehiculos",
+              "title": "Vehículos",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

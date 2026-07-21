@@ -1,0 +1,72 @@
+{
+  "book_id": "combate",
+  "line": "shared",
+  "order": 2,
+  "slug": "armas-cuerpo-a-cuerpo",
+  "block": "armas",
+  "block_title": "Armas",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Armas cuerpo a cuerpo",
+  "content_type": "rule",
+  "source_line_range": [
+    475,
+    610
+  ],
+  "body_md": "## Armas cuerpo a cuerpo\n\n### Hachas\n\n| Arma | Dificultad | Daño | Ocultación | Notas |\n| ----- | ----- | ----- | ----- | ----- |\n| Hacha de mano | 6 | Fuerza+1/L | C |  |\n| Tomahawk | 6 | Fuerza+2/L | C |  |\n| Hacha (hacha de bomberos) | 7 | Fuerza+3/L | N/A |  |\n| Gran hacha | 7 | Fuerza+6/L Fuerza+5/L* | N/A | Arma a dos manos, requiere Fuerza mín. 3 |\n\n### Espadas\n\n| Arma | Dificultad | Daño | Ocultación | Notas |\n| ----- | ----- | ----- | ----- | ----- |\n| Estilete | 6 | Fuerza+1/L | B | Ignora blindaje de valor 1-3 |\n| Cuchillo | 5 | Fuerza+1/L | B |  |\n| Daga | 6 | Fuerza+1/L | C | Perforación de blindaje: 2 |\n| Espada corta | 6 | Fuerza+2/L | C |  |\n| Espada ancha | 6 | Fuerza+2/L | G | Puede usarse a dos manos si Fuerza 2+ (Fuerza+3/L) |\n|  Katana | 6 | Fuerza+3/L Fuerza+2/L* | G | Puede usarse a dos manos para +1 de daño |\n|  Espadón  | 5 | Fuerza+6/L Fuerza+5/L* | N | Arma a dos manos, requiere Fuerza mín. 3 |\n| Sai | 5 | Fuerza+1/L | C | +1 dado al usarse para bloquear. +2 a la reserva de dados en intentos de desarme. Puede usar artes marciales en lugar de Armas c.c. |\n|  Espada(s) gancho  | 7 | Fuerza+2/L | G | Se usan en pareja. +2 dif si se usan a una mano. +1 dado al usarse para bloquear. +2 a la reserva de dados en intentos de desarme. |\n| Klaive | 6 | Fuerza+2/L | C | Hecha de plata; daño agravado no absorbible para los hombres lobo fuera de su forma de raza. Arma fabricada exclusivamente por hombres lobo |\n| Gran Klaive | 7 | Fuerza+5/L | G | Hecha de plata; daño agravado no absorbible para los hombres lobo fuera de su forma de raza. Arma fabricada exclusivamente por hombres lobo |\n\n### Garrotes\n\n| Arma | Dificultad | Daño | Ocultación | Notas |\n| ----- | ----- | ----- | ----- | ----- |\n| Porra antidisturbios  | 5 | Fuerza+1/B | G |  |\n| Bate de béisbol  | 5 | Fuerza+2/B | G |  |\n| Palanqueta | 6 5* | Fuerza+1/L | C | Puede causar daño letal a +1 dif |\n| Bastón | 6 | Fuerza+1/B | N |  |\n| Bastón largo | 6 | Fuerza+3/B Fuerza+2/B | N | +2 dados a Barrido |\n| Bastón de hierro  | 7 | Fuerza+3/L Fuerza+3/B* | N |  |\n| Maza | 6 | Fuerza+2/L | G/N |  |\n| Lucero del alba | 6 | Fuerza+3/L | N |  |\n| Nunchaku | 7 | Fuerza+2/B Fuerza+1/B* | G | +1 dado al usarse para bloquear. +1 dif al bloqueo del oponente. Con pifia, se inflige ½ del daño a sí mismo. |\n|  Garrote con púas  | 6 | Fuerza+2/L | G |  |\n| Garrote enorme con púas  | 7 | Fuerza+4/L | N | Arma a dos manos, requiere Fuerza mín. 3 |\n| Martillo de guerra | 6 | Fuerza+4/B | N | Arma a dos manos, requiere Fuerza mín. 3 |\n\n\n### Extensión del puño\n\n| Arma | Dificultad | Daño | Ocultación | Notas |\n| ----- | ----- | ----- | ----- | ----- |\n| Cachiporra | 4 | Fuerza+1/B | B |  |\n| Puño americano | 6 | Fuerza+1/B | B | Usa Pelea |\n| Guantelete con púas  | 6 | Fuerza+1/L | C | Usa Pelea |\n|  Garras de mano (pequeñas) 6  | 6 | Fuerza+1/L | B | Usa Pelea |\n|  Garras de mano (grandes) 6  | 6 | Fuerza+2/L | C | Usa Pelea |\n|  Katar  | 6 | Fuerza+2/L | C | Usa Pelea. Ignora blindaje de valor 1-3. +1 dado al usarse para bloquear |\n|  Abanico de guerra  | 5 |  Fuerza+2/L  | C | +1 dado al usarse para bloquear. +1 dif al bloqueo del oponente |\n| Rueda de viento y fuego | 6 |  Fuerza+3/L  | G | +2 a la reserva de dados para desarmar. |\n\n### Armas improvisadas\n\n| Arma | Dificultad | Daño | Ocultación | Notas |\n| ----- | ----- | ----- | ----- | ----- |\n| Estaca de madera | 6 |  Fuerza+1/L  | C | Puede paralizar a un vampiro si el atacante apunta al corazón (dificultad 9) y consigue tres éxitos de daño tras la absorción |\n| Botella rota | 6 |  Fuerza+1/L  | C | Se rompe tras tres usos |\n| Ladrillo | 6 |  Fuerza+1/B | C |  |\n| Silla | 7 |  Fuerza+2/B  | N | Se rompe tras el uso |\n| Mesa | 8 |  Fuerza+3/B  | N | Se rompe tras el uso. Arma a dos manos, requiere Fuerza mín. 3 |\n| Motosierra | 8 | Fuerza+6/L | N | Con pifia, el usuario se inflige daño a sí mismo. |\n\n### Armas de asta\n\n| Arma | Dificultad | Daño | Ocultación | Notas |\n| ----- | ----- | ----- | ----- | ----- |\n| Alabarda | 7 | Fuerza+4/L | N | +2 dif si se usa a una mano. |\n| Jabalina | 6 | Fuerza/L | N |  |\n| Lanza (montada | 6 | Fuerza+3/L | N | Perforación de blindaje: 3 contra blindaje antiguo |\n| Horca | 6 | Fuerza+1/L | N | Perforación de blindaje: 1 contra blindaje antiguo. +2 dif si se usa a una mano. |\n| Lanza | 6 | Fuerza+2/L Fuerza+3/L (si Fuerza 3+) |  | Perforación de blindaje: 2 contra blindaje antiguo. Puede empuñarse a dos manos con Fuerza +3 (Fuerza+3/L) |\n\n### Látigos y cadenas\n\n| Arma | Dificultad | Daño | Ocultación | Notas |\n| ----- | ----- | ----- | ----- | ----- |\n| Cadena | 5 |  Fuerza/B  | C |  |\n| Látigo de cadena | 6 |  Fuerza+1/L  | C |  |\n| Kusarigama | 7 |  Fuerza+2/L  | G | +2 dif si se usa a una mano. +2 a la reserva de dados para desarmar. |\n| Manriki-Gusari  | 7 |  Fuerza+2/B  | G | +2 dif si se usa a una mano. +2 a la reserva de dados para desarmar. |\n| Azote | 6 |  Fuerza+1/B  | C |  |\n| Gato de púas  | 6 |  Fuerza/L  | C |  |\n| Látigo | 6 |  Fuerza/L | C |  |\n| Látigo largo | 7 |  Fuerza+1/L  | C |  |\n\n## Maniobras de armas cuerpo a cuerpo\n\nManiobras que emplean un arma a distancia de cuerpo a cuerpo, incluyendo armas de fuego usadas como instrumentos contundentes. Las criaturas pueden reproducirlas usando armas naturales a discreción del Narrador.\n\n### Maniobras ofensivas estándar de cuerpo a cuerpo\n\nManiobras que podría usar cualquiera que empuñe un arma por primera vez; son cosas básicas y de sentido común.\n\n\n| Maniobra | Tirada | Dificultad | Daño | Notas |\n| ----- | ----- | ----- | ----- | ----- |\n| Distracción | Carisma + Subterfugio (u otra reserva apropiada) | 6 | N/A | El oponente resiste con Astucia + Alerta. Si el personaje consigue más éxitos que su víctima, todas las acciones defensivas de la víctima se realizan a +2 de dificultad durante el turno siguiente. |\n| Culatazo  | Destreza + Armas c.c. | 7  | Fuerza+2/L  | Puede aturdir al oponente durante un turno si falla una tirada de Resistencia (dificultad 8). Pifiar la tirada de Resistencia deja al oponente aturdido durante dos turnos. |\n| Golpe de arma | Destreza + Armas c.c. | Como el arma | Daño del arma | Algunas armas letales pueden causar daño contundente a +1 de dificultad para impactar, a discreción del Narrador* |\n\n### Maniobras defensivas estándar de cuerpo a cuerpo\n\n| Maniobra | Tirada | Dificultad | Notas |\n| ----- | ----- | ----- | ----- |\n| Esquivar | Destreza + Atletismo o Acrobacia | 5 (cuerpo a cuerpo) 6 9/10 (Armas de Fuego) | Esquivar requiere cierto espacio para moverse; la acrobacia requiere aún más |\n| Defensa desesperada  | Destreza + Atletismo o Acrobacia | 5 (cuerpo a cuerpo) 6 9/10 (Armas de Fuego) | Poniéndolo todo en alejarse del peligro, no puedes hacer nada más ese turno. Para una defensa desesperada, tira la Destreza + Atletismo o Acrobacia de tu personaje si tienes espacio suficiente. Tu personaje usa su reserva de dados completa contra el primer ataque, pero debe restar un dado de cada ataque posterior ese turno. |\n\n### Maniobras aprendidas de cuerpo a cuerpo\n\nUn personaje debe tener al menos 3 puntos en Armas c.c. para realizar las siguientes maniobras, además de un trasfondo o entrenamiento en el que las hubiera aprendido. (** indica un ataque sucio, que no pueden usar los practicantes del Do y puede causar efectos negativos de renombre a los Hombres Lobo)\n\n| Maniobra | Tirada | Dificultad | Daño | Notas |\n| ----- | ----- | ----- | ----- | ----- |\n| Aporrear | Destreza + Pelea | Arma | Arma -1/B | Solo con armas de cuerpo a cuerpo que inflijan daño letal o agravado |\n| Cegar** | Destreza + Subterfugio | 9 | Depende | Apuntando a los ojos; si el atacante tiene éxito, el enemigo queda cegado durante un turno por éxito y pierde dos dados de sus reservas hasta que se recupera. Cegar con armas o productos químicos podría infligir uno o dos niveles de salud de daño letal además de la ceguera, y cinco éxitos o más pueden destruir los ojos por completo. |\n| Carga | Destreza + Armas c.c. | 7 | Arma +1 | Requiere espacio para moverse en línea recta hacia el oponente |\n| Cortina de sangre | Destreza + Armas c.c. | 8 | N/A | Hace falta al menos dos éxitos en la tirada de ataque para que la sangre fluya. El efecto de \"cortina\" se activa un turno después de hacer el corte. El corte es demasiado superficial para causar daño; hasta que el objetivo pueda limpiarse los ojos y detener el flujo de sangre, usa la mitad de sus reservas de dados habituales. Detener la hemorragia requiere una acción completa, a menos que el oponente pueda cerrar heridas mediante fuerza de voluntad o capacidades de curación innatas |\n| Desarmar | Destreza + Armas c.c. | 8 | N/A | Si consigues más éxitos que la Fuerza del oponente, le quitas el arma |\n| Enredar | Destreza + Armas c.c. | +1 | N/A | Solo las armas largas y flexibles como cadenas o látigos pueden hacer ataques de enredo. Una vez que ha enredado a un objetivo, el atacante puede intentar derribarlo haciendo una tirada resistida de Fuerza contra el objetivo; ambas tiradas de Fuerza son contra dificultad 6. El atacante añade a su Fuerza un número de dados igual a los éxitos que obtuvo en el ataque de enredo inicial. Si gana el atacante, el objetivo es derribado; si gana el objetivo, permanece en pie. Para escapar del enredo, el objetivo debe hacer una tirada de Destreza + Atletismo en una tirada resistida contra la Destreza + Armas c.c. del atacante; ambas tiradas también son contra dificultad 6. Intentar derribar a un objetivo o resistir este efecto consume acciones, al igual que los intentos de escapar del enredo o de resistir el escape. |\n| Finta  (**)* | Manipulación + Armas c.c. | 6 | Arma +2 | Requiere 2 acciones: el atacante añade su Manipulación a la Habilidad de arma apropiada y tira contra dificultad 6. El oponente tira Percepción + el Rasgo más alto de entre Armas c.c., Artes Marciales o Do del objetivo, dificultad 8. Si tiene éxito, el siguiente ataque inflige daño adicional |\n| Pinchazo | Destreza + Armas c.c. | Arma +1 | Arma -2 | El oponente suma +1 a la dificultad de su siguiente ataque contra el atacante |\n| Barrido | Destreza + Armas c.c. | 8 | Fuerza/B | Causa derribo |\n| Ripostar | Destreza + Armas c.c. | Arma -2 | Como el arma | Esta maniobra debe seguir a un bloqueo o parada con éxito, y solo puede realizarse en cuerpo a cuerpo |\n| Táctica | tirada de Inteligencia + Liderazgo | 6 | N/A | Por cada éxito puedes ofrecer a un aliado -1 de dificultad a su siguiente tirada. Puedes ofrecer bonificaciones adicionales al mismo personaje, pero afectan a tiradas posteriores; no \"acumulan\" mayores bonificaciones de dificultad en una sola tirada. |\n| Corte de tendón | Destreza + Armas c.c. | 9 | Daño del arma | Un ataque exitoso a los tendones de la corva derriba a un objetivo bípedo y le dificulta volver a levantarse (Destreza + Atletismo, dificultad 8), y aún más moverse (1/4 del movimiento normal) hasta que la lesión sane. Los oponentes con varias piernas reducen a la mitad su movimiento habitual, y pueden ser derribados a menos que consigan una tirada de Destreza + Atletismo para permanecer en pie (dificultad 7). |",
+  "toc": [
+    {
+      "text": "Hachas",
+      "anchor": "hachas"
+    },
+    {
+      "text": "Espadas",
+      "anchor": "espadas"
+    },
+    {
+      "text": "Garrotes",
+      "anchor": "garrotes"
+    },
+    {
+      "text": "Extensión del puño",
+      "anchor": "extension-del-puno"
+    },
+    {
+      "text": "Armas improvisadas",
+      "anchor": "armas-improvisadas"
+    },
+    {
+      "text": "Armas de asta",
+      "anchor": "armas-de-asta"
+    },
+    {
+      "text": "Látigos y cadenas",
+      "anchor": "latigos-y-cadenas"
+    },
+    {
+      "text": "Maniobras de armas cuerpo a cuerpo",
+      "anchor": "maniobras-de-armas-cuerpo-a-cuerpo"
+    },
+    {
+      "text": "Maniobras ofensivas estándar de cuerpo a cuerpo",
+      "anchor": "maniobras-ofensivas-estandar-de-cuerpo-a-cuerpo"
+    },
+    {
+      "text": "Maniobras defensivas estándar de cuerpo a cuerpo",
+      "anchor": "maniobras-defensivas-estandar-de-cuerpo-a-cuerpo"
+    },
+    {
+      "text": "Maniobras aprendidas de cuerpo a cuerpo",
+      "anchor": "maniobras-aprendidas-de-cuerpo-a-cuerpo"
+    }
+  ],
+  "prev": {
+    "slug": "combate-sin-armas",
+    "title": "Combate sin armas"
+  },
+  "next": {
+    "slug": "armas-a-distancia",
+    "title": "Armas a distancia"
+  }
+}

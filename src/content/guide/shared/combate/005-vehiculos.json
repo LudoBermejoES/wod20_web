@@ -1,0 +1,101 @@
+{
+  "book_id": "combate",
+  "line": "shared",
+  "order": 5,
+  "slug": "vehiculos",
+  "block": "vehiculos",
+  "block_title": "Vehículos",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Vehículos",
+  "content_type": "rule",
+  "source_line_range": [
+    1011,
+    1193
+  ],
+  "body_md": "## Vehículos\n\n### Manejo de vehículos\n\n#### Rasgos de los vehículos\n\n| Rasgo | Detalles |\n| :---- | :---- |\n| Velocidad segura/máx. | La Velocidad Segura refleja lo rápido que un personaje puede conducir el vehículo en cuestión sin arriesgarse a un choque; por cada 10 MPH por encima de ese límite, añade \\+1 a la dificultad de las tiradas de manejo de ese personaje. La Velocidad Máx. es más o menos el tope de ese vehículo. |\n| Maniobrabilidad | La Maniobrabilidad refleja la reserva de dados máxima que un personaje puede usar al manejar este vehículo. (Esto se aplica solo a la reserva de dados usada para conducir.) |\n| Tripulación | El personal mínimo necesario para manejar el vehículo. Pas. (pasajeros) refleja el número de personas, aparte de los operadores, que caben en el vehículo en circunstancias normales. Apretujarse es posible, por supuesto, pero puede afectar a la capacidad del vehículo para funcionar. |\n| Durabilidad | El número de niveles de salud que hacen falta para penetrar la carrocería del vehículo; hasta ese punto, el daño simplemente rebota en la superficie. |\n| Estructura | La cantidad de daño que el vehículo puede recibir antes de quedar demasiado destruido como para funcionar como algo más que un bloque de chatarra. |\n\n#### Conducción acrobática\n\nPara cometer actos flagrantes de locura vehicular, una tirada de Destreza \\+ Conducir (o Pilotar, [Mochila propulsora](/shared/vehicles/jetpack) u otra Habilidad apropiada) refleja la pericia de tu personaje.   \nLa dificultad de esa tirada depende de la locura de la acrobacia y posiblemente también de las condiciones implicadas (carretera helada, neumáticos pinchados, parabrisas hecho añicos, etc.); normalmente, estas acrobacias empiezan en dificultad 4 y suben a partir de ahí.  \nRecuerda, sin embargo, que el Rasgo de Maniobrabilidad limita esa reserva de dados, y superar la Velocidad Segura del vehículo añade a la dificultad de esa tirada.\n\n#### Colisiones\n\nUn vehículo que embiste a un personaje inflige la Durabilidad de ese vehículo en daño contundente, más un dado por cada 10 MPH (14\" por turno) a los que el vehículo se desplazaba en ese momento. Así, una [moto deportiva](/shared/vehicles/crotch-rocket) que embiste a alguien a 50 MPH inflige siete dados de daño contundente, pero una [limusina](/shared/vehicles/limo) a esa velocidad inflige 9.  \nCiertos vehículos infligen dados de daño adicionales simplemente porque son más grandes y duros que un personaje.  \nLos pasajeros dentro de un vehículo en colisión sufren el daño habitual, menos el valor de Durabilidad de ese vehículo; si van con el cinturón puesto, reduce a la mitad el daño que sufrirían normalmente.   \nEn muchos casos, el Narrador puede simplemente emplear el recurso cinematográfico de que los personajes importantes salgan más o menos ilesos y los personajes prescindibles queden incapacitados o muertos en un choque.  \nEl daño a un vehículo por chocar/colisionar usa las reglas de embestir y arrollar.\n\n#### Tiroteo desde vehículo en marcha y ocultación de pasajeros\n\nLos personajes que disparan desde el interior de un vehículo en marcha sufren una penalización de entre \\-1 (velocidad baja) y \\-3 (velocidad alta). Esta sube si se desplazan a través de terreno accidentado u obstaculizado (lluvia, niebla, hielo, fuera de carretera, etc.).\n\nLos personajes dentro de un vehículo están normalmente protegidos por la Durabilidad de ese vehículo. A menos que el tirador saque cuatro éxitos o más al impactar en su objetivo, asume que el vehículo protege a los pasajeros. Ciertos ataques, por supuesto, pueden superar fácilmente ese valor de Durabilidad; en ese caso, los pasajeros podrían sufrir daño del ataque, menos el valor de Durabilidad del vehículo. \n\nUn disparo dirigido a través de la ventanilla normalmente añade \\+3 a la dificultad del tirador, aunque las ventanillas más pequeñas (por ejemplo, las de un [coche blindado](/shared/vehicles/armored-car)) pueden añadir \\+5 o más.\n\nEsa probabilidad depende del tamaño del vehículo en relación con el tamaño y número de sus pasajeros. Es mucho más fácil, después de todo, acertar a una de las dos personas de un diminuto coche deportivo que acertar a una en concreto de las 30 personas de un [autobús](/shared/vehicles/bus).\n\n#### Disparar a las partes del vehículo\n\n| Parte del vehículo | Umbral de éxito (Éxitos mín. para acertar) | Daño mínimo (Daño mínimo para romper) | Notas |\n| :---- | :---- | :---- | :---- |\n| Depósito de combustible | 3 | 6 | Hace que el coche explote una vez roto |\n| Neumáticos\\* | 2 | 3 | Reduce la velocidad máx. a 70 y la velocidad segura a 40 Empieza a dañar más el coche si se conduce más de 1 milla a más de la mitad de la velocidad segura |\n| Radiador\\* | 4 | 2 | Puede causar incendios en el motor o romper el motor si se conduce demasiado rápido o durante demasiado tiempo |\n| Suspensión | 2 (motos) 6 (coches) | 2 | La maniobrabilidad se reduce a 2  |\n\n### Vehículos de ejemplo\n\n#### Vehículos urbanos con ruedas\n\n##### Ciclos\n\nLa Durabilidad no protege al conductor contra el daño\n\n| Vehículo | Velocidad segura (MPH) | Velocidad máx. (MPH) | Maniobra | Tripulación | Durabilidad | Estructura | Armas |\n| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |\n| Oca Mítica\\* | 900 | 1000 | 10 | 1 | 15 | 15 | Ojos láser: Dificultad 5, 10 de daño agravado, cadencia 2, alcance 500, capacidad Infinita, capaz de ametrallar en pasada, ráfaga automática y ráfaga de tres disparos |\n| Monociclo | 1 x Fuerza | 3 x Fuerza | 5 | 1 | 1 | 3 | N/A |\n| Bicicleta de montaña | 3 x Fuerza | 8 x Fuerza | 5 | 1 | 2 | 3 | N/A |\n| Bicicleta de carreras | 4 x Fuerza | 10 x Fuerza | 6 | 1 | 2 | 3 | N/A |\n| Moto de cross (Motocicleta) | 50 | 80 | 9 | 1 | 4 | 4 | N/A |\n| Motocicleta ligera | 75 | 130 | 8 | 1 | 2 | 3 | N/A |\n| Motocicleta de turismo | 90 | 170 | 5 | 1 (1 pas.) | 4 | 4 | N/A |\n| Moto deportiva | 100 | 200 | 7 | 1 | 2 | 3 | N/A |\n| Hiperciclo Bestial \\*\\* | 120 | 250 | 7 | 1 | 5 | 5 | Dos de las siguientes:  Dos ametralladoras del calibre .30 Chorro de mancha de aceite Chorro de cortina de humo Seis cohetes pequeños Un cañón de 30mm |\n| Quad (ATV) | 30 | 70 | 5 | 1 | 3 | 5 | N/A |\n\n##### Coches\n\nLa masa inflige \\+1 dado de daño\n\n| Vehículo | Velocidad segura (MPH) | Velocidad máx. (MPH) | Maniobra | Tripulación | Durabilidad | Estructura | Armas |\n| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |\n| Jeep | 60 | 80 | 6 | 1 (4 pas.) | 4 | 6 | Los jeeps militares pueden tener una de las siguientes: Dos ametralladoras del calibre .30 Un cañón de 30mm Una ametralladora del calibre .50 Lanzagranadas M-19 Un cohete TOW |\n| Coche compacto | 70 | 130 | 6 | 1 (1 pas.) | 3 | 3 | N/A |\n| Sedán mediano | 70 | 120 | 5 | 1 (3 pas.) | 3 | 4 | N/A |\n| Familiar | 80 | 120 | 4 | 1 (5 pas.) | 3 | 5 | N/A |\n| Coche deportivo | 130 | 200 | 9 | 1 (1 pas.) | 3 | 4 | N/A |\n| Coche tuneado de carreras | 70 | 240 | 8 | 1 (1 pas.) | 4 | 4 | N/A |\n| Coche patrulla | 80 | 200 | 7 | 1 (3 pas.) | 5 | 5 | N/A |\n| Interceptor policial | 100 | 250 | 8 | 1 (3 pas.) | 5 | 5 | N/A |\n| Superdeportivo de la División Q de Bond \\*\\* | 100 | 250 | 10 | 1 (1 pas.) | 6 | 5 | Puede tener una de las siguientes: Dos ametralladoras del calibre .30 Un cañón de 30mm Una ametralladora del calibre .50 Lanzagranadas M-19 Un cohete TOW |\n| Coche de NASCAR | 140 | 260 | 10 | 1 | 3 | 3 | N/A |\n\n##### Camiones\n\nLa masa inflige \\+3 dados de daño por impacto; \\+3 de protección a los pasajeros\n\n| Vehículo | Velocidad segura (MPH) | Velocidad máx. (MPH) | Maniobra | Tripulación | Durabilidad | Estructura | Armas |\n| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |\n| Limusina | 70 | 110 | 4 | 1 (5 pas.) | 4 | 6 | N/A |\n| Limusina blindada | 70 | 100 | 4 | 1 (5 pas.) | 8 | 6 |  |\n| Limusina alargada | 80 | 100 | 3 | 1 (5-7 pas.) | 3 | 5 | N/A |\n| Camioneta pickup | 70 | 110 | 5-7 | 1 (1-4 pas.) | 3 | 6 | N/A |\n| Todoterreno/Furgoneta | 60 | 120 | 6 | 1 (3-7 pas.) | 4 | 7 | N/A |\n| Superfurgoneta blindada \\*\\* | 50 | 100 | 5 | 1 (3 pas.) | 10 | 10 | N/A |\n| Camión todoterreno | 60 | 90 | 5 | 1 (1-3 pas.) | 4 | 7 | N/A |\n| Hummer | 80 | 120 | 5 | 1 (1-5 pas.) | 5 | 8 |  |\n| Furgón blindado | 60 | 80 | 4 | 1 (1-5 pas.) | 10 | 10 | N/A |\n| Autocaravana | 60 | 80 | 3 | 1 (1-5 pas.) | 3 | 8 | N/A |\n| Autobús | 60 | 100 | 3 | 1 (20+ pas.) | 4 | 8 | N/A |\n| Camión grande | 60 | 110 | 4-5 | 1 (1 pas.) | 4 | 6 | N/A |\n| Camión pesado | 60 | 100 | 4 | 1 (5+ pas.) | 6 | 8 | N/A |\n| Tráiler de 18 ruedas | 70 | 110 | 4 | 1 (1 pas.) | 5 | 8 | N/A |\n\n##### Militares\n\nRequiere mín. 3 puntos en Conducir \\+ Especialidad apropiada para manejarlo (o la compra de una habilidad aparte\\*); la masa inflige \\+5 dados de daño por impacto. Los pasajeros obtienen protección completa de la Durabilidad.\n\n###### *Etapas de armamento militar terrestre*\n\n| Etapa 1 (\\!) | Puede montar una de las siguientes opciones:  Dos ametralladoras acopladas del calibre .30  Un cañón de 30 mm (arriba) Una ametralladora montada del calibre .50  Un lanzagranadas M-19  Un cohete TOW (Dificultad 6, Daño 16, Cadencia 1, Alcance 2500 yardas, Capacidad 1 disparo). |\n| :---- | :---- |\n| Etapa 2 (\\!\\!) | Dos lanzagranadas M-19 (para disparar botes de gas) Dos ametralladoras del calibre .30 Un ariete. El vehículo puede sellarse contra ataques de agua y gas. |\n| Etapa 3 (\\!\\!\\!) | Cañón de 105 mm (Dificultad 7, Daño 20, Cadencia 1, Alcance 1200 yardas, Capacidad 1 disparo) Dos ametralladoras del calibre .50 (frontal y en torreta)  Dos lanzagranadas Puede sellarse |\n| Etapa 4 (\\!\\!\\!\\!) | Cañón de 120 mm (Dificultad 7, Daño 30, Cadencia 1, Alcance 2000 yardas, Capacidad 1 disparo) Tres ametralladoras del calibre .50 (frontal y en torreta) Cuatro lanzagranadas. Puede sellarse. |\n\n| Vehículo | Velocidad segura (MPH) | Velocidad máx. (MPH) | Maniobra | Tripulación | Durabilidad | Estructura | Armas |\n| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |\n| VBTP (APC) | 30 | 60 | 4 | 2 (11 pas.) | 12 | 15 | \\! |\n| Tanque antidisturbios | 30 | 50 | 3 | 2 | 10 | 15 | \\!\\! |\n| Tanque ligero | 20 | 30 (en carretera) | 2 | 4 | 18 (Frontal) 15 (laterales) | 18 | \\!\\!\\! |\n| Tanque pesado | 30 | 50 (en carretera) | 2 | 4 | 22 (Frontal) 20 (Laterales) | 25 | \\!\\!\\!\\! |\n\n#### Aeronaves\n\nRequiere la habilidad Pilotar para poder manejarse; las aeronaves militares requieren al menos 3 puntos en Pilotar \\+ especialidad apropiada (o la compra de una habilidad aparte\\*)  \nLos pasajeros obtienen protección completa de la Durabilidad\n\n###### *Etapas de armamento de aeronaves militares*\n\n| Etapa 1 (\\!) | Cañón de 30 mm 16 misiles TOW 16 cohetes |\n| :---- | :---- |\n| Etapa 2 (\\!\\!) | Dos ametralladoras del calibre .30. A elegir entre: Dos ametralladoras del calibre .30 Dos cañones de 30 mm  Seis cohetes |\n| Etapa 3 (\\!\\!\\!) | Dos ametralladoras del calibre .30 dos cañones de 30 mm 12 cohetes 16 misiles TOW. También cuenta con modo furtivo (Arcano 5 salvo contra Tecnócratas) y requiere una tirada de Percepción (dificultad 6) para oírla. Requiere una tripulación de ciudadanos extraordinarios tecnocráticos. |\n| Etapa 4 (\\!\\!\\!\\!) | Cañón de 20 mm Cuatro misiles Sidewinder  Seis misiles Sparrow A1M-7P  14 bombas inteligentes de 250 libras  |\n\n##### ¿Globo aerostático?\n\n| Vehículo | Velocidad segura (MPH) | Velocidad máx. (MPH) | Maniobra | Tripulación | Durabilidad | Estructura | Armas |\n| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |\n| Globo aerostático | Viento | Viento | 0 | 1 (3 pas.) | 4 | 4 | N/A |\n\n\n##### Mochilas propulsoras\n\nRequiere la habilidad [Mochila propulsora](/shared/vehicles/jetpack); la Durabilidad no protege al portador; vehículo tecnomágico.\n\n| Vehículo | Velocidad segura (MPH) | Velocidad máx. (MPH) | Maniobra | Tripulación | Durabilidad | Estructura | Armas |\n| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |\n| Mochila propulsora | 100 | 250 | 10 | 1 | 4 | 4 | N/A |\n| Ornitóptero | 120 | 200 | 10 | 1 | 4 | 2 | N/A |\n\n\n##### Helicóptero\n\nRequiere Pilotar \\+ especialidad Helicóptero.   \nSalvo en los girocópteros, la Durabilidad protege a los pasajeros.  \nRegla opcional: los helicópteros se tratan como si tuvieran 1 de estructura\\*\n\n| Vehículo | Velocidad segura (MPH) | Velocidad máx. (MPH) | Maniobra | Tripulación | Durabilidad | Estructura | Armas |\n| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |\n| Girocóptero | 70 | 150 | 5 | 1 | 3 | 3 | N/A |\n| Helicóptero de prensa | 140 | 220 | 6 | 1 (1 pas.) | 4 | 6 | N/A |\n| Helicóptero grande | 150 | 250 | 6 | 2 (4 pas.) | 5 | 6 | N/A |\n| Helicóptero de ataque | 180 | 280 | 9 | 3 | 12 | 10 | \\! |\n| Helicóptero utilitario militar | 180 | 280 | 7 | 3 (10 pas.) | 8 | 10 | \\!\\! |\n| Helicóptero \\*\\* negro | 200 | 400 | 10 | 3 | 13 | 13 | \\!\\!\\! |\n\n\n##### Avionetas\n\nRequiere Pilotar; los aviones militares requieren la especialidad Caza a reacción. La Durabilidad protege a los pasajeros.\n\n| Vehículo | Velocidad segura | Velocidad máx. | Maniobra | Tripulación | Durabilidad | Estructura | Armas |\n| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |\n| Avioneta de hélice pequeña | 110 | 170 | 5 | 2 (3 pas. | 5 | 6 | N/A |\n| Avión de hélice mediano | 180 | 230 | 4 | 2 (10 pas. | 6 | 8 | N/A |\n| Avión de hélice grande | 300 | 400 | 3 | 2 (50 pas. | 6 | 10 | N/A |\n| LearJet | 350 | 450 | 4 | 2 (20 pas. | 8 | 15 | N/A |\n| Caza a reacción | Mach 2 | Mach 2.5 | 7 | 1 | 8 | 15 | \\!\\!\\!\\! |",
+  "toc": [
+    {
+      "text": "Manejo de vehículos",
+      "anchor": "manejo-de-vehiculos"
+    },
+    {
+      "text": "Rasgos de los vehículos",
+      "anchor": "rasgos-de-los-vehiculos"
+    },
+    {
+      "text": "Conducción acrobática",
+      "anchor": "conduccion-acrobatica"
+    },
+    {
+      "text": "Colisiones",
+      "anchor": "colisiones"
+    },
+    {
+      "text": "Tiroteo desde vehículo en marcha y ocultación de pasajeros",
+      "anchor": "tiroteo-desde-vehiculo-en-marcha-y-ocultacion-de-pasajeros"
+    },
+    {
+      "text": "Disparar a las partes del vehículo",
+      "anchor": "disparar-a-las-partes-del-vehiculo"
+    },
+    {
+      "text": "Vehículos de ejemplo",
+      "anchor": "vehiculos-de-ejemplo"
+    },
+    {
+      "text": "Vehículos urbanos con ruedas",
+      "anchor": "vehiculos-urbanos-con-ruedas"
+    },
+    {
+      "text": "Ciclos",
+      "anchor": "ciclos"
+    },
+    {
+      "text": "Coches",
+      "anchor": "coches"
+    },
+    {
+      "text": "Camiones",
+      "anchor": "camiones"
+    },
+    {
+      "text": "Militares",
+      "anchor": "militares"
+    },
+    {
+      "text": "*Etapas de armamento militar terrestre*",
+      "anchor": "etapas-de-armamento-militar-terrestre"
+    },
+    {
+      "text": "Aeronaves",
+      "anchor": "aeronaves"
+    },
+    {
+      "text": "*Etapas de armamento de aeronaves militares*",
+      "anchor": "etapas-de-armamento-de-aeronaves-militares"
+    },
+    {
+      "text": "¿Globo aerostático?",
+      "anchor": "globo-aerostatico"
+    },
+    {
+      "text": "Mochilas propulsoras",
+      "anchor": "mochilas-propulsoras"
+    },
+    {
+      "text": "Helicóptero",
+      "anchor": "helicoptero"
+    },
+    {
+      "text": "Avionetas",
+      "anchor": "avionetas"
+    }
+  ],
+  "prev": {
+    "slug": "entornos-sustancias-y-objetos",
+    "title": "Entornos, sustancias y objetos"
+  },
+  "next": null
+}

@@ -14,8 +14,9 @@ export const LINES: LineInfo[] = [
   { id: 'wraith', nombre: 'Wraith', subtitulo: 'El Olvido' },
   { id: 'changeling', nombre: 'Changeling', subtitulo: 'El Ensueño' },
   { id: 'hunter', nombre: 'Cazador', subtitulo: 'La Venganza' },
-  // Cross-line content (Storyteller System): combat maneuvers, martial arts, vehicles.
-  { id: 'shared', nombre: 'Reglas Generales', subtitulo: 'Sistema Narrador' },
+  // Cross-line combat content: the translated combat compendium (reading page) + its
+  // maneuver / martial-art / vehicle reference entities.
+  { id: 'shared', nombre: 'Combate', subtitulo: 'Compendio de combate' },
 ];
 
 export function lineInfo(id: string): LineInfo | undefined {
