@@ -4,9 +4,28 @@
 // stays static/zero-JS. Results deep-link to the reading guides.
 import Layout from '../layouts/Layout.astro';
 import Breadcrumb from '../components/Breadcrumb.astro';
+import { getCollection } from 'astro:content';
 import { LINES, lineInfo } from '../lib/lines';
 
+const lineNames: Record<string, string> = { shared: 'Compartido' };
+for (const l of LINES) lineNames[l.id] = lineInfo(l.id)!.nombre;
 const lines = LINES.map((l) => ({ id: l.id, nombre: lineInfo(l.id)!.nombre }));
+
+// Per-line book (source) list for the "Fuente" facet, from the guideBooks collection.
+// We filter by book_id (stable — it's the chunk id prefix), and display book_title_es.
+const guideBooks = await getCollection('guideBooks');
+const booksByLine: Record<string, { id: string; title: string }[]> = {};
+const bookTitleById: Record<string, string> = {};
+for (const b of guideBooks) {
+  const title = b.data.book_title_es || b.data.title_es || b.data.book_id;
+  (booksByLine[b.data.line] ??= []).push({ id: b.data.book_id, title });
+  bookTitleById[b.data.book_id] = title;
+}
+for (const k of Object.keys(booksByLine)) {
+  booksByLine[k].sort((a, b) => a.title.localeCompare(b.title, 'es'));
+}
+
+// Content-type facet + display metadata (label + colour class) shared with the client.
 const contentTypes = [
   { id: '', label: 'Todo' },
   { id: 'rule', label: 'Reglas' },
@@ -15,6 +34,18 @@ const contentTypes = [
   { id: 'reference', label: 'Referencia' },
   { id: 'glossary', label: 'Glosario' },
 ];
+const ctLabels: Record<string, string> = Object.fromEntries(
+  contentTypes.filter((c) => c.id).map((c) => [c.id, c.label])
+);
+const ctClass: Record<string, string> = {
+  rule: 'ct-rule',
+  lore: 'ct-lore',
+  fiction: 'ct-fiction',
+  reference: 'ct-reference',
+  glossary: 'ct-glossary',
+};
+
+const clientData = { booksByLine, bookTitleById, lineNames, ctLabels, ctClass };
 ---
 
 <Layout title="Buscar — Base de conocimiento">
@@ -32,6 +63,11 @@ const contentTypes = [
           {lines.map((l) => <option value={l.id}>{l.nombre}</option>)}
         </select>
       </label>
+      <label>Fuente
+        <select id="book">
+          <option value="">Todas las fuentes</option>
+        </select>
+      </label>
       <label>Tipo
         <select id="type">
           {contentTypes.map((c) => <option value={c.id}>{c.label}</option>)}
@@ -41,6 +77,8 @@ const contentTypes = [
     </div>
   </form>
 
+  <script type="application/json" id="search-data" set:html={JSON.stringify(clientData)}></script>
+
   <p id="status" aria-live="polite"></p>
   <ol id="results" class="results"></ol>
 
@@ -49,31 +87,100 @@ const contentTypes = [
     #q { padding: 0.75rem 1rem; font-size: 1.1rem; border: 1px solid var(--border);
          border-radius: var(--radius); background: var(--bg-elevated); color: inherit; }
     .facets { display: flex; gap: 0.75rem; flex-wrap: wrap; align-items: end; }
+    .facets label { display: grid; gap: 0.2rem; font-size: 0.8rem; color: var(--muted); }
     .facets select, .facets button { padding: 0.5rem 0.75rem; border: 1px solid var(--border);
-         border-radius: var(--radius); background: var(--bg-elevated); color: inherit; }
-    .facets button { cursor: pointer; font-weight: 600; }
+         border-radius: var(--radius); background: var(--bg-elevated); color: var(--fg);
+         font-size: 0.95rem; max-width: 16rem; }
+    .facets button { cursor: pointer; font-weight: 600; align-self: end; }
+    /* The <ol> is in the template (scoped), but its rows are injected via innerHTML by
+       the client script — those elements DON'T carry Astro's scope attribute, so every
+       descendant selector must be :global() or the styling silently won't apply. */
     .results { list-style: none; padding: 0; display: grid; gap: 0.75rem;
                max-width: var(--measure); }
-    .results li { padding: 0.85rem 1rem; border: 1px solid var(--border);
+    .results :global(li) { padding: 0.85rem 1rem; border: 1px solid var(--border);
                border-radius: var(--radius); background: var(--bg-elevated); }
-    .results .crumb { font-size: 0.85rem; opacity: 0.75; }
-    .results .ct { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.04em;
-               border: 1px solid var(--border); border-radius: 999px; padding: 0.05rem 0.5rem;
-               margin-left: 0.4rem; }
-    .results a { font-weight: 600; text-decoration: none; }
-    .results a:hover { text-decoration: underline; }
-    .results .snippet { margin: 0.35rem 0 0; opacity: 0.9; }
+    .results :global(.head) { display: flex; align-items: baseline; gap: 0.5rem; flex-wrap: wrap; }
+    .results :global(a) { font-weight: 600; text-decoration: none; }
+    .results :global(a:hover) { text-decoration: underline; }
+    .results :global(.crumb) { font-size: 0.82rem; color: var(--muted); margin-top: 0.15rem; }
+    .results :global(.crumb .sep) { opacity: 0.5; margin: 0 0.15rem; }
+    .results :global(.snippet) { margin: 0.4rem 0 0; opacity: 0.92; }
+    /* Content-type badge ("slug"): colour-coded pill per type. */
+    .results :global(.ct) { font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.05em;
+          border: 1px solid; border-radius: 999px; padding: 0.08rem 0.55rem;
+          white-space: nowrap; font-weight: 600; }
+    .results :global(.ct-rule)     { color: hsl(212 75% 68%); border-color: hsl(212 45% 55% / 0.5); background: hsl(212 60% 50% / 0.13); }
+    .results :global(.ct-lore)     { color: hsl(270 72% 76%); border-color: hsl(270 45% 60% / 0.5); background: hsl(270 60% 55% / 0.13); }
+    .results :global(.ct-fiction)  { color: hsl(158 58% 60%); border-color: hsl(158 40% 45% / 0.5); background: hsl(158 50% 45% / 0.13); }
+    .results :global(.ct-glossary) { color: hsl(38 82% 64%);  border-color: hsl(38 55% 50% / 0.5);  background: hsl(38 70% 50% / 0.13); }
+    .results :global(.ct-reference), .results :global(.ct-other) { color: var(--muted); border-color: var(--border); background: transparent; }
   </style>
 
   <script>
     const form = document.getElementById('search-form') as HTMLFormElement;
     const q = document.getElementById('q') as HTMLInputElement;
     const lineSel = document.getElementById('line') as HTMLSelectElement;
+    const bookSel = document.getElementById('book') as HTMLSelectElement;
     const typeSel = document.getElementById('type') as HTMLSelectElement;
     const statusEl = document.getElementById('status')!;
     const results = document.getElementById('results')!;
+    const DATA = JSON.parse(document.getElementById('search-data')!.textContent || '{}');
+
     const esc = (s: string) => s.replace(/[&<>"']/g, (c) =>
       ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c] as string));
+
+    // Fill the "Fuente" select from the selected line (all lines → grouped by line).
+    function populateBooks(lineId: string) {
+      const prev = bookSel.value;
+      bookSel.innerHTML = '<option value="">Todas las fuentes</option>';
+      const add = (parent: HTMLElement, b: { id: string; title: string }) => {
+        const o = document.createElement('option');
+        o.value = b.id; o.textContent = b.title;
+        parent.appendChild(o);
+      };
+      if (lineId) {
+        for (const b of DATA.booksByLine[lineId] || []) add(bookSel, b);
+      } else {
+        for (const lid of Object.keys(DATA.booksByLine).sort()) {
+          const grp = document.createElement('optgroup');
+          grp.label = DATA.lineNames[lid] || lid;
+          for (const b of DATA.booksByLine[lid]) add(grp, b);
+          bookSel.appendChild(grp);
+        }
+      }
+      // keep the previous choice if it still exists
+      if ([...bookSel.options].some((o) => o.value === prev)) bookSel.value = prev;
+    }
+    populateBooks('');
+
+    // Markdown tables come through as pipe-soup; make the snippet readable.
+    function cleanSnippet(text: string): string {
+      return (text || '')
+        .replace(/<!--[\s\S]*?-->/g, ' ') // HTML comments (e.g. <!-- image -->)
+        .replace(/!\[[^\]]*\]\([^)]*\)/g, ' ') // markdown images
+        .split('\n')
+        .filter((l) => !/^\s*\|?[\s:|_-]{5,}\|?\s*$/.test(l)) // drop |---|---| separator rows
+        .map((l) => l.replace(/^\s*#{1,6}\s+/, '')) // leading heading markers (## …); keeps "#10"
+        .join(' ')
+        .replace(/\s*\|\s*/g, ' · ') // table cell borders → middots
+        .replace(/[·\s]*·[·\s]*·[·\s]*/g, ' · ') // collapse runs of middots
+        .replace(/\s+/g, ' ')
+        .replace(/^[\s·]+/, '')
+        .trim();
+    }
+
+    // Render the server breadcrumb (block › chapter › part, already coarse→fine and
+    // de-duplicated) with styled separators. recover() assigns hierarchy levels
+    // inconsistently across books, so we trust that stored order rather than re-sorting.
+    function crumbHtml(h: any): string {
+      const src = (h.breadcrumb || [h.block_title, h.chapter, h.part].filter(Boolean).join(' > '));
+      const parts: string[] = [];
+      for (const raw of src.split(' > ')) {
+        const p = raw.trim();
+        if (p && p !== parts[parts.length - 1]) parts.push(p);
+      }
+      return parts.map(esc).join(' <span class="sep">›</span> ');
+    }
 
     let seq = 0;
     async function run() {
@@ -82,7 +189,9 @@ const contentTypes = [
       const mine = ++seq;
       statusEl.textContent = 'Buscando…';
       const params = new URLSearchParams({ q: query, k: '12' });
-      if (lineSel.value) params.set('line', lineSel.value);
+      // a chosen source implies its line, so don't also send a (possibly stale) line filter
+      if (bookSel.value) params.set('book', bookSel.value);
+      else if (lineSel.value) params.set('line', lineSel.value);
       if (typeSel.value) params.set('type', typeSel.value);
       try {
         const res = await fetch(`/api/search?${params}`);
@@ -91,13 +200,15 @@ const contentTypes = [
         if (!res.ok) { statusEl.textContent = data.error || 'Error de búsqueda.'; return; }
         statusEl.textContent = `${data.count} resultado(s)`;
         results.innerHTML = data.hits.map((h: any) => {
-          const crumb = esc(h.breadcrumb || h.book_title || '');
-          const ct = h.content_type ? `<span class="ct">${esc(h.content_type)}</span>` : '';
-          const title = esc(h.book_title || h.book_id || '');
-          const link = h.href
-            ? `<a href="${esc(h.href)}">${title}</a>` : title;
-          const snip = esc((h.text || '').slice(0, 260)).replace(/\n+/g, ' ');
-          return `<li>${link}${ct}<div class="crumb">${crumb}</div>` +
+          const title = esc(DATA.bookTitleById[h.book_id] || h.book_title || h.book_id || '');
+          const link = h.href ? `<a href="${esc(h.href)}">${title}</a>` : title;
+          const ctId = h.content_type || '';
+          const ct = ctId
+            ? `<span class="ct ${DATA.ctClass[ctId] || 'ct-other'}">${esc(DATA.ctLabels[ctId] || ctId)}</span>`
+            : '';
+          const snip = esc(cleanSnippet(h.text).slice(0, 260));
+          return `<li><div class="head">${link}${ct}</div>` +
+                 `<div class="crumb">${crumbHtml(h)}</div>` +
                  `<p class="snippet">${snip}…</p></li>`;
         }).join('');
       } catch (e) {
@@ -108,6 +219,7 @@ const contentTypes = [
     form.addEventListener('submit', (e) => { e.preventDefault(); run(); });
     let t: number | undefined;
     q.addEventListener('input', () => { clearTimeout(t); t = window.setTimeout(run, 350); });
-    [lineSel, typeSel].forEach((el) => el.addEventListener('change', run));
+    lineSel.addEventListener('change', () => { populateBooks(lineSel.value); run(); });
+    [bookSel, typeSel].forEach((el) => el.addEventListener('change', run));
   </script>
 </Layout>

@@ -117,13 +117,15 @@ async function embedQuery(text: string): Promise<number[]> {
   return Array.from(out.data as Float32Array);
 }
 
-// query param → LanceDB column
+// query param → LanceDB column. `book` is handled separately (id-prefix match) since
+// book_id isn't a stored column — it's the prefix of the chunk `id` (`<book_id>::<n>`).
 const FILTERS: Record<string, string> = {
   line: 'game_line',
   type: 'content_type',
   lang: 'language',
-  book: 'book_title',
 };
+
+const sqlLit = (v: string) => v.replace(/'/g, "''"); // escape single quotes for the where clause
 
 function jsonResponse(obj: unknown, status = 200): Response {
   return new Response(JSON.stringify(obj), {
@@ -143,8 +145,11 @@ export const GET: APIRoute = async ({ url }) => {
     const clauses: string[] = [];
     for (const [param, col] of Object.entries(FILTERS)) {
       const v = url.searchParams.get(param);
-      if (v) clauses.push(`${col} = '${v.replace(/'/g, "''")}'`);
+      if (v) clauses.push(`${col} = '${sqlLit(v)}'`);
     }
+    // book (source) filter: match every chunk whose id starts with `<book_id>::`
+    const book = url.searchParams.get('book');
+    if (book) clauses.push(`id LIKE '${sqlLit(book)}::%'`);
     if (clauses.length) search = search.where(clauses.join(' AND '));
 
     const rows = (await search.toArray()) as Record<string, unknown>[];
@@ -168,6 +173,7 @@ export const GET: APIRoute = async ({ url }) => {
         breadcrumb: cleanCrumb((r.heading_breadcrumb as string) || ''),
         block_title: blockTitle,
         chapter,
+        part,
         href,
         score: r._distance as number,
       };
