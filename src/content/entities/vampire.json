@@ -10065,7 +10065,7 @@
     ],
     "related": [],
     "mechanics_html": {
-      "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-blood\">Senda de la Sangre</a>"
+      "discipline": "<a href=\"/vampire/path-of-enlightenments/senda-de-la-sangre\">Senda de la Sangre</a>"
     }
   },
   {
@@ -10094,7 +10094,7 @@
     ],
     "related": [],
     "mechanics_html": {
-      "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-blood\">Senda de la Sangre</a>"
+      "discipline": "<a href=\"/vampire/path-of-enlightenments/senda-de-la-sangre\">Senda de la Sangre</a>"
     }
   },
   {
@@ -10123,7 +10123,7 @@
     ],
     "related": [],
     "mechanics_html": {
-      "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-blood\">Senda de la Sangre</a>"
+      "discipline": "<a href=\"/vampire/path-of-enlightenments/senda-de-la-sangre\">Senda de la Sangre</a>"
     }
   },
   {
@@ -10152,7 +10152,7 @@
     ],
     "related": [],
     "mechanics_html": {
-      "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-blood\">Senda de la Sangre</a>"
+      "discipline": "<a href=\"/vampire/path-of-enlightenments/senda-de-la-sangre\">Senda de la Sangre</a>"
     }
   },
   {
@@ -10181,7 +10181,7 @@
     ],
     "related": [],
     "mechanics_html": {
-      "discipline": "<a href=\"/vampire/thaumaturgy-paths/path-of-blood\">Senda de la Sangre</a>"
+      "discipline": "<a href=\"/vampire/path-of-enlightenments/senda-de-la-sangre\">Senda de la Sangre</a>"
     }
   },
   {
@@ -14815,6 +14815,360 @@
     "related": []
   },
   {
+    "id": "senda-del-acuerdo-honorable",
+    "type": "path-of-enlightenment",
+    "line": "vampire",
+    "name_en": "Senda del Acuerdo Honorable",
+    "name_es": "Senda del Acuerdo Honorable",
+    "body_es": "En un mundo lleno de corrupción, malicia y locura, algunos vampiros se guían mediante un firme e inflexible código de conducta personal. Estos vampiros no ahondan en cuestiones filosóficas sobre la existencia ni satisfacen sin sentido alguno sus lados monstruosos. En su lugar, se centran en un único principio: el honor. [Orden](/vampire/discipline-powers/orden), justicia y deber son las consignas de estos no-muertos, y aunque aún son monstruosos acatan estándares de conducta totalmente comprensibles.",
+    "tags": [
+      "senda-iluminacion"
+    ],
+    "mechanics": {
+      "nickname": "Caballeros.",
+      "virtues": "Conciencia y Autocontrol.",
+      "bearing": "Devoción. Los Caballeros mantienen su palabra y es muy difícil apartarlos de su deber. El modificador de Porte afecta a las tiradas para resistir los intentos de manipularlos o forzarlos a ir contra sus propósitos.",
+      "ethics": "Mantén siempre tu palabra y honra tus acuerdos. | Nunca muestres cobardía. Supera tus miedos. | Deber antes que asuntos personales. | Trata a tus iguales y superiores de forma justa y equitativa. Quienes carecen de honor no merecen ni tu desdén. | Siempre paga tus deudas. | Apoya a tus compañeros de armas en todo, excepto cuando aconsejen traición.",
+      "hierarchy_of_sins": "| Puntuación | Guía moral | Razonamiento |\n|--------------|---------------------------------------------------------------|-----------------------------------------------------------------------|\n| 10 | Fallar al mantener los preceptos de tu grupo | El auténtico deber a una causa requiere un carácter sin tacha. |\n| 9 | No ofrecer hospitalidad a tus aliados | La hospitalidad y la generosidad son la riqueza del alma. |\n| 8 | Asociarte con los indignos | Sirve como ejemplo, pero no seas arrastrado por la mezquindad. |\n| 7 | No participar en los rituales de tu grupo | La tradición y los rituales son parte importante de tu herencia. |\n| 6 | Desobedecer a tu líder | La lealtad es la pieza clave de la jerarquía. |\n| 5 | Fallar al proteger a tus aliados | Defiende a aquéllos que son merecedores de tu estima. |\n| 4 | Anteponer las preocupaciones personales al deber | El deber es el propósito del vampiro. |\n| 3 | Mostrar cobardía | El honor reside en luchar por una causa, no en huir de ella. |\n| 2 | Matar sin razón | La vida y la muerte sólo Dios puede decretarlas. |\n| 1 | Romper tu palabra o un juramento; fallar al honrar un acuerdo | Romper la palabra dada es no tener el honor que define la existencia. |"
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "senda-del-acuerdo-honorable",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "ethics": "Mantén siempre tu palabra y honra tus acuerdos. | Nunca muestres cobardía. Supera tus miedos. | Deber antes que asuntos personales. | Trata a tus iguales y superiores de forma justa y equitativa. Quienes carecen de honor no merecen ni tu desdén. | Siempre paga tus deudas. | Apoya a tus <a href=\"/vampire/discipline-powers/companeros-de-armas\">compañeros de armas</a> en todo, excepto cuando aconsejen traición.",
+      "hierarchy_of_sins": "| Puntuación | Guía moral | Razonamiento |\n|--------------|---------------------------------------------------------------|-----------------------------------------------------------------------|\n| 10 | Fallar al mantener los preceptos de tu grupo | El auténtico deber a una causa requiere un carácter sin tacha. |\n| 9 | No ofrecer hospitalidad a tus <a href=\"/vampire/backgrounds/allies\">aliados</a> | La hospitalidad y la generosidad son la riqueza del alma. |\n| 8 | Asociarte con los indignos | Sirve como ejemplo, pero no seas arrastrado por la mezquindad. |\n| 7 | No participar en los rituales de tu grupo | La tradición y los rituales son parte importante de tu herencia. |\n| 6 | Desobedecer a tu líder | La <a href=\"/vampire/discipline-powers/lealtad\">lealtad</a> es la pieza clave de la jerarquía. |\n| 5 | Fallar al proteger a tus <a href=\"/vampire/backgrounds/allies\">aliados</a> | Defiende a aquéllos que son merecedores de tu estima. |\n| 4 | Anteponer las preocupaciones personales al deber | El deber es el propósito del vampiro. |\n| 3 | Mostrar cobardía | El honor reside en luchar por una causa, no en huir de ella. |\n| 2 | Matar sin razón | La vida y la muerte sólo Dios puede decretarlas. |\n| 1 | Romper tu palabra o un juramento; fallar al honrar un acuerdo | Romper la palabra dada es no tener el honor que define la existencia. |"
+    }
+  },
+  {
+    "id": "senda-de-cain",
+    "type": "path-of-enlightenment",
+    "line": "vampire",
+    "name_en": "Senda de Caín",
+    "name_es": "Senda de Caín",
+    "body_es": "Los eruditos de noches largamente pasadas, al buscar las claves de la naturaleza de la existencia vampírica, persiguieron fragmentos de conocimiento del Libro de Nod . Haciendo uso de la historia de este libro, así como de otras fuentes esotéricas, los eruditos Cainitas concluyeron que sólo Caín, como Primer Vampiro, es el parangón de la naturaleza vampírica. Los Nodistas buscan llegar a ser más como Caín para poder descubrir los límites y poderes de la condición de no-muertos. Al aprender del ejemplo de Caín, los Nodistas aseguran que uno puede entender la auténtica naturaleza del vampirismo y cómo la existencia vampírica difiere de la propia vida mortal.",
+    "tags": [
+      "senda-iluminacion"
+    ],
+    "mechanics": {
+      "nickname": "Nodistas.",
+      "virtues": "Convicción e Instinto.",
+      "bearing": "Fe. La rectitud de los Cainitas es evidente para todos. El modificador de Porte afecta a todas las tiradas que dependan de la imagen del vampiro como devoto Vástago y alumno de las enseñanzas de Caín.",
+      "ethics": "Busca la historia de Caín. Aprende de sus acciones. | Desarrolla tu fuerza de voluntad y tu instinto predatorio. La Bestia, como el resto de la forma vampírica, puede ser controlada. | Toma la Vitae de los indignos para así acercarte más a Caín. Modera esta acumulación con arreglo a tu propio poder para que así no des por garantizada la Maldición. | Adáptate a las necesidades de tu nueva condición; deshazte de tu perdida Humanidad. | Estudia tus habilidades y las habilidades de Caín para descubrir cuáles te pertenecen. Examina los límites y significados del vampirismo.",
+      "hierarchy_of_sins": "| Puntuación | Guía moral | Razonamiento |\n|--------------|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|\n| 10 | No dedicar tiempo a la investigación o al estudio cada noche, a pesar de las circunstancias | La búsqueda de la verdad requiere dedicación. |\n| 9 | No instruir a otros vampiros en la Senda de Caín | Todos los vampiros deben tener la oportunidad de explorar su potencial. |\n| 8 | Hacerse amigo de humanos o convivir con ellos | Caín fue separado de los mortales, como todos los vampiros deberían permanecer. |\n| 7 | Faltar al respeto a otros estudiantes de Caín | Todos los Hijos de Caín merecen el respeto debido a su herencia, siempre que se esfuercen por comprenderse a sí mismos. |\n| 6 | Fallar al cabalgar la ola del Frenesí | Dirige a la Bestia; no seas dirigido por ella. |\n| 5 | Sucumbir al Rötschreck | Controla tu miedo. El terror es para seres inferiores. |\n| 4 | Fallar al Diabolizar a un vampiro 'humano' | Aquéllos que no exploran su potencial renuncian a ese potencial. |\n| 3 | No poner a prueba regularmente los límites de habilidades y Disciplinas | Desarrolla tus capacidades hasta su límite para poder apreciar tu auténtica naturaleza. |\n| 2 | Fallar al perseguir conocimiento sobre el vampirismo cuando surge la oportunidad | Cada conocimiento añade una pieza al puzzle de la existencia no-muerta. |\n| 1 | Denegarse necesidades vampíricas (negarse a alimentarse, mostrar compasión o fallar al aprender sobre las habilidades vampíricas propias) | Para ser un vampiro, uno debe satisfacer sus necesidades. |"
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "senda-de-cain",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "senda-de-los-cataros",
+    "type": "path-of-enlightenment",
+    "line": "vampire",
+    "name_en": "Senda de los Cátaros",
+    "name_es": "Senda de los Cátaros",
+    "body_es": "La Senda de los Cátaros surgió de la herejía cátara de la Edad Media. Una filosofía dualista, la doctrina cátara asegura que el mundo fue creado a partes iguales por un creador bueno ('luz') responsable de la virtud y el espíritu, y por un creador malo ('oscuridad') que dio forma al mundo material y sus vicios. Los cátaros originales creían que el alma era el origen de todo lo que es puro en la humanidad, mientras que el cuerpo material era una cáscara en el corrupto mundo físico. Los cátaros señalaban los aspectos nobles del espíritu (compasión, sacrificio,",
+    "tags": [
+      "senda-iluminacion"
+    ],
+    "mechanics": {
+      "nickname": "Albigenses.",
+      "virtues": "Convicción e Instinto.",
+      "bearing": "Seducción. Los Cátaros son la tentación encarnada, y tienen una asombrosa habilidad para reconocer los deseos de los demás. El modificador de Porte afecta a las tiradas para tentar y seducir a los demás.",
+      "ethics": "Permite el vicio. La riqueza, la sensualidad y el poder material son las marcas del mundo físico. | Lleva a otros a la tentación. Es tu labor promover la depravación del mundo. | Garantiza la Maldición de Caín a aquéllos con gran pasión. La no-muerte es una maldición malvada, pero aquéllos con gran convicción pueden hacer buen uso de ella. | El mundo material al completo y sus habitantes están corruptos. Espera traición y perfidia. | Tu papel como criatura de maldad está predestinado. Acéptalo y cumple con tu propósito. | La muerte lleva simplemente a la reencarnación. Los mortales vuelven después de que los mates. Sin embargo, tú deberías evitar la Muerte Definitiva, ya que si mueres retornarás como mortal.",
+      "hierarchy_of_sins": "| Puntuación | Guía moral | Razonamiento |\n|--------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|\n| 10 | Ejercitar la moderación | El propósito de uno es el exceso, no la moderación. |\n| 9 | Mostrar confianza | Usar o ser usado. |\n| 8 | Fallar al transmitir la Maldición a los pa- sionalmente retorcidos o virtuosos | Los depravados pueden servir al mal mejor como vampiros; los virtuosos pueden verse sobrepasados por la Maldición. |\n| 7 | Fallar al cabalgar la ola del Frenesí | La Bestia, así como el yo superior, debe ser satisfecha. |\n| 6 | Actuar contra otro Albigense | Aquéllos de propósito parecido deberían satisfacer ese propósito, no pelear entre sí. |\n| 5 | Asesinato apasionado | El asesinato no logra un fin mayor; los hombres muertos no pueden manchar sus almas. |\n| 4 | Sacrificar gratificación en favor de otros | Promueve los placeres físicos, no los logros altruistas. |\n| 3 | Abstenerse de satisfacerse | El mundo material es un lugar para la gratificación de la carne. |\n| 2 | Asesinato arbitrario | Asesinar a un mortal evita que provoque su propia condenación. |\n| 1 | Alentar a otros a ejercitar la moderación | Los vampiros son criaturas de maldad; el propósito del vampiro es corromper, no salvar. |"
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "senda-de-los-cataros",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "ethics": "Permite el vicio. La riqueza, la sensualidad y el poder material son las marcas del mundo físico. | Lleva a otros a la tentación. Es tu labor promover la depravación del mundo. | Garantiza la Maldición de Caín a aquéllos con gran <a href=\"/vampire/discipline-powers/pasion\">pasión</a>. La no-muerte es una maldición malvada, pero aquéllos con gran convicción pueden hacer buen uso de ella. | El mundo material al completo y sus habitantes están corruptos. Espera traición y perfidia. | Tu papel como criatura de maldad está predestinado. Acéptalo y cumple con tu propósito. | La muerte lleva simplemente a la reencarnación. Los mortales vuelven después de que los mates. Sin embargo, tú deberías evitar la Muerte Definitiva, ya que si mueres retornarás como mortal.",
+      "hierarchy_of_sins": "| Puntuación | Guía moral | Razonamiento |\n|--------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|\n| 10 | Ejercitar la moderación | El propósito de uno es el exceso, no la moderación. |\n| 9 | Mostrar confianza | Usar o ser usado. |\n| 8 | Fallar al transmitir la Maldición a los pa- sionalmente retorcidos o virtuosos | Los depravados pueden servir al mal mejor como vampiros; los virtuosos pueden verse sobrepasados por la Maldición. |\n| 7 | Fallar al cabalgar la ola del Frenesí | La Bestia, así como el yo superior, debe ser satisfecha. |\n| 6 | Actuar contra otro Albigense | Aquéllos de propósito parecido deberían satisfacer ese propósito, no pelear entre sí. |\n| 5 | Asesinato apasionado | El asesinato no logra un fin mayor; los hombres muertos no pueden manchar sus almas. |\n| 4 | Sacrificar gratificación en <a href=\"/vampire/merits/favor\">favor</a> de otros | Promueve los placeres físicos, no los logros altruistas. |\n| 3 | Abstenerse de satisfacerse | El mundo material es un lugar para la gratificación de la carne. |\n| 2 | Asesinato arbitrario | Asesinar a un mortal evita que provoque su propia condenación. |\n| 1 | Alentar a otros a ejercitar la moderación | Los vampiros son criaturas de maldad; el propósito del vampiro es corromper, no salvar. |"
+    }
+  },
+  {
+    "id": "senda-del-corazon-salvaje",
+    "type": "path-of-enlightenment",
+    "line": "vampire",
+    "name_en": "Senda del Corazón Salvaje",
+    "name_es": "Senda del Corazón Salvaje",
+    "body_es": "Los vampiros son los Cazadores definitivos: inmortales e invulnerables. La Bestia Interior es meramente la expresión de su instinto predatorio. Negar los impulsos atávicos propios es ir contra los dic-",
+    "tags": [
+      "senda-iluminacion"
+    ],
+    "mechanics": {
+      "nickname": "Bestias.",
+      "virtues": "Convicción e Instinto.",
+      "bearing": "Amenaza. Aquéllos en presencia de una Bestia saben que es un auténtico Cazador, igual que un ciervo cuando se enfrenta a un lobo. El modificador de Porte se aplica a las tiradas hechas para aterrorizar o intimidar a un oponente."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "senda-del-corazon-salvaje",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "senda-de-los-huesos",
+    "type": "path-of-enlightenment",
+    "line": "vampire",
+    "name_en": "Senda de los Huesos",
+    "name_es": "Senda de los Huesos",
+    "body_es": "Se cree que la Senda de los Huesos se desarrolló a partir del retorcido código apoyado por los macabros vampiros que engendraron a los Giovanni: Humano, Vástago o cualquier otro, toda criatura antes o después termina en los brazos de la muerte. Los más fervientes seguidores de esta Senda apoyan 'entregarse a la comprensión del inevitable fin de la vida'. Los vampiros que siguen esta Senda precisamente buscan el conocimiento de lo que es la muerte: ¿Es simplemente el fin de la vida? ¿La transición del alma a lo que yace tras la vida? ¿Es el fin del deseo de existir del alma? Estas cuestiones acechan a los seguidores de la Senda de los Huesos cada noche.",
+    "tags": [
+      "senda-iluminacion"
+    ],
+    "mechanics": {
+      "nickname": "Sepultureros.",
+      "virtues": "Convicción y Autocontrol.",
+      "bearing": "Silencio. Los Sepultureros, acostumbrados como están a largas horas de tranquilidad y contemplación de la tumba, radian la quietud de la muerte. El modificador de Porte se aplica a las tiradas que incluyan Sigilo y a los intentos de pasar desapercibido.",
+      "ethics": "Estudia la muerte en todas sus formas. | Determina cuándo ocurre la muerte; defínela. | Busca un propósito para la muerte y para la vida que la antecede. | Cuantifica las diferencias de la muerte por diversas causas. | Logra estar cómodo ante la muerte y la no-vida; distingue entre condenación y salvación. | Apresura la llegada de la muerte, si ésta pareciese ser antinaturalmente retrasada.",
+      "hierarchy_of_sins": "| Puntuación | Guía moral | Razonamiento |\n|--------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------------|\n| 10 | Mostrar miedo por la muerte | El miedo inhibe el aprendizaje. |\n| 9 | No estudiar el acontecimiento de una muerte | Rechazar aprender indica rechazar comprender. |\n| 8 | Matar accidentalmente | No hay oportunidad de obtener conocimiento. |\n| 7 | Posponer la alimentación cuando se está hambriento | La negación de uno mismo no sirve a ningún propósito superior. |\n| 6 | Sucumbir al Frenesí | La Bestia es irracional, y la emoción sirve de poco para avanzar la comprensión. |\n| 5 | Rechazar matar cuando la oportunidad se presenta sola | La experimentación prueba la teoría, y sin pruebas no hay conclusión. |\n| 4 | Tomar una decisión en base a la emoción en lugar de a la lógica | Los vampiros están muertos; por ello, también lo están sus emociones. |\n| 3 | Incomodarse a uno mismo en beneficio de otro | La muerte es inevitable; ¿qué sentido tiene aliviar el nefasto malestar de los demás? |\n| 2 | Prevenir innecesariamente una muerte | No se debe impedir el ciclo, pero se debería aprender de él. |\n| 1 | Evitar activamente una muerte | Tales lazos emocionales corresponden a los humanos, no a los Vástagos. |"
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "senda-de-los-huesos",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "bearing": "Silencio. Los Sepultureros, acostumbrados como están a largas horas de tranquilidad y contemplación de la tumba, radian la <a href=\"/vampire/merits/quietud-de-la-muerte\">quietud de la muerte</a>. El modificador de Porte se aplica a las tiradas que incluyan Sigilo y a los intentos de pasar desapercibido."
+    }
+  },
+  {
+    "id": "senda-de-lilith",
+    "type": "path-of-enlightenment",
+    "line": "vampire",
+    "name_en": "Senda de Lilith",
+    "name_es": "Senda de Lilith",
+    "body_es": "Considerados heréticos por la mayoría de Cainitas del Sabbat, los fragmentos de las enseñanzas de Lilith (a veces llamados incorrectamente El Ciclo de Lilith ) muestran una elaborada historia y un relato alternativo de la misma Creación. Expulsada del primer jardín por el crimen de elevarse a sí misma con las Frutas de la Vida y el Conocimiento y por buscar ser igual tanto al hombre como a Dios, Lilith vagó por el informe y estéril mundo convirtiéndose en un poder de creación que igualaba a las deidades antiguas. A través de la aflicción y el dolor descubrió el modo de sobrevivir; con fuego y espinas creó su propio jardín, un reflejo del sufrimiento y la iluminación que ella sufrió. La arquitecta del poder de Caín, la creadora de la Magia, la madre de los dioses, Lilith regó las semillas de la sabiduría con su propia Sangre, las cuales daban a cualquiera la facultad de andar a través del fuego y nadar en aguas heladas para llegar a la libertad absoluta y al autofortalecimiento.",
+    "tags": [
+      "senda-iluminacion"
+    ],
+    "mechanics": {
+      "nickname": "Bahari, Lilin.",
+      "virtues": "Convicción e Instinto.",
+      "bearing": "Tribulación. Los Bahari ven la iluminación a través del dolor y el conflicto, y aprenden a sacar provecho del dolor. El modificador de Porte afecta a las tiradas afectadas por sus propias penalizaciones por heridas.",
+      "ethics": "Sólo a través del dolor somos elevados. | Sé maestro, torturador y amante de aquél que busca la iluminación. | Practica lo que aprendas. La sabiduría no tiene sentido a menos que la acompañe la acción. | Cultiva un jardín para así poder mostrar el poder de tu propia creación. | Busca a aquéllos en los bordes de la consciencia e inícialos. | Reúnete con tus hermanos y hermanas para compartir vuestro aprendizaje y angustia.",
+      "hierarchy_of_sins": "| Puntuación | Guía moral | Razonamiento |\n|--------------|---------------------------------------------------------------|--------------------------------------------------------------------------------|\n| 10 | Alimentarse inmediatamente cuando se está hambriento | La privación y el hambre enseñaron a Lilith a sobrevivir. |\n| 9 | Perseguir riqueza o poder temporal | La verdadera riqueza viene del interior, no del dinero o la influencia. |\n| 8 | No corregir los errores de los demás respecto a Caín y Lilith | Caín era un asesino, un traidor y un loco que no merece veneración alguna. |\n| 7 | Sentir remordimiento por provocar dolor a alguien | El dolor y el sufrimiento ayudan a los demás a aprender y crecer. |\n| 6 | Fallar al participar en un ritual Baham | Los rituales heredados a través del tiempo contienen pistas del despertar. |\n| 5 | Temer a la muerte | La muerte es simplemente un inevitable cambio a una nueva forma de existencia. |\n| 4 | Matar a un ser vivo o no-muerto | La muerte le niega a uno la posibilidad de trascender. |\n| 3 | No salir en busca de las enseñanzas de Lilith | Lilith escondió sus trabajos en muchos lugares; deben ser encontrados. |\n| 2 | Fallar al dispensar dolor o angustia | Sé un maestro a través del dolor. |\n| 1 | Rehuir el dolor | Sólo a través del dolor renacemos. Rehuir el dolor es abrazar la ignorancia. |"
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "senda-de-lilith",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "hierarchy_of_sins": "| Puntuación | Guía moral | Razonamiento |\n|--------------|---------------------------------------------------------------|--------------------------------------------------------------------------------|\n| 10 | Alimentarse inmediatamente cuando se está hambriento | La privación y el hambre enseñaron a Lilith a sobrevivir. |\n| 9 | Perseguir riqueza o poder temporal | La verdadera riqueza viene del interior, no del dinero o la <a href=\"/vampire/backgrounds/influence\">influencia</a>. |\n| 8 | No corregir los errores de los demás respecto a Caín y Lilith | Caín era un asesino, un traidor y un loco que no merece veneración alguna. |\n| 7 | Sentir remordimiento por provocar dolor a alguien | El dolor y el sufrimiento ayudan a los demás a aprender y crecer. |\n| 6 | Fallar al participar en un ritual Baham | Los rituales heredados a través del tiempo contienen pistas del despertar. |\n| 5 | Temer a la muerte | La muerte es simplemente un inevitable cambio a una nueva forma de existencia. |\n| 4 | Matar a un ser vivo o no-muerto | La muerte le niega a uno la posibilidad de trascender. |\n| 3 | No salir en busca de las enseñanzas de Lilith | Lilith escondió sus trabajos en muchos lugares; deben ser encontrados. |\n| 2 | Fallar al dispensar dolor o angustia | Sé un maestro a través del dolor. |\n| 1 | Rehuir el dolor | Sólo a través del dolor renacemos. Rehuir el dolor es abrazar la ignorancia. |"
+    }
+  },
+  {
+    "id": "senda-de-la-metamorfosis",
+    "type": "path-of-enlightenment",
+    "line": "vampire",
+    "name_en": "Senda de la Metamorfosis",
+    "name_es": "Senda de la Metamorfosis",
+    "body_es": "El mundo está hecho de cadenas evolutivas. Los animales están por debajo de los humanos, quienes están por debajo de los Vástagos. Los metafísicos y arcanos miembros del Clan [Tzimisce](/vampire/clans/tzimisce) siguen esta Senda, la cual se centra en definir y alcanzar un estado del ser más allá de la Maldición del vampirismo. Citando el uso transformativo de Vicisitud, los [Tzimisce](/vampire/clans/tzimisce) creen que tienen el potencial de trascender las limitaciones de la carne. Sin embargo, oír a los Demonios Metamorfosistas hablar, revela la auténtica monstruosidad de su filosofía. Ellos creen que el siguiente paso es un estado parecido a la Apoteosis, y harán cualquier cosa, cualquier cosa , para lograrlo.",
+    "tags": [
+      "senda-iluminacion"
+    ],
+    "mechanics": {
+      "nickname": "Metamorfosistas.",
+      "virtues": "Convicción e Instinto.",
+      "bearing": "Inhumanidad. Los Metamorfosistas trabajan sin descanso para llegar a ser algo no humano. Los modificadores de Porte se aplican a Intimidación, así como a cualquier tirada de Manipulación que pueda verse afectada positivamente por aterrorizar al objetivo.",
+      "ethics": "Aprende las características de todos los estados de la vida y la muerte. | Uno no debería preocuparse mucho por los mortales: están un paso por debajo de los Vástagos, no por encima. | No compartas conocimiento con otros, ya que es demasiado valioso como para confiarlo a criaturas defectuosas.",
+      "hierarchy_of_sins": "| Puntuación | Guía moral | Razonamiento |\n|--------------|------------------------------------------------------------|------------------------------------------------------------------------------------------|\n| 10 | Posponer alimentarse cuando se está hambriento | El hambre causa distracción. |\n| 9 | Dejarse llevar por el placer | El hedonismo impide mayores fines. |\n| 8 | Preguntar a otro por conocimiento | Las lecciones de la Metamorfosis son secretos que deben ser descubiertos, no copiados. |\n| 7 | Compartir conocimiento con otro | El conocimiento debe ser aprendido no simplemente ilustrado. |\n| 6 | Rechazar matar cuando se puede ganar conocimiento con ello | Antes de trascender la muerte, el Metamorfosista debe comprenderla. |\n| 5 | Fallar al cabalgar un Frenesí | Un Vástago debe conocer a la Bestia para trascenderla. |\n| 4 | Considerar las necesidades de otros | Aquéllos que no desean alcanzar la Metamorfosis no merecen tu atención. |\n| 3 | No experimentar, incluso a riesgo de uno mismo | La Senda sólo puede ser comprendida a través de la investigación empírica. |\n| 2 | Descuidar el alterar el propio cuerpo | Debe alcanzarse el cambio físico antes de ninguna metamorfosis más significativa. |\n| 1 | Exhibir compasión por otros | El destino de los demás arrastra a uno a la involución, no a la trascendencia. |"
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "senda-de-la-metamorfosis",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "senda-de-la-noche",
+    "type": "path-of-enlightenment",
+    "line": "vampire",
+    "name_en": "Senda de la Noche",
+    "name_es": "Senda de la Noche",
+    "body_es": "Los vampiros que siguen la Senda de la Noche han aceptado totalmente su condenación; de hecho, creen que, como vampiros, es su función predestinada el actuar como agentes de la condenación. La no-vida no es nada sin dolor, y la miseria adora la compañía. Esta Senda es practicada ampliamente por los Vástagos jóvenes del Clan [Lasombra](/vampire/clans/lasombra), quienes alegremente mortifican sus propias almas en aras de llevar atrocidad al mundo.",
+    "tags": [
+      "senda-iluminacion"
+    ],
+    "mechanics": {
+      "nickname": "Nihilistas.",
+      "virtues": "Convicción e Instinto.",
+      "bearing": "Oscuridad. Los Nihilistas desprenden un vago aire de oscuridad interior, inspirando a aquéllos a su alrededor a regodearse en sus miedos y pensamientos más oscuros. Su modificador de Porte se aplica a cualquier intento de sacar a relucir la oscuridad interior de la víctima, como sonsacar los trapos sucios de un respetado político o convencer a un santo de que rompa su voto de castidad.",
+      "ethics": "No dejes ninguna criatura sin ser tocada por tu corrupción. | Tienta y horroriza a aquéllos a tu alrededor; los débiles caerán, mientras que los fuertes serán templados por tu evaluación de ellos. | Inspira a otros a aceptar su oscuridad interior. | Experimenta cada sensación imaginable, e incluso más. | La muerte es un medio, no un fin. | Los Vástagos, como almas condenadas por Dios, cumplen con su cometido depredando a los mortales.",
+      "hierarchy_of_sins": "| Puntuación | Guía moral | Razonamiento |\n|--------------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|\n| 10 | Matar a un mortal por comida | Los mortales muertos no sienten temor. |\n| 9 | Actuar en interés de otro | No hay tiempo para satisfacer objetivos mezquinos. |\n| 8 | No innovar en las propias depredaciones | La familiaridad con los viles actos propios engendra desdén por ellos en los demás, y pronto dejan de impresionar. |\n| 7 | Pedir ayuda a otros | Aquéllos que no pueden proveer para ellos mismos cumplen pobremente con sus fines. |\n| 6 | Asesinato accidental | Dios ha hecho de los Vástagos horrores, no asesinos. |\n| 5 | Doblegarse a la voluntad de otro Vástago | Los juegos de la Jyhad son distracciones para el auténtico propósito del Condenado. |\n| 4 | Asesinato intencional o pasional | La muerte no sirve a nadie; simplemente priva a uno de una víctima. |\n| 3 | Ayudar a otros | La compasión no tiene lugar en el corazón no-muerto de un vampiro. |\n| 2 | Aceptar la declaración de superioridad de otros | Todos los Vástagos son iguales en los planes de Dios. |\n| 1 | Arrepentirse del comportamiento propio | La intención del Vástago es causar arrepentimiento, no practicarlo. |"
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "senda-de-la-noche",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "bearing": "Oscuridad. Los Nihilistas desprenden un vago aire de <a href=\"/vampire/discipline-powers/oscuridad-interior\">oscuridad interior</a>, inspirando a aquéllos a su alrededor a regodearse en sus miedos y pensamientos más oscuros. Su modificador de Porte se aplica a cualquier intento de sacar a relucir la <a href=\"/vampire/discipline-powers/oscuridad-interior\">oscuridad interior</a> de la víctima, como sonsacar los trapos sucios de un respetado político o convencer a un santo de que rompa su voto de castidad.",
+      "ethics": "No dejes ninguna criatura sin ser tocada por tu corrupción. | Tienta y horroriza a aquéllos a tu alrededor; los débiles caerán, mientras que los fuertes serán templados por tu evaluación de ellos. | Inspira a otros a aceptar su <a href=\"/vampire/discipline-powers/oscuridad-interior\">oscuridad interior</a>. | Experimenta cada sensación imaginable, e incluso más. | La muerte es un medio, no un fin. | Los Vástagos, como almas condenadas por Dios, cumplen con su cometido depredando a los mortales."
+    }
+  },
+  {
+    "id": "senda-de-la-paradoja",
+    "type": "path-of-enlightenment",
+    "line": "vampire",
+    "name_en": "Senda de la Paradoja",
+    "name_es": "Senda de la Paradoja",
+    "body_es": "Inspirada por el hinduismo y apoyada principalmente por vampiros del Clan [Ravnos](/vampire/clans/ravnos), la Senda de la Paradoja se preocupa por el deber kármico de los vampiros de continuar el gran ciclo de las edades. De acuerdo a la Senda de la Paradoja, los Vástagos están bloqueados de forma perpetua fuera del ilusorio ciclo del universo ( maya ). Aunque la mayoría de criaturas se reencarnan a través del samsara, un continuo 'enredo' en el ciclo del renacimiento, la Estirpe ha eludido ese ciclo. Cada individuo tiene su propio propósito, o svadharma , de acuerdo a la Senda de la Paradoja, aunque los vampiros, excluidos del ciclo, han perdido los suyos. En lugar del dharma que una vez siguieron, cada Vástago debe ahora intentar avanzar maya , con la esperanza de entenderla en el proceso, y finalmente penetrar las grandes ilusiones que velan la Verdad Definitiva de sus ojos.",
+    "tags": [
+      "senda-iluminacion"
+    ],
+    "mechanics": {
+      "nickname": "Shilmulo (una palabra romaní para vampiro).",
+      "virtues": "Convicción y Autocontrol.",
+      "bearing": "Confianza. Los Shilmulo creen que están en el lugar y momento exactos donde deben estar, haciendo lo que deben hacer, y como tal se comportan. El modificador de Porte se aplica a los intentos de manipular o dirigir a otros.",
+      "ethics": "Abraza sólo si es absolutamente necesario, y en ese caso sólo entre los jati (la línea familiar). | Interpreta el svadharma de los demás y ayúdales en su realización. | Destruye a los demás Vástagos, ya que son antinaturales para maya . | Borra la deuda kármica, esparce las ilusiones de maya y vuelve al samsara. | Usa el engaño para lograr tus fines, según otros soportan la falta de la desconfianza. | Confunde a los Antediluvianos al devolver a sus Chiquillos al ciclo."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "senda-de-la-paradoja",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "senda-del-poder-y-la-voz-interior",
+    "type": "path-of-enlightenment",
+    "line": "vampire",
+    "name_en": "Senda del Poder y la Voz Interior",
+    "name_es": "Senda del Poder y la Voz Interior",
+    "body_es": "Cuando se concede vida eterna, increíble poder e inhumana sed, la única auténtica existencia es como soberano inmortal. No tiene sentido añorar la Humanidad perdida o recluirse estudiando arcanos saberes; los vampiros carecen de honor o compasión. El lugar de un vampiro es el lugar de un gobernante.",
+    "tags": [
+      "senda-iluminacion"
+    ],
+    "mechanics": {
+      "nickname": "Unificadores.",
+      "virtues": "Convicción e Instinto",
+      "bearing": "Mandato. Los Unificadores están destinados al poder, y lo saben. Aquéllos a su alrededor pueden sentir su autoritaria presencia. Su modificador de Porte afecta a las tiradas para mandar o liderar a otros.",
+      "ethics": "No toleres el fallo, ni siquiera el propio. Castígalo visible y duramente. | Sé esporádico en tus recompensas. Dirige a tus seguidores para que sobresalgan, pero nunca les dejes asumir que la excelencia conlleva un recompensa. | Lucha por el control mediante cualquier método. Domina el mundo a tu alrededor y doblégalo a tu voluntad. | Usa la herramienta más efectiva para cada tarea. El odio, el miedo y la ira son clave entre estas herramientas, pero simula benevolencia. | Muestra respeto a aquéllos que son la autoridad, pero reemplázalos cuando flaqueen. | Actúa desde una posición de poder. No muestres debilidad.",
+      "hierarchy_of_sins": "| Puntuación | Guía moral | Razonamiento |\n|--------------|----------------------------------------------------------|-----------------------------------------------------------------------------|\n| 10 | Rechazar la responsabilidad de tus acciones | Descuidar la responsabilidad es un fallo que impide liderar apropiadamente. |\n| 9 | Tratar mal a tus subordinados | Recompensa la competencia como un incentivo, pero hazlo con moderación. |\n| 8 | No respetar a tus superiores | Ten el debido respeto, ya que podrías aprender algo a cambio. |\n| 7 | Ayudar a otros cuando no repercute beneficio propio | Gana siempre algo con tus acciones. |\n| 6 | Aceptar la derrota | Ten éxito, o muere. |\n| 5 | Fallar al matar cuando es en tu propio interés | No vaciles al eliminar a aquéllos que podrían levantarse contra ti. |\n| 4 | Someterse a los errores de otros | Sé justo y estarás justificado. Sigue a un loco y sufrirás por ello. |\n| 3 | No usar las herramientas más efectivas para el control | Hay que hacerse con el poder. Con resolución y puño de hierro. |\n| 2 | No castigar el fallo | El fallo es instructivo sólo cuando es usado como ejemplo negativo. |\n| 1 | Dejar pasar la oportunidad del poder | El poder personal es el medio para todo fin. |"
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "senda-del-poder-y-la-voz-interior",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "senda-de-la-sangre",
+    "type": "path-of-enlightenment",
+    "line": "vampire",
+    "name_en": "Senda de la Sangre",
+    "name_es": "Senda de la Sangre",
+    "body_es": "Esta Senda es practicada casi exclusivamente por los asesinos del Clan Assamita, aunque sólo los vampiros que demuestran auténtica [lealtad](/vampire/discipline-powers/lealtad) al Clan aprenden su riguroso código. El principio fundador de esta Senda explica que los Hijos de Caín (o Khayyin, como los Assamitas se refieren a él) son retorcidos fallos, aptos principalmente para llevar al linaje de Haqim (el nombre del Fundador del Clan Assamita) más cerca de 'el Único', un estado místico de trascendencia. Haqim instruye a sus Chiquillos a atacar salvajemente a los otros Chiquillos de Khayyin para destruir la mancha que infligen al mundo.",
+    "tags": [
+      "senda-iluminacion"
+    ],
+    "mechanics": {
+      "nickname": "Derviches.",
+      "virtues": "Convicción y Autocontrol.",
+      "bearing": "Resolución. Los Seguidores de la Senda de la Sangre conocen la seriedad de su tarea y están increíblemente dedicados a ella. Su modificador de Porte afecta a las tiradas de Fuerza de Voluntad."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "senda-de-la-sangre",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "senda-de-tifon",
+    "type": "path-of-enlightenment",
+    "line": "vampire",
+    "name_en": "Senda de Tifón",
+    "name_es": "Senda de Tifón",
+    "body_es": "Los Vampiros que siguen la Senda de Tifón tienen un propósito verdaderamente siniestro en mente. Los Teofidios buscan la resurrección de su padre y patrón, Set. Aunque la mayoría de los vampiros ven a Set simplemente como a un miembro mítico de la Tercera [Generación](/vampire/backgrounds/generacion), la doctrina Teofidia enseña que Set fue en realidad una criatura divina antes de su Abrazo. De hecho, los Teofidios ven a Caín como una criatura inferior a Set, y aseguran que éste permitió que Caín lo Abrazase porque así podría usar a los descendientes de Caín para atacar a sus divinos semejantes, como las míticas Gaia y Lilith. De esta forma, Set y los Setitas cumplen su papel en el universo, actuando como agentes de la entropía, acabando con lo viejo para que lo nuevo pueda florecer.",
+    "tags": [
+      "senda-iluminacion"
+    ],
+    "mechanics": {
+      "nickname": "Teofidios (solo entre ellos; el resto del mundo los conoce como Corruptores o por el apodo de los Seguidores de Set, Serpientes).",
+      "virtues": "Convicción y Autocontrol.",
+      "bearing": "Devoción. Los Teofidios hacen todo pensando cómo podría servir mejor a Set. El modificador de Porte ayuda en los intentos de ganar conversos y en las tiradas para resistir Poderes basados en la fe de otros (tales como Fe Verdadera, ver pág. 372).",
+      "ethics": "Reúne información, secreta o de otro tipo, y aprende cómo aplicarla para la resurrección de Set. | Contribuye a la meta última del Clan de revivir a su amo de su sueño. | Pon a otros bajo tu dominio, incrementando tu influencia y capacidad. | Subyuga a la Bestia, ya que sus insensatas artimañas le sirven sólo a ella. | Mantén un velo de secretismo para que otros no puedan discernir los métodos de la Senda. | Busca los signos ocultos de Set y actúa de acuerdo a ellos.",
+      "hierarchy_of_sins": "| Puntuación | Guía moral | Razonamiento |\n|--------------|------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|\n| 10 | Perseguir la satisfacción personal en lugar de la ajena | El descenso hacia el vicio es una herramienta, no un pasatiempo. |\n| 9 | Rechazar ayudar a otro seguidor de la Senda | Los equipos son más eficientes que los individuos para alzar a Set. |\n| 8 | Fallar al destruir un vampiro en Golconda | Aquéllos que han trascendido sus deseos no pueden ser influidos. |\n| 7 | Fallar al cumplir con un ritual religioso Setita | No puedes negar a Set sus derechos. |\n| 6 | Fallar al socavar el orden social actual en favor de los Setitas | Otros Vástagos carecen de propósito o están engañados, y esta indolencia retrasa el resurgir de Set. |\n| 5 | Fallar al hacer lo que sea necesario para corromper a otros | Cuantos más individuos en deuda con los Setitas, mejor. |\n| 4 | Fallar al perseguir conocimiento arcano | Los misterios de la resurrección de Set pueden estar escondidos en cualquier parte. |\n| 3 | Obstaculizar los esfuerzos de otro Setita | En las filas de los rectos no hay lugar para mezquinas luchas de poder. |\n| 2 | Fallar al sacar ventaja de la debilidad de los demás | No hay lugar para la compasión en los planes supremos de Set. |\n| 1 | Rechazar ayudar a la resurrección de Set | Ésta es la esfera de los no creyentes. |"
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "senda-de-tifon",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "bearing": "Devoción. Los Teofidios hacen todo pensando cómo podría servir mejor a Set. El modificador de Porte ayuda en los intentos de ganar conversos y en las tiradas para resistir Poderes basados en la fe de otros (tales como <a href=\"/vampire/merits/fe-verdadera\">Fe Verdadera</a>, ver pág. 372).",
+      "ethics": "Reúne información, secreta o de otro tipo, y aprende cómo aplicarla para la resurrección de Set. | Contribuye a la meta última del Clan de revivir a su amo de su sueño. | Pon a otros bajo tu <a href=\"/vampire/backgrounds/domain\">dominio</a>, incrementando tu <a href=\"/vampire/backgrounds/influence\">influencia</a> y capacidad. | Subyuga a la Bestia, ya que sus insensatas artimañas le sirven sólo a ella. | Mantén un velo de secretismo para que otros no puedan discernir los métodos de la Senda. | Busca los signos ocultos de Set y actúa de acuerdo a ellos.",
+      "hierarchy_of_sins": "| Puntuación | Guía moral | Razonamiento |\n|--------------|------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|\n| 10 | Perseguir la satisfacción personal en lugar de la ajena | El descenso hacia el vicio es una herramienta, no un pasatiempo. |\n| 9 | Rechazar ayudar a otro seguidor de la Senda | Los equipos son más eficientes que los individuos para alzar a Set. |\n| 8 | Fallar al destruir un vampiro en Golconda | Aquéllos que han trascendido sus deseos no pueden ser influidos. |\n| 7 | Fallar al cumplir con un ritual religioso Setita | No puedes negar a Set sus derechos. |\n| 6 | Fallar al socavar el <a href=\"/vampire/discipline-powers/orden\">orden</a> social actual en <a href=\"/vampire/merits/favor\">favor</a> de los Setitas | Otros Vástagos carecen de propósito o están engañados, y esta indolencia retrasa el resurgir de Set. |\n| 5 | Fallar al hacer lo que sea necesario para corromper a otros | Cuantos más individuos en deuda con los Setitas, mejor. |\n| 4 | Fallar al perseguir conocimiento arcano | Los misterios de la resurrección de Set pueden estar escondidos en cualquier parte. |\n| 3 | Obstaculizar los esfuerzos de otro Setita | En las filas de los rectos no hay lugar para mezquinas luchas de poder. |\n| 2 | Fallar al sacar ventaja de la debilidad de los demás | No hay lugar para la compasión en los planes supremos de Set. |\n| 1 | Rechazar ayudar a la resurrección de Set | Ésta es la esfera de los no creyentes. |"
+    }
+  },
+  {
     "id": "awakening-of-the-steel",
     "type": "thaumaturgy-path",
     "line": "vampire",
@@ -16514,7 +16868,7 @@
     "line": "vampire",
     "name_en": "The Path of Blood",
     "name_es": "Senda de la Sangre",
-    "body_es": "Casi todos los [Tremere](/vampire/clans/tremere) estudian la Senda de la Sangre como su Senda Primaria. Abarca algunos de los principios más fundamentales de Taumaturgia, ya que se basa en la manipulación de la Vitae de los Vástagos. Si el jugador quiere seleccionar otra Senda como Primaria para su personaje, el Narrador podría exigir una justificación (aunque elegir otra Senda no sea de ninguna manera algo inaudito).",
+    "body_es": "Casi todos los [Tremere](/vampire/clans/tremere) estudian la [Senda de la Sangre](/vampire/path-of-enlightenments/senda-de-la-sangre) como su Senda Primaria. Abarca algunos de los principios más fundamentales de Taumaturgia, ya que se basa en la manipulación de la Vitae de los Vástagos. Si el jugador quiere seleccionar otra Senda como Primaria para su personaje, el Narrador podría exigir una justificación (aunque elegir otra Senda no sea de ninguna manera algo inaudito).",
     "tags": [
       "taumaturgia",
       "magia-de-sangre",

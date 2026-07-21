@@ -2802,7 +2802,7 @@
     "line": "wraith",
     "name_en": "Legado",
     "name_es": "Legado",
-    "body_es": "Puede que el deseo de toda persona viva sea ser recordado, pero los recuerdos humanos son la sangre de los wraiths. Algunos individuos son recordados por pocos, algunos por muchos (esto lo abarca [Memoriam](/wraith/backgrounds/memoriam)), pero hay casos en el que la obra de un wraith es recordada mucho después de que su nombre se olvide. El Trasfondo Legado abarca esta clase de recuerdo y representa las creaciones de un wraith que han pervivido tras su muerte. Legado puede representar multitud de cosas distintas, desde objetos sólidos (edificios, estatuas, haber plantado mil árboles) a otras menos tangibles como una colección de arte, una teoría política o una palabra que ha pasado a ser de uso común.\n\nUna vez por historia, un wraith puede tratar de concentrarse y reconfortarse en su Legado. Para ello, el wraith debe viajar al lugar de éste (o algún lugar importante asociado con él en caso de Legados intangibles) y tirar tantos dados como su nivel de T rasfondo a dificultad 7. El número de éxitos representa el número de niveles de dado que puede sanar. El daño normal se regenera al instante, el agravado lleva aproximadamente una hora de permanencia en el Legado por nivel de Corpus sanado. Esto representa un proceso de confirmación y afirmación para el wraith, la manifestación física de lo que es el Corpus sanado.\n\nNinguno: No hay rastro alguno de que estuvieras vivo alguna vez.\n\n- Apareces en una pintura que cuelga en alguna parte de un muro de una oscura galería.\n- ·· Fundaste un edificio en un campus universitario.\n- ··· Replantaste un bosque devastado a través del que la gente pasea cada día.\n- ···· Diseñaste la Torre Eiffel o la Estatua de la Libertad.\n- ····· Se te atribuye una importante idea de la vida contemporánea. Quizás fundaste una religión o movimiento político o creaste una aplicación social popular.",
+    "body_es": "Puede que el deseo de toda persona viva sea ser recordado, pero los recuerdos humanos son la sangre de los wraiths. Algunos individuos son recordados por pocos, algunos por muchos (esto lo abarca [Memoriam](/wraith/backgrounds/memoriam)), pero hay casos en el que la obra de un wraith es recordada mucho después de que su nombre se olvide. El Trasfondo Legado abarca esta clase de recuerdo y representa las creaciones de un wraith que han pervivido tras su muerte. Legado puede representar multitud de cosas distintas, desde objetos sólidos (edificios, estatuas, haber plantado mil árboles) a otras menos tangibles como una colección de arte, una teoría política o una palabra que ha pasado a ser de uso común.\n\nUna vez por historia, un wraith puede tratar de concentrarse y reconfortarse en su Legado. Para ello, el wraith debe viajar al lugar de éste (o algún lugar importante asociado con él en caso de Legados intangibles) y tirar tantos dados como su nivel de T rasfondo a dificultad 7. El número de éxitos representa el número de niveles de dado que puede sanar. El daño normal se regenera al instante, el agravado lleva aproximadamente una hora de permanencia en el Legado por nivel de Corpus sanado. Esto representa un proceso de confirmación y afirmación para el wraith, la [manifestación](/wraith/thorns/manifestacion) física de lo que es el Corpus sanado.\n\nNinguno: No hay rastro alguno de que estuvieras vivo alguna vez.\n\n- Apareces en una pintura que cuelga en alguna parte de un muro de una oscura galería.\n- ·· Fundaste un edificio en un campus universitario.\n- ··· Replantaste un bosque devastado a través del que la gente pasea cada día.\n- ···· Diseñaste la Torre Eiffel o la Estatua de la Libertad.\n- ····· Se te atribuye una importante idea de la vida contemporánea. Quizás fundaste una religión o movimiento político o creaste una aplicación social popular.",
     "tags": [
       "trasfondo"
     ],
@@ -4880,7 +4880,7 @@
     "line": "wraith",
     "name_en": "Podar la Rosa Negra (De iniciado)",
     "name_es": "Podar la Rosa Negra (De iniciado)",
-    "body_es": "Esta rara pero poderosa Arte priva temporalmente a una Sombra de una o más de sus potentes armas, sus Espinas.\n\nSistema: El wraith gasta 2 puntos de Pathos y el jugador tira Carisma + Castigar (dificultad igual a la Fuerza de Voluntad del objetivo). Cada éxito significa que la Sombra pierde la capacidad de usar una de sus Espinas durante un turno. El Perdonador puede usar éxitos adicionales para extender la duración de esta Arte como se describe a continuación.\n\nSi el Perdonador conoce dos o más Espinas de la Sombra (ya sea porque la ha visto usarlas o a través de Visión del Alma o algún medio similar), puede distribuir los turnos totales del efecto entre ellas como desee. También puede usar un éxito para extender la duración durante un turno. Por ejemplo, supongamos que tiene cuatro éxitos y sabe que la Sombra tiene Roce Corrupto y Llamada Sombría. Puede privar a la Sombra de la capacidad de usar ambas Espinas durante dos turnos o Roce Corrupto durante tres turnos y Llamada Sombría durante uno, o cualquier otra combinación que sume cuatro turnos. Si sólo conoce una de las Espinas de la Sombra, ha de tener ésa por objetivo y sólo puede usar los éxitos adicionales para extender la duración (si lo desea). Si no conoce ninguna de las Espinas de la Sombra, el Narrador determina a cuáles afecta, y durante cuánto tiempo.",
+    "body_es": "Esta rara pero poderosa Arte priva temporalmente a una Sombra de una o más de sus potentes armas, sus Espinas.\n\nSistema: El wraith gasta 2 puntos de Pathos y el jugador tira Carisma + Castigar (dificultad igual a la Fuerza de Voluntad del objetivo). Cada éxito significa que la Sombra pierde la capacidad de usar una de sus Espinas durante un turno. El Perdonador puede usar éxitos adicionales para extender la duración de esta Arte como se describe a continuación.\n\nSi el Perdonador conoce dos o más Espinas de la Sombra (ya sea porque la ha visto usarlas o a través de Visión del Alma o algún medio similar), puede distribuir los turnos totales del efecto entre ellas como desee. También puede usar un éxito para extender la duración durante un turno. Por ejemplo, supongamos que tiene cuatro éxitos y sabe que la Sombra tiene [Roce Corrupto](/wraith/thorns/roce-corrupto) y [Llamada Sombría](/wraith/thorns/llamada-sombria). Puede privar a la Sombra de la capacidad de usar ambas Espinas durante dos turnos o [Roce Corrupto](/wraith/thorns/roce-corrupto) durante tres turnos y [Llamada Sombría](/wraith/thorns/llamada-sombria) durante uno, o cualquier otra combinación que sume cuatro turnos. Si sólo conoce una de las Espinas de la Sombra, ha de tener ésa por objetivo y sólo puede usar los éxitos adicionales para extender la duración (si lo desea). Si no conoce ninguna de las Espinas de la Sombra, el Narrador determina a cuáles afecta, y durante cuánto tiempo.",
     "tags": [
       "arcanoi",
       "Castigar Sistemas de Castigar"
@@ -4984,7 +4984,7 @@
     "line": "wraith",
     "name_en": "Purga (De iniciado)",
     "name_es": "Purga (De iniciado)",
-    "body_es": "Esta Arte, también conocida como Reversión Catártica , concede a un wraith dominado por su Sombra una oportunidad de recuperar el control de sí mismo.\n\nSistema: El Perdonador gasta 2 puntos de Pathos y tiene por objetivo a un wraith que esté experimentado la Catarsis (ver pág. 236). El jugador tira Carisma + Castigar (dificultad igual a la Fuerza de Voluntad del objetivo). Si obtiene uno o más éxitos, la Sombra y su wraith deben realizar otra tirada de Catarsis (lo que implica que la Sombra ha de gastar otro punto temporal de Angustia; si no puede hacerlo, pierde automáticamente la tirada). El wraith recibe un éxito adicional en esta tirada por cada dos éxitos que el Perdonador obtuviera en su tirada de Purga. Si el wraith vence, retoma el control de sí mismo. Si la Sombra lo hace, permanece en control, pero Purga fortalece a la Psique del wraith; trátalo como si tuviera 1 punto de [Eidolon](/wraith/backgrounds/eidolon) (o un punto adicional) durante el resto de la sesión.\n\nA menos que el Narrador determine lo contrario, un Perdonador no puede usar esta Arte en el mismo wraith más de una vez por escena.\n\n157\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\nncarnar es el arte de manifestarse físicamente en el mundo de los mortales. Tal paso a través del Manto se encuentra entre las violaciones más flagrantes de la ley de Caronte; al menos a la letra de la misma. En la práctica, la habilidad de relacionarse directamente con los\n\nAnimados es demasiado útil para demasiados wraiths como para acabar con ella por completo. Dentro de la Jerarquía, todos salvo los adeptos más firmes del Dictum Mortuum reconocen la necesidad ocasional de este Arcanos y toleran a regañadientes a los Vigilantes, aunque estos wraiths pueden sufrir duras sanciones y escrutinio. Más allá del alcance del imperio, los maestros de Encarnar están muy demandados, ya que, ¿qué wraith no tiene a veces asuntos al otro lado del Manto?\n\nLas aplicaciones prácticas no son la única razón para usar Encarnar. Vestir una carne nueva (aunque temporal) provoca un estallido sensorial casi adictivo. Cada manifestación renueva las sensaciones que la existencia fantasmal cotidiana amortigua. Por cada wraith que persigue este Arcanos para reconectar con un amor perdido o para influir sobre los eventos de los vivos, otro busca tutela por la egoísta búsqueda de experiencia mortal. Donde Encarnar está regulado, tal búsqueda de placer tiene la consideración de vicio prohibido, tanto por su reputación como por sus efectos, y las lecciones en este Arcanos son parte integral de la economía en la sombra (y a veces de la Sombra).\n\nEncarnar confía en información sensorial a través del Manto como un ancla a la que el wraith ata su consciencia. La importancia emocional resulta secundaria ante la pura intensidad de su propósito. El escándalo del solar en demolición, el trajín de un distrito nocturno iluminado por neones o el ruido y el humo de un desastre natural resuenan en las Tierras de las Sombras de su propia forma. Un wraith Encarnado sigue esta resonancia hasta su fuente para arrastrarse hasta las Tierras de la Piel. Quienes enseñan Encarnar tienden a dar sus lecciones en los lugares más caóticos posibles.\n\nMarcas de gremio\n\nLas marcas que Encarnar deja en los Vigilantes reflejan el foco que el wraith usa para materializarse y los eventos que experimenta en las Tierras de la Piel. Un wraith que prefiere concentrarse en las sensaciones visuales puede tener ojos que reflejan el otro lado del Manto, mientras que uno que busca fuentes de calor puede desarrollar ampollas o que el calor brille en la punta de sus dedos. Si la pérdida de Corpus mientras se está manifestado fuerza al wraith a un Tormento, la lesión que lo provocó suele dejar una cicatriz que no puede borrarse ni con Moliar. Un observador astuto con experiencia médica o sobrenatural puede distinguir la diferencia entre cicatrices ordinarias y las infligidas por Encarnar.",
+    "body_es": "Esta Arte, también conocida como Reversión Catártica , concede a un wraith dominado por su Sombra una oportunidad de recuperar el control de sí mismo.\n\nSistema: El Perdonador gasta 2 puntos de Pathos y tiene por objetivo a un wraith que esté experimentado la Catarsis (ver pág. 236). El jugador tira Carisma + Castigar (dificultad igual a la Fuerza de Voluntad del objetivo). Si obtiene uno o más éxitos, la Sombra y su wraith deben realizar otra tirada de Catarsis (lo que implica que la Sombra ha de gastar otro punto temporal de Angustia; si no puede hacerlo, pierde automáticamente la tirada). El wraith recibe un éxito adicional en esta tirada por cada dos éxitos que el Perdonador obtuviera en su tirada de Purga. Si el wraith vence, retoma el control de sí mismo. Si la Sombra lo hace, permanece en control, pero Purga fortalece a la Psique del wraith; trátalo como si tuviera 1 punto de [Eidolon](/wraith/backgrounds/eidolon) (o un punto adicional) durante el resto de la sesión.\n\nA menos que el Narrador determine lo contrario, un Perdonador no puede usar esta Arte en el mismo wraith más de una vez por escena.\n\n157\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\nncarnar es el arte de manifestarse físicamente en el mundo de los mortales. Tal paso a través del Manto se encuentra entre las violaciones más flagrantes de la ley de Caronte; al menos a la letra de la misma. En la práctica, la habilidad de relacionarse directamente con los\n\nAnimados es demasiado útil para demasiados wraiths como para acabar con ella por completo. Dentro de la Jerarquía, todos salvo los adeptos más firmes del Dictum Mortuum reconocen la necesidad ocasional de este Arcanos y toleran a regañadientes a los Vigilantes, aunque estos wraiths pueden sufrir duras sanciones y escrutinio. Más allá del alcance del imperio, los maestros de Encarnar están muy demandados, ya que, ¿qué wraith no tiene a veces asuntos al otro lado del Manto?\n\nLas aplicaciones prácticas no son la única razón para usar Encarnar. Vestir una carne nueva (aunque temporal) provoca un estallido sensorial casi adictivo. Cada [manifestación](/wraith/thorns/manifestacion) renueva las sensaciones que la existencia fantasmal cotidiana amortigua. Por cada wraith que persigue este Arcanos para reconectar con un amor perdido o para influir sobre los eventos de los vivos, otro busca tutela por la egoísta búsqueda de experiencia mortal. Donde Encarnar está regulado, tal búsqueda de placer tiene la consideración de vicio prohibido, tanto por su reputación como por sus efectos, y las lecciones en este Arcanos son parte integral de la economía en la sombra (y a veces de la Sombra).\n\nEncarnar confía en información sensorial a través del Manto como un ancla a la que el wraith ata su consciencia. La importancia emocional resulta secundaria ante la pura intensidad de su propósito. El escándalo del solar en demolición, el trajín de un distrito nocturno iluminado por neones o el ruido y el humo de un desastre natural resuenan en las Tierras de las Sombras de su propia forma. Un wraith Encarnado sigue esta resonancia hasta su fuente para arrastrarse hasta las Tierras de la Piel. Quienes enseñan Encarnar tienden a dar sus lecciones en los lugares más caóticos posibles.\n\nMarcas de gremio\n\nLas marcas que Encarnar deja en los Vigilantes reflejan el foco que el wraith usa para materializarse y los eventos que experimenta en las Tierras de la Piel. Un wraith que prefiere concentrarse en las sensaciones visuales puede tener ojos que reflejan el otro lado del Manto, mientras que uno que busca fuentes de calor puede desarrollar ampollas o que el calor brille en la punta de sus dedos. Si la pérdida de Corpus mientras se está manifestado fuerza al wraith a un Tormento, la lesión que lo provocó suele dejar una cicatriz que no puede borrarse ni con Moliar. Un observador astuto con experiencia médica o sobrenatural puede distinguir la diferencia entre cicatrices ordinarias y las infligidas por Encarnar.",
     "tags": [
       "arcanoi",
       "Castigar Sistemas de Castigar"
@@ -5062,7 +5062,7 @@
     "line": "wraith",
     "name_en": "Aparición (Común)",
     "name_es": "Aparición (Común)",
-    "body_es": "El wraith se manifiesta como una aparición nebulosa, translúcida e intangible, sólo vagamente reminiscente de su cuerpo mortal. Los mortales que son testigos de esta manifestación reaccionan con miedo y están sujetos a las Brumas (ver pág. 284).\n\nSistema: El jugador gasta 1 punto de Pathos y tira Carisma + Encarnar. El wraith se manifiesta un turno por éxito. Mientras está manifestado, el personaje puede realizar una acción para inducir miedo en un testigo si tira Carisma + Intimidación a dificultad 7. Cada éxito reduce la Fuerza de Voluntad del objetivo en 1 en lo que respecta a determinar los efectos de las Brumas. A discreción del Narrador, los usos creativos de otros Arcanoi pueden reducir la dificultad de esta tirada.",
+    "body_es": "El wraith se manifiesta como una aparición nebulosa, translúcida e intangible, sólo vagamente reminiscente de su cuerpo mortal. Los mortales que son testigos de esta [manifestación](/wraith/thorns/manifestacion) reaccionan con miedo y están sujetos a las Brumas (ver pág. 284).\n\nSistema: El jugador gasta 1 punto de Pathos y tira Carisma + Encarnar. El wraith se manifiesta un turno por éxito. Mientras está manifestado, el personaje puede realizar una acción para inducir miedo en un testigo si tira Carisma + Intimidación a dificultad 7. Cada éxito reduce la Fuerza de Voluntad del objetivo en 1 en lo que respecta a determinar los efectos de las Brumas. A discreción del Narrador, los usos creativos de otros Arcanoi pueden reducir la dificultad de esta tirada.",
     "tags": [
       "arcanoi",
       "Encarnar Sistemas de Encarnar"
@@ -5114,7 +5114,7 @@
     "line": "wraith",
     "name_en": "Estatua (Común)",
     "name_es": "Estatua (Común)",
-    "body_es": "Con esta Arte, el wraith puede asumir una forma sólida aunque inmóvil. El Vigilante puede materializarse como una fría y dura versión idealizada de su Corpus, una sangrienta recreación de su cáscara mortal en el momento de su muerte, una aparición luminosa con llameantes ojos de mirada acusadora o cualquier otra manifestación que refleje una única emoción fuerte. Mientras usa Estatua, el wraith no puede realizar acciones físicas: no se mueve, habla, ni respira.\n\nSistema: El jugador gasta 2 puntos de Pathos y tira Carisma + Encarnar. Cada éxito permite al personaje permanecer sólido durante una escena o ser tocado una vez (lo que ocurra antes). Mientras está manifestado, el jugador puede gastar 1 punto adicional de Pathos y hacer una tirada enfrentada de Carisma + Encarnar contra la Fuerza de Voluntad de un testigo para provocarle miedo o terror.\n\nEstatua es una manifestación física, lo que permite lesiones como si el Vigilante fuese mortal. Aun así, tiene una armadura igual a sus puntos en Encarnar, la cual puede absorber daño agravado. Cuando el efecto termina, no queda rastro alguno en las Tierras de la Piel de que el wraith hubiera estado jamás allí.",
+    "body_es": "Con esta Arte, el wraith puede asumir una forma sólida aunque inmóvil. El Vigilante puede materializarse como una fría y dura versión idealizada de su Corpus, una sangrienta recreación de su cáscara mortal en el momento de su muerte, una aparición luminosa con llameantes ojos de mirada acusadora o cualquier otra [manifestación](/wraith/thorns/manifestacion) que refleje una única emoción fuerte. Mientras usa Estatua, el wraith no puede realizar acciones físicas: no se mueve, habla, ni respira.\n\nSistema: El jugador gasta 2 puntos de Pathos y tira Carisma + Encarnar. Cada éxito permite al personaje permanecer sólido durante una escena o ser tocado una vez (lo que ocurra antes). Mientras está manifestado, el jugador puede gastar 1 punto adicional de Pathos y hacer una tirada enfrentada de Carisma + Encarnar contra la Fuerza de Voluntad de un testigo para provocarle miedo o terror.\n\nEstatua es una [manifestación](/wraith/thorns/manifestacion) física, lo que permite lesiones como si el Vigilante fuese mortal. Aun así, tiene una armadura igual a sus puntos en Encarnar, la cual puede absorber daño agravado. Cuando el efecto termina, no queda rastro alguno en las Tierras de la Piel de que el wraith hubiera estado jamás allí.",
     "tags": [
       "arcanoi",
       "Encarnar Sistemas de Encarnar"
@@ -5140,7 +5140,7 @@
     "line": "wraith",
     "name_en": "Dedos de Piel (De iniciado)",
     "name_es": "Dedos de Piel (De iniciado)",
-    "body_es": "La habilidad de manipular físicamente objetos en las Tierras de la Piel es una de las Artes que permite a los Vigilantes su negocio a través del Manto. Cuando un wraith invoca este Poder, sus manos existen simultáneamente a ambos lados del Manto, y se presentan sólidas, pero pálidas y traslúcidas.\n\nSistema: El jugador gasta 1 punto de Pathos más 1 punto de Corpus por cada mano (u otro apéndice en el caso de wraiths Moliados) que el personaje desee manifestar, luego tira Carisma + Encarnar. Superar la tirada permite que las manos del personaje se manifiesten durante la escena. Mientras el poder está activo, los Atributos físicos del personaje no pueden exceder los éxitos obtenidos. Las manos del Vigilante concuerdan con lo que cada testigo espera de cómo se sentirían las manos de un cadáver.\n\nDedos de Piel es una manifestación física que permite las lesiones como si el Vigilante fuera mortal. Los ataques contra las manos manifestadas sufren +2 a la dificultad pero hacen +1 de daño.",
+    "body_es": "La habilidad de manipular físicamente objetos en las Tierras de la Piel es una de las Artes que permite a los Vigilantes su negocio a través del Manto. Cuando un wraith invoca este Poder, sus manos existen simultáneamente a ambos lados del Manto, y se presentan sólidas, pero pálidas y traslúcidas.\n\nSistema: El jugador gasta 1 punto de Pathos más 1 punto de Corpus por cada mano (u otro apéndice en el caso de wraiths Moliados) que el personaje desee manifestar, luego tira Carisma + Encarnar. Superar la tirada permite que las manos del personaje se manifiesten durante la escena. Mientras el poder está activo, los Atributos físicos del personaje no pueden exceder los éxitos obtenidos. Las manos del Vigilante concuerdan con lo que cada testigo espera de cómo se sentirían las manos de un cadáver.\n\nDedos de Piel es una [manifestación](/wraith/thorns/manifestacion) física que permite las lesiones como si el Vigilante fuera mortal. Los ataques contra las manos manifestadas sufren +2 a la dificultad pero hacen +1 de daño.",
     "tags": [
       "arcanoi",
       "Encarnar Sistemas de Encarnar"
@@ -5166,7 +5166,7 @@
     "line": "wraith",
     "name_en": "Vida en Muerte (Común)",
     "name_es": "Vida en Muerte (Común)",
-    "body_es": "Esta Arte permite al wraith manifestarse en una aproximación sólida de su cuerpo mortal. Esta apariencia manifestada está sujeta a los caprichos de la memoria y la autoidealización, así que las imperfecciones menores desaparecen. Esta forma tiene pelo más oscuro y piel más pálida que el original vivo, tiende a ser más atractiva, tiene piel fría y carece de pulso o aliento. Por lo demás, el wraith es claramente reconocible, aunque sus amigos íntimos percibirán las diferencias. La concentración requerida para mantener esta forma deja al wraith incapaz de prestar total atención a su entorno, así que parece algo distraído, pero puede moverse, hablar e interactuar con su entorno físico.\n\nSistema: El jugador gasta 2 puntos de Pathos y tira Manipulación + Encarnar; cada éxito permite manifestarse una escena. Mientras que el personaje está Encarnado, la dificultad de todas las tiradas Mentales y Sociales aumenta en 1. El personaje debe tener forma humana para usar Muerte en Vida; los wraiths Moliados en objetos no pueden usar esta Arte. El jugador puede sustituir la Manipulación del personaje por su Apariencia mientras está manifestado.\n\nVida en Muerte es una manifestación física, lo que permite las lesiones como si el Vigilante fuera mortal.",
+    "body_es": "Esta Arte permite al wraith manifestarse en una aproximación sólida de su cuerpo mortal. Esta apariencia manifestada está sujeta a los caprichos de la memoria y la autoidealización, así que las imperfecciones menores desaparecen. Esta forma tiene pelo más oscuro y piel más pálida que el original vivo, tiende a ser más atractiva, tiene piel fría y carece de pulso o aliento. Por lo demás, el wraith es claramente reconocible, aunque sus amigos íntimos percibirán las diferencias. La concentración requerida para mantener esta forma deja al wraith incapaz de prestar total atención a su entorno, así que parece algo distraído, pero puede moverse, hablar e interactuar con su entorno físico.\n\nSistema: El jugador gasta 2 puntos de Pathos y tira Manipulación + Encarnar; cada éxito permite manifestarse una escena. Mientras que el personaje está Encarnado, la dificultad de todas las tiradas Mentales y Sociales aumenta en 1. El personaje debe tener forma humana para usar Muerte en Vida; los wraiths Moliados en objetos no pueden usar esta Arte. El jugador puede sustituir la Manipulación del personaje por su Apariencia mientras está manifestado.\n\nVida en Muerte es una [manifestación](/wraith/thorns/manifestacion) física, lo que permite las lesiones como si el Vigilante fuera mortal.",
     "tags": [
       "arcanoi",
       "Encarnar Sistemas de Encarnar"
@@ -5218,7 +5218,7 @@
     "line": "wraith",
     "name_en": "Materializarse (Común)",
     "name_es": "Materializarse (Común)",
-    "body_es": "El wraith puede reconstruir su cuerpo mortal casi con perfecto detalle, y asumir brevemente un semblante de su anterior vida. Mientras está Materializado, cualquier prueba médica revela que es un humano vivo (aunque su verdadera naturaleza sigue siendo obvia para los sentidos ocultistas). Puede respirar, comer, sudar, llorar, sangrar y morir como cualquier otro humano. Esta Arte se cobra un duro coste en el Vigilante, pero la mayoría está dispuesta a pagar el precio una vez se dan cuenta de sus beneficios: un wraith Materializado tiene toda la libertad de acción que su antigua forma mortal poseía.\n\nSistema: El jugador gasta 3 puntos de Pathos y 3 de Corpus y tira Manipulación + Encarnar. El Vigilante se manifiesta durante un turno por éxito. Si el Vigilante está en sintonía con todos los testigos vivos, esto aumenta a una hora por éxito. El personaje debe tener aspecto humano para usar Materializarse.\n\nObviamente, Materializarse es una manifestación física, lo que permite las lesiones (y el dolor) como si el Vigilante fuese mortal. Cada nivel de Salud de daño que el wraith sufra mientras usa esta Arte concede a su Sombra 1 punto temporal de Angustia.",
+    "body_es": "El wraith puede reconstruir su cuerpo mortal casi con perfecto detalle, y asumir brevemente un semblante de su anterior vida. Mientras está Materializado, cualquier prueba médica revela que es un humano vivo (aunque su verdadera naturaleza sigue siendo obvia para los sentidos ocultistas). Puede respirar, comer, sudar, llorar, sangrar y morir como cualquier otro humano. Esta Arte se cobra un duro coste en el Vigilante, pero la mayoría está dispuesta a pagar el precio una vez se dan cuenta de sus beneficios: un wraith Materializado tiene toda la libertad de acción que su antigua forma mortal poseía.\n\nSistema: El jugador gasta 3 puntos de Pathos y 3 de Corpus y tira Manipulación + Encarnar. El Vigilante se manifiesta durante un turno por éxito. Si el Vigilante está en sintonía con todos los testigos vivos, esto aumenta a una hora por éxito. El personaje debe tener aspecto humano para usar Materializarse.\n\nObviamente, Materializarse es una [manifestación](/wraith/thorns/manifestacion) física, lo que permite las lesiones (y el dolor) como si el Vigilante fuese mortal. Cada nivel de Salud de daño que el wraith sufra mientras usa esta Arte concede a su Sombra 1 punto temporal de Angustia.",
     "tags": [
       "arcanoi",
       "Encarnar Sistemas de Encarnar"
@@ -5244,7 +5244,7 @@
     "line": "wraith",
     "name_en": "Atormentar la Carne Mortal (De iniciado)",
     "name_es": "Atormentar la Carne Mortal (De iniciado)",
-    "body_es": "La mayoría de Artes de Encarnar se centran en llevar al wraith a las tierras de los vivos. [Atormentar la Carne Mortal](/wraith/dark-arcanos/torment-the-mortal-flesh) invierte el proceso. Con esta Arte, el Vigilante puede arrastrar a un objetivo vivo a las Tierras de las Sombras, y así hacerse con su ayuda o darle un atisbo de lo que le espera al morir. Las víctimas no preparadas o reacias de esta Arte, rara vez reaccionan bien a la experiencia.\n\nSistema: El wraith debe tocar a su objetivo. El jugador gasta 3 puntos de Pathos y 3 de Corpus y tira Manipulación + Encarnar. Si el objetivo es reacio, puede resistirse con una tirada de Fuerza de Voluntad (dificultad 10 menos la puntuación del Manto local). Si el objetivo es otro ser sobrenatural (es decir, cualquier cosa menos un mortal) el coste en Pathos de esta Arte aumenta a 6.\n\nSi se supera la tirada, el objetivo entra en las Tierras de las Sombras durante un minuto por éxito (una hora por éxito si el wraith está en sintonía con él). Si el objetivo es voluntario, pierde 1 punto temporal de Fuerza de Voluntad y la Sombra del Vigilante gana 1 punto de Angustia. Si el objetivo era reacio, hace una tirada de Fuerza de Voluntad (dificultad igual al Manto local); por cada dado que no sea un éxito, pierde 1 punto temporal de Fuerza de Voluntad y la Sombra del Vigilante gana 1 punto temporal de Angustia. Si se queda sin puntos temporales de Fuerza de Voluntad como resultado de esta tirada, la Sombra del Vigilante gana 3 puntos más de Angustia temporal.\n\nSi el objetivo muere o su alma es forjada mientras está en las Tierras de las Sombras, la Sombra del Vigilante gana 10 puntos temporales de Angustia. Si el objetivo muere, también se convierte automáticamente en un Espectro.\n\n<!-- image -->\n\no «más cerca» que la mayoría de Animados llega a estar nunca de entrar en el Inframundo es cuando duerme. Sus sueños (o pesadillas) les llevan de la realidad tangible del mundo despierto a la región vacía que unas veces encuentran reconfortante, otras veces espantosa, y en ocasiones sólo extraña,\n\n<!-- image -->\n\nya que su subconsciente juega con ellos. Mientras existen en estas cambiantes tierras de sueños se aproximan a las Tierras de las Sombras (tanto que ciertos wraiths pueden obrar su voluntad sobre ellos). Estos wraiths, los Soñadores, usan el Arcanos Fantasma para manipular sus sueños, y a los soñadores que los engendran.",
+    "body_es": "La mayoría de Artes de Encarnar se centran en llevar al wraith a las tierras de los vivos. [Atormentar la Carne Mortal](/wraith/dark-arcanos/torment-the-mortal-flesh) invierte el proceso. Con esta Arte, el Vigilante puede arrastrar a un objetivo vivo a las Tierras de las Sombras, y así hacerse con su ayuda o darle un atisbo de lo que le espera al morir. Las víctimas no preparadas o reacias de esta Arte, rara vez reaccionan bien a la experiencia.\n\nSistema: El wraith debe tocar a su objetivo. El jugador gasta 3 puntos de Pathos y 3 de Corpus y tira Manipulación + Encarnar. Si el objetivo es reacio, puede resistirse con una tirada de Fuerza de Voluntad (dificultad 10 menos la puntuación del Manto local). Si el objetivo es otro ser sobrenatural (es decir, cualquier cosa menos un mortal) el coste en Pathos de esta Arte aumenta a 6.\n\nSi se supera la tirada, el objetivo entra en las Tierras de las Sombras durante un minuto por éxito (una hora por éxito si el wraith está en sintonía con él). Si el objetivo es voluntario, pierde 1 punto temporal de Fuerza de Voluntad y la Sombra del Vigilante gana 1 punto de Angustia. Si el objetivo era reacio, hace una tirada de Fuerza de Voluntad (dificultad igual al Manto local); por cada dado que no sea un éxito, pierde 1 punto temporal de Fuerza de Voluntad y la Sombra del Vigilante gana 1 punto temporal de Angustia. Si se queda sin puntos temporales de Fuerza de Voluntad como resultado de esta tirada, la Sombra del Vigilante gana 3 puntos más de Angustia temporal.\n\nSi el objetivo muere o su alma es forjada mientras está en las Tierras de las Sombras, la Sombra del Vigilante gana 10 puntos temporales de Angustia. Si el objetivo muere, también se convierte automáticamente en un Espectro.\n\n<!-- image -->\n\no «más cerca» que la mayoría de Animados llega a estar nunca de entrar en el Inframundo es cuando duerme. Sus sueños (o [pesadillas](/wraith/thorns/pesadillas)) les llevan de la realidad tangible del mundo despierto a la región vacía que unas veces encuentran reconfortante, otras veces espantosa, y en ocasiones sólo extraña,\n\n<!-- image -->\n\nya que su subconsciente juega con ellos. Mientras existen en estas cambiantes tierras de sueños se aproximan a las Tierras de las Sombras (tanto que ciertos wraiths pueden obrar su voluntad sobre ellos). Estos wraiths, los Soñadores, usan el Arcanos Fantasma para manipular sus sueños, y a los soñadores que los engendran.",
     "tags": [
       "arcanoi",
       "Encarnar Sistemas de Encarnar"
@@ -5504,7 +5504,7 @@
     "line": "wraith",
     "name_en": "onirotaxia (De iniciado)",
     "name_es": "onirotaxia (De iniciado)",
-    "body_es": "Onirotaxia, también conocida como Manipulación del Sueño (o, entre los wraiths menos respetuosos, como Bomba de Insomnio), permite a un wraith impedir que Animados y wraiths duerman, despierten o sueñen.\n\nSistema: Onirotaxia tiene tres funciones. Usar cualquier de ellas cuesta 2 puntos de Pathos; si un wraith usa dos o más al tiempo sobre un mismo objetivo, cada una adicional cuesta otro punto de Pathos.\n\nPrimero, un wraith puede usar esta Arte para impedir que un mortal duerma o un wraith entre en Sopor. El jugador tira Manipulación + Fantasma a dificultad 8 o la Fuerza de Voluntad del objetivo, lo que sea mayor. Superarla indica que el objetivo no puede dormir durante 24 horas.\n\nPara los Animados, la falta de sueño reduce las acciones de la víctima en un dado por cada día que siga así hasta que logre dormir de forma profunda e ininterrumpida. El jugador del Soñador puede también aplicar una reducción adicional de un dado por cada dos éxitos adicionales en la tirada (un Soñador sólo puede usar esta clase de Onirotaxia sobre un objetivo concreto una vez cada vez que duerme, pero los efectos son acumulativos si se aplican en noches sucesivas). Es más, si la penalización iguala la mayor combinación de Atributo + Habilidad del objetivo, éste experimenta un colapso nervioso y requiere asistencia médica o incluso internamiento temporal en una institución. La exposición prolongada tras este punto envía al personaje a la catatonia permanente. Un wraith puede tratar de combatir esta Arte usando Tejedor de Sueños (ver pág. 164) durante la [pesadilla](/wraith/arcanos-powers/pesadilla) del objetivo.\n\nPara un wraith, la incapacidad de entrar en Sopor significa que no puede recuperar Corpus de esa forma. Un uso de Abrazo Morfeano sobre un wraith afectado por esta clase de Onirotaxia debe obtener más éxitos en la tirada que los del ataque de Onirotaxia o no logra afectar al wraith.\n\nSegundo, un wraith puede impedir que un durmiente despierte. Esto mantiene a un Animado en un estado de coma y empuja a un wraith en Sopor a una «hibernación» forzosa. El jugador tira Manipulación + Fantasma a dificultad 7 o la Fuerza de Voluntad del objetivo, lo que sea mayor. Cada éxito indica que el sueño / Sopor continúa durante otro período de 12 horas. Un fracaso en esta tirada suele hacer que el propio Soñador caiga dormido durante 12 horas.\n\nTercero, un wraith puede impedir que un mortal sueñe mientras duerme (esto no funciona en los Sin Reposo). Aunque esto puede afectar de maneras distintas en el comportamiento de la víctima, los efectos de juego son los mismos que la falta de sueño (ver antes), y la Sombra del wraith adquiere 1 punto de Angustia permanente cuando el mortal enloquece.\n\nUn Soñador puede usar dos o más funciones de Onirotaxia en un objetivo al tiempo. Esto aumenta la dificultad de todas las tiradas a la más alta de ellas, +1 por cada función adicional utilizada.\n\n<!-- image -->\n\n<!-- image -->\n\nada escapa al Destino. Los muertos lo saben mejor que los vivos. Todo en el Inframundo tiene un destino, una razón para su continuada existencia tras la muerte o la destrucción, aunque no siempre sea obvia. Cada wraith tiene una vaga consciencia del Destino. Muchos nunca ven más allá de una premonición ocasional\n\no un salto intuitivo, pero los que buscan una comprensión más profunda de la casualidad y el destino se ven atraídos por Fatalismo, el Arcanos dedicado a seguir y enredar los hilos del tapiz del Destino.\n\nLa sabiduría estigia mantiene que los Oráculos no escogen el Destino, sino que éste escoge a sus Oráculos. Fatalismo es un Arcanos sutil con pocas manifestaciones evidentes, uno que suele empezar como una manifestación espontánea en lugar de un intento deliberado de aprender los secretos del Destino. Algunos de los Oráculos más fuertes de la historia no tenían interés alguno en convertirse en herramientas del Destino antes de sus primeras experiencias con su poder.\n\nCada Oráculo tiene una relación singular con Fatalismo y las fuerzas que canaliza. Cierta información se obtiene con total claridad y una precisión matemática, pero la mayoría se escabulle de forma nebulosa fuera de su alcance, acechando en los límites de la mente del Oráculo. Quitando las situaciones más claras y simples, la complejidad del Destino hace que, en el mejor de los casos, sea difícil obtener respuestas sencillas; una complicación que concede a los Oráculos una a menudo justificada reputación de vaguedad y evasión. La profecía nunca ha sido una ciencia exacta.",
+    "body_es": "Onirotaxia, también conocida como Manipulación del Sueño (o, entre los wraiths menos respetuosos, como Bomba de Insomnio), permite a un wraith impedir que Animados y wraiths duerman, despierten o sueñen.\n\nSistema: Onirotaxia tiene tres funciones. Usar cualquier de ellas cuesta 2 puntos de Pathos; si un wraith usa dos o más al tiempo sobre un mismo objetivo, cada una adicional cuesta otro punto de Pathos.\n\nPrimero, un wraith puede usar esta Arte para impedir que un mortal duerma o un wraith entre en Sopor. El jugador tira Manipulación + Fantasma a dificultad 8 o la Fuerza de Voluntad del objetivo, lo que sea mayor. Superarla indica que el objetivo no puede dormir durante 24 horas.\n\nPara los Animados, la falta de sueño reduce las acciones de la víctima en un dado por cada día que siga así hasta que logre dormir de forma profunda e ininterrumpida. El jugador del Soñador puede también aplicar una reducción adicional de un dado por cada dos éxitos adicionales en la tirada (un Soñador sólo puede usar esta clase de Onirotaxia sobre un objetivo concreto una vez cada vez que duerme, pero los efectos son acumulativos si se aplican en noches sucesivas). Es más, si la penalización iguala la mayor combinación de Atributo + Habilidad del objetivo, éste experimenta un colapso nervioso y requiere asistencia médica o incluso internamiento temporal en una institución. La exposición prolongada tras este punto envía al personaje a la catatonia permanente. Un wraith puede tratar de combatir esta Arte usando Tejedor de Sueños (ver pág. 164) durante la [pesadilla](/wraith/arcanos-powers/pesadilla) del objetivo.\n\nPara un wraith, la incapacidad de entrar en Sopor significa que no puede recuperar Corpus de esa forma. Un uso de Abrazo Morfeano sobre un wraith afectado por esta clase de Onirotaxia debe obtener más éxitos en la tirada que los del ataque de Onirotaxia o no logra afectar al wraith.\n\nSegundo, un wraith puede impedir que un durmiente despierte. Esto mantiene a un Animado en un estado de coma y empuja a un wraith en Sopor a una «hibernación» forzosa. El jugador tira Manipulación + Fantasma a dificultad 7 o la Fuerza de Voluntad del objetivo, lo que sea mayor. Cada éxito indica que el sueño / Sopor continúa durante otro período de 12 horas. Un fracaso en esta tirada suele hacer que el propio Soñador caiga dormido durante 12 horas.\n\nTercero, un wraith puede impedir que un mortal sueñe mientras duerme (esto no funciona en los Sin Reposo). Aunque esto puede afectar de maneras distintas en el comportamiento de la víctima, los efectos de juego son los mismos que la falta de sueño (ver antes), y la Sombra del wraith adquiere 1 punto de Angustia permanente cuando el mortal enloquece.\n\nUn Soñador puede usar dos o más funciones de Onirotaxia en un objetivo al tiempo. Esto aumenta la dificultad de todas las tiradas a la más alta de ellas, +1 por cada función adicional utilizada.\n\n<!-- image -->\n\n<!-- image -->\n\nada escapa al Destino. Los muertos lo saben mejor que los vivos. Todo en el Inframundo tiene un destino, una razón para su continuada existencia tras la muerte o la destrucción, aunque no siempre sea obvia. Cada wraith tiene una vaga consciencia del Destino. Muchos nunca ven más allá de una premonición ocasional\n\no un salto intuitivo, pero los que buscan una comprensión más profunda de la casualidad y el destino se ven atraídos por Fatalismo, el Arcanos dedicado a seguir y enredar los hilos del tapiz del Destino.\n\nLa sabiduría estigia mantiene que los Oráculos no escogen el Destino, sino que éste escoge a sus Oráculos. Fatalismo es un Arcanos sutil con pocas manifestaciones evidentes, uno que suele empezar como una [manifestación](/wraith/thorns/manifestacion) espontánea en lugar de un intento deliberado de aprender los secretos del Destino. Algunos de los Oráculos más fuertes de la historia no tenían interés alguno en convertirse en herramientas del Destino antes de sus primeras experiencias con su poder.\n\nCada Oráculo tiene una relación singular con Fatalismo y las fuerzas que canaliza. Cierta información se obtiene con total claridad y una precisión matemática, pero la mayoría se escabulle de forma nebulosa fuera de su alcance, acechando en los límites de la mente del Oráculo. Quitando las situaciones más claras y simples, la complejidad del Destino hace que, en el mejor de los casos, sea difícil obtener respuestas sencillas; una complicación que concede a los Oráculos una a menudo justificada reputación de vaguedad y evasión. La profecía nunca ha sido una ciencia exacta.",
     "tags": [
       "arcanoi",
       "Sistemas de Fantasma"
@@ -5660,7 +5660,7 @@
     "line": "wraith",
     "name_en": "Malocchio (De iniciado)",
     "name_es": "Malocchio (De iniciado)",
-    "body_es": "El «mal de ojo» es un arte ancestral y cruel. Susurrando una maldición, el Oráculo mancha los hilos de la víctima en el tapiz del Destino de forma que la condena con mala suerte y la marca con signos visibles sólo para otros Oráculos.\n\nSistema: El jugador gasta 3 puntos de Pathos y tira Astucia + Fatalismo (dificultad igual a la Fuerza de Voluntad del objetivo). La Sombra del wraith obtiene 3 puntos temporales de Angustia, aunque si está de acuerdo en que el objetivo se lo merecía, el Guía de la Sombra puede gastar inmediatamente esta Angustia para añadir tres éxitos a la tirada. Durante un día por éxito, el objetivo sufre mala suerte. No hay un efecto mecánico estándar, pero el Narrador debería sentirse libre de colmar a la víctima de posesiones que se rompen o pierden, Mala Suerte (como en la Espina), acoso de facciones rivales y cosas desagradables similares.\n\nMientras Malocchio esté activo, cualquier personaje que perciba a la víctima con un Arte de Fatalismo es consciente de inmediato de la maldición y la identidad del autor.\n\nEl jugador puede gastar 1 punto de Fuerza de Voluntad para incrementar la duración de Malocchio a una semana por éxito. Si gasta 1 punto permanente de Fuerza de Voluntad, esto se convierte en un año por éxito. La Sombra del Oráculo adquiere 3 puntos temporales de Angustia o 1 punto permanente de Angustia, respectivamente.\n\nLa víctima de Malocchio sólo puede eliminar la maldición mediante interpretación. Aunque primero ha de ser consciente de que, de hecho, hay un causante de su mala suerte.\n\n<!-- image -->",
+    "body_es": "El «mal de ojo» es un arte ancestral y cruel. Susurrando una maldición, el Oráculo mancha los hilos de la víctima en el tapiz del Destino de forma que la condena con [mala suerte](/wraith/thorns/mala-suerte) y la marca con signos visibles sólo para otros Oráculos.\n\nSistema: El jugador gasta 3 puntos de Pathos y tira Astucia + Fatalismo (dificultad igual a la Fuerza de Voluntad del objetivo). La Sombra del wraith obtiene 3 puntos temporales de Angustia, aunque si está de acuerdo en que el objetivo se lo merecía, el Guía de la Sombra puede gastar inmediatamente esta Angustia para añadir tres éxitos a la tirada. Durante un día por éxito, el objetivo sufre [mala suerte](/wraith/thorns/mala-suerte). No hay un efecto mecánico estándar, pero el Narrador debería sentirse libre de colmar a la víctima de posesiones que se rompen o pierden, [Mala Suerte](/wraith/thorns/mala-suerte) (como en la Espina), acoso de facciones rivales y cosas desagradables similares.\n\nMientras Malocchio esté activo, cualquier personaje que perciba a la víctima con un Arte de Fatalismo es consciente de inmediato de la maldición y la identidad del autor.\n\nEl jugador puede gastar 1 punto de Fuerza de Voluntad para incrementar la duración de Malocchio a una semana por éxito. Si gasta 1 punto permanente de Fuerza de Voluntad, esto se convierte en un año por éxito. La Sombra del Oráculo adquiere 3 puntos temporales de Angustia o 1 punto permanente de Angustia, respectivamente.\n\nLa víctima de Malocchio sólo puede eliminar la maldición mediante interpretación. Aunque primero ha de ser consciente de que, de hecho, hay un causante de su [mala suerte](/wraith/thorns/mala-suerte).\n\n<!-- image -->",
     "tags": [
       "arcanoi",
       "Facciones"
@@ -7324,7 +7324,7 @@
     "line": "wraith",
     "name_en": "Salvaje (De iniciado)",
     "name_es": "Salvaje (De iniciado)",
-    "body_es": "Mientras que Desgarrar asusta a la mayoría de wraiths, esta Arte, un secreto celosamente guardado por el Gremio durante siglos, los aterroriza por completo, dado que permite a una Máscara arrancar suficiente Corpus de un wraith como para dañarlo de forma permanente.\n\nSistema: El wraith gasta 3 puntos de Pathos para usar Salvaje y también adquiere 1 punto de Angustia por éxito obtenido. Debe tocar a su objetivo (esto puede requerir un tirada de ataque de Destreza + Pelea). El jugador tira Destreza + Moliar (dificultad igual a la Resistencia o Fuerza de Voluntad del objetivo, lo que sea mayor, +3 hasta un máximo de 10). Por cada dos éxitos, la Máscara reduce permanentemente los Atributos Físicos de su objetivo en 1.\n\nLa única forma conocida de restaurar puntos de Atributos perdidos por Salvaje es una minuciosa «cirugía» con Esculpir. Esto requiere tantos éxitos como los obtenidos para infligir la herida a dificultad 10 y lleva días de esfuerzo. Esto sólo puede intentarse una vez por punto de Atributo perdido. Si ese intento falla, el daño no puede corregirse nunca.\n\n<!-- image -->\n\n<!-- image -->\n\nandemónium es el Arcanos de invocar caos marginalmente controlado al otro lado del Manto. Ha generado un millar de relatos de sucesos forteanos, y la exposición repetida ha conducido a muchas víctimas a una balbuceante impotencia. Resulta perturbador que también parezca tener\n\nun efecto semejante en sus usuarios. Para los foráneos, Pandemónium puede parecerse mucho tanto a una manifestación externa del caos como a un Arcanos.\n\nLos T rasgos tienen una perspectiva más matizada. Es cierto que Pandemónium atrae a bastantes wraiths rotos, pero muchos de ellos eran un poco distintos antes de que comenzaran a trastear con la rareza. Como una sustancia psicoactiva, este Arcanos funciona mejor para los usuarios que ya saben lo que quieren de él. Es una herramienta de perturbación. A nivel individual, juguetea con los eventos o las percepciones de la gente. A escala más amplia, siembra el caos por el Manto (o eso esperan los T rasgos). Nadie aprende Pandemónium esperando ser sutil.",
+    "body_es": "Mientras que Desgarrar asusta a la mayoría de wraiths, esta Arte, un secreto celosamente guardado por el Gremio durante siglos, los aterroriza por completo, dado que permite a una Máscara arrancar suficiente Corpus de un wraith como para dañarlo de forma permanente.\n\nSistema: El wraith gasta 3 puntos de Pathos para usar Salvaje y también adquiere 1 punto de Angustia por éxito obtenido. Debe tocar a su objetivo (esto puede requerir un tirada de ataque de Destreza + Pelea). El jugador tira Destreza + Moliar (dificultad igual a la Resistencia o Fuerza de Voluntad del objetivo, lo que sea mayor, +3 hasta un máximo de 10). Por cada dos éxitos, la Máscara reduce permanentemente los Atributos Físicos de su objetivo en 1.\n\nLa única forma conocida de restaurar puntos de Atributos perdidos por Salvaje es una minuciosa «cirugía» con Esculpir. Esto requiere tantos éxitos como los obtenidos para infligir la herida a dificultad 10 y lleva días de esfuerzo. Esto sólo puede intentarse una vez por punto de Atributo perdido. Si ese intento falla, el daño no puede corregirse nunca.\n\n<!-- image -->\n\n<!-- image -->\n\nandemónium es el Arcanos de invocar caos marginalmente controlado al otro lado del Manto. Ha generado un millar de relatos de sucesos forteanos, y la exposición repetida ha conducido a muchas víctimas a una balbuceante impotencia. Resulta perturbador que también parezca tener\n\nun efecto semejante en sus usuarios. Para los foráneos, Pandemónium puede parecerse mucho tanto a una [manifestación](/wraith/thorns/manifestacion) externa del caos como a un Arcanos.\n\nLos T rasgos tienen una perspectiva más matizada. Es cierto que Pandemónium atrae a bastantes wraiths rotos, pero muchos de ellos eran un poco distintos antes de que comenzaran a trastear con la rareza. Como una sustancia psicoactiva, este Arcanos funciona mejor para los usuarios que ya saben lo que quieren de él. Es una herramienta de perturbación. A nivel individual, juguetea con los eventos o las percepciones de la gente. A escala más amplia, siembra el caos por el Manto (o eso esperan los T rasgos). Nadie aprende Pandemónium esperando ser sutil.",
     "tags": [
       "arcanoi",
       "Moliar Sistemas de Moliar"
@@ -7376,7 +7376,7 @@
     "line": "wraith",
     "name_en": "Saborear el Caos (De iniciado)",
     "name_es": "Saborear el Caos (De iniciado)",
-    "body_es": "La afinidad del wraith por el caos le permite detectar su toque en otros. La capacidad de esta Arte para revelar la influencia no sólo de Pandemónium sino también del Olvido tiene implicaciones que pocos Trasgos quieren examinar en detalle…\n\nSistema: El wraith mira inquisitivamente a un objetivo en su campo visual; el jugador tira Astucia + Pandemónium. Un éxito revela si el objetivo ha sido afectado por Pandemónium, poderes Espectrales o alguna otra manifestación del Olvido en el último día. Cada éxito adicional revela rastros que se retrotraen otra semana adicional.",
+    "body_es": "La afinidad del wraith por el caos le permite detectar su toque en otros. La capacidad de esta Arte para revelar la influencia no sólo de Pandemónium sino también del Olvido tiene implicaciones que pocos Trasgos quieren examinar en detalle…\n\nSistema: El wraith mira inquisitivamente a un objetivo en su campo visual; el jugador tira Astucia + Pandemónium. Un éxito revela si el objetivo ha sido afectado por Pandemónium, poderes Espectrales o alguna otra [manifestación](/wraith/thorns/manifestacion) del Olvido en el último día. Cada éxito adicional revela rastros que se retrotraen otra semana adicional.",
     "tags": [
       "arcanoi",
       "LoS RARIToS SE HACEN PRoFESIoNALES"
@@ -7428,7 +7428,7 @@
     "line": "wraith",
     "name_en": "Escritura Post Mortem (De iniciado)",
     "name_es": "Escritura Post Mortem (De iniciado)",
-    "body_es": "Un Trasgo versado en esta Arte puede comunicarse a través del Manto mediante palabras y símbolos escritos. Concentrándose en su mensaje e infundiendo su Corpus con caos, fuerza parte de su sustancia a través de las grietas en los muros entre mundos, y marca cualquier superficie sólida. La impredecibilidad de Pandemónium hace que cada manifestación sea diferente: un mensaje puede aparecer en musgo, otro rezuma de la superficie escrita como sangre coagulada, mientras que unos mosquitos brillantes vuelan formando el tercero. Esto también hace imposible la transcripción directa. Con práctica, el wraith puede expresar su intención con aceptable precisión, aunque un desliz en su concentración puede revelar sus preocupaciones y deseos subconscientes o incluso permitir que sea su Sombra quien dicte el mensaje.\n\nSistema: Cuando el wraith comienza a escribir, el jugador gasta 1 punto de Pathos y 1 de Corpus y tira Inteligencia + Pandemónium. Puede escribir durante un turno por éxito, cada turno le permite escribir una expresión o frase corta. Todo lo escrito desaparece al final de la escena.",
+    "body_es": "Un Trasgo versado en esta Arte puede comunicarse a través del Manto mediante palabras y símbolos escritos. Concentrándose en su mensaje e infundiendo su Corpus con caos, fuerza parte de su sustancia a través de las grietas en los muros entre mundos, y marca cualquier superficie sólida. La impredecibilidad de Pandemónium hace que cada [manifestación](/wraith/thorns/manifestacion) sea diferente: un mensaje puede aparecer en musgo, otro rezuma de la superficie escrita como sangre coagulada, mientras que unos mosquitos brillantes vuelan formando el tercero. Esto también hace imposible la transcripción directa. Con práctica, el wraith puede expresar su intención con aceptable precisión, aunque un desliz en su concentración puede revelar sus preocupaciones y deseos subconscientes o incluso permitir que sea su Sombra quien dicte el mensaje.\n\nSistema: Cuando el wraith comienza a escribir, el jugador gasta 1 punto de Pathos y 1 de Corpus y tira Inteligencia + Pandemónium. Puede escribir durante un turno por éxito, cada turno le permite escribir una expresión o frase corta. Todo lo escrito desaparece al final de la escena.",
     "tags": [
       "arcanoi",
       "LoS RARIToS SE HACEN PRoFESIoNALES"
@@ -7506,7 +7506,7 @@
     "line": "wraith",
     "name_en": "Humor Nauseabundo (Común)",
     "name_es": "Humor Nauseabundo (Común)",
-    "body_es": "Forzando su Corpus a través del Manto, el wraith crea una erupción forteana de cualquier cosa que vaya de alimañas a vísceras. Puede generar lluvias de ranas, plagas de langostas, enjambres de avispas, erupciones de ratas, explosiones de arañas… y la lista continúa. Alternativamente, puede invocar carne cruda, sangre fresca o coagulada, cieno enmohecido, cubos de flema, moco ácido o cáustico u otras sustancias nocivas.\n\nSistema: El jugador describe el efecto deseado, gasta 1 punto de Pathos y tira Inteligencia + Pandemónium. La Sombra del wraith gana entonces 1 punto de Angustia temporal independientemente de si la tirada tiene éxito. La manifestación tiene un radio máximo de la puntuación de Pandemónium del wraith x 5 metros y dura tres turnos por éxito. Si el efecto es dañino, la Sombra del wraith adquiere 1 punto de Angustia temporal adicional y la alimaña o sustancia inflige 1 nivel de daño letal por cada dos éxitos.\n\nSon posibles manifestaciones más sutiles o menos perturbadoras, aunque van en contra de las fuerzas que invoca esta Arte. Invocar una sustancia que no sea desagradable cuesta 1 punto de Fuerza de Voluntad para el necesario y minucioso control.",
+    "body_es": "Forzando su Corpus a través del Manto, el wraith crea una erupción forteana de cualquier cosa que vaya de alimañas a vísceras. Puede generar lluvias de ranas, plagas de langostas, enjambres de avispas, erupciones de ratas, explosiones de arañas… y la lista continúa. Alternativamente, puede invocar carne cruda, sangre fresca o coagulada, cieno enmohecido, cubos de flema, moco ácido o cáustico u otras sustancias nocivas.\n\nSistema: El jugador describe el efecto deseado, gasta 1 punto de Pathos y tira Inteligencia + Pandemónium. La Sombra del wraith gana entonces 1 punto de Angustia temporal independientemente de si la tirada tiene éxito. La [manifestación](/wraith/thorns/manifestacion) tiene un radio máximo de la puntuación de Pandemónium del wraith x 5 metros y dura tres turnos por éxito. Si el efecto es dañino, la Sombra del wraith adquiere 1 punto de Angustia temporal adicional y la alimaña o sustancia inflige 1 nivel de daño letal por cada dos éxitos.\n\nSon posibles manifestaciones más sutiles o menos perturbadoras, aunque van en contra de las fuerzas que invoca esta Arte. Invocar una sustancia que no sea desagradable cuesta 1 punto de Fuerza de Voluntad para el necesario y minucioso control.",
     "tags": [
       "arcanoi",
       "LoS RARIToS SE HACEN PRoFESIoNALES"
@@ -7532,7 +7532,7 @@
     "line": "wraith",
     "name_en": "Aparición grotesca (De iniciado)",
     "name_es": "Aparición grotesca (De iniciado)",
-    "body_es": "En lugar de pringar o infestar una zona con el Corpus que desecha, un Trasgo hábil puede moldear su manifestación a través del Manto en una aproximación de su forma mortal. Esta Arte genera una forma humanoide de corta duración y tamaño real que se asemeja vagamente al Trasgo. Es incapaz de expresarse más allá de balbuceos\n\nincipientes, pero es angustiosamente robusta y desagradable.\n\nSistema: El jugador gasta 3 puntos de Corpus y 2 de Pathos y tira Inteligencia + Pandemónium. La Sombra del wraith adquiere 1 punto de Angustia temporal. La manifestación dura un turno por éxito. Cuando el wraith crea la aparición, establece su comportamiento general (incluyendo si ataca y a quién), pero no puede controlarla después; una vez liberada, es autónoma.\n\nLa aparición tiene los mismos Atributos que el wraith, salvo Apariencia, que es 0. Hereda los puntos en las siguientes Habilidades (si tiene): Atletismo, Pelea, Intimidación, Pelea con Armas, Artesanía (útiles sólo para sabotajes) y Sigilo. Tiene los mismos niveles de Salud que la Resistencia + Pandemónium del Trasgo.\n\nCuando crea la aparición, el jugador puede gastar Corpus adicional para potenciar su forma física, 1 punto de Corpus proporciona 1 punto de Fuerza, 1 punto de Resistencia o 2 niveles de Salud.",
+    "body_es": "En lugar de pringar o infestar una zona con el Corpus que desecha, un Trasgo hábil puede moldear su [manifestación](/wraith/thorns/manifestacion) a través del Manto en una aproximación de su forma mortal. Esta Arte genera una forma humanoide de corta duración y tamaño real que se asemeja vagamente al Trasgo. Es incapaz de expresarse más allá de balbuceos\n\nincipientes, pero es angustiosamente robusta y desagradable.\n\nSistema: El jugador gasta 3 puntos de Corpus y 2 de Pathos y tira Inteligencia + Pandemónium. La Sombra del wraith adquiere 1 punto de Angustia temporal. La [manifestación](/wraith/thorns/manifestacion) dura un turno por éxito. Cuando el wraith crea la aparición, establece su comportamiento general (incluyendo si ataca y a quién), pero no puede controlarla después; una vez liberada, es autónoma.\n\nLa aparición tiene los mismos Atributos que el wraith, salvo Apariencia, que es 0. Hereda los puntos en las siguientes Habilidades (si tiene): Atletismo, Pelea, Intimidación, Pelea con Armas, Artesanía (útiles sólo para sabotajes) y Sigilo. Tiene los mismos niveles de Salud que la Resistencia + Pandemónium del Trasgo.\n\nCuando crea la aparición, el jugador puede gastar Corpus adicional para potenciar su forma física, 1 punto de Corpus proporciona 1 punto de Fuerza, 1 punto de Resistencia o 2 niveles de Salud.",
     "tags": [
       "arcanoi",
       "LoS RARIToS SE HACEN PRoFESIoNALES"
@@ -9289,7 +9289,7 @@
     "line": "wraith",
     "name_en": "susurros Negros",
     "name_es": "susurros Negros",
-    "body_es": "El Espectro puede comunicarse directamente con la mente de un mortal. Esta Arte tiene una amplia variedad de usos, desde empujar a mortales trastornados más allá del límite a entregar proclamaciones falsamente internas a líderes de cultos.\n\nSistema: Gasta 1 punto de Angustia y tira Carisma + Maleficencia (dificultad igual a la puntuación del Manto local o la Fuerza de Voluntad del objetivo, lo que sea mayor). Los éxitos obtenidos representan el número de turnos que puedes comunicarte telepáticamente con el mortal. Con un fracaso, el objetivo aprende a ignorar tus susurros mentales y aplicas +1 de dificultad a todas los futuros intentos de Susurros Negros sobre él.",
+    "body_es": "El Espectro puede comunicarse directamente con la mente de un mortal. Esta Arte tiene una amplia variedad de usos, desde empujar a mortales trastornados más allá del límite a entregar proclamaciones falsamente internas a líderes de cultos.\n\nSistema: Gasta 1 punto de Angustia y tira Carisma + Maleficencia (dificultad igual a la puntuación del Manto local o la Fuerza de Voluntad del objetivo, lo que sea mayor). Los éxitos obtenidos representan el número de turnos que puedes comunicarte telepáticamente con el mortal. Con un fracaso, el objetivo aprende a ignorar tus [susurros](/wraith/thorns/susurros) mentales y aplicas +1 de dificultad a todas los futuros intentos de Susurros Negros sobre él.",
     "tags": [
       "arcanoi",
       "Maleficencia"
@@ -9367,7 +9367,7 @@
     "line": "wraith",
     "name_en": "Empoderar",
     "name_es": "Empoderar",
-    "body_es": "Al conceder el poder del Vacío a la propia alma de un mortal, el Espectro le otorga habilidades sobrenaturales. Estos poderes son una manifestación directa de la mancha del Olvido, que tiene por resultado la palpable decadencia física y mental del objetivo.\n\nSistema: Gasta 1 punto de Angustia y 1 de Fuerza de Voluntad para activar esta Arte, más 5 puntos adicionales de Angustia por cada punto de poder de Arcanos Oscuro que deseas conceder; luego tira Manipulación + Maleficencia (dificultad igual a la puntuación del Manto local, reducida en 2 si el objetivo ya está infundido con Angustia). Debes obtener al menos tantos éxitos como la puntuación del poder para concederlo con éxito.\n\nSólo puedes Empoderar al objetivo con un poder de Arcanos Oscuro que poseas. Esta Arte es permanente una vez concedida, y funciona exactamente igual que para el Espectro, incluyendo cualquier coste necesario de Angustia y Fuerza de Voluntad. Ten en cuenta que los mortales no pueden generar su propia Angustia, y deben recurrir a la [Investidura](/wraith/arcanos-powers/investidura) de los Espectros.\n\nCon un fracaso, limpias accidentalmente la reserva actual de Angustia del objetivo y ya nunca puedes tratar de usar Empoderar sobre él de nuevo.",
+    "body_es": "Al conceder el poder del Vacío a la propia alma de un mortal, el Espectro le otorga habilidades sobrenaturales. Estos poderes son una [manifestación](/wraith/thorns/manifestacion) directa de la mancha del Olvido, que tiene por resultado la palpable decadencia física y mental del objetivo.\n\nSistema: Gasta 1 punto de Angustia y 1 de Fuerza de Voluntad para activar esta Arte, más 5 puntos adicionales de Angustia por cada punto de poder de Arcanos Oscuro que deseas conceder; luego tira Manipulación + Maleficencia (dificultad igual a la puntuación del Manto local, reducida en 2 si el objetivo ya está infundido con Angustia). Debes obtener al menos tantos éxitos como la puntuación del poder para concederlo con éxito.\n\nSólo puedes Empoderar al objetivo con un poder de Arcanos Oscuro que poseas. Esta Arte es permanente una vez concedida, y funciona exactamente igual que para el Espectro, incluyendo cualquier coste necesario de Angustia y Fuerza de Voluntad. Ten en cuenta que los mortales no pueden generar su propia Angustia, y deben recurrir a la [Investidura](/wraith/arcanos-powers/investidura) de los Espectros.\n\nCon un fracaso, limpias accidentalmente la reserva actual de Angustia del objetivo y ya nunca puedes tratar de usar Empoderar sobre él de nuevo.",
     "tags": [
       "arcanoi",
       "Maleficencia"
@@ -9477,7 +9477,7 @@
     "line": "wraith",
     "name_en": "pesadilla",
     "name_es": "pesadilla",
-    "body_es": "Con un rasgón del Manto, el Espectro permite que la mancha del Olvido se filtre hasta un mortal dormido. Aunque vagamente similar a Fantasma, el Espectro no tiene control ni conocimiento de las pesadillas que desata. En su lugar, se limita a conectar directamente la psique de su víctima dormida con el terrible caos de la propia Tempestad.\n\nSistema: Gasta 2 puntos de Angustia y tira Destreza + [Rasgar el Manto](/wraith/dark-arcanos/rend-the-shroud) (dificultad igual a la puntuación del Manto local). Superar la tirada sume al mortal en terribles pesadillas y sus acciones se reducen en un dado al día siguiente hasta que pueda dormir en condiciones y de manera ininterrumpida. T ambién puedes aplicar un dado adicional de reducción por cada dos éxitos adicionales en la tirada. Esta Arte sólo puede usarse sobre un objetivo concreto una vez cada vez que sueña, pero el efecto es acumulativo si se aplica en noches sucesivas.\n\nSi la penalización iguala la mayor combinación de Atributo + Habilidad del objetivo, éste experimenta una crisis nerviosa y necesita asistencia médica o incluso ser ingresado temporalmente. Un wraith puede tratar de combatir esta Arte usando Tejedor de Sueños (pág. 164) durante la pesadilla del objetivo.\n\nCada vez que uses esta Arte, tu Psique gana 1 punto de Pathos.",
+    "body_es": "Con un rasgón del Manto, el Espectro permite que la mancha del Olvido se filtre hasta un mortal dormido. Aunque vagamente similar a Fantasma, el Espectro no tiene control ni conocimiento de las [pesadillas](/wraith/thorns/pesadillas) que desata. En su lugar, se limita a conectar directamente la psique de su víctima dormida con el terrible caos de la propia Tempestad.\n\nSistema: Gasta 2 puntos de Angustia y tira Destreza + [Rasgar el Manto](/wraith/dark-arcanos/rend-the-shroud) (dificultad igual a la puntuación del Manto local). Superar la tirada sume al mortal en terribles [pesadillas](/wraith/thorns/pesadillas) y sus acciones se reducen en un dado al día siguiente hasta que pueda dormir en condiciones y de manera ininterrumpida. T ambién puedes aplicar un dado adicional de reducción por cada dos éxitos adicionales en la tirada. Esta Arte sólo puede usarse sobre un objetivo concreto una vez cada vez que sueña, pero el efecto es acumulativo si se aplica en noches sucesivas.\n\nSi la penalización iguala la mayor combinación de Atributo + Habilidad del objetivo, éste experimenta una crisis nerviosa y necesita asistencia médica o incluso ser ingresado temporalmente. Un wraith puede tratar de combatir esta Arte usando Tejedor de Sueños (pág. 164) durante la pesadilla del objetivo.\n\nCada vez que uses esta Arte, tu Psique gana 1 punto de Pathos.",
     "tags": [
       "arcanoi",
       "rasgar el Manto"
@@ -11679,6 +11679,615 @@
         "book_title_es": "Wraith20 El Olvido NSR (ES)",
         "page": null,
         "section_anchor": "guardagrilletes",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "aliados-oscuros",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Aliados Oscuros",
+    "name_es": "Aliados Oscuros",
+    "body_es": "Una Sombra con Aliados Oscuros se comunica de forma habitual y trama con Espectros y puede llamarlos para que le ayuden. No puede usarse para replicar [Pacto Maldito](/wraith/thorns/pacto-maldito).",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "1 punto por nivel",
+      "effect": "Una Sombra con Aliados Oscuros se comunica de forma habitual y trama con Espectros y puede llamarlos para que le ayuden. No puede usarse para replicar Pacto Maldito."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "aliados-oscuros",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "effect": "Una Sombra con Aliados Oscuros se comunica de forma habitual y trama con Espectros y puede llamarlos para que le ayuden. No puede usarse para replicar <a href=\"/wraith/thorns/pacto-maldito\">Pacto Maldito</a>."
+    }
+  },
+  {
+    "id": "infamia",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Infamia",
+    "name_es": "Infamia",
+    "body_es": "Infamia, [Memoriam](/wraith/backgrounds/memoriam) para la Sombra, es la medida de cuánto miedo y desprecio inspira aún el wraith entre los vivos. Igual que la Psique del wraith acumula Pathos, las Sombras pueden acumular Angustia. Cada vez que un wraith con Infamia entra en Sopor, el Guía de la Sombra tira un dado por cada punto que posea en esta Espina. La dificultad de la tirada es 6, y cada éxito da a la Sombra 1 punto de Angustia temporal. Los fracasos eliminan Angustia temporal y podrían simplemente causar que los vivos piensen más amablemente respecto al wraith. No se pueden adquirir más de 5 puntos de Infamia y es mejor que un wraith infame se prepare para lidiar con las consecuencias de ser odiado por los vivos.",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "1 punto por nivel",
+      "effect": "Infamia, Memoriam para la Sombra, es la medida de cuánto miedo y desprecio inspira aún el wraith entre los vivos. Igual que la Psique del wraith acumula Pathos, las Sombras pueden acumular Angustia. Cada vez que un wraith con Infamia entra en Sopor, el Guía de la Sombra tira un dado por cada punto que posea en esta Espina. La dificultad de la tirada es 6, y cada éxito da a la Sombra 1 punto de Angustia temporal. Los fracasos eliminan Angustia temporal y podrían simplemente causar que los vivos piensen más amablemente respecto al wraith. No se pueden adquirir más de 5 puntos de Infamia y es mejor que un wraith infame se prepare para lidiar con las consecuencias de ser odiado por los vivos."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "infamia",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "effect": "Infamia, <a href=\"/wraith/backgrounds/memoriam\">Memoriam</a> para la Sombra, es la medida de cuánto miedo y desprecio inspira aún el wraith entre los vivos. Igual que la Psique del wraith acumula Pathos, las Sombras pueden acumular Angustia. Cada vez que un wraith con Infamia entra en Sopor, el Guía de la Sombra tira un dado por cada punto que posea en esta Espina. La dificultad de la tirada es 6, y cada éxito da a la Sombra 1 punto de Angustia temporal. Los fracasos eliminan Angustia temporal y podrían simplemente causar que los vivos piensen más amablemente respecto al wraith. No se pueden adquirir más de 5 puntos de Infamia y es mejor que un wraith infame se prepare para lidiar con las consecuencias de ser odiado por los vivos."
+    }
+  },
+  {
+    "id": "prestigio-espectral",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Prestigio Espectral",
+    "name_es": "Prestigio Espectral",
+    "body_es": "Muchos Espectros tienen la capacidad de comunicarse con las Sombras de los wraiths. Las Sombras con esta Espina se han ganado el respeto de los Roídos por la Sombra y serán tratados en consecuencia.",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "1 punto por nivel",
+      "effect": "Muchos Espectros tienen la capacidad de comunicarse con las Sombras de los wraiths. Las Sombras con esta Espina se han ganado el respeto de los Roídos por la Sombra y serán tratados en consecuencia."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "prestigio-espectral",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "reliquia-corrupta",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Reliquia Corrupta",
+    "name_es": "Reliquia Corrupta",
+    "body_es": "Una Reliquia que sólo se manifiesta durante la Catarsis. El número de puntos indica su potencia. Una Reliquia Corrupta siempre se manifiesta cuando lo hace la Sombra, incluso si se ha «perdido» o «destruido». La Reliquia Corrupta de un wraith siempre tendrá un significado especial para él, aunque no lo admita. Un juguete del familiar abusivo del que nunca habla, o una cuchilla del tiempo que pasó en prisión y que de alguna manera nunca ha mencionado son la clase de Reliquias Corruptas sobre las que enérgicamente puede negar saber nada.",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "1 punto por nivel",
+      "effect": "Una Reliquia que sólo se manifiesta durante la Catarsis. El número de puntos indica su potencia. Una Reliquia Corrupta siempre se manifiesta cuando lo hace la Sombra, incluso si se ha «perdido» o «destruido». La Reliquia Corrupta de un wraith siempre tendrá un significado especial para él, aunque no lo admita. Un juguete del familiar abusivo del que nunca habla, o una cuchilla del tiempo que pasó en prisión y que de alguna manera nunca ha mencionado son la clase de Reliquias Corruptas sobre las que enérgicamente puede negar saber nada."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "reliquia-corrupta",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "sello-de-la-muerte",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Sello de la Muerte",
+    "name_es": "Sello de la Muerte",
+    "body_es": "Sello de la Muerte es un prominente signo del roce del Olvido en el personaje que se manifiesta allí donde vaya. Cada Sello es único; un wraith podría tener alas de un humo asfixiante, otro podría dejar huellas de agua marina en las Tierras de la Piel y un tercero podría exudar un olor a carne quemada. Naturalmente, esta Espina hace muy distintivo a un wraith, con todas las ventajas y desventajas que esto genera. Sólo gastando 1 punto de Fuerza de Voluntad puede un wraith eliminar los efectos durante una escena. Cuantos más puntos se gasten en la Espina, más pronunciado es el efecto. Un Sello de 1 punto podría no ser tan perceptible, mientras que uno de 3 podría llegar a alterar los efectos de los Arcanoi del wraith.",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "1 o 3 puntos",
+      "effect": "Sello de la Muerte es un prominente signo del roce del Olvido en el personaje que se manifiesta allí donde vaya. Cada Sello es único; un wraith podría tener alas de un humo asfixiante, otro podría dejar huellas de agua marina en las Tierras de la Piel y un tercero podría exudar un olor a carne quemada. Naturalmente, esta Espina hace muy distintivo a un wraith, con todas las ventajas y desventajas que esto genera. Sólo gastando 1 punto de Fuerza de Voluntad puede un wraith eliminar los efectos durante una escena. Cuantos más puntos se gasten en la Espina, más pronunciado es el efecto. Un Sello de 1 punto podría no ser tan perceptible, mientras que uno de 3 podría llegar a alterar los efectos de los Arcanoi del wraith."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "sello-de-la-muerte",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "aura-de-corrupcion",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Aura de Corrupción",
+    "name_es": "Aura de Corrupción",
+    "body_es": "A través de los efectos de esta Espina, la Sombra profana de alguna manera la forma en que se presenta un wraith, haciendo que su presencia resulte desagradable a los demás wraiths. El efecto de Aura de Corrupción no suele ser grotesco; en su lugar es sutilmente perturbador. De hecho puede no tener un impacto evidente y simplemente servir para incomodar a los demás. Si la luz es más dura en torno al wraith o sus dientes son sutilmente más afilados, la incomodidad puede asentarse rápidamente en las mentes de sus compañeros. Si un wraith tiene Aura de Corrupción, la dificultad de todas las tiradas de interacción social aumentan en +2. Esta Espina sólo puede adquirirse una vez.",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "2 puntos",
+      "effect": "A través de los efectos de esta Espina, la Sombra profana de alguna manera la forma en que se presenta un wraith, haciendo que su presencia resulte desagradable a los demás wraiths. El efecto de Aura de Corrupción no suele ser grotesco; en su lugar es sutilmente perturbador. De hecho puede no tener un impacto evidente y simplemente servir para incomodar a los demás. Si la luz es más dura en torno al wraith o sus dientes son sutilmente más afilados, la incomodidad puede asentarse rápidamente en las mentes de sus compañeros. Si un wraith tiene Aura de Corrupción, la dificultad de todas las tiradas de interacción social aumentan en +2. Esta Espina sólo puede adquirirse una vez."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "aura-de-corrupcion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "espejito-espejito",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Espejito, Espejito",
+    "name_es": "Espejito, Espejito",
+    "body_es": "Esta Espina, relacionada con otra más poderosa ([Juego de Luces](/wraith/thorns/juego-de-luces)), altera brevemente la apariencia de un wraith. Cada vez que un wraith cuya Sombra posee esta Espina mira a una superficie reflectante, la Sombra tiene la opción de activar Espejito, Espejito. Cuando se usa la Espina, la apariencia del wraith en el espejo o cualquier otra superficie reflectante (un cuerpo de agua suele gustar mucho) se distorsiona de forma horrible de alguna manera. Esta distorsión suele resaltar una de las Pasiones Oscuras de la Sombra, pero ésta tiene toda una paleta completa con la que trabajar para hacer su rostro monstruoso. El distorsionado semblante en el reflejo es visible para todos, no sólo para el wraith y suele significar que tiene que explicar algunas cosas. No hay coste de puntos para activar esta Espina, pero usarla de forma reiterada mengua su efectividad, las Sombras inteligentes la guardan para momentos apropiados. Uno de los usos más populares de esta escena implica alterar el reflejo cuando los testigos sólo pueden ver el espejo y no al propio wraith.",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "2 puntos",
+      "effect": "Esta Espina, relacionada con otra más poderosa (Juego de Luces), altera brevemente la apariencia de un wraith. Cada vez que un wraith cuya Sombra posee esta Espina mira a una superficie reflectante, la Sombra tiene la opción de activar Espejito, Espejito. Cuando se usa la Espina, la apariencia del wraith en el espejo o cualquier otra superficie reflectante (un cuerpo de agua suele gustar mucho) se distorsiona de forma horrible de alguna manera. Esta distorsión suele resaltar una de las Pasiones Oscuras de la Sombra, pero ésta tiene toda una paleta completa con la que trabajar para hacer su rostro monstruoso. El distorsionado semblante en el reflejo es visible para todos, no sólo para el wraith y suele significar que tiene que explicar algunas cosas. No hay coste de puntos para activar esta Espina, pero usarla de forma reiterada mengua su efectividad, las Sombras inteligentes la guardan para momentos apropiados. Uno de los usos más populares de esta escena implica alterar el reflejo cuando los testigos sólo pueden ver el espejo y no al propio wraith."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "espejito-espejito",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "effect": "Esta Espina, relacionada con otra más poderosa (<a href=\"/wraith/thorns/juego-de-luces\">Juego de Luces</a>), altera brevemente la apariencia de un wraith. Cada vez que un wraith cuya Sombra posee esta Espina mira a una superficie reflectante, la Sombra tiene la opción de activar Espejito, Espejito. Cuando se usa la Espina, la apariencia del wraith en el espejo o cualquier otra superficie reflectante (un cuerpo de agua suele gustar mucho) se distorsiona de forma horrible de alguna manera. Esta distorsión suele resaltar una de las Pasiones Oscuras de la Sombra, pero ésta tiene toda una paleta completa con la que trabajar para hacer su rostro monstruoso. El distorsionado semblante en el reflejo es visible para todos, no sólo para el wraith y suele significar que tiene que explicar algunas cosas. No hay coste de puntos para activar esta Espina, pero usarla de forma reiterada mengua su efectividad, las Sombras inteligentes la guardan para momentos apropiados. Uno de los usos más populares de esta escena implica alterar el reflejo cuando los testigos sólo pueden ver el espejo y no al propio wraith."
+    }
+  },
+  {
+    "id": "llamada-sombria",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Llamada Sombría",
+    "name_es": "Llamada Sombría",
+    "body_es": "Esta Espina permite a la Sombra de un wraith convocar a los Espectros cercanos. Esta Espina sólo puede usarse cuando un wraith está en la Tempestad o en la boca de un Nihil, si no, no tiene efecto. Llamada Sombría es audible en el límite de la consciencia de un wraith como un débil y penetrante alarido, cuyo significado la mayoría de wraiths llega a reconocer con el tiempo. Para hacer una Llamada Sombría, el Guía de la Sombra gasta 1 punto de Angustia temporal y tira su Angustia permanente a dificultad 7. El número de éxitos indica el número de Espectros convocados; aunque el tipo de Espectro que responde a la convocatoria depende por completo del Narrador.",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "2 puntos",
+      "effect": "Esta Espina permite a la Sombra de un wraith convocar a los Espectros cercanos. Esta Espina sólo puede usarse cuando un wraith está en la Tempestad o en la boca de un Nihil, si no, no tiene efecto. Llamada Sombría es audible en el límite de la consciencia de un wraith como un débil y penetrante alarido, cuyo significado la mayoría de wraiths llega a reconocer con el tiempo. Para hacer una Llamada Sombría, el Guía de la Sombra gasta 1 punto de Angustia temporal y tira su Angustia permanente a dificultad 7. El número de éxitos indica el número de Espectros convocados; aunque el tipo de Espectro que responde a la convocatoria depende por completo del Narrador."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "llamada-sombria",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "pesadillas",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Pesadillas",
+    "name_es": "Pesadillas",
+    "body_es": "Cuando la Psique entra en Sopor, una Sombra con esta Espina puede causarle intensas pesadillas. Las visiones que genera esta Espina son tan horribles que el wraith debe tirar Fuerza de Voluntad a dificultad 6 o se despierta de inmediato y en el proceso pierde todos los beneficios acumulados por el Sopor. Infligir las Pesadillas cuesta 1 punto de Angustia. Un wraith puede gastar 1 punto de Fuerza de Voluntad antes de entrar en Sopor para asegurarse de que es inmune a esta Espina; sólo el Narrador debería ser informado de si se hace tal inversión.",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "2 puntos",
+      "effect": "Cuando la Psique entra en Sopor, una Sombra con esta Espina puede causarle intensas pesadillas. Las visiones que genera esta Espina son tan horribles que el wraith debe tirar Fuerza de Voluntad a dificultad 6 o se despierta de inmediato y en el proceso pierde todos los beneficios acumulados por el Sopor. Infligir las Pesadillas cuesta 1 punto de Angustia. Un wraith puede gastar 1 punto de Fuerza de Voluntad antes de entrar en Sopor para asegurarse de que es inmune a esta Espina; sólo el Narrador debería ser informado de si se hace tal inversión."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "pesadillas",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "rasgos-sombrios",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Rasgos Sombríos",
+    "name_es": "Rasgos Sombríos",
+    "body_es": "La Sombra puede adquirir 1 punto de cualquier Atributo o Habilidad, pero esos puntos adicionales sólo están disponibles durante la Catarsis. Esta Espina puede adquirirse tantas veces como permitan los puntos gratuitos durante la creación de la Sombra.",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "2 puntos",
+      "effect": "La Sombra puede adquirir 1 punto de cualquier Atributo o Habilidad, pero esos puntos adicionales sólo están disponibles durante la Catarsis. Esta Espina puede adquirirse tantas veces como permitan los puntos gratuitos durante la creación de la Sombra."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "rasgos-sombrios",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "faz-ensombrecida",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Faz Ensombrecida",
+    "name_es": "Faz Ensombrecida",
+    "body_es": "Con esta Espina, la Sombra cambia completamente la apariencia de la Psique cuando se hace con el control. Faz Ensombrecida permite a la Sombra tener otro semblante (no varios), el cual pueden conocer o no los socios del wraith. Por 1 punto gratuito adicional, la Sombra puede tener la opción de asumir Faz Ensombrecida o retener la apariencia original del wraith durante la Catarsis.",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "3 puntos",
+      "effect": "Con esta Espina, la Sombra cambia completamente la apariencia de la Psique cuando se hace con el control. Faz Ensombrecida permite a la Sombra tener otro semblante (no varios), el cual pueden conocer o no los socios del wraith. Por 1 punto gratuito adicional, la Sombra puede tener la opción de asumir Faz Ensombrecida o retener la apariencia original del wraith durante la Catarsis."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "faz-ensombrecida",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "juego-de-luces",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Juego de Luces",
+    "name_es": "Juego de Luces",
+    "body_es": "Al usar esta Espina, la Sombra altera sutilmente las percepciones que la Psique tiene de la escena. Cuando se invoca esta Espina (a un coste de 1 punto de Angustia temporal por escena), el Guía de la Sombra debería informar al Narrador de qué percibe exactamente el wraith. El Narrador transmite esto al jugador. Juego de Luces no se limita a la vista y cualquier sentido puede verse afectado por su uso. Sin embargo, sólo puede afectarse un sentido por escena. Esta Espina sólo afecta a la Psique de la Sombra, no a ningún otro wraith.",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "3 puntos",
+      "effect": "Al usar esta Espina, la Sombra altera sutilmente las percepciones que la Psique tiene de la escena. Cuando se invoca esta Espina (a un coste de 1 punto de Angustia temporal por escena), el Guía de la Sombra debería informar al Narrador de qué percibe exactamente el wraith. El Narrador transmite esto al jugador. Juego de Luces no se limita a la vista y cualquier sentido puede verse afectado por su uso. Sin embargo, sólo puede afectarse un sentido por escena. Esta Espina sólo afecta a la Psique de la Sombra, no a ningún otro wraith."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "juego-de-luces",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "mala-suerte",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Mala Suerte",
+    "name_es": "Mala Suerte",
+    "body_es": "Por cada punto de Angustia que gaste una Sombra con Mala Suerte, el jugador del wraith se ve forzado a volver a tirar un dado (elegido por el Guía de la Sombra). El uso de Mala Suerte no tiene que anunciarse hasta después de que se haya hecho la tirada original.",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "3 puntos",
+      "effect": "Por cada punto de Angustia que gaste una Sombra con Mala Suerte, el jugador del wraith se ve forzado a volver a tirar un dado (elegido por el Guía de la Sombra). El uso de Mala Suerte no tiene que anunciarse hasta después de que se haya hecho la tirada original."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "mala-suerte",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "pacto-maldito",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Pacto Maldito",
+    "name_es": "Pacto Maldito",
+    "body_es": "Esta Espina es el apócrifo pacto con el diablo. Si un wraith tiene esta Espina, él y su Sombra pueden negociar un pacto por el que la Sombra le enseñará un número predeterminado de niveles de un Arcanos. A cambio, la Sombra adquiere Angustia permanente equivalente al número de niveles que le enseñe. Los términos del Pacto deben acordarse entre Psique y Sombra, ya que el arreglo es totalmente consensuado.",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "3 puntos",
+      "effect": "Esta Espina es el apócrifo pacto con el diablo. Si un wraith tiene esta Espina, él y su Sombra pueden negociar un pacto por el que la Sombra le enseñará un número predeterminado de niveles de un Arcanos. A cambio, la Sombra adquiere Angustia permanente equivalente al número de niveles que le enseñe. Los términos del Pacto deben acordarse entre Psique y Sombra, ya que el arreglo es totalmente consensuado."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "pacto-maldito",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "lengua-meliflua",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Lengua Meliflua",
+    "name_es": "Lengua Meliflua",
+    "body_es": "La Sombra es casi preternaturalmente persuasiva y realmente puede aumentar su encanto cuando así lo decide. Al gastar 1 punto de Angustia y tirar su Angustia temporal (dificultad igual a la Manipulación + Subterfugio del objetivo), la Sombra puede hacer cualquier frase extrañamente convincente… y creíble. Esto va desde «Estoy seguro de que a Lucien no le importará si robas su cerveza Reliquia» a «La Aparición no te morderá si simplemente te inclinas y la acaricias con cuidado».",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "4 puntos",
+      "effect": "La Sombra es casi preternaturalmente persuasiva y realmente puede aumentar su encanto cuando así lo decide. Al gastar 1 punto de Angustia y tirar su Angustia temporal (dificultad igual a la Manipulación + Subterfugio del objetivo), la Sombra puede hacer cualquier frase extrañamente convincente… y creíble. Esto va desde «Estoy seguro de que a Lucien no le importará si robas su cerveza Reliquia» a «La Aparición no te morderá si simplemente te inclinas y la acaricias con cuidado»."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "lengua-meliflua",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "roce-corrupto",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Roce Corrupto",
+    "name_es": "Roce Corrupto",
+    "body_es": "Esta Espina convierte al wraith en una especie de María Tifoidea entre los Sin Reposo. Cuando está afligido por Roce Corrupto, un wraith extiende el Olvido con el roce de los dedos. Cada vez que un wraith con Roce Corrupto entre en contacto con el Corpus de otro wraith, debe tirar tres dados a dificultad 6. El número de éxitos es igual al número de puntos de Angustia temporal que la víctima adquiere súbitamente. Sin embargo, si es consciente del contacto, la víctima puede hacer una tirada de Fuerza de Voluntad a dificultad 7 para resistirse, y cada éxito en la tirada cancela uno de los éxitos del ofensor. Un wraith con Roce Corrupto puede gastar 1 punto de Fuerza de Voluntad para cancelar el efecto una escena. Esta Espina puede afectar a un wraith sólo una vez por día.",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "4 puntos",
+      "effect": "Esta Espina convierte al wraith en una especie de María Tifoidea entre los Sin Reposo. Cuando está afligido por Roce Corrupto, un wraith extiende el Olvido con el roce de los dedos. Cada vez que un wraith con Roce Corrupto entre en contacto con el Corpus de otro wraith, debe tirar tres dados a dificultad 6. El número de éxitos es igual al número de puntos de Angustia temporal que la víctima adquiere súbitamente. Sin embargo, si es consciente del contacto, la víctima puede hacer una tirada de Fuerza de Voluntad a dificultad 7 para resistirse, y cada éxito en la tirada cancela uno de los éxitos del ofensor. Un wraith con Roce Corrupto puede gastar 1 punto de Fuerza de Voluntad para cancelar el efecto una escena. Esta Espina puede afectar a un wraith sólo una vez por día."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "roce-corrupto",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "desliz-freudiano",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Desliz Freudiano",
+    "name_es": "Desliz Freudiano",
+    "body_es": "Al coste de 1 punto de Angustia, la Sombra puede forzar a un wraith a realizar una acción súbita e involuntaria o una declaración rápida y sin censura alguna. Desliz Freudiano también puede usarse para colocar un pensamiento espontáneo en la mente de un wraith. Para resistir esta Espina, el wraith debe hacer una tirada de Fuerza de Voluntad a dificultad 7. Son necesarios dos éxitos para contrarrestar sus efectos. Puede ser una Espina difícil de usar, tanto para realizar una acción como una declaración adecuadas, así como de interpretar. Los jugadores de la Sombra deberían tramar con el otro jugador cuándo hacer uso de forma especialmente apropiada de Desliz Freudiano. Esta Espina es poderosa y los jugadores sobre los que se usa deberían ser capaces de manejar la situación de forma madura.",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "5 puntos",
+      "effect": "Al coste de 1 punto de Angustia, la Sombra puede forzar a un wraith a realizar una acción súbita e involuntaria o una declaración rápida y sin censura alguna. Desliz Freudiano también puede usarse para colocar un pensamiento espontáneo en la mente de un wraith. Para resistir esta Espina, el wraith debe hacer una tirada de Fuerza de Voluntad a dificultad 7. Son necesarios dos éxitos para contrarrestar sus efectos. Puede ser una Espina difícil de usar, tanto para realizar una acción como una declaración adecuadas, así como de interpretar. Los jugadores de la Sombra deberían tramar con el otro jugador cuándo hacer uso de forma especialmente apropiada de Desliz Freudiano. Esta Espina es poderosa y los jugadores sobre los que se usa deberían ser capaces de manejar la situación de forma madura."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "desliz-freudiano",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "familiar-sombrio",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Familiar Sombrío",
+    "name_es": "Familiar Sombrío",
+    "body_es": "Aunque la Sombra permanece en la consciencia del wraith, un Familiar Sombrío puede servir como sus ojos, oídos y pies. La mayoría de Familiares Sombríos toman forma de cuervos, ratas y otras criaturas carroñeras. Las demás Sombras distraen a sus wraiths para que éstos no vean a la criatura siempre que pueden. El Familiar Sombrío es un sirviente menor del Olvido y permanece en contacto constante con la Sombra, pasándole información y sugerencias. Los Familiares Sombríos pueden adoptar cualquier forma, pero siempre son pequeños e inofensivos. Si se ve amenazado, un Familiar Sombrío huirá; si se le ataca, se sumergirá en la T empestad. Si se destruye un Familiar Sombrío, otro tomará su lugar en el plazo de una semana. Sin embargo, éste será considerablemente más circunspecto en sus asuntos con la Sombra, ya que hasta las criaturas del Olvido tienen un ligero sentido de autopreservación.",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "5 puntos",
+      "effect": "Aunque la Sombra permanece en la consciencia del wraith, un Familiar Sombrío puede servir como sus ojos, oídos y pies. La mayoría de Familiares Sombríos toman forma de cuervos, ratas y otras criaturas carroñeras. Las demás Sombras distraen a sus wraiths para que éstos no vean a la criatura siempre que pueden. El Familiar Sombrío es un sirviente menor del Olvido y permanece en contacto constante con la Sombra, pasándole información y sugerencias. Los Familiares Sombríos pueden adoptar cualquier forma, pero siempre son pequeños e inofensivos. Si se ve amenazado, un Familiar Sombrío huirá; si se le ataca, se sumergirá en la T empestad. Si se destruye un Familiar Sombrío, otro tomará su lugar en el plazo de una semana. Sin embargo, éste será considerablemente más circunspecto en sus asuntos con la Sombra, ya que hasta las criaturas del Olvido tienen un ligero sentido de autopreservación."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "familiar-sombrio",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "juego-de-sombras",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Juego de Sombras",
+    "name_es": "Juego de Sombras",
+    "body_es": "Esta Espina permite a un wraith que ha usado todas sus acciones durante un turno obtener otra, pero a un precio. Si la Sombra se lo ofrece, el wraith puede realizar una acción adicional, pero pierde 1 punto de Pathos y gana 1 de Angustia. El wraith no puede pedir la acción adicional; la decisión de si está disponible o no depende por completo del Guía de la Sombra. Aunque el coste de activar esta Espina es engañosamente bajo, un wraith que llega a depender de ella puede alimentar la fuerza de su Sombra muy rápido, y también puede encontrarse en apuros cuando la acción adicional con la que contaba de repente no esté disponible en medio de una crisis.",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "5 puntos",
+      "effect": "Esta Espina permite a un wraith que ha usado todas sus acciones durante un turno obtener otra, pero a un precio. Si la Sombra se lo ofrece, el wraith puede realizar una acción adicional, pero pierde 1 punto de Pathos y gana 1 de Angustia. El wraith no puede pedir la acción adicional; la decisión de si está disponible o no depende por completo del Guía de la Sombra. Aunque el coste de activar esta Espina es engañosamente bajo, un wraith que llega a depender de ella puede alimentar la fuerza de su Sombra muy rápido, y también puede encontrarse en apuros cuando la acción adicional con la que contaba de repente no esté disponible en medio de una crisis."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "juego-de-sombras",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "vida-sombria",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Vida Sombría",
+    "name_es": "Vida Sombría",
+    "body_es": "Cada vez que un wraith con esta Espina cae en Sopor, su Sombra toma el control de su Corpus compartido y se dispone a hacer lo peor. Esto llevará a un sinfín de problemas para la Psique, ya que se encontrará constantemente con situaciones creadas por su Sombra y con gente a la que ésta ha contrariado. Por supuesto, toda la culpa de las acciones de la Sombra recaerá directamente en la Psique. Los wraiths con esta Espina son conscientes de que sus Sombras se levantan y andan por ahí, pero no tienen forma de saber precisamente lo que hacen sus mitades oscuras. Si el jugador lo desea, puede invertir 1 punto gratuito adicional en esta Espina y hacer que su personaje no sea consciente de su Vida Sombría. El jugador, no el Guía de la Sombra, controla al personaje mientras está activa esta Espina.",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "5 puntos",
+      "effect": "Cada vez que un wraith con esta Espina cae en Sopor, su Sombra toma el control de su Corpus compartido y se dispone a hacer lo peor. Esto llevará a un sinfín de problemas para la Psique, ya que se encontrará constantemente con situaciones creadas por su Sombra y con gente a la que ésta ha contrariado. Por supuesto, toda la culpa de las acciones de la Sombra recaerá directamente en la Psique. Los wraiths con esta Espina son conscientes de que sus Sombras se levantan y andan por ahí, pero no tienen forma de saber precisamente lo que hacen sus mitades oscuras. Si el jugador lo desea, puede invertir 1 punto gratuito adicional en esta Espina y hacer que su personaje no sea consciente de su Vida Sombría. El jugador, no el Guía de la Sombra, controla al personaje mientras está activa esta Espina."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "vida-sombria",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "manifestacion",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Manifestación",
+    "name_es": "Manifestación",
+    "body_es": "Al gastar 4 puntos de Angustia, la Sombra puede materializarse como una entidad separada del wraith. Mientras está en ese estado, la sombra puede conversar, afectar a objetos y usar Espinas. La Sombra manifestada es, en todos los aspectos, idéntica físicamente al wraith del que proviene y los testigos tendrán muchas dificultades para distinguir a ambos. Incluso las auras de los dos Corpora son iguales. Por otra parte, si un Legionario se encuentra con dos wraiths idénticos, bien puede gritar «¡Doppelgänger!» y cargar espada en mano. Una Manifestación dura una única escena y, tras manifestarse, la Sombra debe descansar en silencio durante la siguiente.",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "6 puntos",
+      "effect": "Al gastar 4 puntos de Angustia, la Sombra puede materializarse como una entidad separada del wraith. Mientras está en ese estado, la sombra puede conversar, afectar a objetos y usar Espinas. La Sombra manifestada es, en todos los aspectos, idéntica físicamente al wraith del que proviene y los testigos tendrán muchas dificultades para distinguir a ambos. Incluso las auras de los dos Corpora son iguales. Por otra parte, si un Legionario se encuentra con dos wraiths idénticos, bien puede gritar «¡Doppelgänger!» y cargar espada en mano. Una Manifestación dura una única escena y, tras manifestarse, la Sombra debe descansar en silencio durante la siguiente."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "manifestacion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "susurros",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Susurros",
+    "name_es": "Susurros",
+    "body_es": "Una Sombra con esta Espina puede hablar con las Sombras de los demás wraiths sin el conocimiento de sus Psiques. Esto permite que las Sombras colaboren, compartan información y estratagemas. Un wraith puede hacer una tirada de Percepción + Consciencia a dificultad 8 para determinar si su Sombra parece algo distraída, pero por lo demás no hay forma de que se dé cuenta de que su otra mitad está hablando con algún otro.",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "6 puntos",
+      "effect": "Una Sombra con esta Espina puede hablar con las Sombras de los demás wraiths sin el conocimiento de sus Psiques. Esto permite que las Sombras colaboren, compartan información y estratagemas. Un wraith puede hacer una tirada de Percepción + Consciencia a dificultad 8 para determinar si su Sombra parece algo distraída, pero por lo demás no hay forma de que se dé cuenta de que su otra mitad está hablando con algún otro."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "susurros",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "naturaleza-vampirica",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Naturaleza Vampírica",
+    "name_es": "Naturaleza Vampírica",
+    "body_es": "Relacionado con el Arcanos Oscuro Latrocinio, esta Espina permite a una Sombra extraer Angustia de otros para sus propios propósitos. Al establecer contacto físico, una Sombra con Naturaleza Vampírica puede hacer una tirada enfrentada de Fuerza de Voluntad de la Psique contra cualquier wraith o Espectro. El número de éxitos que obtenga la Sombra en la tirada implica el número de puntos de Angustia que puede absorber. La Sombra no necesita tener el control para usar esta Espina, y puede ganar Angustia muy alegremente sin que la Psique nunca sospeche nada. Si el objetivo de la Sombra dona algo de Angustia voluntariamente, la Sombra puede aceptar hasta 5 puntos temporales de Angustia del tirón. Esto sólo puede usarse una vez por objetivo por sesión de juego.",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "7 puntos",
+      "effect": "Relacionado con el Arcanos Oscuro Latrocinio, esta Espina permite a una Sombra extraer Angustia de otros para sus propios propósitos. Al establecer contacto físico, una Sombra con Naturaleza Vampírica puede hacer una tirada enfrentada de Fuerza de Voluntad de la Psique contra cualquier wraith o Espectro. El número de éxitos que obtenga la Sombra en la tirada implica el número de puntos de Angustia que puede absorber. La Sombra no necesita tener el control para usar esta Espina, y puede ganar Angustia muy alegremente sin que la Psique nunca sospeche nada. Si el objetivo de la Sombra dona algo de Angustia voluntariamente, la Sombra puede aceptar hasta 5 puntos temporales de Angustia del tirón. Esto sólo puede usarse una vez por objetivo por sesión de juego."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "naturaleza-vampirica",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "reto-del-diablo",
+    "type": "thorn",
+    "line": "wraith",
+    "name_en": "Reto del Diablo",
+    "name_es": "Reto del Diablo",
+    "body_es": "Reto del Diablo es el equivalente emocional del juego del gallina. Para usar esta Espina, el Guía de la Sombra invierte un número de puntos temporales de Angustia (que se señalan de inmediato) y escribe algo que reta a la Psique a hacer antes de que acabe la sesión. La dificultad del reto determina el coste y si el jugador siente que el número es excesivo, puede solicitar al Narrador que lo rebaje.",
+    "tags": [
+      "espina"
+    ],
+    "mechanics": {
+      "cost": "7 puntos",
+      "effect": "Reto del Diablo es el equivalente emocional del juego del gallina. Para usar esta Espina, el Guía de la Sombra invierte un número de puntos temporales de Angustia (que se señalan de inmediato) y escribe algo que reta a la Psique a hacer antes de que acabe la sesión. La dificultad del reto determina el coste y si el jugador siente que el número es excesivo, puede solicitar al Narrador que lo rebaje."
+    },
+    "sources": [
+      {
+        "book_id": "wraith20-el-olvido-nsr-es",
+        "book_title_es": "Wraith20 El Olvido NSR (ES)",
+        "page": null,
+        "section_anchor": "reto-del-diablo",
         "variant": "base"
       }
     ],
@@ -14714,7 +15323,7 @@
     "line": "wraith",
     "name_en": "Black Whispers",
     "name_es": "Susurros Negros",
-    "body_es": "El Espectro puede comunicarse directamente con la mente de un mortal. Esta Arte tiene una amplia variedad de usos, desde empujar a mortales trastornados más allá del límite a entregar proclamaciones falsamente internas a líderes de cultos.\n\nSistema: Gasta 1 punto de Angustia y tira Carisma + Maleficencia (dificultad igual a la puntuación del Manto local o la Fuerza de Voluntad del objetivo, lo que sea mayor). Los éxitos obtenidos representan el número de turnos que puedes comunicarte telepáticamente con el mortal. Con un fracaso, el objetivo aprende a ignorar tus susurros mentales y aplicas +1 de dificultad a todas los futuros intentos de [Susurros Negros](/wraith/arcanos-powers/susurros-negros) sobre él.",
+    "body_es": "El Espectro puede comunicarse directamente con la mente de un mortal. Esta Arte tiene una amplia variedad de usos, desde empujar a mortales trastornados más allá del límite a entregar proclamaciones falsamente internas a líderes de cultos.\n\nSistema: Gasta 1 punto de Angustia y tira Carisma + Maleficencia (dificultad igual a la puntuación del Manto local o la Fuerza de Voluntad del objetivo, lo que sea mayor). Los éxitos obtenidos representan el número de turnos que puedes comunicarte telepáticamente con el mortal. Con un fracaso, el objetivo aprende a ignorar tus [susurros](/wraith/thorns/susurros) mentales y aplicas +1 de dificultad a todas los futuros intentos de [Susurros Negros](/wraith/arcanos-powers/susurros-negros) sobre él.",
     "tags": [
       "arcanos-oscuro",
       "maleficencia",
@@ -14811,7 +15420,7 @@
     "line": "wraith",
     "name_en": "Empower",
     "name_es": "Empoderar",
-    "body_es": "Al conceder el poder del Vacío a la propia alma de un mortal, el Espectro le otorga habilidades sobrenaturales. Estos poderes son una manifestación directa de la mancha del Olvido, que tiene por resultado la palpable decadencia física y mental del objetivo.\n\nSistema: Gasta 1 punto de Angustia y 1 de Fuerza de Voluntad para activar esta Arte, más 5 puntos adicionales de Angustia por cada punto de poder de Arcanos Oscuro que deseas conceder; luego tira Manipulación + Maleficencia (dificultad igual a la puntuación del Manto local, reducida en 2 si el objetivo ya está infundido con Angustia). Debes obtener al menos tantos éxitos como la puntuación del poder para concederlo con éxito.\n\nSólo puedes [Empoderar](/wraith/arcanos-powers/empoderar) al objetivo con un poder de Arcanos Oscuro que poseas. Esta Arte es permanente una vez concedida, y funciona exactamente igual que para el Espectro, incluyendo cualquier coste necesario de Angustia y Fuerza de Voluntad. Ten en cuenta que los mortales no pueden generar su propia Angustia, y deben recurrir a la [Investidura](/wraith/arcanos-powers/investidura) de los Espectros.\n\nCon un fracaso, limpias accidentalmente la reserva actual de Angustia del objetivo y ya nunca puedes tratar de usar [Empoderar](/wraith/arcanos-powers/empoderar) sobre él de nuevo.",
+    "body_es": "Al conceder el poder del Vacío a la propia alma de un mortal, el Espectro le otorga habilidades sobrenaturales. Estos poderes son una [manifestación](/wraith/thorns/manifestacion) directa de la mancha del Olvido, que tiene por resultado la palpable decadencia física y mental del objetivo.\n\nSistema: Gasta 1 punto de Angustia y 1 de Fuerza de Voluntad para activar esta Arte, más 5 puntos adicionales de Angustia por cada punto de poder de Arcanos Oscuro que deseas conceder; luego tira Manipulación + Maleficencia (dificultad igual a la puntuación del Manto local, reducida en 2 si el objetivo ya está infundido con Angustia). Debes obtener al menos tantos éxitos como la puntuación del poder para concederlo con éxito.\n\nSólo puedes [Empoderar](/wraith/arcanos-powers/empoderar) al objetivo con un poder de Arcanos Oscuro que poseas. Esta Arte es permanente una vez concedida, y funciona exactamente igual que para el Espectro, incluyendo cualquier coste necesario de Angustia y Fuerza de Voluntad. Ten en cuenta que los mortales no pueden generar su propia Angustia, y deben recurrir a la [Investidura](/wraith/arcanos-powers/investidura) de los Espectros.\n\nCon un fracaso, limpias accidentalmente la reserva actual de Angustia del objetivo y ya nunca puedes tratar de usar [Empoderar](/wraith/arcanos-powers/empoderar) sobre él de nuevo.",
     "tags": [
       "arcanos-oscuro",
       "maleficencia",
@@ -14944,7 +15553,7 @@
     "line": "wraith",
     "name_en": "Nightmare",
     "name_es": "Pesadilla",
-    "body_es": "Con un rasgón del Manto, el Espectro permite que la mancha del Olvido se filtre hasta un mortal dormido. Aunque vagamente similar a Fantasma, el Espectro no tiene control ni conocimiento de las pesadillas que desata. En su lugar, se limita a conectar directamente la psique de su víctima dormida con el terrible caos de la propia Tempestad.\n\nSistema: Gasta 2 puntos de Angustia y tira Destreza + [Rasgar el Manto](/wraith/dark-arcanos/rend-the-shroud) (dificultad igual a la puntuación del Manto local). Superar la tirada sume al mortal en terribles pesadillas y sus acciones se reducen en un dado al día siguiente hasta que pueda dormir en condiciones y de manera ininterrumpida. También puedes aplicar un dado adicional de reducción por cada dos éxitos adicionales en la tirada. Esta Arte sólo puede usarse sobre un objetivo concreto una vez cada vez que sueña, pero el efecto es acumulativo si se aplica en noches sucesivas.\n\nSi la penalización iguala la mayor combinación de Atributo + Habilidad del objetivo, éste experimenta una crisis nerviosa y necesita asistencia médica o incluso ser ingresado temporalmente. Un wraith puede tratar de combatir esta Arte usando Tejedor de Sueños (pág. 164) durante la [pesadilla](/wraith/arcanos-powers/pesadilla) del objetivo.\n\nCada vez que uses esta Arte, tu Psique gana 1 punto de Pathos.",
+    "body_es": "Con un rasgón del Manto, el Espectro permite que la mancha del Olvido se filtre hasta un mortal dormido. Aunque vagamente similar a Fantasma, el Espectro no tiene control ni conocimiento de las [pesadillas](/wraith/thorns/pesadillas) que desata. En su lugar, se limita a conectar directamente la psique de su víctima dormida con el terrible caos de la propia Tempestad.\n\nSistema: Gasta 2 puntos de Angustia y tira Destreza + [Rasgar el Manto](/wraith/dark-arcanos/rend-the-shroud) (dificultad igual a la puntuación del Manto local). Superar la tirada sume al mortal en terribles [pesadillas](/wraith/thorns/pesadillas) y sus acciones se reducen en un dado al día siguiente hasta que pueda dormir en condiciones y de manera ininterrumpida. También puedes aplicar un dado adicional de reducción por cada dos éxitos adicionales en la tirada. Esta Arte sólo puede usarse sobre un objetivo concreto una vez cada vez que sueña, pero el efecto es acumulativo si se aplica en noches sucesivas.\n\nSi la penalización iguala la mayor combinación de Atributo + Habilidad del objetivo, éste experimenta una crisis nerviosa y necesita asistencia médica o incluso ser ingresado temporalmente. Un wraith puede tratar de combatir esta Arte usando Tejedor de Sueños (pág. 164) durante la [pesadilla](/wraith/arcanos-powers/pesadilla) del objetivo.\n\nCada vez que uses esta Arte, tu Psique gana 1 punto de Pathos.",
     "tags": [
       "arcanos-oscuro",
       "rasgar-el-manto",
