@@ -32056,9 +32056,9 @@
     "id": "requesting-favors",
     "type": "sphere-effect",
     "line": "mage",
-    "name_en": "Requesting Favors",
+    "name_en": "Petition Boons",
     "name_es": "Solicitar Favores",
-    "body_es": "En siglos más temerosos de Dios, la Paradoja (o el Azote, como se le llamaba entonces) a veces bendecía a un Mago con buena [fortuna](/mage/hedge-paths/fortuna) en su lugar. Qué causó exactamente que esto dejara de ocurrir no está del todo claro, pero un Mago con conocimiento de Telos puede intentar desencadenar estos Favores. Esto funciona como sus efectos habituales de manipulación de Paradoja, excepto que por cada éxito en la tirada de Efecto de Telos, un 10 en la [TEXTO GARBLED POR [EXTRACCIÓN](/mage/rituals/extraction)] Durante el Renacimiento solo se necesitaba Telos para este efecto. Hoy en día, sin embargo, también se necesita Tiempo para acceder a la resonancia de estos tiempos menos duros para los Despertados místicos. En Zonas de Realidad Fuertemente Tecnocráticas este efecto también podría considerarse Vulgar, así que ten cuidado. Las leyes de la Ciencia no ven con buenos ojos a los Subversores de la Realidad simplemente por ser virtuosos.\n\nNota relacionada (aparece bajo un encabezado suelto 'Fórmulas' que la [extracción](/mage/rituals/extraction) colocó de forma ambigua): 'El Contragolpe de Paradoja se suma a un efecto de [Favor](/mage/merits/favor). Ver Mage: The Sorcerer's Crusade si lo tienes para los Favores, pero si no lo tienes, simplemente elige un rasgo de personaje positivo que refleje las acciones del Mago previas a la tirada de contragolpe, y el Narrador crea un Efecto coincidente positivo que refleje eso ocurriendo para el Mago.'",
+    "body_es": "En siglos más temerosos de Dios, la Paradoja (o el Azote, como se le llamaba entonces) a veces bendecía a un Mago con buena [fortuna](/mage/hedge-paths/fortuna) en su lugar. Qué causó exactamente que esto dejara de ocurrir no está del todo claro, pero un Mago con conocimiento de Telos puede intentar desencadenar estos Favores. Esto funciona como sus efectos habituales de manipulación de Paradoja, excepto que por cada éxito en la tirada de Efecto de Telos, un resultado de 10 en la tirada de Contragolpe de Paradoja se suma a un efecto de [Favor](/mage/merits/favor). Ver Mage: The Sorcerer's Crusade si lo tienes para los Favores, pero si no lo tienes, simplemente elige un rasgo de personaje positivo que refleje las acciones del Mago previas a la tirada de contragolpe, y el Narrador crea un Efecto coincidente positivo que refleje eso ocurriendo para el Mago. Durante el Renacimiento solo se necesitaba Telos para este efecto. Hoy en día, sin embargo, también se necesita Tiempo para acceder a la resonancia de estos tiempos menos duros para los Despertados místicos. En Zonas de Realidad Fuertemente Tecnocráticas este efecto también podría considerarse Vulgar, así que ten cuidado. Las leyes de la Ciencia no ven con buenos ojos a los Subversores de la Realidad simplemente por ser virtuosos.",
     "tags": [
       "formula",
       "telos",
@@ -32076,10 +32076,7 @@
         "section_anchor": "solicitar-favores",
         "variant": "base"
       }
-    ],
-    "review": {
-      "reason": "Frase truncada/garbled por la extracción del PDF: '...por cada éxito en la tirada de Efecto de Telos, un 10 en la Durante el Renacimiento...' — falta el texto que describe el mecanismo exacto de la conversión éxito->Favor. Verificar contra la fuente antes de publicar."
-    }
+    ]
   },
   {
     "id": "wyrmwood",
