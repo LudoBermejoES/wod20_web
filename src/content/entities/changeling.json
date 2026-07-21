@@ -22,8 +22,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "maldicion-thallain",
@@ -48,8 +47,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "mascara-ingeniosa",
@@ -71,8 +69,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "atrapado-en-un-lugar",
@@ -94,8 +91,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sea-foam-shawl",
@@ -121,8 +117,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
     }
@@ -151,8 +145,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
     }
@@ -181,8 +173,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
     }
@@ -212,8 +202,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
     }
@@ -242,8 +230,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
     }
@@ -272,8 +258,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
     }
@@ -303,8 +287,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
     }
@@ -334,8 +316,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
     }
@@ -365,8 +345,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
     }
@@ -396,8 +374,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
     }
@@ -426,8 +402,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
     }
@@ -458,8 +432,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
     }
@@ -491,8 +463,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
     }
@@ -523,8 +493,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
     }
@@ -555,8 +523,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
     }
@@ -587,8 +553,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
     }
@@ -617,8 +581,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único",
       "poder": "Absurdez (<a href=\"/changeling/arts/legerdemain\">Prestidigitación</a> ····)"
@@ -640,7 +602,10 @@
       "rating": "·····",
       "poder": "Más Extraño que la Ficción (Narración ·····)"
     },
-    "related": [],
+    "related": [
+      "stranger-than-fiction",
+      "narration"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-guia-del-jugador",
@@ -649,7 +614,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único",
       "poder": "<a href=\"/changeling/cantrips/stranger-than-fiction\">Más Extraño que la Ficción</a> (<a href=\"/changeling/arts/narration\">Narración</a> ·····)"
@@ -679,8 +643,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
     }
@@ -709,8 +671,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
     }
@@ -740,8 +700,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
     }
@@ -771,8 +729,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único",
       "poder": "<a href=\"/changeling/cantrips/portal-passage\">Portal de Paso</a> (<a href=\"/changeling/arts/wayfare\">Viaje</a> ···)"
@@ -802,16 +758,6 @@
         "page": null,
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
-    ],
-    "edges": [
-      {
-        "target": "mage/backup",
-        "type": "cross-line",
-        "via": "id:backup"
-      }
-    ],
-    "related": [
-      "mage/backup"
     ],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
@@ -843,8 +789,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único",
       "poder": "<a href=\"/changeling/cantrips/omen\">Presagio</a> (<a href=\"/changeling/arts/soothsay\">Adivinación</a> ·)"
@@ -876,8 +820,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único"
     }
@@ -907,8 +849,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único",
       "poder": "<a href=\"/changeling/cantrips/dictum\">Dictum</a> (<a href=\"/changeling/arts/sovereign\">Soberanía</a> ····)"
@@ -939,8 +879,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
-    "related": [],
     "mechanics_html": {
       "object_type": "<a href=\"/changeling/realms/prop\">Objeto</a> único",
       "poder": "Danza de los Cinco Reyes (<a href=\"/changeling/arts/primal\">Primal</a> ·····)"
@@ -961,7 +899,13 @@
     "mechanics": {
       "atributo": "Inteligencia"
     },
-    "related": [],
+    "related": [
+      "craftsmans-eye",
+      "make-it-work",
+      "energize",
+      "reforge",
+      "apotheosis"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-guia-del-jugador",
@@ -969,8 +913,7 @@
         "page": null,
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
-    ],
-    "edges": []
+    ]
   },
   {
     "id": "craftsmans-eye",
@@ -988,7 +931,9 @@
       "nivel": "·",
       "tipo": "Quimérico"
     },
-    "related": [],
+    "related": [
+      "infusion"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-guia-del-jugador",
@@ -997,7 +942,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
     "mechanics_html": {
       "arte": "<a href=\"/changeling/arts/infusion\">Infusión</a>"
     }
@@ -1018,7 +962,9 @@
       "nivel": "··",
       "tipo": "Quimérico (de Fantasía para Tesoros)"
     },
-    "related": [],
+    "related": [
+      "infusion"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-guia-del-jugador",
@@ -1027,7 +973,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
     "mechanics_html": {
       "arte": "<a href=\"/changeling/arts/infusion\">Infusión</a>"
     }
@@ -1048,7 +993,9 @@
       "nivel": "···",
       "tipo": "Quimérico"
     },
-    "related": [],
+    "related": [
+      "infusion"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-guia-del-jugador",
@@ -1057,7 +1004,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
     "mechanics_html": {
       "arte": "<a href=\"/changeling/arts/infusion\">Infusión</a>"
     }
@@ -1079,7 +1025,9 @@
       "tipo": "Quimérico (de Fantasía para Tesoros)",
       "coste": "5 puntos de Glamour (aparte de otros costes)"
     },
-    "related": [],
+    "related": [
+      "infusion"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-guia-del-jugador",
@@ -1088,7 +1036,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
     "mechanics_html": {
       "arte": "<a href=\"/changeling/arts/infusion\">Infusión</a>"
     }
@@ -1112,7 +1059,9 @@
       "coste": "5 puntos de Glamour (autómata) / 10 puntos de Glamour (ser consciente)",
       "puntos_creacion": "10 por éxito para autómata; máximo total de 50 puntos"
     },
-    "related": [],
+    "related": [
+      "infusion"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-guia-del-jugador",
@@ -1121,7 +1070,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
     "mechanics_html": {
       "arte": "<a href=\"/changeling/arts/infusion\">Infusión</a>"
     }
@@ -1142,7 +1090,13 @@
       "alineamiento": "nominalmente Luminosa",
       "atributo": "no indicado en el fragmento de origen"
     },
-    "related": [],
+    "related": [
+      "twice-told-tales",
+      "win-the-room",
+      "breathless",
+      "of-legend",
+      "stranger-than-fiction"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-guia-del-jugador",
@@ -1150,8 +1104,7 @@
         "page": null,
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
-    ],
-    "edges": []
+    ]
   },
   {
     "id": "twice-told-tales",
@@ -1169,7 +1122,9 @@
       "nivel": "·",
       "tipo": "Quimérico"
     },
-    "related": [],
+    "related": [
+      "narration"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-guia-del-jugador",
@@ -1178,7 +1133,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
     "mechanics_html": {
       "arte": "<a href=\"/changeling/arts/narration\">Narración</a>"
     }
@@ -1199,7 +1153,9 @@
       "nivel": "··",
       "tipo": "Quimérico"
     },
-    "related": [],
+    "related": [
+      "narration"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-guia-del-jugador",
@@ -1208,7 +1164,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
     "mechanics_html": {
       "arte": "<a href=\"/changeling/arts/narration\">Narración</a>"
     }
@@ -1229,7 +1184,9 @@
       "nivel": "···",
       "tipo": "Quimérico"
     },
-    "related": [],
+    "related": [
+      "narration"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-guia-del-jugador",
@@ -1238,7 +1195,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
     "mechanics_html": {
       "arte": "<a href=\"/changeling/arts/narration\">Narración</a>"
     }
@@ -1260,7 +1216,9 @@
       "tipo": "Quimérico",
       "coste": "1 punto de Glamour y 1 de Fuerza de Voluntad (además de otros costes)"
     },
-    "related": [],
+    "related": [
+      "narration"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-guia-del-jugador",
@@ -1269,7 +1227,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
     "mechanics_html": {
       "arte": "<a href=\"/changeling/arts/narration\">Narración</a>"
     }
@@ -1291,7 +1248,9 @@
       "tipo": "De Fantasía",
       "coste_banalidad": "1 (coincidencia pequeña / fácil de explicar), 2 (posibilidad improbable), 3 (evento extraño pero plausible)"
     },
-    "related": [],
+    "related": [
+      "narration"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-guia-del-jugador",
@@ -1300,7 +1259,6 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador"
       }
     ],
-    "edges": [],
     "mechanics_html": {
       "arte": "<a href=\"/changeling/arts/narration\">Narración</a>"
     }
@@ -1343,8 +1301,9 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": [],
+    "related": [
+      "dictum"
+    ],
     "mechanics_html": {
       "base_cantrip": "<a href=\"/changeling/cantrips/dictum\">Dictum</a> (<a href=\"/changeling/arts/sovereign\">Soberanía</a> ····, Changeling: el Ensueño, pág. 226)",
       "art": "<a href=\"/changeling/arts/sovereign\">Soberanía</a> ····",
@@ -1375,8 +1334,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "compulsion-defecto-de-1-punto-compulsion",
@@ -1398,15 +1356,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "dificultad-del-habla-dificultad-del-habla-defecto-de-1-punto",
+    "id": "dificultad-del-habla-defecto-de-1-punto",
     "type": "flaw",
     "line": "changeling",
-    "name_en": "Dificultad del Habla: Dificultad del Habla: (Defecto de 1 punto)",
-    "name_es": "Dificultad del Habla: Dificultad del Habla: (Defecto de 1 punto)",
+    "name_en": "Dificultad del Habla: (Defecto de 1 punto)",
+    "name_es": "Dificultad del Habla: (Defecto de 1 punto)",
     "body_es": "Tartamudeas o tienes algún otro impedimento que te dificulta la comunicación verbal. Las dificultades de todas las tiradas relevantes se aumentan en dos. No te sientas obligado a interpretar este Defecto todo el tiempo, pero en momentos de tensión, o cuando tratas con extraños, deberías intentar simularlo. Los sluagh no pueden coger este Defecto dada su Flaqueza.",
     "tags": [],
     "mechanics": {
@@ -1421,15 +1378,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "exceso-de-confianza-exceso-de-confianza-defecto-de-1-punto",
+    "id": "exceso-de-confianza-defecto-de-1-punto",
     "type": "flaw",
     "line": "changeling",
-    "name_en": "Exceso de Confianza: Exceso de Confianza: (Defecto de 1 punto)",
-    "name_es": "Exceso de Confianza: Exceso de Confianza: (Defecto de 1 punto)",
+    "name_en": "Exceso de Confianza: (Defecto de 1 punto)",
+    "name_es": "Exceso de Confianza: (Defecto de 1 punto)",
     "body_es": "Tienes una opinión exagerada e inamovible de tu propia valía y capacidades. Nunca pones en duda tus habilidades, incluso en situaciones en las que te arriesgas al fracaso. Debido a que tus habilidades pueden no ser suficientes, tal exceso de confianza puede ser muy peligroso. Cuando fallas, rápidamente encuentras a alguien o algo a quien culpar. Si estás lo suficientemente convencido, puedes infectar a otros con tu exceso de confianza.",
     "tags": [],
     "mechanics": {
@@ -1444,8 +1400,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "fin-superior-merito-de-1-punto-fin-superior",
@@ -1467,8 +1422,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "fobia-leve-defecto-de-1-punto-fobia-leve",
@@ -1490,8 +1444,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "intolerancia-defecto-de-1-punto-intolerancia",
@@ -1513,8 +1466,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "pesadillas-defecto-de-1-punto-pesadillas",
@@ -1536,15 +1488,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "secreto-siniestro-secreto-siniestro-defecto-de-1-punto",
+    "id": "secreto-siniestro-defecto-de-1-punto",
     "type": "flaw",
     "line": "changeling",
-    "name_en": "Secreto Siniestro: Secreto Siniestro: (Defecto de 1 punto)",
-    "name_es": "Secreto Siniestro: Secreto Siniestro: (Defecto de 1 punto)",
+    "name_en": "Secreto Siniestro: (Defecto de 1 punto)",
+    "name_es": "Secreto Siniestro: (Defecto de 1 punto)",
     "body_es": "Tienes algún tipo de secreto que, si se descubriera, te causaría un enorme embarazo y te convertiría en un paria entre los tuyos. Esto puede ser cualquier cosa desde haber matado a un noble hasta ser en secreto un miembro de la Corte Sombría. Aunque este secreto pesa sobre ti en todo momento, sólo saldrá a la superficie en historias ocasionales. De otro modo, empezaría a perder su impacto.",
     "tags": [],
     "mechanics": {
@@ -1559,8 +1510,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "timidez-defecto-de-1-punto-timidez",
@@ -1582,8 +1532,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "curiosidad-defecto-de-2-puntos-curiosidad",
@@ -1605,15 +1554,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "mente-caotica-mente-caotica-defecto-de-2-puntos",
+    "id": "mente-caotica-defecto-de-2-puntos",
     "type": "flaw",
     "line": "changeling",
-    "name_en": "Mente Caótica: Mente Caótica: (Defecto de 2 puntos)",
-    "name_es": "Mente Caótica: Mente Caótica: (Defecto de 2 puntos)",
+    "name_en": "Mente Caótica: (Defecto de 2 puntos)",
+    "name_es": "Mente Caótica: (Defecto de 2 puntos)",
     "body_es": "Tu mente es extremadamente caótica e impredecible. Como resultado tienes dificultad para concentrarte en cualquier tarea. Debes hacer una tirada de Fuerza de Voluntad (dificultad 4) para cada acción consecutiva que tires tras la segunda.",
     "tags": [],
     "mechanics": {
@@ -1628,8 +1576,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "obsesion-defecto-de-2-puntos-obsesion",
@@ -1651,15 +1598,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "sadismo-masoquismo-sadismo-masoquismo-defecto-de-2-puntos",
+    "id": "sadismo-masoquismo-defecto-de-2-puntos",
     "type": "flaw",
     "line": "changeling",
-    "name_en": "Sadismo/Masoquismo: Sadismo/Masoquismo: (Defecto de 2 puntos)",
-    "name_es": "Sadismo/Masoquismo: Sadismo/Masoquismo: (Defecto de 2 puntos)",
+    "name_en": "Sadismo/Masoquismo: (Defecto de 2 puntos)",
+    "name_es": "Sadismo/Masoquismo: (Defecto de 2 puntos)",
     "body_es": "Te excita el causar o el sufrir dolor. En muchas situaciones intentarás herir o resultar herido por placer. Para un masoquista (alguien que disfruta del dolor), tu tirada para absorber daño físico se aumenta en uno dado que en realidad quieres sentir el dolor. Un sádico (alguien a quien le gusta herir a los demás) debe hacer una tirada de Fuerza de Voluntad (dificultad 5) para detener el combate (modificada dependiendo de cómo vaya el combate y  cuánto  estés  disfrutando  hiriendo  a  otros).  Si  fallas, estás tan inmerso en el suceso que no te das cuenta de nada de lo que sucede a tu alrededor.\n\n<!-- image -->",
     "tags": [],
     "mechanics": {
@@ -1678,8 +1624,7 @@
     "review": {
       "reason": "dual/compound name — may be two entities",
       "conflicts": []
-    },
-    "edges": []
+    }
   },
   {
     "id": "venganza-defecto-de-2-puntos-venganza",
@@ -1701,8 +1646,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "fobia-grave-defecto-de-3-puntos-fobia-grave",
@@ -1724,15 +1668,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "objetivo-dominante-objetivo-dominante-defecto-de-3-puntos",
+    "id": "objetivo-dominante-defecto-de-3-puntos",
     "type": "flaw",
     "line": "changeling",
-    "name_en": "Objetivo Dominante: Objetivo Dominante: (Defecto de 3 puntos)",
-    "name_es": "Objetivo Dominante: Objetivo Dominante: (Defecto de 3 puntos)",
+    "name_en": "Objetivo Dominante: (Defecto de 3 puntos)",
+    "name_es": "Objetivo Dominante: (Defecto de 3 puntos)",
     "body_es": "Tienes un objetivo personal que a veces te impulsa  y  dirige  de  forma  extraña.  El  objetivo  es  siempre ilimitado en profundidad y nunca podrás realmente alcanzarlo. Podría ser restaurar la igualdad para los plebeyos o volver a Arcadia. Como debes trabajar para conseguir tu objetivo durante la crónica (aunque puedes evitarlo durante cortos periodos de tiempo gastando Fuerza de Voluntad), puede meterte en problemas y obstaculizar otras acciones. Escoge tu objetivo dominante con cuidado, puesto que dirigirá y será el centro de todo lo que haga tu personaje.",
     "tags": [],
     "mechanics": {
@@ -1747,8 +1690,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "odio-defecto-de-3-puntos-odio",
@@ -1770,8 +1712,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "salvavidas-defecto-de-3-puntos-salvavidas",
@@ -1793,15 +1734,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "visiones-del-pasado-visiones-del-pasado-defecto-de-3-puntos",
+    "id": "visiones-del-pasado-defecto-de-3-puntos",
     "type": "flaw",
     "line": "changeling",
-    "name_en": "Visiones del pasado: Visiones del pasado: (Defecto de 3 puntos)",
-    "name_es": "Visiones del pasado: Visiones del pasado: (Defecto de 3 puntos)",
+    "name_en": "Visiones del pasado: (Defecto de 3 puntos)",
+    "name_es": "Visiones del pasado: (Defecto de 3 puntos)",
     "body_es": "Sueles tener 'flashbacks', visiones del pasado, cuando estás en situaciones o circunstancias que son similares al evento que ocasionó la visión. Las visiones pueden ser causadas por casi cualquier trauma: tortura, combate prolongado, o experimentación con drogas repetida. Tanto la estimulación positiva como negativa podría dar como resultado una visión. La ansiedad emocional y el estrés son los catalizadores habituales para que se inicien. Volver  a  una  visión  feliz  puede  ser  igual  de  peligroso  o distractorio como verse rodeado de pronto de alucinaciones demoníacas. Durante la visión, no eres consciente de lo que sucede a tu alrededor. Hasta la gente que te habla será vista como gente u objetos de la visión. Puedes [confundir](/changeling/cantrips/fuddle) a hombres por mujeres, gente por animales  e  incluso  objetos  inanimados  por  gente.  Para  ti,  la realidad ha cambiado y tu estás de vuelta de nuevo allí .",
     "tags": [],
     "mechanics": {
@@ -1816,15 +1756,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "calculador-relampago-calculador-relampago-merito-de-1-punto",
+    "id": "calculador-relampago-merito-de-1-punto",
     "type": "merit",
     "line": "changeling",
-    "name_en": "Calculador Relámpago: Calculador Relámpago: (Mérito de 1 punto)",
-    "name_es": "Calculador Relámpago: Calculador Relámpago: (Mérito de 1 punto)",
+    "name_en": "Calculador Relámpago: (Mérito de 1 punto)",
+    "name_es": "Calculador Relámpago: (Mérito de 1 punto)",
     "body_es": "Tienes una afinidad natural con los números y un talento para la aritmética, haciendo que sea algo natural para ti trabajar con ordenadores o apostar en las carreras. Resta 2 a la dificultad de todas las tiradas relacinadas. Otro uso posible, suponiendo que tengas números en los que basar tus conclusiones, es la capacidad de calcular la dificultad de ciertas tareas. En las situaciones adecuadas, puedes preguntar al Narrador la dificultad estimada de una tarea que estás a punto de intentar.",
     "tags": [],
     "mechanics": {
@@ -1839,8 +1778,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "concentracion-merito-de-1-punto-concentracion",
@@ -1862,8 +1800,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sentido-comun-merito-de-1-punto-sentido-comun",
@@ -1885,15 +1822,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "memoria-eidetica-memoria-eidetica-merito-de-2-puntos",
+    "id": "memoria-eidetica-merito-de-2-puntos",
     "type": "merit",
     "line": "changeling",
-    "name_en": "Memoria Eidética: Memoria Eidética: (Mérito de 2 puntos)",
-    "name_es": "Memoria Eidética: Memoria Eidética: (Mérito de 2 puntos)",
+    "name_en": "Memoria Eidética: (Mérito de 2 puntos)",
+    "name_es": "Memoria Eidética: (Mérito de 2 puntos)",
     "body_es": "Puedes recordar las cosas que ves y oyes con todo detalle. Consiguiendo al menos un éxito en una tirada de Inteligencia + Alerta, puedes recordar cualquier sonido o visión con precisión, incluso si lo oíste o viste sólo una vez  (aunque  la  dificultad  será  mayor).  Cinco  éxitos  te permiten recordar un evento perfectamente: el Narrador te relatará exactamente lo que viste u oíste.",
     "tags": [],
     "mechanics": {
@@ -1908,15 +1844,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "voluntad-de-hierro-voluntad-de-hierro-merito-de-2-puntos",
+    "id": "voluntad-de-hierro-merito-de-2-puntos",
     "type": "merit",
     "line": "changeling",
-    "name_en": "Voluntad de Hierro: Voluntad de Hierro: (Mérito de 2 puntos)",
-    "name_es": "Voluntad de Hierro: Voluntad de Hierro: (Mérito de 2 puntos)",
+    "name_en": "Voluntad de Hierro: (Mérito de 2 puntos)",
+    "name_es": "Voluntad de Hierro: (Mérito de 2 puntos)",
     "body_es": "Cuando estás decidido y concentrado, nada puede apartarte de tu objetivo. No puedes ser Dominado, y los wraiths, magos y demás changelings que usen ataques mentales contra ti ganan un +3 adicional a la dificultad si eres consciente de ellos y quieres resistirlos. Sin embargo, la defensa mental adicional te cuesta un punto de Fuerza de Voluntad por turno. Incluso si no eres consciente  del  intento,  cualquiera  que  intente  influirte mágicamente tiene un +1 a la dificultad.",
     "tags": [],
     "mechanics": {
@@ -1931,8 +1866,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "autoconfianza-merito-de-5-puntos-autoconfianza",
@@ -1954,8 +1888,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "amnesia-defecto-de-2-puntos-amnesia",
@@ -1977,8 +1910,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "confuso-defecto-de-2-puntos-confuso",
@@ -2000,8 +1932,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "olvidadizo-defecto-de-3-puntos-olvidadizo",
@@ -2023,15 +1954,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "sentidos-aguzados-sentidos-aguzados-merito-de-1-punto",
+    "id": "sentidos-aguzados-merito-de-1-punto",
     "type": "merit",
     "line": "changeling",
-    "name_en": "Sentidos Aguzados: Sentidos Aguzados: (Mérito de 1 punto)",
-    "name_es": "Sentidos Aguzados: Sentidos Aguzados: (Mérito de 1 punto)",
+    "name_en": "Sentidos Aguzados: (Mérito de 1 punto)",
+    "name_es": "Sentidos Aguzados: (Mérito de 1 punto)",
     "body_es": "Tienes un sentido del gusto, tacto, oído, visión u olfato especialmente aguzado. Las dificultades de todas las tiradas relacionadas con este sentido en cuestión (p.ej.: Percepción + Consciencia para oír un sonido lejano, detectar  por  el  gusto  un  veneno  en  la  comida  o  ver  un ataque inminente) se reducen en dos.",
     "tags": [],
     "mechanics": {
@@ -2046,8 +1976,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "ceguera-al-color-defecto-de-1-punto-ceguera-al-color",
@@ -2069,8 +1998,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "defecto-visual-defecto-de-2-puntos-defecto-visual",
@@ -2092,8 +2020,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "duro-de-oido-defecto-de-1-punto-duro-de-oido",
@@ -2115,8 +2042,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sordo-defecto-de-4-puntos-sordo",
@@ -2138,8 +2064,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "ciego-defecto-de-6-puntos-ciego",
@@ -2161,8 +2086,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "ambidiestro-merito-de-1-punto-ambidiestro",
@@ -2184,15 +2108,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "aptitud-informatica-aptitud-informatica-merito-de-1-punto",
+    "id": "aptitud-informatica-merito-de-1-punto",
     "type": "merit",
     "line": "changeling",
-    "name_en": "Aptitud Informática: Aptitud Informática: (Mérito de 1 punto)",
-    "name_es": "Aptitud Informática: Aptitud Informática: (Mérito de 1 punto)",
+    "name_en": "Aptitud Informática: (Mérito de 1 punto)",
+    "name_es": "Aptitud Informática: (Mérito de 1 punto)",
     "body_es": "Tienes una afinidad natural con los ordenadores, por lo que las dificultades para todas las tiradas de reparar, construir o utilizarlos se reducen en dos.",
     "tags": [],
     "mechanics": {
@@ -2207,15 +2130,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "aptitud-mecanica-aptitud-mecanica-merito-de-1-punto",
+    "id": "aptitud-mecanica-merito-de-1-punto",
     "type": "merit",
     "line": "changeling",
-    "name_en": "Aptitud Mecánica: Aptitud Mecánica: (Mérito de 1 punto)",
-    "name_es": "Aptitud Mecánica: Aptitud Mecánica: (Mérito de 1 punto)",
+    "name_en": "Aptitud Mecánica: (Mérito de 1 punto)",
+    "name_es": "Aptitud Mecánica: (Mérito de 1 punto)",
     "body_es": "Tienes una facilidad natural con todo tipo de objetos mecánicos (ten en cuenta que esto no se aplica a objetos electrónicos tales como ordenadores). Las dificultades de todas las tiradas para entender, reparar o utilizar cualquier tipo de [objeto](/changeling/realms/prop) mecánico se reducen en dos. Sin embargo, este Mérito no te ayuda a conducir ningún tipo de vehículo. Este Mérito afecta la aptitud del personaje con los objetos mecánicos quiméricos igual que la mundana.",
     "tags": [],
     "mechanics": {
@@ -2230,8 +2152,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "conductor-nato-merito-de-1-punto-conductor-nato",
@@ -2253,15 +2174,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "magnetismo-animal-magnetismo-animal-merito-de-1-punto",
+    "id": "magnetismo-animal-merito-de-1-punto",
     "type": "merit",
     "line": "changeling",
-    "name_en": "Magnetismo Animal: Magnetismo Animal: (Mérito de 1 punto)",
-    "name_es": "Magnetismo Animal: Magnetismo Animal: (Mérito de 1 punto)",
+    "name_en": "Magnetismo Animal: (Mérito de 1 punto)",
+    "name_es": "Magnetismo Animal: (Mérito de 1 punto)",
     "body_es": "Eres especialmente atractivo para los demás. Recibes un -2  a  las  dificultades  de  tus  tiradas  de  Seducción  o Subterfugio. Sin embargo, esto puede molestar a los de tu mismo sexo.",
     "tags": [],
     "mechanics": {
@@ -2276,15 +2196,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "resistencia-al-veneno-resistencia-al-veneno-merito-de-1-punto",
+    "id": "resistencia-al-veneno-merito-de-1-punto",
     "type": "merit",
     "line": "changeling",
-    "name_en": "Resistencia al Veneno: Resistencia al Veneno: (Mérito de 1 punto)",
-    "name_es": "Resistencia al Veneno: Resistencia al Veneno: (Mérito de 1 punto)",
+    "name_en": "Resistencia al Veneno: (Mérito de 1 punto)",
+    "name_es": "Resistencia al Veneno: (Mérito de 1 punto)",
     "body_es": "Te has vuelto, por alguna razón, resistente a los venenos. Podría ser que fueras de algún modo resistente, o que hayas pasado años trabajando en la resistencia contra todo tipo de venenos conocidos. En cualquier momento en que tengas que hacer una tirada de aguante contra los efectos de un veneno o toxina, reduce tu dificultad en tres.",
     "tags": [],
     "mechanics": {
@@ -2299,15 +2218,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "linguista-natural-linguista-natural-merito-de-2-puntos",
+    "id": "linguista-natural-merito-de-2-puntos",
     "type": "merit",
     "line": "changeling",
-    "name_en": "Lingüista Natural: Lingüista Natural: (Mérito de 2 puntos)",
-    "name_es": "Lingüista Natural: Lingüista Natural: (Mérito de 2 puntos)",
+    "name_en": "Lingüista Natural: (Mérito de 2 puntos)",
+    "name_es": "Lingüista Natural: (Mérito de 2 puntos)",
     "body_es": "Tienes un don para las lenguas. Este Mérito no te permite aprender más idiomas que el número de tu puntuación en Lingüística, pero puedes añadir tres dados a cualquier Reserva que implique lenguajes (tanto escritos como hablados).",
     "tags": [],
     "mechanics": {
@@ -2322,8 +2240,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "absorbente-merito-de-3-puntos-absorbente",
@@ -2345,8 +2262,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "arrojado-merito-de-3-puntos-arrojado",
@@ -2368,15 +2284,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "equilibrio-perfecto-equilibrio-perfecto-merito-de-3-puntos",
+    "id": "equilibrio-perfecto-merito-de-3-puntos",
     "type": "merit",
     "line": "changeling",
-    "name_en": "Equilibrio Perfecto: Equilibrio Perfecto: (Mérito de 3 puntos)",
-    "name_es": "Equilibrio Perfecto: Equilibrio Perfecto: (Mérito de 3 puntos)",
+    "name_en": "Equilibrio Perfecto: (Mérito de 3 puntos)",
+    "name_es": "Equilibrio Perfecto: (Mérito de 3 puntos)",
     "body_es": "Tu  sentido  del  equilibrio  ha  alcanzado  altas  cotas debido al constante entrenamiento o a la herencia. Es muy poco probable que te caigas nunca en toda tu vida. Puedes tropezar, pero siempre te incorporarás antes de perder pie o soltarte de tu asidero.\n\nEste Mérito funciona con acciones tales como andar por la cuerda floja, cruzar superficies heladas o escalar montañas.  Todas  las  dificultades  que  impliquen  tareas tales se reducen en tres. Costaría mucho tirar al suelo o derribar a un personaje con este Mérito.",
     "tags": [],
     "mechanics": {
@@ -2391,8 +2306,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "polifacetico-merito-de-5-puntos-polifacetico",
@@ -2414,8 +2328,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "amor-verdadero-merito-de-1-punto-amor-verdadero",
@@ -2437,8 +2350,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "medium-merito-de-2-puntos-medium",
@@ -2460,15 +2372,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "sentido-del-peligro-sentido-del-peligro-merito-de-2-puntos",
+    "id": "sentido-del-peligro-merito-de-2-puntos",
     "type": "merit",
     "line": "changeling",
-    "name_en": "Sentido del Peligro: Sentido del Peligro: (Mérito de 2 puntos)",
-    "name_es": "Sentido del Peligro: Sentido del Peligro: (Mérito de 2 puntos)",
+    "name_en": "Sentido del Peligro: (Mérito de 2 puntos)",
+    "name_es": "Sentido del Peligro: (Mérito de 2 puntos)",
     "body_es": "Tienes un sexto sentido que te advierte del peligro. Cuando estás en peligro  el  Narrador  debe  hacer  una tirada secreta contra tu Percepción + Alerta; la dificultad depende de la cercanía del peligro. Si la  tirada  tiene éxito, el Narrador te dirá que tienes un presentimiento que te alerta. Múltiples éxitos pueden definir mejor el presentimiento y darte una indicación de la dirección, distancia o [naturaleza](/changeling/realms/nature).",
     "tags": [],
     "mechanics": {
@@ -2483,8 +2394,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "espiritu-mentor-merito-de-3-puntos-espiritu-mentor",
@@ -2506,15 +2416,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "companero-hombre-lobo-vampiro-companero-hombre-lobo-vampiro-merito-de-3-puntos",
+    "id": "companero-hombre-lobo-vampiro-merito-de-3-puntos",
     "type": "merit",
     "line": "changeling",
-    "name_en": "Compañero Hombre Lobo/Vampiro: Compañero Hombre Lobo/Vampiro: (Mérito de 3 puntos)",
-    "name_es": "Compañero Hombre Lobo/Vampiro: Compañero Hombre Lobo/Vampiro: (Mérito de 3 puntos)",
+    "name_en": "Compañero Hombre Lobo/Vampiro: (Mérito de 3 puntos)",
+    "name_es": "Compañero Hombre Lobo/Vampiro: (Mérito de 3 puntos)",
     "body_es": "Tienes un amigo y aliado que es un vampiro u hombre lobo. Aunque puedes recurrir a este ser en momentos de necesidad, él también tiene derecho a recurrir a ti (después de todo sois amigos). Ni tu gente ni la suya aprecian esta relación; aunque los wraiths tratan con otros seres sobrenaturales con bastante regularidad, ambos lados comparten una sana desconfianza mutua. Tu amigo no se convertirá en una 'batería de Glamour andante' para changelings avariciosos. Esas relaciones a menudo acaban mal... El Narrador creará al personaje en cuestión y no revelará sus poderes y potenciales totales.",
     "tags": [],
     "mechanics": {
@@ -2533,8 +2442,7 @@
     "review": {
       "reason": "dual/compound name — may be two entities",
       "conflicts": []
-    },
-    "edges": []
+    }
   },
   {
     "id": "corazon-de-poeta-merito-de-3-puntos-corazon-de-poeta",
@@ -2556,8 +2464,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "suerte-merito-de-3-puntos-suerte",
@@ -2579,8 +2486,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "invinculable-merito-de-4-puntos-invinculable",
@@ -2602,8 +2508,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "resistencia-al-hierro-merito-de-4-puntos-resistencia-al-hierro",
@@ -2625,8 +2530,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "arte-afin-merito-de-5-puntos-arte-afin",
@@ -2648,15 +2552,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "bendicion-del-aspecto-bendicion-del-aspecto-merito-de-5-puntos",
+    "id": "bendicion-del-aspecto-merito-de-5-puntos",
     "type": "merit",
     "line": "changeling",
-    "name_en": "Bendición del Aspecto: Bendición del Aspecto: (Mérito de 5 puntos)",
-    "name_es": "Bendición del Aspecto: Bendición del Aspecto: (Mérito de 5 puntos)",
+    "name_en": "Bendición del Aspecto: (Mérito de 5 puntos)",
+    "name_es": "Bendición del Aspecto: (Mérito de 5 puntos)",
     "body_es": "Todos tus Privilegios afectan a tu aspecto mortal al igual que a tu semblante feérico. Funcionan normalmente inclu- so en presencia de mortales. Un sidhe tendrá puntos extra en Apariencia, un sátiro mantendrá sus tiradas de resistencia y velocidad, los trolls tendrán su fuerza extra, etc.",
     "tags": [],
     "mechanics": {
@@ -2671,8 +2574,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "eternidad-feerica-merito-de-5-puntos-eternidad-feerica",
@@ -2694,8 +2596,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "angel-de-la-guarda-merito-de-6-puntos-angel-de-la-guarda",
@@ -2717,15 +2618,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "regeneracion-regeneracion-merito-de-7-puntos",
+    "id": "regeneracion-merito-de-7-puntos",
     "type": "merit",
     "line": "changeling",
-    "name_en": "Regeneración: Regeneración: (Mérito de 7 puntos)",
-    "name_es": "Regeneración: Regeneración: (Mérito de 7 puntos)",
+    "name_en": "Regeneración: (Mérito de 7 puntos)",
+    "name_es": "Regeneración: (Mérito de 7 puntos)",
     "body_es": "Tu [naturaleza](/changeling/realms/nature) feérica es muy fuerte, y como resultado te curas mucho más rápido que el resto de la Estirpe.\n\nPor cada turno que pases descansando, recuperas un Nivel de Salud de daño quimérico. Las heridas físicas pueden regenerarse a un ritmo de un Nivel de Salud por hora. Cuando estás en un Feudo, tus heridas se curan al doble de esta velocidad. Las heridas infligidas por hierro frío no se ven afectadas por este Mérito.",
     "tags": [],
     "mechanics": {
@@ -2740,15 +2640,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "la-lengua-del-bardo-la-lengua-del-bardo-defecto-de-1-punto",
+    "id": "la-lengua-del-bardo-defecto-de-1-punto",
     "type": "flaw",
     "line": "changeling",
-    "name_en": "La Lengua del Bardo: La Lengua del Bardo: (Defecto de 1 punto)",
-    "name_es": "La Lengua del Bardo: La Lengua del Bardo: (Defecto de 1 punto)",
+    "name_en": "La Lengua del Bardo: (Defecto de 1 punto)",
+    "name_es": "La Lengua del Bardo: (Defecto de 1 punto)",
     "body_es": "Dices la verdad, aun sin quererlo. Las cosas que dices tienden a convertirse en realidad. No te permite bendecir o lanzar maldiciones, ni es un arte controlado por Fatalismo. Sin embargo, al menos una vez por historia, una verdad incómoda relacionada con alguna situación actual aparecerá en tu cabeza y llegará a tus labios. Para evitar decir la profecía, el propietario de este 'don' debe gastar un punto de Fuerza de Voluntad y sufrir un nivel de daño a causa del esfuerzo para resitirse (especialmente si se muerde la lengua para hacerlo).",
     "tags": [],
     "mechanics": {
@@ -2763,8 +2662,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "ojos-de-hada-defecto-de-1-punto-ojos-de-hada",
@@ -2786,15 +2684,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "cualidad-sobrenatural-cualidad-sobrenatural-defecto-de-2-puntos",
+    "id": "cualidad-sobrenatural-defecto-de-2-puntos",
     "type": "flaw",
     "line": "changeling",
-    "name_en": "Cualidad Sobrenatural: Cualidad Sobrenatural: (Defecto de 2 puntos)",
-    "name_es": "Cualidad Sobrenatural: Cualidad Sobrenatural: (Defecto de 2 puntos)",
+    "name_en": "Cualidad Sobrenatural: (Defecto de 2 puntos)",
+    "name_es": "Cualidad Sobrenatural: (Defecto de 2 puntos)",
     "body_es": "Aunque las Nieblas te protegen de la detección mortal, hay algo en ti que los mortales encuentran fascinante. En momentos más inadecuados, se fijarán en ti e iniciarán conversaciones con la esperanza de conocerte mejor. Peor aún, aquellos mortales de más baja calaña te escogerán entre otros posibles objetivos para sus actos ilícitos.",
     "tags": [],
     "mechanics": {
@@ -2809,8 +2706,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "embrujado-defecto-de-3-puntos-embrujado",
@@ -2832,15 +2728,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "nieblas-despejadas-nieblas-despejadas-defecto-de-3-puntos",
+    "id": "nieblas-despejadas-defecto-de-3-puntos",
     "type": "flaw",
     "line": "changeling",
-    "name_en": "Nieblas Despejadas: Nieblas Despejadas: (Defecto de 3 puntos)",
-    "name_es": "Nieblas Despejadas: Nieblas Despejadas: (Defecto de 3 puntos)",
+    "name_en": "Nieblas Despejadas: (Defecto de 3 puntos)",
+    "name_es": "Nieblas Despejadas: (Defecto de 3 puntos)",
     "body_es": "Las Nieblas son el efecto de la Ruptura en el mundo mortal. Ocultan los poderes y encantamientos de la Estirpe, ocultando su presencia en sus zarcillos. Desgraciadamente, las Nieblas no esconden ni tu magia ni tus capacidades. Si un mortal percibe tus acciones, no olvidará los efectos de tus Artes o de otras capacidades feéricas. Como resultado, puedes revelar muy fácilmente tu auténtica [naturaleza](/changeling/realms/nature) al mundo humano, provocando terribles consecuencias para el resto de la Estirpe.",
     "tags": [],
     "mechanics": {
@@ -2855,15 +2750,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "iman-quimerico-iman-quimerico-defecto-de-5-puntos",
+    "id": "iman-quimerico-defecto-de-5-puntos",
     "type": "flaw",
     "line": "changeling",
-    "name_en": "Imán Quimérico: Imán Quimérico: (Defecto de 5 puntos)",
-    "name_es": "Imán Quimérico: Imán Quimérico: (Defecto de 5 puntos)",
+    "name_en": "Imán Quimérico: (Defecto de 5 puntos)",
+    "name_es": "Imán Quimérico: (Defecto de 5 puntos)",
     "body_es": "Por  alguna  razón,  las  quimeras  te  perciben  más  a menudo de lo que sería usual. En algunos casos esto es beneficioso, pero normalmente este Defecto te causa problema. Las bestias quiméricas furiosas tienden a volverse contra ti antes de atacar al resto. Las Nervosa te encuentran irresistible, y los sprites de todo tipo te rodean constantemente, a menudo haciéndote blanco de sus inofensivas pero molestas bromas.",
     "tags": [],
     "mechanics": {
@@ -2878,15 +2772,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "maldicion-de-los-sidhe-maldicion-de-los-sidhe-defecto-de-5-puntos",
+    "id": "maldicion-de-los-sidhe-defecto-de-5-puntos",
     "type": "flaw",
     "line": "changeling",
-    "name_en": "Maldición de los Sidhe: Maldición de los Sidhe: (Defecto de 5 puntos)",
-    "name_es": "Maldición de los Sidhe: Maldición de los Sidhe: (Defecto de 5 puntos)",
+    "name_en": "Maldición de los Sidhe: (Defecto de 5 puntos)",
+    "name_es": "Maldición de los Sidhe: (Defecto de 5 puntos)",
     "body_es": "Los sidhe viven con un terror mortal por la Banalidad, debido al hecho de que se arraiga en sus almas con mucha más facilidad que en el resto de los Linajes. Desdichadamente, aunque no eres sidhe, estás sujeto también a esta flaqueza. Ganas dos puntos de Banalidad por cada uno otorgado por el Narrador. Los personajes sidhe no pueden coger este Defecto.",
     "tags": [],
     "mechanics": {
@@ -2901,8 +2794,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "sino-aciago-defecto-de-5-puntos-sino-aciago",
@@ -2924,15 +2816,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "vampiro-psiquico-vampiro-psiquico-defecto-de-5-puntos",
+    "id": "vampiro-psiquico-defecto-de-5-puntos",
     "type": "flaw",
     "line": "changeling",
-    "name_en": "Vampiro Psíquico: Vampiro Psíquico: (Defecto de 5 puntos)",
-    "name_es": "Vampiro Psíquico: Vampiro Psíquico: (Defecto de 5 puntos)",
+    "name_en": "Vampiro Psíquico: (Defecto de 5 puntos)",
+    "name_es": "Vampiro Psíquico: (Defecto de 5 puntos)",
     "body_es": "La  chispa  de  la  vida  está  muriendo  en  ti  y  debes alimentarse continuamente de fuerzas externas. Eres un vampiro psíquico. La vida de las plantas e insectos se marchita o muere en tu presencia conforme te alimentas de su energía, y cualquier persona a la que toques durante más de una hora sufrirá un Nivel de Salud no agravado mientras le absorbes la vida. Aquellos que ya estén heridos (incluidos aquellos que carecen de Nivel de Salud  Magullado)  no  se  curarán  en  tu  presencia.  Sigues pudiendo estar en el mismo edificio sin dañar a alguien, pero compartir la cama no es posible a menos que quieras que la otra persona muera lentamente. Si no alimentas el vacío de tu interior al menos una vez al día, empezarás a morir. La velocidad a la que sufres heridas sigue la progresión inversa al proceso natural de curación: un Nivel de Salud tras un día, un segundo después de tres días, el tercero en una semana, el cuarto en un mes, y finalmente, uno cada tres meses.",
     "tags": [],
     "mechanics": {
@@ -2947,15 +2838,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "mentor-prestigioso-mentor-prestigioso-merito-de-1-punto",
+    "id": "mentor-prestigioso-merito-de-1-punto",
     "type": "merit",
     "line": "changeling",
-    "name_en": "Mentor Prestigioso: Mentor Prestigioso: (Mérito de 1 punto)",
-    "name_es": "Mentor Prestigioso: Mentor Prestigioso: (Mérito de 1 punto)",
+    "name_en": "Mentor Prestigioso: (Mérito de 1 punto)",
+    "name_es": "Mentor Prestigioso: (Mérito de 1 punto)",
     "body_es": "Tu mentor tiene o tenía una gran posición entre la Estirpe, y esto te ha proporcionado un honor peculiar. La mayoría te trata con respeto como resultado, aunque algunos sólo sienten disgusto por ti, creyendo que simplemente te aprovechas del prestigio de tu mentor. Este prestigio puede ayudarte en gran medida cuando tratas con antiguos relacionados con tu mentor. Además, los contactos  de  tu  mentor  pueden  acercarte  a  ti  en  algunos momentos y ofrecerte ayuda. Aunque tu mentor puede no tener ya contacto contigo, el simple hecho de tu aprendizaje te ha marcado para siempre.",
     "tags": [],
     "mechanics": {
@@ -2970,15 +2860,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "aprendizaje-erroneo-aprendizaje-erroneo-defecto-de-1-punto",
+    "id": "aprendizaje-erroneo-defecto-de-1-punto",
     "type": "flaw",
     "line": "changeling",
-    "name_en": "Aprendizaje Erróneo: Aprendizaje Erróneo: (Defecto de 1 punto)",
-    "name_es": "Aprendizaje Erróneo: Aprendizaje Erróneo: (Defecto de 1 punto)",
+    "name_en": "Aprendizaje Erróneo: (Defecto de 1 punto)",
+    "name_es": "Aprendizaje Erróneo: (Defecto de 1 punto)",
     "body_es": "Tu mentor fue bastante malévolo y te lo enseñó todo mal sobre la sociedad de la Estirpe. Tus conceptos sobre la política changeling están equivocados, y tus creencias erróneas es más que posible que te causen gran cantidad de problemas. Con el tiempo, después de muchas duras lecciones, podrás superar este mal inicio (el Narrador te dirá cuando). Pero hasta entonces, continuarás creyendo lo que te enseñaron primero, no importa lo que intenten hacer los demás para 'engañarte'.",
     "tags": [],
     "mechanics": {
@@ -2993,8 +2882,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "mentor-infame-defecto-de-1-punto-mentor-infame",
@@ -3016,8 +2904,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "mentor-loco-defecto-de-1-punto-mentor-loco",
@@ -3039,15 +2926,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "mentor-resentido-mentor-resentido-defecto-de-1-punto",
+    "id": "mentor-resentido-defecto-de-1-punto",
     "type": "flaw",
     "line": "changeling",
-    "name_en": "Mentor Resentido: Mentor Resentido: (Defecto de 1 punto)",
-    "name_es": "Mentor Resentido: Mentor Resentido: (Defecto de 1 punto)",
+    "name_en": "Mentor Resentido: (Defecto de 1 punto)",
+    "name_es": "Mentor Resentido: (Defecto de 1 punto)",
     "body_es": "Tu mentor te detesta y desea dañarte. Si tiene la menor oportunidad, buscará la forma de causarte daño, y puede incluso atacarte si se le provoca. Los amigos de tu mentor también irán contra ti. ¡Buena suerte!",
     "tags": [],
     "mechanics": {
@@ -3062,15 +2948,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "mentor-diabolico-mentor-diabolico-defecto-de-2-puntos",
+    "id": "mentor-diabolico-defecto-de-2-puntos",
     "type": "flaw",
     "line": "changeling",
-    "name_en": "Mentor Diabólico: Mentor Diabólico: (Defecto de 2 puntos)",
-    "name_es": "Mentor Diabólico: Mentor Diabólico: (Defecto de 2 puntos)",
+    "name_en": "Mentor Diabólico: (Defecto de 2 puntos)",
+    "name_es": "Mentor Diabólico: (Defecto de 2 puntos)",
     "body_es": "Tu mentor está inmerso en actos que pueden causar un tremendo escándalo. Podría estar ignorando actividades Oscuras malignas o peor. Montones de gentes van tras la piel de tu mentor, y tu puedes ser medido por su mismo rasero.",
     "tags": [],
     "mechanics": {
@@ -3085,8 +2970,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "notoriedad-defecto-de-3-puntos-notoriedad",
@@ -3108,8 +2992,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "club-nocturno-merito-de-2-puntos-club-nocturno",
@@ -3131,8 +3014,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "lazos-judiciales-merito-de-2-puntos-lazos-judiciales",
@@ -3154,15 +3036,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "lazos-periodisticos-lazos-periodisticos-merito-de-2-puntos",
+    "id": "lazos-periodisticos-merito-de-2-puntos",
     "type": "merit",
     "line": "changeling",
-    "name_en": "Lazos Periodísticos: Lazos Periodísticos: (Mérito de 2 puntos)",
-    "name_es": "Lazos Periodísticos: Lazos Periodísticos: (Mérito de 2 puntos)",
+    "name_en": "Lazos Periodísticos: (Mérito de 2 puntos)",
+    "name_es": "Lazos Periodísticos: (Mérito de 2 puntos)",
     "body_es": "Tienes influencia y contactos en la prensa local. Puedes suprimir y crear nuevas historias (aunque no siempre con un 100% de eficacia; los periodistas son unos tipos rebeldes), y tienes acceso a los archivos y los rumores de los empleados de periódicos y televisión.",
     "tags": [],
     "mechanics": {
@@ -3177,8 +3058,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "lazos-artisticos-merito-de-3-puntos-lazos-artisticos",
@@ -3200,15 +3080,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "lazos-corporativos-lazos-corporativos-merito-de-3-puntos",
+    "id": "lazos-corporativos-merito-de-3-puntos",
     "type": "merit",
     "line": "changeling",
-    "name_en": "Lazos Corporativos: Lazos Corporativos: (Mérito de 3 puntos)",
-    "name_es": "Lazos Corporativos: Lazos Corporativos: (Mérito de 3 puntos)",
+    "name_en": "Lazos Corporativos: (Mérito de 3 puntos)",
+    "name_es": "Lazos Corporativos: (Mérito de 3 puntos)",
     "body_es": "Tienes influencia y contactos en la comunidad corporativa local. Comprendes la dinámica del dinero de la ciudad y tienes vínculos con los mayores jugadores. En tiempos de necesidad, puedes provocar todo tipo de trastornos financieros, y conseguir considerables sumas de dinero (en forma de préstamos) en periodos de tiempo muy cortos.",
     "tags": [],
     "mechanics": {
@@ -3223,15 +3102,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "lazos-eclesiasticos-lazos-eclesiasticos-merito-de-3-puntos",
+    "id": "lazos-eclesiasticos-merito-de-3-puntos",
     "type": "merit",
     "line": "changeling",
-    "name_en": "Lazos Eclesiásticos: Lazos Eclesiásticos: (Mérito de 3 puntos)",
-    "name_es": "Lazos Eclesiásticos: Lazos Eclesiásticos: (Mérito de 3 puntos)",
+    "name_en": "Lazos Eclesiásticos: (Mérito de 3 puntos)",
+    "name_es": "Lazos Eclesiásticos: (Mérito de 3 puntos)",
     "body_es": "Tienes influencia y contactos en iglesias locales y tienes los medios de crear marchas de protesta, ayudar a los necesitados o conseguir dinero. Cuanto más uses tus lazos, por supuesto, mayor es el riesgo de que te descubran.",
     "tags": [],
     "mechanics": {
@@ -3246,8 +3124,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "lazos-policiales-merito-de-3-puntos-lazos-policiales",
@@ -3269,8 +3146,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "lazos-politicos-merito-de-3-puntos-lazos-politicos",
@@ -3292,15 +3168,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "lazos-subterraneos-lazos-subterraneos-merito-de-3-puntos",
+    "id": "lazos-subterraneos-merito-de-3-puntos",
     "type": "merit",
     "line": "changeling",
-    "name_en": "Lazos Subterráneos: Lazos Subterráneos: (Mérito de 3 puntos)",
-    "name_es": "Lazos Subterráneos: Lazos Subterráneos: (Mérito de 3 puntos)",
+    "name_en": "Lazos Subterráneos: (Mérito de 3 puntos)",
+    "name_es": "Lazos Subterráneos: (Mérito de 3 puntos)",
     "body_es": "Tienes influencia y contactos con la mafia local y las bandas callejeras. Esto te proporciona un acceso limitado a un gran número de 'soldados', así como extensos vínculos con el submundo del crimen. Cuanto más a menudo utilices tus lazos más débiles se vuelven.",
     "tags": [],
     "mechanics": {
@@ -3315,8 +3190,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "mansion-merito-de-3-puntos-mansion",
@@ -3338,15 +3212,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "consejero-delegado-consejero-delegado-merito-de-5-puntos",
+    "id": "consejero-delegado-merito-de-5-puntos",
     "type": "merit",
     "line": "changeling",
-    "name_en": "Consejero Delegado: Consejero Delegado: (Mérito de 5 puntos)",
-    "name_es": "Consejero Delegado: Consejero Delegado: (Mérito de 5 puntos)",
+    "name_en": "Consejero Delegado: (Mérito de 5 puntos)",
+    "name_es": "Consejero Delegado: (Mérito de 5 puntos)",
     "body_es": "Tienes una influencia particular y control sobre una corporación mayor y sus compañías asociadas, igual que si fueras el director ejecutivo. Además, puede que poseas esta compañía desde antes de tu Crisálida y hayas mantenido el control. A través de esta corporación sabes lo que sucede en la comunidad corporativa y tienes los medios de financiar una guerra económica. Este Mérito te proporciona algunos aliados y Recursos informales, la cantidad exacta de los cuales la determina el Narrador.",
     "tags": [],
     "mechanics": {
@@ -3361,8 +3234,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "protegido-defecto-de-3-puntos-protegido",
@@ -3384,15 +3256,14 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
-    "id": "belleza-sobrenatural-belleza-sobrenatural-merito-de-1-punto",
+    "id": "belleza-sobrenatural-merito-de-1-punto",
     "type": "merit",
     "line": "changeling",
-    "name_en": "Belleza Sobrenatural: Belleza Sobrenatural: (Mérito de 1 punto)",
-    "name_es": "Belleza Sobrenatural: Belleza Sobrenatural: (Mérito de 1 punto)",
+    "name_en": "Belleza Sobrenatural: (Mérito de 1 punto)",
+    "name_es": "Belleza Sobrenatural: (Mérito de 1 punto)",
     "body_es": "Posees una belleza muy superior a la del común de los mortales. La gente se maravilla ante tus formas perfectas. Si eres un sidhe quizá tu semblante feérico brilla sobre tu aspecto mortal. Los personajes con este Mérito deben comprar primero una Apariencia al menos de 5, aunque se supone que su apariencia supera incluso eso.",
     "tags": [],
     "mechanics": {
@@ -3407,8 +3278,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "elastico-merito-de-1-punto-elastico",
@@ -3430,8 +3300,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "corpulento-merito-de-4-puntos-corpulento",
@@ -3453,8 +3322,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "asma-defecto-de-1-punto-asma",
@@ -3476,8 +3344,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "bajo-defecto-de-1-punto-bajo",
@@ -3499,8 +3366,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "desfigurado-defecto-de-2-puntos-desfigurado",
@@ -3522,8 +3388,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "deformidad-defecto-de-3-puntos-deformidad",
@@ -3545,8 +3410,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "manco-defecto-de-3-puntos-manco",
@@ -3568,8 +3432,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "nino-defecto-de-3-puntos-nino",
@@ -3591,8 +3454,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "tullido-defecto-de-3-puntos-tullido",
@@ -3614,8 +3476,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "mudo-defecto-de-4-puntos-mudo",
@@ -3637,8 +3498,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "paraplejico-defecto-de-6-puntos-paraplejico",
@@ -3660,8 +3520,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "titulo",
@@ -3685,8 +3544,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "soothsay",
@@ -3702,7 +3560,13 @@
     "mechanics": {
       "attribute": "Inteligencia"
     },
-    "related": [],
+    "related": [
+      "omen",
+      "fair-is-foul-and-foul-is-fair",
+      "tattletale",
+      "augury",
+      "fate-fire"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -3711,8 +3575,7 @@
         "section_anchor": "artes-artes",
         "variant": "base"
       }
-    ],
-    "edges": []
+    ]
   },
   {
     "id": "chicanery",
@@ -3728,7 +3591,13 @@
     "mechanics": {
       "attribute": "Manipulación"
     },
-    "related": [],
+    "related": [
+      "fuddle",
+      "veiled-eyes",
+      "fugue",
+      "captive-heart",
+      "haunted-heart"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -3737,8 +3606,7 @@
         "section_anchor": "artes-artes",
         "variant": "base"
       }
-    ],
-    "edges": []
+    ]
   },
   {
     "id": "legerdemain",
@@ -3757,7 +3625,11 @@
     "review": {
       "reason": "El valor del campo 'Atributo:' de Prestidigitación aparece vacío en su sitio en la extracción PDF; el token 'Destreza' quedó desplazado dentro del cuerpo del cantrip Enredar (partiendo la palabra 'repentinamente'). Se ha reconstruido attribute='Destreza' por posición, pero requiere verificación humana contra el original."
     },
-    "related": [],
+    "related": [
+      "gimmix",
+      "ensnare",
+      "effigy"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -3766,8 +3638,7 @@
         "section_anchor": "artes-artes",
         "variant": "base"
       }
-    ],
-    "edges": []
+    ]
   },
   {
     "id": "primal",
@@ -3791,8 +3662,13 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": [
+      "willow-whisper",
+      "eldritch-prime",
+      "oakenshield",
+      "heather-balm-holly-strike",
+      "elder-form"
+    ]
   },
   {
     "id": "sovereign",
@@ -3817,8 +3693,13 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": [
+      "protocol",
+      "dictum",
+      "grandeur",
+      "weaver-ward",
+      "geas"
+    ]
   },
   {
     "id": "wayfare",
@@ -3842,8 +3723,13 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": [
+      "hopscotch",
+      "quicksilver",
+      "portal-passage",
+      "wind-runner",
+      "flicker-flash"
+    ]
   },
   {
     "id": "actor",
@@ -3894,8 +3780,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "scene",
@@ -3949,8 +3834,7 @@
     "related": [],
     "review": {
       "reason": "Tabla de niveles desordenada por la extracción del PDF: el nivel 5 (••••• 'Reino' — 'Hasta 16.000 metros cuadrados') aparece separado y por encima de la tabla, y su fila quedó vacía en la tabla original. Reconstruido a partir del texto disponible; verificar contra el PDF original."
-    },
-    "edges": []
+    }
   },
   {
     "id": "fae",
@@ -4002,7 +3886,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "note": "En el Markdown fuente la tabla se extrajo linealizada (sin estructura de tabla) y los dots como &#x27;z&#x27;; mapeo nivel→<a href=\"/changeling/backgrounds/titulo\">título</a>→descripción reconstruido de forma inequívoca a partir del orden secuencial."
     }
@@ -4057,7 +3940,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "note": "En el Markdown fuente la tabla se extrajo linealizada y los dots como &#x27;z&#x27;; mapeo nivel→<a href=\"/changeling/backgrounds/titulo\">título</a>→descripción reconstruido de forma inequívoca a partir del orden secuencial."
     }
@@ -4111,8 +3993,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "time",
@@ -4158,8 +4039,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": []
+    "related": []
   },
   {
     "id": "omen",
@@ -4183,7 +4063,9 @@
         "5": "Una pista sobre un secreto estrechamente guardado por el objetivo."
       }
     },
-    "related": [],
+    "related": [
+      "soothsay"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -4192,8 +4074,7 @@
         "section_anchor": "presagio",
         "variant": "base"
       }
-    ],
-    "edges": []
+    ]
   },
   {
     "id": "fair-is-foul-and-foul-is-fair",
@@ -4218,7 +4099,9 @@
         "5": "Hallar o perder algo crítico (tu salud, nunca fatal; un tomo mágico mayor)."
       }
     },
-    "related": [],
+    "related": [
+      "soothsay"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -4227,8 +4110,7 @@
         "section_anchor": "lo-bueno-es-malo-y-lo-malo-bueno",
         "variant": "base"
       }
-    ],
-    "edges": []
+    ]
   },
   {
     "id": "tattletale",
@@ -4252,7 +4134,10 @@
         "5": "Puede mover el punto de vista a donde quiera y seguir a un sujeto. Con Adivinación + Reino (dificultad basada en la Banalidad del objetivo + 4) puede usar cantrips de Adivinación de hasta Nivel Dos sobre el objetivo. El contacto dura un día entero; tirada de Resistencia + Meditación (dificultad 7) por cada seis horas para mantenerlo."
       }
     },
-    "related": [],
+    "related": [
+      "soothsay",
+      "omen"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -4261,8 +4146,7 @@
         "section_anchor": "espia",
         "variant": "base"
       }
-    ],
-    "edges": []
+    ]
   },
   {
     "id": "augury",
@@ -4288,7 +4172,9 @@
       "notas": "El lanzador consigue un éxito gratuito adicional si su Augurio sugerido es un elemento complementario del Dán del objetivo; si no consigue ningún éxito tampoco logra el extra."
     },
     "related": [
-      "mage/augury"
+      "soothsay",
+      "omen",
+      "fate-fire"
     ],
     "sources": [
       {
@@ -4297,13 +4183,6 @@
         "page": null,
         "section_anchor": "augurio",
         "variant": "base"
-      }
-    ],
-    "edges": [
-      {
-        "target": "mage/augury",
-        "type": "cross-line",
-        "via": "id:augury"
       }
     ]
   },
@@ -4329,7 +4208,10 @@
         "5": "Karma instantáneo. El destino de un personaje sucede inmediatamente."
       }
     },
-    "related": [],
+    "related": [
+      "soothsay",
+      "augury"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -4338,8 +4220,7 @@
         "section_anchor": "fuego-del-destino",
         "variant": "base"
       }
-    ],
-    "edges": []
+    ]
   },
   {
     "id": "fuddle",
@@ -4363,7 +4244,9 @@
         "5": "un mes"
       }
     },
-    "related": [],
+    "related": [
+      "chicanery"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -4372,8 +4255,7 @@
         "section_anchor": "confundir",
         "variant": "base"
       }
-    ],
-    "edges": []
+    ]
   },
   {
     "id": "veiled-eyes",
@@ -4392,7 +4274,9 @@
       "duration": "un turno por éxito (doblable gastando un punto extra de Glamour)",
       "resistance": "Percepción + Sagacidad (dificultad 4 + éxitos del lanzamiento inicial, antes de gastar Glamour)"
     },
-    "related": [],
+    "related": [
+      "chicanery"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -4401,8 +4285,7 @@
         "section_anchor": "ojos-velados",
         "variant": "base"
       }
-    ],
-    "edges": []
+    ]
   },
   {
     "id": "fugue",
@@ -4434,7 +4317,10 @@
         "5": "una semana"
       }
     },
-    "related": [],
+    "related": [
+      "chicanery",
+      "fuddle"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -4443,8 +4329,7 @@
         "section_anchor": "fuga",
         "variant": "base"
       }
-    ],
-    "edges": []
+    ]
   },
   {
     "id": "captive-heart",
@@ -4469,7 +4354,10 @@
         "5": "Obsesión; no puede hacer nada excepto dedicarse a su pasión. Resistirse requiere gastar un punto de Fuerza de Voluntad (y una razón que amenace su vida)."
       }
     },
-    "related": [],
+    "related": [
+      "chicanery",
+      "haunted-heart"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -4478,8 +4366,7 @@
         "section_anchor": "corazon-encantado",
         "variant": "base"
       }
-    ],
-    "edges": []
+    ]
   },
   {
     "id": "haunted-heart",
@@ -4504,7 +4391,10 @@
         "5": "El encantamiento dura 24 horas."
       }
     },
-    "related": [],
+    "related": [
+      "chicanery",
+      "captive-heart"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -4513,8 +4403,7 @@
         "section_anchor": "corazon-cautivo",
         "variant": "base"
       }
-    ],
-    "edges": []
+    ]
   },
   {
     "id": "gimmix",
@@ -4538,7 +4427,9 @@
         "5": "Levanta 100 kgs. Fuerza = 4"
       }
     },
-    "related": [],
+    "related": [
+      "legerdemain"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -4547,8 +4438,7 @@
         "section_anchor": "truco",
         "variant": "base"
       }
-    ],
-    "edges": []
+    ]
   },
   {
     "id": "ensnare",
@@ -4577,7 +4467,9 @@
     "review": {
       "reason": "El token 'Destreza' (atributo desplazado de la cabecera del Arte Prestidigitación) aparece incrustado en la extracción PDF dentro de la palabra 'repentinamente' de este cantrip. En body_es se ha restaurado la palabra 'repentinamente' y el atributo se ha atribuido a Prestidigitación; conviene verificación humana."
     },
-    "related": [],
+    "related": [
+      "legerdemain"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -4586,8 +4478,7 @@
         "section_anchor": "enredar",
         "variant": "base"
       }
-    ],
-    "edges": []
+    ]
   },
   {
     "id": "effigy",
@@ -4611,7 +4502,9 @@
         "5": "Duplicado exacto; puede infligir daño de Fantasía (sólo si el lanzador especificó inicialmente que la Efigie era de Fantasía)."
       }
     },
-    "related": [],
+    "related": [
+      "legerdemain"
+    ],
     "sources": [
       {
         "book_id": "changelling-el-ensueno-manual-basico",
@@ -4620,8 +4513,7 @@
         "section_anchor": "efigie",
         "variant": "base"
       }
-    ],
-    "edges": []
+    ]
   },
   {
     "id": "mooch",
@@ -4648,7 +4540,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "reino_es": "Depende del propietario/<a href=\"/changeling/realms/prop\">objeto</a>; normalmente <a href=\"/changeling/realms/prop\">Objeto</a> (o Hada/<a href=\"/changeling/realms/actor\">Actor</a> según el propietario)",
       "note": "El slice no nombra el Arte al que pertenece este cantrip (aparece antes de la sección de <a href=\"/changeling/arts/primal\">Primal</a>, probablemente <a href=\"/changeling/arts/legerdemain\">Prestidigitación</a>/Legerdemain); no se asume."
@@ -4686,7 +4577,6 @@
       }
     ],
     "related": [],
-    "edges": [],
     "mechanics_html": {
       "reino_es": "Determinado por el <a href=\"/changeling/realms/prop\">objeto</a>/criatura creada; <a href=\"/changeling/realms/scene\">Escena</a> para edificios enteros",
       "note": "El slice no nombra el Arte al que pertenece este cantrip (aparece antes de la sección de <a href=\"/changeling/arts/primal\">Primal</a>, probablemente <a href=\"/changeling/arts/legerdemain\">Prestidigitación</a>/Legerdemain); no se asume. Referencia cruzada al cantrip <a href=\"/changeling/cantrips/effigy\">Efigie</a> (Effigy), no incluido en este slice."
@@ -4723,8 +4613,9 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": [],
+    "related": [
+      "primal"
+    ],
     "mechanics_html": {
       "art_es": "<a href=\"/changeling/arts/primal\">Primal</a>",
       "reino_es": "<a href=\"/changeling/realms/nature\">Naturaleza</a> y <a href=\"/changeling/realms/prop\">Objeto</a> (los más comunes); describe el <a href=\"/changeling/realms/prop\">objeto</a> con el que se comunica",
@@ -4763,8 +4654,9 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": [],
+    "related": [
+      "primal"
+    ],
     "mechanics_html": {
       "art_es": "<a href=\"/changeling/arts/primal\">Primal</a>",
       "reino_es": "<a href=\"/changeling/realms/nature\">Naturaleza</a> (y el apropiado si se afecta a un individuo)"
@@ -4795,8 +4687,9 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": [],
+    "related": [
+      "primal"
+    ],
     "mechanics_html": {
       "art_es": "<a href=\"/changeling/arts/primal\">Primal</a>",
       "reino_es": "<a href=\"/changeling/realms/actor\">Actor</a> y Hada (los más comunes); <a href=\"/changeling/realms/prop\">Objeto</a> y <a href=\"/changeling/realms/nature\">Naturaleza</a> posibles"
@@ -4827,8 +4720,9 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": [],
+    "related": [
+      "primal"
+    ],
     "mechanics_html": {
       "art_es": "<a href=\"/changeling/arts/primal\">Primal</a>",
       "reino_es": "Casi cualquier Reino; lo determina la persona u <a href=\"/changeling/realms/prop\">objeto</a> curado o dañado; <a href=\"/changeling/realms/scene\">Escena</a> para área"
@@ -4865,8 +4759,9 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": [],
+    "related": [
+      "primal"
+    ],
     "mechanics_html": {
       "art_es": "<a href=\"/changeling/arts/primal\">Primal</a>"
     }
@@ -4896,8 +4791,9 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": [],
+    "related": [
+      "sovereign"
+    ],
     "mechanics_html": {
       "art_es": "<a href=\"/changeling/arts/sovereign\">Soberanía</a>",
       "reino_es": "Describe los objetivos afectados (<a href=\"/changeling/realms/prop\">Objeto</a> es inútil)"
@@ -4929,8 +4825,9 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": [],
+    "related": [
+      "sovereign"
+    ],
     "mechanics_html": {
       "art_es": "<a href=\"/changeling/arts/sovereign\">Soberanía</a>"
     }
@@ -4961,8 +4858,9 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": [],
+    "related": [
+      "sovereign"
+    ],
     "mechanics_html": {
       "art_es": "<a href=\"/changeling/arts/sovereign\">Soberanía</a>",
       "reino_es": "Determinado por el sujeto(s); <a href=\"/changeling/realms/scene\">Escena</a> para múltiples objetivos",
@@ -4994,8 +4892,10 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": [],
+    "related": [
+      "sovereign",
+      "portal-passage"
+    ],
     "mechanics_html": {
       "art_es": "<a href=\"/changeling/arts/sovereign\">Soberanía</a>"
     }
@@ -5040,14 +4940,7 @@
       }
     ],
     "related": [
-      "werewolf/geas"
-    ],
-    "edges": [
-      {
-        "target": "werewolf/geas",
-        "type": "cross-line",
-        "via": "id:geas"
-      }
+      "sovereign"
     ],
     "mechanics_html": {
       "art_es": "<a href=\"/changeling/arts/sovereign\">Soberanía</a>",
@@ -5092,8 +4985,9 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": [],
+    "related": [
+      "wayfare"
+    ],
     "mechanics_html": {
       "art_es": "<a href=\"/changeling/arts/wayfare\">Viaje</a>",
       "reino_es": "Determinado por el <a href=\"/changeling/realms/prop\">objeto</a> imbuido; <a href=\"/changeling/realms/scene\">Escena</a> para varias personas (dividiendo éxitos)"
@@ -5124,8 +5018,9 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": [],
+    "related": [
+      "wayfare"
+    ],
     "mechanics_html": {
       "art_es": "<a href=\"/changeling/arts/wayfare\">Viaje</a>",
       "reino_es": "Determinado por el sujeto; <a href=\"/changeling/realms/scene\">Escena</a> para múltiples personas (dividiendo éxitos)"
@@ -5157,8 +5052,9 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": [],
+    "related": [
+      "wayfare"
+    ],
     "mechanics_html": {
       "art_es": "<a href=\"/changeling/arts/wayfare\">Viaje</a>",
       "reino_es": "Determinado por la sustancia de la barrera; normalmente <a href=\"/changeling/realms/nature\">Naturaleza</a> (<a href=\"/changeling/realms/scene\">Escena</a> u <a href=\"/changeling/realms/prop\">Objeto</a> según el caso)"
@@ -5190,8 +5086,10 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": [],
+    "related": [
+      "wayfare",
+      "hopscotch"
+    ],
     "mechanics_html": {
       "art_es": "<a href=\"/changeling/arts/wayfare\">Viaje</a>",
       "reino_es": "Determinado por el objetivo (casi siempre <a href=\"/changeling/realms/actor\">Actor</a> o Hada); <a href=\"/changeling/realms/scene\">Escena</a> para varios seres (dividiendo éxitos)"
@@ -5228,8 +5126,9 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "edges": [],
+    "related": [
+      "wayfare"
+    ],
     "mechanics_html": {
       "art_es": "<a href=\"/changeling/arts/wayfare\">Viaje</a>",
       "reino_es": "Determinado por la <a href=\"/changeling/realms/nature\">naturaleza</a> de la persona u <a href=\"/changeling/realms/prop\">objeto</a> afectado; <a href=\"/changeling/realms/scene\">Escena</a> para varias personas (dividiendo éxitos)",
