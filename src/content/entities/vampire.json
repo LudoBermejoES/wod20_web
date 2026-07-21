@@ -5181,6 +5181,226 @@
     "related": []
   },
   {
+    "id": "animismo-sanguinario",
+    "type": "derangement",
+    "line": "vampire",
+    "name_en": "Animismo sanguinario",
+    "name_es": "Animismo sanguinario",
+    "body_es": "Este Trastorno es exclusivo de los Vástagos, una respuesta a sus profundos sentimientos de culpa a causa del hecho de alimentarse de la sangre de los mortales. Los vampiros que sufren este Trastorno creen que no sólo consumen la sangre de sus víctimas, sino también sus almas, que se convierten en parte de su propia consciencia. Durante las horas posteriores a haberse alimentado, el vampiro oye las voces de sus víctimas en su cabeza y tiene 'recuerdos' de la mente de ésta, todas ellas creadas por el subconsciente del vampiro. En casos extremos esta sensación de [posesión](/vampire/discipline-powers/posesion) puede conducir a un vampiro a llevar a cabo actos en nombre de sus víctimas. La Diablerie está especialmente contraindicada en el caso de un animista. Cada vez que un vampiro con este Trastorno se alimente de un mortal, debe hacer una tirada de Fuerza de Voluntad (dificultad 6, o 9 si bebe de él hasta matarlo). Si la tirada tiene éxito, los 'recuerdos' de la persona cuya alma ha consumido parcialmente lo atormentan, pero aun así es capaz de actuar con normalidad. Si la tirada falla, entonces las imágenes en su mente son tan fuertes que la situación se parece a la [aparición](/vampire/discipline-powers/aparicion) de una segunda personalidad en su interior, una personalidad furiosa y llena de reproches que busca perjudicar al vampiro y a sus [aliados](/vampire/backgrounds/allies). El jugador tiene que representar este estado como si la mente de la víctima hubiese tomado el control. El vampiro recupera el [dominio](/vampire/backgrounds/domain) sobre sí mismo en los instantes inmediatamente anteriores al alba.",
+    "tags": [
+      "trastorno"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "animismo-sanguinario",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "trastorno-bipolar",
+    "type": "derangement",
+    "line": "vampire",
+    "name_en": "Trastorno bipolar",
+    "name_es": "Trastorno bipolar",
+    "body_es": "Los individuos bipolares tienen cambios de humor extremos, a veces debidos a graves traumas o a la ansiedad. Las víctimas pueden sentirse optimistas y confiadas un momento, e incontrolablemente letárgicas y pesimistas al siguiente.\n\nLos Vástagos que poseen este Trastorno siempre están muy irritables, sin saber nunca cuándo sobrevendrá el siguiente cambio de humor. Cada vez que el vampiro falle a la hora de llevar a cabo una tarea, el Narrador tiene la opción de hacer una tirada secreta de Fuerza de Voluntad\n\n<!-- image -->\n\n(dificultad 8) por el personaje. Si éste falla la tirada entra en depresión. Además, sufrirá de depresión cada vez que obtenga un fracaso en una tirada o su reserva de Sangre descienda por debajo de 2 puntos. El Narrador puede tirar un dado para determinar cuántas escenas pasa el personaje en ese estado, manteniendo el número en secreto.\n\nLa puntuación de Fuerza de Voluntad de un vampiro en estado depresivo se reduce a la mitad (mínimo 1). Además, no pueden usar su reserva de Sangre para aumentar Atributos. Tras salir del estado depresivo el vampiro se siente lleno de energía, ciegamente optimista y activo (hasta un punto obsesivo) durante un número de escenas proporcional al que pasó deprimido. En ese estado de euforia, la dificultad de todas las tiradas para resistir el Frenesí aumenta en uno.",
+    "tags": [
+      "trastorno"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "trastorno-bipolar",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "bulimia",
+    "type": "derangement",
+    "line": "vampire",
+    "name_en": "Bulimia",
+    "name_es": "Bulimia",
+    "body_es": "Los individuos que padecen bulimia alivian sus culpas e inseguridades dejándose ir en actividades que los reconfortan, en este caso, consumir comida. Un bulímico consumirá tremendas cantidades de comida cuando esté sometido a estrés, para después vaciarse el estómago mediante métodos drásticos de forma que pueda comer más aún.\n\nEn el caso de los vampiros que tienen este Trastorno la necesidad de alimentarse es una manera de aliviar el miedo y la ansiedad inherentes al Mundo de Tinieblas. Un vampiro bulímico puede llegar a alimentarse cuatro veces o más por noche, atiborrándose, quemando luego la Sangre en actividades sin sentido (o no tan sin sentido) para comenzar otra vez con el ciclo.\n\nUn vampiro con bulimia padece hambre más rápidamente que los demás. Cuando se alimenta tiene que hacer una tirada de Conciencia o Convicción (dificultad 7). Si falla, se alimenta hasta que su reserva está completa, tanto si necesita la Sangre adicional como si no. Si se le fuerza a no alimentarse se arriesga a que entre en Frenesí (hay que hacer una tirada a dificultad 6). Por cada 15 minutos que se le impida alimentarse, la dificultad aumenta en uno.",
+    "tags": [
+      "trastorno"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "bulimia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "esquizofrenia",
+    "type": "derangement",
+    "line": "vampire",
+    "name_en": "Esquizofrenia",
+    "name_es": "Esquizofrenia",
+    "body_es": "Los sentimientos e impulsos conflictivos e irreconciliables pueden provocar esquizofrenia en una víctima, la cual se manifiesta como una huida de la realidad, violentos cambios de comportamiento y alucinaciones. El jugador ha de pensar cuidadosamente cómo interpretar este Trastorno porque tiene que determinar una serie de comportamientos relacionados con el trauma que lo causó. Las alucinaciones, el comportamiento extraño y las voces invisibles proceden de un terrible conflicto interno que el individuo no puede resolver. El jugador tiene que establecer una idea clara de cuál es el conflicto y entonces razonar qué tipo de comportamiento causa el mismo.\n\nLos Vástagos que sufren este Trastorno son impredecibles y peligrosos. En situaciones que desencadenen el conflicto interior del vampiro, las dificultades de todas las tiradas para resistir o dirigir el Frenesí se incrementan en tres y el individuo pierde tres dados en todas las tiradas de Fuerza de Voluntad.",
+    "tags": [
+      "trastorno"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "esquizofrenia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "fuga-disociativa",
+    "type": "derangement",
+    "line": "vampire",
+    "name_en": "Fuga disociativa",
+    "name_es": "Fuga disociativa",
+    "body_es": "Las víctimas que sufren fuga experimentan 'desvanecimientos' y pérdidas de memoria. Cuando está sometido a estrés, el individuo se refugia en una serie específica y rígida de comportamientos para eliminar los síntomas de la tensión. Esto es diferente de las personalidades múltiples, ya que el individuo que sufre una fuga no tiene personalidades separadas, sino que está en un estado de 'piloto automático' parecido al del sonambulismo.\n\nLos Vástagos que sufren de este Trastorno tienen que hacer una tirada de Fuerza de Voluntad cuando están sometidos a estrés o presión extremos (dificultad 8). Si la tirada falla, el jugador debe interpretar el estado cercano al trance de su personaje; si no es así, el control del personaje pasa al Narrador durante un número de escenas determinado por un dado. Durante este período, el Narrador puede hacer que actúe como parezca adecuado para eliminar la causa de la angustia. Al final de la fuga el personaje 'recupera la consciencia' sin ningún recuerdo de lo que ha sucedido.",
+    "tags": [
+      "trastorno"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "fuga-disociativa",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "histeria",
+    "type": "derangement",
+    "line": "vampire",
+    "name_en": "Histeria",
+    "name_es": "Histeria",
+    "body_es": "Una persona presa de la histeria es incapaz de controlar sus emociones, sufriendo cambios extremos de humor y episodios violentos cuando se ve expuesta estrés o ansiedad.\n\nLos Vástagos histéricos tienen que hacer tiradas de Frenesí en cualquier situación en la que se encuentren estresados o bajo presión. La dificultad de esas tiradas es 6 normalmente, aumentando a 8 si el estrés es súbito o especialmente grave. Además, cualquier acción que resulte en un fracaso hace que el vampiro entre en Frenesí automáticamente.",
+    "tags": [
+      "trastorno"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "histeria",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "megalomania",
+    "type": "derangement",
+    "line": "vampire",
+    "name_en": "Megalomanía",
+    "name_es": "Megalomanía",
+    "body_es": "Los individuos que padecen este Trastorno están obsesionados con acumular poder y riqueza, mitigando sus inseguridades al convertirse en los individuos más poderosos en su entorno. Tales personas siempre son arrogantes y están absolutamente seguras de sus capacidades, convencidas de su propia superioridad inherente. Los métodos que usan para adquirir su [estatus](/vampire/backgrounds/status) pueden ser muy variados, desde retorcidas conspiraciones a brutalidad sin ambages. Todo aquél de igual o mejor posición que la víctima es percibido como un 'competidor'.\n\nLos Vástagos que tienen este Trastorno se esfuerzan constantemente por alcanzar las más altas cotas de poder e [influencia](/vampire/backgrounds/influence), por cualquier medio necesario. Desde el punto de vista de un megalómano, sólo hay dos clases de personas: los que son más débiles y los que no merecen el poder que tienen, a los que hay que debilitar. Esta creencia se extiende a todo el que rodea al vampiro, incluyendo a los miembros de la propia coterie. Este Trastorno suma un dado adicional a todas las tiradas de Fuerza de Voluntad debido al desarrolladísimo complejo de superioridad que implica.\n\nSi a un vampiro megalómano se le presenta la oportunidad de Diabolizar a un Vástago más poderoso, se sentirá terriblemente tentado. Tendrá que pasar una tirada de Fuerza de Voluntad (dificultad 9) para evitar 'tomar lo que por derecho es suyo'.",
+    "tags": [
+      "trastorno"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "megalomania",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "trastorno-obsesivo-compulsivo",
+    "type": "derangement",
+    "line": "vampire",
+    "name_en": "Trastorno obsesivo-compulsivo",
+    "name_es": "Trastorno obsesivo-compulsivo",
+    "body_es": "El trauma, la culpa o el conflicto interior que provoca este Trastorno obliga al individuo a concentrar toda su acción o energía en una actividad o acción repetitiva. La obsesión está relacionada con el deseo del individuo de controlar su entorno (mantenerlo limpio, cuidando de que sea silencioso y tranquilo, o impidiendo el paso a una zona a individuos indeseables, por ejemplo). Una compulsión es una acción o conjunto de acciones que un individuo se ve obligado a llevar a cabo para disminuir su ansiedad: por ejemplo, colocar objetos en un [orden](/vampire/discipline-powers/orden) determinado o alimentarse de mortales siguiendo un preciso ritual.\n\nLos vampiros con Trastornos obsesivo-compulsivos deben determinar un grupo de acciones o comportamientos concretos, como los descritos en el párrafo anterior, y aplicarlos con dedicación exclusiva. Los efectos de esta clase de comportamiento se pueden ignorar durante una escena gastando un punto temporal de Fuerza de Voluntad. La dificultad de obligar o Dominar a un vampiro para que abandone su comportamiento aumenta en uno. Si se le impide por la fuerza comportarse como impone su Trastorno, entra en automáticamente Frenesí.",
+    "tags": [
+      "trastorno"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "trastorno-obsesivo-compulsivo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "paranoia",
+    "type": "derangement",
+    "line": "vampire",
+    "name_en": "Paranoia",
+    "name_es": "Paranoia",
+    "body_es": "La víctima de Paranoia cree que su miseria e inseguridad proviene de persecuciones y hostilidades ajenas. Los individuos paranoicos se obsesionan con sus complejos persecutorios, creando a menudo vastas e intrincadas teorías conspiratorias para explicar quién los está atormentando y por qué. A menudo cualquier persona o cosa que considere que sea 'uno de ellos' será objeto de violencia.\n\nPara los Vástagos que sufren de paranoia las interacciones sociales son complicadas; las dificultades de todas las tiradas relacionadas con éstas aumentan en uno. Son desconfiados y sospechan de todo el mundo, incluso de su propia Progenie Vinculada con Sangre. El más mínimo indicio de comportamiento sospechoso basta para provocar una tirada de Frenesí con dificultad relativa a la gravedad del mismo. Esta paranoia puede abarcar complejas y rigurosas prácticas a la hora de alimentarse para impedir que 'ellos' contaminen las reservas alimenticias del vampiro.",
+    "tags": [
+      "trastorno"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "paranoia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "personalidad-multiple",
+    "type": "derangement",
+    "line": "vampire",
+    "name_en": "Personalidad múltiple",
+    "name_es": "Personalidad múltiple",
+    "body_es": "El trauma que provoca este Trastorno fractura a la víctima en una o más personalidades adicionales, permitiéndole rechazar la angustia o las acciones que causa el trauma echándole la culpa a 'otra persona'. Cada personalidad es creada para responder a determinados estímulos: una persona que ha sufrido maltratos puede desarrollar una que sea un superviviente nato, crear un 'protector' o incluso convertirse en un asesino para ignorar los abusos que está sufriendo. En la mayor parte de los casos ninguna de las personalidades es consciente de las otras, y van turnándose en la mente de la víctima en respuesta a situaciones o condiciones específicas.\n\nCuando un vampiro sufre este Trastorno, el Narrador y el jugador han de ponerse de acuerdo para determinar cuántas personalidades y de qué tipo se desarrollan, y las situaciones que provocan que tomen el control de la víctima. Cada personalidad tiene que relacionarse con el trauma que la causa. No sólo cada personalidad es diferente, sino que en el caso de los Vástagos cada una puede creer pertenecer a un Clan distinto o proceder de diferentes Sires.\n\nLos Vástagos con personalidad múltiple pueden manifestar Habilidades e incluso Virtudes diferentes en cada una de ellas, pero es responsabilidad del Narrador definir los detalles específicos.",
+    "tags": [
+      "trastorno"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "personalidad-multiple",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
     "id": "susurros-salvajes",
     "type": "discipline-power",
     "line": "vampire",
@@ -6226,7 +6446,7 @@
     "line": "vampire",
     "name_en": "Posesión",
     "name_es": "Posesión",
-    "body_es": "A este nivel de Dominación, la fuerza de la psique del Vástago es tal que puede usurpar el lugar de la mente de un sujeto mortal. No es necesario hablar, pero el vampiro tiene que cruzar la mirada con la de su víctima. Durante el esfuerzo psíquico, los contendientes se miran a los ojos fijamente.\n\nUna vez el Vástago asalta la mente del sujeto, el vampiro traslada su mente al cuerpo de la víctima y puede usarlo con tanta facilidad como lo hace con el suyo propio. El mortal cae en un estado de fuga disociativa mientras permanezca bajo la posesión. Sólo es consciente de los hechos de manera distorsionada y onírica. A su vez, la mente del vampiro se concentra por completo en controlar al mortal sometido. Su propio cuerpo yace aletargado, indefenso frente a cualquier acción que se emprenda contra él.\n\nLos vampiros no pueden poseer a otros vampiros de esta forma, ya que incluso la mente del Vástago más débil es capaz de resistir una forma tan directa de dominación mental. Sólo mediante un Vínculo de Sangre puede un vampiro controlar a otro hasta este punto. Otras criaturas sobrenaturales tampoco pueden ser poseídas de esta manera, salvo los Ghouls que hayan bebido del vampiro que usa Posesión.\n\nSistema: El vampiro debe acabar completamente con la Fuerza de Voluntad del objetivo antes de poder poseerlo. El jugador gasta un punto de Fuerza de Voluntad y tira Carisma + Intimidación, mientras que el sujeto tira su Fuerza de Voluntad en una acción enfrentada (la dificultad es 7 para ambos). Por cada éxito que el vampiro obtenga por encima del total de la víctima, el objetivo pierde un punto de Fuerza de Voluntad temporal. La víctima sólo puede escapar a su destino si el atacante obtiene un fracaso, ya que esto hace que se vuelva inmune a cualquier intento de Dominación posterior por parte de ese vampiro durante el resto de la historia.\n\nUna vez el objetivo ha perdido todos sus puntos de Fuerza de Voluntad temporal, su mente queda abierta. El vampiro tira Manipulación + Intimidación (dificultad 7) para determinar el grado de control que asume sobre la cáscara mortal. De manera parecida al Poder de Animalismo [Comunión de Espíritus](/vampire/discipline-powers/comunion-de-espiritus), varios éxitos permiten al personaje usar algunas Disciplinas mentales, como se enumera en la siguiente tabla (los vampiros que posean a Ghouls pueden usar las Disciplinas físicas que posea éste, pero no las mentales).\n\n| Éxitos | Resultados |\n|----------|--------------------------------------------------------------------------------------|\n| 1 éxito | No puede usar Disciplinas. |\n| 2 éxitos | Puede usar Auspex y otros Poderes sensoriales. |\n| 3 éxitos | Puede usar Presencia y otros Poderes manipulación emocional. |\n| 4 éxitos | También puede usar Dementación, Dominación y otros Poderes de manipulación mental. |\n| 5 éxitos | También puede usar Quimerismo, Necromancia, Taumaturgia y otros Poderes místicos. |\n\nEl personaje puede alejarse de su propio cuerpo tanto como sea físicamente capaz de hacerlo en el tiempo que dure la posesión del mortal. El vampiro también puede aventurarse a la luz del día en su cuerpo mortal. Sin embargo, el cuerpo del vampiro debe estar despierto para que sea posible, para lo que se necesita una tirada con éxito para permanecer despierto (ver pág. 263). Si el vampiro abandona su cáscara mortal (por voluntad propia, porque su cuerpo se duerme, porque es expulsado de forma sobrenatural, tras sufrir heridas de consideración, etc.), su consciencia retorna a su forma física en un instante.\n\nUna vez liberado de la posesión, el mortal recupera el control mental sobre sí mismo. Puede que esto ocurra en un instante o puede que la víctima yazca en estado comatoso durante días mientras su psique supera la violación sufrida.\n\nEl vampiro experimenta todo lo que le ocurre al mortal durante la posesión, del dolor al placer. De hecho, cualquier daño que sufra el cuerpo de la víctima se aplica también al cuerpo del personaje, aunque el Vástago puede absorberlo de la forma normal. Si el mortal muere antes de que el alma del vampiro pueda huir del cuerpo, el personaje cae en Letargo. Posiblemente se trate de una respuesta por simpatía al trauma de la muerte, aunque algunos Vástagos creen que el alma del vampiro es expulsada del cuerpo y ha de encontrar el camino de vuelta a su cuerpo.\n\nEl Vástago puede permanecer en el cuerpo del mortal incluso si su propio cuerpo aletargado es destruido, aunque no es probable que una criatura tan patética exista durante mucho tiempo. Cada amanecer, el vampiro debe superar una tirada de Coraje (dificultad 8) o se verá expulsado del cuerpo. Si es forzado a abandonar la forma mortal, su alma vagará por el plano astral, permanentemente perdida en el mundo espiritual. Un vampiro atrapado en un cuerpo mortal no puede ser 'Reabrazado'. Si se Abraza a una criatura así, simplemente sufre la Muerte Definitiva.",
+    "body_es": "A este nivel de Dominación, la fuerza de la psique del Vástago es tal que puede usurpar el lugar de la mente de un sujeto mortal. No es necesario hablar, pero el vampiro tiene que cruzar la mirada con la de su víctima. Durante el esfuerzo psíquico, los contendientes se miran a los ojos fijamente.\n\nUna vez el Vástago asalta la mente del sujeto, el vampiro traslada su mente al cuerpo de la víctima y puede usarlo con tanta facilidad como lo hace con el suyo propio. El mortal cae en un estado de [fuga disociativa](/vampire/derangements/fuga-disociativa) mientras permanezca bajo la posesión. Sólo es consciente de los hechos de manera distorsionada y onírica. A su vez, la mente del vampiro se concentra por completo en controlar al mortal sometido. Su propio cuerpo yace aletargado, indefenso frente a cualquier acción que se emprenda contra él.\n\nLos vampiros no pueden poseer a otros vampiros de esta forma, ya que incluso la mente del Vástago más débil es capaz de resistir una forma tan directa de dominación mental. Sólo mediante un Vínculo de Sangre puede un vampiro controlar a otro hasta este punto. Otras criaturas sobrenaturales tampoco pueden ser poseídas de esta manera, salvo los Ghouls que hayan bebido del vampiro que usa Posesión.\n\nSistema: El vampiro debe acabar completamente con la Fuerza de Voluntad del objetivo antes de poder poseerlo. El jugador gasta un punto de Fuerza de Voluntad y tira Carisma + Intimidación, mientras que el sujeto tira su Fuerza de Voluntad en una acción enfrentada (la dificultad es 7 para ambos). Por cada éxito que el vampiro obtenga por encima del total de la víctima, el objetivo pierde un punto de Fuerza de Voluntad temporal. La víctima sólo puede escapar a su destino si el atacante obtiene un fracaso, ya que esto hace que se vuelva inmune a cualquier intento de Dominación posterior por parte de ese vampiro durante el resto de la historia.\n\nUna vez el objetivo ha perdido todos sus puntos de Fuerza de Voluntad temporal, su mente queda abierta. El vampiro tira Manipulación + Intimidación (dificultad 7) para determinar el grado de control que asume sobre la cáscara mortal. De manera parecida al Poder de Animalismo [Comunión de Espíritus](/vampire/discipline-powers/comunion-de-espiritus), varios éxitos permiten al personaje usar algunas Disciplinas mentales, como se enumera en la siguiente tabla (los vampiros que posean a Ghouls pueden usar las Disciplinas físicas que posea éste, pero no las mentales).\n\n| Éxitos | Resultados |\n|----------|--------------------------------------------------------------------------------------|\n| 1 éxito | No puede usar Disciplinas. |\n| 2 éxitos | Puede usar Auspex y otros Poderes sensoriales. |\n| 3 éxitos | Puede usar Presencia y otros Poderes manipulación emocional. |\n| 4 éxitos | También puede usar Dementación, Dominación y otros Poderes de manipulación mental. |\n| 5 éxitos | También puede usar Quimerismo, Necromancia, Taumaturgia y otros Poderes místicos. |\n\nEl personaje puede alejarse de su propio cuerpo tanto como sea físicamente capaz de hacerlo en el tiempo que dure la posesión del mortal. El vampiro también puede aventurarse a la luz del día en su cuerpo mortal. Sin embargo, el cuerpo del vampiro debe estar despierto para que sea posible, para lo que se necesita una tirada con éxito para permanecer despierto (ver pág. 263). Si el vampiro abandona su cáscara mortal (por voluntad propia, porque su cuerpo se duerme, porque es expulsado de forma sobrenatural, tras sufrir heridas de consideración, etc.), su consciencia retorna a su forma física en un instante.\n\nUna vez liberado de la posesión, el mortal recupera el control mental sobre sí mismo. Puede que esto ocurra en un instante o puede que la víctima yazca en estado comatoso durante días mientras su psique supera la violación sufrida.\n\nEl vampiro experimenta todo lo que le ocurre al mortal durante la posesión, del dolor al placer. De hecho, cualquier daño que sufra el cuerpo de la víctima se aplica también al cuerpo del personaje, aunque el Vástago puede absorberlo de la forma normal. Si el mortal muere antes de que el alma del vampiro pueda huir del cuerpo, el personaje cae en Letargo. Posiblemente se trate de una respuesta por simpatía al trauma de la muerte, aunque algunos Vástagos creen que el alma del vampiro es expulsada del cuerpo y ha de encontrar el camino de vuelta a su cuerpo.\n\nEl Vástago puede permanecer en el cuerpo del mortal incluso si su propio cuerpo aletargado es destruido, aunque no es probable que una criatura tan patética exista durante mucho tiempo. Cada amanecer, el vampiro debe superar una tirada de Coraje (dificultad 8) o se verá expulsado del cuerpo. Si es forzado a abandonar la forma mortal, su alma vagará por el plano astral, permanentemente perdida en el mundo espiritual. Un vampiro atrapado en un cuerpo mortal no puede ser 'Reabrazado'. Si se Abraza a una criatura así, simplemente sufre la Muerte Definitiva.",
     "tags": [
       "disciplina",
       "Contacto Visual"
@@ -13953,7 +14173,7 @@
     "line": "vampire",
     "name_en": "Contemplación Recurrente",
     "name_es": "Contemplación Recurrente",
-    "body_es": "Un vampiro con este Poder puede hacer que la mente de un objetivo evoque una y otra vez una serie de acontecimientos hasta que se le interrumpa. Este Poder es extremadamente sutil y no es adecuado para el combate u otras situaciones en las que se dan abundantes estímulos sensoriales. Sin embargo, un Cainita astuto puede despistar a un centinela para que rememore el tedio de su vigilia privada de incidentes mientras él se acerca lo suficiente como para golpearlo o infiltrarse inadvertidamente. Entre otras posibilidades está provocar irritantes déjà vu para inducir paranoia o hacer que la víctima dude de sus sentidos y su cordura.\n\nSistema: El vampiro se concentra sobre una única víctima que esté en su línea de visión. El jugador tira Manipulación + Ocultismo (la dificultad es igual a la Fuerza de Voluntad actual de la víctima). Si obtiene algún éxito, el objetivo cae en un leve trance y rememora las experiencias más recientes que hayan precedido al estado de fuga. Como alternativa, el vampiro puede evocar una serie diferente de recuerdos y circunstancias extraídas del pasado de la víctima, si es que tiene algún medio de acceder telepáticamente a ellas. Los sucesos recurrentes tienen que ser relativamente benignos en el sentido de que no debe ocurrir nada notable ni que requiera una acción inmediata de la víctima. Así, en el ejemplo del centinela, el vampiro puede hacerlo caer en trance y pasar a su lado sin ser observado, pero no si éste lo vio antes de que invocase el Poder. Normalmente la fuga dura un minuto por éxito. Si el jugador del vampiro gasta un punto de Sangre para potenciar la Disciplina, la duración del trance se establece según la siguiente tabla:",
+    "body_es": "Un vampiro con este Poder puede hacer que la mente de un objetivo evoque una y otra vez una serie de acontecimientos hasta que se le interrumpa. Este Poder es extremadamente sutil y no es adecuado para el combate u otras situaciones en las que se dan abundantes estímulos sensoriales. Sin embargo, un Cainita astuto puede despistar a un centinela para que rememore el tedio de su vigilia privada de incidentes mientras él se acerca lo suficiente como para golpearlo o infiltrarse inadvertidamente. Entre otras posibilidades está provocar irritantes déjà vu para inducir [paranoia](/vampire/derangements/paranoia) o hacer que la víctima dude de sus sentidos y su cordura.\n\nSistema: El vampiro se concentra sobre una única víctima que esté en su línea de visión. El jugador tira Manipulación + Ocultismo (la dificultad es igual a la Fuerza de Voluntad actual de la víctima). Si obtiene algún éxito, el objetivo cae en un leve trance y rememora las experiencias más recientes que hayan precedido al estado de fuga. Como alternativa, el vampiro puede evocar una serie diferente de recuerdos y circunstancias extraídas del pasado de la víctima, si es que tiene algún medio de acceder telepáticamente a ellas. Los sucesos recurrentes tienen que ser relativamente benignos en el sentido de que no debe ocurrir nada notable ni que requiera una acción inmediata de la víctima. Así, en el ejemplo del centinela, el vampiro puede hacerlo caer en trance y pasar a su lado sin ser observado, pero no si éste lo vio antes de que invocase el Poder. Normalmente la fuga dura un minuto por éxito. Si el jugador del vampiro gasta un punto de Sangre para potenciar la Disciplina, la duración del trance se establece según la siguiente tabla:",
     "tags": [
       "disciplina",
       "Temporis"
@@ -14556,7 +14776,7 @@
     "line": "vampire",
     "name_en": "Obertus",
     "name_es": "Obertus",
-    "body_es": "Solitarios eruditos, los Obertus han conseguido mantener su prolongada existencia evitando que el Sabbat se percate de su presencia y alimentando a sus patrones [Tzimisce](/vampire/clans/tzimisce) con un continuo goteo de datos de investigaciones. Originalmente libreros y clérigos para sus señores [Tzimisce](/vampire/clans/tzimisce) en el Imperio Bizantino, la familia Obertus se trasladó primero a las tierras ancestrales del Clan en Europa Oriental, y luego al Nuevo Mundo durante las primeras oleadas de colonización Sabbat. Aún mantienen una fuerte presencia en los estados de Nueva Inglaterra y las provincias orientales de Canadá.\n\nLos Obertus pueden ser caracterizados como ctónicos, tanto por su huraña naturaleza propia de pueblos pequeños, como por su constante búsqueda de conocimientos que pueden no desear necesariamente. Las investigaciones Obertus tienden hacia lo paranormal: Ghouls, fantasmas, bestias de patas largas y cosas que amenazan en la noche, entre otros temas.\n\nComo los [Grimaldi](/vampire/revenant-familys/grimaldi), los Obertus tienen un objetivo secreto que podría conducirlos a su destrucción si el Sabbat lo descubriese. La familia ha llegado a creer que la existencia de los Aparecidos es la clave hacia el siguiente paso lógico de la evolución humana: el Homo obertus está destinado a reemplazar al Homo sapiens , así como los humanos modernos exterminaron al Homo neanderthalensis . Con este fin, la familia lleva a cabo experimentos con varias permutaciones del Abrazo y del proceso de creación de Ghouls, usando Vitae de varios Vástagos de la Camarilla capturados y de un Antiguo [Tzimisce](/vampire/clans/tzimisce) que fue lo suficientemente ingenuo como para entrar voluntariamente en Letargo en una ciudad pesquera en la afueras de Boston controlada por los Obertus. No han obtenido resultados concluyentes por el momento, pero la familia cree que puede estar cerca de descubrir el secreto para perpetuar la existencia 'Ghoul' sin la necesidad de Vitae vampírica.\n\nDisciplinas: Auspex, Ofuscación, Vicisitud.\n\nDebilidad: Los Obertus fueron [criados](/vampire/backgrounds/retainers) por su habilidad intelectual, algunas veces a expensas de su estabilidad, y son propensos a la monomanía y a desórdenes psicológicos similares. La gran mayoría de los Aparecidos Obertus sufre de un Trastorno obsesivo-compulsivo (ver pág. 298). A discreción del Narrador, un Obertus puede sufrir otro Trastorno apropiado.",
+    "body_es": "Solitarios eruditos, los Obertus han conseguido mantener su prolongada existencia evitando que el Sabbat se percate de su presencia y alimentando a sus patrones [Tzimisce](/vampire/clans/tzimisce) con un continuo goteo de datos de investigaciones. Originalmente libreros y clérigos para sus señores [Tzimisce](/vampire/clans/tzimisce) en el Imperio Bizantino, la familia Obertus se trasladó primero a las tierras ancestrales del Clan en Europa Oriental, y luego al Nuevo Mundo durante las primeras oleadas de colonización Sabbat. Aún mantienen una fuerte presencia en los estados de Nueva Inglaterra y las provincias orientales de Canadá.\n\nLos Obertus pueden ser caracterizados como ctónicos, tanto por su huraña naturaleza propia de pueblos pequeños, como por su constante búsqueda de conocimientos que pueden no desear necesariamente. Las investigaciones Obertus tienden hacia lo paranormal: Ghouls, fantasmas, bestias de patas largas y cosas que amenazan en la noche, entre otros temas.\n\nComo los [Grimaldi](/vampire/revenant-familys/grimaldi), los Obertus tienen un objetivo secreto que podría conducirlos a su destrucción si el Sabbat lo descubriese. La familia ha llegado a creer que la existencia de los Aparecidos es la clave hacia el siguiente paso lógico de la evolución humana: el Homo obertus está destinado a reemplazar al Homo sapiens , así como los humanos modernos exterminaron al Homo neanderthalensis . Con este fin, la familia lleva a cabo experimentos con varias permutaciones del Abrazo y del proceso de creación de Ghouls, usando Vitae de varios Vástagos de la Camarilla capturados y de un Antiguo [Tzimisce](/vampire/clans/tzimisce) que fue lo suficientemente ingenuo como para entrar voluntariamente en Letargo en una ciudad pesquera en la afueras de Boston controlada por los Obertus. No han obtenido resultados concluyentes por el momento, pero la familia cree que puede estar cerca de descubrir el secreto para perpetuar la existencia 'Ghoul' sin la necesidad de Vitae vampírica.\n\nDisciplinas: Auspex, Ofuscación, Vicisitud.\n\nDebilidad: Los Obertus fueron [criados](/vampire/backgrounds/retainers) por su habilidad intelectual, algunas veces a expensas de su estabilidad, y son propensos a la monomanía y a desórdenes psicológicos similares. La gran mayoría de los Aparecidos Obertus sufre de un [Trastorno obsesivo-compulsivo](/vampire/derangements/trastorno-obsesivo-compulsivo) (ver pág. 298). A discreción del Narrador, un Obertus puede sufrir otro Trastorno apropiado.",
     "tags": [
       "revenant"
     ],

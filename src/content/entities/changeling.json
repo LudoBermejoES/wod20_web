@@ -94,6 +94,753 @@
     "related": []
   },
   {
+    "id": "casa-beaumayn",
+    "type": "house",
+    "line": "changeling",
+    "name_en": "Casa Beaumayn",
+    "name_es": "Casa Beaumayn",
+    "body_es": "Aunque tienen un asiento en la Orden Arcadiana, rara vez se ve a los Estrellas Oscuras en política. Su principal contribución a la Orden es informar de amenazas Thallain, así como de los asuntos de los Pródigos. Rara vez informan, pero cuando lo hacen, los demás señores tienden a prestar sus oídos fascinados (y preocupados). Los Beaumayn usan este poder para lograr cambios políti-\n\n<!-- image -->\n\ncos que desean ver, ya que son buenos atrayendo la atención cuando lo necesitan. También suelen endulzar los tratos políticos con investigaciones especializadas en los asuntos del mundo exterior que ninguna otra Casa tiene.",
+    "tags": [
+      "casa",
+      "noble"
+    ],
+    "mechanics": {
+      "tier": "noble"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "casa-beaumayn",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "casa-dougal",
+    "type": "house",
+    "line": "changeling",
+    "name_en": "Casa Dougal",
+    "name_es": "Casa Dougal",
+    "body_es": "Los Dougal, durante mucho tiempo considerados compinches de la [Casa Gwydion](/changeling/houses/casa-gwydion), han madurado en los últimos tiempos. Aunque fieles a sus costumbres, ejercen su recién descubierto poder político con cuidado. Los Herreros se concentran más en trabajo exigente y forjar relaciones que en política turbia. Son maestros en la formación de coaliciones y, gracias a su fiel apoyo a otros\n\n<!-- image -->\n\na lo largo de los años, tienen una gran fuente de prestigio a la que recurrir, por no mencionar los favores acumulados. A través de estas conexiones sociales, los Dougal saben ahora a qué Casa pedir apoyo para cualquier cosa que necesiten aprobar. No consideran esto manipulación, sino un signo de amistad y la habilidad de mantener fuertes buenas alianzas.\n\n<!-- image -->\n\n<!-- image -->",
+    "tags": [
+      "casa",
+      "noble"
+    ],
+    "mechanics": {
+      "tier": "noble",
+      "boon": "Los miembros de la Casa Dougal son tenaces y se les conoce por su habilidad de imbuir Glamour en todas las cosas que realizan. Una vez por historia, un miembro de esta Casa puede convertir una porción de sus puntos de Glamour temporal en puntos temporales de Fuerza de Voluntad (hasta el máximo de su Fuerza de Voluntad permanente). Esto debe hacerse durante algún tipo de actividad que implique algo físico: trabajar, hacer ejercicio o participar en un combate.",
+      "flaw": "La realidad física parece tener defectos para estas hadas, igual que ellas mismas los tienen. Sólo mediante el trabajo duro se pueden superar estos fallos. Los sidhe de esta Casa siempre tienen un defecto físico que deben compensar. Esto es normalmente algo que puede ser corregido con un trabajo de herrería hábil: una pierna mecánica para un pie deforme, una intrincada pieza ocular para una mala visión, y similares. Estos defectos están presentes, aunque no siempre son visibles, en su aspecto mortal.",
+      "exile_story": "Durante el Resurgimiento, los sidhe de la Casa Dougal fueron exilados a la Tierra debido a su fascinación por la tecnología. El gobernante actual de la Casa explica la historia de la construcción de una enorme máquina de asedio, justo antes del Resurgimiento, para defender las puertas de Arcadia de los invasores mortales. La amenaza fue exagerada en demasía y el caos provocado por el objeto infernal causó su desgracia. Los trovadores sidhe cuentan y vuelven a contar las leyendas del monstruo mecánico creado por el Gran Señor Lord Donovan. Cada historia acaba de forma diferente, puesto que nadie puede recordarla del todo."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "casa-dougal",
+        "variant": "base"
+      },
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "casa-dougal",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "exile_story": "Durante el Resurgimiento, los sidhe de la Casa Dougal fueron exilados a la Tierra debido a su fascinación por la tecnología. El gobernante actual de la Casa explica la historia de la construcción de una enorme máquina de asedio, justo antes del Resurgimiento, para defender las puertas de Arcadia de los invasores mortales. La amenaza fue exagerada en demasía y el caos provocado por el <a href=\"/changeling/realms/prop\">objeto</a> infernal causó su desgracia. Los trovadores sidhe cuentan y vuelven a contar las leyendas del monstruo mecánico creado por el Gran Señor Lord Donovan. Cada historia acaba de forma diferente, puesto que nadie puede recordarla del todo."
+    }
+  },
+  {
+    "id": "casa-eiluned",
+    "type": "house",
+    "line": "changeling",
+    "name_en": "Casa Eiluned",
+    "name_es": "Casa Eiluned",
+    "body_es": "Los Hechiceros adoran los secretos y casi siempre juegan a largo plazo. Como resultado, tienen reputación de conspiradores entre sus compañeros Luminosos. Ven la política como un juego de ajedrez y rara vez actúan directamente; prefieren los movimientos oscuros e inocuos que darán resultado más adelante. Por ejemplo: presentar a dos nobles en un banquete,\n\n<!-- image -->\n\nsusurrarle a uno las alianzas del otro, dejar que comience una pelea y luego condenar las luchas entre nobles en la siguiente sesión del Parlamento.",
+    "tags": [
+      "casa",
+      "noble"
+    ],
+    "mechanics": {
+      "tier": "noble",
+      "boon": "Los miembros de esta Casa tienen un increíble talento para la magia. Todos los cantrips lanzados por duendes de la Casa Eiluned ganan automáticamente un éxito adicional.",
+      "flaw": "Los miembros de esta Casa tienen una curiosidad abrumadora y se sienten atraídos por misterios y las conspiraciones. Un Eiluned ha de gastar un punto de Fuerza de Voluntad para evitar curiosear en un misterio o verse implicado en una intriga. Algunos tienen incluso una vena traicionera, convirtiéndose brevemente en Oscuros para una alianza oscura y volviendo luego a ser Luminosos para probar su inocencia. La Estirpe desconfía de muchos de ellos; las dificultades de todas sus tiradas sociales se aumentan en uno.",
+      "exile_story": "Hay tres historias que hablan de las razones del exilio de la Casa Eiluned a la Tierra. La primera narra la maldición de un antiguo artefacto rescatado de las forjas de almas del Este de Arcadia. La segunda trata de un pacto con una antigua orden de hechiceros. La tercera dice que se había hecho una promesa entre el gobernante de la Casa y un pretendiente, un supuesto Rey Supremo Oscuro en el exilio."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "casa-eiluned",
+        "variant": "base"
+      },
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "casa-eiluned",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "flaw": "Los miembros de esta Casa tienen una <a href=\"/changeling/flaws/curiosidad\">curiosidad</a> abrumadora y se sienten atraídos por misterios y las conspiraciones. Un Eiluned ha de gastar un punto de Fuerza de Voluntad para evitar curiosear en un misterio o verse implicado en una intriga. Algunos tienen incluso una vena traicionera, convirtiéndose brevemente en Oscuros para una alianza oscura y volviendo luego a ser Luminosos para probar su inocencia. La Estirpe desconfía de muchos de ellos; las dificultades de todas sus tiradas sociales se aumentan en uno."
+    }
+  },
+  {
+    "id": "casa-fiona",
+    "type": "house",
+    "line": "changeling",
+    "name_en": "Casa Fiona",
+    "name_es": "Casa Fiona",
+    "body_es": "<!-- image -->\n\nAmor, esperanza y pasión; aunque parece una mala estrategia política, es el mejor resumen del actual planteamiento político de los Fiona para un mundo que se oscurece. Creen que, conforme todo se enfría, es más importante que nunca aferrarse a sus principales preceptos y recordar a todos los nobles lo que luchan por proteger. Los Corazones Fieles organizan cortejos,\n\namistades y apasionadas defensas en el Parlamento, para así poder ayudar a prender la lucha por causas de otros nobles en lugar de emplear la manipulación política en nombre de la tradición o el hábito. No son conocidos por las estrategias a largo plazo, pero son maestros a la hora de organizar apoyos a corto plazo y de la oratoria apasionada.",
+    "tags": [
+      "casa",
+      "noble"
+    ],
+    "mechanics": {
+      "tier": "noble",
+      "boon": "Desafiantes hasta el fin, los sidhe Fiona son famosos por su gran valor. Aunque entienden el miedo, éste no les controla, ni siquiera frente a la muerte. Cualquier intento, natural o mágico, de generar miedo en ellos falla automáticamente. Sólo la amenaza a la vida de un amante puede aterrar a un Fiona, y a menudo lo hace muy bien.",
+      "flaw": "Los sidhe de esta Casa sienten una irresistible atracción por el peligro. Incluso cuando el objeto de su placer sea algo seguro, encontrarán alguna forma de hacerlo peligroso. Esto es especialmente cierto en sus citas románticas, que normalmente son épicas y casi siempre trágicas. Criaturas de belleza pura y etérea, suelen enamorarse de proscritos, extraños, vagabundos, mortales y otros tipos 'inaceptables'.. A menudo dichos amores se vuelven pasiones auténticas y completas que no pueden ser negadas. Algunos de ellos se sobreponen a este defecto, pero sólo odiando todo tipo de romances. Los más torturados se obsesionan con impedir que le suceda lo mismo a nadie que conozcan.",
+      "exile_story": "La historia de amor de Lady Fiona y su amante mortal ha sido contada, vuelta a contar y cambiada un millar de veces. Igual que con muchos cuentos de Arcadia, no hay dos versiones iguales, pues nadie puede recordar exactamente los detalles. En todas las versiones, Lady Fiona muere trágicamente y las hadas de su Casa descienden de Arcadia para acudir a su despertar. Cada año en el mismo día, un trovador sidhe le habla en sueños."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "casa-fiona",
+        "variant": "base"
+      },
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "casa-fiona",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "flaw": "Los sidhe de esta Casa sienten una irresistible atracción por el peligro. Incluso cuando el <a href=\"/changeling/realms/prop\">objeto</a> de su placer sea algo seguro, encontrarán alguna forma de hacerlo peligroso. Esto es especialmente cierto en sus citas románticas, que normalmente son épicas y casi siempre trágicas. Criaturas de belleza pura y etérea, suelen enamorarse de proscritos, extraños, vagabundos, mortales y otros tipos &#x27;inaceptables&#x27;.. A menudo dichos amores se vuelven pasiones auténticas y completas que no pueden ser negadas. Algunos de ellos se sobreponen a este defecto, pero sólo odiando todo tipo de romances. Los más torturados se obsesionan con impedir que le suceda lo mismo a nadie que conozcan.",
+      "exile_story": "La historia de amor de Lady Fiona y su amante mortal ha sido contada, vuelta a contar y cambiada un millar de veces. Igual que con muchos cuentos de Arcadia, no hay dos versiones iguales, pues nadie puede recordar exactamente los detalles. En todas las versiones, Lady Fiona muere trágicamente y las hadas de su Casa descienden de Arcadia para acudir a su despertar. Cada año en el mismo día, un <a href=\"/changeling/legacys/trovador\">trovador</a> sidhe le habla en sueños."
+    }
+  },
+  {
+    "id": "casa-gwydion",
+    "type": "house",
+    "line": "changeling",
+    "name_en": "Casa Gwydion",
+    "name_es": "Casa Gwydion",
+    "body_es": "<!-- image -->\n\nAunque aún poseen más tierras y grandes títulos que ninguna otra Casa, incluyendo entre ellos al Alto Rey, los Halcones han sufrido de alguna forma al convertirse en el rostro del «Hombre» para muchos changelings jóvenes y descontentos. Como respuesta, los Gwydion se han esforzado por reivindicar su reputación como el pináculo de la nobleza desde\n\nel Resurgimiento, un arriesgado «todo o nada» para esa reputación que ya tenían de serios. En esencia, su estrategia es simplemente ser mejores. Han de ser más honorables, dotados, sabios, protectores y efectivos que ninguna otra Casa. Aun así, es una causa imposible, ya que su infame furia suele deberse a su incapacidad para ser perfectos. Pese a todo, el poder político de la Casa es inmenso. Aunque los demás protestan por ello, allá donde van los Halcones, la Corte Luminosa suele seguirlos.\n\n<!-- image -->",
+    "tags": [
+      "casa",
+      "noble"
+    ],
+    "mechanics": {
+      "tier": "noble",
+      "boon": "Con una tirada con éxito de Percepción + Sagacidad, los miembros de la Casa Gwydion pueden notar si alguien está diciendo la verdad; la dificultad es la Fuerza de Voluntad del sujeto. Por alguna razón (quizá un antiguo pacto), los miembros de la Casa Eiluned son inmunes a esto.",
+      "flaw": "Aunque son grandes guerreros, los sidhe de esta Casa son propensos a colosales estallidos de ira. Cada vez que llegan al Nivel de Salud Herido (sea por daño quimérico o físico), o cuando su honor es insultado, deben hacer una tirada de Fuerza de Voluntad (dificultad 5). Los que fallan entran en una ira berserker y atacan a cualquiera en las cercanías, aliado o enemigo. Mientras están en este estado ignoran todas las penalizaciones por la pérdida de Niveles de Salud hasta llegar a Incapacitados.",
+      "exile_story": "Los duendes de la Casa Gwydion insisten en que volvieron a la Tierra por su propia voluntad. Sus enemigos afirman que un Luminoso de alto rango en Arcadia los exiló a la Tierra como castigo por su arrogancia. En el mundo mortal, arguyen, los sidhe Gwydion se verían forzados a justificar sus atrevidas afirmaciones."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "casa-gwydion",
+        "variant": "base"
+      },
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "casa-gwydion",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "boon": "Con una tirada con éxito de Percepción + Sagacidad, los miembros de la Casa Gwydion pueden notar si alguien está diciendo la verdad; la dificultad es la Fuerza de Voluntad del sujeto. Por alguna razón (quizá un antiguo pacto), los miembros de la <a href=\"/changeling/houses/casa-eiluned\">Casa Eiluned</a> son inmunes a esto."
+    }
+  },
+  {
+    "id": "casa-liam",
+    "type": "house",
+    "line": "changeling",
+    "name_en": "Casa Liam",
+    "name_es": "Casa Liam",
+    "body_es": "Los Liam rara vez actúan de forma abierta en el Parlamento Arcadiano. Se sientan, observan, aprenden y aconsejan. La vergüenza de su pasado aún pesa sobre ellos y pasan cada vez más tiempo discutiendo de política con los plebeyos que con sus pares entre las Grandes Casas. Aun así, debido a su percibida distancia de la política de alto nivel, no es infrecuente que los Monjes\n\n<!-- image -->\n\nempleen la mayor parte de su energía en aconsejar y apoyar a la gente más poderosa e influyente del Parlamento. La política es agotadora y los Liam se ofrecen como un hombro firme para los que hacen los mayores cambios, susurrando a su oído mientras los sostienen.",
+    "tags": [
+      "casa",
+      "noble"
+    ],
+    "mechanics": {
+      "tier": "noble",
+      "boon": "Los sidhe Liam tienen facilidad para afectar a los mortales con Glamour. La dificultad para afectar a un mortal (sea con un cantrip o encantamiento) es siempre de uno menos.",
+      "flaw": "Dadas sus afiliaciones mortales, los sidhe Liam empiezan con un punto extra de Banalidad permanente. Más aún, estos sidhe son conocidos por romper sus juramentos. Ningún otro duende honrará a sus juramentos, hospitalidad o justicia. Las hadas Liam son frecuentemente blanco de la discriminación.",
+      "exile_story": "No hubo necesidad de pronunciar sentencia de exilio sobre la Casa Liam. Los silenciosos seguidores de esta Casa caída tomaron por sí mismos la decisión de volver a la Tierra cuando se les presentó la oportunidad. Una vez se abrieron las puertas de Arcadia, huyeron a donde poder ocultarse de la persecución."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "casa-liam",
+        "variant": "base"
+      },
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "casa-liam",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "casa-scathach",
+    "type": "house",
+    "line": "changeling",
+    "name_en": "Casa Scathach",
+    "name_es": "Casa Scathach",
+    "body_es": "<!-- image -->\n\nDado que se quedaron atrás durante la Ruptura en mayor número que ninguna otra Casa, los Caminantes Grises ostentan un incómodo asiento en la Cámara Arcadiana del Parlamento. Operan como la voz de la historia, recordando a sus parientes las luchas no sólo de plebeyos y Sidhe de Otoño, sino también de los mortales. Fieles a la costumbre, escogen sus batallas con\n\ncuidado, pero hablan apasionadamente de aquéllos que se sienten destinados a defender cuando se les llama a la acción. Atesoran también el papel de «aguafiestas» en la Corte Luminosa, al negarse a votar siguiendo las políticas de Corte simplemente por unidad.",
+    "tags": [
+      "casa",
+      "noble"
+    ],
+    "mechanics": {
+      "tier": "noble"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "casa-scathach",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "casa-aesin",
+    "type": "house",
+    "line": "changeling",
+    "name_en": "Casa Aesin",
+    "name_es": "Casa Aesin",
+    "body_es": "<!-- image -->\n\nLos Aesin, distantes, hermosos y terribles, cultivan un intencionado aire de misterio. Aunque no son activos públicamente en muchos otros lugares, siempre tienen un único representante en el Parlamento. Su presencia en él es la de la terrible y silenciosa belleza del norte. Sus acciones en política suelen reflejar la profunda relación de su Casa con las tormentas y la [naturaleza](/changeling/realms/nature):\n\nson un apoyo callado, un telón de fondo constante y a veces fomentan rebeliones violentas cuando parece más necesario. Si un Norteño habla, casi siempre es escuchado, porque es algo tanto raro como poderoso.",
+    "tags": [
+      "casa",
+      "noble"
+    ],
+    "mechanics": {
+      "tier": "noble"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "casa-aesin",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "casa-ailil",
+    "type": "house",
+    "line": "changeling",
+    "name_en": "Casa Ailil",
+    "name_es": "Casa Ailil",
+    "body_es": "<!-- image -->\n\nReptando por todos los niveles del Parlamento, los Ailil mantienen la política del mundo changeling en movimiento como pocos otros. No sólo tienen un asiento en la Orden Arcadiana, sino que mandan a muchos de sus nobles jóvenes al Parlamento para que actúen como pajes, ayudantes, mensajeros y (por supuesto) espías. Los Dragones tratan de tener sus dedos en\n\ntodos los niveles del proceso de toma de decisiones e incluso alientan a nobles jóvenes sin tierras a acudir a la Cámara de Concordia para que así puedan tratar de mover hilos allí. Si se necesita realizar una tarea política, grande o pequeña, un Ailil dará un paso al frente sólo por la pizca de control e información que le reportará.",
+    "tags": [
+      "casa",
+      "noble"
+    ],
+    "mechanics": {
+      "tier": "noble"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "casa-ailil",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "casa-balor",
+    "type": "house",
+    "line": "changeling",
+    "name_en": "Casa Balor",
+    "name_es": "Casa Balor",
+    "body_es": "<!-- image -->\n\nPoder a través del miedo. Los Balor abrazan los cambios maquiavélicos que se propagaron por las Grandes Casas durante la División más que ninguna otra Casa. Son rápidos en lanzar desafíos físicos y mentales y no se retiran de una pelea. Algunos llaman a los Pura Sangre los matones del Parlamento, ya que realizan movimientos políticos mediante amenazas y violencia,\n\npero al menos logran cosas con ello. Los Balor dicen que sus crueles hábitos son una prueba para otros nobles, y si un noble no es lo bastante fuerte para aguantar frente a ellos, entonces no se ha ganado su voz en política. Al mismo tiempo, los que se enfrentan a ellos se ganan su respeto, y puede que incluso les ofrezcan apoyo o alianzas en el futuro; normalmente para su gran sorpresa.",
+    "tags": [
+      "casa",
+      "noble"
+    ],
+    "mechanics": {
+      "tier": "noble"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "casa-balor",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "casa-daireann",
+    "type": "house",
+    "line": "changeling",
+    "name_en": "Casa Daireann",
+    "name_es": "Casa Daireann",
+    "body_es": "<!-- image -->\n\nLa hospitalidad es uno de sus mayores principios y lo usan en su provecho en el Parlamento. Son los anfitriones de muchos actos y no sólo organizan los mejores banquetes posibles, sino que mantienen la paz a través de una mezcla de honor público y brutalidad quirúrgica. Dicho simple y llanamente, causar problemas en la fiesta de un Anfitrión te generará más problemas de los\n\nque valen la pena, así que sólo los más estúpidos o ingenuos se atreven siquiera a intentarlo. Organizar docenas de funciones políticas significa que pueden susurrar sus intenciones en los oídos de todas las Casas asistentes y ganarse el favor de otras Casas cuando quieren hacer un movimiento político.",
+    "tags": [
+      "casa",
+      "noble"
+    ],
+    "mechanics": {
+      "tier": "noble"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "casa-daireann",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "casa-danaan",
+    "type": "house",
+    "line": "changeling",
+    "name_en": "Casa Danaan",
+    "name_es": "Casa Danaan",
+    "body_es": "<!-- image -->\n\nLos Exploradores aún no han tenido un impacto significativo en el funcionamiento diario del Parlamento, ya que permanecen centrados principalmente en los Pasos y los interminables mundos del Ensueño. Sin embargo, el Alto Señor Dados se deleita en el papel de la Casa como aguafiestas en las votaciones reñidas; algunos incluso rumorean que los Exploradores y los Caminantes\n\nGrises tienen una alianza secreta basada en romper con sus Cortes y desequilibrar la balanza cuando les conviene. Sea esto cierto o no, han acumulado mucha reputación… por no mencionar una cantidad considerable de favores esperando a ser cobrados.\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->",
+    "tags": [
+      "casa",
+      "noble"
+    ],
+    "mechanics": {
+      "tier": "noble"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "casa-danaan",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "casa-leanhaun",
+    "type": "house",
+    "line": "changeling",
+    "name_en": "Casa Leanhaun",
+    "name_es": "Casa Leanhaun",
+    "body_es": "<!-- image -->\n\nEl mundo mortal ha amenazado las vidas de los changeling durante miles de años. Su incredulidad, su fanatismo religioso y su obsesiva hambre de conocimiento científico a cualquier coste han amenazado el Glamour desde que se puede recordar. O eso cree la mayoría de Leanhaun. Pero no se debería desperdiciar a los mortales. Sus mentes brillantes pueden usarse para inspirar\n\nlas mayores creaciones antes de que se consuman, igual que los mortales consumieron a los changelings. En el Parlamento, las Musas toman a los mortales en consideración más que cualquier Casa Oscura. Sus objetivos políticos se concentran en cómo manejarlos mejor como recursos y como enemigos.",
+    "tags": [
+      "casa",
+      "noble"
+    ],
+    "mechanics": {
+      "tier": "noble"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "casa-leanhaun",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "casa-varich",
+    "type": "house",
+    "line": "changeling",
+    "name_en": "Casa Varich",
+    "name_es": "Casa Varich",
+    "body_es": "<!-- image -->\n\nLos secretos son su campo de experiencia. Todo el mundo en el Parlamento sabe que de esta Casa puede obtenerse casi cualquier información… por un precio. Los Tejedores hacen movimientos cuidadosos en la Orden, emparejados con una toma de notas conspicua y con el planteamiento de preguntas incisivas. Sin embargo, tantas otras Casas les deben favores que, cuando\n\nnecesitan que se haga algo, simplemente se cobran un favor. Dentro de la Casa, la regla es que si un noble usa uno de esos favores, debe contribuir con una información proporcional a lo gastado. Así, la economía de secretos y poder está siempre viva para los Varich.",
+    "tags": [
+      "casa",
+      "noble"
+    ],
+    "mechanics": {
+      "tier": "noble"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "casa-varich",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "casa-firinne",
+    "type": "house",
+    "line": "changeling",
+    "name_en": "Casa Fírinne",
+    "name_es": "Casa Fírinne",
+    "body_es": "Vasalla de: Ailil (aliada Beaumayn).\n\nSímbolo: Una ornada llave de plata en campo negro.\n\nLíderes de la Casa: Duquesa Severa y Duque Alexander «Corazón Negro» Aetherington, cogobernantes de Bastión Nocturno.\n\nApodos: Alcaides, Hogareños (vulgar).\n\nReconocido sólo recientemente, el pendón de la Casa Fírinne ondea ya, sin embargo, en un puñado de Feudos de Concordia y, con el miedo y la incertidumbre de la Evanescencia, sin duda seguirá extendiéndose. Los Alcaides están ligados no por sangre, sino por un deber muy peligroso y concreto: reclaman territorios con profundos lazos con los Fomorianos y los Thallain. Los Fírinne usan una combinación de magia e investigación arcana para identificar lugares que antaño estas nauseabundas criaturas usaban como portales o consideraban «sagrados» de alguna otra forma.\n\nUna vez establecidos, los Fírinne hacen cuanto pueden por limpiar los lugares, si es posible, y toman fuertes medidas en ellos. Si esto demuestra ser imposible, trabajan para expulsar a cualquier Thallain y cualquier otro horror acechante, incluyendo ocasionales nidos de Pródigos atraídos por las oscuras energías de tales lugares. Dada la desagradable reputación de la [Casa Ailil](/changeling/houses/casa-ailil), es natural que los Alcaides hayan sido acusados de reclamar estas tierras como parte de alguna oscura conspiración, pero por su parte, mantienen la cabeza gacha y atienden sus deberes. Persuadir a su Casa de que sus metas valían lo suficiente la pena fue bastante difícil; tienen poco tiempo para los prejuicios de las demás.\n\n<!-- image -->\n\nPor fortuna, a pesar de la nube de sospecha sobre sus operaciones, la Casa Fírinne ya ha forjado fuertes lazos con la [Casa Beaumayn](/changeling/houses/casa-beaumayn) y ambas comparten información tanto arcana como mundana conforme trabajan para contener el Invierno Sin Fin y entender exactamente qué hay detrás del creciente número de Thallain y otras criaturas de pesadilla. Es un trabajo peligroso y ya atraen mucha atención indeseada de los rincones oscuros del Ensueño, pero eso sólo prueba a los Alcaides que están en el buen camino.\n\nDistinción: Los Thallain encuentran en los miembros de la Casa Fírinne enemigos difíciles e implacables. Los Thallain se enfrentan a un aumento de +1 a la dificultad en todas las tiradas que tengan por objetivo o se opongan directamente a un Alcaide, incluyendo Artes y Privilegios relevantes.\n\nFalta: A los Fírinne no les gusta alejarse mucho de sus terrenos. Si un Fírinne viaja a más de una hora de sus terrenos designados o se adentra en el Ensueño Profundo, la dificultad de todas las tiradas aumenta en +1. Un miembro puede suprimir esta penalización durante una [escena](/changeling/realms/scene) gastando 1 punto de Fuerza de Voluntad, pero cualquier Fuerza de Voluntad gastada así no puede recuperarse hasta que el Alcaide pase al menos una noche en sus terrenos designados.",
+    "tags": [
+      "casa",
+      "vassal"
+    ],
+    "mechanics": {
+      "tier": "vassal",
+      "boon": "Los Thallain encuentran en los miembros de la Casa Fírinne enemigos difíciles e implacables. Los Thallain se enfrentan a un aumento de +1 a la dificultad en todas las tiradas que tengan por objetivo o se opongan directamente a un Alcaide, incluyendo Artes y Privilegios relevantes.",
+      "flaw": "A los Fírinne no les gusta alejarse mucho de sus terrenos. Si un Fírinne viaja a más de una hora de sus terrenos designados o se adentra en el Ensueño Profundo, la dificultad de todas las tiradas aumenta en +1. Un miembro puede suprimir esta penalización durante una escena gastando 1 punto de Fuerza de Voluntad, pero cualquier Fuerza de Voluntad gastada así no puede recuperarse hasta que el Alcaide pase al menos una noche en sus terrenos designados."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "casa-firinne",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "flaw": "A los Fírinne no les gusta alejarse mucho de sus terrenos. Si un Fírinne viaja a más de una hora de sus terrenos designados o se adentra en el Ensueño Profundo, la dificultad de todas las tiradas aumenta en +1. Un miembro puede suprimir esta penalización durante una <a href=\"/changeling/realms/scene\">escena</a> gastando 1 punto de Fuerza de Voluntad, pero cualquier Fuerza de Voluntad gastada así no puede recuperarse hasta que el Alcaide pase al menos una noche en sus terrenos designados."
+    }
+  },
+  {
+    "id": "casa-tinean",
+    "type": "house",
+    "line": "changeling",
+    "name_en": "Casa Tinean",
+    "name_es": "Casa Tinean",
+    "body_es": "Vasalla de: Liam (aliada Gwydion).\n\nSímbolo: Un fénix de oro con las alas desplegadas en campo negro.\n\nLíder de la Casa: Lord Eric Trayce de la Baronía de los Pinos.\n\nApodos: Redentores, Furias (vulgar).\n\nLas Casas vasallas a veces difuminan la línea entre entidades políticas y sociedades secretas, y la Casa Tinean es quizás el mejor ejemplo de esta zona gris. Para el público, los Redentores realizan un servicio vital aunque a menudo pasado por alto; en concreto, hacen todo lo posible por encontrar a hadas que han caído temporalmente ante la Banalidad y restaurar su [naturaleza](/changeling/realms/nature) Kithain. Durante generaciones han adquirido reputación por llevar a cabo atrevidos rescates de lugares como manicomios y residencias de ancianos, así como por hallar a hadas perdidas que nadie más lograba encontrar. Y esta reputación no está errada, en realidad…, pero es sólo parte de la misión de este engañoso y secretista clan.\n\nAdemás de su labor de revivir a hadas caídas, los Redentores también ven como su deber sagrado exigir [venganza](/changeling/flaws/venganza) sobre los mortales y Pródigos que toman las vidas de Kithain. Aunque se centran sobre todo en quienes lo hacen adrede, los Tinean a veces también se vengan de asesinatos accidentales si sienten que la pérdida lo justifica. Sí, tales castigos suelen ser menos extremos que los que infligen sobre quienes toman vidas a propósito, pero como los Redentores señalan, no se trata necesariamente de qué es justo, sino de lo que se requiere para compensar la vida perdida.\n\nLa cabeza actual de la Casa, Lord Trayce, es más piadoso y comprensivo que algunos de sus predecesores, pero recientemente ha sido presionado por los apoyos Gwydion de la Casa para llevar a cabo algunas venganzas importantes en su nombre. Los Halcones han proporcionado durante mucho tiempo material y apoyo políticos para los Redentores cuando su propia Gran Casa no podía y ahora parece que quieren cobrarse la deuda. Aunque reconoce su incalculable apoyo, Lord Trayce se preocupa por lo lejos que quieren que llegue su familia en su nombre… y por qué pasará si se niega.\n\nDistinción: Como cazadores y rastreadores por [naturaleza](/changeling/realms/nature), los Tinean restan -2 a la dificultad de todas las tiradas que impliquen localizar hadas desaparecidas o que se han perdido temporalmente en la Banalidad, así como en tiradas relacionadas con localizar a quienes sospechan que han matado a un Kithain.\n\nFalta: A las Furias les cuesta dejar atrás a un compañero o no responder un desaire. Deben superar una tirada de Fuerza de Voluntad a dificultad 6 para dejar atrás a un aliado caído o no ofrecer una respuesta directa inmediata ante un insulto serio o una amenaza.",
+    "tags": [
+      "casa",
+      "vassal"
+    ],
+    "mechanics": {
+      "tier": "vassal",
+      "boon": "Como cazadores y rastreadores por naturaleza, los Tinean restan -2 a la dificultad de todas las tiradas que impliquen localizar hadas desaparecidas o que se han perdido temporalmente en la Banalidad, así como en tiradas relacionadas con localizar a quienes sospechan que han matado a un Kithain.",
+      "flaw": "A las Furias les cuesta dejar atrás a un compañero o no responder un desaire. Deben superar una tirada de Fuerza de Voluntad a dificultad 6 para dejar atrás a un aliado caído o no ofrecer una respuesta directa inmediata ante un insulto serio o una amenaza."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "casa-tinean",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "boon": "Como cazadores y rastreadores por <a href=\"/changeling/realms/nature\">naturaleza</a>, los Tinean restan -2 a la dificultad de todas las tiradas que impliquen localizar hadas desaparecidas o que se han perdido temporalmente en la Banalidad, así como en tiradas relacionadas con localizar a quienes sospechan que han matado a un Kithain."
+    }
+  },
+  {
+    "id": "casa-barghest",
+    "type": "house",
+    "line": "changeling",
+    "name_en": "Casa Barghest",
+    "name_es": "Casa Barghest",
+    "body_es": "Vasalla de: Daireann (aliada Scathach).\n\nSímbolo: Una cabeza de perro negro ladrando sobre campo verde.\n\nLíder de la Casa: Barón Donovan Cóyotl de Colinas Colgantes.\n\nApodos: Perros Diablo / Grims, Perros Falderos (vulgar) La Casa Barghest, una de las Casas vasallas más antiguas registradas, ha reclamado, de hecho, ser la primera fundada por plebeyos con [título](/changeling/backgrounds/titulo). Aunque los eruditos Kithain debaten esta declaración, en buena parte debido a la cantidad de Pooka que han formado históricamente parte de sus filas (incluyendo su líder actual), nadie duda de su ancestral linaje. Los Perros Diablo comenzaron como plebeyos que juraron servicio a la Casa del hogar y el veneno, actuando como huscarles, guardias y cazadores para sus señores feudales mientras desarrollaban una terrible reputación por su [salvaje](/changeling/legacys/salvaje) astucia y su bestial ferocidad.\n\n<!-- image -->\n\nTras la Ruptura, la [Casa Daireann](/changeling/houses/casa-daireann) necesitaba desesperadamente reforzar sus filas y por ello hicieron una oferta a los guardias de élite de la Casa: más títulos y una Casa vasalla propia a cambio de su continuada lealtad. Desde entonces, no es infrecuente ver a los nobles Daireann de alto rango ser atendidos por una guardia de honor de Perros Diablo con su característico verde y negro. Debido a su legendaria reputación, a veces ofrecen sus servicios como guardias y cazadores a otras Casas de ambas Cortes. Los miembros Luminosos, aunque infrecuentes, son conocidos como Grims por el perro negro más benevolente de las leyendas de las islas británicas. Sus compañeros se burlan de ellos, pero mientras sean leales a la Casa en su conjunto nadie tiene verdaderos problemas con su alineación de Corte.\n\nDe hecho, debido a las profundas raíces Oscuras de la Casa Barghest, su vieja alianza con la [Casa Scathach](/changeling/houses/casa-scathach) puede parecer extraña a primera vista, pero se debe a dos factores principalmente: el solapamiento geográfico y, más importante, el alineamiento filosófico. Los Caminantes Grises respetan a los guerreros astutos y también tienen un alto porcentaje de plebeyos con [título](/changeling/backgrounds/titulo), así que, cuando no están en lados enfrentados de una batalla, ambas Casas suelen llevarse bastante bien. Suelen entrenar juntas, por no hablar de que salen juntas de fiesta y de que mantienen una sana rivalidad que se retrotrae hasta los primeros días de la Ruptura.\n\nDistinción: Los Perros Diablo son guardias y vigilantes excepcionales. No pueden fracasar en Alerta siempre que estén protegiendo activamente algo o a alguien que hayan jurado proteger, y pueden gastar 1 punto de Fuerza de Voluntad para negar la sorpresa en tales situaciones.\n\nFalta: Algunos viejos prejuicios están muy arraigados, incluso tras siglos de servicio. Los miembros de la Casa Barghest no pueden tener más de [Título](/changeling/backgrounds/titulo) ··· y sufren +1 de dificultad en todas las tiradas Sociales salvo las de Intimidación que impliquen nobles ajenos a las Casas Daireann y Scathach.\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n«¡Vamos a levantarnos, a levantarnos!». - Lin-Manuel Miranda, Hamilton",
+    "tags": [
+      "casa",
+      "vassal"
+    ],
+    "mechanics": {
+      "tier": "vassal",
+      "boon": "Los Perros Diablo son guardias y vigilantes excepcionales. No pueden fracasar en Alerta siempre que estén protegiendo activamente algo o a alguien que hayan jurado proteger, y pueden gastar 1 punto de Fuerza de Voluntad para negar la sorpresa en tales situaciones.",
+      "flaw": "Algunos viejos prejuicios están muy arraigados, incluso tras siglos de servicio. Los miembros de la Casa Barghest no pueden tener más de Título ··· y sufren +1 de dificultad en todas las tiradas Sociales salvo las de Intimidación que impliquen nobles ajenos a las Casas Daireann y Scathach."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "casa-barghest",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "flaw": "Algunos viejos prejuicios están muy arraigados, incluso tras siglos de servicio. Los miembros de la Casa Barghest no pueden tener más de <a href=\"/changeling/backgrounds/titulo\">Título</a> ··· y sufren +1 de dificultad en todas las tiradas Sociales salvo las de Intimidación que impliquen nobles ajenos a las Casas Daireann y Scathach."
+    }
+  },
+  {
+    "id": "el-burning-revel",
+    "type": "secret-society",
+    "line": "changeling",
+    "name_en": "El Burning Revel",
+    "name_es": "El Burning Revel",
+    "body_es": "Como uno puede imaginar, la membresía en el Revel varía ampliamente dependiendo del evento, aunque siempre hay un Príncipe del Glam que hace de guía y ha surgido una pequeña cuadrilla central que dirige las diversas tareas requeridas para un festival nómada (el Narrador debería sentirse libre de diseñar un Príncipe del Glam cuyo relato y su conclusión épica mejor se ajusten a los temas de su crónica). Los siguientes son algunos de los habituales de la cuadrilla del festival: - ¶ Jay Toddyfellow , organizador de eventos Boggan con remedios para resacas legendarias. - ¶ Roy Miller «Primicias» , un periodista gonzo Eshu y el publicista extraoficial del Revel. - ¶ Tefira , Satiresa guardiana de la Hoguera y [amor verdadero](/changeling/merits/amor-verdadero) de Primicias. - ¶ Killian Solander , un vidente Eshu hábil a la hora de desenredar destinos indeseados. - ¶ Blythe Wolff , Sluagh... digamos que solucionador. Sí, eso lo resume bastante bien. - ¶ Freddie Velour , Sidhe apreciado en las redes sociales y Señor de los «Elfillos». - ¶ Lyssa Coraline y Zelda Anemone , Selkies buscadoras de localizaciones y «mamás» de los Revelers. · Los participantes en el Burning Revel encuentran que las Nieblas se retiran de sus recuerdos, lo que les permite recordar todas sus vidas encantadas aunque estén al borde del Deshacer, mientras que las hadas sumidas en la Confusión están lúcidas y estables durante el Revel. La dificultad de cosechar el Glamour de forma benévola durante el Revel se reduce en 2. Ten en cuenta que este Favor sólo se aplica durante el propio Revel, no entre eventos.",
+    "tags": [
+      "sociedad-secreta"
+    ],
+    "mechanics": {
+      "membership": "Como uno puede imaginar, la membresía en el Revel varía ampliamente dependiendo del evento, aunque siempre hay un Príncipe del Glam que hace de guía y ha surgido una pequeña cuadrilla central que dirige las diversas tareas requeridas para un festival nómada (el Narrador debería sentirse libre de diseñar un Príncipe del Glam cuyo relato y su conclusión épica mejor se ajusten a los temas de su crónica). Los siguientes son algunos de los habituales de la cuadrilla del festival: - ¶ Jay Toddyfellow , organizador de eventos Boggan con remedios para resacas legendarias. - ¶ Roy Miller «Primicias» , un periodista gonzo Eshu y el publicista extraoficial del Revel. - ¶ Tefira , Satiresa guardiana de la Hoguera y amor verdadero de Primicias. - ¶ Killian Solander , un vidente Eshu hábil a la hora de desenredar destinos indeseados. - ¶ Blythe Wolff , Sluagh... digamos que solucionador. Sí, eso lo resume bastante bien. - ¶ Freddie Velour , Sidhe apreciado en las redes sociales y Señor de los «Elfillos». - ¶ Lyssa Coraline y Zelda Anemone , Selkies buscadoras de localizaciones y «mamás» de los Revelers.",
+      "rites": "El Buring Revel sólo tiene algunos ritos considerados como tales, el principal entre ellos es que cada festival ha de comenzar con una reunión para romper el hielo y con un concierto que dé paso a un baile durante toda la noche. El otro precepto principal del Revel es respetar la autonomía personal; está permitida casi cualquier actividad siempre que todos los involucrados den su entusiasta e informado consentimiento. Los participantes son libres de diseñar y llevar a cabo sus propios ritos de bienvenida y despedida como parte del Revel, así como para celebrar hitos personales, y se les alienta a ello. La selección del siguiente Príncipe del Glam es cosa del Ensueño, y por ahora la elección ha sido marcada con un foco quimérico literal sobre cada nuevo sucesor.",
+      "boon": "Los participantes en el Burning Revel encuentran que las Nieblas se retiran de sus recuerdos, lo que les permite recordar todas sus vidas encantadas aunque estén al borde del Deshacer, mientras que las hadas sumidas en la Confusión están lúcidas y estables durante el Revel. La dificultad de cosechar el Glamour de forma benévola durante el Revel se reduce en 2. Ten en cuenta que este Favor sólo se aplica durante el propio Revel, no entre eventos.",
+      "ban": "El consentimiento es capital en el Burning Revel. Cualquier hada que accidentalmente viole el consentimiento de otra pierde inmediatamente 1 punto de Glamour, mientras que las violaciones deliberadas tienen como resultado la pérdida de todos los puntos de Glamour (esto incluye todas las formas de violencia no consensuada o de cantrips dañinos). Además, a quienes violen el consentimiento de forma deliberada les siguen pequeños pájaros quiméricos que graznan sus ofensas a los viandantes hasta que termine el festival o el infractor sea perdonado por aquél a quien contrarió. Al igual que el Favor, esta Prohibición sólo se aplica durante el propio Revel.",
+      "recruitment": "El Burning Revel no recluta de ninguna manera formal. Los changelings suelen oír hablar de él por el boca a boca, ya sea en persona o en redes sociales. Los miembros a veces forman pandillas informales si lo siguen juntos, con sus propios estándares y expectativas, pero tales grupos vienen y van. Incluso si no son del todo conscientes de por qué asisten a él, las nuevas hadas o los changelings al borde de la Confusión y la Banalidad suelen sentirse atraídos por el Revel cuando llega a la ciudad, lo que les da la magnífica despedida o la asombrosa bienvenida a la vida Kithain que merecen. Requisitos mecánicos: El Burning Revel no tiene requisitos especiales. Lo que importa es cómo trata un changeling a los demás asistentes; quienes respetan el espacio obtienen respeto e invitaciones para acompañar al Revel, mientras que quienes no lo hacen son expulsados y posiblemente se les prohíba la entrada a futuros eventos."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "el-burning-revel",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "membership": "Como uno puede imaginar, la membresía en el Revel varía ampliamente dependiendo del evento, aunque siempre hay un Príncipe del Glam que hace de guía y ha surgido una pequeña cuadrilla central que dirige las diversas tareas requeridas para un festival nómada (el Narrador debería sentirse libre de diseñar un Príncipe del Glam cuyo relato y su conclusión épica mejor se ajusten a los temas de su crónica). Los siguientes son algunos de los habituales de la cuadrilla del festival: - ¶ Jay Toddyfellow , organizador de eventos Boggan con remedios para resacas legendarias. - ¶ Roy Miller «Primicias» , un periodista gonzo Eshu y el publicista extraoficial del Revel. - ¶ Tefira , Satiresa guardiana de la Hoguera y <a href=\"/changeling/merits/amor-verdadero\">amor verdadero</a> de Primicias. - ¶ Killian Solander , un vidente Eshu hábil a la hora de desenredar destinos indeseados. - ¶ Blythe Wolff , Sluagh... digamos que solucionador. Sí, eso lo resume bastante bien. - ¶ Freddie Velour , Sidhe apreciado en las redes sociales y Señor de los «Elfillos». - ¶ Lyssa Coraline y Zelda Anemone , Selkies buscadoras de localizaciones y «mamás» de los Revelers."
+    }
+  },
+  {
+    "id": "la-cuna-del-gato",
+    "type": "secret-society",
+    "line": "changeling",
+    "name_en": "La Cuna del Gato",
+    "name_es": "La Cuna del Gato",
+    "body_es": "La membresía en la Cuna del Gato sólo está abierta a las mujeres, incluyendo a personas no-binarias o que se identifican como mujeres, y específicamente a nobles (incluyendo a las plebeyas ennoblecidas) de ambas Cortes, aunque tiende ligeramente al lado Luminoso. Que una miembro prominente pertenezca a la organización suele ser más un rumor que algo públicamente conocido: consideran la Restitución más como directrices que como leyes y están absolutamente dispuestas a saltarse las que consideren negativas para el objetivo principal de mantener la seguridad del conjunto de los Kithain. Algunas personas de las que se rumorea que son miembros son: <!-- image --> - ¶ Condesa Anne ni Eiluned , una agitadora conocida y, como ella misma dice: «una troll que lucha por la justicia social… salvo porque en realidad no soy una Troll». - ¶ Condesa Rhona McCready ni Scathach , una de los pocos miembros de su Casa en poseer un verdadero [título](/changeling/backgrounds/titulo), concedido por la Reina Laurel tras décadas de servicio cazando seres peligrosos en la fría oscuridad. Ahora dirige una institución que entrena a otros para hacer lo mismo. - ¶ Condesa Annabelle Mendoza ni Fiona , una Boggan cuyos restaurantes sirven comida encantadora en más de un sentido y cuya perspicacia política se subestima de forma habitual, algo que no debería ser así. - ¶ Baronesa Talora Balliet ni Dougal , una Troll artesana reconocida por su habilidad como herrera con una lista de clientes que incluye a la mitad de la nobleza de Concordia y del extranjero. · Las miembros de la Cuna del Gato pueden recurrir a cualquier otra miembro sin previo aviso en busca de refugio y apoyo por cualquier razón, hasta el punto de romper cláusulas de la Restitución.",
+    "tags": [
+      "sociedad-secreta"
+    ],
+    "mechanics": {
+      "membership": "La membresía en la Cuna del Gato sólo está abierta a las mujeres, incluyendo a personas no-binarias o que se identifican como mujeres, y específicamente a nobles (incluyendo a las plebeyas ennoblecidas) de ambas Cortes, aunque tiende ligeramente al lado Luminoso. Que una miembro prominente pertenezca a la organización suele ser más un rumor que algo públicamente conocido: consideran la Restitución más como directrices que como leyes y están absolutamente dispuestas a saltarse las que consideren negativas para el objetivo principal de mantener la seguridad del conjunto de los Kithain. Algunas personas de las que se rumorea que son miembros son: <!-- image --> - ¶ Condesa Anne ni Eiluned , una agitadora conocida y, como ella misma dice: «una troll que lucha por la justicia social… salvo porque en realidad no soy una Troll». - ¶ Condesa Rhona McCready ni Scathach , una de los pocos miembros de su Casa en poseer un verdadero título, concedido por la Reina Laurel tras décadas de servicio cazando seres peligrosos en la fría oscuridad. Ahora dirige una institución que entrena a otros para hacer lo mismo. - ¶ Condesa Annabelle Mendoza ni Fiona , una Boggan cuyos restaurantes sirven comida encantadora en más de un sentido y cuya perspicacia política se subestima de forma habitual, algo que no debería ser así. - ¶ Baronesa Talora Balliet ni Dougal , una Troll artesana reconocida por su habilidad como herrera con una lista de clientes que incluye a la mitad de la nobleza de Concordia y del extranjero.",
+      "rites": "La Cuna del Gato se reúne oficialmente dos veces al año, una vez durante el solsticio de verano y una vez durante el invierno. Todas las miembros de una región se juntan para intercambiar noticias, rumores, camaradería y buena comida. Es inevitable que durante estas celebraciones se cierren negocios a escondidas, lo que impulsa la aparición de amistades genuinas y alianzas políticas por igual.",
+      "boon": "Las miembros de la Cuna del Gato pueden recurrir a cualquier otra miembro sin previo aviso en busca de refugio y apoyo por cualquier razón, hasta el punto de romper cláusulas de la Restitución.",
+      "ban": "Las miembros de la Cuna del Gato no pueden identificar a sus hermanas ante ninguna autoridad temporal; a ojos del Ensueño hacerlo es una violación de su juramento.",
+      "recruitment": "La Cuna del Gato recluta agresivamente a plebeyas ennoblecidas y Sidhe de Otoño que son víctimas de intentos de deslegitimar su gobierno, pero cualquier noble Kithain femenina con el temperamento adecuado y el deseo de proteger a su gente es bienvenida. Requisitos mecánicos: Las miembros de la Cuna del Gato pueden tener cualquier combinación de Artes y Reinos. Aunque tienden a alistar a hechiceras (changelings con al menos un Arte a 5 y otro a 4), esto no es un requisito para convertirse en miembro. Prefieren los Atributos, Habilidades y Trasfondos Sociales, como Contactos y Mentor, que permiten el desarrollo de coaliciones defensivas amplias, pero no desdeñan habilidades marciales en sus miembros."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "la-cuna-del-gato",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "membership": "La membresía en la Cuna del Gato sólo está abierta a las mujeres, incluyendo a personas no-binarias o que se identifican como mujeres, y específicamente a nobles (incluyendo a las plebeyas ennoblecidas) de ambas Cortes, aunque tiende ligeramente al lado Luminoso. Que una miembro prominente pertenezca a la organización suele ser más un rumor que algo públicamente conocido: consideran la Restitución más como directrices que como leyes y están absolutamente dispuestas a saltarse las que consideren negativas para el objetivo principal de mantener la seguridad del conjunto de los Kithain. Algunas personas de las que se rumorea que son miembros son: &lt;!-- image --&gt; - ¶ Condesa Anne ni Eiluned , una agitadora conocida y, como ella misma dice: «una troll que lucha por la justicia social… salvo porque en realidad no soy una Troll». - ¶ Condesa Rhona McCready ni Scathach , una de los pocos miembros de su Casa en poseer un verdadero <a href=\"/changeling/backgrounds/titulo\">título</a>, concedido por la Reina Laurel tras décadas de servicio cazando seres peligrosos en la fría oscuridad. Ahora dirige una institución que entrena a otros para hacer lo mismo. - ¶ Condesa Annabelle Mendoza ni Fiona , una Boggan cuyos restaurantes sirven comida encantadora en más de un sentido y cuya perspicacia política se subestima de forma habitual, algo que no debería ser así. - ¶ Baronesa Talora Balliet ni Dougal , una Troll artesana reconocida por su habilidad como herrera con una lista de clientes que incluye a la mitad de la nobleza de Concordia y del extranjero."
+    }
+  },
+  {
+    "id": "sociedad-de-los-derechos-plebeyos",
+    "type": "secret-society",
+    "line": "changeling",
+    "name_en": "Sociedad de los Derechos Plebeyos",
+    "name_es": "Sociedad de los Derechos Plebeyos",
+    "body_es": "La membresía en la Sociedad de los Derechos Plebeyos está abierta a cualquier ser del Ensueño dispuesto a dar su apoyo en pos de sus objetivos. Entre los miembros conocidos de la Sociedad se encuentran: - ¶ Ravindran Kalluri , un vidente e historiador Eshu, actualmente enfrascado en el estudio de la Corte de Todas las Estaciones y los fascinantes misterios que contiene. - ¶ Red Sarah O'Roark , una DJ ambulante y música Clurichaun que usa el circuito de festivales Kithain para dar a conocer las ideas de la Sociedad. - ¶ Jennet Toefting , una Boggan dueña de un restaurante cuyo Feudo que hace las veces de cocina sirve como casa segura secundaria para miembros de la Sociedad que necesitan refugio y una comida caliente. - ¶ Kimber Delivorias ni Dougal , un Sidhe de Otoño horticultor, paisajista y hechicero cuya pericia a la hora de diseñar y defender Feudos es muy demandada, servicios que ofrece gratuitamente a algunos mientras que canaliza las ganancias que obtiene de otros hacia la Sociedad. · Los miembros de la Sociedad de los Derechos Plebeyos pueden acceder a la Corte de Todas las Estaciones, un Feudo antiguo en forma de torre rodeado por los restos ruinosos de una Aldea feérica de tiempos pasados. Ningún ser malintencionado y mal dispuesto a tolerar la paz impuesta que mantiene la Corte libre de violencia mundana puede entrar en ella.",
+    "tags": [
+      "sociedad-secreta"
+    ],
+    "mechanics": {
+      "membership": "La membresía en la Sociedad de los Derechos Plebeyos está abierta a cualquier ser del Ensueño dispuesto a dar su apoyo en pos de sus objetivos. Entre los miembros conocidos de la Sociedad se encuentran: - ¶ Ravindran Kalluri , un vidente e historiador Eshu, actualmente enfrascado en el estudio de la Corte de Todas las Estaciones y los fascinantes misterios que contiene. - ¶ Red Sarah O'Roark , una DJ ambulante y música Clurichaun que usa el circuito de festivales Kithain para dar a conocer las ideas de la Sociedad. - ¶ Jennet Toefting , una Boggan dueña de un restaurante cuyo Feudo que hace las veces de cocina sirve como casa segura secundaria para miembros de la Sociedad que necesitan refugio y una comida caliente. - ¶ Kimber Delivorias ni Dougal , un Sidhe de Otoño horticultor, paisajista y hechicero cuya pericia a la hora de diseñar y defender Feudos es muy demandada, servicios que ofrece gratuitamente a algunos mientras que canaliza las ganancias que obtiene de otros hacia la Sociedad.",
+      "rites": "La Sociedad de los Derechos Plebeyos mantiene una política oficial de desprecio hacia algo tan elitista como rituales sólo para miembros. Sus encuentros están abiertos a cualquiera que quiera acudir y a todos se les permite hablar durante los actos.",
+      "boon": "Los miembros de la Sociedad de los Derechos Plebeyos pueden acceder a la Corte de Todas las Estaciones, un Feudo antiguo en forma de torre rodeado por los restos ruinosos de una Aldea feérica de tiempos pasados. Ningún ser malintencionado y mal dispuesto a tolerar la paz impuesta que mantiene la Corte libre de violencia mundana puede entrar en ella.",
+      "ban": "Para mantener su aceptación dentro de la Corte de Todas las Estaciones, los miembros de la Sociedad de los Derechos Plebeyos quedan también obligados a ser pacíficos: sus miembros no pueden ejercer la violencia contra ningún otro Kithain. Hacerlo hace que sean exiliados de la Corte hasta que hayan resarcido sus actos. <!-- image -->",
+      "recruitment": "La Sociedad recluta entre quienes creen en la absoluta igualdad de todos los Linajes, Aspectos y Cortes y desean establecer una sociedad igualitaria y meritocrática que no restrinja el acceso al Ensueño. Esto incluye a los Sidhe, tipos de Thallain civilizados y Gallain. Sin embargo, ponen el límite en los Adhene, ya que los Tenebrosos son infatigables enemigos del Sueño Tuathano y sus aliados. Requisitos mecánicos: Los miembros de la sociedad han comenzado a buscar activamente Kithain con un conocimiento profundo de las Artes Contrato y Cronos. Tienden a preferir los Atributos Sociales y Mentales y una amplia variedad de Técnicas, Conocimientos y Talentos. Prefieren no fomentar las confrontaciones físicas y la violencia, pero eso no significa que no puedan defenderse si es necesario."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "sociedad-de-los-derechos-plebeyos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "la-casa-de-las-maravillas-de-jedao",
+    "type": "secret-society",
+    "line": "changeling",
+    "name_en": "La Casa de las Maravillas de Jedao",
+    "name_es": "La Casa de las Maravillas de Jedao",
+    "body_es": "Los miembros de la Casa de las Maravillas llegan de toda Concordia atraídos por la acogedora comunidad, la seguridad del patronazgo real y la tentación de satisfacer sus pasiones. Por su tamaño e importancia, el colectivo constituye como mínimo una Baronía, pero ha decidido que ningún individuo adopte un [título](/changeling/backgrounds/titulo) nobiliario. Eligen a sus representantes en la corte de la Reina Mary-Elizabeth por votación: los interesados declaran su candidatura, el conjunto de los miembros vota y el ganador hace de representante durante dos años. El propio Jedao sólo ha ocupado el cargo de representante dos veces y, por lo general, está demasiado ocupado con sus proyectos de robótica quimérica como para prestar atención a la política. La representante actual es Jesse Redmane, una escultora Redcap Luminosa conocida por el impacto visceral de su estética, y desempeña su cargo con una distinción poco común. Otros miembros del colectivo son: - ¶ Genevieve Revier ni Fiona , una Sidhe Rebelde que supervisa los talleres semanales que imparte el colectivo sobre principios de computación quimérica. Es diseñadora de juegos, programadora y también organiza el torneo mensual de juegos del colectivo en el que los residentes prueban sus productos en entornos reales durante competiciones cara a cara. - ¶ Amariya Saadauri , una Eshu Gruñona, escritora profesional bajo varios pseudónimos. Es la organizadora del programa de residencia estival para aspirantes a escritores de género del colectivo, que por lo general tiene lugar en un campamento con el que tienen un acuerdo de cooperación. <!-- image --> · Además de ser dueños exclusivos de su Feudo y del espacio de trabajo, los miembros de la Casa de las Maravillas disfrutan del favor y la protección de la Reina Mary-Elizabeth y, en menor grado, de la [Casa Dougal](/changeling/houses/casa-dougal). Además, nobles de toda Concordia deben al colectivo un considerable número de favores personales como pago por los servicios prestados.",
+    "tags": [
+      "sociedad-secreta"
+    ],
+    "mechanics": {
+      "membership": "Los miembros de la Casa de las Maravillas llegan de toda Concordia atraídos por la acogedora comunidad, la seguridad del patronazgo real y la tentación de satisfacer sus pasiones. Por su tamaño e importancia, el colectivo constituye como mínimo una Baronía, pero ha decidido que ningún individuo adopte un título nobiliario. Eligen a sus representantes en la corte de la Reina Mary-Elizabeth por votación: los interesados declaran su candidatura, el conjunto de los miembros vota y el ganador hace de representante durante dos años. El propio Jedao sólo ha ocupado el cargo de representante dos veces y, por lo general, está demasiado ocupado con sus proyectos de robótica quimérica como para prestar atención a la política. La representante actual es Jesse Redmane, una escultora Redcap Luminosa conocida por el impacto visceral de su estética, y desempeña su cargo con una distinción poco común. Otros miembros del colectivo son: - ¶ Genevieve Revier ni Fiona , una Sidhe Rebelde que supervisa los talleres semanales que imparte el colectivo sobre principios de computación quimérica. Es diseñadora de juegos, programadora y también organiza el torneo mensual de juegos del colectivo en el que los residentes prueban sus productos en entornos reales durante competiciones cara a cara. - ¶ Amariya Saadauri , una Eshu Gruñona, escritora profesional bajo varios pseudónimos. Es la organizadora del programa de residencia estival para aspirantes a escritores de género del colectivo, que por lo general tiene lugar en un campamento con el que tienen un acuerdo de cooperación. <!-- image -->",
+      "rites": "Como regla general, los residentes de la Casa de las Maravillas no tienen una tendencia especial hacia los rituales. Sin embargo, organizan muchos eventos abiertos al público a lo largo del año. - ¶ Semana de la moda: Dos veces al año, en Beltane y Samhain, los diseñadores exhiben su moda estacional para las mitades oscura y luminosa del año. Las celebridades de Concordia acuden a estos eventos, lo que refuerza la reputación de la Casa como un lugar de pioneros de la moda que valen el precio que cobran (en Barcia y dinero) por sus diseños originales. - ¶ Festival de las Hadas: Durante el Festival de las Hadas, de un mes de duración en torno al solsticio de verano, se exhiben artesanías tradicionales y se les muestra apoyo en un terreno alquilado al efecto. En cada festival se presenta una «tierra de las hadas» construida expresamente; el honor de diseñarla es muy disputado entre los Feudos de la zona. - ¶ Kristkindlmarkt: El Kristkindlmarkt, una muestra de juguetes y regalos de una magnificencia inigualable, se celebra en el solsticio de invierno, y en él se presentan productos creados por hadas de todo el Medio Oeste, comida y bebida dignas de un mercado goblin y música de Kithain de la zona. Además, miembros individuales organizan eventos más pequeños, como exposiciones y mercados al aire libre, y asisten a festivales de arte y conferencias sobre diseño a lo largo de todo el año.",
+      "boon": "Además de ser dueños exclusivos de su Feudo y del espacio de trabajo, los miembros de la Casa de las Maravillas disfrutan del favor y la protección de la Reina Mary-Elizabeth y, en menor grado, de la Casa Dougal. Además, nobles de toda Concordia deben al colectivo un considerable número de favores personales como pago por los servicios prestados.",
+      "ban": "El favor real tiene un precio: ningún miembro de la Casa de las Maravillas puede rechazar un contrato con un miembro de la corte de la Reina Mary-Elizabeth, salvo en casos en los que el contrato pueda constituir una posible violación de la Restitución.",
+      "recruitment": "La Casa de las Maravillas acepta a Kithain creativos de todos los Linajes, Aspectos y Cortes. Busca artistas que necesiten un ambiente estructurado y alentador en el que trabajar, que deseen vivir de forma más o menos permanente en el mismo y estén dispuestos a mudarse al Reino de la Hierba. <!-- image --> <!-- image --> <!-- image --> Requisitos mecánicos: Los miembros de la Casa de las Maravillas pueden poseer cualquier combinación de Artes y Reinos y cualquier disposición de los Atributos. Tienden a tener puntuaciones altas en Habilidades como Empatía, Expresión, Artesanía, Interpretación y cualquier Conocimiento. Los miembros deben poseer al menos 4, preferiblemente 5, puntos en un Talento Afición, una Técnica Profesional o un Conocimiento Experto."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "la-casa-de-las-maravillas-de-jedao",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "membership": "Los miembros de la Casa de las Maravillas llegan de toda Concordia atraídos por la acogedora comunidad, la seguridad del patronazgo real y la tentación de satisfacer sus pasiones. Por su tamaño e importancia, el colectivo constituye como mínimo una Baronía, pero ha decidido que ningún individuo adopte un <a href=\"/changeling/backgrounds/titulo\">título</a> nobiliario. Eligen a sus representantes en la corte de la Reina Mary-Elizabeth por votación: los interesados declaran su candidatura, el conjunto de los miembros vota y el ganador hace de representante durante dos años. El propio Jedao sólo ha ocupado el cargo de representante dos veces y, por lo general, está demasiado ocupado con sus proyectos de robótica quimérica como para prestar atención a la política. La representante actual es Jesse Redmane, una escultora Redcap Luminosa conocida por el impacto visceral de su estética, y desempeña su cargo con una distinción poco común. Otros miembros del colectivo son: - ¶ Genevieve Revier ni Fiona , una Sidhe Rebelde que supervisa los talleres semanales que imparte el colectivo sobre principios de computación quimérica. Es diseñadora de juegos, programadora y también organiza el torneo mensual de juegos del colectivo en el que los residentes prueban sus productos en entornos reales durante competiciones cara a cara. - ¶ Amariya Saadauri , una Eshu Gruñona, escritora profesional bajo varios pseudónimos. Es la organizadora del programa de residencia estival para aspirantes a escritores de género del colectivo, que por lo general tiene lugar en un campamento con el que tienen un acuerdo de cooperación. &lt;!-- image --&gt;",
+      "boon": "Además de ser dueños exclusivos de su Feudo y del espacio de trabajo, los miembros de la Casa de las Maravillas disfrutan del favor y la protección de la Reina Mary-Elizabeth y, en menor grado, de la <a href=\"/changeling/houses/casa-dougal\">Casa Dougal</a>. Además, nobles de toda Concordia deben al colectivo un considerable número de favores personales como pago por los servicios prestados."
+    }
+  },
+  {
+    "id": "el-circulo-de-cristal",
+    "type": "secret-society",
+    "line": "changeling",
+    "name_en": "El Círculo de Cristal",
+    "name_es": "El Círculo de Cristal",
+    "body_es": "Los miembros del Círculo de Cristal ocupan un lugar extraño en la cultura Kithain. Por una parte, a menudo aparentan ser, o bien apuestos héroes o sabios consejeros en baladas y sagas populares que siempre tienen preparada una ocurrencia ingeniosa, un cachivache mágico o un hechizo apropiado para cualquier ocasión. Por el otro, la realidad tiende a ser mucho menos glamurosa, aunque sí que tienen su cuota de personalidades sobredimensionadas, junto con los esperables anquilosados Barbagrises conservadores, ratones de biblioteca agobiados incapaces de manejar su tiempo y especialistas muy versados en cosas que ningún Kithain debería conocer y que llevan años sin dormir como es debido. Algunos miembros conocidos del Círculo de Cristal son: - ¶ El « Duque » Guile , también conocido como el Hechicero Escarlata, un noble Sidhe sin tierra y bienintencionado ostentosamente romántico que ha hecho más que nadie por la imagen del Círculo, lo que hace que sus colegas tiendan a ignorar sus muchos pecadillos sexuales y su algo descuidada ética del trabajo. - ¶ Rhynn MacKenna ap Scathach , una incorporación reciente que heredó inesperadamente un Tesoro de la Casa, lo que permitió el acceso a un profundo depósito de memorias y conocimientos que llegan hasta el Tiempo de las Leyendas. - ¶ Bella Luna , la más anciana y eminente hechicera del Círculo, Sluagh profeta y onironauta que posee una visión de una claridad increíble. - ¶ Gato Callejero, el Creador de Monstruos , Pooka maestro de quimeras de Pesadilla. · El Círculo de Cristal disfruta de una garantía de neutralidad en todos los dominios gobernados por Kithain impuesta por la voluntad vinculante del Ensueño que toma forma en su juramento, y está libre de violencia mundana y de interferencias en sus asuntos.",
+    "tags": [
+      "sociedad-secreta"
+    ],
+    "mechanics": {
+      "membership": "Los miembros del Círculo de Cristal ocupan un lugar extraño en la cultura Kithain. Por una parte, a menudo aparentan ser, o bien apuestos héroes o sabios consejeros en baladas y sagas populares que siempre tienen preparada una ocurrencia ingeniosa, un cachivache mágico o un hechizo apropiado para cualquier ocasión. Por el otro, la realidad tiende a ser mucho menos glamurosa, aunque sí que tienen su cuota de personalidades sobredimensionadas, junto con los esperables anquilosados Barbagrises conservadores, ratones de biblioteca agobiados incapaces de manejar su tiempo y especialistas muy versados en cosas que ningún Kithain debería conocer y que llevan años sin dormir como es debido. Algunos miembros conocidos del Círculo de Cristal son: - ¶ El « Duque » Guile , también conocido como el Hechicero Escarlata, un noble Sidhe sin tierra y bienintencionado ostentosamente romántico que ha hecho más que nadie por la imagen del Círculo, lo que hace que sus colegas tiendan a ignorar sus muchos pecadillos sexuales y su algo descuidada ética del trabajo. - ¶ Rhynn MacKenna ap Scathach , una incorporación reciente que heredó inesperadamente un Tesoro de la Casa, lo que permitió el acceso a un profundo depósito de memorias y conocimientos que llegan hasta el Tiempo de las Leyendas. - ¶ Bella Luna , la más anciana y eminente hechicera del Círculo, Sluagh profeta y onironauta que posee una visión de una claridad increíble. - ¶ Gato Callejero, el Creador de Monstruos , Pooka maestro de quimeras de Pesadilla.",
+      "rites": "El Círculo de Cristal se reúne anualmente en Beltane para llevar a cabo complicados rituales. Los adivinos se reúnen en Caer Astra, en el Ducado de las Altas Montañas, toman sustancias que potencian las visiones y escrutan las profundidades del cielo del Ensueño, más allá de los picos nevados de las montañas, en busca de destellos del futuro. Las visiones que vienen rápida y claramente a varios videntes son las que reciben más atención. El Círculo todavía lamenta amargamente no haber actuado tras recibir visiones de la desaparición del Alto Rey y se culpa por el caos que la siguió. <!-- image --> Grupos sociales o centrados en proyectos tienen encuentros regulares para el intercambio de información, rumores y nuevas técnicas. Algunos sincronizan sus agendas con los hitos estacionales y otros se juntan cuando es posible ponerse de acuerdo. Todos los miembros del Círculo poseen un Tesoro menor que les permite ponerse en contacto con todos sus colegas de las cercanías en caso de una verdadera emergencia.",
+      "boon": "El Círculo de Cristal disfruta de una garantía de neutralidad en todos los dominios gobernados por Kithain impuesta por la voluntad vinculante del Ensueño que toma forma en su juramento, y está libre de violencia mundana y de interferencias en sus asuntos.",
+      "ban": "Los miembros del Círculo tienen prohibido poseer títulos nobiliarios fuera de los honoríficos e implicarse en asuntos políticos o de gobierno, ya que éstos son una fuente de conflicto y distraen de la erudición, que es la esencia del Círculo, y del cumplimiento de sus importantísimas responsabilidades.",
+      "recruitment": "Los miembros del Círculo de Cristal proceden de todos los Linajes y principalmente de la Corte Luminosa, aunque recientemente han invitado a unirse a algunos selectos hechiceros Oscuros cuyo carácter y probidad son suficientemente fiables como para que se unan a sus filas. Si este experimento sale bien, la idea es estar en adelante más abiertos a tener en cuenta a posibles miembros Oscuros, todo bajo la condición, por supuesto, de que reúnan las condiciones de ingreso en el Círculo y estén dispuestos a prestar los juramentos de servicio al Ensueño del Círculo. La mayoría de sus miembros son Rebeldes y Gruñones, debido sobre todo al grado de dominio de lo arcano necesario para cumplir con los criterios de incorporación, pero el Círculo no se opone a la admisión de Infantiles prodigio. Después de todo, ya ha habido unos cuantos en el pasado. Requisitos mecánicos: T odos los miembros del Círculo de Cristal dominan completamente al menos un Arte (·····) y tienen un control considerable sobre otra (····). Tienden a preferir los Atributos Mentales y los Conocimientos, y muchos poseen al menos algunos puntos en Trasfondos como Recuerdo y Tesoro."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "el-circulo-de-cristal",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "la-hoja-de-beltane",
+    "type": "secret-society",
+    "line": "changeling",
+    "name_en": "La Hoja de Beltane",
+    "name_es": "La Hoja de Beltane",
+    "body_es": "La Hoja de Beltane está integrada en su totalidad por Sidhe de ambas Cortes (aunque la mayoría son señores Luminosos) que creen que sólo su Linaje posee el derecho de gobernar y cualquier otro sistema de gobierno podría destruir el Ensueño. Entre los miembros reconocidos o presuntos de la Hoja se encuentran: - ¶ Duque Dray , la cara pública de la Hoja de Beltane con esa imagen de retorcerse los bigotes, cuya melodramática fachada social ha sido cuidadosamente construida para distraer de las ardides más peligrosas y sutiles de sus compañeros y de sus propios objetivos superiores. - ¶ Duque Edgar Vandermere ap Beaumayne , un temible hechicero cuyos sueños proféticos lo han llevado a creer que la Hoja de Beltane tendrá un importante papel a la hora de desbaratar los planes de los Adhene y la Anciana Tiniebla. - ¶ Sir Medran Armitage ap Daireann , un caballero sin tierra y duelista de cierto renombre en el Reino de Pacífica cuya lengua es casi tan aguda como su espada y que apenas se molesta en esconder su desdén hacia su indisciplinada reina y su amante de baja cuna. - ¶ Conde Arthaud Mellenys ap Dougal , que se esfuerza sutilmente por sumar a la Reina Mary-Elizabeth del Reino de la Hierba a la causa de la Hoja. <!-- image --> · La Hoja de Beltane es una organización secreta mucho más grande y con más éxito de lo que la mayoría de los habitantes de Concordia sospecha o sabe, y sus miembros tienen formas de identificarse unos a otros en momentos de peligro o crisis. Cuando está en peligro, cualquier miembro de la Hoja puede localizar a un compañero y pedirle ayuda.",
+    "tags": [
+      "sociedad-secreta"
+    ],
+    "mechanics": {
+      "membership": "La Hoja de Beltane está integrada en su totalidad por Sidhe de ambas Cortes (aunque la mayoría son señores Luminosos) que creen que sólo su Linaje posee el derecho de gobernar y cualquier otro sistema de gobierno podría destruir el Ensueño. Entre los miembros reconocidos o presuntos de la Hoja se encuentran: - ¶ Duque Dray , la cara pública de la Hoja de Beltane con esa imagen de retorcerse los bigotes, cuya melodramática fachada social ha sido cuidadosamente construida para distraer de las ardides más peligrosas y sutiles de sus compañeros y de sus propios objetivos superiores. - ¶ Duque Edgar Vandermere ap Beaumayne , un temible hechicero cuyos sueños proféticos lo han llevado a creer que la Hoja de Beltane tendrá un importante papel a la hora de desbaratar los planes de los Adhene y la Anciana Tiniebla. - ¶ Sir Medran Armitage ap Daireann , un caballero sin tierra y duelista de cierto renombre en el Reino de Pacífica cuya lengua es casi tan aguda como su espada y que apenas se molesta en esconder su desdén hacia su indisciplinada reina y su amante de baja cuna. - ¶ Conde Arthaud Mellenys ap Dougal , que se esfuerza sutilmente por sumar a la Reina Mary-Elizabeth del Reino de la Hierba a la causa de la Hoja. <!-- image -->",
+      "rites": "Como sugiere el nombre, Beltane es un momento importante para los miembros de la Hoja. Todos los años se reúnen en un Feudo escondido en el Ensueño Próximo para introducir nuevos miembros en el grupo, informar de las acciones de sus miembros a lo largo del año anterior y escoger nuevos objetivos para el siguiente. Bajo la forma de un elaborado baile de máscaras, el encuentro es tanto un evento social como político, y permite dejar de lado sus disfraces y ser ellos mismos a aquellos miembros de la Hoja que deben asumir personalidades distintas de cara al público para mantener sus puestos, aunque sea sólo por unas pocas noches.",
+      "boon": "La Hoja de Beltane es una organización secreta mucho más grande y con más éxito de lo que la mayoría de los habitantes de Concordia sospecha o sabe, y sus miembros tienen formas de identificarse unos a otros en momentos de peligro o crisis. Cuando está en peligro, cualquier miembro de la Hoja puede localizar a un compañero y pedirle ayuda.",
+      "ban": "Ningún miembro de la Hoja de Beltane puede ofrecer piedad o cuartel a un plebeyo enemigo caído, bajo pena de ser expulsado de la organización y de sufrir toda la ira del Ensueño.",
+      "recruitment": "La Hoja de Beltane sólo admite a Sidhe, preferiblemente Luminosos, que sepan cuál es su lugar por derecho y estén dispuestos a reivindicarlo por cualquier medio necesario, incluyendo la fuerza. Tener un grupo de subalternos plebeyos útiles es sin duda beneficioso, pero afirmar que uno es un amigo inmediatamente descalifica al posible candidato. Una vez un miembro identifica a un posible candidato, un miembro de la Hoja contacta con él y se ofrece a apadrinarle. Si éste acepta, pone a prueba exhaustivamente su determinación y competencia. Los candidatos que tienen éxito son presentados a la sociedad en la siguiente fiesta para unirse a sus filas. Si, en cualquier momento, un candidato muestra signos de flaqueza o de simpatía hacia los plebeyos, se espera que el mentor se deshaga de él con la mayor presteza posible para mantener el absoluto secretismo de la Hoja. Requisitos mecánicos: Los miembros de la Hoja de Beltane pueden tener cualquier combinación de Artes y Reinos, aunque algunos estrictos miembros de alto rango desprecian el dominio de magias «vulgares» como Embustes o Prestidigitación. Si una nueva incorporación no posee el Arte Soberanía, su padrino corregirá eso de inmediato, ya sea por sí mismo o asignándole un tutor que lo haga por él. Los miembros tienden a preferir los Atributos Sociales para facilitar sus serpentinas manipulaciones y las Habilidades del mismo tipo, especialmente las que les permiten ocultar sus verdaderas naturalezas y motivaciones."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "la-hoja-de-beltane",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "recruitment": "La Hoja de Beltane sólo admite a Sidhe, preferiblemente Luminosos, que sepan cuál es su lugar por derecho y estén dispuestos a reivindicarlo por cualquier medio necesario, incluyendo la fuerza. Tener un grupo de subalternos plebeyos útiles es sin duda beneficioso, pero afirmar que uno es un amigo inmediatamente descalifica al posible candidato. Una vez un miembro identifica a un posible candidato, un miembro de la Hoja contacta con él y se ofrece a apadrinarle. Si éste acepta, pone a prueba exhaustivamente su determinación y competencia. Los candidatos que tienen éxito son presentados a la sociedad en la siguiente fiesta para unirse a sus filas. Si, en cualquier momento, un candidato muestra signos de flaqueza o de simpatía hacia los plebeyos, se espera que el mentor se deshaga de él con la mayor presteza posible para mantener el absoluto secretismo de la Hoja. Requisitos mecánicos: Los miembros de la Hoja de Beltane pueden tener cualquier combinación de Artes y Reinos, aunque algunos estrictos miembros de alto rango desprecian el dominio de magias «vulgares» como <a href=\"/changeling/arts/chicanery\">Embustes</a> o <a href=\"/changeling/arts/legerdemain\">Prestidigitación</a>. Si una nueva incorporación no posee el Arte <a href=\"/changeling/arts/sovereign\">Soberanía</a>, su padrino corregirá eso de inmediato, ya sea por sí mismo o asignándole un tutor que lo haga por él. Los miembros tienden a preferir los Atributos Sociales para facilitar sus serpentinas manipulaciones y las Habilidades del mismo tipo, especialmente las que les permiten ocultar sus verdaderas naturalezas y motivaciones."
+    }
+  },
+  {
+    "id": "veteranos-de-otono-de-la-guerra-del-tratado",
+    "type": "secret-society",
+    "line": "changeling",
+    "name_en": "Veteranos de Otoño de la Guerra del Tratado",
+    "name_es": "Veteranos de Otoño de la Guerra del Tratado",
+    "body_es": "Los Veteranos de Otoño de la Guerra del Tratado son exactamente lo que su nombre indica: una organización compuesta en su totalidad por Kithain de Otoño que tomaron parte en la Guerra del Tratado. Excluyen expresamente a los pocos Sidhe Arcadianos que lucharon en su bando: a pesar de su comportamiento honorable, no dejan de ser Arcadianos y no se puede confiar en ellos. Muchos insisten en vigilar las reencarnaciones de antiguos compañeros de cuadrilla y compañeros de armas para reclutarlos para la causa desde el primer momento. Públicamente, la VOGT es una organización humanitaria con una reputación tan admirable que por lo general ni los tradicionalistas más estirados pueden encontrar nada negativo que decir; en consecuencia, sus miembros tienden a ocupar buenas posiciones en la sociedad de los Kithain. La cara pública de la VOGT es la General Dama Varda Grimmrmund , del Primero de Trolls Plebeyos (retirada), una vieja soldado de una probidad tan firme y un honor tan intachable que ninguno de los propios miembros de la sociedad sospecha que dirija anónimamente los planes de los insatisfechos para aniquilar a los usurpadores Arcadianos. En su empeño recibe apoyo de: - ¶ Doctor Ethaine Dhennin , un psicoterapeuta Sluagh y maestro de las Nieblas y su manipulación. - ¶ Maggie Negra Dalziel , la reencarnación más reciente de una brutal asesina Redcap cuyos crímenes todavía hacen que los Sidhe Arcadianos de todo Concordia sientan escalofríos. - ¶ Valravn , el sombrío y cambiaformas Sidhe de Otoño jefe de los espías de la organización. · La VOGT disfruta de una excelente reputación por el trabajo que realiza ayudando y reconfortando a los veteranos quebrantados de la Guerra del Tratado; en consecuencia, sus miembros tienden a poseer buenas reputaciones en sus comunidades, lo que los descontentos usan como escudo contra las sospechas respecto a sus actividades menos agradables.",
+    "tags": [
+      "sociedad-secreta"
+    ],
+    "mechanics": {
+      "membership": "Los Veteranos de Otoño de la Guerra del Tratado son exactamente lo que su nombre indica: una organización compuesta en su totalidad por Kithain de Otoño que tomaron parte en la Guerra del Tratado. Excluyen expresamente a los pocos Sidhe Arcadianos que lucharon en su bando: a pesar de su comportamiento honorable, no dejan de ser Arcadianos y no se puede confiar en ellos. Muchos insisten en vigilar las reencarnaciones de antiguos compañeros de cuadrilla y compañeros de armas para reclutarlos para la causa desde el primer momento. Públicamente, la VOGT es una organización humanitaria con una reputación tan admirable que por lo general ni los tradicionalistas más estirados pueden encontrar nada negativo que decir; en consecuencia, sus miembros tienden a ocupar buenas posiciones en la sociedad de los Kithain. La cara pública de la VOGT es la General Dama Varda Grimmrmund , del Primero de Trolls Plebeyos (retirada), una vieja soldado de una probidad tan firme y un honor tan intachable que ninguno de los propios miembros de la sociedad sospecha que dirija anónimamente los planes de los insatisfechos para aniquilar a los usurpadores Arcadianos. En su empeño recibe apoyo de: - ¶ Doctor Ethaine Dhennin , un psicoterapeuta Sluagh y maestro de las Nieblas y su manipulación. - ¶ Maggie Negra Dalziel , la reencarnación más reciente de una brutal asesina Redcap cuyos crímenes todavía hacen que los Sidhe Arcadianos de todo Concordia sientan escalofríos. - ¶ Valravn , el sombrío y cambiaformas Sidhe de Otoño jefe de los espías de la organización.",
+      "rites": "La VOGT convoca una «reunión» anual en el Hogar del Guerrero durante los meses de verano que atrae a veteranos de la Guerra del Tratado de toda Concordia para que acampen bajo las estrellas, revivan glorias pasadas alrededor de los fuegos y coman los productos de una docena de ferias de agricultura en las barbacoas. Los miembros radicales también intercambian información, reciben nuevas órdenes e introducen a miembros recién reencarnados al grupo. <!-- image -->",
+      "boon": "La VOGT disfruta de una excelente reputación por el trabajo que realiza ayudando y reconfortando a los veteranos quebrantados de la Guerra del Tratado; en consecuencia, sus miembros tienden a poseer buenas reputaciones en sus comunidades, lo que los descontentos usan como escudo contra las sospechas respecto a sus actividades menos agradables.",
+      "ban": "Los miembros de la VOGT han jurado ayudar a sus compañeros veteranos, pase lo que pase. Aunque no estén de acuerdo con ellos, ayudarán a otros miembros necesitados… un juramento que será puesto a prueba en serio cuando los descontentos lancen su ataque. Los miembros radicales de la VOGT van más allá y hacen juramentos de sangre de secretismo y venganza contra todo el Linaje Sidhe. No pueden rendirse cuando luchan contra un oponente Arcadiano ni ofrecer cuartel o piedad a un Sidhe Arcadiano caído para no romper su Juramento y poner a prueba la justicia del Ensueño.",
+      "recruitment": "La VOGT sólo está abierta a Kithain de Otoño que lucharon en la Guerra del Tratado en su encarnación actual o una anterior. Los miembros de la familia o compañeros de juramentos son bienvenidos en ciertos eventos «abiertos», como parrilladas informales o las noches de la siempre popular liga de bolos, e incluso hay algunas reuniones cuidadosamente planificadas aptas para mortales en comunidades donde es posible hacer los arreglos necesarios sin levantar sospechas. Sin embargo, muchas otras actividades son exclusivamente para miembros. Los descontentos de la organización, versados en conceptos como seguridad operacional e información compartimentada, reclutan discretamente y con extrema cautela. Sondean a los posibles candidatos durante meses o años. Son muy conscientes de que un solo tropiezo o recluta mal elegido pueden sacar a la luz todos sus planes y atraer la ira de los Arcadianos sobre ellos. Requisitos mecánicos: Los miembros tienen inclinación hacia las artes marciales y, en particular, enseñan los fundamentos de la Ira del Dragón a todos sus miembros, jóvenes y viejos. Prefieren los Atributos Físicos y Mentales, y Técnicas, Talentos y Conocimientos de combate y engaño."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "veteranos-de-otono-de-la-guerra-del-tratado",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "ban": "Los miembros de la VOGT han jurado ayudar a sus compañeros veteranos, pase lo que pase. Aunque no estén de acuerdo con ellos, ayudarán a otros miembros necesitados… un juramento que será puesto a prueba en serio cuando los descontentos lancen su ataque. Los miembros radicales de la VOGT van más allá y hacen juramentos de sangre de secretismo y <a href=\"/changeling/flaws/venganza\">venganza</a> contra todo el Linaje Sidhe. No pueden rendirse cuando luchan contra un oponente Arcadiano ni ofrecer cuartel o piedad a un Sidhe Arcadiano caído para no romper su Juramento y poner a prueba la justicia del Ensueño."
+    }
+  },
+  {
+    "id": "los-caminantes-del-camino-blanco",
+    "type": "secret-society",
+    "line": "changeling",
+    "name_en": "Los Caminantes del Camino Blanco",
+    "name_es": "Los Caminantes del Camino Blanco",
+    "body_es": "Sólo los Nunnehi pueden convertirse en Caminantes del Camino Blanco. En los últimos años, hay quienes han defendido que podría ser deseable abrir la membresía a Kithain plebeyos y nobles que simpaticen con los Nunnehi o mantengan alianzas activas con ellos (el Jefe Greyhawk de la [Casa Gwydion](/changeling/houses/casa-gwydion) es mencionado a menudo en estas discusiones), pero hasta ahora los sentimientos tradicionalistas han ganado la partida. <!-- image --> Algunos miembros prominentes de los Caminantes son: - ¶ Yanaba Halconblanco , una de las Caminantes en activo más veteranas, una guerrera y líder Kachina conocida por su vasto conocimiento de los muchos peligros del Ensueño, así como por sus conexiones con varios guerreros Kithain a los que ha entrenado en técnicas de caza de monstruos. - ¶ Tsula Anderson , una aclamada erudita de los Caminantes, una etnolingüista y antropóloga de una pequeña universidad de Oklahoma cuyos esfuerzos a la hora de preservar lenguajes nativos en peligro hace que los cantahistorias Nanehi la tengan en alta estima. - ¶ Lupe Delgado , una diplomática Surem enviada a la corte del Jefe Greyhawk, una de las mayores defensoras de implicarse más con los Kithain, especialmente dada la preocupante expansión de los Naayéé hacia territorios antes seguros. - ¶ Mahica , una prometedora líder guerrera de los Gigantes de Roca que quedó señalada como Caminante renacida cuando se enfrentó a un terrible monstruo y recuperó un Tesoro perdido durante el transcurso del combate. · Todos los miembros de los Caminantes disponen de un Tesoro como ayuda en sus esfuerzos: un arma, un elemento de armadura, ropa, joyería u otro tipo de [objeto](/changeling/realms/prop) de al menos tres puntos. Mientras vivan, éste no podrá separarse de ellos durante mucho tiempo, ya que siempre volverá a sus manos. El Tesoro puede ser heredado, una posesión de una encarnación anterior, o uno nuevo y hecho ex profeso .",
+    "tags": [
+      "sociedad-secreta"
+    ],
+    "mechanics": {
+      "membership": "Sólo los Nunnehi pueden convertirse en Caminantes del Camino Blanco. En los últimos años, hay quienes han defendido que podría ser deseable abrir la membresía a Kithain plebeyos y nobles que simpaticen con los Nunnehi o mantengan alianzas activas con ellos (el Jefe Greyhawk de la Casa Gwydion es mencionado a menudo en estas discusiones), pero hasta ahora los sentimientos tradicionalistas han ganado la partida. <!-- image --> Algunos miembros prominentes de los Caminantes son: - ¶ Yanaba Halconblanco , una de las Caminantes en activo más veteranas, una guerrera y líder Kachina conocida por su vasto conocimiento de los muchos peligros del Ensueño, así como por sus conexiones con varios guerreros Kithain a los que ha entrenado en técnicas de caza de monstruos. - ¶ Tsula Anderson , una aclamada erudita de los Caminantes, una etnolingüista y antropóloga de una pequeña universidad de Oklahoma cuyos esfuerzos a la hora de preservar lenguajes nativos en peligro hace que los cantahistorias Nanehi la tengan en alta estima. - ¶ Lupe Delgado , una diplomática Surem enviada a la corte del Jefe Greyhawk, una de las mayores defensoras de implicarse más con los Kithain, especialmente dada la preocupante expansión de los Naayéé hacia territorios antes seguros. - ¶ Mahica , una prometedora líder guerrera de los Gigantes de Roca que quedó señalada como Caminante renacida cuando se enfrentó a un terrible monstruo y recuperó un Tesoro perdido durante el transcurso del combate.",
+      "rites": "Los Caminantes se reúnen dos veces al año en su Logia, Corazón Escondido, localizada en las Colinas Negras, para intercambiar información, contar historias, disfrutar del compañerismo e introducir nuevos miembros al grupo. Estas reuniones a menudo incluyen canciones y danzas tradicionales, banquetes y la impartición de bendiciones a los participantes.",
+      "boon": "Todos los miembros de los Caminantes disponen de un Tesoro como ayuda en sus esfuerzos: un arma, un elemento de armadura, ropa, joyería u otro tipo de objeto de al menos tres puntos. Mientras vivan, éste no podrá separarse de ellos durante mucho tiempo, ya que siempre volverá a sus manos. El Tesoro puede ser heredado, una posesión de una encarnación anterior, o uno nuevo y hecho ex profeso .",
+      "ban": "Los Caminantes no pueden rechazar una petición de encontrar algo o a alguien que se haya perdido, reparar algo que se ha roto o luchar una batalla que debe lucharse. Hacerlo los convierte en perjuros a ojos del Ensueño hasta que pueden resarcir su error.",
+      "recruitment": "Los Caminantes están abiertos a cualquier Nunnehi que esté dispuesto a hacer su juramento y a arrostrar los peligros asociados con sus objetivos. Está expresamente prohibido que los Kithain occidentales sean miembros de la organización, aunque no se impide que Caminantes individuales se relacionen con Kithain de mentalidad similar que tengan objetivos parecidos. Muchos Caminantes han prestado servicio durante más de una vida y se espera que continúen haciéndolo, ya que sus antiguos Tesoros los buscan y los devuelven al redil. <!-- image --> <!-- image --> Requisitos mecánicos: Los Caminantes proceden de todas las tribus y Campamentos y poseen cualquier combinación posible de Artes y Reinos. En términos de Trasfondos, siempre poseen Tesoro 3 (o más) y muchos también tienen Visión 3 (o más). Tienden a preferir los Atributos Mentales y Físicos y las Técnicas y los Conocimientos, especialmente los relacionados con el combate, la supervivencia y el conocimiento del Ensueño."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-guia-del-jugador",
+        "book_title_es": "Changelling el ensueño - Guia del jugador",
+        "page": null,
+        "section_anchor": "los-caminantes-del-camino-blanco",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "membership": "Sólo los Nunnehi pueden convertirse en Caminantes del Camino Blanco. En los últimos años, hay quienes han defendido que podría ser deseable abrir la membresía a Kithain plebeyos y nobles que simpaticen con los Nunnehi o mantengan alianzas activas con ellos (el Jefe Greyhawk de la <a href=\"/changeling/houses/casa-gwydion\">Casa Gwydion</a> es mencionado a menudo en estas discusiones), pero hasta ahora los sentimientos tradicionalistas han ganado la partida. &lt;!-- image --&gt; Algunos miembros prominentes de los Caminantes son: - ¶ Yanaba Halconblanco , una de las Caminantes en activo más veteranas, una guerrera y líder Kachina conocida por su vasto conocimiento de los muchos peligros del Ensueño, así como por sus conexiones con varios guerreros Kithain a los que ha entrenado en técnicas de caza de monstruos. - ¶ Tsula Anderson , una aclamada erudita de los Caminantes, una etnolingüista y antropóloga de una pequeña universidad de Oklahoma cuyos esfuerzos a la hora de preservar lenguajes nativos en peligro hace que los cantahistorias Nanehi la tengan en alta estima. - ¶ Lupe Delgado , una diplomática Surem enviada a la corte del Jefe Greyhawk, una de las mayores defensoras de implicarse más con los Kithain, especialmente dada la preocupante expansión de los Naayéé hacia territorios antes seguros. - ¶ Mahica , una prometedora líder guerrera de los Gigantes de Roca que quedó señalada como Caminante renacida cuando se enfrentó a un terrible monstruo y recuperó un Tesoro perdido durante el transcurso del combate.",
+      "boon": "Todos los miembros de los Caminantes disponen de un Tesoro como ayuda en sus esfuerzos: un arma, un elemento de armadura, ropa, joyería u otro tipo de <a href=\"/changeling/realms/prop\">objeto</a> de al menos tres puntos. Mientras vivan, éste no podrá separarse de ellos durante mucho tiempo, ya que siempre volverá a sus manos. El Tesoro puede ser heredado, una posesión de una encarnación anterior, o uno nuevo y hecho ex profeso ."
+    }
+  },
+  {
     "id": "sea-foam-shawl",
     "type": "treasure",
     "line": "changeling",
@@ -212,7 +959,7 @@
     "line": "changeling",
     "name_en": "Wyvern-Hide Apron",
     "name_es": "Delantal de piel de guiverno",
-    "body_es": "El delantal de piel de guiverno, que brilla ligeramente por los bordes como si ardiese gentilmente, es uno de los objetos más útiles en el taller de un artesano. Incluso los individuos más desorganizados y caóticos pueden mantener sus herramientas más importantes con su ayuda. Cualquier herramienta rota o desafilada que se guarde en sus bolsillos vuelve a quedar en perfectas condiciones, y cualquier cosa que se pierda o caiga en el taller del artesano puede encontrarse luego en él.\n\nMecánica: Por cada punto del delantal, se puede armonizar con él una herramienta o arma. Si el [objeto](/changeling/realms/prop) se pierde o se rompe, puede encontrarse de nuevo en perfecto estado dentro del delantal en 5 días menos un día por punto del [objeto](/changeling/realms/prop).",
+    "body_es": "El delantal de piel de guiverno, que brilla ligeramente por los bordes como si ardiese gentilmente, es uno de los objetos más útiles en el taller de un [artesano](/changeling/legacys/artesano). Incluso los individuos más desorganizados y caóticos pueden mantener sus herramientas más importantes con su ayuda. Cualquier herramienta rota o desafilada que se guarde en sus bolsillos vuelve a quedar en perfectas condiciones, y cualquier cosa que se pierda o caiga en el taller del [artesano](/changeling/legacys/artesano) puede encontrarse luego en él.\n\nMecánica: Por cada punto del delantal, se puede armonizar con él una herramienta o arma. Si el [objeto](/changeling/realms/prop) se pierde o se rompe, puede encontrarse de nuevo en perfecto estado dentro del delantal en 5 días menos un día por punto del [objeto](/changeling/realms/prop).",
     "tags": [
       "velo",
       "accesorio",
@@ -268,7 +1015,7 @@
     "line": "changeling",
     "name_en": "Shadowwool Overcoat",
     "name_es": "Sobretodo de lanasombra",
-    "body_es": "Esta prenda que cambia lentamente, un abrigo de viajero, no termina del todo tanto como parece fundirse con su entorno. Su color fluye entre turbios tonos de azul, marrón o negro, lo mejor para pasar desapercibido sin problema con entornos oscuros. Aunque abultado, es cómodo de llevar en cualquier clima y tiene un cuello alto que oculta la mitad inferior de la cara.\n\nMecánica: El portador gana una bonificación de +3 a todas las tiradas de Sigilo hechas de noche o en zonas sombrías. Si lleva subido el cuello, también puede gastar 1 punto de Fuerza de Voluntad para evitar que alguien le reconozca o recuerde su cara.",
+    "body_es": "Esta prenda que cambia lentamente, un abrigo de [viajero](/changeling/legacys/viajero), no termina del todo tanto como parece fundirse con su entorno. Su color fluye entre turbios tonos de azul, marrón o negro, lo mejor para pasar desapercibido sin problema con entornos oscuros. Aunque abultado, es cómodo de llevar en cualquier clima y tiene un cuello alto que oculta la mitad inferior de la cara.\n\nMecánica: El portador gana una bonificación de +3 a todas las tiradas de Sigilo hechas de noche o en zonas sombrías. Si lleva subido el cuello, también puede gastar 1 punto de Fuerza de Voluntad para evitar que alguien le reconozca o recuerde su cara.",
     "tags": [
       "velo",
       "vestimenta",
@@ -355,7 +1102,7 @@
     "line": "changeling",
     "name_en": "Ashcloth Shirt",
     "name_es": "Camisa de telaceniza",
-    "body_es": "La camisa de telaceniza, cálida al tacto e imposiblemente fina, está hecha con los restos del fuego de un herrero. De forma similar a como un artesano firma su obra, la camisa puede marcar las posesiones de su propietario y asegurarse de que nunca estén lejos de su alcance.\n\nMecánica: Por cada punto de la camisa, puede marcar un [objeto](/changeling/realms/prop). Si se supera una tirada de Gremayre a dificultad 6, el portador puede localizar cualquier [objeto](/changeling/realms/prop) perdido que haya sido marcado por la ceniza de la camisa. Si gasta 1 punto de Glamour, también puede determinar cómo se perdió. Si el [objeto](/changeling/realms/prop) fue robado, un punto adicional de Glamour le dice por quién.",
+    "body_es": "La camisa de telaceniza, cálida al tacto e imposiblemente fina, está hecha con los restos del fuego de un herrero. De forma similar a como un [artesano](/changeling/legacys/artesano) firma su obra, la camisa puede marcar las posesiones de su propietario y asegurarse de que nunca estén lejos de su alcance.\n\nMecánica: Por cada punto de la camisa, puede marcar un [objeto](/changeling/realms/prop). Si se supera una tirada de Gremayre a dificultad 6, el portador puede localizar cualquier [objeto](/changeling/realms/prop) perdido que haya sido marcado por la ceniza de la camisa. Si gasta 1 punto de Glamour, también puede determinar cómo se perdió. Si el [objeto](/changeling/realms/prop) fue robado, un punto adicional de Glamour le dice por quién.",
     "tags": [
       "velo",
       "vestimenta",
@@ -653,7 +1400,7 @@
     "line": "changeling",
     "name_en": "Narcissa's Identifier",
     "name_es": "Identificador de Narcissa",
-    "body_es": "La destreza en el Arte Nombrar de Lady Narcissa, una de las Sidhe que lideró antaño la Casa Leanhaun, se transmitió al collar que llevaba, una ornada pieza de delicada agua de lluvia y rayos de sol hechos corpóreos y adornados con humo sólido. Adopta cualquier nombre que su portador dé como propio, alterándose conforme cambia de manos.\n\nMecánica: En lugar de gastar Glamour, el portador del identificador puede gastar 1 punto de Fuerza de Voluntad para imbuir a su objetivo con un Apodo (Nombrar ··). Debe ser capaz de ver a su objetivo, pero no necesita interactuar con él directamente. Aunque su poder de Nombrar es algo limitado, la leyenda de Lady Narcissa sigue teniendo influencia en la alta sociedad. Gastando 1 punto de Glamour, un changeling en posesión del identificador puede declarar que una actividad o individuo están de moda. Durante el resto de la [escena](/changeling/realms/scene), el objetivo de esta habilidad o la actividad se consideran aceptables o incluso recomendables; sin embargo, después, las consecuencias de cualquier acción llevada a cabo pueden pasar factura a cualquiera que participase.\n\nLa dificultad de activar este poder queda determinada por el objetivo; declarar que la violencia está de moda es sustancialmente más difícil que declarar popular a un músico que no lo es. Cada punto adicional de Glamour gastado permite al changeling ampliar la duración del efecto una [escena](/changeling/realms/scene) más o tratar de tener un objetivo adicional.",
+    "body_es": "La destreza en el Arte Nombrar de Lady Narcissa, una de las Sidhe que lideró antaño la [Casa Leanhaun](/changeling/houses/casa-leanhaun), se transmitió al collar que llevaba, una ornada pieza de delicada agua de lluvia y rayos de sol hechos corpóreos y adornados con humo sólido. Adopta cualquier nombre que su portador dé como propio, alterándose conforme cambia de manos.\n\nMecánica: En lugar de gastar Glamour, el portador del identificador puede gastar 1 punto de Fuerza de Voluntad para imbuir a su objetivo con un Apodo (Nombrar ··). Debe ser capaz de ver a su objetivo, pero no necesita interactuar con él directamente. Aunque su poder de Nombrar es algo limitado, la leyenda de Lady Narcissa sigue teniendo influencia en la alta sociedad. Gastando 1 punto de Glamour, un changeling en posesión del identificador puede declarar que una actividad o individuo están de moda. Durante el resto de la [escena](/changeling/realms/scene), el objetivo de esta habilidad o la actividad se consideran aceptables o incluso recomendables; sin embargo, después, las consecuencias de cualquier acción llevada a cabo pueden pasar factura a cualquiera que participase.\n\nLa dificultad de activar este poder queda determinada por el objetivo; declarar que la violencia está de moda es sustancialmente más difícil que declarar popular a un músico que no lo es. Cada punto adicional de Glamour gastado permite al changeling ampliar la duración del efecto una [escena](/changeling/realms/scene) más o tratar de tener un objetivo adicional.",
     "tags": [
       "tesoro",
       "objeto-unico"
@@ -890,7 +1637,7 @@
     "line": "changeling",
     "name_en": "Infusion",
     "name_es": "Infusión",
-    "body_es": "Con suficiente entrenamiento y materiales, cualquier changeling puede, en potencia, crear toda clase de maravillas quiméricas o incluso forjar Tesoros sorprendentes, pero los que ahondan en la magia de Infusión aprenden cómo manipular la [naturaleza](/changeling/realms/nature) misma de tales objetos de formas que hacen que incluso los artesanos veteranos se sienten y tomen nota. Como dirían los Nockers que fueron pioneros en esta Arte, aprender Infusión no hará de ti un mejor artesano, pero dominar siquiera algunos de sus cantrips básicos abre una gran variedad de opciones y atajos de los que otros artesanos sencillamente carecen. En sus niveles superiores, Infusión permite a un changeling almacenar el preciado Glamour para usarlo más tarde, transformar objetos con un toque e incluso crear vida quimérica consciente.\n\nLos Nockers guardaron celosamente el conocimiento de esta Arte durante siglos hasta que las exigencias de la supervivencia durante los largos años del Interregno finalmente les llevó a compartir al menos algunos de sus secretos con otros artesanos, especialmente Boggans y los Sidhe de Otoño de la Casa Dougal cuya honradez estaba más allá de toda duda. Los Nockers desprecian terriblemente a cualquiera que sugiera que un Arte pudiera ser inherentemente Luminosa u Oscura, así que esta Arte se usa libremente por miembros de ambas Cortes.\n\nAtributo: Inteligencia.",
+    "body_es": "Con suficiente entrenamiento y materiales, cualquier changeling puede, en potencia, crear toda clase de maravillas quiméricas o incluso forjar Tesoros sorprendentes, pero los que ahondan en la magia de Infusión aprenden cómo manipular la [naturaleza](/changeling/realms/nature) misma de tales objetos de formas que hacen que incluso los artesanos veteranos se sienten y tomen nota. Como dirían los Nockers que fueron pioneros en esta Arte, aprender Infusión no hará de ti un mejor [artesano](/changeling/legacys/artesano), pero dominar siquiera algunos de sus cantrips básicos abre una gran variedad de opciones y atajos de los que otros artesanos sencillamente carecen. En sus niveles superiores, Infusión permite a un changeling almacenar el preciado Glamour para usarlo más tarde, transformar objetos con un toque e incluso crear vida quimérica consciente.\n\nLos Nockers guardaron celosamente el conocimiento de esta Arte durante siglos hasta que las exigencias de la supervivencia durante los largos años del Interregno finalmente les llevó a compartir al menos algunos de sus secretos con otros artesanos, especialmente Boggans y los Sidhe de Otoño de la [Casa Dougal](/changeling/houses/casa-dougal) cuya honradez estaba más allá de toda duda. Los Nockers desprecian terriblemente a cualquiera que sugiera que un Arte pudiera ser inherentemente Luminosa u Oscura, así que esta Arte se usa libremente por miembros de ambas Cortes.\n\nAtributo: Inteligencia.",
     "tags": [
       "arte",
       "nueva-arte",
@@ -952,7 +1699,7 @@
     "line": "changeling",
     "name_en": "Make It Work",
     "name_es": "Hazlo Funcionar",
-    "body_es": "Los expertos en [Infusión](/changeling/arts/infusion) tienen reputación de ser capaces de trabajar más rápido y de forma más eficiente que cualquier otro artesano changeling, y este cantrip es la principal razón. Al recurrir a la [naturaleza](/changeling/realms/nature) fundamentalmente maleable de las quimeras y las interminables posibilidades del Glamour, pueden reparar objetos rotos o remodelarlos por completo en un instante. Un practicante hábil puede incluso realizar cambios en quimeras vivas, aunque éstos son mucho más difíciles que trabajar con objetos.\n\nSistema: El conjurador toca a la quimera o el Tesoro que desea reparar o remodelar; no son necesarias las herramientas apropiadas, pero reducen la dificultad del cantrip en 1. Para florituras de estilo como cambios de color, cambios menores de tamaño y otros retoques cosméticos, se requiere un número de éxitos igual al nivel del [objeto](/changeling/realms/prop) (mínimo uno). Todos los poderes y cualidades del [objeto](/changeling/realms/prop) permanecen inalterables, incluyendo cualquier requisito de activación u otras limitaciones. Además, el [objeto](/changeling/realms/prop) aún ha de ser capaz de cumplir razonablemente con su papel o el Narrador puede determinar que el cantrip simplemente falla. Por ejemplo, un espadón podría sufrir cambios en el aspecto del metal o el estilo de la empuñadura, o incluso añadir arañas quiméricas cosméticas que correteen por la hoja cuando se desenvaine, pero no podría reducirse al tamaño de una espada ancha ya que no es un cambio cosmético.\n\nHacer reparaciones con este cantrip repara 1 nivel de daño por éxito y el conjurador puede gastar puntos de Glamour adicionales para reparar más daño a razón de punto por nivel. Si no está claro cuánta reparación requiere un [objeto](/changeling/realms/prop), por ejemplo, si tu capa favorita ha terminado desgarrada y quemada durante la historia, pero no ha sido objetivo específicamente de un daño numérico, opta por el nivel del objetivo (mínimo uno).\n\nAunque es más exigente, e incrementa la dificultad del cantrip en al menos 1, este cantrip puede usarse también para cambiar el aspecto de criaturas quiméricas así como para sanarlas. Para quimeras no conscientes amistosas, el changeling simplemente debe obtener tantos éxitos como el nivel de la quimera (mínimo uno), mientras que las quimeras conscientes requieren tantos éxitos como su puntuación de Glamour (lo que puede requerir múltiples cantrips). Las quimeras conscientes han de consentir al proceso, y en ningún caso se puede transformar a los seres quiméricos de forma perjudicial o dolorosa. La sanación de quimeras funciona de la misma forma que la reparación de objetos, pero no puede usarse sobre la misma quimera más de una vez por [escena](/changeling/realms/scene).\n\nDebería señalarse que, aunque potente, este cantrip no puede usarse sobre criaturas hostiles, o sobre ningún [objeto](/changeling/realms/prop) sin el consentimiento consciente de su propietario por derecho.\n\nTipo: Quimérico (de Fantasía para Tesoros).",
+    "body_es": "Los expertos en [Infusión](/changeling/arts/infusion) tienen reputación de ser capaces de trabajar más rápido y de forma más eficiente que cualquier otro [artesano](/changeling/legacys/artesano) changeling, y este cantrip es la principal razón. Al recurrir a la [naturaleza](/changeling/realms/nature) fundamentalmente maleable de las quimeras y las interminables posibilidades del Glamour, pueden reparar objetos rotos o remodelarlos por completo en un instante. Un practicante hábil puede incluso realizar cambios en quimeras vivas, aunque éstos son mucho más difíciles que trabajar con objetos.\n\nSistema: El conjurador toca a la quimera o el Tesoro que desea reparar o remodelar; no son necesarias las herramientas apropiadas, pero reducen la dificultad del cantrip en 1. Para florituras de estilo como cambios de color, cambios menores de tamaño y otros retoques cosméticos, se requiere un número de éxitos igual al nivel del [objeto](/changeling/realms/prop) (mínimo uno). Todos los poderes y cualidades del [objeto](/changeling/realms/prop) permanecen inalterables, incluyendo cualquier requisito de activación u otras limitaciones. Además, el [objeto](/changeling/realms/prop) aún ha de ser capaz de cumplir razonablemente con su papel o el Narrador puede determinar que el cantrip simplemente falla. Por ejemplo, un espadón podría sufrir cambios en el aspecto del metal o el estilo de la empuñadura, o incluso añadir arañas quiméricas cosméticas que correteen por la hoja cuando se desenvaine, pero no podría reducirse al tamaño de una espada ancha ya que no es un cambio cosmético.\n\nHacer reparaciones con este cantrip repara 1 nivel de daño por éxito y el conjurador puede gastar puntos de Glamour adicionales para reparar más daño a razón de punto por nivel. Si no está claro cuánta reparación requiere un [objeto](/changeling/realms/prop), por ejemplo, si tu capa favorita ha terminado desgarrada y quemada durante la historia, pero no ha sido objetivo específicamente de un daño numérico, opta por el nivel del objetivo (mínimo uno).\n\nAunque es más exigente, e incrementa la dificultad del cantrip en al menos 1, este cantrip puede usarse también para cambiar el aspecto de criaturas quiméricas así como para sanarlas. Para quimeras no conscientes amistosas, el changeling simplemente debe obtener tantos éxitos como el nivel de la quimera (mínimo uno), mientras que las quimeras conscientes requieren tantos éxitos como su puntuación de Glamour (lo que puede requerir múltiples cantrips). Las quimeras conscientes han de consentir al proceso, y en ningún caso se puede transformar a los seres quiméricos de forma perjudicial o dolorosa. La sanación de quimeras funciona de la misma forma que la reparación de objetos, pero no puede usarse sobre la misma quimera más de una vez por [escena](/changeling/realms/scene).\n\nDebería señalarse que, aunque potente, este cantrip no puede usarse sobre criaturas hostiles, o sobre ningún [objeto](/changeling/realms/prop) sin el consentimiento consciente de su propietario por derecho.\n\nTipo: Quimérico (de Fantasía para Tesoros).",
     "tags": [
       "cantrip",
       "infusion"
@@ -1112,7 +1859,7 @@
     "line": "changeling",
     "name_en": "Twice-Told Tales",
     "name_es": "Cuentos Dos Veces Contados",
-    "body_es": "Cuentos Dos Veces Contados concede al changeling acceso a rumores, relatos populares, leyendas urbanas, cotilleos, cuentos fantásticos, historias familiares y otras «verdades no oficiales» acerca del objetivo de su cantrip. El conjurador puede nombrar un área de interés general, como romance o escándalo, o simplemente dejar que sus historias esenciales más famosas (o infames) sean las primeras en salir a la luz. Los usos subsiguientes de este cantrip revelan información cada vez menos conocida, o simplemente fallan si no hay historias aplicables. Este cantrip también requiere que las historias hayan sido contadas en alguna clase de lugar público; un verdadero secreto que nadie conoce o un tema del que nunca se habla no saldrá a la luz con este cantrip.\n\nAunque este cantrip podría parecer muy similar a Mirada Atrás, ese Poder revela lo que realmente pasó en el pasado, mientras que este cantrip relata historias asociadas con un objetivo, incluso aquéllas basadas en hechos que aún están probablemente distorsionados o exagerados en comparación con la verdadera realidad de la situación.\n\nSistema: El Reino usado determina el tema sobre el que el changeling aprende historias. [Actor](/changeling/realms/actor) revelaría historias sobre un mortal o Pródigo concretos, por ejemplo, mientras que [Naturaleza](/changeling/realms/nature) proporcionaría relatos de la vida salvaje local. Se aprende una historia por éxito, aunque el Narrador puede determinar que un tema concreto queda agotado tras cierto punto, en cuyo caso el changeling es consciente de que no hay más relatos que aprender.\n\nTipo: Quimérico.",
+    "body_es": "Cuentos Dos Veces Contados concede al changeling acceso a rumores, relatos populares, leyendas urbanas, cotilleos, cuentos fantásticos, historias familiares y otras «verdades no oficiales» acerca del objetivo de su cantrip. El conjurador puede nombrar un área de interés general, como romance o escándalo, o simplemente dejar que sus historias esenciales más famosas (o infames) sean las primeras en salir a la luz. Los usos subsiguientes de este cantrip revelan información cada vez menos conocida, o simplemente fallan si no hay historias aplicables. Este cantrip también requiere que las historias hayan sido contadas en alguna clase de lugar público; un verdadero secreto que nadie conoce o un tema del que nunca se habla no saldrá a la luz con este cantrip.\n\nAunque este cantrip podría parecer muy similar a Mirada Atrás, ese Poder revela lo que realmente pasó en el pasado, mientras que este cantrip relata historias asociadas con un objetivo, incluso aquéllas basadas en hechos que aún están probablemente distorsionados o exagerados en comparación con la verdadera realidad de la situación.\n\nSistema: El Reino usado determina el tema sobre el que el changeling aprende historias. [Actor](/changeling/realms/actor) revelaría historias sobre un mortal o Pródigo concretos, por ejemplo, mientras que [Naturaleza](/changeling/realms/nature) proporcionaría relatos de la vida [salvaje](/changeling/legacys/salvaje) local. Se aprende una historia por éxito, aunque el Narrador puede determinar que un tema concreto queda agotado tras cierto punto, en cuyo caso el changeling es consciente de que no hay más relatos que aprender.\n\nTipo: Quimérico.",
     "tags": [
       "cantrip",
       "narration"
@@ -1311,7 +2058,7 @@
         "<a href=\"/changeling/realms/scene\">Escena</a> (para afectar a más de un changeling)",
         "Tiempo (debe establecerse la activación antes de que acabe la Cacería)"
       ],
-      "notes": "Resistirse con éxito y el gasto de Fuerza de Voluntad funcionan como en el cantrip <a href=\"/changeling/cantrips/dictum\">Dictum</a>. Sólo disponible para el Cazador que dirige la Cacería Salvaje mientras ésta dura."
+      "notes": "Resistirse con éxito y el gasto de Fuerza de Voluntad funcionan como en el cantrip <a href=\"/changeling/cantrips/dictum\">Dictum</a>. Sólo disponible para el Cazador que dirige la Cacería <a href=\"/changeling/legacys/salvaje\">Salvaje</a> mientras ésta dura."
     }
   },
   {
@@ -2398,7 +3145,7 @@
     "line": "changeling",
     "name_en": "Espíritu Mentor",
     "name_es": "Espíritu Mentor",
-    "body_es": "Tienes un compañero y guía fantasmal. Este espíritu es capaz de emplear una cantidad de poderes menores cuando realmente se toma la molestia (ver [Embrujado](/changeling/flaws/embrujado) , más abajo), pero la mayor parte del tiempo te ayuda con sus consejos. Este fantasma es el espíritu incorpóreo de alguien que estuvo vivo en una ocasión, quizá de alguien particularmente famoso o sabio. El Narrador creará al personaje fantasma, pero no te revelará sus poderes y potencias reales. Los mentores de este tipo no son mentores de Artes, pero pueden aportar puntos de vista especiales sobre la vida mortal que los changeling han olvidado o equivocado. (Pueden obtenerse mayores ideas para este Mérito en Wraith: El Olvido ).",
+    "body_es": "Tienes un compañero y guía fantasmal. Este espíritu es capaz de emplear una cantidad de poderes menores cuando realmente se toma la molestia (ver [Embrujado](/changeling/flaws/embrujado) , más abajo), pero la mayor parte del tiempo te ayuda con sus consejos. Este fantasma es el espíritu incorpóreo de alguien que estuvo vivo en una ocasión, quizá de alguien particularmente famoso o [sabio](/changeling/legacys/sabio). El Narrador creará al personaje fantasma, pero no te revelará sus poderes y potencias reales. Los mentores de este tipo no son mentores de Artes, pero pueden aportar puntos de vista especiales sobre la vida mortal que los changeling han olvidado o equivocado. (Pueden obtenerse mayores ideas para este Mérito en Wraith: El Olvido ).",
     "tags": [],
     "mechanics": {
       "cost": "3"
@@ -3410,7 +4157,7 @@
     "line": "changeling",
     "name_en": "Manco",
     "name_es": "Manco",
-    "body_es": "Tienes un solo brazo - escoge cual, o determínalo al azar en la creación de personaje. Puede ser una cicatriz de guerra, defecto de nacimiento u otro tipo de herida. Se supone que estás acostumbrado a usar la mano que te queda, por lo que no sufres penalización si es tu zurda. Sin embargo, sufres una penalización de dos dados a todas las Reservas en las que se necesitarían normalmente las dos manos para realizar una tarea. Un personaje no puede coger este Defecto junto con el Mérito [Ambidiestro](/changeling/merits/ambidiestro).\n\nLos sidhe que son miembros de la Casa Dougal no pueden coger esto como su handicap, aunque pueden cogerlo si tienen uno diferente como su Defecto de Casa.",
+    "body_es": "Tienes un solo brazo - escoge cual, o determínalo al azar en la creación de personaje. Puede ser una cicatriz de guerra, defecto de nacimiento u otro tipo de herida. Se supone que estás acostumbrado a usar la mano que te queda, por lo que no sufres penalización si es tu zurda. Sin embargo, sufres una penalización de dos dados a todas las Reservas en las que se necesitarían normalmente las dos manos para realizar una tarea. Un personaje no puede coger este Defecto junto con el Mérito [Ambidiestro](/changeling/merits/ambidiestro).\n\nLos sidhe que son miembros de la [Casa Dougal](/changeling/houses/casa-dougal) no pueden coger esto como su handicap, aunque pueden cogerlo si tienen uno diferente como su Defecto de Casa.",
     "tags": [],
     "mechanics": {
       "bonus": "3"
@@ -3454,7 +4201,7 @@
     "line": "changeling",
     "name_en": "Tullido",
     "name_es": "Tullido",
-    "body_es": "Tus piernas están heridas, o por alguna razón no funcionan correctamente. Sufres dos dados de penalización en todas las tiradas relacionadas con el movimiento. Un personaje no puede coger este Defecto junto con el Mérito [Elástico](/changeling/merits/elastico).\n\nLos sidhe que son miembros de la Casa Dougal no pueden coger esto como su handicap, aunque pueden cogerlo si tienen uno diferente como su Defecto de Casa.",
+    "body_es": "Tus piernas están heridas, o por alguna razón no funcionan correctamente. Sufres dos dados de penalización en todas las tiradas relacionadas con el movimiento. Un personaje no puede coger este Defecto junto con el Mérito [Elástico](/changeling/merits/elastico).\n\nLos sidhe que son miembros de la [Casa Dougal](/changeling/houses/casa-dougal) no pueden coger esto como su handicap, aunque pueden cogerlo si tienen uno diferente como su Defecto de Casa.",
     "tags": [],
     "mechanics": {
       "bonus": "3"
@@ -3476,7 +4223,7 @@
     "line": "changeling",
     "name_en": "Mudo",
     "name_es": "Mudo",
-    "body_es": "Tu aparato vocal no funciona, y no puedes hablar en absoluto. Puedes comunicarte por otros medios - normalmente escribiendo o por señas.\n\nLos sidhe que son miembros de la Casa Dougal no pueden coger esto como su handicap, aunque pueden cogerlo si tienen uno diferente como su Defecto de Casa.",
+    "body_es": "Tu aparato vocal no funciona, y no puedes hablar en absoluto. Puedes comunicarte por otros medios - normalmente escribiendo o por señas.\n\nLos sidhe que son miembros de la [Casa Dougal](/changeling/houses/casa-dougal) no pueden coger esto como su handicap, aunque pueden cogerlo si tienen uno diferente como su Defecto de Casa.",
     "tags": [],
     "mechanics": {
       "bonus": "4"
@@ -3498,7 +4245,7 @@
     "line": "changeling",
     "name_en": "Parapléjico",
     "name_es": "Parapléjico",
-    "body_es": "Te resulta muy difícil moverte sin ayuda, como un par de muletas o una silla de ruedas. Incluso entonces puede ser doloroso y molesto hacerlo. El Narrador y tú debéis aseguraros conjuntamente de interpretar este Defecto correctamente, no importa lo difícil que haga las cosas. Un personaje no puede coger este Defecto junto con el Mérito [Elástico](/changeling/merits/elastico).\n\nLos sidhe que son miembros de la Casa Dougal no pueden coger esto como su handicap, aunque pueden cogerlo si tienen uno diferente como su Defecto de Casa.\n\n1 7 0\n\nChangeling: El Ensueño\n\n<!-- image -->",
+    "body_es": "Te resulta muy difícil moverte sin ayuda, como un par de muletas o una silla de ruedas. Incluso entonces puede ser doloroso y molesto hacerlo. El Narrador y tú debéis aseguraros conjuntamente de interpretar este Defecto correctamente, no importa lo difícil que haga las cosas. Un personaje no puede coger este Defecto junto con el Mérito [Elástico](/changeling/merits/elastico).\n\nLos sidhe que son miembros de la [Casa Dougal](/changeling/houses/casa-dougal) no pueden coger esto como su handicap, aunque pueden cogerlo si tienen uno diferente como su Defecto de Casa.\n\n1 7 0\n\nChangeling: El Ensueño\n\n<!-- image -->",
     "tags": [],
     "mechanics": {
       "bonus": "6"
@@ -3520,7 +4267,7 @@
     "line": "changeling",
     "name_en": "Título",
     "name_es": "Título",
-    "body_es": "Este Rasgo denota la posición de tu personaje en la sociedad feérica. No todos los duendes tienen un título; en realidad, pocos pasan del rango de escuderos, si es que consiguen algún título. El Trasfondo de Título significa poco en cuanto a poder real, pero es la fuente más importante de influencia social. El dominio y la tierra que se otorgan a un noble, queda cubierto de forma separada por el Trasfondo de Dominio, y es bastante posible tener un barón o hasta un duque sin tierras.\n\nUsualmente sólo los sidhe poseen título, aunque es posible para los plebeyos obtenerlo, especialmente los de escudero y caballero. Unos pocos plebeyos poseen títulos superiores, la mayoría otorgados por el Tratado de la Concordia.\n\nz\n\nBásico: Eres un escudero.\n\nz z\n\nMenor: Eres un caballero o dama.\n\n- z z z\n\nÚtil: Eres un barón o baronesa.\n\nz z z z\n\nSignificativo: Eres un conde o condesa.\n\n- z z z z z Increíble: Eres un duque o duquesa.",
+    "body_es": "Este Rasgo denota la posición de tu personaje en la sociedad feérica. No todos los duendes tienen un título; en realidad, pocos pasan del rango de escuderos, si es que consiguen algún título. El Trasfondo de Título significa poco en cuanto a poder real, pero es la fuente más importante de influencia social. El dominio y la tierra que se otorgan a un noble, queda cubierto de forma separada por el Trasfondo de Dominio, y es bastante posible tener un barón o hasta un duque sin tierras.\n\nUsualmente sólo los sidhe poseen título, aunque es posible para los plebeyos obtenerlo, especialmente los de [escudero](/changeling/legacys/escudero) y caballero. Unos pocos plebeyos poseen títulos superiores, la mayoría otorgados por el Tratado de la Concordia.\n\nz\n\nBásico: Eres un [escudero](/changeling/legacys/escudero).\n\nz z\n\nMenor: Eres un caballero o dama.\n\n- z z z\n\nÚtil: Eres un barón o baronesa.\n\nz z z z\n\nSignificativo: Eres un conde o condesa.\n\n- z z z z z Increíble: Eres un duque o duquesa.",
     "tags": [
       "trasfondo"
     ],
@@ -3533,6 +4280,771 @@
         "book_title_es": "Changelling el ensueño - Manual basico",
         "page": null,
         "section_anchor": "titulo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "animador",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Animador",
+    "name_es": "Animador",
+    "body_es": "Adoras ver feliz a la gente, y haces todo lo que puedes para animarles, sea haciendo de casamentero o rellenando copas. Quizás vives a través de las emociones que experimentan otros, o quizá simplemente sientes que los demás necesitan un pequeño empujón. Pasas más tiempo con esto que persiguiendo tus propios intereses y obtienes un enorme placer con ello. Manipulador experto, realizas la mayoría de tu magia detrás del telón, dejando caer pistas o sutiles ánimos.\n\nBúsqueda: Recuperas Fuerza de Voluntad cada vez que haces feliz o diviertes a alguien sin que sepa que has sido tú.\n\nProhibición: Nunca hagas nada que pueda socavar la felicidad de otro.",
+    "tags": [
+      "legado",
+      "seelie"
+    ],
+    "mechanics": {
+      "court_type": "seelie",
+      "quest": "Recuperas Fuerza de Voluntad cada vez que haces feliz o diviertes a alguien sin que sepa que has sido tú.",
+      "ban": "Nunca hagas nada que pueda socavar la felicidad de otro."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "animador",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "artesano",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Artesano",
+    "name_es": "Artesano",
+    "body_es": "El deseo de mejorar las cosas arde con fuerza en tu interior. Lo ves todo en relación a lo que podrías hacer para hacer que funcione mejor. Nada te aporta mayor satisfacción que crear algo hermoso o útil lejos de la fealdad y la inutilidad. Nunca careces de un proyecto de algún tipo, sea una pintura, escultura, una organización, o el entrenamiento y moldeado de un individuo imperfecto. Disfrutas con el proceso, pero no puedes esperar a ver el producto terminado.\n\nBúsqueda: Cada vez que creas algo de valor duradero, recuperas Fuerza de Voluntad.\n\nProhibición: Nunca pierdas la oportunidad de coger algo y mejorarlo de algún modo.",
+    "tags": [
+      "legado",
+      "seelie"
+    ],
+    "mechanics": {
+      "court_type": "seelie",
+      "quest": "Cada vez que creas algo de valor duradero, recuperas Fuerza de Voluntad.",
+      "ban": "Nunca pierdas la oportunidad de coger algo y mejorarlo de algún modo."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "artesano",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "cortesano",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Cortesano",
+    "name_es": "Cortesano",
+    "body_es": "En cierto modo una mariposa social, usas la astucia, el encanto y el flirteo como herramientas para aliviar el ambiente. Vives para las relaciones sociales. Eres un estudioso de la etiqueta y un amante de los bailes, fiestas y reuniones cortesanas. Tu tacto y gracia te sitúan a menudo en la posición de un diplomático. Dado que tu objetivo es la armonía, estás profundamente interesado en la política, los rituales, las costumbres y la preservación del orden. A menudo trabajas detrás del telón, alivias los sentimientos heridos y animas a los demás a relajarse y pasar un buen rato.\n\nBúsqueda: Recuperas Fuerza de Voluntad cada vez que desinflas una situación volátil y devuelves la paz y la armonía a la reunión.\n\nProhibición: Nunca hagas enfadar o causes incomodidad a alguien intencionadamente.",
+    "tags": [
+      "legado",
+      "seelie"
+    ],
+    "mechanics": {
+      "court_type": "seelie",
+      "quest": "Recuperas Fuerza de Voluntad cada vez que desinflas una situación volátil y devuelves la paz y la armonía a la reunión.",
+      "ban": "Nunca hagas enfadar o causes incomodidad a alguien intencionadamente."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "cortesano",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "dandy",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Dandy",
+    "name_es": "Dandy",
+    "body_es": "Un trepador social por vocación, eres un experto en la etiqueta cortesana. Tu objetivo es llegar tan alto en la escala social como te sea posible. La intriga y los rumores cortesanos te alimentan, y siempre se te puede encontrar en la periferia de algún problema, mirando y escuchando a ver de qué te puedes enterar y posiblemente usar para tu propio beneficio en un momento posterior. En cierto modo eres un snob, miras con desdén a los que están por debajo de ti, especialmente a aquellos que podrían ocupar tu posición. Pero sabes que no debes quemar tus naves. Como resultado, sueles ser diplomático. Harás cualquier cosa para parecer bueno, a menudo ayudando a otros y corriendo riesgos para ello.\n\nBúsqueda: Cada vez que tienes éxito fortaleciendo tu posición actual o consiguiendo una mejora, recuperas Fuerza de Voluntad.\n\nProhibición: Nunca pierdas la oportunidad de congraciarte con otros o con tus superiores.",
+    "tags": [
+      "legado",
+      "seelie"
+    ],
+    "mechanics": {
+      "court_type": "seelie",
+      "quest": "Cada vez que tienes éxito fortaleciendo tu posición actual o consiguiendo una mejora, recuperas Fuerza de Voluntad.",
+      "ban": "Nunca pierdas la oportunidad de congraciarte con otros o con tus superiores."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "dandy",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "ermitano",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Ermitaño",
+    "name_es": "Ermitaño",
+    "body_es": "Eres solitario y ascético por [naturaleza](/changeling/realms/nature), prefiriendo tu propia compañía a la de los demás. Introspectivo, lo ves todo desde un punto de vista muy personal. Cuando estás en público sueles ser callado, hablando sólo cuando se te pregunta, a menos que tu asunto tenga una relevancia tal que sientas que tienes que decirlo. Uno de los beneficios de esto es que los demás suelen verte como un [sabio](/changeling/legacys/sabio), dado que cuando hablas, tus palabras suelen remarcar algún punto relevante que se ha pasado por alto. A pesar de tu deseo de soledad, te arrastra la necesidad de ver y aprender. Tu [curiosidad](/changeling/flaws/curiosidad) sobre la [naturaleza](/changeling/realms/nature) de las cosas y tu lugar entre ellas te impide estar totalmente aislado.\n\nBúsqueda: Recuperas Fuerza de Voluntad cada vez que hallas la solución a un problema mediante la reflexión interior en vez de la acción brusca.\n\nProhibición: Raramente hablas a menos que la situación sea muy mala y consideres que tu punto de vista aún no ha sido expresado.",
+    "tags": [
+      "legado",
+      "seelie"
+    ],
+    "mechanics": {
+      "court_type": "seelie",
+      "quest": "Recuperas Fuerza de Voluntad cada vez que hallas la solución a un problema mediante la reflexión interior en vez de la acción brusca.",
+      "ban": "Raramente hablas a menos que la situación sea muy mala y consideres que tu punto de vista aún no ha sido expresado."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "ermitano",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "escudero",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Escudero",
+    "name_es": "Escudero",
+    "body_es": "En vez de situarte bajo los focos, prefieres apoyar y ayudar a quienes lo hacen. Eres Toro para el Llanero Solitario, Watson para Holmes o Robin para Batman. No te preocupa la gloria o el reconocimiento, sino que simplemente buscas la oportunidad de ser una pequeña parte del proceso. Te guías por las palabras de tu héroe actual y ninguna tarea es demasiado baja si él te la pide.\n\nBúsqueda: Recuperas Fuerza de Voluntad cada vez que juegas un papel de apoyo en un logro, pero sin que se te reconozca.\n\nProhibición: Nunca contradigas o socaves la posición de tu compañero heroico actual.",
+    "tags": [
+      "legado",
+      "seelie"
+    ],
+    "mechanics": {
+      "court_type": "seelie",
+      "quest": "Recuperas Fuerza de Voluntad cada vez que juegas un papel de apoyo en un logro, pero sin que se te reconozca.",
+      "ban": "Nunca contradigas o socaves la posición de tu compañero heroico actual."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "escudero",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "orquidea",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Orquídea",
+    "name_es": "Orquídea",
+    "body_es": "Hasta ahora has tenido una vida mimada y protegida, ya fuera en Arcadia o en brazos de tu madre. De pronto te han obligado a salir a la luz y a enfrentarte con las crudas realidades del mundo. Tienes dificultad para confiar en nadie, y sin embargo deseas fervientemente que alguien venga y cuide de ti. No tienes experiencia con los peligros del mundo real. Tus grandes e inocentes ojos se abren de par en par con cada nuevo desastre que amenaza con romper tu mundo. Dejas que otros tomen las decisiones por ti, no por gusto, sino como resultado de la inseguridad que sientes cuando te enfrentas a un problema.\n\n<!-- image -->\n\nBúsqueda: Cada vez que escapas de una situación aterradora con tu sentido del buen hacer y de la inocencia intactos, recuperas Fuerza de Voluntad.\n\nProhibición: Nunca confíes en un extraño; nunca te muestres a nadie como eres.",
+    "tags": [
+      "legado",
+      "seelie"
+    ],
+    "mechanics": {
+      "court_type": "seelie",
+      "quest": "Cada vez que escapas de una situación aterradora con tu sentido del buen hacer y de la inocencia intactos, recuperas Fuerza de Voluntad.",
+      "ban": "Nunca confíes en un extraño; nunca te muestres a nadie como eres."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "orquidea",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "paladin",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Paladín",
+    "name_es": "Paladín",
+    "body_es": "Eres la quintaesencia de los competidores, y tu historia es la del valiente y leal héroe o atleta. Buscas constantemente nuevos desafíos que superar, nuevos adversarios con los que pelear, nuevas causas por las que luchar y proteger, vives por la oportunidad de derrotar al monstruo, completar la búsqueda o ganar la partida. Sin la emoción de luchar contra otros (o contra ti mismo), la vida se vuelve pronto aburrida y sin sentido.\n\nBúsqueda: Cada vez que consigues superar con éxito una situación realmente desafiante, recuperas Fuerza de Voluntad.\n\nProhibición: Nunca rechaces un desafío justo.",
+    "tags": [
+      "legado",
+      "seelie"
+    ],
+    "mechanics": {
+      "court_type": "seelie",
+      "quest": "Cada vez que consigues superar con éxito una situación realmente desafiante, recuperas Fuerza de Voluntad.",
+      "ban": "Nunca rechaces un desafío justo."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "paladin",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "pragmatico",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Pragmático",
+    "name_es": "Pragmático",
+    "body_es": "Sólido y práctico, te enfrentas a cada problema con [sentido común](/changeling/merits/sentido-comun) y pragmatismo. Llevas la conversación directamente al grano y preguntas las cuestiones que te den las respuestas que necesitas. Siempre preparado, piensas con antelación sobre los posibles escenarios y tomas precauciones. Adoras resolver problemas, tanto los tuyos como los de los demás. Te sientes frustrado cuando la gente no parece pensar con tanta lógica como tú.\n\nBúsqueda: Cada vez que aplicas una solución práctica a un problema, recuperas Fuerza de Voluntad.\n\nProhibición: Nunca pierdas una oportunidad de resolver un problema mediante la aplicación de la lógica y el [sentido común](/changeling/merits/sentido-comun).",
+    "tags": [
+      "legado",
+      "seelie"
+    ],
+    "mechanics": {
+      "court_type": "seelie",
+      "quest": "Cada vez que aplicas una solución práctica a un problema, recuperas Fuerza de Voluntad.",
+      "ban": "Nunca pierdas una oportunidad de resolver un problema mediante la aplicación de la lógica y el sentido común."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "pragmatico",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "ban": "Nunca pierdas una oportunidad de resolver un problema mediante la aplicación de la lógica y el <a href=\"/changeling/merits/sentido-comun\">sentido común</a>."
+    }
+  },
+  {
+    "id": "regente",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Regente",
+    "name_es": "Regente",
+    "body_es": "La nobleza en su sentido más puro, eres el gobernante, el patriarca o la matriarca. Eres el juez y legislador que separa lo correcto de lo equivocado. Más que ningún otro, sientes el duro peso del deber y la obligación. A menudo has de imponer castigos. Aunque te desagrada, es una parte necesaria de tus responsabilidades, y lo realizas con tanta sabiduría y justicia como puedes. Te has resignado al hecho de que la regencia es una misión solitaria y a menudo malinterpretada, y no permites que tus sentimientos personales interfieran con tu posición.\n\nBúsqueda: Recuperas Fuerza de Voluntad cada vez que resuelves una situación mediante tu liderazgo.\n\nProhibición: Nunca comprometas o eludas tu deber o las leyes por las que te riges, sean las que sean.",
+    "tags": [
+      "legado",
+      "seelie"
+    ],
+    "mechanics": {
+      "court_type": "seelie",
+      "quest": "Recuperas Fuerza de Voluntad cada vez que resuelves una situación mediante tu liderazgo.",
+      "ban": "Nunca comprometas o eludas tu deber o las leyes por las que te riges, sean las que sean."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "regente",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "sabio",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Sabio",
+    "name_es": "Sabio",
+    "body_es": "Eres el consejero, el sabio, el maestro. Has viajado a muchos lugares y visto muchas cosas. Has aprendido y compartes voluntariamente tus conocimientos con los demás. La búsqueda del conocimiento y la sabiduría es tu objetivo principal en la vida. Ves algo que aprender en cada situación. Igual que el viejo de la montaña, no impones tu sabiduría al resto, pero la compartes de corazón con cualquiera que desee aprender. A menudo se te puede encontrar charlando tranquilamente con un rebelde [confuso](/changeling/flaws/confuso) o contando historias y anécdotas a los infantiles.\n\nBúsqueda: Recuperas Fuerza de Voluntad cada vez que alguien sigue tu consejo y tiene éxito en la tarea emprendida.\n\nProhibición: Nunca te interpongas en el camino escogido por otro, puesto que el sendero de la sabiduría es distinto para cada uno.",
+    "tags": [
+      "legado",
+      "seelie"
+    ],
+    "mechanics": {
+      "court_type": "seelie",
+      "quest": "Recuperas Fuerza de Voluntad cada vez que alguien sigue tu consejo y tiene éxito en la tarea emprendida.",
+      "ban": "Nunca te interpongas en el camino escogido por otro, puesto que el sendero de la sabiduría es distinto para cada uno."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "sabio",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "santo",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Santo",
+    "name_es": "Santo",
+    "body_es": "Sientes el dolor de los que te rodean y luchas por aliviar su sufrimiento. Cedes libremente tu tiempo, tus pertenencias y cualquier cosa que tengas para ayudar a los demás. Esto a menudo te sitúa en una posición de mártir, pues tu altruismo es total. Tu propia felicidad es secundaria a la de los demás. Puedes obsesionarte con tu causa y ponerte en peligro. Sin embargo, nunca harás nada que cause daño al resto.\n\nBúsqueda: Cada vez que proteges a alguien o alivias su sufrimiento, recuperas Fuerza de Voluntad.\n\nProhibición: Nunca causes malestar o daño a nadie intencionadamente.",
+    "tags": [
+      "legado",
+      "seelie"
+    ],
+    "mechanics": {
+      "court_type": "seelie",
+      "quest": "Cada vez que proteges a alguien o alivias su sufrimiento, recuperas Fuerza de Voluntad.",
+      "ban": "Nunca causes malestar o daño a nadie intencionadamente."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "santo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "trovador",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Trovador",
+    "name_es": "Trovador",
+    "body_es": "Caminas en una niebla de optimismo rosa y lila, sintiendo las emociones más fuerte que el resto y expresándolas a la menor oportunidad. Eres un idealista que cree en el potencial de un mundo perfecto, un amor perfecto, una vida perfecta. Te enfrentas a cada situación con entusiasmo y maravilla, ansioso por experimentar la emoción del momento. Cuando amas, amas con abandono. Cuando lloras, tus lágrimas podrían llenar un océano. Cuando eres feliz, te aseguras de que todo el mundo lo sepa. Amante y misericordioso, raramente odias a nadie, viéndolo en cambio como otra pieza fascinante de tu gloriosa visión del mundo.\n\nBúsqueda: Recuperas Fuerza de Voluntad cada vez que completas una tarea en nombre de un ideal mayor (amor, amistad, romance, etc.)\n\nProhibición: Nunca ocultes tus sentimientos.",
+    "tags": [
+      "legado",
+      "seelie"
+    ],
+    "mechanics": {
+      "court_type": "seelie",
+      "quest": "Recuperas Fuerza de Voluntad cada vez que completas una tarea en nombre de un ideal mayor (amor, amistad, romance, etc.)",
+      "ban": "Nunca ocultes tus sentimientos."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "trovador",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "viajero",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Viajero",
+    "name_es": "Viajero",
+    "body_es": "Tu historia es la del errante eterno, el gran explorador y aventurero que tienen un amor en cada puerto y raramente permanece en ningún lugar mucho tiempo. Vives de tu astucia, aunque tu [naturaleza](/changeling/realms/nature) inquieta a menudo te coloca a situaciones peligrosas. Impulsivo, actúas primero y piensas después. Esto a veces te salva; otras veces te crea problemas. Impaciente y fácil de aburrir, siempre estás buscando la siguiente aventura.\n\nBúsqueda: Cada vez que sobrevivas a una [escena](/changeling/realms/scene) que amenace tu vida mediante tu propio ingenio, recuperas Fuerza de Voluntad.\n\nProhibición: Nunca hagas planes para el futuro.",
+    "tags": [
+      "legado",
+      "seelie"
+    ],
+    "mechanics": {
+      "court_type": "seelie",
+      "quest": "Cada vez que sobrevivas a una escena que amenace tu vida mediante tu propio ingenio, recuperas Fuerza de Voluntad.",
+      "ban": "Nunca hagas planes para el futuro."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "viajero",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "quest": "Cada vez que sobrevivas a una <a href=\"/changeling/realms/scene\">escena</a> que amenace tu vida mediante tu propio ingenio, recuperas Fuerza de Voluntad."
+    }
+  },
+  {
+    "id": "bestia",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Bestia",
+    "name_es": "Bestia",
+    "body_es": "Buscas conquistar todo lo que se te opone, destruyéndolo si es posible. Tu visión del mundo está definida por aquellos a los que doblegas y los que arrollas porque no lo hacen. Enfrentas a unos con otros, como piezas las de ajedrez sobre el tablero, sin ninguna consideración por las necesidades de nadie excepto las tuyas. Tomas lo que quieres sin preguntar, y destruyes a aquellos más débiles que tú por diversión.\n\nBúsqueda: Cada vez que eliminas una oposición significativa para tus objetivos, recuperas Fuerza de Voluntad.\n\nProhibición: Nunca te retires; nunca comprometas tu territorio.",
+    "tags": [
+      "legado",
+      "unseelie"
+    ],
+    "mechanics": {
+      "court_type": "unseelie",
+      "quest": "Cada vez que eliminas una oposición significativa para tus objetivos, recuperas Fuerza de Voluntad.",
+      "ban": "Nunca te retires; nunca comprometas tu territorio."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "bestia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "bribon",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Bribón",
+    "name_es": "Bribón",
+    "body_es": "Con un guiño, adulas, animas, tientas, engañas y manipulas a los demás a explorar sus deseos más oscuros. Eres el incordio, el corruptor, tomando lo dulce y convirtiéndolo en sórdido. Te ves a ti mismo como un maestro de la molestia: enseñas a la gente qué clase de criaturas primarias y salvajes son en realidad. No hay nada que adores más que corromper al inocente y hacerlo con tal sutileza que a menudo nunca notan si quiera que les has comprometido.\n\nBúsqueda: Recuperas Fuerza de Voluntad cada vez que haces que alguien haga algo a lo que normalmente se opondría y disfruta con ello.\n\nProhibición: Nunca protejas a nadie de la cruda realidad de la vida.",
+    "tags": [
+      "legado",
+      "unseelie"
+    ],
+    "mechanics": {
+      "court_type": "unseelie",
+      "quest": "Recuperas Fuerza de Voluntad cada vez que haces que alguien haga algo a lo que normalmente se opondría y disfruta con ello.",
+      "ban": "Nunca protejas a nadie de la cruda realidad de la vida."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "bribon",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "bufon",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Bufón",
+    "name_es": "Bufón",
+    "body_es": "Eres el bromista divino, el payaso, el que ríe el último y mejor. Como crees que el mundo no tiene sentido, que no hay una razón subyacente para las cosas, sientes un gran placer en estropear los planes cuidadosos de la gente aplicando tú mismo la clásica ley de Murphy. Casi es tu deber actuar como el agente del caos, derribando a los demás de su pedestal de dogma y haciendo que se coman sus grandilocuentes palabras de honor y nobleza. A veces trabajas durante semanas, meses o incluso años tejiendo tus bromas, situando los cimientos y preparando las trampas para que cuando tu presa caiga, lo haga desde lo más alto.\n\nBúsqueda: Recuperas Fuerza de Voluntad cada vez que te las arreglas para desinflar el ego de alguien a quien habías etiquetado de pomposo.\n\nProhibición: Nunca busques los 'porqués' de tu vida, no hay ninguno.",
+    "tags": [
+      "legado",
+      "unseelie"
+    ],
+    "mechanics": {
+      "court_type": "unseelie",
+      "quest": "Recuperas Fuerza de Voluntad cada vez que te las arreglas para desinflar el ego de alguien a quien habías etiquetado de pomposo.",
+      "ban": "Nunca busques los 'porqués' de tu vida, no hay ninguno."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "bufon",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "cabecilla",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Cabecilla",
+    "name_es": "Cabecilla",
+    "body_es": "Tienes tu banda y la diriges con puño de hierro. Trabajas duro para construir y fortalecer tu organización, pidiendo lealtad y sumisión a la causa que encarnas. No permitirás que tus leyes y tu autoridad se vean mermadas. Aunque sabes que un grupo es más poderoso que cualquier individuo, no te consideras igual a tu banda de seguidores. Eres la cabeza y ellos son los brazos y las piernas. Son tus herramientas, y las usaras a tu antojo para conseguir tus propios objetivos.\n\nBúsqueda: Recuperas Fuerza de Voluntad cada vez que consigues algo como resultado directo de la devoción de tus seguidores.\n\nProhibición: Nunca permitas que ninguna persona ponga en peligro al total de tu organización o tus objetivos.",
+    "tags": [
+      "legado",
+      "unseelie"
+    ],
+    "mechanics": {
+      "court_type": "unseelie",
+      "quest": "Recuperas Fuerza de Voluntad cada vez que consigues algo como resultado directo de la devoción de tus seguidores.",
+      "ban": "Nunca permitas que ninguna persona ponga en peligro al total de tu organización o tus objetivos."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "cabecilla",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "desgraciado",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Desgraciado",
+    "name_es": "Desgraciado",
+    "body_es": "No tienes una opinión positiva de tu persona, y asumes que todos los demás te odian tanto como tú mismo. Quizá eres el ratón de biblioteca a quien nunca sacaban a bailar o el perdedor que nunca era invitado a las fiestas de cumpleaños; no importa el porqué, crees que todo el mundo te odia y que eres un [proscrito](/changeling/legacys/proscrito) digno de piedad. A veces buscas la compasión y la ayuda del resto. Otras veces quieres castigarles por ella, siendo especialmente duro con quienquiera que te muestre compasión y cariño.\n\nBúsqueda: Cada vez que los demás te maltratan como a un inútil o alzan las manos con desesperación por estar a tu lado, recuperas Fuerza de Voluntad.\n\nProhibición: Nunca admitas un logro.",
+    "tags": [
+      "legado",
+      "unseelie"
+    ],
+    "mechanics": {
+      "court_type": "unseelie",
+      "quest": "Cada vez que los demás te maltratan como a un inútil o alzan las manos con desesperación por estar a tu lado, recuperas Fuerza de Voluntad.",
+      "ban": "Nunca admitas un logro."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "desgraciado",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "enigmatico",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Enigmático",
+    "name_es": "Enigmático",
+    "body_es": "Eres un enigma, un misterio que nadie puede llegar a imaginar. Adoras los secretos y nunca das una respuesta clara a ninguna pregunta. Lo oscureces todo con dobles sentidos, palabras misteriosas y mentiras directas. Disfrutas confundiendo a los demás, satisfaciendo tu necesidad de sentir que tu propio intelecto es superior al del resto. Eres especialmente cuidadoso de rodear tu propia psique en el mayor misterio, y tu mayor miedo es que alguien llegue a saber cómo eres en realidad.\n\n<!-- image -->\n\nBúsqueda: Cada vez que te las arreglas para [confundir](/changeling/cantrips/fuddle) o engañar a alguien, recuperas Fuerza de Voluntad.\n\nProhibición: Nunca permitas que otros descubran la verdad sobre ti o tus orígenes.",
+    "tags": [
+      "legado",
+      "unseelie"
+    ],
+    "mechanics": {
+      "court_type": "unseelie",
+      "quest": "Cada vez que te las arreglas para confundir o engañar a alguien, recuperas Fuerza de Voluntad.",
+      "ban": "Nunca permitas que otros descubran la verdad sobre ti o tus orígenes."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "enigmatico",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "quest": "Cada vez que te las arreglas para <a href=\"/changeling/cantrips/fuddle\">confundir</a> o engañar a alguien, recuperas Fuerza de Voluntad."
+    }
+  },
+  {
+    "id": "fatalista",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Fatalista",
+    "name_es": "Fatalista",
+    "body_es": "Igual que Eeyore, el compañero de Winnie the Pooh, tienes una visión del mundo muy poco optimista. Esperas que las cosas salgan mal y sientes un placer oscuro y resentido cuando tienes razón. Dado que todo está condenado a acabar en desastre, no hay razón para luchar. No tienes esperanzas de un futuro brillante, sino que estás resignado a un tristeza inevitable. Te encuentras cómodo en tu pesimismo porque sabes que nunca te equivocarás. Incluso cuando las cosas acaban bien, sabes que sólo es una ilusión temporal y que el desastre real llegará indudablemente poco después.\n\nBúsqueda: Recupera Fuerza de Voluntad cuando tus advertencias de desastre resulten correctas.\n\nProhibición: Nunca te rías excepto con amargura y sarcasmo.",
+    "tags": [
+      "legado",
+      "unseelie"
+    ],
+    "mechanics": {
+      "court_type": "unseelie",
+      "quest": "Recupera Fuerza de Voluntad cuando tus advertencias de desastre resulten correctas.",
+      "ban": "Nunca te rías excepto con amargura y sarcasmo."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "fatalista",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "grotesco",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Grotesco",
+    "name_es": "Grotesco",
+    "body_es": "Adoras dar asco a los demás, y te apartas de tu camino para provocarles. Haces presa en la sensibilidad ajena, aceptando como aplauso un sonrojo o un respingo. Cuanto más extrema es la reacción más feliz te hace. Haces que tu tarea en la vida sea descubrir lo que molesta a los demás para luego infligírselo. Maestro de insultos, golpeas directo al corazón, dejando de lado toda la etiqueta y propiedad en favor de la terapia de shock. Nada es demasiado bajo para ti, desde ruidos corporales a insultar a la madre de alguien.\n\nBúsqueda: Cada vez que haces que alguien desfallezca o pierda la compostura, recuperas Fuerza de Voluntad.\n\nProhibición: Nunca muestres un lado abiertamente agradable o amable de ti mismo.",
+    "tags": [
+      "legado",
+      "unseelie"
+    ],
+    "mechanics": {
+      "court_type": "unseelie",
+      "quest": "Cada vez que haces que alguien desfallezca o pierda la compostura, recuperas Fuerza de Voluntad.",
+      "ban": "Nunca muestres un lado abiertamente agradable o amable de ti mismo."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "grotesco",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "libertino",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Libertino",
+    "name_es": "Libertino",
+    "body_es": "Eres un ansioso sensualista, un mísero, un glotón, un coleccionista obsesivo, un lo tomo yo y no lo toma nadie y un acaparador de experiencias. Te preocupas poco por el resto, excepto como objetos que coleccionar y usar a tu antojo, cosas bonitas que tener alrededor y que te proporcionan placer. Disfrutas con la gratificación material y muestras tu buen gusto a cualquier oportunidad. Sin embargo, compartir no es una palabra que conozcas. Te pavoneas de lo que posees, ya sea una mujer hermosa a tu brazo o el brillo de un diamante en tu dedo, pero jamás te planteas hacer un regalo a alguien o ayudar a los necesitados.\n\nBúsqueda: Recuperas Fuerza de Voluntad cada vez que tienes éxito en tu persecución del placer.\n\nProhibición: Nunca das nada sin la esperanza de una recompensa o tras una dura lucha.",
+    "tags": [
+      "legado",
+      "unseelie"
+    ],
+    "mechanics": {
+      "court_type": "unseelie",
+      "quest": "Recuperas Fuerza de Voluntad cada vez que tienes éxito en tu persecución del placer.",
+      "ban": "Nunca das nada sin la esperanza de una recompensa o tras una dura lucha."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "libertino",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "pandora",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Pandora",
+    "name_es": "Pandora",
+    "body_es": "Como Pandora, parece que no puedes mantener tu caja cerrada. Abres la boca y los problemas surgen de ella en enormes olas destructoras. No puedes evitarlo. Adoras meter en problemas a los demás revelando sus secretos. Más aún, tu [curiosidad](/changeling/flaws/curiosidad) a menudo te supera, especialmente si te han prohibido ir a algún sitio o hacer algo. Cuanto más insiste alguien en que no debes hacer algo, más te apetece hacerlo.\n\nBúsqueda: Recuperas Fuerza de Voluntad cada vez que sobrevives a algo peligroso que tenías estrictamente prohibido hacer o contra lo que te habían advertido.\n\nProhibición: Nunca mantengas un secreto; nunca obedezcas una orden.",
+    "tags": [
+      "legado",
+      "unseelie"
+    ],
+    "mechanics": {
+      "court_type": "unseelie",
+      "quest": "Recuperas Fuerza de Voluntad cada vez que sobrevives a algo peligroso que tenías estrictamente prohibido hacer o contra lo que te habían advertido.",
+      "ban": "Nunca mantengas un secreto; nunca obedezcas una orden."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "pandora",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "pavo-real",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Pavo Real",
+    "name_es": "Pavo Real",
+    "body_es": "Eres el más atractivo, el más agudo, la mejor persona del mundo, y quieres asegurarte de que todo el mundo lo sepa. Si no eres el centro de atención, no eres feliz. Mientras te colmen de alabanzas y adulación, eres la persona más agradable y modesta, pero tan pronto como la atención se aparta de ti, te vuelves perverso. No evitarás las rabietas ni los estallidos violentos para conseguir la atención del resto. Los celos dirigen tu elección de amigos y enemigos.\n\nBúsqueda: Cada vez que demuestras concluyentemente que eres el mejor en algo, recuperas Fuerza de Voluntad.\n\nProhibición: Nunca admitas un fallo o un defecto.",
+    "tags": [
+      "legado",
+      "unseelie"
+    ],
+    "mechanics": {
+      "court_type": "unseelie",
+      "quest": "Cada vez que demuestras concluyentemente que eres el mejor en algo, recuperas Fuerza de Voluntad.",
+      "ban": "Nunca admitas un fallo o un defecto."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "pavo-real",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "picaro",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Pícaro",
+    "name_es": "Pícaro",
+    "body_es": "No necesitas trabajar; hay tantos otros ahí fuera que pueden hacerlo por ti. Los demás te ven como una sanguijuela, pero mientras restañan sus heridas y se limpian los zapatos tu estás gastando tu parte del botín. Teniéndolo todo en cuenta, prefieres seguir el camino de menor resistencia. Siempre hay algún héroe lanzado listo para saltar a la palestra y hacer todo el trabajo sucio. ¿Por qué impedírselo? Y qué pasa si estás allí con la mano extendida a la hora de reclamar la recompensa. Tu no le pediste que lo hiciera; simplemente no le ofreciste ayuda.\n\nBúsqueda: Cada vez que consigues algo que realmente no mereces, recuperas Fuerza de Voluntad.\n\nProhibición: Nunca trabajes.",
+    "tags": [
+      "legado",
+      "unseelie"
+    ],
+    "mechanics": {
+      "court_type": "unseelie",
+      "quest": "Cada vez que consigues algo que realmente no mereces, recuperas Fuerza de Voluntad.",
+      "ban": "Nunca trabajes."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "picaro",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "proscrito",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Proscrito",
+    "name_es": "Proscrito",
+    "body_es": "Miras el mundo y ves un océano de autómatas sin mente que no tienen la menor idea de lo que sucede. Crees que es tu deber aprovecharte de ello. ¿De qué otra forma van a aprender? Ladrón y sinvergüenza, tomas lo que deseas de los demás sin la más breve culpa o vacilación. Si tus víctimas son tan estúpidas como para ser víctimas, no ves ninguna razón para utilizarlas y abusar de ellas. No sientes compasión por la gente: han cavado sus propias tumbas y, desde luego, se las merecen.\n\nBúsqueda: Recupera Fuerza de Voluntad cada vez que cometes un acto totalmente egoísta que hiere a alguien.\n\nProhibición: Nunca hagas nada que ayude a los demás más de lo que los hiere o sirve a tus propósitos finales.",
+    "tags": [
+      "legado",
+      "unseelie"
+    ],
+    "mechanics": {
+      "court_type": "unseelie",
+      "quest": "Recupera Fuerza de Voluntad cada vez que cometes un acto totalmente egoísta que hiere a alguien.",
+      "ban": "Nunca hagas nada que ayude a los demás más de lo que los hiere o sirve a tus propósitos finales."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "proscrito",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "salvaje",
+    "type": "legacy",
+    "line": "changeling",
+    "name_en": "Salvaje",
+    "name_es": "Salvaje",
+    "body_es": "Para ti, la única forma de vivir es igual que los animales del bosque, comiendo lo que puedes conseguir, apareándote cuando sientes el impulso, y luchando para establecer tu superioridad. Todo lo demás no tiene sentido. La conversación civilizada, la etiqueta, la tecnología...son pérdidas de tiempo. Los inventos modernos sólo te distraen de tu auténtica [naturaleza](/changeling/realms/nature) y evitan que satisfagas los instintos que hacen arder tu alma. Anhelas el retorno a los días de autoindulgencia primaria y de ley natural. Mientras tanto, vives tu vida como si siguieran aquí, feroz y orgulloso de ello.\n\nBúsqueda: Recupera Fuerza de Voluntad cada vez que derrotas a enemigos 'civilizados' mediante tu propio ingenio y poder.\n\nProhibición: Nunca te recrees en cosas civilizadas.",
+    "tags": [
+      "legado",
+      "unseelie"
+    ],
+    "mechanics": {
+      "court_type": "unseelie",
+      "quest": "Recupera Fuerza de Voluntad cada vez que derrotas a enemigos 'civilizados' mediante tu propio ingenio y poder.",
+      "ban": "Nunca te recrees en cosas civilizadas."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-manual-basico",
+        "book_title_es": "Changelling el ensueño - Manual basico",
+        "page": null,
+        "section_anchor": "salvaje",
         "variant": "base"
       }
     ],
@@ -4717,7 +6229,7 @@
     "line": "changeling",
     "name_en": "Elder-Form",
     "name_es": "Forma Antigua",
-    "body_es": "Este cantrip permite al lanzador o a otro objetivo adoptar cualquier otra forma. La nueva forma posee todos los Atributos y desventajas de la misma. Si el hada se convierte en un árbol puede ser más alta y resistente, pero no es capaz de hablar (a menos que lance Susurros de Sauce).\n\nAunque es posible que el hada se transforme adoptando la forma de una bestia mítica, no gana ningún poder mágico con este cambio. Un personaje alterado por Forma Antigua sólo gana cualquier capacidad natural que tenga esta forma, no los poderes sobrenaturales. Por ejemplo, un duende que se transforma para parecer un vampiro tendrá la piel pálida y hasta colmillos, pero no ganará ninguno de los poderes vampíricos (como la [regeneración](/changeling/merits/regeneracion)), ni será susceptible a las debilidades vampíricas (como la luz solar).\n\nSistema: A diferencia de muchos cantrips, el Reino usado por este Arte lo determina la forma que el lanzador desea que asuma el blanco.\n\nEl periodo de transformación lo determina el número de éxitos. Hay una posibilidad de que el objetivo revierta a su forma original en cualquier momento en que una persona no encantada entre en contacto con él. Tira por la Banalidad de la persona no encantada (dificultad 9); si el número de éxitos de su tirada iguala o excede los éxitos conseguidos por el lanzador de Forma Antigua, el cantrip queda anulado.\n\nTipo: Fantasía",
+    "body_es": "Este cantrip permite al lanzador o a otro objetivo adoptar cualquier otra forma. La nueva forma posee todos los Atributos y desventajas de la misma. Si el hada se convierte en un árbol puede ser más alta y resistente, pero no es capaz de hablar (a menos que lance Susurros de Sauce).\n\nAunque es posible que el hada se transforme adoptando la forma de una [bestia](/changeling/legacys/bestia) mítica, no gana ningún poder mágico con este cambio. Un personaje alterado por Forma Antigua sólo gana cualquier capacidad natural que tenga esta forma, no los poderes sobrenaturales. Por ejemplo, un duende que se transforma para parecer un vampiro tendrá la piel pálida y hasta colmillos, pero no ganará ninguno de los poderes vampíricos (como la [regeneración](/changeling/merits/regeneracion)), ni será susceptible a las debilidades vampíricas (como la luz solar).\n\nSistema: A diferencia de muchos cantrips, el Reino usado por este Arte lo determina la forma que el lanzador desea que asuma el blanco.\n\nEl periodo de transformación lo determina el número de éxitos. Hay una posibilidad de que el objetivo revierta a su forma original en cualquier momento en que una persona no encantada entre en contacto con él. Tira por la Banalidad de la persona no encantada (dificultad 9); si el número de éxitos de su tirada iguala o excede los éxitos conseguidos por el lanzador de Forma Antigua, el cantrip queda anulado.\n\nTipo: Fantasía",
     "tags": [
       "cantrip"
     ],
