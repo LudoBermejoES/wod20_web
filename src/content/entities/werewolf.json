@@ -137,7 +137,8 @@
     "tags": [
       "don",
       "Homínido",
-      "Fenrir"
+      "Fenrir",
+      "Grondr"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -145,8 +146,7 @@
       "breed_auspice": [
         "Homínido"
       ],
-      "system_es": "El jugador gasta un punto de Gnosis. Durante el resto de la escena, el fuego inflige al Garou daño contundente en vez de agravado.",
-      "raza": "Grondr"
+      "system_es": "El jugador gasta un punto de Gnosis. Durante el resto de la escena, el fuego inflige al Garou daño contundente en vez de agravado."
     },
     "sources": [
       {
@@ -212,13 +212,12 @@
       "don",
       "Homínido",
       "Ajaba",
+      "Apis",
+      "Bardos Ratkin",
       "Philodox"
     ],
     "mechanics": {
-      "rank": [
-        "Nivel tres",
-        "Nivel uno"
-      ],
+      "rank": "Nivel uno",
       "level": 1,
       "breed_auspice": [
         "Homínido"
@@ -242,39 +241,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: raza",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "raza": "Apis"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "raza": "Bardos Ratkin"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "mechanics_html": {
       "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
     }
@@ -324,13 +290,13 @@
     "tags": [
       "don",
       "Homínido",
+      "Apis",
+      "Bardos Ratkin",
+      "Camazotz",
       "Caminantes Silenciosos"
     ],
     "mechanics": {
-      "rank": [
-        "Nivel dos",
-        "Nivel uno"
-      ],
+      "rank": "Nivel dos",
       "level": 2,
       "breed_auspice": [
         "Homínido"
@@ -351,42 +317,7 @@
         "page": null,
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "review": {
-      "reason": "mechanics differ across sources: raza",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "raza": "Apis"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "raza": "Camazotz"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "raza": "Bardos Ratkin"
-          }
-        }
-      ]
-    }
+    ]
   },
   {
     "id": "mark-of-the-wolf",
@@ -426,7 +357,8 @@
     "body_es": "La Rabia arde en los ojos de un hombre lobo, aterrorizando a mortales y animales, provocando que corran por sus vidas. Usado contra otro hombre lobo, el objetivo se quedará clavado en el sitio en vez de huir. Un espíritu carnero o serpiente enseña este Don.\n\n**Sistema:** Este Don afecta a un solo objetivo a la vez. El jugador tira Carisma + Intimidación (dificultad 5 + el Rango del objetivo, si es aplicable). La víctima huye durante un turno por éxito, aunque puede gastar un punto de Fuerza de Voluntad para resistir los efectos del Don durante un turno. Si el jugador obtiene cinco o más éxitos, la víctima huye durante el resto de la escena. Los Garou y otros cambiaformas con Rabia no huyen, pero no pueden atacar mientras el Don esté en uso.",
     "tags": [
       "don",
-      "Homínido"
+      "Homínido",
+      "Grondr"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -434,8 +366,7 @@
       "breed_auspice": [
         "Homínido"
       ],
-      "system_es": "Este Don afecta a un solo objetivo a la vez. El jugador tira Carisma + Intimidación (dificultad 5 + el Rango del objetivo, si es aplicable). La víctima huye durante un turno por éxito, aunque puede gastar un punto de Fuerza de Voluntad para resistir los efectos del Don durante un turno. Si el jugador obtiene cinco o más éxitos, la víctima huye durante el resto de la escena. Los Garou y otros cambiaformas con Rabia no huyen, pero no pueden atacar mientras el Don esté en uso.",
-      "raza": "Grondr"
+      "system_es": "Este Don afecta a un solo objetivo a la vez. El jugador tira Carisma + Intimidación (dificultad 5 + el Rango del objetivo, si es aplicable). La víctima huye durante un turno por éxito, aunque puede gastar un punto de Fuerza de Voluntad para resistir los efectos del Don durante un turno. Si el jugador obtiene cinco o más éxitos, la víctima huye durante el resto de la escena. Los Garou y otros cambiaformas con Rabia no huyen, pero no pueden atacar mientras el Don esté en uso."
     },
     "sources": [
       {
@@ -793,7 +724,8 @@
     "tags": [
       "don",
       "Homínido",
-      "Ananasi"
+      "Ananasi",
+      "Apis"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
@@ -802,7 +734,6 @@
         "Homínido"
       ],
       "system_es": "El jugador tira Manipulación + Empatía. Si tiene éxito, el personaje interactúa con los miembros de otra cultura como si fuese uno de ellos. La dificultad depende de cómo de extraña sea la cultura. Otro clan Garou sería 5, mientras que una colmena de los Danzantes de la Espiral Negra o un país extranjero podría ser de hasta 9. El personaje no sufre penalizaciones Sociales cuando interactúa con los miembros de esa cultura, aunque tampoco disfrutará de beneficios especiales. Este Don dura una escena, más un día por punto de Fuerza de Voluntad gastado al activarlo.",
-      "raza": "Apis",
       "breed": "Ananasi",
       "category": "Kumoti"
     },
@@ -1007,15 +938,17 @@
       "don",
       "Metis",
       "Ajaba",
+      "Apis",
+      "Camazotz",
       "Caminantes Silenciosos",
       "Colmillos Plateados",
-      "Theurge"
+      "Danzantes de la Espiral Negra",
+      "Grondr",
+      "Theurge",
+      "Uktena"
     ],
     "mechanics": {
-      "rank": [
-        "Nivel dos",
-        "Nivel uno"
-      ],
+      "rank": "Nivel uno",
       "level": 1,
       "breed_auspice": [
         "Metis",
@@ -1023,7 +956,7 @@
       ],
       "system_es": "El jugador tira Percepción + Ocultismo. La dificultad depende de la concentración y la fuerza de la influencia del Wyrm: sentir a un único Fomor en la habitación contigua tendría dificultad 6, mientras que detectar el hedor de una Perdición que estuvo en la habitación hace una hora tendría dificultad 7. Los vampiros son percibidos como manchados por el Wyrm, salvo aquéllos con valores de Humanidad 7 o más.",
       "type_label": "Don",
-      "nivel": "uno",
+      "tribu": "Uktena",
       "breed": "Ajaba",
       "category": "Alba"
     },
@@ -1043,64 +976,8 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: raza, tribu",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "tribu": "Uktena"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "tribu": "Danzantes de la Espiral Negra"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "raza": "Apis"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "raza": "Camazotz"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "raza": "Grondr"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "mechanics_html": {
+      "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>",
       "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
     }
   },
@@ -1711,6 +1588,7 @@
     "tags": [
       "don",
       "Lupus",
+      "Camazotz",
       "Galliard"
     ],
     "mechanics": {
@@ -1719,8 +1597,7 @@
       "breed_auspice": [
         "Lupus"
       ],
-      "system_es": "El jugador gasta un punto de Gnosis para activar este Don durante una escena. En Formas Homínido y Glabro, las dificultades de Percepción descienden en dos para el hombre lobo y puede tirar Percepción + Impulso Primario para realizar hazañas sensoriales asombrosas como rastrear siguiendo un olor. En Crinos, Hispo y Lupus, las dificultades de Percepción disminuyen en tres (esto no es acumulativo con las bonificaciones ordinarias a la Percepción en la Forma Lupus) y el hombre lobo gana un dado adicional para las reservas de Impulso Primario.",
-      "raza": "Camazotz"
+      "system_es": "El jugador gasta un punto de Gnosis para activar este Don durante una escena. En Formas Homínido y Glabro, las dificultades de Percepción descienden en dos para el hombre lobo y puede tirar Percepción + Impulso Primario para realizar hazañas sensoriales asombrosas como rastrear siguiendo un olor. En Crinos, Hispo y Lupus, las dificultades de Percepción disminuyen en tres (esto no es acumulativo con las bonificaciones ordinarias a la Percepción en la Forma Lupus) y el hombre lobo gana un dado adicional para las reservas de Impulso Primario."
     },
     "sources": [
       {
@@ -1885,19 +1762,16 @@
     "body_es": "El hombre lobo puede sustituir completamente su visión con su sentido del olfato. Puede atacar criaturas invisibles con normalidad u orientarse en la más absoluta oscuridad. Los espíritus lobo enseñan este Don.\n\n**Sistema:** El hombre lobo sustituye totalmente su visión por su sentido del olfato, permitiéndole distinguir identidades y localizaciones a la perfección (el color y los pequeños detalles, como las letras en una página, quedan fuera de su alcance). Puede requerirse una tirada de Percepción + Impulso Primario para detectar cosas que activamente oculten su olor.",
     "tags": [
       "don",
-      "Lupus"
+      "Lupus",
+      "Grondr"
     ],
     "mechanics": {
-      "rank": [
-        "Nivel dos",
-        "Nivel uno"
-      ],
+      "rank": "Nivel dos",
       "level": 2,
       "breed_auspice": [
         "Lupus"
       ],
-      "system_es": "El hombre lobo sustituye totalmente su visión por su sentido del olfato, permitiéndole distinguir identidades y localizaciones a la perfección (el color y los pequeños detalles, como las letras en una página, quedan fuera de su alcance). Puede requerirse una tirada de Percepción + Impulso Primario para detectar cosas que activamente oculten su olor.",
-      "raza": "Grondr"
+      "system_es": "El hombre lobo sustituye totalmente su visión por su sentido del olfato, permitiéndole distinguir identidades y localizaciones a la perfección (el color y los pequeños detalles, como las letras en una página, quedan fuera de su alcance). Puede requerirse una tirada de Percepción + Impulso Primario para detectar cosas que activamente oculten su olor."
     },
     "sources": [
       {
@@ -2035,7 +1909,8 @@
       "don",
       "Lupus",
       "Ajaba",
-      "Caminantes Silenciosos"
+      "Caminantes Silenciosos",
+      "Grondr"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -2044,7 +1919,6 @@
         "Lupus"
       ],
       "system_es": "El jugador tira Percepción + Enigmas (dificultad 6). Cuanto más éxitos consiga, más información obtiene. Sin embargo, el registro sensorial es vago y objeto de interpretación. Por ejemplo, un vampiro podría oler a sangre coagulada, miedo, carne putrefacta o cualquier cosa que el Narrador encuentre apropiada.",
-      "raza": "Grondr",
       "breed": "Ajaba",
       "category": "Alba"
     },
@@ -2106,7 +1980,8 @@
     "tags": [
       "don",
       "Lupus",
-      "Fenrir"
+      "Fenrir",
+      "Wendigo"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -2221,7 +2096,8 @@
     "body_es": "El hombre lobo puede comunicarse con otros animales salvajes y atraerlos o incluso darles órdenes. Los animales domésticos pueden hablar con el Garou, pero se han entregado a las costumbres de los humanos y no proporcionarán ayuda más allá de dar información. Cualquier espíritu animal puede enseñar este Don, aunque los Lupus prefieren aprenderlo de espíritus león o lobo.\n\n**Sistema:** El personaje gana permanentemente la habilidad de comunicarse con todos los animales, sin importar la Forma que tenga en ese momento. Para atraer a los animales, el jugador gasta un punto de Gnosis y tira Carisma + Trato con Animales (dificultad 7). Todos los animales a 16 kilómetros (10 millas) por éxito responderán a la llamada, y obedecerán cualquier orden del Garou. Se considera costumbre hacer una ofrenda al espíritu de cualquier animal al que se le ordene sacrificarse con este Don; si no lo hiciera se arriesgaría a enfadar al mundo espiritual.",
     "tags": [
       "don",
-      "Lupus"
+      "Lupus",
+      "Grondr"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -2229,8 +2105,7 @@
       "breed_auspice": [
         "Lupus"
       ],
-      "system_es": "El personaje gana permanentemente la habilidad de comunicarse con todos los animales, sin importar la Forma que tenga en ese momento. Para atraer a los animales, el jugador gasta un punto de Gnosis y tira Carisma + Trato con Animales (dificultad 7). Todos los animales a 16 kilómetros (10 millas) por éxito responderán a la llamada, y obedecerán cualquier orden del Garou. Se considera costumbre hacer una ofrenda al espíritu de cualquier animal al que se le ordene sacrificarse con este Don; si no lo hiciera se arriesgaría a enfadar al mundo espiritual.",
-      "raza": "Grondr"
+      "system_es": "El personaje gana permanentemente la habilidad de comunicarse con todos los animales, sin importar la Forma que tenga en ese momento. Para atraer a los animales, el jugador gasta un punto de Gnosis y tira Carisma + Trato con Animales (dificultad 7). Todos los animales a 16 kilómetros (10 millas) por éxito responderán a la llamada, y obedecerán cualquier orden del Garou. Se considera costumbre hacer una ofrenda al espíritu de cualquier animal al que se le ordene sacrificarse con este Don; si no lo hiciera se arriesgaría a enfadar al mundo espiritual."
     },
     "sources": [
       {
@@ -2792,7 +2667,8 @@
     "body_es": "El hombre lobo puede encontrar los senderos más inverosímiles tanto en la más prístina naturaleza como en la jungla urbana, localizando las rutas más rápidas y cortas entre dos lugares. Un espíritu [cuervo](/werewolf/totems/raven) enseña este Don.\n\n**Sistema:** El jugador tira Percepción + [Supervivencia](/werewolf/gifts/survival) (para las zonas naturales) o Callejeo (para entornos urbanos) contra dificultad 7. El número de éxitos se corresponde con la calidad del camino que abre y con la disminución del tiempo de viaje. Cada éxito reduce el tiempo invertido aproximadamente en un diez por ciento, hasta un máximo de la mitad del tiempo de viaje original. La dificultad de cualquier tirada para rastrear al hombre lobo aumenta en dos cuando este Don esté activo; esta disminución se acumula a otros efectos similares, como [Olor a Agua Corriente](/werewolf/gifts/scent-of-running-water).",
     "tags": [
       "don",
-      "Ragabash"
+      "Ragabash",
+      "Camazotz"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -2800,8 +2676,7 @@
       "breed_auspice": [
         "Ragabash"
       ],
-      "system_es": "El jugador tira Percepción + Supervivencia (para las zonas naturales) o Callejeo (para entornos urbanos) contra dificultad 7. El número de éxitos se corresponde con la calidad del camino que abre y con la disminución del tiempo de viaje. Cada éxito reduce el tiempo invertido aproximadamente en un diez por ciento, hasta un máximo de la mitad del tiempo de viaje original. La dificultad de cualquier tirada para rastrear al hombre lobo aumenta en dos cuando este Don esté activo; esta disminución se acumula a otros efectos similares, como Olor a Agua Corriente.",
-      "raza": "Camazotz"
+      "system_es": "El jugador tira Percepción + Supervivencia (para las zonas naturales) o Callejeo (para entornos urbanos) contra dificultad 7. El número de éxitos se corresponde con la calidad del camino que abre y con la disminución del tiempo de viaje. Cada éxito reduce el tiempo invertido aproximadamente en un diez por ciento, hasta un máximo de la mitad del tiempo de viaje original. La dificultad de cualquier tirada para rastrear al hombre lobo aumenta en dos cuando este Don esté activo; esta disminución se acumula a otros efectos similares, como Olor a Agua Corriente."
     },
     "sources": [
       {
@@ -3104,7 +2979,10 @@
     "tags": [
       "don",
       "Theurge",
-      "Ajaba"
+      "Ajaba",
+      "Camazotz",
+      "Grondr",
+      "Uktena"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -3133,45 +3011,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: raza",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "raza": "Camazotz"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "raza": "Grondr"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "mechanics_html": {
       "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>",
       "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
@@ -3188,7 +3027,8 @@
       "don",
       "Theurge",
       "Ajaba",
-      "Ananasi"
+      "Ananasi",
+      "Apis"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -3196,8 +3036,7 @@
       "breed_auspice": [
         "Theurge"
       ],
-      "system_es": "El jugador gasta un punto de Gnosis y tira Inteligencia + Empatía (la dificultad es el nivel de Rabia actual del objetivo o 5 para quienes no poseen Rabia). Cada éxito cura un nivel de daño letal, contundente o agravado. El sanador puede incluso curar Cicatrices de Batalla (ver pág. 260) de esta forma si el Don se aplica durante la misma escena en la que se recibe la Cicatriz y se gasta un punto adicional de Gnosis.",
-      "raza": "Apis"
+      "system_es": "El jugador gasta un punto de Gnosis y tira Inteligencia + Empatía (la dificultad es el nivel de Rabia actual del objetivo o 5 para quienes no poseen Rabia). Cada éxito cura un nivel de daño letal, contundente o agravado. El sanador puede incluso curar Cicatrices de Batalla (ver pág. 260) de esta forma si el Don se aplica durante la misma escena en la que se recibe la Cicatriz y se gasta un punto adicional de Gnosis."
     },
     "sources": [
       {
@@ -3221,12 +3060,6 @@
         {
           "sources": [
             "w20-aniversario-core-es"
-          ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {}
         },
@@ -3867,18 +3700,21 @@
     "line": "werewolf",
     "name_en": "Fangs of Judgment",
     "name_es": "Colmillos del Juicio",
-    "body_es": "Como el Don Philodox.",
+    "body_es": "Es responsabilidad del Philodox no sólo juzgar sino también castigar a aquéllos que han abandonado el lugar que les corresponde. Un espíritu Ancestro enseña este Don, el cual hace que las garras y colmillos del hombre lobo ardan con el justo poder de la ley. Sistema: El jugador gasta un punto de Fuerza de Voluntad. Durante el próximo día completo, todos los ataques que el Garou haga con sus armas naturales causan dos dados adicionales de daño a todos los seres que hayan abandonado su propósito original en favor del servicio al Wyrm (como los Danzantes de la Espiral Negra, Fomori y espíritus de la naturaleza corrompidos; las Perdiciones, que vinieron al mundo como agentes del Wyrm son, lamentablemente, excepciones al castigo de este Don).",
     "tags": [
-      "grondr",
-      "raza-perdida",
-      "don-generico",
-      "referencia-cruzada",
-      "Philodox"
+      "don",
+      "Philodox",
+      "Grondr"
     ],
     "mechanics": {
-      "rank": "Nivel dos",
-      "raza": "Grondr",
-      "reference": "Como el Don Philodox"
+      "rank": [
+        "Nivel dos",
+        "Nivel uno"
+      ],
+      "auspices_tribes": [
+        "Philodox"
+      ],
+      "raza": "Grondr"
     },
     "sources": [
       {
@@ -3902,21 +3738,21 @@
     "line": "werewolf",
     "name_en": "Scent of the True Form",
     "name_es": "Olor de la Auténtica Forma",
-    "body_es": "Como el Don Philodox.",
+    "body_es": "El Philodox es capaz de oler la verdad de aquéllos que se encuentra, olisqueando literalmente la verdadera forma de un individuo. Un espíritu buitre enseña este Don. Sistema: El Garou puede identificar por el olor a la [Parentela](/werewolf/backgrounds/kinfolk) o a otro hombre lobo de forma automática. En todos los demás casos, el jugador debe tirar Percepción + Impulso Primario (dificultad 6). Un éxito identificará a un humano normal o un animal; dos éxitos detectarán a un vampiro, changeling, demonio, momia o Fera; se necesitan cuatro éxitos para descubrir a un mago, Ghoul o Fomor. A efectos de este Don, los Imbuidos se consideran humanos normales. Los olores poco familiares no se reconocen de manera automática: un Philodox que nunca ha encontrado a un [Rokea](/werewolf/changing-breeds/rokea) podría no reconocer inmediatamente el olor que detecta como de 'hombre tiburón'.",
     "tags": [
-      "apis",
-      "raza-perdida",
-      "don-generico",
-      "referencia-cruzada",
-      "Philodox"
+      "don",
+      "Philodox",
+      "Apis",
+      "Camazotz"
     ],
     "mechanics": {
       "rank": [
         "Nivel dos",
         "Nivel uno"
       ],
-      "raza": "Apis",
-      "reference": "Como el Don Philodox"
+      "auspices_tribes": [
+        "Philodox"
+      ]
     },
     "sources": [
       {
@@ -3938,6 +3774,30 @@
       "conflicts": [
         {
           "sources": [
+            "w20-aniversario-core-es"
+          ],
+          "mechanics": {}
+        },
+        {
+          "sources": [
+            "w20-nsr-aniversario-parte-3-290pp"
+          ],
+          "mechanics": {}
+        },
+        {
+          "sources": [
+            "w20-nsr-aniversario-parte-3-290pp"
+          ],
+          "mechanics": {}
+        },
+        {
+          "sources": [
+            "w20-nsr-aniversario-parte-3-290pp"
+          ],
+          "mechanics": {}
+        },
+        {
+          "sources": [
             "w20-nsr-aniversario-parte-3-290pp"
           ],
           "mechanics": {
@@ -3951,6 +3811,12 @@
           "mechanics": {
             "raza": "Camazotz"
           }
+        },
+        {
+          "sources": [
+            "w20-nsr-aniversario-parte-3-290pp"
+          ],
+          "mechanics": {}
         }
       ]
     }
@@ -3968,15 +3834,18 @@
       "referencia-cruzada",
       "Ajaba",
       "Ananasi",
+      "Apis",
+      "Danzantes de la Espiral Negra",
       "Fenrir",
-      "Philodox"
+      "Grondr",
+      "Philodox",
+      "Wendigo"
     ],
     "mechanics": {
       "type_label": "Don",
       "rank": "Nivel uno",
       "tribu": "Wendigo",
-      "cross_reference": "Como el Don Philodox",
-      "nivel": "uno"
+      "cross_reference": "Como el Don Philodox"
     },
     "sources": [
       {
@@ -3995,39 +3864,13 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources: breed, category, raza, tribu",
+      "reason": "mechanics differ across sources: breed, category",
       "conflicts": [
         {
           "sources": [
             "w20-aniversario-core-es"
           ],
-          "mechanics": {
-            "tribu": "Wendigo"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "tribu": "Danzantes de la Espiral Negra"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "raza": "Apis"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {
-            "raza": "Grondr"
-          }
+          "mechanics": {}
         },
         {
           "sources": [
@@ -4090,20 +3933,24 @@
     "id": "apis-strength-of-resolve",
     "type": "gift",
     "line": "werewolf",
-    "name_en": "Strength of Resolve",
+    "name_en": "Strength of Purpose",
     "name_es": "Fuerza de la Resolución",
-    "body_es": "Como el Don Philodox.",
+    "body_es": "Los Philodox usan este Don para fortalecerse frente al Apocalipsis, convirtiendo la ardiente pasión y la abrasadora Rabia en una determinación fría como el acero. Un espíritu lobo enseña este Don. Sistema: Una vez por escena, el jugador puede tirar Resistencia + Rituales (dificultad 7). Por cada dos éxitos, el Philodox recupera un punto de Fuerza de Voluntad, hasta su propio máximo.",
     "tags": [
-      "apis",
-      "raza-perdida",
-      "don-generico",
-      "referencia-cruzada",
-      "Philodox"
+      "don",
+      "Philodox",
+      "Apis"
     ],
     "mechanics": {
-      "rank": "Nivel tres",
-      "raza": "Apis",
-      "reference": "Como el Don Philodox"
+      "rank": [
+        "Nivel dos",
+        "Nivel tres"
+      ],
+      "auspices_tribes": [
+        "Philodox"
+      ],
+      "level": "Nivel dos",
+      "raza": "Apis"
     },
     "sources": [
       {
@@ -4319,7 +4166,8 @@
       "wendigo",
       "referencia-cruzada",
       "Ajaba",
-      "Philodox"
+      "Philodox",
+      "Wendigo"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -4355,18 +4203,21 @@
     "line": "werewolf",
     "name_en": "Sense the Balance",
     "name_es": "Sentir el Equilibrio",
-    "body_es": "Como el Don Philodox.",
+    "body_es": "Como árbitros de la Nación Garou los Philodox han desarrollado una sintonía con las fuerzas cósmicas que equilibran la Teluria. El hombre lobo puede sentir una sobreabundancia de las energías del Wyrm, el Kaos o la Tejedora en un lugar. Un espíritu gato enseña este Don. Sistema: El jugador gasta un punto de Gnosis y tira Percepción + Enigmas (dificultad 8) para detectar el [equilibrio](/werewolf/gifts/ananasi-general-balance) espiritual de una zona, si lo hubiese. Las manifestaciones del Wyrm se perciben como densas y aceitosas, las de la Tejedora como frías e inflexibles, y las del Kaos son cálidas y trémulas. Para usar este Don, el Philodox debe estar en calma y no tener [distracciones](/werewolf/gifts/ajaba-midnight-distractions).",
     "tags": [
-      "grondr",
-      "raza-perdida",
-      "don-generico",
-      "referencia-cruzada",
-      "Philodox"
+      "don",
+      "Philodox",
+      "Grondr"
     ],
     "mechanics": {
-      "rank": "Nivel dos",
-      "raza": "Grondr",
-      "reference": "Como el Don Philodox"
+      "rank": [
+        "Nivel dos",
+        "Nivel tres"
+      ],
+      "auspices_tribes": [
+        "Philodox"
+      ],
+      "raza": "Grondr"
     },
     "sources": [
       {
@@ -4600,13 +4451,12 @@
     "name_es": "Habla Mental",
     "body_es": "Como el Don Galliard.",
     "tags": [
-      "ratkin",
-      "bardos-ratkin",
-      "raza-perdida",
-      "don-generico",
-      "referencia-cruzada",
+      "ajaba",
+      "gift",
+      "Medianoche",
       "Ajaba",
       "Ananasi",
+      "Bardos Ratkin",
       "Galliard"
     ],
     "mechanics": {
@@ -4614,8 +4464,8 @@
         "Nivel dos",
         "Nivel uno"
       ],
-      "raza": "Bardos Ratkin",
-      "reference": "Como el Don Galliard"
+      "breed": "Ajaba",
+      "category": "Medianoche"
     },
     "sources": [
       {
@@ -4639,12 +4489,6 @@
           "sources": [
             "w20-nsr-aniversario-parte-3-290pp"
           ],
-          "mechanics": {}
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
           "mechanics": {
             "breed": "Ajaba",
             "category": "Medianoche"
@@ -4662,7 +4506,7 @@
       ]
     },
     "mechanics_html": {
-      "raza": "Bardos <a href=\"/werewolf/changing-breeds/ratkin\">Ratkin</a>"
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
     }
   },
   {
@@ -4673,17 +4517,15 @@
     "name_es": "Lenguaje de las Bestias",
     "body_es": "Como el Don Galliard.",
     "tags": [
-      "apis",
-      "raza-perdida",
-      "don-generico",
-      "referencia-cruzada",
+      "ajaba",
+      "gift",
+      "Medianoche",
       "Ajaba",
+      "Apis",
       "Galliard"
     ],
     "mechanics": {
       "rank": "Nivel uno",
-      "raza": "Apis",
-      "reference": "Como el Don Galliard",
       "breed": "Ajaba",
       "category": "Medianoche"
     },
@@ -4749,17 +4591,15 @@
     "name_es": "Recuerdo Perfecto",
     "body_es": "Como el Don Galliard.",
     "tags": [
-      "camazotz",
-      "raza-perdida",
-      "don-generico",
-      "referencia-cruzada",
+      "ajaba",
+      "gift",
+      "Medianoche",
       "Ajaba",
+      "Camazotz",
       "Galliard"
     ],
     "mechanics": {
       "rank": "Nivel uno",
-      "raza": "Camazotz",
-      "reference": "Como el Don Galliard",
       "breed": "Ajaba",
       "category": "Medianoche"
     },
@@ -5225,7 +5065,8 @@
       "uktena",
       "referencia-cruzada",
       "Ajaba",
-      "Galliard"
+      "Galliard",
+      "Uktena"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -5364,18 +5205,18 @@
     "line": "werewolf",
     "name_en": "Falling Touch",
     "name_es": "Roce del Derribo",
-    "body_es": "Como el Don Ahroun.",
+    "body_es": "Este Don permite al Garou tumbar a su enemigo con un toque. Cualquier espíritu aéreo puede enseñar este Don. Sistema: El jugador tira Fuerza de Voluntad (dificultad igual a la Resistencia + Atletismo del oponente). Un solo éxito ya manda a la víctima al suelo. Este Don puede emplearse incluso con el más ligero roce sin coste alguno, o puede aplicarse en un ataque gastando un punto de Fuerza de Voluntad o Rabia. Este tipo de ataques infligen daño completo además de derribar al oponente.",
     "tags": [
-      "grondr",
-      "raza-perdida",
-      "don-generico",
-      "referencia-cruzada",
-      "Ahroun"
+      "don",
+      "Ahroun",
+      "Grondr"
     ],
     "mechanics": {
       "rank": "Nivel uno",
-      "raza": "Grondr",
-      "reference": "Como el Don Ahroun"
+      "auspices_tribes": [
+        "Ahroun"
+      ],
+      "raza": "Grondr"
     },
     "sources": [
       {
@@ -5522,7 +5363,8 @@
       "wendigo",
       "referencia-cruzada",
       "Ahroun",
-      "Ananasi"
+      "Ananasi",
+      "Wendigo"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -5692,21 +5534,19 @@
     "id": "ajaba-dawn-stoke-furys-furnace",
     "type": "gift",
     "line": "werewolf",
-    "name_en": "Stoke the Cauldron of Rage",
+    "name_en": "Stoke Fury's Furnace",
     "name_es": "Avivar la Caldera de la Furia",
     "body_es": "Como el Don Ahroun.",
     "tags": [
-      "grondr",
-      "raza-perdida",
-      "don-generico",
-      "referencia-cruzada",
+      "ajaba",
+      "gift",
+      "Alba",
       "Ahroun",
-      "Ajaba"
+      "Ajaba",
+      "Grondr"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
-      "raza": "Grondr",
-      "reference": "Como el Don Ahroun",
       "breed": "Ajaba",
       "category": "Alba"
     },
@@ -5807,18 +5647,21 @@
     "line": "werewolf",
     "name_en": "Kiss of Helios",
     "name_es": "Beso de Helios",
-    "body_es": "Como el Don Ahroun.",
+    "body_es": "El Ahroun puede invocar el poder del Sol para adquirir inmunidad a las llamas. Además, puede incendiar cualquier parte de su cuerpo y mantenerla ardiendo según desee. Los Garou con este Don son tan dados a prender su pelaje en honor al Sol durante los rituales como a incendiar sus garras o colmillos en la batalla. Un elemental de fuego o un espíritu del Sol enseña este Don. Sistema: El jugador gasta un punto de Gnosis. Durante el resto de la escena, el personaje no recibe daño de ninguna fuente natural de calor o fuego. Las de origen artificial (napalm, estufas de gas, etc.) o sobrenatural no pueden causarle más de un nivel de daño contundente por turno. El personaje inflige dos dados adicionales de daño agravado con sus ataques ardientes.",
     "tags": [
-      "apis",
-      "raza-perdida",
-      "don-generico",
-      "referencia-cruzada",
-      "Ahroun"
+      "don",
+      "Ahroun",
+      "Apis"
     ],
     "mechanics": {
-      "rank": "Nivel cinco",
-      "raza": "Apis",
-      "reference": "Como el Don Ahroun"
+      "rank": [
+        "Nivel cinco",
+        "Nivel cuatro"
+      ],
+      "auspices_tribes": [
+        "Ahroun"
+      ],
+      "raza": "Apis"
     },
     "sources": [
       {
@@ -6194,18 +6037,18 @@
     "line": "werewolf",
     "name_en": "Heart of the Mountain",
     "name_es": "Corazón de la Montaña",
-    "body_es": "Como el Don de la Camada de [Fenris](/werewolf/totems/fenris).",
+    "body_es": "El hombre lobo se vuelve incansable y eterno como las montañas y no puede ser derrotado en una prueba de resistencia. Un espíritu cabra montesa enseña este Don. Sistema: El jugador gasta un punto de Rabia y otro de Fuerza de Voluntad. Durante el resto de la escena, el Garou no puede fallar ninguna tarea relacionada con Resistencia. Los torturadores nunca podrán doblegarlo; aunque no pueda respirar bajo el agua y sus pulmones puedan anegarse, no morirá. La única excepción a esto es la absorción del daño. Mientras este Don esté activo, el hombre lobo tiene garantizado que al menos absorberá un nivel de daño, pero por lo demás recibe daño de forma normal.",
     "tags": [
-      "apis",
-      "raza-perdida",
-      "don-generico",
-      "referencia-cruzada",
-      "Fenrir"
+      "don",
+      "Fenrir",
+      "Apis"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
-      "raza": "Apis",
-      "reference": "Como el Don de la Camada de Fenris"
+      "auspices_tribes": [
+        "Fenrir"
+      ],
+      "raza": "Apis"
     },
     "sources": [
       {
@@ -6222,10 +6065,7 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ],
-    "mechanics_html": {
-      "reference": "Como el Don de la Camada de <a href=\"/werewolf/totems/fenris\">Fenris</a>"
-    }
+    ]
   },
   {
     "id": "heros-stance-wendigo",
@@ -6238,7 +6078,8 @@
       "don",
       "wendigo",
       "referencia-cruzada",
-      "Fenrir"
+      "Fenrir",
+      "Wendigo"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -6408,18 +6249,18 @@
     "line": "werewolf",
     "name_en": "Silence",
     "name_es": "Silencio",
-    "body_es": "Como el Don de los Caminantes Silenciosos.",
+    "body_es": "El Caminante puede reprimir cualquier sonido que haga, algo muy útil para acercarse sigilosamente a los sirvientes del Wyrm o escapar de ellos sin ser detectado. Un espíritu búho enseña este Don. Sistema: El jugador añade dos dados a todas sus tiradas de Destreza + Sigilo.",
     "tags": [
-      "camazotz",
-      "raza-perdida",
-      "don-generico",
-      "referencia-cruzada",
-      "Caminantes Silenciosos"
+      "don",
+      "Caminantes Silenciosos",
+      "Camazotz"
     ],
     "mechanics": {
       "rank": "Nivel uno",
-      "raza": "Camazotz",
-      "reference": "Como el Don de los Caminantes Silenciosos"
+      "auspices_tribes": [
+        "Caminantes Silenciosos"
+      ],
+      "raza": "Camazotz"
     },
     "sources": [
       {
@@ -6530,18 +6371,21 @@
     "line": "werewolf",
     "name_en": "Messenger's Fortitude",
     "name_es": "Fortaleza del Mensajero",
-    "body_es": "Como el Don de los Caminantes Silenciosos, pero permite volar en lugar de correr.",
+    "body_es": "El Caminante puede correr a máxima velocidad durante tres días sin descansar, comer o beber. Cuando alcanza su destino, tiene diez minutos para ocuparse del asunto que lo llevó hasta el lugar; luego debe dormir un día completo. Un espíritu camello o lobo enseña este Don. Sistema: El jugador gasta un punto de Gnosis. Hacer cualquier cosa que no sea correr pone fin al Don. Otros también pueden recibir la Fortaleza del Mensajero si se gasta un punto de Gnosis por corredor adicional.",
     "tags": [
-      "camazotz",
-      "raza-perdida",
-      "don-generico",
-      "referencia-cruzada",
-      "Caminantes Silenciosos"
+      "don",
+      "Caminantes Silenciosos",
+      "Camazotz"
     ],
     "mechanics": {
-      "rank": "Nivel dos",
-      "raza": "Camazotz",
-      "reference": "Como el Don de los Caminantes Silenciosos (volar en lugar de correr)"
+      "rank": [
+        "Nivel dos",
+        "Nivel tres (Swara) / Nivel dos (Corax)"
+      ],
+      "auspices_tribes": [
+        "Caminantes Silenciosos"
+      ],
+      "raza": "Camazotz"
     },
     "sources": [
       {
@@ -6557,7 +6401,13 @@
         "page": null,
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "rank": [
+        "Nivel dos",
+        "Nivel tres (Swara) / Nivel dos (<a href=\"/werewolf/changing-breeds/corax\">Corax</a>)"
+      ]
+    }
   },
   {
     "id": "adaptation",
@@ -6746,17 +6596,15 @@
     "name_es": "Sintonización",
     "body_es": "Como el Don de los Caminantes Silenciosos.",
     "tags": [
-      "apis",
-      "raza-perdida",
-      "don-generico",
-      "referencia-cruzada",
+      "ananasi",
+      "gift",
+      "Viskr",
       "Ananasi",
+      "Apis",
       "Caminantes Silenciosos"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
-      "raza": "Apis",
-      "reference": "Como el Don de los Caminantes Silenciosos",
       "breed": "Ananasi",
       "category": "Viskr"
     },
@@ -7145,21 +6993,19 @@
     "id": "apis-mindblock",
     "type": "gift",
     "line": "werewolf",
-    "name_en": "Mindblock",
+    "name_en": "Mind Block",
     "name_es": "Bloqueo Mental",
     "body_es": "Como el Don de los Colmillos Plateados.",
     "tags": [
-      "apis",
-      "raza-perdida",
-      "don-generico",
-      "referencia-cruzada",
+      "ananasi",
+      "gift",
+      "Kumoti",
       "Ananasi",
+      "Apis",
       "Colmillos Plateados"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
-      "raza": "Apis",
-      "reference": "Como el Don de los Colmillos Plateados",
       "breed": "Ananasi",
       "category": "Kumoti"
     },
@@ -7619,19 +7465,16 @@
     "id": "camazotz-supernatural-awareness",
     "type": "gift",
     "line": "werewolf",
-    "name_en": "Supernatural Awareness",
+    "name_en": "Preternatural Awareness",
     "name_es": "Consciencia Sobrenatural",
-    "body_es": "Como el Don de los Contemplaestrellas.",
+    "body_es": "El Contemplaestrellas sintoniza todos sus sentidos con su entorno, volviendose preternaturalmente consciente de lo que hace su oponente y permitiendole anticiparse a el de alguna forma. Un espiritu de viento ensena este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Percepcion + Atletismo (dificultad 7). Todas las reservas de dados del oponente para golpear al Garou se reducen en un numero de dados igual a los exitos de la tirada. Esta penalizacion se aplica incluso si el hombre lobo no puede ver acercarse al atacante. Los efectos de este Don duran una escena.",
     "tags": [
-      "camazotz",
-      "raza-perdida",
-      "don-generico",
-      "referencia-cruzada"
+      "stargazers",
+      "Camazotz"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
-      "raza": "Camazotz",
-      "reference": "Como el Don de los Contemplaestrellas"
+      "raza": "Camazotz"
     },
     "sources": [
       {
@@ -7800,17 +7643,15 @@
     "line": "werewolf",
     "name_en": "Resist Toxin",
     "name_es": "Resistir Toxina",
-    "body_es": "Igual que el Don de los Fianna. Debido a los numerosos peligros tóxicos que hay en una Colmena, este Don suele ser necesario para sobrevivir.",
+    "body_es": "Como el Don de los Fianna.",
     "tags": [
-      "don",
-      "danzantes-de-la-espiral-negra",
-      "nivel-1",
-      "Ananasi"
+      "ananasi",
+      "gift",
+      "general",
+      "Ananasi",
+      "Danzantes de la Espiral Negra"
     ],
     "mechanics": {
-      "nivel": "uno",
-      "tribu": "Danzantes de la Espiral Negra",
-      "referencia": "Igual que el Don de los Fianna",
       "rank": "Nivel uno",
       "breed": "Ananasi",
       "category": "general"
@@ -8123,17 +7964,17 @@
     "line": "werewolf",
     "name_en": "Breath of Chaos",
     "name_es": "Aliento del Kaos",
-    "body_es": "Como el Don de las Furias Negras.",
+    "body_es": "Las Furias abrazan la energia de la creacion y pueden compartir esa pasion con los demas. Con este Don, la Furia Negra inculca un sentimiento de vitalidad, vida y lucidez en otro ser vivo. Un siervo de [Pegaso](/werewolf/totems/pegasus) ensena este Don.\n\n**Sistema:** La Furia debe tocar la piel de su objetivo. El jugador tira Gnosis (dificultad 5 contra Garou y [Parentela](/werewolf/backgrounds/kinfolk); dificultad 6 para los demas). Los exitos conceden al receptor una subita vitalidad mental; en terminos de juego, recibe un dado adicional en todas las tiradas mentales durante el resto de la escena. Tambien anade uno a la dificultad de todas las tiradas de Rabia realizadas durante la escena.",
     "tags": [
-      "grondr",
-      "raza-perdida",
-      "don-generico",
-      "referencia-cruzada"
+      "black-furies",
+      "Grondr"
     ],
     "mechanics": {
-      "rank": "Nivel dos",
-      "raza": "Grondr",
-      "reference": "Como el Don de las Furias Negras"
+      "rank": [
+        "Nivel dos",
+        "Nivel uno"
+      ],
+      "raza": "Grondr"
     },
     "sources": [
       {
@@ -9063,19 +8904,16 @@
     "id": "apis-brothers-scent",
     "type": "gift",
     "line": "werewolf",
-    "name_en": "Brother's Scent",
+    "name_en": "Scent of the Brother",
     "name_es": "Olor del Hermano",
-    "body_es": "Como el Don de los Hijos de Gaia.",
+    "body_es": "Recurriendo a la hermandad universal de todas las criaturas de Gaia, el hombre lobo parece encajar alla donde vaya. Aquellos que no tengan motivos para sospechar de la presencia del Hijo simplemente lo pasan por alto. Un sirviente de [Unicornio](/werewolf/totems/unicorn) ensena este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Apariencia + Empatia (dificultad 6). Todos los individuos que no esten especificamente en guardia contra los intrusos pasaran por alto cualquier incongruencia en presencia del Garou; por ejemplo, un hombre desnudo cubierto de sangre y llevando un enorme [klaive](/werewolf/fetishs/klaive) atravesando una fiesta de la alta sociedad no llamaria la atencion particularmente, como tampoco lo haria un lobo merodeando a traves de un barrio residencial. El Garou no es invisible, simplemente no destaca cuando de otra forma si lo haria y su apariencia se considera anodina incluso cuando interactuan con el. Si las acciones del hombre lobo pudieran atraer la atencion sobre el (grita, comienza una pelea, trata de echar abajo una [puerta cerrada](/werewolf/gifts/closed-door)), la ilusion del Don se rompe inmediatamente. Quienes explicitamente buscan intrusos (los guardias de seguridad de un recinto privado, por ejemplo) no sucumben a este Don a menos que su Fuerza de Voluntad sea menor que los exitos obtenidos por el Garou en la tirada de activacion.",
     "tags": [
-      "apis",
-      "raza-perdida",
-      "don-generico",
-      "referencia-cruzada"
+      "children-of-gaia",
+      "Apis",
+      "Grondr"
     ],
     "mechanics": {
-      "rank": "Nivel uno",
-      "raza": "Apis",
-      "reference": "Como el Don de los Hijos de Gaia"
+      "rank": "Nivel uno"
     },
     "sources": [
       {
@@ -9094,6 +8932,18 @@
     "review": {
       "reason": "mechanics differ across sources: raza",
       "conflicts": [
+        {
+          "sources": [
+            "w20-aniversario-core-es"
+          ],
+          "mechanics": {}
+        },
+        {
+          "sources": [
+            "w20-nsr-aniversario-parte-3-290pp"
+          ],
+          "mechanics": {}
+        },
         {
           "sources": [
             "w20-nsr-aniversario-parte-3-290pp"
@@ -9368,17 +9218,14 @@
     "line": "werewolf",
     "name_en": "The Living Wood",
     "name_es": "El Bosque Viviente",
-    "body_es": "Como el Don de los Hijos de Gaia.",
+    "body_es": "El Hijo de Gaia invoca a los poderes del bosque para que se alcen y ayuden. Los arboles cercanos comienzan a moverse e intentan proteger al Garou. Las ramas y enredaderas atraparan, bloquearan e incluso pelearan contra quienes intenten causarle dano. Un Hijo del Calvero ensena este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Carisma + [Supervivencia](/werewolf/gifts/survival) (dificultad 8). El personaje anima un arbol por cada exito obtenido.",
     "tags": [
-      "grondr",
-      "raza-perdida",
-      "don-generico",
-      "referencia-cruzada"
+      "children-of-gaia",
+      "Grondr"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
-      "raza": "Grondr",
-      "reference": "Como el Don de los Hijos de Gaia"
+      "raza": "Grondr"
     },
     "sources": [
       {
@@ -9979,17 +9826,18 @@
     "line": "werewolf",
     "name_en": "Desperate Strength",
     "name_es": "Fuerza Desesperada",
-    "body_es": "Como el Don de los Roehuesos.",
+    "body_es": "El hombre lobo recurre a sus ultimas reservas para disfrutar de un repentino aumento de su fuerza. Un espiritu tejon ensena este Don.\n\n**Sistema:** Cuando tire para realizar una proeza de Fuerza (ver pag. 273), el hombre lobo puede anadir un dado a la tirada por cada nivel de dano contundente que acepte como precio por este Don.",
     "tags": [
-      "grondr",
-      "raza-perdida",
-      "don-generico",
-      "referencia-cruzada"
+      "bone-gnawers",
+      "Grondr"
     ],
     "mechanics": {
-      "rank": "Nivel tres",
-      "raza": "Grondr",
-      "reference": "Como el Don de los Roehuesos"
+      "rank": [
+        "Nivel tres",
+        "Nivel uno"
+      ],
+      "level": "Nivel uno",
+      "raza": "Grondr"
     },
     "sources": [
       {
@@ -10005,7 +9853,10 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ]
+    ],
+    "review": {
+      "reason": "En la extraccion la etiqueta 'Sistema:' aparece desplazada y el texto del sistema quedo partido/reordenado ('...que acepte como' / 'Sistema: precio por este Don'). Reconstruido en orden logico; verificar contra la fuente."
+    }
   },
   {
     "id": "scent-of-sweet-honey",
@@ -10044,19 +9895,14 @@
     "name_es": "Aroma Odioso",
     "body_es": "Como el Don de los Roehuesos.",
     "tags": [
-      "grondr",
-      "raza-perdida",
-      "don-generico",
-      "referencia-cruzada",
-      "Ajaba"
+      "ajaba",
+      "gift",
+      "general",
+      "Ajaba",
+      "Grondr"
     ],
     "mechanics": {
-      "rank": [
-        "Nivel dos",
-        "Nivel tres"
-      ],
-      "raza": "Grondr",
-      "reference": "Como el Don de los Roehuesos",
+      "rank": "Nivel dos",
       "breed": "Ajaba",
       "category": "general"
     },
@@ -10461,19 +10307,19 @@
     "id": "camazotz-catching-whispers",
     "type": "gift",
     "line": "werewolf",
-    "name_en": "Catching Whispers",
+    "name_en": "Catch Whispers",
     "name_es": "Atrapar Susurros",
-    "body_es": "Como el Don de los Señores de la Sombra.",
+    "body_es": "Puede haber algun buen motivo para ocultarles secretos a los protectores de Gaia? Este Don permite al hombre lobo escuchar a escondidas de forma sobrenatural las conversaciones susurradas; por supuesto, lo que haga con la informacion obtenida depende de su conciencia. Un espiritu [cuervo](/werewolf/totems/raven) o murcielago ensena este Don.\n\n**Sistema:** El jugador gasta un punto de Fuerza de Voluntad. Durante el resto de la escena, todos los susurros a 60 metros (200 pies) resultan perfectamente audibles para el Senor de la Sombra, como si se hubiesen pronunciado con total [claridad](/werewolf/gifts/clarity) a su lado.",
     "tags": [
-      "camazotz",
-      "raza-perdida",
-      "don-generico",
-      "referencia-cruzada"
+      "shadow-lords",
+      "Camazotz"
     ],
     "mechanics": {
-      "rank": "Nivel uno",
-      "raza": "Camazotz",
-      "reference": "Como el Don de los Señores de la Sombra"
+      "rank": [
+        "Nivel dos",
+        "Nivel uno"
+      ],
+      "raza": "Camazotz"
     },
     "sources": [
       {
@@ -10490,7 +10336,7 @@
       }
     ],
     "review": {
-      "reason": "El extractor PDF fragmentó y desordenó esta entrada ('Atrapar Susurros (Nivel uno): los Señores de la Sombra.' + '- Como el Don'); reconstruida como 'Como el Don de los Señores de la Sombra'. Verificar contra la fuente."
+      "reason": "El texto del Sistema aparece con palabras entremezcladas en la extraccion ('a 60 fectamente metros (200 pies) resultan peraudibles'). Reconstruido como '60 metros (200 pies) resultan perfectamente audibles'; verificar contra la fuente."
     }
   },
   {
@@ -10745,7 +10591,8 @@
     "tags": [
       "don",
       "hakken",
-      "senores-de-la-sombra"
+      "senores-de-la-sombra",
+      "Hakken"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -10775,7 +10622,8 @@
     "tags": [
       "don",
       "hakken",
-      "senores-de-la-sombra"
+      "senores-de-la-sombra",
+      "Hakken"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -10804,7 +10652,8 @@
     "tags": [
       "don",
       "hakken",
-      "senores-de-la-sombra"
+      "senores-de-la-sombra",
+      "Hakken"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -10835,7 +10684,8 @@
     "tags": [
       "don",
       "hakken",
-      "senores-de-la-sombra"
+      "senores-de-la-sombra",
+      "Hakken"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -10869,7 +10719,8 @@
     "tags": [
       "don",
       "hakken",
-      "senores-de-la-sombra"
+      "senores-de-la-sombra",
+      "Hakken"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -10905,7 +10756,8 @@
     "tags": [
       "don",
       "hakken",
-      "senores-de-la-sombra"
+      "senores-de-la-sombra",
+      "Hakken"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -10935,7 +10787,8 @@
     "body_es": "El Señor de la Sombra parece crecer y hacerse más impresionante, convirtiéndose en una versión más oscura y terrible de sí mismo. Este cambio en el aspecto puede intimidar terriblemente a cualquiera que lo mire. Un [Cuervo](/werewolf/totems/raven) de la Tempestad enseña este Don.\n\n**Sistema:** El hombre lobo se concentra durante un turno; el jugador gasta un punto de Gnosis y tira Manipulación + Intimidación (dificultad 7). Cualquiera que tenga la intención de dañar al Señor de la Sombra debe hacer una tirada de Fuerza de Voluntad (dificultad 8) y lograr más éxitos de los que obtuvo el Señor para poder actuar con normalidad. Un fallo significa que las víctimas deben gastar un punto de Fuerza de Voluntad para atacar, emprender acciones contra él o incluso oponérsele. Este Don no le da control real sobre las víctimas a las que intimida, simplemente están demasiado espantadas como para oponerse activamente a él.",
     "tags": [
       "don",
-      "senores-de-la-sombra"
+      "senores-de-la-sombra",
+      "Señores de la Sombra"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -10972,7 +10825,8 @@
     "tags": [
       "don",
       "senores-de-la-sombra",
-      "Ajaba"
+      "Ajaba",
+      "Señores de la Sombra"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -11019,7 +10873,9 @@
     "tags": [
       "don",
       "senores-de-la-sombra",
-      "Ajaba"
+      "Ajaba",
+      "Danzantes de la Espiral Negra",
+      "Señores de la Sombra"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -11029,7 +10885,6 @@
       "difficulty": "7",
       "cost": "un punto de Gnosis",
       "spirit_teacher": "espíritu de dolor",
-      "nivel": "cuatro",
       "breed": "Ajaba",
       "category": "Ocaso"
     },
@@ -11050,31 +10905,7 @@
       }
     ],
     "review": {
-      "reason": "mechanics differ across sources: tribu",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "tribu": "Señores de la Sombra"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "tribu": "Danzantes de la Espiral Negra"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {}
-        }
-      ]
+      "reason": "Encabezado de la sección de Dones de los Señores de la Sombra ausente en el fragmento; se usó el ## más cercano ('DONES DE LOS HAKKEN')."
     },
     "mechanics_html": {
       "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
@@ -11089,7 +10920,9 @@
     "body_es": "Tras tejer redes de autoridad metafísica el hombre lobo domina un espíritu vinculado a un Amuleto y alarga a la fuerza la duración de su servicio hacia él. Algunos consideran este Don irrespetuoso, pero los Señores de la Sombra creen que sería ridículo descartar un arma que podría servir a Gaia sólo por educación. Un espíritu araña enseña este Don.\n\n**Sistema:** Al usar un Amuleto, el jugador puede gastar de forma refleja un punto de Gnosis para mantener al espíritu vinculado y que no se marche. Este Don no tiene efecto sobre los Amuletos que quedan destruidos debido a un aspecto inherente de su uso (como el Amuleto Belladona, que debe beberse para activar sus poderes), pero preserva los Amuletos cuya destrucción es un resultado metafísico del mismo (como Brillo de Luna o las Escamas del Wyrm).",
     "tags": [
       "don",
-      "senores-de-la-sombra"
+      "senores-de-la-sombra",
+      "Señores de la Sombra",
+      "Uktena"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -11141,7 +10974,8 @@
     "body_es": "El hombre lobo recurre a la ira de un objetivo para alimentar la suya propia. Un [Cuervo](/werewolf/totems/raven) de la Tempestad enseña este Don.\n\n**Sistema:** El jugador tira Astucia + Intimidación (la dificultad es igual a la Fuerza de Voluntad del objetivo). Durante un número de turnos igual a los éxitos obtenidos el objetivo perderá un punto de Rabia por turno, mientras que el Señor de la Sombra la ganará. El personaje puede usar este Don sólo una vez por objetivo y escena.",
     "tags": [
       "don",
-      "senores-de-la-sombra"
+      "senores-de-la-sombra",
+      "Señores de la Sombra"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -11183,7 +11017,8 @@
     "tags": [
       "don",
       "senores-de-la-sombra",
-      "Ajaba"
+      "Ajaba",
+      "Señores de la Sombra"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -11227,7 +11062,8 @@
     "body_es": "El Señor de la Sombra se convierte en el alfa definitivo, obligando a todos los demás a seguir sus órdenes. Un [Cuervo](/werewolf/totems/raven) de la Tempestad enseña este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Carisma + Liderazgo (dificultad 8). Todo el que esté en las cercanías debe tirar Fuerza de Voluntad (dificultad 8) y conseguir los mismos éxitos o más que el Garou, o sucumbir a los efectos del Don. Si el hombre lobo gana por un éxito, los objetivos siguen cualquier orden que no les cause molestias. Tres éxitos hacen que los objetivos traten al Señor de la Sombra como su alfa y luchen por él. Con cinco los objetivos lo seguirían hasta el Abismo o llevarían a cabo acciones virtualmente suicidas. Los efectos de este Don duran un día entero.",
     "tags": [
       "don",
-      "senores-de-la-sombra"
+      "senores-de-la-sombra",
+      "Señores de la Sombra"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -11270,7 +11106,8 @@
     "body_es": "De las manos y pies del hombre lobo brotan cientos de pequeños garfios que le permiten trepar o aferrarse a cualquier superficie, incluso escarpadas superficies verticales y techos. Un espíritu geco enseña este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis. Durante el resto de la escena, el personaje se puede mover a través de cualquier superficie sólida a la misma velocidad a la que camina. Quedarse pegado a una superficie vertical o techo mientras se realiza cualquier otra tarea extenuante (combatir, moverse más deprisa que caminando o intentar levantar una tapa de alcantarilla) requiere una tirada refleja de Resistencia + Atletismo (dificultad 7).",
     "tags": [
       "don",
-      "uktena"
+      "uktena",
+      "Uktena"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -11306,19 +11143,17 @@
     "body_es": "El hombre lobo puede sentir el pulso y el flujo de las energías místicas, ya sean los virtuosos Dones de los Garou, la arrogante hechicería de los magos, los corruptos Poderes de los vampiros o incluso las artes oscuras de los esbirros del Wyrm. Un espíritu sirviente de [Uktena](/werewolf/totems/uktena-totem) enseña este Don.\n\n**Sistema:** El jugador tira Percepción + Enigmas. La dificultad se basa en la fuerza y la sutileza de la magia. El [Uktena](/werewolf/totems/uktena-totem) no puede decir la naturaleza exacta de la magia, aunque pueden concederse pistas como 'Gaiana', 'Onírica', o 'Magia de Sangre' con tres o más éxitos. El radio es 6 metros (20 pies) por éxito.",
     "tags": [
       "don",
-      "uktena"
+      "uktena",
+      "Camazotz",
+      "Uktena"
     ],
     "mechanics": {
       "type_label": "Don",
-      "rank": [
-        "Nivel tres",
-        "Nivel uno"
-      ],
+      "rank": "Nivel uno",
       "tribu": "Uktena",
       "roll": "Percepción + Enigmas",
       "difficulty": "variable (según fuerza y sutileza de la magia)",
-      "spirit_teacher": "espíritu sirviente de Uktena",
-      "raza": "Camazotz"
+      "spirit_teacher": "espíritu sirviente de Uktena"
     },
     "sources": [
       {
@@ -11350,7 +11185,9 @@
     "tags": [
       "don",
       "uktena",
-      "Ananasi"
+      "Ananasi",
+      "Danzantes de la Espiral Negra",
+      "Uktena"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -11360,7 +11197,6 @@
       "difficulty": "variable: 3 al anochecer, 6 en interiores, 9 bajo la luz más brillante del Sol",
       "cost": "un punto de Gnosis",
       "spirit_teacher": "espíritu de noche",
-      "nivel": "uno",
       "breed": "Ananasi",
       "category": "Viskr"
     },
@@ -11380,33 +11216,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: tribu",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "tribu": "Uktena"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "tribu": "Danzantes de la Espiral Negra"
-          }
-        },
-        {
-          "sources": [
-            "w20-nsr-aniversario-parte-3-290pp"
-          ],
-          "mechanics": {}
-        }
-      ]
-    },
     "mechanics_html": {
       "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>",
       "breed": "<a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
@@ -11421,7 +11230,8 @@
     "body_es": "El [Uktena](/werewolf/totems/uktena-totem) convoca oscuros tentáculos de niebla o neblina que se enroscan en torno a sus enemigos y los atrapa en una fortísima presa. Cada zarcillo mide 9 metros (30 pies) de largo y posee los mismos Rasgos Físicos que el hombre lobo que los invoca. Un espíritu serpiente enseña este Don.\n\n**Sistema:** El jugador tira Destreza + Ocultismo, dificultad 7. Cada éxito hace que un zarcillo aparezca en el aire en un punto a 30 metros (100 pies) o menos del [Uktena](/werewolf/totems/uktena-totem). El jugador debe invertir un turno en concentrarse y tirar Destreza + Pelea para apuntar con los tentáculos. Éstos se concentran en un único objetivo, a menos que el jugador haga tiradas de ataque contra múltiples objetivos, con las penalizaciones normales por acciones múltiples. Los zarcillos sólo agarran y no pueden infligir daño. Para escapar, la víctima debe hacer una tirada de Fuerza, dificultad 7; si sus éxitos superan al número de zarcillos que lo sujetan, queda libre. Los tentáculos duran hasta el final de la escena o hasta que sean desconvocados, lo que pase antes.",
     "tags": [
       "don",
-      "uktena"
+      "uktena",
+      "Uktena"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -11453,7 +11263,8 @@
     "body_es": "Pocos enemigos esperarían que un hombre lobo atacase desde el aire; una excelente razón para hacerlo, a ojos de los [Uktena](/werewolf/totems/uktena-totem). El Garou que usa este Don puede planear, volar o flotar. Cualquier espíritu pájaro puede enseñar este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y, con una audible ráfaga de sus poderosas pero invisibles alas, el personaje se alza en el aire. El Garou puede volar a 32 kilómetros (20 millas) por hora y planear cuando lo desee. La dificultad de todas las maniobras de combate aumenta en uno. Este Don dura una hora.",
     "tags": [
       "don",
-      "uktena"
+      "uktena",
+      "Uktena"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -11485,7 +11296,8 @@
     "body_es": "El hombre lobo puede respirar bajo el agua y nadar tan rápido como pueda correr en Forma Hispo. Cualquier espíritu pez puede enseñar este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Resistencia + Trato con Animales (dificultad 7). El efecto dura una hora por éxito.",
     "tags": [
       "don",
-      "uktena"
+      "uktena",
+      "Uktena"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -11525,7 +11337,8 @@
     "body_es": "A veces, uno debe dar información para conseguir información. Sin embargo, los [Uktena](/werewolf/totems/uktena-totem) son notoriamente tacaños con los secretos. Con este Don, el hombre lobo puede compartir un poco de conocimiento que luego se desvanece de la memoria del sujeto. Un espíritu Ancestro enseña este Don.\n\n**Sistema:** Tras transmitir un poco de saber tradicional, el jugador tira Astucia + Subterfugio (la dificultad es la Astucia + Subterfugio del oponente). Si la tirada tiene éxito, cualquier información que el Utkena haya compartido se desvanece totalmente de la memoria del objetivo a la siguiente salida del Sol.",
     "tags": [
       "don",
-      "uktena"
+      "uktena",
+      "Uktena"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -11564,7 +11377,8 @@
     "body_es": "El [Uktena](/werewolf/totems/uktena-totem) no necesita llevar consigo sus Fetiches. Puede sacarlos de un escondite oculto siempre que los necesite, sin importar la distancia, y devolverlos con la misma facilidad. Un espíritu rata montera enseña este Don.\n\n**Sistema:** La primera parte del Don implica crear un escondite secreto para los Fetiches. El jugador gasta un punto de Gnosis y entierra o cubre sus objetos. Una vez se completa el ritual, sólo necesita gastar otro punto de Gnosis para invocar cualquiera o todos sus Fetiches, o devolverlos a su lugar oculto. El Fetiche aparece en su mano como si saliese de la nada. Sólo puede existir un lugar oculto a la vez, pero el [Uktena](/werewolf/totems/uktena-totem) puede reemplazarlo por uno nuevo cada vez que lo desee.",
     "tags": [
       "don",
-      "uktena"
+      "uktena",
+      "Uktena"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -11595,7 +11409,8 @@
     "body_es": "Unos filamentos plateados salen de las garras del Garou y los convierte en cintas de niebla que envuelven y confunden a los espíritus cercanos, minando sus fuerzas. Un espíritu niebla enseña este Don.\n\n**Sistema:** El [Uktena](/werewolf/totems/uktena-totem) se concentra durante un turno y el jugador gasta un punto de Gnosis y tira Destreza + Enigmas (dificultad 7). Afecta a un espíritu a elección del jugador en un radio de 60 metros (200 pies) por éxito. Los espíritus golpeados por este Don tratan sus puntuaciones de Rabia, Gnosis y Fuerza de Voluntad como si fuesen un punto menores de lo que en realidad son en todas las tiradas durante el resto de la escena.",
     "tags": [
       "don",
-      "uktena"
+      "uktena",
+      "Uktena"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -11634,7 +11449,8 @@
     "body_es": "Las garras del hombre lobo arden con una fuerza mística y desgarran los delicados procesos de la magia. Un espíritu Ancestro enseña este Don.\n\n**Sistema:** Después de que el hombre lobo realice un ataque de garrazo con éxito, el jugador puede gastar un punto de Fuerza de Voluntad para acabar con los efectos de cualquier Poder mágico en curso que mejore al objetivo (como el Don [Garras como Cuchillas](/werewolf/gifts/ajaba-dawn-razor-claws) o el Encantamiento de Armadura). No pueden despedazarse con este Don ni los efectos mágicos permanentes ni los poderes que son innatos a la naturaleza del objetivo. Por ejemplo, pueden cancelarse los Dones de un hombre lobo pero no su habilidad para Cambiar de Forma; pueden interrumpirse las Disciplinas de un vampiro pero no su inmortalidad o su habilidad de gastar Sangre para subir sus Atributos. En el caso de que un efecto mágico mezcle efectos permanentes y temporales, los permanentes se conservan mientras que los elementos transitorios se cancelan. Por ejemplo, la Potencia de un vampiro podría continuar con su efecto pasivo de conceder un dado adicional de Fuerza, pero no podría gastarse Sangre para transformar esos dados en éxitos automáticos.",
     "tags": [
       "don",
-      "uktena"
+      "uktena",
+      "Uktena"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -11665,7 +11481,8 @@
     "body_es": "Al salmodiar palabras de prohibición, el [Uktena](/werewolf/totems/uktena-totem) puede impedir que los Tótems de manada o personales ayuden a sus hijos. Al hacer esto también interrumpe el entendimiento espiritual entre los compañeros de manada y les dificulta ejecutar [tácticas de manada](/werewolf/gifts/ajaba-dawn-pack-tactics) o actuar en armonía. Un espíritu Ancestro enseña este Don.\n\n**Sistema:** El [Uktena](/werewolf/totems/uktena-totem) debe concentrarse un turno entero y debe saber a qué [Tótem](/werewolf/backgrounds/totem) siguen sus víctimas. El jugador gasta un punto de Gnosis y otro de Fuerza de Voluntad, y tira Gnosis a una dificultad igual a la suma de las puntuaciones de [Tótem](/werewolf/backgrounds/totem) de los miembros de la manada (máximo 10). Si tiene éxito, éstos pierden todos los Rasgos asociados con su [Tótem](/werewolf/backgrounds/totem) y no pueden usar [tácticas de manada](/werewolf/gifts/ajaba-dawn-pack-tactics) ni actuar en armonía durante el resto de la escena. Si se deja inconsciente al [Uktena](/werewolf/totems/uktena-totem) o muere, se cancela el Don.",
     "tags": [
       "don",
-      "uktena"
+      "uktena",
+      "Uktena"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -11699,7 +11516,8 @@
     "body_es": "El [Uktena](/werewolf/totems/uktena-totem) puede ver eventos de cualquier lugar mirando una superficie reflectante. Muchos seres sobrenaturales, particularmente aquéllos capaces de escrutar ellos mismos, conocen defensas contra él. Un espíritu mosca enseña este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Percepción + Ocultismo (dificultad 10 a menos que el [Uktena](/werewolf/totems/uktena-totem) posea un objeto perteneciente al personaje o lugar que está viendo, en cuyo caso la dificultad es de 8). El [Uktena](/werewolf/totems/uktena-totem) puede ver todo cuanto pase en ese área durante el resto de la escena.",
     "tags": [
       "don",
-      "uktena"
+      "uktena",
+      "Uktena"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -11738,20 +11556,18 @@
     "body_es": "El Garou puede desaparecer de la vista, aunque debe concentrarse para mantener su invisibilidad. No puede moverse más rápido que la mitad de su velocidad de paso y no puede llamar la atención sobre sí mismo. Un espíritu sirviente de [Uktena](/werewolf/totems/uktena-totem) enseña este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Inteligencia + Ocultismo (dificultad variable: 4 si ya está oculto, 6 si está al descubierto, 9 si está a plena vista). Alguien que busque al Garou debe sacar más éxitos en una tirada de Percepción + Alerta (dificultad 8) que los que el jugador obtuvo en la tirada inicial. Nadie que no esté buscando activamente al Garou podrá verlo.",
     "tags": [
       "don",
-      "uktena"
+      "uktena",
+      "Camazotz",
+      "Uktena"
     ],
     "mechanics": {
       "type_label": "Don",
-      "rank": [
-        "Nivel cuatro",
-        "Nivel tres"
-      ],
+      "rank": "Nivel tres",
       "tribu": "Uktena",
       "roll": "Inteligencia + Ocultismo",
       "difficulty": "variable: 4 si ya está oculto, 6 al descubierto, 9 a plena vista",
       "cost": "un punto de Gnosis",
-      "spirit_teacher": "espíritu sirviente de Uktena",
-      "raza": "Camazotz"
+      "spirit_teacher": "espíritu sirviente de Uktena"
     },
     "sources": [
       {
@@ -11782,7 +11598,9 @@
     "body_es": "El Garou es capaz de llamar a uno de los cuatro elementales clásicos para que lo ayuden (tierra, aire, fuego o agua). Un elemental enseña este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Gnosis (dificultad igual a la Celosía de la zona). Entonces, debe tirar Manipulación + Ocultismo (dificultad 7) para hacer que el elemental invocado esté dispuesto a ayudarlo. Éste se desvanece al final de la escena.",
     "tags": [
       "don",
-      "uktena"
+      "uktena",
+      "Danzantes de la Espiral Negra",
+      "Uktena"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -11790,8 +11608,7 @@
       "tribu": "Uktena",
       "roll": "Gnosis (dificultad = Celosía de la zona); luego Manipulación + Ocultismo (dificultad 7)",
       "cost": "un punto de Gnosis",
-      "spirit_teacher": "un elemental",
-      "nivel": "cuatro"
+      "spirit_teacher": "un elemental"
     },
     "sources": [
       {
@@ -11808,27 +11625,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "review": {
-      "reason": "mechanics differ across sources: tribu",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "tribu": "Uktena"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "tribu": "Danzantes de la Espiral Negra"
-          }
-        }
-      ]
-    },
     "mechanics_html": {
       "tribu": "<a href=\"/werewolf/totems/uktena-totem\">Uktena</a>"
     }
@@ -11842,7 +11638,8 @@
     "body_es": "Atrayendo las energías de la tierra, el [Uktena](/werewolf/totems/uktena-totem) puede mover cualquier objeto de hasta 900 kilos (2000 libras) simplemente señalándolo. Un elemental de aire y un elemental de tierra han de cooperar para enseñar este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Destreza + Ocultismo (dificultad 7). Se necesita concentración para mover el objeto, que viaja a una velocidad de aproximadamente 32 kilómetros (20 millas) por hora. El control del Garou dura un turno por éxito.",
     "tags": [
       "don",
-      "uktena"
+      "uktena",
+      "Uktena"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -11881,7 +11678,8 @@
     "body_es": "La magia simpática está entre los más antiguos principios de la hechicería (posiblemente el más antiguo) y sigue siendo tan efectiva como siempre. El Garou puede dañar a sus víctimas desde lejos usando una muñeca especialmente creada con ese fin. Debe tener una muestra de su víctima (unas gotas de sangre, un mechón de su cabello) o un objeto que le pertenezca, y debe construir la muñeca para incorporarla. Un espíritu Ancestro enseña este Don.\n\n**Sistema:** Se tarda una semana en crear y encantar la muñeca. Para poder hacerla, el jugador tira Percepción + Artesanía (dificultad 8). Cuando la muñeca esté completa, el jugador puede tirar Inteligencia + Medicina (la dificultad es igual a la Fuerza de Voluntad de la víctima). Cada éxito inflige un nivel de daño agravado a la víctima, absorbible si ésta es capaz de hacerlo. Después de 10 éxitos, la muñeca está demasiado mutilada para poder seguir usándola.",
     "tags": [
       "don",
-      "uktena"
+      "uktena",
+      "Uktena"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -11919,7 +11717,8 @@
     "body_es": "El [Wendigo](/werewolf/totems/wendigo-totem) se funde con la naturaleza circundante para evadir mejor a sus enemigos o preparar emboscadas. Un espíritu ciervo enseña este Don.\n\n**Sistema:** La dificultad para ver al Garou en plena naturaleza aumenta en tres.",
     "tags": [
       "don",
-      "wendigo"
+      "wendigo",
+      "Wendigo"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -11960,7 +11759,8 @@
     "body_es": "El [Wendigo](/werewolf/totems/wendigo-totem) conjura un reflejo perfecto de sí mismo. La imagen es idéntica al Garou salvo que está al revés, como si se viese en un espejo (por lo que cualquier cosa escrita en la ropa del Garou se leería al revés, las cicatrices estarán en el lado opuesto, etc.) El [Wendigo](/werewolf/totems/wendigo-totem) puede controlar su imagen fácilmente, darle voz y guiar sus movimientos. Un espíritu Ancestro enseña este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis para crear un Eco de Hielo en cualquier punto en un radio de 30 metros (100 pies). El Eco se mueve y suena exactamente como el Garou además de tener su misma apariencia, pero no emite olor ni calor alguno y es intangible. Discernir cuál es el reflejo y cuál es el original requiere una tirada de Percepción + Enigmas (la dificultad es la Gnosis del Garou).",
     "tags": [
       "don",
-      "wendigo"
+      "wendigo",
+      "Wendigo"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -11993,7 +11793,8 @@
     "body_es": "El hombre lobo invoca un fuerte viento helado (de unos 36 kilómetros por hora o 20 millas por hora) y lo dirige a voluntad. El viento congela a todo aquél que no esté preparado y puede dispersar (o redirigir) nubes o vapor (incluyendo gas lacrimógeno o toxinas arrastradas por el aire) al igual que enjambres de insectos. Un elemental de aire enseña este Don.\n\n**Sistema:** El Garou silba o espira para invocar el viento. Cualquiera atrapado en él pierde un dado en las tiradas de Percepción mientras dure la brisa y sufre una penalización de -1 a todas sus acciones tras un minuto de exposición si no está vestido apropiadamente para el tiempo frío.",
     "tags": [
       "don",
-      "wendigo"
+      "wendigo",
+      "Wendigo"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -12028,7 +11829,8 @@
     "tags": [
       "don",
       "wendigo",
-      "Ajaba"
+      "Ajaba",
+      "Wendigo"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -12074,7 +11876,8 @@
     "tags": [
       "don",
       "wendigo",
-      "referencia-cruzada"
+      "referencia-cruzada",
+      "Wendigo"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -12105,7 +11908,8 @@
     "body_es": "El [Wendigo](/werewolf/totems/wendigo-totem) puede invocar a los espíritus del viento para obtener conocimiento y consejo. Puede hacerles una pregunta, que debe hacer referencia al área inmediata (los espíritu de viento tienen cortos períodos de atención). Un espíritu de viento enseña este Don.\n\n**Sistema:** Al aprender este Don, el Garou puede hablar automáticamente con los espíritus de viento mientras está en la Umbra. Para hacer una pregunta en el mundo físico, el jugador debe tirar Manipulación + Expresión (dificultad 8). El número de éxitos refleja la exactitud de la información. Si no hay espíritus de viento presentes (como en interiores, donde el aire está quieto y estancado), este Don no puede funcionar.",
     "tags": [
       "don",
-      "wendigo"
+      "wendigo",
+      "Wendigo"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -12143,7 +11947,8 @@
     "body_es": "El [Wendigo](/werewolf/totems/wendigo-totem) puede nadar tan fácilmente como un pez o caminar sobre la superficie del agua como si estuviese en tierra. Este Don sólo funciona en masas de agua dulce; cualquier masa natural como un lago, una charca o un río son entornos válidos, pero el Don no sirve para nadar en piscinas u otros contenedores artificiales de agua dulce. Un espíritu salmón enseña este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Destreza + Atletismo (dificultad 7). Por cada éxito, el personaje se puede mover libremente en o por debajo de la superficie durante una escena. Además, durante este período, el Garou puede utilizar los efectos del Don Lupus [Salto de Liebre](/werewolf/gifts/hares-leap), siempre que comience y termine su [salto](/werewolf/gifts/ananasi-general-leap) en una masa considerable de agua dulce.",
     "tags": [
       "don",
-      "wendigo"
+      "wendigo",
+      "Wendigo"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -12177,7 +11982,8 @@
     "body_es": "El [Wendigo](/werewolf/totems/wendigo-totem) conjura una ráfaga de viento gélida y cortante y la dirige a voluntad. El viento puede derribar a los oponentes y helarlos hasta los huesos. Un espíritu sirviente del mismo Gran [Wendigo](/werewolf/totems/wendigo-totem) enseña este Don.\n\n**Sistema:** El jugador gasta un punto de Fuerza de Voluntad. Para dirigir la ráfaga se necesita una tirada de Destreza + Ocultismo. Cualquiera golpeado por el viento pierde dos dados de todas sus reservas de dados durante dos turnos. El viento también puede tirar a enemigos de una cornisa, lanzarlos al tráfico o al interior de pozos. El alcance medio del viento es de 18 metros (20 yardas) y se modifica según las reglas de armas de fuego (ver pág. 293). El viento dura un número de turnos igual a los éxitos conseguidos.",
     "tags": [
       "don",
-      "wendigo"
+      "wendigo",
+      "Wendigo"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -12210,7 +12016,8 @@
     "body_es": "El [Wendigo](/werewolf/totems/wendigo-totem) obtiene la habilidad de correr a 80 kilómetros (50 millas) por hora a través del cielo, dejando al pasar un rastro de fuego tras de sí. Debe mantenerse continuamente en movimiento o se caerá. Un avatar de Gran [Wendigo](/werewolf/totems/wendigo-totem) enseña este Don.\n\n**Sistema:** El [Wendigo](/werewolf/totems/wendigo-totem) se concentra durante un turno. El jugador gasta entonces un punto de Fuerza de Voluntad. Este Don dura cuatro horas y puede prolongarse con un gasto adicional de Fuerza de Voluntad.",
     "tags": [
       "don",
-      "wendigo"
+      "wendigo",
+      "Wendigo"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -12244,20 +12051,18 @@
     "tags": [
       "don",
       "wendigo",
-      "Ajaba"
+      "Ajaba",
+      "Camazotz",
+      "Wendigo"
     ],
     "mechanics": {
       "type_label": "Don",
-      "rank": [
-        "Nivel cuatro",
-        "Nivel tres"
-      ],
+      "rank": "Nivel tres",
       "tribu": "Wendigo",
       "roll": "Gnosis",
       "difficulty": "Resistencia del oponente +3",
       "effect": "+1 Fuerza por cada 2 niveles de daño del mordisco (máx +5); dura 2 turnos por éxito",
       "spirit_teacher": "avatar de Gran Wendigo",
-      "raza": "Camazotz",
       "breed": "Ajaba",
       "category": "Alba"
     },
@@ -12291,7 +12096,8 @@
     "body_es": "El [Wendigo](/werewolf/totems/wendigo-totem) acepta al invierno como a un hermano, siendo infundidos su propia carne y sus propios huesos con la esencia espiritual del frío cortante. Un espíritu de nieve enseña este Don.\n\n**Sistema:** El [Wendigo](/werewolf/totems/wendigo-totem) ignora las penalizaciones por frío o los efectos de la congelación y obtiene cinco dados adicionales de absorción contra los ataques basados en frío. Se aplica un -2 a la dificultad de todas las tiradas de [Supervivencia](/werewolf/gifts/survival) hechas en ambientes fríos. Los efectos de este Don son permanentes.",
     "tags": [
       "don",
-      "wendigo"
+      "wendigo",
+      "Wendigo"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -12324,7 +12130,8 @@
     "body_es": "El hombre lobo convoca un frío místico procedente del propio Gran [Wendigo](/werewolf/totems/wendigo-totem) que hiela la tierra a su alrededor y a cualquiera que se encuentre en ella. Un espíritu sirviente de Gran [Wendigo](/werewolf/totems/wendigo-totem) enseña este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Inteligencia + Ocultismo (dificultad variable; 4 si ya es invierno, 6 para primavera, 9 para verano). Superar la tirada hace que la temperatura descienda un poco por debajo del punto de congelación en un radio de 8 kilómetros (5 millas) o incluso muy por debajo de cero si ya era invierno. Todas las criaturas carentes de un abrigo de piel natural pierden dos dados de todas las reservas. Este Don genera un caos considerable en los ambientes urbanos al romperse las tuberías y congelarse las carreteras. El efecto dura un día por éxito.",
     "tags": [
       "don",
-      "wendigo"
+      "wendigo",
+      "Wendigo"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -12365,7 +12172,8 @@
     "body_es": "Bailando bajo el cielo nocturno, el hombre lobo puede invocar a un avatar de Gran [Wendigo](/werewolf/totems/wendigo-totem) para que dé caza a un objetivo a elección del Garou. El hombre lobo debe poseer algo de la víctima cuyo corazón devorará el espíritu [Wendigo](/werewolf/totems/wendigo-totem). Un avatar de Gran [Wendigo](/werewolf/totems/wendigo-totem) enseña este Don.\n\n**Sistema:** El Garou debe bailar durante tres turnos completos. El jugador gasta un punto de Rabia y uno de Gnosis, después tira Carisma + Ocultismo (dificultad 8). Si la tirada fracasa o si se impide de alguna forma que el espíritu [Wendigo](/werewolf/totems/wendigo-totem) mate a su objetivo, éste volverá para matar a su invocador.",
     "tags": [
       "don",
-      "wendigo"
+      "wendigo",
+      "Wendigo"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -12399,7 +12207,8 @@
     "body_es": "El hombre lobo puede invocar la maldición de [Wendigo](/werewolf/totems/wendigo-totem) sobre un enemigo. El Garou debe susurrar el nombre del objetivo a los hambrientos vientos; más tarde, las entrañas de la víctima comienzan a convertirse en hielo. Un avatar de Gran [Wendigo](/werewolf/totems/wendigo-totem) enseña este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Astucia + Ocultismo (dificultad igual a la Fuerza de Voluntad del objetivo). Cada éxito inflige un nivel de daño agravado no absorbible al ritmo de un nivel de daño por turno hasta que todo el daño esté hecho.",
     "tags": [
       "don",
-      "wendigo"
+      "wendigo",
+      "Wendigo"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -12433,7 +12242,8 @@
     "body_es": "El Garou puede invocar casi cualquier efecto meteorológico que desee: niebla, tornados, ventiscas, tormentas eléctricas, etc. Todas ellas aguardan su llamada. Un avatar de Gran [Wendigo](/werewolf/totems/wendigo-totem) enseña este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Fuerza de Voluntad (la dificultad varía dependiendo cuán cercano sea el efecto deseado a los patrones meteorológicos actuales de la zona). La tormenta cubre 16 kilómetros (10 millas) por éxito. Si el Garou invoca una tormenta eléctrica, puede gastar Gnosis para lanzar rayos a sus enemigos (Astucia + Ocultismo para golpear, 10 dados de daño agravado).",
     "tags": [
       "don",
-      "wendigo"
+      "wendigo",
+      "Wendigo"
     ],
     "mechanics": {
       "type_label": "Don",
@@ -15307,7 +15117,8 @@
     "body_es": "Muchos Garou temen a Abuelo Trueno en lugar de respetarlo y a los Señores de la Sombra esto ya les parece bien. Trueno es un patrón paciente y sutil, cuya influencia aumenta con el tiempo en un impresionante crescendo. La mayoría de sus avatares son Cuervos de la Tormenta que actúan como intermediarios entre el Incarna y sus elegidos.",
     "tags": [
       "totem",
-      "totem-de-respeto"
+      "totem-de-respeto",
+      "Señores de la Sombra"
     ],
     "mechanics": {
       "background_cost": "7",
@@ -15353,7 +15164,8 @@
     "body_es": "Halcón es uno de los espíritus más nobles y es el [Tótem](/werewolf/backgrounds/totem) tribal de los Colmillos Plateados. Sus penetrantes ojos ven en los corazones de sus hijos, inspira a los valientes y recompensa a los honorables. Halcón es reconocido como portador de la unidad para los Colmillos Plateados y para los Garou en su conjunto, y está por encima de los rumores de endogamia de su Tribu escogida.",
     "tags": [
       "totem",
-      "totem-de-respeto"
+      "totem-de-respeto",
+      "Colmillos Plateados"
     ],
     "mechanics": {
       "background_cost": "5",
@@ -15401,7 +15213,8 @@
     "body_es": "Pegaso es un protector de los lugares sagrados, igual que las Furias Negras a las que apoya. Pegaso, con la apariencia de un caballo alado con fuego en sus ojos, puede enseñar Dones de viaje y aire a quienes escoge. La Camada de [Fenris](/werewolf/totems/fenris) ha molestado desde hace mucho a Pegaso, posiblemente debido a su rivalidad con las Furias Negras. Debido a ello, Pegaso aún no ha aceptado a ninguna manada que cuente con un miembro de la Camada.",
     "tags": [
       "totem",
-      "totem-de-respeto"
+      "totem-de-respeto",
+      "Furias Negras"
     ],
     "mechanics": {
       "background_cost": "4",
@@ -15433,7 +15246,8 @@
     "body_es": "Venado es un antiguo espíritu de respeto, mucho más viejo que los Fianna que lo reclaman como [Tótem](/werewolf/backgrounds/totem). Al ser una encarnación de la virilidad y el desenfrenado poder de la naturaleza, Venado tiene tanto un lado luminoso como otro oscuro. Proporciona a los Garou su afinidad con la naturaleza y enseña responsabilidad hacia los humanos. También es el señor de [la Cacería](/werewolf/rites/the-hunt) Salvaje, corriendo desbocado hasta que se haya derramado suficiente sangre en su nombre.",
     "tags": [
       "totem",
-      "totem-de-respeto"
+      "totem-de-respeto",
+      "Fianna"
     ],
     "mechanics": {
       "background_cost": "6",
@@ -15496,7 +15310,8 @@
     "body_es": "Grifo recuerda las especies extintas y llora la muerte de todas y cada una de ellas. Esto ha despertado una terrible rabia contra los humanos (asesinos de especies enteras) que comparte con sus escogidos, los Garras Rojas. Siempre cazando, siempre hambriento, Grifo encarna al cazador ágil.",
     "tags": [
       "totem",
-      "totem-de-guerra"
+      "totem-de-guerra",
+      "Garras Rojas"
     ],
     "mechanics": {
       "background_cost": "4",
@@ -15599,7 +15414,8 @@
     "body_es": "Rata es la astuta y silenciosa maestra de la guerra de hostigamiento, el [Tótem](/werewolf/backgrounds/totem) original de los guerrilleros. Aunque Rata lucha para debilitar, tullir y después arrollar, puede ser tan feroz como cualquier otro [Tótem](/werewolf/backgrounds/totem) cuando es arrinconada.",
     "tags": [
       "totem",
-      "totem-de-guerra"
+      "totem-de-guerra",
+      "Roehuesos"
     ],
     "mechanics": {
       "background_cost": "5",
@@ -15679,7 +15495,8 @@
     "body_es": "Búho observa silencioso en la oscuridad, aprendiendo todo lo que puede. Como los Caminantes Silenciosos que lo reivindican como su [Tótem](/werewolf/backgrounds/totem), Búho guarda saber secreto, especialmente en lo referente a la muerte y los misterios de la Umbra Oscura.",
     "tags": [
       "totem",
-      "totem-de-sabiduria"
+      "totem-de-sabiduria",
+      "Caminantes Silenciosos"
     ],
     "mechanics": {
       "background_cost": "5",
@@ -15713,7 +15530,8 @@
     "body_es": "Cucaracha es rápida, dura y persistente. También está por todas partes en el mundo moderno, observando y aguardando. Si es cierto lo que dice su Tribu escogida, es uno de los espíritus [Tótem](/werewolf/backgrounds/totem) de la era actual.",
     "tags": [
       "totem",
-      "totem-de-sabiduria"
+      "totem-de-sabiduria",
+      "Moradores del Cristal"
     ],
     "mechanics": {
       "background_cost": "6",
@@ -15826,7 +15644,8 @@
     "body_es": "Quimera, la patrona de los Contemplaestrellas, es la personificación del Enigma. Ella, la de Muchos Rostros, invita a sus manadas a encontrar la sabiduría que todo hombre lobo tiene en su interior bajo capas de enigmas y autoengaños.",
     "tags": [
       "totem",
-      "totem-de-sabiduria"
+      "totem-de-sabiduria",
+      "Contemplaestrellas"
     ],
     "mechanics": {
       "background_cost": "7",
@@ -15873,7 +15692,8 @@
     "body_es": "Uktena es un anciano espíritu acuático que combina las características del puma, la serpiente y el ciervo. Es el espíritu de los lechos de los ríos y los lugares oscuros, y conoce secretos que incluso otros Tótems de sabiduría no han descubierto.",
     "tags": [
       "totem",
-      "totem-de-sabiduria"
+      "totem-de-sabiduria",
+      "Uktena"
     ],
     "mechanics": {
       "background_cost": "7",
@@ -15907,7 +15727,8 @@
     "body_es": "Unicornio es un [Tótem](/werewolf/backgrounds/totem) de paz, pureza, curación y armonía. Como tal, es el [Tótem](/werewolf/backgrounds/totem) tribal de los Hijos de Gaia. Encarna el bendito e inmenso amor de Gaia.",
     "tags": [
       "totem",
-      "totem-de-sabiduria"
+      "totem-de-sabiduria",
+      "Hijos de Gaia"
     ],
     "mechanics": {
       "background_cost": "7",
@@ -16825,7 +16646,8 @@
     "tags": [
       "don",
       "danzantes-de-la-espiral-negra",
-      "nivel-1"
+      "nivel-1",
+      "Danzantes de la Espiral Negra"
     ],
     "mechanics": {
       "nivel": "uno",
@@ -16858,7 +16680,8 @@
     "tags": [
       "don",
       "danzantes-de-la-espiral-negra",
-      "nivel-1"
+      "nivel-1",
+      "Danzantes de la Espiral Negra"
     ],
     "mechanics": {
       "nivel": "uno",
@@ -16886,7 +16709,8 @@
     "tags": [
       "don",
       "danzantes-de-la-espiral-negra",
-      "nivel-2"
+      "nivel-2",
+      "Danzantes de la Espiral Negra"
     ],
     "mechanics": {
       "nivel": "dos",
@@ -16915,7 +16739,8 @@
     "tags": [
       "don",
       "danzantes-de-la-espiral-negra",
-      "nivel-2"
+      "nivel-2",
+      "Danzantes de la Espiral Negra"
     ],
     "mechanics": {
       "nivel": "dos",
@@ -16943,7 +16768,8 @@
     "tags": [
       "don",
       "danzantes-de-la-espiral-negra",
-      "nivel-2"
+      "nivel-2",
+      "Danzantes de la Espiral Negra"
     ],
     "mechanics": {
       "nivel": "dos",
@@ -16969,7 +16795,8 @@
     "tags": [
       "don",
       "danzantes-de-la-espiral-negra",
-      "nivel-2"
+      "nivel-2",
+      "Danzantes de la Espiral Negra"
     ],
     "mechanics": {
       "nivel": "dos",
@@ -16997,7 +16824,8 @@
     "tags": [
       "don",
       "danzantes-de-la-espiral-negra",
-      "nivel-2"
+      "nivel-2",
+      "Danzantes de la Espiral Negra"
     ],
     "mechanics": {
       "nivel": "dos",
@@ -17027,7 +16855,8 @@
     "tags": [
       "don",
       "danzantes-de-la-espiral-negra",
-      "nivel-3"
+      "nivel-3",
+      "Danzantes de la Espiral Negra"
     ],
     "mechanics": {
       "nivel": "tres",
@@ -17056,7 +16885,8 @@
     "tags": [
       "don",
       "danzantes-de-la-espiral-negra",
-      "nivel-3"
+      "nivel-3",
+      "Danzantes de la Espiral Negra"
     ],
     "mechanics": {
       "nivel": "tres",
@@ -17083,7 +16913,8 @@
     "tags": [
       "don",
       "danzantes-de-la-espiral-negra",
-      "nivel-3"
+      "nivel-3",
+      "Danzantes de la Espiral Negra"
     ],
     "mechanics": {
       "nivel": "tres",
@@ -17110,7 +16941,8 @@
     "tags": [
       "don",
       "danzantes-de-la-espiral-negra",
-      "nivel-3"
+      "nivel-3",
+      "Danzantes de la Espiral Negra"
     ],
     "mechanics": {
       "nivel": "tres",
@@ -17140,7 +16972,8 @@
     "tags": [
       "don",
       "danzantes-de-la-espiral-negra",
-      "nivel-4"
+      "nivel-4",
+      "Danzantes de la Espiral Negra"
     ],
     "mechanics": {
       "nivel": "cuatro",
@@ -17167,7 +17000,8 @@
     "tags": [
       "don",
       "danzantes-de-la-espiral-negra",
-      "nivel-5"
+      "nivel-5",
+      "Danzantes de la Espiral Negra"
     ],
     "mechanics": {
       "nivel": "cinco",
@@ -33778,15 +33612,13 @@
     "body_es": "Como el Don de los Fianna [Fantasmagoría](/werewolf/gifts/ajaba-midnight-phantasm).",
     "tags": [
       "ratkin",
-      "bardos-ratkin",
-      "raza-perdida",
-      "don-generico",
-      "referencia-cruzada"
+      "gift",
+      "munchmausen",
+      "Bardos Ratkin"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
-      "raza": "Bardos Ratkin",
-      "reference": "Como el Don de los Fianna Fantasmagoría"
+      "raza": "Bardos Ratkin"
     },
     "sources": [
       {
@@ -33798,8 +33630,7 @@
       }
     ],
     "mechanics_html": {
-      "raza": "Bardos <a href=\"/werewolf/changing-breeds/ratkin\">Ratkin</a>",
-      "reference": "Como el Don de los Fianna <a href=\"/werewolf/gifts/ajaba-midnight-phantasm\">Fantasmagoría</a>"
+      "raza": "Bardos <a href=\"/werewolf/changing-breeds/ratkin\">Ratkin</a>"
     }
   },
   {
@@ -35585,7 +35416,8 @@
     "tags": [
       "apis",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Apis"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -35611,7 +35443,8 @@
       "apis",
       "raza-perdida",
       "don-generico",
-      "referencia-cruzada"
+      "referencia-cruzada",
+      "Apis"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -35640,7 +35473,8 @@
     "tags": [
       "apis",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Apis"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -35665,7 +35499,8 @@
     "tags": [
       "apis",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Apis"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -35691,7 +35526,8 @@
       "apis",
       "raza-perdida",
       "don-generico",
-      "referencia-cruzada"
+      "referencia-cruzada",
+      "Apis"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -35720,7 +35556,8 @@
     "tags": [
       "apis",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Apis"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -35745,7 +35582,8 @@
     "tags": [
       "apis",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Apis"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -35770,7 +35608,8 @@
     "tags": [
       "apis",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Apis"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -35795,7 +35634,8 @@
     "tags": [
       "apis",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Apis"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -35820,7 +35660,8 @@
     "tags": [
       "apis",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Apis"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -35845,7 +35686,8 @@
     "tags": [
       "apis",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Apis"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
@@ -35870,7 +35712,8 @@
     "tags": [
       "apis",
       "raza-perdida",
-      "rito"
+      "rito",
+      "Apis"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -35897,7 +35740,8 @@
       "camazotz",
       "raza-perdida",
       "don-generico",
-      "referencia-cruzada"
+      "referencia-cruzada",
+      "Camazotz"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -35929,7 +35773,8 @@
     "tags": [
       "camazotz",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Camazotz"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -35954,7 +35799,8 @@
     "tags": [
       "camazotz",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Camazotz"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -35983,7 +35829,8 @@
       "camazotz",
       "raza-perdida",
       "don-generico",
-      "referencia-cruzada"
+      "referencia-cruzada",
+      "Camazotz"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -36015,7 +35862,8 @@
     "tags": [
       "camazotz",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Camazotz"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -36040,7 +35888,8 @@
     "tags": [
       "camazotz",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Camazotz"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -36068,7 +35917,8 @@
     "tags": [
       "camazotz",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Camazotz"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -36093,7 +35943,8 @@
     "tags": [
       "camazotz",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Camazotz"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -36121,7 +35972,8 @@
     "tags": [
       "camazotz",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Camazotz"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -36149,7 +36001,8 @@
     "tags": [
       "camazotz",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Camazotz"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -36177,7 +36030,8 @@
     "tags": [
       "camazotz",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Camazotz"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -36202,7 +36056,8 @@
     "tags": [
       "camazotz",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Camazotz"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
@@ -36228,7 +36083,8 @@
       "camazotz",
       "raza-perdida",
       "don-generico",
-      "referencia-cruzada"
+      "referencia-cruzada",
+      "Camazotz"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
@@ -36254,7 +36110,8 @@
     "tags": [
       "camazotz",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Camazotz"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
@@ -36279,7 +36136,8 @@
     "tags": [
       "camazotz",
       "raza-perdida",
-      "fetiche"
+      "fetiche",
+      "Camazotz"
     ],
     "mechanics": {
       "level": "Nivel cuatro",
@@ -36305,7 +36163,8 @@
     "tags": [
       "grondr",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Grondr"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -36330,7 +36189,8 @@
     "tags": [
       "grondr",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Grondr"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -36355,7 +36215,8 @@
     "tags": [
       "grondr",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Grondr"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -36380,7 +36241,8 @@
     "tags": [
       "grondr",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Grondr"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -36405,7 +36267,8 @@
     "tags": [
       "grondr",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Grondr"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -36430,7 +36293,8 @@
     "tags": [
       "grondr",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Grondr"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -36455,7 +36319,8 @@
     "tags": [
       "grondr",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Grondr"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -36480,7 +36345,8 @@
     "tags": [
       "grondr",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Grondr"
     ],
     "mechanics": {
       "rank": "Nivel cuatro",
@@ -36506,7 +36372,8 @@
       "grondr",
       "raza-perdida",
       "don-generico",
-      "referencia-cruzada"
+      "referencia-cruzada",
+      "Grondr"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
@@ -36532,7 +36399,8 @@
     "tags": [
       "grondr",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Grondr"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
@@ -36557,7 +36425,8 @@
     "tags": [
       "grondr",
       "raza-perdida",
-      "rito"
+      "rito",
+      "Grondr"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -36585,7 +36454,8 @@
       "bardos-ratkin",
       "raza-perdida",
       "don-generico",
-      "referencia-cruzada"
+      "referencia-cruzada",
+      "Bardos Ratkin"
     ],
     "mechanics": {
       "rank": "Nivel uno",
@@ -36617,7 +36487,8 @@
       "bardos-ratkin",
       "raza-perdida",
       "don-generico",
-      "referencia-cruzada"
+      "referencia-cruzada",
+      "Bardos Ratkin"
     ],
     "mechanics": {
       "rank": "Nivel dos",
@@ -36649,7 +36520,8 @@
       "bardos-ratkin",
       "raza-perdida",
       "don-generico",
-      "referencia-cruzada"
+      "referencia-cruzada",
+      "Bardos Ratkin"
     ],
     "mechanics": {
       "rank": "Nivel tres",
@@ -36680,7 +36552,8 @@
       "ratkin",
       "bardos-ratkin",
       "raza-perdida",
-      "don-generico"
+      "don-generico",
+      "Bardos Ratkin"
     ],
     "mechanics": {
       "rank": "Nivel cinco",
