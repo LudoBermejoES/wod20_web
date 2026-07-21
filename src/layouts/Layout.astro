@@ -29,6 +29,7 @@ const {
     <header>
       <nav aria-label="Principal">
         <a class="brand" href="/">Mundo de Tinieblas 20</a>
+        <a class="nav-search" href="/buscar">Buscar</a>
       </nav>
     </header>
     <main id="contenido">
@@ -57,7 +58,10 @@ const {
       .skip:focus { left: var(--pad); top: 0.5rem; background: var(--bg); padding: 0.4rem 0.8rem; }
       header, footer { padding: 1rem var(--pad); }
       header { border-bottom: 1px solid var(--border); }
+      header nav { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; }
       .brand { font-weight: 700; letter-spacing: 0.02em; text-decoration: none; color: var(--fg); }
+      .nav-search { text-decoration: none; font-weight: 600; color: var(--fg); opacity: 0.85; }
+      .nav-search:hover { opacity: 1; text-decoration: underline; }
       main { flex: 1; padding: var(--pad); }
       footer {
         margin-top: 2rem; border-top: 1px solid var(--border);

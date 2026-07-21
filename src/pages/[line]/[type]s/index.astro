@@ -30,8 +30,14 @@ const label = typeLabelEs(type);
 
 // Zero-JS "filter": group by the `category` mechanic when the type has one
 // (merits/flaws), with plain anchor jump-links. No client JS needed.
-const cat = (e: { mechanics?: Record<string, unknown> }) =>
-  (e.mechanics as Record<string, unknown> | undefined)?.category as string | undefined;
+// `category` groups merits/flaws (a scalar point-category). Some entities (e.g. Gifts
+// shared across breeds) now carry a MULTI-VALUE category (a list) after merge unions
+// access/classification keys — those aren't a single grouping key, so treat only a
+// plain string as a category; anything else falls into the catch-all group.
+const cat = (e: { mechanics?: Record<string, unknown> }) => {
+  const c = (e.mechanics as Record<string, unknown> | undefined)?.category;
+  return typeof c === 'string' ? c : undefined;
+};
 const categories = [...new Set(entities.map(cat).filter(Boolean))] as string[];
 const uncategorized = entities.filter((e) => !cat(e));
 // Group by category when any entity has one, but ALWAYS include a catch-all group

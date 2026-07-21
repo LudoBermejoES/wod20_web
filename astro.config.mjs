@@ -1,11 +1,13 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
+import node from '@astrojs/node';
 
 // https://astro.build/config
-// Static site (default output). `site` is used for canonical URLs and sitemap.
-// If deploying to GitHub Pages as a *project* page, also set:
-//   base: '/wod20_web',
-// and leave it unset for a custom domain / Netlify / Vercel.
+// Output stays STATIC by default — every reading/reference page is prerendered and
+// zero-JS. The Node adapter enables the single on-demand route `src/pages/api/search.ts`
+// (`export const prerender = false`) for semantic search backed by the local LanceDB KB
+// (add-semantic-search). `site` is used for canonical URLs and sitemap.
 export default defineConfig({
   site: 'https://ludobermejoes.github.io',
+  adapter: node({ mode: 'standalone' }),
 });

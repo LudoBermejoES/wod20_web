@@ -1,0 +1,113 @@
+---
+// Semantic search page (add-semantic-search). The only page with client JS — a small
+// vanilla script calls the /api/search endpoint and renders results. Every other page
+// stays static/zero-JS. Results deep-link to the reading guides.
+import Layout from '../layouts/Layout.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import { LINES, lineInfo } from '../lib/lines';
+
+const lines = LINES.map((l) => ({ id: l.id, nombre: lineInfo(l.id)!.nombre }));
+const contentTypes = [
+  { id: '', label: 'Todo' },
+  { id: 'rule', label: 'Reglas' },
+  { id: 'lore', label: 'Trasfondo' },
+  { id: 'fiction', label: 'Ficción' },
+  { id: 'reference', label: 'Referencia' },
+  { id: 'glossary', label: 'Glosario' },
+];
+---
+
+<Layout title="Buscar — Base de conocimiento">
+  <Breadcrumb items={[{ label: 'Inicio', href: '/' }, { label: 'Buscar' }]} />
+  <h1>Buscar en los manuales</h1>
+  <p>Búsqueda semántica sobre el corpus en español (índice local BGE-M3 / LanceDB).</p>
+
+  <form id="search-form" role="search">
+    <input id="q" name="q" type="search" autocomplete="off" autofocus
+           placeholder="p. ej. ¿cómo funciona la Paradoja?" aria-label="Consulta" />
+    <div class="facets">
+      <label>Línea
+        <select id="line">
+          <option value="">Todas</option>
+          {lines.map((l) => <option value={l.id}>{l.nombre}</option>)}
+        </select>
+      </label>
+      <label>Tipo
+        <select id="type">
+          {contentTypes.map((c) => <option value={c.id}>{c.label}</option>)}
+        </select>
+      </label>
+      <button type="submit">Buscar</button>
+    </div>
+  </form>
+
+  <p id="status" aria-live="polite"></p>
+  <ol id="results" class="results"></ol>
+
+  <style>
+    #search-form { display: grid; gap: 0.75rem; max-width: var(--measure); margin: 1rem 0; }
+    #q { padding: 0.75rem 1rem; font-size: 1.1rem; border: 1px solid var(--border);
+         border-radius: var(--radius); background: var(--bg-elevated); color: inherit; }
+    .facets { display: flex; gap: 0.75rem; flex-wrap: wrap; align-items: end; }
+    .facets select, .facets button { padding: 0.5rem 0.75rem; border: 1px solid var(--border);
+         border-radius: var(--radius); background: var(--bg-elevated); color: inherit; }
+    .facets button { cursor: pointer; font-weight: 600; }
+    .results { list-style: none; padding: 0; display: grid; gap: 0.75rem;
+               max-width: var(--measure); }
+    .results li { padding: 0.85rem 1rem; border: 1px solid var(--border);
+               border-radius: var(--radius); background: var(--bg-elevated); }
+    .results .crumb { font-size: 0.85rem; opacity: 0.75; }
+    .results .ct { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.04em;
+               border: 1px solid var(--border); border-radius: 999px; padding: 0.05rem 0.5rem;
+               margin-left: 0.4rem; }
+    .results a { font-weight: 600; text-decoration: none; }
+    .results a:hover { text-decoration: underline; }
+    .results .snippet { margin: 0.35rem 0 0; opacity: 0.9; }
+  </style>
+
+  <script>
+    const form = document.getElementById('search-form') as HTMLFormElement;
+    const q = document.getElementById('q') as HTMLInputElement;
+    const lineSel = document.getElementById('line') as HTMLSelectElement;
+    const typeSel = document.getElementById('type') as HTMLSelectElement;
+    const statusEl = document.getElementById('status')!;
+    const results = document.getElementById('results')!;
+    const esc = (s: string) => s.replace(/[&<>"']/g, (c) =>
+      ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c] as string));
+
+    let seq = 0;
+    async function run() {
+      const query = q.value.trim();
+      if (!query) { results.innerHTML = ''; statusEl.textContent = ''; return; }
+      const mine = ++seq;
+      statusEl.textContent = 'Buscando…';
+      const params = new URLSearchParams({ q: query, k: '12' });
+      if (lineSel.value) params.set('line', lineSel.value);
+      if (typeSel.value) params.set('type', typeSel.value);
+      try {
+        const res = await fetch(`/api/search?${params}`);
+        if (mine !== seq) return; // stale response
+        const data = await res.json();
+        if (!res.ok) { statusEl.textContent = data.error || 'Error de búsqueda.'; return; }
+        statusEl.textContent = `${data.count} resultado(s)`;
+        results.innerHTML = data.hits.map((h: any) => {
+          const crumb = esc(h.breadcrumb || h.book_title || '');
+          const ct = h.content_type ? `<span class="ct">${esc(h.content_type)}</span>` : '';
+          const title = esc(h.book_title || h.book_id || '');
+          const link = h.href
+            ? `<a href="${esc(h.href)}">${title}</a>` : title;
+          const snip = esc((h.text || '').slice(0, 260)).replace(/\n+/g, ' ');
+          return `<li>${link}${ct}<div class="crumb">${crumb}</div>` +
+                 `<p class="snippet">${snip}…</p></li>`;
+        }).join('');
+      } catch (e) {
+        if (mine === seq) statusEl.textContent = 'La búsqueda no está disponible.';
+      }
+    }
+
+    form.addEventListener('submit', (e) => { e.preventDefault(); run(); });
+    let t: number | undefined;
+    q.addEventListener('input', () => { clearTimeout(t); t = window.setTimeout(run, 350); });
+    [lineSel, typeSel].forEach((el) => el.addEventListener('change', run));
+  </script>
+</Layout>
