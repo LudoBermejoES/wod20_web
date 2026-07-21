@@ -7,8 +7,59 @@ import type { APIRoute } from 'astro';
 import * as lancedb from '@lancedb/lancedb';
 import { pipeline, type FeatureExtractionPipeline } from '@huggingface/transformers';
 import path from 'node:path';
+import { guideAnchorIndex, resolveGuideHref, type GuideTarget } from '../../lib/guide-anchors';
 
 export const prerender = false; // opt this route into on-demand rendering
+
+// ASCII-slug a heading the same way the guide loader builds its anchor ids, so a chunk's
+// heading resolves to a guide page's TOC anchor (deep link to the passage).
+function slugifyHeading(s: string): string {
+  return s
+    .normalize('NFKD')
+    .replace(/[^\x00-\x7F]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
+// Resolve a hit to the best guide URL:
+//  1) the chunk's OWN sub-headings → the exact passage (page + in-page anchor);
+//  2) else the block/chapter, but ONLY a clean page-level match (no #fragment), so a
+//     generic divider title (e.g. "LIBRO III") can't mis-match an anchor on another page;
+//  3) else the book's guide index.
+function resolveHref(
+  idx: Map<string, GuideTarget>,
+  line: string,
+  bookId: string,
+  text: string,
+  blockTitle: string,
+  chapter: string
+): string | undefined {
+  if (!line || !bookId) return undefined;
+  const headings = [...text.matchAll(/^#{1,6}\s+(.+)$/gm)].map((m) => m[1].trim());
+  for (const h of headings) {
+    const r = resolveGuideHref(idx, line, bookId, slugifyHeading(h));
+    if (r) return r; // precise passage
+  }
+  for (const s of [blockTitle, chapter]) {
+    if (!s) continue;
+    const r = resolveGuideHref(idx, line, bookId, slugifyHeading(s));
+    if (r && !r.includes('#')) return r; // block's own page, never a stray anchor
+  }
+  return `/${line}/guia/${bookId}`;
+}
+
+// dedup consecutive equal breadcrumb segments ("Necromancia > Necromancia" → "Necromancia")
+function cleanCrumb(crumb: string): string {
+  const parts = crumb.split(' > ').map((s) => s.trim()).filter(Boolean);
+  return parts.filter((p, i) => p !== parts[i - 1]).join(' > ');
+}
+
+let _anchorIdx: Promise<Map<string, GuideTarget>> | null = null;
+function anchorIndex() {
+  if (!_anchorIdx) _anchorIdx = guideAnchorIndex();
+  return _anchorIdx;
+}
 
 // derived/lancedb lives at the repo root (sibling of wod20_web). Override in prod.
 const LANCEDB_DIR =
@@ -67,21 +118,25 @@ export const GET: APIRoute = async ({ url }) => {
     if (clauses.length) search = search.where(clauses.join(' AND '));
 
     const rows = (await search.toArray()) as Record<string, unknown>[];
+    const idx = await anchorIndex();
     const hits = rows.map((r) => {
       const line = r.game_line as string;
       const bookId = String(r.id ?? '').split('::')[0];
+      const text = (r.text as string) ?? '';
+      const blockTitle = (r.block_title as string) || '';
+      const chapter = (r.chapter as string) || '';
+      const href = resolveHref(idx, line, bookId, text, blockTitle, chapter);
       return {
-        text: r.text as string,
+        text,
         book_id: bookId,
         book_title: r.book_title as string,
         game_line: line,
         language: r.language as string,
         content_type: r.content_type as string,
-        breadcrumb: (r.heading_breadcrumb as string) || '',
-        block_title: (r.block_title as string) || '',
-        chapter: (r.chapter as string) || '',
-        // deep link to the book's guide (per-passage anchor refined client-side / later)
-        href: line && bookId ? `/${line}/guia/${bookId}` : undefined,
+        breadcrumb: cleanCrumb((r.heading_breadcrumb as string) || ''),
+        block_title: blockTitle,
+        chapter,
+        href,
         score: r._distance as number,
       };
     });
