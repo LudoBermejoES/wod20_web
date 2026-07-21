@@ -98,14 +98,14 @@
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-uno-el-ensueno-sobre-tuneles-portales-y-mazmorras-quimericos",
-              "title": "Sobre Túneles, Portales y Mazmorras Quiméricos",
+              "slug": "capitulo-uno-el-ensueno-elaborando-quimeras",
+              "title": "Elaborando Quimeras",
               "part": null,
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-uno-el-ensueno-pasos",
-              "title": "Pasos",
+              "slug": "capitulo-uno-el-ensueno-la-senda-de-plata",
+              "title": "La Senda de Plata",
               "part": null,
               "content_type": "lore"
             }
@@ -133,8 +133,8 @@
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-dos-un-mundo-de-suenos-las-casas",
-              "title": "Las Casas",
+              "slug": "capitulo-dos-un-mundo-de-suenos-el-capitulo-tres-la-estirpe-proporciona-una-descripcion-mas-detallada-de-las-cinco-casas-nobles-que-forman-el-nucleo-de-los-sidhe",
+              "title": "El Capítulo Tres: La Estirpe, proporciona una descripción más detallada de las cinco Casas nobles que forman el núcleo de los sidhe.",
               "part": null,
               "content_type": "lore"
             },
@@ -203,14 +203,14 @@
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cuatro-creacion-de-personajes-especialidades",
-              "title": "Capítulo Cuatro: Creación de Personajes: Especialidades",
-              "part": "Capítulo Cuatro: Creación de Personajes",
+              "slug": "capitulo-cuatro-creacion-de-personajes-inspirar",
+              "title": "Inspirar",
+              "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cuatro-creacion-de-personajes-santo",
-              "title": "Santo",
+              "slug": "capitulo-cuatro-creacion-de-personajes-trovador",
+              "title": "Trovador",
               "part": null,
               "content_type": "rule"
             },
@@ -234,25 +234,25 @@
             },
             {
               "slug": "capitulo-cuatro-creacion-de-personajes-temples",
-              "title": "Temples",
-              "part": null,
-              "content_type": "rule"
-            },
-            {
-              "slug": "capitulo-cuatro-creacion-de-personajes-secreto-siniestro-defecto-de-1-punto",
-              "title": "Capítulo Cuatro: Creación de Personajes: Secreto Siniestro: (Defecto de 1 punto)",
+              "title": "Capítulo Cuatro: Creación de Personajes: Temples",
               "part": "Capítulo Cuatro: Creación de Personajes",
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cuatro-creacion-de-personajes-arte-afin-merito-de-5-puntos",
-              "title": "Capítulo Cuatro: Creación de Personajes: Arte Afín: (Mérito de 5 puntos)",
+              "slug": "capitulo-cuatro-creacion-de-personajes-curiosidad-defecto-de-2-puntos",
+              "title": "Capítulo Cuatro: Creación de Personajes: Curiosidad: (Defecto de 2 puntos)",
               "part": "Capítulo Cuatro: Creación de Personajes",
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-cuatro-creacion-de-personajes-lazos-con-el-mercado-negro-merito-de-1-5-puntos",
-              "title": "Lazos con el Mercado Negro: (Mérito de 1-5 puntos)",
+              "slug": "capitulo-cuatro-creacion-de-personajes-ojos-de-hada-defecto-de-1-punto",
+              "title": "Capítulo Cuatro: Creación de Personajes: Ojos de Hada: (Defecto de 1 punto)",
+              "part": "Capítulo Cuatro: Creación de Personajes",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-creacion-de-personajes-lazos-politicos-merito-de-3-puntos",
+              "title": "Lazos Políticos: (Mérito de 3 puntos)",
               "part": null,
               "content_type": "rule"
             }
@@ -297,8 +297,8 @@
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-seis-reglas-basicas-dificultades",
-              "title": "Dificultades",
+              "slug": "capitulo-seis-reglas-basicas-grado-de-exito",
+              "title": "Grado de Éxito",
               "part": null,
               "content_type": "rule"
             }
@@ -320,14 +320,14 @@
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-siete-sistemas-de-glamour-pesadillas",
-              "title": "Capítulo Siete: Sistemas de Glamour: Pesadillas",
+              "slug": "capitulo-siete-sistemas-de-glamour-numero-de-unos",
+              "title": "Capítulo Siete: Sistemas de Glamour: Número de Unos",
               "part": "Capítulo Siete: Sistemas de Glamour",
               "content_type": "rule"
             },
             {
-              "slug": "capitulo-siete-sistemas-de-glamour-z-juramento-de-los-corazones-sinceros",
-              "title": "z Juramento de los Corazones Sinceros",
+              "slug": "capitulo-siete-sistemas-de-glamour-z-juramento-del-largo-camino",
+              "title": "z Juramento del Largo Camino",
               "part": null,
               "content_type": "rule"
             },
@@ -390,14 +390,14 @@
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-nueve-narracion-romance",
-              "title": "Capítulo Nueve: Narración: Romance",
+              "slug": "capitulo-nueve-narracion-maravilla",
+              "title": "Capítulo Nueve: Narración: Maravilla",
               "part": "Capítulo Nueve: Narración",
               "content_type": "lore"
             },
             {
-              "slug": "capitulo-nueve-narracion-z-convocado-a-la-corte",
-              "title": "z Convocado a la corte",
+              "slug": "capitulo-nueve-narracion-un-par-de-cosas-sobre-los-antagonistas",
+              "title": "Un par de cosas sobre los antagonistas",
               "part": null,
               "content_type": "lore"
             }
