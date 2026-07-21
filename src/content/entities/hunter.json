@@ -1608,5 +1608,380 @@
       }
     ],
     "related": []
+  },
+  {
+    "id": "anillo-de-crisostomo",
+    "type": "relic",
+    "line": "hunter",
+    "name_en": "Anillo de Crisóstomo",
+    "name_es": "Anillo de Crisóstomo",
+    "body_es": "Se cree que este anillo, una banda de plata con una cruz toscamente grabada, fue portado por San Juan Crisóstomo. Llevar este anillo proporciona a su portador los efectos de [Fe Verdadera](/hunter/numens/fe-verdadera) · (ver pág. 71-72) y actúa como símbolo sagrado para la fe cristiana.",
+    "tags": [
+      "reliquia"
+    ],
+    "mechanics": {
+      "rating": 1,
+      "item_type": "reliquia"
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "anillo-de-crisostomo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "ojo-del-reloj-de-arena",
+    "type": "relic",
+    "line": "hunter",
+    "name_en": "Ojo del reloj de arena",
+    "name_es": "Ojo del reloj de arena",
+    "body_es": "Un par de viejos relojes del siglo xix que permiten al usuario ver a los Vástagos que usan altos niveles de Celeridad de forma normal. No proporciona al portador reflejos más rápidos para responder al vampiro, pero sí le permite ser consciente de sus acciones y no verse sorprendido por ellas.",
+    "tags": [
+      "reliquia"
+    ],
+    "mechanics": {
+      "rating": 1,
+      "item_type": "reliquia"
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "ojo-del-reloj-de-arena",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "piedras-mentat",
+    "type": "relic",
+    "line": "hunter",
+    "name_en": "Piedras mentat",
+    "name_es": "Piedras mentat",
+    "body_es": "Existe cierta cantidad de estas inusuales piedras, cada una de ellas sintonizadas para ayudar a un Numen Psíquico de una de las dos maneras siguientes. El primer tipo de piedra permite al usuario enfocar mejor sus habilidades, disminuyendo la dificultad de las tiradas de Númina Psíquicos en 1. El otro interfiere con la actividad psíquica y actúa como si quien la posee tuviera un punto de [Anti-Psi](/hunter/numens/anti-psi) (ver pág. 135).",
+    "tags": [
+      "reliquia"
+    ],
+    "mechanics": {
+      "rating": 1,
+      "item_type": "reliquia"
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "piedras-mentat",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "capa-de-sombra",
+    "type": "relic",
+    "line": "hunter",
+    "name_en": "Capa de sombra",
+    "name_es": "Capa de sombra",
+    "body_es": "Una capa negra que hace a su portador casi invisible en la oscuridad o la sombra, confiriéndole +3 dados en todas las tiradas de Sigilo. Sin embargo, las capas no son comunes en público, y suelen llamar la atención.",
+    "tags": [
+      "reliquia"
+    ],
+    "mechanics": {
+      "rating": 2,
+      "item_type": "reliquia"
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "capa-de-sombra",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "hisopo-franciscano",
+    "type": "relic",
+    "line": "hunter",
+    "name_en": "Hisopo franciscano",
+    "name_es": "Hisopo franciscano",
+    "body_es": "Este hisopo (un artilugio para rociar agua bendita) tiene una astilla de hueso de San Francisco engarzada en el mango. Usarlo para rociar agua bendita por una habitación crea un aura de tranquilidad, calmando el Frenesí vampírico y otros estados de locura durante una noche. Portar este hisopo proporciona un punto adicional a quienes poseen [Fe Verdadera](/hunter/numens/fe-verdadera).",
+    "tags": [
+      "reliquia"
+    ],
+    "mechanics": {
+      "rating": 2,
+      "item_type": "reliquia"
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "hisopo-franciscano",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "orbe-de-ulain",
+    "type": "relic",
+    "line": "hunter",
+    "name_en": "Orbe de Ulain",
+    "name_es": "Orbe de Ulain",
+    "body_es": "Un cristal opaco rojo en un deslustrado collar de plata, el Orbe permite al portador emplear Númina Psíquicos, protegiéndolo de cualquier Disciplina vampírica que afecte a la mente. El usuario puede añadir su puntuación de Numen Psíquico más alta a la dificultad de todas las tiradas de Disciplinas empleadas contra él (hasta una dificultad máxima de 9).",
+    "tags": [
+      "reliquia"
+    ],
+    "mechanics": {
+      "rating": 2,
+      "item_type": "reliquia"
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "orbe-de-ulain",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "arete-de-grifo",
+    "type": "relic",
+    "line": "hunter",
+    "name_en": "Arete de grifo",
+    "name_es": "Arete de grifo",
+    "body_es": "Un pendiente de aro con intrincadas tallas de pájaros y búhos en su borde. Cuando se porta, emite el piar de un pájaro en el oído del cazador cuando está en presencia de un Vástago (a unos 3 metros o 10 pies).",
+    "tags": [
+      "reliquia"
+    ],
+    "mechanics": {
+      "rating": 3,
+      "item_type": "reliquia"
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "arete-de-grifo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "fuego-del-martir",
+    "type": "relic",
+    "line": "hunter",
+    "name_en": "Fuego del mártir",
+    "name_es": "Fuego del mártir",
+    "body_es": "Una pequeña y sencilla linterna forjada con las cenizas de los huesos de mártires. Aquéllos que quedan al alcance de la luz arrojada por la linterna (unos 8 metros o 25 pies) evocarán vívidamente el sufrimiento de los mártires y serán inspirados por ellos. Como resultado, no sufrirán penalizaciones por heridas a las reservas de dados, aunque aún sufren daño de forma normal.",
+    "tags": [
+      "reliquia"
+    ],
+    "mechanics": {
+      "rating": 3,
+      "item_type": "reliquia"
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "fuego-del-martir",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "incensario-bizantino",
+    "type": "relic",
+    "line": "hunter",
+    "name_en": "Incensario bizantino",
+    "name_es": "Incensario bizantino",
+    "body_es": "Este ornado incensario data de justo después de la caída de Constantinopla. Cuando se usa, el humo que desprende reduce la barrera entre este mundo y el siguiente, revelando la presencia de wraiths. Hasta que el humo se despeja (habitualmente una hora más tarde), la habitación incrementa su puntuación de [Fe Verdadera](/hunter/numens/fe-verdadera) en 1. Puede utilizarse como un arma de Fe, pero es muy frágil (un fracaso lo destruirá de forma irrevocable).",
+    "tags": [
+      "reliquia"
+    ],
+    "mechanics": {
+      "rating": 3,
+      "item_type": "reliquia"
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "incensario-bizantino",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "escapulario-del-eunuco",
+    "type": "relic",
+    "line": "hunter",
+    "name_en": "Escapulario del eunuco",
+    "name_es": "Escapulario del eunuco",
+    "body_es": "Se cree que este escapulario (un trozo de tela larga que cubre el pecho y la espalda del portador) lo portó un devoto santo chipriota que se castró a sí mismo para resistir las tentaciones de la carne. Portar (o vestir) este escapulario volverá al usuario inmune a todos los Poderes de Presencia o de Disciplinas de control emocional similares. El contacto extendido con el escapulario puede dejar impotentes durante largos períodos de tiempo a los portadores masculinos del mismo.",
+    "tags": [
+      "reliquia"
+    ],
+    "mechanics": {
+      "rating": 4,
+      "item_type": "reliquia"
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "escapulario-del-eunuco",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "la-garra-garou",
+    "type": "relic",
+    "line": "hunter",
+    "name_en": "La garra Garou",
+    "name_es": "La garra Garou",
+    "body_es": "Una daga tallada a partir de la garra de un Lupino, este arma provoca daño agravado a los Vástagos. Además, bajo la luz de una Luna llena, el portador de la daga conocerá automáticamente dónde se encuentran todos los Vástagos a 3 metros (diez pies) o menos de él. Por supuesto, los hombres lobo buscarán constantemente al dueño de la daga para recuperarla, pero ése puede ser un precio pequeño que pagar.",
+    "tags": [
+      "reliquia"
+    ],
+    "mechanics": {
+      "rating": 4,
+      "item_type": "reliquia"
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "la-garra-garou",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "caliz-de-plata",
+    "type": "relic",
+    "line": "hunter",
+    "name_en": "Cáliz de plata",
+    "name_es": "Cáliz de plata",
+    "body_es": "A lo largo de los años han aparecido unos cuantos cálices de plata sin adornos. Aunque no sean el Santo Grial que muchos creen que son, siguen siendo objetos poderosos. Cuando se bebe agua pura de un cáliz en suelo sagrado, el daño de todo tipo se cura inmediatamente. Una vez usado de esta forma, las propiedades curativas no funcionan hasta la siguiente Luna llena.",
+    "tags": [
+      "reliquia"
+    ],
+    "mechanics": {
+      "rating": 4,
+      "item_type": "reliquia"
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "caliz-de-plata",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "espada-de-cruzado",
+    "type": "relic",
+    "line": "hunter",
+    "name_en": "Espada de cruzado",
+    "name_es": "Espada de cruzado",
+    "body_es": "Con el paso de los siglos, cierto número de espadas se han convertido en reliquias al servicio de los cazadores de monstruos. Sostener en alto su empuñadura de forma invertida cuenta como un símbolo sagrado (para aquéllos que veneran la cruz de los cristianos) y las tiradas de [Fe Verdadera](/hunter/numens/fe-verdadera) obtienen un dado adicional contra lo sobrenatural. La espada también causa daño agravado a los objetivos sobrenaturales. Por último, mientras se esté en contacto con la espada, el portador gana el Mérito Voluntad de Hierro si no lo posee ya ( V20 , pág. 485). Las mecánicas para las espadas pueden consultarse en el V20 , pág. 280 (estos sables causan Fuerza + 5 de daño y tienen una ocultación N).",
+    "tags": [
+      "reliquia"
+    ],
+    "mechanics": {
+      "rating": 5,
+      "item_type": "reliquia"
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "espada-de-cruzado",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "daga-de-espinas",
+    "type": "relic",
+    "line": "hunter",
+    "name_en": "Daga de espinas",
+    "name_es": "Daga de espinas",
+    "body_es": "Esta daga, la cual se cree que fue forjada con una espina de la Corona de Espinas de Cristo, fue descubierta en una iglesia siria en el siglo vi . Proporciona al portador una bonificación de un punto de [Fe Verdadera](/hunter/numens/fe-verdadera), incluso si no se tiene ninguno en un principio. También hace daño agravado (las puntuaciones de las dagas pueden consultarse en el V20 , pág. 280). Por último, los vampiros acuchillados con ella comienzan a sangrar por los ojos, los oídos y la boca; cada ataque con éxito (incluso si no produce daño) causa que el vampiro objetivo pierda un punto de Sangre.",
+    "tags": [
+      "reliquia"
+    ],
+    "mechanics": {
+      "rating": 5,
+      "item_type": "reliquia"
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "daga-de-espinas",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "las-llaves-de-leopoldo",
+    "type": "relic",
+    "line": "hunter",
+    "name_en": "Las llaves de Leopoldo",
+    "name_es": "Las llaves de Leopoldo",
+    "body_es": "Estos tres fragmentos de hueso, los cuales se cree que pertenecían a Leopoldo de Murnau, fueron convertidos en un conjunto de pesadas llaves de carcelero en un grueso anillo de hierro. Cuando su portador toca a una criatura sobrenatural con las llaves, hace una tirada de Astucia + Conciencia (la dificultad es la Fuerza de Voluntad permanente del objetivo). Cada éxito es un turno en el que la criatura permanece completamente inmóvil y pierde un punto de Fuerza de Voluntad. Las llaves deben permanecer juntas para funcionar.",
+    "tags": [
+      "reliquia"
+    ],
+    "mechanics": {
+      "rating": 5,
+      "item_type": "reliquia"
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "las-llaves-de-leopoldo",
+        "variant": "base"
+      }
+    ],
+    "related": []
   }
 ]
