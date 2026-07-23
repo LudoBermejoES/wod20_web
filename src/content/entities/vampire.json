@@ -201,11 +201,25 @@
     "tags": [
       "clan"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "disciplines": [
+        "Celeridad",
+        "Potencia",
+        "Presencia"
+      ],
+      "weakness": "Las mismas pasiones que inspiran a los Brujah a la grandeza o la depravación, si se mantienen sin restricciones, pueden llevarles a una rabia incandescente: las dificultades de las tiradas para resistir o guiar el Frenesí son dos puntos superiores a las normales. Además, un Brujah nunca puede gastar Fuerza de Voluntad para evitar el Frenesí, aunque puede gastar un punto de Fuerza de Voluntad para intentar controlar un Frenesí que ya haya comenzado."
+    },
     "sources": [
       {
         "book_id": "v20-anarquistas-liberados-es",
         "book_title_es": "V20 Anarquistas Liberados (ES)",
+        "page": null,
+        "section_anchor": "brujah",
+        "variant": "base"
+      },
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
         "page": null,
         "section_anchor": "brujah",
         "variant": "base"
@@ -223,7 +237,14 @@
     "tags": [
       "clan"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "disciplines": [
+        "Animalismo",
+        "Fortaleza",
+        "Protean"
+      ],
+      "weakness": "Siempre que un Gangrel entra en Frenesí, adquiere una característica animal temporal (que puede reemplazar una existente). Estos rasgos no tienen por qué ser únicamente físicos: pueden afectar también al comportamiento. Con el tiempo, o ante situaciones extraordinarias, una característica animal en concreto puede hacerse permanente, apareciendo una nueva con el siguiente Frenesí."
+    },
     "sources": [
       {
         "book_id": "v20-anarquistas-liberados-es",
@@ -252,11 +273,25 @@
     "tags": [
       "clan"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "disciplines": [
+        "Dominación",
+        "Obtenebración",
+        "Potencia"
+      ],
+      "weakness": "Los vampiros Lasombra no tienen reflejo. Ya sea en un espejo, en un cuerpo de agua, sobre una superficie pulida o en el retrovisor de un taxi, la imagen de los Guardianes no se refleja."
+    },
     "sources": [
       {
         "book_id": "v20-anarquistas-liberados-es",
         "book_title_es": "V20 Anarquistas Liberados (ES)",
+        "page": null,
+        "section_anchor": "lasombra",
+        "variant": "base"
+      },
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
         "page": null,
         "section_anchor": "lasombra",
         "variant": "base"
@@ -274,7 +309,14 @@
     "tags": [
       "clan"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "disciplines": [
+        "Auspex",
+        "Dementación",
+        "Ofuscación"
+      ],
+      "weakness": "Todos los miembros del Clan Malkavian sufren un Trastorno incurable y permanente. Pueden adquirir y recuperarse de cualquier otro Trastorno, y pueden gastar Fuerza de Voluntad para aminorar los efectos del Trastorno durante una escena, pero nunca pueden recuperarse por completo de su Trastorno original."
+    },
     "sources": [
       {
         "book_id": "v20-anarquistas-liberados-es",
@@ -303,11 +345,25 @@
     "tags": [
       "clan"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "disciplines": [
+        "Animalismo",
+        "Ofuscación",
+        "Potencia"
+      ],
+      "weakness": "Todos los Nosferatu tienen una puntuación de Apariencia de cero y nunca pueden mejorarla. Las tiradas que utilicen el Rasgo de Apariencia son inherentemente difíciles para estos horrendos Vástagos."
+    },
     "sources": [
       {
         "book_id": "v20-anarquistas-liberados-es",
         "book_title_es": "V20 Anarquistas Liberados (ES)",
+        "page": null,
+        "section_anchor": "nosferatu",
+        "variant": "base"
+      },
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
         "page": null,
         "section_anchor": "nosferatu",
         "variant": "base"
@@ -325,11 +381,25 @@
     "tags": [
       "clan"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "disciplines": [
+        "Auspex",
+        "Celeridad",
+        "Presencia"
+      ],
+      "weakness": "Cuando un Toreador experimenta algo realmente extraordinario (una persona, un objet d'art, un bello amanecer), el jugador debe hacer una tirada de Autocontrol o Instinto (dificultad 6). El fallo significa que el Vástago se ve cautivado por la experiencia y no podrá actuar durante el resto de la escena excepto para comentar o continuar inmerso en lo que sea que haya captado su atención. Los Toreador embelesados no pueden defenderse si los atacan, aunque si los hieren pueden volver a hacer una tirada de Autocontrol o Instinto."
+    },
     "sources": [
       {
         "book_id": "v20-anarquistas-liberados-es",
         "book_title_es": "V20 Anarquistas Liberados (ES)",
+        "page": null,
+        "section_anchor": "toreador",
+        "variant": "base"
+      },
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
         "page": null,
         "section_anchor": "toreador",
         "variant": "base"
@@ -347,7 +417,14 @@
     "tags": [
       "clan"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "disciplines": [
+        "Auspex",
+        "Dominación",
+        "Taumaturgia"
+      ],
+      "weakness": "La dependencia de Sangre de los Tremere es incluso más pronunciada que la de otros Vástagos. Sólo son necesarios dos tragos de la Sangre de otro vampiro para que un Tremere quede Vinculado en lugar de los tres normales: la primera vez cuenta como si el Tremere hubiera bebido dos veces."
+    },
     "sources": [
       {
         "book_id": "v20-anarquistas-liberados-es",
@@ -364,7 +441,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "weakness": "La <a href=\"/vampire/discipline-powers/dependencia\">dependencia</a> de Sangre de los Tremere es incluso más pronunciada que la de otros Vástagos. Sólo son necesarios dos tragos de la Sangre de otro vampiro para que un Tremere quede <a href=\"/vampire/flaws/vinculado\">Vinculado</a> en lugar de los tres normales: la primera vez cuenta como si el Tremere hubiera bebido dos veces."
+    }
   },
   {
     "id": "tzimisce",
@@ -376,7 +456,14 @@
     "tags": [
       "clan"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "disciplines": [
+        "Animalismo",
+        "Auspex",
+        "Vicisitud"
+      ],
+      "weakness": "Los Tzimisce están inextricablemente unidos a sus dominios de origen, y deben descansar en la proximidad de al menos dos puñados de 'tierra nativa' (tierra de un lugar importante para él como mortal). Cada noche que pase sin esta conexión física con su tierra reduce todas sus reservas de dados a la mitad, de forma acumulativa, hasta que sólo le quede un dado en la reserva. La penalización permanece hasta que descanse un día completo rodeado de su tierra una vez más."
+    },
     "sources": [
       {
         "book_id": "v20-anarquistas-liberados-es",
@@ -405,11 +492,25 @@
     "tags": [
       "clan"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "disciplines": [
+        "Dominación",
+        "Fortaleza",
+        "Presencia"
+      ],
+      "weakness": "Los Ventrue tienen gustos refinados, y sólo un tipo específico de sangre mortal les resulta aceptable y necesaria. Cuando un jugador crea un personaje Ventrue, debe decidir con el Narrador qué tipo específico de sangre alimenta al personaje, y esta elección es permanente. La sangre de otros tipos sencillamente no aumenta su reserva de Sangre, independientemente de cuánta consuma: la vomita sin más. La Sangre vampírica está exenta de esta restricción."
+    },
     "sources": [
       {
         "book_id": "v20-anarquistas-liberados-es",
         "book_title_es": "V20 Anarquistas Liberados (ES)",
+        "page": null,
+        "section_anchor": "ventrue",
+        "variant": "base"
+      },
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
         "page": null,
         "section_anchor": "ventrue",
         "variant": "base"
@@ -595,7 +696,7 @@
     "line": "vampire",
     "name_en": "Retain the Agile Blood",
     "name_es": "Retener la Sangre Ágil",
-    "body_es": "En las noches de la Revuelta Anarquista, los Assamitas mantenían una alianza informal con los Antitribu que se alzaban contra sus Sires. Aunque muy pocos, algunos Anarquistas conocían la Disciplina Assamita Extinción y aprendieron esta técnica de retención de Sangre para hacerse más fuertes. En la actualidad, esta Disciplina Combinada se ha extendido rápidamente entre los Anarquistas y ha sido adaptada al uso con Protean, que es más común. Retener la Sangre Ágil permite a un Vástago invocar los dones preternaturales de la Vitae sin consumirla.\n\nSistema: La Sangre que el jugador gasta en Celeridad regresa a su reserva al ritmo de un punto por hora. No se puede superar la reserva máxima de Sangre del personaje mediante esta Sangre: si la reserva está al máximo en el momento en el que un punto de Sangre debe volver al organismo, el punto se pierde, al igual que todos los demás puntos de Sangre que podrían recuperarse del uso de Celeridad.\n\nAprender este Poder cuesta 15 puntos de Experiencia.",
+    "body_es": "En las noches de la Revuelta Anarquista, los Assamitas mantenían una alianza informal con los Antitribu que se alzaban contra sus Sires. Aunque muy pocos, algunos Anarquistas conocían la Disciplina [Assamita](/vampire/clans/assamita) Extinción y aprendieron esta técnica de retención de Sangre para hacerse más fuertes. En la actualidad, esta Disciplina Combinada se ha extendido rápidamente entre los Anarquistas y ha sido adaptada al uso con Protean, que es más común. Retener la Sangre Ágil permite a un Vástago invocar los dones preternaturales de la Vitae sin consumirla.\n\nSistema: La Sangre que el jugador gasta en Celeridad regresa a su reserva al ritmo de un punto por hora. No se puede superar la reserva máxima de Sangre del personaje mediante esta Sangre: si la reserva está al máximo en el momento en el que un punto de Sangre debe volver al organismo, el punto se pierde, al igual que todos los demás puntos de Sangre que podrían recuperarse del uso de Celeridad.\n\nAprender este Poder cuesta 15 puntos de Experiencia.",
     "tags": [
       "anarquista",
       "disciplina-combinada"
@@ -4280,7 +4381,7 @@
     "line": "vampire",
     "name_en": "Presa de Condenación",
     "name_es": "Presa de Condenación",
-    "body_es": "No hay éxtasis en tu Beso, solo terror y dolor. Los mortales de los que te alimentas luchan y gritan durante el proceso, lo que requiere que los sujetes mientras tratas de tomar su sangre. Para vampiros con alta Humanidad, esta experiencia puede requerir una tirada de Humanidad, a discreción del Narrador. Los Giovanni no pueden elegir este Defecto.",
+    "body_es": "No hay éxtasis en tu Beso, solo terror y dolor. Los mortales de los que te alimentas luchan y gritan durante el proceso, lo que requiere que los sujetes mientras tratas de tomar su sangre. Para vampiros con alta Humanidad, esta experiencia puede requerir una tirada de Humanidad, a discreción del Narrador. Los [Giovanni](/vampire/clans/giovanni) no pueden elegir este Defecto.",
     "tags": [],
     "mechanics": {
       "bonus": "4"
@@ -4302,7 +4403,7 @@
     "line": "vampire",
     "name_en": "Sensible a la Luz",
     "name_es": "Sensible a la Luz",
-    "body_es": "Eres aún más sensible a la luz solar que el resto de los vampiros. Ésta te causa el doble de daño y la luz de la Luna puede causarte daño letal de manera similar a la del Sol, aunque para eso tiene que iluminarte directamente. Incluso las luces brillantes te hacen daño en los ojos, lo que te obliga a usar gafas de sol. Los Seguidores de Set y las Líneas de Sangre relacionadas con ellos no pueden elegir este Defecto, ya que padecen una versión de él.",
+    "body_es": "Eres aún más sensible a la luz solar que el resto de los vampiros. Ésta te causa el doble de daño y la luz de la Luna puede causarte daño letal de manera similar a la del Sol, aunque para eso tiene que iluminarte directamente. Incluso las luces brillantes te hacen daño en los ojos, lo que te obliga a usar gafas de sol. Los [Seguidores de Set](/vampire/clans/seguidores-de-set) y las Líneas de Sangre relacionadas con ellos no pueden elegir este Defecto, ya que padecen una versión de él.",
     "tags": [],
     "mechanics": {
       "bonus": "5"
@@ -6868,7 +6969,7 @@
     "line": "vampire",
     "name_en": "Toque de Escorpión",
     "name_es": "Toque de Escorpión",
-    "body_es": "Cambiando las propiedades de su Sangre, el vampiro puede crear un poderoso [veneno](/vampire/equipments/veneno) que despoja a la víctima de su resistencia. Este Poder es muy temido por otros Vástagos; entre temblorosas coteries circulan historias espantosas sobre las formas en las que puede ser administrado. Se sabe que los Vástagos con Extinción aplican el [veneno](/vampire/equipments/veneno) cubriendo sus armas con él, malogrando a sus enemigos con un toque o escupiéndolo como una cobra. Un informe apócrifo relata cómo un orgulloso Príncipe descubrió a un Assamita que planeaba desangrarlo y comenzó a Diabolizar a su asesino en potencia. A mitad del proceso se dio cuenta de que había ingerido una cantidad tremenda de Sangre contaminada y era incapaz de resistir el renovado ataque del debilitado hashashiyyin .\n\nSistema: Para convertir un poco de su Sangre en [veneno](/vampire/equipments/veneno), el jugador del Vástago gasta al menos un punto de Sangre y tira Fuerza de Voluntad (dificultad 6). Si la tirada tiene éxito y el vampiro impacta (no hace falta que cause daño) a su oponente, el objetivo pierde un número de puntos de Resistencia igual al número de puntos de Sangre convertidos en [veneno](/vampire/equipments/veneno); se considera que los vampiros que tratan de beber la Sangre de un Vástago que tenga Toque de Escorpión 'reciben un impacto'.\n\nLa víctima puede resistir el [veneno](/vampire/equipments/veneno) con una tirada de Resistencia + Fortaleza (dificultad 6); los éxitos de la tirada de resistencia se restan de los obtenidos por el vampiro. El número máximo de puntos de Sangre que el Vástago puede convertir en un momento dado es igual a su Resistencia. El número de éxitos obtenido indica la duración de la pérdida de Resistencia.\n\n| Éxitos | Resultado |\n|----------|---------------------------------------------------------------------------------|\n| 1 éxito | Un turno. |\n| 2 éxitos | Una hora. |\n| 3 éxitos | Un día. |\n| 4 éxitos | Un mes. |\n| 5 éxitos | Permanente (aunque la Resistencia puede volver a adquirirse con Experiencia). |\n\nSi la Resistencia de un mortal cae a cero a causa del uso de Toque de Escorpión, queda convertido en un enfermo terminal y pierde la inmunidad a las enfermedades, sucumbiendo su cuerpo a las afecciones en el plazo de un año si no consigue incrementar su Resistencia de nuevo. Si la Resistencia de un Vástago cae a cero, el vampiro entra en Letargo y permanece en ese estado hasta que recupera uno de sus puntos de Resistencia. Si la Resistencia de un Vástago se reduce a cero permanentemente , sólo se podrá recuperar del Letargo usando medios místicos.\n\nPara afectar a alguien con el [veneno](/vampire/equipments/veneno), el Cainita tiene que tocar la carne de su víctima o golpearlo con algo que porte el [veneno](/vampire/equipments/veneno). Muchos Assamitas cubren sus armas con la excreción, otros acumulan la toxina en las manos (o se embadurnan los labios para otorgar un 'beso de la muerte') y las aplican sobre sus oponentes. Las armas envenenadas de esta manera tienen que ser de combate cuerpo a cuerpo; las flechas, piedras lanzadas con honda, balas, armas arrojadizas y proyectiles similares, o bien no pueden sostener la suficiente cantidad de sustancia como para hacer daño, o bien la pierden durante el vuelo. Los jugadores cuyos vampiros quieran escupir a sus objetivos deben hacer una tirada de Resistencia + Atletismo (dificultad 6). No se puede esputar [veneno](/vampire/equipments/veneno) por valor de más de dos puntos de Sangre; el Vástago puede escupir hasta a una distancia de tres metros (10 pies) por cada punto de Fuerza (y Potencia) que posea. Los vampiros que tienen Extinción son inmunes a su propio [veneno](/vampire/equipments/veneno), no así al de otros Vástagos que posean este Poder.",
+    "body_es": "Cambiando las propiedades de su Sangre, el vampiro puede crear un poderoso [veneno](/vampire/equipments/veneno) que despoja a la víctima de su resistencia. Este Poder es muy temido por otros Vástagos; entre temblorosas coteries circulan historias espantosas sobre las formas en las que puede ser administrado. Se sabe que los Vástagos con Extinción aplican el [veneno](/vampire/equipments/veneno) cubriendo sus armas con él, malogrando a sus enemigos con un toque o escupiéndolo como una cobra. Un informe apócrifo relata cómo un orgulloso Príncipe descubrió a un [Assamita](/vampire/clans/assamita) que planeaba desangrarlo y comenzó a Diabolizar a su asesino en potencia. A mitad del proceso se dio cuenta de que había ingerido una cantidad tremenda de Sangre contaminada y era incapaz de resistir el renovado ataque del debilitado hashashiyyin .\n\nSistema: Para convertir un poco de su Sangre en [veneno](/vampire/equipments/veneno), el jugador del Vástago gasta al menos un punto de Sangre y tira Fuerza de Voluntad (dificultad 6). Si la tirada tiene éxito y el vampiro impacta (no hace falta que cause daño) a su oponente, el objetivo pierde un número de puntos de Resistencia igual al número de puntos de Sangre convertidos en [veneno](/vampire/equipments/veneno); se considera que los vampiros que tratan de beber la Sangre de un Vástago que tenga Toque de Escorpión 'reciben un impacto'.\n\nLa víctima puede resistir el [veneno](/vampire/equipments/veneno) con una tirada de Resistencia + Fortaleza (dificultad 6); los éxitos de la tirada de resistencia se restan de los obtenidos por el vampiro. El número máximo de puntos de Sangre que el Vástago puede convertir en un momento dado es igual a su Resistencia. El número de éxitos obtenido indica la duración de la pérdida de Resistencia.\n\n| Éxitos | Resultado |\n|----------|---------------------------------------------------------------------------------|\n| 1 éxito | Un turno. |\n| 2 éxitos | Una hora. |\n| 3 éxitos | Un día. |\n| 4 éxitos | Un mes. |\n| 5 éxitos | Permanente (aunque la Resistencia puede volver a adquirirse con Experiencia). |\n\nSi la Resistencia de un mortal cae a cero a causa del uso de Toque de Escorpión, queda convertido en un enfermo terminal y pierde la inmunidad a las enfermedades, sucumbiendo su cuerpo a las afecciones en el plazo de un año si no consigue incrementar su Resistencia de nuevo. Si la Resistencia de un Vástago cae a cero, el vampiro entra en Letargo y permanece en ese estado hasta que recupera uno de sus puntos de Resistencia. Si la Resistencia de un Vástago se reduce a cero permanentemente , sólo se podrá recuperar del Letargo usando medios místicos.\n\nPara afectar a alguien con el [veneno](/vampire/equipments/veneno), el Cainita tiene que tocar la carne de su víctima o golpearlo con algo que porte el [veneno](/vampire/equipments/veneno). Muchos Assamitas cubren sus armas con la excreción, otros acumulan la toxina en las manos (o se embadurnan los labios para otorgar un 'beso de la muerte') y las aplican sobre sus oponentes. Las armas envenenadas de esta manera tienen que ser de combate cuerpo a cuerpo; las flechas, piedras lanzadas con honda, balas, armas arrojadizas y proyectiles similares, o bien no pueden sostener la suficiente cantidad de sustancia como para hacer daño, o bien la pierden durante el vuelo. Los jugadores cuyos vampiros quieran escupir a sus objetivos deben hacer una tirada de Resistencia + Atletismo (dificultad 6). No se puede esputar [veneno](/vampire/equipments/veneno) por valor de más de dos puntos de Sangre; el Vástago puede escupir hasta a una distancia de tres metros (10 pies) por cada punto de Fuerza (y Potencia) que posea. Los vampiros que tienen Extinción son inmunes a su propio [veneno](/vampire/equipments/veneno), no así al de otros Vástagos que posean este Poder.",
     "tags": [
       "disciplina",
       "Extinción"
@@ -6972,7 +7073,7 @@
     "line": "vampire",
     "name_en": "· Ondas del Corazón",
     "name_es": "· Ondas del Corazón",
-    "body_es": "Según el saber Assamita, el origen de esta técnica fue un erudito bizantino que quería proteger a su ganado de la sed de otros Cainitas. Ondas del Corazón hace que el vampiro pueda inocular con emociones el torrente sanguíneo de los mortales de los que se alimenta. Cualquier vampiro que beba de ese mortal experimenta esas emociones como si fuesen las suyas propias.\n\n<!-- image -->\n\nSistema: El personaje bebe al menos un punto de Sangre del sujeto mortal y entonces pasa un minuto en contacto físico con él, concentrándose en la emoción que quiere dejar en su sangre. El jugador gasta un punto de Fuerza de Voluntad y tira Carisma + Empatía (dificultad 7 en circunstancias normales, 5 si el sujeto está experimentando la emoción prevista, 9 si está experimentando una fuerte emoción opuesta). La sangre del sujeto porta la emoción deseada durante un mes lunar por éxito obtenido. La sangre de un mortal sólo puede contener una emoción en un momento dado. Los efectos subsiguientes de usar Ondas del Corazón sobre el mismo individuo no tienen efecto alguno hasta que la aplicación anterior se haya disipado.\n\nCualquier vampiro que beba de un recipiente que esté bajo los efectos de Ondas del Corazón tiene que pasar una tirada de Autocontrol o Instinto (la dificultad es la cantidad actual de puntos Fuerza de Voluntad del mortal) tan pronto como trague el primer punto de Sangre. Si falla la tirada, la emoción transmitida por la sangre se apodera inmediatamente de él. La fuerza de la misma depende de cuánta sangre haya tomado. Un punto de Sangre supone un cambio de humor momentáneo, dos causan una alteración significativa en su comportamiento, y tres o más generan un cambio total de estado emocional. Dependiendo de las circunstancias y de la emoción en concreto, los efectos pueden ser espectaculares o catastróficos. Un vampiro que se haya dejado dominar por una [pasión](/vampire/discipline-powers/pasion) romántica puede creer que está enamorado del mortal (o de algún espectador adecuado). Uno que beba de un recipiente que ha sido infundido con odio podría hacer pedazos a su presa, uno que tome un trago de un mortal investido con miedo podría tener que huir gritando. El vampiro sigue sujeto a la emoción durante un número de horas igual a la Fuerza de Voluntad permanente del mortal, aunque tras la oleada de sensaciones inicial vuelve a tener otros sentimientos.\n\nEl mortal que está bajo los efectos de Ondas del Corazón no es consciente del Poder que actúa sobre él, aunque mientras éste dure está ligeramente predispuesto hacia la emoción en cuestión. El vampiro que usa Ondas del Corazón es inmune a los efectos de ese uso.",
+    "body_es": "Según el saber [Assamita](/vampire/clans/assamita), el origen de esta técnica fue un erudito bizantino que quería proteger a su ganado de la sed de otros Cainitas. Ondas del Corazón hace que el vampiro pueda inocular con emociones el torrente sanguíneo de los mortales de los que se alimenta. Cualquier vampiro que beba de ese mortal experimenta esas emociones como si fuesen las suyas propias.\n\n<!-- image -->\n\nSistema: El personaje bebe al menos un punto de Sangre del sujeto mortal y entonces pasa un minuto en contacto físico con él, concentrándose en la emoción que quiere dejar en su sangre. El jugador gasta un punto de Fuerza de Voluntad y tira Carisma + Empatía (dificultad 7 en circunstancias normales, 5 si el sujeto está experimentando la emoción prevista, 9 si está experimentando una fuerte emoción opuesta). La sangre del sujeto porta la emoción deseada durante un mes lunar por éxito obtenido. La sangre de un mortal sólo puede contener una emoción en un momento dado. Los efectos subsiguientes de usar Ondas del Corazón sobre el mismo individuo no tienen efecto alguno hasta que la aplicación anterior se haya disipado.\n\nCualquier vampiro que beba de un recipiente que esté bajo los efectos de Ondas del Corazón tiene que pasar una tirada de Autocontrol o Instinto (la dificultad es la cantidad actual de puntos Fuerza de Voluntad del mortal) tan pronto como trague el primer punto de Sangre. Si falla la tirada, la emoción transmitida por la sangre se apodera inmediatamente de él. La fuerza de la misma depende de cuánta sangre haya tomado. Un punto de Sangre supone un cambio de humor momentáneo, dos causan una alteración significativa en su comportamiento, y tres o más generan un cambio total de estado emocional. Dependiendo de las circunstancias y de la emoción en concreto, los efectos pueden ser espectaculares o catastróficos. Un vampiro que se haya dejado dominar por una [pasión](/vampire/discipline-powers/pasion) romántica puede creer que está enamorado del mortal (o de algún espectador adecuado). Uno que beba de un recipiente que ha sido infundido con odio podría hacer pedazos a su presa, uno que tome un trago de un mortal investido con miedo podría tener que huir gritando. El vampiro sigue sujeto a la emoción durante un número de horas igual a la Fuerza de Voluntad permanente del mortal, aunque tras la oleada de sensaciones inicial vuelve a tener otros sentimientos.\n\nEl mortal que está bajo los efectos de Ondas del Corazón no es consciente del Poder que actúa sobre él, aunque mientras éste dure está ligeramente predispuesto hacia la emoción en cuestión. El vampiro que usa Ondas del Corazón es inmune a los efectos de ese uso.",
     "tags": [
       "disciplina",
       "Extinción"
@@ -12070,7 +12171,7 @@
     "line": "vampire",
     "name_en": "·· Invocar el Alba",
     "name_es": "·· Invocar el Alba",
-    "body_es": "Este Poder no hace realmente que salga el Sol, sino que desencadena el sueño diurno en los Vástagos. El Hijo sólo tiene que gesticular para que la Bestia del objetivo reaccione como si el Sol acabase de salir. El Hijo puede entonces emprender una retirada apresurada… o estacar y decapitar al vampiro que yace impotente a sus pies.\n\nSistema: El jugador gasta un punto de Sangre por cada vampiro al que quiera afectar y tira Manipulación + Ocultismo en una tirada enfrentada contra la Humanidad o Senda del objetivo (la dificultad de ambas tiradas es 7). Si gana el objetivo, el Poder falla. Sin embargo, si vence el Hijo, todos los vampiros afectados se duermen durante un número de horas igual a los éxitos netos que haya obtenido. Los Seguidores de Set y otras Líneas de Sangre que comparten su Debilidad pierden dos dados de su reserva para esta tirada. Todas las Disciplinas o Rituales de Taumaturgia que protegen a los Vástagos mientras duermen también funcionan en la defensa contra este nivel de Bardo.",
+    "body_es": "Este Poder no hace realmente que salga el Sol, sino que desencadena el sueño diurno en los Vástagos. El Hijo sólo tiene que gesticular para que la Bestia del objetivo reaccione como si el Sol acabase de salir. El Hijo puede entonces emprender una retirada apresurada… o estacar y decapitar al vampiro que yace impotente a sus pies.\n\nSistema: El jugador gasta un punto de Sangre por cada vampiro al que quiera afectar y tira Manipulación + Ocultismo en una tirada enfrentada contra la Humanidad o Senda del objetivo (la dificultad de ambas tiradas es 7). Si gana el objetivo, el Poder falla. Sin embargo, si vence el Hijo, todos los vampiros afectados se duermen durante un número de horas igual a los éxitos netos que haya obtenido. Los [Seguidores de Set](/vampire/clans/seguidores-de-set) y otras Líneas de Sangre que comparten su Debilidad pierden dos dados de su reserva para esta tirada. Todas las Disciplinas o Rituales de Taumaturgia que protegen a los Vástagos mientras duermen también funcionan en la defensa contra este nivel de Bardo.",
     "tags": [
       "disciplina",
       "Bardo"
@@ -14807,7 +14908,14 @@
     "tags": [
       "clan"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "disciplines": [
+        "Daimoinon",
+        "Ofuscación",
+        "Presencia"
+      ],
+      "weakness": "Los Baali no pueden soportar mirar o sostener objetos de ninguna fe. Los Diablos deben apartar su mirada de tales objetos, y tocarlos quema su carne. Además, si un Baali se enfrenta a la Fe Verdadera, los efectos de cualquier daño o impedimento los afectan el doble."
+    },
     "sources": [
       {
         "book_id": "v20-core-rulebook-es",
@@ -14817,7 +14925,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "weakness": "Los Baali no pueden soportar mirar o sostener objetos de ninguna fe. Los Diablos deben apartar su mirada de tales objetos, y tocarlos quema su carne. Además, si un Baali se enfrenta a la <a href=\"/vampire/merits/fe-verdadera\">Fe Verdadera</a>, los efectos de cualquier daño o impedimento los afectan el doble."
+    }
   },
   {
     "id": "nagaraja",
@@ -14825,11 +14936,18 @@
     "line": "vampire",
     "name_en": "Nagaraja",
     "name_es": "Nagaraja",
-    "body_es": "Una extraña Línea de Sangre de brujas caníbales, los Nagaraja son leyendas temidas por los Vástagos de ambos lados de la Jyhad. Como resultado de sus horribles apetitos, los Nagaraja han sido Cazados hasta casi la extinción en las noches actuales por enemigos políticos y por los fantasmas a los que cazan. De todos modos, unos pocos de estos vampiros aún deambulan por la noche, prosiguiendo con sus sutiles planes.\n\nAunque no son demasiado comunicativos acerca de sus orígenes, se cree que los Nagaraja provienen de Oriente Medio. Se los asocia con un culto de la muerte propio de la región que consumía carne humana de forma ritual y abría portales a las tierras de los muertos. Cómo estos sectarios se convirtieron en vampiros se ha perdido para la historia, pero los pocos Vástagos que han conocido a los Nagaraja tienen sus teorías: tal vez un comerciante Giovanni errante los Abrazó, tal vez trataron de seguir los pasos de [Tremere](/vampire/clans/tremere), o quizá podrían ser los últimos Capadocios supervivientes. Los Nagaraja se niegan a confirmar o desmentir tales especulaciones, por lo que la verdad y el rumor continúan entrelazándose alrededor de estos misteriosos Vástagos.\n\nAlgunos de los Caníbales pertenecen a una Secta de vampi-\n\nros [llamada](/vampire/discipline-powers/llamada) la Tal'Mahe'Ra o la 'Verdadera Mano Negra', aparentemente distinta de la Mano Negra del Sabbat. No está claro qué hace la Tal'Mahe'Ra en las Tierras de los Muertos, ni por qué combaten contra los Muertos Sin Reposo, pero su ciudad en el Inframundo alberga a varios Nagaraja. Los que están en la tierra de los vivos son Independientes que intentan buscarse la no-vida como sea.\n\nApodo: Caníbales.\n\nSecta: Los Nagaraja en conjunto se niegan a pertenecer a la Camarilla o el Sabbat, pero en las ciudades de la Camarilla siguen las reglas lo mejor que pueden (considerando su Debilidad).\n\nApariencia: Los Nagaraja tienen dientes afilados e irregulares, en vez de los usuales colmillos retráctiles. Esto significa que raramente sonríen y que suelen hablar discretamente entre los mortales (a no ser que planeen comérselos).\n\nRefugio: Los Nagaraja establecen sus refugios donde pueden. Algo que los Caníbales intentan incorporar en sus refugios, siempre que pueden, son medios para deshacerse\n\nde cadáveres. No se pueden permitir simplemente sorber un poco de sangre como los otros Vástagos.\n\nTrasfondo: La mayoría de los Nagaraja ha recibido una buena educación y algunos tienen conocimientos médicos (ya sea de sus vidas mortales o adquiridos tras el Abrazo). Los miembros de la Línea de Sangre son tan escasos que es difícil sostener cualquier otra afirmación. Algunos Nagaraja eran sacerdotes o sectarios antes del Abrazo, otros anticuarios, y algunos exorcistas o cazafantasmas.\n\nCreación del personaje: Los Nagaraja tienen normalmente Conceptos y Naturalezas solitarias o egocéntricas, aunque sus Conductas pueden ser cualquier cosa. Los Atributos Mentales suelen ser primarios, al igual que los Conocimientos. Los Trasfondos más comunes para los Nagaraja son\n\n[Contactos](/vampire/backgrounds/contacts), [Recursos](/vampire/backgrounds/resources) y [Criados](/vampire/backgrounds/retainers), aunque unos pocos Mentores retorcidos a veces Abrazan Chiquillos.\n\nCAPÍTULO DIEZ: LÍNEAS DE SANGRE\n\nDisciplinas de Clan: Auspex, Dominación, Necromancia.\n\nDebilidad: Los Nagaraja necesitan, además de sangre, carne cruda para sobrevivir. Por cada noche que un Nagaraja pase sin consumir carne, pierde de forma acumulativa un dado de todas sus reservas Físicas. Comer un 'punto de carne' restaura uno de estos dados hasta que el vampiro se ha 'recuperado'. Un cuerpo humano tiene 10 'puntos de carne', que funcionan igual que los puntos de Sangre: un Nagaraja que consuma un punto de carne incrementa su reserva de Sangre en uno. No obstante, a diferencia de los puntos de Sangre, consumir un 'punto de carne' de una víctima causa un nivel de daño letal no absorbible a ésta. La carne que consuma el Nagaraja debe ser relativamente fresca, aunque no necesariamente 'viva'. De hecho, algunos Nagaraja almacenan cadáveres ritualmente preservados en sus refugios. Esta Debilidad no les permite [comer comida](/vampire/merits/comer-comida) ni consumir otros líquidos.\n\nOrganización: Aunque algunos afirman que esta Línea de Sangre pertenece por completo a la Tal'Mahe'Ra, hay numerosas excepciones. Un Nagaraja concreto puede estar en contacto con otro, pero la Línea de Sangre en su conjunto no posee ninguna organización.",
+    "body_es": "Una extraña Línea de Sangre de brujas caníbales, los Nagaraja son leyendas temidas por los Vástagos de ambos lados de la Jyhad. Como resultado de sus horribles apetitos, los Nagaraja han sido Cazados hasta casi la extinción en las noches actuales por enemigos políticos y por los fantasmas a los que cazan. De todos modos, unos pocos de estos vampiros aún deambulan por la noche, prosiguiendo con sus sutiles planes.\n\nAunque no son demasiado comunicativos acerca de sus orígenes, se cree que los Nagaraja provienen de Oriente Medio. Se los asocia con un culto de la muerte propio de la región que consumía carne humana de forma ritual y abría portales a las tierras de los muertos. Cómo estos sectarios se convirtieron en vampiros se ha perdido para la historia, pero los pocos Vástagos que han conocido a los Nagaraja tienen sus teorías: tal vez un comerciante [Giovanni](/vampire/clans/giovanni) errante los Abrazó, tal vez trataron de seguir los pasos de [Tremere](/vampire/clans/tremere), o quizá podrían ser los últimos Capadocios supervivientes. Los Nagaraja se niegan a confirmar o desmentir tales especulaciones, por lo que la verdad y el rumor continúan entrelazándose alrededor de estos misteriosos Vástagos.\n\nAlgunos de los Caníbales pertenecen a una Secta de vampi-\n\nros [llamada](/vampire/discipline-powers/llamada) la Tal'Mahe'Ra o la 'Verdadera Mano Negra', aparentemente distinta de la Mano Negra del Sabbat. No está claro qué hace la Tal'Mahe'Ra en las Tierras de los Muertos, ni por qué combaten contra los Muertos Sin Reposo, pero su ciudad en el Inframundo alberga a varios Nagaraja. Los que están en la tierra de los vivos son Independientes que intentan buscarse la no-vida como sea.\n\nApodo: Caníbales.\n\nSecta: Los Nagaraja en conjunto se niegan a pertenecer a la Camarilla o el Sabbat, pero en las ciudades de la Camarilla siguen las reglas lo mejor que pueden (considerando su Debilidad).\n\nApariencia: Los Nagaraja tienen dientes afilados e irregulares, en vez de los usuales colmillos retráctiles. Esto significa que raramente sonríen y que suelen hablar discretamente entre los mortales (a no ser que planeen comérselos).\n\nRefugio: Los Nagaraja establecen sus refugios donde pueden. Algo que los Caníbales intentan incorporar en sus refugios, siempre que pueden, son medios para deshacerse\n\nde cadáveres. No se pueden permitir simplemente sorber un poco de sangre como los otros Vástagos.\n\nTrasfondo: La mayoría de los Nagaraja ha recibido una buena educación y algunos tienen conocimientos médicos (ya sea de sus vidas mortales o adquiridos tras el Abrazo). Los miembros de la Línea de Sangre son tan escasos que es difícil sostener cualquier otra afirmación. Algunos Nagaraja eran sacerdotes o sectarios antes del Abrazo, otros anticuarios, y algunos exorcistas o cazafantasmas.\n\nCreación del personaje: Los Nagaraja tienen normalmente Conceptos y Naturalezas solitarias o egocéntricas, aunque sus Conductas pueden ser cualquier cosa. Los Atributos Mentales suelen ser primarios, al igual que los Conocimientos. Los Trasfondos más comunes para los Nagaraja son\n\n[Contactos](/vampire/backgrounds/contacts), [Recursos](/vampire/backgrounds/resources) y [Criados](/vampire/backgrounds/retainers), aunque unos pocos Mentores retorcidos a veces Abrazan Chiquillos.\n\nCAPÍTULO DIEZ: LÍNEAS DE SANGRE\n\nDisciplinas de Clan: Auspex, Dominación, Necromancia.\n\nDebilidad: Los Nagaraja necesitan, además de sangre, carne cruda para sobrevivir. Por cada noche que un Nagaraja pase sin consumir carne, pierde de forma acumulativa un dado de todas sus reservas Físicas. Comer un 'punto de carne' restaura uno de estos dados hasta que el vampiro se ha 'recuperado'. Un cuerpo humano tiene 10 'puntos de carne', que funcionan igual que los puntos de Sangre: un Nagaraja que consuma un punto de carne incrementa su reserva de Sangre en uno. No obstante, a diferencia de los puntos de Sangre, consumir un 'punto de carne' de una víctima causa un nivel de daño letal no absorbible a ésta. La carne que consuma el Nagaraja debe ser relativamente fresca, aunque no necesariamente 'viva'. De hecho, algunos Nagaraja almacenan cadáveres ritualmente preservados en sus refugios. Esta Debilidad no les permite [comer comida](/vampire/merits/comer-comida) ni consumir otros líquidos.\n\nOrganización: Aunque algunos afirman que esta Línea de Sangre pertenece por completo a la Tal'Mahe'Ra, hay numerosas excepciones. Un Nagaraja concreto puede estar en contacto con otro, pero la Línea de Sangre en su conjunto no posee ninguna organización.",
     "tags": [
       "clan"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "disciplines": [
+        "Auspex",
+        "Dominación",
+        "Necromancia"
+      ],
+      "weakness": "Los Nagaraja necesitan, además de sangre, carne cruda para sobrevivir. Por cada noche que un Nagaraja pase sin consumir carne, pierde de forma acumulativa un dado de todas sus reservas Físicas. Comer un 'punto de carne' restaura uno de estos dados. Esta Debilidad no les permite comer comida ni consumir otros líquidos."
+    },
     "sources": [
       {
         "book_id": "v20-core-rulebook-es",
@@ -14839,7 +14957,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "weakness": "Los Nagaraja necesitan, además de sangre, carne cruda para sobrevivir. Por cada noche que un Nagaraja pase sin consumir carne, pierde de forma acumulativa un dado de todas sus reservas Físicas. Comer un &#x27;punto de carne&#x27; restaura uno de estos dados. Esta Debilidad no les permite <a href=\"/vampire/merits/comer-comida\">comer comida</a> ni consumir otros líquidos."
+    }
   },
   {
     "id": "salubri",
@@ -14851,7 +14972,14 @@
     "tags": [
       "clan"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "disciplines": [
+        "Auspex",
+        "Fortaleza",
+        "Obeah"
+      ],
+      "weakness": "A los Salubri les cuesta alimentarse de recipientes involuntarios. Si un Cíclope lo intenta, pierde un punto temporal de Fuerza de Voluntad."
+    },
     "sources": [
       {
         "book_id": "v20-core-rulebook-es",
@@ -14869,11 +14997,18 @@
     "line": "vampire",
     "name_en": "Samedi",
     "name_es": "Samedi",
-    "body_es": "Si los [Nosferatu](/vampire/clans/nosferatu) son repulsivos y los Heraldos de las Calaveras son horripilantes, aún no se ha inventado una palabra para describir a los Samedi. El origen de estos extraños vampiros, parecidos a cadáveres putrefactos, así como su propio nombre, se encuentra en el Caribe y la religión del vudú. El Barón Samedi, en la leyenda, es el loa de la muerte y el culto a los ancestros. Los vampiros que llevan su nombre y rostro (pues Samedi suele ser representado como un cadáver, aunque no uno tan desagradable como los Fiambres) también comparten su conducta ruda y contundente. De hecho, un vampiro conocido como 'Barón Samedi' parece ser el Fundador, o al menos el miembro existente más antiguo de la Línea de Sangre.\n\nLos Samedi pueden parecer una escisión de los [Nosferatu](/vampire/clans/nosferatu), pero sus Poderes de Tanatosis (una Disciplina para manipular la carne muerta) sugieren una conexión con los Giovanni o con sus malogrados predecesores, los Capadocios. Pero si ése es el caso, los Samedi y los Giovanni separaron sus caminos hace mucho, pues ninguno tiene nada bueno que decir acerca del otro. La razón para esta enemistad no es algo que ningún miembro de ambos linajes discuta en público, pero aparentemente los Giovanni tienen cierta historia en común con el mismísimo Barón. Éste, aún activo en los asuntos de la Línea de Sangre, se niega a discutir el 'trato' que tuvo con Augustus Giovanni, pero debe haber sido algo muy grave para que persista el desagrado mutuo.\n\nLos Samedi ejercen de sicarios y asesinos en la sociedad vampírica. No lo hacen por razones ideológicas, como los Assamitas, y por eso mismo los contratan los Vástagos que quieren obtener aquello por lo que han pagado. Los Samedi no aceptan con-\n\ntratos contra los [Nosferatu](/vampire/clans/nosferatu) ni, extrañamente, los Giovanni, sin una tarifa elevada de por medio, lo que sugiere alguna consideración o temor hacia estos Clanes. Al igual que tantos otros asuntos de su linaje, los Samedi no se pronuncian sobre el asunto.\n\nApodo: Fiambres.\n\nSecta: Los Samedi ocasionalmente se unen a la Camarilla o al Sabbat, pero la mayoría se considera Independiente.\n\nApariencia: Decir que un Samedi se parece a un cadáver putrefacto no es, lamentablemente, un eufemismo de ningún tipo. Su carne es flácida y tiende a derramar fluidos si se presiona demasiado fuerte. Sus oídos y narices se han podrido por completo (aunque siguen funcionando normalmente) a menudo se les caen pequeños trozos de piel que luego vuelven a crecer. La piel se retrae de los ojos, al igual que las encías de la dentadura, dándoles la apariencia de cráneos sonrientes, pero les cuelga demasiada carne del cráneo como para llegar al horror descarnado de los Heraldos de las Calaveras. Algunos Samedi son secos y correosos, como momias sin vendas. Estos Fiambres aún apestan, pero su hedor tiene más reminiscencias de flores podridas y vieja descomposición que de [putrefacción](/vampire/discipline-powers/putrefaccion) fresca.\n\nRefugio: Los refugios de los Samedi están en lugares donde un cadáver putrefracto y su hedor no estén fuera de lugar. Morgues, tanatorios, cementerios y plantas de envasado de carne pueden alojar a los Samedi. Algunos miembros de la Línea de Sangre eligen morar bajo tierra, como los [Nosferatu](/vampire/clans/nosferatu), pero esto ocasiona conflictos entre los Fiambres y las Ratas de Alcantarilla.\n\nTrasfondo: Los Samedi son un linaje relativamente joven. No se conoce a ningún Samedi con más de 250 años. La mayoría de los más viejos proceden de las islas del Caribe o del sureste de los Estados Unidos. Los Samedi Neonatos no siempre comparten esta conexión con el vudú, pero frecuentemente estaban cerca de la muerte (de un modo u otro) antes del Abrazo.\n\nCreación del personaje: Aunque los Atributos Físicos son una prioridad para aquellos Samedi que trabajan como asesinos y sicarios, muchos priorizan los Rasgos Mentales. Rara vez tienen los Trasfondos de [Rebaño](/vampire/backgrounds/rebano) o [Recursos](/vampire/backgrounds/resources), y su naturaleza poco amigable y solitaria implica que [Mentor](/vampire/backgrounds/mentor) y [Aliados](/vampire/backgrounds/allies) son igual de raros.\n\nDisciplinas de Clan: Fortaleza, Ofuscación, Tanatosis.\n\nDebilidad: Los Samedi, como se ha dicho, están podridos más allá de cualquier descripción. Los personajes Samedi tienen una Apariencia de cero y fallan automáticamente todas las tiradas de Apariencia.\n\nOrganización: Los Samedi son demasiado poco comunes como para estar organizados. Pueden cruzar ocasio-\n\nCita: Ríete de mí otra vez y te doy un abrazo, puta cursi.\n\nnalmente sus caminos e intercambiar historias, pero no hay ningún plan ni calendario para estos encuentros, al menos por lo que se sabe fuera de la Línea de Sangre.",
+    "body_es": "Si los [Nosferatu](/vampire/clans/nosferatu) son repulsivos y los Heraldos de las Calaveras son horripilantes, aún no se ha inventado una palabra para describir a los Samedi. El origen de estos extraños vampiros, parecidos a cadáveres putrefactos, así como su propio nombre, se encuentra en el Caribe y la religión del vudú. El Barón Samedi, en la leyenda, es el loa de la muerte y el culto a los ancestros. Los vampiros que llevan su nombre y rostro (pues Samedi suele ser representado como un cadáver, aunque no uno tan desagradable como los Fiambres) también comparten su conducta ruda y contundente. De hecho, un vampiro conocido como 'Barón Samedi' parece ser el Fundador, o al menos el miembro existente más antiguo de la Línea de Sangre.\n\nLos Samedi pueden parecer una escisión de los [Nosferatu](/vampire/clans/nosferatu), pero sus Poderes de Tanatosis (una Disciplina para manipular la carne muerta) sugieren una conexión con los [Giovanni](/vampire/clans/giovanni) o con sus malogrados predecesores, los Capadocios. Pero si ése es el caso, los Samedi y los [Giovanni](/vampire/clans/giovanni) separaron sus caminos hace mucho, pues ninguno tiene nada bueno que decir acerca del otro. La razón para esta enemistad no es algo que ningún miembro de ambos linajes discuta en público, pero aparentemente los [Giovanni](/vampire/clans/giovanni) tienen cierta historia en común con el mismísimo Barón. Éste, aún activo en los asuntos de la Línea de Sangre, se niega a discutir el 'trato' que tuvo con Augustus [Giovanni](/vampire/clans/giovanni), pero debe haber sido algo muy grave para que persista el desagrado mutuo.\n\nLos Samedi ejercen de sicarios y asesinos en la sociedad vampírica. No lo hacen por razones ideológicas, como los Assamitas, y por eso mismo los contratan los Vástagos que quieren obtener aquello por lo que han pagado. Los Samedi no aceptan con-\n\ntratos contra los [Nosferatu](/vampire/clans/nosferatu) ni, extrañamente, los [Giovanni](/vampire/clans/giovanni), sin una tarifa elevada de por medio, lo que sugiere alguna consideración o temor hacia estos Clanes. Al igual que tantos otros asuntos de su linaje, los Samedi no se pronuncian sobre el asunto.\n\nApodo: Fiambres.\n\nSecta: Los Samedi ocasionalmente se unen a la Camarilla o al Sabbat, pero la mayoría se considera Independiente.\n\nApariencia: Decir que un Samedi se parece a un cadáver putrefacto no es, lamentablemente, un eufemismo de ningún tipo. Su carne es flácida y tiende a derramar fluidos si se presiona demasiado fuerte. Sus oídos y narices se han podrido por completo (aunque siguen funcionando normalmente) a menudo se les caen pequeños trozos de piel que luego vuelven a crecer. La piel se retrae de los ojos, al igual que las encías de la dentadura, dándoles la apariencia de cráneos sonrientes, pero les cuelga demasiada carne del cráneo como para llegar al horror descarnado de los Heraldos de las Calaveras. Algunos Samedi son secos y correosos, como momias sin vendas. Estos Fiambres aún apestan, pero su hedor tiene más reminiscencias de flores podridas y vieja descomposición que de [putrefacción](/vampire/discipline-powers/putrefaccion) fresca.\n\nRefugio: Los refugios de los Samedi están en lugares donde un cadáver putrefracto y su hedor no estén fuera de lugar. Morgues, tanatorios, cementerios y plantas de envasado de carne pueden alojar a los Samedi. Algunos miembros de la Línea de Sangre eligen morar bajo tierra, como los [Nosferatu](/vampire/clans/nosferatu), pero esto ocasiona conflictos entre los Fiambres y las Ratas de Alcantarilla.\n\nTrasfondo: Los Samedi son un linaje relativamente joven. No se conoce a ningún Samedi con más de 250 años. La mayoría de los más viejos proceden de las islas del Caribe o del sureste de los Estados Unidos. Los Samedi Neonatos no siempre comparten esta conexión con el vudú, pero frecuentemente estaban cerca de la muerte (de un modo u otro) antes del Abrazo.\n\nCreación del personaje: Aunque los Atributos Físicos son una prioridad para aquellos Samedi que trabajan como asesinos y sicarios, muchos priorizan los Rasgos Mentales. Rara vez tienen los Trasfondos de [Rebaño](/vampire/backgrounds/rebano) o [Recursos](/vampire/backgrounds/resources), y su naturaleza poco amigable y solitaria implica que [Mentor](/vampire/backgrounds/mentor) y [Aliados](/vampire/backgrounds/allies) son igual de raros.\n\nDisciplinas de Clan: Fortaleza, Ofuscación, Tanatosis.\n\nDebilidad: Los Samedi, como se ha dicho, están podridos más allá de cualquier descripción. Los personajes Samedi tienen una Apariencia de cero y fallan automáticamente todas las tiradas de Apariencia.\n\nOrganización: Los Samedi son demasiado poco comunes como para estar organizados. Pueden cruzar ocasio-\n\nCita: Ríete de mí otra vez y te doy un abrazo, puta cursi.\n\nnalmente sus caminos e intercambiar historias, pero no hay ningún plan ni calendario para estos encuentros, al menos por lo que se sabe fuera de la Línea de Sangre.",
     "tags": [
       "clan"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "disciplines": [
+        "Fortaleza",
+        "Ofuscación",
+        "Tanatosis"
+      ],
+      "weakness": "Los Samedi están podridos más allá de cualquier descripción. Los personajes Samedi tienen una Apariencia de cero y fallan automáticamente todas las tiradas de Apariencia."
+    },
     "sources": [
       {
         "book_id": "v20-core-rulebook-es",
@@ -14893,6 +15028,96 @@
     "related": []
   },
   {
+    "id": "assamita",
+    "type": "clan",
+    "line": "vampire",
+    "name_en": "Assamita",
+    "name_es": "Assamita",
+    "body_es": "Los Chiquillos de Haqim, conocidos como Assamitas por el resto de los Vástagos, son un [cuchillo](/vampire/weapons/cuchillo) silencioso en la oscuridad, una [orden](/vampire/discipline-powers/orden) de ejecutores sedientos de Sangre que participa en las guerras secretas de los no-muertos actuando como asesinos a sueldo. Fuera del alcance de las Sectas, los Assamitas son auténticos Independientes y mercenarios, ofreciendo sus servicios a quienquiera que pague su precio en Sangre, al margen de la ley del Príncipe o del Priscus. Para cuando su objetivo se da cuenta de que un Assamita lo está acechando, suele ser demasiado tarde. Huelga decir que los Asesinos son temidos y denostados por muchos otros Clanes.\n\nEn realidad, los Assamitas son mucho más que unos simples matones y asesinos. El suyo es un Clan complejo pero aislado, basado en tres principios: la sabiduría, la hechicería y la Diablerie. Sin embargo, la mayoría de los Assamitas con los que se encuentran otros vampiros son miembros de la casta guerrera, así que la sociedad de los Vástagos los ve de esa manera. Por su parte, los Asesinos no han hecho nada para desmentir este malentendido. Si los ayuda a conseguir más contratos y oculta la verdadera naturaleza de su Clan, mejor para ellos.\n\nHace mucho, los Assamitas fueron sometidos por medio de una poderosa maldición, conjurada por los [Tremere](/vampire/clans/tremere) bajo las órdenes de la Camarilla, que puso freno a su sed de Sangre. No pueden probar la Vitae de otro vampiro sin que esto les cause daño. En su constante búsqueda para reducir su [Generación](/vampire/backgrounds/generacion) y acercarse a su sagrada figura, Haqim (quien algunos eruditos de fuera del Clan afirman que pertenecía a la Segunda [Generación](/vampire/backgrounds/generacion), mientras que otros insisten en que fue un juez designado por los otros Antediluvianos), los Assamitas han de refinar la Sangre de Vástago en una solución alquímica. Si no fuera por este yugo místico, seguramente estarían inmersos en una impía cruzada de Diablerie sin control.\n\nApodo: Asesinos.\n\nSecta: Para casi todo, los Assamitas tienden a ser Independientes, dejando que las Sectas los contraten para operar en sus propios términos. Dicho esto, algunos Assamitas creen que una alianza con la Camarilla o el Sabbat podría permitir que el Clan se mantuviera más fuerte.\n\nApariencia: Los Assamitas más viejos suelen provenir de culturas de Oriente Medio o del Norte de África, aunque cada vez es más habitual que los jóvenes Assamitas provengan de orígenes más diversos. En sus ambientes tradicionales, los Assamitas prefieren vestirse conforme a las costumbres religiosas o del Clan. Cuando están en público, sin embargo, los Assamitas visten igual que los oriundos del lugar, lo que les permite cumplir sus contratos sin que nadie note nada extraño. La piel de un Assamita se oscurece con la edad (al contrario que la de los otros vampiros, cuya piel se hace más pálida); los Assamitas particularmente antiguos tienen un tono de piel similar al ébano.\n\nRefugio: Los Assamitas suelen compartir refugios comunales con otros miembros de su célula local, estructuras remotas que les permiten vigilar los dominios más grandes desde la distancia. Estos refugios normalmente están bien equipados, pero no son tan lujosos como para no poder trasladarse al completo en poco tiempo. Algunos Assamitas también tienden a mantener guaridas personales de naturaleza mucho más humilde para cuando necesiten un lugar en el que no llamar la atención.\n\nTrasfondo: Aquéllos Abrazados por el Clan Assamita tienden a caer en dos tipos diferenciados: los miembros 'provinciales' del Clan encajan en su lugar de origen sea cual sea y pueden mezclarse sin problemas con la gente que los rodea; los de clase alta trascienden culturas, respaldados por su habilidad para hacer frente a desafíos interpersonales e intelectuales.\n\nCreación de Personaje: Los Atributos Físicos tienden a ser los primarios, aunque algunos Assamitas prefieren los Atributos Sociales para que los ayuden a acercarse a su presa. Prefieren por igual los Talentos y Técnicas, pero los Conocimientos pueden ser de ayuda para un Assamita si fuese necesario. Pocos Asesinos cultivan grandes Trasfondos y, en lugar de ello, se especializan en un abanico de Disciplinas que aumentan su eficiencia. Los Assamitas más consumados siguen la Senda de Iluminación propia de su Clan y aquéllos que no lo hacen suelen tener que hacer grandes esfuerzos para mantener sus Virtudes y Humanidad.\n\nDisciplinas de Clan: Celeridad, Extinción, Ofuscación.\n\nDebilidad: Debido a la Maldición de Sangre de los [Tremere](/vampire/clans/tremere), en caso de que un Assamita consuma la Sangre de otro Vástago, sufrirá un nivel de daño letal automático no absorbible por cada punto que beba. Los intentos de Diablerie resultan en daño agravado automático, un nivel de Salud por cada punto de Fuerza de Voluntad permanente que posea su víctima; el Diabolista no ganará ningún beneficio (incluyendo la reducción de [Generación](/vampire/backgrounds/generacion)) si sobrevive al proceso. Además, el Assamita debe ofrecer como diezmo una parte de los beneficios de sus contratos a su Sire o a sus superiores (por lo general, un diez por ciento de sus ganancias).\n\nOrganización: Una organización aislada y jerárquica da forma a la mayoría de las costumbres de los Assamitas. 'El Viejo de la Montaña', el maestro asesino que tiene su refugio en la fortaleza del monte Alamut, es la autoridad definitiva; el Clan obedece las órdenes que les transmite con una mezcla de reverencia y terror. Por norma, las células individuales y locales de Assamitas, conocidas como falaqi, tienen licencia para actuar con mayor autonomía, aunque son raros los que traicionan la causa.",
+    "tags": [
+      "clan"
+    ],
+    "mechanics": {
+      "disciplines": [
+        "Celeridad",
+        "Extinción",
+        "Ofuscación"
+      ],
+      "weakness": "Debido a la Maldición de Sangre de los Tremere, en caso de que un Assamita consuma la Sangre de otro Vástago, sufrirá un nivel de daño letal automático no absorbible por cada punto que beba. Los intentos de Diablerie resultan en daño agravado automático, un nivel de Salud por cada punto de Fuerza de Voluntad permanente que posea su víctima; el Diabolista no ganará ningún beneficio (incluyendo la reducción de Generación) si sobrevive al proceso. Además, el Assamita debe ofrecer como diezmo una parte de los beneficios de sus contratos a su Sire o a sus superiores (por lo general, un diez por ciento de sus ganancias)."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "assamita",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "weakness": "Debido a la Maldición de Sangre de los <a href=\"/vampire/clans/tremere\">Tremere</a>, en caso de que un Assamita consuma la Sangre de otro Vástago, sufrirá un nivel de daño letal automático no absorbible por cada punto que beba. Los intentos de Diablerie resultan en daño agravado automático, un nivel de Salud por cada punto de Fuerza de Voluntad permanente que posea su víctima; el Diabolista no ganará ningún beneficio (incluyendo la reducción de <a href=\"/vampire/backgrounds/generacion\">Generación</a>) si sobrevive al proceso. Además, el Assamita debe ofrecer como diezmo una parte de los beneficios de sus contratos a su Sire o a sus superiores (por lo general, un diez por ciento de sus ganancias)."
+    }
+  },
+  {
+    "id": "giovanni",
+    "type": "clan",
+    "line": "vampire",
+    "name_en": "Giovanni",
+    "name_es": "Giovanni",
+    "body_es": "Tras ganar prominencia durante el Renacimiento veneciano, la familia Giovanni construyó su fortuna sobre el ascenso de la clase media y los rápidos beneficios de la banca y el comercio en el Mediterráneo (y las empresas criminales que los acompañaban). Sin embargo, al desear el paterfamilias aún más poder, junto con el progreso de la familia vino el orgullo y, con éste, el horror. En la cima de su poder mortal, Augustus Giovanni se dedicó al arte de controlar a los muertos, ganándose así el Abrazo de un Antediluviano hoy olvidado. Junto con un cónclave de conspiradores, los Giovanni hundieron en el olvido a un Clan y construyeron su propio legado sobre el cadáver.\n\nDesde esas primeras noches, los Giovanni no han aceptado límite alguno a sus ambiciones, a pesar de la oposición de los Vástagos de fuera de su Clan y de una merecida reputación como 'Vástagos Diabólicos'. Estudiaron artes prohibidas, volviéndose formidables en el manejo de la nigromancia, que les permitió tener poder sobre los espíritus de los muertos, y la degeneración siguió a los rituales impíos. Hoy en día, los Giovanni son conocidos por el aislacionismo de su Clan y las prácticas incestuosas con las que lo perpetúan. Unas pocas familias y grupos externos están bajo su protección, pero la gran mayoría del Clan proviene de su corrupta familia mortal. Ésta sigue medrando a pesar de sus abominables caprichos, y ha amasado una enorme fortuna mediante el crimen, la política y los secretos de los muertos, la cual los mantiene en su posición de degradada opulencia.\n\nEn público, los Giovanni hacen gala de gran humildad y respeto. En parte es un hábito secular, adquirido cuando los otros Clanes cazaban a los Necromantes usurpadores (y mantenido para preservar su duramente ganada neutralidad en el conflicto entre la Camarilla y el Sabbat). Otra cosa es el guante de terciopelo cubriendo el puño de hierro de su auténtica naturaleza, notable por doblegar tanto a fantasmas como a mentes y cuerpos para que se rindan a sus necesidades. Según los Giovanni, tanto Príncipes como Arzobispos les deben favores, y cualquiera con algo que ofrecer puede ganar su patrocinio.\n\nEn su mayor parte, los Giovanni apenas participan en la Jyhad, pues buscan sus propios objetivos: cultivar su fortuna y asentar los cimientos de su poder en las tierras tras el velo de la muerte. Los ajenos a la familia rara vez comprenden los objetivos de los Necromantes, pues sólo los más fieles a los Giovanni saben que el Clan quiere llevar el mundo a un estado en donde muertos y vivos se mezclen. Y, con su maestría en la Necromancia, los Giovanni estarían en posición de gobernarlos a todos.\n\nApodo: Necromantes.\n\nApariencia: Exteriormente, los Giovanni visten con discreción y buen gusto. La mayoría proviene de su familia mortal original y no sólo son de piel aceitunada como muchos italianos, sino que también presentan algunos rasgos heredados de su familia. Quienes no son parientes cercanos son fáciles de identificar, y se visten como sea costumbre en la región de su rama familiar.\n\nRefugio: La fortuna de los Giovanni es evidente en sus refugios, que suelen ser villas o lujosas fincas. Los Necromantes a menudo tienen objetos de valor en ellos, desde galerías de arte a expositores de joyas. Muchos Giovanni tienen además refugios secundarios, donde pueden tener complejas criptas necrománticas o ser sencillamente pisos en los que ocultarse si fuera necesario.\n\nCreación de Personaje: Los Giovanni habitualmente tienen Conductas sociables y profesionales que ocultan crueles Naturalezas retorcidas durante su educación. Los Atributos Mentales o Sociales son generalmente primarios, aunque algunos 'soldados' de la familia prefieren los Físicos. El mismo énfasis hace que se primen los Conocimientos o los Talentos, dependiendo de la propensión personal. La parte del Clan que prefiere los Trasfondos prácticos (particularmente, los relacionados con los bienes materiales y el ejercicio de su [influencia](/vampire/backgrounds/influence)) diverge de quienes prefieren el poder prohibido de las Disciplinas. Pocos Giovanni podrían ser descritos como equilibrados.\n\nDisciplinas de Clan: Dominación, Necromancia, Potencia.\n\nDebilidad: El Beso de los Giovanni causa un dolor insoportable a los mortales que lo reciben. Si uno de ellos no es cuidadoso, su víctima podría morir a causa del shock y la agonía antes de ser desangrado completamente. Cuando un Giovanni se alimenta de un mortal, hace el doble de daño que infligiría el Beso de otro vampiro. Por ejemplo, si un Giovanni toma un punto de Sangre de un recipiente mortal, la víctima sufre dos niveles de Salud de daño. Como resultado, tienden a utilizar bancos de sangre y otros medios de alimentarse menos problemáticos.\n\nOrganización: Piramidales como pocos otros Clanes, los Necromantes tienen una estructura en la cual las decisiones las toma el aún (presuntamente) activo progenitor del Clan, Augustus. La familia mantiene un enorme palazzo llamado el Mausoleo en Venecia, donde tanto Antiguos como Retoños bailan al son que marcan los vetustos vampiros moviendo los hilos del Clan. La estructura de éste es familiar, con las complicaciones añadidas que ofrecen la degeneración y el vampirismo. El incesto, la adoración de los ancestros, la necrofilia, los cultos al remordimiento y anormales relaciones en las que padres y abuelas son Chiquillos de su propia descendencia, enmarañan aún más Clan y familia y quiebran la mente de muchos Giovanni aún antes de transformarse en Vástagos.",
+    "tags": [
+      "clan"
+    ],
+    "mechanics": {
+      "disciplines": [
+        "Dominación",
+        "Necromancia",
+        "Potencia"
+      ],
+      "weakness": "El Beso de los Giovanni causa un dolor insoportable a los mortales que lo reciben. Si uno de ellos no es cuidadoso, su víctima podría morir a causa del shock y la agonía antes de ser desangrado completamente. Cuando un Giovanni se alimenta de un mortal, hace el doble de daño que infligiría el Beso de otro vampiro. Por ejemplo, si un Giovanni toma un punto de Sangre de un recipiente mortal, la víctima sufre dos niveles de Salud de daño. Como resultado, tienden a utilizar bancos de sangre y otros medios de alimentarse menos problemáticos."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "giovanni",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "seguidores-de-set",
+    "type": "clan",
+    "line": "vampire",
+    "name_en": "Followers of Set",
+    "name_es": "Seguidores de Set",
+    "body_es": "La [adicción](/vampire/flaws/adiccion), el envilecimiento, la corrupción y la desesperación aterrorizan a muchos Vástagos que temen que su no-vida sea un fracaso, pero para los Seguidores de Set, éstas y muchas otras son las herramientas con las que comercian. Chulos, camellos y sacerdotes, los Setitas satisfacen las necesidades de los desesperados y, al hacerlo, los convierten a una causa nihilista. Tanto si uno necesita placeres carnales, dinero, drogas u oscuros secretos, los Seguidores de Set pueden proveerlo y, cuando lo hacen, se aseguran de que aquéllos que los buscan volverán.\n\nLos Seguidores de Set son tanto una religión ctónica como un Clan, aunque el Clan es parte de su doctrina. Su mitología es compleja y enrevesada, un panteón impenetrable de dioses monstruosos. En la cúspide de su culto se sitúa un sincretismo de Set, el señor egipcio del Inframundo, y la hidra griega Tifón, tanto guardianes espirituales de los lugares secretos como 'libertadores' de las almas ajenas. Para los demás, todo esto es una afectación religiosa y blasfema, pero para los devotos Setitas el culto y la causa son reales, y su señor oscuro actúa a través de ellos.\n\nNo es necesario decir que la política de desesperación y el aplacamiento de sus malvados dioses sitúan a las Serpientes fuera de la sociedad de los Vástagos. A los Setitas ya les va bien así. Los vampiros a menudo tienen necesidad de algo que ofrecen los Seguidores de Set, y éstos están muy felices de, además, guardar el secreto… por un cuantioso precio. Los Setitas ofrecen un pacto con el diablo, pero en sus propios términos. De esa manera, cuando reciben su pago y alimentan con sangre y almas las fauces de Tifón, todos los sacrificios han sido entregados de forma voluntaria.\n\nApodo: Setitas, Serpientes.\n\nSecta: Aparentemente ninguna de las Sectas aceptaría a los Seguidores de Set. De puertas adentro, los Setitas a veces se describen en términos tanto de Secta como de Clan. No tienen un interés real por unirse ni a la Camarilla ni al Sabbat, y sus objetivos son diferentes a los de los Anarquistas.\n\nApariencia: Muchos de los Setitas más viejos provienen de etnias norteafricanas y mediterráneas nativas del territorio histórico de las Serpientes, pero Abrazan libremente entre los mortales de sus territorios adoptados. Algunos de los templos más antiguos de los Setitas están ubicados en lugares donde las Serpientes 'egipcias' podrían parecer fuera de lugar pero en los que, sin embargo, las serpientes se encuentran presentes en la mitología local, como en Mesoamérica o incluso en territorios nórdicos; de este modo, pueden captar miembros de las poblaciones locales. El pelo rojo se considera una marca del [favor](/vampire/merits/favor) de Set.\n\nRefugio: Los Setitas establecen sus refugios, ya sean individuales o comunales, allá donde estén sus templos ocultos. Estos refugios pueden ser cualquier cosa desde 'iglesias' con denominaciones nunca antes oídas hasta auténticos cultos que deben enmascarar su existencia. Las sigilosas Serpientes a veces esconden refugios individuales en lugares donde otros Vástagos no suelen ir, como aislados guetos étnicos, dominios abandonados, 'la parte mala de la ciudad' y lugares por el estilo. Algunos Setitas también tienen refugios en lugares místicos secretos que tienen valor para el Clan, ocultándolos de los extraños.\n\nTrasfondo: Los futuros Chiquillos de los Seguidores de Set a menudo pasan algún tiempo siendo parte de un culto Setita, siendo adoctrinados en los misterios del Clan antes de convertirse en uno de sus Vástagos. Pueden provenir de cualquier origen cultural, aunque muchos son extranjeros, solitarios u otros marginados sociales, que a menudo es precisamente lo que los condujo hacia las frutas prohibidas que ofrece el culto.\n\nCreación de Personaje: Los Sires escogen a quienes demuestran pericia en Atributos Sociales y Mentales, ya que el Clan necesita que sus proselitistas y sacerdotes sean carismáticos y astutos. Los Conocimientos casi siempre son primarios, aunque los Talentos también pueden serlo, especialmente entre aquellas Serpientes que suelan hacer negocios. Los Setitas enfocan sus Trasfondos para que les den [influencia](/vampire/backgrounds/influence) sobre otros ya sea sutil o abiertamente, lo que hace que [Aliados](/vampire/backgrounds/allies), [Contactos](/vampire/backgrounds/contacts), [Influencia](/vampire/backgrounds/influence), [Recursos](/vampire/backgrounds/resources) y algunas veces [Criados](/vampire/backgrounds/retainers) sean populares.\n\nDisciplinas de Clan: Ofuscación, Presencia, Serpentis.\n\nDebilidad: Dados sus orígenes en la oscuridad, las Serpientes reaccionan negativamente a la luz brillante: añade dos niveles al daño causado por la exposición a la luz solar. Los Setitas también pierden un dado de sus reservas para las acciones que realicen bajo luces brillantes (luces de policía, iluminación de escenarios, bengalas, etc).\n\nOrganización: La organización de los Setitas en su mayoría es local, representando un templo o una red de cultos la presencia de las Serpientes en la ciudad. Los Setitas en las ciudades raramente hacen planes contra otros de los suyos, prefiriendo encarar las amenazas externas en unidad en lugar del cismático egoísmo de las Sectas. Persisten los rumores acerca de un gigantesco templo dedicado a Set localizado en algún lugar de África, cuyo líder es un terrible Matusalén que afirma ser Chiquillo del propio Set. Si esto es cierto, entonces los planes ocultos del Clan probablemente se originen aquí, aunque los Setitas guardan silencio sobre el tema.",
+    "tags": [
+      "clan"
+    ],
+    "mechanics": {
+      "disciplines": [
+        "Ofuscación",
+        "Presencia",
+        "Serpentis"
+      ],
+      "weakness": "Dados sus orígenes en la oscuridad, las Serpientes reaccionan negativamente a la luz brillante: añade dos niveles al daño causado por la exposición a la luz solar. Los Setitas también pierden un dado de sus reservas para las acciones que realicen bajo luces brillantes (luces de policía, iluminación de escenarios, bengalas, etc)."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "seguidores-de-set",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
     "id": "ravnos",
     "type": "clan",
     "line": "vampire",
@@ -14902,7 +15127,14 @@
     "tags": [
       "clan"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "disciplines": [
+        "Animalismo",
+        "Fortaleza",
+        "Quimerismo"
+      ],
+      "weakness": "Una historia turbulenta hace a los Ravnos esclavos de sus vicios. Cada Ravnos siente inclinación por un tipo de vicio (por ejemplo, la mentira, la crueldad o el robo). Cuando se le presenta la oportunidad de caer en ese vicio, el Ravnos debe satisfacerlo a menos que su jugador supere una tirada de Autocontrol o Instinto (dificultad 6)."
+    },
     "sources": [
       {
         "book_id": "v20-core-rulebook-es",
@@ -14942,7 +15174,7 @@
     "line": "vampire",
     "name_en": "Grimaldi",
     "name_es": "Grimaldi",
-    "body_es": "Una vez mercaderes de las ciudades estado italianas del siglo xii , los Grimaldi aún conservan una posición acomodada como los mediadores entre el Sabbat y la sociedad mortal. Probablemente sean la más 'normal' de las familias, aunque algunos dicen que la fortuna extrema distingue tanto como la Sangre vampírica. Los Grimaldi normalmente son educados para ocupar posiciones de poder, y no es raro para un miembro de esta familia tener un puesto en la alta política o en el liderazgo de una empresa de su ciudad natal.\n\nDesde su mismo nacimiento, los Grimaldi disfrutan de todos los lujos que la vida pueda ofrecerles, desde escuelas privadas y tutores hasta vacaciones decadentes en los hoteles más exclusivos o los juguetes más maravillosos. Además de promover los objetivos políticos de sus amos, los Grimaldi tienen un objetivo secundario, más personal, que mantienen en secreto para todos excepto para los líderes de la familia.\n\nLos antiguos Grimaldi creen que su existencia continuada se debe a su utilidad al Sabbat, y que su destrucción será rápida y total si los [Tzimisce](/vampire/clans/tzimisce) les retiran alguna vez su protección. De acuerdo con eso, los Grimaldi han comenzado a formular planes de contingencia para transferir la [lealtad](/vampire/discipline-powers/lealtad) de su familia o bien a los [Ventrue](/vampire/clans/ventrue) de la Camarilla o a los Giovanni, si el Sabbat decide alguna vez que los Grimaldi han dejado de ser útiles. Es innecesario decir que esta información aseguraría la destrucción total de la familia si alguna vez saliese a la luz, así que los pocos privilegiados que conocen estos pensamientos traidores hacen todo lo que pueden para mantenerse bien lejos de sus amos nominales.\n\nDisciplinas: Celeridad, Dominación, Fortaleza.\n\nDebilidad: Todos los Grimaldi que han sobrepasado la pubertad están Vinculados a miembros del Sabbat de rango de Obispo o superior. Esto comenzó como una medida de seguridad para asegurar que los Grimaldi no traicionaran al Sabbat al mezclarse con la sociedad mortal, pero ha pasado a ser poco más que un rito de iniciación formal y un signo de mayoría de edad en estos tiempos. La mayoría del Sabbat rara vez llama a sus esclavos; aquellos Grimaldi desafortunados cuyos reinantes les imponen su voluntad con frecuencia son aceptados como 'pérdidas aceptables' cuando la familia (si es que lo hace) decida cambiar de alianzas.",
+    "body_es": "Una vez mercaderes de las ciudades estado italianas del siglo xii , los Grimaldi aún conservan una posición acomodada como los mediadores entre el Sabbat y la sociedad mortal. Probablemente sean la más 'normal' de las familias, aunque algunos dicen que la fortuna extrema distingue tanto como la Sangre vampírica. Los Grimaldi normalmente son educados para ocupar posiciones de poder, y no es raro para un miembro de esta familia tener un puesto en la alta política o en el liderazgo de una empresa de su ciudad natal.\n\nDesde su mismo nacimiento, los Grimaldi disfrutan de todos los lujos que la vida pueda ofrecerles, desde escuelas privadas y tutores hasta vacaciones decadentes en los hoteles más exclusivos o los juguetes más maravillosos. Además de promover los objetivos políticos de sus amos, los Grimaldi tienen un objetivo secundario, más personal, que mantienen en secreto para todos excepto para los líderes de la familia.\n\nLos antiguos Grimaldi creen que su existencia continuada se debe a su utilidad al Sabbat, y que su destrucción será rápida y total si los [Tzimisce](/vampire/clans/tzimisce) les retiran alguna vez su protección. De acuerdo con eso, los Grimaldi han comenzado a formular planes de contingencia para transferir la [lealtad](/vampire/discipline-powers/lealtad) de su familia o bien a los [Ventrue](/vampire/clans/ventrue) de la Camarilla o a los [Giovanni](/vampire/clans/giovanni), si el Sabbat decide alguna vez que los Grimaldi han dejado de ser útiles. Es innecesario decir que esta información aseguraría la destrucción total de la familia si alguna vez saliese a la luz, así que los pocos privilegiados que conocen estos pensamientos traidores hacen todo lo que pueden para mantenerse bien lejos de sus amos nominales.\n\nDisciplinas: Celeridad, Dominación, Fortaleza.\n\nDebilidad: Todos los Grimaldi que han sobrepasado la pubertad están Vinculados a miembros del Sabbat de rango de Obispo o superior. Esto comenzó como una medida de seguridad para asegurar que los Grimaldi no traicionaran al Sabbat al mezclarse con la sociedad mortal, pero ha pasado a ser poco más que un rito de iniciación formal y un signo de mayoría de edad en estos tiempos. La mayoría del Sabbat rara vez llama a sus esclavos; aquellos Grimaldi desafortunados cuyos reinantes les imponen su voluntad con frecuencia son aceptados como 'pérdidas aceptables' cuando la familia (si es que lo hace) decida cambiar de alianzas.",
     "tags": [
       "revenant"
     ],
@@ -15126,7 +15358,7 @@
     "line": "vampire",
     "name_en": "Senda de los Huesos",
     "name_es": "Senda de los Huesos",
-    "body_es": "Se cree que la Senda de los Huesos se desarrolló a partir del retorcido código apoyado por los macabros vampiros que engendraron a los Giovanni: Humano, Vástago o cualquier otro, toda criatura antes o después termina en los brazos de la muerte. Los más fervientes seguidores de esta Senda apoyan 'entregarse a la comprensión del inevitable fin de la vida'. Los vampiros que siguen esta Senda precisamente buscan el conocimiento de lo que es la muerte: ¿Es simplemente el fin de la vida? ¿La transición del alma a lo que yace tras la vida? ¿Es el fin del deseo de existir del alma? Estas cuestiones acechan a los seguidores de la Senda de los Huesos cada noche.",
+    "body_es": "Se cree que la Senda de los Huesos se desarrolló a partir del retorcido código apoyado por los macabros vampiros que engendraron a los [Giovanni](/vampire/clans/giovanni): Humano, Vástago o cualquier otro, toda criatura antes o después termina en los brazos de la muerte. Los más fervientes seguidores de esta Senda apoyan 'entregarse a la comprensión del inevitable fin de la vida'. Los vampiros que siguen esta Senda precisamente buscan el conocimiento de lo que es la muerte: ¿Es simplemente el fin de la vida? ¿La transición del alma a lo que yace tras la vida? ¿Es el fin del deseo de existir del alma? Estas cuestiones acechan a los seguidores de la Senda de los Huesos cada noche.",
     "tags": [
       "senda-iluminacion"
     ],
@@ -15303,7 +15535,7 @@
     "line": "vampire",
     "name_en": "Senda de la Sangre",
     "name_es": "Senda de la Sangre",
-    "body_es": "Esta Senda es practicada casi exclusivamente por los asesinos del Clan Assamita, aunque sólo los vampiros que demuestran auténtica [lealtad](/vampire/discipline-powers/lealtad) al Clan aprenden su riguroso código. El principio fundador de esta Senda explica que los Hijos de Caín (o Khayyin, como los Assamitas se refieren a él) son retorcidos fallos, aptos principalmente para llevar al linaje de Haqim (el nombre del Fundador del Clan Assamita) más cerca de 'el Único', un estado místico de trascendencia. Haqim instruye a sus Chiquillos a atacar salvajemente a los otros Chiquillos de Khayyin para destruir la mancha que infligen al mundo.",
+    "body_es": "Esta Senda es practicada casi exclusivamente por los asesinos del Clan [Assamita](/vampire/clans/assamita), aunque sólo los vampiros que demuestran auténtica [lealtad](/vampire/discipline-powers/lealtad) al Clan aprenden su riguroso código. El principio fundador de esta Senda explica que los Hijos de Caín (o Khayyin, como los Assamitas se refieren a él) son retorcidos fallos, aptos principalmente para llevar al linaje de Haqim (el nombre del Fundador del Clan [Assamita](/vampire/clans/assamita)) más cerca de 'el Único', un estado místico de trascendencia. Haqim instruye a sus Chiquillos a atacar salvajemente a los otros Chiquillos de Khayyin para destruir la mancha que infligen al mundo.",
     "tags": [
       "senda-iluminacion"
     ],
@@ -15351,6 +15583,7 @@
     ],
     "related": [],
     "mechanics_html": {
+      "nickname": "Teofidios (solo entre ellos; el resto del mundo los conoce como Corruptores o por el apodo de los <a href=\"/vampire/clans/seguidores-de-set\">Seguidores de Set</a>, Serpientes).",
       "bearing": "Devoción. Los Teofidios hacen todo pensando cómo podría servir mejor a Set. El modificador de Porte ayuda en los intentos de ganar conversos y en las tiradas para resistir Poderes basados en la fe de otros (tales como <a href=\"/vampire/merits/fe-verdadera\">Fe Verdadera</a>, ver pág. 372).",
       "ethics": "Reúne información, secreta o de otro tipo, y aprende cómo aplicarla para la resurrección de Set. | Contribuye a la meta última del Clan de revivir a su amo de su sueño. | Pon a otros bajo tu <a href=\"/vampire/backgrounds/domain\">dominio</a>, incrementando tu <a href=\"/vampire/backgrounds/influence\">influencia</a> y capacidad. | Subyuga a la Bestia, ya que sus insensatas artimañas le sirven sólo a ella. | Mantén un velo de secretismo para que otros no puedan discernir los métodos de la Senda. | Busca los signos ocultos de Set y actúa de acuerdo a ellos.",
       "hierarchy_of_sins": "| Puntuación | Guía moral | Razonamiento |\n|--------------|------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|\n| 10 | Perseguir la satisfacción personal en lugar de la ajena | El descenso hacia el vicio es una herramienta, no un pasatiempo. |\n| 9 | Rechazar ayudar a otro seguidor de la Senda | Los equipos son más eficientes que los individuos para alzar a Set. |\n| 8 | Fallar al destruir un vampiro en Golconda | Aquéllos que han trascendido sus deseos no pueden ser influidos. |\n| 7 | Fallar al cumplir con un ritual religioso Setita | No puedes negar a Set sus derechos. |\n| 6 | Fallar al socavar el <a href=\"/vampire/discipline-powers/orden\">orden</a> social actual en <a href=\"/vampire/merits/favor\">favor</a> de los Setitas | Otros Vástagos carecen de propósito o están engañados, y esta indolencia retrasa el resurgir de Set. |\n| 5 | Fallar al hacer lo que sea necesario para corromper a otros | Cuantos más individuos en deuda con los Setitas, mejor. |\n| 4 | Fallar al perseguir conocimiento arcano | Los misterios de la resurrección de Set pueden estar escondidos en cualquier parte. |\n| 3 | Obstaculizar los esfuerzos de otro Setita | En las filas de los rectos no hay lugar para mezquinas luchas de poder. |\n| 2 | Fallar al sacar ventaja de la debilidad de los demás | No hay lugar para la compasión en los planes supremos de Set. |\n| 1 | Rechazar ayudar a la resurrección de Set | Ésta es la esfera de los no creyentes. |"
@@ -15411,7 +15644,11 @@
         "page": null,
         "book_title_es": "V20 Core Rulebook (ES)"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "escuela": "Hechicería <a href=\"/vampire/clans/assamita\">Assamita</a>",
+      "nota_mecanica": "La Hechicería <a href=\"/vampire/clans/assamita\">Assamita</a> es mecánicamente idéntica a la Taumaturgia (págs. 212-240). Requisito de la Senda: nivel en Pelea con Armas o Artesanía igual al nivel en Despertar del Acero. +1 a la dificultad al usarla con armas de filo que no sean espadas o cuchillos."
+    }
   },
   {
     "id": "way-of-water",
@@ -17239,7 +17476,7 @@
     "line": "vampire",
     "name_en": "Path of Corruption",
     "name_es": "Senda de la Corrupción",
-    "body_es": "La cuestión de los orígenes de esta Senda causa acalorados debates entre quienes están familiarizados con sus entresijos. Una teoría mantiene que fueron los demonios quienes se la enseñaron a los [Tremere](/vampire/clans/tremere) y que servirse de ella acerca peligrosamente al usuario a los poderes infernales. Como segunda posibilidad se ha propuesto que la Senda de la Corrupción es un vestigio de los días en los que el Clan [Tremere](/vampire/clans/tremere) aún era mortal. La tercera teoría, y la más inquietante para los [Tremere](/vampire/clans/tremere), es que la Senda tiene su origen en los Seguidores de Set, y que éstos vendieron el secreto de su funcionamiento por un precio sin especificar. Los [Tremere](/vampire/clans/tremere) desmienten vehementemente este rumor, lo que automáticamente lo convierte en materia de discusión cuando surge el tema.\n\nLa Senda de la Corrupción está fundamentalmente orientada a lo mental y espiritual, y se centra en influir en las psiques de otros individuos. No se puede usar para impartir órdenes como Dominación ni para alterar las emociones momentáneas como Presencia. Más bien produce un giro gradual y sutil en las acciones, la moralidad y los procesos mentales del sujeto. Esta Senda trata estrechamente con el engaño y los deseos más oscuros, y quienes trabajan con ella necesitan entender los lugares ocultos del corazón. Por este motivo ningún personaje puede tener una puntuación más alta en la Senda de la Corrupción de la que tenga en Subterfugio.",
+    "body_es": "La cuestión de los orígenes de esta Senda causa acalorados debates entre quienes están familiarizados con sus entresijos. Una teoría mantiene que fueron los demonios quienes se la enseñaron a los [Tremere](/vampire/clans/tremere) y que servirse de ella acerca peligrosamente al usuario a los poderes infernales. Como segunda posibilidad se ha propuesto que la Senda de la Corrupción es un vestigio de los días en los que el Clan [Tremere](/vampire/clans/tremere) aún era mortal. La tercera teoría, y la más inquietante para los [Tremere](/vampire/clans/tremere), es que la Senda tiene su origen en los [Seguidores de Set](/vampire/clans/seguidores-de-set), y que éstos vendieron el secreto de su funcionamiento por un precio sin especificar. Los [Tremere](/vampire/clans/tremere) desmienten vehementemente este rumor, lo que automáticamente lo convierte en materia de discusión cuando surge el tema.\n\nLa Senda de la Corrupción está fundamentalmente orientada a lo mental y espiritual, y se centra en influir en las psiques de otros individuos. No se puede usar para impartir órdenes como Dominación ni para alterar las emociones momentáneas como Presencia. Más bien produce un giro gradual y sutil en las acciones, la moralidad y los procesos mentales del sujeto. Esta Senda trata estrechamente con el engaño y los deseos más oscuros, y quienes trabajan con ella necesitan entender los lugares ocultos del corazón. Por este motivo ningún personaje puede tener una puntuación más alta en la Senda de la Corrupción de la que tenga en Subterfugio.",
     "tags": [
       "taumaturgia",
       "magia-de-sangre",
@@ -19724,7 +19961,7 @@
     "line": "vampire",
     "name_en": "Méritos y Defectos Superafilados",
     "name_es": "Méritos y Defectos Superafilados",
-    "body_es": "Todos los [Nagaraja](/vampire/clans/nagaraja) tienen colmillos afilados con el propósito de cortar la carne con facilidad. Sin embargo, un personaje con este Mérito tiene líneas de colmillos adicionales, de forma semejante a un tiburón, cada una de ellas lista para infligir el mayor dolor posible. En lugar de causar 1 nivel de daño letal no absorbible por mordisco, causa 2. A algunos [Nagaraja](/vampire/clans/nagaraja) les gusta este Mérito porque hace que sus víctimas dejen de retorcerse mucho antes. Otros temen que crea una conexión con el doloroso mordisco de los Giovanni y pueden ver a los [Nagaraja](/vampire/clans/nagaraja) con este Mérito como forasteros.",
+    "body_es": "Todos los [Nagaraja](/vampire/clans/nagaraja) tienen colmillos afilados con el propósito de cortar la carne con facilidad. Sin embargo, un personaje con este Mérito tiene líneas de colmillos adicionales, de forma semejante a un tiburón, cada una de ellas lista para infligir el mayor dolor posible. En lugar de causar 1 nivel de daño letal no absorbible por mordisco, causa 2. A algunos [Nagaraja](/vampire/clans/nagaraja) les gusta este Mérito porque hace que sus víctimas dejen de retorcerse mucho antes. Otros temen que crea una conexión con el doloroso mordisco de los [Giovanni](/vampire/clans/giovanni) y pueden ver a los [Nagaraja](/vampire/clans/nagaraja) con este Mérito como forasteros.",
     "tags": [],
     "mechanics": {
       "cost": "2"
@@ -20750,7 +20987,7 @@
     "line": "vampire",
     "name_en": "Gaze of Hades",
     "name_es": "Mirada del Hades",
-    "body_es": "En la Antigua Grecia, los Heraldos de las Calaveras conocían a los Seguidores de Set como los Chiquillos de Tifón; las Serpientes reconocían a los Heraldos como parientes de Hades. La estrecha relación entre los linajes llevó a su coordinación de Poderes, para asegurarse de que las almas de sus parientes que encontrasen la Muerte Definitiva siguieran sirviendo a sus respectivos Clanes. Esta técnica era usada para recompensar a parientes leales con lugares de honor en la otra vida con la misma frecuencia que se usaba para castigar a vampiros errantes con servidumbre eterna.\n\nSistema: El necromante debe paralizar con éxito a otro vampiro con [Ojos de Serpiente](/vampire/discipline-powers/ojos-de-serpiente) (V20, pág. 210) hasta una semana antes de su Muerte Definitiva. La mirada del necromante queda marcada a fuego en el alma del vampiro y si éste muere en el plazo de una semana, la noche tras ésta se reconstituye como wraith en presencia del necromante. Salvo que se usen otros Poderes, el wraith no está atado a su servicio.\n\nAprender este Poder cuesta 9 puntos de Experiencia.",
+    "body_es": "En la Antigua Grecia, los Heraldos de las Calaveras conocían a los [Seguidores de Set](/vampire/clans/seguidores-de-set) como los Chiquillos de Tifón; las Serpientes reconocían a los Heraldos como parientes de Hades. La estrecha relación entre los linajes llevó a su coordinación de Poderes, para asegurarse de que las almas de sus parientes que encontrasen la Muerte Definitiva siguieran sirviendo a sus respectivos Clanes. Esta técnica era usada para recompensar a parientes leales con lugares de honor en la otra vida con la misma frecuencia que se usaba para castigar a vampiros errantes con servidumbre eterna.\n\nSistema: El necromante debe paralizar con éxito a otro vampiro con [Ojos de Serpiente](/vampire/discipline-powers/ojos-de-serpiente) (V20, pág. 210) hasta una semana antes de su Muerte Definitiva. La mirada del necromante queda marcada a fuego en el alma del vampiro y si éste muere en el plazo de una semana, la noche tras ésta se reconstituye como wraith en presencia del necromante. Salvo que se usen otros Poderes, el wraith no está atado a su servicio.\n\nAprender este Poder cuesta 9 puntos de Experiencia.",
     "tags": [
       "heraldos-de-las-calaveras",
       "lazarenos",

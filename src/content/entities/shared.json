@@ -358,7 +358,7 @@
     "line": "shared",
     "name_en": "Dodge",
     "name_es": "Esquiva (Pelea)",
-    "body_es": "Esquivar requiere cierto espacio para moverse; las acrobacias, todavía más.",
+    "body_es": "Esquivar requiere cierto espacio para moverse; las [acrobacias](/shared/secondary-abilitys/acrobacias), todavía más.",
     "tags": [
       "brawl",
       "standard"
@@ -386,7 +386,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "roll": "Destreza + Atletismo or <a href=\"/shared/secondary-abilitys/acrobacias\">Acrobacias</a>"
+    }
   },
   {
     "id": "defensa-desesperada-pelea",
@@ -394,7 +397,7 @@
     "line": "shared",
     "name_en": "Desperate Defence",
     "name_es": "Defensa desesperada (Pelea)",
-    "body_es": "Volcándolo todo en alejarse del peligro, no puedes hacer nada más ese turno. Para una defensa desesperada, tira la Destreza + Atletismo o Acrobacias de tu personaje si tienes suficiente espacio. Tu personaje usa toda su reserva de dados contra el primer ataque, pero debe restar un dado por cada ataque posterior de ese turno.",
+    "body_es": "Volcándolo todo en alejarse del peligro, no puedes hacer nada más ese turno. Para una defensa desesperada, tira la Destreza + Atletismo o [Acrobacias](/shared/secondary-abilitys/acrobacias) de tu personaje si tienes suficiente espacio. Tu personaje usa toda su reserva de dados contra el primer ataque, pero debe restar un dado por cada ataque posterior de ese turno.",
     "tags": [
       "brawl",
       "standard"
@@ -422,7 +425,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "roll": "Destreza + Atletismo or <a href=\"/shared/secondary-abilitys/acrobacias\">Acrobacias</a>"
+    }
   },
   {
     "id": "mordisco-vampiro",
@@ -1096,7 +1102,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "roll": "Astucia + Atletismo or <a href=\"/shared/secondary-abilitys/acrobacias\">Acrobacias</a>"
+    }
   },
   {
     "id": "jaw-lock-crinos-hispo-lupus",
@@ -2341,7 +2350,7 @@
     "line": "shared",
     "name_en": "Dodge",
     "name_es": "Esquiva (Armas c.c.)",
-    "body_es": "Esquivar requiere cierta cantidad de espacio para moverse; las acrobacias requieren aún más.",
+    "body_es": "Esquivar requiere cierta cantidad de espacio para moverse; las [acrobacias](/shared/secondary-abilitys/acrobacias) requieren aún más.",
     "tags": [
       "melee",
       "standard"
@@ -2369,7 +2378,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "roll": "Destreza + Atletismo or <a href=\"/shared/secondary-abilitys/acrobacias\">Acrobacias</a>"
+    }
   },
   {
     "id": "defensa-desesperada-armas-c-c",
@@ -2377,7 +2389,7 @@
     "line": "shared",
     "name_en": "Desperate Defence",
     "name_es": "Defensa desesperada (Armas c.c.)",
-    "body_es": "Poniendo todo su empeño en alejarse del peligro, no puedes hacer nada más ese turno. Para una defensa desesperada, tira la Destreza + Atletismo o Acrobacias de tu personaje si tienes suficiente espacio. Tu personaje usa su reserva de dados completa contra el primer ataque, pero debe restar un dado por cada ataque subsiguiente de ese turno.",
+    "body_es": "Poniendo todo su empeño en alejarse del peligro, no puedes hacer nada más ese turno. Para una defensa desesperada, tira la Destreza + Atletismo o [Acrobacias](/shared/secondary-abilitys/acrobacias) de tu personaje si tienes suficiente espacio. Tu personaje usa su reserva de dados completa contra el primer ataque, pero debe restar un dado por cada ataque subsiguiente de ese turno.",
     "tags": [
       "melee",
       "standard"
@@ -2405,7 +2417,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "roll": "Destreza + Atletismo or <a href=\"/shared/secondary-abilitys/acrobacias\">Acrobacias</a>"
+    }
   },
   {
     "id": "bash",
@@ -2664,7 +2679,7 @@
     "line": "shared",
     "name_en": "Aiming",
     "name_es": "Apuntar",
-    "body_es": "Debe tener al menos un punto en Armas de Fuego, Armas de Energía o Tiro con Arco. Las miras añaden dos dados adicionales, aunque esta bonificación sólo se aplica a un único disparo. Algunas miras también reducen la dificultad del ataque.",
+    "body_es": "Debe tener al menos un punto en Armas de Fuego, [Armas de Energía](/shared/secondary-abilitys/armas-de-energia) o [Tiro con Arco](/shared/secondary-abilitys/tiro-con-arco). Las miras añaden dos dados adicionales, aunque esta bonificación sólo se aplica a un único disparo. Algunas miras también reducen la dificultad del ataque.",
     "tags": [
       "ranged",
       "standard"
@@ -2734,7 +2749,7 @@
     "line": "shared",
     "name_en": "Dodge",
     "name_es": "Esquiva (A distancia)",
-    "body_es": "Esquivar requiere cierta cantidad de espacio para moverse; las acrobacias requieren aún más.",
+    "body_es": "Esquivar requiere cierta cantidad de espacio para moverse; las [acrobacias](/shared/secondary-abilitys/acrobacias) requieren aún más.",
     "tags": [
       "ranged",
       "standard"
@@ -2762,7 +2777,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "roll": "Destreza + Atletismo or <a href=\"/shared/secondary-abilitys/acrobacias\">Acrobacias</a>"
+    }
   },
   {
     "id": "defensa-desesperada-a-distancia",
@@ -2770,7 +2788,7 @@
     "line": "shared",
     "name_en": "Desperate Defence",
     "name_es": "Defensa desesperada (A distancia)",
-    "body_es": "Poniendo todo su empeño en alejarse del peligro, no puedes hacer nada más ese turno. Para una defensa desesperada, tira la Destreza + Atletismo o Acrobacias de tu personaje si tienes suficiente espacio. Tu personaje usa su reserva de dados completa contra el primer ataque, pero debe restar un dado por cada ataque subsiguiente de ese turno.",
+    "body_es": "Poniendo todo su empeño en alejarse del peligro, no puedes hacer nada más ese turno. Para una defensa desesperada, tira la Destreza + Atletismo o [Acrobacias](/shared/secondary-abilitys/acrobacias) de tu personaje si tienes suficiente espacio. Tu personaje usa su reserva de dados completa contra el primer ataque, pero debe restar un dado por cada ataque subsiguiente de ese turno.",
     "tags": [
       "ranged",
       "standard"
@@ -2798,7 +2816,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "roll": "Destreza + Atletismo or <a href=\"/shared/secondary-abilitys/acrobacias\">Acrobacias</a>"
+    }
   },
   {
     "id": "distraccion-a-distancia",
@@ -2836,7 +2857,7 @@
     "line": "shared",
     "name_en": "Rain of Arrows",
     "name_es": "Lluvia de flechas",
-    "body_es": "Un arquero puede lanzar tantas flechas como puntos de Tiro con Arco tenga, usando las reglas de acción múltiple. El ataque no puede realizarse a dificultad 10 o superior como parte de una acción múltiple. Sólo puede beneficiarse de la maniobra de [apuntar](/shared/maneuvers/aiming) en el primer ataque de la lluvia.",
+    "body_es": "Un arquero puede lanzar tantas flechas como puntos de [Tiro con Arco](/shared/secondary-abilitys/tiro-con-arco) tenga, usando las reglas de acción múltiple. El ataque no puede realizarse a dificultad 10 o superior como parte de una acción múltiple. Sólo puede beneficiarse de la maniobra de [apuntar](/shared/maneuvers/aiming) en el primer ataque de la lluvia.",
     "tags": [
       "ranged",
       "standard",
@@ -2937,7 +2958,7 @@
     "line": "shared",
     "name_en": "Suppressive Fire",
     "name_es": "Fuego de supresión",
-    "body_es": "Realizar esta maniobra requiere tres o más puntos de Tiro con Arco (o Armas de Fuego*). Un personaje sólo puede usar esta maniobra a alcance largo o medio, y no puede usarla como parte de una acción múltiple. Dispara por delante de su oponente que avanza. Si el oponente se mantiene atrás, no corre peligro directo. Si avanza, cualquier maniobra defensiva que realice se hace con +2 de dificultad, y el ataque del personaje se realiza a -2 de dificultad.",
+    "body_es": "Realizar esta maniobra requiere tres o más puntos de [Tiro con Arco](/shared/secondary-abilitys/tiro-con-arco) (o Armas de Fuego*). Un personaje sólo puede usar esta maniobra a alcance largo o medio, y no puede usarla como parte de una acción múltiple. Dispara por delante de su oponente que avanza. Si el oponente se mantiene atrás, no corre peligro directo. Si avanza, cualquier maniobra defensiva que realice se hace con +2 de dificultad, y el ataque del personaje se realiza a -2 de dificultad.",
     "tags": [
       "ranged",
       "standard",
@@ -4521,6 +4542,1614 @@
         "book_title_es": "Compendio de Combate",
         "page": null,
         "section_anchor": "do",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "afinidad-animal",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Animal Affinity",
+    "name_es": "Afinidad Animal",
+    "body_es": "Tienes una afinidad natural con los animales, tanta que tú mismo pareces ser en parte animal. En términos prácticos, este Talento te ayuda a desentrañar jerarquías, leer estados de ánimo o de salud, comunicarte mediante vocalización o lenguaje corporal y llegar a entenderte a nivel animal. Suele ser más fácil comunicarse con los animales inteligentes que con los más primitivos, por lo que las dificultades de Afinidad Animal son menores con bestias inteligentes o confiadas que con extrañas, hostiles o simples.\n\nLos éxitos en una tirada de Afinidad Animal pueden ayudarte a reducir la dificultad de una tirada de [Equitación](/shared/secondary-abilitys/equitacion) o te permiten hacerte pasar por \"otro animal\" si has cambiado a una forma bestial. Con una Especialidad en Adiestramiento, puedes entrenar a ciertos animales.\n\nNiveles: • Novato: Sueles gustarle a los animales domesticados. •• Ejercitado: Los animales asustadizos suelen confiar en ti. ••• Talentoso: Los animales salvajes tienden a respetarte. •••• Experto: La gente te llama \"el que Susurra a los Animales\". ••••• Maestro: Pareces más próximo a los animales que a los seres humanos.\n\nPoseído por: Cambiaformas, granjeros, cazadores, mozos de cuadra, brujas, policías de la brigada canina, adiestradores de animales, paseadores de perros, naturalistas, gente salvaje criada por bestias.\n\nEspecialidades sugeridas: Dominación, Amistoso, Calmar, Crear Lazos, \"Hablar con los Animales\", Interpretar Señales, Adiestrar (animales específicos: Caninos y Lupinos, Felinos, Equinos, Aves Rapaces...).",
+    "tags": [
+      "talento-secundario"
+    ],
+    "mechanics": {
+      "category": "talent"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "afinidad-animal",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "alternar",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Carousing",
+    "name_es": "Alternar",
+    "body_es": "Te especializas en compartir los buenos ratos. Esto no tiene por qué implicar alcohol y desenfreno... pero normalmente sí lo hace. Allí donde estés, probablemente puedes iniciar una fiesta y lograr que la mayoría de la gente se una a ti. Este Talento, normalmente asociado con el Culto del Éxtasis, puede romper las cadenas del decoro y hacer pedacitos las inhibiciones.\n\nNiveles: • Novato: \"¡YOLO!\". •• Ejercitado: \"Baila un poco / Haz un poco el amor / Baja esta noche...\". ••• Talentoso: \"Peca para que puedas ser perdonado\". •••• Experto: \"La única blasfemia real es rechazar el gozo\". ••••• Maestro: \"«Haz lo que quieras» debería ser la única ley\".\n\nPoseído por: Estrellas musicales, fiesteros, chicos de fraternidad, vividores, líderes de secta, Extáticos, seductores Nefandos, agentes de la subversión, devotos de la Senda de la Mano Izquierda.\n\nEspecialidades sugeridas: Alta Sociedad, Tumulto Adolescente, Superar las Inhibiciones, Violar Votos, Libertinaje Elegante, Fiestas Salvajes, Maestro de Ceremonias, Justificaciones Místicas, ¡Que Empiece la Fiesta!",
+    "tags": [
+      "talento-secundario"
+    ],
+    "mechanics": {
+      "category": "talent"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "alternar",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "alto-ritual",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "High Ritual",
+    "name_es": "Alto Ritual",
+    "body_es": "Hay tanto de arte como de ciencia en un buen rito. Has estudiado no sólo las técnicas y adornos de las prácticas rituales, sino también los principios simbólicos, psicológicos y metafísicos tras el gran espectáculo. En términos de juego, la Técnica Alto Ritual te permite planear y ejecutar rituales; superar una tirada (normalmente Manipulación o Carisma + Alto Ritual) permite a tu personaje realizar o servir de ayuda desde en un banquete de bodas hasta en un rito místico. Una tirada de Alto Ritual con éxito puede reducir la dificultad de una tarea Mágica, mientras que fallar en una puede aumentar la dificultad. Ten en cuenta que este Talento no \"se suma\" con el Talento [Descaro](/shared/secondary-abilitys/descaro): un personaje con ambos debe elegir uno u otro, pero no puede usar los dos a la vez.\n\nNiveles: • Novato: Podrías planear una boda, invocar a los puntos cardinales o recitar el vía crucis. •• Ejercitado: Tus celebraciones y ritos te otorgan el respeto de tu comunidad. ••• Talentoso: Más allá de tu familiaridad con rituales específicos, has comenzado a aprender también otras prácticas. •••• Experto: Un sacerdote o sacerdotisa aclamado con un don para ejecutar ceremonias poderosas y una amplia comprensión de técnicas rituales específicas. ••••• Maestro: Has dominado no sólo los ritos de tu cultura, sino también muchas prácticas rituales de otras culturas.\n\nPoseído por: Clero, ocultistas, animadores, altos magos, farsantes fanfarrones, especialistas en religión comparada, magos rituales, ciudadanos evangelizadores, planeadores de ceremonias, directores de iglesias o de funerales.\n\nEspecialidades sugeridas: Misa Solemne, Rituales Oscuros, Rituales Espontáneos, Ceremonias Seculares, Conciertos de Música, Milagros Imposibles, ritos culturales concretos (Judíos, Católicos, Satánicos, Vudú...).",
+    "tags": [
+      "talento-secundario"
+    ],
+    "mechanics": {
+      "category": "talent"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "alto-ritual",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "buscar",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Search",
+    "name_es": "Buscar",
+    "body_es": "Con tiempo y motivación, sabes cómo registrar una habitación o peinar los bosques. Has aguzado tu ojo para la búsqueda de pistas, dominado los escondrijos clásicos (y descubierto algunos nuevos) y aprendido cómo seguir tus instintos. Si hay algo que encontrar, probablemente lo encontrarás... y si combinas este Talento con Efectos de Esferas de Rango 1, no hay mucho que pueda escapársete mucho tiempo.\n\nNiveles: • Novato: Eres bueno encontrando cosas perdidas. •• Ejercitado: Las pistas parecen saltar hacia ti. ••• Talentoso: El último lugar donde la gente miraría es el primero que intentas. •••• Experto: Los profesionales te consultan cuando hay que encontrar algo o a alguien. ••••• Maestro: Tu don para encontrar cosas parece claramente sobrenatural... y probablemente lo sea.\n\nPoseído por: Ladrones, expertos en registros, detectives, inspectores, perfiladores criminales, cazarrecompensas, Trajes Negros, equipos CSI.\n\nEspecialidades sugeridas: Revólver, Espacios Ocultos, Sitios Probables, Pistas en Exteriores, Procedimientos Policiales, Puertas Secretas, Marcas Reveladoras.",
+    "tags": [
+      "talento-secundario"
+    ],
+    "mechanics": {
+      "category": "talent"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "buscar",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "descaro",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Blatancy",
+    "name_es": "Descaro",
+    "body_es": "Mediante un don para el teatro, comprender a la audiencia y la pura audacia, eres bueno a la hora de salir bien parado de actos descarados de Magia. Normalmente, esto implica excusas de probada eficacia: \"Estamos grabando una película\", \"todo es una ilusión\", \"¿nunca has visto un flashmob?\" y cosas así. Un mago que desee usarlo debe poder apoyar sus pretextos con evidencias (atrezo, cómplices...); funciona mejor cuando te ajustas al sistema de creencias dominante del lugar. En términos de juego, una tirada con éxito de Manipulación + Descaro, combinada con una explicación razonable para la proeza Mágica concreta, puede permitir a un jugador convertir un Efecto Mágico que normalmente sería vulgar en uno coincidente. El Narrador es el árbitro final: si la explicación es penosa o el atrezo no la apoya, la tirada no tiene éxito.\n\nTabla Efectos de Descaro: Dificultad 6 / Éxitos requeridos Uno+ / Efecto Explicable / Explicación creíble (\"Tecnología experimental de alto secreto\"). Dificultad 7 / Uno+ / Llamativo / Cuestionable (\"Flashmob: ¿ves las cámaras?\"). Dificultad 8 / Dos+ / Descarado / Mala excusa (\"¡Explosión de gas!\"). Dificultad 9 / Dos+ / Increíble / \"¿En serio? Yo no he visto nada fuera de lo normal\". Dificultad 10 / Tres+ / Absurdo / \"¡Es el Arrebatamiento! Haz las paces con Dios\".\n\nNiveles: • Novato: \"No, en serio, estamos grabando un vídeo\". •• Ejercitado: \"Eso sólo parecía fácil. Me costó años averiguar cómo hacer ese truco\". ••• Talentoso: \"Todas las explicaciones y permisos necesarios están en nuestra página web\". •••• Experto: \"Hicimos este truco en Cazadores de Mitos\". ••••• Maestro: \"No hay nada que ver, circulen\".\n\nPoseído por: Famosos, magos de la tele, gurús, DJs, técnicos de efectos especiales, cineastas, dobles de riesgo, artistas marciales, Trajes Negros, promotores de espectáculos.\n\nEspecialidades sugeridas: Atracción Religiosa, Paranoia Política, Magia de Escenario, Equipo de Filmación, Apelación a la Vanidad, Dispositivos Atractivos, Cultura Friki, Con Dos Cojones, Autoridad Legal, ¡Ciencia!, Estamos en una Misión Divina.",
+    "tags": [
+      "talento-secundario"
+    ],
+    "mechanics": {
+      "category": "talent"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "descaro",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "do",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Do",
+    "name_es": "Do",
+    "body_es": "Con frecuencia confundida con una mera arte marcial, Do es la devoción a un estilo de vida: un ancestral secreto de la Hermandad Akáshica, ocasionalmente enseñado a foráneos para mantenerlo vivo. Aunque queda reflejado en una colección única de maniobras de combate y técnicas Mágicas, el Camino es mucho más que una simple serie de ventajas: exige dieta, filosofía, meditación y un refinado sentido del propio lugar en el cosmos. Un personaje Akáshico inicial no puede tener más de dos puntos en Do (los demás deben aprenderse con Experiencia); un personaje no Akáshico no puede empezar el juego con ningún punto en Do. Por cada punto en Do, un personaje debe tener al menos dos puntos de una Habilidad \"rama\" adecuada.\n\nNiveles: • Insecto (hormiga, saltamontes, mantis, cucaracha...): Iniciado en los secretos más simples del Do, has comenzado a aprender los métodos adecuados de dieta, meditación y ejercicio. •• Reptador (lagarto, serpiente, sapo...): Tu cuerpo, mente y espíritu han alcanzado una especie de unidad; con tal comprensión, eres capaz de impresionantes proezas. ••• Animal Cuadrúpedo (caballo, perro, gato...): Has liberado el poder del logro natural; éste es el mayor nivel alcanzado por muchos devotos, el grado de un Tao-shih consumado. •••• Animal Bípedo (mono, oso, simio...): Te has ganado el derecho de ser considerado un auténtico heredero del Do, un Sihing. ••••• Verdadera Humanidad: Tu devoción te ha devuelto al estado original de la gracia humana; sólo ahora puedes ser considerado un Sifu, un Maestro del Camino.\n\nPoseído por: Akashayana y tal vez sus compañeros de mayor confianza.\n\nEspecialidades sugeridas: Estilo Externo (enérgico), Estilo Interno (meditativo), Estilos con Armas, Alquimia Energética, Katas, Técnicas de Forma Animal.",
+    "tags": [
+      "talento-secundario"
+    ],
+    "mechanics": {
+      "category": "talent"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "do",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "seduccion",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Seduction",
+    "name_es": "Seducción",
+    "body_es": "Eres bueno en ser malo. Un maestro de la persuasión, puedes atraer a la gente a compromisos que de otro modo ignorarían o evitarían. Este Talento refleja la combinación de seducción carnal y manipulación emocional que te permite [enredar](/shared/maneuvers/entangling) a la gente en tus manos siempre que quieras su atención. No tienes por qué ser una belleza para usar esta Habilidad; muchos seductores parecen ordinarios hasta que ponen este don a trabajar.\n\nNiveles: • Novato: Puedes ligarte a borrachos desesperados. •• Ejercitado: Puedes tener a casi cualquiera que quieras. ••• Talentoso: Eres lo bastante bueno para convencer a la gente de ir contra lo mejor de sí mismos. •••• Experto: Conectas tu encanto y desconectas sus cerebros. ••••• Maestro: Votos, hogares, corazones y matrimonios son tuyos para romperlos según desees.\n\nPoseído por: Espías, manipuladores, consumidores, Subversores, Extáticos, Nefandos, desconocidos atractivos, amantes demoníacos, vampiros en los múltiples sentidos de esa palabra.\n\nEspecialidades sugeridas: Sexo en Bruto, Apelar a las Filias, Falsa Inocencia, Dominar desde una Posición Sumisa, Movimientos Sutiles, \"Seamos Chicos Malos\", Crudo pero Efectivo.",
+    "tags": [
+      "talento-secundario"
+    ],
+    "mechanics": {
+      "category": "talent"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "seduccion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "sueno-lucido",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Lucid Dreaming",
+    "name_es": "Sueño Lúcido",
+    "body_es": "La mayoría de la gente flota entre los sueños sin ninguna sensación de control. Tú no. Cuando eliges imponerte en las tierras oníricas, puedes alterar el tono de un sueño, cambiar los lugares, enfrentarte a las pesadillas de frente o incluso construir sueños de tu elección. En términos de juego, este Talento te deja manipular tus alrededores en un sueño (Percepción + Sueño Lúcido, dificultad 6), moldear nuevas estructuras (dificultad 8) o tomar un control total de ese sueño y tu lugar en él (dificultad 9). También puedes usarlo para dirigir meditaciones conscientes (dificultades 5, 7 y 8 respectivamente); si estás meditando o soñando sobre un [enigma](/shared/archetypes/enigma) concreto, tus éxitos (tras despertar) cuentan como si fueran de una tirada de Enigmas. Con práctica, puedes hasta crear un Trasfondo Heredad que encaje con tu temperamento.\n\nNiveles: • Novato: Eres consciente de tus sueños y puedes recordarlos si quieres. •• Ejercitado: Puedes intentar soñar un sueño concreto. ••• Talentoso: Tienes algún control sobre tus sueños. •••• Experto: Sabes cómo influir e interpretar sueños y aspectos de tu yo interior. ••••• Maestro: Entiendes los elementos metafísicos de los sueños y puedes manipularlos, recordarlos, inspirarlos o compartirlos a voluntad.\n\nPoseído por: Chamanes, brujas, artistas, sabios, filósofos, investigadores oníricos, Merodeadores, artistas marciales, gente con sangre feérica, la policía onírica.\n\nEspecialidades sugeridas: Control Onírico, Despertar de Pesadillas, Enigmas Desconcertantes, Búsquedas de Visiones, Presagios, Combate Onírico, Heredades.",
+    "tags": [
+      "talento-secundario"
+    ],
+    "mechanics": {
+      "category": "talent"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "sueno-lucido",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "vuelo",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Flight",
+    "name_es": "Vuelo",
+    "body_es": "La gente no suele volar. Tú lo haces. Ya sea porque tienes (o puedes hacer crecer) alas y sabes cómo usarlas, o simplemente porque tienes práctica en el delicado arte de las maniobras aéreas, te sientes en casa tanto en el aire como en el suelo. A diferencia de la Técnica [Jetpack](/shared/secondary-abilitys/jetpack), este Talento refleja un don para volar sin ayuda; para poseerlo, un personaje debe tener alas o el poder innato (o Mágico) de volar. Métodos de vuelo realmente reducidos o precarios (escobas, alfombras, discos de levitación...) también pueden contar.\n\nNiveles: • Novato: Caso de suicidio. •• Ejercitado: Ángel torpe. ••• Talentoso: Jugador de quidditch. •••• Experto: Vengador alado. ••••• Maestro: Danzante del viento.\n\nPoseído por: Brujas, cambiaformas, gente pájaro, entidades angélicas o demoníacas, pilotos de alfombras voladoras, atletas arcanos, Tigres y Dragones.\n\nEspecialidades sugeridas: Escobas, Deportes, Combate Aéreo, Cazar, Bombardeos, Llevar Pasajeros, Levitación mediante Chi.",
+    "tags": [
+      "talento-secundario"
+    ],
+    "mechanics": {
+      "category": "talent"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "vuelo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "acrobacias",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Acrobatics",
+    "name_es": "Acrobacias",
+    "body_es": "Eres capaz de deslumbrantes proezas de gracia atlética. Pese a las limitaciones de la física y la biología, desafías la gravedad y haces que parezca fácil. Hay una intensa práctica y dedicación en tal disciplina; debes refinar tales técnicas con ejercicio constante. Tu flexible precisión parece directamente mágica y, especialmente si añades las Esferas Vida, Tiempo y Correspondencia, ¡puede ser literalmente inhumana!\n\nNiveles: • Novato: Saltimbanqui experimentado. •• Ejercitado: Gimnasta de instituto. ••• Talentoso: Acróbata profesional. •••• Experto: Contendiente olímpico. ••••• Maestro: Artista del Circo del Sol.\n\nPoseído por: Artistas marciales, acróbatas circenses, artistas callejeros, bailarines, gimnastas, trapecistas, atletas extremos, cambiaformas.\n\nEspecialidades sugeridas: Equilibrismos, Artes Marciales, Acrobacias de Riesgo, Caídas, Trapecios, Gimnasia de Competición, Suelo, Salto Mejorado, Parkour.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "acrobacias",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "armas-de-energia",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Energy Weapons",
+    "name_es": "Armas de Energía",
+    "body_es": "Cuando lo único que hay entre los espectadores inocentes y un Subversor de la Realidad rabioso eres tú, tu arma lanzarrayos y tu habilidad para usarla, ésta se convierte en una Técnica obligatoria. Pistolas láser, aceleradores de rayos de partículas, cañones de mano de plasma, disruptores ectoplásmicos y otro armamento avanzado exigen un manejo avanzado; cualquier simio puede disparar un revólver, pero sólo personal especialmente entrenado sabe cómo emplear armas hipertecnológicas. Esta Habilidad refleja una comprensión básica de la tecnología de las armas de energía y las técnicas esenciales para manejar, mantener, ajustar, cargar y almacenar las herramientas de seguridad Tecnocrática.\n\nNiveles: • Novato: Stormtrooper del Imperio. •• Ejercitado: Tirador competente. ••• Talentoso: Operativo de campo Tecnocrático normal. •••• Experto: Operativo de élite. ••••• Maestro: \"Un rifle fasado de plasma del 48...\".\n\nPoseído por: Cíborgs, marines espaciales, Trajes Negros, agentes encubiertos, héroes Eteritas.\n\nEspecialidades sugeridas: Armas Pesadas, Tecnología Experimental, Reparaciones, Armas Pequeñas, Modificaciones de Campo, Armamento Cibernético, Operaciones en Microgravedad, Francotirador, Tecnología Pulp.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "armas-de-energia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "biotecnologia",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Biotech",
+    "name_es": "Biotecnología",
+    "body_es": "Los cuerpos son las máquinas originales, y la tecnología inventa nuevas máquinas para ellos. Entiendes las conexiones entre los sistemas orgánicos y mecánicos, y puedes manejar los lugares en que se interrelacionan. Biotecnología, una Técnica absolutamente esencial para los cíborgs e ingenieros cibernéticos de Iteración X, los Progenitores, los Adeptos Virtuales y algunas facciones Eteritas, te da entrenamiento práctico y experiencia con tecnología cibernética.\n\nNiveles: • Novato: Tienes una comprensión básica de los principios biotecnológicos y puedes hacer reparaciones muy simples. •• Ejercitado: Ahora tienes experiencia para hacer reparaciones básicas y puedes diseñar e instalar máquinas biotecnológicas simples. ••• Talentoso: Perfeccionado por el estudio, el trabajo de campo y la experimentación de laboratorio, eres realmente bueno en cuanto a la tecnología cibernética. •••• Experto: Eres lo bastante bueno para crear, instalar y mantener diseños radicales y realizar grandes reparaciones de tecnología existente. ••••• Maestro: Podrías comparar notas con Tony Stark.\n\nPoseído por: Cíborgs, técnicos de mantenimiento cibernético, División Q, geningenieros, científicos locos, transhumanistas.\n\nEspecialidades sugeridas: Clonación, Cibernética, Teorías Locas, Reparaciones, Modificaciones de Campo, Rediseño, Nanotecnología, Florónica, Biomecanismos, Biomods, Interfaz de Red.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "biotecnologia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "equitacion",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Riding",
+    "name_es": "Equitación",
+    "body_es": "Sabes cómo ensillar, cuidar y cabalgar algún tipo de animal. Mediante una combinación de técnicas y afecto, tienes una buena oportunidad de ir donde quieres ir sin ser lanzado, pisoteado o posiblemente devorado por tu montura. Para monturas realmente peligrosas o exóticas probablemente necesitarás Equitación 3 o más para mantenerte en la silla. Bajo circunstancias desafiantes puede que necesites tirar Destreza + Equitación; Carisma + Equitación te ayuda a crear lazos con tu montura e Inteligencia + Equitación te permite saber cómo cuidarla.\n\nNiveles: • Novato: Turista de rancho. •• Ejercitado: Jinete experimentado. ••• Talentoso: Jinete profesional. •••• Experto: Domador de caballos salvajes. ••••• Maestro: \"¡Cabalga al tigre!\".\n\nPoseído por: Vaqueros, medievalistas, atletas, mozos de cuadra, tipos adinerados, granjeros, viajeros preindustriales.\n\nEspecialidades sugeridas: A Pelo, [Acrobacias](/shared/secondary-abilitys/acrobacias), Susurrar a los Caballos, Técnicas Tradicionales, Espectáculos, Saltar, Combate, Justas, Carreras, Monturas Exóticas, Compenetración.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "equitacion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "hipertecnologia",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Hypertech",
+    "name_es": "Hipertecnología",
+    "body_es": "Está la tecnología mundana, y luego están las cosas de los Tecnomantes. Los principios avanzados usados por la Tecnocracia, los Adeptos Virtuales, diversos científicos locos e incluso tecnomantes de otras prácticas van más allá de las ciencias cotidianas. Con uno o dos puntos, un personaje con esta Técnica entiende sólo los principios tras los Dispositivos de su propio grupo; con tres o más puntos, puede descifrar Dispositivos de otros grupos y, por extensión, usarlos o modificarlos. Tus puntos en Hipertecnología no pueden superar a los de la Técnica Tecnología. Como con el Conocimiento Informática, tu habilidad para enfocar Efectos de Esfera mediante Hipertecnología puede estar limitada a tus puntos en este Rasgo.\n\nNiveles: • Novato: Entiendes las teorías básicas de ciencias alternativas. •• Ejercitado: \"Esotérico\" es sólo otra palabra para lo obvio. ••• Talentoso: Puedes entender las perversiones tecnológicas de otros grupos. •••• Experto: Las tecnologías de tus enemigos y rivales bailan al son que les programas. ••••• Maestro: Tu comprensión del universo es tan rica que pocas tecnologías eluden tus órdenes.\n\nPoseído por: Científicos locos, Tecnócratas renegados, genios visionarios, hackers tecnológicos, operativos de la División Q, especialistas en diseño, operativos de campo de élite, Trajes Negros, expertos en artilugios.\n\nEspecialidades sugeridas: Hackear y Crackear, Improvisación, Reparaciones, Ensamblar Improvisadamente, Transformaciones Radicales, Armamento, Computadoras, Microtecnología, Nanotecnología, Teorías Experimentales, Teorías de Etertecnología, Modificaciones Callejeras, Anarcotecnología.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "hipertecnologia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "jetpack",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Jetpack",
+    "name_es": "Jetpack",
+    "body_es": "Para tu disfrute, dominas el tramposo arte de los dispositivos personales de [vuelo](/shared/secondary-abilitys/vuelo). Con esta Técnica, sabes cómo controlar artilugios que te pones para volar. Como en la mayoría de Habilidades tecnológicas, tu éxito depende mucho de tu familiaridad (o falta de ella) con la tecnología concreta usada. Un Hombre de Negro lo pasaría tan mal con una mochila propulsora de los Eteritas como éstos con equipo estándar del NOM. Pero una vez hayas pasado cierto tiempo volando con un dispositivo, ya puedes ir por tu cuenta.\n\nPoseído por: Marines espaciales, Eteritas, temerarios, comandos, Trajes Negros, ayudantes de investigación, pilotos de prueba.\n\nEspecialidades sugeridas: Combate, Trucos, Persecuciones, Altas Velocidades, Botas Propulsoras, Microgravedad.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "jetpack",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "tiro-con-arco",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Archery",
+    "name_es": "Tiro con Arco",
+    "body_es": "Puedes disparar el arma a larga distancia más venerable de la humanidad: el arco. Más allá de sus obvias aplicaciones prácticas, esta Habilidad también puede convertirse en un arte meditativo (practicada por arqueros Zen y otros entusiastas). Como los arcos lanzan astas de madera, son buenas armas contra los vampiros... y como son casi silenciosos, son un instrumento eficiente para asesinos y espías.\n\nNiveles: • Novato: Niño en clase de tiro con arco. •• Ejercitado: Arquero de un grupo de recreación histórica. ••• Talentoso: Cazador con arco. •••• Experto: Katniss Everdeen. ••••• Maestro: Legolas.\n\nPoseído por: Francotiradores, cazadores, comandos, asesinos, supervivencialistas, atletas, forajidos, recreacionistas, gente de culturas arbóreas, fans de Los juegos del hambre, aspirantes a elfo.\n\nEspecialidades sugeridas: Arco Largo, Ballesta, Cazar, Tiro con Arco a Caballo, Tiro de Exhibición, Matar de un Tiro, Técnicas Kyudu, [Vuelo](/shared/secondary-abilitys/vuelo) con Arco, Arcos Primitivos.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "tiro-con-arco",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "tortura",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Torture",
+    "name_es": "Tortura",
+    "body_es": "Llámalo \"interrogatorio mejorado\" si quieres: destacas a la hora de causar sufrimiento mental, físico y tal vez espiritual, ya sea por deber religioso, servicio militar, práctica mística, prerrogativa divina o simple crueldad. Muchas prácticas místicas incluyen ordalías, autotormento y hasta mutilación; las técnicas de interrogatorio incluyen la tortura como parte del trabajo. En términos de juego, esta Técnica podría implicar un fundido en negro; si no, la escena no debería tratarse con ligereza. Contenido maduro: se recomienda acordar límites de mesa antes de usar este Rasgo en una escena.\n\nNiveles: • Novato: Abusón de patio. •• Ejercitado: Poli malo. ••• Talentoso: Interrogador de operativos encubiertos. •••• Experto: Dominatrix de élite. ••••• Maestro: Doctor nazi, inquisidor español o asesino en serie.\n\nPoseído por: Sicarios, gánsteres, espías, agentes antiterroristas, Eutánatos y magos Extáticos de la Senda de la Mano Izquierda, operativos del NOM, doctores terroríficos, sádicos.\n\nEspecialidades sugeridas: Juegos Mentales, Técnicas Exquisitas, Agonía Prolongada, Instrumentos Clásicos, Juego Sexual, Autotormento, Extracción de Información, \"Obras de Arte\", Dolor sin Daño.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "tortura",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "conocimiento-regional",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Area Knowledge",
+    "name_es": "Conocimiento Regional",
+    "body_es": "Conoces cierta zona como la palma de tu mano. En términos de juego, elige una región concreta (no mayor que una ciudad) que tu personaje tenga motivos para conocer. Las tiradas con éxito de Conocimiento Regional te ayudan a moverte, encontrar atajos y pillar costumbres, pistas y detalles de modos que ningún extraño podría entender. Nota: la opción de El artesano capaz no se aplica a Conocimiento Regional; para conocer un lugar, debes pasar tiempo allí.\n\nNiveles: • Aficionado: Has analizado la zona en cuestión. •• Estudiante: Has vivido allí un tiempo. ••• Erudito: Has pasado mucho tiempo aprendiendo los secretos locales. •••• Profesor: No hay mucho sobre el lugar que no conozcas. ••••• Maestro: \"Mi ciudad me llama, y yo contesto...\".\n\nPoseído por: Justicieros, policías, jefes del crimen, periodistas, leyendas rurales, gente de la calle, Trajes Negros, protectores del pueblo.\n\nEspecialidades sugeridas: Historia, Geografía, Vida Salvaje, Política, Atajos, Salidas, Crimen, Rumores, Escondrijos, Pandillas, Fuentes de Información, Secretos Bien Ocultos.",
+    "tags": [
+      "conocimiento-secundario"
+    ],
+    "mechanics": {
+      "category": "knowledge"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "conocimiento-regional",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "criptografia",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Cryptography",
+    "name_es": "Criptografía",
+    "body_es": "Un mundo lleno de secretos es un mundo lleno de códigos. Entiendes cómo funcionan, conoces los principios para crearlos y descifrarlos y tienes el tipo de mente que sigue las rutas adecuadas cuando rompe diversos códigos. Con este Conocimiento, puedes crear códigos que sólo pueden ser descifrados por alguien que supere tu puntuación en Criptografía con su reserva de Inteligencia + Criptografía. También puedes intentar descifrar códigos con tus propias tiradas de Inteligencia + Criptografía; si el código exige un conocimiento que quien desea descifrarlo no posee, es indescifrable.\n\nNiveles: • Aficionado: Aficionado a las novelas de espías. •• Estudiante: Ingeniero de señales militar. ••• Erudito: Operativo de Inteligencia. •••• Profesor: Especialista en cifrado. ••••• Maestro: Descifrador supremo.\n\nPoseído por: Fanáticos de los rompecabezas, especialistas de inteligencia, espías, alquimistas, analistas de comunicaciones, insurgentes, agentes antiterroristas.\n\nEspecialidades sugeridas: Codificación Matemática, Lenguajes Secretos, Códigos Místicos, Saberes Ocultos, Historia de la Criptografía, Lógica retorcida, Computadoras, Simbolismo Artístico-Histórico.",
+    "tags": [
+      "conocimiento-secundario"
+    ],
+    "mechanics": {
+      "category": "knowledge"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "criptografia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "demoliciones",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Demolitions",
+    "name_es": "Demoliciones",
+    "body_es": "Sabes cómo hacer que las cosas hagan \"BUM\", normalmente sin volarte a ti mismo en el proceso. Este Conocimiento otorga familiaridad con el funcionamiento de la química y la tecnología de los explosivos, una comprensión de los diseños habituales, conocimiento de los patrones y efectos de una explosión y, en los niveles superiores, la pericia para desactivar muchos artefactos explosivos. Lo que no hace es proporcionar tecnología explosiva a prueba de tontos: cuando las cosas explotan, siempre hay caos.\n\nNiveles: • Novato: Modelaje, fuegos artificiales y tú. •• Ejercitado: ¡Anarquía! ••• Talentoso: Has entrenado con compuestos y artefactos explosivos y las precauciones relacionadas. •••• Experto: \"Apártense: soy un profesional\". ••••• Maestro: Un maestro del desastre, puedes desactivar y crear un amplio espectro de artefactos explosivos.\n\nPoseído por: Cazadores de mitos, terroristas, antiterroristas, radicales, supervivencialistas, espías, pirotécnicos, especialistas militares, estrellas de YouTube.\n\nEspecialidades sugeridas: Artefactos Explosivos Improvisados, Eliminación de Bombas, Efectos de Escenario, Fuegos Artificiales, Coches Bomba, Materiales Improvisados, Mejoras Mágicas, Demolición de Edificios.",
+    "tags": [
+      "conocimiento-secundario"
+    ],
+    "mechanics": {
+      "category": "knowledge"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "demoliciones",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "farmacopea-venenos",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Pharmacopoeia/Poisons",
+    "name_es": "Farmacopea / Venenos",
+    "body_es": "Las drogas son tu especialidad: drogas callejeras, compuestos herbales, medicamentos experimentales, psicoactivos, brebajes hipertecnológicos, etc. Entiendes los efectos de diversos compuestos químicos en el ser humano y tal vez también sobre otros animales. Este Conocimiento te permite (con los instrumentos adecuados) medir, reconocer, analizar, contrarrestar o administrar toda una gama de productos químicos. Un instrumento Mágico venerable, aunque turbio, la variante Venenos de este Conocimiento te permite alterar la química natural de las cosas vivas de maneras desafortunadas.\n\nNiveles: • Aficionado: Traficante callejero. •• Estudiante: Estudiante de farmacia o sabio herbalista. ••• Erudito: Dr. Timothy Leary. •••• Profesor: Experimentado con compuestos místicos, esotéricos e hipertecnológicos. ••••• Maestro: Farmacopeísta de renombre.\n\nPoseído por: Progenitores, Extáticos, alquimistas, místicos enteogénicos, traficantes de yerba, policías antivicio, Verbena, interrogadores, corruptores, juerguistas, científicos locos, profesionales médicos.\n\nEspecialidades sugeridas: Medicinas Mundanas, Hipermedicinas, Drogas Callejeras, Enteógenos, Brebajes Mágicos, Compuestos de Diseño, Remedios Herbales, Suplementos Nutricionales, Drogas que Alteran la Consciencia.",
+    "tags": [
+      "conocimiento-secundario"
+    ],
+    "mechanics": {
+      "category": "knowledge"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "farmacopea-venenos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "finanzas",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Finance",
+    "name_es": "Finanzas",
+    "body_es": "El dinero es el truco mágico humano definitivo y sabes cómo funciona. Comercio, tendencias, inversiones, mercados y riesgos te proporcionan estímulo mental, poder Despertado o Iluminado, fortaleza económica y, probablemente, mucho dinero (en términos de juego, el Trasfondo Recursos). Este Conocimiento, un Rasgo esencial para los Tecnócratas del Sindicato, enriquece a hechiceros, Adeptos, científicos locos y brujas sagaces; también proporciona un componente clave para el Ars Cupiditae, la práctica de Magia basada en el deseo (El Arte del Deseo / Hipereconomía).\n\nNiveles: • Aficionado: Inversor listo. •• Estudiante: Empleado de banco. ••• Erudito: Corredor de bolsa profesional. •••• Profesor: Brujo de Wall Street. ••••• Maestro: El poder tras el trono.\n\nPoseído por: Banqueros, corredores de bolsa, magnates, ejecutivos, periodistas, contables, inversores, bastardos ricachones, Nefandos corruptores, prohombres de la industria.\n\nEspecialidades sugeridas: Mercados Bursátiles, Tendencias de Inversión, Comercio Internacional, Señales de Advertencia, Comercio Interno, Leyes, Violar la Ley, Mercado Negro, Divisas, Poder de la Avaricia, Ars Cupiditae.",
+    "tags": [
+      "conocimiento-secundario"
+    ],
+    "mechanics": {
+      "category": "knowledge"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "finanzas",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "medios-de-comunicacion",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Media",
+    "name_es": "Medios de Comunicación",
+    "body_es": "Los medios de comunicación de masas son la realidad de las masas... y sabes cómo moldear ambos. Dominas el arte y ciencia de moldear la percepción pública: sabes a quién llamar, qué decirles, de qué hilos tirar y cómo sacar provecho del resultado. Aunque este Rasgo no proporciona necesariamente acceso a las grandes figuras de los medios (ver el Trasfondo Influencia), entiendes la maquinaria de los medios y puedes guiarla a tu favor. Las prácticas del Dominio, el Arte del Deseo y el Hackeo de la realidad suelen depender de una comprensión de los medios, que hasta pueden funcionar como instrumento de ciertos tipos de Magia.\n\nNiveles: • Aficionado: Estudiante de Comunicación y Medios Digitales. •• Estudiante: Reportero. ••• Erudito: Periodista de carrera. •••• Profesor: Mandamás de una cadena. ••••• Maestro: Rupert Murdoch.\n\nPoseído por: Escritores, editores, comentaristas, críticos de los medios, relaciones públicas, blogueros, publicistas, celebridades, corruptores, políticos, activistas, Vigilantes del NOM.\n\nEspecialidades sugeridas: Control de Imagen, Política, Influencias, Calumnias, Leyes Audiovisuales, Medios Internacionales, Propaganda, Pánico, Subversión, Noticias Locales, Medios de Comunicación en Internet, Fuentes Alternativas, Películas, Televisión, Concentración de Medios.",
+    "tags": [
+      "conocimiento-secundario"
+    ],
+    "mechanics": {
+      "category": "knowledge"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "medios-de-comunicacion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "saber-informacion-de-sr",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Lore/Reality Deviant Data",
+    "name_es": "Saber / Información de SR",
+    "body_es": "Sabes más sobre la Gente de la Noche de lo que a ellos les gustaría que supieras. Para los magos místicos, tal conocimiento es Saber: los secretos ocultos de los vampiros, criaturas cambiantes y otros. Entre los Tecnócratas, se conoce como Información de SR: información sobre los asuntos clandestinos de Subversores de la Realidad. Distintas categorías incluyen Espíritus, Hadas, Criaturas Cambiantes, Vampiros, Fantasmas, Cazadores, Demonios, Magos y potencialmente otras; cada categoría cuenta como una Especialidad separada. Pese a sus grandes rivalidades, las distintas facciones de magos no suelen tener información precisa sobre las demás.\n\nNiveles: • Aficionado: \"Están ahí afuera...\". •• Estudiante: Has oído unos cuantos nombres y leyendas sobre ellos. ••• Erudito: Estas entidades tienen diversas estructuras sociales y has comenzado a entender en qué consisten. •••• Profesor: Puedes diferenciar a un Ventrue de un Setita y tienes alguna idea de qué significa esa distinción. ••••• Maestro: Se supone que no deberías saber tanto sobre ellos... pero lo haces.\n\nPoseído por: Sabios, hechiceros, xenobiólogos, Trajes Negros, brujas, chamanes, operativos de campo, aventureros, emisarios, estrategas, interrogadores, analistas de inteligencia, cazadores de monstruos.\n\nEspecialidades sugeridas: Infernalistas, Merodeadores, Tradiciones, Tecnocracia, Dispares, Hadas, Vampiros, Criaturas Cambiantes, Fantasmas, Cazadores, Demonios, etc.",
+    "tags": [
+      "conocimiento-secundario"
+    ],
+    "mechanics": {
+      "category": "knowledge"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "saber-informacion-de-sr",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "sistemas-de-creencias",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Belief Systems",
+    "name_es": "Sistemas de Creencias",
+    "body_es": "Has estudiado lo que la gente cree, cómo lo cree, por qué cree en lo que cree y dónde suele la gente tener ciertas creencias. Como Rasgo, este Conocimiento abarca sistemas generales de creencias religiosas, políticas, económicas y filosóficas de todo el mundo mortal. Cuanto mayor sea tu puntuación, más extensa y específica será tu comprensión. Este tipo de comprensión puede ser extremadamente útil cuando estás haciendo Magia coincidente, recurres a las tradiciones locales, generas buenas impresiones o cambias las creencias de la gente a tu favor; también ayuda a un mago a entender el fenómeno de las \"zonas de realidad\" y aprovecharlo a su favor.\n\nNiveles: • Aficionado: Has obtenido conocimientos útiles de Wikipedia. •• Estudiante: Tienes una comprensión decente de las creencias religiosas y culturales actuales. ••• Erudito: Tienes una profunda comprensión de los sistemas de creencias dominantes por todo el mundo. •••• Profesor: Eres una autoridad destacada en religión comparada y filosofías políticas. ••••• Maestro: Karen Armstrong comprueba los datos de sus libros contigo.\n\nPoseído por: Periodistas, misioneros, teólogos, historiadores, profesores, expertos, filósofos, eruditos en ciencias políticas, manipuladores de los medios, activistas políticos o religiosos, magos que cambian de paradigma.\n\nEspecialidades sugeridas: Creencias Regionales, Esoterismo, Sectas, Sucesos Actuales, Historia Religiosa o Política, Geopolítica, Religión Comparada, Manipular los Medios, Tendencias en Creencias, Hackear Paradigmas.",
+    "tags": [
+      "conocimiento-secundario"
+    ],
+    "mechanics": {
+      "category": "knowledge"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "sistemas-de-creencias",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "thrill-seeker",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Thrill-Seeker",
+    "name_es": "Ansioso de Emociones",
+    "body_es": "Este Arquetipo vive por la emoción del peligro. Al contrario que las personas más cuerdas, el Ansioso de Emociones se involucra en todo tipo de actividades peligrosas y potencialmente mortales. No se comporta conscientemente de forma suicida o autodestructiva, pero sí que busca el estímulo del desastre inminente. Los pandilleros, rateros y exhibicionistas son ejemplos de este Arquetipo. Los Vástagos Ansiosos de Emociones pueden romper habitualmente la Mascarada sólo para ver si los atrapan, pueden mantener contacto con un Clan o Secta rival, o pueden conspirar activamente para destronar al Príncipe sólo para ver si pueden lograrlo.\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que tengas éxito en una tarea peligrosa que hayas aceptado deliberadamente. Los Ansiosos de Emociones tampoco son estúpidos, así que el Narrador puede no recompensar a un jugador que envíe a su personaje al peligro con el único motivo de cosechar Fuerza de Voluntad.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cada vez que tengas éxito en una tarea peligrosa que hayas aceptado deliberadamente. Los Ansiosos de Emociones tampoco son estúpidos, así que el Narrador puede no recompensar a un jugador que envíe a su personaje al peligro con el único motivo de cosechar Fuerza de Voluntad."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "thrill-seeker",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "architect",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Architect",
+    "name_es": "Arquitecto",
+    "body_es": "El Arquitecto posee un sentido del propósito mayor incluso que él mismo. Sólo está contento cuando crea algo de valor perdurable para los demás. La gente siempre necesitará cosas, y el Arquitecto obtiene satisfacción proporcionando lo que es posible. Los inventores, pioneros, fundadores de ciudades y empresarios osados suelen tener el Arquetipo Arquitecto. Un Vástago Arquitecto puede [buscar](/shared/secondary-abilitys/buscar) crear nuevas leyes que afecten a sus compañeros no-muertos o puede aspirar a establecer un nuevo dominio Anarquista.\n\n-Recuperas un punto de Fuerza de Voluntad cuando establezcas algo de importancia o valor duradero.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cuando establezcas algo de importancia o valor duradero."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "architect",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "autocrat",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Autocrat",
+    "name_es": "Autócrata",
+    "body_es": "El Autócrata quiere estar al mando. Busca el dominio por sí mismo, no porque piense en el buen fin de una operación o porque tenga las mejores ideas (aunque pensará que así es). Puede estar realmente convencido de que los demás son unos incompetentes, pero lo que realmente codicia es el poder y el control. Los dictadores, jefes pandilleros, matones, tiburones corporativos y demás calaña son Arquetipos Autócratas. Un Vástago Autócrata puede codiciar un título, o puede [buscar](/shared/secondary-abilitys/buscar) ser reconocido como el líder de una coterie.\n\n-Recuperas un punto de Fuerza de Voluntad cuando logres el control sobre un grupo u organización involucrando a otros individuos.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cuando logres el control sobre un grupo u organización involucrando a otros individuos."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "autocrat",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "rogue",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Rogue",
+    "name_es": "Bellaco",
+    "body_es": "A un Bellaco sólo le importa una cosa: él mismo. A cada uno lo suyo, y si los demás son incapaces de protegerse, ése es su problema. No tiene por qué tratarse de un matón; simplemente se niega a sucumbir a las quejas de los demás. Prácticamente todos ellos se creen autosuficientes y tienen sus propios intereses siempre presentes. Las prostitutas, capitalistas y criminales encarnan bien este Arquetipo. Los Vástagos Bellacos incluyen a Diabolistas, Autarcas, y al Primogénito que antepone las oportunidades del Clan a la supremacía de la Estirpe como un todo.\n\n-Recuperas un punto de Fuerza de Voluntad cuando tu actitud egoísta te conduzca a una gran ganancia material o de cualquier otro tipo. A discreción del Narrador, acumular ganancias sin exponer tus debilidades podría permitirte ganar dos puntos. También puedes recuperar un punto cuando tus esfuerzos beneficien a un grupo al cual pertenezcas cuando el beneficio viene a expensas de otro grupo.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cuando tu actitud egoísta te conduzca a una gran ganancia material o de cualquier otro tipo. A discreción del Narrador, acumular ganancias sin exponer tus debilidades podría permitirte ganar dos puntos. También puedes recuperar un punto cuando tus esfuerzos beneficien a un grupo al cual pertenezcas cuando el beneficio viene a expensas de otro grupo."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "rogue",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "bully",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Bully",
+    "name_es": "Bravucón",
+    "body_es": "El Bravucón es un matón y un tipo duro que a menudo disfruta atormentando a los débiles. Para él, el poder otorga derechos; eso es lo único que importa, por lo que sólo se debe respetar a los poderosos. Por supuesto, el poder físico es el más importante, pero cualquier otro sirve. El Bravucón considera las amenazas un modo totalmente razonable de lograr la cooperación. No es incapaz de sentir misericordia o amabilidad, pero prefiere hacer las cosas a su modo. Los atracadores, racistas, matones y gente insegura suelen tener el Arquetipo Bravucón. Un Vástago Bravucón puede abusar de la autoridad que el sistema le ha dado, o incluso puede forzar a otros Vástagos (mediante la violencia u otros medios) fuera de su camino para obtener lo que desea. Ten por seguro que es un cabrón.\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que logres lo que quieres mediante la fuerza bruta o la intimidación (no necesariamente física; muchos Bravucones amenazan a sus víctimas de forma social o verbal).",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cada vez que logres lo que quieres mediante la fuerza bruta o la intimidación (no necesariamente física; muchos Bravucones amenazan a sus víctimas de forma social o verbal)."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "bully",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "chameleon",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Chameleon",
+    "name_es": "Camaleón",
+    "body_es": "Independiente y confiado, estudias cuidadosamente el comportamiento y los modales de todos con los que te encuentras, de modo que más tarde puedas hacerte pasar por otra persona. Dedicas tanto tiempo a alterar tu comportamiento y tu aspecto que incluso tu propio Sire puede llegar a no reconocerte. Espías, artistas del engaño, drag queens e impostores representan al Camaleón.\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que engañas a alguien para que crea que eres otra persona en tu beneficio (o en el de tu manada o coterie).",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cada vez que engañas a alguien para que crea que eres otra persona en tu beneficio (o en el de tu manada o coterie)."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "chameleon",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "capitalist",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Capitalist",
+    "name_es": "Capitalista",
+    "body_es": "Eres el mercenario definitivo y sabes que siempre hay mercados que desarrollar: todo está a la venta. Tienes una gran comprensión sobre cómo manipular al ganado y a los Cainitas para que crean necesitar bienes o servicios determinados. El aspecto y la influencia son vitales para cerrar una gran venta, aunque usarás cualquier ventaja disponible. Los vendedores, soldados de fortuna y lameculos se adhieren a este Arquetipo.\n\n-Recuperas un punto de Fuerza de Voluntad cuando consigues hacer una 'venta' o cuando intercambias un producto. No tiene por qué tratarse de objetos físicos; puede ser información, favores u otras cosas intangibles.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cuando consigues hacer una 'venta' o cuando intercambias un producto. No tiene por qué tratarse de objetos físicos; puede ser información, favores u otras cosas intangibles."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "capitalist",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "celebrant",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Celebrant",
+    "name_es": "Celebrante",
+    "body_es": "El Celebrante goza con su causa. Ya disfrute el personaje con la batalla, con el fervor religioso, con la derrota de sus rivales o leyendo buena literatura, este placer le da la fuerza para resistir a la adversidad. Si se le da la ocasión, este personaje satisfará su pasión en la medida de lo posible. Al contrario que el [Fanático](/shared/archetypes/fanatic) (pág. 91), el Celebrante no actúa por sentido del deber, sino por entusiasmo. Los cruzados, hippies, activistas políticos y aficionados al arte pueden tener este Arquetipo. Un Vástago Celebrante puede aferrarse a las ideologías mortales aunque sean incongruentes con su nueva condición como Condenado, o puede abogar por las nuevas tendencias y causas que se mueven a través de la sociedad de la Estirpe.\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que persigas tu causa o conviertas a otro a tu misma pasión. Por el contrario, perderás un punto temporal de Fuerza de Voluntad cuando se te niegue tu pasión o cuando sufras una severa derrota.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cada vez que persigas tu causa o conviertas a otro a tu misma pasión. Por el contrario, perderás un punto temporal de Fuerza de Voluntad cuando se te niegue tu pasión o cuando sufras una severa derrota."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "celebrant",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "scientist",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Scientist",
+    "name_es": "Científico",
+    "body_es": "Para un Científico, la existencia es un rompecabezas que puede ayudar a montar de nuevo. Un Científico examina metódicamente toda situación y maniobra buscando resultados y pautas lógicas. Esto no quiere decir que el Científico esté siempre buscando una explicación racional o empírica, sino más bien que examina rigurosamente y con ojo crítico todo lo que lo rodea. El sistema que trata de imponer un Científico sobre el mundo puede ser completamente absurdo, pero es un sistema y se aferra a él.\n\n-Recuperas Fuerza de Voluntad siempre que un enfoque lógico y sistemático de un problema te ayude a resolverlo, o si la información recopilada de manera lógica es útil en otra situación similar.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas Fuerza de Voluntad siempre que un enfoque lógico y sistemático de un problema te ayude a resolverlo, o si la información recopilada de manera lógica es útil en otra situación similar."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "scientist",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "competitor",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Competitor",
+    "name_es": "Competidor",
+    "body_es": "El Competidor disfruta enormemente persiguiendo la victoria. Para él, cada tarea es un nuevo reto al que enfrentarse y una nueva prueba que vencer. El Competidor ve todo como una oportunidad para demostrar que es el mejor, ya sea como un líder superior, como el más productivo, el más valioso o lo que fuere. Los tiburones corporativos, los atletas profesionales y los investigadores apasionados son ejemplos del Arquetipo Competidor. Los Vástagos Competidores poseen un número de recursos y logros sobre los cuales reafirmarse, desde rebaños de mortales y comodidades hasta títulos y prestigio en la sociedad de la Estirpe.\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que logres vencer en una prueba o reto. Nótese que éstos deben ser algo más que un tirada de dados; se trata de una situación completamente dramática. Las victorias especialmente difíciles pueden, a discreción del Narrador, proporcionar más puntos.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cada vez que logres vencer en una prueba o reto. Nótese que éstos deben ser algo más que un tirada de dados; se trata de una situación completamente dramática. Las victorias especialmente difíciles pueden, a discreción del Narrador, proporcionar más puntos."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "competitor",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "conniver",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Conniver",
+    "name_es": "Confabulador",
+    "body_es": "¿Por qué trabajar para conseguir algo cuando puedes engañar a otros para que lo hagan por ti? El Confabulador siempre intenta encontrar el modo más fácil de hacer las cosas, el atajo hacia la riqueza y el éxito. Algunos le pueden llamar ladrón, estafador o cosas aún menos agradables, pero sabe que todos le harían lo mismo si pudieran, sólo que él lo hace primero y mejor. Los criminales, estafadores, vendedores, golfos y empresarios pueden ser Confabuladores. Alguien podría argumentar que, en cierta manera, todos los Vástagos son Confabuladores, pero aquéllos que escogen este Arquetipo suelen abusar de sus Chiquillos y Ghouls, o pueden ser más persuasivos a la hora de obtener apoyo para sus maquinaciones.\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que logres que alguien haga algo por ti, o cuando convenzas a alguien de que te ayude en contra de sus propios intereses.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cada vez que logres que alguien haga algo por ti, o cuando convenzas a alguien de que te ayude en contra de sus propios intereses."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "conniver",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "conformist",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Conformist",
+    "name_es": "Conformista",
+    "body_es": "El Conformista es un seguidor que marcha tras la senda de otro y que se encuentra seguro cumpliendo órdenes. Prefiere no tomar nunca el mando, tratando de fundirse con el grupo y prestando todo su apoyo. El Conformista se siente atraído por la personalidad más dinámica o por aquél al que percibe como 'el mejor'. Ser un Conformista no es necesariamente malo, ya que todo grupo necesita seguidores para lograr estabilidad. Los groupies , votantes y 'las masas' son Arquetipos Conformistas. Un Vástago Conformista puede tomar muchas formas, desde el fiel miembro de una manada del Sabbat, pasando por el Vástago cuyos planteamientos priorizan los intereses de su Clan, hasta el confiable ayudante de un vampiro prestigioso o una joven promesa.\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que tu grupo o el líder a quien sigas logre un éxito gracias a tu apoyo.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cada vez que tu grupo o el líder a quien sigas logre un éxito gracias a tu apoyo."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "conformist",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "deviant",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Deviant",
+    "name_es": "Depravado",
+    "body_es": "El Depravado es una criatura extraña, ajena a la sociedad por sus 'gustos' especiales que lo alejan de lo comúnmente aceptado. No se trata de rebeldes indolentes o de 'genios no reconocidos', sino de pensadores independientes que no terminan de cuadrar en el status quo . Aquéllos con este Arquetipo suelen sentir que el mundo está en su contra, y por tanto rechazan la moral tradicional. Algunos tienen gustos, preferencias e ideologías extrañas. Extremistas, celebridades excéntricas y 'bichos raros' son ejemplos de Depravados. Dichos Vástagos pueden tener hábitos heréticos o ilegales como la Diablerie en la Camarilla o deferencia hacia los Antiguos en el Sabbat, y suelen volverse Anarquistas o Autarcas en vez de tener que defender constantemente su subversión de las Tradiciones o las costumbres de una Secta.\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que te burles de la moral social sin ser reprendido.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cada vez que te burles de la moral social sin ser reprendido."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "deviant",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "dilettante",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Dilettante",
+    "name_es": "Diletante",
+    "body_es": "El Diletante está interesado en todo pero no se concentra en nada. Revolotea de idea en idea, de pasión en pasión y de proyecto en proyecto sin acabar nada. Puede arrastrar a otros con su entusiasmo para luego dejarlos a dos velas cuando pasa a hacer otra cosa sin avisar. La mayoría de los Diletantes tienen valores altos en Inteligencia, Carisma y Manipulación, pero no en Astucia o Resistencia. Los Toreador a menudo lo son, particularmente aquéllos a los que se les aplica el apodo peyorativo de 'Poseurs'.\n\n- Recuperas Fuerza de Voluntad cuando encuentres un nuevo entusiasmo y dejes completamente el anterior.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas Fuerza de Voluntad cuando encuentres un nuevo entusiasmo y dejes completamente el anterior."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "dilettante",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "director",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Director",
+    "name_es": "Director",
+    "body_es": "Para el Director no hay nada peor que el caos y el desorden. Trata de tomar el control, adoptando cuando lo logra una actitud de 'a mi manera o fuera' a la hora de tomar decisiones. Lo que de verdad le preocupa es la restauración del orden, y para guiar un grupo no tiene por qué estar a su cabeza. Entrenadores, profesores y muchas figuras políticas ejemplifican el Arquetipo Director. Los Vástagos Directores pueden ser simples abogados del código establecido, o pueden ser fundamentales para derribar las corruptas jerarquías existentes y abrir paso a nuevos líderes o a alguna facción.\n\n-Recuperas un punto de Fuerza de Voluntad cuando tu influencia consiga guiar a un grupo hacia la consecución de un objetivo difícil.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cuando tu influencia consiga guiar a un grupo hacia la consecución de un objetivo difícil."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "director",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "enigma",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Enigma",
+    "name_es": "Enigma",
+    "body_es": "Tus actos son incomprensibles, extraños e inexplicables para todos, salvo para ti mismo. Tu extrañeza puede ser un efecto residual de tu Abrazo, o el modo más efectivo de cumplir con tu deber. Sin embargo, para el resto del mundo tu comportamiento errático sugiere que eres un excéntrico, si no es que estás completamente loco. Los teóricos de la conspiración, los agentes encubiertos y los fanáticos de la Jyhad poseen este Arquetipo.\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que alguien queda totalmente perplejo ante una acción tuya que termina siendo provechosa.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cada vez que alguien queda totalmente perplejo ante una acción tuya que termina siendo provechosa."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "enigma",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "fanatic",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Fanatic",
+    "name_es": "Fanático",
+    "body_es": "El Fanático tiene un propósito que consume su existencia. Se vuelca completamente en su causa, y puede llegar a sentirse culpable si acomete cualquier empresa que lo desvíe de la misma. Para el Fanático el fin justifica los medios: la causa es más importante que aquéllos que la sirven. Los jugadores que opten por estos Arquetipos deben seleccionar una causa que seguir. Los revolucionarios, fanáticos religiosos y activistas sinceros son ejemplos de los Arquetipos Fanáticos. Los Vástagos Fanáticos comúnmente son campeones a favor o en contra de un aspecto en particular de la sociedad vampírica, como la igualdad entre todos los vampiros, la exterminación de los Anarquistas o echar a patadas el infernalismo fuera de la Espada de Caín.\n\n-Recuperas un punto de Fuerza de Voluntad cuando logres algún objetivo relacionado con tu causa.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cuando logres algún objetivo relacionado con tu causa."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "fanatic",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "gallant",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Gallant",
+    "name_es": "Gallardo",
+    "body_es": "Los Gallardos son almas extravagantes que siempre buscan la atención y la oportunidad de ser la estrella. Siempre tratan de estar acompañados, aunque sólo sea para lograr admiración. Su motivación es la atención, y la búsqueda suele ser tan importante como el logro. Nada es tan emocionante para el Gallardo como una audiencia a la que asombrar. Los intérpretes, hijos únicos y gentes con poca autoestima suelen poseer este Arquetipo. Los Vástagos Gallardos pueden ser Arpías o pueden tener enormes rebaños de siervos mortales.\n\n-Recuperas un punto de Fuerza de Voluntad cuando logres asombrar a otras personas. El Narrador es el encargado de decidir si lo has conseguido o no, incluso en el caso de los demás personajes jugadores.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cuando logres asombrar a otras personas. El Narrador es el encargado de decidir si lo has conseguido o no, incluso en el caso de los demás personajes jugadores."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "gallant",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "guru",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Guru",
+    "name_es": "Gurú",
+    "body_es": "Tu iluminación atrae a los demás hacia ti. Puedes ser mentor de una Senda de Iluminación en particular, sacerdote de la Iglesia o simplemente un [idealista](/shared/archetypes/idealist). En cualquier caso, tu presencia motiva a los demás y los hace dedicarse a perseguir objetivos espirituales o ideológicos. Tus iguales te consideran calmado, centrado y con 'algo' especial, incluso cuando predicas sobre la violencia como un medio para lograr un fin. Los líderes de cultos, los maestros zen y los Sacerdotes de manada son ejemplos de Gurús.\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que alguien busque tu ayuda en asuntos espirituales y tu guía lo lleve a una acción reveladora que normalmente no hubiera considerado. Recuperas también Fuerza de Voluntad cada vez que logres una epifanía relacionada con tu filosofía personal.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cada vez que alguien busque tu ayuda en asuntos espirituales y tu guía lo lleve a una acción reveladora que normalmente no hubiera considerado. Recuperas también Fuerza de Voluntad cada vez que logres una epifanía relacionada con tu filosofía personal."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "guru",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "bon-vivant",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Bon Vivant",
+    "name_es": "Hedonista",
+    "body_es": "El Hedonista sabe que la vida (y la no-vida) está vacía y no tiene significado alguno. Por tanto, ha decidido disfrutar al máximo su tiempo en este mundo. No es necesariamente un irresponsable, simplemente está predispuesto a pasar un buen rato siempre que pueda. La mayoría de los Hedonistas suele tener una baja puntuación de Autocontrol, ya que son dados a los excesos. Los vividores, sibaritas y diletantes son ejemplos de este Arquetipo. Un Vástago Hedonista puede engendrar una prole de serviles Chiquillos, o puede pasar el tiempo atiborrándose con la sangre de drogadictos sólo para sentir el subidón.\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que disfrutes al máximo y te sientas completamente exultante. El Narrador tiene la opción de conceder múltiples puntos por una juerga especialmente épica.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cada vez que disfrutes al máximo y te sientas completamente exultante. El Narrador tiene la opción de conceder múltiples puntos por una juerga especialmente épica."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "bon-vivant",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "curmudgeon",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Curmudgeon",
+    "name_es": "Hosco",
+    "body_es": "El Hosco es amargado y cínico, y encuentra fallos en todo, careciendo de humor en la vida y la no-vida. A menudo es pesimista y fatalista, y tiene a todo el mundo en muy baja estima. Para él el vaso nunca está más que medio lleno, pero cuando aparecen los demás se vacía rápidamente. Muchos adictos a Internet, fanáticos de la cultura pop y los miembros de la Generación X son Hoscos. Los Vástagos Hoscos ven la opresión de los Antiguos o a los Neonatos malcriados haciendo tonterías detrás de cada acontecimiento de la sociedad de la Estirpe, y más allá de sus mordaces quejas pueden decidir, o no, rebelarse para cambiar los problemas que perciben.\n\n-Recuperas un punto de Fuerza de Voluntad cuando alguien cometa alguna estupidez tal y como tú lo habías predicho. Debes predecir y cuantificar el fracaso en voz alta, como una advertencia, 'El Príncipe nos va a joder en esta ocasión', 'Sólo observa, el Ghoul de ese Malkavian va a hacer algo bastante estúpido'. Puede que simplemente le susurres tu dolorosa profecía al Narrador si lo deseas, en vez de anunciarlo ante todo el grupo de juego.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cuando alguien cometa alguna estupidez tal y como tú lo habías predicho. Debes predecir y cuantificar el fracaso en voz alta, como una advertencia, 'El Príncipe nos va a joder en esta ocasión', 'Sólo observa, el Ghoul de ese Malkavian va a hacer algo bastante estúpido'. Puede que simplemente le susurres tu dolorosa profecía al Narrador si lo deseas, en vez de anunciarlo ante todo el grupo de juego."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "curmudgeon",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "idealist",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Idealist",
+    "name_es": "Idealista",
+    "body_es": "Los Idealistas creen, verdadera, loca y profundamente, en una meta o moral superior. El objeto de su idealismo puede ser algo tan pragmático como el triunfo final de la Camarilla o tan ambiguo como el bien absoluto, pero la creencia está ahí. Los Idealistas frecuentemente son o muy nuevos en la Sangre o muy viejos, y muchos buscan la Golconda como la expresión final de su idealismo. Mientras tanto, un Idealista intenta reconciliar sus creencias con las exigencias de la existencia vampírica, actuando a menudo altruistamente para lograrlo.\n\n- Recuperas un punto de Fuerza de Voluntad cada vez que una acción en busca de tus ideales sirva para acercarte a tus objetivos.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cada vez que una acción en busca de tus ideales sirva para acercarte a tus objetivos."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "idealist",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "judge",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Judge",
+    "name_es": "Juez",
+    "body_es": "El Juez no deja nunca de intentar mejorar el sistema. Disfruta con su naturaleza racional y con su habilidad para obtener la conclusión correcta al conocer los hechos. Respeta la justicia, ya que es el modelo más eficiente para resolver cualquier asunto. Aunque los Jueces tratan de solucionar los problemas de forma racional, no suelen ser visionarios, prefieren los modelos probados a la introspección. Los ingenieros, abogados y doctores suelen presentar este Arquetipo. Los Vástagos Jueces pueden tender a adoptar papeles de agentes del orden en la sociedad local, o pueden ser la voz de la razón en una coterie radical.\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que resuelvas correctamente un problema al considerar las evidencias presentadas o cuando tus argumentos logren la unidad en un grupo fracturado.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cada vez que resuelvas correctamente un problema al considerar las evidencias presentadas o cuando tus argumentos logren la unidad en un grupo fracturado."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "judge",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "martyr",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Martyr",
+    "name_es": "Mártir",
+    "body_es": "El Mártir padece por su causa y soporta todas las penurias gracias a la convicción de que su sufrimiento mejorará el destino de los demás. Algunos Mártires sólo buscan atención o simpatía por sus sacrificios, pero otros son sinceros respecto a su causa, enfrentando las penalidades con una fe inquebrantable. Muchos revolucionarios, firmes idealistas y proscritos son Mártires. Los Vástagos con este Arquetipo por lo general se asocian con movimientos de reforma de la sociedad de la Estirpe, pero raras veces son cabecillas (y no tienen por qué estar necesariamente en el bando a favor de la reforma).\n\n-Recuperas un punto de Fuerza de Voluntad cuando sufres cierta cantidad de daño o pérdida de algún recurso por tus ideales o por el bien ajeno.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cuando sufres cierta cantidad de daño o pérdida de algún recurso por tus ideales o por el bien ajeno."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "martyr",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "masochist",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Masochist",
+    "name_es": "Masoquista",
+    "body_es": "El Masoquista vive para probar sus límites, para ver cuánto dolor puede soportar antes de derrumbarse. Se regocija en la humillación, el sufrimiento, la negación e incluso el dolor físico. Se define a sí mismo a partir de su capacidad para sentir incomodidad, despertando cada noche para saludar a un nuevo dolor. Algunos atletas extremos, miembros de tribus urbanas y depresivos patológicos ejemplifican el Arquetipo Masoquista. Los Vástagos Masoquistas pueden ser auténticos horrores automortificantes que actúan según los caprichos autodestructivos de sus Bestias, o pueden ser capataces ambiciosos, como el líder de una coterie que rehúsa aceptar fracasar y busca rebasar sus propios límites en sus rigurosos planes.\n\n-Recuperas un punto de Fuerza de Voluntad cuando tu propio sufrimiento te proporciona algún beneficio tangible, y recuperas dos puntos cada vez que experimentes un dolor verdaderamente único.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cuando tu propio sufrimiento te proporciona algún beneficio tangible, y recuperas dos puntos cada vez que experimentes un dolor verdaderamente único."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "masochist",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "monster",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Monster",
+    "name_es": "Monstruo",
+    "body_es": "El Monstruo se sabe una criatura de la oscuridad y actúa en consecuencia. La maldad y el sufrimiento son herramientas que emplea allá donde va. Y no hay perversidad con la que no se atreva, dolor que no inflija o mentira que no cuente. El Monstruo no comete maldades por placer, sino como un medio para comprender aquello en lo que se ha convertido. Los individuos inestables, aquéllos que han sido terriblemente lastimados o heridos y los que se podrían definir como sociópatas pueden llegar a mostrar características de este Arquetipo. Los Vástagos Monstruos incluyen a muchos Sabbat, Antiguos degenerados y los que nunca se han adaptado verdaderamente a aquello en lo que se convirtieron después del Abrazo.\n\n-Los actos malignos refuerzan el sentido de la existencia del Monstruo. Estos personajes deben elegir una atrocidad específica y ganarán Fuerza de Voluntad cada vez que la cometan. Por ejemplo, un tentador recuperará Fuerza de Voluntad cada vez que logre que alguien cometa algún acto malvado, mientras que un apóstata lo conseguiría si hiciera a otro dudar de su fe. Elige un destino y cúmplelo. Es necesario que los Narradores sean cuidadosos al recompensar este Arquetipo. Por ejemplo, un jugador que elige violencia como su atrocidad no debería recuperar Fuerza de Voluntad en cada combate, sino quizás solamente en aquéllos en los que se involucre destrucción sin sentido, o incluso en los que requieran una tirada de Degeneración debido a la repugnancia que provocan. El Monstruo es un Arquetipo difícil de premiar, y las recompensas deberían ser la consecuencia de que el personaje impulse su propio descenso hacia la Bestia, no de que se entregue al desenfreno para obtener una reserva ilimitada de bonificaciones en sus tiradas.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Los actos malignos refuerzan el sentido de la existencia del Monstruo. Estos personajes deben elegir una atrocidad específica y ganarán Fuerza de Voluntad cada vez que la cometan. Por ejemplo, un tentador recuperará Fuerza de Voluntad cada vez que logre que alguien cometa algún acto malvado, mientras que un apóstata lo conseguiría si hiciera a otro dudar de su fe. Elige un destino y cúmplelo. Es necesario que los Narradores sean cuidadosos al recompensar este Arquetipo. Por ejemplo, un jugador que elige violencia como su atrocidad no debería recuperar Fuerza de Voluntad en cada combate, sino quizás solamente en aquéllos en los que se involucre destrucción sin sentido, o incluso en los que requieran una tirada de Degeneración debido a la repugnancia que provocan. El Monstruo es un Arquetipo difícil de premiar, y las recompensas deberían ser la consecuencia de que el personaje impulse su propio descenso hacia la Bestia, no de que se entregue al desenfreno para obtener una reserva ilimitada de bonificaciones en sus tiradas."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "monster",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "kid",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Kid",
+    "name_es": "Niño",
+    "body_es": "El Niño sigue teniendo una personalidad y temperamento inmaduros. Lo quiere todo ahora , y a menudo prefiere que sea otro el que se lo dé. Aunque normalmente es capaz de cuidar de sí mismo, le gusta tener a alguien que atienda todos sus caprichos. Algunos Arquetipos de Niño son más inocentes que inmaduros, ignorantes de las miserias de la vida real. Los niños, la gente sobreprotegida y algunos drogadictos presentan este Arquetipo. Los Vástagos con el Arquetipo Niño podrían no entender completamente el mundo que los rodea y poseer alguna característica como una crueldad, una altanería, una compasión o un hambre que están desequilibradas respecto a otros aspectos de su personalidad, debido a que aún no han alcanzado el estadio pleno de la madurez. Ten en cuenta que el Arquetipo Niño no necesita ser una persona que fue Abrazada durante su niñez física. Algunas personas simplemente no maduran.\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que consigas convencer a alguien para que te ayude sin lograr nada a cambio o para que cuide de ti.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cada vez que consigas convencer a alguien para que te ayude sin lograr nada a cambio o para que cuide de ti."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "kid",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "eye-of-the-storm",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Eye of the Storm",
+    "name_es": "Ojo de la Tormenta",
+    "body_es": "A pesar de tu aspecto calmado y sutil, el caos y el desastre parecen seguirte. Desde ciudades ardiendo hasta tormentas emocionales, la muerte y la destrucción vuelan a tu alrededor como los buitres. Para ti, la no-vida es una prueba eterna en la que la incertidumbre aguarda tras cada esquina. Los líderes de bandas, las figuras políticas y otras personas influyentes ejemplifican este Arquetipo.\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que a tu alrededor se produzca un tumulto, una revuelta o un fenómeno menos violento pero igualmente caótico.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cada vez que a tu alrededor se produzca un tumulto, una revuelta o un fenómeno menos violento pero igualmente caótico."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "eye-of-the-storm",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "pedagogue",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Pedagogue",
+    "name_es": "Pedagogo",
+    "body_es": "El Pedagogo lo sabe todo y trata desesperadamente de informar a los demás. Ya se trate de un deseo de ayudar o de un fin en sí mismo, se asegura de que su mensaje es escuchado (en detalle si es necesario). Este Arquetipo puede abarcar desde mentores bienintencionados hasta insoportables pedantes que adoran su propia voz. Instructores, gente sobrecualificada y 'veteranos en su campo' son buenos ejemplos del Arquetipo Pedagogo. Los Vástagos Pedagogos incluyen a los guardianes de las Tradiciones, Anarquistas ideológicos e incluso hasta una rara avis que desea compañía en su búsqueda de la Golconda.\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que observes o sepas que alguien se ha beneficiado de la sabiduría que compartiste con él.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cada vez que observes o sepas que alguien se ha beneficiado de la sabiduría que compartiste con él."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "pedagogue",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "penitent",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Penitent",
+    "name_es": "Penitente",
+    "body_es": "El Penitente vive para expiar el terrible pecado de su mera existencia. Puede tratarse de gente con baja autoestima o que ha vivido experiencias traumáticas y se sienten impelidos a '[buscar](/shared/secondary-abilitys/buscar) el perdón' por cargar al mundo con su presencia. Los Arquetipos Penitentes no son siempre religiosos, algunos quieren librar al universo del pesar que provocan. Los pecadores contritos, las personas con baja autoestima y los criminales arrepentidos son ejemplos de este Arquetipo. Los Vástagos Penitentes incluyen a aquéllos que se flagelan como si fueran monjes medievales a fin de dominar a la Bestia, vampiros que se alzan por los derechos de los mortales y a los que subsisten completamente gracias a la sangre de animales.\n\n<!-- image -->\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que creas que has conseguido la absolución por un agravio determinado. Esta redención debe ser de la misma magnitud que la transgresión: cuanto mayor es el crimen, mayor la penitencia. El Narrador es el árbitro definitivo sobre lo que constituye un acto razonable de reparación.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cada vez que creas que has conseguido la absolución por un agravio determinado. Esta redención debe ser de la misma magnitud que la transgresión: cuanto mayor es el crimen, mayor la penitencia. El Narrador es el árbitro definitivo sobre lo que constituye un acto razonable de reparación."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "penitent",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "perfectionist",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Perfectionist",
+    "name_es": "Perfeccionista",
+    "body_es": "Este Arquetipo no admite más que aquello que carece de fallos. Un trabajo poco entusiasta no representa satisfacción alguna, y el Perfeccionista espera de los demás el mismo grado de compromiso y atención al detalle que se exige a sí mismo. Aunque puede ser exigente y riguroso, lo que le motiva (y a menudo también a aquéllos de los que es responsable) es el cumplimiento del objetivo. Artistas, prima donnas y arquitectos ejemplifican este Arquetipo. Un Vástago Perfeccionista puede ser un fervoroso Sabbat que espera más de lo que su manada puede lograr de forma sistemática, o puede ser un moralista que a veces aplica sus altos estándares de Humanidad al resto de su coterie.\n\n-Recuperas un punto de Fuerza de Voluntad cuando logres un objetivo sin defectos o impedimentos constatables, y también cuando motives a otro personaje a tener éxito siendo un brillante ejemplo para él.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cuando logres un objetivo sin defectos o impedimentos constatables, y también cuando motives a otro personaje a tener éxito siendo un brillante ejemplo para él."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "perfectionist",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "caregiver",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Caregiver",
+    "name_es": "Protector",
+    "body_es": "Todo el mundo necesita un hombro en el que llorar. Un Protector se siente cómodo consolando a los demás y la gente tiende a acudir a él con sus problemas. Los vampiros con este Arquetipo suelen tratar de hacer todo lo posible por proteger a los mortales de los que se alimentan. Las enfermeras, doctores y psiquiatras son ejemplos de Protectores en potencia. Los Vástagos Protectores a menudo son del tipo de los que, trágicamente, Abrazan a los mortales que amaron para hacer menos dura su pérdida, o incluso los que provocan situaciones dolorosas para aliviar ese dolor y así reafirmarse a sí mismos.\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que logres proteger o cuidar de alguien.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cada vez que logres proteger o cuidar de alguien."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "caregiver",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "rebel",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Rebel",
+    "name_es": "Rebelde",
+    "body_es": "El Rebelde es un descontento que nunca está satisfecho con el status quo , ni con el sistema. Odia la autoridad y hace todo lo que está en su mano para retarla y socavarla. Quizá crea realmente en sus ideales, pero también es común que desprecie a las figuras autoritarias debido a alguna 'injusticia' que sufrió en el pasado. El Rebelde odia categóricamente las instituciones o puede verse consumido por la oposición hacia una autoridad en particular. Los adolescentes, los insurgentes y los inconformistas ejemplifican el Arquetipo Rebelde. Los Vástagos Rebeldes sin duda incluyen al Sabbat, a los Anarquistas y a los temperamentales Brujah, pero también hay cabida para los Tremere en contra de la rígida jerarquía de su Clan o para los Neonatos que deploran a sus Sires.\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que tus acciones afecten adversamente a la oposición que has elegido. Los Rebeldes pueden enfrentarse al gobierno, a la Iglesia, a un Príncipe vampírico o a cualquiera que ostente autoridad. El jugador deberá escoger contra qué o quién se rebela al adoptar este Arquetipo. Los Narradores deben ser cautelosos con intenciones de rebelión contra 'toda la autoridad' y solamente conceder Fuerza de Voluntad en base a este concepto tan amplio para actos de insurgencia cada vez más extremos.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cada vez que tus acciones afecten adversamente a la oposición que has elegido. Los Rebeldes pueden enfrentarse al gobierno, a la Iglesia, a un Príncipe vampírico o a cualquiera que ostente autoridad. El jugador deberá escoger contra qué o quién se rebela al adoptar este Arquetipo. Los Narradores deben ser cautelosos con intenciones de rebelión contra 'toda la autoridad' y solamente conceder Fuerza de Voluntad en base a este concepto tan amplio para actos de insurgencia cada vez más extremos."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "rebel",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "repulsive",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Repulsive",
+    "name_es": "Repulsivo",
+    "body_es": "Tratas de impactar y desagradar a todos los que te rodean con acciones injustificadas y conductas ostentosamente 'malvadas'. Por supuesto, sabes que todo es un espectáculo, no más que una forma de intimidar y controlar a los demás. La gente, por su parte, te considera el diablo encarnado, algo con lo que disfrutas enormemente. Los rockeros extremos, los adolescentes rebeldes, los fenómenos de circo y los que tratan de llamar la atención son ejemplos del Arquetipo Repulsivo.\n\n-Recuperas Fuerza de Voluntad cada vez que alguien retroceda horrorizado o reaccione ante ti con miedo.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas Fuerza de Voluntad cada vez que alguien retroceda horrorizado o reaccione ante ti con miedo."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "repulsive",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "sadist",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Sadist",
+    "name_es": "Sádico",
+    "body_es": "Vives para infligir dolor y sufrimiento a los demás. Matar es demasiado fácil; la [tortura](/shared/secondary-abilitys/tortura) es el mejor modo de dañar de verdad a una persona, por lo que buscas los métodos más lentos y dolorosos de llevar a los demás al límite. El dolor (el de los demás) te proporciona un inmenso placer. Los sargentos de instrucción, los ex-amantes despechados y algunos locos terminales pueden encarnar este Arquetipo en uno u otro momento. El sadismo es lo bastante raro como para aparecer sólo en los casos más aberrantes, más que en un tipo u otro de persona.\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que inflijas dolor a alguien sin más razón que tu propio placer.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cada vez que inflijas dolor a alguien sin más razón que tu propio placer."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "sadist",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "sociopath",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Sociopath",
+    "name_es": "Sociópata",
+    "body_es": "Todos los seres inferiores vivos o no-muertos deberían ser exterminados para lograr una existencia armoniosa. Es probable que no sientas remordimientos al matar (dependiendo de tu Humanidad o tu Senda). Todo lo contrario: estás haciendo un glorioso servicio a la comunidad. Algunos vampiros critican tu naturaleza violenta, pero a veces logras convencerlos con argumentos del tipo: '¡Darwin aceptaría que no hago más que ayudar a que la naturaleza avance!'; o '¡Sólo el más fuerte sobrevivirá!'.\n\n-Recuperas Fuerza de Voluntad cada vez que seas el mayor causante de bajas una vez todo haya acabado. También se cuentan las ocasiones en las que eres el único asesino, y no es necesario que se trate de un combate masivo (como matar a todos los espectadores de una película o acribillar a los clientes en un robo a un banco).",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas Fuerza de Voluntad cada vez que seas el mayor causante de bajas una vez todo haya acabado. También se cuentan las ocasiones en las que eres el único asesino, y no es necesario que se trate de un combate masivo (como matar a todos los espectadores de una película o acribillar a los clientes en un robo a un banco)."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "sociopath",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "soldier",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Soldier",
+    "name_es": "Soldado",
+    "body_es": "El Soldado no es un seguidor ciegamente leal. Aunque está para recibir órdenes, no las acepta incondicionalmente. Más independiente que un [Conformista](/shared/archetypes/conformist) pero demasiado vinculado a la idea de mando para ser un [Solitario](/shared/archetypes/loner), el Soldado aplica sus propias técnicas a los objetivos de otros. Aunque algún día quizá busque el mando, sus ambiciones entran dentro de la jerarquía y estructura establecida. El Soldado no tiene escrúpulos a la hora de usar cualquier medio necesario para hacer lo que ha de hacerse mientras las órdenes vengan del sitio adecuado.\n\n- Recuperas un punto de Fuerza de Voluntad cuando logres los objetivos que se te ordenaron. Cuanto más difícil sea cumplir las órdenes, mejor sienta llevarlas a cabo. A discreción del Narrador, la obtención de un éxito espectacular o el cumplimiento de una misión larga puede valer la concesión de puntos de Fuerza de Voluntad adicionales.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cuando logres los objetivos que se te ordenaron. Cuanto más difícil sea cumplir las órdenes, mejor sienta llevarlas a cabo. A discreción del Narrador, la obtención de un éxito espectacular o el cumplimiento de una misión larga puede valer la concesión de puntos de Fuerza de Voluntad adicionales."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "soldier",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "loner",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Loner",
+    "name_es": "Solitario",
+    "body_es": "El Solitario destaca hasta en una multitud, ya que es evidente que no forma parte de ella. Los demás lo ven como a un paria, distante y aislado, pero en realidad prefiere su propia compañía a la de los demás. Por cualquier motivo desdeña a la gente, y el sentimiento suele ser recíproco. Los criminales, radicales y librepensadores suelen ser de Arquetipo Solitario. Los Vástagos Solitarios comúnmente provienen de los Clanes fuertemente individualistas como los Gangrel o los Ravnos, y son propensos a terminar siendo Autarcas a fuerza de pasar de todo lo que algún Príncipe o Arzobispo arrogante diga que es la ley.\n\n-Recuperas un punto de Fuerza de Voluntad cuando logres algo por tu cuenta que además beneficie de algún modo a la coterie.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cuando logres algo por tu cuenta que además beneficie de algún modo a la coterie."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "loner",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "survivor",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Survivor",
+    "name_es": "Superviviente",
+    "body_es": "No importa lo que suceda, las probabilidades o las adversidades, el Superviviente siempre logra salir adelante. Ya sea solo o con un grupo, la absoluta incapacidad de este personaje de aceptar la derrota puede marcar la diferencia entre el éxito y el fracaso. Los Supervivientes suelen sentirse frustrados cuando los demás aceptan 'lo que depara el destino' o cuando se resignan voluntariamente a menos de lo que pueden lograr. Proscritos, gentes de la calle e idealistas bien pueden ser Supervivientes. Un Vástago con este Arquetipo puede ser un renegado bajo el edicto de Caza de Sangre de un Príncipe, un antiguo Obispo que ha sido expulsado del poder o un humilde Nosferatu que vaga de un terreno de Caza a otro sin un lugar al cual llamar su dominio.\n\n-Recuperas un punto de Fuerza de Voluntad cuando sobrevivas a una situación peligrosa gracias a tu tenacidad o cuando, gracias a tu consejo, otro persevere a pesar de las adversidades.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cuando sobrevivas a una situación peligrosa gracias a tu tenacidad o cuando, gracias a tu consejo, otro persevere a pesar de las adversidades."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "survivor",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "traditionalist",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Traditionalist",
+    "name_es": "Tradicionalista",
+    "body_es": "Al Tradicionalista le satisfacen las costumbres ortodoxas y prefiere conseguir sus objetivos empleando métodos ya probados. ¿Por qué cambiar algo que ya funcionó bien en el pasado? Este Arquetipo encuentra el status quo aceptable, y desde luego lo prefiere a un cambio que podría conllevar resultados impredecibles. Los conservadores, jueces y miembros de la autoridad son ejemplos de este Arquetipo. Como cabía esperar, los Vástagos Tradicionalistas ven las Tradiciones como un modelo de comportamiento, aunque algunos Anarquistas y Antiguos pueden abrazar un 'tradicionalismo' anterior a la Camarilla y al Sabbat.\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que los métodos tradicionales demuestren ser los mejores. Recuperas también un punto de Fuerza de Voluntad cada vez que te adhieras a uno de tus puntos de vista y compruebes que es el curso de acción más sensato.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cada vez que los métodos tradicionales demuestren ser los mejores. Recuperas también un punto de Fuerza de Voluntad cada vez que te adhieras a uno de tus puntos de vista y compruebes que es el curso de acción más sensato."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "traditionalist",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "trickster",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Trickster",
+    "name_es": "Truhán",
+    "body_es": "El Truhán ve el absurdo en todo. No importa lo triste que pueda ser la vida (o la no-vida), el Truhán siempre descubre un modo de reírse de ella. Este Arquetipo se niega a rendirse a la pena o al dolor, por lo que intenta siempre animar el espíritu de los que lo rodean. Algunos Truhanes llegan a tener ideales elevados, poniendo en cuestión el dogma impuesto y exponiendo sus defectos de forma burlesca. Comediantes, satíricos y críticos sociales son ejemplos de este Arquetipo. Los Vástagos Truhanes pueden llamar la atención sobre los defectos en las políticas de un líder, pueden ser los abogados del diablo de lengua viperina que cuestionan las Tradiciones o Ritae de la Secta, o puede que simplemente posean un agudo sentido de las ironías de un mundo que hace a los depredadores vampíricos y sus presas mortales casi indistinguibles físicamente.\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que logres animar a los demás, especialmente si en el proceso logras negar tu propio dolor.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cada vez que logres animar a los demás, especialmente si en el proceso logras negar tu propio dolor."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "trickster",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "visionary",
+    "type": "archetype",
+    "line": "shared",
+    "name_en": "Visionary",
+    "name_es": "Visionario",
+    "body_es": "El Visionario es lo suficientemente fuerte como para ver más allá de lo mundano y percibir lo realmente maravilloso. Aquéllos con este Arquetipo tantean los límites aceptados por la sociedad y buscan lo que otros sólo se atreven a imaginar. El Visionario no suele encontrar satisfacción en lo que la sociedad tiene que ofrecer; prefiere animar al mundo a ofrecer lo que podría tener, en lugar de lo que tiene . Por lo general, la sociedad suele responder negativamente ante los Visionarios, aunque sean quienes provocan el progreso y el cambio. Filósofos, inventores y los artistas con mayor talento suelen tener Naturalezas Visionarias. Los Vástagos Visionarios pueden querer convertir a todos los mortales en esclavos vampíricos, pueden adaptarse a las tecnologías temidas o ignoradas por otros Vástagos más estáticos o pueden tener una 'mejor manera' de coexistir con otros vampiros más allá de esta locura de Príncipe-y-Regente.\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que logres convencer a otros para que crean en tus sueños y sigan un curso de acción dictado por tu visión. Ten en cuenta que la clave para que un Visionario recupere Fuerza de Voluntad es obtener apoyo. El Visionario no necesita tener éxito, al menos no en cada movimiento que intente para cambiar las estructuras en cuestión. De hecho, su mayor éxito puede llegar después de su Muerte Definitiva.",
+    "tags": [
+      "arquetipo"
+    ],
+    "mechanics": {
+      "regain_condition": "Recuperas un punto de Fuerza de Voluntad cada vez que logres convencer a otros para que crean en tus sueños y sigan un curso de acción dictado por tu visión. Ten en cuenta que la clave para que un Visionario recupere Fuerza de Voluntad es obtener apoyo. El Visionario no necesita tener éxito, al menos no en cada movimiento que intente para cambiar las estructuras en cuestión. De hecho, su mayor éxito puede llegar después de su Muerte Definitiva."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "visionary",
         "variant": "base"
       }
     ],
