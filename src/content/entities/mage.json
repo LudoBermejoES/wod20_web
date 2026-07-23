@@ -29878,6 +29878,32 @@
     "related": []
   },
   {
+    "id": "discurso-esoterico-tecnochachara",
+    "type": "flaw",
+    "line": "mage",
+    "name_en": "Discurso Esotérico / Tecnocháchara",
+    "name_es": "Discurso Esotérico / Tecnocháchara",
+    "body_es": "Tu amor obsesivo por un campo especializado te inspira a llenar toda hora despierto con oscura jerga y fraseología obtusa. La mayoría de la gente no entiende la mitad de lo que dices y su falta de comprensión de terminología tan [elemental](/mage/resonances/elemental) te obliga a proveerles de pedagogía obligatoria (aunque correctiva). ¡Hostia puta ya! ¡Habla normal de una puta vez!\n\nEn términos de juego, este Defecto impone modificadores de dificultad +1 o +2 a las tiradas sociales, gracias al uso compulsivo de argot, la nomenclatura hiperespecífica y la pedantería condescendiente. La primera variación de este Defecto refleja una especialización arcana; la segunda, una terminología basada en tecnología y otras variaciones (jerga legal engañosa, obtusa palabrería académica, etc.) podrían reflejar fascinaciones semejantes en otros campos. Sin embargo, para quienes realmente te entienden, la penalización habitual podría convertirse en una bonificación social… momento en el que todo el mundo probablemente deja la sala para que los expertos hablen entre ellos.",
+    "tags": [
+      "social"
+    ],
+    "mechanics": {
+      "bonus": "1",
+      "category": "social"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "discurso-esoterico-tecnochachara",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "extraction_note": "Hand-added (not Lane-A regex-extracted): the source heading \"## Discurso Esotérico / Tecnocháchara (Defecto 1 punto)\" omits the \"de\" that parse.py's _ENTITY_RE requires before \"puntos\" (every sibling heading has \"de N puntos\"; this one just has \"N punto\") — a corpus formatting inconsistency, not a parser bug to silently paper over. If parse.py is ever re-run for this book, this entry will need to be re-added unless the regex/heading is reconciled."
+  },
+  {
     "id": "devoted-resonance",
     "type": "resonance",
     "line": "mage",
