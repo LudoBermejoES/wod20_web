@@ -33300,7 +33300,7 @@
     "line": "mage",
     "name_en": "Fortuna",
     "name_es": "Fortuna",
-    "body_es": "El [destino](/mage/backgrounds/destiny) es [caprichoso](/mage/flaws/caprichoso), incluso antes de tener en cuenta las manipulaciones de los magos. La Senda de la Fortuna les permite blandir la suerte como un arma, abatiendo a sus enemigos con maldiciones o fortaleciendo a sus [aliados](/mage/backgrounds/allies) con bendiciones. Aunque los métodos y las explicaciones pueden variar, desde el Mal de Ojo hasta la Mano de Dios, pasando por la manipulación de la probabilidad, la Senda de la Fortuna nunca hace que suceda lo verdaderamente imposible, solo lo extremadamente improbable. También es una de las Sendas menos precisas: aunque el mago [estático](/mage/resonances/static) pone en marcha la Fortuna y controla la magnitud y el rango general de los resultados potenciales, los efectos de esta Senda a menudo lo sorprenden o se pierden en el ruido de la vida cotidiana.\n\nA la Gente de la Noche le resulta más difícil que a los Durmientes ser maldecida con esta Senda. Realizan una tirada de Fuerza de Voluntad contra 4 + la puntuación de la Senda del mago, y los efectos sin un Aspecto a 5 solo requieren un único éxito para anularse. Esas maldiciones extremadamente poderosas pueden ignorarse con solo dos éxitos, aunque la dificultad será 9, lo que lo hace bastante complicado. Para resistirse, la víctima debe ser consciente de la maldición del mago e intentar activamente resistirla. Descubrir una maldición no anunciada puede ser difícil, pero es posible mediante percepciones sobrenaturales, como la lectura del aura. Los magos con Cardinal o Entropía podrían notarlo, y los magos que practican la Senda de la Fortuna suelen ser capaces de reconocer el trabajo de uno de los suyos.\n\nEl Trasfondo de Arcano/Encubrimiento proporciona una capa adicional de protección contra las maldiciones. Tener como objetivo a alguien con ese Trasfondo sin su permiso explícito resta un éxito de la tirada por cada punto de Arcano que posea.",
+    "body_es": "El [destino](/mage/backgrounds/destiny) es [caprichoso](/mage/flaws/caprichoso), incluso antes de tener en cuenta las manipulaciones de los magos. La Senda de la Fortuna les permite blandir la suerte como un arma, abatiendo a sus enemigos con maldiciones o fortaleciendo a sus [aliados](/mage/backgrounds/allies) con bendiciones. Aunque los métodos y las explicaciones pueden variar, desde el Mal de Ojo hasta la Mano de Dios, pasando por la manipulación de la probabilidad, la Senda de la Fortuna nunca hace que suceda lo verdaderamente imposible, solo lo extremadamente improbable. También es una de las Sendas menos precisas: aunque el mago [estático](/mage/resonances/static) pone en marcha la Fortuna y controla la magnitud y el rango general de los resultados potenciales, los efectos de esta Senda a menudo lo sorprenden o se pierden en el ruido de la vida cotidiana.\n\nA la Gente de la Noche le resulta más difícil que a los Durmientes ser maldecida con esta Senda. Realizan una tirada de Fuerza de Voluntad contra 4 + la puntuación de la Senda del mago, y los efectos sin un Aspecto a 5 solo requieren un único éxito para anularse. Esas maldiciones extremadamente poderosas pueden ignorarse con solo dos éxitos, aunque la dificultad será 9, lo que lo hace bastante complicado. Para resistirse, la víctima debe ser consciente de la maldición del mago e intentar activamente resistirla. Descubrir una maldición no anunciada puede ser difícil, pero es posible mediante percepciones sobrenaturales, como la lectura del aura. Los magos con Cardinal o Entropía podrían notarlo, y los magos que practican la Senda de la Fortuna suelen ser capaces de reconocer el trabajo de uno de los suyos.\n\nEl Trasfondo de [Arcano/Encubrimiento](/mage/chantry-traits/chantry-arcane-cloaking) proporciona una capa adicional de protección contra las maldiciones. Tener como objetivo a alguien con ese Trasfondo sin su permiso explícito resta un éxito de la tirada por cada punto de Arcano que posea.",
     "tags": [
       "hechicería"
     ],
@@ -39386,6 +39386,875 @@
     ],
     "mechanics_html": {
       "efecto": "Disparo estándar: Cardinal 3 (1 punto de <a href=\"/mage/instruments/energy\">Energía</a> Primordial), Destreza + <a href=\"/mage/instruments/weapons\">Armas</a> de <a href=\"/mage/instruments/energy\">Energía</a>, dos niveles de daño agravado por éxito a dificultad 6; Disparo sobrecargado: <a href=\"/mage/instruments/energy\">Energía</a> Primordial 5 o Tiempo 5 (3 puntos adicionales), tres éxitos a dificultad 9"
+    }
+  },
+  {
+    "id": "chantry-allies",
+    "type": "chantry-trait",
+    "line": "mage",
+    "name_en": "Allies",
+    "name_es": "Aliados",
+    "body_es": "Un consorte, Ciudadano Extraordinario, espíritu, EDE, u otro aliado excepcional por punto.",
+    "tags": [
+      "chantry-trait",
+      "construct"
+    ],
+    "mechanics": {
+      "pool_cost_per_dot": 2,
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/Constructo (Trasfondos: El Marco del Constructo).",
+      "tier_bands": [
+        {
+          "name_es": "Escondite/Piso Franco Seguro",
+          "points": "10-20 puntos",
+          "core_rulebook_label_es": "Casa ocupada segura"
+        },
+        {
+          "name_es": "Santuario/Oficina Auxiliar Pequeños",
+          "points": "21-30 puntos",
+          "core_rulebook_label_es": "Pequeño santuario"
+        },
+        {
+          "name_es": "Capilla Mística/Constructo Iluminado",
+          "points": "30-70 puntos",
+          "core_rulebook_label_es": "Capilla mística"
+        },
+        {
+          "name_es": "Fortaleza",
+          "points": "71-100 puntos",
+          "core_rulebook_label_es": "Fortaleza"
+        },
+        {
+          "name_es": "Centro de Poder",
+          "points": "101+ puntos",
+          "core_rulebook_label_es": "Centro de poder"
+        }
+      ],
+      "flavor_names": {
+        "tradiciones": "Capilla",
+        "tecnocracia": "Constructo"
+      }
+    },
+    "sources": [
+      {
+        "book_id": "m20-the-operative-dossier",
+        "book_title_es": "The Operative Dossier",
+        "page": null,
+        "section_anchor": "estatus-y-el-constructo",
+        "variant": "base"
+      }
+    ],
+    "related": [
+      "capilla-constructo"
+    ],
+    "mechanics_html": {
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/<a href=\"/mage/flaws/construct\">Constructo</a> (Trasfondos: El Marco del <a href=\"/mage/flaws/construct\">Constructo</a>)."
+    }
+  },
+  {
+    "id": "chantry-arcane-cloaking",
+    "type": "chantry-trait",
+    "line": "mage",
+    "name_en": "Arcane/Cloaking",
+    "name_es": "Arcano/Encubrimiento",
+    "body_es": "Impone penalizaciones (-1 por punto) a las reservas de dados de quienes intenten encontrar o investigar el lugar.",
+    "tags": [
+      "chantry-trait",
+      "construct"
+    ],
+    "mechanics": {
+      "pool_cost_per_dot": 2,
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/Constructo (Trasfondos: El Marco del Constructo).",
+      "tier_bands": [
+        {
+          "name_es": "Escondite/Piso Franco Seguro",
+          "points": "10-20 puntos",
+          "core_rulebook_label_es": "Casa ocupada segura"
+        },
+        {
+          "name_es": "Santuario/Oficina Auxiliar Pequeños",
+          "points": "21-30 puntos",
+          "core_rulebook_label_es": "Pequeño santuario"
+        },
+        {
+          "name_es": "Capilla Mística/Constructo Iluminado",
+          "points": "30-70 puntos",
+          "core_rulebook_label_es": "Capilla mística"
+        },
+        {
+          "name_es": "Fortaleza",
+          "points": "71-100 puntos",
+          "core_rulebook_label_es": "Fortaleza"
+        },
+        {
+          "name_es": "Centro de Poder",
+          "points": "101+ puntos",
+          "core_rulebook_label_es": "Centro de poder"
+        }
+      ],
+      "flavor_names": {
+        "tradiciones": "Capilla",
+        "tecnocracia": "Constructo"
+      }
+    },
+    "sources": [
+      {
+        "book_id": "m20-the-operative-dossier",
+        "book_title_es": "The Operative Dossier",
+        "page": null,
+        "section_anchor": "estatus-y-el-constructo",
+        "variant": "base"
+      }
+    ],
+    "related": [
+      "capilla-constructo"
+    ],
+    "mechanics_html": {
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/<a href=\"/mage/flaws/construct\">Constructo</a> (Trasfondos: El Marco del <a href=\"/mage/flaws/construct\">Constructo</a>)."
+    }
+  },
+  {
+    "id": "chantry-backup",
+    "type": "chantry-trait",
+    "line": "mage",
+    "name_en": "Backup",
+    "name_es": "Refuerzos",
+    "body_es": "Personal adicional no Despertado al que el grupo puede recurrir para pedir ayuda, siguiendo las directrices normales para [Refuerzos](/mage/backgrounds/backup) (Mage 20 p. 306).",
+    "tags": [
+      "chantry-trait",
+      "construct"
+    ],
+    "mechanics": {
+      "pool_cost_per_dot": 2,
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/Constructo (Trasfondos: El Marco del Constructo).",
+      "tier_bands": [
+        {
+          "name_es": "Escondite/Piso Franco Seguro",
+          "points": "10-20 puntos",
+          "core_rulebook_label_es": "Casa ocupada segura"
+        },
+        {
+          "name_es": "Santuario/Oficina Auxiliar Pequeños",
+          "points": "21-30 puntos",
+          "core_rulebook_label_es": "Pequeño santuario"
+        },
+        {
+          "name_es": "Capilla Mística/Constructo Iluminado",
+          "points": "30-70 puntos",
+          "core_rulebook_label_es": "Capilla mística"
+        },
+        {
+          "name_es": "Fortaleza",
+          "points": "71-100 puntos",
+          "core_rulebook_label_es": "Fortaleza"
+        },
+        {
+          "name_es": "Centro de Poder",
+          "points": "101+ puntos",
+          "core_rulebook_label_es": "Centro de poder"
+        }
+      ],
+      "flavor_names": {
+        "tradiciones": "Capilla",
+        "tecnocracia": "Constructo"
+      }
+    },
+    "sources": [
+      {
+        "book_id": "m20-the-operative-dossier",
+        "book_title_es": "The Operative Dossier",
+        "page": null,
+        "section_anchor": "estatus-y-el-constructo",
+        "variant": "base"
+      }
+    ],
+    "related": [
+      "capilla-constructo"
+    ],
+    "mechanics_html": {
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/<a href=\"/mage/flaws/construct\">Constructo</a> (Trasfondos: El Marco del <a href=\"/mage/flaws/construct\">Constructo</a>)."
+    }
+  },
+  {
+    "id": "chantry-cult-sympathizers",
+    "type": "chantry-trait",
+    "line": "mage",
+    "name_en": "Cult/Sympathizers",
+    "name_es": "Culto/Simpatizantes",
+    "body_es": "Se trata de personal entrenado y capaz de ayudar en grandes trabajos, como rituales o expresiones complejas de la ciencia Iluminada. Esto funciona como se describe (y con las mismas limitaciones) que el Trasfondo [Culto](/mage/backgrounds/cult) (Mage 20 p. 310).",
+    "tags": [
+      "chantry-trait",
+      "construct"
+    ],
+    "mechanics": {
+      "pool_cost_per_dot": 2,
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/Constructo (Trasfondos: El Marco del Constructo).",
+      "tier_bands": [
+        {
+          "name_es": "Escondite/Piso Franco Seguro",
+          "points": "10-20 puntos",
+          "core_rulebook_label_es": "Casa ocupada segura"
+        },
+        {
+          "name_es": "Santuario/Oficina Auxiliar Pequeños",
+          "points": "21-30 puntos",
+          "core_rulebook_label_es": "Pequeño santuario"
+        },
+        {
+          "name_es": "Capilla Mística/Constructo Iluminado",
+          "points": "30-70 puntos",
+          "core_rulebook_label_es": "Capilla mística"
+        },
+        {
+          "name_es": "Fortaleza",
+          "points": "71-100 puntos",
+          "core_rulebook_label_es": "Fortaleza"
+        },
+        {
+          "name_es": "Centro de Poder",
+          "points": "101+ puntos",
+          "core_rulebook_label_es": "Centro de poder"
+        }
+      ],
+      "flavor_names": {
+        "tradiciones": "Capilla",
+        "tecnocracia": "Constructo"
+      }
+    },
+    "sources": [
+      {
+        "book_id": "m20-the-operative-dossier",
+        "book_title_es": "The Operative Dossier",
+        "page": null,
+        "section_anchor": "estatus-y-el-constructo",
+        "variant": "base"
+      }
+    ],
+    "related": [
+      "capilla-constructo"
+    ],
+    "mechanics_html": {
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/<a href=\"/mage/flaws/construct\">Constructo</a> (Trasfondos: El Marco del <a href=\"/mage/flaws/construct\">Constructo</a>)."
+    }
+  },
+  {
+    "id": "chantry-enhancement",
+    "type": "chantry-trait",
+    "line": "mage",
+    "name_en": "Enhancement",
+    "name_es": "Mejora",
+    "body_es": "El nivel máximo de [Mejora](/mage/backgrounds/enhancement) que la instalación puede incorporar.",
+    "tags": [
+      "chantry-trait",
+      "construct"
+    ],
+    "mechanics": {
+      "pool_cost_per_dot": 4,
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/Constructo (Trasfondos: El Marco del Constructo).",
+      "tier_bands": [
+        {
+          "name_es": "Escondite/Piso Franco Seguro",
+          "points": "10-20 puntos",
+          "core_rulebook_label_es": "Casa ocupada segura"
+        },
+        {
+          "name_es": "Santuario/Oficina Auxiliar Pequeños",
+          "points": "21-30 puntos",
+          "core_rulebook_label_es": "Pequeño santuario"
+        },
+        {
+          "name_es": "Capilla Mística/Constructo Iluminado",
+          "points": "30-70 puntos",
+          "core_rulebook_label_es": "Capilla mística"
+        },
+        {
+          "name_es": "Fortaleza",
+          "points": "71-100 puntos",
+          "core_rulebook_label_es": "Fortaleza"
+        },
+        {
+          "name_es": "Centro de Poder",
+          "points": "101+ puntos",
+          "core_rulebook_label_es": "Centro de poder"
+        }
+      ],
+      "flavor_names": {
+        "tradiciones": "Capilla",
+        "tecnocracia": "Constructo"
+      }
+    },
+    "sources": [
+      {
+        "book_id": "m20-the-operative-dossier",
+        "book_title_es": "The Operative Dossier",
+        "page": null,
+        "section_anchor": "estatus-y-el-constructo",
+        "variant": "base"
+      }
+    ],
+    "related": [
+      "capilla-constructo"
+    ],
+    "mechanics_html": {
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/<a href=\"/mage/flaws/construct\">Constructo</a> (Trasfondos: El Marco del <a href=\"/mage/flaws/construct\">Constructo</a>)."
+    }
+  },
+  {
+    "id": "chantry-elders",
+    "type": "chantry-trait",
+    "line": "mage",
+    "name_en": "Elders/Management",
+    "name_es": "Ancianos/Dirección",
+    "body_es": "El nivel de poder y el número de líderes del [Constructo](/mage/flaws/construct)/Capilla.\n\nEste Rasgo representa el número de personal anciano o de dirección en la Capilla o [Constructo](/mage/flaws/construct), así como su poder relativo. Tener una puntuación alta en este Rasgo es un arma de doble filo, ya que los [aliados](/mage/backgrounds/allies) poderosos suelen ir acompañados de enemigos poderosos. El Narrador puede optar por enfrentar a los enemigos de los ancianos del grupo contra el grupo como medio de ataque indirecto. Asume que cada anciano obtenido mediante este Rasgo tiene un [enemigo](/mage/flaws/enemigo) de poder comparable.\n\nX — Al parecer estás al mando.\n· — Un superior que es un Traje Negro/Discípulo, o el equivalente.\n·· — Dos superiores que son Trajes Negros/Discípulos, o el equivalente.\n··· — Tres superiores. Uno es un Traje Gris/Adepto y los demás son Trajes Negros/Discípulos, o el equivalente.\n···· — Cuatro superiores. Dos son Trajes Grises/Adeptos y los demás son Trajes Negros/Discípulos, o el equivalente.\n····· — Cinco superiores. Tres son Trajes Grises/Adeptos y los demás son Trajes Negros/Discípulos, o el equivalente.\n····· · — Cinco superiores. Cuatro son Trajes Grises/Adeptos y el otro es un Traje Negro/Discípulo, o el equivalente.\n····· ·· — Seis superiores. Todos son Trajes Grises/Adeptos o el equivalente.\n····· ··· — Seis superiores. Uno es un Traje Blanco/Maestro y los demás son Trajes Grises/Adeptos o el equivalente.\n····· ···· — Seis superiores. Dos son Trajes Blancos/Maestros y los demás son Trajes Grises/Adeptos o el equivalente.\n····· ····· — Seis superiores. Tres son Trajes Blancos/Maestros y los demás son Trajes Grises/Adeptos o el equivalente.",
+    "tags": [
+      "chantry-trait",
+      "construct"
+    ],
+    "mechanics": {
+      "pool_cost_per_dot": 2,
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/Constructo (Trasfondos: El Marco del Constructo).",
+      "tier_bands": [
+        {
+          "name_es": "Escondite/Piso Franco Seguro",
+          "points": "10-20 puntos",
+          "core_rulebook_label_es": "Casa ocupada segura"
+        },
+        {
+          "name_es": "Santuario/Oficina Auxiliar Pequeños",
+          "points": "21-30 puntos",
+          "core_rulebook_label_es": "Pequeño santuario"
+        },
+        {
+          "name_es": "Capilla Mística/Constructo Iluminado",
+          "points": "30-70 puntos",
+          "core_rulebook_label_es": "Capilla mística"
+        },
+        {
+          "name_es": "Fortaleza",
+          "points": "71-100 puntos",
+          "core_rulebook_label_es": "Fortaleza"
+        },
+        {
+          "name_es": "Centro de Poder",
+          "points": "101+ puntos",
+          "core_rulebook_label_es": "Centro de poder"
+        }
+      ],
+      "flavor_names": {
+        "tradiciones": "Capilla",
+        "tecnocracia": "Constructo"
+      }
+    },
+    "sources": [
+      {
+        "book_id": "m20-the-operative-dossier",
+        "book_title_es": "The Operative Dossier",
+        "page": null,
+        "section_anchor": "estatus-y-el-constructo",
+        "variant": "base"
+      }
+    ],
+    "related": [
+      "capilla-constructo"
+    ],
+    "mechanics_html": {
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/<a href=\"/mage/flaws/construct\">Constructo</a> (Trasfondos: El Marco del <a href=\"/mage/flaws/construct\">Constructo</a>)."
+    }
+  },
+  {
+    "id": "chantry-integrated-effects",
+    "type": "chantry-trait",
+    "line": "mage",
+    "name_en": "Integrated Effects",
+    "name_es": "Efectos Integrados",
+    "body_es": "Hechizos o efectos anclados dentro del [Constructo](/mage/flaws/construct)/Capilla.\n\nMuchos Constructos y Capillas incorporan efectos integrados para ayudar con la seguridad, facilitar la comunicación, o simplemente hacer la vida más fácil. Cualquier efecto integrado se considera coincidente siempre que el efecto no salga de las instalaciones, y el lugar tenga al menos un punto invertido en [Zona de Realidad](/mage/chantry-traits/chantry-reality-zone). Cada punto en este Rasgo proporciona puntos que pueden gastarse para comprar efectos. Cada punto permite la compra de un nivel de Esfera. Por ejemplo, un efecto de Mente 2 que calme a todos los que entren en la Capilla costaría 2 puntos. Una bola de fuego de Fuerzas 3 / Cardinal 2 / Vida 1 / Materia 1 / Tiempo 4 que se dispara cuando entra un vampiro en el edificio y que apunta a la EH costaría 11 puntos. Estos efectos usan la puntuación de Capilla/[Constructo](/mage/flaws/construct) como Areté/Iluminación, lo que limita el acceso a las puntuaciones de Esfera que pueden emplearse normalmente. Una Capilla o [Constructo](/mage/flaws/construct) puede tener tantos efectos distintos como los miembros deseen comprar con la reserva de puntos disponible. Cada efecto requiere 1 punto de Quintaesencia por semana para mantenerse, que pueden proporcionar los miembros de la Capilla/[Constructo](/mage/flaws/construct), o extraerse de la puntuación de Nodo, si se ha comprado.\n\nX — Sin efectos integrados.\n· — Cuatro puntos.\n·· — Ocho puntos.\n··· — Quince puntos.\n···· — Veinte puntos.\n····· — Veinticinco puntos.\n····· · — Treinta y cinco puntos.\n····· ·· — Cuarenta y cinco puntos.\n····· ··· — Cincuenta y cinco puntos.\n····· ···· — Setenta puntos.\n····· ····· — Noventa puntos.",
+    "tags": [
+      "chantry-trait",
+      "construct"
+    ],
+    "mechanics": {
+      "pool_cost_per_dot": 2,
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/Constructo (Trasfondos: El Marco del Constructo).",
+      "tier_bands": [
+        {
+          "name_es": "Escondite/Piso Franco Seguro",
+          "points": "10-20 puntos",
+          "core_rulebook_label_es": "Casa ocupada segura"
+        },
+        {
+          "name_es": "Santuario/Oficina Auxiliar Pequeños",
+          "points": "21-30 puntos",
+          "core_rulebook_label_es": "Pequeño santuario"
+        },
+        {
+          "name_es": "Capilla Mística/Constructo Iluminado",
+          "points": "30-70 puntos",
+          "core_rulebook_label_es": "Capilla mística"
+        },
+        {
+          "name_es": "Fortaleza",
+          "points": "71-100 puntos",
+          "core_rulebook_label_es": "Fortaleza"
+        },
+        {
+          "name_es": "Centro de Poder",
+          "points": "101+ puntos",
+          "core_rulebook_label_es": "Centro de poder"
+        }
+      ],
+      "flavor_names": {
+        "tradiciones": "Capilla",
+        "tecnocracia": "Constructo"
+      }
+    },
+    "sources": [
+      {
+        "book_id": "m20-the-operative-dossier",
+        "book_title_es": "The Operative Dossier",
+        "page": null,
+        "section_anchor": "estatus-y-el-constructo",
+        "variant": "base"
+      }
+    ],
+    "related": [
+      "capilla-constructo"
+    ],
+    "mechanics_html": {
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/<a href=\"/mage/flaws/construct\">Constructo</a> (Trasfondos: El Marco del <a href=\"/mage/flaws/construct\">Constructo</a>)."
+    }
+  },
+  {
+    "id": "chantry-library",
+    "type": "chantry-trait",
+    "line": "mage",
+    "name_en": "Library",
+    "name_es": "Biblioteca",
+    "body_es": "Este recurso comunal, accesible a todos los miembros del [Constructo](/mage/flaws/construct)/Capilla, funciona como el Trasfondo [Biblioteca](/mage/backgrounds/library) (Mage 20 p. 318).",
+    "tags": [
+      "chantry-trait",
+      "construct"
+    ],
+    "mechanics": {
+      "pool_cost_per_dot": 2,
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/Constructo (Trasfondos: El Marco del Constructo).",
+      "tier_bands": [
+        {
+          "name_es": "Escondite/Piso Franco Seguro",
+          "points": "10-20 puntos",
+          "core_rulebook_label_es": "Casa ocupada segura"
+        },
+        {
+          "name_es": "Santuario/Oficina Auxiliar Pequeños",
+          "points": "21-30 puntos",
+          "core_rulebook_label_es": "Pequeño santuario"
+        },
+        {
+          "name_es": "Capilla Mística/Constructo Iluminado",
+          "points": "30-70 puntos",
+          "core_rulebook_label_es": "Capilla mística"
+        },
+        {
+          "name_es": "Fortaleza",
+          "points": "71-100 puntos",
+          "core_rulebook_label_es": "Fortaleza"
+        },
+        {
+          "name_es": "Centro de Poder",
+          "points": "101+ puntos",
+          "core_rulebook_label_es": "Centro de poder"
+        }
+      ],
+      "flavor_names": {
+        "tradiciones": "Capilla",
+        "tecnocracia": "Constructo"
+      }
+    },
+    "sources": [
+      {
+        "book_id": "m20-the-operative-dossier",
+        "book_title_es": "The Operative Dossier",
+        "page": null,
+        "section_anchor": "estatus-y-el-constructo",
+        "variant": "base"
+      }
+    ],
+    "related": [
+      "capilla-constructo",
+      "library"
+    ],
+    "mechanics_html": {
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/<a href=\"/mage/flaws/construct\">Constructo</a> (Trasfondos: El Marco del <a href=\"/mage/flaws/construct\">Constructo</a>)."
+    }
+  },
+  {
+    "id": "chantry-node",
+    "type": "chantry-trait",
+    "line": "mage",
+    "name_en": "Node",
+    "name_es": "Nodo",
+    "body_es": "El Trasfondo o [energía](/mage/instruments/energy) sobrante que queda cada semana tras pagar los costes de mantenimiento del [Constructo](/mage/flaws/construct) o Capilla. Esta Quintaesencia es accesible a los miembros, a discreción de la dirección del [Constructo](/mage/flaws/construct) o Capilla.",
+    "tags": [
+      "chantry-trait",
+      "construct"
+    ],
+    "mechanics": {
+      "pool_cost_per_dot": 3,
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/Constructo (Trasfondos: El Marco del Constructo).",
+      "tier_bands": [
+        {
+          "name_es": "Escondite/Piso Franco Seguro",
+          "points": "10-20 puntos",
+          "core_rulebook_label_es": "Casa ocupada segura"
+        },
+        {
+          "name_es": "Santuario/Oficina Auxiliar Pequeños",
+          "points": "21-30 puntos",
+          "core_rulebook_label_es": "Pequeño santuario"
+        },
+        {
+          "name_es": "Capilla Mística/Constructo Iluminado",
+          "points": "30-70 puntos",
+          "core_rulebook_label_es": "Capilla mística"
+        },
+        {
+          "name_es": "Fortaleza",
+          "points": "71-100 puntos",
+          "core_rulebook_label_es": "Fortaleza"
+        },
+        {
+          "name_es": "Centro de Poder",
+          "points": "101+ puntos",
+          "core_rulebook_label_es": "Centro de poder"
+        }
+      ],
+      "flavor_names": {
+        "tradiciones": "Capilla",
+        "tecnocracia": "Constructo"
+      }
+    },
+    "sources": [
+      {
+        "book_id": "m20-the-operative-dossier",
+        "book_title_es": "The Operative Dossier",
+        "page": null,
+        "section_anchor": "estatus-y-el-constructo",
+        "variant": "base"
+      }
+    ],
+    "related": [
+      "capilla-constructo"
+    ],
+    "mechanics_html": {
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/<a href=\"/mage/flaws/construct\">Constructo</a> (Trasfondos: El Marco del <a href=\"/mage/flaws/construct\">Constructo</a>)."
+    }
+  },
+  {
+    "id": "chantry-reality-zone",
+    "type": "chantry-trait",
+    "line": "mage",
+    "name_en": "Reality Zone",
+    "name_es": "Zona de Realidad",
+    "body_es": "La fuerza de la Zona de Realidad anclada a la Capilla/[Constructo](/mage/flaws/construct). Este rasgo no puede ser superior a la puntuación de la Capilla/[Constructo](/mage/flaws/construct).\n\nEsto determina la fuerza de la Zona de Realidad establecida en toda la Capilla/[Constructo](/mage/flaws/construct). Incluso un único punto de este Rasgo hace que todos los hechizos y efectos dentro del paradigma de la propietaria sean coincidentes, y los de paradigmas incompatibles, vulgares.\n\nX — Tu Capilla/[Constructo](/mage/flaws/construct) se adhiere a las normas locales de la Realidad.\n· — Tu Ciencia Iluminada/magia es coincidente aquí.\n·· — Los efectos creados según tu paradigma reciben -1 de dificultad.\n··· — Los efectos creados según tu paradigma reciben -1 de dificultad. Los efectos vulgares sufren +1 de dificultad.\n···· — Los efectos creados según tu paradigma reciben -2 de dificultad. Los efectos vulgares sufren +2 de dificultad.\n····· — Los efectos creados según tu paradigma reciben -3 de dificultad. Los efectos vulgares sufren +3 de dificultad.",
+    "tags": [
+      "chantry-trait",
+      "construct"
+    ],
+    "mechanics": {
+      "pool_cost_per_dot": 5,
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/Constructo (Trasfondos: El Marco del Constructo). Zona de Realidad tiene además su propio tope, más estricto y explícito en su propia entrada de la tabla: \"Este rasgo no puede ser superior a la puntuación de la Capilla/Constructo\" (es decir, x1, no x2).",
+      "tier_bands": [
+        {
+          "name_es": "Escondite/Piso Franco Seguro",
+          "points": "10-20 puntos",
+          "core_rulebook_label_es": "Casa ocupada segura"
+        },
+        {
+          "name_es": "Santuario/Oficina Auxiliar Pequeños",
+          "points": "21-30 puntos",
+          "core_rulebook_label_es": "Pequeño santuario"
+        },
+        {
+          "name_es": "Capilla Mística/Constructo Iluminado",
+          "points": "30-70 puntos",
+          "core_rulebook_label_es": "Capilla mística"
+        },
+        {
+          "name_es": "Fortaleza",
+          "points": "71-100 puntos",
+          "core_rulebook_label_es": "Fortaleza"
+        },
+        {
+          "name_es": "Centro de Poder",
+          "points": "101+ puntos",
+          "core_rulebook_label_es": "Centro de poder"
+        }
+      ],
+      "flavor_names": {
+        "tradiciones": "Capilla",
+        "tecnocracia": "Constructo"
+      }
+    },
+    "sources": [
+      {
+        "book_id": "m20-the-operative-dossier",
+        "book_title_es": "The Operative Dossier",
+        "page": null,
+        "section_anchor": "estatus-y-el-constructo",
+        "variant": "base"
+      }
+    ],
+    "related": [
+      "capilla-constructo"
+    ],
+    "mechanics_html": {
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/<a href=\"/mage/flaws/construct\">Constructo</a> (Trasfondos: El Marco del <a href=\"/mage/flaws/construct\">Constructo</a>). Zona de Realidad tiene además su propio tope, más estricto y explícito en su propia entrada de la tabla: &quot;Este rasgo no puede ser superior a la puntuación de la Capilla/<a href=\"/mage/flaws/construct\">Constructo</a>&quot; (es decir, x1, no x2)."
+    }
+  },
+  {
+    "id": "chantry-requisitions",
+    "type": "chantry-trait",
+    "line": "mage",
+    "name_en": "Requisitions",
+    "name_es": "Requerimientos",
+    "body_es": "El nivel máximo de Requerimiento que puede procesarse en el sitio, localmente, en un [Constructo](/mage/flaws/construct) de la Unión. El almacén inmediato, por así decirlo. Esto no limita el acceso individual de un Tecnócrata a [Requerimientos](/mage/backgrounds/requirements) personales, pero si los [Requerimientos](/mage/backgrounds/requirements) personales exceden la disponibilidad del [Constructo](/mage/flaws/construct), la agente debe esperar a que lleguen los materiales solicitados o recogerlos de un lugar seguro.",
+    "tags": [
+      "chantry-trait",
+      "construct"
+    ],
+    "mechanics": {
+      "pool_cost_per_dot": 4,
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/Constructo (Trasfondos: El Marco del Constructo).",
+      "tier_bands": [
+        {
+          "name_es": "Escondite/Piso Franco Seguro",
+          "points": "10-20 puntos",
+          "core_rulebook_label_es": "Casa ocupada segura"
+        },
+        {
+          "name_es": "Santuario/Oficina Auxiliar Pequeños",
+          "points": "21-30 puntos",
+          "core_rulebook_label_es": "Pequeño santuario"
+        },
+        {
+          "name_es": "Capilla Mística/Constructo Iluminado",
+          "points": "30-70 puntos",
+          "core_rulebook_label_es": "Capilla mística"
+        },
+        {
+          "name_es": "Fortaleza",
+          "points": "71-100 puntos",
+          "core_rulebook_label_es": "Fortaleza"
+        },
+        {
+          "name_es": "Centro de Poder",
+          "points": "101+ puntos",
+          "core_rulebook_label_es": "Centro de poder"
+        }
+      ],
+      "flavor_names": {
+        "tradiciones": "Capilla",
+        "tecnocracia": "Constructo"
+      }
+    },
+    "sources": [
+      {
+        "book_id": "m20-the-operative-dossier",
+        "book_title_es": "The Operative Dossier",
+        "page": null,
+        "section_anchor": "estatus-y-el-constructo",
+        "variant": "base"
+      }
+    ],
+    "related": [
+      "capilla-constructo"
+    ],
+    "mechanics_html": {
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/<a href=\"/mage/flaws/construct\">Constructo</a> (Trasfondos: El Marco del <a href=\"/mage/flaws/construct\">Constructo</a>)."
+    }
+  },
+  {
+    "id": "chantry-resources",
+    "type": "chantry-trait",
+    "line": "mage",
+    "name_en": "Resources",
+    "name_es": "Recursos",
+    "body_es": "El dinero disponible y los activos accesibles que la Capilla/[Constructo](/mage/flaws/construct) puede utilizar. Los miembros individuales pueden solicitar acceso a estos fondos a la dirección.",
+    "tags": [
+      "chantry-trait",
+      "construct"
+    ],
+    "mechanics": {
+      "pool_cost_per_dot": 3,
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/Constructo (Trasfondos: El Marco del Constructo).",
+      "tier_bands": [
+        {
+          "name_es": "Escondite/Piso Franco Seguro",
+          "points": "10-20 puntos",
+          "core_rulebook_label_es": "Casa ocupada segura"
+        },
+        {
+          "name_es": "Santuario/Oficina Auxiliar Pequeños",
+          "points": "21-30 puntos",
+          "core_rulebook_label_es": "Pequeño santuario"
+        },
+        {
+          "name_es": "Capilla Mística/Constructo Iluminado",
+          "points": "30-70 puntos",
+          "core_rulebook_label_es": "Capilla mística"
+        },
+        {
+          "name_es": "Fortaleza",
+          "points": "71-100 puntos",
+          "core_rulebook_label_es": "Fortaleza"
+        },
+        {
+          "name_es": "Centro de Poder",
+          "points": "101+ puntos",
+          "core_rulebook_label_es": "Centro de poder"
+        }
+      ],
+      "flavor_names": {
+        "tradiciones": "Capilla",
+        "tecnocracia": "Constructo"
+      }
+    },
+    "sources": [
+      {
+        "book_id": "m20-the-operative-dossier",
+        "book_title_es": "The Operative Dossier",
+        "page": null,
+        "section_anchor": "estatus-y-el-constructo",
+        "variant": "base"
+      }
+    ],
+    "related": [
+      "capilla-constructo"
+    ],
+    "mechanics_html": {
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/<a href=\"/mage/flaws/construct\">Constructo</a> (Trasfondos: El Marco del <a href=\"/mage/flaws/construct\">Constructo</a>)."
+    }
+  },
+  {
+    "id": "chantry-retainers",
+    "type": "chantry-trait",
+    "line": "mage",
+    "name_en": "Retainers",
+    "name_es": "Criados",
+    "body_es": "Estas son las personas que gestionan las operaciones cotidianas de la Capilla/[Constructo](/mage/flaws/construct), como cocinar, limpiar, la colada, etc. No son combatientes, ni son particularmente útiles más allá de su función básica.",
+    "tags": [
+      "chantry-trait",
+      "construct"
+    ],
+    "mechanics": {
+      "pool_cost_per_dot": 2,
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/Constructo (Trasfondos: El Marco del Constructo).",
+      "tier_bands": [
+        {
+          "name_es": "Escondite/Piso Franco Seguro",
+          "points": "10-20 puntos",
+          "core_rulebook_label_es": "Casa ocupada segura"
+        },
+        {
+          "name_es": "Santuario/Oficina Auxiliar Pequeños",
+          "points": "21-30 puntos",
+          "core_rulebook_label_es": "Pequeño santuario"
+        },
+        {
+          "name_es": "Capilla Mística/Constructo Iluminado",
+          "points": "30-70 puntos",
+          "core_rulebook_label_es": "Capilla mística"
+        },
+        {
+          "name_es": "Fortaleza",
+          "points": "71-100 puntos",
+          "core_rulebook_label_es": "Fortaleza"
+        },
+        {
+          "name_es": "Centro de Poder",
+          "points": "101+ puntos",
+          "core_rulebook_label_es": "Centro de poder"
+        }
+      ],
+      "flavor_names": {
+        "tradiciones": "Capilla",
+        "tecnocracia": "Constructo"
+      }
+    },
+    "sources": [
+      {
+        "book_id": "m20-the-operative-dossier",
+        "book_title_es": "The Operative Dossier",
+        "page": null,
+        "section_anchor": "estatus-y-el-constructo",
+        "variant": "base"
+      }
+    ],
+    "related": [
+      "capilla-constructo"
+    ],
+    "mechanics_html": {
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/<a href=\"/mage/flaws/construct\">Constructo</a> (Trasfondos: El Marco del <a href=\"/mage/flaws/construct\">Constructo</a>)."
+    }
+  },
+  {
+    "id": "chantry-spies",
+    "type": "chantry-trait",
+    "line": "mage",
+    "name_en": "Spies",
+    "name_es": "Espías",
+    "body_es": "La Capilla/[Constructo](/mage/flaws/construct) tiene acceso a una red de informantes según se describe en el Trasfondo [Espías](/mage/backgrounds/spies) (Mage 20 p. 325).",
+    "tags": [
+      "chantry-trait",
+      "construct"
+    ],
+    "mechanics": {
+      "pool_cost_per_dot": 2,
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/Constructo (Trasfondos: El Marco del Constructo).",
+      "tier_bands": [
+        {
+          "name_es": "Escondite/Piso Franco Seguro",
+          "points": "10-20 puntos",
+          "core_rulebook_label_es": "Casa ocupada segura"
+        },
+        {
+          "name_es": "Santuario/Oficina Auxiliar Pequeños",
+          "points": "21-30 puntos",
+          "core_rulebook_label_es": "Pequeño santuario"
+        },
+        {
+          "name_es": "Capilla Mística/Constructo Iluminado",
+          "points": "30-70 puntos",
+          "core_rulebook_label_es": "Capilla mística"
+        },
+        {
+          "name_es": "Fortaleza",
+          "points": "71-100 puntos",
+          "core_rulebook_label_es": "Fortaleza"
+        },
+        {
+          "name_es": "Centro de Poder",
+          "points": "101+ puntos",
+          "core_rulebook_label_es": "Centro de poder"
+        }
+      ],
+      "flavor_names": {
+        "tradiciones": "Capilla",
+        "tecnocracia": "Constructo"
+      }
+    },
+    "sources": [
+      {
+        "book_id": "m20-the-operative-dossier",
+        "book_title_es": "The Operative Dossier",
+        "page": null,
+        "section_anchor": "estatus-y-el-constructo",
+        "variant": "base"
+      }
+    ],
+    "related": [
+      "capilla-constructo"
+    ],
+    "mechanics_html": {
+      "cap_rule": "Ningún Rasgo individual puede tener una puntuación superior al doble de la puntuación de la Capilla/<a href=\"/mage/flaws/construct\">Constructo</a> (Trasfondos: El Marco del <a href=\"/mage/flaws/construct\">Constructo</a>)."
     }
   },
   {
