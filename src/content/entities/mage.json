@@ -42269,5 +42269,60 @@
       }
     ],
     "mechanics": {}
+  },
+  {
+    "id": "betrayal-of-the-burning-arrow",
+    "type": "rote",
+    "line": "mage",
+    "name_en": "Betrayal of the Burning Arrow",
+    "name_es": "Traición de la Flecha Ardiente",
+    "body_es": "La supremacía de la Tecnocracia en los campos de batalla físicos de la Guerra de la Ascensión se debe a una sola cosa: las [armas](/mage/instruments/weapons) de fuego. Incluso el Maestro más poderoso puede caer abatido por una bala bien colocada. La Orden nunca ha estado dispuesta a encajar semejante castigo sin más, pero la mayoría de los agentes tecnócratas son lo bastante inteligentes como para proteger sus [armas](/mage/instruments/weapons) contra la manipulación mística. Así, algunos de los pensadores más retorcidos de la Casa Flambeau han urdido la Traición de la Flecha Ardiente, que convierte la bala alojada en la recámara de un arma en una trampa mortal. Al romper una punta de flecha de vidrio o cristal grabada con el glifo enoquiano del número ocho (un número de mal agüero), el mago emplea una percepción básica de Correspondencia para fijarse en la bala que se encuentra en ese momento en la recámara de un arma que esté en su línea de visión. Las artes de Fuerzas transforman en calor cualquier [energía](/mage/instruments/energy) cinética que esté a punto de actuar sobre esa bala, lo que por lo general provoca que el arma estalle en llamas al apretar el gatillo y, a menudo, que las demás balas que queden en el arma exploten, detonando el arma en la mano de quien la empuña.\n\n**Sistema:** La Traición de la Flecha Ardiente inflige daño como un ataque normal de Fuerzas y, en el proceso, destruye el arma utilizada para disparar la bala afectada. No obstante, el Narrador puede dictaminar que un arma en su último disparo inflija menos daño, mientras que una ametralladora con el cargador lleno puede infligir bastante más. Esta fórmula suele ser coincidente.",
+    "tags": [
+      "orden-de-hermes",
+      "casa-flambeau",
+      "formula"
+    ],
+    "mechanics": {
+      "spheres": "Correspondencia •, Fuerzas •••",
+      "coincidental": true,
+      "damage": "Como un ataque normal de Fuerzas; destruye el arma que dispara la bala afectada"
+    },
+    "sources": [
+      {
+        "book_id": "order-of-hermes-revised",
+        "book_title_es": "Libro de la Orden de Hermes revisado",
+        "page": null,
+        "section_anchor": "traicion-de-la-flecha-ardiente",
+        "variant": "base"
+      }
+    ]
+  },
+  {
+    "id": "wildfire",
+    "type": "rote",
+    "line": "mage",
+    "name_en": "Wildfire",
+    "name_es": "Fuego Descontrolado",
+    "body_es": "Otra innovación de los obradores de voluntad militantes de la Casa Flambeau, Fuego Descontrolado permite a un mago empezar con una chispa y acabar rápidamente con una conflagración. Prendiendo un fuego en la intersección de dos pentáculos entrelazados —uno de Marte y otro de Plutón—, el mago obliga a la llama a viajar por los hilos concretos del [destino](/mage/backgrounds/destiny) que hacen que crezca de la forma más rápida y eficiente posible: el viento sopla en la dirección adecuada, una chispa salta al material más inflamable que haya a mano, un chapoteo de agua simplemente esparce las brasas ardientes en todas direcciones, etc. Para magos excepcionalmente poderosos existe la opción de usar sin más Materia 5 (a menudo enfocada a través de algún tipo de aceite preparado alquímicamente o de un pentáculo de Júpiter) para aumentar la inflamabilidad de todos los materiales de las inmediaciones hasta el punto de la combustión explosiva, logrando así este mismo Efecto. Quienes disponen de medios menos grandiosos pueden emplear focos similares para transformar materiales básicos (como suelos de baldosas, vidrio y [piedra](/mage/weapons/piedra)), mediante Materia 2, Fuerzas 2, en sustancias más fácilmente combustibles en cuanto las tocan las llamas.\n\n**Sistema:** Solo se requiere un éxito para que este Efecto funcione, pero un gran número de éxitos puede hacer que incluso la llama de un mechero desemboque en un infierno arrasador en unos cinco turnos (o menos si uno se encuentra en un depósito de combustible, un aserradero o una fábrica de papel, por ejemplo). De hecho, esta fórmula resulta en ocasiones tan eficaz que no deja a quien la [lanza](/mage/weapons/lanza) tiempo suficiente para escapar. Ah, la vida de un Flambeau… A menos que se ejecute de una manera grandiosa y llamativa, poco en esta fórmula sugiere de inmediato una manipulación sobrenatural, por lo que suele ser coincidente.",
+    "tags": [
+      "orden-de-hermes",
+      "casa-flambeau",
+      "formula"
+    ],
+    "mechanics": {
+      "spheres": "Entropía ••, Fuerzas ••",
+      "coincidental": true,
+      "one_success": "Basta un solo éxito para iniciar el Efecto; muchos éxitos pueden convertir una llama menor en un infierno en unos cinco turnos (menos en un entorno muy inflamable).",
+      "special": "Alternativas de foco: Materia 5 para inflamabilidad explosiva en la zona, o Materia 2 · Fuerzas 2 para volver combustibles materiales básicos al contacto con el fuego."
+    },
+    "sources": [
+      {
+        "book_id": "order-of-hermes-revised",
+        "book_title_es": "Libro de la Orden de Hermes revisado",
+        "page": null,
+        "section_anchor": "fuego-descontrolado",
+        "variant": "base"
+      }
+    ]
   }
 ]
