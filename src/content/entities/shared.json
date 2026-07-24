@@ -5197,7 +5197,7 @@
     "line": "shared",
     "name_en": "Lucid Dreaming",
     "name_es": "Sueño Lúcido",
-    "body_es": "La mayoría de la gente flota entre los sueños sin ninguna sensación de control. Tú no. Cuando eliges imponerte en las tierras oníricas, puedes alterar el tono de un sueño, cambiar los lugares, enfrentarte a las pesadillas de frente o incluso construir sueños de tu elección. En términos de juego, este Talento te deja manipular tus alrededores en un sueño (Percepción + Sueño Lúcido, dificultad 6), moldear nuevas estructuras (dificultad 8) o tomar un control total de ese sueño y tu lugar en él (dificultad 9). También puedes usarlo para dirigir meditaciones conscientes (dificultades 5, 7 y 8 respectivamente); si estás meditando o soñando sobre un [enigma](/shared/archetypes/enigma) concreto, tus éxitos (tras despertar) cuentan como si fueran de una tirada de Enigmas. Con práctica, puedes hasta crear un Trasfondo Heredad que encaje con tu temperamento.\n\nNiveles: • Novato: Eres consciente de tus sueños y puedes recordarlos si quieres. •• Ejercitado: Puedes intentar soñar un sueño concreto. ••• Talentoso: Tienes algún control sobre tus sueños. •••• Experto: Sabes cómo influir e interpretar sueños y aspectos de tu yo interior. ••••• Maestro: Entiendes los elementos metafísicos de los sueños y puedes manipularlos, recordarlos, inspirarlos o compartirlos a voluntad.\n\nPoseído por: Chamanes, brujas, artistas, sabios, filósofos, investigadores oníricos, Merodeadores, artistas marciales, gente con sangre feérica, la policía onírica.\n\nEspecialidades sugeridas: Control Onírico, Despertar de Pesadillas, Enigmas Desconcertantes, Búsquedas de Visiones, Presagios, Combate Onírico, Heredades.",
+    "body_es": "La mayoría de la gente flota entre los sueños sin ninguna sensación de control. Tú no. Cuando eliges imponerte en las tierras oníricas, puedes alterar el tono de un sueño, cambiar los lugares, enfrentarte a las [pesadillas](/shared/derangements/pesadillas-trastorno) de frente o incluso construir sueños de tu elección. En términos de juego, este Talento te deja manipular tus alrededores en un sueño (Percepción + Sueño Lúcido, dificultad 6), moldear nuevas estructuras (dificultad 8) o tomar un control total de ese sueño y tu lugar en él (dificultad 9). También puedes usarlo para dirigir meditaciones conscientes (dificultades 5, 7 y 8 respectivamente); si estás meditando o soñando sobre un [enigma](/shared/archetypes/enigma) concreto, tus éxitos (tras despertar) cuentan como si fueran de una tirada de Enigmas. Con práctica, puedes hasta crear un Trasfondo Heredad que encaje con tu temperamento.\n\nNiveles: • Novato: Eres consciente de tus sueños y puedes recordarlos si quieres. •• Ejercitado: Puedes intentar soñar un sueño concreto. ••• Talentoso: Tienes algún control sobre tus sueños. •••• Experto: Sabes cómo influir e interpretar sueños y aspectos de tu yo interior. ••••• Maestro: Entiendes los elementos metafísicos de los sueños y puedes manipularlos, recordarlos, inspirarlos o compartirlos a voluntad.\n\nPoseído por: Chamanes, brujas, artistas, sabios, filósofos, investigadores oníricos, Merodeadores, artistas marciales, gente con sangre feérica, la policía onírica.\n\nEspecialidades sugeridas: Control Onírico, Despertar de [Pesadillas](/shared/derangements/pesadillas-trastorno), Enigmas Desconcertantes, Búsquedas de Visiones, Presagios, Combate Onírico, Heredades.",
     "tags": [
       "talento-secundario"
     ],
@@ -6630,5 +6630,109 @@
       }
     ],
     "related": []
+  },
+  {
+    "id": "voto",
+    "type": "flaw",
+    "line": "shared",
+    "name_en": "Vow",
+    "name_es": "Voto",
+    "body_es": "Has hecho un juramento solemne que tu conciencia (o tu fe, tu código de honor o tu palabra dada) no te permite quebrantar: no matar jamás a un ser humano, no mentir nunca, guardar castidad, no beber sangre inocente, servir a un señor concreto… El voto restringe tus opciones en momentos críticos y otros pueden explotarlo para manipularte. El valor del Defecto depende de lo limitante que sea la promesa: un voto menor de circunstancias concretas vale 1 punto, mientras que un juramento absoluto que gobierna toda tu existencia (por ejemplo, 'nunca matar a un humano') vale hasta 7. Romper el voto suele acarrear la pérdida de Fuerza de Voluntad, de Fe Verdadera o del favor sobrenatural asociado.",
+    "tags": [
+      "social"
+    ],
+    "mechanics": {
+      "bonus": "1-7",
+      "category": "social",
+      "note": "Valor variable según lo limitante del voto (1 menor … 7 absoluto)."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "voto",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "enfermedad-terminal",
+    "type": "flaw",
+    "line": "shared",
+    "name_en": "Terminal Illness",
+    "name_es": "Enfermedad Terminal",
+    "body_es": "Padeces una enfermedad incurable y mortal —un cáncer avanzado, una insuficiencia orgánica, una dolencia degenerativa— que te está matando lentamente. Tu tiempo se agota y el Narrador lleva un 'reloj' de tu deterioro: fatiga creciente, dolor, hospitalizaciones y, en fases avanzadas, penalizaciones a las reservas físicas. Vives contra el reloj, lo que da a tu historia una urgencia trágica pero también te vuelve vulnerable. Este Defecto no es una simple herida: es una sentencia. El valor refleja lo avanzada que está la enfermedad (una dolencia manejable durante años vale menos que una fase terminal con meses de vida).",
+    "tags": [
+      "physical"
+    ],
+    "mechanics": {
+      "bonus": "5",
+      "category": "physical",
+      "note": "Reloj de deterioro llevado por el Narrador; en fases avanzadas penaliza reservas físicas. Stand-in mecánico para conceptos como el cáncer terminal de Hu Jian."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "enfermedad-terminal",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "pesadillas-trastorno",
+    "type": "derangement",
+    "line": "shared",
+    "name_en": "Nightmares",
+    "name_es": "Pesadillas",
+    "body_es": "Sufres pesadillas vívidas y recurrentes que perturban tu descanso y, a veces, se cuelan en tu vigilia como visiones inquietantes. Revives traumas, ves horrores o te persiguen los rostros de aquellos a los que fallaste o mataste. Cada noche puede negarte el descanso reparador; en los peores episodios, al despertar debes superar una tirada de Fuerza de Voluntad para distinguir el sueño de la realidad o para no comenzar la jornada exhausto y con la reserva de dados mermada. A diferencia del Defecto de puntos, esta versión modela las Pesadillas como un trastorno psicológico persistente (por ejemplo, para un cazador atormentado por lo que ha visto).",
+    "tags": [
+      "trastorno"
+    ],
+    "mechanics": {
+      "category": "mental",
+      "note": "Forma de trastorno (derangement) de las Pesadillas; el Defecto de puntos homónimo existe por línea (pesadillas)."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "pesadillas",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "culpa-del-superviviente",
+    "type": "derangement",
+    "line": "shared",
+    "name_en": "Survivor's Guilt",
+    "name_es": "Culpa del Superviviente",
+    "body_es": "Sobreviviste cuando otros no lo hicieron —una masacre, un accidente, una guerra, la Primera Metamorfosis en la que fuiste el único que quedó en pie— y una parte de ti cree que no lo merecías. Cargas con un peso que nada disipa: te castigas por seguir vivo, te aíslas de quienes podrían acercarse y, en los momentos que evocan la pérdida, quedas paralizado por el recuerdo o te lanzas a riesgos autodestructivos para 'igualar la cuenta'. En términos de juego funciona como un trastorno: ante desencadenantes ligados a la tragedia, el personaje puede necesitar una tirada de Fuerza de Voluntad para actuar con normalidad en vez de sucumbir a la culpa o a la temeridad.",
+    "tags": [
+      "trastorno"
+    ],
+    "mechanics": {
+      "category": "mental",
+      "note": "Trastorno de estrés/culpa asociado a supervivencia traumática; emparejable con TEPT (tept)."
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "page": null,
+        "section_anchor": "culpa-del-superviviente",
+        "variant": "base"
+      }
+    ],
+    "related": [
+      "tept"
+    ]
   }
 ]
