@@ -2566,7 +2566,7 @@
     "line": "shared",
     "name_en": "Typhoon Kick",
     "name_es": "Patada tifón",
-    "body_es": "",
+    "body_es": "La patada tifón, probablemente el ataque más devastador del arsenal de técnicas Akáshicas, reúne chi, impulso y concentración máxima en un [golpe](/shared/maneuvers/strike) capaz de hacer añicos la piedra y matar a la mayoría de los seres humanos. Como sucede con la maniobra de artes marciales [Patada](/shared/maneuvers/kick) trueno, requiere concentración absoluta y no puede realizarse más de una vez cada cinco turnos. Quien la emplea elige si causa daño contundente o letal. Si la dirige contra un objeto sólido (un coche, un muro, un elemental de piedra, etc.) o contra un personaje que logra absorber todo el daño, deberá pasar una tirada de absorción o sufrir él mismo la mitad del daño (redondeando hacia abajo); superar la tirada significa que no sufre daño.",
     "tags": [
       "brawl",
       "standard"
@@ -2606,7 +2606,7 @@
     "line": "shared",
     "name_en": "Weapon Art",
     "name_es": "Arte de las armas",
-    "body_es": "",
+    "body_es": "Un devoto puede usar ciertas armas con brillante eficiencia aplicando su maestría en Do al armamento de combate cuerpo a cuerpo. El personaje obtiene un arma con la que está familiarizado por cada punto que posea en Pelea con Armas, y la dificultad de usar esas armas se reduce en 1. Si el arma normalmente causa daño contundente, el Akáshico puede infligir daño letal. También puede emplear la técnica [Desviar flechas](/shared/maneuvers/arrow-cutting) con esas armas, aunque no puede usar un arma para agarrar proyectiles. Para poder emplear esta técnica, el devoto debe poseer una reserva de Destreza + Do igual o mayor que la de Destreza + Pelea con Armas. La técnica no se aplica a las armas de fuego, pero sí puede usarse con arcos o armas arrojadizas.",
     "tags": [
       "brawl",
       "standard"
@@ -2615,6 +2615,9 @@
       "category": "brawl",
       "tier": "standard",
       "applies_to": "shared",
+      "roll": "Según el ataque",
+      "difficulty": "N/A",
+      "damage": "Especial, ver descripción",
       "style": "do",
       "prerequisites": [],
       "budget_class": "do-special"
