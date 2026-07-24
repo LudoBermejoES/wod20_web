@@ -3629,6 +3629,38 @@
     }
   },
   {
+    "id": "time-dilation-bullet-time",
+    "type": "rote",
+    "line": "mage",
+    "name_en": "Time Dilation / Bullet Time",
+    "name_es": "Tiempo Bala",
+    "body_es": "Uno de los trucos de combate más útiles a disposición de un mago implica usar Tiempo 3 para acelerarse a sí mismo o ralentizar a su oponente. Al trabajar con el fenómeno que retuerce la percepción del tiempo bajo presión, el mago dilata las fuerzas temporales próximas. En términos narrativos, esto se entiende como el efecto «tiempo bala» que hizo famoso The Matrix y sus muchos imitadores.\n\n**Sistema:** Implica acciones adicionales para el mago — una acción adicional por cada 2 éxitos obtenidos. Invertida (y «adjuntada» al personaje mediante Correspondencia 2 o Vida 3), la dilatación temporal puede eliminar acciones de un oponente al mismo ritmo. Sin «adjuntarla», el mago simplemente puede acelerar o ralentizar toda la zona; de ahí invocar el «tiempo bala». Si el mago acelera o ralentiza el tiempo más de tres acciones por turno (o tres turnos por acción), todos estos Efectos se vuelven Magia vulgar.",
+    "tags": [
+      "tiempo",
+      "artes-marciales",
+      "formula"
+    ],
+    "mechanics": {
+      "spheres": "Tiempo •••",
+      "variantes": "Invertida y «adjuntada» al objetivo mediante Correspondencia ·· o Vida ···",
+      "efecto": "Una acción adicional por cada 2 éxitos (o elimina acciones del oponente al mismo ritmo, si se adjunta)",
+      "coincidental": true,
+      "vulgaridad": "Coincidente hasta 3 acciones extra por turno (o 3 turnos por acción); vulgar por encima"
+    },
+    "sources": [
+      {
+        "book_id": "m20-como-haces-eso-es",
+        "book_title_es": "Cómo haces eso",
+        "page": null,
+        "section_anchor": "dilatacion-temporal-tiempo-bala",
+        "variant": "base"
+      }
+    ],
+    "related": [
+      "bullet-time"
+    ]
+  },
+  {
     "id": "lightsaber",
     "type": "sphere-effect",
     "line": "mage",
@@ -8992,7 +9024,7 @@
     "line": "mage",
     "name_en": "Time Dilation / Bullet Time",
     "name_es": "Dilatación temporal / tiempo bala",
-    "body_es": "Uno de los trucos de combate más útiles: usar Tiempo 3 para acelerarse a sí mismo o ralentizar a su oponente, dilatando las fuerzas temporales próximas. En términos narrativos, el efecto 'tiempo bala' de The Matrix.\n\n**Sistema:** Implica una acción adicional para el mago por cada 2 éxitos obtenidos. Invertida (y 'adjuntada' al personaje mediante Correspondencia 2 o Vida 3), puede eliminar acciones de un oponente al mismo ritmo. Sin 'adjuntarla', el mago acelera o ralentiza toda la zona. Si el mago acelera o ralentiza el tiempo más de tres acciones por turno (o tres turnos por acción), todos estos Efectos se vuelven Magia vulgar.",
+    "body_es": "Uno de los trucos de combate más útiles: usar Tiempo 3 para acelerarse a sí mismo o ralentizar a su oponente, dilatando las fuerzas temporales próximas. En términos narrativos, el efecto '[tiempo bala](/mage/rotes/time-dilation-bullet-time)' de The Matrix.\n\n**Sistema:** Implica una acción adicional para el mago por cada 2 éxitos obtenidos. Invertida (y 'adjuntada' al personaje mediante Correspondencia 2 o Vida 3), puede eliminar acciones de un oponente al mismo ritmo. Sin 'adjuntarla', el mago acelera o ralentiza toda la zona. Si el mago acelera o ralentiza el tiempo más de tres acciones por turno (o tres turnos por acción), todos estos Efectos se vuelven Magia vulgar.",
     "tags": [
       "artes-marciales",
       "tiempo"
@@ -17555,7 +17587,10 @@
         "section_anchor": "contraccion-o-dilatacion-temporal-tiempo-bala-rebobinar-el-tiempo",
         "variant": "base"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "effect": "Contracción o dilatación temporal / &#x27;<a href=\"/mage/rotes/time-dilation-bullet-time\">Tiempo Bala</a>&#x27; / Rebobinar el tiempo"
+    }
   },
   {
     "id": "time-4",
