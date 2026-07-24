@@ -568,7 +568,7 @@
     "line": "hunter",
     "name_en": "Paranoico",
     "name_es": "Paranoico",
-    "body_es": "Demasiados años en el negocio de la inteligencia significa que tú sabes que es sólo paranoia cuando no hay nadie ahí fuera intentando atraparte. Sospechas de todo y de todos. Pedirías refuerzos pero, ¿cómo puedes estar seguro de que ellos no forman también parte del asunto? Encuentras detalles inocuos, cada uno de los cuales proporciona más pruebas de una conspiración contra ti. Suma uno a la dificultad de todas las tiradas de interacciones sociales.",
+    "body_es": "Demasiados años en el negocio de la inteligencia significa que tú sabes que es sólo [paranoia](/hunter/derangements/paranoia) cuando no hay nadie ahí fuera intentando atraparte. Sospechas de todo y de todos. Pedirías refuerzos pero, ¿cómo puedes estar seguro de que ellos no forman también parte del asunto? Encuentras detalles inocuos, cada uno de los cuales proporciona más pruebas de una conspiración contra ti. Suma uno a la dificultad de todas las tiradas de interacciones sociales.",
     "tags": [
       "físico"
     ],
@@ -1915,7 +1915,7 @@
     "line": "hunter",
     "name_en": "Espada de cruzado",
     "name_es": "Espada de cruzado",
-    "body_es": "Con el paso de los siglos, cierto número de espadas se han convertido en reliquias al servicio de los cazadores de monstruos. Sostener en alto su empuñadura de forma invertida cuenta como un símbolo sagrado (para aquéllos que veneran la cruz de los cristianos) y las tiradas de [Fe Verdadera](/hunter/numens/fe-verdadera) obtienen un dado adicional contra lo sobrenatural. La espada también causa daño agravado a los objetivos sobrenaturales. Por último, mientras se esté en contacto con la espada, el portador gana el Mérito Voluntad de Hierro si no lo posee ya ( V20 , pág. 485). Las mecánicas para las espadas pueden consultarse en el V20 , pág. 280 (estos sables causan Fuerza + 5 de daño y tienen una ocultación N).",
+    "body_es": "Con el paso de los siglos, cierto número de espadas se han convertido en reliquias al servicio de los cazadores de monstruos. Sostener en alto su empuñadura de forma invertida cuenta como un símbolo sagrado (para aquéllos que veneran la cruz de los cristianos) y las tiradas de [Fe Verdadera](/hunter/numens/fe-verdadera) obtienen un dado adicional contra lo sobrenatural. La espada también causa daño agravado a los objetivos sobrenaturales. Por último, mientras se esté en contacto con la espada, el portador gana el Mérito [Voluntad de Hierro](/hunter/merits/voluntad-de-hierro) si no lo posee ya ( V20 , pág. 485). Las mecánicas para las espadas pueden consultarse en el V20 , pág. 280 (estos sables causan Fuerza + 5 de daño y tienen una ocultación N).",
     "tags": [
       "reliquia"
     ],
@@ -1979,6 +1979,921 @@
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "las-llaves-de-leopoldo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "adiccion",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Adicción",
+    "name_es": "Adicción",
+    "body_es": "Eres adicto a alguna actividad o sustancia que interfiere hasta cierto punto con tu vida diaria. Quizá desees sexo, bebas sin parar o no puedas dejar de jugar videojuegos. Cualquiera que sea la adicción, te lleva a extremos irracionales y posiblemente peligrosos. Después de todo, un hábito inocuo no es verdaderamente un Defecto.\n\nEl valor de este Defecto depende de los riesgos de la adicción. La necesidad de algo trivial (juegos, tabaco, redes sociales) vale un punto, pero un viaje para hacerse con algo ilegal, peligroso o ambas cosas (cocaína, clubes de lucha, pornografía infantil, etc.) vale tres puntos. Las adicciones severas además dan una sensación de bajeza moral y pueden causar dificultades sociales aparte de los costes financieros, legales, físicos y/o psicológicos del hábito. El Defecto puede tener cualquier origen (prácticas Extáticas, neurosis, compulsiones físicas, etc.) que inspiren una profunda dependencia de algo problemático.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "bonus": "1 o 3",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "m20-core-rulebook-es",
+        "page": null,
+        "section_anchor": "adiccion",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "adiccion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "afortunado",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Afortunado",
+    "name_es": "Afortunado",
+    "body_es": "Le gustas a la Dama Fortuna. Como resultado, puedes repetir una tirada fallida (fracasos incluidos) hasta tres veces por historia ( no por sesión ). Cada nueva oportunidad sólo puede repetirse una vez, así que no fuerces demasiado tu suerte.",
+    "tags": [
+      "sobrenatural"
+    ],
+    "mechanics": {
+      "cost": "3",
+      "category": "sobrenatural"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "afortunado",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "aptitud-mecanica",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Aptitud Mecánica",
+    "name_es": "Aptitud Mecánica",
+    "body_es": "¡Oh, tecnófilo! Has sido bendecido por los dioses de las máquinas y tienes mano para las cosas mecánicas. Como con la mayoría de Méritos de este tipo, tal aptitud te permite reducir la dificultad en 2 cuando hagas tiradas que involucren trabajar con tecnología mecánica. No, no es necesario que seas un tecnomante para usar tal don, mucho menos un miembro de la Tecnocracia; aun así, esta aptitud sugiere que la tecnología mecánica tiene un gran significado para ti, lo que por extensión sugiere que tu paradigma, práctica e instrumentos tienen algo que ver con aplicaciones de principios mecánicos y tecnología. Para algunas sugerencias, ver los paradigmas Un Cosmos Mecánico , La Tecnología Tiene Todas las Respuestas y Todo Es Datos en Mago 20 , pág. 568-570 ,\n\nasí como las prácticas e instrumentos relacionados y el material relacionado en el Capítulo Tres de este libro. Para más aplicaciones prácticas de este Mérito, ver la sección de Mago 20 concerniente al El mundo tecnológico , pág. 458-464 .\n\n<!-- image -->",
+    "tags": [
+      "mental"
+    ],
+    "mechanics": {
+      "cost": "1",
+      "category": "mental"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "aptitud-mecanica",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "calculador-relampago",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Calculador Relámpago",
+    "name_es": "Calculador Relámpago",
+    "body_es": "Tu cabeza es una calculadora de impresionante capacidad. Con sólo pensar unos momentos, puedes realizar intrincadas proezas matemáticas; un talento útil para magos Herméticos, operativos del Sindicato, ingenieros Iluminados y otros magos que emplean matemáticas y geometría en su trabajo.\n\nA nivel de reglas, este Mérito permite reducir en 2 la dificultad de las tiradas basadas en cálculos y matemáticas. Los cálculos simples no requieren tiempo en absoluto, mientras que los problemas sofisticados pueden exigir un turno o más. Obviamente, tu personaje necesita tener acceso a los datos adecuados antes de hacer los cálculos… si son una mierda, los cálculos también lo serán, ¡así que asegúrate de tener los datos correctos!\n\nPara posibles aplicaciones de las matemáticas en la Magia, ver los instrumentos círculos y diseños geométricos , dinero y riqueza , fórmulas y matemáticas y números y numerología en Mago 20 , pág. 590-599 , así como las prácticas Alta Magia Ritual e hipereconomía ( pág. 573-574 ) y hackeo de la realidad e hipertecnología ( pág. 580-581 ). Recuerda que los Méritos no pueden reducir la dificultad de una tirada para realizar Magia por debajo de la dificultad mínima o más allá de -3. Dicho esto, los cálculos rápidos y ajustados son ayudas útiles cuando estás usando habilidades mundanas y Efectos Mágicos , como se describe en el epígrafe homónimo ( Mago 20 , pág. 532-534 ). Dependiendo de la tarea en cuestión, podría emplearse una tirada de Inteligencia + Academicismo para determinar la mayoría de cálculos, Percepción + Academicismo para discernir probabilidades o dimensiones geométricas y Astucia + Academicismo para hacer estimaciones rápidas con sólo los datos más básicos.",
+    "tags": [
+      "mental"
+    ],
+    "mechanics": {
+      "cost": "1",
+      "category": "mental"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "calculador-relampago",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "cara-de-poquer",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Cara de Póquer",
+    "name_es": "Cara de Póquer",
+    "body_es": "Nada te inquieta. Nada. La emergencia de un anciano titán de las profundidades del espacio podría provocar que torcieras el gesto preocupado, pero nada más. Oh, esto no significa que no sientas nada (eso es el Defecto Mental [Gélido](/hunter/flaws/gelido) , más adelante); pero tu rictus inexpresivo, tus ojos vacíos y tu tono de voz plano no revelan nada de tus pensamientos o intenciones…, lo cual puede ser desconcertante para la gente con la que tratas; reduce la dificultad de las tiradas de intimidación, subterfugio y resistencia a la intimidación en 2 al tiempo que sumas 2 a la dificultad de cualquiera que trate de hacerte enfadar o irritarte, incluyendo los intentos de leerte, seducirte, torturarte o atravesar de alguna otra forma tu cara de póquer.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "2",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "cara-de-poquer",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "codigo-de-honor",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Código de Honor",
+    "name_es": "Código de Honor",
+    "body_es": "Estás guiado por un fuerte sentido de la ética y sigues un estándar de conducta particular. Podría ser un código de honor militar, un credo religioso, la ley de una compañía concreta a la que perteneces o quizás tu núcleo moral personal. Independientemente de su origen, este código guía tus decisiones, da forma a tus actividades y a veces te fuerza a tomar decisiones difíciles a las que gente menos ética nunca se enfrentaría.\n\nGracias a ese código, tu personaje adquiere dos dados adicionales en todas las tiradas de Fuerza de Voluntad cuando actúa de acuerdo con su código de honor o cuando resiste alguna tentación o [compulsión](/hunter/flaws/compulsion) que podría hacerle traicionar ese código. Obviamente, deberías determinar con tu Narrador los principios concretos de este código durante la creación del personaje. Si no honras ese código, probablemente perderás el Mérito… y también caerás en desgracia entre otros que conozcan y respeten tus votos.",
+    "tags": [
+      "mental"
+    ],
+    "mechanics": {
+      "cost": "2",
+      "category": "mental"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "codigo-de-honor",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "compulsion",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Compulsión",
+    "name_es": "Compulsión",
+    "body_es": "Un tic mental casi reflejo te empuja a comportamientos compulsivos, a menudo subconscientes. En algunos casos, especialmente entre los magos, estos comportamientos se manifiestan como actividades rituales: lavarse las manos, acicalarse de forma obsesiva, realizar una tarea siempre exactamente de la misma forma, etc. Otras compulsiones inspiran hábitos molestos (tararear, hacer pedorretas con la boca, hablar a voces sin querer, etc.) o actividades potencialmente dañinas como robar en tiendas, darse al juego o tirarle los trastos a todo lo que se menea, lo cual puede manifestarse bajo estrés (una compulsión realmente dañina podría considerarse un Trastorno ).\n\nLas compulsiones menores tienden a racionalizarse, ' ella es así '. Aun así, si quieres que tu personaje evite una compulsión seria, debes gastar 1 punto de Fuerza de Voluntad para desalentar ese comportamiento durante algún tiempo. Sin embargo, una vez que ha pasado ese corto tiempo (a discreción del Narrador) tú personaje se ve impelido de nuevo a realizar esa actividad… a menos que gastes otro punto de Fuerza de Voluntad para reprimirlo otro poco más.",
+    "tags": [
+      "mental"
+    ],
+    "mechanics": {
+      "bonus": "1",
+      "category": "mental"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "compulsion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "conductor-experto",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Conductor Experto",
+    "name_es": "Conductor Experto",
+    "body_es": "Naciste para conducir como un demonio allá donde la carretera te lleve. La dificultad de todas tus tiradas de conducción se reduce en 2.",
+    "tags": [
+      "mental"
+    ],
+    "mechanics": {
+      "cost": "1",
+      "category": "mental"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "conductor-experto",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "conectado-socialmente",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Conectado Socialmente",
+    "name_es": "Conectado Socialmente",
+    "body_es": "Bien Conectado en Internet (como en el Mérito homónimo de los Adeptos Virtuales), disfrutas de un alto perfil en línea: una web, al menos un blog, más seguidores en Twitter y amigos en Facebook de los que posiblemente podrías conocer en el carnespacio, etc. Cuando publicas, la gente lee, comparte y se lo toma en serio. Aunque esto podría trasladarse o no a la gente que conoces en la Red Digital (¿en serio quieres saberlo ?), posees una influencia global en la Red. Como resultado, tienes la clase de influencia y [recursos](/hunter/backgrounds/resources) que la mayoría de la gente ni siquiera puede imaginar: gente que apoya tus campañas de financiación colectiva, información instantánea, lugares donde dormir por todo el mundo si quisieras… los detalles dependen de la clase de presencia que mantengas y la gente a la que atraigas, pero van más allá de cualquier cosa que podrías lograr sin Internet.\n\nPor supuesto, podrías joder las cosas a gran escala si no eres cuidadoso, tal atención puede volverse en tu contra si publicas algo incorrecto en el momento equivocado y ciertos haters te odian por principio. Aunque teniendo en cuenta que Internet es el principal frente de las guerras por la realidad del siglo xxi , esta clase de red puede proporcionar una gran ventaja a tu bando.",
+    "tags": [
+      "social"
+    ],
+    "mechanics": {
+      "cost": "2",
+      "category": "social"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "conectado-socialmente",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "consciencia-psiquica",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Consciencia Psíquica",
+    "name_es": "Consciencia Psíquica",
+    "body_es": "Aunque no tengas poderes psíquicos propios, puedes percibir la presencia de energías psíquicas recientes en una zona cercana (un radio de unos 3 metros) con una tirada de Percepción + Ocultismo (dificultad 8). La cantidad de información que obtienes y su nivel de detalle dependen de tus éxitos. Un único éxito podría simplemente confirmar que un talento psíquico ha estado actuando recientemente, mientras que cinco o más podrían permitirte captar la sensación persistente de un psíquico talentoso que estuvo allí, su fuerza, su estado de ánimo y sus planes en el momento en que pasó por ese lugar.",
+    "tags": [],
+    "mechanics": {
+      "cost": "3"
+    },
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "m20-sorcerer",
+        "page": null,
+        "section_anchor": "consciencia-psiquica",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "corpulento",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Corpulento",
+    "name_es": "Corpulento",
+    "body_es": "Eres mucho más grande de lo habitual (posiblemente más de 2,10 metros o 7 pies de altura y/o 180 kilos o 400 libras de peso). La gente así de grande destaca en una multitud y tiene difícil 'encajar' en un mundo hecho para seres humanos más pequeños. Aun así, la gran constitución de tu personaje le concede un nivel de Salud adicional que cuenta como un nivel Magullado adicional en lo que se refiere a penalizaciones por heridas. Si cambia de forma a una de menor tamaño con Magia de Vida, ese nivel de Salud adicional desaparece. Sin embargo, en su forma normal, es bastante imponente y duro de batir.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "4",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "corpulento",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "curiosidad",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Curiosidad",
+    "name_es": "Curiosidad",
+    "body_es": "¡Simplemente no puedes resistirte a un buen misterio! Un irritante sentido de la curiosidad te empuja a toda clase de situaciones complicadas. Dadas tus habilidades, tienes bastantes posibilidades de descubrir cosas… lo cual, especialmente en el Mundo de Tinieblas, no es algo demasiado sano. ¿En cualquier caso, no es eso algo típico de un mago?\n\nCuando te enfrentes a una pista tentadora o a una circunstancia enigmática, haz una tirada de Astucia para evitar caer en la tentación. La dificultad de la tirada depende de la situación; un misterio casual (como la identidad de la intrigante chica tras el mostrador de Starbucks) sería dificultad 5, mientras que resistirse a un misterio más emocionante (como la identidad de quién dejó una docena de rosas en tu Capilla) tendría dificultad 9. Una vez estás tras el rastro, pocas cosas salvo una amenaza mortal te detendrán… y esa amenaza mortal podría simplemente alentarte a escarbar aún más.",
+    "tags": [
+      "mental"
+    ],
+    "mechanics": {
+      "bonus": "2",
+      "category": "mental"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "curiosidad",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "deudas",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Deudas",
+    "name_es": "Deudas",
+    "body_es": "Los magos aún necesitan dinero para funcionar en el reino humano. Y en tu caso estás algo jodido financieramente: préstamos estudiantiles, deudas de la tarjeta de crédito, pagos de manutención alimenticia, pérdidas en apuestas, gastos legales, facturas médicas, letras del coche o la hipoteca… las formas en las que un mago puede verse sobrepasado financieramente son tan numerosas como aquéllos que prosperan gracias a tales deudas. Y luego está la posibilidad de la manipulación financiera por parte de fuentes Despertadas: magos o Gente de la Noche que, intencionadamente o no, te mantienen en bancarrota para poder ejercer su control sobre ti (ver Libro de Convención: Sindicato ). Quizás llevas fatal lo de pagar las facturas. Por la razón que sea, tus ingresos siguen desapareciendo. Puede que de hecho tengas el Trasfondo [Recursos](/hunter/backgrounds/resources) , pero el dinero no permanece en tu cuenta corriente durante mucho tiempo.\n\nComo Defecto, estas Deudas representan una cantidad mínima de dinero que debes a tus acreedores. Cuanto más debes, mayor es la puntuación del Defecto:\n\n- (1 punto) Deuda mínima (menos de 10.000 €).\n- (2 puntos) Deuda moderada (menos de 50.000 €).\n- (3 puntos) Deuda significativa (más 50.000 €).\n- (4 puntos) Deuda aplastante (más de 100.000 €).\n- (5 puntos) Deuda abrumadora (más de 500.000 €).\n\nDe 3 puntos en adelante, tus acreedores emplearán algo de (quizás mucho) esfuerzo en recaudar esos fondos. Ciertos acreedores, como los usureros, comenzarán mucho antes. Las tácticas podrían ir desde llamadas durante todo el día y cartas en sobres rojos hasta demandas, embargos, amenazas, desahucios y violencia física. Para la gente con ingresos pequeños o irregulares, la presión de la deuda y el acoso para cobrársela puede provocar estrés emocional y psicológico… lo que, a su vez, afecta a la capacidad de generar dinero… lo cual aumenta la deuda… lo que profundiza el estrés… un círculo vicioso que lleva a actos desesperados.",
+    "tags": [
+      "social"
+    ],
+    "mechanics": {
+      "bonus": "1 a 5",
+      "category": "social"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "deudas",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "embrujado",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Embrujado",
+    "name_es": "Embrujado",
+    "body_es": "Un fantasma furioso, quizás más de uno, tiene muchas cuentas que ajustar contigo. ¿Lo mataste tú o te culpa por su muerte? ¿Cometiste algún horrible crimen contra él durante sus días de vida o fuiste lo bastante estúpido como para intentar (y quizás lograr) un desagradable acto de necromancia contra él una vez murió? Fuese cual fuese tu pecado (y ya hicieras algo mal o no en primer lugar), este wraith está decidido a hacerte sufrir durante lo que te reste de vida… ¡y posiblemente también en la siguiente si lo logra!\n\nConsulta Wraith: El Olvido para aprender más sobre fantasmas y los diversos poderes que pueden emplear para acosar a los vivos. Si tu grupo no incluye las reglas o personajes de Wraith en tu crónica, tu Narrador puede sencillamente descargar sobre ti las muchas habilidades fantasmales mencionadas en las historias sobre embrujos: ruido de cadenas, voces aullantes, súbitos descensos de la temperatura, etc.",
+    "tags": [
+      "sobrenatural"
+    ],
+    "mechanics": {
+      "bonus": "3",
+      "category": "sobrenatural"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "embrujado",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "enemigo",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Enemigo",
+    "name_es": "Enemigo",
+    "body_es": "Alguien te odia y hará todo lo que puede para hacerte la vida imposible. En términos de juego, el valor del Defecto determina la fuerza y el odio del enemigo; un simple punto refleja un resentimiento poco importante de un bando intrascendente; cinco, los letales planes de alguna entidad o agrupación poderosa.",
+    "tags": [
+      "social"
+    ],
+    "mechanics": {
+      "bonus": "1 a 5",
+      "category": "social"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "m20-core-rulebook-es",
+        "page": null,
+        "section_anchor": "enemigo",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "enemigo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "fisicamente-impresionante",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Físicamente Impresionante",
+    "name_es": "Físicamente Impresionante",
+    "body_es": "Eres un hijoputa imponente, no tanto por lo grande sino por lo aparentemente peligroso sin importar tu humor en ese momento. Esto podría ser tan obvio como estar lleno de cicatrices o tener una constitución intimidante, o tan intangible como el proverbial 'aire amenazante'. En cuanto a reglas, este Mérito añade dos dados a todas las tiradas de Rasgos sociales que impliquen intimidar a alguien; narrativamente, la gente te encuentra perturbador y muy posiblemente atractivo de una forma peligrosa, incluso cuando no estás tratando de resultar impresionante.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "2",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "fisicamente-impresionante",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "gelido",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Gélido",
+    "name_es": "Gélido",
+    "body_es": "Eres un bastardo de corazón gélido: un asesino, pandillero, sociópata o sádico que puede cometer atrocidades sin inmutarse lo más mínimo. Aunque no estás necesariamente loco (ver los Trastornos en Mago , pág. 649-650 ), tu frialdad te marca como un inquietante hijo de puta. La gente te evita a menos que haga falta matar a alguien… entonces todos dan un paso atrás y te dejan hacer. La Habitación 101 tiene puestos para gente como tú (como lo tienen, a pesar de su fachada de buena gente, las Tradiciones y los Dispares), pero nadie confía realmente en ti y tu alma está definitivamente en peligro, con los Caídos sólo a un paso o dos de ser dueños de tu frío culo.",
+    "tags": [
+      "mental"
+    ],
+    "mechanics": {
+      "bonus": "2",
+      "category": "mental"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "gelido",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "herida-permanente",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Herida Permanente",
+    "name_es": "Herida Permanente",
+    "body_es": "Debido a una lesión duradera, un derrame de Patrón, un Defecto de la Paradoja o algún otro déficit fisiológico, sufres una lesión crónica que nunca sana. Podría ser un tumor incurable, hemorragia interminable, dolor debilitante, huesos frágiles… los detalles no son importantes. Independientemente de la causa, tu personaje siempre está en el nivel de Salud Herido; incluso con sanción Mágica, las heridas retornan a su estado normal al amanecer o el atardecer (a tu elección) cada día. Aunque esta herida no deteriora más tu salud a menos que seas herido por otra fuente, momento en el que otros 4 niveles de Salud de daño podrían matarte, la Herida Permanente no se sana por completo a menos que pagues por deshacerte del Defecto a través de una cura basada en la historia.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "bonus": "3",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "herida-permanente",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "intolerante",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Intolerante",
+    "name_es": "Intolerante",
+    "body_es": "Odias de cojones a esa gente , sea quien sea 'esa gente'. Probablemente, a esa gente tampoco le gustes tú. Vale, quizás no hagas evidentes tus sentimientos, pero tu convencimiento de que esa gente no son más que alborotadores inferiores y todo lo que está mal en el puto mundo se manifiesta en tus acciones y decisiones aunque no digas nada de eso en alto. Tales prejuicios determinan tus amigos y enemigos, guían tus creencias, influyen en tu política y tienden a salir a relucir en momentos inoportunos si pierdes los papeles (ver Temperamental ). Podrías terminar cambiando de opinión en el futuro, pero por el momento, la intolerancia es la lente a través de la cual ves el mundo… y especialmente para los magos, esta clase de cosas significa bastante para el mundo en general.\n\nA pesar de la perspectiva convencional (y nada errónea) de que los intolerantes son racistas, sexistas y homófobos, la gente supuestamente liberal también puede ser intolerante; de hecho, la peor clase de intolerante son los santurrones cuyas afirmaciones de tolerancia quedan socavadas por su prejuicio implacable contra esa gente . Las versiones previas de este Defecto lo consideraban de 2 puntos, pero en el siglo xxi es más probable que la intolerancia te meta en problemas cuando se revele, especialmente en Internet o en los medios de masas… a menos, por supuesto, que te presentes a presidente o hables de alguna otra forma en nombre de gente que comparte tus opiniones, en cuyo caso te convertirás en un santo para alguna gente y un demonio para otros.\n\nVale la pena destacar que los intolerantes suelen tener razones comprensibles para sus prejuicios. Esas razones podrían provenir de rencillas personales, sesgos culturales, ansiedad racial, proclamaciones bíblicas, enfrentamientos de género, paradigmas filosóficos y (especialmente en el mundo de Mago ) distinciones físicas y metafísicas entre 'nosotros' y 'ellos'. Esas razones probablemente parecen estupideces para la mayoría de la gente, pero siguen siendo perfectamente justificables para el intolerante en cuestión.\n\nTambién vale la pena destacar que este Defecto no debería tomarse en ninguna manera como una licencia para abusar de tus compañeros jugadores . Al igual que con otros asuntos para una audiencia adulta, un personaje con prejuicios podría convertirse en detonante de tensiones en la vida real dentro del grupo y por ello debería manejarse con cuidado, como se describe en las secciones Problemas y Desencadenantes de Mago 20 , pág. 344-345 .",
+    "tags": [
+      "mental"
+    ],
+    "mechanics": {
+      "bonus": "3",
+      "category": "mental"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "intolerante",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "lealtad",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Lealtad",
+    "name_es": "Lealtad",
+    "body_es": "Eres especialmente devoto de cierta causa, grupo, credo o persona. Cuando alguien trata de volverte contra el objeto de tu lealtad, recibes una bonificación de dos dados a la reserva para resistir ese intento con tu Fuerza de Voluntad. Si el asalto usa tu Fuerza de Voluntad como la dificultad para el ataque, entonces el atacante suma +2 a su dificultad mientras lucha por socavar tu lealtad (ver la acción aguante en la tabla Acciones dramáticas en Mago 20 , pág. 403 y la entrada de la Esfera Mente en el mismo libro, pág. 519 ).\n\nNaturalmente, debes definir la fuente y las razones de tu devoción cuando seleccionas este Mérito. Tal lealtad influirá gran parte de tus elecciones de interpretación: tus amigos, enemigos, prioridades, foco Mágico y más. Para diversión adicional ( ja ja ), puedes complementar este Mérito con el Defecto Lealtades en Conflicto .",
+    "tags": [
+      "social"
+    ],
+    "mechanics": {
+      "cost": "1",
+      "category": "social"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "lealtad",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "lider-natural",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Líder Natural",
+    "name_es": "Líder Natural",
+    "body_es": "Inspirador por naturaleza, eres la clase de persona a la que los demás acuden en busca de guía. Como resultado, tus reservas de Liderazgo reciben una bonificación de dos dados. Obviamente, necesitas cierto nivel de presencia para inspirar tal [lealtad](/hunter/merits/lealtad) y debes tener al menos 3 puntos o más de Carisma antes de esperar ser un individuo tan imponente.",
+    "tags": [
+      "social"
+    ],
+    "mechanics": {
+      "cost": "2",
+      "category": "social"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "lider-natural",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "linguista-natural",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Lingüista Natural",
+    "name_es": "Lingüista Natural",
+    "body_es": "Eres especialmente bueno comprendiendo cómo se comunica la gente. Cada adquisición del Mérito Idioma (ver Mago 20 , Apéndice II ) te otorga dos idiomas no sólo uno. También obtienes tres dados de bonificación cuando haces tiradas basadas en comunicaciones claras, típicamente las que emplean Arte , Expresión , Etiqueta , Liderazgo y otros Rasgos que implican 'hablar su idioma' para impresionar a alguien.\n\nEste Mérito no añade tres dados a las tiradas para realizar Magia cuando se usa una lengua como instrumento . Sin embargo, podría aplicarse la bonificación a tiradas mundanas que podrían potenciar un intento de realizar Magia, ver Habilidades para potenciar la Magia en Mago 20 , pág. 533 .",
+    "tags": [
+      "mental"
+    ],
+    "mechanics": {
+      "cost": "2",
+      "category": "mental"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "linguista-natural",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "lista-negra",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Lista Negra",
+    "name_es": "Lista Negra",
+    "body_es": "Al haber contrariado a quienes están en el poder, ahora eres un paria para algún segmento de las Masas. El resultado tiene impacto en tus posibilidades para conseguir trabajo, en tu [estatus](/hunter/backgrounds/status) social y legal, tu solvencia crediticia, tus antecedentes, tus posibilidades de alquilar un piso y otros elementos significativos del mundo cotidiano.\n\nEste defecto, presentado originalmente como un Trasfondo adverso para Certificación , afecta a tu [estatus](/hunter/backgrounds/status) oficial regional, nacional y puede que hasta internacional. El grado en el que has sido condenado al ostracismo a nivel profesional depende del valor del Defecto:\n\n- (1 punto) Trivial: mal expediente como conductor, sospechoso de ser ratero, expulsado de un club local.\n- (2 puntos) Menor: antecedentes de delitos menores, retirada de carné de conducir.\n- (3 puntos) Significativo: abogado inhabilitado, expulsado del sacerdocio, afiliación política impopular, licencia militar con deshonores.\n- (4 puntos) Mayor: condenado por delito grave, agresor sexual registrado, persona vigilada por el gobierno, licencia médica revocada.\n- (5 puntos) Paria: entre los más buscados por el FBI, sospechoso de terrorismo, pedófilo convicto, legalmente declarado incompetente o demente.\n\nAlguien en una Lista Negra de 4 o 5 puntos también puede terminar en la base de datos de supervisión de la Tecnocracia, ¡algo muy peligroso para un mago! Y aunque los Despertados no suelen contactar con las autoridades mundanas antes de reclutar o hacer alianzas con los suyos, es probable que un mago que haya tenido grandes problemas con tales autoridades tenga también problemas con magos… especialmente si los problemas incluyen ofensas como terrorismo o pedofilia, algo que muchos magos se toman muy mal.",
+    "tags": [
+      "social"
+    ],
+    "mechanics": {
+      "bonus": "1 a 5",
+      "category": "social"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "lista-negra",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "medium",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Médium",
+    "name_es": "Médium",
+    "body_es": "Posees una inquietante afinidad con los Muertos Sin Reposo… o quizás son ellos los que poseen una inquietante afinidad contigo . Aunque realmente no puedes ver fantasmas a menos que tengas como mínimo 1 punto en la Esfera Espíritu, ellos pueden hablar contigo y tú con ellos. Superar una tirada de Percepción + Consciencia te permite sentir su presencia incluso si no puedes verlos u oírlos cerca y tu aura brilla como un tenue faro espiritual en las Tierras de las Sombras. Como resultado, los muertos tienden a preferirte (a menos que estén tratando de matarte) y pueden volverse muy habladores si tienen algo que decir. Dado todo lo que los magos valoran la información, tal tendencia a hablar puede ser bastante útil y a veces hasta puede cambiarte la vida.\n\nDado que 'hablador' puede convertirse rápidamente en 'irritante', este Mérito es una hoja de doble filo. Reduces la dificultad de tus tiradas sociales en 2 cuando lidias con fantasmas y puedes percibir cosas que los vivos normalmente no entienden. Aunque las cosas que percibes no son siempre placenteras y, viendo cómo los fantasmas tienden a permanecer cuando tienen asuntos sin resolver que atender, pueden ser directamente molestos con sus solicitudes.\n\nPara más detalles sobre los Muertos Sin Reposo, ver Wraith: El Olvido . Para detalles de reglas sobre necromancia basada en Esferas, ver la sección homónima en ¿Cómo HACES Eso? , pág. 102-107 .",
+    "tags": [
+      "sobrenatural"
+    ],
+    "mechanics": {
+      "cost": "2",
+      "category": "sobrenatural"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "medium",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "memoria-eidetica",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Memoria Eidética",
+    "name_es": "Memoria Eidética",
+    "body_es": "Dotado con la proverbial memoria fotográfica, recuerdas claramente detalles sobre lo que has leído, visto o experimentado de alguna otra forma. Este Mérito, un importante don para magos rituales, opes de campo y magi de mentalidad tecnológica, permite a tu personaje recordar cosas incluso si tú, su jugador, no lo recuerdas.\n\nEn la mayoría de circunstancias, tu personaje recuerda con facilidad los detalles en cuestión. Los recuerdos especialmente detallados o los reunidos bajo condiciones de estrés, podrían requerir una tirada de Percepción + Alerta antes de que el personaje pueda recordar elementos esenciales del momento que está tratando de rememorar.\n\nPor supuesto, la memoria es subjetiva y por ello este Mérito permite recordar las cosas como tú las percibes , estos recuerdos se basarán en tu perspectiva, interna y externa, ¡lo que no equivale a ver de forma omnisciente la experiencia! Es una distinción importante, especialmente en un juego sobre realidad subjetiva, una que también impide que este Mérito tenga la posibilidad de romper el juego.\n\nLa gente con este Mérito suele estar sometida también a TEPT como en el Defecto homónimo. Esto es especialmente cierto cuando la gente se enfrenta a Cosas que el hombre no debería conocer , como se describe en Mago 20 , pág. 407 . Un recuerdo vívido tiene sus inconvenientes y en el traumático mundo de mago, ¡es mejor olvidar algunas cosas!",
+    "tags": [
+      "mental"
+    ],
+    "mechanics": {
+      "cost": "2",
+      "category": "mental"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "memoria-eidetica",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "notoriedad",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Notoriedad",
+    "name_es": "Notoriedad",
+    "body_es": "Gracias a este reverso del Mérito Prestigio cargas con una mala reputación entre tus compañeros magos. A nivel de sistemas, este Defecto suma 2 a la dificultad de todas las tiradas sociales de tu facción (Tradiciones, Oficios, Tecnocracia, etc.) y predispone a prácticamente todo el mundo, salvo tus amigos más próximos, a pensar lo peor de ti. Los rumores te siguen y los cuchicheos te preceden. Ya sean verdad o no, se te ha vinculado a alguna desgracia y serás rehuido y probablemente castigado acordemente si no se te ha castigado ya (ver el Defecto sobrenatural Marcado , pág. 90 para un posible castigo o una alternativa a este Defecto que podría adquirir un mago de las Tradiciones). Puede que termines por lograr desprenderte de esa mala reputación, pero va a ser un camino duro hasta que lo consigas.",
+    "tags": [
+      "social"
+    ],
+    "mechanics": {
+      "bonus": "3",
+      "category": "social"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "notoriedad",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "obsesion",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Obsesión",
+    "name_es": "Obsesión",
+    "body_es": "Tienes un interés tan absorbente que tiende a eclipsar lo que sea que en tu mente pasa por [sentido común](/hunter/merits/sentido-comun). Si amas Star Wars , entonces has visto todas las películas multitud de veces, posees toneladas de merchandising y pasas una cantidad de tiempo excesiva discutiendo trivialidades de SW . ¿Tu obsesión es el tarot? Entonces tienes docenas (puede que cientos) de barajas, investigas cada posible elemento del significado del tarot y vuelves locos a tus amigos con constantes ofertas de lecturas y consejos. No puedes tener sólo dos gatos; eres la loca de los gatos local que se deja medio sueldo en comida, arena y gastos veterinarios. Esta obsesión probablemente no hará que termines muerto ni nada similar (a no ser que estés lo bastante loco como para obsesionarte con hombres bestia u otros temas igualmente terribles), pero consume gran cantidad de tiempo, atención y dinero. Cuando te enfrentas a la oportunidad de seguir tu obsesión por caminos inexplorados o si esta obsesión interfiere con cosas importantes como tus relaciones o tu trabajo, puedes tener que hacer una tirada de Fuerza de Voluntad a dificultad 6 para reprimir ese impulso. Y si esta obsesión implica algo compulsivo por naturaleza (el juego, por ejemplo), la tirada de Fuerza de Voluntad podría implicar una dificultad 8 o mayor antes de deshacerte de tu [compulsión](/hunter/flaws/compulsion) y concentrarte en otra cosa.",
+    "tags": [
+      "mental"
+    ],
+    "mechanics": {
+      "bonus": "2",
+      "category": "mental"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "obsesion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "paranoia",
+    "type": "derangement",
+    "line": "hunter",
+    "name_en": "Paranoia",
+    "name_es": "Paranoia",
+    "body_es": "En un mundo lleno de enemigos, la paranoia parece una reacción apropiada. Sin embargo, cuando llega a convertirse en Trastorno, esos miedos razonables alcanzan una intensidad obsesiva. Una persona paranoica ve conspiraciones y rivales en todas partes , incluso entre sus amigos. La confianza se convierte en estupidez porque no se puede confiar en nadie. Y cuando alguien de verdad va a por el personaje, la locura aumenta hasta proporciones absurdas.\n\nEn términos de juego, el personaje suma 1 a la dificultad de todas sus tiradas sociales… posiblemente más si las personas con las que interactúa le han dado alguna razón para sospechar. Usará cualquier método posible para mantenerse a salvo de traiciones y guardará una distancia que considere segura incluso respecto a sus compañeros más cercanos… habitualmente comportándose de forma desagradable y posiblemente ofensiva. A niveles extremos, un mago [paranoico](/hunter/flaws/paranoico) se aísla de todas las formas posibles… punto en el que se queda solo con sus terrores, que nunca lo abandonan del todo.",
+    "tags": [
+      "trastorno"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "m20-core-rulebook-es",
+        "page": null,
+        "section_anchor": "paranoia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "perfecto-mentiroso",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Perfecto Mentiroso",
+    "name_es": "Perfecto Mentiroso",
+    "body_es": "Dioses míos, ¡eres bueno mintiendo! Las falsedades se escurren de tu lengua como el agua de una hoja de parra, incluso la gente que te conoce bien tiende a creerte cuando empiezas a hablar. También careces de las 'señales' habituales que traicionan a un mentiroso: tus signos vitales permanecen estables, tus ojos no se mueven nerviosos y tu voz nunca falla. A menos que alguien esté directamente leyendo tu mente (como en el caso de usar Magia de Mente o algún otro poder paranormal), aún parecerá que estás diciendo la verdad; incluso en ese caso, ¡el telépata podría asumir que al menos crees estar diciendo la verdad!\n\nNarrativamente, la gente suele creer lo que dices cuando mientes sobre cosas pequeñas y casuales que no son falsas de forma inmediata y obvia. En lo que respecta a los dados, reduce la dificultad en 2 cuando trates de mentir sobre algo importante. De nuevo, este Mérito no alterará auras ni cambiará los pensamientos en tu cabeza, aunque quienes pueden vigilar de forma activa tu alma podrían estar inclinados a darte el beneficio de la duda (imbéciles…).",
+    "tags": [
+      "social"
+    ],
+    "mechanics": {
+      "cost": "2",
+      "category": "social"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "perfecto-mentiroso",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "pesadillas",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Pesadillas",
+    "name_es": "Pesadillas",
+    "body_es": "Para ti, la noche es un largo desfile de horrores imaginarios. Casi cada vez que alcanzas la Tierra de los Sueños, sus habitantes te arrastran por el infierno hasta que logras escapar de vuelta al mundo despierto. Tus pesadillas podrían deberse a traumas psicológicos, abusos, daño cerebral, Silencio, Paradoja, Condicionamiento Social, encuentros con Cosas que el hombre no debería conocer u otras cosas que juguetean con tu mente. Sea cual sea su origen, estos infiernos nocturnos también te afectan durante las horas despierto.\n\nNarrativamente, estas pesadillas constantes causan el caos en el humor, sueño y la cordura a largo plazo de tu personaje (como ejemplo, ver el Preludio de Mago 20 ). En el nivel de 3 puntos, estas pesadillas obligan al jugador a hacer una tirada de Fuerza de Voluntad a dificultad 7 cada vez que su personaje se despierta; fallar una tirada resta un dado de todas sus reservas ese día. Sí, las versiones previas de este Defecto infligían esa penalización con el Defecto de 1 punto, pero una penalización de un dado en todas las tiradas de un día parece desproporcionado para un Defecto de 1 punto y por ello este libro introduce una variación de 3 puntos en el Rasgo. Los Narradores pueden decidir usar la versión antigua de este Defecto en nombre de la consistencia.\n\nEste Defecto es un compañero especialmente peliagudo para el Trasfondo Heredad ( Mago 20 , pág. 314-315 ). En este caso, las pesadillas retuercen el reino onírico hasta convertirlo en un espectáculo de terror. Los intentos para alterar el paisaje onírico tienen dificultad 7 (para el Defecto de 1 punto) o 9 (para el de 3 puntos); el paisaje seguirá siendo desagradable, aunque soportable, sin importar lo que el soñador haga para afectarle. Esa misma dificultad se aplica a los personajes que quieran cambiar los sueños usando el Talento Sueño Lúcido ( Mago 20 , pág. 294-295 ), el cambio es posible , pero para nada fácil.",
+    "tags": [
+      "mental"
+    ],
+    "mechanics": {
+      "bonus": "1 o 3",
+      "category": "mental"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "pesadillas",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "rasgo-encantador",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Rasgo Encantador",
+    "name_es": "Rasgo Encantador",
+    "body_es": "Bendecido con ojos magníficos, pelo brillante, poderosos bíceps, gracia sobrenatural, abdominales marcados, una sonrisa embriagadora o algún otro rasgo físico destacado, encantas a la gente con la cruda perfección de ese rasgo. El rasgo en cuestión no tiene por qué ser obvio a primera vista; en su lugar, podrías oler bien, poseer una voz seductora, moverte con un encanto animal o disfrutar de algún otro activo igual de maravilloso (por favor, tened buen gusto, gente).\n\nEste Mérito toma el lugar de Méritos físicos relacionados como Mirada Encantadora , Voz Relajante , Grácil y otros atributos potencialmente similares. Narrativamente, este Rasgo Encantador es una parte destacada de la descripción de tu personaje. A nivel de reglas, reduces en 2 la dificultad cuando tu personaje hace uso de ese rasgo como parte de alguna acción social.\n\nSi tu mago emplea su Rasgo Encantador como parte de su foco Mágico (ver los instrumentos : contacto visual , danzas y movimiento , dominación social, ordalías y esfuerzos, sexo y sensualidad y voz y vocalizaciones en Mago 20 , Capítulo Diez ), puedes considerar este Mérito un instrumento único y especializado (ver Mago 20 , pág. 503 y 588 ). Por el lado bueno, esto te permite reducir la dificultad para realizar cierta Magia en 2 cuando el rasgo en cuestión se emplea específicamente en la realización de Efecto. Por el lado no tan bueno, esto podría hacer que le saquen los ojos a tu mago, le destrocen la cara, le corten las cuerdas vocales o… bueno, te haces una idea… si un [enemigo](/hunter/flaws/enemigo) particularmente cruel considera que ese rasgo es 'la fuente de tu poder'.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "2",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "rasgo-encantador",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "sentido-comun",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Sentido Común",
+    "name_es": "Sentido Común",
+    "body_es": "Si tal sentido fuese realmente común, no habría un Mérito para representarlo. Aun así, tú tienes un don para ir un paso por delante y evaluar las posibles consecuencias de tus elecciones. En esencia, este Mérito te da una carta para librarte de hacer algo estúpido . Cada vez que anuncias una acción que no sería especialmente brillante (por ejemplo, lanzar un hechizo de Tiempo al Viejo Arrugas), el Narrador puede preguntarte '¿ estás seguro de querer hacer eso? '. Una vez avisado, eres libre de ignorar el consejo de tu ángel de la inteligencia. Aun así, obtienes conocimiento momentáneo de una posible estupidez, lo cual es más de lo que la mayoría tiene. Úsalo sabiamente.",
+    "tags": [
+      "mental"
+    ],
+    "mechanics": {
+      "cost": "1",
+      "category": "mental"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "sentido-comun",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "sentido-del-peligro",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Sentido del Peligro",
+    "name_es": "Sentido del Peligro",
+    "body_es": "Un estado elevado de consciencia te permite sentir el daño inminente. Este don podría provenir de una percepción primaria, un condicionamiento intenso, voces espirituales que te avisan del peligro, sensores nanotecnológicos u otros métodos de percepción refinada. Sea cual sea la fuente de este Mérito, tu Narrador debería hacer una tirada secreta de Percepción + Alerta cuando una amenaza por lo demás oculta se dirija hacia tu personaje.\n\nLa dificultad para esta tirada depende de la inmediatez del peligro, un peligro distante y abstracto (como un plan para matarte) es mucho más difícil de sentir que un desastre imparable (como la bala de un francotirador) y por ello tendría una mayor dificultad (digamos 10 para el plan y 6 para la bala). Un solo éxito te diría que algo va mal, mientras que gran cantidad de ellos podrían determinar la naturaleza y localización de la amenaza.\n\nPor supuesto, tu Narrador no tiene obligación de darte detalles objetivos acerca de esa amenaza. Podría ser tan vago como ' sientes un escalofrío en la coronilla ', con quizás una pista de la dirección y naturaleza de la fuente del peligro (' un súbito chasquido metálico resuena tras de ti a tu derecha. ¿Qué haces? ').",
+    "tags": [
+      "sobrenatural"
+    ],
+    "mechanics": {
+      "cost": "3",
+      "category": "sobrenatural"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "sentido-del-peligro",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "temerario",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Temerario",
+    "name_es": "Temerario",
+    "body_es": "Te ríes del peligro. Incluso cuando retas a las parcas con una impulsividad casi suicida, posees una capacidad innata para no morir. Suma tres dados a las tiradas que no sean de combate ni Mágicas y que impliquen algún acto físico de incomprensible estupidez (saltar de una azotea a otra, nadar en una cascada, saltar de una motocicleta a la parte trasera de un tren en marcha, etc.) que convertiría a un mortal normal en carne picada.",
+    "tags": [
+      "físico"
+    ],
+    "mechanics": {
+      "cost": "3",
+      "category": "físico"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "temerario",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "tept",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "TEPT",
+    "name_es": "TEPT",
+    "body_es": "Haber padecido experiencias traumáticas te ha dejado muy susceptible a ciertas situaciones. Ansiedad, aversiones, fobias, ataques de rabia… no importa cuáles sean los síntomas, este trastorno de estrés postraumático actúa como un escudo protector para evitar más daño. Al contrario que los Trastornos, este Defecto no causa delirios; el personaje sigue estando lúcido. Sin embargo, su miedo ataca en momentos difíciles, a veces impredecibles, y socava cualquier intento de hacer lo que pueda pasar por vida normal en el mundo Despertado.\n\nComo es habitual, los diferentes niveles de este Defecto representan distintos grados de severidad:\n\n- (2 puntos) Tu TEPT produce [pesadillas](/hunter/flaws/pesadillas) y ansiedad ocasionales bajo circunstancias infrecuentes (enfrentarse a fantasmas, tratar con demonios, entrar en tierras salvajes, etc.).\n- (3 puntos) El trauma desencadena fobias u otras reacciones fuertes a situaciones más comunes (tratar con ancianos, enfrentarse a dificultades económicas, etc.).\n- (4 puntos) Las reacciones se vuelven más extremas (casi pánico, aversiones fuertes, cambios rápidos de humor) y los desencadenantes se vuelven más habituales (disparos, enfrentamientos, gritos…).\n- (5 puntos) Tu TEPT desencadena reacciones muy fuertes (pánico que empuja a luchar o huir, regresiones vívidas, momentos de profundo terror, catatonia incapacitante) en situaciones bastante frecuentes (sexo, discusiones, transacciones financieras, etc.). Incluso en ausencia de estímulos sufres [pesadillas](/hunter/flaws/pesadillas), ansiedad social, miedo a cosas comunes y otras circunstancias que podrían evocar sucesos traumáticos.\n\nEl TEPT, tristemente común en el Mundo de Tinieblas, refleja el dolor profundo causado por cosas que una persona puede que ni siquiera recuerde. Combates, torturas, accidentes, pobreza, violaciones, violencia doméstica, abusos paternos… todo lo que puede destruir la sensación de seguridad de una persona puede causar TEPT. A pesar de que en ocasiones sea muy extremo, se trata de una respuesta perfectamente racional al dolor. Por ello puede ser difícil de tratar incluso con psiquiatría avanzada y Magia de Mente. En la mayor parte de los casos, una persona que sufra TEPT aprende a vivir con los síntomas y evita los estímulos que pueden desencadenar una reacción.",
+    "tags": [
+      "mental"
+    ],
+    "mechanics": {
+      "bonus": "2 a 5",
+      "category": "mental"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "m20-core-rulebook-es",
+        "page": null,
+        "section_anchor": "tept",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "tept",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "voluntad-de-hierro",
+    "type": "merit",
+    "line": "hunter",
+    "name_en": "Voluntad de Hierro",
+    "name_es": "Voluntad de Hierro",
+    "body_es": "Incluso para estándares Despertados, posees una voluntad formidable. Cuando tomas una decisión o te enrocas contra la influencia mental es difícil quebrar tu determinación. A nivel de sistema, tu personaje recibe tres dados adicionales para sus tiradas de Fuerza de Voluntad cuando se enfrenta a un desafío a sus convicciones o resiste los intentos de Magia de Mente, tortura, agotamiento y otros ataques debilitantes. Si el personaje se cruza alguna vez con un vampiro u otra entidad que controle mentes, puede deshacerse de los efectos de tales asaltos gastando 1 punto de Fuerza de Voluntad. Ver también la acción aguante en la tabla Acciones dramáticas de Mago 20 , pág. 403 .",
+    "tags": [
+      "mental"
+    ],
+    "mechanics": {
+      "cost": "3",
+      "category": "mental"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "voluntad-de-hierro",
         "variant": "base"
       }
     ],
