@@ -16,7 +16,9 @@
       "applies_to": "shared",
       "roll": "Destreza + Pelea",
       "difficulty": "7",
-      "damage": "Fuerza/B"
+      "damage": "Fuerza/B",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -52,7 +54,9 @@
       "tier": "standard",
       "applies_to": "shared",
       "roll": "Destreza + Pelea",
-      "difficulty": "8"
+      "difficulty": "8",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -89,7 +93,9 @@
       "tier": "standard",
       "applies_to": "shared",
       "roll": "Carisma + Subterfugio (Or other appropriate pool)",
-      "difficulty": "6"
+      "difficulty": "6",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -119,7 +125,9 @@
       "applies_to": "shared",
       "roll": "Fuerza + Pelea Destreza + Pelea (When reversing)",
       "difficulty": "6",
-      "damage": "Fuerza/B"
+      "damage": "Fuerza/B",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -156,7 +164,9 @@
       "applies_to": "shared",
       "roll": "Destreza + Pelea",
       "difficulty": "7",
-      "damage": "Fuerza+1/B"
+      "damage": "Fuerza+1/B",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -194,7 +204,9 @@
       "applies_to": "shared",
       "roll": "Destreza + Pelea",
       "difficulty": "6",
-      "damage": "Fuerza/B"
+      "damage": "Fuerza/B",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -223,7 +235,9 @@
       "tier": "standard",
       "applies_to": "shared",
       "roll": "Destreza + Pelea",
-      "difficulty": "8"
+      "difficulty": "8",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -259,7 +273,9 @@
       "tier": "standard",
       "applies_to": "shared",
       "roll": "Percepción + Rasgo de Combate",
-      "difficulty": "6"
+      "difficulty": "6",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -296,7 +312,9 @@
       "applies_to": "shared",
       "roll": "Fuerza + Pelea",
       "difficulty": "7",
-      "damage": "Fuerza/B"
+      "damage": "Fuerza/B",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -332,7 +350,9 @@
       "tier": "standard",
       "applies_to": "shared",
       "roll": "Destreza + Pelea",
-      "difficulty": "Same as attacker’s difficulty"
+      "difficulty": "Same as attacker’s difficulty",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -368,7 +388,9 @@
       "tier": "standard",
       "applies_to": "shared",
       "roll": "Destreza + Atletismo or Acrobacias",
-      "difficulty": "5 (hand to hand) 6 9/10 (Firearms)"
+      "difficulty": "5 (hand to hand) 6 9/10 (Firearms)",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -407,7 +429,9 @@
       "tier": "standard",
       "applies_to": "shared",
       "roll": "Destreza + Atletismo or Acrobacias",
-      "difficulty": "5 (hand to hand) 6 9/10 (Firearms)"
+      "difficulty": "5 (hand to hand) 6 9/10 (Firearms)",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -447,7 +471,9 @@
       "applies_to": "vampire",
       "roll": "Destreza + Pelea +1",
       "difficulty": "6",
-      "damage": "Fuerza+1/A"
+      "damage": "Fuerza+1/A",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -483,7 +509,9 @@
       "tier": "standard",
       "applies_to": "vampire",
       "roll": "Destreza + Pelea +1",
-      "difficulty": "6"
+      "difficulty": "6",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -520,7 +548,9 @@
       "applies_to": "werewolf",
       "roll": "Destreza + Pelea",
       "difficulty": "5  (8 in Glabro form)",
-      "damage": "Fuerza + 1/A (Fuerza \\- 1 L in Glabro form)"
+      "damage": "Fuerza + 1/A (Fuerza \\- 1 L in Glabro form)",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -557,7 +587,9 @@
       "applies_to": "werewolf",
       "roll": "Destreza + Pelea",
       "difficulty": "6",
-      "damage": "Fuerza + 1/A (Fuerza + 1/B in Glabro and Lupus form)"
+      "damage": "Fuerza + 1/A (Fuerza + 1/B in Glabro and Lupus form)",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -595,7 +627,9 @@
       "applies_to": "shared",
       "roll": "Destreza + Subterfugio",
       "difficulty": "9",
-      "damage": "Dependant"
+      "damage": "Dependant",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -626,7 +660,9 @@
       "applies_to": "shared",
       "roll": "Fuerza + Pelea",
       "difficulty": "6",
-      "damage": "Fuerza +2/B Fuerza +2/L (Slammed on appropriate surface)"
+      "damage": "Fuerza +2/B Fuerza +2/L (Slammed on appropriate surface)",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -657,7 +693,9 @@
       "applies_to": "shared",
       "roll": "Fuerza + Pelea",
       "difficulty": "6",
-      "damage": "Fuerza + 2/L"
+      "damage": "Fuerza + 2/L",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -686,7 +724,9 @@
       "tier": "learned",
       "applies_to": "shared",
       "roll": "Astucia + Atletismo",
-      "difficulty": "6"
+      "difficulty": "6",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -724,7 +764,9 @@
       "applies_to": "shared",
       "roll": "Destreza + Pelea",
       "difficulty": "7",
-      "damage": "Fuerza + 2/B"
+      "damage": "Fuerza + 2/B",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -755,7 +797,9 @@
       "applies_to": "shared",
       "roll": "Destreza +  Pelea",
       "difficulty": "6",
-      "damage": "Fuerza + 1/B"
+      "damage": "Fuerza + 1/B",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -786,7 +830,9 @@
       "applies_to": "shared",
       "roll": "Dex + Pelea",
       "difficulty": "6",
-      "damage": "As per firearm +2"
+      "damage": "As per firearm +2",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -817,7 +863,9 @@
       "applies_to": "shared",
       "roll": "Fuerza + Pelea",
       "difficulty": "9",
-      "damage": "Fuerza/L + Cripple"
+      "damage": "Fuerza/L + Cripple",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -848,7 +896,9 @@
       "applies_to": "shared",
       "roll": "Destreza + Pelea",
       "difficulty": "7",
-      "damage": "Fuerza/B + Stun"
+      "damage": "Fuerza/B + Stun",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -879,7 +929,9 @@
       "applies_to": "shared",
       "roll": "Destreza + Pelea",
       "difficulty": "4",
-      "damage": "Fuerza/B"
+      "damage": "Fuerza/B",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -909,7 +961,9 @@
       "tier": "learned",
       "applies_to": "shared",
       "roll": "Inteligencia + Liderazgo roll",
-      "difficulty": "6"
+      "difficulty": "6",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -939,7 +993,9 @@
       "applies_to": "shared",
       "roll": "Manipulación + Expresión/ Intimidación",
       "difficulty": "Opponent’s Wits + 4",
-      "damage": "None"
+      "damage": "None",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -976,7 +1032,9 @@
       "applies_to": "werewolf",
       "roll": "Destreza + Pelea",
       "difficulty": "7",
-      "packmates": "2 or more"
+      "packmates": "2 or more",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -1013,7 +1071,9 @@
       "applies_to": "werewolf",
       "roll": "Destreza + Atletismo",
       "difficulty": "5",
-      "packmates": "4 or more"
+      "packmates": "4 or more",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -1048,7 +1108,9 @@
       "category": "pack-tactic",
       "tier": "special",
       "applies_to": "werewolf",
-      "packmates": "3 or more"
+      "packmates": "3 or more",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -1084,7 +1146,9 @@
       "tier": "special",
       "applies_to": "werewolf",
       "roll": "Astucia + Atletismo or Acrobacias",
-      "difficulty": "6"
+      "difficulty": "6",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -1124,7 +1188,9 @@
       "applies_to": "werewolf",
       "roll": "Destreza + Pelea",
       "difficulty": "6",
-      "damage": "None or as Bite damage"
+      "damage": "None or as Bite damage",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -1161,7 +1227,9 @@
       "applies_to": "werewolf",
       "roll": "Destreza + Pelea",
       "difficulty": "8/9",
-      "damage": "Fuerza/A or L"
+      "damage": "Fuerza/A or L",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -1199,7 +1267,9 @@
       "applies_to": "werewolf",
       "roll": "Destreza + Atletismo and Destreza + Pelea",
       "difficulty": "8",
-      "damage": "Fuerza + 1/(Dependant on weapon)"
+      "damage": "Fuerza + 1/(Dependant on weapon)",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -1229,7 +1299,9 @@
       "applies_to": "werewolf",
       "roll": "Manipulación + Expresión/ Intimidación",
       "difficulty": "Opponent’s Wits + 4",
-      "damage": "None"
+      "damage": "None",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -1266,7 +1338,9 @@
       "applies_to": "werewolf",
       "roll": "Fuerza + Pelea",
       "difficulty": "6 / –1 for each additional werewolf involved",
-      "damage": "Fuerza/L or A (for each Garou involved)"
+      "damage": "Fuerza/L or A (for each Garou involved)",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -1305,7 +1379,18 @@
       "roll": "Destreza + Artes Marciales",
       "difficulty": "5",
       "damage": "Fuerza +1/B",
-      "min_ability": "Martial Arts 1"
+      "min_ability": "Martial Arts 1",
+      "prerequisites": [
+        {
+          "anyOf": [
+            {
+              "ability": "martial_arts",
+              "rating": 1
+            }
+          ]
+        }
+      ],
+      "budget_class": "martial-arts"
     },
     "sources": [
       {
@@ -1344,7 +1429,30 @@
       "roll": "Destreza + Artes Marciales",
       "difficulty": "5",
       "damage": "Éxitos/L",
-      "min_ability": "Martial Arts 2 and  Athletics or Acrobatics 2"
+      "min_ability": "Martial Arts 2 and  Athletics or Acrobatics 2",
+      "prerequisites": [
+        {
+          "anyOf": [
+            {
+              "ability": "martial_arts",
+              "rating": 2
+            }
+          ]
+        },
+        {
+          "anyOf": [
+            {
+              "ability": "athletics",
+              "rating": 2
+            },
+            {
+              "ability": "acrobatics",
+              "rating": 2
+            }
+          ]
+        }
+      ],
+      "budget_class": "martial-arts"
     },
     "sources": [
       {
@@ -1383,7 +1491,18 @@
       "roll": "Destreza + Artes Marciales",
       "difficulty": "7",
       "damage": "Fuerza +3/B",
-      "min_ability": "Martial Arts 3 (any style)"
+      "min_ability": "Martial Arts 3 (any style)",
+      "prerequisites": [
+        {
+          "anyOf": [
+            {
+              "ability": "martial_arts",
+              "rating": 3
+            }
+          ]
+        }
+      ],
+      "budget_class": "martial-arts"
     },
     "sources": [
       {
@@ -1421,7 +1540,30 @@
       "style": "any",
       "roll": "Destreza + Artes Marciales",
       "difficulty": "5 (Soft style) 6 (Hard style)",
-      "min_ability": "Martial Arts 1, Athletics or Acrobatics 1"
+      "min_ability": "Martial Arts 1, Athletics or Acrobatics 1",
+      "prerequisites": [
+        {
+          "anyOf": [
+            {
+              "ability": "martial_arts",
+              "rating": 1
+            }
+          ]
+        },
+        {
+          "anyOf": [
+            {
+              "ability": "athletics",
+              "rating": 1
+            },
+            {
+              "ability": "acrobatics",
+              "rating": 1
+            }
+          ]
+        }
+      ],
+      "budget_class": "martial-arts"
     },
     "sources": [
       {
@@ -1460,7 +1602,18 @@
       "roll": "Destreza + Martial arts",
       "difficulty": "6 (Soft style) 7 (Hard style)",
       "damage": "Fuerza + movement/B",
-      "min_ability": "Martial Arts 2"
+      "min_ability": "Martial Arts 2",
+      "prerequisites": [
+        {
+          "anyOf": [
+            {
+              "ability": "martial_arts",
+              "rating": 2
+            }
+          ]
+        }
+      ],
+      "budget_class": "martial-arts"
     },
     "sources": [
       {
@@ -1498,7 +1651,18 @@
       "style": "any",
       "roll": "Destreza + Artes Marciales",
       "difficulty": "6 8 (vs. Weapon)",
-      "min_ability": "Martial arts 1"
+      "min_ability": "Martial arts 1",
+      "prerequisites": [
+        {
+          "anyOf": [
+            {
+              "ability": "martial_arts",
+              "rating": 1
+            }
+          ]
+        }
+      ],
+      "budget_class": "martial-arts"
     },
     "sources": [
       {
@@ -1537,7 +1701,26 @@
       "roll": "Destreza + Artes Marciales",
       "difficulty": "6",
       "damage": "As throw",
-      "min_ability": "Martial Arts 1 and Athletics 1"
+      "min_ability": "Martial Arts 1 and Athletics 1",
+      "prerequisites": [
+        {
+          "anyOf": [
+            {
+              "ability": "martial_arts",
+              "rating": 1
+            }
+          ]
+        },
+        {
+          "anyOf": [
+            {
+              "ability": "athletics",
+              "rating": 1
+            }
+          ]
+        }
+      ],
+      "budget_class": "martial-arts"
     },
     "sources": [
       {
@@ -1577,7 +1760,30 @@
       "roll": "Destreza + Artes Marciales",
       "difficulty": "6",
       "damage": "Attacker’s Fuerza/B",
-      "min_ability": "Martial Arts 2 and Athletics or Acrobatics 2"
+      "min_ability": "Martial Arts 2 and Athletics or Acrobatics 2",
+      "prerequisites": [
+        {
+          "anyOf": [
+            {
+              "ability": "martial_arts",
+              "rating": 2
+            }
+          ]
+        },
+        {
+          "anyOf": [
+            {
+              "ability": "athletics",
+              "rating": 2
+            },
+            {
+              "ability": "acrobatics",
+              "rating": 2
+            }
+          ]
+        }
+      ],
+      "budget_class": "martial-arts"
     },
     "sources": [
       {
@@ -1610,7 +1816,18 @@
       "roll": "Destreza + Artes Marciales",
       "difficulty": "6",
       "damage": "Fuerza +1/B",
-      "min_ability": "Martial Arts 1"
+      "min_ability": "Martial Arts 1",
+      "prerequisites": [
+        {
+          "anyOf": [
+            {
+              "ability": "martial_arts",
+              "rating": 1
+            }
+          ]
+        }
+      ],
+      "budget_class": "martial-arts"
     },
     "sources": [
       {
@@ -1643,7 +1860,18 @@
       "roll": "Destreza + Artes Marciales",
       "difficulty": "7",
       "damage": "Fuerza/B",
-      "min_ability": "Martial Arts 3"
+      "min_ability": "Martial Arts 3",
+      "prerequisites": [
+        {
+          "anyOf": [
+            {
+              "ability": "martial_arts",
+              "rating": 3
+            }
+          ]
+        }
+      ],
+      "budget_class": "martial-arts"
     },
     "sources": [
       {
@@ -1676,7 +1904,18 @@
       "roll": "Destreza + Artes Marciales",
       "difficulty": "7*",
       "damage": "Fuerza +2/L",
-      "min_ability": "Martial Arts 3"
+      "min_ability": "Martial Arts 3",
+      "prerequisites": [
+        {
+          "anyOf": [
+            {
+              "ability": "martial_arts",
+              "rating": 3
+            }
+          ]
+        }
+      ],
+      "budget_class": "martial-arts"
     },
     "sources": [
       {
@@ -1709,7 +1948,30 @@
       "roll": "Destreza + Artes Marciales",
       "difficulty": "8",
       "damage": "As throw",
-      "min_ability": "Martial Arts 1 and Athletics or Acrobatics 1"
+      "min_ability": "Martial Arts 1 and Athletics or Acrobatics 1",
+      "prerequisites": [
+        {
+          "anyOf": [
+            {
+              "ability": "martial_arts",
+              "rating": 1
+            }
+          ]
+        },
+        {
+          "anyOf": [
+            {
+              "ability": "athletics",
+              "rating": 1
+            },
+            {
+              "ability": "acrobatics",
+              "rating": 1
+            }
+          ]
+        }
+      ],
+      "budget_class": "martial-arts"
     },
     "sources": [
       {
@@ -1742,7 +2004,30 @@
       "roll": "Destreza + Artes Marciales",
       "difficulty": "7",
       "damage": "Fuerza +2/B",
-      "min_ability": "Martial Arts 1 and Athletics or Acrobatics 1"
+      "min_ability": "Martial Arts 1 and Athletics or Acrobatics 1",
+      "prerequisites": [
+        {
+          "anyOf": [
+            {
+              "ability": "martial_arts",
+              "rating": 1
+            }
+          ]
+        },
+        {
+          "anyOf": [
+            {
+              "ability": "athletics",
+              "rating": 1
+            },
+            {
+              "ability": "acrobatics",
+              "rating": 1
+            }
+          ]
+        }
+      ],
+      "budget_class": "martial-arts"
     },
     "sources": [
       {
@@ -1775,7 +2060,18 @@
       "roll": "Destreza + Artes Marciales",
       "difficulty": "5",
       "damage": "Fuerza +1/B",
-      "min_ability": "Martial Arts 1"
+      "min_ability": "Martial Arts 1",
+      "prerequisites": [
+        {
+          "anyOf": [
+            {
+              "ability": "martial_arts",
+              "rating": 1
+            }
+          ]
+        }
+      ],
+      "budget_class": "martial-arts"
     },
     "sources": [
       {
@@ -1808,7 +2104,18 @@
       "roll": "Destreza + Artes Marciales",
       "difficulty": "5",
       "damage": "Fuerza +1/B",
-      "min_ability": "Martial Arts 1"
+      "min_ability": "Martial Arts 1",
+      "prerequisites": [
+        {
+          "anyOf": [
+            {
+              "ability": "martial_arts",
+              "rating": 1
+            }
+          ]
+        }
+      ],
+      "budget_class": "martial-arts"
     },
     "sources": [
       {
@@ -1841,7 +2148,30 @@
       "roll": "Destreza + Artes Marciales",
       "difficulty": "6",
       "damage": "Fuerza +3/B",
-      "min_ability": "Martial Arts 2 and Athletics or Acrobatics 2"
+      "min_ability": "Martial Arts 2 and Athletics or Acrobatics 2",
+      "prerequisites": [
+        {
+          "anyOf": [
+            {
+              "ability": "martial_arts",
+              "rating": 2
+            }
+          ]
+        },
+        {
+          "anyOf": [
+            {
+              "ability": "athletics",
+              "rating": 2
+            },
+            {
+              "ability": "acrobatics",
+              "rating": 2
+            }
+          ]
+        }
+      ],
+      "budget_class": "martial-arts"
     },
     "sources": [
       {
@@ -1874,7 +2204,30 @@
       "roll": "Destreza + Artes Marciales",
       "difficulty": "7",
       "damage": "Fuerza +3 + successes/B",
-      "min_ability": "Martial Arts 3 and Athletics or Acrobatics 2"
+      "min_ability": "Martial Arts 3 and Athletics or Acrobatics 2",
+      "prerequisites": [
+        {
+          "anyOf": [
+            {
+              "ability": "martial_arts",
+              "rating": 3
+            }
+          ]
+        },
+        {
+          "anyOf": [
+            {
+              "ability": "athletics",
+              "rating": 2
+            },
+            {
+              "ability": "acrobatics",
+              "rating": 2
+            }
+          ]
+        }
+      ],
+      "budget_class": "martial-arts"
     },
     "sources": [
       {
@@ -1907,7 +2260,18 @@
       "roll": "Destreza + Martial arts",
       "difficulty": "6*",
       "damage": "Fuerza/L",
-      "min_ability": "Martial Arts 2"
+      "min_ability": "Martial Arts 2",
+      "prerequisites": [
+        {
+          "anyOf": [
+            {
+              "ability": "martial_arts",
+              "rating": 2
+            }
+          ]
+        }
+      ],
+      "budget_class": "martial-arts"
     },
     "sources": [
       {
@@ -1937,7 +2301,10 @@
       "applies_to": "shared",
       "roll": "Destreza + Do",
       "difficulty": "7/9",
-      "damage": "N/A or As weapon"
+      "damage": "N/A or As weapon",
+      "style": "do",
+      "prerequisites": [],
+      "budget_class": "do-special"
     },
     "sources": [
       {
@@ -1974,7 +2341,10 @@
       "applies_to": "shared",
       "roll": "Destreza + Do",
       "difficulty": "8",
-      "damage": "Fuerza +3 + successes/B"
+      "damage": "Fuerza +3 + successes/B",
+      "style": "do",
+      "prerequisites": [],
+      "budget_class": "do-special"
     },
     "sources": [
       {
@@ -2009,7 +2379,10 @@
       "category": "brawl",
       "tier": "standard",
       "applies_to": "shared",
-      "roll": "Adds Do trait to soak"
+      "roll": "Adds Do trait to soak",
+      "style": "do",
+      "prerequisites": [],
+      "budget_class": "do-special"
     },
     "sources": [
       {
@@ -2045,7 +2418,10 @@
       "tier": "standard",
       "applies_to": "shared",
       "roll": "Dependant on effect used",
-      "difficulty": "7 (Stamina) Opponent’s Willpower +3 (Terror) 8 (Eloquence)"
+      "difficulty": "7 (Stamina) Opponent’s Willpower +3 (Terror) 8 (Eloquence)",
+      "style": "do",
+      "prerequisites": [],
+      "budget_class": "do-special"
     },
     "sources": [
       {
@@ -2082,7 +2458,10 @@
       "applies_to": "shared",
       "roll": "Destreza + Do",
       "difficulty": "6",
-      "damage": "+2 damage dice"
+      "damage": "+2 damage dice",
+      "style": "do",
+      "prerequisites": [],
+      "budget_class": "do-special"
     },
     "sources": [
       {
@@ -2119,7 +2498,10 @@
       "applies_to": "shared",
       "roll": "Destreza + Do",
       "difficulty": "7",
-      "damage": "Dependant"
+      "damage": "Dependant",
+      "style": "do",
+      "prerequisites": [],
+      "budget_class": "do-special"
     },
     "sources": [
       {
@@ -2155,7 +2537,10 @@
       "tier": "standard",
       "applies_to": "shared",
       "roll": "Destreza + Do",
-      "damage": "Dependant"
+      "damage": "Dependant",
+      "style": "do",
+      "prerequisites": [],
+      "budget_class": "do-special"
     },
     "sources": [
       {
@@ -2192,7 +2577,10 @@
       "applies_to": "shared",
       "roll": "Destreza + Do",
       "difficulty": "8",
-      "damage": "Fuerza +5 + successes"
+      "damage": "Fuerza +5 + successes",
+      "style": "do",
+      "prerequisites": [],
+      "budget_class": "do-special"
     },
     "sources": [
       {
@@ -2226,7 +2614,10 @@
     "mechanics": {
       "category": "brawl",
       "tier": "standard",
-      "applies_to": "shared"
+      "applies_to": "shared",
+      "style": "do",
+      "prerequisites": [],
+      "budget_class": "do-special"
     },
     "sources": [
       {
@@ -2263,7 +2654,9 @@
       "tier": "standard",
       "applies_to": "shared",
       "roll": "Carisma + Subterfugio (Or other appropriate pool)",
-      "difficulty": "6"
+      "difficulty": "6",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -2293,7 +2686,9 @@
       "applies_to": "shared",
       "roll": "Destreza + Armas c.c.",
       "difficulty": "7",
-      "damage": "Fuerza +2/L"
+      "damage": "Fuerza +2/L",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -2331,7 +2726,9 @@
       "applies_to": "shared",
       "roll": "Destreza + Armas c.c.",
       "difficulty": "As weapon",
-      "damage": "Weapon damage"
+      "damage": "Weapon damage",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -2360,7 +2757,9 @@
       "tier": "standard",
       "applies_to": "shared",
       "roll": "Destreza + Atletismo or Acrobacias",
-      "difficulty": "5 (hand to hand) 6 9/10 (Firearms)"
+      "difficulty": "5 (hand to hand) 6 9/10 (Firearms)",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -2399,7 +2798,9 @@
       "tier": "standard",
       "applies_to": "shared",
       "roll": "Destreza + Atletismo or Acrobacias",
-      "difficulty": "5 (hand to hand) 6 9/10 (Firearms)"
+      "difficulty": "5 (hand to hand) 6 9/10 (Firearms)",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -2439,7 +2840,9 @@
       "applies_to": "shared",
       "roll": "Destreza + Pelea",
       "difficulty": "Weapon",
-      "damage": "Weapon \\-1/B"
+      "damage": "Weapon \\-1/B",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -2476,7 +2879,9 @@
       "applies_to": "shared",
       "roll": "Destreza + Subterfugio",
       "difficulty": "9",
-      "damage": "Dependant"
+      "damage": "Dependant",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -2513,7 +2918,9 @@
       "applies_to": "shared",
       "roll": "Destreza + Armas c.c.",
       "difficulty": "7",
-      "damage": "Weapon + 1"
+      "damage": "Weapon + 1",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -2549,7 +2956,9 @@
       "tier": "learned",
       "applies_to": "shared",
       "roll": "Destreza + Armas c.c.",
-      "difficulty": "8"
+      "difficulty": "8",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -2585,7 +2994,9 @@
       "tier": "learned",
       "applies_to": "shared",
       "roll": "Destreza + Armas c.c.",
-      "difficulty": "8"
+      "difficulty": "8",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -2623,7 +3034,9 @@
       "applies_to": "shared",
       "roll": "Destreza + Armas c.c.",
       "difficulty": "+1",
-      "damage": "N.A"
+      "damage": "N.A",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -2653,7 +3066,9 @@
       "applies_to": "shared",
       "roll": "Manipulación + Armas c.c.",
       "difficulty": "6",
-      "damage": "Weapon + 2"
+      "damage": "Weapon + 2",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -2687,7 +3102,9 @@
     "mechanics": {
       "category": "ranged",
       "tier": "standard",
-      "applies_to": "shared"
+      "applies_to": "shared",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -2723,7 +3140,9 @@
       "tier": "standard",
       "applies_to": "shared",
       "roll": "Destreza + Armas de Fuego",
-      "difficulty": "+2"
+      "difficulty": "+2",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -2759,7 +3178,9 @@
       "tier": "standard",
       "applies_to": "shared",
       "roll": "Destreza + Atletismo or Acrobacias",
-      "difficulty": "5 (hand to hand) 6 9/10 (Firearms)"
+      "difficulty": "5 (hand to hand) 6 9/10 (Firearms)",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -2798,7 +3219,9 @@
       "tier": "standard",
       "applies_to": "shared",
       "roll": "Destreza + Atletismo or Acrobacias",
-      "difficulty": "5 (hand to hand) 6 9/10 (Firearms)"
+      "difficulty": "5 (hand to hand) 6 9/10 (Firearms)",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -2838,7 +3261,9 @@
       "tier": "standard",
       "applies_to": "shared",
       "roll": "Carisma + Subterfugio (Or other appropriate pool)",
-      "difficulty": "6"
+      "difficulty": "6",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -2867,7 +3292,9 @@
       "category": "ranged",
       "tier": "standard",
       "applies_to": "shared",
-      "roll": "Destreza + Archery"
+      "roll": "Destreza + Archery",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -2896,7 +3323,9 @@
       "tier": "standard",
       "applies_to": "shared",
       "roll": "Destreza + Armas de Fuego",
-      "difficulty": "6"
+      "difficulty": "6",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -2932,7 +3361,9 @@
       "tier": "standard",
       "applies_to": "shared",
       "roll": "Destreza + Armas de Fuego",
-      "difficulty": "+2"
+      "difficulty": "+2",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -2969,7 +3400,9 @@
       "tier": "standard",
       "applies_to": "shared",
       "roll": "Destreza + Archery Destreza + Armas de Fuego*",
-      "difficulty": "\\-2"
+      "difficulty": "\\-2",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -2998,7 +3431,9 @@
       "tier": "standard",
       "applies_to": "shared",
       "roll": "Destreza + Armas de Fuego",
-      "difficulty": "+1"
+      "difficulty": "+1",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -3033,7 +3468,9 @@
       "category": "ranged",
       "tier": "standard",
       "applies_to": "shared",
-      "difficulty": "+1 off hand"
+      "difficulty": "+1 off hand",
+      "prerequisites": [],
+      "budget_class": "standard"
     },
     "sources": [
       {
@@ -4467,7 +4904,12 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "counter-throw",
+      "deflecting-block",
+      "soft-strike",
+      "withering-grasp"
+    ]
   },
   {
     "id": "hard-style",
@@ -4493,7 +4935,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "death-strike",
+      "dragon-tail-sweep",
+      "flying-kick",
+      "hard-strike",
+      "snap-kick",
+      "spinning-kick",
+      "thunder-kick",
+      "vital-punch"
+    ]
   },
   {
     "id": "kailindo",
@@ -4519,7 +4970,9 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "incomplete": true,
+    "incomplete_reason": "M20 core provides no official maneuver set for this style; related[] left empty rather than invented (add-maneuver-learning-limits O2/1.4)."
   },
   {
     "id": "do",
@@ -4534,7 +4987,17 @@
       "compilacion"
     ],
     "mechanics": {
-      "style_type": "special"
+      "style_type": "special",
+      "eight_limbs": [
+        "Dharmamukti",
+        "Dhyana",
+        "Jivahasta",
+        "Karma",
+        "Prajna",
+        "Shastamarga",
+        "Sunyakaya",
+        "Tricanmarga"
+      ]
     },
     "sources": [
       {
@@ -4545,7 +5008,17 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "arrow-cutting",
+      "hurricane-throw",
+      "iron-shirt",
+      "kiaijutsu",
+      "plum-flower-blossom",
+      "soft-fist",
+      "ten-thousand-weapons",
+      "typhoon-kick",
+      "weapon-art"
+    ]
   },
   {
     "id": "afinidad-animal",
