@@ -41,7 +41,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": 1,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": 1,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": 1,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "combatiente-novato",
@@ -135,7 +155,21 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "investigation",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "ability_diff",
+        "settingtype": "science",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "biblioteca-ocultista",
@@ -160,7 +194,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "intelligence",
+        "value": -1,
+        "isactive": false
+      },
+      {
+        "type": "ability_diff",
+        "settingtype": "occult",
+        "value": -1,
+        "isactive": false
+      },
+      {
+        "type": "ability_diff",
+        "settingtype": "investigation",
+        "value": -1,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "aura-palida",
@@ -335,7 +389,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_buff",
+        "settingtype": "charisma",
+        "value": -1,
+        "isactive": false
+      },
+      {
+        "type": "attribute_buff",
+        "settingtype": "manipulation",
+        "value": -1,
+        "isactive": false
+      },
+      {
+        "type": "attribute_buff",
+        "settingtype": "appearance",
+        "value": -1,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "histeria-religiosa",
@@ -360,7 +434,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_buff",
+        "settingtype": "charisma",
+        "value": -1,
+        "isactive": true
+      },
+      {
+        "type": "attribute_buff",
+        "settingtype": "manipulation",
+        "value": -1,
+        "isactive": true
+      },
+      {
+        "type": "attribute_buff",
+        "settingtype": "appearance",
+        "value": -1,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "rango-eclesiastico",
@@ -460,7 +554,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": -1,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": -1,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": -1,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "ecstatic",
@@ -485,7 +599,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_buff",
+        "settingtype": "charisma",
+        "value": 1,
+        "isactive": false
+      },
+      {
+        "type": "attribute_buff",
+        "settingtype": "manipulation",
+        "value": 1,
+        "isactive": false
+      },
+      {
+        "type": "attribute_buff",
+        "settingtype": "appearance",
+        "value": 1,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "ecumenista",
@@ -585,7 +719,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": 1,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": 1,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": 1,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "mentalidad-de-sitio",
@@ -610,7 +764,21 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_buff",
+        "settingtype": "empathy",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "ability_buff",
+        "settingtype": "investigation",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "mensajero-del-miedo",
@@ -735,7 +903,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_buff",
+        "settingtype": "empathy",
+        "value": 1,
+        "isactive": false
+      },
+      {
+        "type": "ability_buff",
+        "settingtype": "leadership",
+        "value": 1,
+        "isactive": false
+      },
+      {
+        "type": "ability_buff",
+        "settingtype": "investigation",
+        "value": 1,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "credulo",
@@ -760,7 +948,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_buff",
+        "settingtype": "empathy",
+        "value": -1,
+        "isactive": false
+      },
+      {
+        "type": "ability_buff",
+        "settingtype": "investigation",
+        "value": -1,
+        "isactive": false
+      },
+      {
+        "type": "ability_buff",
+        "settingtype": "leadership",
+        "value": -1,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "de-recursos-identidad-suplementaria",
@@ -2064,7 +2272,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "technology",
+        "value": -2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "calculador-relampago",
@@ -2089,7 +2305,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "science",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "cara-de-poquer",
@@ -2114,7 +2338,21 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "intimidation",
+        "value": -2,
+        "isactive": true
+      },
+      {
+        "type": "ability_diff",
+        "settingtype": "subterfuge",
+        "value": -2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "codigo-de-honor",
@@ -2189,7 +2427,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "drive",
+        "value": -2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "conectado-socialmente",
@@ -2261,7 +2507,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "health_buff",
+        "settingtype": "",
+        "value": 1,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "curiosidad",
@@ -2393,7 +2647,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_buff",
+        "settingtype": "intimidation",
+        "value": 2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "gelido",
@@ -2518,7 +2780,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_buff",
+        "settingtype": "leadership",
+        "value": 2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "linguista-natural",
@@ -2543,7 +2813,33 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_buff",
+        "settingtype": "expression",
+        "value": 3,
+        "isactive": false
+      },
+      {
+        "type": "ability_buff",
+        "settingtype": "etiquette",
+        "value": 3,
+        "isactive": false
+      },
+      {
+        "type": "ability_buff",
+        "settingtype": "leadership",
+        "value": 3,
+        "isactive": false
+      },
+      {
+        "type": "ability_buff",
+        "settingtype": "performance",
+        "value": 3,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "lista-negra",
@@ -2593,7 +2889,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "memoria-eidetica",
@@ -2643,7 +2959,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": 2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": 2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": 2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "obsesion",
@@ -2715,7 +3051,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "subterfuge",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "pesadillas",
@@ -2765,7 +3109,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "secreto-oscuro",
@@ -2862,7 +3226,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_buff",
+        "settingtype": "athletics",
+        "value": 3,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "tept",

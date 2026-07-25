@@ -19,7 +19,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "pacificador",
@@ -63,7 +71,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "tribuna",
@@ -85,7 +101,21 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "expression",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "ability_diff",
+        "settingtype": "subterfuge",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "fecha-de-caducidad",
@@ -941,7 +971,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "athletics",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "madrugador",
@@ -985,7 +1023,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "intimidation",
+        "value": -1,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "sentido-agudo",
@@ -1007,7 +1053,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "perception",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "color-saludable",
@@ -1095,7 +1149,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_buff",
+        "settingtype": "athletics",
+        "value": 3,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "corpulento",
@@ -1117,7 +1179,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "health_buff",
+        "settingtype": "",
+        "value": 1,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "bajo",
@@ -1139,7 +1209,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "movement_buff",
+        "settingtype": "",
+        "value": -3,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "duro-de-oido",
@@ -1161,7 +1239,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "perception",
+        "value": 2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "olor-de-la-tumba",
@@ -1227,7 +1313,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "perception",
+        "value": 2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "decimocuarta-generacion",
@@ -1337,7 +1431,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "perception",
+        "value": 2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "vulnerabilidad-a-la-plata",
@@ -1425,7 +1527,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "movement_buff",
+        "settingtype": "",
+        "value": -3,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "colmillos-permanentes",
@@ -1491,7 +1601,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": 2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "herida-permanente",
@@ -1557,7 +1675,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "leadership",
+        "value": 2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "ojos-brillantes",
@@ -1579,7 +1705,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "stealth",
+        "value": 2,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "perception",
+        "value": 1,
+        "isactive": false
+      },
+      {
+        "type": "ability_diff",
+        "settingtype": "intimidation",
+        "value": -1,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "perezoso",
@@ -1711,7 +1857,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "perception",
+        "value": 3,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "carne-cadaverica",
@@ -1777,7 +1931,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "dexterity",
+        "value": 2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "concentracion",
@@ -1887,7 +2049,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_buff",
+        "settingtype": "perception",
+        "value": 2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "sentido-comun",
@@ -1953,7 +2123,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "computer",
+        "value": -2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "codigo-de-honor",
@@ -1997,7 +2175,33 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_buff",
+        "settingtype": "expression",
+        "value": 3,
+        "isactive": false
+      },
+      {
+        "type": "ability_buff",
+        "settingtype": "etiquette",
+        "value": 3,
+        "isactive": false
+      },
+      {
+        "type": "ability_buff",
+        "settingtype": "leadership",
+        "value": 3,
+        "isactive": false
+      },
+      {
+        "type": "ability_buff",
+        "settingtype": "performance",
+        "value": 3,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "memoria-eidetica",
@@ -2063,7 +2267,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "frenzy_buff",
+        "settingtype": "",
+        "value": 2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "precoz",
@@ -2217,7 +2429,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "expression",
+        "value": 2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "pesadillas",
@@ -2283,7 +2503,21 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": 2,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": 2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "amnesia",
@@ -2371,7 +2605,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "frenzy_diff",
+        "settingtype": "",
+        "value": 2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "sed-de-inocencia",
@@ -2415,7 +2657,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "frenzy_diff",
+        "settingtype": "",
+        "value": 2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "territorial",
@@ -2657,7 +2907,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_buff",
+        "settingtype": "leadership",
+        "value": 2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "protegido",
@@ -2745,7 +3003,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "perception",
+        "value": -1,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "favor",
@@ -3405,7 +3671,21 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": 1,
+        "isactive": false
+      },
+      {
+        "type": "frenzy_diff",
+        "settingtype": "",
+        "value": 2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "pawn",
@@ -3779,7 +4059,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "intimidation",
+        "value": 2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "lista-roja",
@@ -3889,7 +4177,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "resistencia-a-la-magia",
@@ -4285,7 +4593,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "stealth",
+        "value": 2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "vision-de-muerte",
@@ -4307,7 +4623,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "perception",
+        "value": 2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "embrujado",
@@ -19491,7 +19815,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "perception",
+        "value": 1,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "quietud-de-la-muerte",
@@ -19821,7 +20153,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": -3,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "piel-de-porcelana",
@@ -20327,7 +20667,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "perception",
+        "value": 2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "command-the-swarm",

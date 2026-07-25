@@ -1603,7 +1603,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "aura-inocua",
@@ -1678,7 +1686,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": -3,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": -3,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": -3,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "resplandor-qlifotico",
@@ -1703,7 +1731,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_buff",
+        "settingtype": "intimidation",
+        "value": 1,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "presencia-espectral",
@@ -10296,7 +10332,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "perception",
+        "value": -2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "lazos",
@@ -10360,7 +10404,33 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_buff",
+        "settingtype": "charisma",
+        "value": 3,
+        "isactive": true
+      },
+      {
+        "type": "attribute_buff",
+        "settingtype": "manipulation",
+        "value": 3,
+        "isactive": true
+      },
+      {
+        "type": "ability_buff",
+        "settingtype": "leadership",
+        "value": 3,
+        "isactive": true
+      },
+      {
+        "type": "ability_buff",
+        "settingtype": "subterfuge",
+        "value": 3,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "guardian-de-la-tormenta-viajero-cuantico",
@@ -10456,7 +10526,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_buff",
+        "settingtype": "strength",
+        "value": 2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_buff",
+        "settingtype": "stamina",
+        "value": 1,
+        "isactive": false
+      },
+      {
+        "type": "health_buff",
+        "settingtype": "",
+        "value": 3,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "atavismo-por-estres",
@@ -10488,7 +10578,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_buff",
+        "settingtype": "strength",
+        "value": 2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_buff",
+        "settingtype": "stamina",
+        "value": 1,
+        "isactive": false
+      },
+      {
+        "type": "health_buff",
+        "settingtype": "",
+        "value": 3,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "demasiado-duro-para-morir",
@@ -10845,7 +10955,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_buff",
+        "settingtype": "stealth",
+        "value": 1,
+        "isactive": true,
+        "scale_with_rating": true
+      }
+    ]
   },
   {
     "id": "armas-secretas",
@@ -24695,6 +24814,26 @@
     "related": [
       "beta",
       "omega-status"
+    ],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": -2,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": -2,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": -2,
+        "isactive": true
+      }
     ]
   },
   {
@@ -24970,6 +25109,26 @@
     "related": [
       "alfa",
       "beta"
+    ],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": 2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": 2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": 2,
+        "isactive": false
+      }
     ]
   },
   {
@@ -25172,6 +25331,15 @@
       }
     ],
     "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "soak_buff",
+        "settingtype": "all",
+        "value": 1,
+        "isactive": true,
+        "scale_with_rating": true
+      }
+    ],
     "mechanics_html": {
       "cost_note": "2 puntos gratuitos por punto de protección; el doble para <a href=\"/mage/sphere-effects/absorb-aggravated-damage\">absorber daño agravado</a>."
     }
@@ -25429,7 +25597,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "intimidation",
+        "value": -2,
+        "isactive": true
+      },
+      {
+        "type": "ability_diff",
+        "settingtype": "leadership",
+        "value": -2,
+        "isactive": true
+      },
+      {
+        "type": "attribute_buff",
+        "settingtype": "charisma",
+        "value": 3,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "earthbond",
@@ -25454,7 +25642,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "perception",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "elemental-touch",
@@ -25531,7 +25727,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_buff",
+        "settingtype": "perception",
+        "value": 2,
+        "isactive": true,
+        "scale_with_rating": true
+      }
+    ]
   },
   {
     "id": "extra-limbs",
@@ -25606,7 +25811,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_buff",
+        "settingtype": "athletics",
+        "value": 2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "hazardous-breath",
@@ -25958,7 +26171,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "stealth",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "ability_diff",
+        "settingtype": "streetwise",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "ability_diff",
+        "settingtype": "subterfuge",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "paradox-nullification",
@@ -26241,7 +26474,16 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "movement_buff",
+        "settingtype": "",
+        "value": 2,
+        "isactive": true,
+        "scale_with_rating": true
+      }
+    ]
   },
   {
     "id": "spirit-travel",
@@ -26655,7 +26897,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "athletics",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "esteril",
@@ -26755,7 +27005,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "athletics",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "sangre-noble",
@@ -26780,7 +27038,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "sueno-ligero",
@@ -26855,7 +27133,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_buff",
+        "settingtype": "intimidation",
+        "value": 2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "cara-de-poquer",
@@ -26880,7 +27166,21 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "intimidation",
+        "value": -2,
+        "isactive": true
+      },
+      {
+        "type": "ability_diff",
+        "settingtype": "subterfuge",
+        "value": -2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "rasgo-encantador",
@@ -26905,7 +27205,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "resistencia-al-veneno",
@@ -26930,7 +27250,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "stamina",
+        "value": -3,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "hipersensibilidad",
@@ -26955,7 +27283,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "perception",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "temerario",
@@ -26980,7 +27316,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_buff",
+        "settingtype": "athletics",
+        "value": 3,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "vision-nocturna",
@@ -27030,7 +27374,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "health_buff",
+        "settingtype": "",
+        "value": 1,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "insensible-al-dolor",
@@ -27080,7 +27432,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "leadership",
+        "value": 2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "impedimento",
@@ -27155,7 +27515,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "stamina",
+        "value": 3,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "rasgo-repulsivo",
@@ -27180,7 +27548,21 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": 2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": 2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "bajo",
@@ -27205,7 +27587,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "movement_buff",
+        "settingtype": "",
+        "value": -3,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "herida-permanente",
@@ -27280,7 +27670,33 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": 3,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": 3,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": 3,
+        "isactive": true
+      },
+      {
+        "type": "ability_diff",
+        "settingtype": "intimidation",
+        "value": -3,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "maldicion-de-la-efimera",
@@ -27330,7 +27746,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "computer",
+        "value": -2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "aptitud-mecanica",
@@ -27355,7 +27779,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "technology",
+        "value": -2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "calculador-relampago",
@@ -27380,7 +27812,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "science",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "concentracion",
@@ -27430,7 +27870,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "drive",
+        "value": -2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "dotado-artisticamente",
@@ -27455,7 +27903,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "art",
+        "value": -2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "sentido-comun",
@@ -27580,7 +28036,33 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_buff",
+        "settingtype": "expression",
+        "value": 3,
+        "isactive": false
+      },
+      {
+        "type": "ability_buff",
+        "settingtype": "etiquette",
+        "value": 3,
+        "isactive": false
+      },
+      {
+        "type": "ability_buff",
+        "settingtype": "leadership",
+        "value": 3,
+        "isactive": false
+      },
+      {
+        "type": "ability_buff",
+        "settingtype": "performance",
+        "value": 3,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "memoria-eidetica",
@@ -27955,7 +28437,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "expression",
+        "value": 2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "timido",
@@ -27980,7 +28470,21 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": 2,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": 2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "vainilla",
@@ -28230,7 +28734,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "frenzy_diff",
+        "settingtype": "",
+        "value": 2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "vengativo",
@@ -28405,7 +28917,33 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": 3,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": 3,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": 3,
+        "isactive": true
+      },
+      {
+        "type": "ability_diff",
+        "settingtype": "intimidation",
+        "value": -3,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "objetivo-dominante",
@@ -28580,7 +29118,21 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": 2,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": 2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "lastimero",
@@ -28605,7 +29157,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "intimidation",
+        "value": 2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "lealtad",
@@ -28655,7 +29215,21 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "porte-regio",
@@ -28680,7 +29254,21 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": -2,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": -2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "apoyo-familiar",
@@ -28805,7 +29393,21 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": -2,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": -2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "idioma-secreto-en-codigo",
@@ -28880,7 +29482,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_buff",
+        "settingtype": "leadership",
+        "value": 2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "magnetismo-animal",
@@ -28905,7 +29515,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "subterfuge",
+        "value": -2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "oficialmente-muerto",
@@ -28955,7 +29573,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "subterfuge",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "prestigio",
@@ -29305,7 +29931,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "empathy",
+        "value": 2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "mentor-demente-infame",
@@ -29730,7 +30364,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_buff",
+        "settingtype": "empathy",
+        "value": -1,
+        "isactive": false
+      },
+      {
+        "type": "ability_buff",
+        "settingtype": "investigation",
+        "value": -1,
+        "isactive": false
+      },
+      {
+        "type": "ability_buff",
+        "settingtype": "leadership",
+        "value": -1,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "dogmatico",
@@ -29905,7 +30559,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "subterfuge",
+        "value": 2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "notoriedad",
@@ -29930,7 +30592,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": 2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": 2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": 2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "prescindible",
@@ -30355,7 +31037,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "art",
+        "value": -2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "medium",
@@ -30380,7 +31070,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "siempre-joven",
@@ -30580,7 +31290,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "craft",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "manto-de-las-estaciones",
@@ -31280,7 +31998,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": 1,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": 1,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": 1,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "anacronismo",
@@ -35153,7 +35891,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": 1,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": 1,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": 1,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "pacifista",

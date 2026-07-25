@@ -5021,6 +5021,32 @@
       "ten-thousand-weapons",
       "typhoon-kick",
       "weapon-art"
+    ],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "brawl",
+        "value": -1,
+        "isactive": true
+      },
+      {
+        "type": "ability_diff",
+        "settingtype": "dodge",
+        "value": -1,
+        "isactive": true
+      },
+      {
+        "type": "ability_diff",
+        "settingtype": "athletics",
+        "value": -1,
+        "isactive": true
+      },
+      {
+        "type": "damage_type_set",
+        "settingtype": "natural",
+        "value": "lethal",
+        "isactive": true
+      }
     ]
   },
   {

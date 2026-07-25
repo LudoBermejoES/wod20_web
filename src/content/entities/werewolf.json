@@ -79,7 +79,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "technology",
+        "value": -2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "calculador-relampago",
@@ -104,7 +112,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "science",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "cara-de-poquer",
@@ -129,7 +145,21 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "intimidation",
+        "value": -2,
+        "isactive": true
+      },
+      {
+        "type": "ability_diff",
+        "settingtype": "subterfuge",
+        "value": -2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "codigo-de-honor",
@@ -204,7 +234,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "drive",
+        "value": -2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "conectado-socialmente",
@@ -383,7 +421,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_buff",
+        "settingtype": "intimidation",
+        "value": 2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "gelido",
@@ -508,7 +554,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_buff",
+        "settingtype": "leadership",
+        "value": 2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "linguista-natural",
@@ -533,7 +587,33 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_buff",
+        "settingtype": "expression",
+        "value": 3,
+        "isactive": false
+      },
+      {
+        "type": "ability_buff",
+        "settingtype": "etiquette",
+        "value": 3,
+        "isactive": false
+      },
+      {
+        "type": "ability_buff",
+        "settingtype": "leadership",
+        "value": 3,
+        "isactive": false
+      },
+      {
+        "type": "ability_buff",
+        "settingtype": "performance",
+        "value": 3,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "lista-negra",
@@ -583,7 +663,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "memoria-eidetica",
@@ -633,7 +733,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": 2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": 2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": 2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "obsesion",
@@ -705,7 +825,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_diff",
+        "settingtype": "subterfuge",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "pesadillas",
@@ -755,7 +883,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "secreto-oscuro",
@@ -852,7 +1000,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "ability_buff",
+        "settingtype": "athletics",
+        "value": 3,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "tept",
@@ -1003,7 +1159,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "health_buff",
+        "settingtype": "",
+        "value": 1,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "berserker",
@@ -1025,7 +1189,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_buff",
+        "settingtype": "strength",
+        "value": 2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_buff",
+        "settingtype": "stamina",
+        "value": 1,
+        "isactive": false
+      },
+      {
+        "type": "health_buff",
+        "settingtype": "",
+        "value": 3,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "totem",
@@ -19734,6 +19918,29 @@
       }
     ],
     "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_buff",
+        "settingtype": "charisma",
+        "value": 1,
+        "isactive": false,
+        "scale_with_rating": true
+      },
+      {
+        "type": "attribute_buff",
+        "settingtype": "manipulation",
+        "value": 1,
+        "isactive": false,
+        "scale_with_rating": true
+      },
+      {
+        "type": "attribute_buff",
+        "settingtype": "appearance",
+        "value": 1,
+        "isactive": false,
+        "scale_with_rating": true
+      }
+    ],
     "mechanics_html": {
       "note": "Dados extra en tiradas sociales ante Garou/<a href=\"/werewolf/backgrounds/kinfolk\">Parentela</a>/espíritus que valoran el linaje."
     }
@@ -19941,6 +20148,26 @@
       }
     ],
     "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": 1,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": 1,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": 1,
+        "isactive": false
+      }
+    ],
     "mechanics_html": {
       "note": "Garou sin manada/septo; penalización social ante Garou y sin acceso a <a href=\"/werewolf/backgrounds/resources\">recursos</a> comunales."
     }
@@ -19969,7 +20196,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "frenzy_diff",
+        "settingtype": "",
+        "value": 2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "ablifet",
@@ -23657,7 +23892,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": -2,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": -2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "vision-infrarroja",
@@ -23849,7 +24104,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "dexterity",
+        "value": 2,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "microquiroptero",
