@@ -2768,6 +2768,28 @@
     "related": []
   },
   {
+    "id": "secreto-oscuro",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Secreto Oscuro",
+    "name_es": "Secreto Oscuro",
+    "body_es": "Tienes algún tipo de secreto que, si fuera descubierto, supondría una enorme vergüenza para ti y te convertiría en un paria en la comunidad de Vástagos local. Podría ser cualquier cosa, desde haber asesinado a un Antiguo hasta haber sido miembro de los Anarquistas.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "1"
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "v20-core-rulebook-es",
+        "page": null,
+        "section_anchor": "secreto-oscuro",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
     "id": "sentido-comun",
     "type": "merit",
     "line": "hunter",
