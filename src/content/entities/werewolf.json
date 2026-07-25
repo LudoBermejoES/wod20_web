@@ -912,6 +912,78 @@
     "related": []
   },
   {
+    "id": "compasivo",
+    "type": "flaw",
+    "line": "werewolf",
+    "name_en": "Compasivo",
+    "name_es": "Compasivo",
+    "body_es": "Odias ser testigo de sufrimiento. Por desgracia, el Mundo de Tinieblas está lleno de dolor y por ello sueles verte evitando situaciones potencialmente traumáticas o tratando de aliviar el sufrimiento, incluso cuando eso te ponga en línea de fuego.\n\nCuando te enfrentes al dolor físico o emocional de alguien, haz una tirada de Fuerza de Voluntad a dificultad 8. Si fallas, tu personaje se retira de la situación o posiblemente (si sus creencias / fe / paradigma / Naturaleza exige acción) haga algo [temerario](/werewolf/merits/temerario) para prevenir más sufrimiento. Superar la tirada significa que actúas de forma normal… lo cual aún podría implicar retirarse o hacer algo [temerario](/werewolf/merits/temerario), pero mostrando algo más de autocontrol.",
+    "tags": [
+      "mental"
+    ],
+    "mechanics": {
+      "bonus": "1",
+      "category": "mental"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "compasivo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "vengativo",
+    "type": "flaw",
+    "line": "werewolf",
+    "name_en": "Vengativo",
+    "name_es": "Vengativo",
+    "body_es": "¡Te han hecho daño y van a pagar por ello! Alguien ha cometido un crimen que ni puedes ni quieres perdonar y cada vez que tengas la oportunidad, caerá sobre ellos tu ardiente venganza. Este rencor se ha convertido en tu mayor prioridad en la vida, todo lo demás es sencillamente una distracción. Puedes hacer a un lado esta búsqueda de venganza temporalmente si gastas 1 punto de Fuerza de Voluntad. Aunque, hasta que los culpables hayan sido castigados, la venganza te empujará a convertirte en la más peligrosa de las criaturas: un mago con una misión que sólo terminará con sangre.\n\n<!-- image -->",
+    "tags": [
+      "mental"
+    ],
+    "mechanics": {
+      "bonus": "2",
+      "category": "mental"
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "m20-libro-de-los-secretos",
+        "page": null,
+        "section_anchor": "vengativo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "pacifista",
+    "type": "flaw",
+    "line": "werewolf",
+    "name_en": "Pacifista",
+    "name_es": "Pacifista",
+    "body_es": "Has elegido no causar daño intencionado a nadie, ya sea por una restricción religiosa o por una decisión moral que has tomado. Puedes defenderte con magia, y esto puede ser algo en lo que te hayas especializado con ese propósito. Si adquieres este Defecto, deberías estar preparado para interpretar estas restricciones con sinceridad.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "5"
+    },
+    "sources": [
+      {
+        "book_id": "m20-sorcerer",
+        "book_title_es": "m20-sorcerer",
+        "page": null,
+        "section_anchor": "pacifista",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
     "id": "corpulento",
     "type": "merit",
     "line": "werewolf",
@@ -20152,7 +20224,7 @@
     "line": "werewolf",
     "name_en": "Kalus",
     "name_es": "Kalus",
-    "body_es": "Un Kalus es una manifestación espiritual de malos pensamientos. Estos espíritus deambulan por las Plagas de la Umbra buscando humanos que puedan ser corrompidos con facilidad. Una vez que un Kalus ha encontrado una víctima, se aferra a su mente y comienza a sugerir ideas y actos malvados al objetivo.\n\nLos Kalus no tienen una manifestación física, pero suelen aparecer en los sueños del objetivo como un sombrío fantasma de unos 45 centímetros (18 pulgadas) de alto con alas, pequeñas manos con garras y pezuñas hendidas. Si se le amenaza, un Kalus abandonará la zona y sólo volverá cuando esté a salvo.\n\nEste espíritu puramente malévolo no sirve a ningún propósito salvo forzar a una persona a infligir miseria a alos demás. Una víctima sólo necesita tener algún 'mal pensamiento' accidental; esto es carnaza suficiente para un Kalus, el cual puede volver a un ser amable y compasivo en contra de su familia y amigos.\n\nRabia 3, Gnosis 7, Fuerza de Voluntad 5, Esencia 15. Encantamientos: Corrupción.",
+    "body_es": "Un Kalus es una manifestación espiritual de malos pensamientos. Estos espíritus deambulan por las Plagas de la Umbra buscando humanos que puedan ser corrompidos con facilidad. Una vez que un Kalus ha encontrado una víctima, se aferra a su mente y comienza a sugerir ideas y actos malvados al objetivo.\n\nLos Kalus no tienen una manifestación física, pero suelen aparecer en los sueños del objetivo como un sombrío fantasma de unos 45 centímetros (18 pulgadas) de alto con alas, pequeñas manos con garras y pezuñas hendidas. Si se le amenaza, un Kalus abandonará la zona y sólo volverá cuando esté a salvo.\n\nEste espíritu puramente malévolo no sirve a ningún propósito salvo forzar a una persona a infligir miseria a alos demás. Una víctima sólo necesita tener algún 'mal pensamiento' accidental; esto es carnaza suficiente para un Kalus, el cual puede volver a un ser amable y [compasivo](/werewolf/flaws/compasivo) en contra de su familia y amigos.\n\nRabia 3, Gnosis 7, Fuerza de Voluntad 5, Esencia 15. Encantamientos: Corrupción.",
     "tags": [
       "perdición",
       "wyrm"
