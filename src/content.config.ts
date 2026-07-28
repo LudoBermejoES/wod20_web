@@ -140,6 +140,10 @@ const guideBooks = defineCollection({
     title_es: z.string(),
     book_title_es: z.string(),
     page_count: z.number().int(),
+    // Present only for a book from an edition older than its line's authoritative core
+    // (e.g. the 2nd-edition Changeling Guía del Jugador beside C20). Curated in
+    // webgen/book_outlines/<book>.json and surfaced on the book landing.
+    edition_label: z.string().optional(),
     tree: z.array(
       z.object({
         block: z.string(),

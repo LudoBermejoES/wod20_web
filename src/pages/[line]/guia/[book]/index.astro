@@ -36,6 +36,13 @@ const base = `/${line}/guia/${book}`;
       <p class="eyebrow">{info.nombre}</p>
       <p class="kicker">Guía de lectura</p>
       <h1>{data.title_es}</h1>
+      {
+        data.edition_label && (
+          <p class="edition" title="Este libro no pertenece a la edición autoritativa de la línea">
+            {data.edition_label} — edición anterior a la 20.ª aniversario
+          </p>
+        )
+      }
       <p class="meta">{data.book_title_es} · {data.page_count} secciones de lectura</p>
     </header>
 
@@ -86,6 +93,18 @@ const base = `/${line}/guia/${book}`;
       font-size: clamp(2.2rem, 1.6rem + 3.2vw, 3.75rem);
       letter-spacing: 0.005em;
       max-width: 22ch;
+    }
+    .title-page .edition {
+      margin: 0.9em 0 0;
+      display: inline-block;
+      padding: 0.25em 0.7em;
+      border: 1px solid currentColor;
+      border-radius: 999px;
+      font-family: var(--font-sans);
+      font-size: 0.78rem;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--muted);
     }
     .title-page .meta {
       margin: 0.9em 0 0;

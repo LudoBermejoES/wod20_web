@@ -20,7 +20,10 @@ const typesPresent = [...new Set(entities.map((entry) => entry.data.type))].sort
 // Books = the per-book reading sites ("guía de lectura"), the canonical book view
 // (the old flat /libros/ view was retired). Reading order: corebook first, then a
 // natural title sort so numbered "Parte N" series stay sequential.
-const isCore = (id: string) => /core|rulebook|manual-basico|nucleo|b[aá]sico/i.test(id);
+// `ensueno-20` is Changeling's 20th-Anniversary core; `manual-basico` was the 2nd-edition
+// Changeling core and is retired (replace-changeling-core-with-c20), so it is gone from
+// this list rather than kept as a dead alternative.
+const isCore = (id: string) => /core|rulebook|ensueno-20|nucleo|b[aá]sico/i.test(id);
 const readingBooks = (await getCollection('guideBooks', (e) => e.data.line === line))
   .map((b) => b.data)
   .sort((a, b) => {

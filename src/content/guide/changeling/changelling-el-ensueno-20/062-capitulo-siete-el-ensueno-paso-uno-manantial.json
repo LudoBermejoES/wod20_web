@@ -1,0 +1,40 @@
+{
+  "book_id": "changelling-el-ensueno-20",
+  "line": "changeling",
+  "order": 62,
+  "slug": "capitulo-siete-el-ensueno-paso-uno-manantial",
+  "block": "libro-tres",
+  "block_title": "Libro Tres: Gruñón",
+  "chapter": "Capítulo Siete: El Ensueño",
+  "part": "Capítulo Siete: El Ensueño",
+  "section": "paso Uno: manantial",
+  "title": "Capítulo Siete: El Ensueño: paso Uno: manantial",
+  "content_type": "lore",
+  "source_line_range": [
+    11976,
+    12007
+  ],
+  "body_md": "## paso Uno: manantial\n\nLos Manantiales son lugares donde permea el Ensueño, creando burbujas en la piel de lo mundano. Los Manantiales libres son increíblemente escasos en la actualidad; la mayoría han sido reclamados por otros changelings, magos o cambiaformas.\n\nLos Manantiales que atraviesan burbujeando ciudades y pueblos suelen atravesar los límites del Ensueño en lugares ricos en emociones, creatividad y sueños. Por ejemplo, la casa al lado de la de un famoso autor de fantasía o el escenario al aire libre de un parque público.\n\n## paso dos: rath\n\nEl aspirante a propietario del Feudo necesita atravesar la piel del mundo usando [Viaje](/changeling/arts/wayfare) ([Portal de Paso](/changeling/cantrips/portal-passage)) y Hada\n\n(Portador de Glamour) para crear un Rath. Si carece del conocimiento necesario de [Viaje](/changeling/arts/wayfare) o Hada, puede alternativamente usar un tesoro que contenga los mismos niveles o convencer a una quimera consciente con la Rede Cruzar el Ensueño para que lo abra por él.\n\n## paso trEs: hogUEra\n\nCrear una nueva Hoguera es un proceso arduo y largo que involucra reunir Glamour resonante de Soñadores cuyos sueños reflejen la [naturaleza](/changeling/realms/nature) del Feudo que el changeling desea construir o coleccionar Barcia de quimeras de la zona en que desea crearlo. Luego lo invierte gradualmente en un fuego mundano. Una vez ha alimentado las llamas con suficiente Glamour (siete veces el nivel previsto del Feudo), el Glamour prende. Si el fuego muere antes de los pasos finales, debe comenzar otra vez con un nuevo fuego y nuevos Soñadores.\n\nAlternativamente, puede portar una antorcha que arda con la llamas de otra Hoguera y prender una propia. Aunque esto parece fácil y rápido de primeras, tomar la llama de un Feudo conlleva sus propias complicaciones, ante todo, que debilita la Hoguera progenitora en 1 rango hasta que se complete el nuevo Feudo. En el mejor de los casos, la mayoría de propietarios de Feudos recelan ante tales peticiones y son hostiles en el peor, pero pueden ofrecer la llama como favor o recompensa (y, por supuesto, los changelings pueden tratar de robarla).\n\n## paso CUatro: glamoUr\n\nEl paso más sencillo es también en el que los changelings tienen más problemas: invertir Glamour personal en la Hoguera. A pesar de hablar de boquilla de la santidad de los Feudos y de la necesidad de más espacios sagrados, muchos changelings son reluctantes ante la idea de debilitarse para crear más Feudos.\n\nMétodos alternativos de invertir Glamour pueden disminuir el impacto que crear un Feudo tiene en un individuo:\n\n- Los círculos de juramento y cuadrillas pueden compartir la carga, cada uno contribuye con 1 o más puntos permanentes de Glamour hasta que se alcance el rango previsto.\n- El propietario del Feudo puede sacrificar compañeros quiméricos a las llamas. Aunque esta práctica ha caído en gran medida en desuso, recuerda a ancestrales rituales de magia sacrificial de fertilidad. Una quimera voluntaria reduce el coste de Glamour invertido en su puntuación +1, sin efectos adversos para el propietario del Feudo. Para determinar la puntuación de la quimera, ver Quimeras , pág. 315. Una quimera reticente sacrificada reduce el coste del Glamour invertido en su puntuación - 1.\n- El propietario del Feudo puede destruir uno o más Tesoros ( - ) para mitigar el coste personal. Esto genera Banalidad (ver pág. 268) y es el método más arriesgado, dado que desencadena una tirada inmediata de estabilidad, con una reserva igual a la puntuación del Feudo a una dificultad igual a la Banalidad permanente del changeling. Superarla reduce el coste de la inversión en la puntuación del tesoro. Si la tirada falla, el Manantial queda inutilizable durante un año y un día y el propietario del Feudo debe comenzar desde el principio. Si fracasa, el propietario del Feudo sufre además una cantidad de daño letal igual a la puntuación del Feudo.\n\nNo importa qué método use el propietario del Feudo, siempre debe invertir al menos 1 punto permanente de Glamour para anclar la Hoguera.",
+  "toc": [
+    {
+      "text": "paso dos: rath",
+      "anchor": "paso-dos-rath"
+    },
+    {
+      "text": "paso trEs: hogUEra",
+      "anchor": "paso-tres-hoguera"
+    },
+    {
+      "text": "paso CUatro: glamoUr",
+      "anchor": "paso-cuatro-glamour"
+    }
+  ],
+  "prev": {
+    "slug": "capitulo-siete-el-ensueno-los-tres-caminos",
+    "title": "Capítulo Siete: El Ensueño: los trEs Caminos"
+  },
+  "next": {
+    "slug": "capitulo-siete-el-ensueno-paso-cinco-feudo",
+    "title": "Capítulo Siete: El Ensueño: paso CinCo: fEUdo"
+  }
+}

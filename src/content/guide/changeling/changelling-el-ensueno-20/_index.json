@@ -1,0 +1,711 @@
+{
+  "book_id": "changelling-el-ensueno-20",
+  "line": "changeling",
+  "title_es": "Changeling: El Ensueño — 20º Aniversario",
+  "book_title_es": "Changeling: El Ensueño — 20º Aniversario",
+  "page_count": 96,
+  "tree": [
+    {
+      "block": "front-matter",
+      "block_title": "Portada y Créditos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "creditos-y-dedicatorias",
+              "title": "Créditos y Dedicatorias",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "libro-uno",
+      "block_title": "Libro Uno: Infantil",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "libro-uno-infantil",
+              "title": "Libro Uno: Infantil",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        },
+        {
+          "chapter": "Preludio",
+          "pages": [
+            {
+              "slug": "preludio-las-dos-caras-de-la-moneda",
+              "title": "Preludio: Las dos caras de la moneda",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        },
+        {
+          "chapter": "Introducción",
+          "pages": [
+            {
+              "slug": "introduccion",
+              "title": "Introducción",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "lexicon",
+              "title": "Lexicón",
+              "part": null,
+              "content_type": "glossary"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Uno: Un Mundo de Tinieblas",
+          "pages": [
+            {
+              "slug": "capitulo-uno-un-mundo-de-tinieblas",
+              "title": "Capítulo Uno: Un Mundo de Tinieblas",
+              "part": "Capítulo Uno: Un Mundo de Tinieblas",
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-uno-un-mundo-de-tinieblas-el-interregno",
+              "title": "El intErrEgno",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-uno-un-mundo-de-tinieblas-hambre-de-suenos",
+              "title": "hambrE dE sUEños",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-uno-un-mundo-de-tinieblas-el-deshacer",
+              "title": "El dEshaCEr",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-uno-un-mundo-de-tinieblas-lugares-de-glamour",
+              "title": "lUgarEs dE glamoUr",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-uno-un-mundo-de-tinieblas-hijos-insolitos-del-ensueno",
+              "title": "hijos insólitos dEl EnsUEño",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-uno-un-mundo-de-tinieblas-nunca-olvides-una-deuda",
+              "title": "nUnCa olvidEs Una dEUda",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-uno-un-mundo-de-tinieblas-el-reino-de-concordia",
+              "title": "El rEino dE ConCordia",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-uno-un-mundo-de-tinieblas-reino-de-las-arenas-blancas-florida",
+              "title": "Capítulo Uno: Un Mundo de Tinieblas: rEino dE las arEnas blanCas (florida)",
+              "part": "Capítulo Uno: Un Mundo de Tinieblas",
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-uno-un-mundo-de-tinieblas-las-tierras-altas",
+              "title": "Capítulo Uno: Un Mundo de Tinieblas: las tiErras altas",
+              "part": "Capítulo Uno: Un Mundo de Tinieblas",
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Dos: Los Kithain",
+          "pages": [
+            {
+              "slug": "capitulo-dos-los-kithain",
+              "title": "Capítulo Dos: Los Kithain",
+              "part": "Capítulo Dos: Los Kithain",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-dos-los-kithain-privilegios",
+              "title": "privilEgios",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-dos-los-kithain-privilegios-2",
+              "title": "privilEgios",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-dos-los-kithain-privilegios-3",
+              "title": "privilEgios",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-dos-los-kithain-privilegios-4",
+              "title": "privilEgios",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-dos-los-kithain-paso-uno-concepto",
+              "title": "paso Uno: ConCEpto",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-dos-los-kithain-paso-tres-privilegio",
+              "title": "paso trEs: privilEgio",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-dos-los-kithain-paso-seis-ajustar-lo-necesario",
+              "title": "Capítulo Dos: Los Kithain: paso sEis: ajUstar lo nECEsario",
+              "part": "Capítulo Dos: Los Kithain",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-dos-los-kithain-favor",
+              "title": "favor",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-dos-los-kithain-favor-2",
+              "title": "favor",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-dos-los-kithain-favor-3",
+              "title": "favor",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Tres: Creación de Personajes y Rasgos",
+          "pages": [
+            {
+              "slug": "capitulo-tres-creacion-de-personajes-y-rasgos",
+              "title": "Capítulo Tres: Creación de Personajes y Rasgos",
+              "part": "Capítulo Tres: Creación de Personajes y Rasgos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-tres-creacion-de-personajes-y-rasgos-paso-nueve-la-chispa-de-la-vida",
+              "title": "paso nUEvE: la Chispa dE la vida",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-tres-creacion-de-personajes-y-rasgos-paso-nueve-la-chispa-de-la-vida-2",
+              "title": "Capítulo Tres: Creación de Personajes y Rasgos: paso nUEvE: la Chispa dE la vida",
+              "part": "Capítulo Tres: Creación de Personajes y Rasgos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-tres-creacion-de-personajes-y-rasgos-meritos-y-defectos",
+              "title": "méritos y dEfECtos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-tres-creacion-de-personajes-y-rasgos-santo",
+              "title": "santo",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-tres-creacion-de-personajes-y-rasgos-talentos",
+              "title": "talEntos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-tres-creacion-de-personajes-y-rasgos-tecnicas",
+              "title": "téCniCas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-tres-creacion-de-personajes-y-rasgos-conocimientos",
+              "title": "Capítulo Tres: Creación de Personajes y Rasgos: ConoCimiEntos",
+              "part": "Capítulo Tres: Creación de Personajes y Rasgos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-tres-creacion-de-personajes-y-rasgos-limites-superiores",
+              "title": "Capítulo Tres: Creación de Personajes y Rasgos: límitEs sUpEriorEs",
+              "part": "Capítulo Tres: Creación de Personajes y Rasgos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-tres-creacion-de-personajes-y-rasgos-cara-amistosa-merito-de-1-punto",
+              "title": "Capítulo Tres: Creación de Personajes y Rasgos: Cara amistosa (mérito dE 1 pUnto)",
+              "part": "Capítulo Tres: Creación de Personajes y Rasgos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-tres-creacion-de-personajes-y-rasgos-atormentado-por-la-culpa-defecto-de-4-puntos",
+              "title": "Capítulo Tres: Creación de Personajes y Rasgos: atormEntado por la CUlpa (dEfECto dE 4 pUntos)",
+              "part": "Capítulo Tres: Creación de Personajes y Rasgos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-tres-creacion-de-personajes-y-rasgos-cualidad-extrana-defecto-de-2-puntos",
+              "title": "CUalidad Extraña (dEfECto dE 2 pUntos)",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "libro-dos",
+      "block_title": "Libro Dos: Rebelde",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "libro-dos-rebelde",
+              "title": "Libro Dos: Rebelde",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Cuatro: Artes y Reinos",
+          "pages": [
+            {
+              "slug": "capitulo-cuatro-artes-y-reinos",
+              "title": "Capítulo Cuatro: Artes y Reinos",
+              "part": "Capítulo Cuatro: Artes y Reinos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-artes-y-reinos-paso-siete-completar-el-cantrip",
+              "title": "Capítulo Cuatro: Artes y Reinos: Paso siete: Completar el cantrip",
+              "part": "Capítulo Cuatro: Artes y Reinos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-artes-y-reinos-disparates-de-cronos",
+              "title": "disparatEs dE Cronos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-artes-y-reinos-ira-del-dragon",
+              "title": "ira dEl dragón",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-artes-y-reinos-oniromancia",
+              "title": "oniromanCia",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-artes-y-reinos-i-lum-i-nar",
+              "title": "I LUM I NAR",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-artes-y-reinos-verde-recuperacion",
+              "title": "vErdE rECUpEraCión",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-artes-y-reinos-tipo-quimerico",
+              "title": "Tipo: Quimérico.",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-cuatro-artes-y-reinos-amigo-verdadero",
+              "title": "Capítulo Cuatro: Artes y Reinos: amigo vErdadEro",
+              "part": "Capítulo Cuatro: Artes y Reinos",
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Cinco: Reglas",
+          "pages": [
+            {
+              "slug": "capitulo-cinco-reglas",
+              "title": "Capítulo Cinco: Reglas",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Seis: Sistemas y Drama",
+          "pages": [
+            {
+              "slug": "capitulo-seis-sistemas-y-drama",
+              "title": "Capítulo Seis: Sistemas y Drama",
+              "part": "Capítulo Seis: Sistemas y Drama",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-seis-sistemas-y-drama-interpretacion-de-suenos",
+              "title": "intErprEtaCión dE sUEños",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-seis-sistemas-y-drama-extasis-la-senda-de-la-autoinspiracion",
+              "title": "éxtasis (la sEnda dE la aUtoinspiraCión)",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-seis-sistemas-y-drama-juramento-de-los-corazones-sinceros",
+              "title": "Juramento de los Corazones Sinceros",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-seis-sistemas-y-drama-invocar-el-otono",
+              "title": "invoCar El otoño",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-seis-sistemas-y-drama-primera-fase-iniciativa",
+              "title": "primEra fasE: iniCiativa",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-seis-sistemas-y-drama-complicaciones-del-combate-a-distancia",
+              "title": "CompliCaCionEs dEl CombatE a distanCia",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-seis-sistemas-y-drama-armas-a-distancia",
+              "title": "armas a distanCia",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-seis-sistemas-y-drama-fuego",
+              "title": "fUEgo",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "libro-tres",
+      "block_title": "Libro Tres: Gruñón",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "libro-tres-grunon",
+              "title": "Libro Tres: Gruñón",
+              "part": null,
+              "content_type": "fiction"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Siete: El Ensueño",
+          "pages": [
+            {
+              "slug": "capitulo-siete-el-ensueno",
+              "title": "Capítulo Siete: El Ensueño",
+              "part": "Capítulo Siete: El Ensueño",
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-siete-el-ensueno-los-firchlis",
+              "title": "los firChlis",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-siete-el-ensueno-los-tres-caminos",
+              "title": "los trEs Caminos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-siete-el-ensueno-paso-uno-manantial",
+              "title": "paso Uno: manantial",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-siete-el-ensueno-paso-cinco-feudo",
+              "title": "Capítulo Siete: El Ensueño: paso CinCo: fEUdo",
+              "part": "Capítulo Siete: El Ensueño",
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-siete-el-ensueno-crear-companeros-quimericos",
+              "title": "CrEar CompañEros QUimériCos",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-siete-el-ensueno-el-poder-de-los-tesoros",
+              "title": "El podEr dE los tEsoros",
+              "part": null,
+              "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Ocho: Narración",
+          "pages": [
+            {
+              "slug": "capitulo-ocho-narracion",
+              "title": "Capítulo Ocho: Narración",
+              "part": "Capítulo Ocho: Narración",
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-ocho-narracion-capitulo",
+              "title": "CapítUlo",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-ocho-narracion-climax",
+              "title": "Clímax",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "capitulo-ocho-narracion-dar-la-vuelta-a-la-pregunta",
+              "title": "dar la vUElta a la prEgUnta",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Nueve: Pesadillas y Cosas Más Extrañas",
+          "pages": [
+            {
+              "slug": "capitulo-nueve-pesadillas-y-cosas-mas-extranas",
+              "title": "Capítulo Nueve: Pesadillas y Cosas Más Extrañas",
+              "part": "Capítulo Nueve: Pesadillas y Cosas Más Extrañas",
+              "content_type": "reference"
+            },
+            {
+              "slug": "capitulo-nueve-pesadillas-y-cosas-mas-extranas-poderes-y-debilidades",
+              "title": "podErEs y dEbilidadEs",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "capitulo-nueve-pesadillas-y-cosas-mas-extranas-demonios",
+              "title": "dEmonios",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "capitulo-nueve-pesadillas-y-cosas-mas-extranas-marca-del-abandonado",
+              "title": "marCa dEl abandonado",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "capitulo-nueve-pesadillas-y-cosas-mas-extranas-persona-de-otono-de-ejemplo-critico-teatral",
+              "title": "pErsona dE otoño dE EjEmplo: CrítiCo tEatral",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "capitulo-nueve-pesadillas-y-cosas-mas-extranas-rebelde-rondador",
+              "title": "Capítulo Nueve: Pesadillas y Cosas Más Extrañas: rEbEldE: rondador",
+              "part": "Capítulo Nueve: Pesadillas y Cosas Más Extrañas",
+              "content_type": "reference"
+            },
+            {
+              "slug": "capitulo-nueve-pesadillas-y-cosas-mas-extranas-boggarts",
+              "title": "Capítulo Nueve: Pesadillas y Cosas Más Extrañas: boggarts",
+              "part": "Capítulo Nueve: Pesadillas y Cosas Más Extrañas",
+              "content_type": "reference"
+            },
+            {
+              "slug": "capitulo-nueve-pesadillas-y-cosas-mas-extranas-vulnerabilidad",
+              "title": "Capítulo Nueve: Pesadillas y Cosas Más Extrañas: vUlnErabilidad",
+              "part": "Capítulo Nueve: Pesadillas y Cosas Más Extrañas",
+              "content_type": "reference"
+            },
+            {
+              "slug": "capitulo-nueve-pesadillas-y-cosas-mas-extranas-creencia-y-gobierno",
+              "title": "CrEEnCia y gobiErno",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "capitulo-nueve-pesadillas-y-cosas-mas-extranas-keremet",
+              "title": "KErEmEt",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "apendices",
+      "block_title": "Apéndices",
+      "chapters": [
+        {
+          "chapter": "Apéndice I: Gallain",
+          "pages": [
+            {
+              "slug": "apendice-i-gallain",
+              "title": "Apéndice I: Gallain",
+              "part": "Apéndice I: Gallain",
+              "content_type": "reference"
+            },
+            {
+              "slug": "apendice-i-gallain-campamentos",
+              "title": "CampamEntos",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "apendice-i-gallain-privilegios",
+              "title": "Apéndice I: Gallain: privilEgios",
+              "part": "Apéndice I: Gallain",
+              "content_type": "reference"
+            },
+            {
+              "slug": "apendice-i-gallain-guia-espiritual",
+              "title": "Apéndice I: Gallain: gUía EspiritUal",
+              "part": "Apéndice I: Gallain",
+              "content_type": "reference"
+            },
+            {
+              "slug": "apendice-i-gallain-historia",
+              "title": "historia",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "apendice-i-gallain-privilegios-2",
+              "title": "Apéndice I: Gallain: privilEgios",
+              "part": "Apéndice I: Gallain",
+              "content_type": "reference"
+            },
+            {
+              "slug": "apendice-i-gallain-hsien",
+              "title": "Apéndice I: Gallain: hsiEn",
+              "part": "Apéndice I: Gallain",
+              "content_type": "reference"
+            },
+            {
+              "slug": "apendice-i-gallain-fu-hsi",
+              "title": "fU hsi",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "apendice-i-gallain-los-elementos",
+              "title": "los ElEmEntos",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "apendice-i-gallain-despertar-los-elementos",
+              "title": "dEspErtar los ElEmEntos",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "apendice-i-gallain-siega",
+              "title": "siEga",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "apendice-i-gallain-magia-estacional-merito-de-5-puntos-ni-labrados-ni-manikis",
+              "title": "Apéndice I: Gallain: magia EstaCional (mérito dE 5 pUntos; ni labrados ni maniKís)",
+              "part": "Apéndice I: Gallain",
+              "content_type": "reference"
+            },
+            {
+              "slug": "apendice-i-gallain-oba",
+              "title": "oba",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        },
+        {
+          "chapter": "Apéndice II: Los Encantados",
+          "pages": [
+            {
+              "slug": "apendice-ii-los-encantados",
+              "title": "Apéndice II: Los Encantados",
+              "part": "Apéndice II: Los Encantados",
+              "content_type": "reference"
+            },
+            {
+              "slug": "apendice-ii-los-encantados-kinain-como-antagonistas",
+              "title": "Kinain Como antagonistas",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "back-matter",
+      "block_title": "Contraportada",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "mecenas-de-c20",
+              "title": "Mecenas de C20",
+              "part": null,
+              "content_type": "back-matter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

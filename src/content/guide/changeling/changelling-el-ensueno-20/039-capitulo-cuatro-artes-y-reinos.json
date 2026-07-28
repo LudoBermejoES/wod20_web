@@ -1,0 +1,76 @@
+{
+  "book_id": "changelling-el-ensueno-20",
+  "line": "changeling",
+  "order": 39,
+  "slug": "capitulo-cuatro-artes-y-reinos",
+  "block": "libro-dos",
+  "block_title": "Libro Dos: Rebelde",
+  "chapter": "Capítulo Cuatro: Artes y Reinos",
+  "part": "Capítulo Cuatro: Artes y Reinos",
+  "section": null,
+  "title": "Capítulo Cuatro: Artes y Reinos",
+  "content_type": "rule",
+  "source_line_range": [
+    7136,
+    7295
+  ],
+  "body_md": "capítulo\n\nartes y reInos\n\ncuatro:\n\n«Te enseñé a luchar y a volar. ¿Qué más podría haber?»\n\n-J. M. Barrie, Peter Pan y Wendy\n\nCada changeling camina sobre una peligrosa cuerda floja entre las caóticas mareas del Ensueño y la pesada ancla de lo mundano. Con un pie en ambos mundos, los Kithain desarrollan poderosas habilidades al canalizar el Glamour del Ensueño hacia el Mundo de Otoño. Los changelings tejen Glamour con fines maravillosos y aterradores, lo que da lugar a las leyendas de hadas que roban recuerdos, saltan montañas y dan nueva forma al mundo en una [efigie](/changeling/cantrips/effigy) a sueños olvidados.\n\nLas magias de las hadas se conocen de forma colectiva como Artes. Aprender un Arte requiere dominar una serie progresiva de talentos que permiten al changeling reorganizar de diversas formas lo quimérico y lo mundano con Glamour. Los Kithain también deben dedicar tiempo a aprender cómo afecta su poder a su objetivo. Las Artes describen la magia feérica disponible para el personaje, mientras que los Reinos determinan el ámbito y el enfoque de dichas Artes.\n\nHistóricamente, ciertas Artes eran tabú. Ambas Cortes guardaban el conocimiento de Invierno y de Verano, pero cuando un Kithain poderoso cambiaba de Luminoso a Oscuro (o viceversa), compartía los secretos de sus estaciones. Los nobles y aristócratas a menudo desdeñaban las Artes 'plebeyas', como [Embustes](/changeling/arts/chicanery) o [Prestidigitación](/changeling/arts/legerdemain), mientras que guardaban celosamente la magia de las Artes [Sidhe](/changeling/kiths/sidhe) Nombrar y Cronos. En la actualidad, estos prejuicios siguen existiendo, pero ya no se imponen, ni mágicamente ni de ninguna otra forma. Los Kithain ya no pueden negar que cualquier changeling, independientemente de su Corte, rango o actitud, es capaz de aprender cualquier Arte.\n\n## Cantrips\n\nLos changelings usan cantrips, el acto de canalizar el Glamour en un Arte para reorganizar el mundo quimérico, e incluso el físico, a su voluntad. La [naturaleza](/changeling/realms/nature) feérica del Kithain sirve como conducto para que el Glamour pase del Ensueño al mundo mortal, y su nivel de dominio de un Arte determinada dicta qué clase de caos mágico crea.\n\nTodos los cantrips incluyen una habilidad concreta dentro de un Arte (representada por la puntuación\n\n193\n\nen el Arte usada), uno o más Reinos (que indican el enfoque u objetivo de esa Arte) y, normalmente, un Disparate (ver más adelante). La magia de un Kithain está limitada por su dominio de los Reinos: al usar un cantrip, no puede concentrar un Arte en nada ni nadie fuera del alcance de los Reinos que posee. El Desatar (ver pág. 196) no está limitado por los Reinos, ya que consiste en dirigir una oleada de Glamour directamente usando un Arte.\n\nPara invocar un cantrip, el jugador decide qué nivel del Arte usará el personaje, añade al menos un Reino que conozca para determinar el objetivo del poder y gasta Glamour en base al tipo de cantrip: quimérico o de Fantasía. Los changelings pueden aplicar los efectos de un cantrip a diferentes tipos de objetivos simultáneamente usando múltiples Reinos, pero eso incrementa la dificultad.\n\n## tipos dE Cantrips\n\nLa descripción de cada nivel de un Arte establece si el efecto es quimérico, de Fantasía o si queda a elección del jugador. Los efectos quiméricos no se manifiestan en el Mundo de Otoño y por ello son invisibles para los personajes no Encantados, mientras que los de Fantasía existen en igual medida en ambos mundos. Si un Arte se puede invocar como de ambos tipos, el jugador puede decidir cuál usar gastando la cantidad adecuada de Glamour.\n\n## CostE dE glamoUr dE Un Cantrip\n\nLos cantrips quiméricos no requieren que el jugador gaste Glamour. Los de Fantasía requieren que gaste 1 punto de Glamour. Usar un Reino o un nivel de Reino que el personaje no posee (ver pág. 232) incrementa el coste total del cantrip en 1 punto de Glamour por cada Reino 'impostado'. Los costes de Glamour de un cantrip se pagan antes de tirar los dados.\n\n## rEsErva dE dados dE Un Cantrip\n\nLos jugadores tiran un número de dados igual a la puntuación del personaje en el Arte más la puntuación en el menor Reino principal usado (Hada, [Actor](/changeling/realms/actor), [Naturaleza](/changeling/realms/nature) u [Objeto](/changeling/realms/prop)). Los Reinos modificadores ([Escena](/changeling/realms/scene) y Tiempo) cambian el alcance del cantrip, pero no alteran el número de dados de la reserva. Todos los cantrips comienzan con dificultad 8, pero diversos factores la modificarán (ver tabla).\n\nEl jugador debe reemplazar los dados de la reserva de su cantrip con un número de dados distintos (de otro color, por ejemplo) igual a la puntuación de Pesadilla del personaje. Para una descripción completa de los dados de Pesadilla y sus efectos, ver pág. 274.\n\n## disparatEs\n\nLos changelings usan Disparates, acciones y eventos que recuerdan al mundo mundano el Ensueño, para aliviar la fricción de dirigir Glamour hacia el mundo mortal al lanzar un cantrip. Cuanto más elaborado o peligroso sea un Disparate, más fácil es invocar el Arte con el cantrip. Un personaje puede hacer cualquier cosa al usar un Disparate, pero suele involucrar ponerse en peligro o asumir un riesgo, llamar la atención, usar o destruir algo, sincronizar el cantrip con un evento concreto o repetir algo un determinado número de veces.\n\n| Dificultad del cantrip | Modificadores |\n|---------------------------------------------------------------------------|-----------------|\n| Banalidad del objetivo > 7 | +1 |\n| Banalidad del lugar actual > 7 | +1 |\n| Usar el Reino Escena | +1 |\n| Usar el Reino Tiempo | +1 |\n| Tiene por objetivo a un changeling con mayor Título sin su consentimiento | +1 |\n| Reemplazar voluntariamente al menos 3 dados con dados de Pesadilla | -1 |\n| Cantrip realizado en un Feudo | -1 |\n| Cantrip realizado sobre un mortal Encantado o un Kinain | -1 |\n| Cantrip realizado con un Disparate | -1 a -5 |\n| Usar el Reino Afín del Linaje | -1 |\n\nRealizar un Disparate no consiste en ser absurdo u ofensivo per se , sino de interrumpir el agarre de la Banalidad sobre la zona lo justo para que sea más fácil hacer magia. Por eso los Disparates llamativos e impactantes tienden a ser más efectivos. Por supuesto, si el changeling busca ser sutil o actuar con dignidad, necesita confeccionar su Disparate en consecuencia; los [Sidhe](/changeling/kiths/sidhe) son verdaderos maestros en causar una buena impresión sin resultar ridículos.\n\nDespués de que un jugador describa lo que hace el personaje para realizar el Disparate, el Narrador determina si éste requiere una tirada con una reserva de dados aparte y de qué manera modifica la dificultad de la tirada del cantrip. Fallar en una tirada de Disparate no reduce necesariamente su impacto en la dificultad del cantrip.\n\nLos Narradores deberían considerar algunos factores al decidir el impacto de un Disparate en la dificultad de un cantrip:\n\n## ¿Cuánto riesgo, tiempo o inversión personal está dedicando el personaje en el Disparate?\n\nPasar un turno bailando un vals conferiría un -1 de dificultad en la mayoría de circunstancias, pero realizar una elaborada danza ritual a las 11:11 de la noche cada día durante tres días probablemente reduciría la dificultad en -4.\n\n## ¿Con qué efectividad lleva el Disparate las reglas y la realidad del Ensueño al mundo mundano?\n\nRomper una taza en el suelo de la cafetería de barrio donde todo el mundo está acostumbrado a los tejemanejes de la cuadrilla podría conceder -1 a la dificultad, pero lanzar una copa de buen vino en un restaurante elegante debería conceder -2, quizás -3 si el gerente llama a la policía.\n\n## ¿Cómo reaccionan los demás jugadores al Disparate descrito?\n\nSi los demás jugadores del grupo se parten de risa o se quedan [sin aliento](/changeling/cantrips/breathless) o impresionados de alguna otra forma por\n\n\n\n| Ejemplo de Disparate | Modificador habitual |\n|---------------------------------------------------------------------------|------------------------|\n| Eructo fuerte | -1 |\n| Monólogo espontáneo | -1 |\n| Colarse en una foto de grupo | -1 |\n| Lanzar cartas a un sombrero | -1 |\n| Quemar un billete de dólar | -1 |\n| Meterte toda una hamburguesa con queso en la boca | -1 |\n| Conjurar el cantrip al atardecer / amanecer | -1 |\n| Conjurar el cantrip exactamente a las 12:34 | -1 |\n| Decir lo mismo que el objetivo a la vez (¡gafe!) | -1 |\n| Cortarse un dedo hasta que sangre | -1 |\n| Insultar a un extraño | -1 |\n| Empezar una pelea | -2 |\n| Insultar a un policía | -2 |\n| Correr desnudo por un campus atestado de gente | -2 |\n| Interpretar para una multitud | -2 |\n| Hacer cualquier cosa que provoque que la gente te grabe con su teléfono | -2 |\n| Destruir un objeto caro | -2 |\n| Movimiento sincronizado con uno o varios objetivos o compañeros | -2 |\n| Recrear un momento o escena relevantes de una película | -2 |\n| Usar una espada ceremonial en un ritual elaborado | -3 |\n| Ser entrevistado en el noticiario nocturno local | -3 |\n| Enseñar el culo en la pantalla gigante en un partido con el estadio lleno | -3 |\n| Malabares con motosierras | -3 |\n| Hacerse (o hacer) un tatuaje | -3 |\n| Quemar un querido recuerdo | -3 |\n| Correr por una calle llena de gente | -3 |\n| Contar un oscuro secreto a un amante | -3 |\n| Lanzar miles de dólares a una multitud | -4 |\n| Hacer que tu foto aparezca en la primera plana del periódico | -4 |\n| Quemar tu casa | -4 |\n| Repetir un elaborado ritual en el mismo momento durante tres días | -4 |\n| Conjurar un cantrip justo cuando el cometa Halley pasa sobre tu cabeza | -4 |\n| Jugar a la ruleta rusa | -4 |\n| Dar un discurso televisado en todo el mundo | -4 |\n| Protagonizar un vídeo viral con millones de visitas | -4 |\n| Dibujar un bigote en un cuadro famoso | -5 |\n| Arrojar una gema de valor incalculable al océano | -5 |\n| Matar a un hijo en el aniversario de la muerte de su padre | -5 |\n| Permanecer enfrente de un coche que está acelerando | -5 |\n| Participar en un duelo con armas mortales | -5 |\n| Liderar un ejército a la guerra | -5 |\n| Caída libre sin paracaídas | -5 |\n\n\n\nel Disparate del personaje, asegúrate de recompensar al jugador por crear un gran momento con un -1 o -2 adicional a la dificultad del cantrip.\n\nEjemplo: Rosita decide que su personaje, un [Redcap](/changeling/kiths/redcap) que trata de escapar de los sicarios de la corte local, usará [Embustes](/changeling/arts/chicanery) para ocultarse. Describe cómo se baja la bragueta y orina dibujando un elaborado glifo en el suelo a su alrededor. Hay una broma recurrente en la partida sobre el personaje de Rosita meándose en los enemigos de la cuadrilla, y el Disparate provoca las risas de toda la mesa. El Narrador decide que el Disparate proporciona un -2 a la dificultad del cantrip.\n\nMás tarde en la misma partida, el personaje de Rosita conjura un cantrip de [Viaje](/changeling/arts/wayfare) y salta de una azotea a otra. El Narrador pide a Rosita que tire su Destreza + Atletismo. Ya supere o falle la tirada, el Narrador decide que el Disparate concede un -3 a la dificultad del cantrip, pero fallar en la tirada de Atletismo significará que no alcanza la azotea.\n\n\n\n## Paso uno: Arte\n\nEl jugador decide usar un nivel específico de un Arte concreta.\n\n## Paso dos: Reino(s)\n\nEl jugador determina los Reinos requeridos que necesita para usar el Arte deseada, incluyendo los Reinos modificadores (Tiempo y [Escena](/changeling/realms/scene)).\n\n## Paso tres: Gastar Glamour\n\nEl jugador gasta 1 punto de Glamour por cualquier cantrip de Fantasía y suma 1 punto adicional si usa más de un Reino o 'imposta' alguno.\n\n## Paso cuatro: Determinar la reserva de dados\n\nEl jugador tira la puntuación del Arte del personaje más su puntuación en el Reino primario más bajo (Hada, [Actor](/changeling/realms/actor), [Naturaleza](/changeling/realms/nature), [Objeto](/changeling/realms/prop)) usado en el cantrip. Tiempo y [Escena](/changeling/realms/scene) nunca influyen en la reserva de dados. El jugador reemplaza un número de dados en la reserva igual a su puntuación actual de Pesadilla sin que exceda su reserva de dados.\n\n## Paso cinco: Disparate\n\nEl jugador decide si el personaje realiza un Disparate o no, y entonces divide su reserva de dados o aplaza la tirada del cantrip hasta que las acciones necesarias para el Disparate se hayan resuelto.\n\n## Paso seis: Determinar la dificultad\n\nEl Narrador determina la dificultad (por defecto, 8) con los modificadores relevantes.",
+  "toc": [
+    {
+      "text": "tipos dE Cantrips",
+      "anchor": "tipos-de-cantrips"
+    },
+    {
+      "text": "rEsErva dE dados dE Un Cantrip",
+      "anchor": "reserva-de-dados-de-un-cantrip"
+    },
+    {
+      "text": "disparatEs",
+      "anchor": "disparates"
+    },
+    {
+      "text": "¿Cuánto riesgo, tiempo o inversión personal está dedicando el personaje en el Disparate?",
+      "anchor": "cuanto-riesgo-tiempo-o-inversion-personal-esta-dedicando-el-personaje-en-el-disparate"
+    },
+    {
+      "text": "¿Con qué efectividad lleva el Disparate las reglas y la realidad del Ensueño al mundo mundano?",
+      "anchor": "con-que-efectividad-lleva-el-disparate-las-reglas-y-la-realidad-del-ensueno-al-mundo-mundano"
+    },
+    {
+      "text": "¿Cómo reaccionan los demás jugadores al Disparate descrito?",
+      "anchor": "como-reaccionan-los-demas-jugadores-al-disparate-descrito"
+    },
+    {
+      "text": "Paso uno: Arte",
+      "anchor": "paso-uno-arte"
+    },
+    {
+      "text": "Paso dos: Reino(s)",
+      "anchor": "paso-dos-reino-s"
+    },
+    {
+      "text": "Paso tres: Gastar Glamour",
+      "anchor": "paso-tres-gastar-glamour"
+    },
+    {
+      "text": "Paso cuatro: Determinar la reserva de dados",
+      "anchor": "paso-cuatro-determinar-la-reserva-de-dados"
+    },
+    {
+      "text": "Paso cinco: Disparate",
+      "anchor": "paso-cinco-disparate"
+    },
+    {
+      "text": "Paso seis: Determinar la dificultad",
+      "anchor": "paso-seis-determinar-la-dificultad"
+    }
+  ],
+  "prev": {
+    "slug": "libro-dos-rebelde",
+    "title": "Libro Dos: Rebelde"
+  },
+  "next": {
+    "slug": "capitulo-cuatro-artes-y-reinos-paso-siete-completar-el-cantrip",
+    "title": "Capítulo Cuatro: Artes y Reinos: Paso siete: Completar el cantrip"
+  }
+}
