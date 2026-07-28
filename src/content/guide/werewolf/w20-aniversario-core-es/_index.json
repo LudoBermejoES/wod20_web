@@ -3,7 +3,7 @@
   "line": "werewolf",
   "title_es": "Hombre Lobo: El Apocalipsis — Libro Básico 20.º Aniversario",
   "book_title_es": "Hombre Lobo: El Apocalipsis — Libro Básico 20.º Aniversario",
-  "page_count": 91,
+  "page_count": 96,
   "tree": [
     {
       "block": "front-matter",
@@ -184,6 +184,18 @@
             {
               "slug": "habilidades-talentos-y-tecnicas",
               "title": "Habilidades: Talentos y Técnicas",
+              "part": "Habilidades: Talentos y Técnicas",
+              "content_type": "rule"
+            },
+            {
+              "slug": "habilidades-talentos-y-tecnicas-tecnicas",
+              "title": "Técnicas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "habilidades-talentos-y-tecnicas-conocimientos",
+              "title": "Conocimientos",
               "part": null,
               "content_type": "rule"
             },
@@ -321,7 +333,7 @@
             {
               "slug": "ritos-menores-y-ritmos-de-huesos",
               "title": "Ritos Menores y Ritmos de Huesos",
-              "part": null,
+              "part": "Ritos Menores y Ritmos de Huesos",
               "content_type": "rule"
             },
             {
@@ -409,7 +421,7 @@
             {
               "slug": "las-formas-del-garou-y-el-combate",
               "title": "Las Formas del Garou y el Combate",
-              "part": null,
+              "part": "Las Formas del Garou y el Combate",
               "content_type": "rule"
             },
             {
@@ -479,6 +491,12 @@
             {
               "slug": "el-drama-de-la-muerte-el-ritmo-y-las-tecnicas-narrativas",
               "title": "El Drama de la Muerte, el Ritmo y las Técnicas Narrativas",
+              "part": "El Drama de la Muerte, el Ritmo y las Técnicas Narrativas",
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-drama-de-la-muerte-el-ritmo-y-las-tecnicas-narrativas-catarsis",
+              "title": "Catarsis",
               "part": null,
               "content_type": "lore"
             },
@@ -502,6 +520,12 @@
             {
               "slug": "aliados-espiritus-rasgos-encantamientos-y-tipos",
               "title": "Aliados: Espíritus, Rasgos, Encantamientos y Tipos",
+              "part": "Aliados: Espíritus, Rasgos, Encantamientos y Tipos",
+              "content_type": "lore"
+            },
+            {
+              "slug": "aliados-espiritus-rasgos-encantamientos-y-tipos-elemental-de-tierra",
+              "title": "Elemental de tierra",
               "part": null,
               "content_type": "lore"
             },
@@ -514,7 +538,7 @@
             {
               "slug": "parentela-roles-y-creacion",
               "title": "Parentela: Roles y Creación",
-              "part": null,
+              "part": "Parentela: Roles y Creación",
               "content_type": "lore"
             },
             {
@@ -627,12 +651,18 @@
             {
               "slug": "antagonistas-de-ejemplo",
               "title": "Antagonistas de Ejemplo",
-              "part": null,
+              "part": "Antagonistas de Ejemplo",
               "content_type": "reference"
             },
             {
               "slug": "plantillas-de-antagonistas",
               "title": "Plantillas de Antagonistas",
+              "part": "Plantillas de Antagonistas",
+              "content_type": "reference"
+            },
+            {
+              "slug": "plantillas-de-antagonistas-secreto-oscuro-defecto-de-1-punto",
+              "title": "Secreto Oscuro (Defecto de 1 punto)",
               "part": null,
               "content_type": "reference"
             },
@@ -674,7 +704,7 @@
             {
               "slug": "campos-tribales-roehuesos-y-otras-facciones",
               "title": "Campos Tribales: Roehuesos y otras Facciones",
-              "part": null,
+              "part": "Campos Tribales: Roehuesos y otras Facciones",
               "content_type": "lore"
             },
             {
