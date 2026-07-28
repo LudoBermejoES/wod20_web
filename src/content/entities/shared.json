@@ -6674,10 +6674,10 @@
     },
     "sources": [
       {
-        "book_id": "v20-core-rulebook-es",
-        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "book_id": "wod20-house-rules",
+        "book_title_es": "Reglas de la Casa (Mundo de Tinieblas 20º)",
         "page": null,
-        "section_anchor": "voto",
+        "section_anchor": null,
         "variant": "base"
       }
     ],
@@ -6691,19 +6691,19 @@
     "name_es": "Enfermedad Terminal",
     "body_es": "Padeces una enfermedad incurable y mortal —un cáncer avanzado, una insuficiencia orgánica, una dolencia degenerativa— que te está matando lentamente. Tu tiempo se agota y el Narrador lleva un 'reloj' de tu deterioro: fatiga creciente, dolor, hospitalizaciones y, en fases avanzadas, penalizaciones a las reservas físicas. Vives contra el reloj, lo que da a tu historia una urgencia trágica pero también te vuelve vulnerable. Este Defecto no es una simple herida: es una sentencia. El valor refleja lo avanzada que está la enfermedad (una dolencia manejable durante años vale menos que una fase terminal con meses de vida).",
     "tags": [
-      "physical"
+      "físico"
     ],
     "mechanics": {
       "bonus": "5",
-      "category": "physical",
+      "category": "físico",
       "note": "Reloj de deterioro llevado por el Narrador; en fases avanzadas penaliza reservas físicas. Stand-in mecánico para conceptos como el cáncer terminal de Hu Jian."
     },
     "sources": [
       {
-        "book_id": "v20-core-rulebook-es",
-        "book_title_es": "Vampiro: La Mascarada 20 Aniversario (Core Rulebook)",
+        "book_id": "wod20-house-rules",
+        "book_title_es": "Reglas de la Casa (Mundo de Tinieblas 20º)",
         "page": null,
-        "section_anchor": "enfermedad-terminal",
+        "section_anchor": null,
         "variant": "base"
       }
     ],

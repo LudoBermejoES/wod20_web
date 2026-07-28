@@ -6,9 +6,12 @@
     "name_en": "Ambidiestro",
     "name_es": "Ambidiestro",
     "body_es": "Posees una gran destreza manual y puedes realizar tareas con tu mano 'torpe' sin penalización alguna. Las reglas por emprender acciones múltiples aún se aplican, pero no sufres penalizaciones si usas dos armas o si te ves obligado a usar tu mano mala.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "cost": "1"
+      "cost": "1",
+      "category": "físico"
     },
     "sources": [
       {
@@ -28,9 +31,12 @@
     "name_en": "Articulaciones Hiperlaxas",
     "name_es": "Articulaciones Hiperlaxas",
     "body_es": "Eres inusualmente flexible. Reduces la dificultad de todas las tiradas relacionadas con la flexibilidad corporal en 2. Deslizarse por una pequeña abertura es un ejemplo de uso de este Mérito.\n\n<!-- image -->\n\n<!-- image -->\n\nA pesar de que los personajes puedan escoger Méritos y Defectos durante la creación de personajes, no temas recompensar una interpretación particularmente buena con estos Rasgos. Un [Sidhe](/changeling/kiths/sidhe) heroico que masacra a una banda de maliciosos Thallain mientras intentan matar a su herido Duque puede recibir el Mérito social [Favor](/changeling/merits/favor), de hasta un máximo de 4 puntos si la amenaza era real y el Duque muy importante. Un Eshu que, en la misma batalla, fue golpeado con una espada de hierro frío en el rostro puede acabar el encuentro con el Defecto físico [Defecto Visual](/changeling/flaws/defecto-visual). Le quedará una cicatriz permanente como [recuerdo](/changeling/backgrounds/recuerdo) del coste de defender a su señor.\n\nLos Defectos proporcionan a los jugadores nuevas oportunidades de interpretación y se deberían conceder puntos de Experiencia para compensar el golpe si el Defecto es realmente demoledor. El Narrador debería tener presente el impacto negativo que un Defecto tendrá sobre un personaje y tener preparado un Mérito u otro tipo de recompensa que poder conceder más adelante en la crónica. Este ciclo kármico en el trasfondo de una crónica conduce a arcos argumentales que suponen una recompensa para los personajes, que sufren una tragedia un día para obtener una recompensa futura.\n\nPor supuesto, también funciona al revés.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "cost": "1"
+      "cost": "1",
+      "category": "físico"
     },
     "sources": [
       {
@@ -50,9 +56,12 @@
     "name_en": "Cara amistosa",
     "name_es": "Cara amistosa",
     "body_es": "Tienes un rostro que inspira confianza en los extraños. El efecto no desaparece aunque intentes hacerte de menos y proporciona una reducción de -2 a la dificultad de las tiradas Sociales adecuadas (sí en primeras impresiones, pero no en Intimidación, por ejemplo) relacionadas con un extraño. Este Mérito sólo surte efecto en el primer encuentro.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "cost": "1"
+      "cost": "1",
+      "category": "físico"
     },
     "sources": [
       {
@@ -72,9 +81,12 @@
     "name_en": "Conductor Nato",
     "name_es": "Conductor Nato",
     "body_es": "Tienes una afinidad natural para conducir vehículos a motor con ruedas. La dificultad de todas las tiradas de maniobras de conducción arriesgadas o especialmente complicadas se reduce en 2.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "cost": "1"
+      "cost": "1",
+      "category": "físico"
     },
     "sources": [
       {
@@ -94,9 +106,12 @@
     "name_en": "Resistencia al Veneno",
     "name_es": "Resistencia al Veneno",
     "body_es": "Puede que tengas una resistencia natural o quizás hayas fortalecido tus defensas contra todo tipo de venenos. Siempre que hagas una tirada de absorción contra los efectos del veneno o de una toxina, reduces la dificultad en 3.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "cost": "1"
+      "cost": "1",
+      "category": "físico"
     },
     "sources": [
       {
@@ -116,9 +131,12 @@
     "name_en": "Sentido Agudo",
     "name_es": "Sentido Agudo",
     "body_es": "Tienes un sentido extremadamente desarrollado: oído, tacto, olfato, vista o gusto. La dificultad para las tareas relacionadas con ese sentido se reducen en 2.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "cost": "1"
+      "cost": "1",
+      "category": "físico"
     },
     "sources": [
       {
@@ -138,9 +156,12 @@
     "name_en": "Belleza Irreal",
     "name_es": "Belleza Irreal",
     "body_es": "Posees una belleza superior a la de los mortales, tan perfecta que resulta inquietante. La gente se maravilla ante tu forma, ideal aunque extraña, a la vez que, inexplicablemente, les produce malestar. Reduce en 3 la dificultad de cualquier tirada en la que intentes atraer la atención de un changeling o de alguien tocado por las hadas, o de ganarte su confianza con tu aspecto. Otros seres sienten que tu belleza es antinatural, lo que otorga un +1 a la dificultad de los intentos de ganarte su confianza.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "cost": "2"
+      "cost": "2",
+      "category": "físico"
     },
     "sources": [
       {
@@ -160,9 +181,12 @@
     "name_en": "Buen Tirador",
     "name_es": "Buen Tirador",
     "body_es": "Siempre que apuntes con una pistola, una flecha o un dardo, alcanzas a tu objetivo con increíble precisión. No se incrementa la dificultad cuando apuntas a una parte concreta y reduces en 1 la dificultad de las tiradas en las que no se requiera apuntar a un punto concreto.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "cost": "2"
+      "cost": "2",
+      "category": "físico"
     },
     "sources": [
       {
@@ -182,9 +206,12 @@
     "name_en": "Piel de Granito",
     "name_es": "Piel de Granito",
     "body_es": "Piel de Granito, un Rasgo que suele ser más común entre T rolls y Redcaps, es, literalmente, una capa epidérmica de fina y dura piedra. Eres mucho más resistente de lo que normalmente serías, pero esto tiene el desagradable efecto de dejar tras de ti pequeñas escamas de piedra cada vez que te doblas o flexionas un miembro. Posees en todo momento el equivalente de una armadura de cota de malla (ver pág. 285). Piel de Granito no otorga penalizadores en Destreza, pero sí un -1 a todas las tiradas que impliquen moverse en silencio.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "cost": "2"
+      "cost": "2",
+      "category": "físico"
     },
     "sources": [
       {
@@ -204,9 +231,12 @@
     "name_en": "Pies Diestros",
     "name_es": "Pies Diestros",
     "body_es": "Todo lo que puedas hacer con tus manos (disparar una pistola, dibujar, tocar un instrumento musical, etc.) puedes hacerlo igual de bien con los pies. La sociedad civilizada suele verlo con malos ojos, pero los [Sluagh](/changeling/kiths/sluagh) y los [Pooka](/changeling/kiths/pooka) se ríen de esos remilgos.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "cost": "2"
+      "cost": "2",
+      "category": "físico"
     },
     "sources": [
       {
@@ -226,9 +256,12 @@
     "name_en": "Semblante Asesino",
     "name_es": "Semblante Asesino",
     "body_es": "Hay algo en tu Semblante que grita «peligro». Maldades pasadas han marcado tu apariencia como una herida abierta. Con un gesto o una mirada puedes aterrorizar a otro changeling y hacer que te obedezca. Se reduce en 3 la dificultad de cualquier tirada que realices para amenazar o coaccionar changelings y humanos tocados por las hadas. Los demás seres te consideran inquietante, lo que otorga un +1 a la dificultad para Encantarlos.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "cost": "2"
+      "cost": "2",
+      "category": "físico"
     },
     "sources": [
       {
@@ -248,9 +281,12 @@
     "name_en": "Visión Nocturna",
     "name_es": "Visión Nocturna",
     "body_es": "La noche ciega muchos ojos, pero no los tuyos. Independientemente de las condiciones de iluminación, tus ojos se adaptan automáticamente, de modo que puedes ver igual de bien a mediodía, a medianoche o en la oscuridad absoluta. La adaptación es instantánea, por lo que, si te encuentras en una habitación a oscuras y alguien enciende una vela, no te deslumbra.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "cost": "2"
+      "cost": "2",
+      "category": "físico"
     },
     "sources": [
       {
@@ -270,9 +306,12 @@
     "name_en": "Lengua / Cola Prensil",
     "name_es": "Lengua / Cola Prensil",
     "body_es": "Poseer un miembro prensil adicional es útil, aunque puede provocar incomodidad.\n\nCon 2 puntos, tu lengua actúa como un miembro de 60 centímetros (2 pies) de largo capaz de blandir objetos. Aunque no es la mejor arma, puede usarse para meterla en un ojo o soltar una bofetada. Con la lengua extendida no se te entiende al hablar.\n\nChangeli n g: El Ensueño\n\n<!-- image -->\n\nPara poder usar con éxito una lengua prensil, deberás superar una tirada de Destreza + Atletismo a dificultad 7. Un éxito confiere control total sobre este miembro adicional durante una [escena](/changeling/realms/scene). Un fallo indica que ese intento en concreto no tiene éxito, mientras que un fracaso deja la lengua colgando, inservible, de la boca.\n\nCon 4 puntos, tienes una cola de 60 centímetros (2 pies) como la de un mono, que te permite llevar a cabo tareas manuales sencillas, como apretar botones y levantar objetos con una Fuerza igual a la mitad de la tuya (redondeado hacia arriba). Una cola prensil también puede blandir un arma con una puntuación de Pelea con Armas igual a la mitad de la tuya (redondeado hacia arriba). Puedes usar la cola prensil con la misma habilidad que el resto de tus miembros.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "cost": "2 o 4"
+      "cost": "2 o 4",
+      "category": "físico"
     },
     "sources": [
       {
@@ -292,9 +331,12 @@
     "name_en": "Equilibrio Perfecto",
     "name_es": "Equilibrio Perfecto",
     "body_es": "Ya sea mediante un entrenamiento constante o un talento heredado, tu sentido del equilibrio es parejo al de un artista circense o un pájaro sobre un cable. Es improbable que jamás en tu vida llegues a caerte. Podrías tropezar, pero siempre podrás reaccionar a tiempo antes de perder pie. Este Mérito se aplica en acciones como caminar sobre la cuerda floja, caminar sobre el hielo y escalar montañas. La dificultad de todas esas acciones se reduce en 3.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "cost": "3"
+      "cost": "3",
+      "category": "físico"
     },
     "sources": [
       {
@@ -314,9 +356,12 @@
     "name_en": "Sex Appeal",
     "name_es": "Sex Appeal",
     "body_es": "Lo achacas a tu aspecto y a tu encanto, pero la oscura verdad es que tienes cierto control sobre tus feromonas que podría ser peligroso y quizás también inconsciente. Tu sexualidad y tu sensualidad atraen amantes como polillas a una llama. Eres el irresistible centro de atención en cualquier reunión. Reduces en 3 la dificultad de todas las tiradas en las que importe la atracción sexual. Este Mérito no puede usarse para seducir a alguien que potencialmente no sienta ninguna atracción por el personaje.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "cost": "3"
+      "cost": "3",
+      "category": "físico"
     },
     "sources": [
       {
@@ -336,9 +381,12 @@
     "name_en": "Umbral de Dolor Elevado",
     "name_es": "Umbral de Dolor Elevado",
     "body_es": "Sientes dolor como los demás, pero no te afecta de la misma manera. Las leyendas están colmadas de héroes que siguen luchando, incluso con heridas mortales, sólo para desfallecer una vez han ganado la batalla. La penalización de dados para cada uno de tus niveles de Salud se reduce en un nivel. Por ejemplo, un [Troll](/changeling/kiths/troll) Lastimado reacciona como si estuviera Magullado y sólo es incapaz de emprender acciones una vez está ya muerto.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "cost": "3"
+      "cost": "3",
+      "category": "físico"
     },
     "sources": [
       {
@@ -358,9 +406,12 @@
     "name_en": "Corpulento",
     "name_es": "Corpulento",
     "body_es": "Tu Aspecto Mortal es anormalmente grande, más de 2,10 metros y 130 kilos (por encima de los 6'10'' de altura y 300 libras de peso). Destacas mucho en público, pero obtienes un nivel adicional de Magullado.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "cost": "4"
+      "cost": "4",
+      "category": "físico"
     },
     "sources": [
       {
@@ -380,9 +431,12 @@
     "name_en": "Gusto Eidético",
     "name_es": "Gusto Eidético",
     "body_es": "Gusto Eidético, poseído más habitualmente por Redcaps, te permite recordar el sabor de todo lo que has comido y ser capaz de identificarlo si lo pruebas de nuevo. Además, tienes la habilidad de sentir dónde se encuentra el suministro más cercano de ese sabor. Si has mordido a alguien, éste es un gran método para rastrearlo. Los changelings más creativos han encontrado otros usos para este poder, como rastrear venenos.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "cost": "4"
+      "cost": "4",
+      "category": "físico"
     },
     "sources": [
       {
@@ -402,9 +456,12 @@
     "name_en": "Bendición de Atlas",
     "name_es": "Bendición de Atlas",
     "body_es": "Bendición de Atlas, notable entre los Trolls y considerada un milagro entre los demás Linajes, aumenta permanentemente la Fuerza en 1, lo que incrementa también en 1 el potencial máximo de Fuerza. Sólo eres un poco más grande que tus compañeros, pero tienes los músculos definidos como si estuvieran esculpidos en mármol. Si los demás llegan a saber que posees este Mérito, esperarán de ti que actúes como un héroe o que te comportes como un incipiente señor de la guerra.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "cost": "5"
+      "cost": "5",
+      "category": "físico"
     },
     "sources": [
       {
@@ -424,9 +481,12 @@
     "name_en": "Asma",
     "name_es": "Asma",
     "body_es": "Tienes dificultades al realizar tareas extenuantes porque tienes problemas para respirar. Con asma, tus pulmones sólo se llenan con una parte del aire que necesitan. Siempre que realizas un esfuerzo físico debes hacer una tirada de Resistencia para no quedar incapacitado para realizar cualquier acción durante el siguiente turno mientras intentas recuperar el aliento.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "bonus": "1"
+      "bonus": "1",
+      "category": "físico"
     },
     "sources": [
       {
@@ -446,9 +506,12 @@
     "name_en": "Bajo",
     "name_es": "Bajo",
     "body_es": "Tienes una altura muy por debajo de la media y encuentras que el mundo no está hecho para changelings de tu estatura. Sufres una penalización de +2 a la dificultad de todas las persecuciones y junto con el Narrador debes asegurarte de que tu estatura afecte a todas las situaciones. En algunas circunstancias puede proporcionarte bonificaciones a ocultarse.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "bonus": "1"
+      "bonus": "1",
+      "category": "físico"
     },
     "sources": [
       {
@@ -468,9 +531,12 @@
     "name_en": "Tic",
     "name_es": "Tic",
     "body_es": "Realizas una especie de movimiento repetitivo que se manifiesta en momentos de tensión y que delata de forma inequívoca tu identidad: tos nerviosa, retorcerte constantemente las manos, chasquear los nudillos, etc. Resistirse a realizar el tic cuesta 1 punto de Fuerza de Voluntad.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "bonus": "1"
+      "bonus": "1",
+      "category": "físico"
     },
     "sources": [
       {
@@ -490,9 +556,12 @@
     "name_en": "Adicción",
     "name_es": "Adicción",
     "body_es": "Sufres una adicción a una sustancia o una experiencia. Si la adicción es a algo sedante y no puedes encontrar un suministro, deberías tirar para evitar desencadenar Banalidad temporal al atacarte las nieblas de una fuga disociativa. Si la adicción es a un estimulante y no puedes encontrar un suministro, el Narrador puede escoger darte un punto de Pesadilla o incluso Desequilibrio. Por un Defecto de 1 punto, la adicción debe satisfacerse semanalmente; por uno de 2 puntos, de forma diaria; por uno de 3 puntos, tras una hora de sobriedad.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "bonus": "1 -3"
+      "bonus": "1 -3",
+      "category": "físico"
     },
     "sources": [
       {
@@ -512,9 +581,12 @@
     "name_en": "Alergia",
     "name_es": "Alergia",
     "body_es": "Eres alérgico a una sustancia. Por 1 punto, te genera urticaria, produce estornudos o te marea tras un contacto prolongado con ella; por 2 puntos, se te hincha el área afectada e incrementa todas las dificultades en 1; por 3 puntos, tu reacción te incapacita e incrementa todas las dificultades en 3. Si la sustancia es muy común en tu crónica, añade 1 punto al nivel del Defecto.\n\nUn [Redcap](/changeling/kiths/redcap) que coma accidentalmente algo a lo que es alérgico tendrá problemas. Necesitará superar una tirada de Resistencia o, de lo contrario, vomitará todo el contenido de su estómago. Además, siempre que intente hacer algo más agotador que simplemente caminar durante la siguiente hora, deberá superar una tirada de Fuerza de Voluntad para evitar otro ataque de náuseas.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "bonus": "1 -4"
+      "bonus": "1 -4",
+      "category": "físico"
     },
     "sources": [
       {
@@ -534,9 +606,12 @@
     "name_en": "Defecto Auditivo",
     "name_es": "Defecto Auditivo",
     "body_es": "Tienes un oído defectuoso. La dificultad para cualquier tirada que implique oír se incrementa en 2. Como Defecto de 1 punto, esta condición puede corregirse con un audífono o un implante coclear; como Defecto de 2 puntos, la condición es demasiado severa como para ser corregida; y como Defecto de 4 puntos eres completamente sordo y todas las tiradas basadas en el oído fallan.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "bonus": "1 , 2 o 4"
+      "bonus": "1 , 2 o 4",
+      "category": "físico"
     },
     "sources": [
       {
@@ -556,9 +631,12 @@
     "name_en": "Defecto Visual",
     "name_es": "Defecto Visual",
     "body_es": "Tienes mala visión. La dificultad de todas las tiradas que requieran el uso de tus ojos se incrementa en 2. Como Defecto de 1 punto, esta condición se puede corregir con gafas o lentillas; como Defecto de 3 puntos, la condición es demasiado severa como para corregirla; como Defecto de 6 puntos, eres ciego y todas las dificultades de tiradas basadas en Destreza se incrementan en 2, mientras que las tiradas de Percepción basadas puramente en la visión fallan automáticamente.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "bonus": "1 , 3 o 6"
+      "bonus": "1 , 3 o 6",
+      "category": "físico"
     },
     "sources": [
       {
@@ -578,9 +656,12 @@
     "name_en": "Deforme",
     "name_es": "Deforme",
     "body_es": "Una desfiguración hace que tu apariencia sea perturbadora y fácil de recordar. Cuando te encuentres en presencia de quienes juzgan en base a las apariencias, la dificultad de las tiradas basadas en interacciones sociales se incrementa en 2. Además, tampoco puedes tener una Apariencia superior a 2. Como Defecto de 3 puntos, tu deformidad también incrementa en 2 la dificultad de un Atributo Físico de tu elección debido a que ésta restringe tu movilidad.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "bonus": "2 a 3"
+      "bonus": "2 a 3",
+      "category": "físico"
     },
     "sources": [
       {
@@ -600,9 +681,12 @@
     "name_en": "Demasiado Humano",
     "name_es": "Demasiado Humano",
     "body_es": "A tu lado feérico le cuesta penetrar tu Aspecto Mortal. Como Defecto de 2 puntos, provoca que todos los changelings te miren con cautela. La dificultad de las tiradas Sociales se incrementa en 2 hasta que lleves a cabo una acción que demuestre más allá de toda duda tu [naturaleza](/changeling/realms/nature) feérica. Como Defecto de 5 puntos, la cautela de los demás changelings hacia ti se convierte en antipatía, pues pierdes uno de los Privilegios de tu Linaje. Puedes escoger cuál de ellos sacrificas.",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "bonus": "2 o 5"
+      "bonus": "2 o 5",
+      "category": "físico"
     },
     "sources": [
       {
@@ -622,9 +706,12 @@
     "name_en": "Cojo",
     "name_es": "Cojo",
     "body_es": "Tus piernas están lesionadas o no funcionan de forma normal por alguna otra razón. La dificultad de todas las tiradas relacionadas con el movimiento se incrementa en 2. Un personaje no puede adquirir este Defecto junto con el Mérito [Articulaciones Hiperlaxas](/changeling/merits/articulaciones-hiperlaxas).",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "bonus": "3"
+      "bonus": "3",
+      "category": "físico"
     },
     "sources": [
       {
@@ -644,9 +731,12 @@
     "name_en": "Perfume de Cabra",
     "name_es": "Perfume de Cabra",
     "body_es": "El almizcle de cabra es un aroma único y terrible que hace que te lloren los ojos. Eres una bolsita de olor andante que apesta a cabra. Este Defecto no está restringido a los Sátiros, aunque es más común entre ellos. A los Sátiros y Redcaps no les molesta tu olor, pero se debe convencer los demás Linajes para que no mantengan un mínimo de distancia contigo, sin importar la situación. Esto perjudica tus posibilidades de acceso a relaciones románticas, títulos o incluso simples conversaciones. La dificultad para todas las tiradas sociales que involucren a cualquier ser con olfato se incrementa en 3, salvo que éstos sean Sátiros o Redcaps.\n\n<!-- image -->",
-    "tags": [],
+    "tags": [
+      "físico"
+    ],
     "mechanics": {
-      "bonus": "4"
+      "bonus": "4",
+      "category": "físico"
     },
     "sources": [
       {
@@ -666,9 +756,12 @@
     "name_en": "Aptitud Mecánica",
     "name_es": "Aptitud Mecánica",
     "body_es": "Tienes una maña natural con todo tipo de aparatos mecánicos. La dificultad de todas las tiradas para comprender, reparar o manejar cualquier tipo de aparato mecánico se reduce en 2. Este Mérito no sirve para conducir y afecta a tu aptitud con los objetos mecánicos tanto quiméricos como mundanos.",
-    "tags": [],
+    "tags": [
+      "mental"
+    ],
     "mechanics": {
-      "cost": "1"
+      "cost": "1",
+      "category": "mental"
     },
     "sources": [
       {
@@ -688,9 +781,12 @@
     "name_en": "Calculador Relámpago",
     "name_es": "Calculador Relámpago",
     "body_es": "Eres un prodigio de la aritmética mental, lo que hace que te resulte natural trabajar con computadoras o apostar en las carreras. La dificultad de todas las tiradas relacionadas se reduce en 2.",
-    "tags": [],
+    "tags": [
+      "mental"
+    ],
     "mechanics": {
-      "cost": "1"
+      "cost": "1",
+      "category": "mental"
     },
     "sources": [
       {
@@ -710,9 +806,12 @@
     "name_en": "Concentración",
     "name_es": "Concentración",
     "body_es": "Los Nockers se aíslan de todas las distracciones de forma asombrosa, pero este Mérito no sólo se limita a dicho Linaje. No te afectan los penalizadores causados por distracciones circunstanciales (por ejemplo, ruidos altos, luces estroboscópicas o un [Troll](/changeling/kiths/troll) sujetándote cabeza abajo).",
-    "tags": [],
+    "tags": [
+      "mental"
+    ],
     "mechanics": {
-      "cost": "1"
+      "cost": "1",
+      "category": "mental"
     },
     "sources": [
       {
@@ -732,9 +831,12 @@
     "name_en": "Fin Superior",
     "name_es": "Fin Superior",
     "body_es": "Todos los changelings tienen cierta visión sobre cuál es su camino, pero tú tienes un compromiso especial con él. No te preocupas por asuntos triviales, pues tu elevado propósito lo es todo. A pesar de que a veces actúas en contra de tu [instinto](/changeling/merits/instinto) de supervivencia, este propósito te proporciona una gran fuerza personal. La dificultad de cualquier tirada que tenga algo que ver con este Fin Superior se reduce en 2. Decide cuál es este propósito y asegúrate de consultarlo con el Narrador.",
-    "tags": [],
+    "tags": [
+      "mental"
+    ],
     "mechanics": {
-      "cost": "1"
+      "cost": "1",
+      "category": "mental"
     },
     "sources": [
       {
@@ -754,9 +856,12 @@
     "name_en": "Idioma",
     "name_es": "Idioma",
     "body_es": "Conoces un idioma además de tu lengua materna. Puedes adquirir este Mérito varias veces, una por cada lengua.",
-    "tags": [],
+    "tags": [
+      "mental"
+    ],
     "mechanics": {
-      "cost": "1"
+      "cost": "1",
+      "category": "mental"
     },
     "sources": [
       {
@@ -776,9 +881,12 @@
     "name_en": "Intereses Específicos",
     "name_es": "Intereses Específicos",
     "body_es": "Te has especializado en un campo o nicho de interés oscuro o arcano y en este tema concreto eres toda una enciclopedia. Escoge un área de conocimiento rara. En este campo, la dificultad de todas las tiradas mentales se reduce en 2. Algunos ejemplos son: el estudio de una lengua muerta, una afición específica de una cultura, nombres míticos de demonios o el conocimiento en profundidad de la biografía de una celebridad.",
-    "tags": [],
+    "tags": [
+      "mental"
+    ],
     "mechanics": {
-      "cost": "1"
+      "cost": "1",
+      "category": "mental"
     },
     "sources": [
       {
@@ -798,9 +906,12 @@
     "name_en": "Introspección",
     "name_es": "Introspección",
     "body_es": "Meditas de forma rutinaria sobre tus propias motivaciones ocultas y las aplicas a los demás que son como tú. Mediante este ejercicio, que haces cada noche, tu increíble intuición reduce la dificultad en 2 cuando usas una acción basada en Percepción contra alguien de tu Corte.",
-    "tags": [],
+    "tags": [
+      "mental"
+    ],
     "mechanics": {
-      "cost": "1"
+      "cost": "1",
+      "category": "mental"
     },
     "sources": [
       {
@@ -1326,9 +1437,12 @@
     "name_en": "Líder Natural",
     "name_es": "Líder Natural",
     "body_es": "Tienes cierto magnetismo ante el que los demás muestran deferencia de forma natural. La dificultad de todos los intentos para motivar a los demás con tus palabras se reduce en 2. Debes tener Carisma 3 o superior para poder adquirir este Mérito.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "cost": "1"
+      "cost": "1",
+      "category": "social"
     },
     "sources": [
       {
@@ -1348,9 +1462,12 @@
     "name_en": "Patrón Benévolo",
     "name_es": "Patrón Benévolo",
     "body_es": "Le interesas a un changeling de rango muy superior al tuyo. Mientras la razón de este interés se mantenga (sea tu aspecto, un campo de conocimiento o el modo en que te comportas en el Feudo), conservarás su atención y tendrá un particular interés en tenerte cerca. Este Mérito debería interpretarse como un [Mentor](/changeling/backgrounds/mentor) de 1 punto con un interés específico. Sin embargo, al contrario que [Mentor](/changeling/backgrounds/mentor), Patrón Benévolo no implica una relación permanente.\n\n<!-- image -->\n\n<!-- image -->",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "cost": "1"
+      "cost": "1",
+      "category": "social"
     },
     "sources": [
       {
@@ -1370,9 +1487,12 @@
     "name_en": "Presencia Calmante",
     "name_es": "Presencia Calmante",
     "body_es": "La habilidad de calmar a cualquier animal o niño con una palabra o incluso una mirada es habitual entre los [Pooka](/changeling/kiths/pooka). Algo en tu aura transmite seguridad al animal o niño. Los perros guardianes y los animales salvajes nunca te atacan y los niños se calman en tu presencia y te miran con fascinación y maravilla.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "cost": "1"
+      "cost": "1",
+      "category": "social"
     },
     "sources": [
       {
@@ -1392,9 +1512,12 @@
     "name_en": "Protegido",
     "name_es": "Protegido",
     "body_es": "En el pasado, un importante changeling fue tu [mentor](/changeling/backgrounds/mentor) y habló bien de ti a sus conocidos. Los demás pueden sentirse inclinados a mirarte con buenos ojos debido a esa recomendación, por lo que tienes un -2 a la dificultad de todas las tiradas Sociales con quienes hayan oído hablar bien de ti.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "cost": "1"
+      "cost": "1",
+      "category": "social"
     },
     "sources": [
       {
@@ -1414,9 +1537,12 @@
     "name_en": "Te Conozco",
     "name_es": "Te Conozco",
     "body_es": "Tienes una de esas caras o modo de actuar que hace que los demás asuman que eres alguien a quien ya conocen. Quizás te pareces a alguien de su infancia o de su programa de televisión favorito. Cuando te presentas en las reuniones sociales siempre atraes la atención de alguien. No pueden ignorarte sin antes hacerte algunas preguntas por [curiosidad](/changeling/flaws/curiosidad).",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "cost": "1"
+      "cost": "1",
+      "category": "social"
     },
     "sources": [
       {
@@ -1436,9 +1562,12 @@
     "name_en": "Tu Mejor Abogado",
     "name_es": "Tu Mejor Abogado",
     "body_es": "Eres especialmente convincente cuando relatas tus hazañas. Recibes un -2 a la dificultad en las tiradas Sociales relacionadas con tus hazañas, tanto si son reales como si no.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "cost": "1"
+      "cost": "1",
+      "category": "social"
     },
     "sources": [
       {
@@ -1458,9 +1587,12 @@
     "name_en": "Favor",
     "name_es": "Favor",
     "body_es": "Alguien está en deuda contigo. Puede ser tanto un humilde novel como el Conde de un Feudo, dependiendo de cuántos puntos tengas en este Mérito. Sólo te deben este favor (a menos que adquieras el Mérito varias veces), por lo que usarlo adecuadamente es capital. Dependiendo del estatus y de otros factores, quien te debe un favor podría tomarse muchas molestias para resolverlo lo antes posible, incluso llegando a crear situaciones en las que deba 'rescatarte' y de este modo quedar en paz.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "cost": "1 a 6"
+      "cost": "1 a 6",
+      "category": "social"
     },
     "sources": [
       {
@@ -1480,9 +1612,12 @@
     "name_en": "Conocimiento de Otros",
     "name_es": "Conocimiento de Otros",
     "body_es": "Has dedicado tiempo a estudiar a un grupo en particular fuera de tu Linaje o Corte y te has especializado en él. Conoces al menos algunas de sus costumbres, estrategias y objetivos a largo plazo y puedes dar buen uso a dicho conocimiento. Este Mérito concede un -2 a la dificultad de todas las tiradas que no sean de combate que estén relacionadas con el [objeto](/changeling/realms/prop) de tu especialización. Por otro lado, tienes un +1 a la dificultad cuando te relaciones con otros grupos, ya que te has centrado en uno. Este Mérito puede adquirirse varias veces para distintos grupos.\n\n<!-- image -->",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "cost": "2"
+      "cost": "2",
+      "category": "social"
     },
     "sources": [
       {
@@ -1502,9 +1637,12 @@
     "name_en": "Hijo de la Naturaleza",
     "name_es": "Hijo de la Naturaleza",
     "body_es": "Eres uno con la [naturaleza](/changeling/realms/nature) y las bestias. Recibes un -2 a la dificultad en las tiradas cuando lidias con animales no racionales en su entorno natural, ya sea entrenándolos, rastreándolos o simplemente acariciándolos. Sin embargo, los changelings deberían tener cuidado de no confiar demasiado en este Mérito al relacionarse con quimeras, pues algunas son mucho más inteligentes de lo que aparentan.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "cost": "2"
+      "cost": "2",
+      "category": "social"
     },
     "sources": [
       {
@@ -1524,9 +1662,12 @@
     "name_en": "Pájaro Cantor",
     "name_es": "Pájaro Cantor",
     "body_es": "Los Sátiros cuentan que tu voz podría hacer que las manzanas cayeran de los árboles con su encanto. Tienes un tono perfecto y puedes cantar a capela sin errar ni una nota ni desafinar. Incluso cuando hablas, tu voz conserva una cualidad seductora que atrae a los demás hacia ti. Siempre que hagas una tirada que implique dar un discurso inspirador o cantar recibes un -2 a la dificultad.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "cost": "2"
+      "cost": "2",
+      "category": "social"
     },
     "sources": [
       {
@@ -1546,9 +1687,12 @@
     "name_en": "Reputación",
     "name_es": "Reputación",
     "body_es": "Tienes una buena reputación entre los changelings de tu Corte. Esto puede deberse a tus propios méritos o puede derivarse de la reputación de tu [mentor](/changeling/backgrounds/mentor). Reduce la dificultad de todas las relaciones sociales con los demás miembros de tu Corte en 2. Sin embargo, quienes quieran tirar abajo la jerarquía intentarán mancillar tu buena posición.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "cost": "2"
+      "cost": "2",
+      "category": "social"
     },
     "sources": [
       {
@@ -1568,9 +1712,12 @@
     "name_en": "Sabio",
     "name_es": "Sabio",
     "body_es": "Los demás changelings acuden a ti en busca de consejo. Quizás creen en tu sabiduría, tu edad o tu experiencia. Quizás creen que tienes un don o que eres capaz de ver las cosas con perspectiva. La confianza que los demás depositan en ti significa, en la mayoría de casos, que se dirigen primero a ti en asuntos que requieran discusión y puedes usar esta ventaja para proporcionar un sabio consejo o para influir en los demás para que tengan en consideración tus propios planes.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "cost": "2"
+      "cost": "2",
+      "category": "social"
     },
     "sources": [
       {
@@ -1590,9 +1737,12 @@
     "name_en": "Fíngelo",
     "name_es": "Fíngelo",
     "body_es": "Hablas de modo convincente. A veces incluso tan convincente que tienes razón. Quizás afirmes que puedes dar ese salto, clavar ese examen o acertar a ese objetivo. Quizás tengas una suerte criminal o tengas talentos ocultos. Cuando mientes con éxito sobre tu capacidad para acometer una tarea con una tirada de Manipulación + Subterfugio e intentas demostrar tus afirmaciones, la dificultad de la tirada para llevar a cabo esa tarea se reduce en 2.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "cost": "3"
+      "cost": "3",
+      "category": "social"
     },
     "sources": [
       {
@@ -1612,9 +1762,12 @@
     "name_en": "Heredero al Trono",
     "name_es": "Heredero al Trono",
     "body_es": "Puedes reclamar de forma convincente la posesión de un [título](/changeling/backgrounds/titulo), tierras, personas o bienes. Este rango te permite influir fácilmente sobre tus iguales y tus inferiores, al reducirse en 2 la dificultad de tiradas Sociales cuando invocas tu [título](/changeling/backgrounds/titulo). Probablemente los nobles te traten con respeto y los demás changelings actúen con deferencia. Siempre habrá un grupo de personas (seguramente formado por herederos rivales) que te considerará un objetivo a secuestrar o asesinar.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "cost": "3"
+      "cost": "3",
+      "category": "social"
     },
     "sources": [
       {
@@ -1634,9 +1787,12 @@
     "name_en": "Joven Promesa",
     "name_es": "Joven Promesa",
     "body_es": "Eres una de las nuevas promesas del Feudo. Todos quieren conocerte y ser tu amigo, incluso mientras quienes están en el poder te preparan para posiciones de mayor responsabilidad. Tienes un -3 a la dificultad en todas las tiradas sociales contra cualquier changeling que no se oponga directamente a tu ascenso.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "cost": "3"
+      "cost": "3",
+      "category": "social"
     },
     "sources": [
       {
@@ -1656,9 +1812,12 @@
     "name_en": "Alma de la Musa",
     "name_es": "Alma de la Musa",
     "body_es": "Eres una inspiración para los creadores de todo tipo. Tanto si tienes un don artístico como si no, los demás artistas encuentran más sencillo crear obras maestras cuando estás cerca. Si te encuentras en presencia de un creador (tanto si actúas como modelo, das consejo o cantas una canción), éste reduce la dificultad para crear su obra en 3. Esta estimulación creativa se aplica por igual a obras de maravilla y de destrucción, pues tú inspiras todas.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "cost": "4"
+      "cost": "4",
+      "category": "social"
     },
     "sources": [
       {
@@ -1678,9 +1837,12 @@
     "name_en": "Compañero Fiel",
     "name_es": "Compañero Fiel",
     "body_es": "Tienes una [reputación](/changeling/merits/reputacion) como persona de confianza, leal y dedicada a sus compañeros. Tu simple presencia en una cuadrilla o círculo reafirma la Fuerza de Voluntad de sus miembros, proporcionando a cada uno de ellos 1 punto adicional de Fuerza de Voluntad temporal por capítulo. Siempre confiarán en ti para que arriesgues tu vida por ellos, como sólo haría un buen compañero. Si alguna vez te quejas de ellos, desaparecerá la bonificación de Fuerza de Voluntad hasta que vuelvas a arriesgar tu integridad o tu [reputación](/changeling/merits/reputacion) por tus amigos.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "cost": "4"
+      "cost": "4",
+      "category": "social"
     },
     "sources": [
       {
@@ -1700,9 +1862,12 @@
     "name_en": "Insubordinado",
     "name_es": "Insubordinado",
     "body_es": "Nada te irrita tanto como seguir las órdenes de líderes a quienes no respetas. Siempre que uno de estos líderes te da una orden y te hace un encargo, debes tirar Fuerza de Voluntad a dificultad 5 y, si fallas, deberás actuar en contra de sus órdenes.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "bonus": "1"
+      "bonus": "1",
+      "category": "social"
     },
     "sources": [
       {
@@ -1722,9 +1887,12 @@
     "name_en": "Mentor Peligroso",
     "name_es": "Mentor Peligroso",
     "body_es": "Tu [mentor](/changeling/backgrounds/mentor) se ha perdido en la Confusión o emprende acciones que podrían causar un gran alboroto. Cualquier agravio causado por tu [mentor](/changeling/backgrounds/mentor) podría afectar a tu [reputación](/changeling/merits/reputacion) y algunos de sus peligrosos planes podrían involucrarte de algún modo.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "bonus": "1"
+      "bonus": "1",
+      "category": "social"
     },
     "sources": [
       {
@@ -1744,9 +1912,12 @@
     "name_en": "Secreto Oscuro",
     "name_es": "Secreto Oscuro",
     "body_es": "Tienes un secreto que, si se descubriera, causaría una gran vergüenza y te convertiría en un paria entre tus iguales. Puede ser cualquier cosa, desde haber asesinado a un noble a ser en secreto un miembro de la Corte Sombría. Pese a que este secreto pesa siempre sobre ti, sólo saldrá a la luz en historias ocasionales. Si no fuera así, empezaría a perder su impacto.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "bonus": "1"
+      "bonus": "1",
+      "category": "social"
     },
     "sources": [
       {
@@ -1766,9 +1937,12 @@
     "name_en": "Enemigo",
     "name_es": "Enemigo",
     "body_es": "Tienes un enemigo, o quizás un grupo de enemigos, que quiere causarte daño. El valor de este Defecto determina lo poderosos que son. Los más poderosos (reyes u horrores imposibles del Ensueño) serían Defectos de 5 puntos, mientras que otros con un poder parecido al tuyo sólo valdrían 1 punto. Debes decidir quién es tu enemigo y cómo llegó a serlo.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "bonus": "1 a 5"
+      "bonus": "1 a 5",
+      "category": "social"
     },
     "sources": [
       {
@@ -1788,9 +1962,12 @@
     "name_en": "Intolerancia",
     "name_es": "Intolerancia",
     "body_es": "Algo en concreto te genera una antipatía irracional. Puede ser un tipo de persona, una situación o cualquier otra cosa. La dificultad de todas las tiradas relacionadas con eso (como un conflicto, tratar con clases sociales inferiores o tener que compartir el pan con un Linaje determinado) se incrementa en 2. Ten en cuenta que algunas antipatías serían demasiado triviales para este Defecto. El Narrador tiene la última palabra sobre lo que puedes escoger como [objeto](/changeling/realms/prop) de tu Intolerancia.\n\n<!-- image -->",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "bonus": "2"
+      "bonus": "2",
+      "category": "social"
     },
     "sources": [
       {
@@ -1810,9 +1987,12 @@
     "name_en": "Malhablado",
     "name_es": "Malhablado",
     "body_es": "La mayoría de personas sueltan tacos, pero tus improperios avergonzarían a los Nockers. Tu boca vomita un torrente inacabable de obscenidades. Los demás saben cuándo parar, pero tú sigues y sigues. Este Defecto impide que jamás puedas tener un trabajo respetable en la sociedad humana y aumenta en 2 la dificultad de todas las tiradas Sociales cuando se requiere educación.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "bonus": "2"
+      "bonus": "2",
+      "category": "social"
     },
     "sources": [
       {
@@ -1832,9 +2012,12 @@
     "name_en": "Posesivo",
     "name_es": "Posesivo",
     "body_es": "Tus posesiones te obsesionan y las guardas con celo. Cuando los demás intentan usar tu equipo (ya sea tu coche, tu espada, tu ropa o tu cama) debes hacer una tirada de Fuerza de Voluntad a dificultad 7. Con un fallo te niegas de forma vehemente y estallas si insisten en ello. Con un fracaso actúas inmediatamente de forma violenta.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "bonus": "2"
+      "bonus": "2",
+      "category": "social"
     },
     "sources": [
       {
@@ -1854,9 +2037,12 @@
     "name_en": "Tímido",
     "name_es": "Tímido",
     "body_es": "Como persona tímida, sólo te sientes cómodo con los tuyos. Alrededor de los demás eres consciente de forma constante de todas vuestras diferencias, por lo que te encuentras incómodo. Esto se manifiesta en torpeza (por miedo a romper cosas y personas), dificultad para hablar en situaciones sociales (siendo sólo capaz de hablar de las cosas según se presentan), etc. En términos de juego, este Defecto añade 2 a la dificultad de las tiradas Sociales cuando no te encuentras entre los miembros de tu Linaje o tu cuadrilla.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "bonus": "2"
+      "bonus": "2",
+      "category": "social"
     },
     "sources": [
       {
@@ -1876,9 +2062,12 @@
     "name_en": "Durmiendo con el Enemigo",
     "name_es": "Durmiendo con el Enemigo",
     "body_es": "Tienes algún tipo de conexión íntima con un miembro de una facción opuesta, a la cual desprecia aquélla a la que perteneces. Puedes tener un amante, un amigo o un contacto que trabaja al otro lado de la verja, con el que, a pesar de la política, conservas la amistad (o algo más que amistad). Tus superiores considerarían traición tu estrecha relación con alguien del otro bando y, si te descubren, el castigo será severo.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "bonus": "3"
+      "bonus": "3",
+      "category": "social"
     },
     "sources": [
       {
@@ -1898,9 +2087,12 @@
     "name_en": "Indeciso",
     "name_es": "Indeciso",
     "body_es": "Cuando te dan una oportunidad sabes que debes actuar con rapidez para que no se te escape. Sin embargo, parece que no eres capaz de decidirte a tiempo y te lleva tiempo examinar todas tus opciones, los pros y contras, y tomar la decisión final. Debes hacer una tirada de Fuerza de Voluntad siempre que tu personaje deba tomar una decisión o, de otro modo, seguirás indeciso sobre qué hacer.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "bonus": "3"
+      "bonus": "3",
+      "category": "social"
     },
     "sources": [
       {
@@ -1920,9 +2112,12 @@
     "name_en": "Noble Caído",
     "name_es": "Noble Caído",
     "body_es": "Antaño tuviste una posición de poder prácticamente absoluto en un Feudo, pero esos días ya han pasado. Quizás abdicaste o tu ciudad cayó a manos de una Corte rival, poco importa. Lo que importa es que tu reemplazo sabe de tu anterior posición y le preocupa que puedas querer recuperarla. Si el nuevo gobernante ve una oportunidad de deshacerse de ti, seguramente la aproveche.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "bonus": "3"
+      "bonus": "3",
+      "category": "social"
     },
     "sources": [
       {
@@ -1942,9 +2137,12 @@
     "name_en": "Objetivo de Reclutamiento",
     "name_es": "Objetivo de Reclutamiento",
     "body_es": "Una organización enemiga tiene interés en ti, mucho interés. Hacen todo lo posible para reclutarte tanto si quieres como si no y los grupos de presión suelen hacer acto de presencia en los momentos más inoportunos. Por cada amigo que te defienda, otro se pregunta qué tienes tú de especial para atraer a ese grupo malintencionado a tu puerta.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "bonus": "3"
+      "bonus": "3",
+      "category": "social"
     },
     "sources": [
       {
@@ -1964,9 +2162,12 @@
     "name_en": "Pupilo",
     "name_es": "Pupilo",
     "body_es": "Estás dedicado a la protección de un mortal o Kinain. Este personaje podría ser un amigo o un pariente de antes de tu Crisálida. Los pupilos se ven envueltos en la acción de las historias y son el catalizador de muchas situaciones peligrosas. Describe tu pupilo al Narrador antes de que comience la crónica.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "bonus": "3"
+      "bonus": "3",
+      "category": "social"
     },
     "sources": [
       {
@@ -1986,9 +2187,12 @@
     "name_en": "A Prueba",
     "name_es": "A Prueba",
     "body_es": "Desertaste de una facción enemiga y tienes aún mucho por demostrar al grupo al que te has unido antes de que te acepte del todo. Los demás changelings te tratan con desconfianza y tu [reputación](/changeling/merits/reputacion) podría incluso manchar a aquéllos con quienes te asocias normalmente.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "bonus": "4"
+      "bonus": "4",
+      "category": "social"
     },
     "sources": [
       {
@@ -2008,9 +2212,12 @@
     "name_en": "Perseguido",
     "name_es": "Perseguido",
     "body_es": "Te persigue un cazador de monstruos fanático que cree (quizás con razón) que eres un anatema para la humanidad. También perseguirá a todos aquéllos con quienes te asocies, sean mortales o Kithain. Por 4 puntos, el cazador es mortal, mientras que por 5 puede ser otro tipo de monstruo, como un vampiro u hombre lobo.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "bonus": "4 a 5"
+      "bonus": "4 a 5",
+      "category": "social"
     },
     "sources": [
       {
@@ -2030,9 +2237,12 @@
     "name_en": "Amor Verdadero",
     "name_es": "Amor Verdadero",
     "body_es": "Has descubierto, y quizás perdido, el amor verdadero, lo que te ha proporcionado una alegría profunda (aunque tal vez dolorosa). Siempre que sufres, estás en peligro o te sientes abatido, el simple pensamiento de tu amor verdadero basta para darte las fuerzas necesarias para continuar. En términos de juego, este amor te permite tener éxito de forma automática en cualquier tirada de Fuerza de Voluntad, pero sólo cuando intentas de forma activa proteger o acercarte a tu amor verdadero. Además, el poder de tu amor puede ser lo bastante poderoso como para protegerte de otras fuerzas sobrenaturales (a discreción del Narrador). Sin embargo, tu amor verdadero también puede ser un lastre y requerir ayuda de vez en cuando.",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "cost": "1"
+      "cost": "1",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2052,9 +2262,12 @@
     "name_en": "Eternidad Feérica",
     "name_es": "Eternidad Feérica",
     "body_es": "Tras experimentar tu Crisálida tuviste un cumpleaños, luego otro y luego otro. Sin embargo, extrañamente no pareces envejecer. Te ha alcanzado un vestigio de la inmortalidad que fue el derecho de nacimiento de todas las hadas. Mientras tu Semblante Feérico esté activo, envejeces a una décima parte del ritmo habitual de otros humanos o changelings. Si tu Semblante fuera destruido permanentemente, o te retiraras a la Banalidad, empezarías a envejecer de forma normal.\n\n<!-- image -->",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "cost": "1"
+      "cost": "1",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2074,9 +2287,12 @@
     "name_en": "Corazón de Poeta",
     "name_es": "Corazón de Poeta",
     "body_es": "Tienes en tu interior un alma realmente inspirada y tu Glamour repele los asaltos de la Banalidad. Puedes hacer una tirada de Fuerza de Voluntad (dificultad igual a tu Banalidad permanente) para evitar obtener 1 punto temporal de Banalidad una vez por historia.",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "cost": "2"
+      "cost": "2",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2096,9 +2312,12 @@
     "name_en": "Médium",
     "name_es": "Médium",
     "body_es": "Posees una afinidad natural para sentir y oír fantasmas. Aunque no puedes verlos, puedes percibirlos, hablar con ellos y, si te arriesgas y suplicas, llevarlos a tu presencia. T ambién puedes recurrir a ellos para ayuda o consejo, pero siempre habrá un precio. La dificultad de todas las tiradas relacionadas con los espíritus de los muertos se reduce en 2.",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "cost": "2"
+      "cost": "2",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2118,9 +2337,12 @@
     "name_en": "Sentido del Peligro",
     "name_es": "Sentido del Peligro",
     "body_es": "Tienes un sexto sentido que te advierte del peligro. Cuando estés en peligro, el Narrador hará una tirada de tu Percepción + Alerta, cuya dificultad depende de la lejanía del peligro. Si la tirada tiene éxito, el Narrador te transmitirá un presentimiento. Más éxitos pueden definir esa sensación e indicar la dirección o distancia a la que se encuentra el peligro o su [naturaleza](/changeling/realms/nature).",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "cost": "2"
+      "cost": "2",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2140,9 +2362,12 @@
     "name_en": "Afortunado",
     "name_es": "Afortunado",
     "body_es": "Naciste con suerte o quizás es que el diablo cuida de los suyos. Sea como fuere, puedes repetir tres tiradas que hayas fallado o fracasado por historia, pero sólo puedes repetir una vez cada tirada.",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "cost": "3"
+      "cost": "3",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2162,9 +2387,12 @@
     "name_en": "Favor Animal",
     "name_es": "Favor Animal",
     "body_es": "Tu Semblante posee un rasgo animal menor de la tabla siguiente. Si se trata de un rasgo que te permite hacer un ataque especial, usas tu reserva de dados estándar.\n\n| Rasgo animal | Coste del Mérito | Efecto |\n|---------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Cola de látigo | 3 | Arma natural con alcance. 2C de daño. |\n| Piel dura | 3 | -1 a la dificultad para absorber daño. |\n| Visión 360º | 3 | -2 a la dificultad cuando buscas a alguien o algo; +2 a la dificultad en los intentos de sorprenderte. |\n| Aguijón | 4 | Arma natural. 1L de daño. Paraliza a oponentes durante un turno a menos que tengan éxito en una tirada de Resistencia a dificultad 4. |\n| Dedos de mosca | 4 | Tus dedos acaban en pequeños y duros garfios, capaces de soportar tu peso. Puedes trepar por la pared y colgarte del techo siempre que la superficie pueda aguantar tu peso. |\n| Piernas adicionales | 4 | Casi imposible tropezar. Puedes correr al doble de la velocidad normal. |\n| Mordedura venenosa | 5 | Arma natural. 3L de daño. 1L de daño adicional cada turno subsiguiente durante seis horas (puede absorberse). |",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "cost": "3 a 5"
+      "cost": "3 a 5",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2184,9 +2412,12 @@
     "name_en": "Resistencia al Hierro",
     "name_es": "Resistencia al Hierro",
     "body_es": "El hierro frío no tiene efectos físicos sobre ti, aunque la exposición constante a él aún te causa Banalidad. Esto es un arma de doble filo, ya que puede que no sepas cuándo estás sentado en un banco o apoyado en una verja de este terrible metal. Debes hacer una tirada de Percepción + Sagacidad a dificultad 7 para evitar exponerte a él.",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "cost": "4"
+      "cost": "4",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2206,9 +2437,12 @@
     "name_en": "Sangre del Lobo",
     "name_es": "Sangre del Lobo",
     "body_es": "Tu conexión con los Pródigos licántropos es más fuerte que la de tus compañeros. La sangre de los hombres lobo corre por tus venas y algunos de ellos te considera pariente suyo. La Tribu de hombres lobo cuya sangre corre por tus venas puede llamarte para que realices algunas tareas para ellos y, a su vez, ayudarte cuando lo necesites. Se puede esperar que contraigas un cónyuge hombre lobo para fortalecer aún más vuestro linaje.",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "cost": "4"
+      "cost": "4",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2228,9 +2462,12 @@
     "name_en": "Afinidad con Arte",
     "name_es": "Afinidad con Arte",
     "body_es": "Eres capaz de utilizar una de las Artes con mucha más facilidad que los demás changelings. En una encarnación previa fuiste muy hábil en ella, tanto que puedes incorporar parte de ese conocimiento en esta vida. Escoge un Arte, para la cual la dificultad se reduce en 2. Este Mérito sólo puede adquirirse una vez.",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "cost": "5"
+      "cost": "5",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2250,9 +2487,12 @@
     "name_en": "Leyenda Viva",
     "name_es": "Leyenda Viva",
     "body_es": "Eres la encarnación de un gran héroe. No tiene por qué ser una figura histórica y real, sino que puede ser un personaje mitológico o incluso una figura de ficción contemporánea. Ten en cuenta que eres una encarnación, no una reencarnación. Eres la personificación de una leyenda concreta y tu Semblante encaja perfectamente con esa herencia. Cualquier Kithain con el mínimo conocimiento del relato original te reconocerá inmediatamente y es probable que atraigas la atención de las culturas que generaron esa leyenda. Cuando te reconocen, la dificultad de tus tiradas Sociales se reduce en 2. Puedes acceder a las puntuaciones de uno de los Atributos o Habilidades de tu ancestro una vez por capítulo. A discreción del Narrador, este Mérito también te puede permitir tener conocimiento de (o acceso a) ciertas quimeras o Tesoros relacionados con la leyenda. Tu apariencia y tus recuerdos pueden hacer difícil pasar desapercibido en la sociedad ordinaria. También puede ser muy difícil cumplir con las expectativas que tengan de ti.",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "cost": "5"
+      "cost": "5",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2272,9 +2512,12 @@
     "name_en": "Regeneración",
     "name_es": "Regeneración",
     "body_es": "Tu [naturaleza](/changeling/realms/nature) feérica es resistente y, como consecuencia, te curas mucho más rápido que otros Kithain. Por cada turno que pases descansando recuperas 1 nivel de Salud de daño quimérico. El daño físico se regenera a un ritmo de 1 nivel de Salud por hora. Mientras te encuentres en un Feudo, tus heridas se regeneran al doble de esa velocidad. Este Mérito no cura heridas infligidas por hierro frío.\n\n<!-- image -->\n\n<!-- image -->",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "cost": "7"
+      "cost": "7",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2294,9 +2537,12 @@
     "name_en": "Lengua del Bardo",
     "name_es": "Lengua del Bardo",
     "body_es": "Dices la verdad de forma asombrosa. Las cosas que dices suelen hacerse realidad. Esto no supone facilidad para bendecir o maldecir ni es un efecto que pueda controlarse conscientemente. Al menos una vez cada historia, alguna incómoda verdad relativa a alguna situación actual aparecerá en tu mente y se materializará a través de tus labios. Para evitar pronunciar la profecía deberás gastar 1 punto de Fuerza de Voluntad y sufrir 1 nivel de daño contundente por el esfuerzo de resistirte.",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "bonus": "1"
+      "bonus": "1",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2316,9 +2562,12 @@
     "name_en": "Ojos de Changeling",
     "name_es": "Ojos de Changeling",
     "body_es": "Tus ojos son de un color sorprendente, quizás verde esmeralda, violeta o amarillo. Es un signo de que eres un changeling y resulta reconocible para cualquiera que conozca las antiguas historias.",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "bonus": "1"
+      "bonus": "1",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2338,9 +2587,12 @@
     "name_en": "Geas",
     "name_es": "Geas",
     "body_es": "Te encuentras bajo la influencia de un Geas desde el inicio de la crónica. Lo más probable es que se trate de una Prohibición, pero también puede ser una Búsqueda a largo plazo. Este Geas puede ser una maldición familiar o un deber que hayas heredado, o quizás te lo impuso el Arte de un changeling. La dificultad del Geas determina la puntuación del Defecto. Algo menor, como una Prohibición contra herir animales valdría sólo 1 punto. Un Geas de 5 puntos es algo que controla tu vida por completo, como una Búsqueda que requiere que prestes ayuda a cualquiera que lo necesite. El Narrador será quien determine el valor del Geas que escojas.",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "bonus": "1 a 5"
+      "bonus": "1 a 5",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2360,9 +2612,12 @@
     "name_en": "Juramentado",
     "name_es": "Juramentado",
     "body_es": "Tu vida depende de algo que debes hacer o no. Puede ser algo que siempre te ha acompañado o un juramento sagrado que prestaste. Alguien que lo presenció se asegurará de que lo mantengas y, si desobedeces, las consecuencias serán terribles. Puedes tener varios juramentos y que éstos entren en conflicto. La mayoría de changelings guardan en secreto sus prohibiciones e imperativos para que sus enemigos no los usen como armas.\n\nEl Narrador debería revisar cada juramento y asignarle una puntuación, así como el castigo por violarlo. Algunas circunstancias fácilmente evitables, como 'nunca compartir el pan con un pelirrojo', valdrían 1 punto, mientras que otras más comunes o difíciles, como 'detente y acaricia a todos los gatos que veas', valdrían 2 puntos y las más drásticas o peligrosas, como 'nunca te retires de una pelea', valdrían 3 puntos (o más). Las consecuencias también se miden en puntos. Fracasar de forma automática el próximo cantrip mayor que intentes realizar valdría 1 punto, tener mala suerte durante el resto de tu vida, 2, y perder todos tus amigos y posesiones mundanas, 3. Morir valdría 4 puntos y ser abandonado por tu alma feérica, 5.\n\nSi violas tu juramento de forma accidental, puedes intentar expiar tu crimen y arreglar lo que hayas hecho mal. Sin embargo, si lo haces de forma voluntaria y con pleno conocimiento (y sobrevives), te conviertes en un perjuro, uno de los peores epítetos que se pueden tener entre los changelings.\n\n<!-- image -->",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "bonus": "1 a 5"
+      "bonus": "1 a 5",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2382,9 +2637,12 @@
     "name_en": "Maldito",
     "name_es": "Maldito",
     "body_es": "Eres el [objeto](/changeling/realms/prop) de una maldición sobrenatural. Su fuerza e intensidad depende de cuántos puntos desees sufrir. A continuación se exponen algunos ejemplos.\n\nSi revelas un secreto que te confiaron, esa traición volverá para causarte daño de algún modo (1); tartamudeas de forma incontrolable cuando intentas describir lo que has oído o visto (2); las herramientas se rompen o estropean cuando intentas usarlas (3); estás condenado a convertir en enemigos a aquéllos a quienes más amas o en quienes más confías (4); cada uno de tus logros o triunfos se estropeará o fallará de algún modo (5).",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "bonus": "1 a 5"
+      "bonus": "1 a 5",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2404,9 +2662,12 @@
     "name_en": "Semblante Dislocado",
     "name_es": "Semblante Dislocado",
     "body_es": "Tu Semblante Feérico se vierte sobre tu Aspecto Mortal y revela tu [naturaleza](/changeling/realms/nature) a los mundanos que sepan qué buscar. Un Defecto de 1 punto sería un leve tono azulado en la piel de un [Troll](/changeling/kiths/troll) y uno de 5 puntos, los cuernos de un [Sátiro](/changeling/kiths/satiro). Esto podría hacer difícil explicar qué eres a los humanos.",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "bonus": "1 a 5"
+      "bonus": "1 a 5",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2426,9 +2687,12 @@
     "name_en": "Cualidad Extraña",
     "name_es": "Cualidad Extraña",
     "body_es": "Los mortales encuentran en ti algo perturbadoramente fascinante. En momentos inapropiados, los mortales te miran fijamente y entablan conversación esperando conocerte mejor. Aún peor, los mortales con naturalezas menos agradables te escogerán por encima de otros posibles objetivos para cometer sus actos ilícitos.",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "bonus": "2"
+      "bonus": "2",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2448,9 +2712,12 @@
     "name_en": "Ecos",
     "name_es": "Ecos",
     "body_es": "Tu conexión con el Ensueño es fuerte. Debido a ello, eres más susceptible a las cosas que, según las historias, afectan a las hadas. A pesar de que Ecos se adquiere como Defecto, a menudo tiene algún efecto beneficioso. Los puntos recibidos reflejan tu nivel de conexión con el Ensueño e incluso con Arcadia. Los efectos son acumulativos, por lo que un personaje con un Defecto de 5 puntos sufre también los efectos de los Defectos que van de 2 a 4 puntos.\n\nMenor: Arrojar sal sobre el hombro para que dé buena suerte protege a un mortal de los poderes de las hadas, lo mismo ocurre con el pan. Tus cantrips no pueden afectar durante el resto de la [escena](/changeling/realms/scene) a ningún mortal que haga esto. Simplemente fallan y podrían incluso rebotar contra ti. Cualquier mortal que sepa tu nombre completo puede ordenarte realizar tres tareas para él antes de que puedas librarte de su influencia. Sin embargo, sólo tienes que cumplir con su petición literal, no con las intenciones tras sus palabras (2 puntos).\n\nModerado: No puedes entrar en una casa sin ser invitado, a menos que realices algún [favor](/changeling/merits/favor) menor a los propietarios. La invitación para entrar la puede realizar cualquiera, no necesariamente los dueños. El hierro frío en una residencia impedirá que puedas entrar siquiera al edificio y los símbolos religiosos tendrán el mismo efecto, además de evitar que puedas afectar física o mágicamente a los mortales. El sonido de un repique de campanas de iglesia te causa dolor como si fuera hierro frío; a este nivel sólo dolor, pero como Defecto de 4 puntos obtienes un punto de Banalidad por cada turno que tengas que soportar el sonido (3 puntos).\n\nSerio: Un trébol de cuatro hojas impide que uses tus Artes en contra del mortal que lo posea. Sin embargo, los tréboles de cuatro hojas que hayas recogido te traen buena suerte (no puedes fracasar) mientras sus hojas permanezcan intactas. Esta suerte sólo dura mientras lleves contigo el trébol. Cualquier mortal que lleve el abrigo del revés es invisible a tus ojos. No puedes cruzar agua corriente salvo a través de un puente. Los símbolos religiosos te repelen y te obligan a alejarte de quienes los llevan. Si cae sobre ti la sombra de uno de estos símbolos, te causa 1 nivel de Salud de daño quimérico cada turno que te toque. No puedes entrar en suelo sagrado sin sufrir daño quimérico (1 nivel de Salud por turno), aunque este daño puede absorberse (4 puntos).\n\nExtremo: Allá donde mores las setas formarán anillos de hadas, incluso en tus alfombras. Las Nieblas ya no ocultan tus poderes. La mayoría de la gente te recordará si usas Glamour en su presencia. Las criaturas quiméricas suelen ser más reales para ti que para los demás: sus ataques causan daño real y heridas permanentes. Por otro lado, tus armas quiméricas pueden causar daño a cualquiera, incluso a los mortales. La gente te seguirá si se lo pides, a menudo con una mirada aturdida y siguiéndote incluso a situaciones peligrosas. Tu dificultad para lanzar cantrips puede reducirse considerablemente (a criterio del Narrador), pero quienes lleven hierro frío o símbolos religiosos son inmunes a las Artes que puedas usar. Debes hacer una tirada de Fuerza de Voluntad a dificultad 7 para entrar en terreno sagrado. Incluso si superas esa tirada, sufres daño físico real (1 nivel de Salud por turno) si entras (5 puntos).",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "bonus": "2 a 5"
+      "bonus": "2 a 5",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2470,9 +2737,12 @@
     "name_en": "Embrujado",
     "name_es": "Embrujado",
     "body_es": "Un fantasma humano que sólo tú (y los médiums) puedes ver y oír te atosiga. No le gustas y disfruta haciendo que tu vida sea miserable. Tiene una serie de poderes que puede usar en tu contra, escogidos por el Narrador, quien es libre de usar como inspiración los Pródigos wraith (pág. 352).",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "bonus": "3"
+      "bonus": "3",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2492,9 +2762,12 @@
     "name_en": "Nieblas Despejadas",
     "name_es": "Nieblas Despejadas",
     "body_es": "Tu magia y tus habilidades no quedan ocultas en modo alguno por las Nieblas. Si un mortal presenciase tus acciones, no olvidaría los efectos de tus habilidades feéricas. Podrías revelar involuntariamente tu [naturaleza](/changeling/realms/nature) al mundo mortal y provocar así terribles consecuencias.\n\n<!-- image -->\n\n<!-- image -->",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "bonus": "3"
+      "bonus": "3",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2514,9 +2787,12 @@
     "name_en": "Alergia al Hierro",
     "name_es": "Alergia al Hierro",
     "body_es": "La mayoría de Kithain sólo sufren dolor cuando entran en contacto con hierro frío. Tú sufres heridas reales. El hierro frío actúa como una marca candente cuando te toca la piel. Cada turno que estés en contacto con hierro, sufres 1 nivel de Salud de daño quimérico. Como Defecto de 4 puntos, sufres 1 nivel de Salud de daño real cada tres turnos que estés en contacto con hierro. Como Defecto de 5 puntos, sufres este daño si te encuentras a menos de 30 centímetros (1 pie) de distancia del hierro y sufres 1 nivel de Salud de daño agravado cada turno que estés en contacto con él.",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "bonus": "3 a 5"
+      "bonus": "3 a 5",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2536,9 +2812,12 @@
     "name_en": "Imán Quimérico",
     "name_es": "Imán Quimérico",
     "body_es": "Las quimeras se fijan en ti más de lo habitual. En algunos casos esto puede ser beneficioso, pero lo más habitual es que te cause problemas. Las bestias quiméricas enfurecidas irán hacia ti antes de atacar a los demás. Las Nervosas te encuentran irresistible y duendecillos de todo tipo te gastan bromas constantemente.",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "bonus": "5"
+      "bonus": "5",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2558,9 +2837,12 @@
     "name_en": "Sino Aciago",
     "name_es": "Sino Aciago",
     "body_es": "Estás condenado a experimentar una defunción de lo más horrible. Al final, todos tus esfuerzos, todas tus luchas y sueños, habrán sido en vano. Tu destino está fijado y no puede hacerse nada al respecto. Y lo más espantoso es que tienes cierto conocimiento de ello mediante visiones ocasionales de tu destino, las cuales son muy perturbadoras. El malestar que estas visiones te inspiran sólo puede superarse mediante el uso de Fuerza de Voluntad, aunque volverá después de cada visión. En algún momento de la crónica te encontrarás con tu destino. A pesar de que no podrás hacer nada al respecto, sí puedes intentar alcanzar algún objetivo antes de que se cumpla.",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "bonus": "5"
+      "bonus": "5",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2580,9 +2862,12 @@
     "name_en": "Vampiro Psíquico",
     "name_es": "Vampiro Psíquico",
     "body_es": "La chispa de la vida agoniza en tu interior y sólo puedes alimentarla con fuerzas externas. Las plantas y los insectos se marchitan o mueren en tu presencia al alimentarte de su energía y cualquier persona que toques durante más de una hora sufrirá 1 nivel de Salud no agravado debido a que le sorbes la vida. Quienes ya estén heridos (incluyendo aquellos cuyo nivel de Magullado hayas absorbido) no se curarán mientras estés presente. Si no alimentas el vacío en tu interior al menos una vez al día, empezarás a morir. El ritmo según el que sufres heridas sigue la progresión inversa de la curación natural: un nivel de Salud después de un día, un segundo nivel al cabo de tres, un tercero tras una semana, un cuarto al cabo de un mes y, finalmente, una herida cada tres meses.",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "bonus": "5"
+      "bonus": "5",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -2602,9 +2887,12 @@
     "name_en": "Maldición de los Sidhe",
     "name_es": "Maldición de los Sidhe",
     "body_es": "Los [Sidhe](/changeling/kiths/sidhe) viven aterrorizados por la Banalidad debido a que es más fácil que ésta arraigue en sus almas que en la de cualquier otro Linaje. A pesar de no ser [Sidhe](/changeling/kiths/sidhe), también te ves sujeto a esta Flaqueza. Siempre que obtengas 1 punto de Banalidad, obtienes 2. Los personajes [Sidhe](/changeling/kiths/sidhe) no pueden adquirir este Defecto.\n\nDios, ¡ODIO los cumpleaños! No le digo a nadie cuándo es el mío, pero siempre acaban sabiéndolo y siempre me cantan alguna canción de mierda. Me da náuseas.\n\nVine a Hard Times buscando a ese chico mono y desgarbado de la semana pasada, pero está totalmente desaparecido, como mi suerte. Colbert y los pavos de sus amigos [Sidhe](/changeling/kiths/sidhe) están ahí en un rincón, pero no tengo nada que decirles a esos imbéciles. Estúpidos sangreazules que siempre parecen estar en forma, joder. Nunca se sueltan, eso es seguro, y apostaría a que tampoco se divierten. Te hace preguntarte qué hacen para desmelenarse (si es que hacen algo). ¿Nacen con implantes rectales? Fijo que sí.\n\nNo hay banda en vivo esta noche, sólo música ambiental. No me extraña que el sitio esté muerto. Esto es una mierda. Tengo que encontrar otro club. Éste es un fracaso. Aun así, tengo que admitir que el DJ es bueno. Tiene puesto ese nuevo álbum de Black Flag, el del chico golpeando el espejo. Sé cómo se siente. En el rincón, los amigos de Colbert se tapan los oídos. ¡Bien! La canción los asustaría si entendieran la letra. « ¡Alzarnos! -grita el chico del espejo -¡Vamos a alzarnos! » .",
-    "tags": [],
+    "tags": [
+      "sobrenatural"
+    ],
     "mechanics": {
-      "bonus": "5"
+      "bonus": "5",
+      "category": "sobrenatural"
     },
     "sources": [
       {
@@ -4149,6 +4437,128 @@
         "book_title_es": "Changelling el ensueño - Guia del jugador (2ª edición)",
         "page": null,
         "section_anchor": "casa-varich",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "alado",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Alado",
+    "name_es": "Alado",
+    "body_es": "Tienes hermosas alas, ya sean emplumadas como las de un ave, como las de un murciélago o coloridas como las de una mariposa. Son quiméricas, pero necesitan estar libres, si no, aumentan la dificultad de las tiradas de Destreza en 1. Puedes tener que explicar por qué tienes cortes en todos los abrigos. Si lo has adquirido como Defecto, no puedes volar. Si lo has hecho como Mérito, puedes volar durante cortos períodos de tiempo. Para más información sobre los peligros de usar estas alas en presencia de humanos, ver Quimeras inanimadas , pág. 54.",
+    "tags": [
+      "sobrenatural"
+    ],
+    "mechanics": {
+      "bonus": "2",
+      "category": "sobrenatural"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-20",
+        "book_title_es": "Changelling el ensueño 20",
+        "page": null,
+        "section_anchor": "alado",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "contaminado-pintarrajeado",
+    "type": "flaw",
+    "line": "changeling",
+    "name_en": "Contaminado / Pintarrajeado",
+    "name_es": "Contaminado / Pintarrajeado",
+    "body_es": "Tu Ancla ha sido permanentemente dañada, ya sea indirectamente por la contaminación (lluvia ácida, vertidos industriales, etc.) o directamente por acción humana (cortes en la corteza, grietas en la roca hechas con cincel). Esto te afecta haciéndote enfermar y debilitándote. Por cada punto del Defecto que tengas, elimina 1 dado de absorción y suma +1 a la dificultad de todas las tiradas Sociales que impliquen a miembros de tu propio Phylum.",
+    "tags": [],
+    "mechanics": {
+      "bonus": "1-3"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-20",
+        "book_title_es": "Changelling el ensueño 20",
+        "page": null,
+        "section_anchor": "contaminado-pintarrajeado",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "alado",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Alado",
+    "name_es": "Alado",
+    "body_es": "Tienes hermosas alas, ya sean emplumadas como las de un ave, como las de un murciélago o coloridas como las de una mariposa. Son quiméricas, pero necesitan estar libres, si no, aumentan la dificultad de las tiradas de Destreza en 1. Puedes tener que explicar por qué tienes cortes en todos los abrigos. Si lo has adquirido como Defecto, no puedes volar. Si lo has hecho como Mérito, puedes volar durante cortos períodos de tiempo. Para más información sobre los peligros de usar estas alas en presencia de humanos, ver Quimeras inanimadas , pág. 54.",
+    "tags": [
+      "sobrenatural"
+    ],
+    "mechanics": {
+      "cost": "4",
+      "category": "sobrenatural"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-20",
+        "book_title_es": "Changelling el ensueño 20",
+        "page": null,
+        "section_anchor": "alado",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "magia-estacional",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Magia Estacional",
+    "name_es": "Magia Estacional",
+    "body_es": "Tu alma está tan profundamente entrelazada con una de las cuatro estaciones (del hemisferio occidental en el Mundo de Otoño), que la cualidad quimérica de tu Ancla siempre refleja ese período. Sin embargo, esta afinidad por tu estación concede conocimiento en las Artes Kithain relacionadas con ese tiempo concreto del año. Este Mérito permite al personaje adquirir puntos en un Arte estacional (Primavera, Verano, Otoño o Invierno), además de hacer posible aprender Reinos. El precio para adquirir puntos en Artes y Reinos es el mismo que para los changelings, y los Inanimae usan las reglas de los cantrips estándar. Este Mérito es extremadamente raro y está llamado a atraer atención sobre el Ancla y el personaje. No es posible adquirir este Mérito múltiples veces.",
+    "tags": [
+      "ni labrados ni maniKís"
+    ],
+    "mechanics": {
+      "cost": "5"
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-20",
+        "book_title_es": "Changelling el ensueño 20",
+        "page": null,
+        "section_anchor": "magia-estacional",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "buen-oyente",
+    "type": "merit",
+    "line": "changeling",
+    "name_en": "Buen Oyente",
+    "name_es": "Buen Oyente",
+    "body_es": "Los [Pooka](/changeling/kiths/pooka) destacan a la hora de lograr que los demás se sinceren con ellos, pero tú eres un maestro confidente. Una palabra aquí, un gesto allí y logras abrir a las personas como si fueran ostras y recoger sus secretos como si fueran perlas. Tu habilidad para escuchar hace que los demás te cuenten sus sentimientos, sus preocupaciones y sus sueños ocultos. No saben por qué te los cuentan, pero a menudo se sienten mejor después. T odas las tiradas relacionadas con la obtención de información de los demás tienen un -2 a la dificultad.",
+    "tags": [
+      "social"
+    ],
+    "mechanics": {
+      "cost": "1",
+      "category": "social",
+      "note": "Coste editorial: el encabezado del libro dice «de punto» — el numeral se perdió al extraer la tipografía de titulares. El valor es 1 (sustantivo en singular, y todas las entradas de 1 punto del mismo apéndice se escriben «de 1 punto»). repair-merit-flaw-catalog §9.2."
+    },
+    "sources": [
+      {
+        "book_id": "changelling-el-ensueno-20",
+        "book_title_es": "Changelling el ensueño 20",
+        "page": null,
+        "section_anchor": "buen-oyente",
         "variant": "base"
       }
     ],
