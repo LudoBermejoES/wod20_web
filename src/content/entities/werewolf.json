@@ -1618,30 +1618,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "review": {
-      "reason": "mechanics differ across sources: damage, difficulty",
-      "conflicts": [
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "damage": "Fuerza+1",
-            "difficulty": "4"
-          }
-        },
-        {
-          "sources": [
-            "w20-aniversario-core-es"
-          ],
-          "mechanics": {
-            "damage": "Fuerza",
-            "difficulty": "6"
-          }
-        }
-      ]
-    }
+    "related": []
   },
   {
     "id": "espada",
@@ -1868,6 +1845,34 @@
     "related": []
   },
   {
+    "id": "cuchillo-arrojadizo",
+    "type": "weapon",
+    "line": "werewolf",
+    "name_en": "Cuchillo (arrojadizo)",
+    "name_es": "Cuchillo (arrojadizo)",
+    "body_es": "",
+    "tags": [
+      "thrown"
+    ],
+    "mechanics": {
+      "weapon_class": "thrown",
+      "difficulty": "6",
+      "conceal": "B",
+      "damage": "Fuerza",
+      "damage_type": "L"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "armas-arrojadizas",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
     "id": "lanza",
     "type": "weapon",
     "line": "werewolf",
@@ -1875,10 +1880,10 @@
     "name_es": "Lanza",
     "body_es": "",
     "tags": [
-      "melee"
+      "thrown"
     ],
     "mechanics": {
-      "weapon_class": "melee",
+      "weapon_class": "thrown",
       "difficulty": "6",
       "conceal": "N",
       "damage": "Fuerza+1",
@@ -1903,10 +1908,10 @@
     "name_es": "Piedra",
     "body_es": "",
     "tags": [
-      "melee"
+      "thrown"
     ],
     "mechanics": {
-      "weapon_class": "melee",
+      "weapon_class": "thrown",
       "difficulty": "5",
       "conceal": "Variable",
       "damage": "Fuerza",
@@ -1931,10 +1936,10 @@
     "name_es": "Piedra grande",
     "body_es": "",
     "tags": [
-      "melee"
+      "thrown"
     ],
     "mechanics": {
-      "weapon_class": "melee",
+      "weapon_class": "thrown",
       "difficulty": "6",
       "conceal": "N",
       "damage": "Fuerza+3",
@@ -1959,10 +1964,10 @@
     "name_es": "Shuriken",
     "body_es": "",
     "tags": [
-      "melee"
+      "thrown"
     ],
     "mechanics": {
-      "weapon_class": "melee",
+      "weapon_class": "thrown",
       "difficulty": "7",
       "conceal": "B",
       "damage": "3",
@@ -1987,10 +1992,10 @@
     "name_es": "Tomahawk",
     "body_es": "",
     "tags": [
-      "melee"
+      "thrown"
     ],
     "mechanics": {
-      "weapon_class": "melee",
+      "weapon_class": "thrown",
       "difficulty": "6",
       "conceal": "C",
       "damage": "Fuerza+1",
@@ -18479,18 +18484,7 @@
       "level": "Nivel Cinco",
       "roll": "Astucia + Rituales",
       "difficulty": "9",
-      "requisito": "capturar y desollar a cinco hombres lobo bajo la misma fase lunar; ceremonia final dura exactamente una hora",
-      "requirement_es": "las pieles de cinco Garou",
-      "effect_es": "Rito diseñado para que la Parentela se convirtiese en hombre lobo.",
-      "character_creation_es": "El personaje debe comprar el requisito de cinco puntos en el Conocimiento Rituales y otros cinco en el Trasfondo Ritos para representar su conocimiento del Rito del Sagrado Renacimiento.",
-      "note": "Este fragmento sólo aporta descripción narrativa del Rito (nombre, función y requisito material). No incluye bloque de sistema formal: sin nivel de Rito, tirada ni dificultad.",
-      "nivel": "Nivel cinco",
-      "reserva_de_dados": "Astucia + Rituales",
-      "dificultad": "9",
-      "exitos_requeridos": "un éxito",
-      "type": "rite",
-      "uso_variante": "Puede usarse con pieles de Danzantes de la Espiral Negra como herramienta de guerra",
-      "nota_extraccion": "En este fragmento no se especifican el Nivel del Rito, el tipo (Rito Mistico/de Caedes/etc.), la reserva de dados ni la dificultad; solo se describe su función y requisitos narrativos"
+      "requisito": "capturar y desollar a cinco hombres lobo bajo la misma fase lunar; ceremonia final dura exactamente una hora"
     },
     "sources": [
       {
@@ -18502,16 +18496,12 @@
       },
       {
         "book_id": "w20-nsr-aniversario-parte-1-59pp",
-        "book_title_es": "El Desollador",
         "page": null,
         "section_anchor": "introduccion",
-        "variant": "base"
+        "variant": "base",
+        "book_title_es": "W20 NSR Aniversario - Parte 1 (59pp)"
       }
-    ],
-    "mechanics_html": {
-      "effect_es": "Rito diseñado para que la <a href=\"/werewolf/backgrounds/kinfolk\">Parentela</a> se convirtiese en hombre lobo.",
-      "character_creation_es": "El personaje debe comprar el requisito de cinco puntos en el Conocimiento Rituales y otros cinco en el Trasfondo <a href=\"/werewolf/backgrounds/rites\">Ritos</a> para representar su conocimiento del Rito del Sagrado Renacimiento."
-    }
+    ]
   },
   {
     "id": "rite-mystic-spirit-awakening-level-two",
@@ -20613,16 +20603,14 @@
     "body_es": "Muchos Garou temen a Abuelo Trueno en lugar de respetarlo y a los Señores de la Sombra esto ya les parece bien. Trueno es un patrón paciente y sutil, cuya influencia aumenta con el tiempo en un impresionante crescendo. La mayoría de sus avatares son Cuervos de la Tormenta que actúan como intermediarios entre el Incarna y sus elegidos.",
     "tags": [
       "totem",
-      "totem-de-respeto",
-      "Señores de la Sombra"
+      "totem-de-respeto"
     ],
     "mechanics": {
       "background_cost": "7",
       "individual_traits": "Los seguidores de Abuelo Trueno ganan un punto temporal de Honor y dos dados adicionales en cualquier tirada de Intimidación cuando invocan el nombre de Trueno.",
       "pack_traits": "Las manadas que siguen a Abuelo Trueno ganan tres puntos de Etiqueta, así como cinco puntos temporales de Fuerza de Voluntad por historia. Los Señores de la Sombra siguen sus actividades con interés.",
       "ban": "Los hijos de Trueno no deben conceder a sus compañeros ni a sus rivales más respeto del que hayan ganado por sus acciones. Los aduladores son contrarios a la naturaleza de Trueno.",
-      "rol": "Tótem Tribal",
-      "tribu": "Señores de la Sombra",
+      "patron_tribe": "Señores de la Sombra",
       "categoria": "Tótem de respeto",
       "alcance": "Tótem de clan",
       "rasgos_comunes": "Todos los miembros de un clan dedicado a Abuelo Trueno obtienen 2 dados adicionales en las tiradas de Intimidación.",
@@ -20646,7 +20634,6 @@
       }
     ],
     "mechanics_html": {
-      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> Tribal",
       "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de respeto",
       "alcance": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de clan"
     }
@@ -20660,16 +20647,14 @@
     "body_es": "Halcón es uno de los espíritus más nobles y es el [Tótem](/werewolf/backgrounds/totem) tribal de los Colmillos Plateados. Sus penetrantes ojos ven en los corazones de sus hijos, inspira a los valientes y recompensa a los honorables. Halcón es reconocido como portador de la unidad para los Colmillos Plateados y para los Garou en su conjunto, y está por encima de los rumores de endogamia de su Tribu escogida.",
     "tags": [
       "totem",
-      "totem-de-respeto",
-      "Colmillos Plateados"
+      "totem-de-respeto"
     ],
     "mechanics": {
       "background_cost": "5",
       "individual_traits": "Los seguidores de Halcón ganan dos puntos temporales de Honor.",
       "pack_traits": "Las manadas que siguen a Halcón obtienen tres puntos de Liderazgo, así como cuatro puntos temporales de Fuerza de Voluntad por historia.",
       "ban": "El deshonor es peor que la muerte para Halcón: ninguno de los hijos de Halcón puede perder jamás Honor permanente. Si lo hace, debe corregir el error inmediatamente o realizar un Rito de Contrición y además expiar su deshonra lanzándose contra un poderoso esbirro del Wyrm. Por un lado, es un suicidio casi seguro. Por el otro, su sangre limpiará la mancha de su nombre, al igual que la victoria.",
-      "rol": "Tótem Tribal",
-      "tribu": "Colmillos Plateados",
+      "patron_tribe": "Colmillos Plateados",
       "categoria": "Tótem de respeto",
       "alcance": "Tótem de clan",
       "rasgos_comunes": "Todos los hijos de Halcón obtienen el Don Verdad de Gaia cuando se invoca a Halcón.",
@@ -20694,7 +20679,6 @@
     ],
     "mechanics_html": {
       "ban": "El deshonor es peor que la muerte para Halcón: ninguno de los hijos de Halcón puede perder jamás Honor permanente. Si lo hace, debe corregir el error inmediatamente o realizar un <a href=\"/werewolf/rites/rite-of-contrition\">Rito de Contrición</a> y además expiar su deshonra lanzándose contra un poderoso esbirro del Wyrm. Por un lado, es un suicidio casi seguro. Por el otro, su sangre limpiará la mancha de su nombre, al igual que la victoria.",
-      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> Tribal",
       "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de respeto",
       "alcance": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de clan",
       "rasgos_comunes": "Todos los hijos de Halcón obtienen el Don <a href=\"/werewolf/gifts/truth-of-gaia\">Verdad de Gaia</a> cuando se invoca a Halcón.",
@@ -20710,16 +20694,14 @@
     "body_es": "Pegaso es un protector de los lugares sagrados, igual que las Furias Negras a las que apoya. Pegaso, con la apariencia de un caballo alado con fuego en sus ojos, puede enseñar Dones de viaje y aire a quienes escoge. La Camada de [Fenris](/werewolf/totems/fenris) ha molestado desde hace mucho a Pegaso, posiblemente debido a su rivalidad con las Furias Negras. Debido a ello, Pegaso aún no ha aceptado a ninguna manada que cuente con un miembro de la Camada.",
     "tags": [
       "totem",
-      "totem-de-respeto",
-      "Furias Negras"
+      "totem-de-respeto"
     ],
     "mechanics": {
       "background_cost": "4",
       "individual_traits": "Los hijos de Pegaso ganan dos puntos temporales de Honor.",
       "pack_traits": "Las manadas de Pegaso pueden recurrir a tres puntos de Trato con Animales y tres puntos temporales de Fuerza de Voluntad por historia. Las Furias Negras están predispuestas de forma favorable hacia la manada.",
       "ban": "Los hijos de Pegaso no pueden rechazar proporcionar ayuda a las hembras de ninguna especie, especialmente a las hembras jóvenes.",
-      "rol": "Tótem Tribal",
-      "tribu": "Furias Negras"
+      "patron_tribe": "Furias Negras"
     },
     "sources": [
       {
@@ -20729,10 +20711,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "mechanics_html": {
-      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> Tribal"
-    }
+    ]
   },
   {
     "id": "stag",
@@ -20743,16 +20722,14 @@
     "body_es": "Venado es un antiguo espíritu de respeto, mucho más viejo que los Fianna que lo reclaman como [Tótem](/werewolf/backgrounds/totem). Al ser una encarnación de la virilidad y el desenfrenado poder de la naturaleza, Venado tiene tanto un lado luminoso como otro oscuro. Proporciona a los Garou su afinidad con la naturaleza y enseña responsabilidad hacia los humanos. También es el señor de [la Cacería](/werewolf/rites/the-hunt) Salvaje, corriendo desbocado hasta que se haya derramado suficiente sangre en su nombre.",
     "tags": [
       "totem",
-      "totem-de-respeto",
-      "Fianna"
+      "totem-de-respeto"
     ],
     "mechanics": {
       "background_cost": "6",
       "individual_traits": "Los elegidos de Venado ganan tres puntos de Honor y un punto adicional de Resistencia que sólo puede utilizarse en carreras de fondo.",
       "pack_traits": "Las manadas de Venado tienen acceso a tres puntos de Supervivencia y a tres puntos temporales de Fuerza de Voluntad por historia. Los Fianna tienen una buena disposición hacia la manada, y las hadas, espíritus y changelings también pueden honrarlos.",
       "ban": "Los hijos de Venado no pueden rechazar ayudar a las criaturas feéricas ni a los espíritus cuando les piden ayuda. También deben respetar siempre a su presa, incluyendo realizar una Plegaria por la Presa tras cada caza con éxito.",
-      "rol": "Tótem Tribal",
-      "tribu": "Fianna"
+      "patron_tribe": "Fianna"
     },
     "sources": [
       {
@@ -20764,8 +20741,7 @@
       }
     ],
     "mechanics_html": {
-      "pack_traits": "Las manadas de Venado tienen acceso a tres puntos de <a href=\"/werewolf/gifts/survival\">Supervivencia</a> y a tres puntos temporales de Fuerza de Voluntad por historia. Los Fianna tienen una buena disposición hacia la manada, y las hadas, espíritus y changelings también pueden honrarlos.",
-      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> Tribal"
+      "pack_traits": "Las manadas de Venado tienen acceso a tres puntos de <a href=\"/werewolf/gifts/survival\">Supervivencia</a> y a tres puntos temporales de Fuerza de Voluntad por historia. Los Fianna tienen una buena disposición hacia la manada, y las hadas, espíritus y changelings también pueden honrarlos."
     }
   },
   {
@@ -20807,16 +20783,14 @@
     "body_es": "Grifo recuerda las especies extintas y llora la muerte de todas y cada una de ellas. Esto ha despertado una terrible rabia contra los humanos (asesinos de especies enteras) que comparte con sus escogidos, los Garras Rojas. Siempre cazando, siempre hambriento, Grifo encarna al cazador ágil.",
     "tags": [
       "totem",
-      "totem-de-guerra",
-      "Garras Rojas"
+      "totem-de-guerra"
     ],
     "mechanics": {
       "background_cost": "4",
       "individual_traits": "Los hijos de Grifo pueden comunicarse con las aves de presa sin el uso de un Don y obtienen dos puntos de Gloria.",
       "pack_traits": "Las manadas de Grifo ganan tres puntos de Alerta y los Garras Rojas muestran su respeto por la manada.",
       "ban": "Los seguidores de Grifo no pueden asociarse con humanos. Grifo aún no ha aceptado a una manada que contenga a un Garou Homínido.",
-      "rol": "Tótem Tribal",
-      "tribu": "Garras Rojas"
+      "patron_tribe": "Garras Rojas"
     },
     "sources": [
       {
@@ -20826,10 +20800,7 @@
         "variant": "base",
         "book_title_es": "W20 Aniversario Core (ES)"
       }
-    ],
-    "mechanics_html": {
-      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> Tribal"
-    }
+    ]
   },
   {
     "id": "boar",
@@ -20912,16 +20883,14 @@
     "body_es": "Rata es la astuta y silenciosa maestra de la guerra de hostigamiento, el [Tótem](/werewolf/backgrounds/totem) original de los guerrilleros. Aunque Rata lucha para debilitar, tullir y después arrollar, puede ser tan feroz como cualquier otro [Tótem](/werewolf/backgrounds/totem) cuando es arrinconada.",
     "tags": [
       "totem",
-      "totem-de-guerra",
-      "Roehuesos"
+      "totem-de-guerra"
     ],
     "mechanics": {
       "background_cost": "5",
       "individual_traits": "Los hijos de Rata restan uno a la dificultad de todas las tiradas para morder y de todas las dificultades de las tiradas que impliquen sigilo o silencio.",
       "pack_traits": "Las manadas de Rata pueden usar una reserva de cinco puntos temporales de Fuerza de Voluntad por historia. Los Roehuesos ayudarán a la manada y hasta los Ratkin serán, en cierta forma, tolerantes con su existencia.",
       "ban": "Los hijos de Rata no deben matar alimañas de ninguna clase.",
-      "rol": "Tótem Tribal",
-      "tribu": "Roehuesos",
+      "patron_tribe": "Roehuesos",
       "categoria": "Tótem de guerra",
       "alcance": "Tótem de clan",
       "rasgos_comunes": "Los miembros de los clanes de Rata restan 1 a la dificultad de todas las tiradas de mordisco, así como de las tiradas que impliquen la habilidad Sigilo o permanecer de alguna otra forma quieto y desapercibido.",
@@ -20947,7 +20916,6 @@
     "mechanics_html": {
       "individual_traits": "Los hijos de Rata restan uno a la dificultad de todas las tiradas para morder y de todas las dificultades de las tiradas que impliquen sigilo o <a href=\"/werewolf/gifts/camazotz-silence\">silencio</a>.",
       "pack_traits": "Las manadas de Rata pueden usar una reserva de cinco puntos temporales de Fuerza de Voluntad por historia. Los Roehuesos ayudarán a la manada y hasta los <a href=\"/werewolf/changing-breeds/ratkin\">Ratkin</a> serán, en cierta forma, tolerantes con su existencia.",
-      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> Tribal",
       "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de guerra",
       "alcance": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de clan",
       "rasgos_comunes": "Los miembros de los clanes de Rata restan 1 a la dificultad de todas las tiradas de mordisco, así como de las tiradas que impliquen la habilidad Sigilo o permanecer de alguna otra forma quieto y <a href=\"/werewolf/gifts/ananasi-tenere-unnoticed\">desapercibido</a>."
@@ -20993,16 +20961,14 @@
     "body_es": "Búho observa silencioso en la oscuridad, aprendiendo todo lo que puede. Como los Caminantes Silenciosos que lo reivindican como su [Tótem](/werewolf/backgrounds/totem), Búho guarda saber secreto, especialmente en lo referente a la muerte y los misterios de la Umbra Oscura.",
     "tags": [
       "totem",
-      "totem-de-sabiduria",
-      "Caminantes Silenciosos"
+      "totem-de-sabiduria"
     ],
     "mechanics": {
       "background_cost": "5",
       "individual_traits": "Los hijos de Búho obtienen alas cuando están en la Umbra, lo cual les permite volar de un sitio a otro. También reducen en dos la dificultad de las tiradas relacionadas con el sigilo o el silencio y ganan dos puntos temporales de Sabiduría.",
       "pack_traits": "Las manadas de Búho suelen recibir premoniciones y sueños proféticos que las llevan a lugares místicos largo tiempo olvidados. La manada obtiene tres dados para usar en Dones que impliquen aire, viajar, movimiento u oscuridad. Los Caminantes Silenciosos pueden aparecer en ayuda de la manada cuando esté en peligro, pero las manadas que siguen a Rata (y los Ratkin) no sienten aprecio por los Garou de Búho.",
       "ban": "Los hijos de Búho deben dejar pequeños roedores atados e indefensos en el bosque para él y los suyos.",
-      "rol": "Tótem Tribal",
-      "tribu": "Caminantes Silenciosos"
+      "patron_tribe": "Caminantes Silenciosos"
     },
     "sources": [
       {
@@ -21015,8 +20981,7 @@
     ],
     "mechanics_html": {
       "individual_traits": "Los hijos de Búho obtienen alas cuando están en la Umbra, lo cual les permite volar de un sitio a otro. También reducen en dos la dificultad de las tiradas relacionadas con el sigilo o el <a href=\"/werewolf/gifts/camazotz-silence\">silencio</a> y ganan dos puntos temporales de Sabiduría.",
-      "pack_traits": "Las manadas de Búho suelen recibir premoniciones y sueños proféticos que las llevan a lugares místicos largo tiempo olvidados. La manada obtiene tres dados para usar en Dones que impliquen aire, viajar, movimiento u oscuridad. Los Caminantes Silenciosos pueden aparecer en ayuda de la manada cuando esté en peligro, pero las manadas que siguen a Rata (y los <a href=\"/werewolf/changing-breeds/ratkin\">Ratkin</a>) no sienten aprecio por los Garou de Búho.",
-      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> Tribal"
+      "pack_traits": "Las manadas de Búho suelen recibir premoniciones y sueños proféticos que las llevan a lugares místicos largo tiempo olvidados. La manada obtiene tres dados para usar en Dones que impliquen aire, viajar, movimiento u oscuridad. Los Caminantes Silenciosos pueden aparecer en ayuda de la manada cuando esté en peligro, pero las manadas que siguen a Rata (y los <a href=\"/werewolf/changing-breeds/ratkin\">Ratkin</a>) no sienten aprecio por los Garou de Búho."
     }
   },
   {
@@ -21028,16 +20993,14 @@
     "body_es": "Cucaracha es rápida, dura y persistente. También está por todas partes en el mundo moderno, observando y aguardando. Si es cierto lo que dice su Tribu escogida, es uno de los espíritus [Tótem](/werewolf/backgrounds/totem) de la era actual.",
     "tags": [
       "totem",
-      "totem-de-sabiduria",
-      "Moradores del Cristal"
+      "totem-de-sabiduria"
     ],
     "mechanics": {
       "background_cost": "6",
       "individual_traits": "La dificultad de todas las tiradas de los elegidos de Cucaracha relacionadas con la informática, la electricidad y la ciencia aplicada disminuye en dos. También pueden percibir los contenidos de las corrientes de datos en la Umbra, viéndolas como vídeos de YouTube o escuchándolas en una llamada de teléfono al superar una tirada de Gnosis (dificultad 6).",
       "pack_traits": "Las manadas de Cucaracha ganan tres dados que pueden usar en cualquier tirada para activar un Don que afecte a la tecnología.",
       "ban": "Los miembros de la manada nunca deben matar a una cucaracha.",
-      "rol": "Tótem Tribal",
-      "tribu": "Moradores del Cristal",
+      "patron_tribe": "Moradores del Cristal",
       "categoria": "Tótem de sabiduría",
       "alcance": "Tótem de clan",
       "rasgos_comunes": "Los clanes dedicados a Cucaracha restan 2 a la dificultad de todas las tiradas relacionadas con informática, electricidad y ciencias aplicadas. Tienen el poder de percibir el contenido de los flujos de datos en la Umbra, incluyendo las llamadas telefónicas y la información que viaja a través de Internet mediante una tirada de Gnosis a dificultad 6.",
@@ -21061,7 +21024,6 @@
       }
     ],
     "mechanics_html": {
-      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> Tribal",
       "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de sabiduría",
       "alcance": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de clan"
     }
@@ -21115,16 +21077,14 @@
     "body_es": "Quimera, la patrona de los Contemplaestrellas, es la personificación del Enigma. Ella, la de Muchos Rostros, invita a sus manadas a encontrar la sabiduría que todo hombre lobo tiene en su interior bajo capas de enigmas y autoengaños.",
     "tags": [
       "totem",
-      "totem-de-sabiduria",
-      "Contemplaestrellas"
+      "totem-de-sabiduria"
     ],
     "mechanics": {
       "background_cost": "7",
       "individual_traits": "Los Garou de Quimera reducen en dos la dificultad de todas las tiradas relacionadas con adivinanzas, interpretación de sueños o enigmas, y ganan dos puntos temporales de Sabiduría. Además, también pueden disfrazarse como algo distinto cuando están en la Umbra mediante una tirada de Gnosis (dificultad 7).",
       "pack_traits": "Las manadas de Quimera ganan tres puntos de Enigmas y uno de Percepción.",
       "ban": "Aunque Quimera exige que la manada busque la iluminación, no impone ninguna restricción acerca de cómo ha de hacerlo.",
-      "rol": "Tótem Tribal",
-      "tribu": "Contemplaestrellas",
+      "patron_tribe": "Contemplaestrellas",
       "categoria": "Tótem de sabiduría",
       "alcance": "Tótem de clan",
       "rasgos_comunes": "Los clanes de Quimera restan 2 a la dificultad de todas las tiradas que impliquen acertijos, interpretar sueños y otros enigmas. Tienen el poder de disfrazarse como otras criaturas en la Umbra con una tirada de Gnosis a dificultad 7.",
@@ -21148,7 +21108,6 @@
       }
     ],
     "mechanics_html": {
-      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> Tribal",
       "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de sabiduría",
       "alcance": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de clan",
       "prohibicion": "Los clanes dedicados a Quimera deben <a href=\"/werewolf/gifts/seek\">buscar</a> la iluminación por encima de todo."
@@ -21163,16 +21122,14 @@
     "body_es": "Uktena es un anciano espíritu acuático que combina las características del puma, la serpiente y el ciervo. Es el espíritu de los lechos de los ríos y los lugares oscuros, y conoce secretos que incluso otros Tótems de sabiduría no han descubierto.",
     "tags": [
       "totem",
-      "totem-de-sabiduria",
-      "Uktena"
+      "totem-de-sabiduria"
     ],
     "mechanics": {
       "background_cost": "7",
       "individual_traits": "Los seguidores de Uktena añaden tres dados a todas las tiradas de absorción cuando están en la Umbra y obtienen dos puntos de Experiencia adicionales por historia que sólo pueden utilizarse para mejorar Enigmas, Ocultismo, Rituales, Dones y otros conocimientos místicos. Los Garou también ganan dos puntos temporales de Sabiduría. Los hijos de Uktena añaden uno a la dificultad de todas las tiradas sociales cuando interactúan con hombres lobo de Tribus distintas a los Uktena o los Wendigo.",
       "pack_traits": "Los Garou de la Tribu Uktena tratan a la manada como a hermanos.",
       "ban": "Uktena pide a sus hijos que recobren saber, objetos, lugares y animales místicos de los esbirros del Wyrm.",
-      "rol": "Tótem Tribal",
-      "tribu": "Uktena"
+      "patron_tribe": "Uktena"
     },
     "extraction_note": "Nombre compartido con la Tribu Uktena.",
     "sources": [
@@ -21185,8 +21142,7 @@
       }
     ],
     "mechanics_html": {
-      "individual_traits": "Los seguidores de Uktena añaden tres dados a todas las tiradas de absorción cuando están en la Umbra y obtienen dos puntos de Experiencia adicionales por historia que sólo pueden utilizarse para mejorar Enigmas, Ocultismo, Rituales, Dones y otros conocimientos místicos. Los Garou también ganan dos puntos temporales de Sabiduría. Los hijos de Uktena añaden uno a la dificultad de todas las tiradas sociales cuando interactúan con hombres lobo de Tribus distintas a los Uktena o los <a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>.",
-      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> Tribal"
+      "individual_traits": "Los seguidores de Uktena añaden tres dados a todas las tiradas de absorción cuando están en la Umbra y obtienen dos puntos de Experiencia adicionales por historia que sólo pueden utilizarse para mejorar Enigmas, Ocultismo, Rituales, Dones y otros conocimientos místicos. Los Garou también ganan dos puntos temporales de Sabiduría. Los hijos de Uktena añaden uno a la dificultad de todas las tiradas sociales cuando interactúan con hombres lobo de Tribus distintas a los Uktena o los <a href=\"/werewolf/totems/wendigo-totem\">Wendigo</a>."
     }
   },
   {
@@ -21198,16 +21154,14 @@
     "body_es": "Unicornio es un [Tótem](/werewolf/backgrounds/totem) de paz, pureza, curación y armonía. Como tal, es el [Tótem](/werewolf/backgrounds/totem) tribal de los Hijos de Gaia. Encarna el bendito e inmenso amor de Gaia.",
     "tags": [
       "totem",
-      "totem-de-sabiduria",
-      "Hijos de Gaia"
+      "totem-de-sabiduria"
     ],
     "mechanics": {
       "background_cost": "7",
       "individual_traits": "Los hijos de Unicornio se mueven al doble de la velocidad normal en la Umbra y reducen en dos la dificultad de todas las tiradas que impliquen curación y empatía, aunque aumentan en dos la de todas las tiradas para dañar a otro Garou (excepto a los Danzantes de la Espiral Negra y otros corrompidos por el Wyrm). Los Garou de Unicornio ganan tres puntos de Sabiduría.",
       "pack_traits": "Las manadas de Unicornio ganan tres dados cuando usan Dones de curación, fuerza y protección. Los Hijos de Gaia ayudarán a la manada y, por lo general, se pondrán de su parte en las disputas.",
       "ban": "Los hijos de Unicornio deben proteger y ayudar a los débiles y explotados siempre que al hacerlo no favorezcan al Wyrm.",
-      "rol": "Tótem Tribal",
-      "tribu": "Hijos de Gaia",
+      "patron_tribe": "Hijos de Gaia",
       "categoria": "Tótem de sabiduría",
       "alcance": "Tótem de clan",
       "rasgos_comunes": "Los hijos de Unicornio se mueven al doble de su velocidad normal en la Umbra. También restan 2 de la dificultad de las tiradas que impliquen sanación y empatía, pero suman 2 a la dificultad para dañar a otros Garou (salvo a los Danzantes de la Espiral Negra y otros manchados por el Wyrm).",
@@ -21233,7 +21187,6 @@
     ],
     "mechanics_html": {
       "individual_traits": "Los hijos de Unicornio se mueven al doble de la velocidad normal en la Umbra y reducen en dos la dificultad de todas las tiradas que impliquen curación y <a href=\"/werewolf/gifts/empathy\">empatía</a>, aunque aumentan en dos la de todas las tiradas para dañar a otro Garou (excepto a los Danzantes de la Espiral Negra y otros corrompidos por el Wyrm). Los Garou de Unicornio ganan tres puntos de Sabiduría.",
-      "rol": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> Tribal",
       "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de sabiduría",
       "alcance": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de clan",
       "rasgos_comunes": "Los hijos de Unicornio se mueven al doble de su velocidad normal en la Umbra. También restan 2 de la dificultad de las tiradas que impliquen sanación y <a href=\"/werewolf/gifts/empathy\">empatía</a>, pero suman 2 a la dificultad para dañar a otros Garou (salvo a los Danzantes de la Espiral Negra y otros manchados por el Wyrm)."
@@ -21866,56 +21819,6 @@
         "variant": "base"
       }
     ]
-  },
-  {
-    "id": "rite-of-the-spirit-egg",
-    "type": "rite",
-    "line": "werewolf",
-    "name_en": "Rite of the Spirit Egg",
-    "name_es": "Rito del Huevo Espiritual",
-    "body_es": "Cada pareja de hombres [cuervo](/werewolf/totems/raven) debe crear deliberadamente a sus hijos usando el Rito del Huevo Espiritual. Conforme el niño madura, el huevo empieza a abrirse. Eclosiona cuando el joven llega a la edad adulta transformando al joven humano o [cuervo](/werewolf/totems/raven) en un [Corax](/werewolf/changing-breeds/corax). Al menos así es como deberían ser las cosas.\n\nEl Rito del Huevo Espiritual es extremadamente difícil y exigente. Muchos [Corax](/werewolf/changing-breeds/corax) sólo lo realizan una vez en toda su existencia, y por ello protegen el huevo espiritual con sus vidas. Los [Corax](/werewolf/changing-breeds/corax) consideran que su deber de guardar los huevos de sus hijos es una de sus responsabilidades más sagradas.",
-    "tags": [
-      "corax",
-      "aves-de-rapina"
-    ],
-    "mechanics": {
-      "level": null,
-      "roll": null,
-      "difficulty": null,
-      "notes": "El origen no indica rango/nivel ni sistema de tirada; sólo describe la función del Rito de forma narrativa (los Corax lo usan para engendrar hijos; el huevo eclosiona en la edad adulta y transforma al joven en Corax). Es el Rito propio de los Corax que el Rito del Ala Rota perverte.",
-      "rank": "Nivel dos",
-      "rite_type": "Rito místico",
-      "system": "Este Rito sólo puede realizarse en la Umbra y requiere un testigo de la Raza opuesta a la del Corax 'progenitor'. El Corax pasa tres horas y gasta tres puntos de Gnosis permanente para crear el huevo espiritual y después otra hora para vincularlo al alma deseada. Si el Rito es interrumpido en cualquier parte del proceso, se pierde la Gnosis y el Rito falla."
-    },
-    "related": [
-      "rite-of-the-broken-wing"
-    ],
-    "sources": [
-      {
-        "book_id": "w20-aniversario-core-es",
-        "book_title_es": "Hombre Lobo: El Apocalipsis - Edición 20º Aniversario",
-        "page": null,
-        "section_anchor": "rasgos",
-        "variant": "base"
-      },
-      {
-        "book_id": "w20-el-libro-del-wyrm",
-        "section_anchor": "los-hijos-perdidos-de-cuervo-aves-de-rapina",
-        "page": null,
-        "variant": "base",
-        "book_title_es": "W20 El Libro del Wyrm"
-      },
-      {
-        "book_id": "w20-nsr-aniversario-parte-3-290pp",
-        "section_anchor": "rito-del-huevo-espiritual",
-        "page": null,
-        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
-      }
-    ],
-    "mechanics_html": {
-      "notes": "El origen no indica rango/nivel ni sistema de tirada; sólo describe la función del Rito de forma narrativa (los <a href=\"/werewolf/changing-breeds/corax\">Corax</a> lo usan para engendrar hijos; el huevo eclosiona en la edad adulta y transforma al joven en <a href=\"/werewolf/changing-breeds/corax\">Corax</a>). Es el Rito propio de los <a href=\"/werewolf/changing-breeds/corax\">Corax</a> que el <a href=\"/werewolf/rites/rite-of-the-broken-wing\">Rito del Ala Rota</a> perverte.",
-      "system": "Este Rito sólo puede realizarse en la Umbra y requiere un testigo de la Raza opuesta a la del <a href=\"/werewolf/changing-breeds/corax\">Corax</a> &#x27;progenitor&#x27;. El <a href=\"/werewolf/changing-breeds/corax\">Corax</a> pasa tres horas y gasta tres puntos de Gnosis permanente para crear el huevo espiritual y después otra hora para vincularlo al alma deseada. Si el Rito es interrumpido en cualquier parte del proceso, se pierde la Gnosis y el Rito falla."
-    }
   },
   {
     "id": "rite-of-the-hidey-hole",
@@ -30327,6 +30230,50 @@
     ],
     "mechanics_html": {
       "system": "Este Rito no tiene coste. El jugador hace una tirada estándar de Astucia + Rituales a dificultad 7. La luz solar que se toma prestada brilla desde el lugar donde está el <a href=\"/werewolf/changing-breeds/corax\">Corax</a> al finalizar el Rito, iluminando todo en un radio de 20 metros (o yardas). Dura una hora por éxito en la tirada de activación y persiste incluso si el <a href=\"/werewolf/changing-breeds/corax\">Corax</a> abandona la zona."
+    }
+  },
+  {
+    "id": "rite-of-the-spirit-egg",
+    "type": "rite",
+    "line": "werewolf",
+    "name_en": "Rite of the Spirit Egg",
+    "name_es": "Rito del Huevo Espiritual",
+    "body_es": "El más importante de todos los [Ritos](/werewolf/backgrounds/rites) [Corax](/werewolf/changing-breeds/corax), el Rito del Huevo Espiritual crea un nuevo hombre [cuervo](/werewolf/totems/raven). La vinculación requiere una pluma o pelo del 'progenitor' con la cual vincular el huevo espiritual al futuro [Corax](/werewolf/changing-breeds/corax). Si algo le pasa al huevo o a la vinculación antes del Primer Cambio, los resultados son espiritual y psicológicamente devastadores.",
+    "tags": [
+      "corax"
+    ],
+    "mechanics": {
+      "rank": "Nivel dos",
+      "rite_type": "Rito místico",
+      "system": "Este Rito sólo puede realizarse en la Umbra y requiere un testigo de la Raza opuesta a la del Corax 'progenitor'. El Corax pasa tres horas y gasta tres puntos de Gnosis permanente para crear el huevo espiritual y después otra hora para vincularlo al alma deseada. Si el Rito es interrumpido en cualquier parte del proceso, se pierde la Gnosis y el Rito falla."
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "section_anchor": "rito-del-huevo-espiritual",
+        "page": null,
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
+      },
+      {
+        "book_id": "w20-aniversario-core-es",
+        "page": null,
+        "section_anchor": "rasgos",
+        "variant": "base",
+        "book_title_es": "W20 Aniversario Core (ES)"
+      },
+      {
+        "book_id": "w20-el-libro-del-wyrm",
+        "page": null,
+        "section_anchor": "los-hijos-perdidos-de-cuervo-aves-de-rapina",
+        "variant": "base",
+        "book_title_es": "W20 El Libro del Wyrm"
+      }
+    ],
+    "review": {
+      "reason": "En el original el bloque 'ESTEREOTIPOS' se intercaló entre la descripción y el 'Sistema:' de este Rito (bloques 695-716). Descripción y Sistema reensamblados en orden de lectura; verificar contra la fuente."
+    },
+    "mechanics_html": {
+      "system": "Este Rito sólo puede realizarse en la Umbra y requiere un testigo de la Raza opuesta a la del <a href=\"/werewolf/changing-breeds/corax\">Corax</a> &#x27;progenitor&#x27;. El <a href=\"/werewolf/changing-breeds/corax\">Corax</a> pasa tres horas y gasta tres puntos de Gnosis permanente para crear el huevo espiritual y después otra hora para vincularlo al alma deseada. Si el Rito es interrumpido en cualquier parte del proceso, se pierde la Gnosis y el Rito falla."
     }
   },
   {

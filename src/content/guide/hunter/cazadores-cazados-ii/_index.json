@@ -3,7 +3,7 @@
   "line": "hunter",
   "title_es": "Cazador: Cazadores Cazados II",
   "book_title_es": "Cazador: Cazadores Cazados II",
-  "page_count": 43,
+  "page_count": 46,
   "tree": [
     {
       "block": "front-matter",
@@ -113,6 +113,17 @@
             {
               "slug": "capitulo-tres-herramientas-y-tacticas",
               "title": "Capítulo Tres: Herramientas y Tácticas",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Tres: Herramientas y Tácticas",
+          "pages": [
+            {
+              "slug": "capitulo-tres-herramientas-y-tacticas-2",
+              "title": "Capítulo Tres: Herramientas y Tácticas",
               "part": "Capítulo Tres: Herramientas y Tácticas",
               "content_type": "rule"
             },
@@ -177,32 +188,43 @@
             {
               "slug": "capitulo-cinco-narracion",
               "title": "Capítulo Cinco: Narración",
-              "part": "Capítulo Cinco: Narración",
+              "part": null,
               "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Cinco: Narración",
+          "pages": [
+            {
+              "slug": "capitulo-cinco-narracion-2",
+              "title": "Capítulo Cinco: Narración",
+              "part": "Capítulo Cinco: Narración",
+              "content_type": "rule"
             },
             {
               "slug": "capitulo-cinco-narracion-preludio-pistoletazos-de-salida",
               "title": "Preludio: Pistoletazos de salida",
               "part": null,
-              "content_type": "lore"
+              "content_type": "rule"
             },
             {
               "slug": "capitulo-cinco-narracion-sandbox",
               "title": "Sandbox",
               "part": null,
-              "content_type": "lore"
+              "content_type": "rule"
             },
             {
               "slug": "capitulo-cinco-narracion-la-trama-se-complica",
               "title": "La trama se complica",
               "part": null,
-              "content_type": "lore"
+              "content_type": "rule"
             },
             {
               "slug": "capitulo-cinco-narracion-punto-de-mira-inconnu",
               "title": "Punto de mira: Inconnu",
               "part": null,
-              "content_type": "lore"
+              "content_type": "rule"
             }
           ]
         }
@@ -240,8 +262,8 @@
               "content_type": "lore"
             },
             {
-              "slug": "el-gobierno-estadounidense-acceso-no-estandar-merito-de-3-puntos",
-              "title": "Acceso no Estándar (Mérito de 3 puntos)",
+              "slug": "el-gobierno-estadounidense-enlace-entre-agencias-merito-de-2-puntos",
+              "title": "Enlace entre Agencias (Mérito de 2 puntos)",
               "part": null,
               "content_type": "lore"
             },
@@ -292,6 +314,17 @@
               "title": "Epílogo",
               "part": null,
               "content_type": "fiction"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Seis: Organizaciones y Recursos",
+          "pages": [
+            {
+              "slug": "capitulo-seis-organizaciones-y-recursos-2",
+              "title": "Capítulo Seis: Organizaciones y Recursos",
+              "part": null,
+              "content_type": "rule"
             }
           ]
         }

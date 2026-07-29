@@ -1,0 +1,27 @@
+{
+  "book_id": "cazadores-cazados-ii",
+  "line": "hunter",
+  "order": 24,
+  "slug": "capitulo-seis-organizaciones-y-recursos-2",
+  "block": "capitulo-seis",
+  "block_title": "Capítulo Seis: Organizaciones y Recursos",
+  "chapter": "Capítulo Seis: Organizaciones y Recursos",
+  "part": null,
+  "section": null,
+  "title": "Capítulo Seis: Organizaciones y Recursos",
+  "content_type": "rule",
+  "source_line_range": [
+    3061,
+    3062
+  ],
+  "body_md": "## Capítulo Seis: Organizaciones y Recursos",
+  "toc": [],
+  "prev": {
+    "slug": "capitulo-seis-organizaciones-y-recursos",
+    "title": "Capítulo Seis: Organizaciones y Recursos"
+  },
+  "next": {
+    "slug": "la-sociedad-de-leopoldo",
+    "title": "La Sociedad de Leopoldo"
+  }
+}
