@@ -186,7 +186,7 @@
     "line": "hunter",
     "name_en": "Biblioteca Ocultista",
     "name_es": "Biblioteca Ocultista",
-    "body_es": "Tu personaje posee una considerable colección de trabajos de saber arcano. Si tiene acceso a su biblioteca, puedes disminuir la dificultad de las tiradas relacionadas de Inteligencia, Ocultismo o Investigación en 1 cuando trate de resolver un misterio arcano o aprender más sobre lo oculto. Tener esta biblioteca no convierte al cazador en un experto ocultista de forma automática, sólo significa que tiene un práctico acceso a algo de conocimiento. Si has adquirido la versión de\n\n<!-- image -->",
+    "body_es": "Tu personaje posee una considerable colección de trabajos de saber arcano. Si tiene acceso a su [biblioteca](/hunter/backgrounds/library), puedes disminuir la dificultad de las tiradas relacionadas de Inteligencia, Ocultismo o Investigación en 1 cuando trate de resolver un misterio arcano o aprender más sobre lo oculto. Tener esta [biblioteca](/hunter/backgrounds/library) no convierte al cazador en un experto ocultista de forma automática, sólo significa que tiene un práctico acceso a algo de conocimiento. Si has adquirido la versión de\n\n<!-- image -->",
     "tags": [],
     "mechanics": {
       "cost": "2 o 4"
@@ -982,7 +982,7 @@
     "line": "hunter",
     "name_en": "Identidad Suplementaria",
     "name_es": "Identidad Suplementaria",
-    "body_es": "La mayoría de los agentes construyen identidades encubiertas que completan con antecedentes y documentos. Tú has ido aún más lejos y tienes una identidad de la que tu agencia no sabe nada. Tu Identidad Suplementaria tiene un set completo de documentos, incluyendo un número de la Seguridad Social y un pasaporte, una cuenta bancaria y hasta posee un pequeño apartamento. A diferencia de la mayoría de las identidades encubiertas, nada te vincula a esta Identidad Suplementaria, lo cual significa que resulta muy útil cuando necesitas trabajar extraoficialmente, y como vía de escape cuando las cosas se ponen feas.\n\nEste Mérito sólo proporciona documentación y una garantía de que las agencias de inteligencia no tendrán conocimiento de tu álter ego. Aún necesitas el Trasfondo Identidad Alternativa si quieres interpretar ese papel de forma efectiva.",
+    "body_es": "La mayoría de los agentes construyen identidades encubiertas que completan con antecedentes y documentos. Tú has ido aún más lejos y tienes una identidad de la que tu agencia no sabe nada. Tu Identidad Suplementaria tiene un set completo de documentos, incluyendo un número de la Seguridad Social y un pasaporte, una cuenta bancaria y hasta posee un pequeño apartamento. A diferencia de la mayoría de las identidades encubiertas, nada te vincula a esta Identidad Suplementaria, lo cual significa que resulta muy útil cuando necesitas trabajar extraoficialmente, y como vía de escape cuando las cosas se ponen feas.\n\nEste Mérito sólo proporciona documentación y una garantía de que las agencias de inteligencia no tendrán conocimiento de tu álter ego. Aún necesitas el Trasfondo [Identidad Alternativa](/hunter/backgrounds/alternate-identity) si quieres interpretar ese papel de forma efectiva.",
     "tags": [],
     "mechanics": {
       "cost": "3"
@@ -2435,6 +2435,54 @@
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "reaccion-psiquica",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "library",
+    "type": "background",
+    "line": "hunter",
+    "name_en": "Biblioteca",
+    "name_es": "Biblioteca",
+    "body_es": "Los Arcanistas suelen dedicar toda su vida a la investigación y acumulan tremendas bibliotecas durante el transcurso de sus carreras; aquéllos que viven cerca de Casas Capitulares con largamente establecidas y bien desarrolladas bibliotecas lo hacen aún mejor. Los Arcanistas que investigan un hecho en particular en bibliotecas ven la dificultad de sus tiradas de investigación reducida por este Trasfondo (ten en cuenta que esto no se puede combinar con el acceso al Axis Mundi).\n\nLos jugadores pueden optar por compartir puntos de Trasfondo para una Biblioteca común. Ver pág. 118-119 del V20 para más información sobre Trasfondos Compartidos.\n\n- • Se reduce la dificultad en 1.\n\n- •• Se reduce la dificultad en 2.\n\n- ••• Se reduce la dificultad en 3.\n\n- •••• Se reduce la dificultad en 4.\n\n- ••••• Se reduce la dificultad en 5.",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "biblioteca",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "alternate-identity",
+    "type": "background",
+    "line": "hunter",
+    "name_en": "Identidad Alternativa",
+    "name_es": "Identidad Alternativa",
+    "body_es": "Mantienes una identidad alternativa completa, con papeles, partidas de nacimiento o cualquier otra documentación que desees. Sólo unos pocos pueden saber tu nombre o identidad real. Tu personalidad alternativa podría estar muy implicada en el crimen organizado, ser un miembro de la Secta opuesta, un estafador que usa identidades alternativas para sus líos o podrías dedicarte simplemente a reunir información sobre el [enemigo](/hunter/flaws/enemigo). De hecho, algunos vampiros pueden conocerte como un individuo mientras otros creen que eres alguien totalmente diferente.\n\n- • Eres nuevo en este juego de identidades. A veces te despistas y olvidas tu otra personalidad.\n\n- •• Bien asentado en tu identidad alternativa. Eres tan convincente como para simular el papel de un doctor, abogado, agente de pompas fúnebres, traficante de drogas o un espía capaz.\n\n- ••• Tienes buena reputación como tu personalidad alternativa y se te reconoce por ese nombre en el área donde te has infiltrado.\n\n- •••• Tu identidad alternativa se ha ganado respeto y confianza dentro del área de infiltración.\n\n- ••••• Inspiras respeto en tu área de infiltración, y puedes incluso haber acumulado algo de [influencia](/hunter/backgrounds/influence). Tienes la confianza (o al menos el reconocimiento) de muchos individuos poderosos dentro de tu área.",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "v20-core-rulebook-es",
+        "page": null,
+        "section_anchor": "identidad-alternativa",
         "variant": "base"
       }
     ],
