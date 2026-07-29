@@ -1179,7 +1179,7 @@
     "line": "hunter",
     "name_en": "Legado",
     "name_es": "Legado",
-    "body_es": "Tu personaje proviene de un largo linaje de cazadores; ya sea una responsabilidad familiar que se ha ido heredando o que se te considere 'sucesor' de un cazador particularmente famoso o capaz. Cuando adquieres el Trasfondo [Contactos](/hunter/backgrounds/contacts), puedes duplicar el número de [contactos](/hunter/backgrounds/contacts) específicos que recibes por cada punto. Alternativamente, puedes adquirir el Trasfondo [Artefacto](/hunter/backgrounds/artefacto) o Relicario para reflejar una poderosa reliquia familiar.",
+    "body_es": "Tu personaje proviene de un largo linaje de cazadores; ya sea una responsabilidad familiar que se ha ido heredando o que se te considere 'sucesor' de un cazador particularmente famoso o capaz. Cuando adquieres el Trasfondo [Contactos](/hunter/backgrounds/contacts), puedes duplicar el número de [contactos](/hunter/backgrounds/contacts) específicos que recibes por cada punto. Alternativamente, puedes adquirir el Trasfondo [Artefacto](/hunter/backgrounds/artefacto) o [Relicario](/hunter/backgrounds/relicario) para reflejar una poderosa reliquia familiar.",
     "tags": [
       "social"
     ],
@@ -2459,6 +2459,78 @@
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "biblioteca",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "relicario",
+    "type": "background",
+    "line": "hunter",
+    "name_en": "Relicario",
+    "name_es": "Relicario",
+    "body_es": "Se te ha concedido acceso al relicario de la Iglesia. Las cámaras del Vaticano son antiguas, oscuras y profundas, y muchos secretos se ocultan en ellas: desde reliquias sagradas a terribles artilugios de brujería que la Iglesia guarda bajo llave para mantenerlos lejos de manos impías. Este Trasfondo representa tanto un privilegio como una responsabilidad, dado que eres guardián de la reliquia. La pérdida o destrucción del objeto consume todos los puntos de Trasfondo gastados, y la Sociedad puede pensárselo dos veces antes de abrirte su relicario en el futuro. El Narrador tiene la decisión final en lo referente al valor y poderes de la reliquia. Pueden verse algunos ejemplos de reliquias en las pág. 157-158.\n\nLos jugadores pueden optar por compartir puntos de Trasfondo para una reliquia común. Ver pág. 118-119 del V20 para más información sobre Trasfondos Compartidos.\n\n·\n\n··\n\n- ···\n- ····\n- ·····",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "relicario",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "turba",
+    "type": "background",
+    "line": "hunter",
+    "name_en": "Turba",
+    "name_es": "Turba",
+    "body_es": "La era de las redes sociales y los medios de comunicación ofrece a un Inquisidor hábil nuevas e innovadoras herramientas para organizar congregaciones en forma de turbas para cazar brujas. Ahora el fanatismo surge por medio de actualizaciones de estado. Sermones incendiarios suenan de casa en casa vía vídeo-chats. La Inquisidora General Bauer instruye personalmente a sus subordinados en estas técnicas, y tú las has aprendido bien. Esta gente no está tan educada en las costumbres del [Enemigo](/hunter/flaws/enemigo) como tú, y no poseen una fe capaz de obrar milagros o poderes ocultos, pero está furiosa. Y armada. Y no van a soportarlo más. Descubrirás que una turba es muy parecida a un arma incendiaria: una fuerza destructiva que pone el temor a Dios en los corazones de los monstruos, pero que fácilmente queda fuera de control.\n\n- Comandas una turba de dos personas.\n\n••\n\nComandas una turba de cuatro personas.\n\n- •••\n\nComandas una turba de siete personas.\n\n••••\n\nComandas una turba de quince personas.\n\n- •••••\n\nComandas una turba de veinticinco personas.",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "turba",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "requerimiento",
+    "type": "background",
+    "line": "hunter",
+    "name_en": "Requerimiento",
+    "name_es": "Requerimiento",
+    "body_es": "Eres un maestro de la burocracia, capaz de rellenar los formularios correctos para lograr hacerte con equipo especial, desde balas de plata a caoscopios. Comienzas la historia con una reserva de puntos que gastar en equipo igual a tus puntos en este Trasfondo. Una vez que se utiliza o se destruye el equipo, eso es todo (y cualquier equipo requisado superviviente debe ser devuelto al final de la historia). Puedes guardar puntos de Requerimiento hasta que necesites un artículo o servicio determinados, pero no puedes adquirir un único objeto que cueste más que tu Rango +2. Algunos ejemplos de equipo requisable aparecen en las pág. 155-156.\n\nLos jugadores pueden optar por compartir puntos de Trasfondo para obtener un suministro de equipo común. Ver pág. 118-119 del V20 para más información sobre Trasfondos Compartidos.\n\n- Posees una pieza de equipo por el valor de un punto de Requerimiento.\n- ·· Posees una pieza de equipo por el valor de dos puntos de Requerimiento o dos objetos de un punto de Requerimiento.\n- ··· Posees uno o más objetos cuyo valor total es igual a tres puntos de Requerimiento.\n\n····\n\n·····\n\nPosees uno o más objetos cuyo valor total es igual a cuatro puntos de Requerimiento.\n\nPosees uno o más objetos cuyo valor total es igual a cinco puntos de Requerimiento.",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "requerimiento",
         "variant": "base"
       }
     ],

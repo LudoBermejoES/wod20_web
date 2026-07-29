@@ -4137,7 +4137,7 @@
     "line": "werewolf",
     "name_en": "Perseguido",
     "name_es": "Perseguido",
-    "body_es": "Un entregado cazador de hombres lobo te ha marcado como su presa, convencido de que eres un monstruo de leyenda empeñado en cazar humanos (por supuesto, no anda del todo desencaminado). Cualquiera a quien conozcas, incluyendo a tu manada o los humanos cercanos a ti, pueden encontrarse en peligro por culpa del cazador. Aunque tu némesis desea la eliminación de todos los hombres lobo, se centra principalmente en ti. Como por obra del destino, el Delirio no tiene efecto sobre él. También es inteligente y está lleno de [recursos](/werewolf/backgrounds/resources); es mucho más probable que disponga terribles trampas contra ti a que caiga en las que tú le dejes a él.",
+    "body_es": "Un entregado cazador de hombres lobo te ha marcado como su presa, convencido de que eres un monstruo de leyenda empeñado en cazar humanos (por supuesto, no anda del todo desencaminado). Cualquiera a quien conozcas, incluyendo a tu manada o los humanos cercanos a ti, pueden encontrarse en peligro por culpa del cazador. Aunque tu némesis desea la eliminación de todos los hombres lobo, se centra principalmente en ti. Como por obra del [destino](/werewolf/backgrounds/destino), el Delirio no tiene efecto sobre él. También es inteligente y está lleno de [recursos](/werewolf/backgrounds/resources); es mucho más probable que disponga terribles trampas contra ti a que caiga en las que tú le dejes a él.",
     "tags": [
       "social"
     ],
@@ -4312,7 +4312,7 @@
     "line": "werewolf",
     "name_en": "Sino Aciago",
     "name_es": "Sino Aciago",
-    "body_es": "Vives a la sombra de alguna fatalidad futura, marcado por el Destino para un terrible final. Todo aquello por lo que luchas se convertirá en cenizas. De cuando en cuando, recibes retazos de visiones acerca de tu destino, lo que hace que sufras prematuramente. Puedes sobreponerte a tu estado de ánimo gastando Fuerza de Voluntad, pero esto sólo funciona de manera temporal. Antes o después, encontrarás tu destino ( cuándo es cosa de tu Narrador, pero ocurrirá durante la crónica, ya que de otra forma este Defecto no tendría ningún sentido). No obstante, mientras tanto puedes tratar de lograr algo que merezca la pena. Puedes hacerlo con sensación de libertad y abandono, dado que sabes que a no ser que esa situación conduzca directamente a tu destino final, tienes muchas oportunidades de sobrevivir y tener éxito. Este Defecto funciona bien junto con el Trasfondo Destino (ver pág. 137), el cual te permite sobrevivir a finales potencialmente menos interesantes para que puedas encontrar el auténtico destino que te aguarda.",
+    "body_es": "Vives a la sombra de alguna fatalidad futura, marcado por el [Destino](/werewolf/backgrounds/destino) para un terrible final. Todo aquello por lo que luchas se convertirá en cenizas. De cuando en cuando, recibes retazos de visiones acerca de tu [destino](/werewolf/backgrounds/destino), lo que hace que sufras prematuramente. Puedes sobreponerte a tu estado de ánimo gastando Fuerza de Voluntad, pero esto sólo funciona de manera temporal. Antes o después, encontrarás tu [destino](/werewolf/backgrounds/destino) ( cuándo es cosa de tu Narrador, pero ocurrirá durante la crónica, ya que de otra forma este Defecto no tendría ningún sentido). No obstante, mientras tanto puedes tratar de lograr algo que merezca la pena. Puedes hacerlo con sensación de libertad y abandono, dado que sabes que a no ser que esa situación conduzca directamente a tu [destino](/werewolf/backgrounds/destino) final, tienes muchas oportunidades de sobrevivir y tener éxito. Este Defecto funciona bien junto con el Trasfondo [Destino](/werewolf/backgrounds/destino) (ver pág. 137), el cual te permite sobrevivir a finales potencialmente menos interesantes para que puedas encontrar el auténtico [destino](/werewolf/backgrounds/destino) que te aguarda.",
     "tags": [
       "sobrenatural"
     ],
@@ -5777,6 +5777,54 @@
         "book_title_es": "W20 Aniversario Core (ES)",
         "page": null,
         "section_anchor": "aliado-ancestro",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "destino",
+    "type": "background",
+    "line": "werewolf",
+    "name_en": "Destino",
+    "name_es": "Destino",
+    "body_es": "El Trasfondo Destino representa una profecía que acompañó tu nacimiento o la creación de tu manada. Un Destino es siempre algo significativo, pero es tan posible que sea oscuro e infame como glorioso. En estos tiempos del Apocalipsis, los Garou no pueden permitirse sacrificar ni a un solo guerrero, sin importar cómo de oscuros sean los portentos que lo rodeen. Sin embargo, precisamente los que tienen destinos terribles a menudo resultan ser algunos de los más grandes Garou, quizá porque tratan con todas sus fuerzas de desafiar ese destino. Algunos incluso consiguen tener éxito.\n\nAdemás de la fama o infamia que te reporten estas profecías, una vez por sesión puedes usar este Trasfondo para añadir éxitos a cualquier tirada que hayas fallado o en la que hayas obtenido menos éxitos de los requeridos. El jugador tira su puntuación en este Trasfondo (dificultad 8) y añade cualquier éxito a los conseguidos en la tirada fallida original. Si esto significa que la acción tiene éxito, el jugador debería describir qué evento fortuito le ha permitido conseguirlo. Si el Narrador siente que las acciones del jugador van contra lo que está destinado a hacer, puede escoger no permitir el uso de este Trasfondo.\n\nCuando Destino es compartido entre toda la manada, cada miembro puede invocar este Trasfondo una vez por sesión de juego. Si la acción fallida afecta de alguna forma a toda la manada, el jugador entonces puede utilizar la mayor puntuación individual de Destino de la manada. Si el personaje está actuando en solitario, el jugador sólo puede usar la menor puntuación individual de Destino de la manada (con un mínimo de uno). En una manada que comparta Destino, cualquier personaje puede aumentar su Destino personal con puntos de Experiencia, como sucede con el Trasfondo [Tótem](/werewolf/backgrounds/totem). Sin embargo sólo se puede aumentar hasta el nivel más alto de Destino de la manada; si ningún miembro de la manada empieza con más de tres puntos de Destino, ningún miembro podrá comprar nunca Destino a cuatro o cinco puntos.\n\nLas manadas tienden a obtener profecías de mayores proporciones que las de los individuos. Esto no es sólo porque una manada pueda ostentar un poder mayor que un único hombre lobo, sino también porque los Garou tienden a ver los logros de una manada como más legítimos que los de una única persona. Para propósitos de interpretación, considera el Destino de la manada igual al del miembro con mayor puntuación de la misma.\n\nDestino puede compartirse entre toda una manada.\n\n·\n\n··\n\nTu manada estará envuelta en un evento que os hará conocidos en toda la Nación Garou. Sin embargo, por ahora sólo los miembros de tu clan conocen esta profecía.\n\nTu manada será la causa de un evento que tendrá un fuerte impacto en vuestro clan, como la destrucción de un viejo [enemigo](/werewolf/flaws/enemigo) o un Garou muy admirado. Puede que los Garou de la ciudad o de toda la zona geográfica en la que resides conozcan tu Destino.\n\n···\n\n····\n\nTu manada será responsable de un evento que tendrá impacto en los hombres lobo de todo el continente, quizá salvar (o destruir) un Túmulo sin ayuda. Cualquier Garou de tu hemisferio podría tener conocimiento de esta profecía.\n\nLas acciones de tu manada afectarán a toda la Nación Garou, como la derrota de un gran [enemigo](/werewolf/flaws/enemigo) del Wyrm o una masacre de docenas de Garou. Quizá haya un Cachorro o dos que no hayan oído hablar de tu Destino, pero no cuentes con ello.\n\n····· Tu manada o tú seréis un factor decisivo en el destino del Apocalipsis de una forma u otra. No hay un sólo Cachorro que no haya oído hablar de él.",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "destino",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "herencia-espiritual",
+    "type": "background",
+    "line": "werewolf",
+    "name_en": "Herencia Espiritual",
+    "name_es": "Herencia Espiritual",
+    "body_es": "Los Garou son criaturas de dualidad, divididos entre el hombre y el lobo, y entre la carne y el espíritu. Comparten una afinidad con el mundo espiritual, pero algunos tienen una conexión más fuerte que otros. Por alguna razón, quizás un lazo ancestral con una familia de espíritus, ciertos tipos de espíritus reaccionan de forma más positiva a ti que otros. Ésta no es necesariamente una relación amistosa: los espíritus pueden tenerte miedo y respetarte, maravillarse contigo o tener un sentido del deber hacia ti. Sin importar la naturaleza de la relación, la probabilidad de que un grupo de espíritus colabore contigo es mayor.\n\nCuando escojas este Trasfondo, elige un tipo de espíritu. Ejemplos de posibles grupos son los espíritus animales, espíritus de plantas, elementales, espíritus urbanos e incluso Perdiciones. Cuando trates con espíritus de este tipo, puedes añadir tu puntuación de Herencia Espiritual a cualquier tirada Social, o relacionada con los duelos. Los espíritus con los que estás en armonía te ven, hasta cierto punto, como uno de los suyos... una perspectiva desalentadora para quienes estén en armonía con las Perdiciones cuando otros Garou descubran su herencia. Si actúas contra esos espíritus o ignoras sus problemas, pueden considerarlo una traición.\n\n- Los espíritus pueden oler su aroma en ti, aunque nadie más pueda.\n- ·· Los espíritus se dan cuenta de tu llegada. Cuando te miran otras personas, les vienen a la mente los espíritus que has elegido, aunque pocos entienden por qué.\n- ··· En la Umbra, emanas una intangible sensación, aunque perceptible, del tipo de espíritu con el que estás alineado.\n- ···· En la Umbra, tienes marcas visibles del tipo de espíritu con el que estás alineado. Por ejemplo, puede que del pelaje de quienes estén en armonía con la naturaleza salgan pequeñas ramitas.\n- ····· Algunos se preguntan si realmente sólo eres medio espíritu.",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "herencia-espiritual",
         "variant": "base"
       }
     ],
@@ -11965,7 +12013,7 @@
     "line": "werewolf",
     "name_en": "Messenger's Fortitude",
     "name_es": "Fortaleza del Mensajero",
-    "body_es": "El Caminante puede correr a máxima velocidad durante tres días sin descansar, comer o beber. Cuando alcanza su destino, tiene diez minutos para ocuparse del asunto que lo llevó hasta el lugar; luego debe dormir un día completo. Un espíritu camello o lobo enseña este Don. Sistema: El jugador gasta un punto de Gnosis. Hacer cualquier cosa que no sea correr pone fin al Don. Otros también pueden recibir la Fortaleza del Mensajero si se gasta un punto de Gnosis por corredor adicional.",
+    "body_es": "El Caminante puede correr a máxima velocidad durante tres días sin descansar, comer o beber. Cuando alcanza su [destino](/werewolf/backgrounds/destino), tiene diez minutos para ocuparse del asunto que lo llevó hasta el lugar; luego debe dormir un día completo. Un espíritu camello o lobo enseña este Don. Sistema: El jugador gasta un punto de Gnosis. Hacer cualquier cosa que no sea correr pone fin al Don. Otros también pueden recibir la Fortaleza del Mensajero si se gasta un punto de Gnosis por corredor adicional.",
     "tags": [
       "don",
       "Caminantes Silenciosos",
@@ -12265,7 +12313,7 @@
     "line": "werewolf",
     "name_en": "Gate of the Moon",
     "name_es": "Puerta de la Luna",
-    "body_es": "Este Don crea un Puente Lunar específico que lleva al Caminante a su destino de forma instantánea. Al menos una parte de la Luna debe ser visible en el área de origen. Una Lúnula enseña este Don. Sistema: El jugador gasta un punto de Gnosis por cada 160 kilómetros (100 millas) que necesite recorrer. Después tira Inteligencia + Alerta (la dificultad varía dependiendo de cuán largo sea el viaje y cómo de bien conozca el camino el Caminante). Un éxito transporta al personaje instantáneamente a su destino.",
+    "body_es": "Este Don crea un Puente Lunar específico que lleva al Caminante a su [destino](/werewolf/backgrounds/destino) de forma instantánea. Al menos una parte de la Luna debe ser visible en el área de origen. Una Lúnula enseña este Don. Sistema: El jugador gasta un punto de Gnosis por cada 160 kilómetros (100 millas) que necesite recorrer. Después tira Inteligencia + Alerta (la dificultad varía dependiendo de cuán largo sea el viaje y cómo de bien conozca el camino el Caminante). Un éxito transporta al personaje instantáneamente a su [destino](/werewolf/backgrounds/destino).",
     "tags": [
       "don",
       "Caminantes Silenciosos"
@@ -15143,7 +15191,7 @@
     "line": "werewolf",
     "name_en": "Signal Rider",
     "name_es": "Jinete de la Senal",
-    "body_es": "Desde el telegrafo a los telefonos moviles, los Moradores del Cristal siempre han estado en buenas relaciones con los espiritus a la vanguardia de las comunicaciones. Este Don permite al Garou abrir un Puente Lunar que cabalga sobre una senal de telefono, transportandolo instantaneamente al lugar donde se encuentre quien este al otro lado de la linea. Una Arana de la Urdimbre ensena este Don.\n\n**Sistema:** El jugador gasta un punto de Fuerza de Voluntad y otro de Gnosis para abrir el Puente Lunar. Para usar este Don el Garou debe tener una conexion telefonica entre su localizacion y el destino, aunque no distingue entre lineas fijas o moviles; algunos hombres lobo incluso han informado de su exito para cabalgar software de conferencias online, aunque hacerlo requiere superar una tirada de Astucia + Informatica (dificultad 7). Jinete de la Senal no puede llevar al personaje mas alla de 8 kilometros (5 millas) por punto de Gnosis; si el otro lado de la linea no esta dentro de ese alcance, el Don falla.",
+    "body_es": "Desde el telegrafo a los telefonos moviles, los Moradores del Cristal siempre han estado en buenas relaciones con los espiritus a la vanguardia de las comunicaciones. Este Don permite al Garou abrir un Puente Lunar que cabalga sobre una senal de telefono, transportandolo instantaneamente al lugar donde se encuentre quien este al otro lado de la linea. Una Arana de la Urdimbre ensena este Don.\n\n**Sistema:** El jugador gasta un punto de Fuerza de Voluntad y otro de Gnosis para abrir el Puente Lunar. Para usar este Don el Garou debe tener una conexion telefonica entre su localizacion y el [destino](/werewolf/backgrounds/destino), aunque no distingue entre lineas fijas o moviles; algunos hombres lobo incluso han informado de su exito para cabalgar software de conferencias online, aunque hacerlo requiere superar una tirada de Astucia + Informatica (dificultad 7). Jinete de la Senal no puede llevar al personaje mas alla de 8 kilometros (5 millas) por punto de Gnosis; si el otro lado de la linea no esta dentro de ese alcance, el Don falla.",
     "tags": [
       "glass-walkers"
     ],
@@ -15509,7 +15557,7 @@
     "line": "werewolf",
     "name_en": "Between the Cracks",
     "name_es": "Entre las Grietas",
-    "body_es": "El deterioro urbano es el mismisimo vientre del Wyrm y los Roehuesos lo saben mejor que ninguna otra Tribu. Los instintos de hombre lobo lo guian a la tierra baldia mas cercana dentro de un area urbana: un lugar donde ningun humano haya puesto el pie en al menos una semana, que no solo este aislado y actualmente desocupado, sino que probablemente tambien permanecera asi durante el resto de la noche. Puede ser un edificio deshabitado y tapiado, un apartamento vacio o incluso una estacion de metro abandonada. Los Roehuesos encuentran este Don util para disponer de zonas seguras para realizar rituales, preparar emboscadas mientras preservan la Letania y encontrar un lugar para dormir durante la noche. Cualquier espiritu urbano puede ensenar este Don.\n\n**Sistema:** El jugador gasta un punto de Fuerza de Voluntad y tira Astucia + Callejeo (dificultad 5). Cuantos mas exitos consiga, mas aislado y dificil de localizar sera su destino.",
+    "body_es": "El deterioro urbano es el mismisimo vientre del Wyrm y los Roehuesos lo saben mejor que ninguna otra Tribu. Los instintos de hombre lobo lo guian a la tierra baldia mas cercana dentro de un area urbana: un lugar donde ningun humano haya puesto el pie en al menos una semana, que no solo este aislado y actualmente desocupado, sino que probablemente tambien permanecera asi durante el resto de la noche. Puede ser un edificio deshabitado y tapiado, un apartamento vacio o incluso una estacion de metro abandonada. Los Roehuesos encuentran este Don util para disponer de zonas seguras para realizar rituales, preparar emboscadas mientras preservan la Letania y encontrar un lugar para dormir durante la noche. Cualquier espiritu urbano puede ensenar este Don.\n\n**Sistema:** El jugador gasta un punto de Fuerza de Voluntad y tira Astucia + Callejeo (dificultad 5). Cuantos mas exitos consiga, mas aislado y dificil de localizar sera su [destino](/werewolf/backgrounds/destino).",
     "tags": [
       "bone-gnawers"
     ],
@@ -20357,7 +20405,7 @@
     "line": "werewolf",
     "name_en": "Moonglow",
     "name_es": "Brillo de la Luna",
-    "body_es": "Este Amuleto es un único rayo de Luna atrapado en un pequeño cristal. El portador puede activar esta [bendición de Luna](/werewolf/gifts/lunas-blessing) cuando se embarca en un viaje umbral. Mientras se lleve de forma continuada, el viaje debería ser seguro. El cristal se hace añicos una vez que el Garou llega a su destino. Este Amuleto únicamente evita el peligro accidental y no tiene poder para proteger de enemigos que estén buscando activamente al Garou, de las emboscadas ni de las repercusiones de acciones estúpidas como insultar a poderosos espíritus en sus hogares. Sólo una Lúnula puede dar poder a un Amuleto de brillo de la Luna.",
+    "body_es": "Este Amuleto es un único rayo de Luna atrapado en un pequeño cristal. El portador puede activar esta [bendición de Luna](/werewolf/gifts/lunas-blessing) cuando se embarca en un viaje umbral. Mientras se lleve de forma continuada, el viaje debería ser seguro. El cristal se hace añicos una vez que el Garou llega a su [destino](/werewolf/backgrounds/destino). Este Amuleto únicamente evita el peligro accidental y no tiene poder para proteger de enemigos que estén buscando activamente al Garou, de las emboscadas ni de las repercusiones de acciones estúpidas como insultar a poderosos espíritus en sus hogares. Sólo una Lúnula puede dar poder a un Amuleto de brillo de la Luna.",
     "tags": [
       "fetiche",
       "amuleto"
@@ -21681,7 +21729,7 @@
     "line": "werewolf",
     "name_en": "Billabong Bridge",
     "name_es": "Puente Billabong",
-    "body_es": "Los hijos de Gran Bunyip utilizaban este Don para cruzar grandes extensiones de [territorio](/werewolf/gifts/territory) australiano usando el agua como atajo. El Garou entra en un cuerpo de agua dulce y emerge de otro a cualquier distancia; el agua salada 'engaña' al Don y no puede transportar al usuario del mismo. El Garou que usa el Don debe conocer bien, y de primera mano, ambos cuerpos de agua [N.d.T.: Un billabong es un tipo de meandro abandonado en el que se forma un lago una vez el río ha cambiado de curso].\n\nSistema: El jugador gasta dos puntos de Gnosis y anuncia su destino. A discreción del Narrador, usar este Don para abandonar o llegar a una zona con una elevada Celosía puede requerir una tirada de [caminar de lado](/werewolf/merits/step-sideways) para efectuar la transición de forma segura. El usuario del Don no puede llevar a nadie consigo; sólo los objetos dedicados pueden realizar el viaje.",
+    "body_es": "Los hijos de Gran Bunyip utilizaban este Don para cruzar grandes extensiones de [territorio](/werewolf/gifts/territory) australiano usando el agua como atajo. El Garou entra en un cuerpo de agua dulce y emerge de otro a cualquier distancia; el agua salada 'engaña' al Don y no puede transportar al usuario del mismo. El Garou que usa el Don debe conocer bien, y de primera mano, ambos cuerpos de agua [N.d.T.: Un billabong es un tipo de meandro abandonado en el que se forma un lago una vez el río ha cambiado de curso].\n\nSistema: El jugador gasta dos puntos de Gnosis y anuncia su [destino](/werewolf/backgrounds/destino). A discreción del Narrador, usar este Don para abandonar o llegar a una zona con una elevada Celosía puede requerir una tirada de [caminar de lado](/werewolf/merits/step-sideways) para efectuar la transición de forma segura. El usuario del Don no puede llevar a nadie consigo; sólo los objetos dedicados pueden realizar el viaje.",
     "tags": [
       "don",
       "bunyip",
@@ -22688,31 +22736,6 @@
     "related": []
   },
   {
-    "id": "caern",
-    "type": "background",
-    "line": "werewolf",
-    "name_en": "Caern",
-    "name_es": "Feudo",
-    "body_es": "Tu pack o tu septo controla un feudo (caern): un lugar sagrado donde la Telaraña es fuerte y mana Gnosis. El nivel de este Trasfondo refleja el poder del feudo y el rango de acceso que tu personaje tiene a él, permitiéndote recuperar Gnosis en su seno, usar sus Lunables (moon bridges) para viajar y contar con la protección de su [tótem](/werewolf/backgrounds/totem) y sus guardianes. A cambio, se espera que ayudes a defender el feudo, cuya pérdida sería una tragedia para todos los Garou vinculados a él.",
-    "tags": [
-      "trasfondo"
-    ],
-    "mechanics": {
-      "rating_max": 5,
-      "note": "Acceso/recuperación de Gnosis en el feudo, uso de puentes lunares; conlleva el deber de defenderlo."
-    },
-    "sources": [
-      {
-        "book_id": "w20-aniversario-core-es",
-        "book_title_es": "Hombre Lobo: El Apocalipsis 20 Aniversario",
-        "page": null,
-        "section_anchor": "feudo",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
     "id": "allies",
     "type": "background",
     "line": "werewolf",
@@ -22821,7 +22844,7 @@
     "line": "werewolf",
     "name_en": "Ronin",
     "name_es": "Ronin",
-    "body_es": "Eres un ronin: un Garou sin manada ni septo, que ha abandonado (o ha sido expulsado de) la sociedad Garou y sus deberes. Vives al margen de la Nación Garou, sin el apoyo de un pack, un [tótem](/werewolf/backgrounds/totem) o un [feudo](/werewolf/backgrounds/caern), y la mayoría de los Garou te miran con desconfianza o abierto desprecio; muchos consideran a los ronin poco mejores que los Danzantes de la Espiral Negra. Sufres una penalización a las tiradas sociales frente a otros Garou, se te niega el acceso a feudos y [recursos](/werewolf/backgrounds/resources) comunales, y tu [Renombre](/werewolf/backgrounds/renombre) difícilmente crece por los cauces normales. La libertad del ronin se paga con soledad y peligro constante.",
+    "body_es": "Eres un ronin: un Garou sin manada ni septo, que ha abandonado (o ha sido expulsado de) la sociedad Garou y sus deberes. Vives al margen de la Nación Garou, sin el apoyo de un pack, un [tótem](/werewolf/backgrounds/totem) o un feudo, y la mayoría de los Garou te miran con desconfianza o abierto desprecio; muchos consideran a los ronin poco mejores que los Danzantes de la Espiral Negra. Sufres una penalización a las tiradas sociales frente a otros Garou, se te niega el acceso a feudos y [recursos](/werewolf/backgrounds/resources) comunales, y tu [Renombre](/werewolf/backgrounds/renombre) difícilmente crece por los cauces normales. La libertad del ronin se paga con soledad y peligro constante.",
     "tags": [
       "social"
     ],
@@ -25481,7 +25504,7 @@
     "line": "werewolf",
     "name_en": "Scallop of Compostela",
     "name_es": "Vieira de Compostela",
-    "body_es": "Amuleto, Gnosis 6.\n\nUn hombre lobo que complete el peregrinaje a Compostela (ver pág. 69) suele recibir esto como presente del espíritu del océano al final del viaje. Para usarlo, el Garou piensa en un destino y activa el Amuleto. El hombre lobo despierta cada día con el conocimiento del siguiente paso que debe dar para alcanzar su destino. Una vez que llega allí, el poder del Amuleto le guía hasta casa de la misma forma. El espíritu del Amuleto parte una vez que el Garou vuelve a casa, incluso si no ha completado el viaje que tenía en mente.",
+    "body_es": "Amuleto, Gnosis 6.\n\nUn hombre lobo que complete el peregrinaje a Compostela (ver pág. 69) suele recibir esto como presente del espíritu del océano al final del viaje. Para usarlo, el Garou piensa en un [destino](/werewolf/backgrounds/destino) y activa el Amuleto. El hombre lobo despierta cada día con el conocimiento del siguiente paso que debe dar para alcanzar su [destino](/werewolf/backgrounds/destino). Una vez que llega allí, el poder del Amuleto le guía hasta casa de la misma forma. El espíritu del Amuleto parte una vez que el Garou vuelve a casa, incluso si no ha completado el viaje que tenía en mente.",
     "tags": [
       "fetiche",
       "amuleto"
@@ -26995,7 +27018,7 @@
     "line": "werewolf",
     "name_en": "Kitsune",
     "name_es": "Kitsune",
-    "body_es": "Los Kitsune rara vez se aventuran fuera de las Cortes de las Bestias, haciéndolos perfectos para partidas mixtas con otros Hengeyokai. Aun así, los Zorros también tienen sus propias metas y secretos que guardan de las otras Razas Cambiantes. A veces se reúnen en sentai sólo de Kitsune para deponer y encumbrar líderes, dando forma al destino de naciones. Pasan de puntillas por los mundos del hombre y del espíritu y los guían según el capricho de Bai Mianxi.",
+    "body_es": "Los Kitsune rara vez se aventuran fuera de las Cortes de las Bestias, haciéndolos perfectos para partidas mixtas con otros Hengeyokai. Aun así, los Zorros también tienen sus propias metas y secretos que guardan de las otras Razas Cambiantes. A veces se reúnen en sentai sólo de Kitsune para deponer y encumbrar líderes, dando forma al [destino](/werewolf/backgrounds/destino) de naciones. Pasan de puntillas por los mundos del hombre y del espíritu y los guían según el capricho de Bai Mianxi.",
     "tags": [
       "fera"
     ],
@@ -34818,7 +34841,7 @@
     "line": "werewolf",
     "name_en": "Long-Distance Running",
     "name_es": "Carrera de Fondo",
-    "body_es": "Nivel tres. El [Mokolé](/werewolf/changing-breeds/mokole) puede hacer viajes largos más rápido de lo que debería ser posible. Un espíritu de aire enseña este Don. Sistema: El jugador gasta un punto de Gnosis y tira Destreza + Atletismo o Conducir a una dificultad igual a la Celosía local. Cada éxito reduce el tiempo que el [Mokolé](/werewolf/changing-breeds/mokole) tarda en alcanzar su destino en un 5%.",
+    "body_es": "Nivel tres. El [Mokolé](/werewolf/changing-breeds/mokole) puede hacer viajes largos más rápido de lo que debería ser posible. Un espíritu de aire enseña este Don. Sistema: El jugador gasta un punto de Gnosis y tira Destreza + Atletismo o Conducir a una dificultad igual a la Celosía local. Cada éxito reduce el tiempo que el [Mokolé](/werewolf/changing-breeds/mokole) tarda en alcanzar su [destino](/werewolf/backgrounds/destino) en un 5%.",
     "tags": [
       "don",
       "mokole",
@@ -41141,7 +41164,7 @@
     "line": "werewolf",
     "name_en": "Threads of Fate",
     "name_es": "Lazos del Destino",
-    "body_es": "El Apis puede percibir, concentrándose en ello, los hilos que enlazan a una persona con su pareja predestinada… así como hebras más oscuras de su destino.\n\nSistema: El jugador gasta un punto de Gnosis y tira Percepción + Enigmas a dificultad 7. Si tiene éxito, el personaje percibe los lazos del destino como rojas hebras titilantes que se extienden desde el corazón, hígado o manos del sujeto observado en dirección a la persona o personas con las que está destinado a compartir un sino común. Las hebras pueden estar flojas o tensas: a mayor tensión de la hebra, más fuerte será el lazo o más próximo a ocurrir estará dicho destino común. Pese a todo, el Don no revela si el lazo está predestinado a acabar bien o mal.",
+    "body_es": "El Apis puede percibir, concentrándose en ello, los hilos que enlazan a una persona con su pareja predestinada… así como hebras más oscuras de su [destino](/werewolf/backgrounds/destino).\n\nSistema: El jugador gasta un punto de Gnosis y tira Percepción + Enigmas a dificultad 7. Si tiene éxito, el personaje percibe los lazos del destino como rojas hebras titilantes que se extienden desde el corazón, hígado o manos del sujeto observado en dirección a la persona o personas con las que está destinado a compartir un sino común. Las hebras pueden estar flojas o tensas: a mayor tensión de la hebra, más fuerte será el lazo o más próximo a ocurrir estará dicho [destino](/werewolf/backgrounds/destino) común. Pese a todo, el Don no revela si el lazo está predestinado a acabar bien o mal.",
     "tags": [
       "apis",
       "raza-perdida",
