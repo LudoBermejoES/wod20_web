@@ -781,28 +781,6 @@
     "related": []
   },
   {
-    "id": "paranoia",
-    "type": "derangement",
-    "line": "werewolf",
-    "name_en": "Paranoia",
-    "name_es": "Paranoia",
-    "body_es": "En un mundo lleno de enemigos, la paranoia parece una reacción apropiada. Sin embargo, cuando llega a convertirse en Trastorno, esos miedos razonables alcanzan una intensidad obsesiva. Una persona paranoica ve conspiraciones y rivales en todas partes , incluso entre sus amigos. La confianza se convierte en estupidez porque no se puede confiar en nadie. Y cuando alguien de verdad va a por el personaje, la [locura](/werewolf/gifts/madness) aumenta hasta proporciones absurdas.\n\nEn términos de juego, el personaje suma 1 a la dificultad de todas sus tiradas sociales… posiblemente más si las personas con las que interactúa le han dado alguna razón para sospechar. Usará cualquier método posible para mantenerse a salvo de traiciones y guardará una distancia que considere segura incluso respecto a sus compañeros más cercanos… habitualmente comportándose de forma desagradable y posiblemente ofensiva. A niveles extremos, un mago paranoico se aísla de todas las formas posibles… punto en el que se queda solo con sus [terrores](/werewolf/gifts/terrors), que nunca lo abandonan del todo.",
-    "tags": [
-      "trastorno"
-    ],
-    "mechanics": {},
-    "sources": [
-      {
-        "book_id": "m20-core-rulebook-es",
-        "book_title_es": "m20-core-rulebook-es",
-        "page": null,
-        "section_anchor": "paranoia",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
     "id": "perfecto-mentiroso",
     "type": "merit",
     "line": "werewolf",
@@ -2877,7 +2855,7 @@
     "line": "werewolf",
     "name_en": "Espíritus Perdiciones",
     "name_es": "Espíritus Perdiciones",
-    "body_es": "Las Perdiciones son espíritus del Wyrm, un nombre colectivo para la amplia variedad de esbirros espirituales bajo su mando. Sus formas son legión y cada una refleja algo del aspecto concreto del Wyrm al que sirven. La mayoría tienen formas nauseabundas que encarnan la corrupción del Wyrm, pero ni siquiera esto es siempre así. La destrucción, el engaño y la corrupción toman muchas formas por todo el mundo y, si la belleza inhumana y la [seducción](/werewolf/gifts/seduction) aparentemente dulce sirven a las necesidades de su amo, algunas Perdiciones sin duda alguna reflejarán esas 'virtudes'.\n\nAlgunas son avatares o personificaciones de principios como el odio, la enfermedad o el asesinato, otras simplemente son entidades aleatorias de destrucción. Su poder abarca desde molestas [distracciones](/werewolf/gifts/ajaba-midnight-distractions) hasta fuerzas de devastación ultraterrenas y acechan en todos los reinos de la Umbra, donde quiera que puedan sobrevivir. Las Perdiciones son quizás los mayores y más numerosos enemigos de los Garou.\n\nLas Perdiciones pertenecen inherentemente al Wyrm y la aniquilación es la única manera segura de librar una zona de su influencia. Se ven atraídas por la oscuridad, los impulsos y las emociones destructivas, y se reúnen en la Umbra donde tales emociones dominan el mundo mortal, atraídas por la negatividad a pesar de la Celosía que las separa de ella.\n\nLa presencia de Perdiciones destila y refuerza los [sentimientos](/werewolf/gifts/feelings) negativos, pero no suelen provocarlos por sí solas. En cambio, se ven atraídas por las emociones negativas ya existentes, congregándose en torno a la persona que las manifiesta como tiburones atraídos por la sangre. Se alimentan de las emociones destructivas y usan su energía para fortalecerlas, generando incluso más negatividad en su objetivo. Así la pesadumbre se convierte en depresión, y ésta en desesperación. La frustración se convierte en ira, la cual estalla en una rabia asesina. La agitación crece hasta convertirse en [obsesión](/werewolf/flaws/obsesion), y se cruza rápidamente la frontera entre los altibajos emocionales y una sociopatía real. A menos que algo más intervenga, la interacción con las Perdiciones puede ser devastadora (e incluso mortal) para los humanos a los que atraen.\n\n\nLas Perdiciones suelen materializarse en formas horrorosas que causan un efecto similar al Delirio en la mayoría de los humanos. Algunas se deleitan especialmente en asumir las más terribles y perturbadoras formas posibles para engendrar un miedo atroz. Otras prefieren aspectos más insidiosos, los mejores para reforzar la lujuria, la culpa, la ira, la codicia o cualquier otra emoción negativa del amplio espectro de las emociones que los humanos acumulan en su interior.\n\nLa mayoría de las Perdiciones tienen el Encantamiento [Posesión](/werewolf/gifts/possession) junto con un Poder o conjunto de Poderes específicos que se basan en el concepto que encarnan. Un espíritu de asesinato podría tener un Encantamiento de Estallido o Corrupción, por ejemplo. Los Poderes varían muchísimo de una Perdición a otra. Algunas son capaces de controlar las emociones o influir sobre ellas y algunas tienen la habilidad de inmunizar a los humanos ante el Delirio de forma temporal (permitiéndoles enfrentarse a los hombres lobo). Algunas incluso tienen la habilidad de propagar una corrupción viviente por toda la Teluria. Muchas Perdiciones prefieren alentar a los humanos a hacer su trabajo por ellas en lugar de actuar directamente. Les resulta más fácil animar y manipular a los humanos cuya moral se haya visto comprometida de alguna manera que controlar a alguien con fuertes creencias sobre lo que está bien y lo que está mal.\n\nEl Narrador debería dejar volar su imaginación cuando cree Perdiciones siempre que sus Poderes reflejen los conceptos o vicios que representan. Los Poderes de las Perdiciones deberían tener alguna clase de requerimiento de activación, como gastar Esencia o hacer tiradas de Gnosis. La mayor parte de los Poderes de las Perdiciones se centran en la corrupción, la destrucción o la mutación, y los hombres lobo que las combaten arriesgan su cuerpo y su alma.\n\n\nEs fácil caer en la trampa de atribuir a las Perdiciones el crédito de todas las formas humanas de maldad, pero no son las culpables. De hecho, no son para nada la fuente de la maldad del hombre. Son sólo un insidioso amplificador que exagera la oscuridad ya existente en las almas humanas. Las Perdiciones buscan la oscuridad que ya existe y tratan de empeorarla. Son parásitos y como tales están mejor preparadas para extraer lo que acecha en el corazón humano que para crearlo de la nada. Los humanos son un caldo de cultivo para las emociones negativas. ¿Por qué hacer el esfuerzo de introducir crueldad, odio o vergüenza en terreno baldío cuando pueden, sencillamente, abonar las semillas de aquellas emociones que ya subyacen en la psique de alguien?\n\nPuesto que, al igual que el resto de espíritus, a una Perdición la define su propósito, hay pocas Perdiciones realmente arrepentidas o de moralidad gris. Incluso si una Perdición puede ser purificada de alguna manera, el espíritu se reforma en ambos sentidos de la palabra. La corrupción define a las Perdiciones (moldea su forma, sus Poderes, su propósito). Como representaciones de arquetipos, son relativamente unidimensionales (los Gaflinos y Yaglinos al menos; cuando más alto esté en la [cadena](/werewolf/weapons/cadena) trófica espiritual más probable es que el espíritu tenga una personalidad independiente). Con las Perdiciones la clave es el simbolismo inherente al mundo espiritual, no la antropomorfización de un [enemigo](/werewolf/flaws/enemigo) más humano.\n\nLas Perdiciones pueden ser extremadamente efectivas como representación del inflexible e irrazonable [enemigo](/werewolf/flaws/enemigo) al que se enfrentan los Garou. Un enjambre de Perdiciones que prácticamente posee una mente colmena es un [enemigo](/werewolf/flaws/enemigo) terrible que no puede ser aplacado y con el que no se puede razonar, sólo evitarlo o destruirlo. Sin embargo, también son una herramienta extremadamente útil mediante la cual el Narrador puede dar color a la atmósfera de su ambientación: una pista muy visual, simbólica y peligrosa de que la situación es mucho peor de lo que parece. Una escuela de primaria puede parecer muy tranquila en el exterior; pero cuando los Garou caminan de lado y casi son destrozados por un enjambre de Perdiciones que engorda y se fortalece en las instalaciones, los jugadores se vuelven mucho más conscientes de la gravedad de la situación. Arroja algún simbolismo interesante (la población de Perdiciones de la escuela parecen niños marchitos con bocas de [perro](/werewolf/totems/dog) o libros animados con fauces rabiosas que dejan aturdidas a sus víctimas) y el tono queda marcado.\n\nSe alienta a los Narradores a crear Perdiciones que se adecuen a su crónica; se pueden crear algunas sencillas a partir de cualquier emoción negativa usando unos simples pasos. Además, aquí ofrecemos ejemplos de una amplia variedad de Perdiciones más complejas de diversos tipos y niveles de poder. Siéntete libre de personalizar las razas de Perdiciones sugeridas o crear las tuyas propias usando el siguiente recuadro.\n\n\nLos Adivinadores son un tipo de Perdiciones débiles cuyo único propósito aparente es espiar a los objetivos de Perdiciones más fuertes. Los recompensan con Esencia y por ello su [lealtad](/werewolf/merits/lealtad) es absoluta.\n\nRabia 2, Gnosis 7, Fuerza de Voluntad 4, Esencia 13-30.\n\nEncantamientos: Informar*, Predecir*, Recuperar la Forma, [Sentir Trochas](/werewolf/gifts/sense-trails).\n\n* Informar: Este Encantamiento permite a la Perdición mantener un vínculo mental con su patrón. Cuesta 1 punto de Esencia por escena.\n\n* Predecir: Esto permite a la Perdición 'escudriñar' el mundo material y usar el Don [Olor de la Auténtica Forma](/werewolf/gifts/apis-scent-of-the-true-form) para observar a aquéllos que ve allí. Cuesta 1 punto de Esencia por escena.\n\nImagen: Los Adivinadores adoptan formas muy variadas, pero todos son delgados y endebles, fáciles de derrotar cuando se les atrapa. Sus ojos son la parte más distintiva de sus cuerpos; aunque pueden ser pequeños y brillantes, bulbosos, luminiscentes, gatunos, compuestos o facetados, siempre son inusuales de alguna manera. Quienes están en el reino físico sólo pueden ver a un Adivinador mientras los escudriña si hacen uso de Dones como [Pulso de lo Invisible](/werewolf/gifts/pulse-of-the-invisible).\n\nCiertos Garou con Gnosis 7 o superior pueden tener la incómoda sensación de estar siendo observados cuando los observa un Adivinador. Esta incomodidad puede volverse extrema tras largos períodos de tiempo. Los Garou sin los Dones necesarios para encontrar a sus atormentadores pueden incluso volverse locos lentamente. La mirada de un Adivinador puede hacer cosquillas, ser como un hormigueo o incluso quemar a quienes la sienten, aunque esto es sólo una sensación y no causa daño físico.\n\nTrasfondo: Un Adivinador suele vincularse a una Perdición concreta, intercambiando un período de observación por Esencia. Por lo general, el patrón concede al Adivinador entre cinco y diez puntos por una tarea determinada, o más si la observación tiene lugar durante un extenso período de tiempo. Sin embargo, si el Adivinador falla a su amo de alguna forma, éste puede retirar entre cinco y diez puntos de Esencia de la reserva del Adivinador, posiblemente destruyéndolo de forma temporal. Otros amos han concebido maneras de alimentar a los Adivinadores, y en muchas Colmenas de Danzantes hay varios adivinadores bajo el patronazgo de la Perdición que actúa como [Tótem](/werewolf/backgrounds/totem) del Túmulo.\n\nNotas de Narración: Los Adivinadores son un ejemplo de Perdiciones evolucionadas para cumplir una tarea específica. Están muy especializados para realizar su función, pero tienen pocas capacidades aparte del espionaje. Indudablemente, hay muchas otras especies de Perdiciones especializadas de forma similar; se alienta al Narrador a crear más de tales criaturas para enfatizar la manera en la que el Wyrm puede maquinar formas espirituales enteras para deberes específicos. Estas cobardes Perdiciones no tienen medios de atacar y usan su Encantamiento Recuperar la Forma para escapar cuando son detectadas.",
+    "body_es": "Las Perdiciones son espíritus del Wyrm, un nombre colectivo para la amplia variedad de esbirros espirituales bajo su mando. Sus formas son legión y cada una refleja algo del aspecto concreto del Wyrm al que sirven. La mayoría tienen formas nauseabundas que encarnan la corrupción del Wyrm, pero ni siquiera esto es siempre así. La destrucción, el engaño y la corrupción toman muchas formas por todo el mundo y, si la belleza inhumana y la [seducción](/werewolf/gifts/seduction) aparentemente dulce sirven a las necesidades de su amo, algunas Perdiciones sin duda alguna reflejarán esas 'virtudes'.\n\nAlgunas son avatares o personificaciones de principios como el odio, la enfermedad o el asesinato, otras simplemente son entidades aleatorias de destrucción. Su poder abarca desde molestas [distracciones](/werewolf/gifts/ajaba-midnight-distractions) hasta fuerzas de devastación ultraterrenas y acechan en todos los reinos de la Umbra, donde quiera que puedan sobrevivir. Las Perdiciones son quizás los mayores y más numerosos enemigos de los Garou.\n\nLas Perdiciones pertenecen inherentemente al Wyrm y la aniquilación es la única manera segura de librar una zona de su influencia. Se ven atraídas por la oscuridad, los impulsos y las emociones destructivas, y se reúnen en la Umbra donde tales emociones dominan el mundo mortal, atraídas por la negatividad a pesar de la Celosía que las separa de ella.\n\nLa presencia de Perdiciones destila y refuerza los [sentimientos](/werewolf/gifts/feelings) negativos, pero no suelen provocarlos por sí solas. En cambio, se ven atraídas por las emociones negativas ya existentes, congregándose en torno a la persona que las manifiesta como tiburones atraídos por la sangre. Se alimentan de las emociones destructivas y usan su energía para fortalecerlas, generando incluso más negatividad en su objetivo. Así la pesadumbre se convierte en depresión, y ésta en desesperación. La frustración se convierte en ira, la cual estalla en una rabia asesina. La agitación crece hasta convertirse en [obsesión](/werewolf/flaws/obsesion), y se cruza rápidamente la frontera entre los altibajos emocionales y una sociopatía real. A menos que algo más intervenga, la interacción con las Perdiciones puede ser devastadora (e incluso mortal) para los humanos a los que atraen.\n\n\nLas Perdiciones suelen materializarse en formas horrorosas que causan un efecto similar al Delirio en la mayoría de los humanos. Algunas se deleitan especialmente en asumir las más terribles y perturbadoras formas posibles para engendrar un miedo atroz. Otras prefieren aspectos más insidiosos, los mejores para reforzar la lujuria, la culpa, la ira, la codicia o cualquier otra emoción negativa del amplio espectro de las emociones que los humanos acumulan en su interior.\n\nLa mayoría de las Perdiciones tienen el Encantamiento [Posesión](/werewolf/gifts/possession) junto con un Poder o conjunto de Poderes específicos que se basan en el concepto que encarnan. Un espíritu de asesinato podría tener un Encantamiento de Estallido o Corrupción, por ejemplo. Los Poderes varían muchísimo de una Perdición a otra. Algunas son capaces de controlar las emociones o influir sobre ellas y algunas tienen la habilidad de inmunizar a los humanos ante el Delirio de forma temporal (permitiéndoles enfrentarse a los hombres lobo). Algunas incluso tienen la habilidad de propagar una corrupción viviente por toda la Teluria. Muchas Perdiciones prefieren alentar a los humanos a hacer su trabajo por ellas en lugar de actuar directamente. Les resulta más fácil animar y manipular a los humanos cuya moral se haya visto comprometida de alguna manera que controlar a alguien con fuertes creencias sobre lo que está bien y lo que está mal.\n\nEl Narrador debería dejar volar su imaginación cuando cree Perdiciones siempre que sus Poderes reflejen los conceptos o vicios que representan. Los Poderes de las Perdiciones deberían tener alguna clase de requerimiento de activación, como gastar Esencia o hacer tiradas de Gnosis. La mayor parte de los Poderes de las Perdiciones se centran en la corrupción, la destrucción o la mutación, y los hombres lobo que las combaten arriesgan su cuerpo y su alma.\n\n\nEs fácil caer en la trampa de atribuir a las Perdiciones el crédito de todas las formas humanas de maldad, pero no son las culpables. De hecho, no son para nada la fuente de la maldad del hombre. Son sólo un insidioso amplificador que exagera la oscuridad ya existente en las almas humanas. Las Perdiciones buscan la oscuridad que ya existe y tratan de empeorarla. Son parásitos y como tales están mejor preparadas para extraer lo que acecha en el corazón humano que para crearlo de la nada. Los humanos son un caldo de cultivo para las emociones negativas. ¿Por qué hacer el esfuerzo de introducir crueldad, odio o vergüenza en terreno baldío cuando pueden, sencillamente, abonar las semillas de aquellas emociones que ya subyacen en la psique de alguien?\n\nPuesto que, al igual que el resto de espíritus, a una Perdición la define su propósito, hay pocas Perdiciones realmente arrepentidas o de moralidad gris. Incluso si una Perdición puede ser purificada de alguna manera, el espíritu se reforma en ambos sentidos de la palabra. La corrupción define a las Perdiciones (moldea su forma, sus Poderes, su propósito). Como representaciones de arquetipos, son relativamente unidimensionales (los Gaflinos y Yaglinos al menos; cuando más alto esté en la [cadena](/werewolf/weapons/cadena) trófica espiritual más probable es que el espíritu tenga una personalidad independiente). Con las Perdiciones la clave es el simbolismo inherente al mundo espiritual, no la antropomorfización de un [enemigo](/werewolf/flaws/enemigo) más humano.\n\nLas Perdiciones pueden ser extremadamente efectivas como representación del inflexible e irrazonable [enemigo](/werewolf/flaws/enemigo) al que se enfrentan los Garou. Un enjambre de Perdiciones que prácticamente posee una mente colmena es un [enemigo](/werewolf/flaws/enemigo) terrible que no puede ser aplacado y con el que no se puede razonar, sólo evitarlo o destruirlo. Sin embargo, también son una herramienta extremadamente útil mediante la cual el Narrador puede dar color a la atmósfera de su ambientación: una pista muy visual, simbólica y peligrosa de que la situación es mucho peor de lo que parece. Una escuela de primaria puede parecer muy tranquila en el exterior; pero cuando los Garou caminan de lado y casi son destrozados por un enjambre de Perdiciones que engorda y se fortalece en las instalaciones, los jugadores se vuelven mucho más conscientes de la gravedad de la situación. Arroja algún simbolismo interesante (la población de Perdiciones de la escuela parecen niños marchitos con bocas de [perro](/werewolf/totems/dog) o libros animados con fauces rabiosas que dejan aturdidas a sus víctimas) y el tono queda marcado.\n\nSe alienta a los Narradores a crear Perdiciones que se adecuen a su crónica; se pueden crear algunas sencillas a partir de cualquier emoción negativa usando unos simples pasos. Además, aquí ofrecemos ejemplos de una amplia variedad de Perdiciones más complejas de diversos tipos y niveles de poder. Siéntete libre de personalizar las razas de Perdiciones sugeridas o crear las tuyas propias usando el siguiente recuadro.\n\n\nLos [Adivinadores](/werewolf/banes/adivinadores) son un tipo de Perdiciones débiles cuyo único propósito aparente es espiar a los objetivos de Perdiciones más fuertes. Los recompensan con Esencia y por ello su [lealtad](/werewolf/merits/lealtad) es absoluta.\n\nRabia 2, Gnosis 7, Fuerza de Voluntad 4, Esencia 13-30.\n\nEncantamientos: Informar*, Predecir*, Recuperar la Forma, [Sentir Trochas](/werewolf/gifts/sense-trails).\n\n* Informar: Este Encantamiento permite a la Perdición mantener un vínculo mental con su patrón. Cuesta 1 punto de Esencia por escena.\n\n* Predecir: Esto permite a la Perdición 'escudriñar' el mundo material y usar el Don [Olor de la Auténtica Forma](/werewolf/gifts/apis-scent-of-the-true-form) para observar a aquéllos que ve allí. Cuesta 1 punto de Esencia por escena.\n\nImagen: Los [Adivinadores](/werewolf/banes/adivinadores) adoptan formas muy variadas, pero todos son delgados y endebles, fáciles de derrotar cuando se les atrapa. Sus ojos son la parte más distintiva de sus cuerpos; aunque pueden ser pequeños y brillantes, bulbosos, luminiscentes, gatunos, compuestos o facetados, siempre son inusuales de alguna manera. Quienes están en el reino físico sólo pueden ver a un Adivinador mientras los escudriña si hacen uso de Dones como [Pulso de lo Invisible](/werewolf/gifts/pulse-of-the-invisible).\n\nCiertos Garou con Gnosis 7 o superior pueden tener la incómoda sensación de estar siendo observados cuando los observa un Adivinador. Esta incomodidad puede volverse extrema tras largos períodos de tiempo. Los Garou sin los Dones necesarios para encontrar a sus atormentadores pueden incluso volverse locos lentamente. La mirada de un Adivinador puede hacer cosquillas, ser como un hormigueo o incluso quemar a quienes la sienten, aunque esto es sólo una sensación y no causa daño físico.\n\nTrasfondo: Un Adivinador suele vincularse a una Perdición concreta, intercambiando un período de observación por Esencia. Por lo general, el patrón concede al Adivinador entre cinco y diez puntos por una tarea determinada, o más si la observación tiene lugar durante un extenso período de tiempo. Sin embargo, si el Adivinador falla a su amo de alguna forma, éste puede retirar entre cinco y diez puntos de Esencia de la reserva del Adivinador, posiblemente destruyéndolo de forma temporal. Otros amos han concebido maneras de alimentar a los [Adivinadores](/werewolf/banes/adivinadores), y en muchas Colmenas de Danzantes hay varios [adivinadores](/werewolf/banes/adivinadores) bajo el patronazgo de la Perdición que actúa como [Tótem](/werewolf/backgrounds/totem) del Túmulo.\n\nNotas de Narración: Los [Adivinadores](/werewolf/banes/adivinadores) son un ejemplo de Perdiciones evolucionadas para cumplir una tarea específica. Están muy especializados para realizar su función, pero tienen pocas capacidades aparte del espionaje. Indudablemente, hay muchas otras especies de Perdiciones especializadas de forma similar; se alienta al Narrador a crear más de tales criaturas para enfatizar la manera en la que el Wyrm puede maquinar formas espirituales enteras para deberes específicos. Estas cobardes Perdiciones no tienen medios de atacar y usan su Encantamiento Recuperar la Forma para escapar cuando son detectadas.",
     "tags": [
       "perdición",
       "wyrm"
@@ -2909,7 +2887,7 @@
     "line": "werewolf",
     "name_en": "Hombres Grises",
     "name_es": "Hombres Grises",
-    "body_es": "Los Hombre Grises son los Fomori creados por la desagradable unión de una Masa Gris y un humano, aunque en la práctica también pueden crearse a partir de cualquier criatura viva. Estos monstruos, igual que sus parásitos amos, sólo existen para extender su plaga a toda criatura viva con la que se encuentran. Son poco más que amasijos fúngicos animados, capaces de combatir y de una capacidad de raciocinio limitada. Su resbaladiza piel gris parece casi grasienta, y el cieno que produce porta una infección altamente contagiosa que continúa extendiendo esporas de Masa Gris a todo ser vivo. Cuando se les mata (una tarea desagradable, pero no difícil), los cuerpos de los Fomori explotan como un pedo de lobo gigante, liberando los millones de esporas que los crearon.\n\nLa mayoría de los Hombres Grises son poco más que bosques fúngicos ambulantes, aunque se rumorea que unos pocos son capaces de tener pensamientos profundos y pueden, con el tiempo, lograr una poderosa conexión con el Wyrm. En teoría, algunos podrían vivir durante siglos (si es así, podría haber ancianos Hombres Grises con grandes bases de poder y habilidades casi divinas).\n\nPoderes de los Fomori (pág. 429-439): Inmunidad al Delirio, Toque Fúngico.\n\ncazadores. Casi siempre atacan con ventaja táctica, superando en número a su presa y golpeando desde cobertura. Incluso las manadas de Garou verán puesto a prueba su trabajo en equipo hasta el límite para resistir un ataque de los Sabuesos del Wyrm.\n\nAtributos: Fuerza 4, Destreza 3, Resistencia 3, Percepción 3, Inteligencia 1, Astucia 1.\n\nHabilidades: Atletismo 4, Esquivar 2, Impulso Primario 4, Pelea 4.\n\nRabia 5, Gnosis 3, Fuerza de Voluntad 7, Esencia 15-50. Encantamientos: Armadura (cuatro dados de absorción sin coste de Esencia), Encarnar* (coste: ninguno, este Encantamiento es permanente para los Ooralath), [Excavar](/werewolf/gifts/burrow)*, [Sentir Trochas](/werewolf/gifts/sense-trails).\n\n* Encarnar: Este Poder es casi idéntico al Encantamiento Materializarse, salvo porque el espíritu no puede construir un cuerpo físico; en su lugar, el espíritu puede adoptar una forma de combate 'más adecuada' en la Umbra, gastando Esencia para construir un cuerpo igual que si estuviera creando una forma física.\n\n* [Excavar](/werewolf/gifts/burrow): Los Ooralath pueden abrir túneles por el suelo, ya sea en la Umbra o en el mundo físico, como si fueran peces en el agua. El coste es un punto de Esencia por turno.\n\nImagen: Los Ooralath parecen sabuesos bípedos, pero encorvados, como extraños dinosaurios cazadores. Sus cuerpos están compuestos casi por completo de gruesos caparazones serrados. Cuando corren, el chascar de sus garras y las placas de su armadura les precede… No emiten ningún otro sonido.\n\nTrasfondo: Tiempo atrás, los Ooralath tuvieron otro nombre, pero se perdió hace mucho. Eran devotos sirvientes de la Tejedora, pero todos fueron corrompidos y se convirtieron en Perdiciones. Su perseverancia, rayana en la estupidez, el rasgo que una vez les permitió llevar a cabo grandes empresas, es ahora su característica más aterradora. Una vez que una manada de Ooralath ha olido a su presa, nada los detendrá excepto su total destrucción. El proceso de corrupción ha tenido un interesante efecto secundario en los Ooralath: su naturaleza afín a la Tejedora ha dado lugar a formas físicas estáticas en la Umbra. No pueden Materializarse, pero si se les empuja al mundo físico por otros medios, sus formas son tan físicas como las de cualquier mortal.\n\nNotas de Narración: Los Ooralath son cazadores implacables y prácticamente descerebrados. Aunque carecen de creatividad o astucia individual, la mente colmena que comparte cada manada los hace brutalmente eficientes y sus [tácticas de manada](/werewolf/gifts/ajaba-dawn-pack-tactics) pueden avergonzar (o exterminar) a las manadas de hombres lobo desorganizadas. Será mejor que los Garou que se enfrenten a los Ooralath hayan aprendido el valor de la fuerza que hay en la unidad o los sabuesos del Wyrm los harán pedazos.\n\nLos Ooralath disfrutan particularmente cazando viajeros solitarios y sienten un 'aprecio especial' por las Arañas de la Red. Permanecen ocultos en el suelo hasta que salen de repente y al unísono para caer sobre su víctima y destrozarla por completo.\n\n\nLas Psicomaquias son espíritus para los cuales las emociones humanas negativas (terror, odio, desesperación y similares) son ambrosía. Estas Perdiciones buscan y poseen a individuos perturbados y depravados, instándolos a actuar siguiendo impulsos básicos y oscuras fantasías.\n\nRabia 10, Gnosis 8, Fuerza de Voluntad 7, Esencia 25 (+1 por cada muerte causada por su huésped, las muertes que cause directamente la Psicomaquia no cuentan).\n\n<!-- image -->\n\nEncantamientos: Corrupción, Materializarse, [Posesión](/werewolf/gifts/possession), [Sentir Trochas](/werewolf/gifts/sense-trails).\n\nImagen: Las manifestaciones físicas son siempre extremadamente agresivas. Están equipadas con cuchillas, colmillos, escalpelos, pinzas y otros instrumentos para [infligir dolor](/werewolf/gifts/inflict-pain) y muerte. Las Psicomaquias huelen a muerte, ira y odio, entremezclados en un miasma de rabia retorcida.\n\nTrasfondo: Las Psicomaquias sirven a los Impulsos del Wyrm y se ven atraídas por los conflictos emocionales. Buscan a aquéllos que están sumidos en una profunda crisis y alimentan sus batallas internas para empujarlos cada vez más profundamente en la oscuridad.\n\nNotas de Narración: Una Psicomaquia no puede poseer a alguien aleatoriamente y empujarle a la corrupción, pero puede poseer con facilidad a un individuo que ya sea un depravado y darle un empujón adicional. Aunque pueden apiñarse en torno a cualquiera que sufra angustia emocional, tienden a congregarse en lugares donde el caos campa a sus anchas: zonas de guerra, centros de atención social, prisiones de máxima seguridad y lugares donde se estén produciendo abusos de niños, ancianos o animales.\n\n\nLas Rabias Amargas existen con el único propósito de enloquecer a los Garou. Se alimentan de Rabia y a su vez la alimentan, empujando a su víctima a Frenesíes de proporciones cada vez mayores. En muchos sentidos, son el equivalente espiritual a un episodio de rabia. Aunque estas Perdiciones prefieren tener por objetivo a Garou y a otras Razas Cambiantes, también afectan a humanos e incluso a los animales que se acercan demasiado a zonas infestadas por el Wyrm. Hasta las criaturas que no poseen Rabia ganan poderes de ira espiritual cuando son atormentadas por estas Perdiciones, incluyendo la habilidad de regenerarse y de entrar en Frenesí.\n\nRabia 8, Gnosis 6, Fuerza de Voluntad 8, Esencia 22-60.\n\nEncantamientos: Enrabietar*, [Posesión](/werewolf/gifts/possession), Recuperar la Forma, [Sentir Trochas](/werewolf/gifts/sense-trails).\n\n* Enrabietar: Cada punto de Esencia que gasta la Rabia Amarga incrementa la de su objetivo. En los casos de criaturas que normalmente no tienen Rabia, el coste es dos puntos de Esencia. El incremento suele ser gradual y ocurre a lo largo de días, pero la Rabia Amarga puede forzarlo si lo desea y empujar a cualquier objetivo a un Frenesí instantáneo.\n\nImagen: En el Reino, las Rabias Amargas son invisibles, algo que las hace realmente difíciles de detectar. Incluso en la Umbra, son difíciles de percibir, ya que toman la forma de amorfas nubes de zumbantes mosquitos que se dispersan con rapidez si se las ataca.\n\nTrasfondo: Las Rabias Amargas son una especie de excepción entre las Perdiciones; pertenecen a la minoría que no posee de forma permanente a sus huéspedes y los convierte en Fomori. Se las puede expulsar, aunque es una tarea difícil. Una vez que han poseído a un huésped, la Perdición alimenta la Rabia del objetivo de forma constante, incrementándola por encima del máximo normal hasta la [locura](/werewolf/gifts/madness). El dolor de la [posesión](/werewolf/gifts/possession) crece desde el equivalente de un dolor de cabeza menor hasta una angustiosa sobrecarga sensorial, bajo la cual hasta un susurro parece el motor de un avión y la luz de la Luna quema las retinas. Las víctimas sucumben de manera inevitable a un Frenesí que no puede detenerse mientras permanezcan conscientes. Sólo el agotamiento absoluto ralentiza a estos infelices y únicamente hasta que se haya recuperado lo bastante como para comenzar a atacar de nuevo a todo lo que vea. Las Rabias Amargas sólo son vulnerables en la Umbra y son conocidas por huir tan pronto como son descubiertas.\n\nNotas de Narración: Las Rabias Amargas son el equivalente de una enfermedad y su objetivo es provocar tanto caos como puedan. Estas Perdiciones prefieren sencillamente causar problemas y dejar que los Garou a los que han infectado maten a todo el que tengan a su alcance. Si una Rabia Amarga usa todo su poder, puede emplear la Gnosis de su huésped para alimentar su Rabia. Muchos Galliard narran relatos de encuentros con estas Perdiciones para enseñar a los Cachorros los peligros de perder el control.\n\n\nPocos de los esbirros del Wyrm son tan aterradores o poderosos como los temibles Vagabundos de los Nexos. Algunos Theurge creen que estas alienígenas criaturas provienen de mucho más allá del universo conocido. La sola presencia de un Vagabundo de los Nexos corroe y pudre el tejido de la realidad a su alrededor.\n\nRabia 10, Gnosis 10, Fuerza de Voluntad 6, Esencia 30-100.\n\nEncantamientos: Materializarse (lo cual proporciona 12 niveles de Salud), Recuperar la Forma, Retorcer la Realidad*, [Sentir Trochas](/werewolf/gifts/sense-trails).\n\n* Retorcer la Realidad: Como bestias de pura entropía, los Vagabundos de los Nexos pueden alterar la realidad obteniendo éxito en una tirada de Fuerza de Voluntad (dificultad 7). Un éxito permite alteraciones relativamente menores: puede crear una ilusión neblinosa y borrosa, encender un pequeño fuego, cambiar los rasgos faciales de un individuo o disminuir la temperatura de un área pequeña. Con tres éxitos, un Vagabundo puede causar cambios más drásticos al entorno o a sus objetivos. Estos cambios incluyen convertir un suelo de [piedra](/werewolf/weapons/piedra) en un líquido viscoso, transformar cualquier objeto de acero en plata, cambiar el sudor de un [enemigo](/werewolf/flaws/enemigo) por ácido corrosivo, crear una ilusión que afecte a dos sentidos o dejar completamente a oscuras varios bloques de pisos de una ciudad. El Vagabundo también puede lanzar rayos de pura energía entrópica que infligen tres dados de daño agravado (tira Fuerza de Voluntad para atacar y usa las complicaciones habituales del combate a distancia). Si el Vagabundo obtiene cinco éxitos, puede provocar efectos realmente espectaculares: convertir los huesos de un objetivo en fango de pantano o en madera podrida, convertir el aire en monóxido de carbono o gas mostaza, eliminar toda la cara de un objetivo (y todos sus órganos sensoriales), crear una ilusión que afecte a todos los sentidos o convertir todo lo que haya en un área del tamaño de una habitación en plata. Los rayos entrópicos de este nivel de poder infligen seis dados de daño agravado.\n\n<!-- image -->\n\nImagen: En su [estado natural](/werewolf/gifts/natural-state), un Vagabundo de los Nexos se presenta como un centelleo negro en el aire, un gorjeante y ondulante zumbido, una sensación en la piel como uñas arañando una pizarra y un olor que recuerda al de una herida infectada. Si es necesario, puede manifestarse como un repugnante y horrible avatar.\n\nTrasfondo: Los Vagabundos de los Nexos son inteligentes, en cierto modo. Aunque tienen consciencia de sí mismos, sus procesos cognitivos son totalmente alienígenas (incluso para los servidores del Wyrm). Otros esbirros se sienten incómodos cerca de los ellos y tienden a evitarlos en circunstancias normales. En combate, los Vagabundos de los Nexos rara vez utilizan tácticas que parezcan tener alguna clase de sentido y no suelen mostrar lógica alguna. Este único hecho es lo que ha ayudado a los hombres lobo a sobrevivir a encuentros con estos seres.\n\nNotas de Narración: Los Vagabundos de los Nexos son a todos los efectos fuerzas de la naturaleza. Se parecen más a tornados y terremotos que a otras Perdiciones. Si así lo desean, pueden asumir formas físicas viles, repulsivas y aterradoras. Los humanos huirán aterrorizados nada más verlos, como si se vieran afectados por el Delirio. La primera vez que lo vean, los jugadores de los Garou harán una tirada de Fuerza de Voluntad para que los personajes no huyan presos de un Frenesí del [Zorro](/werewolf/totems/fox). Los Vagabundos de los Nexos poseen una hueste de apéndices y armas, entre las que se incluyen bocas con hilera tras hilera de dientes afilados como agujas y brazos adicionales cubiertos de púas venenosas.",
+    "body_es": "Los Hombre Grises son los Fomori creados por la desagradable unión de una Masa Gris y un humano, aunque en la práctica también pueden crearse a partir de cualquier criatura viva. Estos monstruos, igual que sus parásitos amos, sólo existen para extender su plaga a toda criatura viva con la que se encuentran. Son poco más que amasijos fúngicos animados, capaces de combatir y de una capacidad de raciocinio limitada. Su resbaladiza piel gris parece casi grasienta, y el cieno que produce porta una infección altamente contagiosa que continúa extendiendo esporas de Masa Gris a todo ser vivo. Cuando se les mata (una tarea desagradable, pero no difícil), los cuerpos de los Fomori explotan como un pedo de lobo gigante, liberando los millones de esporas que los crearon.\n\nLa mayoría de los Hombres Grises son poco más que bosques fúngicos ambulantes, aunque se rumorea que unos pocos son capaces de tener pensamientos profundos y pueden, con el tiempo, lograr una poderosa conexión con el Wyrm. En teoría, algunos podrían vivir durante siglos (si es así, podría haber ancianos Hombres Grises con grandes bases de poder y habilidades casi divinas).\n\nPoderes de los Fomori (pág. 429-439): Inmunidad al Delirio, Toque Fúngico.\n\ncazadores. Casi siempre atacan con ventaja táctica, superando en número a su presa y golpeando desde cobertura. Incluso las manadas de Garou verán puesto a prueba su trabajo en equipo hasta el límite para resistir un ataque de los Sabuesos del Wyrm.\n\nAtributos: Fuerza 4, Destreza 3, Resistencia 3, Percepción 3, Inteligencia 1, Astucia 1.\n\nHabilidades: Atletismo 4, Esquivar 2, Impulso Primario 4, Pelea 4.\n\nRabia 5, Gnosis 3, Fuerza de Voluntad 7, Esencia 15-50. Encantamientos: Armadura (cuatro dados de absorción sin coste de Esencia), Encarnar* (coste: ninguno, este Encantamiento es permanente para los Ooralath), [Excavar](/werewolf/gifts/burrow)*, [Sentir Trochas](/werewolf/gifts/sense-trails).\n\n* Encarnar: Este Poder es casi idéntico al Encantamiento Materializarse, salvo porque el espíritu no puede construir un cuerpo físico; en su lugar, el espíritu puede adoptar una forma de combate 'más adecuada' en la Umbra, gastando Esencia para construir un cuerpo igual que si estuviera creando una forma física.\n\n* [Excavar](/werewolf/gifts/burrow): Los Ooralath pueden abrir túneles por el suelo, ya sea en la Umbra o en el mundo físico, como si fueran peces en el agua. El coste es un punto de Esencia por turno.\n\nImagen: Los Ooralath parecen sabuesos bípedos, pero encorvados, como extraños dinosaurios cazadores. Sus cuerpos están compuestos casi por completo de gruesos caparazones serrados. Cuando corren, el chascar de sus garras y las placas de su armadura les precede… No emiten ningún otro sonido.\n\nTrasfondo: Tiempo atrás, los Ooralath tuvieron otro nombre, pero se perdió hace mucho. Eran devotos sirvientes de la Tejedora, pero todos fueron corrompidos y se convirtieron en Perdiciones. Su perseverancia, rayana en la estupidez, el rasgo que una vez les permitió llevar a cabo grandes empresas, es ahora su característica más aterradora. Una vez que una manada de Ooralath ha olido a su presa, nada los detendrá excepto su total destrucción. El proceso de corrupción ha tenido un interesante efecto secundario en los Ooralath: su naturaleza afín a la Tejedora ha dado lugar a formas físicas estáticas en la Umbra. No pueden Materializarse, pero si se les empuja al mundo físico por otros medios, sus formas son tan físicas como las de cualquier mortal.\n\nNotas de Narración: Los Ooralath son cazadores implacables y prácticamente descerebrados. Aunque carecen de creatividad o astucia individual, la mente colmena que comparte cada manada los hace brutalmente eficientes y sus [tácticas de manada](/werewolf/gifts/ajaba-dawn-pack-tactics) pueden avergonzar (o exterminar) a las manadas de hombres lobo desorganizadas. Será mejor que los Garou que se enfrenten a los Ooralath hayan aprendido el valor de la fuerza que hay en la unidad o los sabuesos del Wyrm los harán pedazos.\n\nLos Ooralath disfrutan particularmente cazando viajeros solitarios y sienten un 'aprecio especial' por las [Arañas de la Red](/werewolf/banes/aranas-de-la-red). Permanecen ocultos en el suelo hasta que salen de repente y al unísono para caer sobre su víctima y destrozarla por completo.",
     "tags": [
       "perdición",
       "wyrm"
@@ -2941,7 +2919,7 @@
     "line": "werewolf",
     "name_en": "Hoglinos (Esmog)",
     "name_es": "Hoglinos (Esmog)",
-    "body_es": "Se presentan como espesas nubes de gases nocivos enroscándose ominosamente alrededor de sus objetivos. Suelen ser azulados y en sus turbias formas puede verse ocasionalmente algún rasgo facial.\n\nRabia 8, Gnosis 7, Fuerza de Voluntad 3, Esencia 18-40. Encantamientos: Corriente Ascendente, Crear Vientos, Recuperar la Forma, [Sentir Trochas](/werewolf/gifts/sense-trails).\n\n\nAparecen como gotas luminosas y pegajosas de gel similares al napalm. Brillan con una fosforescencia radiactiva y parpadeante, y se mueven a toda velocidad como luciérnagas dementes.\n\nRabia 10, Gnosis 5, Fuerza de Voluntad 5, Esencia 20-40. Encantamientos: Estallido (fuego), [Sentir Trochas](/werewolf/gifts/sense-trails).",
+    "body_es": "Se presentan como espesas nubes de gases nocivos enroscándose ominosamente alrededor de sus objetivos. Suelen ser azulados y en sus turbias formas puede verse ocasionalmente algún rasgo facial.\n\nRabia 8, Gnosis 7, Fuerza de Voluntad 3, Esencia 18-40. Encantamientos: Corriente Ascendente, Crear Vientos, Recuperar la Forma, [Sentir Trochas](/werewolf/gifts/sense-trails).",
     "tags": [
       "perdición",
       "wyrm"
@@ -2973,7 +2951,7 @@
     "line": "werewolf",
     "name_en": "Geómidos Estructurales",
     "name_es": "Geómidos Estructurales",
-    "body_es": "Estos arquitectos guían los trabajos de construcción de las Arañas de la Urdimbre. Los Geómidos Estructurales son grandes formas poligonales que usan sus extraños ángulos y extensiones para proporcionar estabilidad a las redes iniciales. Aunque no son guerreros, los Geómidos Estructurales pueden crecer hasta alcanzar enormes dimensiones. Por lo general, abandonarán la zona si se les ataca, pero si no tienen otra opción, pueden tratar de aplastar a sus atacantes o estrellarlos contra las partes endurecidas de la Urdimbre. Sus ataques provocan daño letal.\n\nRabia 5, Gnosis 10, Fuerza de Voluntad 8, Esencia 30. Encantamientos: Estática Espiritual, Materializarse.",
+    "body_es": "Estos arquitectos guían los trabajos de construcción de las [Arañas de la Urdimbre](/werewolf/banes/aranas-de-la-urdimbre). Los Geómidos Estructurales son grandes formas poligonales que usan sus extraños ángulos y extensiones para proporcionar estabilidad a las redes iniciales. Aunque no son guerreros, los Geómidos Estructurales pueden crecer hasta alcanzar enormes dimensiones. Por lo general, abandonarán la zona si se les ataca, pero si no tienen otra opción, pueden tratar de aplastar a sus atacantes o estrellarlos contra las partes endurecidas de la Urdimbre. Sus ataques provocan daño letal.\n\nRabia 5, Gnosis 10, Fuerza de Voluntad 8, Esencia 30. Encantamientos: Estática Espiritual, Materializarse.",
     "tags": [
       "perdición",
       "wyrm"
@@ -3002,7 +2980,7 @@
     "line": "werewolf",
     "name_en": "Espíritus Atómicos",
     "name_es": "Espíritus Atómicos",
-    "body_es": "Estos espíritus, demasiado escasos y poco familiares para ser considerados 'elementales', bailan en el rítmico corazón de los fuegos nucleares. Son a la Tejedora\n\nLos Moradores del Cristal y algunos otros Garou diestros con la tecnología usan Arañas de la Red para recuperar información sobre instituciones y corporaciones. Parecen pequeñas arañas rodeadas de patrones fractales de energía. Un personaje que haga una tirada de Informática o Tecnología reduce la dificultad en 2 si recibe ayuda de una Araña de la Red.\n\nRabia 4, Gnosis 8, Fuerza de Voluntad 7, Esencia 19.\n\nEncantamientos: Estática Espiritual.\n\n\nLa Tejedora necesita con frecuencia asesinos eficientes y para tal fin emplea a las Arañas Cazadoras. Estos espíritus tienen la apariencia de criaturas mecánicas de múltiples patas hechas de acero negro mate. Sus ocho ojos brillan en azul eléctrico y les proporcionan campo de visión de 360 grados. La los miembros de la Cazadora termiterribles: cuchillas monomoleculáser, lanzallamas, armas automá- y el Kaos lo que la mancha de la radiación es para el Wyrm: el puro poder bruto de la reacción interminable. La profundidad de los conocimientos de estos espíritus acrecienta su misterio: entienden mucho del Wyrm y de la estructura básica del universo, ya que su especie existía al principio de todas las cosas (aunque yació durmiente hasta que la humanidad liberó el poder del corazón del átomo).\n\n<!-- image -->\n\n<!-- image -->\n\nLos Moradores del Cristal a veces consultan a los Espíritus Atómicos (el término 'elemental nuclear' no ha cuajado aún entre los viajeros de la Umbra) y ellos responden de manera breve y fáctica. La ayuda de los Espíritus Atómicos suele requerir un pago por adelantado: la destrucción del reactor que los atrapa en un único lugar.\n\nRabia 5, Gnosis 10, Fuerza de Voluntad 10, Esencia 25 (incrementa con la proximidad a una reacción nuclear).\n\nEncantamientos: Crear Fuego, Estallido Atómico (como Estallido, pero causa dos niveles de daño agravado por éxito), Materializarse, Romper Realidad.\n\n\nEstos poderosos pero cada vez más escasos espíritus sirven a la Tejedora como tropas de choque. Los Monitores de Caos, que recuerdan mucho a gigantescos escorpiones de cristal con múltiples patas, a veces se abren paso por la fuerza hasta la Penumbra y trabajan para destruir cualquier cosa que no encaje en la visión de la realidad estática de la Tejedora. Los Moradores del Cristal creen que los Monitores son la respuesta final de la Tejedora a la posibilidad de que el Kaos pueda resurgir.\n\nCuando estos espíritus se Materializan, defienden las creaciones de la Tejedora destruyendo aquello que las dañe. Su entrada en el reino físico no es sutil y puede provocar puntos débiles en la Celosía. Algunos Garou herejes aseguran que así es como se crearon los primeros Túmulos, pero la mayoría se burla ante esa idea o los tacha de traidores. Estos espíritus de destrucción están sucumbiendo lentamente ante el Wyrm; varias manadas han informado de Monitores de Caos con caparazones ennegrecidos y vidriados y la evidente mancha del Wyrm.\n\nRabia 10, Gnosis 9, Fuerza de Voluntad 7, Esencia 26. Encantamientos: [Calcificar](/werewolf/gifts/ananasi-viskr-calcify), Curación, Estática Espiritual, Materializarse.\n\n\nAunque los Vectores de Estasis han aparecido únicamente en los últimos tiempos, es probable que cualquier Garou que haya sobrevivido a un encuentro con uno desee que permanezcan en el reino de las [pesadillas](/werewolf/flaws/pesadillas). Pese a que los Garou sólo pueden confirmar un puñado de encuentros con ellos, es de esperar que haya más en el futuro.\n\nUn Vector de Estasis impone el demente impulso de la Tejedora por [calcificar](/werewolf/gifts/ananasi-viskr-calcify) toda la realidad. Uno de estos espíritus puede obligar a todo lo que lo rodea a mantener un estado estático. Cuanto más tiempo actúe el espíritu, más difícil se vuelve cambiar nada en torno a él. Los espíritus de la Tejedora despliegan Vectores de Estasis cerca de los lugares y seres vinculados fuertemente al Kaos. Aparecen únicamente en respuesta a una poderosa disrupción en la Teluria. Son enviados a detener el problema y reparar cualquier daño en la fábrica de la realidad.\n\nLos Vectores de Estasis son Geómidos evolucionados. Poseen formas extremadamente complejas que rotan de maneras inverosímiles y drenan todo el caos posible de su entorno. Su aroma es destacable sólo porque carecen por completo de uno identificable. De hecho, el uso de sus Encantamientos tiende a eliminar todos los olores del área afectada (ya que son simples impurezas en el aire). En todo caso, el olor de un Vector o de cualquier cosa que éste haya tocado producirá al Garou una sensación de completa esterilidad.\n\nLos Vectores de Estasis suelen operar junto con Arañas Cazadoras u otros espíritus de la Tejedora orientados al ataque. Congelan todo mientras las arañas destruyen lo que esté causando las disrupciones. Una vez que han reparado las disrupciones y eliminado la causa, se marchan.\n\nRabia 6, Gnosis 10, Fuerza de Voluntad 10, Esencia 26. Encantamientos: [Calcificar](/werewolf/gifts/ananasi-viskr-calcify), Estasis*, Materializarse.\n\n- Estasis: Estasis puede impedir el uso de otros Poderes sobrenaturales (aunque el espíritu debe seleccionar como objetivo cada Poder de forma individual). El Poder simplemente falla o se desactiva, después permanece inaccesible durante un número de turnos igual al número de éxitos en la tirada de Fuerza de Voluntad del espíritu (la dificultad es igual a la Fuerza de Voluntad de la víctima). Si el Vector de Estasis no obtiene éxitos, el Poder sigue funcionando.\n\nSi se obtiene éxito en una tirada de Gnosis (dificultad 8), este Encantamiento puede forzar a una o a todas las criaturas en un radio de 9 metros (30 pies) a volver a su forma natural (los Garou vuelven a sus Formas de Raza, los espíritus que han cambiado de forma revierten a su auténtica forma, etc.). Este uso de Estasis también elimina cualquier Don que pueda alterar la Forma de un Garou. Dura un turno.\n\nRealizar una tirada de Fuerza de Voluntad con éxito, permite al Vector utilizar el Encantamiento para aumentar la puntuación de la Celosía hasta un máximo de 10. La puntuación se incrementa en uno por cada dos éxitos y los efectos duran toda una escena.\n\nPor último, gastando un punto de Esencia por hora, un Vector de Estasis elimina todas las imperfecciones, signos de decadencia e irregularidades en torno a él. Las plantas dejan de crecer, el viento disminuye y las criaturas vivas caen lentamente en hibernación. En la Umbra, los Vectores tejen una siempre creciente red de estasis a su alrededor y todo lo que atrapan simplemente deja de cambiar. Cada hora, el área afectada se expande de forma gradual (a discreción del Narrador). Por cada dos horas que el espíritu mantenga el efecto, la puntuación de la Celosía se incrementa en uno. Después de que un Vector de Estasis deje de mantener el Poder, éste disminuye a ritmo diario, perdiendo el mismo incremento de volumen cada día, y la puntuación de la Celosía disminuye en un punto cada dos días hasta que se recuperen las condiciones previas.",
+    "body_es": "Estos espíritus, demasiado escasos y poco familiares para ser considerados 'elementales', bailan en el rítmico corazón de los fuegos nucleares. Son a la Tejedora\n\nLos Moradores del Cristal y algunos otros Garou diestros con la tecnología usan [Arañas de la Red](/werewolf/banes/aranas-de-la-red) para recuperar información sobre instituciones y corporaciones. Parecen pequeñas arañas rodeadas de patrones fractales de energía. Un personaje que haga una tirada de Informática o Tecnología reduce la dificultad en 2 si recibe ayuda de una Araña de la Red.\n\nRabia 4, Gnosis 8, Fuerza de Voluntad 7, Esencia 19.\n\nEncantamientos: Estática Espiritual.",
     "tags": [
       "perdición",
       "wyrm"
@@ -3031,7 +3009,7 @@
     "line": "werewolf",
     "name_en": "Destellos",
     "name_es": "Destellos",
-    "body_es": "Los Destellos son algunos de los espíritus del Kaos más pequeños; cada uno de ellos es como una madeja flotante de energía creativa. Estos espíritus, en apariencia poco más que una bola flotante de luz chispeante que cambia de matiz sin parar, son tan devotos del crecimiento y el cambio como los demás espíritus del Kaos. A diferencia de ellos, los Destellos cambian ideas en lugar de entidades físicas. Cazados casi hasta la extinción en tiempos ancestrales, los Destellos ahora evitan a la mayoría de viajeros de la Umbra, pero ocasionalmente bendicen a los solicitantes con nuevas ideas.\n\nRabia 1, Gnosis 6, Fuerza de Voluntad 3, Esencia 10-15. Encantamientos: [Inspirar](/werewolf/gifts/ananasi-kumoti-inspire)*, Materializarse, Vuelo Raudo.\n\n- [Inspirar](/werewolf/gifts/ananasi-kumoti-inspire): El Destello da un toque de [inspiración](/werewolf/gifts/inspiration) a quienes decide ayudar. Ningún hombre lobo ha forzado aún a ningún Destello a inspirarlo; esta habilidad está totalmente bajo el control del espíritu. El Narrador tira la Gnosis del Destello (dificultad igual a la puntuación de la Celosía local). Si tiene éxito, al individuo inspirado se le ocurre una buena idea, por lo general una solución para un acertijo o un problema que preocupaba al personaje. Muy a menudo, el objetivo tiene toda la información necesaria para resolver el problema, pero este Encantamiento cambia su forma de enfocarlo para dar con la solución.\n\n\nTodo especie animal que se haya extinguido genera un Eco: la semilla del Kaos que creó a esa criatura. Cada Eco parece una pareja idealizada de la criatura extinta, un macho y una hembra. Los Ecos, rara vez vistos fuera de un distante reino de la Umbra poblado exclusivamente por razas extintas, actúan como poderosos recordatorios de lo que está en juego en la lucha de los Garou. Cada especie perdida es un trozo del Kaos, pero cada cual está conectada con los recuerdos raciales de todas las especies, convirtiéndolas en fuentes de conocimiento. [Grifo](/werewolf/totems/griffin) suele caminar por el Reino de los Ecos, llevando la cuenta de las razas perdidas y avivando su increíble rabia.\n\nRabia 1, Gnosis 4, Fuerza de Voluntad 5, Esencia 10-15. Encantamientos: Armadura, Rastrear, Sentido del Reino.",
+    "body_es": "Los Destellos son algunos de los espíritus del Kaos más pequeños; cada uno de ellos es como una madeja flotante de energía creativa. Estos espíritus, en apariencia poco más que una bola flotante de luz chispeante que cambia de matiz sin parar, son tan devotos del crecimiento y el cambio como los demás espíritus del Kaos. A diferencia de ellos, los Destellos cambian ideas en lugar de entidades físicas. Cazados casi hasta la extinción en tiempos ancestrales, los Destellos ahora evitan a la mayoría de viajeros de la Umbra, pero ocasionalmente bendicen a los solicitantes con nuevas ideas.\n\nRabia 1, Gnosis 6, Fuerza de Voluntad 3, Esencia 10-15. Encantamientos: [Inspirar](/werewolf/gifts/ananasi-kumoti-inspire)*, Materializarse, Vuelo Raudo.\n\n- [Inspirar](/werewolf/gifts/ananasi-kumoti-inspire): El Destello da un toque de [inspiración](/werewolf/gifts/inspiration) a quienes decide ayudar. Ningún hombre lobo ha forzado aún a ningún Destello a inspirarlo; esta habilidad está totalmente bajo el control del espíritu. El Narrador tira la Gnosis del Destello (dificultad igual a la puntuación de la Celosía local). Si tiene éxito, al individuo inspirado se le ocurre una buena idea, por lo general una solución para un acertijo o un problema que preocupaba al personaje. Muy a menudo, el objetivo tiene toda la información necesaria para resolver el problema, pero este Encantamiento cambia su forma de enfocarlo para dar con la solución.",
     "tags": [
       "perdición",
       "wyrm"
@@ -3063,7 +3041,7 @@
     "line": "werewolf",
     "name_en": "Desenredadores",
     "name_es": "Desenredadores",
-    "body_es": "Los Desenredadores parecen turbulentos antivórtices, pequeños tornados que hayan sido grabados y luego proyectados marcha atrás. Aunque su misión en principio parece estar más cerca del propósito original del Wyrm que del Kaos, los Desenredadores no destruyen cosas. En su lugar liberan las energías del Kaos que hay atrapadas dentro de toda entidad. Si son el intento del Kaos de reutilizar las energías de la posibilidad atrapadas dentro de creaciones rotas o un intento activo de deshacer las calcificadas redes de las Arañas de la Urdimbre de la Tejedora, es tema de discusión entre los filósofos Garou. Aunque algunos activistas ambientales han tratado de usar a un Desenredador contra un poderoso centro de corrupción del Wyrm, al espíritu le cuesta funcionar al otro lado de la Celosía. Aun así, estos espíritus siguen siendo útiles métodos de destruir cosas que de otra forma no podrían deshacerse, sin que esa destrucción beneficiase al Wyrm.\n\nRabia 5, Gnosis 4, Fuerza de Voluntad 3, Esencia 15-25. Encantamientos: Desenredar*, Materializarse.\n\n- Desenredar: El Desenredador puede reducir objetos manufacturados a sus componentes básicos: el vidrio se convierte en un montón de arena, el acero en mineral de hierro y carbón, los paneles de circuitos en montones de metales raros. El Narrador tira Rabia (dificultad igual a la Celosía local). Si tiene éxito, el espíritu descompone completamente un objeto. Este Encantamiento no tiene efecto contra criaturas vivas, pero Desenredar un [Fetiche](/werewolf/merits/fetish) libera al espíritu que lo habita.\n\n\nLos Vectores son espíritus conceptuales, semejantes a otros que habitan la Umbra Alta. Como espíritus de movimiento, los Vectores parecen rayos de luz. Aunque pueden ralentizarse hasta un ritmo de paseo, estos espíritus odian tan lentísimas velocidades. Prefieren moverse tan rápido como puedan (lo cual es una velocidad considerable). Hablarán con los viajeros de la Umbra, pero sólo si el Garou puede seguirle el ritmo al Vector a toda velocidad. Algunos Caminantes Silenciosos aprenden Dones de viaje y velocidad de los Vectores. Sus periplos han hecho que estos volubles espíritus acumulen una gran cantidad de información sobre la Umbra, pero conseguirla puede ser difícil.\n\nRabia 2, Gnosis 6, Fuerza de Voluntad 9, Esencia 17-30. Encantamientos: Materializarse, Vuelo Raudo.\n\n\nLas Arenas del Tiempo, turbulentas nubes de arena, son espíritus conceptuales que reflejan la encarnación del Kaos en la forma del mismo tiempo. La Tejedora congelaría la realidad en un único instante, el Wyrm sencillamente pondría fin a todo, pero el Kaos siempre empuja las cosas hacia delante, hacia el cambio y la variación. Las Arenas del Tiempo se encuentran entre los espíritus más antiguos del Kaos y son unos de los más raros. Ancestrales Theurge solían usar a estos espíritus para ayudar al crecimiento de las cosechas de su [Parentela](/werewolf/backgrounds/kinfolk), mientras que los pocos Garou actuales que saben de ellos quieren recurrir a estos espíritus para convertir el propio tiempo en un arma contra el Wyrm.\n\nRabia 7, Gnosis 6, Fuerza de Voluntad 5, Esencia 18-30.\n\nEncantamientos Envejecer Realidad, Materializarse, Sentido del Reino.\n\n- Envejecer Realidad: Este Encantamiento funciona de forma muy similar a Romper Realidad, pero sus efectos se restringen a envejecer. En lugar de sólo crear una puerta en un muro, una Arena del Tiempo puede provocar que el muro se pudra de viejo.\n\n\nLos Tornados, agentes del caos puro, antiguamente existían para tomar los restos de las cosas destruidas por el Wyrm y convertirlas en algo nuevo y diferente. Con el Wyrm atrapado y enloquecido por la Tejedora, estos espíritus han perdido su razón de ser. Ahora, poco más que torbellinos de energía creativa, los Tornados deambulan entrando y saliendo de la Umbra. Estos espíritus son responsables de fenómenos forteanos al transportar gente a través de medio mundo o provocar lluvias de fresadoras de colores estridentes. Los Tornados no son espíritus contra los que los Garou puedan luchar: es más un desastre natural al que se le ha dado forma,\n\nalgo para que los Garou lo observen y lidien con ello.\n\nRabia 8, Gnosis 9, Fuerza de Voluntad 8, Esencia 27-50.\n\nRomper Realidad. Los Tornados cambian a cada segundo que pasa, y pueden manifestar cualquier Encantamiento en cualquier momento, incluso Encantamientos habitualmente restringidos a los espíritus\n\nEncantamientos: de la Tejedora o el Wyrm.\n\n\nEntre los espíritus del Kaos más poderosos, los Vórtices son los espíritus del cambio constante. Los Vórtices parecen una enorme implosión de materia sólida, líquida y gaseosa mezclada con ardiente plasma, en un movimiento giratorio y retorcido constante. Es difícil mirar a un Vórtice mucho tiempo antes de sufrir dolores de cabeza intensos y alucinaciones. Tanto Garou como espíritus temen y respetan a los Vórtices y tratan de mantenerse fuera de su camino.\n\nLos Vórtices solían frecuentar el mundo físico, pero se han ido retirando a la Umbra profunda a medida que la Tejedora ha ido fortaleciendo su influencia sobre la realidad. En el mejor de los casos, son caprichosos e impredecibles, e incomprensibles en su actitud.\n\nUn Vórtice personifica todas las posibilidades y probabilidades. Por tanto, sus ataques infligen daño agravado que no puede absorberse.\n\nRabia 8, Gnosis 10, Fuerza de Voluntad 8, Esencia 26-80. Encantamientos: Cambio de Aspecto, Desorientar, Materializarse, Romper Realidad.\n\n\nLos Sin Nombre son figuras sin forma en constante flujo. Ondulan con las corrientes subterráneas del caos en el mundo. Su tamaño cambia de un segundo a otro, de tan pequeño como una persona a grande como una casa. El Kaos creó muchos de los Sin Nombre en respuesta al demente impulso de la Tejedora por nombrarlo todo. Como tal, tienen el poder de la posibilidad en bruto (y la capacidad de arrebatar el nombre a otra criatura, deshaciéndola). Por suerte, los Sin Nombre son bastante escasos hasta para los espíritus del Kaos; sólo se sabe de la existencia de un puñado de ellos en los más profundos confines de la Umbra. Aunque podrían ser bombas nucleares tácticas para la causa de los Garou, los Sin Nombre no piensan a nivel que otros seres puedan comprender. Tratar de entenderlos implica volverse permanentemente loco, dar órdenes a uno es absurdo. Algunos hombres lobo creen que el estallido de Tunguska fue la última vez que un Sin Nombre usó su habilidad para arrebatar el nombre a una poderosa Perdición.\n\nRabia 10, Gnosis 9, Fuerza de Voluntad 9, Esencia 30. Encantamientos: Todos los Encantamientos que no sean ni de la Tejedora ni del Wyrm, Tomar el Nombre*.\n\n- Tomar el Nombre: El Poder definitivo de los Sin Nombre: mediante él despojan de su nombre a una entidad, desatando las fuerzas espirituales internas que mantienen unida a una criatura. Romper el componente espiritual de una criatura libera gran cantidad de energía espiritual, de forma muy similar a cómo una reacción nuclear libera la energía confinada en un átomo. El resultado es una impresionante explosión tanto en el plano físico como en el espiritual. El Sin Nombre gasta toda su Esencia y el Narrador tira todos esos dados contra a la Fuerza de Voluntad del objetivo. Si el objetivo obtiene más éxitos, no pasa nada y el Sin Nombre perece. Si el Sin Nombre obtiene más éxitos, muere en el proceso de eliminar el nombre de su objetivo, provocando un estallido equivalente a una detonación atómica. Todo el mundo en la zona circundante muere de forma casi instantánea y los efectos pueden sentirse a cientos de kilómetros.",
+    "body_es": "Los Desenredadores parecen turbulentos antivórtices, pequeños [tornados](/werewolf/banes/tornados) que hayan sido grabados y luego proyectados marcha atrás. Aunque su misión en principio parece estar más cerca del propósito original del Wyrm que del Kaos, los Desenredadores no destruyen cosas. En su lugar liberan las energías del Kaos que hay atrapadas dentro de toda entidad. Si son el intento del Kaos de reutilizar las energías de la posibilidad atrapadas dentro de creaciones rotas o un intento activo de deshacer las calcificadas redes de las [Arañas de la Urdimbre](/werewolf/banes/aranas-de-la-urdimbre) de la Tejedora, es tema de discusión entre los filósofos Garou. Aunque algunos activistas ambientales han tratado de usar a un Desenredador contra un poderoso centro de corrupción del Wyrm, al espíritu le cuesta funcionar al otro lado de la Celosía. Aun así, estos espíritus siguen siendo útiles métodos de destruir cosas que de otra forma no podrían deshacerse, sin que esa destrucción beneficiase al Wyrm.\n\nRabia 5, Gnosis 4, Fuerza de Voluntad 3, Esencia 15-25. Encantamientos: Desenredar*, Materializarse.\n\n- Desenredar: El Desenredador puede reducir objetos manufacturados a sus componentes básicos: el vidrio se convierte en un montón de arena, el acero en mineral de hierro y carbón, los paneles de circuitos en montones de metales raros. El Narrador tira Rabia (dificultad igual a la Celosía local). Si tiene éxito, el espíritu descompone completamente un objeto. Este Encantamiento no tiene efecto contra criaturas vivas, pero Desenredar un [Fetiche](/werewolf/merits/fetish) libera al espíritu que lo habita.",
     "tags": [
       "perdición",
       "wyrm"
@@ -5836,6 +5814,1086 @@
     "related": []
   },
   {
+    "id": "esquizofrenia",
+    "type": "derangement",
+    "line": "werewolf",
+    "name_en": "Esquizofrenia",
+    "name_es": "Esquizofrenia",
+    "body_es": "Este Trastorno representa dificultad para interactuar con la realidad, con manifestaciones que van desde alucinaciones a catatonia. El jugador determina un patrón de comportamiento específico relevante para dicho Trastorno, como ser impelido por voces imaginarias o ver a la gente como monstruos espantosos.\n\nEn situaciones que dispararían el comportamiento esquizofrénico de un personaje, la dificultad de todas las tiradas para resistir o redirigir el Frenesí se incrementa en tres y el personaje sustrae tres dados de todas las tiradas de Fuerza de Voluntad.",
+    "tags": [
+      "trastorno"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "esquizofrenia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "fuga-disociativa",
+    "type": "derangement",
+    "line": "werewolf",
+    "name_en": "Fuga disociativa",
+    "name_es": "Fuga disociativa",
+    "body_es": "El personaje es víctima de 'apagones' y pérdidas de memoria. Cuando se desencadena este Trastorno, el enfermo entra en un estado similar al sonambulismo.\n\nEn momentos de estrés extremo, el personaje debe superar una tirada de Fuerza de Voluntad (dificultad 8) o caer en un estado de fuga. El jugador puede interpretar el estado de trance o el Narrador puede tomar el control del personaje durante un número de escenas igual al resultado obtenido al tirar un dado. Al final de ese período, el personaje recupera la consciencia sin ningún recuerdo de sus acciones.",
+    "tags": [
+      "trastorno"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "fuga-disociativa",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "histeria",
+    "type": "derangement",
+    "line": "werewolf",
+    "name_en": "Histeria",
+    "name_es": "Histeria",
+    "body_es": "Un personaje víctima de histeria no puede controlar sus emociones y está sujeto a intensos cambios de humor o a ataques violentos cuando siente estrés o ansiedad.\n\nUn hombre lobo con este Trastorno debe hacer tiradas de Frenesí cada vez que esté bajo estrés extremo; la dificultad para entrar en Frenesí se reduce en 2.",
+    "tags": [
+      "trastorno"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "histeria",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "trastorno-obsesivo-compulsivo",
+    "type": "derangement",
+    "line": "werewolf",
+    "name_en": "Trastorno obsesivo compulsivo",
+    "name_es": "Trastorno obsesivo compulsivo",
+    "body_es": "Este Trastorno se manifiesta como una necesidad de orden y rutina, normalmente expresada mediante alguna clase de comportamiento reiterativo. El personaje puede terminar obsesionado con la higiene, contar compulsivamente objetos o asumir el control sobre un [territorio](/werewolf/gifts/territory) determinado.\n\nNarrador y jugador deben colaborar para determinar un posible conjunto de acciones o comportamientos. Una vez desencadenados, el personaje sigue esa rutina hasta ignorar todo lo demás; se requiere el gasto de un punto temporal de Fuerza de Voluntad para hacer cualquier otra cosa en una escena concreta.",
+    "tags": [
+      "trastorno"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "trastorno-obsesivo-compulsivo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "paranoia",
+    "type": "derangement",
+    "line": "werewolf",
+    "name_en": "Paranoia",
+    "name_es": "Paranoia",
+    "body_es": "El personaje atribuye toda clase de males a fuentes externas imaginarias. Construye elaboradas teorías conspiratorias en su cabeza e incluso puede clasificar a sus propios amigos y [aliados](/werewolf/backgrounds/allies) como enemigos si desdeñan demasiado sus miedos.\n\nUn personaje paranoico tiene dificultades para confiar e interactuar con otros; la dificultad de todas las tiradas Sociales se incrementa en uno. Ciertos comportamientos sospechosos, como manipular su comida o entrar en su habitación sin permiso, pueden provocar una tirada de Frenesí.",
+    "tags": [
+      "trastorno"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "paranoia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "personalidad-multiple",
+    "type": "derangement",
+    "line": "werewolf",
+    "name_en": "Personalidad múltiple",
+    "name_es": "Personalidad múltiple",
+    "body_es": "La psique del personaje se ha fragmentado en múltiples facetas, cada una de las cuales manifiesta un aspecto de la personalidad central del personaje o suple una 'necesidad' concreta. Por ejemplo, un hombre lobo podría desarrollar una personalidad 'cazadora' que toma el control cada vez que sienta hambre. En la mayoría de los casos, cada personalidad no tiene ni idea de que las demás existen y no puede explicar sus lagunas de memoria.\n\nNarrador y jugador colaboran para determinar el número y naturaleza de las diversas personalidades del personaje y qué circunstancias pueden provocar que una personalidad concreta asuma el control. Éstas pueden manifestar diferentes Habilidades si el Narrador lo permite.",
+    "tags": [
+      "trastorno"
+    ],
+    "mechanics": {},
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "personalidad-multiple",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "alcohol",
+    "type": "equipment",
+    "line": "werewolf",
+    "name_en": "Alcohol",
+    "name_es": "Alcohol",
+    "body_es": "Resta un dado de Destreza e Inteligencia por cada dos bebidas alcohólicas consumidas. Reduce la penalización en uno por cada hora que pase desde que se deja de beber.",
+    "tags": [
+      "equipo",
+      "substance"
+    ],
+    "mechanics": {
+      "category": "substance",
+      "effect": "Resta un dado de Destreza e Inteligencia por cada dos bebidas alcohólicas consumidas. Reduce la penalización en uno por cada hora que pase desde que se deja de beber."
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "alcohol",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "alucinogenos",
+    "type": "equipment",
+    "line": "werewolf",
+    "name_en": "Alucinógenos",
+    "name_es": "Alucinógenos",
+    "body_es": "Todas las reservas de dados se reducen de 1 a 3 dados ya que el personaje no puede concentrarse. Su percepción del mundo está alterada y sus reacciones dependerán de lo que crea que está pasando. Un personaje que tome alucinógenos antes de meditar para recuperar Gnosis puede recuperar hasta dos puntos por hora de meditación en lugar de uno. El efecto dura (8 menos Resistencia) horas.",
+    "tags": [
+      "equipo",
+      "substance"
+    ],
+    "mechanics": {
+      "category": "substance",
+      "effect": "Todas las reservas de dados se reducen de 1 a 3 dados ya que el personaje no puede concentrarse. Su percepción del mundo está alterada y sus reacciones dependerán de lo que crea que está pasando. Un personaje que tome alucinógenos antes de meditar para recuperar Gnosis puede recuperar hasta dos puntos por hora de meditación en lugar de uno. El efecto dura (8 menos Resistencia) horas."
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "alucinogenos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "cocaina-anfetaminas-speed",
+    "type": "equipment",
+    "line": "werewolf",
+    "name_en": "Cocaína/anfetaminas/speed",
+    "name_es": "Cocaína/anfetaminas/speed",
+    "body_es": "El hombre lobo gana inmediatamente un punto de Rabia temporal. Durante el resto de la escena, el personaje sólo necesita tres éxitos en una tirada de Rabia para entrar en Frenesí.",
+    "tags": [
+      "equipo",
+      "substance"
+    ],
+    "mechanics": {
+      "category": "substance",
+      "effect": "El hombre lobo gana inmediatamente un punto de Rabia temporal. Durante el resto de la escena, el personaje sólo necesita tres éxitos en una tirada de Rabia para entrar en Frenesí."
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "cocaina-anfetaminas-speed",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "heroina-morfina-barbituricos",
+    "type": "equipment",
+    "line": "werewolf",
+    "name_en": "Heroína/morfina/barbitúricos",
+    "name_es": "Heroína/morfina/barbitúricos",
+    "body_es": "Las reservas de dados de Destreza y de todas las Habilidades se reducen en dos durante (10 menos Resistencia) minutos. El personaje entra en un estado de ensoñación que dura (12 menos Resistencia) horas durante las cuales la dificultad de las tiradas de Rabia aumentan en uno.",
+    "tags": [
+      "equipo",
+      "substance"
+    ],
+    "mechanics": {
+      "category": "substance",
+      "effect": "Las reservas de dados de Destreza y de todas las Habilidades se reducen en dos durante (10 menos Resistencia) minutos. El personaje entra en un estado de ensoñación que dura (12 menos Resistencia) horas durante las cuales la dificultad de las tiradas de Rabia aumentan en uno."
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "heroina-morfina-barbituricos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "marihuana",
+    "type": "equipment",
+    "line": "werewolf",
+    "name_en": "Marihuana",
+    "name_es": "Marihuana",
+    "body_es": "Resta un dado a las reservas basadas en la Percepción e incrementa en uno la dificultad de todas las tiradas de Rabia. El efecto dura en torno a media hora.",
+    "tags": [
+      "equipo",
+      "substance"
+    ],
+    "mechanics": {
+      "category": "substance",
+      "effect": "Resta un dado a las reservas basadas en la Percepción e incrementa en uno la dificultad de todas las tiradas de Rabia. El efecto dura en torno a media hora."
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "marihuana",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "veneno-debil",
+    "type": "equipment",
+    "line": "werewolf",
+    "name_en": "Veneno débil",
+    "name_es": "Veneno débil",
+    "body_es": "El personaje recibe entre uno y tres niveles de daño letal por escena. Los venenos pueden causar una cantidad máxima de daño, por lo general entre cinco y diez niveles. Si el personaje no lo regenera (debido a estar en Forma de Raza o ser humano), sustrae un dado de todas las reservas de dados hasta que se cure. Un hombre lobo en una Forma que se regenera se libra de los efectos del veneno en segundos y no sufre ninguna consecuencia negativa.",
+    "tags": [
+      "equipo",
+      "substance"
+    ],
+    "mechanics": {
+      "category": "substance",
+      "effect": "El personaje recibe entre uno y tres niveles de daño letal por escena. Los venenos pueden causar una cantidad máxima de daño, por lo general entre cinco y diez niveles. Si el personaje no lo regenera (debido a estar en Forma de Raza o ser humano), sustrae un dado de todas las reservas de dados hasta que se cure. Un hombre lobo en una Forma que se regenera se libra de los efectos del veneno en segundos y no sufre ninguna consecuencia negativa."
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "veneno-debil",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "veneno-fuerte",
+    "type": "equipment",
+    "line": "werewolf",
+    "name_en": "Veneno fuerte",
+    "name_es": "Veneno fuerte",
+    "body_es": "El personaje recibe entre uno y tres niveles de daño letal por turno. Los venenos pueden causar una cantidad máxima de daño, por lo general entre cinco y diez niveles. Un hombre lobo puede regenerarlo forma normal, pero, hasta que el veneno haya sido eliminado y todo el daño se haya curado, resta un dado a todas las reservas de dados. Las únicas toxinas que tienen un efecto significativo sobre los hombres lobo son las que están mejoradas de forma sobrenatural y como tales infligen daño letal.",
+    "tags": [
+      "equipo",
+      "substance"
+    ],
+    "mechanics": {
+      "category": "substance",
+      "effect": "El personaje recibe entre uno y tres niveles de daño letal por turno. Los venenos pueden causar una cantidad máxima de daño, por lo general entre cinco y diez niveles. Un hombre lobo puede regenerarlo forma normal, pero, hasta que el veneno haya sido eliminado y todo el daño se haya curado, resta un dado a todas las reservas de dados. Las únicas toxinas que tienen un efecto significativo sobre los hombres lobo son las que están mejoradas de forma sobrenatural y como tales infligen daño letal."
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "veneno-fuerte",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "adivinadores",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Adivinadores",
+    "name_es": "Adivinadores",
+    "body_es": "Los Adivinadores son un tipo de Perdiciones débiles cuyo único propósito aparente es espiar a los objetivos de Perdiciones más fuertes. Los recompensan con Esencia y por ello su [lealtad](/werewolf/merits/lealtad) es absoluta.\n\nRabia 2, Gnosis 7, Fuerza de Voluntad 4, Esencia 13-30.\n\nEncantamientos: Informar*, Predecir*, Recuperar la Forma, [Sentir Trochas](/werewolf/gifts/sense-trails).\n\n* Informar: Este Encantamiento permite a la Perdición mantener un vínculo mental con su patrón. Cuesta 1 punto de Esencia por escena.\n\n* Predecir: Esto permite a la Perdición 'escudriñar' el mundo material y usar el Don [Olor de la Auténtica Forma](/werewolf/gifts/apis-scent-of-the-true-form) para observar a aquéllos que ve allí. Cuesta 1 punto de Esencia por escena.\n\nImagen: Los Adivinadores adoptan formas muy variadas, pero todos son delgados y endebles, fáciles de derrotar cuando se les atrapa. Sus ojos son la parte más distintiva de sus cuerpos; aunque pueden ser pequeños y brillantes, bulbosos, luminiscentes, gatunos, compuestos o facetados, siempre son inusuales de alguna manera. Quienes están en el reino físico sólo pueden ver a un Adivinador mientras los escudriña si hacen uso de Dones como [Pulso de lo Invisible](/werewolf/gifts/pulse-of-the-invisible).\n\nCiertos Garou con Gnosis 7 o superior pueden tener la incómoda sensación de estar siendo observados cuando los observa un Adivinador. Esta incomodidad puede volverse extrema tras largos períodos de tiempo. Los Garou sin los Dones necesarios para encontrar a sus atormentadores pueden incluso volverse locos lentamente. La mirada de un Adivinador puede hacer cosquillas, ser como un hormigueo o incluso quemar a quienes la sienten, aunque esto es sólo una sensación y no causa daño físico.\n\nTrasfondo: Un Adivinador suele vincularse a una Perdición concreta, intercambiando un período de observación por Esencia. Por lo general, el patrón concede al Adivinador entre cinco y diez puntos por una tarea determinada, o más si la observación tiene lugar durante un extenso período de tiempo. Sin embargo, si el Adivinador falla a su amo de alguna forma, éste puede retirar entre cinco y diez puntos de Esencia de la reserva del Adivinador, posiblemente destruyéndolo de forma temporal. Otros amos han concebido maneras de alimentar a los Adivinadores, y en muchas Colmenas de Danzantes hay varios adivinadores bajo el patronazgo de la Perdición que actúa como [Tótem](/werewolf/backgrounds/totem) del Túmulo.\n\nNotas de Narración: Los Adivinadores son un ejemplo de Perdiciones evolucionadas para cumplir una tarea específica. Están muy especializados para realizar su función, pero tienen pocas capacidades aparte del espionaje. Indudablemente, hay muchas otras especies de Perdiciones especializadas de forma similar; se alienta al Narrador a crear más de tales criaturas para enfatizar la manera en la que el Wyrm puede maquinar formas espirituales enteras para deberes específicos. Estas cobardes Perdiciones no tienen medios de atacar y usan su Encantamiento Recuperar la Forma para escapar cuando son detectadas.",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "2",
+      "gnosis": "7",
+      "willpower": "4",
+      "essence": "13-30",
+      "charms": "Informar*, Predecir*, Recuperar la Forma, Sentir Trochas"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "adivinadores",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "charms": "Informar*, Predecir*, Recuperar la Forma, <a href=\"/werewolf/gifts/sense-trails\">Sentir Trochas</a>"
+    }
+  },
+  {
+    "id": "agujeros-del-wyrm",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Agujeros del Wyrm",
+    "name_es": "Agujeros del Wyrm",
+    "body_es": "Los límites entre materia y espíritu significan poco cuando está presente un Agujero del Wyrm. Estas extrañas Perdiciones son un grave peligro, ya que pueden alumbrar Perdiciones en el mundo físico por docenas, liberando a nuevos espíritus físicos de pura malicia contra cualquier cosa (o persona) que se encuentre cerca.\n\nRabia 0, Gnosis 10, Fuerza de Voluntad 0, Esencia 50-200. Encantamientos: Portal*, [Posesión](/werewolf/gifts/possession), Recuperar la Forma.\n\n* Portal: Permite al Agujero del Wyrm usar el Encantamiento Materializarse sobre otras Perdiciones, gastando la Esencia necesaria para transportar a las criaturas. Las Perdiciones pueden Materializarse de forma normal sin importar la Gnosis relativa; si de forma ordinaria la Perdición no puede Materializarse, el Agujero del Wyrm puede determinar los parámetros de su forma física. Cuando habita un anfitrión mortal, el Agujero del Wyrm sigue teniendo que llevar la cuenta de su Esencia, puesto que la recupera a un ritmo de un punto por día cuando posee a un huésped.\n\nImagen: En el mundo espiritual, los Agujeros del Wyrm se presentan como turbulentos desagües de delgado y oleoso 'fluido' espiritual. Conforme las Perdiciones atraviesan el embudo, los lados del Agujero del Wyrm aumentan como una serpiente tragándose un huevo. Cuando estas poderosas Perdiciones poseen a huéspedes mortales, cualquier cambio es relativamente sutil; las diferencias principales suelen ser que el entorno del nuevo Fomor siempre está cargado de electricidad estática y los ojos se convierten en turbulentos pozos de un añil oscuro.\n\nTrasfondo: Hubo un tiempo en el que el reino de Gaia era uno con la Umbra, antes de que la Tejedora extendiese sus demenciales redes por todo el mundo y separase lo físico de lo espiritual. En respuesta, el Kaos creó umbrales hacia la miríada de guaridas del Wyrm en la Umbra para facilitar que las criaturas del [Equilibrio](/werewolf/gifts/ananasi-general-balance) anduvieran entre mundos según lo necesitasen. Por desgracia, el Wyrm ya no es una fuerza de [Equilibrio](/werewolf/gifts/ananasi-general-balance). Ahora, los Agujeros del Wyrm no son más que poderosos activos en manos del Corruptor.\n\nEn algunos casos, los Agujeros del Wyrm se forman en el aire o en el agua, dejando un portal para los esbirros del Wyrm, una puerta de sentido único de vuelta al reino de Gaia y hacia los lugares manchados por los humanos. Con mayor frecuencia encuentran un huésped, una persona o animal que da la bienvenida al poder que portan y obtienen cierto control sobre lo que vomitan ante ellos. Antaño hubo pocos de estos desastres ambulantes, pero con el paso del tiempo se están volviendo más comunes.\n\nNotas de Narración: Los Agujeros del Wyrm son extremadamente peligrosos. Dondequiera que se formen estas grietas en la Celosía son invitaciones abiertas para los esbirros del Wyrm. Cuando poseen a un mortal, ese humano obtiene un fantástico poder sobre las criaturas que atraviesan su Portal. Las Perdiciones invocadas de esta forma suelen sentirse inclinadas a obedecer a la amalgama de Perdición y carne porque, mientras el Agujero del Wyrm esté disponible, pueden volver a entrar en el reino de Gaia sin gastar Esencia. Los poseídos por Agujeros del Wyrm son siempre víctimas voluntarias y, a veces, desarrollan más Poderes típicos de los Fomori como resultado de la unión.",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "0",
+      "gnosis": "10",
+      "willpower": "0",
+      "essence": "50-200",
+      "charms": "Portal*, Posesión, Recuperar la Forma"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "agujeros-del-wyrm",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "charms": "Portal*, <a href=\"/werewolf/gifts/possession\">Posesión</a>, Recuperar la Forma"
+    }
+  },
+  {
+    "id": "cadavericos",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Cadavéricos",
+    "name_es": "Cadavéricos",
+    "body_es": "Los Cadavéricos son una de las muchas razas de Perdiciones guerreras que sirven al Wyrm. Son monstruos de rabia y violencia descontroladas, que no sirven como corruptores sino como soldados.\n\nRabia 10, Gnosis 4, Fuerza de Voluntad 6, Esencia 20. Encantamientos: Incitar Frenesí, [Posesión](/werewolf/gifts/possession).\n\nImagen: En la Umbra, se presentan como espíritus semi-físicos y esqueléticos, con garras y colmillos afilados como cuchillas. Los Cadavéricos parecen andar encorvados, sus brazos casi como patas delanteras, pero este encorvamiento no les impide moverse en absoluto.\n\nTrasfondo: Los Cadavéricos se manifiestan de una manera bastante particular. Un Cadavérico no puede simplemente atravesar la Celosía; en su lugar debe encontrar un huésped y poseerlo. A menos que el Cadavérico sea expulsado de alguna forma (normalmente mediante un [exorcismo](/werewolf/gifts/exorcism)), la víctima se transformará físicamente en un Cadavérico en un plazo de 48 horas. Desde la [posesión](/werewolf/gifts/possession) inicial hasta la transformación final, el huésped comenzará a mostrar muchos de los rasgos del Cadavérico, incluyendo hábitos antisociales, una disposición por lo desagradable, un temperamento irritable y violento y un hambre terrible por la carne roja, cruda y sangrante. Una vez que han pasado las 48 horas, tiene efecto la transformación física. El huésped se convierte en una figura flaca y cadavérica de piel grisácea con colmillos y garras afilados como cuchillas, y un hedor a amoníaco y sangre. Una vez que el Cadavérico abandona el cuerpo (por la razón que sea), el huésped regresa a su forma normal, y debe enfrentarse a la carnicería que ha causado (es más, retiene todos los recuerdos de sus acciones).\n\nNotas de Narración: Los Cadavéricos matan. Son, literalmente, espíritus de asesinato. Viven por el momento en que la vida de una víctima termina, y se recrean en el caos y el derramamiento de sangre que infligen. Las manadas de Cadavéricos suelen deleitarse en frenesíes de muerte y desmembramiento, expresando sólo un malevolente humor negro a expensas de su víctima. Aunque uno solo puede no ser rival para un Garou, una manada de doce o más puede ser terriblemente mortífera.",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "10",
+      "gnosis": "4",
+      "willpower": "6",
+      "essence": "20",
+      "charms": "Incitar Frenesí, Posesión"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "cadavericos",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "charms": "Incitar Frenesí, <a href=\"/werewolf/gifts/possession\">Posesión</a>"
+    }
+  },
+  {
+    "id": "creadores-de-suenos",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Creadores de Sueños",
+    "name_es": "Creadores de Sueños",
+    "body_es": "Cuando la Tríada era joven y el universo aún estaba completo, estas Perdiciones servían para crear el mundo y trabajaban como sirvientes tanto de la Tejedora como del Kaos. Lo que queda ahora es sólo un débil eco del poder que estos oscuros espíritus una vez representaron, el poder de dar forma a todo el universo según los caprichos de sus amos. Aún sirven a día de hoy, pero los amos a los que sirven son algo diferentes respecto a aquéllos para cuya satisfacción fueran creados.\n\nRabia 10, Gnosis 10, Fuerza de Voluntad 10, Esencia 50-300.\n\nEncantamientos: Aliento Helado, Alterar Realidad, Armadura, [Calcificar](/werewolf/gifts/ananasi-viskr-calcify), Cambio de Aspecto, Congelar, Corriente Ascendente, Corrupción, Crear Fuego, Crear Viento, Curación, Desorientar, Esquirlas de Hielo, Inundación, Materializarse (sólo cuando su amo lo permite), Purificar la Plaga, Rastrear, Rayos, Recuperar la Forma, Romper Realidad, [Sentir Trochas](/werewolf/gifts/sense-trails), Solidificar Realidad, Terremoto Umbral, Toque de Plaga.\n\nImagen: Puede presentarse bajo la apariencia de los genios consensuada por Hollywood, con anillos, turbante y pantuflas puntiagudas, o como una persona perfectamente normal. Últimamente existe una cierta moda entre los Creadores de Sueños de adoptar la apariencia de ángeles (si no confías en un ángel, ¿en quién vas a confiar?).\n\nTrasfondo: ¿Qué mejor forma de obtener conversos que darles lo que desean? Los Creadores de Sueños siempre han estado ahí, aunque sus nombres han cambiado. Sea cual sea el título que escojan, estas Perdiciones existen para [corromper](/werewolf/gifts/ananasi-hatar-corrupt) a los amargados y los furiosos, concediéndoles deseos y ayudándolos en sus búsquedas por conseguir el poder. Hay complicaciones, por supuesto. Los Creadores de Sueños están atados fuera del reino de Gaia y su naturaleza les prohíbe entrar en el plano físico a menos que sean invitados a él. Estas Perdiciones son muy poderosas y hacen gala de una increíble malicia, aunque sólo pueden actuar según los deseos humanos. Una vez que eligen un 'amo', los Creadores de Sueños actúan para cumplir cada uno de sus caprichos, pero siempre mientras mantienen sus propios objetivos. Cada uno busca sonsacar un deseo especial a su amo, un deseo para tener permiso para Materializarse en el reino de Gaia. Si los Creadores de Sueños que todavía perviven fueren liberados alguna vez, el poder que aún esgrimen sería lo bastante grande como para ocasionar terribles desastres. Entre los Garou circulan ancestrales leyendas que aseguran que estas mismas Perdiciones están destinadas a destruir todo lo que ellas mismas crearon.\n\nNotas de Narración: Éstas son malas Perdiciones con las que encontrarse, al menos si no eres su amo. Un Creador de Sueños es el djinn tradicional, el demonio que concede cada deseo, sin importar cuán insignificante. No pueden realizar nada sin el deseo expreso de su amo, lo cual los ha detenido a la hora de destruirlo todo. Cada uno está vinculado a un amo hasta que éste muere o es lo suficientemente estúpido para desear que entre en el reino de Gaia (una proeza que aún no han logrado, aunque varios han estado muy cerca antes de que se les detuviese). Los Creadores de Sueños son virtualmente capaces de cualquier cosa, aunque algunas peticiones podrían necesitar una gran cantidad de tiempo para poder cumplirse. Lo más terrible es que eligen amos que saben que son capaces de casi todo: quienes están muertos a nivel moral y destrozados a nivel emocional.",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "10",
+      "gnosis": "10",
+      "willpower": "10",
+      "essence": "50-300",
+      "charms": "Aliento Helado, Alterar Realidad, Armadura, Calcificar, Cambio de Aspecto, Congelar, Corriente Ascendente, Corrupción, Crear Fuego, Crear Viento, Curación, Desorientar, Esquirlas de Hielo, Inundación, Materializarse (sólo cuando su amo lo permite), Purificar la Plaga, Rastrear, Rayos, Recuperar la Forma, Romper Realidad, Sentir Trochas, Solidificar Realidad, Terremoto Umbral, Toque de Plaga"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "creadores-de-suenos",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "charms": "Aliento Helado, Alterar Realidad, Armadura, <a href=\"/werewolf/gifts/ananasi-viskr-calcify\">Calcificar</a>, Cambio de Aspecto, Congelar, Corriente Ascendente, Corrupción, Crear Fuego, Crear Viento, Curación, Desorientar, Esquirlas de Hielo, Inundación, Materializarse (sólo cuando su amo lo permite), Purificar la Plaga, Rastrear, Rayos, Recuperar la Forma, Romper Realidad, <a href=\"/werewolf/gifts/sense-trails\">Sentir Trochas</a>, Solidificar Realidad, Terremoto Umbral, Toque de Plaga"
+    }
+  },
+  {
+    "id": "drattosi",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Drattosi",
+    "name_es": "Drattosi",
+    "body_es": "Los Drattosi son espantosas criaturas que viven en enormes agujeros radioactivos en la Umbra. Actúan como gigantescas pantomimas de hormigas león, depredando a cualquier viajero de la Umbra que sea lo bastante desafortunado para tropezar con una de estas mefíticas trampas.\n\nRabia 7, Gnosis 8, Fuerza de Voluntad 5, Esencia 20-30 + la que hayan absorbido últimamente.\n\nEncantamientos: Consumir Esencia*, Deseo Ilusorio*, [Sentir Trochas](/werewolf/gifts/sense-trails).\n\n* Consumir Esencia: Este Encantamiento permite a los Drattosi devorar a otro espíritu y tomar la Esencia de su víctima. Un espíritu consumido de esta manera no Recuperará la Forma. El Drattosi ataca con Rabia como habitualmente, pero drena un punto de Esencia por éxito.\n\n<!-- image -->\n\n* Deseo Ilusorio: El Drattosi debe hacer una tirada enfrentada de Gnosis contra Fuerza de Voluntad para arrancar una imagen atractiva de la mente de una víctima potencial y luego gasta dos puntos de Esencia para crear la ilusión. Este Poder puede usarse en más de una víctima, pero sólo puede leer la mente de una víctima a la vez.\n\nImagen: Rara vez se ve a los Drattosi; un Drattosi repta fuera de su guarida en el fondo de su agujero sólo para alimentarse. Se parecen vagamente a gargantuescos crustáceos con espinosas protuberancias que cubren sus caparazones de un negro rojizo. Tienen múltiples miembros con afiladas espinas que usan para ensartar a sus presas. Sus cuerpos desprenden vapor a causa del calor de su entorno.\n\nTrasfondo: Los Drattosi viven en agujeros en la Penumbra, en los que se esconden con sus ilusiones. Estas Perdiciones prefieren crear criaturas u objetos ilusorios como cebo, tendiendo el anzuelo más apropiado según lo que hayan extraído de las mentes de sus víctimas potenciales. Por lo general, suelen dejar que una víctima haga todo el camino hasta la imagen antes de que emerger para atacar. Los Drattosi son depredadores inteligentes. Pueden comunicarse de manera inteligible con Garou y espíritus, pero rara vez se preocupan de hacerlo. Suelen conocer todo lo que pasa en el área que habitan, incluso en el mundo físico que corresponde a su guarida en la Penumbra, pero es bastante difícil sonsacarles esa información.\n\nNotas de Narración: El Wyrm tiene muchos servidores que personifican el engaño y las falsas promesas; los Drattosi son simplemente otra variación de este tema. Aunque son un poco unidimensionales para ser el centro de una historia, pueden proporcionar valiosas lecciones vitales a los Garou que dan por hechas las ventajas del viaje Umbral.",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "7",
+      "gnosis": "8",
+      "willpower": "5",
+      "essence": "20-30",
+      "charms": "Consumir Esencia*, Deseo Ilusorio*, Sentir Trochas"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "drattosi",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "charms": "Consumir Esencia*, Deseo Ilusorio*, <a href=\"/werewolf/gifts/sense-trails\">Sentir Trochas</a>"
+    }
+  },
+  {
+    "id": "fantasmi",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Fantasmi",
+    "name_es": "Fantasmi",
+    "body_es": "Para algunos Fomori ni siquiera la muerte es una escapatoria para el dolor de la servidumbre. El Wyrm se ocupa de ello. Unos pocos desafortunados de entre los que un vez fueron humanos sufren una agonía mayor cuando mueren bajo las garras de los Garou. Para ellos, el Corruptor tiene en mente un [destino](/werewolf/backgrounds/destino) especial: un [destino](/werewolf/backgrounds/destino) de dolor y venganza. Se convierten en los Fantasmi.\n\nRabia 10, Gnosis 6, Fuerza de Voluntad 5, Esencia 21-50. Encantamientos: Materializarse (coste 26; Fuerza 4, Destreza 3, Resistencia 6, Atletismo 3, Esquivar 3, Pelea 4, Pelea con Armas 3), [Sentir Trochas](/werewolf/gifts/sense-trails).\n\nImagen: Aunque no tienen cuerpo propio, los Fantasmi ensamblan sus propias formas con los restos de cualquier cosa creada por el hombre. Toda la basura a su alcance se convierte en materia prima para sus extraños 'cuerpos'. El metal fluye a una orden suya, y el cristal y el plástico se retuercen adoptando formas casi idénticas a las que estos desgraciados espíritus tenían en vida.\n\nCasi.\n\nLos materiales que estas Perdiciones usan para construir sus formas materiales pueden suponer una sustancial diferencia en cómo atacan a un [enemigo](/werewolf/flaws/enemigo). En algunas zonas son poco más que papel y trozos de alambre, en otras podrían estar formados de vertidos tóxicos derramados por el suelo. Cualquiera que sea el desecho disponible es lo que el Fantasmi debe usar para recrearse a sí mismo, así que la forma de atacar puede ser cualquier cosa desde garrazos y golpes sólidos a ataques líquidos que de deslicen por la garganta y los pulmones de un Garou.\n\nTrasfondo: Los Fantasmi son incapaces de escapar a la influencia que el Wyrm ejerce sobre sus propias almas, han perdido su forma y se encuentran atrapados para siempre en el lugar donde murieron. Son una especie de trampa psíquica para hombres lobo… y las ansias sin fin de los Fantasmi por vengarse de las criaturas que los mataron hacen de ellos asesinos muy eficientes. Sin embargo, no son muy versátiles; son totalmente incapaces de acometer cualquier acto por voluntad propia hasta que un miembro de las Razas Cambiantes entra dentro del área donde murieron.\n\nNotas de Narración: Los Fantasmi son un recordatorio de que toda acción tiene sus consecuencias. Estas criaturas son semejantes a los wraiths, pero sin tanto libre albedrío. Están atrapados para siempre en el lugar donde murieron o en los escombros de lo que queda de ese lugar. Aguardan, incapaces de hacer nada, a que sus enemigos vengan a ellos. Son particularmente efectivos cuando se usan en un sitio donde han tenido lugar anteriores batallas de la manada, así los jugadores pueden percatarse poco a poco de que están enfrentándose a sus anteriores enemigos, que vuelven a por más.",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "10",
+      "gnosis": "6",
+      "willpower": "5",
+      "essence": "21-50",
+      "charms": "Materializarse (coste 26; Fuerza 4, Destreza 3, Resistencia 6, Atletismo 3, Esquivar 3, Pelea 4, Pelea con Armas 3), Sentir Trochas"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "fantasmi",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "charms": "Materializarse (coste 26; Fuerza 4, Destreza 3, Resistencia 6, Atletismo 3, Esquivar 3, Pelea 4, Pelea con Armas 3), <a href=\"/werewolf/gifts/sense-trails\">Sentir Trochas</a>"
+    }
+  },
+  {
+    "id": "masas-grises",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Masas Grises",
+    "name_es": "Masas Grises",
+    "body_es": "El Kaos tiene sus propios métodos. La vida crece incluso frente al rostro de la muerte, una parte del ciclo sin fin que no va a cambiar. Los hongos son una parte de ese ciclo, descomponiendo la carne muerta de plantas y animales por igual y dejando ricos fertilizantes tras de sí, pero las Masas Grises son diferentes.\n\nRabia 0, Gnosis 4, Fuerza de Voluntad 2, Esencia 10.\n\nEncantamientos: Esporulación*, Corrupción, [Posesión](/werewolf/gifts/possession), Toque de Plaga.\n\n* Esporulación: La meta principal de las Masas Grises es reproducirse y comienzan a multiplicarse cuando encuentran un huésped. Cada punto de Esencia gastado por una Masa Gris permite a la Perdición crear a otro de su especie. Cada una de estas nuevas Perdiciones es tan poderosa como la original y también producirá crías una vez que encuentre un huésped propio. Sin un huésped, una Masa Gris es poco más que una espora, prácticamente incapaz de lograr nada. La mayor parte de la Esencia de una Masa Gris se emplea en crear copias de sí misma. Cada una de estas Perdiciones es capaz de crear ocho o nueve iguales y cada una de éstas es capaz a su vez de crear un nuevo Fomor en su huésped, y aún más Perdiciones que las transmitan.\n\nImagen: Las Masas Grises no tienen una presencia espiritual real, dado lo pequeñas que son. Sólo se hacen patentes cuando se manifiestan mediante sus huéspedes, los [Hombres Grises](/werewolf/banes/hombres-grises) (ver recuadro).\n\nTrasfondo: Hubo un tiempo en el que descomponían a los muertos, reciclando la masa muerta del mundo espiritual y creándola de nuevo en nombre del Kaos. Ahora las Masas Grises son criaturas del Wyrm, e ignoran a los muertos para [infestar](/werewolf/gifts/infest) a los vivos. En la Umbra, estos corruptos espíritus son poco más que una molestia, un mal olor que se pudre mientras espera. Pero estas Perdiciones fúngicas se cuelan con facilidad en el mundo físico, por lo general arrastradas por cualquier otra cosa que atraviese la Celosía, pasando desapercibidas gracias a su pequeñez. Sin embargo, cuando alcanzan el reino de Gaia, crecen a una velocidad alarmante.\n\nHoras después de su llegada, las Masas Grises (las cuales se Materializan como esporas idénticas a las de hongos normales) encuentran un huésped y hacen de él su hogar. Al cabo de un día producen más esporas, llevando su entropía tan lejos como los vientos lo permitan, y comienzan el ciclo de nuevo. Su propósito es muy simple: reemplazar la vida existente por su propia forma de vida, un tumor fétido y manchado por el Wyrm, mucho más virulento que la mayoría de las enfermedades.\n\nLas Masas Grises no tienen [aliados](/werewolf/backgrounds/allies), ni siquiera entre las demás Perdiciones. Más del 99% son destruidas por espíritus, cambiaformas y otras amenazas. Pero cuando el uno por ciento restante sale adelante, los resultados pueden ser horribles.\n\n¿Qué le pasa a un Garou infectado por las esporas? ¿Puede la regeneración del hombre lobo combatir o retardar la infección?\n\nNadie lo sabe a ciencia cierta.\n\nNotas de Narración: La naturaleza parasitaria de la mayoría de los hongos es la clave para usar a las Masas Grises con eficacia. La vívida imagen de algo vivo cubierto con su horrible presencia puede ser muy efectiva. Estas Perdiciones crecen rápido y son voraces; carecen de sutileza, sólo tienen la necesidad de consumir y pervertir toda la materia viva que tocan. Aunque la [Posesión](/werewolf/gifts/possession) que crean estas Perdiciones no es tan fuerte como la mayoría (los huéspedes aún poseen sus propios recuerdos y metas), los efectos siguen siendo poderosos. Poblaciones o bosques enteros pueden verse inundados por estas Perdiciones en cuestión de días.\n\nObviamente, los encuentros con las Masas Grises y los [Hombres Grises](/werewolf/banes/hombres-grises) deberían ser escasos. Hay Dones y [Ritos](/werewolf/backgrounds/rites) que pueden contrarrestar los efectos de la [posesión](/werewolf/gifts/possession) de las Masas si se realizan a tiempo. Una manada podría encontrarse a uno de los [Hombres Grises](/werewolf/banes/hombres-grises) más viejos y mucho más poderosos, que haya sobrevivido lo bastante como para desarrollar de nuevo una conciencia real y se haya convertido en algo mucho peor que una infección andante. Las Masas Grises son una amenaza tal que la manada podría incluso encontrarse luchando codo con codo con una banda de Danzantes de la Espiral Negra para poner fin al peligro... Una perspectiva que, sin duda, da que pensar.",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "0",
+      "gnosis": "4",
+      "willpower": "2",
+      "essence": "10",
+      "charms": "Esporulación*, Corrupción, Posesión, Toque de Plaga"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "masas-grises",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "charms": "Esporulación*, Corrupción, <a href=\"/werewolf/gifts/possession\">Posesión</a>, Toque de Plaga"
+    }
+  },
+  {
+    "id": "psicomaquias",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Psicomaquias",
+    "name_es": "Psicomaquias",
+    "body_es": "Las Psicomaquias son espíritus para los cuales las emociones humanas negativas (terror, odio, desesperación y similares) son ambrosía. Estas Perdiciones buscan y poseen a individuos perturbados y depravados, instándolos a actuar siguiendo impulsos básicos y oscuras fantasías.\n\nRabia 10, Gnosis 8, Fuerza de Voluntad 7, Esencia 25 (+1 por cada muerte causada por su huésped, las muertes que cause directamente la Psicomaquia no cuentan).\n\n<!-- image -->\n\nEncantamientos: Corrupción, Materializarse, [Posesión](/werewolf/gifts/possession), [Sentir Trochas](/werewolf/gifts/sense-trails).\n\nImagen: Las manifestaciones físicas son siempre extremadamente agresivas. Están equipadas con cuchillas, colmillos, escalpelos, pinzas y otros instrumentos para [infligir dolor](/werewolf/gifts/inflict-pain) y muerte. Las Psicomaquias huelen a muerte, ira y odio, entremezclados en un miasma de rabia retorcida.\n\nTrasfondo: Las Psicomaquias sirven a los Impulsos del Wyrm y se ven atraídas por los conflictos emocionales. Buscan a aquéllos que están sumidos en una profunda crisis y alimentan sus batallas internas para empujarlos cada vez más profundamente en la oscuridad.\n\nNotas de Narración: Una Psicomaquia no puede poseer a alguien aleatoriamente y empujarle a la corrupción, pero puede poseer con facilidad a un individuo que ya sea un depravado y darle un empujón adicional. Aunque pueden apiñarse en torno a cualquiera que sufra angustia emocional, tienden a congregarse en lugares donde el caos campa a sus anchas: zonas de guerra, centros de atención social, prisiones de máxima seguridad y lugares donde se estén produciendo abusos de niños, ancianos o animales.",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "10",
+      "gnosis": "8",
+      "willpower": "7",
+      "essence": "25",
+      "charms": "Corrupción, Materializarse, Posesión, Sentir Trochas"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "psicomaquias",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "charms": "Corrupción, Materializarse, <a href=\"/werewolf/gifts/possession\">Posesión</a>, <a href=\"/werewolf/gifts/sense-trails\">Sentir Trochas</a>"
+    }
+  },
+  {
+    "id": "rabias-amargas",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Rabias Amargas",
+    "name_es": "Rabias Amargas",
+    "body_es": "Las Rabias Amargas existen con el único propósito de enloquecer a los Garou. Se alimentan de Rabia y a su vez la alimentan, empujando a su víctima a Frenesíes de proporciones cada vez mayores. En muchos sentidos, son el equivalente espiritual a un episodio de rabia. Aunque estas Perdiciones prefieren tener por objetivo a Garou y a otras Razas Cambiantes, también afectan a humanos e incluso a los animales que se acercan demasiado a zonas infestadas por el Wyrm. Hasta las criaturas que no poseen Rabia ganan poderes de ira espiritual cuando son atormentadas por estas Perdiciones, incluyendo la habilidad de regenerarse y de entrar en Frenesí.\n\nRabia 8, Gnosis 6, Fuerza de Voluntad 8, Esencia 22-60.\n\nEncantamientos: Enrabietar*, [Posesión](/werewolf/gifts/possession), Recuperar la Forma, [Sentir Trochas](/werewolf/gifts/sense-trails).\n\n* Enrabietar: Cada punto de Esencia que gasta la Rabia Amarga incrementa la de su objetivo. En los casos de criaturas que normalmente no tienen Rabia, el coste es dos puntos de Esencia. El incremento suele ser gradual y ocurre a lo largo de días, pero la Rabia Amarga puede forzarlo si lo desea y empujar a cualquier objetivo a un Frenesí instantáneo.\n\nImagen: En el Reino, las Rabias Amargas son invisibles, algo que las hace realmente difíciles de detectar. Incluso en la Umbra, son difíciles de percibir, ya que toman la forma de amorfas nubes de zumbantes mosquitos que se dispersan con rapidez si se las ataca.\n\nTrasfondo: Las Rabias Amargas son una especie de excepción entre las Perdiciones; pertenecen a la minoría que no posee de forma permanente a sus huéspedes y los convierte en Fomori. Se las puede expulsar, aunque es una tarea difícil. Una vez que han poseído a un huésped, la Perdición alimenta la Rabia del objetivo de forma constante, incrementándola por encima del máximo normal hasta la [locura](/werewolf/gifts/madness). El dolor de la [posesión](/werewolf/gifts/possession) crece desde el equivalente de un dolor de cabeza menor hasta una angustiosa sobrecarga sensorial, bajo la cual hasta un susurro parece el motor de un avión y la luz de la Luna quema las retinas. Las víctimas sucumben de manera inevitable a un Frenesí que no puede detenerse mientras permanezcan conscientes. Sólo el agotamiento absoluto ralentiza a estos infelices y únicamente hasta que se haya recuperado lo bastante como para comenzar a atacar de nuevo a todo lo que vea. Las Rabias Amargas sólo son vulnerables en la Umbra y son conocidas por huir tan pronto como son descubiertas.\n\nNotas de Narración: Las Rabias Amargas son el equivalente de una enfermedad y su objetivo es provocar tanto caos como puedan. Estas Perdiciones prefieren sencillamente causar problemas y dejar que los Garou a los que han infectado maten a todo el que tengan a su alcance. Si una Rabia Amarga usa todo su poder, puede emplear la Gnosis de su huésped para alimentar su Rabia. Muchos Galliard narran relatos de encuentros con estas Perdiciones para enseñar a los Cachorros los peligros de perder el control.",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "8",
+      "gnosis": "6",
+      "willpower": "8",
+      "essence": "22-60",
+      "charms": "Enrabietar*, Posesión, Recuperar la Forma, Sentir Trochas"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "rabias-amargas",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "charms": "Enrabietar*, <a href=\"/werewolf/gifts/possession\">Posesión</a>, Recuperar la Forma, <a href=\"/werewolf/gifts/sense-trails\">Sentir Trochas</a>"
+    }
+  },
+  {
+    "id": "vagabundos-de-los-nexos",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Vagabundos de los Nexos",
+    "name_es": "Vagabundos de los Nexos",
+    "body_es": "Pocos de los esbirros del Wyrm son tan aterradores o poderosos como los temibles Vagabundos de los Nexos. Algunos Theurge creen que estas alienígenas criaturas provienen de mucho más allá del universo conocido. La sola presencia de un Vagabundo de los Nexos corroe y pudre el tejido de la realidad a su alrededor.\n\nRabia 10, Gnosis 10, Fuerza de Voluntad 6, Esencia 30-100.\n\nEncantamientos: Materializarse (lo cual proporciona 12 niveles de Salud), Recuperar la Forma, Retorcer la Realidad*, [Sentir Trochas](/werewolf/gifts/sense-trails).\n\n* Retorcer la Realidad: Como bestias de pura entropía, los Vagabundos de los Nexos pueden alterar la realidad obteniendo éxito en una tirada de Fuerza de Voluntad (dificultad 7). Un éxito permite alteraciones relativamente menores: puede crear una ilusión neblinosa y borrosa, encender un pequeño fuego, cambiar los rasgos faciales de un individuo o disminuir la temperatura de un área pequeña. Con tres éxitos, un Vagabundo puede causar cambios más drásticos al entorno o a sus objetivos. Estos cambios incluyen convertir un suelo de [piedra](/werewolf/weapons/piedra) en un líquido viscoso, transformar cualquier objeto de acero en plata, cambiar el sudor de un [enemigo](/werewolf/flaws/enemigo) por ácido corrosivo, crear una ilusión que afecte a dos sentidos o dejar completamente a oscuras varios bloques de pisos de una ciudad. El Vagabundo también puede lanzar rayos de pura energía entrópica que infligen tres dados de daño agravado (tira Fuerza de Voluntad para atacar y usa las complicaciones habituales del combate a distancia). Si el Vagabundo obtiene cinco éxitos, puede provocar efectos realmente espectaculares: convertir los huesos de un objetivo en fango de pantano o en madera podrida, convertir el aire en monóxido de carbono o gas mostaza, eliminar toda la cara de un objetivo (y todos sus órganos sensoriales), crear una ilusión que afecte a todos los sentidos o convertir todo lo que haya en un área del tamaño de una habitación en plata. Los rayos entrópicos de este nivel de poder infligen seis dados de daño agravado.\n\n<!-- image -->\n\nImagen: En su [estado natural](/werewolf/gifts/natural-state), un Vagabundo de los Nexos se presenta como un centelleo negro en el aire, un gorjeante y ondulante zumbido, una sensación en la piel como uñas arañando una pizarra y un olor que recuerda al de una herida infectada. Si es necesario, puede manifestarse como un repugnante y horrible avatar.\n\nTrasfondo: Los Vagabundos de los Nexos son inteligentes, en cierto modo. Aunque tienen consciencia de sí mismos, sus procesos cognitivos son totalmente alienígenas (incluso para los servidores del Wyrm). Otros esbirros se sienten incómodos cerca de los ellos y tienden a evitarlos en circunstancias normales. En combate, los Vagabundos de los Nexos rara vez utilizan tácticas que parezcan tener alguna clase de sentido y no suelen mostrar lógica alguna. Este único hecho es lo que ha ayudado a los hombres lobo a sobrevivir a encuentros con estos seres.\n\nNotas de Narración: Los Vagabundos de los Nexos son a todos los efectos fuerzas de la naturaleza. Se parecen más a [tornados](/werewolf/banes/tornados) y terremotos que a otras Perdiciones. Si así lo desean, pueden asumir formas físicas viles, repulsivas y aterradoras. Los humanos huirán aterrorizados nada más verlos, como si se vieran afectados por el Delirio. La primera vez que lo vean, los jugadores de los Garou harán una tirada de Fuerza de Voluntad para que los personajes no huyan presos de un Frenesí del [Zorro](/werewolf/totems/fox). Los Vagabundos de los Nexos poseen una hueste de apéndices y armas, entre las que se incluyen bocas con hilera tras hilera de dientes afilados como agujas y brazos adicionales cubiertos de púas venenosas.",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "10",
+      "gnosis": "10",
+      "willpower": "6",
+      "essence": "30-100",
+      "charms": "Materializarse (lo cual proporciona 12 niveles de Salud), Recuperar la Forma, Retorcer la Realidad*, Sentir Trochas"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "vagabundos-de-los-nexos",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "charms": "Materializarse (lo cual proporciona 12 niveles de Salud), Recuperar la Forma, Retorcer la Realidad*, <a href=\"/werewolf/gifts/sense-trails\">Sentir Trochas</a>"
+    }
+  },
+  {
+    "id": "furmlinos-pira-de-corrupcion",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Furmlinos (Pira de corrupción)",
+    "name_es": "Furmlinos (Pira de corrupción)",
+    "body_es": "Aparecen como gotas luminosas y pegajosas de gel similares al napalm. Brillan con una fosforescencia radiactiva y parpadeante, y se mueven a toda velocidad como luciérnagas dementes.\n\nRabia 10, Gnosis 5, Fuerza de Voluntad 5, Esencia 20-40. Encantamientos: Estallido (fuego), [Sentir Trochas](/werewolf/gifts/sense-trails).",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "10",
+      "gnosis": "5",
+      "willpower": "5",
+      "essence": "20-40",
+      "charms": "Estallido (fuego), Sentir Trochas"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "furmlinos-pira-de-corrupcion",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "charms": "Estallido (fuego), <a href=\"/werewolf/gifts/sense-trails\">Sentir Trochas</a>"
+    }
+  },
+  {
+    "id": "h-rugglinos-fango",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "H'rugglinos (Fango)",
+    "name_es": "H'rugglinos (Fango)",
+    "body_es": "Los H'rugglinos, posiblemente las Perdiciones más nauseabundas de todas, parecen charcos de fango residual, con un hedor equiparable. Dejan rastros de babas nocivas tras de sí, haciendo fácil (aunque vomitivo) seguirlos.\n\nRabia 3, Gnosis 5, Fuerza de Voluntad 9, Esencia 17-40. Encantamientos: Terremoto Umbral.",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "3",
+      "gnosis": "5",
+      "willpower": "9",
+      "essence": "17-40",
+      "charms": "Terremoto Umbral"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "h-rugglinos-fango",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "wakshaani-toxinas",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Wakshaani (Toxinas)",
+    "name_es": "Wakshaani (Toxinas)",
+    "body_es": "Parecen capas de fluido púrpura con manchas, venas y verrugas burbujeantes que mutan y se mueven continuamente. Cuando atacan, los Wakshaani se encabritan y se derraman sobre su presa como velas al viento.\n\nRabia 7, Gnosis 7, Fuerza de Voluntad 3, Esencia 17-40. Encantamientos: Inundación, Toque de Plaga.",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "7",
+      "gnosis": "7",
+      "willpower": "3",
+      "essence": "17-40",
+      "charms": "Inundación, Toque de Plaga"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "wakshaani-toxinas",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "aranas-de-la-urdimbre",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Arañas de la Urdimbre",
+    "name_es": "Arañas de la Urdimbre",
+    "body_es": "Las Arañas de la Urdimbre son los sirvientes más numerosos de la Tejedora y aquéllos con los que es más habitual encontrarse. Estos espíritus son arácnidos metálicos del tamaño de un gato doméstico, con entre ocho y dieciséis patas de múltiples articulaciones. Existen para tejer la siempre creciente Urdimbre que encerrará al mundo en estasis. Aunque son principalmente trabajadoras, se sabe que las Arañas de la Urdimbre han formado enjambres para combatir a los que atacan sus redes, calcificando al atacante para toda la eternidad.\n\nMuchos otros tipos de espíritus arácnidos sirven a la Tejedora y la mayoría evolucionan a partir de las Arañas de la Urdimbre. Cada uno tiene su propio propósito específico y trabaja para cumplirlo hasta excluir todo lo demás. Si se la interrumpe, una araña de la Tejedora lidiará de forma eficiente con la distracción e inmediatamente volverá a su tarea.\n\nRabia 4, Gnosis 6, Fuerza de Voluntad 6, Esencia 16. Encantamientos: [Calcificar](/werewolf/gifts/ananasi-viskr-calcify).",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "4",
+      "gnosis": "6",
+      "willpower": "6",
+      "essence": "16",
+      "charms": "Calcificar"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "aranas-de-la-urdimbre",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "charms": "<a href=\"/werewolf/gifts/ananasi-viskr-calcify\">Calcificar</a>"
+    }
+  },
+  {
+    "id": "aranas-de-la-red",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Arañas de la Red",
+    "name_es": "Arañas de la Red",
+    "body_es": "En las profundidades del corazón del reino informático de la Umbra, residen las Arañas de la Red, los instrumentos de la Tejedora para cuidar de la creciente masa de información que se ha confiado a Internet. Aunque originalmente era infrecuente encontrárselas en la Penumbra, el vasto número de aparatos con acceso a Internet ha traído al mundo a cientos de Arañas de la Red.\n\nCon el tiempo suficiente, las Arañas de la Red son capaces de descubrir cualquier dato en un aparato conectado a una red. Sólo pueden viajar mediante puntos de transmisión de datos como líneas telefónicas, redes de cables, redes inalámbricas y comunicaciones móviles. Muchas tienen sus nidos en computadoras con software de seguridad y monitorización activo.\n\ncosas peores. Cualquier arma tecnológica imaginable puede aparecer en uno de estos monstruos. Huelen a petróleo fresco y metal caliente.\n\nLas [Arañas Cazadoras](/werewolf/banes/aranas-cazadoras) actúan en unidades de dos, tres, cinco o siete individuos, extrayendo poder del número primo. Cada unidad opera como una mente colmena, con una única inteligencia que las controla, proporcionando una coordinación perfecta a las arañas individuales. En batalla, una unidad de [Arañas Cazadoras](/werewolf/banes/aranas-cazadoras) llevará a cabo un ataque tras otro de forma continua, siempre en completo [silencio](/werewolf/gifts/camazotz-silence).\n\nRabia 10, Gnosis 6, Fuerza de Voluntad 8, Esencia 24. Encantamientos: Estallido (rayos), Materializarse, Rastrear.",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "10",
+      "gnosis": "6",
+      "willpower": "8",
+      "essence": "24",
+      "charms": "Estallido (rayos), Materializarse, Rastrear"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "aranas-de-la-red",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "aranas-cazadoras",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Arañas Cazadoras",
+    "name_es": "Arañas Cazadoras",
+    "body_es": "La Tejedora necesita con frecuencia asesinos eficientes y para tal fin emplea a las Arañas Cazadoras. Estos espíritus tienen la apariencia de criaturas mecánicas de múltiples patas hechas de acero negro mate. Sus ocho ojos brillan en azul eléctrico y les proporcionan campo de visión de 360 grados. La los miembros de la Cazadora termiterribles: cuchillas monomoleculáser, lanzallamas, armas automá- y el Kaos lo que la mancha de la radiación es para el Wyrm: el puro poder bruto de la reacción interminable. La profundidad de los conocimientos de estos espíritus acrecienta su misterio: entienden mucho del Wyrm y de la estructura básica del universo, ya que su especie existía al principio de todas las cosas (aunque yació durmiente hasta que la humanidad liberó el poder del corazón del átomo).\n\n<!-- image -->\n\n<!-- image -->\n\nLos Moradores del Cristal a veces consultan a los [Espíritus Atómicos](/werewolf/banes/espiritus-atomicos) (el término 'elemental nuclear' no ha cuajado aún entre los viajeros de la Umbra) y ellos responden de manera breve y fáctica. La ayuda de los [Espíritus Atómicos](/werewolf/banes/espiritus-atomicos) suele requerir un pago por adelantado: la destrucción del reactor que los atrapa en un único lugar.\n\nRabia 5, Gnosis 10, Fuerza de Voluntad 10, Esencia 25 (incrementa con la proximidad a una reacción nuclear).\n\nEncantamientos: Crear Fuego, Estallido Atómico (como Estallido, pero causa dos niveles de daño agravado por éxito), Materializarse, Romper Realidad.",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "5",
+      "gnosis": "10",
+      "willpower": "10",
+      "essence": "25",
+      "charms": "Crear Fuego, Estallido Atómico (como Estallido, pero causa dos niveles de daño agravado por éxito), Materializarse, Romper Realidad"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "aranas-cazadoras",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "monitores-de-caos",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Monitores de Caos",
+    "name_es": "Monitores de Caos",
+    "body_es": "Estos poderosos pero cada vez más escasos espíritus sirven a la Tejedora como tropas de choque. Los Monitores de Caos, que recuerdan mucho a gigantescos escorpiones de cristal con múltiples patas, a veces se abren paso por la fuerza hasta la Penumbra y trabajan para destruir cualquier cosa que no encaje en la visión de la realidad estática de la Tejedora. Los Moradores del Cristal creen que los Monitores son la respuesta final de la Tejedora a la posibilidad de que el Kaos pueda resurgir.\n\nCuando estos espíritus se Materializan, defienden las creaciones de la Tejedora destruyendo aquello que las dañe. Su entrada en el reino físico no es sutil y puede provocar puntos débiles en la Celosía. Algunos Garou herejes aseguran que así es como se crearon los primeros Túmulos, pero la mayoría se burla ante esa idea o los tacha de traidores. Estos espíritus de destrucción están sucumbiendo lentamente ante el Wyrm; varias manadas han informado de Monitores de Caos con caparazones ennegrecidos y vidriados y la evidente mancha del Wyrm.\n\nRabia 10, Gnosis 9, Fuerza de Voluntad 7, Esencia 26. Encantamientos: [Calcificar](/werewolf/gifts/ananasi-viskr-calcify), Curación, Estática Espiritual, Materializarse.",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "10",
+      "gnosis": "9",
+      "willpower": "7",
+      "essence": "26",
+      "charms": "Calcificar, Curación, Estática Espiritual, Materializarse"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "monitores-de-caos",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "charms": "<a href=\"/werewolf/gifts/ananasi-viskr-calcify\">Calcificar</a>, Curación, Estática Espiritual, Materializarse"
+    }
+  },
+  {
+    "id": "vectores-de-estasis",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Vectores de Estasis",
+    "name_es": "Vectores de Estasis",
+    "body_es": "Aunque los Vectores de Estasis han aparecido únicamente en los últimos tiempos, es probable que cualquier Garou que haya sobrevivido a un encuentro con uno desee que permanezcan en el reino de las [pesadillas](/werewolf/flaws/pesadillas). Pese a que los Garou sólo pueden confirmar un puñado de encuentros con ellos, es de esperar que haya más en el futuro.\n\nUn Vector de Estasis impone el demente impulso de la Tejedora por [calcificar](/werewolf/gifts/ananasi-viskr-calcify) toda la realidad. Uno de estos espíritus puede obligar a todo lo que lo rodea a mantener un estado estático. Cuanto más tiempo actúe el espíritu, más difícil se vuelve cambiar nada en torno a él. Los espíritus de la Tejedora despliegan Vectores de Estasis cerca de los lugares y seres vinculados fuertemente al Kaos. Aparecen únicamente en respuesta a una poderosa disrupción en la Teluria. Son enviados a detener el problema y reparar cualquier daño en la fábrica de la realidad.\n\nLos Vectores de Estasis son Geómidos evolucionados. Poseen formas extremadamente complejas que rotan de maneras inverosímiles y drenan todo el caos posible de su entorno. Su aroma es destacable sólo porque carecen por completo de uno identificable. De hecho, el uso de sus Encantamientos tiende a eliminar todos los olores del área afectada (ya que son simples impurezas en el aire). En todo caso, el olor de un Vector o de cualquier cosa que éste haya tocado producirá al Garou una sensación de completa esterilidad.\n\nLos Vectores de Estasis suelen operar junto con [Arañas Cazadoras](/werewolf/banes/aranas-cazadoras) u otros espíritus de la Tejedora orientados al ataque. Congelan todo mientras las arañas destruyen lo que esté causando las disrupciones. Una vez que han reparado las disrupciones y eliminado la causa, se marchan.\n\nRabia 6, Gnosis 10, Fuerza de Voluntad 10, Esencia 26. Encantamientos: [Calcificar](/werewolf/gifts/ananasi-viskr-calcify), Estasis*, Materializarse.\n\n- Estasis: Estasis puede impedir el uso de otros Poderes sobrenaturales (aunque el espíritu debe seleccionar como objetivo cada Poder de forma individual). El Poder simplemente falla o se desactiva, después permanece inaccesible durante un número de turnos igual al número de éxitos en la tirada de Fuerza de Voluntad del espíritu (la dificultad es igual a la Fuerza de Voluntad de la víctima). Si el Vector de Estasis no obtiene éxitos, el Poder sigue funcionando.\n\nSi se obtiene éxito en una tirada de Gnosis (dificultad 8), este Encantamiento puede forzar a una o a todas las criaturas en un radio de 9 metros (30 pies) a volver a su forma natural (los Garou vuelven a sus Formas de Raza, los espíritus que han cambiado de forma revierten a su auténtica forma, etc.). Este uso de Estasis también elimina cualquier Don que pueda alterar la Forma de un Garou. Dura un turno.\n\nRealizar una tirada de Fuerza de Voluntad con éxito, permite al Vector utilizar el Encantamiento para aumentar la puntuación de la Celosía hasta un máximo de 10. La puntuación se incrementa en uno por cada dos éxitos y los efectos duran toda una escena.\n\nPor último, gastando un punto de Esencia por hora, un Vector de Estasis elimina todas las imperfecciones, signos de decadencia e irregularidades en torno a él. Las plantas dejan de crecer, el viento disminuye y las criaturas vivas caen lentamente en hibernación. En la Umbra, los [Vectores](/werewolf/banes/vectores) tejen una siempre creciente red de estasis a su alrededor y todo lo que atrapan simplemente deja de cambiar. Cada hora, el área afectada se expande de forma gradual (a discreción del Narrador). Por cada dos horas que el espíritu mantenga el efecto, la puntuación de la Celosía se incrementa en uno. Después de que un Vector de Estasis deje de mantener el Poder, éste disminuye a ritmo diario, perdiendo el mismo incremento de volumen cada día, y la puntuación de la Celosía disminuye en un punto cada dos días hasta que se recuperen las condiciones previas.",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "6",
+      "gnosis": "10",
+      "willpower": "10",
+      "essence": "26",
+      "charms": "Calcificar, Estasis*, Materializarse"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "vectores-de-estasis",
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "charms": "<a href=\"/werewolf/gifts/ananasi-viskr-calcify\">Calcificar</a>, Estasis*, Materializarse"
+    }
+  },
+  {
+    "id": "ecos",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Ecos",
+    "name_es": "Ecos",
+    "body_es": "Todo especie animal que se haya extinguido genera un Eco: la semilla del Kaos que creó a esa criatura. Cada Eco parece una pareja idealizada de la criatura extinta, un macho y una hembra. Los Ecos, rara vez vistos fuera de un distante reino de la Umbra poblado exclusivamente por razas extintas, actúan como poderosos recordatorios de lo que está en juego en la lucha de los Garou. Cada especie perdida es un trozo del Kaos, pero cada cual está conectada con los recuerdos raciales de todas las especies, convirtiéndolas en fuentes de conocimiento. [Grifo](/werewolf/totems/griffin) suele caminar por el Reino de los Ecos, llevando la cuenta de las razas perdidas y avivando su increíble rabia.\n\nRabia 1, Gnosis 4, Fuerza de Voluntad 5, Esencia 10-15. Encantamientos: Armadura, Rastrear, Sentido del Reino.",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "1",
+      "gnosis": "4",
+      "willpower": "5",
+      "essence": "10-15",
+      "charms": "Armadura, Rastrear, Sentido del Reino"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "ecos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "serpentinos",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Serpentinos",
+    "name_es": "Serpentinos",
+    "body_es": "Los Serpentinos son serpientes sanadoras, conocidas tanto por los antiguos griegos como por los nativos americanos. Tienen la apariencia de dos serpientes brillantes que se enredan la una en la otra (un espíritu en dos cuerpos) y pueden curar incluso las más virulentas plagas engendradas por el Wyrm. Esto las hace muy apreciadas entre los Garou. Algunas manadas se aventuran a lo profundo de los reinos del Kaos para encontrar una cura para un amigo o un aliado afligido (o un [enemigo](/werewolf/flaws/enemigo) chantajista).\n\nRabia 1, Gnosis 8, Fuerza de Voluntad 4, Esencia 13-20. Encantamientos: Curación, Materializarse, Sentido del Reino, Sanar.\n\n- Sanar: El Encantamiento Sanar permite a un espíritu curar enfermedades de forma muy similar a como el Encantamiento Curación sana heridas. El Narrador tira la Gnosis del espíritu contra una dificultad que depende de la enfermedad. La dificultad de una enfermedad normal es 4; la de una enfermedad mortal 7, la de una enfermedad que suele ser incurable 8 y la de una plaga sobrenatural 9. Ten en cuenta que el vampirismo es un estado del ser, no una enfermedad.",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "1",
+      "gnosis": "8",
+      "willpower": "4",
+      "essence": "13-20",
+      "charms": "Curación, Materializarse, Sentido del Reino, Sanar"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "serpentinos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "vectores",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Vectores",
+    "name_es": "Vectores",
+    "body_es": "Los Vectores son espíritus conceptuales, semejantes a otros que habitan la Umbra Alta. Como espíritus de movimiento, los Vectores parecen rayos de luz. Aunque pueden ralentizarse hasta un ritmo de paseo, estos espíritus odian tan lentísimas velocidades. Prefieren moverse tan rápido como puedan (lo cual es una velocidad considerable). Hablarán con los viajeros de la Umbra, pero sólo si el Garou puede seguirle el ritmo al Vector a toda velocidad. Algunos Caminantes Silenciosos aprenden Dones de viaje y velocidad de los Vectores. Sus periplos han hecho que estos volubles espíritus acumulen una gran cantidad de información sobre la Umbra, pero conseguirla puede ser difícil.\n\nRabia 2, Gnosis 6, Fuerza de Voluntad 9, Esencia 17-30. Encantamientos: Materializarse, Vuelo Raudo.",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "2",
+      "gnosis": "6",
+      "willpower": "9",
+      "essence": "17-30",
+      "charms": "Materializarse, Vuelo Raudo"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "vectores",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "arenas-del-tiempo",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Arenas del Tiempo",
+    "name_es": "Arenas del Tiempo",
+    "body_es": "Las Arenas del Tiempo, turbulentas nubes de arena, son espíritus conceptuales que reflejan la encarnación del Kaos en la forma del mismo tiempo. La Tejedora congelaría la realidad en un único instante, el Wyrm sencillamente pondría fin a todo, pero el Kaos siempre empuja las cosas hacia delante, hacia el cambio y la variación. Las Arenas del Tiempo se encuentran entre los espíritus más antiguos del Kaos y son unos de los más raros. Ancestrales Theurge solían usar a estos espíritus para ayudar al crecimiento de las cosechas de su [Parentela](/werewolf/backgrounds/kinfolk), mientras que los pocos Garou actuales que saben de ellos quieren recurrir a estos espíritus para convertir el propio tiempo en un arma contra el Wyrm.\n\nRabia 7, Gnosis 6, Fuerza de Voluntad 5, Esencia 18-30.\n\nEncantamientos Envejecer Realidad, Materializarse, Sentido del Reino.\n\n- Envejecer Realidad: Este Encantamiento funciona de forma muy similar a Romper Realidad, pero sus efectos se restringen a envejecer. En lugar de sólo crear una puerta en un muro, una Arena del Tiempo puede provocar que el muro se pudra de viejo.",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "7",
+      "gnosis": "6",
+      "willpower": "5",
+      "essence": "18-30"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "arenas-del-tiempo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "tornados",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Tornados",
+    "name_es": "Tornados",
+    "body_es": "Los Tornados, agentes del caos puro, antiguamente existían para tomar los restos de las cosas destruidas por el Wyrm y convertirlas en algo nuevo y diferente. Con el Wyrm atrapado y enloquecido por la Tejedora, estos espíritus han perdido su razón de ser. Ahora, poco más que torbellinos de energía creativa, los Tornados deambulan entrando y saliendo de la Umbra. Estos espíritus son responsables de fenómenos forteanos al transportar gente a través de medio mundo o provocar lluvias de fresadoras de colores estridentes. Los Tornados no son espíritus contra los que los Garou puedan luchar: es más un desastre natural al que se le ha dado forma,\n\nalgo para que los Garou lo observen y lidien con ello.\n\nRabia 8, Gnosis 9, Fuerza de Voluntad 8, Esencia 27-50.\n\nRomper Realidad. Los Tornados cambian a cada segundo que pasa, y pueden manifestar cualquier Encantamiento en cualquier momento, incluso Encantamientos habitualmente restringidos a los espíritus\n\nEncantamientos: de la Tejedora o el Wyrm.",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "8",
+      "gnosis": "9",
+      "willpower": "8",
+      "essence": "27-50",
+      "charms": "de la Tejedora o el Wyrm"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "tornados",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "vortices",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Vórtices",
+    "name_es": "Vórtices",
+    "body_es": "Entre los espíritus del Kaos más poderosos, los Vórtices son los espíritus del cambio constante. Los Vórtices parecen una enorme implosión de materia sólida, líquida y gaseosa mezclada con ardiente plasma, en un movimiento giratorio y retorcido constante. Es difícil mirar a un Vórtice mucho tiempo antes de sufrir dolores de cabeza intensos y alucinaciones. Tanto Garou como espíritus temen y respetan a los Vórtices y tratan de mantenerse fuera de su camino.\n\nLos Vórtices solían frecuentar el mundo físico, pero se han ido retirando a la Umbra profunda a medida que la Tejedora ha ido fortaleciendo su influencia sobre la realidad. En el mejor de los casos, son caprichosos e impredecibles, e incomprensibles en su actitud.\n\nUn Vórtice personifica todas las posibilidades y probabilidades. Por tanto, sus ataques infligen daño agravado que no puede absorberse.\n\nRabia 8, Gnosis 10, Fuerza de Voluntad 8, Esencia 26-80. Encantamientos: Cambio de Aspecto, Desorientar, Materializarse, Romper Realidad.",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "8",
+      "gnosis": "10",
+      "willpower": "8",
+      "essence": "26-80",
+      "charms": "Cambio de Aspecto, Desorientar, Materializarse, Romper Realidad"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "vortices",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "los-sin-nombre",
+    "type": "bane",
+    "line": "werewolf",
+    "name_en": "Los Sin Nombre",
+    "name_es": "Los Sin Nombre",
+    "body_es": "Los Sin Nombre son figuras sin forma en constante flujo. Ondulan con las corrientes subterráneas del caos en el mundo. Su tamaño cambia de un segundo a otro, de tan pequeño como una persona a grande como una casa. El Kaos creó muchos de los Sin Nombre en respuesta al demente impulso de la Tejedora por nombrarlo todo. Como tal, tienen el poder de la posibilidad en bruto (y la capacidad de arrebatar el nombre a otra criatura, deshaciéndola). Por suerte, los Sin Nombre son bastante escasos hasta para los espíritus del Kaos; sólo se sabe de la existencia de un puñado de ellos en los más profundos confines de la Umbra. Aunque podrían ser bombas nucleares tácticas para la causa de los Garou, los Sin Nombre no piensan a nivel que otros seres puedan comprender. Tratar de entenderlos implica volverse permanentemente loco, dar órdenes a uno es absurdo. Algunos hombres lobo creen que el estallido de Tunguska fue la última vez que un Sin Nombre usó su habilidad para arrebatar el nombre a una poderosa Perdición.\n\nRabia 10, Gnosis 9, Fuerza de Voluntad 9, Esencia 30. Encantamientos: Todos los Encantamientos que no sean ni de la Tejedora ni del Wyrm, Tomar el Nombre*.\n\n- Tomar el Nombre: El Poder definitivo de los Sin Nombre: mediante él despojan de su nombre a una entidad, desatando las fuerzas espirituales internas que mantienen unida a una criatura. Romper el componente espiritual de una criatura libera gran cantidad de energía espiritual, de forma muy similar a cómo una reacción nuclear libera la energía confinada en un átomo. El resultado es una impresionante explosión tanto en el plano físico como en el espiritual. El Sin Nombre gasta toda su Esencia y el Narrador tira todos esos dados contra a la Fuerza de Voluntad del objetivo. Si el objetivo obtiene más éxitos, no pasa nada y el Sin Nombre perece. Si el Sin Nombre obtiene más éxitos, muere en el proceso de eliminar el nombre de su objetivo, provocando un estallido equivalente a una detonación atómica. Todo el mundo en la zona circundante muere de forma casi instantánea y los efectos pueden sentirse a cientos de kilómetros.",
+    "tags": [
+      "perdición",
+      "wyrm"
+    ],
+    "mechanics": {
+      "rage": "10",
+      "gnosis": "9",
+      "willpower": "9",
+      "essence": "30",
+      "charms": "Todos los Encantamientos que no sean ni de la Tejedora ni del Wyrm, Tomar el Nombre*"
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "los-sin-nombre",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
     "id": "craftsman-monkey-blessing",
     "type": "gift",
     "line": "werewolf",
@@ -7171,7 +8229,7 @@
     "line": "werewolf",
     "name_en": "Totem Gift",
     "name_es": "Don del Tótem",
-    "body_es": "Los Metis son Garou desde su nacimiento, y sus lazos con el espíritu que guía a su Tribu son profundos. El Metis puede suplicar poder a su [Tótem](/werewolf/backgrounds/totem) tribal, con efectos que varían de una Tribu a otra. Rata podría mandar un enjambre de roedores a atacar a los enemigos del hombre lobo, mientras que [Abuelo Trueno](/werewolf/totems/grandfather-thunder) podría mandar relámpagos para apartar de un golpe obstáculos y oponentes. El potencial de este Don depende del [favor](/werewolf/merits/favor) del [Tótem](/werewolf/backgrounds/totem), y puede extenderse hasta lo milagroso. Sólo el [Tótem](/werewolf/backgrounds/totem) tribal enseña este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Carisma + Rituales (dificultad 7). A mayor número de éxitos, más dramática es la ayuda concedida. Un éxito podría causar una distracción menor, mientras que 10 éxitos podrían provocar erupciones volcánicas o tornados que arrasarían países.",
+    "body_es": "Los Metis son Garou desde su nacimiento, y sus lazos con el espíritu que guía a su Tribu son profundos. El Metis puede suplicar poder a su [Tótem](/werewolf/backgrounds/totem) tribal, con efectos que varían de una Tribu a otra. Rata podría mandar un enjambre de roedores a atacar a los enemigos del hombre lobo, mientras que [Abuelo Trueno](/werewolf/totems/grandfather-thunder) podría mandar relámpagos para apartar de un golpe obstáculos y oponentes. El potencial de este Don depende del [favor](/werewolf/merits/favor) del [Tótem](/werewolf/backgrounds/totem), y puede extenderse hasta lo milagroso. Sólo el [Tótem](/werewolf/backgrounds/totem) tribal enseña este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Carisma + Rituales (dificultad 7). A mayor número de éxitos, más dramática es la ayuda concedida. Un éxito podría causar una distracción menor, mientras que 10 éxitos podrían provocar erupciones volcánicas o [tornados](/werewolf/banes/tornados) que arrasarían países.",
     "tags": [
       "don",
       "Metis"
@@ -7192,7 +8250,10 @@
         "section_anchor": "dones-de-nivel-seis",
         "variant": "base"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "system_es": "El jugador gasta un punto de Gnosis y tira Carisma + Rituales (dificultad 7). A mayor número de éxitos, más dramática es la ayuda concedida. Un éxito podría causar una distracción menor, mientras que 10 éxitos podrían provocar erupciones volcánicas o <a href=\"/werewolf/banes/tornados\">tornados</a> que arrasarían países."
+    }
   },
   {
     "id": "protean-form",
@@ -17782,7 +18843,7 @@
     "line": "werewolf",
     "name_en": "Summon the Storm Spirits",
     "name_es": "Invocar a los Espíritus de la Tormenta",
-    "body_es": "El Garou puede invocar casi cualquier efecto meteorológico que desee: niebla, tornados, ventiscas, tormentas eléctricas, etc. Todas ellas aguardan su llamada. Un avatar de Gran [Wendigo](/werewolf/totems/wendigo-totem) enseña este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Fuerza de Voluntad (la dificultad varía dependiendo cuán cercano sea el efecto deseado a los patrones meteorológicos actuales de la zona). La tormenta cubre 16 kilómetros (10 millas) por éxito. Si el Garou invoca una tormenta eléctrica, puede gastar Gnosis para lanzar rayos a sus enemigos (Astucia + Ocultismo para golpear, 10 dados de daño agravado).",
+    "body_es": "El Garou puede invocar casi cualquier efecto meteorológico que desee: niebla, [tornados](/werewolf/banes/tornados), ventiscas, tormentas eléctricas, etc. Todas ellas aguardan su llamada. Un avatar de Gran [Wendigo](/werewolf/totems/wendigo-totem) enseña este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Fuerza de Voluntad (la dificultad varía dependiendo cuán cercano sea el efecto deseado a los patrones meteorológicos actuales de la zona). La tormenta cubre 16 kilómetros (10 millas) por éxito. Si el Garou invoca una tormenta eléctrica, puede gastar Gnosis para lanzar rayos a sus enemigos (Astucia + Ocultismo para golpear, 10 dados de daño agravado).",
     "tags": [
       "don",
       "wendigo",
@@ -19902,7 +20963,7 @@
     "line": "werewolf",
     "name_en": "D'siah",
     "name_es": "D'siah",
-    "body_es": "El d'siah, un [cuchillo](/werewolf/weapons/cuchillo) con una hoja de sílex curvada como un cuarto de Luna, es el arma distintiva de los Caminantes Silenciosos. Su afilado filo exterior se usa para ataques fulminantes, mientras que la punta puede usarse para acuchillar y rasgar en el contraataque. Debido a que se requiere habilidad y entrenamiento para usar correctamente este [cuchillo](/werewolf/weapons/cuchillo), la dificultad para atacar con él es de 7. Inflige daño igual a Fuerza. El espíritu de guerra vinculado a la hoja, normalmente uno de la prole de Cobra, es algo más sagaz que los espíritus habitualmente vinculados a los klaives: un d'siah hace daño agravado sólo a las criaturas manchadas por el Wyrm (usa las mismas directrices que con el Don [Sentir al Wyrm](/werewolf/gifts/sense-wyrm)) y a cualquier tipo de espíritu. Además, tras un golpe con éxito, el Caminante puede activar el d'siah para que drene un punto de Gnosis de su oponente (o un punto de Esencia si se trata de un espíritu). Dado que esto requiere una tirada de Gnosis, el hombre lobo no puede usar esta habilidad del [cuchillo](/werewolf/weapons/cuchillo) el mismo turno que gasta Rabia para realizar acciones adicionales. La gran fortaleza del d'siah apunta a los mayores enemigos de los Caminantes: los vampiros egipcios y sus serpentinos secuaces. El espíritu cobra de la hoja arremete violentamente contra sus corruptos reflejos, infligiendo Fuerza +3 de daño agravado.",
+    "body_es": "El d'siah, un [cuchillo](/werewolf/weapons/cuchillo) con una hoja de sílex curvada como un cuarto de Luna, es el arma distintiva de los Caminantes Silenciosos. Su afilado filo exterior se usa para ataques fulminantes, mientras que la punta puede usarse para acuchillar y rasgar en el contraataque. Debido a que se requiere habilidad y entrenamiento para usar correctamente este [cuchillo](/werewolf/weapons/cuchillo), la dificultad para atacar con él es de 7. Inflige daño igual a Fuerza. El espíritu de guerra vinculado a la hoja, normalmente uno de la prole de Cobra, es algo más sagaz que los espíritus habitualmente vinculados a los klaives: un d'siah hace daño agravado sólo a las criaturas manchadas por el Wyrm (usa las mismas directrices que con el Don [Sentir al Wyrm](/werewolf/gifts/sense-wyrm)) y a cualquier tipo de espíritu. Además, tras un golpe con éxito, el Caminante puede activar el d'siah para que drene un punto de Gnosis de su oponente (o un punto de Esencia si se trata de un espíritu). Dado que esto requiere una tirada de Gnosis, el hombre lobo no puede usar esta habilidad del [cuchillo](/werewolf/weapons/cuchillo) el mismo turno que gasta Rabia para realizar acciones adicionales. La gran fortaleza del d'siah apunta a los mayores enemigos de los Caminantes: los vampiros egipcios y sus [serpentinos](/werewolf/banes/serpentinos) secuaces. El espíritu cobra de la hoja arremete violentamente contra sus corruptos reflejos, infligiendo Fuerza +3 de daño agravado.",
     "tags": [
       "fetiche",
       "arma"
@@ -22068,7 +23129,7 @@
     "line": "werewolf",
     "name_en": "Impaler's Horns",
     "name_es": "Cornamenta del Empalador",
-    "body_es": "Dota al Danzante de quitinosos cuernos espirales que brotan de su deforme cabeza. Que adopten la apariencia de los cuernos de un carnero o la de una enorme cornamenta de cérvido depende del Drattosi que enseña el Don.\n\nSistema: Estos cuernos pueden infligir el mismo daño que un ataque de mordisco (Fuerza +2). Pueden usarse dos veces por turno, pero el atacante no necesita dividir su reserva de dados. Alternativamente, el Danzante puede provocar más daño a su oponente (Fuerza +5), pero esto requiere primero de una carrera de al menos 3 metros (10 pies) y no es posible efectuar ningún otro ataque ese turno.",
+    "body_es": "Dota al Danzante de quitinosos cuernos espirales que brotan de su deforme cabeza. Que adopten la apariencia de los cuernos de un carnero o la de una enorme cornamenta de cérvido depende del [Drattosi](/werewolf/banes/drattosi) que enseña el Don.\n\nSistema: Estos cuernos pueden infligir el mismo daño que un ataque de mordisco (Fuerza +2). Pueden usarse dos veces por turno, pero el atacante no necesita dividir su reserva de dados. Alternativamente, el Danzante puede provocar más daño a su oponente (Fuerza +5), pero esto requiere primero de una carrera de al menos 3 metros (10 pies) y no es posible efectuar ningún otro ataque ese turno.",
     "tags": [
       "don",
       "danzantes-de-la-espiral-negra",
@@ -22978,7 +24039,7 @@
     "line": "werewolf",
     "name_en": "Halassh",
     "name_es": "Halassh",
-    "body_es": "Los Halassh, duras tropas de choque del Wyrm, son asesinos directos. Tanto Pentex como los Danzantes de la Espiral Negra hacen uso habitual de ellos como matones espirituales; no valen para mucho más, pero con que sirvan como músculo es suficiente. Los Halassh rara vez tratan de manifestarse a menos que se les invite a hacerlo; prefieren cazar a otros espíritus, desdeñando a las presas mortales.\n\nRabia 8, Gnosis 2, Fuerza de Voluntad 8, Esencia 18. Encantamientos: Armadura, Disolución*, Materializarse, [Sentir Trochas](/werewolf/gifts/sense-trails).\n\n* Disolución: La Perdición puede gastar un punto de Esencia cuando ataca a un objetivo para cubrir sus garras o colmillos con un espantoso ácido espiritual. La dificultad para absorber tal ataque es 9.\n\nImagen: Los Halassh son inmensos [terrores](/werewolf/gifts/terrors) de hombros anchos y cráneo al descubierto con gigantescas garras y colmillos y unos salvajes ojos saltones. Su pálido pellejo parece picado por ácido y son casi tan altos como un Garou en Crinos.\n\nTrasfondo: Los Halassh son espíritus de potentes corrosivos vertidos de forma irresponsable. Pentex persuade a los espíritus para que guarden sus instalaciones mediante vertidos al azar de productos químicos peligrosos; los Danzantes de la Espiral Negra sencillamente invocan y atan a estas cosas. Los espíritus no tienen unos objetivos concretos; sencillamente odian todo lo que es puro y buscan destrozarlo con sus garras y colmillos.\n\nPautas de interpretación: Los Halassh son tropas de asalto pesadas comparadas con la 'infantería estándar' de los Cadavéricos. Existen para proporcionar desafíos de combate (nada más y nada menos) aunque las terribles heridas que infligen también pueden suponer un desafío para los sanadores de la Nación Garou.",
+    "body_es": "Los Halassh, duras tropas de choque del Wyrm, son asesinos directos. Tanto Pentex como los Danzantes de la Espiral Negra hacen uso habitual de ellos como matones espirituales; no valen para mucho más, pero con que sirvan como músculo es suficiente. Los Halassh rara vez tratan de manifestarse a menos que se les invite a hacerlo; prefieren cazar a otros espíritus, desdeñando a las presas mortales.\n\nRabia 8, Gnosis 2, Fuerza de Voluntad 8, Esencia 18. Encantamientos: Armadura, Disolución*, Materializarse, [Sentir Trochas](/werewolf/gifts/sense-trails).\n\n* Disolución: La Perdición puede gastar un punto de Esencia cuando ataca a un objetivo para cubrir sus garras o colmillos con un espantoso ácido espiritual. La dificultad para absorber tal ataque es 9.\n\nImagen: Los Halassh son inmensos [terrores](/werewolf/gifts/terrors) de hombros anchos y cráneo al descubierto con gigantescas garras y colmillos y unos salvajes ojos saltones. Su pálido pellejo parece picado por ácido y son casi tan altos como un Garou en Crinos.\n\nTrasfondo: Los Halassh son espíritus de potentes corrosivos vertidos de forma irresponsable. Pentex persuade a los espíritus para que guarden sus instalaciones mediante vertidos al azar de productos químicos peligrosos; los Danzantes de la Espiral Negra sencillamente invocan y atan a estas cosas. Los espíritus no tienen unos objetivos concretos; sencillamente odian todo lo que es puro y buscan destrozarlo con sus garras y colmillos.\n\nPautas de interpretación: Los Halassh son tropas de asalto pesadas comparadas con la 'infantería estándar' de los [Cadavéricos](/werewolf/banes/cadavericos). Existen para proporcionar desafíos de combate (nada más y nada menos) aunque las terribles heridas que infligen también pueden suponer un desafío para los sanadores de la Nación Garou.",
     "tags": [
       "perdición",
       "wyrm"
@@ -23315,7 +24376,7 @@
     "line": "werewolf",
     "name_en": "Hijos de Tifón",
     "name_es": "Hijos de Tifón",
-    "body_es": "Los Hijos de Tifón son engendrados a partir de novatadas depravadas de la fraternidad Tau Ípsilon Fi en los campus universitarios de EE.UU. Pasan el tiempo en la universidad bebiendo en exceso, saltándose clases y consumiendo drogas y alcohol para tener sexo. También aprenden los matices de la manipulación social del sistema de fraternidades, y crean importantes [contactos](/werewolf/backgrounds/contacts) en sociedades secretas. Aunque los hermanos suelen competir unos contra otros por las posiciones más altas dentro de la fraternidad, se enfrentan a cualquier foráneo que haga un movimiento contra ella como un frente unido.\n\nLos Hijos de Tifón emplean el mínimo esfuerzo necesario para aprobar y suelen intentar entrar en los equipos deportivos para evitar ser expulsados. Al graduarse, los reclutadores de Pentex escogen a los mejores y más brillantes de la fraternidad para trabajos muy bien pagados, mientras otros encuentran su lugar en puestos más bajos. Una vez dentro de la compañía, se hacen con puestos de relaciones públicas y otros departamentos donde sus habilidades de manipulación social se aprovechan al máximo. Los graduados más atléticos suelen ser reclutados para Primeros Equipos, mientras que los que tienen inclinaciones predatorias a veces encuentran su lugar en los competidores de Pentex, preparándolos para una OPA hostil.\n\nAtributos: Fuerza 3, Destreza 3, Resistencia 4, Carisma 4, Manipulación 5, Apariencia 4, Percepción 2, Inteligencia 4, Astucia 3.\n\nHabilidades : Academicismo 2, Armas de Fuego 2, Atletismo 3, Informática 2, Conducir 2, [Empatía](/werewolf/gifts/empathy) 2, Etiqueta 3, Intimi dación 3, Liderazgo 3, Pelea 2, Pelea con Armas 1, Subterfugio 3.\n\nTrasfondos : [Aliados](/werewolf/backgrounds/allies) 3, [Contactos](/werewolf/backgrounds/contacts) 5, [Recursos](/werewolf/backgrounds/resources) 4. Poderes : Disfraz*, Inmunidad al Delirio, Lengua de Tifón*, Piel Blindada.\n\n* Disfraz: Los Hijos de Tifón pueden ocultar su verdadera apariencia. Tienen exactamente el aspecto que tenían antes de ser poseídos. También pueden retirar este disfraz si lo desean, pero rara vez lo hacen.\n\n* Lengua de Tifón: Como el Don Homínido [Persuasión](/werewolf/gifts/persuasion). Fuerza de Voluntad: 5.\n\nEquipo: Coche caro, pistola oculta, smart phone , tablet .\n\nImagen: Los Hijos de Tifón suelen tener el mismo aspecto que tenían cuando eran humanos. En su semblante real, sonríen literalmente de oreja a oreja, revelando afilados dientes. Sus ojos tienen pupilas rasgadas verticales y sus iris son verde esmeralda o rojo sangre.\n\nGénesis: Convertirse en un Hijo de Tifón requiere ser aceptado en la fraternidad Tau Ípsilon Fi, la cual se muestra tan atractiva como sea posible ante la población del campus. Los líderes de la fraternidad examinan las clases de novatos y reparten panfletos en los que hay mujeres atractivas abrazadas a los miembros. Las promesas de la fraternidad son simples: un lugar al que pertenecer, divertirse y acceso a todas las mujeres que un hombre pudiera necesitar.\n\nSin embargo, el proceso de selección es infernal. Una vez se selecciona a un miembro potencial para tenerle en consideración, la hermandad procede a destrozar su orgullo. Durante dos semanas, el solicitante es sometido a diversas formas de humillación y dolor que van desde sostener bolsas pesadas con los brazos estirados hasta que se le permite parar a abusos sexuales directos. Fallar muestra incapacidad para obedecer a la autoridad, algo que la fraternidad no aceptará. Los candidatos que fallan son golpeados y avergonzados de cualquier forma que los miembros consideren apropiado.\n\nLas dos semanas culminan en una rave . Las fiestas de T au Ípsilon Fi son legendarias y todos saben que sólo los mejores pueden entrar. Esto atrae mujeres a las que los miembros drogan para que así hagan todo lo que los hombres quieren. La fraternidad es lo bastante poderosa como para que sus miembros nunca se enfrenten a cargos de violación, normalmente culpando a las víctimas. Aunque las Perdiciones suelen [acechar](/werewolf/gifts/stalk) en torno a los edificios de la fraternidad, la rave de iniciación suele atraer un número mayor de lo habitual. Las Perdiciones buscan nuevos iniciados con los que fundirse en la orgía de placer y humillación, vinculándose con las almas recién depravadas de los que consiguen iniciarse.\n\nPautas de interpretación: El mundo es tu títere con el que jugar a placer. Adoras estar en lo alto en cada aspecto de tu vida. Cuanta más gente corre a tu alrededor y hace tu voluntad, mejor te sientes. Pero también entiendes la autoridad, y hasta que tú sostengas las riendas, respetarás y seguirás a aquéllos que las sostienen.",
+    "body_es": "Los Hijos de Tifón son engendrados a partir de novatadas depravadas de la fraternidad Tau Ípsilon Fi en los campus universitarios de EE.UU. Pasan el tiempo en la universidad bebiendo en exceso, saltándose clases y consumiendo drogas y [alcohol](/werewolf/equipments/alcohol) para tener sexo. También aprenden los matices de la manipulación social del sistema de fraternidades, y crean importantes [contactos](/werewolf/backgrounds/contacts) en sociedades secretas. Aunque los hermanos suelen competir unos contra otros por las posiciones más altas dentro de la fraternidad, se enfrentan a cualquier foráneo que haga un movimiento contra ella como un frente unido.\n\nLos Hijos de Tifón emplean el mínimo esfuerzo necesario para aprobar y suelen intentar entrar en los equipos deportivos para evitar ser expulsados. Al graduarse, los reclutadores de Pentex escogen a los mejores y más brillantes de la fraternidad para trabajos muy bien pagados, mientras otros encuentran su lugar en puestos más bajos. Una vez dentro de la compañía, se hacen con puestos de relaciones públicas y otros departamentos donde sus habilidades de manipulación social se aprovechan al máximo. Los graduados más atléticos suelen ser reclutados para Primeros Equipos, mientras que los que tienen inclinaciones predatorias a veces encuentran su lugar en los competidores de Pentex, preparándolos para una OPA hostil.\n\nAtributos: Fuerza 3, Destreza 3, Resistencia 4, Carisma 4, Manipulación 5, Apariencia 4, Percepción 2, Inteligencia 4, Astucia 3.\n\nHabilidades : Academicismo 2, Armas de Fuego 2, Atletismo 3, Informática 2, Conducir 2, [Empatía](/werewolf/gifts/empathy) 2, Etiqueta 3, Intimi dación 3, Liderazgo 3, Pelea 2, Pelea con Armas 1, Subterfugio 3.\n\nTrasfondos : [Aliados](/werewolf/backgrounds/allies) 3, [Contactos](/werewolf/backgrounds/contacts) 5, [Recursos](/werewolf/backgrounds/resources) 4. Poderes : Disfraz*, Inmunidad al Delirio, Lengua de Tifón*, Piel Blindada.\n\n* Disfraz: Los Hijos de Tifón pueden ocultar su verdadera apariencia. Tienen exactamente el aspecto que tenían antes de ser poseídos. También pueden retirar este disfraz si lo desean, pero rara vez lo hacen.\n\n* Lengua de Tifón: Como el Don Homínido [Persuasión](/werewolf/gifts/persuasion). Fuerza de Voluntad: 5.\n\nEquipo: Coche caro, pistola oculta, smart phone , tablet .\n\nImagen: Los Hijos de Tifón suelen tener el mismo aspecto que tenían cuando eran humanos. En su semblante real, sonríen literalmente de oreja a oreja, revelando afilados dientes. Sus ojos tienen pupilas rasgadas verticales y sus iris son verde esmeralda o rojo sangre.\n\nGénesis: Convertirse en un Hijo de Tifón requiere ser aceptado en la fraternidad Tau Ípsilon Fi, la cual se muestra tan atractiva como sea posible ante la población del campus. Los líderes de la fraternidad examinan las clases de novatos y reparten panfletos en los que hay mujeres atractivas abrazadas a los miembros. Las promesas de la fraternidad son simples: un lugar al que pertenecer, divertirse y acceso a todas las mujeres que un hombre pudiera necesitar.\n\nSin embargo, el proceso de selección es infernal. Una vez se selecciona a un miembro potencial para tenerle en consideración, la hermandad procede a destrozar su orgullo. Durante dos semanas, el solicitante es sometido a diversas formas de humillación y dolor que van desde sostener bolsas pesadas con los brazos estirados hasta que se le permite parar a abusos sexuales directos. Fallar muestra incapacidad para obedecer a la autoridad, algo que la fraternidad no aceptará. Los candidatos que fallan son golpeados y avergonzados de cualquier forma que los miembros consideren apropiado.\n\nLas dos semanas culminan en una rave . Las fiestas de T au Ípsilon Fi son legendarias y todos saben que sólo los mejores pueden entrar. Esto atrae mujeres a las que los miembros drogan para que así hagan todo lo que los hombres quieren. La fraternidad es lo bastante poderosa como para que sus miembros nunca se enfrenten a cargos de violación, normalmente culpando a las víctimas. Aunque las Perdiciones suelen [acechar](/werewolf/gifts/stalk) en torno a los edificios de la fraternidad, la rave de iniciación suele atraer un número mayor de lo habitual. Las Perdiciones buscan nuevos iniciados con los que fundirse en la orgía de placer y humillación, vinculándose con las almas recién depravadas de los que consiguen iniciarse.\n\nPautas de interpretación: El mundo es tu títere con el que jugar a placer. Adoras estar en lo alto en cada aspecto de tu vida. Cuanta más gente corre a tu alrededor y hace tu voluntad, mejor te sientes. Pero también entiendes la autoridad, y hasta que tú sostengas las riendas, respetarás y seguirás a aquéllos que las sostienen.",
     "tags": [
       "fomor",
       "wyrm"
@@ -23673,7 +24734,7 @@
     "line": "werewolf",
     "name_en": "A Thousand Teeth",
     "name_es": "Millar de Dientes",
-    "body_es": "Los dientes afilados son la marca distintiva del depredador definitivo, y los métodos de los Lobos del Wyrm se recrean en ello hasta el exceso. De la mandíbula de un hombre lobo que emplee este Don brotan docenas de dientes adicionales. Los Danzantes aprenden este Don de los Cadavéricos, mientras que los Garou lo hacen de forma ocasional de espíritus tiburón.\n\n**Sistema:** El jugador gasta un punto de Rabia y tira Resistencia + Impulso Primario (dificultad 5). Obtiene 3 dados adicionales de daño en los ataques de mordisco. El Don dura un ataque de mordisco por éxito en la tirada de activación. Cualquier ataque no realizado se pierde al final de la escena.",
+    "body_es": "Los dientes afilados son la marca distintiva del depredador definitivo, y los métodos de los Lobos del Wyrm se recrean en ello hasta el exceso. De la mandíbula de un hombre lobo que emplee este Don brotan docenas de dientes adicionales. Los Danzantes aprenden este Don de los [Cadavéricos](/werewolf/banes/cadavericos), mientras que los Garou lo hacen de forma ocasional de espíritus tiburón.\n\n**Sistema:** El jugador gasta un punto de Rabia y tira Resistencia + Impulso Primario (dificultad 5). Obtiene 3 dados adicionales de daño en los ataques de mordisco. El Don dura un ataque de mordisco por éxito en la tirada de activación. Cualquier ataque no realizado se pierde al final de la escena.",
     "tags": [
       "don",
       "Lupus",
@@ -23731,7 +24792,7 @@
     "line": "werewolf",
     "name_en": "Confer the Predator's Shadow",
     "name_es": "Conferir la Sombra del Depredador",
-    "body_es": "Sería justo afirmar que los Danzantes de la Espiral Negra toleran aún menos que otros hombres lobo las burlas o que les engañen. Este valioso Don ayuda al Danzante Ragabash a sobrevivir a las consecuencias de las labores de su Auspicio transfiriendo su identidad a otro. Los Fantasmi enseñan este Don.\n\n**Sistema:** El Danzante de la Espiral Negra debe asegurar un pequeño pedazo de su cuerpo en otra persona. Un poco de saliva o sangre, o un mechón de pelo o pelaje pueden servir. El jugador gasta entonces un punto de Gnosis y tira Manipulación + Subterfugio a dificultad 6. El objetivo parecerá y hablará como el Danzante (aunque no olerá igual) para cualquiera salvo él mismo durante una hora por éxito.",
+    "body_es": "Sería justo afirmar que los Danzantes de la Espiral Negra toleran aún menos que otros hombres lobo las burlas o que les engañen. Este valioso Don ayuda al Danzante Ragabash a sobrevivir a las consecuencias de las labores de su Auspicio transfiriendo su identidad a otro. Los [Fantasmi](/werewolf/banes/fantasmi) enseñan este Don.\n\n**Sistema:** El Danzante de la Espiral Negra debe asegurar un pequeño pedazo de su cuerpo en otra persona. Un poco de saliva o sangre, o un mechón de pelo o pelaje pueden servir. El jugador gasta entonces un punto de Gnosis y tira Manipulación + Subterfugio a dificultad 6. El objetivo parecerá y hablará como el Danzante (aunque no olerá igual) para cualquiera salvo él mismo durante una hora por éxito.",
     "tags": [
       "don",
       "Ragabash",
@@ -24291,7 +25352,7 @@
     "line": "werewolf",
     "name_en": "Suppress Corruption",
     "name_es": "Reprimir Corrupción",
-    "body_es": "Para poder infiltrarse entre los Garou gaianos, un Danzante debe ser capaz de esconder el toque del Wyrm. Este Don le permite reprimir su corrupción, escondiéndola de los ojos inquisitivos de los suspicaces. Aun así, el hombre lobo debe seguir teniendo cuidado, puesto que un Garou más preparado podría detectarlo. Los Adivinadores enseñan este Don.\n\n**Sistema:** El jugador tira Percepción + Subterfugio a dificultad 7. Cada éxito incrementa en 1 la dificultad para detectar la mancha del personaje, hasta un máximo de 9. El efecto dura una escena.",
+    "body_es": "Para poder infiltrarse entre los Garou gaianos, un Danzante debe ser capaz de esconder el toque del Wyrm. Este Don le permite reprimir su corrupción, escondiéndola de los ojos inquisitivos de los suspicaces. Aun así, el hombre lobo debe seguir teniendo cuidado, puesto que un Garou más preparado podría detectarlo. Los [Adivinadores](/werewolf/banes/adivinadores) enseñan este Don.\n\n**Sistema:** El jugador tira Percepción + Subterfugio a dificultad 7. Cada éxito incrementa en 1 la dificultad para detectar la mancha del personaje, hasta un máximo de 9. El efecto dura una escena.",
     "tags": [
       "don",
       "danzantes-espiral-negra",
@@ -24702,7 +25763,7 @@
     "line": "werewolf",
     "name_en": "G'lough",
     "name_es": "G'lough, 'Danza de la Corrupción'",
-    "body_es": "G'lough se manifiesta como una panoplia de horrores siempre cambiantes, fluyendo de forma constante como la cera y reformándose en configuraciones cada vez más horrendas. En ocasiones, algunos elementos de G'lough se separan de él para convertirse en Perdiciones independientes. Algunos Theurges creen que es la madre de todos los Vagabundos de los Nexos.",
+    "body_es": "G'lough se manifiesta como una panoplia de horrores siempre cambiantes, fluyendo de forma constante como la cera y reformándose en configuraciones cada vez más horrendas. En ocasiones, algunos elementos de G'lough se separan de él para convertirse en Perdiciones independientes. Algunos Theurges creen que es la madre de todos los [Vagabundos de los Nexos](/werewolf/banes/vagabundos-de-los-nexos).",
     "tags": [
       "totem",
       "danzantes-espiral-negra",

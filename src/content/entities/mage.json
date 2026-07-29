@@ -13738,211 +13738,6 @@
     "related": []
   },
   {
-    "id": "disruptores-ectoplasmicos",
-    "type": "weapon",
-    "line": "mage",
-    "name_en": "Disruptores ectoplásmicos",
-    "name_es": "Disruptores ectoplásmicos",
-    "body_es": "",
-    "tags": [
-      "melee"
-    ],
-    "mechanics": {
-      "weapon_class": "melee",
-      "damage": "5",
-      "damage_type": "A"
-    },
-    "sources": [
-      {
-        "book_id": "m20-core-rulebook-es",
-        "book_title_es": "M20 Core Rulebook (ES)",
-        "page": null,
-        "section_anchor": "disruptores-ectoplasmicos",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
-    "id": "proyectiles-explosivos",
-    "type": "weapon",
-    "line": "mage",
-    "name_en": "Proyectiles explosivos",
-    "name_es": "Proyectiles explosivos",
-    "body_es": "",
-    "tags": [
-      "melee"
-    ],
-    "mechanics": {
-      "weapon_class": "melee",
-      "damage": "6",
-      "damage_type": "L"
-    },
-    "sources": [
-      {
-        "book_id": "m20-core-rulebook-es",
-        "book_title_es": "M20 Core Rulebook (ES)",
-        "page": null,
-        "section_anchor": "proyectiles-explosivos",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
-    "id": "flechettes",
-    "type": "weapon",
-    "line": "mage",
-    "name_en": "Flechettes",
-    "name_es": "Flechettes",
-    "body_es": "",
-    "tags": [
-      "melee"
-    ],
-    "mechanics": {
-      "weapon_class": "melee",
-      "damage": "7",
-      "damage_type": "L"
-    },
-    "sources": [
-      {
-        "book_id": "m20-core-rulebook-es",
-        "book_title_es": "M20 Core Rulebook (ES)",
-        "page": null,
-        "section_anchor": "flechettes",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
-    "id": "proyectiles-incendiarios",
-    "type": "weapon",
-    "line": "mage",
-    "name_en": "Proyectiles incendiarios",
-    "name_es": "Proyectiles incendiarios",
-    "body_es": "",
-    "tags": [
-      "melee"
-    ],
-    "mechanics": {
-      "weapon_class": "melee",
-      "damage": "4",
-      "damage_type": "A"
-    },
-    "sources": [
-      {
-        "book_id": "m20-core-rulebook-es",
-        "book_title_es": "M20 Core Rulebook (ES)",
-        "page": null,
-        "section_anchor": "proyectiles-incendiarios",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
-    "id": "balas-de-goma",
-    "type": "weapon",
-    "line": "mage",
-    "name_en": "Balas de goma",
-    "name_es": "Balas de goma",
-    "body_es": "",
-    "tags": [
-      "melee"
-    ],
-    "mechanics": {
-      "weapon_class": "melee",
-      "damage": "C"
-    },
-    "sources": [
-      {
-        "book_id": "m20-core-rulebook-es",
-        "book_title_es": "M20 Core Rulebook (ES)",
-        "page": null,
-        "section_anchor": "balas-de-goma",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
-    "id": "balas-taser",
-    "type": "weapon",
-    "line": "mage",
-    "name_en": "Balas táser",
-    "name_es": "Balas táser",
-    "body_es": "",
-    "tags": [
-      "melee"
-    ],
-    "mechanics": {
-      "weapon_class": "melee",
-      "damage": "5",
-      "damage_type": "C"
-    },
-    "sources": [
-      {
-        "book_id": "m20-core-rulebook-es",
-        "book_title_es": "M20 Core Rulebook (ES)",
-        "page": null,
-        "section_anchor": "balas-taser",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
-    "id": "cartuchos-de-gas-lacrimogeno",
-    "type": "weapon",
-    "line": "mage",
-    "name_en": "Cartuchos de gas lacrimógeno",
-    "name_es": "Cartuchos de gas lacrimógeno",
-    "body_es": "",
-    "tags": [
-      "melee"
-    ],
-    "mechanics": {
-      "weapon_class": "melee",
-      "damage": "C"
-    },
-    "sources": [
-      {
-        "book_id": "m20-core-rulebook-es",
-        "book_title_es": "M20 Core Rulebook (ES)",
-        "page": null,
-        "section_anchor": "cartuchos-de-gas-lacrimogeno",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
-    "id": "balas-de-teflon",
-    "type": "weapon",
-    "line": "mage",
-    "name_en": "Balas de teflón",
-    "name_es": "Balas de teflón",
-    "body_es": "",
-    "tags": [
-      "melee"
-    ],
-    "mechanics": {
-      "weapon_class": "melee",
-      "damage": "L"
-    },
-    "sources": [
-      {
-        "book_id": "m20-core-rulebook-es",
-        "book_title_es": "M20 Core Rulebook (ES)",
-        "page": null,
-        "section_anchor": "balas-de-teflon",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
     "id": "piel-resistente",
     "type": "armor",
     "line": "mage",
@@ -14964,6 +14759,38 @@
         "book_title_es": "M20 Core Rulebook (ES)",
         "page": null,
         "section_anchor": "control-de-fuego-por-ordenador",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "maldito",
+    "type": "flaw",
+    "line": "mage",
+    "name_en": "Maldito",
+    "name_es": "Maldito",
+    "body_es": "El infortunio de origen aparentemente sobrenatural que persigue a tu personaje le hace la vida difícil; cuantos más puntos conceda el Defecto, mayor será el mismo.\n\n- (1 punto) Pequeñas extravagancias del [destino](/mage/backgrounds/destiny). Ejemplos: Te resulta difícil guardar secretos; la tecnología tiene pequeños fallos en tu presencia; la gente tiende a pensar mal de ti.\n- (2 puntos) Problemas pequeños, pero fastidiosos. Ejemplos: Tartamudeas en momentos inoportunos; sufres pinchazos y las luces de alarma se encienden cuando dependes de tu coche; la ropa cara acaba estropeada por accidentes estúpidos.\n- (3 puntos) Infortunio crónico. Ejemplos: Las herramientas se rompen cuando las usas; los niños tienen miedo de ti; los semáforos en rojo te detienen cuando de verdad necesitas realmente llegar a tiempo a alguna parte.\n- (4 puntos) Problemas graves. Ejemplos: Desagradas a la gente por principio; tus planes más importantes fracasan por alguna razón impredecible; alguien que no eres tú no deja de retirar dinero de tu cuenta del banco inesperadamente.\n- (5 puntos) Mala suerte generalizada. Ejemplos: Fracasas irremediablemente en todo lo que intentas; la tecnología nunca funciona como se supone que debe hacerlo; dolores crónicos o una salud débil agotan toda la vitalidad que puedas tener.\n\nEl Narrador determina los efectos últimos de la maldición y los métodos que podrían usarse para levantarla. En cualquier caso, la maldición se convierte en una parte importante de la historia de tu personaje y no puede ser dispersada sin un gran esfuerzo por su parte.",
+    "tags": [
+      "sobrenatural"
+    ],
+    "mechanics": {
+      "bonus": "1 a 5",
+      "category": "sobrenatural"
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "maldito",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "maldito",
         "variant": "base"
       }
     ],
@@ -32611,31 +32438,6 @@
         "book_title_es": "M20 Libro de los Secretos",
         "page": null,
         "section_anchor": "insolito",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
-    "id": "maldito",
-    "type": "flaw",
-    "line": "mage",
-    "name_en": "Maldito",
-    "name_es": "Maldito",
-    "body_es": "Ver Mago 20 , pág. 646 .",
-    "tags": [
-      "sobrenatural"
-    ],
-    "mechanics": {
-      "bonus": "1 a 5",
-      "category": "sobrenatural"
-    },
-    "sources": [
-      {
-        "book_id": "m20-libro-de-los-secretos",
-        "book_title_es": "M20 Libro de los Secretos",
-        "page": null,
-        "section_anchor": "maldito",
         "variant": "base"
       }
     ],
