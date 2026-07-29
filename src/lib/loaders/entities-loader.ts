@@ -22,6 +22,23 @@ import type { Loader, LoaderContext } from 'astro/loaders';
 
 const ENTITIES_DIR = new URL('../../content/entities/', import.meta.url);
 
+// Only the fields this loader itself touches; everything else rides through to
+// `parseData` untyped (the Zod schema in `content.config.ts` is the contract).
+interface RawVariant {
+  book_id?: string;
+  body_es?: string;
+  body_html?: string;
+  [key: string]: unknown;
+}
+interface RawEntity {
+  id: string;
+  line: string;
+  body_es?: string;
+  body_html?: string;
+  variants?: RawVariant[];
+  [key: string]: unknown;
+}
+
 export function entitiesLoader(): Loader {
   return {
     name: 'wod20-entities-loader',
@@ -51,15 +68,30 @@ export function entitiesLoader(): Loader {
           continue;
         }
 
-        for (const item of raw as Array<{ id: string; line: string; body_es?: string }>) {
+        for (const item of raw as RawEntity[]) {
           const id = `${item.line}/${item.id}`;
           // Pre-render body_es Markdown → body_html at sync time (same pipeline as
           // the books loader: remark/rehype with GFM tables), so entity pages never
           // render Markdown at request time and tables/lists/emphasis display.
-          const withHtml =
+          let withHtml: RawEntity =
             item.body_es && item.body_es.trim()
               ? { ...item, body_html: (await context.renderMarkdown(item.body_es)).html }
               : item;
+          // Same treatment for a VARIANT that carries its own body — a second book
+          // that independently defines this entity keeps its write-up on
+          // `variants[]` (model-multi-book-entity-bodies). Without this, the second
+          // body would reach the page as raw Markdown while the primary one is HTML.
+          if (Array.isArray(item.variants) && item.variants.some((v) => v?.body_es?.trim())) {
+            const variants: RawVariant[] = [];
+            for (const v of item.variants) {
+              variants.push(
+                v?.body_es && v.body_es.trim()
+                  ? { ...v, body_html: (await context.renderMarkdown(v.body_es)).html }
+                  : v
+              );
+            }
+            withHtml = { ...withHtml, variants };
+          }
           const parsedData = await parseData({ id, data: withHtml, filePath });
           store.set({ id, data: parsedData, filePath: posixRelative(fileURLToPath(config.root), filePath) });
         }

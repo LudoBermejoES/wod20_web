@@ -45,12 +45,25 @@ const entitySchema = z
     sources: z.array(sourceSchema).min(1),
     related: z.array(z.string()).default([]),
     review: reviewSchema,
-    // Faction-specific alternate mechanics (e.g. the Technocracy Reloaded take),
-    // kept alongside the standard version rather than flagged as a conflict.
+    // Alternate takes kept alongside the primary version rather than flagged as a
+    // conflict. TWO KINDS, discriminated by `book_id`:
+    //   * faction take (no `book_id`) — a faction's alternate MECHANICS (e.g. the
+    //     Technocracy Reloaded version). Rendered as a StatBlock.
+    //   * second-book body (`book_id` set) — another book that independently DEFINES
+    //     this entity and carries its own `body_es` (model-multi-book-entity-bodies).
+    //     Rendered as prose under that book's heading.
+    // `label` is optional because a second-book variant needs no label: the entity
+    // page derives its heading from `book_id` (via the book title on `sources[]`).
     variants: z
       .array(
         z.object({
-          label: z.string(),
+          label: z.string().optional(),
+          // Set only for a second-book variant: the book whose write-up this is.
+          book_id: z.string().optional(),
+          body_es: z.string().optional(),
+          // Pre-rendered from this variant's `body_es` by entitiesLoader, exactly as
+          // the top-level `body_es` → `body_html`.
+          body_html: z.string().optional(),
           mechanics: z.record(z.string(), z.unknown()).default({}),
           sources: z.array(z.string()).default([]),
         })

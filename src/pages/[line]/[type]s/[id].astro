@@ -34,17 +34,48 @@ const label = typeLabelEs(entity.type);
 // entity's own `sources[].section_anchor`. Resolves to the exact guide page + in-page
 // anchor via the anchor index; falls back to the book's reading landing when the
 // section heading isn't a locatable anchor (demoted/garbled headings).
+//
+// EVERY resolving source is collected, not just the first: an entity described by two
+// books gets one "Ver en el manual →" for the leading source plus a "también descrito
+// en <libro> →" line per further book (model-multi-book-entity-bodies, Option C). This
+// is provenance only — it reads `sources[]` and says nothing about a second BODY, which
+// is rendered below from `variants[]`.
 const guideIndex = await guideAnchorIndex();
-let sourceSectionHref: string | undefined;
+const bookTitle = (bookId: string): string =>
+  entity.sources?.find((s) => s.book_id === bookId)?.book_title_es ?? bookId;
+const sectionLinks: Array<{ book_id: string; title: string; href: string }> = [];
 for (const s of entity.sources ?? []) {
-  if (s.section_anchor) {
-    const href = resolveGuideHref(guideIndex, entity.line, s.book_id, s.section_anchor);
-    if (href) { sourceSectionHref = href; break; }
-  }
+  if (!s.section_anchor) continue;
+  const href = resolveGuideHref(guideIndex, entity.line, s.book_id, s.section_anchor);
+  if (!href || sectionLinks.some((l) => l.href === href)) continue;
+  sectionLinks.push({ book_id: s.book_id, title: bookTitle(s.book_id), href });
 }
+let sourceSectionHref: string | undefined = sectionLinks[0]?.href;
 if (!sourceSectionHref && entity.sources?.[0]) {
   sourceSectionHref = bookUrl(entity.line, entity.sources[0].book_id);
 }
+const alsoDescribedIn = sectionLinks.slice(1);
+
+// A variant is one of two kinds (see content.config.ts): a second BOOK's write-up of
+// this same entity (`book_id` set — prose under that book's title), or a faction's
+// alternate MECHANICS (no `book_id` — StatBlock only, unchanged behaviour).
+const variants = entity.variants ?? [];
+type Variant = (typeof variants)[number];
+const variantHeading = (v: Variant): string => v.label ?? (v.book_id ? bookTitle(v.book_id) : '');
+// A second-book variant usually restates the SAME mechanics the primary StatBlock above
+// already shows (the merge picked one body, not one set of numbers), so repeating them
+// would print identical dots twice under a different heading. Show a book variant's
+// StatBlock only when that book differs mechanically. A FACTION variant always shows
+// its own — differing mechanics is the entire reason it exists.
+const mechFingerprint = (m: Record<string, unknown> | undefined): string =>
+  JSON.stringify(
+    Object.entries(m ?? {})
+      .filter(([, value]) => value !== null && value !== undefined)
+      .sort(([a], [b]) => a.localeCompare(b))
+  );
+const primaryMechanics = mechFingerprint(entity.mechanics);
+const showVariantMechanics = (v: Variant): boolean =>
+  !v.book_id || mechFingerprint(v.mechanics) !== primaryMechanics;
 ---
 
 <Layout title={`${entity.name_es} — ${label} — ${info.nombre}`} description={entity.body_es} theme={line}>
@@ -77,12 +108,23 @@ if (!sourceSectionHref && entity.sources?.[0]) {
   <StatBlock type={entity.type} mechanics={entity.mechanics} mechanicsHtml={entity.mechanics_html} />
 
   {
-    entity.variants && entity.variants.length > 0 && (
+    variants.length > 0 && (
       <div class="variants">
-        {entity.variants.map((v) => (
-          <section class="variant">
-            <h3>{v.label}</h3>
-            <StatBlock type={entity.type} mechanics={v.mechanics} />
+        {variants.map((v) => (
+          <section class={v.book_id ? 'variant variant-book' : 'variant'}>
+            <h3>
+              {v.book_id ? (
+                <>Según <a href={bookUrl(entity.line, v.book_id)}>{variantHeading(v)}</a></>
+              ) : (
+                variantHeading(v)
+              )}
+            </h3>
+            {v.body_html ? (
+              <div class="body-es prose" set:html={v.body_html} />
+            ) : (
+              v.body_es && <p class="body-es">{v.body_es}</p>
+            )}
+            {showVariantMechanics(v) && <StatBlock type={entity.type} mechanics={v.mechanics} />}
           </section>
         ))}
       </div>
@@ -108,6 +150,18 @@ if (!sourceSectionHref && entity.sources?.[0]) {
     )
   }
 
+  {
+    alsoDescribedIn.length > 0 && (
+      <ul class="also-in">
+        {alsoDescribedIn.map((l) => (
+          <li>
+            <a href={l.href}>También descrito en {l.title} →</a>
+          </li>
+        ))}
+      </ul>
+    )
+  }
+
   <style>
     .variants { margin: 1em 0; }
     .variant {
@@ -116,6 +170,16 @@ if (!sourceSectionHref && entity.sources?.[0]) {
       margin: 0.75em 0;
     }
     .variant h3 { margin: 0 0 0.35em; font-size: 1rem; color: var(--muted); }
+    /* A second book's write-up of the same entity: prose, so it needs the reading
+       width and a little more air than a bare faction StatBlock. */
+    .variant-book { margin: 1.5em 0; }
+    .variant-book h3 { font-size: 1.05rem; }
+    .variant-book .body-es { margin-top: 0.35em; }
+    .also-in {
+      list-style: none;
+      margin: 0 0 var(--space-3);
+      padding: 0;
+    }
     .type-badge {
       margin: 0;
       font-size: 0.8rem;
