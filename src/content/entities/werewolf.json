@@ -27515,15 +27515,15 @@
     "type": "gift",
     "line": "werewolf",
     "name_en": "Pilfer",
-    "name_es": "Birlar",
-    "body_es": "Como el Don Ragabash [Tomar lo Olvidado](/werewolf/gifts/take-the-forgotten).",
+    "name_es": "Sisar",
+    "body_es": "El hombre rata se vuelve experto en usar el despiste para tomar lo que quiere, siempre que quiere. Un espíritu ardilla listada enseña este Don.\n\n[Extracción confusa: el Sistema aparece fragmentado y desordenado en la fuente]\n\nEl personaje añade permanentemente tres dados a todas las acciones de Latrocinio para robar algo a\n\nSistema: plena vista (como lo haría un carterista).",
     "tags": [
-      "bastet",
-      "general"
+      "ratkin",
+      "gift",
+      "hominido"
     ],
     "mechanics": {
-      "rank": "Nivel dos",
-      "reference": "Como el Don Ragabash Tomar lo Olvidado."
+      "rank": "Nivel dos"
     },
     "sources": [
       {
@@ -27533,8 +27533,8 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
-    "mechanics_html": {
-      "reference": "Como el Don Ragabash <a href=\"/werewolf/gifts/take-the-forgotten\">Tomar lo Olvidado</a>."
+    "review": {
+      "reason": "Artefacto de extracción PDF: el texto del Sistema aparece partido y reordenado."
     }
   },
   {
@@ -40798,13 +40798,12 @@
     "type": "gift",
     "line": "werewolf",
     "name_en": "Scent of Blood",
-    "name_es": "Olor a Sangre",
-    "body_es": "Como el Don de los Señores de la Sombra [Dirigir la Tormenta](/werewolf/gifts/direct-the-storm).",
+    "name_es": "Olor de la Sangre",
+    "body_es": "El hombre tiburón puede sentir la presencia de un Hengeyokai o de otro Shen. Un espíritu tiburón enseña este Don.\n\nSistema: El jugador tira Percepción + Impulso Primario. La dificultad para sentir a cambiaformas es 7, mientras que para otros Shen es 9.",
     "tags": [
-      "rokea",
-      "aguas-oscuras",
-      "dones-aguas-oscuras",
-      "cross-reference"
+      "hengeyokai",
+      "same-bito",
+      "cortes-de-las-bestias"
     ],
     "mechanics": {
       "rank": [
@@ -40820,7 +40819,10 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ]
+    ],
+    "review": {
+      "reason": "Extracción PDF desordenó el texto: la descripción aparece antes del nombre del Don en la fuente (bloques 285-286). Reconstruido a partir de las piezas contiguas."
+    }
   },
   {
     "id": "breath-of-sea",
