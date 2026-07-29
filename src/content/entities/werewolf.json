@@ -1233,7 +1233,19 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "variants": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "body_es": "La mayor parte de los Fera utilizan los Tótems de la das' o como patrones personales. Los [Ananasi](/werewolf/changing-breeds/ananasi), los [Corax](/werewolf/changing-breeds/corax)\n\nmisma forma que los Garou, ya sea para unir a sus 'manay los [Nagah](/werewolf/changing-breeds/nagah) son excepciones notables.\n\nAsí que, ¿qué sucede cuando un Garou, un [Bastet](/werewolf/changing-breeds/bastet), un\n\n[Ajaba](/werewolf/changing-breeds/ajaba) y un [Mokolé](/werewolf/changing-breeds/mokole) deciden unirse?\n\nLa mayor parte de los Fera pensarían que esa simple idea es poco más que el principio de un chiste malo, pero a medida que la sombra del Wyrm oscurece lugares como África y el Amazonas, cada vez más cambiaformas se encuentran considerando seriamente esta pregunta. ¿ Pueden los cambiaformas hijos de Gaia, durante tanto tiempo divididos, colaborar?\n\nLa respuesta es sí... con algunas dificultades.\n\nEl [Rito del Tótem](/werewolf/rites/rite-mystic-pack-totem-level-three) (ver H20 , pág. 212) está particularmente adaptado a las capacidades y sensibilidades de los Garou; aquellos Fera que no pueden [caminar de lado](/werewolf/merits/step-sideways) de forma innata tienen serias dificultades para llevarlo a cabo. Los [Ritos](/werewolf/backgrounds/rites) equivalentes utilizados por otras Razas Cambiantes están especializados de manera similar.\n\nSin embargo, existe un raro y particular Rito, el [Rito del Círculo Unido](/werewolf/rites/rite-of-the-united-circle), que puede utilizarse para atraer a un espíritu que actúe como Tótem para una manada de diversos Fera. Mecánicamente es idéntico al [Rito del Tótem](/werewolf/rites/rite-mystic-pack-totem-level-three), y requiere que el celebrante del Rito prepare un espacio ritual decorado con objetos que satisfagan al espíritu que esperan atraer mientras cantan sobre la necesidad de renovación de Gaia. Algunos [Mokolé](/werewolf/changing-breeds/mokole) con poderosa Mnesis recuerdan este Rito de tiempos anteriores a la Guerra de la Rabia y unas pocas manadas africanas han redescubierto o vuelto a crear el Rito de manera independiente. Las Cortes de las Bestias de Asia utilizan un Rito similar para formar sus sentai.\n\nUna manada multi-Fera puede compartir sus puntos de Trasfondo para adquirir un Tótem de la misma manera que lo hacen los Garou. Debido quizás a cierta similitud con los [Ritos](/werewolf/backgrounds/rites) utilizados por los Hengeyokai, incluso los [Corax](/werewolf/changing-breeds/corax) y los [Gurahl](/werewolf/changing-breeds/gurahl) pueden participar en el Rito, abandonando el [favor](/werewolf/merits/favor) de [Cuervo](/werewolf/totems/raven) u Oso a cambio del apoyo del Tótem de la manada. Sin embargo, incluir un [Nuwisha](/werewolf/changing-breeds/nuwisha) sigue garantizando que el Tótem atraído será un embaucador de algún tipo. En el increíble caso de que un [Ananasi](/werewolf/changing-breeds/ananasi) o un [Nagah](/werewolf/changing-breeds/nagah) participen en el Rito, únicamente ganan la habilidad de participar en [tácticas de manada](/werewolf/gifts/ajaba-dawn-pack-tactics) y la consideración favorable del espíritu Tótem; la [reina Ananasa](/werewolf/totems/queen-ananasa) no cederá a sus hijos a otro, mientras que los [Nagah](/werewolf/changing-breeds/nagah) permanecen fuera del Pacto que facilita las relaciones entre el mundo espiritual y el resto de Fera.",
+        "mechanics": {
+          "rating_max": 5
+        },
+        "sources": [
+          "w20-nsr-aniversario-parte-3-290pp"
+        ]
+      }
+    ]
   },
   {
     "id": "porra",
@@ -21694,6 +21706,22 @@
         "book_title_es": "W20 NSR Aniversario - Parte 2 (127pp)"
       }
     ],
+    "variants": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-2-127pp",
+        "body_es": "Abuelo Trueno es un [Tótem](/werewolf/backgrounds/totem) paciente y sutil. Sus clanes actúan de forma rápida y decisiva, y sus líderes no toleran las discrepancias.",
+        "mechanics": {
+          "categoria": "Tótem de respeto",
+          "alcance": "Tótem de clan",
+          "rasgos_comunes": "Todos los miembros de un clan dedicado a Abuelo Trueno obtienen 2 dados adicionales en las tiradas de Intimidación.",
+          "rasgos_de_manada": "Abuelo Trueno puede distribuir 3 puntos de Etiqueta a las manadas de su clan.",
+          "prohibicion": "Abuelo Trueno exige que los líderes de sus clanes sean Garou de acciones en lugar de palabras. Los apoyará mientras lideren desde el frente y se ganen el respeto que exigen a sus clanes y los abandonará si se duermen en los laureles."
+        },
+        "sources": [
+          "w20-nsr-aniversario-parte-2-127pp"
+        ]
+      }
+    ],
     "mechanics_html": {
       "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de respeto",
       "alcance": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de clan"
@@ -21736,6 +21764,22 @@
         "page": null,
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 2 (127pp)"
+      }
+    ],
+    "variants": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-2-127pp",
+        "body_es": "Como [Tótem](/werewolf/backgrounds/totem) de clan, Halcón exige unidad, valor y honor. Los clanes dedicados a Halcón están marcados por un liderazgo justo y ecuánime, aunque también son rígidos y devotos de la jerarquía.",
+        "mechanics": {
+          "categoria": "Tótem de respeto",
+          "alcance": "Tótem de clan",
+          "rasgos_comunes": "Todos los hijos de Halcón obtienen el Don Verdad de Gaia cuando se invoca a Halcón.",
+          "rasgos_de_manada": "Cuando Halcón extiende su bendición al clan, puede dividir 3 puntos de Liderazgo y 4 puntos permanentes de Fuerza de Voluntad entre sus manadas.",
+          "prohibicion": "Los clanes dedicados a Halcón deben mantener una reputación honorable a ojos de los demás Garou. Si alguna vez Halcón retira su apoyo, sólo volverá al clan si los líderes de éste realizan un acto de heroísmo en su nombre… o mueren intentándolo."
+        },
+        "sources": [
+          "w20-nsr-aniversario-parte-2-127pp"
+        ]
       }
     ],
     "mechanics_html": {
@@ -21941,7 +21985,7 @@
     "line": "werewolf",
     "name_en": "Rat",
     "name_es": "Rata",
-    "body_es": "Rata es la astuta y silenciosa maestra de la guerra de hostigamiento, el [Tótem](/werewolf/backgrounds/totem) original de los guerrilleros. Aunque Rata lucha para debilitar, tullir y después arrollar, puede ser tan feroz como cualquier otro [Tótem](/werewolf/backgrounds/totem) cuando es arrinconada.",
+    "body_es": "Rata es un [Tótem](/werewolf/backgrounds/totem) de guerra asimétrica, el maestro en atacar de forma súbita y huir, del sigilo y el sabotaje. Sus clanes trabajan sin piedad para debilitar a sus enemigos paso a paso hasta sobrepasarlos. Luchan de forma cruel en defensa de su [territorio](/werewolf/gifts/territory).\n\nLos clanes dedicados a Rata suelen encontrar más fácil coexistir con las poblaciones locales de [Ratkin](/werewolf/changing-breeds/ratkin).",
     "tags": [
       "totem",
       "totem-de-guerra"
@@ -21972,6 +22016,22 @@
         "page": null,
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 2 (127pp)"
+      }
+    ],
+    "variants": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "body_es": "Rata es la astuta y silenciosa maestra de la guerra de hostigamiento, el [Tótem](/werewolf/backgrounds/totem) original de los guerrilleros. Aunque Rata lucha para debilitar, tullir y después arrollar, puede ser tan feroz como cualquier otro [Tótem](/werewolf/backgrounds/totem) cuando es arrinconada.",
+        "mechanics": {
+          "background_cost": "5",
+          "individual_traits": "Los hijos de Rata restan uno a la dificultad de todas las tiradas para morder y de todas las dificultades de las tiradas que impliquen sigilo o silencio.",
+          "pack_traits": "Las manadas de Rata pueden usar una reserva de cinco puntos temporales de Fuerza de Voluntad por historia. Los Roehuesos ayudarán a la manada y hasta los Ratkin serán, en cierta forma, tolerantes con su existencia.",
+          "ban": "Los hijos de Rata no deben matar alimañas de ninguna clase.",
+          "patron_tribe": "Roehuesos"
+        },
+        "sources": [
+          "w20-aniversario-core-es"
+        ]
       }
     ],
     "mechanics_html": {
@@ -22084,6 +22144,22 @@
         "book_title_es": "W20 NSR Aniversario - Parte 2 (127pp)"
       }
     ],
+    "variants": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-2-127pp",
+        "body_es": "Cucaracha es la patrona de muchos clanes urbanos. Es dura y flexible, siempre vigilante, esperando el momento ideal para actuar.",
+        "mechanics": {
+          "categoria": "Tótem de sabiduría",
+          "alcance": "Tótem de clan",
+          "rasgos_comunes": "Los clanes dedicados a Cucaracha restan 2 a la dificultad de todas las tiradas relacionadas con informática, electricidad y ciencias aplicadas. Tienen el poder de percibir el contenido de los flujos de datos en la Umbra, incluyendo las llamadas telefónicas y la información que viaja a través de Internet mediante una tirada de Gnosis a dificultad 6.",
+          "rasgos_de_manada": "Cuando se invoca a Cucaracha puede dividir 3 dados entre las manadas a las que bendice. Estos dados de bonificación se aplican a cualquier tirada para activar un Don que afecte a la tecnología.",
+          "prohibicion": "Los clanes dedicados a Cucaracha no pueden hacer nada para matar o espantar a las cucarachas que aniden en el Túmulo."
+        },
+        "sources": [
+          "w20-nsr-aniversario-parte-2-127pp"
+        ]
+      }
+    ],
     "mechanics_html": {
       "categoria": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de sabiduría",
       "alcance": "<a href=\"/werewolf/backgrounds/totem\">Tótem</a> de clan"
@@ -22095,7 +22171,7 @@
     "line": "werewolf",
     "name_en": "Raven",
     "name_es": "Cuervo",
-    "body_es": "Cuervo es el pájaro más ingenioso, aunque no lo bastante para mantener ese hecho en secreto. Se alimenta sin cazar, siguiendo a los lobos o guiándolos a animales muertos para que puedan alimentarse. Enseña sabiduría tentando a los Cachorros para que traten de cazar un pájaro imposible de atrapar. Cuervo observa el mundo, siempre ávido de nuevos secretos. Su conocimiento hace de él un [Tótem](/werewolf/backgrounds/totem) de riqueza (si los hombres lobo confían en él, Cuervo proveerá).",
+    "body_es": "Los seguidores de Cuervo, un espíritu culto y vigilante, son observadores cuidadosos que pasan mucho tiempo con los Garou, frecuentemente caminando entre ellos como uno más. Aconsejan y guían a los guerreros Garou, normalmente sin que los hombres lobo sepan de dónde viene realmente su sabiduría.\n\nRasgos individuales: Los seguidores ganan dos puntos de Enigmas y uno de Subterfugio. Los [Corax](/werewolf/changing-breeds/corax) ofrecen hospitalidad y acogida a los hijos de Cuervo.\n\nProhibición: Cuervo pide a sus hijos que nunca porten riquezas; deben confiar en que él los proveerá.",
     "tags": [
       "totem",
       "totem-de-sabiduria"
@@ -22124,6 +22200,21 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ],
+    "variants": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "body_es": "Cuervo es el pájaro más ingenioso, aunque no lo bastante para mantener ese hecho en secreto. Se alimenta sin cazar, siguiendo a los lobos o guiándolos a animales muertos para que puedan alimentarse. Enseña sabiduría tentando a los Cachorros para que traten de cazar un pájaro imposible de atrapar. Cuervo observa el mundo, siempre ávido de nuevos secretos. Su conocimiento hace de él un [Tótem](/werewolf/backgrounds/totem) de riqueza (si los hombres lobo confían en él, Cuervo proveerá).",
+        "mechanics": {
+          "background_cost": "5",
+          "individual_traits": "Los miembros de la manada ganan un punto temporal de Sabiduría.",
+          "pack_traits": "Las manadas de Cuervo tienen tres puntos de Supervivencia, uno de Subterfugio y uno de Enigmas. Los hombres cuervo tienen una buena disposición hacia los seguidores del Tótem.",
+          "ban": "Los hijos de Cuervo no pueden portar riquezas, han de confiar en que su Tótem proveerá."
+        },
+        "sources": [
+          "w20-aniversario-core-es"
+        ]
+      }
+    ],
     "mechanics_html": {
       "pack_traits": "Las manadas de Cuervo tienen tres puntos de <a href=\"/werewolf/gifts/survival\">Supervivencia</a>, uno de Subterfugio y uno de Enigmas. Los hombres cuervo tienen una buena disposición hacia los seguidores del <a href=\"/werewolf/backgrounds/totem\">Tótem</a>.",
       "ban": "Los hijos de Cuervo no pueden portar riquezas, han de confiar en que su <a href=\"/werewolf/backgrounds/totem\">Tótem</a> proveerá."
@@ -22135,7 +22226,7 @@
     "line": "werewolf",
     "name_en": "Chimera",
     "name_es": "Quimera",
-    "body_es": "Quimera, la patrona de los Contemplaestrellas, es la personificación del Enigma. Ella, la de Muchos Rostros, invita a sus manadas a encontrar la sabiduría que todo hombre lobo tiene en su interior bajo capas de enigmas y autoengaños.",
+    "body_es": "Como [Tótem](/werewolf/backgrounds/totem) de clan, Quimera busca construir comunidades dedicadas al aprendizaje y la introspección. Los clanes de Quimera suelen tener alguna forma de registrar o proteger la sabiduría acumulada a lo largo de los años. Siempre tienen muchos lugares apartados donde un Garou puede encontrar un momento de [quietud](/werewolf/gifts/stillness) y contemplación.",
     "tags": [
       "totem",
       "totem-de-sabiduria"
@@ -22166,6 +22257,22 @@
         "page": null,
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 2 (127pp)"
+      }
+    ],
+    "variants": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "body_es": "Quimera, la patrona de los Contemplaestrellas, es la personificación del Enigma. Ella, la de Muchos Rostros, invita a sus manadas a encontrar la sabiduría que todo hombre lobo tiene en su interior bajo capas de enigmas y autoengaños.",
+        "mechanics": {
+          "background_cost": "7",
+          "individual_traits": "Los Garou de Quimera reducen en dos la dificultad de todas las tiradas relacionadas con adivinanzas, interpretación de sueños o enigmas, y ganan dos puntos temporales de Sabiduría. Además, también pueden disfrazarse como algo distinto cuando están en la Umbra mediante una tirada de Gnosis (dificultad 7).",
+          "pack_traits": "Las manadas de Quimera ganan tres puntos de Enigmas y uno de Percepción.",
+          "ban": "Aunque Quimera exige que la manada busque la iluminación, no impone ninguna restricción acerca de cómo ha de hacerlo.",
+          "patron_tribe": "Contemplaestrellas"
+        },
+        "sources": [
+          "w20-aniversario-core-es"
+        ]
       }
     ],
     "mechanics_html": {
@@ -22212,7 +22319,7 @@
     "line": "werewolf",
     "name_en": "Unicorn",
     "name_es": "Unicornio",
-    "body_es": "Unicornio es un [Tótem](/werewolf/backgrounds/totem) de paz, pureza, curación y armonía. Como tal, es el [Tótem](/werewolf/backgrounds/totem) tribal de los Hijos de Gaia. Encarna el bendito e inmenso amor de Gaia.",
+    "body_es": "Unicornio encarna el inconmensurable amor de Gaia. Es un [Tótem](/werewolf/backgrounds/totem) de paz, curación y armonía. Los clanes dedicados a Unicornio son armoniosos para los estándares Garou, con menos peleas internas que un clan típico y una penetrante atmósfera de calma.",
     "tags": [
       "totem",
       "totem-de-sabiduria"
@@ -22244,6 +22351,22 @@
         "page": null,
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 2 (127pp)"
+      }
+    ],
+    "variants": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "body_es": "Unicornio es un [Tótem](/werewolf/backgrounds/totem) de paz, pureza, curación y armonía. Como tal, es el [Tótem](/werewolf/backgrounds/totem) tribal de los Hijos de Gaia. Encarna el bendito e inmenso amor de Gaia.",
+        "mechanics": {
+          "background_cost": "7",
+          "individual_traits": "Los hijos de Unicornio se mueven al doble de la velocidad normal en la Umbra y reducen en dos la dificultad de todas las tiradas que impliquen curación y empatía, aunque aumentan en dos la de todas las tiradas para dañar a otro Garou (excepto a los Danzantes de la Espiral Negra y otros corrompidos por el Wyrm). Los Garou de Unicornio ganan tres puntos de Sabiduría.",
+          "pack_traits": "Las manadas de Unicornio ganan tres dados cuando usan Dones de curación, fuerza y protección. Los Hijos de Gaia ayudarán a la manada y, por lo general, se pondrán de su parte en las disputas.",
+          "ban": "Los hijos de Unicornio deben proteger y ayudar a los débiles y explotados siempre que al hacerlo no favorezcan al Wyrm.",
+          "patron_tribe": "Hijos de Gaia"
+        },
+        "sources": [
+          "w20-aniversario-core-es"
+        ]
       }
     ],
     "mechanics_html": {
@@ -22349,6 +22472,22 @@
         "page": null,
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 2 (127pp)"
+      }
+    ],
+    "variants": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-2-127pp",
+        "body_es": "Los clanes de Zorro usan el sigilo, el sabotaje y otros trucos sucios para protegerse y atacar a sus enemigos. Tienden a tomarse a la ligera la jerarquía y cualquier Garou que se dé demasiados aires será objetivo de trucos y trampas hasta que aprenda la lección.",
+        "mechanics": {
+          "categoria": "Tótem de astucia",
+          "alcance": "Tótem de clan",
+          "rasgos_comunes": "Cuando se invoca a Zorro, éste concede a todos sus hijos 1 punto de Manipulación.",
+          "rasgos_de_manada": "Zorro puede repartir 2 puntos de Sigilo, Callejeo y Subterfugio entre las manadas de sus clanes.",
+          "prohibicion": "Los clanes deben conceder santuario a los zorros salvajes, permitiendo que corran libres por el boun."
+        },
+        "sources": [
+          "w20-nsr-aniversario-parte-2-127pp"
+        ]
       }
     ],
     "mechanics_html": {
@@ -23480,6 +23619,26 @@
         "page": null,
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 1 (59pp)"
+      }
+    ],
+    "variants": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-1-59pp",
+        "body_es": "[Tótem](/werewolf/backgrounds/totem) patrón (patrón 'tribal') de los Danzantes de la Piel. Incluso en sus mejores días es un [Tótem](/werewolf/backgrounds/totem) iracundo, de aspecto brutal e hipermasculino, que envía a sus hijos a herir y matar Furias Negras por rivalidad y odio (viejas rencillas contra [Pegaso](/werewolf/totems/pegasus) y las Furias Negras). Mora en un sub-reino laberíntico de la Umbra —un laberinto de [piedra](/werewolf/weapons/piedra) ordenada, arcos y columnas de diseño desconocido— que está siendo absorbido y corrompido por el Laberinto Negro a causa de las maquinaciones de [Garrapata](/werewolf/banes/garrapata). Cuando la manada llega a su centro (una amplia sala con un techo de 25 metros (80 pies) de alto, soportado por anillos concéntricos de columnas), lo encuentra parcialmente sucumbido al Wyrm: largos tentáculos de corrupción emergen de las grietas de los muros y se adhieren al [Tótem](/werewolf/backgrounds/totem) como lampreas. La influencia de Bestia-de-la-Guerra nutre su ira. Reacciona con agresividad al detectar a los personajes y ataca con todos sus [recursos](/werewolf/backgrounds/resources).",
+        "mechanics": {
+          "type": "totem",
+          "rol": "Tótem patrón ('tribal') de los Danzantes de la Piel",
+          "estado": "Corrompido/encadenado por el Wyrm mediante hebras de corrupción; recibe un dado de penalización a todas las acciones debido a los enloquecedores grilletes del Wyrm",
+          "combate": [
+            "Cada vez que Minotauro falle un ataque, su ira hace que se manifieste otra intrusión que amenaza a un personaje jugador al azar",
+            "Hebras de corrupción: objetivos difíciles, requieren una tirada de ataque con dificultad 9; cada una tiene cuatro dados de absorción y cuatro niveles de Salud; cortar las cinco pone fin a la lucha y Minotauro cae de rodillas delirante y exhausto"
+          ],
+          "negociacion": "Pasar una tirada de Manipulación + Expresión (dificultad 10) hace que se calme durante un turno; esto reduce la dificultad de cortar las hebras de corrupción a 7 durante ese turno",
+          "purificacion": "Un Rito de Purificación revertirá el estado de corrupción una vez cortadas las hebras (mantendrá en su pecho el retazo de ira que lo hizo vulnerable)"
+        },
+        "sources": [
+          "w20-nsr-aniversario-parte-1-59pp"
+        ]
       }
     ],
     "mechanics_html": {
@@ -35564,7 +35723,7 @@
     "line": "werewolf",
     "name_en": "Fool's Luck",
     "name_es": "Suerte del Necio",
-    "body_es": "Nivel cuatro. Este Don garantiza temporalmente inmunidad contra la mala suerte. Un espíritu conejo enseña este Don. Sistema: El jugador gasta un punto de Gnosis. El personaje no puede fracasar en ninguna tirada hasta el siguiente amanecer; trata los fracasos como fallos normales.",
+    "body_es": "Con este Don el [Nuwisha](/werewolf/changing-breeds/nuwisha) juega con el propio [destino](/werewolf/backgrounds/destino). Con una carcajada puede cambiar la [buena fortuna](/werewolf/gifts/good-fortune) por mala, retorciendo la probabilidad y el [destino](/werewolf/backgrounds/destino) entre sus dedos, aunque no tiene control sobre el resultado. Un avatar de [Chung Kuel](/werewolf/totems/chung-kuel) enseña este Don.\n\nSistema: Cuando el objetivo hace una tirada, el jugador del hombre [coyote](/werewolf/totems/coyote) puede gastar un punto de Gnosis y tirar Astucia + Enigmas a dificultad 7. Si el [Nuwisha](/werewolf/changing-breeds/nuwisha) obtiene al menos tantos éxitos como su víctima, la acción de ésta falla como si no hubiera obtenido ningún éxito. Aparta los dados de la víctima o anota su tirada. La próxima vez en la escena que la víctima deba hacer una tirada, usa los resultados de la tirada de dados (los números en los dados) que interrumpió el [Nuwisha](/werewolf/changing-breeds/nuwisha). Si la siguiente acción de la víctima debería usar una reserva de dados menor o una dificultad menor, tiene la oportunidad de un gran éxito, pero si ahora debe usar tres dados con '1, 2, 2' en lugar de su reserva normal de ocho dados, su futuro es muy poco [afortunado](/werewolf/merits/afortunado). Un [Nuwisha](/werewolf/changing-breeds/nuwisha) no puede usar este Don sobre sí mismo.",
     "tags": [
       "don",
       "mokole",
@@ -41971,7 +42130,7 @@
     "line": "werewolf",
     "name_en": "Rite of the United Circle",
     "name_es": "Rito del Círculo Unido",
-    "body_es": "Existe un raro y particular Rito, el Rito del Círculo Unido, que puede utilizarse para atraer a un espíritu que actúe como [Tótem](/werewolf/backgrounds/totem) para una manada de diversos Fera. Mecánicamente es idéntico al [Rito del Tótem](/werewolf/rites/rite-mystic-pack-totem-level-three), y requiere que el celebrante del Rito prepare un espacio ritual decorado con objetos que satisfagan al espíritu que esperan atraer mientras cantan sobre la necesidad de renovación de Gaia. Algunos [Mokolé](/werewolf/changing-breeds/mokole) con poderosa Mnesis recuerdan este Rito de tiempos anteriores a la Guerra de la Rabia y unas pocas manadas africanas han redescubierto o vuelto a crear el Rito de manera independiente. Las Cortes de las Bestias de Asia utilizan un Rito similar para formar sus sentai.",
+    "body_es": "Nivel tres, Rito místico.\n\nEste antiguo Rito fue redescubierto o reinventado recientemente, nadie sabe seguro cuál de las dos cosas es cierta, y el Ahadi lo ha usado para reunir a miembros de muchas Razas Cambiantes en manadas. A todos los efectos, es idéntico al [Rito del Tótem](/werewolf/rites/rite-mystic-pack-totem-level-three) (ver H20, pág. 212) de los Garou, salvo porque los futuros compañeros de manada no se adentran en la Umbra. En vez de eso, se reúnen con el espíritu dentro de los límites del Túmulo, donde el celebrante del Rito lo invoca a este mundo para que hable con ellos, los juzgue y, con suerte, los encuentre dignos. Cuando el [Tótem](/werewolf/backgrounds/totem) accede a unir a la manada, sus miembros se hacen un corte en la mano y sangran juntos.\n\nSistema: Como ocurre con el [Rito del Tótem](/werewolf/rites/rite-mystic-pack-totem-level-three), este Rito no requiere tirada. Una kganmadi disfruta de todas las ventajas de una manada Garou, incluidas las de [Tótem](/werewolf/backgrounds/totem) (salvo [Nagah](/werewolf/changing-breeds/nagah) y [Ananasi](/werewolf/changing-breeds/ananasi)), la habilidad para realizar [tácticas de manada](/werewolf/gifts/ajaba-dawn-pack-tactics) y la consideración de manada en lo que respecta a Dones que hacen esa distinción.\n\nSi todos los miembros de una kganmadi han pasado el [Ritual del Amanecer](/werewolf/rites/ritual-of-the-dawn), pueden ganar Renombre por acatar el código Ahadi. Este Renombre se traduce en Honor o Sabiduría para los Garou, los [Corax](/werewolf/changing-breeds/corax) y los [Mokolé](/werewolf/changing-breeds/mokole) (tanto como sea apropiado en cada caso), Sabiduría para los [Ananasi](/werewolf/changing-breeds/ananasi), Compromiso para los [Ajaba](/werewolf/changing-breeds/ajaba) y los [Ratkin](/werewolf/changing-breeds/ratkin), Honor para los [Bastet](/werewolf/changing-breeds/bastet) e Innovación para los [Rokea](/werewolf/changing-breeds/rokea). Si se da el caso de que un miembro de otra Raza no africana llegue a pertenecer al Ahadi, los [Gurahl](/werewolf/changing-breeds/gurahl) ganarían Honor o Sabiduría, los [Kitsune](/werewolf/changing-breeds/kitsune) Kagayaki y los [Nuwisha](/werewolf/changing-breeds/nuwisha) Humor… porque ¿acaso puede haber algo más absurdo?",
     "tags": [
       "fera",
       "totem",
