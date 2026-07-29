@@ -1791,217 +1791,6 @@
     ]
   },
   {
-    "id": "a-world-of-gods-and-monsters",
-    "type": "paradigm",
-    "line": "mage",
-    "name_en": "A World of Gods and Monsters",
-    "name_es": "Un Mundo de Dioses y Monstruos",
-    "body_es": "Según este punto de vista, el mundo es básicamente irracional y peligroso y está lleno de poderosas fuerzas, muchas de las cuales son hostiles. Nada conserva su sentido por mucho tiempo y la aparente seguridad puede ceder en cualquier momento y sumirnos en el caos. La Magia, la ciencia y la fe son herramientas que usamos, como el fuego y el acero, para mantener lejos los peligros. Estas herramientas nos dan ventaja sobre nuestros antepasados, pero en última instancia estamos bien jodidos. Según este punto de vista, la Magia es un arma cósmica y usarla también te convierte en un monstruo. Estos dioses y monstruos tienen las llaves de la Magia y si les gustas (o si les pateas el trasero), pueden compartir esos poderes contigo… mientras tu cordura aguante.\n\nEl lado oscuro de esta filosofía existencial es que este modelo insiste en que nada tiene sentido. Paradójicamente es un punto de vista a la vez primitivo y actual. En el Mundo de Tinieblas es literalmente cierto: en efecto, existen vampiros y espíritus malignos por todas partes. Los seres humanos son presa de seres que, en esencia, son dioses y con frecuencia los magos se convierten ellos mismos en esos monstruos divinos. Aunque a menudo resulte ser el mordaz credo de los [Huecos](/mage/affiliations/hollow-ones) y otros [huérfanos](/mage/affiliations/orphans), este modelo llega hasta las creencias supuestamente más refinadas de muchos magos de las Tradiciones, de la Tecnocracia y de los magos Dispares… y, por supuesto, hasta las locuras de los Merodeadores y las maliciosas verdades de los [Nefandos](/mage/affiliations/nephandi), para quienes esta realidad se convierte en una de sus mayores [armas](/mage/instruments/weapons) filosóficas. Después de todo, cuando tienes un hombre lobo a las puertas, el mundo parece bastante irracional y también [monstruoso](/mage/flaws/monstruoso) de forma obvia.",
-    "tags": [
-      "paradigma",
-      "foco"
-    ],
-    "sources": [
-      {
-        "book_id": "forbidden-and-forgotten-orders-m20",
-        "section_anchor": "paradigmas",
-        "page": null,
-        "variant": "base",
-        "book_title_es": "Forbidden and Forgotten Orders - M20"
-      },
-      {
-        "book_id": "m20-core-rulebook-es",
-        "book_title_es": "Mago: La Ascensión, Edición 20º Aniversario",
-        "page": null,
-        "section_anchor": "un-mundo-de-dioses-y-monstruos",
-        "variant": "base"
-      },
-      {
-        "book_id": "m20-glosario-basico-es",
-        "book_title_es": "Glosario M20 Básico",
-        "page": null,
-        "section_anchor": "paradigmas",
-        "variant": "base"
-      },
-      {
-        "book_id": "m20-technocracy-reloaded",
-        "section_anchor": "paradigmas",
-        "page": null,
-        "book_title_es": "M20 Technocracy Reloaded"
-      }
-    ],
-    "mechanics": {}
-  },
-  {
-    "id": "might-is-right",
-    "type": "paradigm",
-    "line": "mage",
-    "name_en": "Might Makes Right",
-    "name_es": "El Poder Da la Razón",
-    "body_es": "La ley de la jungla gobierna un mundo en que unos se devoran a otros. Al tiempo que nos arrojan de un lado a otro por un cosmos indiferente, nada importa más allá de la habilidad para imponer la propia Voluntad. El hombre o mujer realmente superior sobresale porque es incapaz de aceptar nada que no sea la excelencia. Cualquiera que no alcance el nivel exigido en esencia admite que no es más que carne de cañón para la élite.\n\nEl Poder Da la Razón es un paradigma implacable y popular que toma su nombre y sus valores del libro homónimo de Ragnar Redbeard. Aunque se suela llamar 'darwinismo social', lo que hace en realidad es corromper la afirmación de Darwin de que los organismos más adaptables sobreviven. Ayn Rand y Anton LaVey copiaron esta filosofía a partir de una versión simplificada del ideal del übermensch de Nietzsche, y sus seguidores mantienen esta perspectiva en los negocios, la política y el debate público. Según este paradigma la verdad es una [ilusión](/mage/hedge-paths/ilusion) útil, creada y manipulada por la sociedad y quienes la gobiernan o trascienden. 'Bueno' se refiere menos a la rectitud moral (¡la moralidad es para los débiles!) que al acto de reclamar tus derechos mediante el uso de un poder superior.\n\nPara los magos este paradigma anuncia el triunfo de la Voluntad, el cual recompensa a los Despertados con un estado de existencia superior. La Ascensión, pues, es una meta individual, siendo la Ascensión social la habilidad de lograr que mucha gente acepte tu [dominio](/mage/practices/dominion). Algunas versiones de este paradigma reconocen la existencia de dioses implacables, mientras que otras rechazan cualquier forma de divinidad salvo la propia perfección. En última instancia, El Poder Da la Razón desafía a que uno mismo trascienda el rebaño y alcance la excelencia a costa de los seres inferiores. La realidad, bajo esta perspectiva, no es más que otra furcia a la que golpear siempre que sea necesario.",
-    "tags": [
-      "paradigma",
-      "foco"
-    ],
-    "sources": [
-      {
-        "book_id": "forbidden-and-forgotten-orders-m20",
-        "section_anchor": "paradigmas",
-        "page": null,
-        "variant": "base",
-        "book_title_es": "Forbidden and Forgotten Orders - M20"
-      },
-      {
-        "book_id": "m20-core-rulebook-es",
-        "book_title_es": "Mago: La Ascensión, Edición 20º Aniversario",
-        "page": null,
-        "section_anchor": "el-poder-da-la-razon",
-        "variant": "base"
-      },
-      {
-        "book_id": "m20-glosario-basico-es",
-        "book_title_es": "Glosario M20 Básico",
-        "page": null,
-        "section_anchor": "paradigmas",
-        "variant": "base"
-      },
-      {
-        "book_id": "m20-stv-m-charles-supplement-104pp",
-        "book_title_es": "El Libro de las Esferas: Magias Dispares y Locas",
-        "page": null,
-        "section_anchor": "estereotipos",
-        "variant": "base"
-      },
-      {
-        "book_id": "m20-technocracy-reloaded",
-        "section_anchor": "paradigmas",
-        "page": null,
-        "book_title_es": "M20 Technocracy Reloaded"
-      }
-    ],
-    "mechanics": {}
-  },
-  {
-    "id": "divine-order-and-earthly-chaos",
-    "type": "paradigm",
-    "line": "mage",
-    "name_en": "Divine Order and Earthly Chaos",
-    "name_es": "Orden Divino y Caos Terrenal",
-    "body_es": "De acuerdo con el sistema de creencias más común hoy en día en la Tierra, el mundo material es un reflejo o una creación imperfecta de un sublime orden celestial. Este paradigma incluye los tres credos religiosos predominantes (cristianismo, Islam y judaísmo), así como muchas ramas del confucionismo, del hinduismo y de otras filosofías. Algunos creyentes ven un Adversario cósmico que se opone al orden divino de Dios o de los dioses, mientras que otros consideran que nuestro miserable amasijo de arcilla mortal es una corrupción de la Voluntad divina o de unos ideales platónicos abstractos (ver [Gnosticismo](/mage/paradigms/gnosticism) en el Capítulo Uno, pág. 39).\n\nSegún esta perspectiva, la Magia procede de la observancia y la obediencia de la perfección celestial, o de las fuerzas que se oponen a la voluntad divina. Algunos creyentes, que podrían ver a los dioses como arquetipos que representan este orden, ven este plan divino como una interacción de fuerzas cósmicas impersonales que son perfectas por derecho propio; sin embargo, la mayoría ven la Tierra y los reinos a su alrededor como un titánico tablero de ajedrez con magos que interpretan dentro del juego el papel de piezas valiosas, aunque prescindibles.\n\nEste modelo en el que se enfrentan el orden y el caos es el credo más común de magos monoteístas como los Coristas Celestiales y los [Ahl-i-Batin](/mage/affiliations/ahl-i-batin), pero también se extiende a politeístas (los [Wu Lung](/mage/affiliations/wu-lung)), místicos agnósticos (muchos Akashayana) y otros grupos que se mueven entre el monoteísmo y el politeísmo (los [Bata'a](/mage/affiliations/bata-a) y muchos Cuentasueños). Incluso algunos ateos declarados, especialmente dentro de la Tecnocracia, aceptan una versión descreída de esta idea, en la que se mezcla la dualidad Orden / Caos con el paradigma [La Tecnología Tiene Todas las Respuestas](/mage/paradigms/technology-holds-all-the-answers). Con o sin la divinidad, el núcleo del paradigma es que la perfección existe y que, a pesar de que la vida en la tierra no llega a alcanzarla, ésta sigue siendo alcanzable. La Ascensión, en este caso, implica trascender nuestro valle de lágrimas y unirnos, aunque sea como siervos, al orden celestial mayor.",
-    "tags": [
-      "paradigma",
-      "foco"
-    ],
-    "sources": [
-      {
-        "book_id": "forbidden-and-forgotten-orders-m20",
-        "section_anchor": "paradigmas",
-        "page": null,
-        "variant": "base",
-        "book_title_es": "Forbidden and Forgotten Orders - M20"
-      },
-      {
-        "book_id": "m20-core-rulebook-es",
-        "book_title_es": "Mago: La Ascensión, Edición 20º Aniversario",
-        "page": null,
-        "section_anchor": "orden-divino-y-caos-terrenal",
-        "variant": "base"
-      },
-      {
-        "book_id": "m20-glosario-basico-es",
-        "book_title_es": "Glosario M20 Básico",
-        "page": null,
-        "section_anchor": "paradigmas",
-        "variant": "base"
-      },
-      {
-        "book_id": "m20-technocracy-reloaded",
-        "section_anchor": "paradigmas",
-        "page": null,
-        "book_title_es": "M20 Technocracy Reloaded"
-      }
-    ],
-    "mechanics": {}
-  },
-  {
-    "id": "its-all-good-have-faith",
-    "type": "paradigm",
-    "line": "mage",
-    "name_en": "Everything's Fine: Have Faith!",
-    "name_es": "Todo Está Bien: ¡Ten Fe!",
-    "body_es": "Esta concepción gnóstica de la nueva Era insiste en que la Creación es, en última instancia, benévola. Sufrimos porque creemos que vamos a sufrir; en el momento en que ajustamos nuestra actitud, el mundo vierte sus bendiciones sobre nosotros. La Magia procede del rechazo a verse atado por las expectativas comunes. La [energía](/mage/instruments/energy) es, en esencia, una fuerza positiva y una actitud positiva puede, literalmente, hacer milagros con ella.\n\nAunque sería sencillo burlarse de este paradigma, estas creencias son muy efectivas en el Mundo de Tinieblas. Allí sí existe una correlación entre la buena suerte y un punto de vista optimista. Quizás se deba sólo al desafío que implica, como si escupieras a la cara al infierno. Sea por la razón que fuere, esta trascendente inocencia da poder a Extáticos, Cuentasueños y demás místicos (¡e incluso a algún tecnomante!) que tratan la creación más como una fiesta que como un funeral.",
-    "tags": [
-      "paradigma",
-      "foco"
-    ],
-    "sources": [
-      {
-        "book_id": "forbidden-and-forgotten-orders-m20",
-        "section_anchor": "paradigmas",
-        "page": null,
-        "variant": "base",
-        "book_title_es": "Forbidden and Forgotten Orders - M20"
-      },
-      {
-        "book_id": "m20-core-rulebook-es",
-        "book_title_es": "Mago: La Ascensión, Edición 20º Aniversario",
-        "page": null,
-        "section_anchor": "todo-esta-bien-ten-fe",
-        "variant": "base"
-      },
-      {
-        "book_id": "m20-glosario-basico-es",
-        "book_title_es": "Glosario M20 Básico",
-        "page": null,
-        "section_anchor": "paradigmas",
-        "variant": "base"
-      },
-      {
-        "book_id": "m20-the-operative-dossier",
-        "book_title_es": "The Operative Dossier",
-        "page": null,
-        "section_anchor": "agent-beth-deuce"
-      }
-    ],
-    "mechanics": {}
-  },
-  {
-    "id": "one-way-trip-to-oblivion",
-    "type": "paradigm",
-    "line": "mage",
-    "name_en": "One-Way Trip to Oblivion",
-    "name_es": "Viaje Sólo de Ida al Olvido",
-    "body_es": "La creencia de que todo está perdido es preocupantemente común y está vinculada a muchos otros paradigmas. Algún día, quizás cercano, se derrumbará todo el castillo de naipes. Dios nos pedirá cuentas y la muerte [térmica](/mage/wonders/thermal-vision) del universo acabará con todo lo que una vez apreciamos, logramos o creímos. Para los creyentes, este Fin de los Tiempos implica la extinción de este mundo y el comienzo de uno nuevo… preferentemente uno en el que ellos estén al mando. Entre los agnósticos y los ateos nada importa una mierda porque todo se acaba igualmente. Lo que importa es tener todo lo que puedas mientras puedas, así como disfrutar del espectáculo antes de que las luces se apaguen del todo.\n\nEsta creencia puede encontrarse en todas las facciones. El reloj imparable que parece definir el Mundo de Tinieblas refuerza esta visión pesimista. Si incorporas la metatrama de la Venganza descrita en los Capítulos Tres, Cuatro y Cinco, entonces es una creencia adecuada: ¡el Fin de los Tiempos ya ha llegado! Para estos creyentes, la Magia implica tomar todo lo que un mago pueda tomar, cualquiera que sea su fuente, y agitar esas llaves metafísicas en todas las puertas que encuentres con la esperanza de abrir alguna. Después de todo, el tiempo se agota y cualquier táctica es lícita.\n\nPor razones obvias ésta es la máxima definitiva de los [Nefandos](/mage/affiliations/nephandi). Anima a todo tipo de excesos, desde el extremismo religioso al individualismo de Rand, pero también inspira grandes actos de heroísmo. Si la Creación está en una cuenta atrás, entonces los mayores héroes serán los que puedan parar el tiempo, darle la vuelta o cambiar el desenlace cuando todo parezca perdido.",
-    "tags": [
-      "paradigma",
-      "foco"
-    ],
-    "sources": [
-      {
-        "book_id": "forbidden-and-forgotten-orders-m20",
-        "section_anchor": "paradigmas",
-        "page": null,
-        "variant": "base",
-        "book_title_es": "Forbidden and Forgotten Orders - M20"
-      },
-      {
-        "book_id": "m20-core-rulebook-es",
-        "book_title_es": "Mago: La Ascensión, Edición 20º Aniversario",
-        "page": null,
-        "section_anchor": "viaje-solo-de-ida-al-olvido",
-        "variant": "base"
-      },
-      {
-        "book_id": "m20-glosario-basico-es",
-        "book_title_es": "Glosario M20 Básico",
-        "page": null,
-        "section_anchor": "paradigmas",
-        "variant": "base"
-      }
-    ],
-    "mechanics": {}
-  },
-  {
     "id": "atractivo-de-la-sombra",
     "type": "merit",
     "line": "mage",
@@ -4407,8 +4196,7 @@
       "spheres": [
         "Tiempo •••••"
       ],
-      "notes": "Requiere haber establecido un Punto de Anclaje para regresar. Se aplican todas las reglas anteriores de perturbación temporal.",
-      "effect": "Viajar en el tiempo*"
+      "notes": "Requiere haber establecido un Punto de Anclaje para regresar. Se aplican todas las reglas anteriores de perturbación temporal."
     },
     "sources": [
       {
@@ -5009,8 +4797,7 @@
       "spheres": [
         "Mente ••• + Fuerzas •• o superior"
       ],
-      "notes": "Capacidad de peso según tabla Fuerzas y peso (pág. 49). Tirada de Fuerza de Voluntad además de la de Areté; regla opcional: gastar 1 punto temporal de Fuerza de Voluntad para objetivos grandes/pesados. A menudo vulgar.",
-      "effect": "Telequinesis"
+      "notes": "Capacidad de peso según tabla Fuerzas y peso (pág. 49). Tirada de Fuerza de Voluntad además de la de Areté; regla opcional: gastar 1 punto temporal de Fuerza de Voluntad para objetivos grandes/pesados. A menudo vulgar."
     },
     "sources": [
       {
@@ -7420,8 +7207,7 @@
         "Mente ••• (personaje involuntario)",
         "Mente ••• / Correspondencia ••• (involuntario a mayor distancia)"
       ],
-      "coste": "Cada nuevo personaje requiere un éxito adicional en la tirada",
-      "effect": "Compartir percepciones"
+      "coste": "Cada nuevo personaje requiere un éxito adicional en la tirada"
     },
     "sources": [
       {
@@ -7542,8 +7328,7 @@
         "Cardinal ••• o Utilidad Primordial 3 (usar más Quintaesencia que la puntuación de Avatar)"
       ],
       "cantidad": "Con Cardinal 3+, la Quintaesencia usable en un Efecto = éxitos logrados (3 éxitos = hasta 6 puntos; 5 éxitos = hasta 10 puntos)",
-      "notas": "La Esfera Utilidad Primordial funciona en todos los sentidos como Cardinal",
-      "effect": "Canalizar Quintaesencia"
+      "notas": "La Esfera Utilidad Primordial funciona en todos los sentidos como Cardinal"
     },
     "sources": [
       {
@@ -11279,54 +11064,6 @@
     "related": []
   },
   {
-    "id": "avatar-genio",
-    "type": "background",
-    "line": "mage",
-    "name_en": "Avatar / Genio",
-    "name_es": "Avatar / Genio",
-    "body_es": "Luego está el Yo Despertado: el Avatar (o Genio) de tu mago. ¿Cuán poderoso es? ¿Cómo se le aparece y qué cree tu mago que es? Un Avatar bajo, de 1 o 2 puntos, refleja una idea o intuición convincente. Pero los más elevados (hasta Avatar 5) toman formas más fuertes y obvias, y son espíritus tan reales que parecen entidades separadas. Es importante decidir las formas e inclinaciones de ese Yo Iluminado y cómo tu personaje piensa sobre su existencia, especialmente si tienes un Trasfondo Avatar alto. Dependiendo de su Concepto, afiliaciones y creencias, el Avatar de tu mago podría ser cualquier cosa desde un irritante presentimiento a todo un amigo imaginario que lo conduce hacia desafíos y desastres.",
-    "tags": [
-      "trasfondo"
-    ],
-    "mechanics": {
-      "rating_max": 5
-    },
-    "sources": [
-      {
-        "book_id": "m20-core-rulebook-es",
-        "book_title_es": "M20 Core Rulebook (ES)",
-        "page": null,
-        "section_anchor": "avatar-genio",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
-    "id": "patron",
-    "type": "background",
-    "line": "mage",
-    "name_en": "Patrón",
-    "name_es": "Patrón",
-    "body_es": "Opuesta a la Esencia Dinámica, la Esencia Patrón proporciona estabilidad y orden. Si Dinamismo es fuego, Patrón es [piedra](/mage/weapons/piedra). Los magos Patrón se plantean las cosas con deliberada resolución, hablan despacio y se toman su tiempo para considerar los potenciales riesgos y beneficios de una tarea. Los Avatares Patrón, que se manifiestan como temperamentos calmados, sensatez, emociones estables y figuras autoritarias (a menudo en sueños, quizás como gente a la que sólo el mago puede ver), fijan los antojos caprichosos de la realidad en formas sólidas y fiables.\n\nDado que toda guerra necesita fortificaciones y almas de [confianza](/mage/merits/confianza), la Esencia Patrón es un recurso valioso. Tales Avatares inspiran a sus magos a ser prudentes, constructivos y dignos de [confianza](/mage/merits/confianza) (auténticos pilares, si hablamos simple y llanamente). Honor, estabilidad y buen juicio son la marca de esa gente. Si parecen aburridos o poco inspirados, es sólo porque la gente es demasiado corta de miras para reconocer a un verdadero amigo cuando lo tiene.",
-    "tags": [
-      "trasfondo"
-    ],
-    "mechanics": {
-      "rating_max": 5
-    },
-    "sources": [
-      {
-        "book_id": "m20-core-rulebook-es",
-        "book_title_es": "M20 Core Rulebook (ES)",
-        "page": null,
-        "section_anchor": "patron",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
     "id": "allies",
     "type": "background",
     "line": "mage",
@@ -11409,6 +11146,30 @@
         "book_title_es": "M20 Core Rulebook (ES)",
         "page": null,
         "section_anchor": "armas-secretas",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "avatar-genio",
+    "type": "background",
+    "line": "mage",
+    "name_en": "Avatar / Genio",
+    "name_es": "Avatar / Genio",
+    "body_es": "El Despertar define al mago. Tanto si piensa en él como un místico dios interior como si cree que es la Iluminación científicamente explicable de consciencias superiores, el Avatar o Genio permite a un Artesano de la Voluntad hacer las cosas que hace. Algunos Avatares son más potentes y efectivos que otros. Este Rasgo mide tu yo Despertado, refleja su capacidad de alterar y mantener Quintaesencia y determina cuán real es en las percepciones de tu personaje.\n\nTodo personaje mago tiene un Avatar de algún tipo, pero a no ser que adquieras al menos un punto en este Rasgo, tu capacidad de hacer mucho con tu Magia es extremadamente limitada. Aunque tus tiradas de Magia se basan en Areté , no en el Avatar, tu personaje no será capaz de usar Quintaesencia para potenciar sus hechizos. La habilidad de un mago de absorber o usar Quintaesencia se basa en el Rasgo Avatar (ver Quintaesencia, pág. 331-333). Su yo superior también es débil, más un ascua que una hoguera. Pero una puntuación de Avatar / Genio elevada refleja un yo superior cuya personalidad distintiva le parece muy real al mago concreto.\n\nX\n\n·\n\n··\n\n···\n\n····\n\nUn Avatar efimérico apenas capaz de hacer Magia.\n\nUna presencia notable que te permite absorber o gastar un punto de Quintaesencia.\n\nUna presencia dinámica que te permite absorber o gastar dos puntos de Quintaesencia.\n\nUna entidad discernible que te permite absorber o gastar tres puntos de Quintaesencia.\n\nUn poderoso espíritu que te permite absorber o gastar cuatro puntos de Quintaesencia.\n\n·····\n\nUna poderosa fuerza de Iluminación que te permite absorber o gastar cinco puntos de Quintaesencia.",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "avatar-genio",
         "variant": "base"
       }
     ],
@@ -11903,6 +11664,30 @@
         "book_title_es": "M20 Core Rulebook (ES)",
         "page": null,
         "section_anchor": "nodo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "patron",
+    "type": "background",
+    "line": "mage",
+    "name_en": "Patrón",
+    "name_es": "Patrón",
+    "body_es": "En el juego de ajedrez político de las facciones de la Ascensión, ciertos jugadores ocultan sus rostros de los peones. Uno de esos jugadores se ha dedicado a tu bienestar… al menos por el momento. Lo más probable es que no tengas ni idea de quién es tu patrón, qué quiere o cuál será la factura final por sus servicios prestados; aunque creas saber quién está tras esa benevolencia, la verdad es incierta. Esta persona no es un [Mentor](/mage/backgrounds/mentor) ni un Aliado, sino un benefactor secreto cuyos verdaderos objetivos están más allá de tu comprensión… al menos por el momento.\n\nEn términos de juego, Patrón refleja a alguien poderoso que vigila por los intereses de tu personaje. Sólo el Narrador sabe cuáles son sus planes y cuál podría ser su interés en el personaje. Al principio de la crónica, este benefactor ejerce su fuerza de modos misteriosos: se revierten órdenes, se realizan o anulan [contratos](/mage/instruments/contracts), se envían regalos, se dejan caer pistas y se tira de hilos. La Magia no revelará la razón de estas atenciones: el patrón es demasiado astuto para que lo pillen tan fácilmente. Hay claramente alguna alianza o interés en común, pero la naturaleza de esa conexión resulta elusiva. Especialmente en laberintos paranoicos como las Órdenes Hermética o Tecnocrática, esta generosidad misteriosa puede ser muy desconcertante. Pero sabes que algún día el patrón pedirá cobrarse sus [deudas](/mage/flaws/deudas)...\n\n- X\n\nSin amigos especiales.\n\n- hilos.\n\nAlguien que desde las [sombras](/mage/hedge-paths/sombras) mueve algunos\n\n- •• oculto.\n\nUn benefactor servicial que prefiere mantenerse\n\n•••\n\nUn superior o veterano que te ayuda por razones misteriosas.\n\n••••\n\nUna facción poderosa que parece favorecerte.\n\n•••••\n\nUn mago o Tecnócrata de alto rango que parece dedicarse a tu bienestar… al menos por ahora.",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "M20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "patron",
         "variant": "base"
       }
     ],
@@ -15301,23 +15086,6 @@
         "page": null,
         "variant": "base",
         "book_title_es": "M20 Technocracy Reloaded"
-      }
-    ],
-    "variants": [
-      {
-        "label": "Tecnocracia (Technocracy Reloaded)",
-        "mechanics": {
-          "focus_element": "practice",
-          "convention": "Iteración X",
-          "instruments": [
-            "armas",
-            "técnicas de meditación especializadas",
-            "regímenes de entrenamiento"
-          ]
-        },
-        "sources": [
-          "m20-technocracy-reloaded"
-        ]
       }
     ],
     "mechanics_html": {
@@ -19403,8 +19171,7 @@
     ],
     "mechanics": {
       "effect": "Anular Paradoja",
-      "spheres": "Cardinal •••••",
-      "sphere_value_raw": "Utilidad Primordial 5"
+      "spheres": "Cardinal •••••"
     },
     "sources": [
       {
@@ -19972,21 +19739,149 @@
     "mechanics": {}
   },
   {
+    "id": "a-world-of-gods-and-monsters",
+    "type": "paradigm",
+    "line": "mage",
+    "name_en": "A World of Gods and Monsters",
+    "name_es": "Un Mundo de Dioses y Monstruos",
+    "body_es": "Según este punto de vista, el mundo es básicamente irracional y peligroso y está lleno de poderosas fuerzas, muchas de las cuales son hostiles. Nada conserva su sentido por mucho tiempo y la aparente seguridad puede ceder en cualquier momento y sumirnos en el caos. La Magia, la ciencia y la fe son herramientas que usamos, como el fuego y el acero, para mantener lejos los peligros. Estas herramientas nos dan ventaja sobre nuestros antepasados, pero en última instancia estamos bien jodidos. Según este punto de vista, la Magia es un arma cósmica y usarla también te convierte en un monstruo. Estos dioses y monstruos tienen las llaves de la Magia y si les gustas (o si les pateas el trasero), pueden compartir esos poderes contigo… mientras tu cordura aguante.\n\nEl lado oscuro de esta filosofía existencial es que este modelo insiste en que nada tiene sentido. Paradójicamente es un punto de vista a la vez primitivo y actual. En el Mundo de Tinieblas es literalmente cierto: en efecto, existen vampiros y espíritus malignos por todas partes. Los seres humanos son presa de seres que, en esencia, son dioses y con frecuencia los magos se convierten ellos mismos en esos monstruos divinos. Aunque a menudo resulte ser el mordaz credo de los [Huecos](/mage/affiliations/hollow-ones) y otros [huérfanos](/mage/affiliations/orphans), este modelo llega hasta las creencias supuestamente más refinadas de muchos magos de las Tradiciones, de la Tecnocracia y de los magos Dispares… y, por supuesto, hasta las locuras de los Merodeadores y las maliciosas verdades de los [Nefandos](/mage/affiliations/nephandi), para quienes esta realidad se convierte en una de sus mayores [armas](/mage/instruments/weapons) filosóficas. Después de todo, cuando tienes un hombre lobo a las puertas, el mundo parece bastante irracional y también [monstruoso](/mage/flaws/monstruoso) de forma obvia.",
+    "tags": [
+      "paradigma",
+      "foco"
+    ],
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión, Edición 20º Aniversario",
+        "page": null,
+        "section_anchor": "un-mundo-de-dioses-y-monstruos",
+        "variant": "base"
+      },
+      {
+        "book_id": "forbidden-and-forgotten-orders-m20",
+        "section_anchor": "paradigmas",
+        "page": null,
+        "variant": "base",
+        "book_title_es": "Forbidden and Forgotten Orders - M20"
+      },
+      {
+        "book_id": "m20-glosario-basico-es",
+        "book_title_es": "Glosario M20 Básico",
+        "page": null,
+        "section_anchor": "paradigmas",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-technocracy-reloaded",
+        "section_anchor": "paradigmas",
+        "page": null,
+        "book_title_es": "M20 Technocracy Reloaded"
+      }
+    ],
+    "mechanics": {}
+  },
+  {
+    "id": "divine-order-and-earthly-chaos",
+    "type": "paradigm",
+    "line": "mage",
+    "name_en": "Divine Order and Earthly Chaos",
+    "name_es": "Orden Divino y Caos Terrenal",
+    "body_es": "De acuerdo con el sistema de creencias más común hoy en día en la Tierra, el mundo material es un reflejo o una creación imperfecta de un sublime orden celestial. Este paradigma incluye los tres credos religiosos predominantes (cristianismo, Islam y judaísmo), así como muchas ramas del confucionismo, del hinduismo y de otras filosofías. Algunos creyentes ven un Adversario cósmico que se opone al orden divino de Dios o de los dioses, mientras que otros consideran que nuestro miserable amasijo de arcilla mortal es una corrupción de la Voluntad divina o de unos ideales platónicos abstractos (ver [Gnosticismo](/mage/paradigms/gnosticism) en el Capítulo Uno, pág. 39).\n\nSegún esta perspectiva, la Magia procede de la observancia y la obediencia de la perfección celestial, o de las fuerzas que se oponen a la voluntad divina. Algunos creyentes, que podrían ver a los dioses como arquetipos que representan este orden, ven este plan divino como una interacción de fuerzas cósmicas impersonales que son perfectas por derecho propio; sin embargo, la mayoría ven la Tierra y los reinos a su alrededor como un titánico tablero de ajedrez con magos que interpretan dentro del juego el papel de piezas valiosas, aunque prescindibles.\n\nEste modelo en el que se enfrentan el orden y el caos es el credo más común de magos monoteístas como los Coristas Celestiales y los [Ahl-i-Batin](/mage/affiliations/ahl-i-batin), pero también se extiende a politeístas (los [Wu Lung](/mage/affiliations/wu-lung)), místicos agnósticos (muchos Akashayana) y otros grupos que se mueven entre el monoteísmo y el politeísmo (los [Bata'a](/mage/affiliations/bata-a) y muchos Cuentasueños). Incluso algunos ateos declarados, especialmente dentro de la Tecnocracia, aceptan una versión descreída de esta idea, en la que se mezcla la dualidad Orden / Caos con el paradigma [La Tecnología Tiene Todas las Respuestas](/mage/paradigms/technology-holds-all-the-answers). Con o sin la divinidad, el núcleo del paradigma es que la perfección existe y que, a pesar de que la vida en la tierra no llega a alcanzarla, ésta sigue siendo alcanzable. La Ascensión, en este caso, implica trascender nuestro valle de lágrimas y unirnos, aunque sea como siervos, al orden celestial mayor.",
+    "tags": [
+      "paradigma",
+      "foco"
+    ],
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión, Edición 20º Aniversario",
+        "page": null,
+        "section_anchor": "orden-divino-y-caos-terrenal",
+        "variant": "base"
+      },
+      {
+        "book_id": "forbidden-and-forgotten-orders-m20",
+        "section_anchor": "paradigmas",
+        "page": null,
+        "variant": "base",
+        "book_title_es": "Forbidden and Forgotten Orders - M20"
+      },
+      {
+        "book_id": "m20-glosario-basico-es",
+        "book_title_es": "Glosario M20 Básico",
+        "page": null,
+        "section_anchor": "paradigmas",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-technocracy-reloaded",
+        "section_anchor": "paradigmas",
+        "page": null,
+        "book_title_es": "M20 Technocracy Reloaded"
+      }
+    ],
+    "mechanics": {}
+  },
+  {
+    "id": "might-is-right",
+    "type": "paradigm",
+    "line": "mage",
+    "name_en": "Might Makes Right",
+    "name_es": "El Poder Da la Razón",
+    "body_es": "La ley de la jungla gobierna un mundo en que unos se devoran a otros. Al tiempo que nos arrojan de un lado a otro por un cosmos indiferente, nada importa más allá de la habilidad para imponer la propia Voluntad. El hombre o mujer realmente superior sobresale porque es incapaz de aceptar nada que no sea la excelencia. Cualquiera que no alcance el nivel exigido en esencia admite que no es más que carne de cañón para la élite.\n\nEl Poder Da la Razón es un paradigma implacable y popular que toma su nombre y sus valores del libro homónimo de Ragnar Redbeard. Aunque se suela llamar 'darwinismo social', lo que hace en realidad es corromper la afirmación de Darwin de que los organismos más adaptables sobreviven. Ayn Rand y Anton LaVey copiaron esta filosofía a partir de una versión simplificada del ideal del übermensch de Nietzsche, y sus seguidores mantienen esta perspectiva en los negocios, la política y el debate público. Según este paradigma la verdad es una [ilusión](/mage/hedge-paths/ilusion) útil, creada y manipulada por la sociedad y quienes la gobiernan o trascienden. 'Bueno' se refiere menos a la rectitud moral (¡la moralidad es para los débiles!) que al acto de reclamar tus derechos mediante el uso de un poder superior.\n\nPara los magos este paradigma anuncia el triunfo de la Voluntad, el cual recompensa a los Despertados con un estado de existencia superior. La Ascensión, pues, es una meta individual, siendo la Ascensión social la habilidad de lograr que mucha gente acepte tu [dominio](/mage/practices/dominion). Algunas versiones de este paradigma reconocen la existencia de dioses implacables, mientras que otras rechazan cualquier forma de divinidad salvo la propia perfección. En última instancia, El Poder Da la Razón desafía a que uno mismo trascienda el rebaño y alcance la excelencia a costa de los seres inferiores. La realidad, bajo esta perspectiva, no es más que otra furcia a la que golpear siempre que sea necesario.",
+    "tags": [
+      "paradigma",
+      "foco"
+    ],
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión, Edición 20º Aniversario",
+        "page": null,
+        "section_anchor": "el-poder-da-la-razon",
+        "variant": "base"
+      },
+      {
+        "book_id": "forbidden-and-forgotten-orders-m20",
+        "section_anchor": "paradigmas",
+        "page": null,
+        "variant": "base",
+        "book_title_es": "Forbidden and Forgotten Orders - M20"
+      },
+      {
+        "book_id": "m20-glosario-basico-es",
+        "book_title_es": "Glosario M20 Básico",
+        "page": null,
+        "section_anchor": "paradigmas",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-stv-m-charles-supplement-104pp",
+        "book_title_es": "El Libro de las Esferas: Magias Dispares y Locas",
+        "page": null,
+        "section_anchor": "estereotipos",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-technocracy-reloaded",
+        "section_anchor": "paradigmas",
+        "page": null,
+        "book_title_es": "M20 Technocracy Reloaded"
+      }
+    ],
+    "mechanics": {}
+  },
+  {
     "id": "technology-holds-all-the-answers",
     "type": "paradigm",
     "line": "mage",
-    "name_en": "Technology Holds All the Answers",
+    "name_en": "Technology Has All the Answers",
     "name_es": "La Tecnología Tiene Todas las Respuestas",
-    "body_es": "Cuestionar la idea de que todo es una máquina que funciona a base de programas y engranajes bien engrasados encaja en el paradigma de La Tecnología Tiene Todas las Respuestas; no es que el mundo en sí sea una máquina, sino que las máquinas son la clave para comprender el mundo de una manera racional. La tecnología no es, entonces, un producto del cosmos mecanicista, sino más bien la herramienta a través de la cual se revela la verdad del propio cosmos. Muchos Iteradores combinan ambos paradigmas, ya que a veces resulta difícil separar la tecnología de la comprensión.",
+    "body_es": "La tecnología no es una invención secular moderna. En realidad, es completamente al revés. Las ciencias que conocemos en el mundo moderno son las descendientes de la [alquimia](/mage/practices/alchemy), la geometría sagrada y otras formas de conocimiento refinado con resultados reproducibles. La mayoría de los [elementos](/mage/instruments/elements) de la ciencia actual fueron antes las llaves de la creación de Dios, entregadas a los elegidos (y a veces también elegidas) para llevar a cabo los planes de Dios en la Tierra. Por consiguiente, el ateísmo racionalista procede de unas preguntas que fueron posibles gracias a un conocimiento que antaño se creía que procedía de los dioses.\n\nDe acuerdo con el paradigma dominante en el mundo industrializado, el universo es racional y comprensible de forma innata. Toda pregunta tiene una respuesta y la tecnología proporciona las herramientas mediante las cuales podemos entenderlas. La Magia es sólo ciencia que no ha sido aceptada por la gente de a pie y que puede que siempre sea demasiado avanzada para que la mayoría la pueda comprender. Aunque sea el punto de vista por defecto de la Tecnocracia, ésta no es la única facción que lo incorpora. La mayoría de Eteritas, [Adeptos Virtuales](/mage/affiliations/virtual-adepts), [Hijos del Conocimiento](/mage/affiliations/children-of-knowledge) e incluso muchos magos Herméticos aceptan esta creencia. Después de todo, la [Alta Magia Ritual](/mage/practices/high-ritual-magick) no es sino otra forma de tecnología, por mucho que a muchos magos ritualistas no les guste pensar en ella de este modo.",
     "tags": [
-      "technocracy",
-      "iteracion-x",
-      "focus-paradigm"
+      "paradigma",
+      "foco"
     ],
-    "mechanics": {
-      "focus_element": "paradigm",
-      "convention": "Iteración X"
-    },
     "sources": [
       {
         "book_id": "m20-core-rulebook-es",
@@ -20023,9 +19918,7 @@
         "section_anchor": "agent-beth-deuce"
       }
     ],
-    "mechanics_html": {
-      "convention": "<a href=\"/mage/affiliations/iteration-x\">Iteración X</a>"
-    }
+    "mechanics": {}
   },
   {
     "id": "its-all-chaos",
@@ -20053,19 +19946,13 @@
     "id": "everything-is-data",
     "type": "paradigm",
     "line": "mage",
-    "name_en": "Everything Is Data",
-    "name_es": "Todo es Datos",
-    "body_es": "Muchos Estadísticos sostienen la creencia de que Todo es Datos, aunque hay más matices que eso. Sí, la Realidad es una simulación construida, y si conoces el código, puedes hacer cambios, pero entre los Iteradores existe la creencia subyacente de que el código sin una máquina son simplemente líneas sin sentido. El código le dice a la máquina qué hacer, cómo actuar, y dónde y cuándo realizar ciertas funciones, y si conoces el código puedes predecir a la perfección las acciones de la máquina.",
+    "name_en": "It's All Data",
+    "name_es": "Todo Es Datos",
+    "body_es": "Todo es código. Al menos ésa es la teoría. Lo que llamamos realidad es de hecho una simulación, una Matrix, una proyección holográfica que cualquiera que conozca el código de la realidad puede manipular. Las variantes de esta idea incluyen el concepto de un código de Dios que le permitiría a la élite Iluminada hacer trampas; un código entretejido en los textos sagrados como la Biblia, el Corán o la Torá, o con sistemas de [adivinación](/mage/hedge-paths/adivinacion) como el I Ching o el tarot; una versión computerizada del paradigma del Cosmos Mecánico; o la teoría de que todo está formado por ondas y frecuencias que pueden ajustarse con [música](/mage/instruments/music) u otros métodos. Al margen de la naturaleza de esta información, el paradigma sigue siendo el mismo: todo es datos y la gente inteligente puede trabajar con ellos.\n\nPara quienes siguen este paradigma, la Red Digital es la evidencia definitiva. La Red, formada por datos vivientes (o al menos ajustables) es la encarnación de esta creencia. Por supuesto, el mundo material es mucho más complejo, con una inmensidad de bugs y errores de código. Aun así, un hacker de la realidad sabe cómo examinar ese código, cómo reescribirlo y cómo alterar las realidades físicas, sociales y mentales mediante el uso de una comprensión sofisticada de los datos esenciales y del modo de manipularlos.",
     "tags": [
-      "technocracy",
-      "iteracion-x",
-      "estadisticos",
-      "focus-paradigm"
+      "paradigma",
+      "foco"
     ],
-    "mechanics": {
-      "focus_element": "paradigm",
-      "convention": "Iteración X"
-    },
     "sources": [
       {
         "book_id": "m20-core-rulebook-es",
@@ -20089,9 +19976,7 @@
         "book_title_es": "M20 Technocracy Reloaded"
       }
     ],
-    "mechanics_html": {
-      "convention": "<a href=\"/mage/affiliations/iteration-x\">Iteración X</a>"
-    }
+    "mechanics": {}
   },
   {
     "id": "its-all-an-illusion-prison-or-mistake",
@@ -20118,6 +20003,48 @@
         "page": null,
         "section_anchor": "paradigmas",
         "variant": "base"
+      }
+    ],
+    "mechanics": {}
+  },
+  {
+    "id": "its-all-good-have-faith",
+    "type": "paradigm",
+    "line": "mage",
+    "name_en": "Everything's Fine: Have Faith!",
+    "name_es": "Todo Está Bien: ¡Ten Fe!",
+    "body_es": "Esta concepción gnóstica de la nueva Era insiste en que la Creación es, en última instancia, benévola. Sufrimos porque creemos que vamos a sufrir; en el momento en que ajustamos nuestra actitud, el mundo vierte sus bendiciones sobre nosotros. La Magia procede del rechazo a verse atado por las expectativas comunes. La [energía](/mage/instruments/energy) es, en esencia, una fuerza positiva y una actitud positiva puede, literalmente, hacer milagros con ella.\n\nAunque sería sencillo burlarse de este paradigma, estas creencias son muy efectivas en el Mundo de Tinieblas. Allí sí existe una correlación entre la buena suerte y un punto de vista optimista. Quizás se deba sólo al desafío que implica, como si escupieras a la cara al infierno. Sea por la razón que fuere, esta trascendente inocencia da poder a Extáticos, Cuentasueños y demás místicos (¡e incluso a algún tecnomante!) que tratan la creación más como una fiesta que como un funeral.",
+    "tags": [
+      "paradigma",
+      "foco"
+    ],
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión, Edición 20º Aniversario",
+        "page": null,
+        "section_anchor": "todo-esta-bien-ten-fe",
+        "variant": "base"
+      },
+      {
+        "book_id": "forbidden-and-forgotten-orders-m20",
+        "section_anchor": "paradigmas",
+        "page": null,
+        "variant": "base",
+        "book_title_es": "Forbidden and Forgotten Orders - M20"
+      },
+      {
+        "book_id": "m20-glosario-basico-es",
+        "book_title_es": "Glosario M20 Básico",
+        "page": null,
+        "section_anchor": "paradigmas",
+        "variant": "base"
+      },
+      {
+        "book_id": "m20-the-operative-dossier",
+        "book_title_es": "The Operative Dossier",
+        "page": null,
+        "section_anchor": "agent-beth-deuce"
       }
     ],
     "mechanics": {}
@@ -20153,6 +20080,42 @@
         "book_title_es": "El Libro de las Esferas: Magias Dispares y Locas",
         "page": null,
         "section_anchor": "estereotipos",
+        "variant": "base"
+      }
+    ],
+    "mechanics": {}
+  },
+  {
+    "id": "one-way-trip-to-oblivion",
+    "type": "paradigm",
+    "line": "mage",
+    "name_en": "One-Way Trip to Oblivion",
+    "name_es": "Viaje Sólo de Ida al Olvido",
+    "body_es": "La creencia de que todo está perdido es preocupantemente común y está vinculada a muchos otros paradigmas. Algún día, quizás cercano, se derrumbará todo el castillo de naipes. Dios nos pedirá cuentas y la muerte [térmica](/mage/wonders/thermal-vision) del universo acabará con todo lo que una vez apreciamos, logramos o creímos. Para los creyentes, este Fin de los Tiempos implica la extinción de este mundo y el comienzo de uno nuevo… preferentemente uno en el que ellos estén al mando. Entre los agnósticos y los ateos nada importa una mierda porque todo se acaba igualmente. Lo que importa es tener todo lo que puedas mientras puedas, así como disfrutar del espectáculo antes de que las luces se apaguen del todo.\n\nEsta creencia puede encontrarse en todas las facciones. El reloj imparable que parece definir el Mundo de Tinieblas refuerza esta visión pesimista. Si incorporas la metatrama de la Venganza descrita en los Capítulos Tres, Cuatro y Cinco, entonces es una creencia adecuada: ¡el Fin de los Tiempos ya ha llegado! Para estos creyentes, la Magia implica tomar todo lo que un mago pueda tomar, cualquiera que sea su fuente, y agitar esas llaves metafísicas en todas las puertas que encuentres con la esperanza de abrir alguna. Después de todo, el tiempo se agota y cualquier táctica es lícita.\n\nPor razones obvias ésta es la máxima definitiva de los [Nefandos](/mage/affiliations/nephandi). Anima a todo tipo de excesos, desde el extremismo religioso al individualismo de Rand, pero también inspira grandes actos de heroísmo. Si la Creación está en una cuenta atrás, entonces los mayores héroes serán los que puedan parar el tiempo, darle la vuelta o cambiar el desenlace cuando todo parezca perdido.",
+    "tags": [
+      "paradigma",
+      "foco"
+    ],
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión, Edición 20º Aniversario",
+        "page": null,
+        "section_anchor": "viaje-solo-de-ida-al-olvido",
+        "variant": "base"
+      },
+      {
+        "book_id": "forbidden-and-forgotten-orders-m20",
+        "section_anchor": "paradigmas",
+        "page": null,
+        "variant": "base",
+        "book_title_es": "Forbidden and Forgotten Orders - M20"
+      },
+      {
+        "book_id": "m20-glosario-basico-es",
+        "book_title_es": "Glosario M20 Básico",
+        "page": null,
+        "section_anchor": "paradigmas",
         "variant": "base"
       }
     ],
@@ -20549,24 +20512,6 @@
         "book_title_es": "M20 Technocracy Reloaded"
       }
     ],
-    "variants": [
-      {
-        "label": "Tecnocracia (Technocracy Reloaded)",
-        "mechanics": {
-          "focus_element": "practice",
-          "convention": "Iteración X",
-          "instruments": [
-            "ordenadores",
-            "libros",
-            "armas",
-            "herramientas físicas"
-          ]
-        },
-        "sources": [
-          "m20-technocracy-reloaded"
-        ]
-      }
-    ],
     "mechanics_html": {
       "paradigmas_asociados": [
         "<a href=\"/mage/paradigms/a-mechanical-cosmos\">Un Cosmos Mecánico</a>",
@@ -20861,24 +20806,6 @@
         "book_title_es": "M20 Technocracy Reloaded"
       }
     ],
-    "variants": [
-      {
-        "label": "Tecnocracia (Technocracy Reloaded)",
-        "mechanics": {
-          "focus_element": "practice",
-          "convention": "Iteración X",
-          "instruments": [
-            "contacto visual directo",
-            "dominación social",
-            "ordenadores",
-            "memes"
-          ]
-        },
-        "sources": [
-          "m20-technocracy-reloaded"
-        ]
-      }
-    ],
     "mechanics_html": {
       "paradigmas_asociados": [
         "<a href=\"/mage/paradigms/a-mechanical-cosmos\">Un Cosmos Mecánico</a>",
@@ -21070,22 +20997,6 @@
         "book_title_es": "The Operative Dossier",
         "page": null,
         "section_anchor": "supervisor-elizabeth-betsy-horne"
-      }
-    ],
-    "variants": [
-      {
-        "label": "Tecnocracia (Technocracy Reloaded)",
-        "mechanics": {
-          "focus_element": "practice",
-          "convention": "Iteración X",
-          "instruments": [
-            "ordenadores",
-            "dispositivos de laboratorio"
-          ]
-        },
-        "sources": [
-          "m20-technocracy-reloaded"
-        ]
       }
     ],
     "mechanics_html": {
@@ -34292,18 +34203,6 @@
         "book_title_es": "M20 Technocracy Reloaded"
       }
     ],
-    "variants": [
-      {
-        "label": "Tecnocracia (Technocracy Reloaded)",
-        "mechanics": {
-          "focus_element": "paradigm",
-          "convention": "Iteración X"
-        },
-        "sources": [
-          "m20-technocracy-reloaded"
-        ]
-      }
-    ],
     "mechanics_html": {
       "practicas_asociadas": "<a href=\"/mage/practices/alchemy\">Alquimia</a>, <a href=\"/mage/practices/cybernetics\">cibernética</a>, fe, <a href=\"/mage/practices/reality-hacking\">hackeo de la realidad</a>, <a href=\"/mage/practices/gutter-magick\">Magia callejera</a> (por razones obvias), <a href=\"/mage/instruments/chaos-magic\">Magia del caos</a>, <a href=\"/mage/practices/maleficia\">maleficia</a> (que trabaja para provocar ese fin), <a href=\"/mage/practices/psionics\">psiónica</a>, <a href=\"/mage/practices/crazy-wisdom\">sabiduría loca</a>, yoga."
     }
@@ -34531,18 +34430,6 @@
         "page": null,
         "variant": "base",
         "book_title_es": "M20 Technocracy Reloaded"
-      }
-    ],
-    "variants": [
-      {
-        "label": "Tecnocracia (Technocracy Reloaded)",
-        "mechanics": {
-          "focus_element": "paradigm",
-          "convention": "Iteración X"
-        },
-        "sources": [
-          "m20-technocracy-reloaded"
-        ]
       }
     ],
     "mechanics_html": {
@@ -34841,21 +34728,6 @@
         "page": null,
         "variant": "base",
         "book_title_es": "M20 Technocracy Reloaded"
-      }
-    ],
-    "variants": [
-      {
-        "label": "Tecnocracia (Technocracy Reloaded)",
-        "mechanics": {
-          "focus_element": "practice",
-          "convention": "Iteración X",
-          "instruments": [
-            "disciplina mental"
-          ]
-        },
-        "sources": [
-          "m20-technocracy-reloaded"
-        ]
       }
     ],
     "mechanics_html": {

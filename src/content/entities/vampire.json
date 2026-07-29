@@ -5255,30 +5255,6 @@
     "related": []
   },
   {
-    "id": "generacion",
-    "type": "background",
-    "line": "vampire",
-    "name_en": "Generación",
-    "name_es": "Generación",
-    "body_es": "Entre los vampiros, la noción de Generación es un concepto que describe la distancia que los separa del Primer Vampiro. Cuando un Vástago concede el Abrazo, el Chiquillo se alza de entre los muertos con una Generación superior: una Generación más separado de Caín. Los Fundadores de los Clanes conformaban la Tercera Generación, su Progenie se convirtió en la Cuarta Generación, sus Chiquillos en la Quinta, y así hasta llegar a la Decimotercera Generación, la más corriente actualmente entre los Neonatos.\n\nEsta explicación puede generar confusión, no obstante. 'Tercera Generación' implica que estos Antediluvianos se encuentran tres pasos separados de Caín, pero la mitología más común nombra sólo dos. Si el propio Caín no es la 'Generación cero', ¿de quién está él separado una Generación?\n\nLa Generación determina en gran medida el potencial de un Vástago. El [dominio](/vampire/backgrounds/domain) de algunas Disciplinas, por ejemplo, depende de un umbral de Generación, como también la habilidad de acumular vastas cantidades de Sangre dentro del cuerpo de un vampiro. Algunos Vástagos realmente antiguos sólo necesitan alimentarse cuando les apetece; tan grandes son sus reservas de Vitae.",
-    "tags": [
-      "trasfondo"
-    ],
-    "mechanics": {
-      "rating_max": 5
-    },
-    "sources": [
-      {
-        "book_id": "v20-core-rulebook-es",
-        "book_title_es": "V20 Core Rulebook (ES)",
-        "page": null,
-        "section_anchor": "generacion",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
     "id": "allies",
     "type": "background",
     "line": "vampire",
@@ -5393,6 +5369,30 @@
         "book_title_es": "V20 Core Rulebook (ES)",
         "page": null,
         "section_anchor": "fama",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "generacion",
+    "type": "background",
+    "line": "vampire",
+    "name_en": "Generación",
+    "name_es": "Generación",
+    "body_es": "Este Trasfondo representa tu Generación: la pureza de tu Sangre y tu proximidad al Primer Vampiro. Una puntuación alta en Generación puede representar un Sire poderoso o un gusto decididamente peligroso por la Diablerie. Si no adquieres ningún punto en este Rasgo, comienzas jugando como un vampiro de la Decimotercera Generación. Ver pág. 270 para más información.\n\n- Duodécima Generación: reserva de Sangre 11, puedes gastar 1 punto de Sangre por turno.\n- ·· Undécima Generación: reserva de Sangre 12, puedes gastar 1 punto de Sangre por turno.\n- ··· Décima Generación: reserva de Sangre 13, puedes gastar 1 punto de Sangre por turno.\n- ···· Novena Generación: reserva de Sangre 14, puedes gastar 2 puntos de Sangre por turno.\n\n·····\n\nOctava Generación: reserva de Sangre 15, puedes gastar 3 puntos de Sangre por turno.",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "V20 Core Rulebook (ES)",
+        "page": null,
+        "section_anchor": "generacion",
         "variant": "base"
       }
     ],

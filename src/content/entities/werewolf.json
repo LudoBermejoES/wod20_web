@@ -1196,6 +1196,37 @@
     ]
   },
   {
+    "id": "kinfolk",
+    "type": "background",
+    "line": "werewolf",
+    "name_en": "Parentela",
+    "name_es": "Parentela",
+    "body_es": "La Parentela son humanos y lobos, por lo demás normales, que descienden de Garou sin haber heredado su deber espiritual. Mediante este Trasfondo estás en contacto con cierta cantidad de Parientes. Aunque éstos son miembros normales de su especie en la mayoría de los aspectos, son inmunes al Delirio, lo que les proporciona la dudosa ventaja de poder contemplar a un hombre lobo en Forma Crinos. Saben que eres un Garou y están deseosos de ayudarte como puedan, aunque la mayoría no está en posiciones de poder (esa gente se considera [Aliados](/werewolf/backgrounds/allies)). Las redes de Parientes son un recurso valioso para los hombres lobo a la hora de tratar con el mundo humano sin arriesgarse a entrar en Frenesí o a ser descubiertos. Algunos Parientes pueden estar emparentados directamente contigo, mientras que otros son [contactos](/werewolf/backgrounds/contacts) que has hecho en tu clan.\n\nParentela puede compartirse entre toda una manada.\n\n·\n\n- ··\n\nDos Parientes.\n\nCinco Parientes.\n\n- ··· Diez Parientes. ···· Veinte Parientes.\n- ····· Cincuenta Parientes.",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "w20-aniversario-core-es",
+        "book_title_es": "W20 Aniversario Core (ES)",
+        "page": null,
+        "section_anchor": "parentela",
+        "variant": "base"
+      },
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "parentela",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
     "id": "totem",
     "type": "background",
     "line": "werewolf",
@@ -26808,30 +26839,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
         "page": null,
         "section_anchor": "microquiroptero",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
-    "id": "kinfolk",
-    "type": "background",
-    "line": "werewolf",
-    "name_en": "Parentela",
-    "name_es": "Parentela",
-    "body_es": "La Parentela osuna de los Caminantes del Bosque consiste sobre todo en osos negros con una pizca de otras especies, incluyendo el oso de anteojos sudamericano. La Parentela humana suele tener únicamente procedencia nativa americana, predominantemente de las tribus del Sur y el Este. Igual que los demás [Gurahl](/werewolf/changing-breeds/gurahl), los Caminantes del Bosque han comenzado a tomar parejas humanas allí donde pueden, escogiendo a menudo a aquéllos que trabajan activamente por la conservación de los bosques, la preservación de la fauna u otros trabajos al aire libre.",
-    "tags": [
-      "trasfondo"
-    ],
-    "mechanics": {
-      "rating_max": 5
-    },
-    "sources": [
-      {
-        "book_id": "w20-nsr-aniversario-parte-3-290pp",
-        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
-        "page": null,
-        "section_anchor": "parentela",
         "variant": "base"
       }
     ],
