@@ -26838,37 +26838,6 @@
     "related": []
   },
   {
-    "id": "rank",
-    "type": "background",
-    "line": "werewolf",
-    "name_en": "Rango",
-    "name_es": "Rango",
-    "body_es": "Los Garou, como muchas sociedades que deben luchar por su [supervivencia](/werewolf/gifts/survival), mantienen un estricto sistema de Rangos. Entre los Garou determina el estatus y muestra cuánto respeto merece el personaje. A medida que aumenta su Rango, un Garou muestra a su clan y su Tribu que está comprometido y es digno de confianza en la lucha contra el Wyrm. Aprende más secretos de su Tribu con cada nuevo Rango, aunque otros hombres lobo tendrán mayores expectativas sobre su comportamiento.\n\nLos personajes comienzan con Rango 1 y lo aumentan ganando Renombre. El aumento de Rango se detalla más ampliamente en la pág. 251.\n\n**Beneficios del Rango**\n\nEl Rango entre los Garou comporta muchos privilegios.\n\n- Dones: Cuando un Garou alcanza un nuevo Rango, puede pedir a los espíritus aprender nuevos y más poderosos Dones. Para aprender un nuevo Don, un personaje debe no sólo tener los puntos de Experiencia requeridos, sino también un Rango igual al nivel del Don. Un Garou no puede comprar el respeto de sus compañeros y del mundo espiritual con puntos de Experiencia. Los Dones más valiosos y poderosos están, por tanto, reservados sólo a aquellos hombres lobo que han demostrado gran Gloria, Honor y Sabiduría.\n\n- Derechos: La Letanía es bastante clara: quienes ocupan una posición inferior deben mostrar deferencia a los que ocupan una más alta. Según aumenta el Rango de un Garou, los jóvenes de menor Rango mostrarán cada vez mayor deferencia hacia él. Cuando un personaje sube a Rango 3 o más, la sociedad de los hombres lobo en toda su extensión habrá oído hablar de él. El Rango conlleva responsabilidades, ya que se espera que los hombres lobo se embarquen en búsquedas y misiones para ayudar al clan y a la Tribu, protejan los Túmulos frente a los ataques y dirijan y cuiden de aquéllos de menor posición, tal como la Letanía exige.\n\n- Desafíos: La legalidad de un desafío está supeditada al Rango. Un hombre lobo sólo puede lanzar un desafío a otro cuyo Rango sea un nivel mayor que el del propio hombre lobo: un Garou de Rango 1 puede desafiar a un superior de Rango 2, pero no puede desafiar a nadie de Rango 3 o 4.\n\n- Autocontrol: Los personajes de mayor Rango han demostrado disciplina y han estado tan inmersos en la estructura de la sociedad Garou que son menos dados a entrar en Frenesí. La siguiente tabla muestra los bonificaciones que un personaje gana según su Rango aumenta.",
-    "tags": [
-      "trasfondo"
-    ],
-    "mechanics": {
-      "rating_max": 5
-    },
-    "sources": [
-      {
-        "book_id": "w20-aniversario-core-es",
-        "book_title_es": "W20 Aniversario Core (ES)",
-        "page": null,
-        "section_anchor": "rango",
-        "variant": "base"
-      },
-      {
-        "book_id": "w20-nsr-aniversario-parte-3-290pp",
-        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
-        "page": null,
-        "section_anchor": "rango",
-        "variant": "variant"
-      }
-    ],
-    "related": []
-  },
-  {
     "id": "ajaba",
     "type": "changing-breed",
     "line": "werewolf",
