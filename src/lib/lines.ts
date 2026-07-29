@@ -14,9 +14,13 @@ export const LINES: LineInfo[] = [
   { id: 'wraith', nombre: 'Wraith', subtitulo: 'El Olvido' },
   { id: 'changeling', nombre: 'Changeling', subtitulo: 'El Ensueño' },
   { id: 'hunter', nombre: 'Cazador', subtitulo: 'La Venganza' },
-  // Cross-line combat content: the translated combat compendium (reading page) + its
-  // maneuver / martial-art / vehicle reference entities.
-  { id: 'shared', nombre: 'Combate', subtitulo: 'Compendio de combate' },
+  // Cross-line content that applies to EVERY line, not just combat. "Combate" was wrong and
+  // actively misleading: only 3 of the 7 shared entity types are combat content (maneuvers,
+  // martial arts, vehicles) -- the other 4 are archetypes, derangements, flaws and SECONDARY
+  // ABILITIES, and a combat label hid that last one badly enough that it read as missing.
+  // `foundry_export.py`'s LINE_ES says "Común" for the same reason; this file is what the home
+  // page and the search filter actually render, so it was the stale copy of the two.
+  { id: 'shared', nombre: 'Común', subtitulo: 'Contenido común a todas las líneas' },
 ];
 
 export function lineInfo(id: string): LineInfo | undefined {
