@@ -1383,7 +1383,8 @@
       "category": "static-magic",
       "roll": "Percepción + Ocultismo (dificultad 7).",
       "cost": "Varía.",
-      "duration": "Una única revelación."
+      "duration": "Una única revelación.",
+      "difficulty": "7"
     },
     "sources": [
       {
@@ -1411,7 +1412,8 @@
       "category": "static-magic",
       "roll": "Manipulación + Intimidación (dificultad 7).",
       "cost": "1 punto de Fuerza de Voluntad.",
-      "duration": "Varía (ver más adelante)."
+      "duration": "Varía (ver más adelante).",
+      "difficulty": "7"
     },
     "sources": [
       {
@@ -1439,7 +1441,8 @@
       "category": "static-magic",
       "roll": "Manipulación + Medicina (dificultad 7).",
       "cost": "Varía.",
-      "duration": "Varía según el efecto (ver a continuación)."
+      "duration": "Varía según el efecto (ver a continuación).",
+      "difficulty": "7"
     },
     "sources": [
       {
@@ -1467,7 +1470,8 @@
       "category": "psychic",
       "roll": "Manipulación + Tecnología (dificultad 7).",
       "cost": "Varía.",
-      "duration": "Generalmente instantánea."
+      "duration": "Generalmente instantánea.",
+      "difficulty": "7"
     },
     "sources": [
       {
@@ -1551,7 +1555,8 @@
       "category": "psychic",
       "roll": "Percepción + Empatía (dificultad 7).",
       "cost": "1 punto de Fuerza de Voluntad.",
-      "duration": "Generalmente no aplicable, pero los niveles superiores conceden 10 minutos o una hora por éxito de conexión activa."
+      "duration": "Generalmente no aplicable, pero los niveles superiores conceden 10 minutos o una hora por éxito de conexión activa.",
+      "difficulty": "7"
     },
     "sources": [
       {
@@ -1663,7 +1668,8 @@
       "category": "psychic",
       "roll": "Percepción + Trato con Animales (dificultad 7). Modificadores: Por tipo de animal, según se describe arriba.",
       "cost": "Ninguno.",
-      "duration": "Puede comunicarse un minuto por éxito."
+      "duration": "Puede comunicarse un minuto por éxito.",
+      "difficulty": "7"
     },
     "sources": [
       {
@@ -1719,7 +1725,8 @@
       "category": "static-magic",
       "roll": "Inteligencia + Ocultismo (dificultad 8).",
       "cost": "Varía.",
-      "duration": "Varía."
+      "duration": "Varía.",
+      "difficulty": "8"
     },
     "sources": [
       {

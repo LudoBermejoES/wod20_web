@@ -1197,7 +1197,7 @@
     ],
     "mechanics": {
       "artifact_level": "Artefacto de nivel 4",
-      "efectos": "Reduce permanentemente el Corpus: retirar una extremidad reduce el Corpus en 2; retirar un órgano sensorial lo reduce en 1. Requiere 3 horas por punto retirado. Incrementa la Angustia máxima de la Sombra en 1 por cada 2 puntos de Corpus retirado y dobla el tiempo de procesado.",
+      "effect": "Reduce permanentemente el Corpus: retirar una extremidad reduce el Corpus en 2; retirar un órgano sensorial lo reduce en 1. Requiere 3 horas por punto retirado. Incrementa la Angustia máxima de la Sombra en 1 por cada 2 puntos de Corpus retirado y dobla el tiempo de procesado.",
       "objeto_base": "Armazón dodecaédrico forjado de almas con cuatro brazos mecánicos quirúrgicos alrededor de una camilla acolchada con correas. Requiere cinco wraiths para su creación. Jaula: forma equilibrada del tamaño de un wraith (7 éxitos en trabajo, 1 éxito en finalización). Cada brazo: objeto de precisión no ocultable (7 éxitos en trabajo, Especialización de Artesanía en Cirugía: 6 éxitos en finalización).",
       "poderes": [
         "Desensamblar para siempre al wraith atrapado (Salvaje, Moliar ·····)",
@@ -12592,7 +12592,8 @@
       "gremio"
     ],
     "mechanics": {
-      "associated_arcanos": "Argos"
+      "associated_arcanos": "Argos",
+      "guild_marks": "Dado que Argos afecta a la Tempestad, también una pizca de ésta empapa a cada Heraldo. Un wraith hábil en estas Artes desarrolla gradualmente ojos negro azabache, y su ropa se sacude a causa de intangibles vientos que soplan a rachas con sus emociones."
     },
     "sources": [
       {
@@ -12639,7 +12640,9 @@
     "tags": [
       "gremio"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "guild_marks": "Cada Oráculo porta cicatrices en relieve o patrones similares a tatuajes que representan su forma de adivinación favorita. Estas marcas se mueven por voluntad propia, aunque los intentos por interpretar los cambios rara vez aportan ninguna información útil. Muchos wraiths del Gremio eligen los atuendos más llamativos posibles y vagan con los ojos tapados, aunque sólo los más antiguos recuerdan el origen de esa moda como una expresión de solidaridad con sus ancianos compañeros en el Gremio de los Heraldos. Muchos Oráculos confían en una técnica, herramienta o meditación concretas para enfocar sus Artes. Cartas de tarot, hojas de té, irónicas ouijas Reliquia, las entrañas de extraños Plásmicos… Nada es demasiado extravagante para el vidente devoto. Estas prácticas son tan comunes fuera del Gremio de los Oráculos como dentro."
+    },
     "sources": [
       {
         "book_id": "wraith20-el-olvido-nsr-es",
@@ -12649,7 +12652,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "guild_marks": "Cada Oráculo porta cicatrices en relieve o patrones similares a tatuajes que representan su forma de adivinación favorita. Estas marcas se mueven por voluntad propia, aunque los intentos por interpretar los cambios rara vez aportan ninguna información útil. Muchos wraiths del Gremio eligen los atuendos más llamativos posibles y vagan con los ojos tapados, aunque sólo los más antiguos recuerdan el origen de esa moda como una expresión de solidaridad con sus ancianos compañeros en el Gremio de los <a href=\"/wraith/guilds/heraldos\">Heraldos</a>. Muchos Oráculos confían en una técnica, herramienta o meditación concretas para enfocar sus Artes. Cartas de tarot, hojas de té, irónicas ouijas <a href=\"/wraith/backgrounds/reliquia\">Reliquia</a>, las entrañas de extraños Plásmicos… Nada es demasiado extravagante para el vidente devoto. Estas prácticas son tan comunes fuera del Gremio de los Oráculos como dentro."
+    }
   },
   {
     "id": "alquimistas",
@@ -12662,7 +12668,8 @@
       "gremio"
     ],
     "mechanics": {
-      "associated_arcanos": "Flujo"
+      "associated_arcanos": "Flujo",
+      "guild_marks": "Que un wraith trabaje con los ecos y reflejos de objetos inanimados, moldea a cambio parte de su propia imagen. Partes de cada Alquimista parecen manufacturadas: articulaciones con bisagras, remaches, soldaduras, óxido brillando paralelo a sus largos huesos, quizás la marca de un fabricante de su ciudad de nacimiento o un código de barras con una frase personalmente significativa. Estas marcas de Gremio evolucionan con los gustos del Alquimista y reflejan los tipos de Reliquias con los que prefiere trabajar."
     },
     "sources": [
       {
@@ -12686,7 +12693,8 @@
       "gremio"
     ],
     "mechanics": {
-      "associated_arcanos": "Habitar"
+      "associated_arcanos": "Habitar",
+      "guild_marks": "Los Artesanos acumulan desgaste que imita el de los objetos que Habitan. Los que prefieren objetos sencillos o maquinaria física manifiestan rasguños y ranuras, huelen a humo y metal caliente y de debajo de sus uñas rezuma grasa. Los patrones de circuitos destellan bajo la piel de los wraiths con inclinaciones más digitales, mientras que los registros de errores de diálogos internos con sus Sombras se desplazan por sus ojos. La forja de almas deja su propio residuo en estos obreros, y los ciudadanos estigios no informados suelen confundirlo con las marcas de Gremio de Habitar. Los aprendices suelen estar quemados y chamuscados de las forjas. Los herreros que llevan sirviendo más tiempo llevan algunos de los aspectos de las forjas consigo: parches en sus formas brillan con un apagado calor enrojecido. Los herreros del Gremio visten una prenda singular adicional que forjan como rito de iniciación y recuerdo del verdadero coste de su negocio: una moneda forjada a martillazos a partir de una de sus propias manos."
     },
     "sources": [
       {
@@ -12710,7 +12718,8 @@
       "gremio"
     ],
     "mechanics": {
-      "associated_arcanos": "Moliar"
+      "associated_arcanos": "Moliar",
+      "guild_marks": "Dado que una Máscara puede cambiar de forma para eliminar o alterar un rasgo físico, lo que le identifica como Máscara es que tiene una característica distintiva que no puede cambiar, permanece inalterable, mutatis mutandis , en cada forma que adopta. El rasgo más común es el color de los ojos, pero otros ejemplos incluyen: una cicatriz o tatuaje notables, un diente torcido, un dedo con forma extraña o una nariz partida y mal encajada que tiene un «forma» distintiva. Por ejemplo, si la marca de Gremio de una Máscara es una cicatriz en la parte izquierda de su rostro, incluso si usa Imitar para hacerse pasar por otro wraith, la cicatriz permanece (lo que tiene posibilidades de echar por tierra el disfraz). Si usa Armamento para protegerse con un «yelmo», el exterior de éste tiene una marca con la misma forma y tamaño que la cicatriz. Si Moldea su Cuerpo como un mueble, la silla en la que se convierte tiene un raspón o quemadura del mismo tamaño y longitud que la cicatriz en la parte apropiada de su forma."
     },
     "sources": [
       {
@@ -12734,7 +12743,8 @@
       "gremio"
     ],
     "mechanics": {
-      "associated_arcanos": "Títeres"
+      "associated_arcanos": "Títeres",
+      "guild_marks": "Los Monitores nunca cierran los ojos, jamás. Algunos Monitores, prendados del simbolismo de su Arcanos, tienden a usar ropa en la que las arañas y las telarañas tienen un lugar destacado. Los wraiths más viejos del Gremio lo consideran torpe, cuando no una burla imprudente hacia los muchos Sin Reposo con prejuicios contra el Gremio."
     },
     "sources": [
       {
@@ -12758,7 +12768,8 @@
       "gremio"
     ],
     "mechanics": {
-      "associated_arcanos": "Usura"
+      "associated_arcanos": "Usura",
+      "guild_marks": "La cruda cualidad física de Ultraje se transpone al Corpus de sus estudiantes. Las Furias novatas muestran un desarrollo muscular desigual e improbable anatómicamente. Los usuarios de Ultraje más experimentados poseen físicos descomunales que parecen atiborrados de esteroides."
     },
     "sources": [
       {
@@ -12954,7 +12965,7 @@
       "categoria": "Reliquia",
       "nivel": "4",
       "nivel_es": "Reliquia de nivel 4",
-      "efectos": "+2 Fuerza al portador; daño agravado; 5 puntos de Pathos al arrojar a alguien a un Tormento"
+      "effect": "+2 Fuerza al portador; daño agravado; 5 puntos de Pathos al arrojar a alguien a un Tormento"
     },
     "sources": [
       {
@@ -13172,7 +13183,7 @@
       "categoria": "Artefacto",
       "nivel": "2",
       "nivel_es": "Artefacto de nivel 2",
-      "efecto": "produce un Nihil de 2 metros de ancho en un turno; los perseguidores tiran Destreza + Atletismo a dificultad 7 para no caer en él",
+      "effect": "produce un Nihil de 2 metros de ancho en un turno; los perseguidores tiran Destreza + Atletismo a dificultad 7 para no caer en él",
       "duracion": "una o dos semanas"
     },
     "sources": [
@@ -13502,7 +13513,7 @@
       "categoria": "Artefacto de piel",
       "nivel": "1",
       "nivel_es": "Artefacto de piel de nivel 1",
-      "efecto": "+1 dado de daño a un arma pulida durante el siguiente conflicto (esa batalla)",
+      "effect": "+1 dado de daño a un arma pulida durante el siguiente conflicto (esa batalla)",
       "usos": "una docena de veces",
       "mantenimiento_artefacto_de_piel": "2 puntos de Pathos al día para mantener el estatus activo; reactivar requiere un día y 4 puntos de Pathos; cualquier fracaso al usarlo otorga 1 punto de Angustia temporal"
     },
@@ -13670,7 +13681,7 @@
       "nivel": "1",
       "nivel_es": "Artefacto espectral de nivel 1",
       "deteccion": "Percepción + Consciencia a dificultad 8",
-      "efecto": "se desintegra en baba nauseabunda al intentar pagar; el hedor persiste una semana"
+      "effect": "se desintegra en baba nauseabunda al intentar pagar; el hedor persiste una semana"
     },
     "sources": [
       {
@@ -13770,7 +13781,7 @@
       "nivel_es": "Arma de almas espectral de nivel 4",
       "base": "Colt Anaconda: dificultad 7, 35 metros de alcance, cadencia 2, coste 2 puntos de Angustia por disparo, daño 6",
       "cristal": "cristal de fuego de sangre en la empuñadura (12 puntos de Angustia)",
-      "efecto": "lanza una larva sombra por cada éxito en la tirada de daño; 1 dado de daño por cada larva por turno; +1 de dificultad en todas las tiradas por cada larva",
+      "effect": "lanza una larva sombra por cada éxito en la tirada de daño; 1 dado de daño por cada larva por turno; +1 de dificultad en todas las tiradas por cada larva",
       "coste_empunar": "1 punto de Angustia temporal por cada disparo",
       "eliminar_larvas": "Moliar o escarbar tras ellas (hiere a la víctima); o Castigar 3 (Purificar), matando una larva por cada éxito sin causar más daño"
     },

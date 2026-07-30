@@ -3564,7 +3564,7 @@
       "maravilla"
     ],
     "mechanics": {
-      "wonder_type": "Grimorio",
+      "subtype": "Grimorio",
       "rank": "··· o ····",
       "rating_by_edition": "inglés: sin propiedades especiales; griego: Grimorio de 3 puntos (···); acadio: Grimorio de 4 puntos (····)",
       "teaches": "Cosmología, Esoterismo (Demonología Sumeria), Esoterismo (Profecía Antigua), Ocultismo; ediciones de gama alta: Esoterismo (Qlifot), Esoterismo (Alto Ritual Sumerio)"
@@ -3593,7 +3593,7 @@
       "demonologia"
     ],
     "mechanics": {
-      "wonder_type": "Grimorio",
+      "subtype": "Grimorio",
       "rank": "····",
       "teaches": "Cosmología, Esoterismo (Demonología), Esoterismo (Alto Ritual), Saber (Espíritus)",
       "notes": "Permite obtener Areté sin Búsqueda y mejorar la Esfera de Espíritu (Grimorios, El Libro de los Secretos). Demonios: Amurru, Angu, Asakku, Lamastu, Pazuzu, Sykora."
@@ -3622,7 +3622,7 @@
       "despertar"
     ],
     "mechanics": {
-      "wonder_type": "Manual",
+      "subtype": "Manual",
       "rank": "··",
       "teaches": "Manipulación, Intimidación, Liderazgo o Seducción",
       "notes": "Manual capaz de Despertar a un Avatar dormido (El Libro de los Secretos, pp. 146-147)."
@@ -3652,7 +3652,7 @@
       "despertar"
     ],
     "mechanics": {
-      "wonder_type": "Grimorio",
+      "subtype": "Grimorio",
       "rank": "····",
       "teaches": "Esoterismo (Magia Negra), Esoterismo (Qlifot), Saber: Nefandos",
       "embedded_effects": "El Arte de la Seducción, Difuminar la Verdad, Ansias Constantes, Abogado del Diablo (sobre lectoras Despertadas); El Arte de la Seducción y Difuminar la Verdad (sobre Durmientes / copias inferiores)",
@@ -3690,7 +3690,7 @@
       "maravilla"
     ],
     "mechanics": {
-      "wonder_type": "Grimorio",
+      "subtype": "Grimorio",
       "rank": "··",
       "teaches": "Ocultismo, Esoterismo (Magia Negra), Esoterismo (Magia Sexual), Intimidación, Tortura"
     },
@@ -3721,7 +3721,7 @@
       "vehiculo"
     ],
     "mechanics": {
-      "wonder_type": "Dispositivo",
+      "subtype": "Dispositivo",
       "rank": "··",
       "arete": "N/D",
       "quintaesencia": "N/D",
@@ -3738,7 +3738,7 @@
       }
     ],
     "mechanics_html": {
-      "wonder_type": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
       "effects": "Carrocería +4 Durabilidad y Estructura (Mago 20, p. 460); romper el <a href=\"/mage/hedge-paths/charm\">encantamiento</a> requiere 4+ éxitos a Dificultad 7"
     }
   },
@@ -3758,7 +3758,7 @@
       "disfraz"
     ],
     "mechanics": {
-      "wonder_type": "Talismán o Dispositivo",
+      "subtype": "Talismán o Dispositivo",
       "rank": "··",
       "arete": "4",
       "quintaesencia": "20",
@@ -3775,7 +3775,7 @@
       }
     ],
     "mechanics_html": {
-      "wonder_type": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a> o <a href=\"/mage/sphere-effects/device\">Dispositivo</a>"
+      "subtype": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a> o <a href=\"/mage/sphere-effects/device\">Dispositivo</a>"
     }
   },
   {
@@ -3797,7 +3797,7 @@
       "resonancia"
     ],
     "mechanics": {
-      "wonder_type": "Baratija o Talismán",
+      "subtype": "Baratija o Talismán",
       "rank": "·· +",
       "arete": "2+",
       "quintaesencia": "10+",
@@ -3864,7 +3864,7 @@
       }
     ],
     "mechanics_html": {
-      "wonder_type": "Baratija o <a href=\"/mage/sphere-effects/talisman\">Talismán</a>",
+      "subtype": "Baratija o <a href=\"/mage/sphere-effects/talisman\">Talismán</a>",
       "optional_effects": [
         "Infligir daño agravado (Quintaesencia 2)",
         "Arder en llamas / electricidad negra / otro ataque energético (Fuerzas 3, Prime 2)",
@@ -3893,7 +3893,7 @@
       "mente"
     ],
     "mechanics": {
-      "wonder_type": "Encantamiento o Artilugio",
+      "subtype": "Encantamiento o Artilugio",
       "rank": "··",
       "arete": "5",
       "quintaesencia": "N/D",
@@ -3911,7 +3911,7 @@
       }
     ],
     "mechanics_html": {
-      "wonder_type": "<a href=\"/mage/hedge-paths/charm\">Encantamiento</a> o Artilugio"
+      "subtype": "<a href=\"/mage/hedge-paths/charm\">Encantamiento</a> o Artilugio"
     }
   },
   {
@@ -3932,7 +3932,7 @@
       "coincidente"
     ],
     "mechanics": {
-      "wonder_type": "Dispositivo",
+      "subtype": "Dispositivo",
       "rank": "···",
       "iluminacion": "3",
       "quintaesencia": "15",
@@ -3950,7 +3950,7 @@
       }
     ],
     "mechanics_html": {
-      "wonder_type": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
       "roll": "Areté del <a href=\"/mage/sphere-effects/device\">Dispositivo</a> vs. dificultad Fuerza de Voluntad del objetivo; éxitos = daño contundente (Mago 20, p. 504); daño agravado si otro intenta quitarlo"
     }
   },
@@ -3967,7 +3967,7 @@
       "arma"
     ],
     "mechanics": {
-      "wonder_type": "Talismán",
+      "subtype": "Talismán",
       "rank": "···",
       "arete": "3",
       "quintaesencia": "15",
@@ -3999,7 +3999,7 @@
     ],
     "related": [],
     "mechanics_html": {
-      "wonder_type": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a>"
+      "subtype": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a>"
     }
   },
   {
@@ -4016,7 +4016,7 @@
       "invocacion"
     ],
     "mechanics": {
-      "wonder_type": "Dispositivo",
+      "subtype": "Dispositivo",
       "rank": "····",
       "iluminacion": "6",
       "quintaesencia": "30",
@@ -4045,7 +4045,7 @@
     ],
     "related": [],
     "mechanics_html": {
-      "wonder_type": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>"
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>"
     }
   },
   {
@@ -7642,7 +7642,7 @@
       "tipo": "Resonancia Elemental",
       "referencia": "pág. 25 (reglas de Resonancia y Silencio en Mago 20)",
       "notas": "Aspecto emparejado con el Morbo (fascinación del Silencio, Mago 20 pág. 558); un mago que emplea necrosíntesis recibe automáticamente 1 punto en Jhor (o Sinergia Entrópica)",
-      "resonance_flavor": "muerte",
+      "flavor": "muerte",
       "trigger": "trabajar con las energías del Inframundo"
     },
     "related": [
@@ -23902,7 +23902,7 @@
       "baratija"
     ],
     "mechanics": {
-      "wonder_type": "Baratija",
+      "subtype": "Baratija",
       "rank": "· a ···",
       "stat_line": "Areté N/A, Quintaesencia N/A, 2 - 6 puntos de Trasfondo",
       "arete": "N/A",
@@ -23932,7 +23932,7 @@
       "talisman"
     ],
     "mechanics": {
-      "wonder_type": "Dispositivo o Talismán",
+      "subtype": "Dispositivo o Talismán",
       "rank": "·· o ···",
       "stat_line": "Areté 2-5, Quintaesencia 10-25, 2-6 puntos de Trasfondo",
       "arete": "2-5",
@@ -23948,7 +23948,7 @@
       }
     ],
     "mechanics_html": {
-      "wonder_type": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a> o <a href=\"/mage/sphere-effects/talisman\">Talismán</a>"
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a> o <a href=\"/mage/sphere-effects/talisman\">Talismán</a>"
     }
   },
   {
@@ -23964,7 +23964,7 @@
       "baratija"
     ],
     "mechanics": {
-      "wonder_type": "Baratija",
+      "subtype": "Baratija",
       "rank": "···",
       "stat_line": "Areté N/A, Quintaesencia N/A, 6 puntos de Trasfondo",
       "arete": "N/A",
@@ -24001,7 +24001,7 @@
       "invencion"
     ],
     "mechanics": {
-      "wonder_type": "Dispositivo / Invención",
+      "subtype": "Dispositivo / Invención",
       "rank": "··",
       "stat_line": "Iluminación especial, Energía Primordial N/A, 4 puntos de Trasfondo",
       "illumination": "Iluminación especial",
@@ -24017,7 +24017,7 @@
       }
     ],
     "mechanics_html": {
-      "wonder_type": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a> / Invención",
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a> / Invención",
       "stat_line": "Iluminación especial, <a href=\"/mage/instruments/energy\">Energía</a> Primordial N/A, 4 puntos de Trasfondo"
     }
   },
@@ -24034,7 +24034,7 @@
       "dispositivo"
     ],
     "mechanics": {
-      "wonder_type": "Dispositivo",
+      "subtype": "Dispositivo",
       "rank": "···",
       "stat_line": "Iluminación 3-6, Energía Primordial N/A, 6 puntos de Trasfondo",
       "illumination": "3-6",
@@ -24050,7 +24050,7 @@
       }
     ],
     "mechanics_html": {
-      "wonder_type": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
       "stat_line": "Iluminación 3-6, <a href=\"/mage/instruments/energy\">Energía</a> Primordial N/A, 6 puntos de Trasfondo"
     }
   },
@@ -24068,7 +24068,7 @@
       "dispositivo"
     ],
     "mechanics": {
-      "wonder_type": "Dispositivo",
+      "subtype": "Dispositivo",
       "rank": "····",
       "stat_line": "Iluminación 4, Energía Primordial 20, 8 puntos de Trasfondo",
       "illumination": "4",
@@ -24093,7 +24093,7 @@
       }
     ],
     "mechanics_html": {
-      "wonder_type": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
       "stat_line": "Iluminación 4, <a href=\"/mage/instruments/energy\">Energía</a> Primordial 20, 8 puntos de Trasfondo"
     }
   },
@@ -24111,7 +24111,7 @@
       "mejora"
     ],
     "mechanics": {
-      "wonder_type": "Implante cibernético",
+      "subtype": "Implante cibernético",
       "rank": "·",
       "stat_line": "Iluminación N/A, Energía Primordial N/A, 2 puntos de Trasfondo",
       "illumination": "N/A",
@@ -24144,7 +24144,7 @@
       "mejora"
     ],
     "mechanics": {
-      "wonder_type": "Implante cibernético",
+      "subtype": "Implante cibernético",
       "rank": "·",
       "stat_line": "Iluminación N/A, Energía Primordial N/A, 2 puntos de Trasfondo",
       "illumination": "N/A",
@@ -24177,7 +24177,7 @@
       "mejora"
     ],
     "mechanics": {
-      "wonder_type": "Implante cibernético",
+      "subtype": "Implante cibernético",
       "rank": "··",
       "stat_line": "Iluminación 4, Energía Primordial 20, 6 puntos de Trasfondo",
       "illumination": "4",
@@ -24210,7 +24210,7 @@
       "mejora"
     ],
     "mechanics": {
-      "wonder_type": "Implante cibernético",
+      "subtype": "Implante cibernético",
       "rank": "···",
       "stat_line": "Iluminación N/A, Energía Primordial N/A, 4 / 6 / 8 / 10 puntos de Trasfondo",
       "illumination": "N/A",
@@ -24245,7 +24245,7 @@
       "mejora"
     ],
     "mechanics": {
-      "wonder_type": "Implante cibernético",
+      "subtype": "Implante cibernético",
       "rank": "···",
       "stat_line": "Iluminación 6 / 8, Energía Primordial 30 / 40, 9 / 11 puntos de Trasfondo",
       "illumination": "6 / 8",
@@ -24279,7 +24279,7 @@
       "mejora"
     ],
     "mechanics": {
-      "wonder_type": "Biomod",
+      "subtype": "Biomod",
       "stat_line": "3 puntos de Trasfondo",
       "background_cost": "3 puntos de Trasfondo"
     },
@@ -24307,7 +24307,7 @@
       "mejora"
     ],
     "mechanics": {
-      "wonder_type": "Biomod",
+      "subtype": "Biomod",
       "stat_line": "Coste de Trasfondo variable",
       "background_cost": "Coste de Trasfondo variable"
     },
@@ -24335,7 +24335,7 @@
       "mejora"
     ],
     "mechanics": {
-      "wonder_type": "Biomod",
+      "subtype": "Biomod",
       "stat_line": "Coste de Trasfondo variable",
       "background_cost": "Coste de Trasfondo variable"
     },
@@ -24363,7 +24363,7 @@
       "mejora"
     ],
     "mechanics": {
-      "wonder_type": "Biomod",
+      "subtype": "Biomod",
       "stat_line": "3 - 5 puntos de Trasfondo",
       "background_cost": "3 - 5 puntos de Trasfondo"
     },
@@ -24391,7 +24391,7 @@
       "mejora"
     ],
     "mechanics": {
-      "wonder_type": "Biomod",
+      "subtype": "Biomod",
       "stat_line": "2 puntos de Trasfondo",
       "background_cost": "2 puntos de Trasfondo"
     },
@@ -24419,7 +24419,7 @@
       "artilugio"
     ],
     "mechanics": {
-      "wonder_type": "Dispositivo / Artilugio",
+      "subtype": "Dispositivo / Artilugio",
       "rank": "···",
       "stat_line": "Areté 5, Quintaesencia N/A, 1 punto de Trasfondo (por tarjeta)",
       "arete": "5",
@@ -24435,7 +24435,7 @@
       }
     ],
     "mechanics_html": {
-      "wonder_type": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a> / Artilugio"
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a> / Artilugio"
     }
   },
   {
@@ -24452,7 +24452,7 @@
       "dispositivo"
     ],
     "mechanics": {
-      "wonder_type": "Dispositivo",
+      "subtype": "Dispositivo",
       "rank": "···",
       "stat_line": "Areté 6, Quintaesencia 30, 9 puntos de Trasfondo",
       "arete": "6",
@@ -24468,7 +24468,7 @@
       }
     ],
     "mechanics_html": {
-      "wonder_type": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>"
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>"
     }
   },
   {
@@ -24486,7 +24486,7 @@
       "talisman"
     ],
     "mechanics": {
-      "wonder_type": "Fetiche / Talismán",
+      "subtype": "Fetiche / Talismán",
       "rank": "·····",
       "stat_line": "Areté 7, Quintaesencia N/A, 10 puntos de Trasfondo (por caja de cinco)",
       "arete": "7",
@@ -24509,7 +24509,7 @@
       }
     ],
     "mechanics_html": {
-      "wonder_type": "<a href=\"/mage/sphere-effects/fetish\">Fetiche</a> / <a href=\"/mage/sphere-effects/talisman\">Talismán</a>"
+      "subtype": "<a href=\"/mage/sphere-effects/fetish\">Fetiche</a> / <a href=\"/mage/sphere-effects/talisman\">Talismán</a>"
     }
   },
   {
@@ -24525,7 +24525,7 @@
       "ciencia-extrana"
     ],
     "mechanics": {
-      "wonder_type": "Dispositivo / Artefacto",
+      "subtype": "Dispositivo / Artefacto",
       "arete": "Areté 8",
       "quintessence": "Quintaesencia 40",
       "availability": "no puede comprarse",
@@ -24552,7 +24552,7 @@
       }
     ],
     "mechanics_html": {
-      "wonder_type": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a> / Artefacto",
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a> / Artefacto",
       "failure": "<a href=\"/mage/flaws/failure\">Fallo</a>: el intento falla y debe repetirse con +1 a la dificultad. Fracaso: el proceso falla definitivamente y se borra la identidad guardada del mago."
     }
   },
@@ -24712,7 +24712,7 @@
       "verbena"
     ],
     "mechanics": {
-      "wonder_type": "Talismán",
+      "subtype": "Talismán",
       "rank": "···",
       "arete": "3",
       "quintaesencia": "15",
@@ -24739,7 +24739,7 @@
       }
     ],
     "mechanics_html": {
-      "wonder_type": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a>",
+      "subtype": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a>",
       "note": "El bloque de estadísticas del arma aparece aplanado por la <a href=\"/mage/rituals/extraction\">extracción</a> (encabezados y valores en líneas separadas); los valores mostrados son recuperables. Fuerza de Voluntad, Niveles de Salud, Índice de <a href=\"/mage/instruments/armor\">Armadura</a>, Méritos y Defectos que siguen en el texto extraído pertenecen al personaje Xoxotlacotl, no al <a href=\"/mage/sphere-effects/talisman\">Talismán</a>."
     }
   },
@@ -24809,7 +24809,7 @@
     "name_en": "Trushades",
     "name_es": "ciertilentes",
     "mechanics": {
-      "category": "Baratija (Maravilla mística)"
+      "subtype": "Baratija (Maravilla mística)"
     },
     "sources": [
       {
@@ -24821,7 +24821,7 @@
       }
     ],
     "mechanics_html": {
-      "category": "Baratija (<a href=\"/mage/backgrounds/wonder\">Maravilla</a> mística)"
+      "subtype": "Baratija (<a href=\"/mage/backgrounds/wonder\">Maravilla</a> mística)"
     }
   },
   {
@@ -24831,7 +24831,7 @@
     "name_en": "Bafflejack",
     "name_es": "despistador",
     "mechanics": {
-      "category": "Disp. / Tal. (Dispositivo / Talismán)"
+      "subtype": "Disp. / Tal. (Dispositivo / Talismán)"
     },
     "sources": [
       {
@@ -24843,7 +24843,7 @@
       }
     ],
     "mechanics_html": {
-      "category": "Disp. / Tal. (<a href=\"/mage/sphere-effects/device\">Dispositivo</a> / <a href=\"/mage/sphere-effects/talisman\">Talismán</a>)"
+      "subtype": "Disp. / Tal. (<a href=\"/mage/sphere-effects/device\">Dispositivo</a> / <a href=\"/mage/sphere-effects/talisman\">Talismán</a>)"
     }
   },
   {
@@ -24853,7 +24853,7 @@
     "name_en": "Visual Data & Analysis Spectrum (VDAS)",
     "name_es": "Espectro de Datos y Análisis Visuales (EDAV)",
     "mechanics": {
-      "category": "Dispositivo (Herramienta Tecnocrática)",
+      "subtype": "Dispositivo (Herramienta Tecnocrática)",
       "rank": "3"
     },
     "sources": [
@@ -24866,7 +24866,7 @@
       }
     ],
     "mechanics_html": {
-      "category": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a> (Herramienta Tecnocrática)"
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a> (Herramienta Tecnocrática)"
     }
   },
   {
@@ -24876,7 +24876,7 @@
     "name_en": "Alanson R-25 Hardsuit",
     "name_es": "servoarmadura Alanson R-25",
     "mechanics": {
-      "category": "Dispositivo (Herramienta Tecnocrática)",
+      "subtype": "Dispositivo (Herramienta Tecnocrática)",
       "rank": "4"
     },
     "sources": [
@@ -24889,7 +24889,7 @@
       }
     ],
     "mechanics_html": {
-      "category": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a> (Herramienta Tecnocrática)"
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a> (Herramienta Tecnocrática)"
     }
   },
   {
@@ -34079,7 +34079,7 @@
       "periapto"
     ],
     "mechanics": {
-      "tipo": "Periapto",
+      "subtype": "Periapto",
       "arete": "N/A",
       "quintaesencia": "20",
       "coste_trasfondo": "4 puntos de Trasfondo",
@@ -34107,7 +34107,7 @@
       "tecnocracia"
     ],
     "mechanics": {
-      "tipo": "Artilugio",
+      "subtype": "Artilugio",
       "iluminacion": "4",
       "energia_primordial": "10 (por cajetilla)",
       "coste_trasfondo": "6 puntos de Trasfondo (por cajetilla de 20)",
@@ -34136,7 +34136,7 @@
       "tecnocracia"
     ],
     "mechanics": {
-      "tipo": "Artilugio",
+      "subtype": "Artilugio",
       "iluminacion": "N/A",
       "energia_primordial": "N/A",
       "coste_trasfondo": "3 puntos de Trasfondo (por clip de 10)",
@@ -34163,7 +34163,7 @@
       "artilugio"
     ],
     "mechanics": {
-      "wonder_type": "Artilugio",
+      "subtype": "Artilugio",
       "rank": "···",
       "iluminacion": "4",
       "energia_primordial": "10 (por cajetilla)",
@@ -34233,7 +34233,7 @@
     ],
     "mechanics": {
       "rank": "···",
-      "wonder_subtype": "Encantamiento",
+      "subtype": "Encantamiento",
       "arete": "N/A",
       "quintaesencia": "N/A",
       "background_cost": "2 puntos de Trasfondo por bolsa",
@@ -34251,7 +34251,7 @@
       }
     ],
     "mechanics_html": {
-      "wonder_subtype": "<a href=\"/mage/hedge-paths/charm\">Encantamiento</a>"
+      "subtype": "<a href=\"/mage/hedge-paths/charm\">Encantamiento</a>"
     }
   },
   {
@@ -34270,7 +34270,7 @@
     ],
     "mechanics": {
       "rank": "····",
-      "wonder_subtype": "Talismán",
+      "subtype": "Talismán",
       "arete": "5",
       "quintaesencia": "15",
       "background_cost": "2 puntos de Trasfondo",
@@ -34300,7 +34300,7 @@
       }
     ],
     "mechanics_html": {
-      "wonder_subtype": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a>",
+      "subtype": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a>",
       "strength_gain": "tirada de Areté del <a href=\"/mage/sphere-effects/amulet\">Amuleto</a> (dificultad 6) + gastar 1 punto de Quintaesencia = 1 punto de Fuerza por éxito, hasta el final de la escena",
       "influencia": "gana 2 puntos de <a href=\"/mage/backgrounds/influence\">Influencia</a> entre los enemigos de los Garou",
       "meritos_otorgados": [
@@ -34330,7 +34330,7 @@
     ],
     "mechanics": {
       "rank": "····",
-      "wonder_subtype": "Baratija / Catón",
+      "subtype": "Baratija / Catón",
       "arete": "N/A",
       "quintaesencia": "N/A",
       "background_cost": "8 puntos de Trasfondo",
@@ -34362,7 +34362,7 @@
     ],
     "mechanics": {
       "rank": "···· o ·····",
-      "wonder_subtype": "Talismán",
+      "subtype": "Talismán",
       "arete": "4-5",
       "quintaesencia": "20-25",
       "background_cost": "8-10 puntos de Trasfondo",
@@ -34385,7 +34385,7 @@
       }
     ],
     "mechanics_html": {
-      "wonder_subtype": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a>",
+      "subtype": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a>",
       "paradoja_permanente": "4 o 5 puntos (uno por cada punto de la <a href=\"/mage/backgrounds/wonder\">Maravilla</a>)"
     }
   },
@@ -34405,7 +34405,7 @@
     ],
     "mechanics": {
       "rank": "·····",
-      "wonder_subtype": "Periapto Tecnocrático",
+      "subtype": "Periapto Tecnocrático",
       "iluminacion": "N/A",
       "energia_primordial": "10-100",
       "background_cost": "5-30 puntos de Trasfondo",
@@ -35953,7 +35953,7 @@
       "eteritas"
     ],
     "mechanics": {
-      "categoria": "Dispositivo",
+      "subtype": "Dispositivo",
       "rango": "·· a ····",
       "arete": "2",
       "quintaesencia": "N/D",
@@ -35969,7 +35969,7 @@
       }
     ],
     "mechanics_html": {
-      "categoria": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>"
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>"
     }
   },
   {
@@ -35986,7 +35986,7 @@
       "eteritas"
     ],
     "mechanics": {
-      "categoria": "Grimorio",
+      "subtype": "Grimorio",
       "rango": "·····",
       "arete": "N/D",
       "quintaesencia": "N/D",
@@ -36015,7 +36015,7 @@
       "eteritas"
     ],
     "mechanics": {
-      "categoria": "Dispositivo",
+      "subtype": "Dispositivo",
       "rango": "·····",
       "arete": "5",
       "quintaesencia": "25",
@@ -36030,7 +36030,7 @@
       }
     ],
     "mechanics_html": {
-      "categoria": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>"
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>"
     }
   },
   {
@@ -36100,7 +36100,7 @@
       "verbena"
     ],
     "mechanics": {
-      "categoria": "Grimorio",
+      "subtype": "Grimorio",
       "rango": "····",
       "arete": "4-8",
       "quintaesencia": "10-25",
@@ -36539,7 +36539,7 @@
       "angeli-soledad"
     ],
     "mechanics": {
-      "tipo": "Periapto",
+      "subtype": "Periapto",
       "rango": "3 puntos"
     },
     "sources": [
@@ -39615,7 +39615,7 @@
       "manual-introductorio"
     ],
     "mechanics": {
-      "category": "Manual introductorio",
+      "subtype": "Manual introductorio",
       "arete": "N/D",
       "quintessence": "N/D",
       "background_cost": "1 Pto"
@@ -39644,7 +39644,7 @@
       "grimorio"
     ],
     "mechanics": {
-      "category": "Baratija/Grimorio",
+      "subtype": "Baratija/Grimorio",
       "arete": "N/D",
       "quintessence": "N/D",
       "background_cost": "N/D o de 1 a 3 Ptos."
@@ -39672,7 +39672,7 @@
       "multiverse"
     ],
     "mechanics": {
-      "category": "Talismán",
+      "subtype": "Talismán",
       "arete": "Ver Más Abajo",
       "quintessence": "Ver Más Abajo",
       "background_cost": "Ver Más Abajo",
@@ -39689,7 +39689,7 @@
       }
     ],
     "mechanics_html": {
-      "category": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a>",
+      "subtype": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a>",
       "variant_stats_liche_nazi": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a> de Rango 5 — Areté 6, Quintaesencia 25, Rango 5 en No Muerte y Fuerzas, Rango 4 en Cardinal y Espíritu, Rango 3 en Conocimiento, Correspondencia y Entropía"
     }
   },
@@ -39708,7 +39708,7 @@
       "void-engineers"
     ],
     "mechanics": {
-      "category": "Ingenio",
+      "subtype": "Ingenio",
       "arete": "6",
       "quintessence": "20",
       "background_cost": "N/D"
@@ -44685,7 +44685,7 @@
       "doissetep"
     ],
     "mechanics": {
-      "category": "Dispositivo",
+      "subtype": "Dispositivo",
       "rank": "····",
       "arete": "4",
       "quintessence": "N/D",
@@ -44702,7 +44702,7 @@
       }
     ],
     "mechanics_html": {
-      "category": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
       "prerequisite": "<a href=\"/mage/backgrounds/resources\">Recursos</a> 6"
     }
   },
@@ -44720,7 +44720,7 @@
       "vehiculo"
     ],
     "mechanics": {
-      "category": "Dispositivo/Fetiche",
+      "subtype": "Dispositivo/Fetiche",
       "rank": "···",
       "arete": "3",
       "quintessence": "N/D",
@@ -44748,7 +44748,7 @@
       }
     ],
     "mechanics_html": {
-      "category": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>/<a href=\"/mage/sphere-effects/fetish\">Fetiche</a>",
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>/<a href=\"/mage/sphere-effects/fetish\">Fetiche</a>",
       "prerequisite": "<a href=\"/mage/backgrounds/resources\">Recursos</a> 7",
       "maintenance": "<a href=\"/mage/backgrounds/resources\">Recursos</a> 3",
       "_extraction_note": "Bloque de estadísticas fragmentado por la <a href=\"/mage/rituals/extraction\">extracción</a>: la línea original &#x27;Coste de Trasfondo 12 pts. / Requisito previo: <a href=\"/mage/backgrounds/resources\">Recursos</a> 7 (Mantenimiento: <a href=\"/mage/backgrounds/resources\">Recursos</a> 3)&#x27; quedó desordenada (&#x27;...Coste de Trasfondo&#x27; + &#x27;Requisito previo: <a href=\"/mage/backgrounds/resources\">Recursos</a> 7 (Mantenimiento:&#x27; + &#x27;12 pts. <a href=\"/mage/backgrounds/resources\">Recursos</a> 3)&#x27;). Valores recuperados por el <a href=\"/mage/backgrounds/patron\">patrón</a> común de las demás Maravillas."
@@ -44766,7 +44766,7 @@
       "doissetep"
     ],
     "mechanics": {
-      "category": "Fetiche",
+      "subtype": "Fetiche",
       "rank": "····",
       "arete": "4",
       "quintessence": "N/D",
@@ -44784,7 +44784,7 @@
       }
     ],
     "mechanics_html": {
-      "category": "<a href=\"/mage/sphere-effects/fetish\">Fetiche</a>",
+      "subtype": "<a href=\"/mage/sphere-effects/fetish\">Fetiche</a>",
       "prerequisite": "<a href=\"/mage/backgrounds/resources\">Recursos</a> 4",
       "_extraction_note": "En la <a href=\"/mage/rituals/extraction\">extracción</a> esta entrada carece de encabezado propio (##): aparece en línea dentro del bloque del &#x27;<a href=\"/mage/wonders/delano-supercar\">Superdeportivo Delano</a>&#x27;. section_anchor apunta al encabezado más cercano (superdeportivo-delano)."
     }
@@ -44802,7 +44802,7 @@
       "tass"
     ],
     "mechanics": {
-      "category": "Periapto",
+      "subtype": "Periapto",
       "rank": "···",
       "arete": "N/D",
       "quintessence": "15",
@@ -44835,7 +44835,7 @@
       "grimorio"
     ],
     "mechanics": {
-      "category": "Talismán",
+      "subtype": "Talismán",
       "rank": "····",
       "arete": "4",
       "quintessence": "N/D",
@@ -44852,7 +44852,7 @@
       }
     ],
     "mechanics_html": {
-      "category": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a>",
+      "subtype": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a>",
       "prerequisite": "<a href=\"/mage/backgrounds/resources\">Recursos</a> 8"
     }
   },
@@ -44868,7 +44868,7 @@
       "vehiculo"
     ],
     "mechanics": {
-      "category": "Dispositivo",
+      "subtype": "Dispositivo",
       "rank": "·····",
       "arete": "5",
       "quintessence": "N/D",
@@ -44895,7 +44895,7 @@
       }
     ],
     "mechanics_html": {
-      "category": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
       "prerequisite": "<a href=\"/mage/backgrounds/resources\">Recursos</a> 9",
       "maintenance": "<a href=\"/mage/backgrounds/resources\">Recursos</a> 5"
     }
@@ -44912,7 +44912,7 @@
       "doissetep"
     ],
     "mechanics": {
-      "category": "Baratija",
+      "subtype": "Baratija",
       "rank": "···",
       "arete": "3",
       "quintessence": "N/D",
@@ -44945,7 +44945,7 @@
       "tecnocracia"
     ],
     "mechanics": {
-      "category": "Talismán",
+      "subtype": "Talismán",
       "rank": "····",
       "arete": "4",
       "quintessence": "20",
@@ -44962,7 +44962,7 @@
       }
     ],
     "mechanics_html": {
-      "category": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a>",
+      "subtype": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a>",
       "prerequisite": "<a href=\"/mage/backgrounds/resources\">Recursos</a> 7+"
     }
   },
@@ -44978,7 +44978,7 @@
       "obra-de-arte"
     ],
     "mechanics": {
-      "category": "Baratija",
+      "subtype": "Baratija",
       "rank": "···",
       "arete": "2",
       "quintessence": "15",
@@ -45010,7 +45010,7 @@
       "obra-de-arte"
     ],
     "mechanics": {
-      "category": "Talismán",
+      "subtype": "Talismán",
       "rank": "·····",
       "arete": "4",
       "quintessence": "25",
@@ -45031,7 +45031,7 @@
       "masterpiece-infusers"
     ],
     "mechanics_html": {
-      "category": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a>",
+      "subtype": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a>",
       "prerequisite": "<a href=\"/mage/backgrounds/resources\">Recursos</a> 7+"
     }
   },
@@ -45048,7 +45048,7 @@
       "tecnocracia"
     ],
     "mechanics": {
-      "category": "Talismán",
+      "subtype": "Talismán",
       "rank": "····",
       "arete": "4",
       "quintessence": "20",
@@ -45066,7 +45066,7 @@
       }
     ],
     "mechanics_html": {
-      "category": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a>",
+      "subtype": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a>",
       "prerequisite": "<a href=\"/mage/backgrounds/resources\">Recursos</a> 7+",
       "_extraction_note": "Bloque de estadísticas fragmentado por la <a href=\"/mage/rituals/extraction\">extracción</a>: &#x27;Coste de Trasfondo&#x27; y &#x27;Requisito previo:&#x27; quedaron separados de sus valores (&#x27;12 pts. <a href=\"/mage/backgrounds/resources\">Recursos</a> 7+&#x27;). Valores recuperados por el <a href=\"/mage/backgrounds/patron\">patrón</a> común."
     }
@@ -45084,7 +45084,7 @@
       "verbena"
     ],
     "mechanics": {
-      "category": "Baratija",
+      "subtype": "Baratija",
       "rank": "··",
       "arete": "N/D",
       "quintessence": "10",
@@ -45118,7 +45118,7 @@
       "obra-de-arte"
     ],
     "mechanics": {
-      "category": "Baratija",
+      "subtype": "Baratija",
       "rank": "···",
       "arete": "3",
       "quintessence": "15",
@@ -45152,7 +45152,7 @@
       "obra-de-arte"
     ],
     "mechanics": {
-      "category": "Talismán",
+      "subtype": "Talismán",
       "rank": "···",
       "arete": "3",
       "quintessence": "N/D",
@@ -45169,7 +45169,7 @@
       }
     ],
     "mechanics_html": {
-      "category": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a>",
+      "subtype": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a>",
       "prerequisite": "<a href=\"/mage/backgrounds/resources\">Recursos</a> 6"
     }
   },
@@ -45186,7 +45186,7 @@
       "obra-de-arte"
     ],
     "mechanics": {
-      "category": "Baratija",
+      "subtype": "Baratija",
       "rank": "··",
       "arete": "N/D",
       "quintessence": "10",
@@ -45221,7 +45221,7 @@
       "obra-de-arte"
     ],
     "mechanics": {
-      "category": "Baratija",
+      "subtype": "Baratija",
       "rank": "··",
       "arete": "N/D",
       "quintessence": "10",
@@ -45256,7 +45256,7 @@
       "droga"
     ],
     "mechanics": {
-      "category": "Baratija",
+      "subtype": "Baratija",
       "rank": "···",
       "arete": "N/D",
       "quintessence": "15",
@@ -45290,7 +45290,7 @@
       "vehiculo"
     ],
     "mechanics": {
-      "category": "Dispositivo",
+      "subtype": "Dispositivo",
       "rank": "·····",
       "arete": "5",
       "quintessence": "25",
@@ -45320,7 +45320,7 @@
       }
     ],
     "mechanics_html": {
-      "category": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
       "prerequisite": "<a href=\"/mage/backgrounds/resources\">Recursos</a> 8",
       "maintenance": "<a href=\"/mage/backgrounds/resources\">Recursos</a> 4"
     }
@@ -45336,7 +45336,7 @@
       "dispositivo"
     ],
     "mechanics": {
-      "category": "Dispositivo",
+      "subtype": "Dispositivo",
       "rank": "···",
       "arete": "2",
       "quintessence": "N/D",
@@ -45353,7 +45353,7 @@
       }
     ],
     "mechanics_html": {
-      "category": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
       "prerequisite": "<a href=\"/mage/backgrounds/resources\">Recursos</a> 6+"
     }
   },
@@ -45369,7 +45369,7 @@
       "tecnocracia"
     ],
     "mechanics": {
-      "category": "Dispositivo",
+      "subtype": "Dispositivo",
       "rank": "····",
       "arete": "3",
       "quintessence": "N/D",
@@ -45387,7 +45387,7 @@
       }
     ],
     "mechanics_html": {
-      "category": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
       "prerequisite": "Respaldo 6, <a href=\"/mage/backgrounds/resources\">Recursos</a> 6",
       "_extraction_note": "Bloque de estadísticas fragmentado por la <a href=\"/mage/rituals/extraction\">extracción</a>: &#x27;Coste de Trasfondo&#x27; y &#x27;Requisito previo:&#x27; quedaron separados de sus valores (&#x27;8 pts. Respaldo 6, <a href=\"/mage/backgrounds/resources\">Recursos</a> 6&#x27;). Valores recuperados por el <a href=\"/mage/backgrounds/patron\">patrón</a> común."
     }
@@ -45404,7 +45404,7 @@
       "verbena"
     ],
     "mechanics": {
-      "category": "Dispositivo",
+      "subtype": "Dispositivo",
       "rank": "··",
       "arete": "N/D",
       "quintessence": "N/D",
@@ -45421,7 +45421,7 @@
       }
     ],
     "mechanics_html": {
-      "category": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
       "prerequisite": "<a href=\"/mage/backgrounds/resources\">Recursos</a> 5"
     }
   },
@@ -45437,7 +45437,7 @@
       "akashayana"
     ],
     "mechanics": {
-      "category": "Dispositivo",
+      "subtype": "Dispositivo",
       "rank": "···",
       "arete": "3",
       "quintessence": "N/D",
@@ -45454,7 +45454,7 @@
       }
     ],
     "mechanics_html": {
-      "category": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
       "prerequisite": "Do 2, <a href=\"/mage/backgrounds/resources\">Recursos</a> 6+"
     }
   },
@@ -45470,7 +45470,7 @@
       "tecnocracia"
     ],
     "mechanics": {
-      "category": "Dispositivo",
+      "subtype": "Dispositivo",
       "rank": "····",
       "arete": "4",
       "quintessence": "N/D",
@@ -45487,7 +45487,7 @@
       }
     ],
     "mechanics_html": {
-      "category": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>",
       "prerequisite": "Capilla/<a href=\"/mage/flaws/construct\">Constructo</a> 2+, <a href=\"/mage/backgrounds/resources\">Recursos</a> 7"
     }
   },
@@ -45503,7 +45503,7 @@
       "capilla-winnipesauke"
     ],
     "mechanics": {
-      "category": "Dispositivo",
+      "subtype": "Dispositivo",
       "rank": "····",
       "arete": "4",
       "quintessence": "N/D",
@@ -45521,7 +45521,7 @@
       }
     ],
     "mechanics_html": {
-      "category": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>"
+      "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>"
     }
   },
   {
@@ -45536,7 +45536,7 @@
       "capilla-winnipesauke"
     ],
     "mechanics": {
-      "category": "Talismán",
+      "subtype": "Talismán",
       "rank": "····",
       "arete": "4",
       "quintessence": "N/D",
@@ -45554,7 +45554,7 @@
       }
     ],
     "mechanics_html": {
-      "category": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a>"
+      "subtype": "<a href=\"/mage/sphere-effects/talisman\">Talismán</a>"
     }
   },
   {
