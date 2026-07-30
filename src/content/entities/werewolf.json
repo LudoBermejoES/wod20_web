@@ -12330,7 +12330,7 @@
     ]
   },
   {
-    "id": "ajaba-general-clenched-jaw",
+    "id": "clenched-jaw",
     "type": "gift",
     "line": "werewolf",
     "name_en": "Clenched Jaw",
@@ -14024,7 +14024,7 @@
     "type": "gift",
     "line": "werewolf",
     "name_en": "Resist Temptation",
-    "name_es": "Resistir Tentacion",
+    "name_es": "Resistir Tentación",
     "body_es": "Usando una serie de gestos rituales para igualar el flujo de energia a traves de sus chakras, el Contemplaestrellas puede resistir tentaciones mundanas, materiales y espirituales, incluyendo la corrupcion. Un espiritu de tierra ensena este Don.\n\n**Sistema:** El jugador tira Astucia + Rituales y gasta un punto de Gnosis. Cada exito aumenta en uno la dificultad de los demas para hechizar o coaccionar de manera sobrenatural al personaje durante el resto de la escena. Este Don tiene exito automaticamente contra la coercion no sobrenatural.",
     "tags": [
       "stargazers"
@@ -14331,7 +14331,7 @@
     "type": "gift",
     "line": "werewolf",
     "name_en": "Faerie Light",
-    "name_es": "Luz Feerica",
+    "name_es": "Luz Feérica",
     "body_es": "El Fianna conjura una pequena y oscilante esfera de luz. No es mas brillante que una antorcha, pero normalmente con eso basta para alumbrar el camino del hombre lobo o conducir a los enemigos a emboscadas. Un espiritu de pantano ensena este Don.\n\n**Sistema:** El jugador tira Astucia + Enigmas (dificultad 6). La luz puede aparecer en cualquier punto de la linea de vision del Garou y se desplaza vacilante unos 3 metros (10 pies) por turno si se la invita a hacerlo. Dura una escena.",
     "tags": [
       "fianna"
@@ -14519,7 +14519,7 @@
     "type": "gift",
     "line": "werewolf",
     "name_en": "Ley Lines",
-    "name_es": "Lineas Ley",
+    "name_es": "Líneas Ley",
     "body_es": "Manipulando las lineas ley (una red espiritual que entrecruza el planeta) el Fianna puede desorientar a potenciales rastreadores o cazadores. Las victimas de este Don siguen rastros falsos, giran en direcciones erroneas o caminan en circulos. Un espiritu de tierra ensena este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Astucia + Ocultismo (dificultad 7). Cualquier intento de rastrear al Garou debe comenzar con una tirada exitosa de Percepcion + Ocultismo (dificultad 8) y han de obtenerse mas exitos que los obtenidos previamente por el jugador del Garou. De otra forma, el intento del rastreador de seguir al Fianna fracasa automaticamente.",
     "tags": [
       "fianna"
@@ -14542,7 +14542,7 @@
     "type": "gift",
     "line": "werewolf",
     "name_en": "Faerie Kin",
-    "name_es": "Parentela Feerica",
+    "name_es": "Parentela Feérica",
     "body_es": "El Fianna puede invocar antiguos pactos entre su gente y las hadas. Emitiendo un aullido especial, el hombre lobo puede llamar a cualquier hada que este en la zona para que lo ayude. Obedeceran al Fianna, pero no sin rechistar. Un espiritu de sueno ensena este Don.\n\n**Sistema:** El jugador gasta al menos un punto de Gnosis y tira Manipulacion + Ocultismo (dificultad 8). Gastar mas Gnosis aumenta el poder en bruto de las hadas que responden, mientras que mas exitos significan que acudira un mayor numero de ellas. Cuando se usa en la Tierra, este Don llama mas comunmente a los espiritus del sueno conocidos como Quimeras, aunque con mayor gasto de Gnosis pueden aparecer los changeling o sus parientes oscuros; las hadas verdaderas solo responden a la invocacion en los reinos umbrales apropiados.",
     "tags": [
       "fianna"
@@ -14570,13 +14570,18 @@
     "type": "gift",
     "line": "werewolf",
     "name_en": "Phantasm",
-    "name_es": "Fantasmagoria",
+    "name_es": "Fantasmagoría",
     "body_es": "El Fianna crea una ilusion inmovil que contiene elementos visuales, auditivos, olfativos e incluso tactiles. Un espiritu de los cereales (el llamado 'espiritu de las espirituosas') ensena este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis por cada 3 metros (10 pies) de radio que vaya a afectar la ilusion y entonces tira Inteligencia + Expresion. Cualquiera que tenga motivo para dudar de la ilusion debe tirar Percepcion + Alerta y superar los exitos del Garou para ver a traves de ella.",
     "tags": [
-      "fianna"
+      "ajaba",
+      "gift",
+      "Medianoche",
+      "Ajaba"
     ],
     "mechanics": {
-      "rank": "Nivel cuatro"
+      "rank": "Nivel cuatro",
+      "breed": "Ajaba",
+      "category": "Medianoche"
     },
     "sources": [
       {
@@ -14584,8 +14589,17 @@
         "section_anchor": "lkbpbilp-lkqbjmibpqobiip",
         "page": null,
         "book_title_es": "W20 Aniversario Core (ES)"
+      },
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "section_anchor": "dones-de-los-ceilican",
+        "page": null,
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
+    }
   },
   {
     "id": "balor-s-gaze",
@@ -14831,7 +14845,7 @@
     "type": "gift",
     "line": "werewolf",
     "name_en": "Visceral Agony",
-    "name_es": "Agonia Visceral",
+    "name_es": "Agonía Visceral",
     "body_es": "Las garras del hombre lobo se transforman en punzantes y retorcidos espolones que gotean veneno negro. Aunque este veneno no es letal en si mismo, inflige una incapacitante agonia. Un espiritu de dolor ensena este Don.\n\n**Sistema:** El jugador gasta un punto de Rabia antes de que el personaje ataque. Cualquier penalizacion por heridas sufrida como resultado de los ataques del personaje durante ese turno se dobla (por ejemplo, un [enemigo](/werewolf/flaws/enemigo) Herido perderia cuatro dados) durante el resto de la escena. En cambio, si el objetivo es resistente al dolor (como durante el Frenesi), sufre la penalizacion por heridas normal.",
     "tags": [
       "black-furies",
@@ -15520,29 +15534,6 @@
     ]
   },
   {
-    "id": "clenched-jaw",
-    "type": "gift",
-    "line": "werewolf",
-    "name_en": "Clenched Jaw",
-    "name_es": "Mandibula Apretada",
-    "body_es": "Como el Don Ahroun.",
-    "tags": [
-      "kucha-ekundu",
-      "referencia-cruzada"
-    ],
-    "mechanics": {
-      "rank": "Nivel cuatro"
-    },
-    "sources": [
-      {
-        "book_id": "w20-aniversario-core-es",
-        "section_anchor": "dones-de-los-kucha-ekundu",
-        "page": null,
-        "book_title_es": "W20 Aniversario Core (ES)"
-      }
-    ]
-  },
-  {
     "id": "crocodile-pact",
     "type": "gift",
     "line": "werewolf",
@@ -15591,7 +15582,7 @@
     "type": "gift",
     "line": "werewolf",
     "name_en": "Compassion",
-    "name_es": "Compasion",
+    "name_es": "Compasión",
     "body_es": "Los Hijos de Gaia no ven utilidad en el uso de la fuerza letal cuando no estan luchando contra los esbirros del Wyrm, pero incluso ellos sucumben al Frenesi. Este Don permite al Garou usar sus [armas naturales](/werewolf/merits/armas-naturales) y su Rabia sin temer matar al oponente. Un espiritu paloma ensena este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis. Durante el resto de la escena, todo el dano que el Garou inflija con su propio cuerpo se considera contundente. Una criatura 'asesinada' con ese dano simplemente cae inconsciente, y puede curar las heridas al ritmo habitual del dano contundente (ver Curacion, pag. 256).",
     "tags": [
       "children-of-gaia"
@@ -15932,7 +15923,7 @@
     "type": "gift",
     "line": "werewolf",
     "name_en": "Control Simple Machine",
-    "name_es": "Controlar Maquina Simple",
+    "name_es": "Controlar Máquina Simple",
     "body_es": "El Garou puede dar ordenes a los espiritus de las maquinas mas simples y permitirle asi accionar palancas, descorrer cerrojos de puertas, etc. Cualquier espiritu tecnologico puede ensenar este Don.\n\n**Sistema:** El jugador gasta un punto de Fuerza de Voluntad y tira Manipulacion + Artesania (dificultad 7). El control del Garou dura hasta el final de la escena.",
     "tags": [
       "glass-walkers"
@@ -16093,7 +16084,7 @@
     "type": "gift",
     "line": "werewolf",
     "name_en": "Power Surge",
-    "name_es": "Sobrecarga de Energia",
+    "name_es": "Sobrecarga de Energía",
     "body_es": "Tras hablar con los espiritus de electricidad el Garou causa un apagon en una amplia area. Un elemental de electricidad ensena este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Astucia + Ciencias (dificultad 7). El numero de exitos determina el tamano del area que sufre el apagon. Un exito apagaria una unica habitacion, mientras que cinco dejaria sin electricidad a un barrio entero.",
     "tags": [
       "glass-walkers",
@@ -16134,8 +16125,8 @@
     "type": "gift",
     "line": "werewolf",
     "name_en": "Control Complex Machine",
-    "name_es": "Controlar Maquina Compleja",
-    "body_es": "Similar a [Controlar Maquina Simple](/werewolf/gifts/control-simple-machine), el Morador del Cristal puede ahora conversar y comandar a los espiritus de aparatos como computadoras, smartphones y automoviles. Una Arana de la Red ensena este Don.\n\n**Sistema:** El jugador gasta un punto de Fuerza de Voluntad y tira Manipulacion + Ciencias o Informatica. El Narrador fija la dificultad basandose en cuan compleja es la maquina (8 para un portatil normal). El control del Garou dura una escena.",
+    "name_es": "Controlar Máquina Compleja",
+    "body_es": "Similar a Controlar Maquina Simple, el Morador del Cristal puede ahora conversar y comandar a los espiritus de aparatos como computadoras, smartphones y automoviles. Una Arana de la Red ensena este Don.\n\n**Sistema:** El jugador gasta un punto de Fuerza de Voluntad y tira Manipulacion + Ciencias o Informatica. El Narrador fija la dificultad basandose en cuan compleja es la maquina (8 para un portatil normal). El control del Garou dura una escena.",
     "tags": [
       "glass-walkers"
     ],
@@ -16214,7 +16205,7 @@
     "type": "gift",
     "line": "werewolf",
     "name_en": "Doppelganger",
-    "name_es": "Doppelganger",
+    "name_es": "Doppelgänger",
     "body_es": "El Garou puede tomar la forma exacta de cualquier otro humano, lobo o Garou. Un espiritu camaleon ensena este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Carisma + Interpretacion (dificultad 8). No se replican los Rasgos, pero todo lo demas, incluyendo la voz, las posturas y el olor, son identicos. Los efectos duran un dia por exito (aunque el Garou puede finalizarlos a voluntad).",
     "tags": [
       "glass-walkers"
@@ -16246,7 +16237,7 @@
     "type": "gift",
     "line": "werewolf",
     "name_en": "Technological Speech",
-    "name_es": "Habla Tecnologica",
+    "name_es": "Habla Tecnológica",
     "body_es": "Este Don permite al Morador del Cristal contactar con otros a traves de cualquier aparato tecnologico. El Garou habla con una Arana de la Urdimbre en o cerca del aparato y le comunica el mensaje a enviar y a quien deberia ser entregado. Esta Arana encuentra entonces al receptor y utiliza cualquier tecnologia de comunicacion que este cerca suya para entregar el mensaje: los telefonos lo gritan (sin levantar el auricular o sin necesidad de encenderlos), las vallas publicitarias electronicas lo mostraran y las impresoras lo imprimiran como texto. Si no hay ninguna forma de tecnologia de comunicacion presente, cualquier otra tecnologia se activara, aunque no se transmitira el mensaje. Si no hay tecnologia de ningun tipo cerca del receptor, el Don falla. Una Arana de la Urdimbre ensena este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Carisma + Ciencias. La dificultad depende de la distancia a la que se quiere enviar el mensaje: la habitacion de al lado es dificultad 4, el mismo edificio 5, a un bloque de distancia 6, a 16 kilometros (10 millas) 7, a un huso horario de distancia 8. Mas lejos es dificultad 9. Cuantos mas exitos se obtengan, mas largo puede ser el mensaje. Un unico exito solo permitira mandar una palabra; cinco permitirian una longitud ilimitada.",
     "tags": [
       "glass-walkers"
@@ -16260,6 +16251,12 @@
         "section_anchor": "dones-de-los-boli-zousizhe",
         "page": null,
         "book_title_es": "W20 Aniversario Core (ES)"
+      },
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "section_anchor": "dones-hominido",
+        "page": null,
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ]
   },
@@ -16290,7 +16287,7 @@
     "type": "gift",
     "line": "werewolf",
     "name_en": "Summon Net-Spider",
-    "name_es": "Invocar Arana de la Red",
+    "name_es": "Invocar Araña de la Red",
     "body_es": "El Garou porta una gran bendicion tecnologica que le concede una comprension intuitiva del comportamiento de las computadoras; ademas, puede invocar a una Arana de la Red, un espiritu de la Tejedora que proporciona a su invocador un poder casi absoluto sobre cualquier sistema informatico. La Arana puede interrumpir, borrar o destruir cualquier sistema en el que sea introducida (los efectos exactos quedan a discrecion del Narrador, pero suelen ser destructivos). Un avatar de [Cucaracha](/werewolf/totems/cockroach) ensena este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Carisma + Informatica (dificultad 8). Si tiene exito, la Arana de la Red aparece y sigue las ordenes del Garou. Ademas del poder destructivo del espiritu invocado, este Don permite al Garou reducir permanentemente a la mitad la dificultad de todas las tiradas para usar, montar o hackear ordenadores.",
     "tags": [
       "glass-walkers"
@@ -16304,6 +16301,12 @@
         "section_anchor": "dones-de-los-boli-zousizhe",
         "page": null,
         "book_title_es": "W20 Aniversario Core (ES)"
+      },
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "section_anchor": "dones-de-los-wyrsta",
+        "page": null,
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ]
   },
@@ -16312,7 +16315,7 @@
     "type": "gift",
     "line": "werewolf",
     "name_en": "Chaos Mechanics",
-    "name_es": "Mecanicas del Caos",
+    "name_es": "Mecánicas del Caos",
     "body_es": "Los hombres lobo vibran con la energia del Kaos, pero todas las criaturas con forma y naturaleza tienen tambien algo de la Tejedora en su ser. Al aprender este Don, el Morador del Cristal reconcilia estos aspectos de su ser, permitiendole invocar energia primaria y forma mistica al mismo tiempo. Luna, quien equilibra el caos voluble en un ordenado ciclo de fases, envia a las mas poderosas de sus Lunulas a ensenar este Don.\n\n**Sistema:** El hombre lobo con este Don puede usar Rabia y Gnosis en el mismo turno sin penalizacion. Los efectos de este Don son permanentes.",
     "tags": [
       "glass-walkers"
@@ -16753,7 +16756,7 @@
     "type": "gift",
     "line": "werewolf",
     "name_en": "Call the Rust",
-    "name_es": "Llamar al Oxido",
+    "name_es": "Llamar al Óxido",
     "body_es": "Al silbar suavemente entre dientes, el hombre lobo puede invocar un oxido repentino y destructivo sobre cualquier metal que este en sus inmediaciones. Las pistolas se corroen y se atascan, los cuchillos se mellan y los coches se vuelven descascarillados trozos de chatarra. Un elemental de agua ensena este Don.\n\n**Sistema:** El jugador gasta un punto de Gnosis y tira Astucia + Artesania, con una dificultad que depende de la cantidad de metal por corroer. Para una pistola o [cuchillo](/werewolf/weapons/cuchillo) la dificultad seria 6, mientras que para un coche podria ser 8.",
     "tags": [
       "bone-gnawers",
@@ -17094,7 +17097,7 @@
     "type": "gift",
     "line": "werewolf",
     "name_en": "Song of Mother Earth",
-    "name_es": "Cancion de la Madre Tierra",
+    "name_es": "Canción de la Madre Tierra",
     "body_es": "Este Don permite al hombre lobo sentir la presencia de actividad sobrenatural en un area amplia. En esencia, el Garou se comunica de forma intima con la tierra y escucha lo que esta dice. Un espiritu de tierra ensena este Don.\n\n**Sistema:** El usuario pasa diez minutos conversando con la tierra durante los cuales no puede realizar otras acciones. Despues, el jugador gasta dos puntos de Gnosis y tira Percepcion + Ocultismo (dificultad 7). Superar la tirada indica que la tierra le dice si hay alguna presencia sobrenatural en un radio de 91 metros (100 yardas) por exito. Pese a que el Don no ofrece informacion especifica sobre el ser o seres detectados, si que indica si la presencia esta o no manchada por el Wyrm.",
     "tags": [
       "shadow-lords"
@@ -27090,7 +27093,7 @@
     "line": "werewolf",
     "name_en": "Dog",
     "name_es": "Perro",
-    "body_es": "Perro es un espíritu humilde que representa el poder de la cooperación y la adaptabilidad. Los perros han medrado al convertirse en los compañeros del hombre, colaborando con él para beneficio de ambas especies. Los clanes que siguen a Perro enfatizan la armonía por encima de todo. Algunas de las Tribus más salvajes (especialmente los Garras Rojas) desdeñan a Perro como a un vendido, pero los Garou más pacientes comprenden que la victoria definitiva de Perro ha sido enseñar compasión a la humanidad.",
+    "body_es": "Perro es un espíritu humilde que representa el poder de la cooperación y la adaptabilidad. Los perros han medrado al convertirse en los compañeros del hombre, colaborando con él para beneficio de ambas especies. Los clanes que siguen a Perro enfatizan la armonía por encima de todo. Algunas de las Tribus más salvajes (especialmente los Garras Rojas) desdeñan a Perro como a un vendido, pero los Garou más pacientes comprenden que la victoria definitiva de Perro ha sido enseñar [compasión](/werewolf/gifts/compassion) a la humanidad.",
     "tags": [
       "totem-de-clan",
       "totem-de-sabiduria"
@@ -28357,30 +28360,6 @@
     ]
   },
   {
-    "id": "summon-web-spider",
-    "type": "gift",
-    "line": "werewolf",
-    "name_en": "Summon Web Spider",
-    "name_es": "Invocar Araña de la Red",
-    "body_es": "Como el Don de los Moradores del Cristal.",
-    "tags": [
-      "ananasi",
-      "wyrsta"
-    ],
-    "mechanics": {
-      "rank": "Nivel cinco",
-      "reference": "Como el Don de los Moradores del Cristal."
-    },
-    "sources": [
-      {
-        "book_id": "w20-nsr-aniversario-parte-3-290pp",
-        "section_anchor": "dones-de-los-wyrsta",
-        "page": null,
-        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
-      }
-    ]
-  },
-  {
     "id": "webs-as-blades",
     "type": "gift",
     "line": "werewolf",
@@ -29175,36 +29154,12 @@
     }
   },
   {
-    "id": "technospeak",
-    "type": "gift",
-    "line": "werewolf",
-    "name_en": "Technospeak",
-    "name_es": "Habla Tecnológica",
-    "body_es": "Como el Don de los Moradores del Cristal.",
-    "tags": [
-      "bastet",
-      "homid"
-    ],
-    "mechanics": {
-      "rank": "Nivel cuatro",
-      "reference": "Como el Don de los Moradores del Cristal."
-    },
-    "sources": [
-      {
-        "book_id": "w20-nsr-aniversario-parte-3-290pp",
-        "section_anchor": "dones-hominido",
-        "page": null,
-        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
-      }
-    ]
-  },
-  {
     "id": "monkey-uncle",
     "type": "gift",
     "line": "werewolf",
     "name_en": "Monkey's Uncle",
     "name_es": "Tío del Mono",
-    "body_es": "Como el Don de los Moradores del Cristal Doppelgänger, aunque los [Bastet](/werewolf/changing-breeds/bastet) sólo pueden adoptar la forma de humanos, grandes felinos o [Bastet](/werewolf/changing-breeds/bastet).",
+    "body_es": "Como el Don de los Moradores del Cristal [Doppelgänger](/werewolf/gifts/doppelganger), aunque los [Bastet](/werewolf/changing-breeds/bastet) sólo pueden adoptar la forma de humanos, grandes felinos o [Bastet](/werewolf/changing-breeds/bastet).",
     "tags": [
       "bastet",
       "homid"
@@ -29220,7 +29175,10 @@
         "page": null,
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "reference": "Como el Don de los Moradores del Cristal <a href=\"/werewolf/gifts/doppelganger\">Doppelgänger</a>."
+    }
   },
   {
     "id": "sense-primal-nature",
@@ -30100,36 +30058,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ]
-  },
-  {
-    "id": "ajaba-midnight-phantasm",
-    "type": "gift",
-    "line": "werewolf",
-    "name_en": "Phantasm",
-    "name_es": "Fantasmagoría",
-    "body_es": "Como el Don de los Fianna.",
-    "tags": [
-      "ajaba",
-      "gift",
-      "Medianoche",
-      "Ajaba"
-    ],
-    "mechanics": {
-      "rank": "Nivel cuatro",
-      "breed": "Ajaba",
-      "category": "Medianoche"
-    },
-    "sources": [
-      {
-        "book_id": "w20-nsr-aniversario-parte-3-290pp",
-        "section_anchor": "dones-de-los-ceilican",
-        "page": null,
-        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
-      }
-    ],
-    "mechanics_html": {
-      "breed": "<a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a>"
-    }
   },
   {
     "id": "little-cousin",
@@ -34562,7 +34490,7 @@
     "line": "werewolf",
     "name_en": "Moon-Fan-Face-Shadow",
     "name_es": "Luna-Abanico-Rostro-Sombra",
-    "body_es": "Como el Don de los Moradores del Cristal Doppelgänger.",
+    "body_es": "Como el Don de los Moradores del Cristal [Doppelgänger](/werewolf/gifts/doppelganger).",
     "tags": [
       "kitsune",
       "don",
@@ -34580,7 +34508,10 @@
         "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "reference": "Como el Don de los Moradores del Cristal <a href=\"/werewolf/gifts/doppelganger\">Doppelgänger</a>."
+    }
   },
   {
     "id": "mist-on-the-water",
@@ -36550,7 +36481,7 @@
     "line": "werewolf",
     "name_en": "Pierce Illusion",
     "name_es": "Atravesar Ilusión",
-    "body_es": "Nivel tres. Los sagaces ojos del [Nagah](/werewolf/changing-breeds/nagah) pueden atravesar con facilidad las ilusiones del mundo. Sistema: El jugador gasta un punto de Gnosis. Durante el resto de la escena, el personaje ve automáticamente a través de todas las ilusiones, como el Don [Fantasmagoría](/werewolf/gifts/ajaba-midnight-phantasm) o la magia vampírica Quimerismo.",
+    "body_es": "Nivel tres. Los sagaces ojos del [Nagah](/werewolf/changing-breeds/nagah) pueden atravesar con facilidad las ilusiones del mundo. Sistema: El jugador gasta un punto de Gnosis. Durante el resto de la escena, el personaje ve automáticamente a través de todas las ilusiones, como el Don [Fantasmagoría](/werewolf/gifts/phantasm) o la magia vampírica Quimerismo.",
     "tags": [
       "don",
       "nagah",
@@ -37392,7 +37323,7 @@
     "line": "werewolf",
     "name_en": "Veil of Maya",
     "name_es": "Velo de Maya",
-    "body_es": "Como el Don de los Fianna [Fantasmagoría](/werewolf/gifts/ajaba-midnight-phantasm).",
+    "body_es": "Como el Don de los Fianna [Fantasmagoría](/werewolf/gifts/phantasm).",
     "tags": [
       "nagah",
       "kartikeya"
@@ -38779,7 +38710,7 @@
     "line": "werewolf",
     "name_en": "Cartoon Physics",
     "name_es": "Física de Dibujos Animados",
-    "body_es": "El [Nuwisha](/werewolf/changing-breeds/nuwisha) puede engañar brevemente las leyes de la gravedad para que no se le apliquen, permitiéndole correr y hasta saltar en el aire siempre que no reconozca que está haciendo algo imposible. Algunos hombres [coyote](/werewolf/totems/coyote) astutos usan este Don junto con [Fantasmagoría](/werewolf/gifts/ajaba-midnight-phantasm) para engañar a una víctima para que camine hacia un suelo ilusorio sobre el que el hombre [coyote](/werewolf/totems/coyote) 'aguarda' cómodamente. Cualquier espíritu de aire enseña este Don.\n\nSistema: El jugador gasta un punto de Gnosis y tira Astucia + Ciencias a dificultad 5. El [Nuwisha](/werewolf/changing-breeds/nuwisha) puede 'estar de pie' sobre nada durante un turno por éxito, siempre que permanezca más o menos al nivel de cuando abandonó el suelo sólido; puede seguir corriendo e incluso saltar adonde debería estar el 'suelo'. Los efectos de este Don terminan inmediatamente si mira hacia abajo.",
+    "body_es": "El [Nuwisha](/werewolf/changing-breeds/nuwisha) puede engañar brevemente las leyes de la gravedad para que no se le apliquen, permitiéndole correr y hasta saltar en el aire siempre que no reconozca que está haciendo algo imposible. Algunos hombres [coyote](/werewolf/totems/coyote) astutos usan este Don junto con [Fantasmagoría](/werewolf/gifts/phantasm) para engañar a una víctima para que camine hacia un suelo ilusorio sobre el que el hombre [coyote](/werewolf/totems/coyote) 'aguarda' cómodamente. Cualquier espíritu de aire enseña este Don.\n\nSistema: El jugador gasta un punto de Gnosis y tira Astucia + Ciencias a dificultad 5. El [Nuwisha](/werewolf/changing-breeds/nuwisha) puede 'estar de pie' sobre nada durante un turno por éxito, siempre que permanezca más o menos al nivel de cuando abandonó el suelo sólido; puede seguir corriendo e incluso saltar adonde debería estar el 'suelo'. Los efectos de este Don terminan inmediatamente si mira hacia abajo.",
     "tags": [
       "nuwisha"
     ],
@@ -40405,7 +40336,7 @@
     "line": "werewolf",
     "name_en": "Whispered Dreams",
     "name_es": "Sueños Susurrados",
-    "body_es": "Como el Don de los Fianna [Fantasmagoría](/werewolf/gifts/ajaba-midnight-phantasm).",
+    "body_es": "Como el Don de los Fianna [Fantasmagoría](/werewolf/gifts/phantasm).",
     "tags": [
       "ratkin",
       "gift",
@@ -44180,7 +44111,7 @@
     "line": "werewolf",
     "name_en": "Iron Jaws",
     "name_es": "Mandíbulas de Hierro",
-    "body_es": "Como el Don Ahroun [Mandíbula Apretada](/werewolf/gifts/ajaba-general-clenched-jaw).",
+    "body_es": "Como el Don Ahroun [Mandíbula Apretada](/werewolf/gifts/clenched-jaw).",
     "tags": [
       "hengeyokai",
       "same-bito",
@@ -45145,7 +45076,7 @@
     "line": "werewolf",
     "name_en": "Call the Eshu",
     "name_es": "Llamar a los Eshu",
-    "body_es": "Como el Don Fianna [Parentela](/werewolf/backgrounds/kinfolk) Feérica. Los [Ajaba](/werewolf/changing-breeds/ajaba) usan este Don para invocar espíritus de narración que iluminen a sus manadas.",
+    "body_es": "Como el Don Fianna [Parentela Feérica](/werewolf/gifts/faerie-kin). Los [Ajaba](/werewolf/changing-breeds/ajaba) usan este Don para invocar espíritus de narración que iluminen a sus manadas.",
     "tags": [
       "ajaba",
       "gift",
