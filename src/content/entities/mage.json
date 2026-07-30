@@ -2892,8 +2892,11 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "• Mente, •• Cardinal, o ambas; posiblemente con •••• Cardinal en su lugar",
-      "spheres_note": "· Mente, ·· Cardinal, o ambas; posiblemente con ···· Cardinal en su lugar"
+      "spheres": {
+        "mind": 1
+      },
+      "spheres_note": "· Mente, ·· Cardinal, o ambas; posiblemente con ···· Cardinal en su lugar",
+      "spheres_ruling": "Registrado Mente 1, el peldaño que el propio cuerpo llama la forma más básica: markdown/mage/m20-book-of-the-fallen.md:4096 (\"En su forma más básica, este truco emplea la disciplina mental de Mente 1 para bloquear los «verdaderos colores» del Caído de su aura\"). La versión más avanzada es Cardinal 4, markdown/mage/m20-book-of-the-fallen.md:4102 (\"La versión más avanzada del Velo usa Cardinal 4 para «enjuagar» el aura y la Resonancia del mago\"), y sube la dificultad de 4 a 7 coincidente, que es exactamente lo que debe pasar cuando el jugador la elige en el diálogo. HALLAZGO: la rama \"·· Cardinal\" del encabezado NO LA SOSTIENE NINGUNA PROSA. El cuerpo describe solamente dos versiones movidas por Esferas — Mente 1 y Cardinal 4 — y la versión intermedia (encubrir la Resonancia) va por una TIRADA DE FUERZA DE VOLUNTAD, no por Esfera alguna (markdown/mage/m20-book-of-the-fallen.md:4100). Por eso se rechaza cualquier unión con Cardinal 2: enviaría un requisito que el texto no respalda. [convention: lowest rung; el libro enuncia Mente 1 y Cardinal 4 y no dice cuál de las dos es el ítem llamado \"Velar el alma\" — se registra el más bajo, que además es el que el cuerpo etiqueta como básico.]"
     },
     "sources": [
       {
@@ -2916,8 +2919,12 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "• Vida o • Mente; posiblemente con • Entropía añadida",
-      "spheres_note": "· Vida o · Mente; posiblemente con · Entropía añadida"
+      "spheres": {
+        "mind": 1
+      },
+      "spheres_note": "· Vida o · Mente; posiblemente con · Entropía añadida",
+      "spheres_ruling": "Registrado Mente 1 [unconfirmed] y ES ARBITRARIO: hay que decirlo sin rodeos. El encabezado ofrece \"· Vida o · Mente\" (markdown/mage/m20-book-of-the-fallen.md:4107) y el párrafo de Sistema NO NOMBRA NINGUNA ESFERA — sólo describe la reducción de dificultad (markdown/mage/m20-book-of-the-fallen.md:4111, \"No hay nada complicado en este hechizo. Cada éxito en la tirada de Areté del lanzador reduce la dificultad de las tiradas de Rasgos Sociales subsiguientes\"). La descripción apunta a las dos ramas por igual: \"lenguaje corporal\" y \"elecciones de vestuario\" son lecturas físicas (Vida 1), \"estado emocional\" es una lectura mental (Mente 1) (markdown/mage/m20-book-of-the-fallen.md:4109). Se elige Mente porque el beneficio es un bono a tiradas SOCIALES y toda la entrada trata de leer y explotar la psicología — pero eso es gusto, no evidencia, y esta es una tirada de moneda. Lo que salva la jugada: las dos ramas son Rango 1, así que la dificultad es 4 coincidente en ambos casos; lo ÚNICO que cambia una elección equivocada es qué Esfera debe poseer el personaje, y eso se arregla con un clic en el diálogo. De las 20 resoluciones, esta es la de menor riesgo.",
+      "unconfirmed": true
     },
     "sources": [
       {
@@ -2966,8 +2973,11 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "•• , ••• , •••• o ••••• Mente; posiblemente con los puntos correspondientes en Correspondencia añadidos",
-      "spheres_note": "·· , ··· , ···· o ····· Mente; posiblemente con los puntos correspondientes en Correspondencia añadidos"
+      "spheres": {
+        "mind": 2
+      },
+      "spheres_note": "·· , ··· , ···· o ····· Mente; posiblemente con los puntos correspondientes en Correspondencia añadidos",
+      "spheres_ruling": "Registrado Mente 2. El libro enuncia la escalera COMPLETA y nombra Mente 2 como la variante más sencilla: markdown/mage/m20-book-of-the-fallen.md:4156 (\"La variante más sencilla de este hechizo implica un empujón emocional de Mente 2\"), markdown/mage/m20-book-of-the-fallen.md:4166 (\"Mente 2 consigue que la gente haga algo que ya estaba dispuesta a hacer, Mente 3 supera sus reservas, Mente 4 los hace ir en contra de sus mejores intereses e inhibiciones, y Mente 5 los convierte en auténticas marionetas\") y markdown/mage/m20-book-of-the-fallen.md:4170 (\"La mayoría de los Nefandos no necesitan más de Mente 2 o quizá 3 para obtener resultados\"). Correspondencia NO se registra: es optativa y su Rango es DERIVADO — \"los puntos en Correspondencia deben igualar los puntos en Mente\" (markdown/mage/m20-book-of-the-fallen.md:4172) — así que ningún entero fijo puede expresarla. [convention: lowest rung; el libro enuncia Mente 2, 3, 4 y 5 y no dice cuál de los cuatro es este ítem — se registra el más bajo, que además es el que el cuerpo llama el más sencillo y el habitual.]"
     },
     "sources": [
       {
@@ -2976,7 +2986,10 @@
         "page": null,
         "book_title_es": "M20 Book of the Fallen"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "spheres_ruling": "Registrado Mente 2. El libro enuncia la escalera COMPLETA y nombra Mente 2 como la variante más sencilla: markdown/mage/m20-book-of-the-fallen.md:4156 (&quot;La variante más sencilla de este hechizo implica un empujón emocional de Mente 2&quot;), markdown/mage/m20-book-of-the-fallen.md:4166 (&quot;Mente 2 consigue que la gente haga algo que ya estaba dispuesta a hacer, Mente 3 supera sus reservas, Mente 4 los hace ir en contra de sus mejores intereses e inhibiciones, y Mente 5 los convierte en auténticas marionetas&quot;) y markdown/mage/m20-book-of-the-fallen.md:4170 (&quot;La mayoría de los <a href=\"/mage/affiliations/nephandi\">Nefandos</a> no necesitan más de Mente 2 o quizá 3 para obtener resultados&quot;). Correspondencia NO se registra: es optativa y su Rango es DERIVADO — &quot;los puntos en Correspondencia deben igualar los puntos en Mente&quot; (markdown/mage/m20-book-of-the-fallen.md:4172) — así que ningún entero fijo puede expresarla. [convention: lowest rung; el libro enuncia Mente 2, 3, 4 y 5 y no dice cuál de los cuatro es este ítem — se registra el más bajo, que además es el que el cuerpo llama el más sencillo y el habitual.]"
+    }
   },
   {
     "id": "look-the-other-way",
@@ -2990,8 +3003,12 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "•• Fuerzas, o •• Mente, o ••• Mente y •• Materia, o •• -••• Vida; posiblemente con •• Fuerzas añadida",
-      "spheres_note": "·· Fuerzas, o ·· Mente, o ··· Mente y ·· Materia, o ·· -··· Vida; posiblemente con ·· Fuerzas añadida"
+      "spheres": {
+        "forces": 2
+      },
+      "spheres_note": "·· Fuerzas, o ·· Mente, o ··· Mente y ·· Materia, o ·· -··· Vida; posiblemente con ·· Fuerzas añadida",
+      "spheres_ruling": "Registrado Fuerzas 2 [unconfirmed], la aplicación que el cuerpo llama la más simple: markdown/mage/m20-book-of-the-fallen.md:4181 (\"La aplicación más simple de este hechizo usa Fuerzas 2 para avivar una fuente de luz, cambiar colores, empujar un pequeño objeto a distancia, o atraer sombras sutiles\"). CORRECCIÓN de la razón anterior, que hablaba de \"un tramo (en Vida) Y una alternancia de cuatro vías\": la mitad del tramo ESTÁ RESUELTA en el cuerpo, markdown/mage/m20-book-of-the-fallen.md:4185 (\"el lanzador necesita Mente 3, más Materia 2 o Vida 2 (para el propio lanzador) o 3 (para otra persona)\") — el mismo paso sí-mismo/otro que Garras y Embellecer o Deformar. Lo único genuinamente abierto es la alternancia de cuatro vías. Se rechaza la unión: exigiría Fuerzas 2 Y Mente 3 Y Materia 2 Y Vida 3 donde el libro ofrece un menú. Marcado [unconfirmed] porque \"la aplicación más simple\" no es lo mismo que \"este ítem es la versión de Fuerzas\"; como las cuatro versiones topan en Rango 3, el error máximo de dificultad por elegir mal es +1. La cuarta versión, la \"itinerante\", no es ni siquiera un Efecto de Esfera: concede un punto temporal de Arcano/Encubrimiento (markdown/mage/m20-book-of-the-fallen.md:4199), que es un Rasgo de Trasfondo.",
+      "unconfirmed": true
     },
     "sources": [
       {
@@ -3000,7 +3017,10 @@
         "page": null,
         "book_title_es": "M20 Book of the Fallen"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "spheres_ruling": "Registrado Fuerzas 2 [unconfirmed], la aplicación que el cuerpo llama la más simple: markdown/mage/m20-book-of-the-fallen.md:4181 (&quot;La aplicación más simple de este hechizo usa Fuerzas 2 para avivar una fuente de luz, cambiar colores, empujar un pequeño objeto a distancia, o atraer <a href=\"/mage/hedge-paths/sombras\">sombras</a> sutiles&quot;). CORRECCIÓN de la razón anterior, que hablaba de &quot;un tramo (en Vida) Y una alternancia de cuatro vías&quot;: la mitad del tramo ESTÁ RESUELTA en el cuerpo, markdown/mage/m20-book-of-the-fallen.md:4185 (&quot;el lanzador necesita Mente 3, más Materia 2 o Vida 2 (para el propio lanzador) o 3 (para otra persona)&quot;) — el mismo paso sí-mismo/otro que <a href=\"/mage/rotes/talons\">Garras</a> y <a href=\"/mage/rotes/beautify-or-deform\">Embellecer o Deformar</a>. Lo único genuinamente abierto es la alternancia de cuatro vías. Se rechaza la unión: exigiría Fuerzas 2 Y Mente 3 Y Materia 2 Y Vida 3 donde el libro ofrece un menú. <a href=\"/mage/flaws/marcado\">Marcado</a> [unconfirmed] porque &quot;la aplicación más simple&quot; no es lo mismo que &quot;este ítem es la versión de Fuerzas&quot;; como las cuatro versiones topan en Rango 3, el error máximo de dificultad por elegir mal es +1. La cuarta versión, la &quot;itinerante&quot;, no es ni siquiera un Efecto de Esfera: concede un punto temporal de <a href=\"/mage/chantry-traits/chantry-arcane-cloaking\">Arcano/Encubrimiento</a> (markdown/mage/m20-book-of-the-fallen.md:4199), que es un Rasgo de Trasfondo."
+    }
   },
   {
     "id": "goad-the-herd",
@@ -3014,8 +3034,14 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "•• Correspondencia o •• Entropía o •• Mente; una variante más fuerte usa ••• en cada Esfera en su lugar",
-      "spheres_note": "·· Correspondencia o ·· Entropía o ·· Mente; una variante más fuerte usa ··· en cada Esfera en su lugar"
+      "spheres": {
+        "correspondence": 2,
+        "entropy": 2,
+        "mind": 2
+      },
+      "spheres_note": "·· Correspondencia o ·· Entropía o ·· Mente; una variante más fuerte usa ··· en cada Esfera en su lugar",
+      "spheres_ruling": "Registrada la UNIÓN Correspondencia 2 + Entropía 2 + Mente 2 [unconfirmed]. CORRECCIÓN de la razón anterior, que aplicaba la regla genérica de alternancia entre Esferas (\"una unión afirma que el mago necesita TODAS donde el libro pide una\"): para ESTE registro el libro pide las tres a la vez, cada una con un trabajo distinto y nombrado, markdown/mage/m20-book-of-the-fallen.md:4208 (\"Mente 2 enciende un impulso emocional, Correspondencia 2 transmite el hechizo a través de distancias mediante los medios, y Entropía 2 empuja las probabilidades hacia el caos\"). El \"o\" del encabezado (markdown/mage/m20-book-of-the-fallen.md:4204) es el elemento discordante, no el Sistema. El propio hechizo se refiere a las tres como UN SOLO Rango uniforme — \"La versión de Rango 2 de este hechizo sigue siendo coincidente\" (markdown/mage/m20-book-of-the-fallen.md:4210) frente a \"Una versión más potente usaría el tercer Rango de Esferas en su lugar\" (markdown/mage/m20-book-of-the-fallen.md:4212) — lo que sólo tiene sentido si las tres están presentes. Y la premisa entera del Efecto es el alcance de los medios de masas, así que Correspondencia no es optativa en ninguna lectura honesta. La unión no cuesta nada en dificultad: las tres a Rango 2, Rango más alto 2. Marcado [unconfirmed] porque la CONJUNCIÓN se lee del párrafo de Sistema contra el encabezado; los tres valores son literales, pero el encabezado dice \"o\".",
+      "unconfirmed": true
     },
     "sources": [
       {
@@ -3024,7 +3050,10 @@
         "page": null,
         "book_title_es": "M20 Book of the Fallen"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "spheres_ruling": "Registrada la UNIÓN Correspondencia 2 + Entropía 2 + Mente 2 [unconfirmed]. CORRECCIÓN de la razón anterior, que aplicaba la regla genérica de alternancia entre Esferas (&quot;una unión afirma que el mago necesita TODAS donde el libro pide una&quot;): para ESTE registro el libro pide las tres a la vez, cada una con un trabajo distinto y nombrado, markdown/mage/m20-book-of-the-fallen.md:4208 (&quot;Mente 2 enciende un impulso emocional, Correspondencia 2 transmite el hechizo a través de distancias mediante los medios, y Entropía 2 empuja las probabilidades hacia el caos&quot;). El &quot;o&quot; del encabezado (markdown/mage/m20-book-of-the-fallen.md:4204) es el elemento discordante, no el Sistema. El propio hechizo se refiere a las tres como UN SOLO Rango uniforme — &quot;La versión de Rango 2 de este hechizo sigue siendo coincidente&quot; (markdown/mage/m20-book-of-the-fallen.md:4210) frente a &quot;Una versión más potente usaría el tercer Rango de Esferas en su lugar&quot; (markdown/mage/m20-book-of-the-fallen.md:4212) — lo que sólo tiene sentido si las tres están presentes. Y la premisa entera del Efecto es el alcance de los <a href=\"/mage/instruments/mass-media\">medios de masas</a>, así que Correspondencia no es optativa en ninguna lectura honesta. La unión no cuesta nada en dificultad: las tres a Rango 2, Rango más alto 2. <a href=\"/mage/flaws/marcado\">Marcado</a> [unconfirmed] porque la CONJUNCIÓN se lee del párrafo de Sistema contra el encabezado; los tres valores son literales, pero el encabezado dice &quot;o&quot;."
+    }
   },
   {
     "id": "beautify-or-deform",
@@ -3038,8 +3067,11 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "••• o •••• Vida",
-      "spheres_note": "··· o ···· Vida"
+      "spheres": {
+        "life": 3
+      },
+      "spheres_note": "··· o ···· Vida",
+      "spheres_ruling": "Registrado Vida 3 (el mago sobre sí mismo). markdown/mage/m20-book-of-the-fallen.md:4223 (\"Mecánicamente, este proceso es sencillo: Vida 3 transforma al propio mago, mientras que Vida 4 transforma a otra persona\"). Es el paso estándar sí-mismo/otro de la Esfera Vida en M20, no una elección abierta. La sub-variante que la misma entrada nombra, \"Resistencia Inhumana\" (markdown/mage/m20-book-of-the-fallen.md:4219), usa los mismos Rangos. [convention: lowest rung; el libro enuncia Vida 3 y Vida 4 y no dice cuál de los dos es este ítem — se registra el más bajo, porque registrar 4 encarecería en +1 toda transformación sobre uno mismo mientras que subir a 4 es un clic.]"
     },
     "sources": [
       {
@@ -3062,8 +3094,11 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "••• Correspondencia, más •• -••• Materia, •• -••• Fuerzas, o •• Cardinal, o una combinación de las tres",
-      "spheres_note": "··· Correspondencia, más ·· -··· Materia, ·· -··· Fuerzas, o ·· Cardinal, o una combinación de las tres"
+      "spheres": {
+        "correspondence": 3
+      },
+      "spheres_note": "··· Correspondencia, más ·· -··· Materia, ·· -··· Fuerzas, o ·· Cardinal, o una combinación de las tres",
+      "spheres_ruling": "Registrado Correspondencia 3, la cabecera OBLIGATORIA, y nada más. Dos cosas están enunciadas, no inferidas: markdown/mage/m20-book-of-the-fallen.md:4244 (\"Correspondencia 3 permite al asaltante alterar el entorno de la víctima a distancia\") y, al final del menú, que Correspondencia 3 A SOLAS ya es una forma completa del Efecto, markdown/mage/m20-book-of-the-fallen.md:4253 (\"Finalmente, con solo Correspondencia 3, puede alcanzar su espacio y luego retirarse rápidamente antes de ser visto\"). Todos los añadidos del menú (markdown/mage/m20-book-of-the-fallen.md:4246-4252) están a Rango 2 o 3, es decir <= la cabecera, y como la dificultad la fija el Rango MÁS ALTO, este registro da la dificultad correcta para TODAS las ramas del hechizo: no queda ninguna mal tarificada y no hay ningún peldaño sin resolver, de modo que aquí no aplica ninguna convención. Se rechaza la unión: exigiría Materia Y Fuerzas Y Cardinal donde el cuerpo ofrece un menú."
     },
     "sources": [
       {
@@ -3281,9 +3316,15 @@
       "tormenta"
     ],
     "mechanics": {
-      "spheres": "••• -••••• Fuerzas, ••• Espíritu, •• Mente, y •• Cardinal",
+      "spheres": {
+        "forces": 3,
+        "spirit": 3,
+        "mind": 2,
+        "prime": 2
+      },
       "spheres_note": "··· -····· Fuerzas, ··· Espíritu, ·· Mente, y ·· Cardinal",
-      "forces_scaling": "Fuerzas 3 (viento pequeño y breve); Fuerzas 4 (tormenta grande); Fuerzas 5 (tempestad negra enorme)"
+      "forces_scaling": "Fuerzas 3 (viento pequeño y breve); Fuerzas 4 (tormenta grande); Fuerzas 5 (tempestad negra enorme)",
+      "spheres_ruling": "Registrado Fuerzas 3 + Espíritu 3 + Mente 2 + Cardinal 2. Todo lo demás de la notación está fijo en un solo Rango y el cuerpo explica el trabajo de cada Esfera (markdown/mage/m20-book-of-the-fallen.md:4395: \"Fuerzas y Cardinal invocan el viento y destierran la luz de dentro del área, Espíritu convoca una hueste de espíritus menores para habitarla, y Mente añade un aterrador oleaje emocional\"). Sólo Fuerzas escala, y escala por TAMAÑO DE ÁREA: markdown/mage/m20-book-of-the-fallen.md:4397 (\"Un viento fuerte y de corta duración que afecte a un área pequeña es Fuerzas 3, una tormenta más grande y poderosa es Fuerzas 4, y una enorme tempestad negra es Fuerzas 5\") — la misma escalera que la entidad ya conserva en `forces_scaling`. Nótese que Espíritu también es 3, así que Fuerzas 3 y Espíritu 3 empatan como Rango más alto y la lectura baja es dificultad 3+N. [convention: lowest rung; el libro enuncia Fuerzas 3, 4 y 5 y no dice cuál de los tres es este ítem — se registra el más bajo; la tormenta y la tempestad son un clic y la dificultad sube entonces exactamente como el libro pretende.]"
     },
     "sources": [
       {
@@ -3292,7 +3333,10 @@
         "page": null,
         "section_anchor": "sombra-del-viento-negro"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "spheres_ruling": "Registrado Fuerzas 3 + Espíritu 3 + Mente 2 + Cardinal 2. Todo lo demás de la notación está fijo en un solo Rango y el cuerpo explica el trabajo de cada Esfera (markdown/mage/m20-book-of-the-fallen.md:4395: &quot;Fuerzas y Cardinal invocan el viento y destierran la luz de dentro del área, Espíritu convoca una hueste de espíritus menores para habitarla, y Mente añade un aterrador oleaje emocional&quot;). Sólo Fuerzas escala, y escala por <a href=\"/mage/special-advantages/size\">TAMAÑO</a> DE ÁREA: markdown/mage/m20-book-of-the-fallen.md:4397 (&quot;Un viento fuerte y de corta duración que afecte a un área pequeña es Fuerzas 3, una tormenta más grande y poderosa es Fuerzas 4, y una enorme tempestad negra es Fuerzas 5&quot;) — la misma escalera que la entidad ya conserva en `forces_scaling`. Nótese que Espíritu también es 3, así que Fuerzas 3 y Espíritu 3 empatan como Rango más alto y la lectura baja es dificultad 3+N. [convention: lowest rung; el libro enuncia Fuerzas 3, 4 y 5 y no dice cuál de los tres es este ítem — se registra el más bajo; la tormenta y la tempestad son un clic y la dificultad sube entonces exactamente como el libro pretende.]"
+    }
   },
   {
     "id": "timeless-agony",
@@ -23278,8 +23322,12 @@
       "artes-marciales"
     ],
     "mechanics": {
-      "spheres": "Vida ••• , Fuerzas •• , o ambas; quizás con Entropía •• y/o Cardinal ••",
-      "spheres_note": "Vida ··· , Fuerzas ·· , o ambas; quizás con Entropía ·· y/o Cardinal ··"
+      "spheres": {
+        "forces": 2
+      },
+      "spheres_note": "Vida ··· , Fuerzas ·· , o ambas; quizás con Entropía ·· y/o Cardinal ··",
+      "spheres_ruling": "Registrado Fuerzas 2 [unconfirmed]. La única REGLA mecánica que enuncia el Sistema se atribuye a Fuerzas: markdown/mage/m20-core-rulebook-es.md:21602 (\"Las patadas, puñetazos y golpes infligen daño según la tabla Daño o duración, más un éxito automático debido a la Esfera Fuerzas... Fuerzas se añade al impacto cinético del golpe y Vida tiene como objetivo el Patrón del oponente\"). Segundo testigo markdown/mage/m20-glosario-basico-es.md:4892 (\"Vida 3 y/o Fuerzas 2, Entropía 2 (op), Cardinal 2 (op)\"), que coincide con el \"o ambas\" y confirma que Entropía y Cardinal son optativas (markdown/mage/m20-core-rulebook-es.md:21604 las describe como opción). Marcado [unconfirmed] sin adornos: el libro NO dice cuál de las dos ramas es \"la Fórmula\". Fuerzas 2 es la mejor evidenciada (la regla de daño la cita) y además la más baja; una mesa que lea \"o ambas\" como \"normalmente ambas\" no está equivocada, sólo es más exigente que el libro, y subir a Vida 3 es un clic que eleva la dificultad correctamente.",
+      "unconfirmed": true
     },
     "sources": [
       {
@@ -23296,7 +23344,10 @@
         "section_anchor": "ajustes-iluminados",
         "variant": "base"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "spheres_ruling": "Registrado Fuerzas 2 [unconfirmed]. La única REGLA mecánica que enuncia el Sistema se atribuye a Fuerzas: markdown/mage/m20-core-rulebook-es.md:21602 (&quot;Las patadas, puñetazos y golpes infligen daño según la tabla Daño o duración, más un éxito automático debido a la Esfera Fuerzas... Fuerzas se añade al impacto cinético del golpe y Vida tiene como objetivo el <a href=\"/mage/backgrounds/patron\">Patrón</a> del oponente&quot;). Segundo testigo markdown/mage/m20-glosario-basico-es.md:4892 (&quot;Vida 3 y/o Fuerzas 2, Entropía 2 (op), Cardinal 2 (op)&quot;), que coincide con el &quot;o ambas&quot; y confirma que Entropía y Cardinal son optativas (markdown/mage/m20-core-rulebook-es.md:21604 las describe como opción). <a href=\"/mage/flaws/marcado\">Marcado</a> [unconfirmed] sin adornos: el libro NO dice cuál de las dos ramas es &quot;la Fórmula&quot;. Fuerzas 2 es la mejor evidenciada (la regla de daño la cita) y además la más baja; una mesa que lea &quot;o ambas&quot; como &quot;normalmente ambas&quot; no está equivocada, sólo es más exigente que el libro, y subir a Vida 3 es un clic que eleva la dificultad correctamente."
+    }
   },
   {
     "id": "right-click",
@@ -23379,8 +23430,13 @@
       "procedimiento"
     ],
     "mechanics": {
-      "spheres": "Materia •• / Fuerzas •• , y/o Cardinal ••••",
-      "spheres_note": "Materia ·· / Fuerzas ·· , y/o Cardinal ····"
+      "spheres": {
+        "matter": 2,
+        "forces": 2
+      },
+      "spheres_note": "Materia ·· / Fuerzas ·· , y/o Cardinal ····",
+      "spheres_ruling": "Registrado Materia 2 + Fuerzas 2 [unconfirmed]: la rama que los DOS testigos enuncian de forma idéntica. LOS TESTIGOS SE CONTRADICEN en el Rango de Cardinal y eso no estaba recogido en ningún sitio: el manual básico escribe \"Cardinal ····\" (markdown/mage/m20-core-rulebook-es.md:21657 — verificados carácter a carácter como cuatro U+00B7, no es un error de conteo de la extracción) y el glosario escribe \"Cardinal 3\" (markdown/mage/m20-glosario-basico-es.md:4908). El cuerpo dice que la conversión materia->energía la hace \"Fuerzas o Cardinal\" (markdown/mage/m20-core-rulebook-es.md:21659), así que Materia es el invariante y el número en disputa está justo en la rama que no hace falta tomar. NO se registra Cardinal 3 ni Cardinal 4: elegir entre dos testigos publicados sin criterio de desempate sería arbitrario. Marcado [unconfirmed] porque preferir la rama de Fuerzas sobre la de Cardinal es una preferencia razonada (es la rama en la que el corpus está de acuerdo consigo mismo), no algo que el libro diga. Recuérdese que este Procedimiento es vulgar (markdown/mage/m20-core-rulebook-es.md:21665), así que la dificultad es Rango +4/+5 y un Rango equivocado cuesta más aquí que en otras Fórmulas. TRAZABILIDAD: id de shard `sterilize-evidence`; id publicado `sanitize-evidence`, el del glosario.",
+      "unconfirmed": true
     },
     "sources": [
       {
@@ -23397,7 +23453,10 @@
         "section_anchor": "procedimientos-tecnocraticos",
         "variant": "base"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "spheres_ruling": "Registrado Materia 2 + Fuerzas 2 [unconfirmed]: la rama que los DOS testigos enuncian de forma idéntica. LOS TESTIGOS SE CONTRADICEN en el Rango de Cardinal y eso no estaba recogido en ningún sitio: el manual básico escribe &quot;Cardinal ····&quot; (markdown/mage/m20-core-rulebook-es.md:21657 — verificados carácter a carácter como cuatro U+00B7, no es un error de conteo de la <a href=\"/mage/rituals/extraction\">extracción</a>) y el glosario escribe &quot;Cardinal 3&quot; (markdown/mage/m20-glosario-basico-es.md:4908). El cuerpo dice que la conversión materia-&gt;<a href=\"/mage/instruments/energy\">energía</a> la hace &quot;Fuerzas o Cardinal&quot; (markdown/mage/m20-core-rulebook-es.md:21659), así que Materia es el invariante y el número en disputa está justo en la rama que no hace falta tomar. NO se registra Cardinal 3 ni Cardinal 4: elegir entre dos testigos publicados sin criterio de desempate sería arbitrario. <a href=\"/mage/flaws/marcado\">Marcado</a> [unconfirmed] porque preferir la rama de Fuerzas sobre la de Cardinal es una preferencia razonada (es la rama en la que el corpus está de acuerdo consigo mismo), no algo que el libro diga. Recuérdese que este Procedimiento es vulgar (markdown/mage/m20-core-rulebook-es.md:21665), así que la dificultad es Rango +4/+5 y un Rango equivocado cuesta más aquí que en otras Fórmulas. TRAZABILIDAD: id de shard `sterilize-evidence`; id publicado `sanitize-evidence`, el del glosario."
+    }
   },
   {
     "id": "secure-the-scene",
@@ -23411,8 +23470,13 @@
       "procedimiento"
     ],
     "mechanics": {
-      "spheres": "Mente •• o ••• / Fuerzas • / Materia • ; quizás con Fuerzas •••",
-      "spheres_note": "Mente ·· o ··· / Fuerzas · / Materia · ; quizás con Fuerzas ···"
+      "spheres": {
+        "mind": 2,
+        "forces": 1,
+        "matter": 1
+      },
+      "spheres_note": "Mente ·· o ··· / Fuerzas · / Materia · ; quizás con Fuerzas ···",
+      "spheres_ruling": "Registrado Mente 2 + Fuerzas 1 + Materia 1. Los cuatro números están impresos en los dos testigos: markdown/mage/m20-core-rulebook-es.md:21673 (\"Los Efectos de percepción de Fuerzas 1 y Materia 1 detectan rastros de sangre, pólvora y demás residuos\"), markdown/mage/m20-core-rulebook-es.md:21677 (\"la variante de Mente 2 sugiere evitar el lugar y la de Mente 3 aleja de forma activa a la gente\") y markdown/mage/m20-glosario-basico-es.md:4910 (\"Mente 2 o 3, Fuerzas 1, Materia 1; Fuerzas 3 (op)\"), que además confirma el reparto obligatorio/optativo con la marca (op). [convention: lowest rung; el libro enuncia Mente 2 y Mente 3 como dos variantes completas y no dice cuál de las dos es este Procedimiento — se registra la más baja.] LÍMITE DE ESQUEMA que ninguna resolución puede arreglar: `Item.Rote` tiene UN entero por Esfera y este Procedimiento usa Fuerzas a 1 (escáner obligatorio) Y a 3 (campo censor optativo, markdown/mage/m20-core-rulebook-es.md:21683). No pueden coexistir. Registrar 3 de entrada pondría a precio vulgar todo aseguramiento de escena (\"es un Procedimiento vulgar a menos que se active en una oscuridad prácticamente total\", :21683, y suma tres éxitos al total necesario), así que se registra 1 y quien instale el censor sube Fuerzas a 3 en el diálogo, que es cuando la dificultad debe subir."
     },
     "sources": [
       {
@@ -23619,9 +23683,14 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "Materia ••• o •••• / Cardinal •• / Tiempo ••",
+      "spheres": {
+        "matter": 3,
+        "prime": 2,
+        "time": 2
+      },
       "spheres_note": "Materia ··· o ···· / Cardinal ·· / Tiempo ··",
-      "notas_extraccion": "En la fuente, el bloque de Esferas aparece en un párrafo separado inmediatamente después del encabezado; valores íntegros."
+      "notas_extraccion": "En la fuente, el bloque de Esferas aparece en un párrafo separado inmediatamente después del encabezado; valores íntegros.",
+      "spheres_ruling": "Registrado Materia 3 + Cardinal 2 + Tiempo 2. markdown/mage/m20-core-rulebook-es.md:21799 (\"La energía de Cardinal nutre el nuevo Patrón y Materia 3 restaura el objeto a su condición original. Materia 4 lo crea desde la nada\"); segundo testigo markdown/mage/m20-glosario-basico-es.md:4926 (\"Materia 3 o 4, Cardinal 2, Tiempo 2\"), que reproduce el tramo y confirma Cardinal 2 y Tiempo 2 como obligatorias (sin marca (op)). El propio nombre y la descripción del hechizo son la versión de RESTAURACIÓN (\"restaura viejos desechos y los retorna a su prístino estado original\", markdown/mage/m20-core-rulebook-es.md:21795), lo que refuerza Materia 3. [convention: lowest rung; el libro enuncia Materia 3 y Materia 4 y no dice cuál de las dos es este ítem — se registra la más baja; la conjuración ex nihilo es un clic.] TRAZABILIDAD: el testigo del glosario es un shard aparte, con id `penny-dreadfuls-bright-new-penny`, unificado en este id."
     },
     "sources": [
       {
@@ -23638,7 +23707,10 @@
         "section_anchor": "hechizos-misticos-y-formulas-tradicionales",
         "variant": "base"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "spheres_ruling": "Registrado Materia 3 + Cardinal 2 + Tiempo 2. markdown/mage/m20-core-rulebook-es.md:21799 (&quot;La <a href=\"/mage/instruments/energy\">energía</a> de Cardinal nutre el nuevo <a href=\"/mage/backgrounds/patron\">Patrón</a> y Materia 3 restaura el objeto a su condición original. Materia 4 lo crea desde la nada&quot;); segundo testigo markdown/mage/m20-glosario-basico-es.md:4926 (&quot;Materia 3 o 4, Cardinal 2, Tiempo 2&quot;), que reproduce el tramo y confirma Cardinal 2 y Tiempo 2 como obligatorias (sin marca (op)). El propio nombre y la descripción del hechizo son la versión de RESTAURACIÓN (&quot;restaura viejos desechos y los retorna a su prístino estado original&quot;, markdown/mage/m20-core-rulebook-es.md:21795), lo que refuerza Materia 3. [convention: lowest rung; el libro enuncia Materia 3 y Materia 4 y no dice cuál de las dos es este ítem — se registra la más baja; la <a href=\"/mage/hedge-paths/conjuracion\">conjuración</a> ex nihilo es un clic.] TRAZABILIDAD: el testigo del glosario es un shard aparte, con id `penny-dreadfuls-bright-new-penny`, unificado en este id."
+    }
   },
   {
     "id": "psychic-interface",
@@ -23652,9 +23724,14 @@
       "disciplina"
     ],
     "mechanics": {
-      "spheres": "Mente ••• o •••• / Datos •• / Fuerzas •• quizás con Espíritu en vez de Datos ••",
+      "spheres": {
+        "mind": 3,
+        "correspondence": 2,
+        "forces": 2
+      },
       "spheres_note": "Mente ··· o ···· / Datos ·· / Fuerzas ·· quizás con Espíritu en vez de Datos ··",
-      "notas_extraccion": "La fuente aclara que 'en sentido estricto no se trata de una fórmula'; se cataloga como Efecto/disciplina de Esferas. Tras el encabezado la extracción dejó un ';' suelto (artefacto), sin afectar al bloque de Esferas."
+      "notas_extraccion": "La fuente aclara que 'en sentido estricto no se trata de una fórmula'; se cataloga como Efecto/disciplina de Esferas. Tras el encabezado la extracción dejó un ';' suelto (artefacto), sin afectar al bloque de Esferas.",
+      "spheres_ruling": "Registrado Mente 3 + Datos 2 + Fuerzas 2. No hay convención de peldaño que declarar: el libro etiqueta Mente 4 explícitamente como LA VARIANTE, markdown/mage/m20-core-rulebook-es.md:21811 (\"la variante con Mente 4 le permite acceder él mismo a la Red Digital sin usar hardware\"), de modo que Mente 3 es la base enunciada, no una elección nuestra. La misma línea hace obligatoria la Esfera Datos (\"La Esfera Datos es básica para este tipo de interfaz\"). Segundo testigo markdown/mage/m20-glosario-basico-es.md:4928 (\"Mente 3 o 4, Datos o Espíritu 2, Fuerzas 2\"), que confirma Fuerzas 2 como obligatoria y resuelve el remate torpe del encabezado: la alternativa es Datos O Espíritu a 2, no \"Espíritu en vez de Mente\". LÍMITE DE ESQUEMA que ninguna resolución puede arreglar: no hay una décima Esfera, así que `Datos 2` cae sobre el campo `correspondence` — y el cuerpo de esta misma Fórmula dice \"la mera Correspondencia carece de los vínculos necesarios a la esencia de la realidad informatizada\" (markdown/mage/m20-core-rulebook-es.md:21811). La hoja leerá por tanto \"Correspondencia 2\" en una Fórmula cuyo texto niega que la Correspondencia sirva; el `spheres_note` conserva la notación verdadera. Un místico que use Espíritu en lugar de Datos es la lectura `spirit: 2`; registrar `correspondence: 2` toma por defecto la lectura tecnocrática/Adepto Virtual y, siendo Rango 2 en ambos casos, no cambia ninguna dificultad."
     },
     "sources": [
       {
@@ -23688,8 +23765,11 @@
       "hechizo"
     ],
     "mechanics": {
-      "spheres": "Vida ••• o •••• ; quizás con Materia •• , Cardinal •• o ambos",
-      "spheres_note": "Vida ··· o ···· ; quizás con Materia ·· , Cardinal ·· o ambos"
+      "spheres": {
+        "life": 3
+      },
+      "spheres_note": "Vida ··· o ···· ; quizás con Materia ·· , Cardinal ·· o ambos",
+      "spheres_ruling": "Registrado Vida 3 (el mago sobre sus propias manos). markdown/mage/m20-core-rulebook-es.md:21821 (\"Vida 3 hace crecer las garras de las propias manos del mago y Vida 4 le permite hacerlas crecer en (o incorporarlas a) otro personaje\"); segundo testigo markdown/mage/m20-glosario-basico-es.md:4930 (\"Vida 3 o 4; Materia 2 (op), Cardinal 2 (op)\"), que reproduce el tramo y confirma que Materia y Cardinal son OPTATIVAS (nota del bloque en markdown/mage/m20-glosario-basico-es.md:4934). Materia 2 / Cardinal 2 no se registran por eso; además, con Rango 2 < 3 añadirlas no cambia la dificultad. [convention: lowest rung; el libro enuncia Vida 3 y Vida 4 y no dice cuál de los dos es el ítem llamado \"Garras\" — se registra el más bajo porque subirlo es un clic en el diálogo de Areté mientras que bajarlo no se puede.] TRAZABILIDAD: la notación citada es la del manual básico, cuyo id de shard es `claws`; el id publicado tras la unificación de duplicados es `talons`, el del glosario. Buscar `talons` en el corpus no encuentra esta notación."
     },
     "sources": [
       {
@@ -23721,9 +23801,13 @@
       "maleficia"
     ],
     "mechanics": {
-      "spheres": "Entropía •••• , Vida ••• / Tiempo ••• , o las tres; normalmente con Correspondencia o Datos",
+      "spheres": {
+        "life": 3
+      },
       "spheres_note": "Entropía ···· , Vida ··· / Tiempo ··· , o las tres; normalmente con Correspondencia o Datos",
-      "variante_hombre-tic-tac": "Variante con Datos que envejece a la víctima a distancia (Datos/Correspondencia + Tiempo + Vida)."
+      "variante_hombre-tic-tac": "Variante con Datos que envejece a la víctima a distancia (Datos/Correspondencia + Tiempo + Vida).",
+      "spheres_ruling": "Registrado Vida 3 [unconfirmed]: la rama de destrucción corporal, que es la que describe el texto de sabor del propio hechizo (\"se marchita hasta convertirse en una masa huesuda, ve cómo se desprende su piel a tiras\", markdown/mage/m20-core-rulebook-es.md:21827). El Sistema es casi explícito en que aquí hay VARIOS Efectos bajo un nombre: markdown/mage/m20-core-rulebook-es.md:21831 (\"Las distintas Esferas infligen cada una un tipo de daño. Entropía corrompe a la víctima con edad o lepra, Vida destroza su cuerpo de varias formas terribles y Tiempo (combinado con Vida) hace que envejezca según los valores de la tabla Tareas de la Magia de Tiempo\"). La variante que el libro NOMBRA — \"Hombre tic-tac\", markdown/mage/m20-core-rulebook-es.md:21829 — se ha separado en su propia entidad, `hombre-tic-tac`; este ítem conserva su id y su documento de compendio. Quedan aquí dos ramas de daño (Entropía 4 y Vida 3) y se registra la más barata y completa: Vida 3 (dificultad 7 vulgar sin testigos) frente a Entropía 4 (dificultad 8). Marcado [unconfirmed] porque el libro no dice cuál de las dos es \"la Fórmula\"; el segundo testigo markdown/mage/m20-glosario-basico-es.md:4932 (\"Entropía 4 y/o Vida 3 y/o Tiempo 3, Correspondencia / Datos (op)\") tampoco resuelve nada. Correspondencia NO puede ser un valor fijo de campo en ningún caso: su Rango es DERIVADO, \"al menos un punto por cada punto en la Esfera que causa daño\" (markdown/mage/m20-core-rulebook-es.md:21831).",
+      "unconfirmed": true
     },
     "sources": [
       {
@@ -23739,6 +23823,34 @@
         "page": null,
         "section_anchor": "hechizos-misticos-y-formulas-tradicionales",
         "variant": "base"
+      }
+    ],
+    "mechanics_html": {
+      "spheres_ruling": "Registrado Vida 3 [unconfirmed]: la rama de destrucción corporal, que es la que describe el texto de sabor del propio hechizo (&quot;se marchita hasta convertirse en una masa huesuda, ve cómo se desprende su piel a tiras&quot;, markdown/mage/m20-core-rulebook-es.md:21827). El Sistema es casi explícito en que aquí hay VARIOS Efectos bajo un nombre: markdown/mage/m20-core-rulebook-es.md:21831 (&quot;Las distintas Esferas infligen cada una un tipo de daño. Entropía corrompe a la víctima con edad o lepra, Vida destroza su cuerpo de varias formas terribles y Tiempo (combinado con Vida) hace que envejezca según los valores de la tabla Tareas de la Magia de Tiempo&quot;). La variante que el libro NOMBRA — &quot;Hombre tic-tac&quot;, markdown/mage/m20-core-rulebook-es.md:21829 — se ha separado en su propia entidad, `hombre-tic-tac`; este ítem conserva su id y su documento de compendio. Quedan aquí dos ramas de daño (Entropía 4 y Vida 3) y se registra la más barata y completa: Vida 3 (dificultad 7 vulgar sin testigos) frente a Entropía 4 (dificultad 8). <a href=\"/mage/flaws/marcado\">Marcado</a> [unconfirmed] porque el libro no dice cuál de las dos es &quot;la Fórmula&quot;; el segundo testigo markdown/mage/m20-glosario-basico-es.md:4932 (&quot;Entropía 4 y/o Vida 3 y/o Tiempo 3, Correspondencia / Datos (op)&quot;) tampoco resuelve nada. Correspondencia NO puede ser un valor fijo de campo en ningún caso: su Rango es DERIVADO, &quot;al menos un punto por cada punto en la Esfera que causa daño&quot; (markdown/mage/m20-core-rulebook-es.md:21831)."
+    }
+  },
+  {
+    "id": "hombre-tic-tac",
+    "type": "rote",
+    "line": "mage",
+    "name_en": "Witch's Vengeance: Hombre tic-tac",
+    "name_es": "Venganza de la Bruja: Hombre tic-tac",
+    "body_es": "La variante de envejecimiento a distancia que el propio manual nombra dentro de [Venganza de la Bruja](/mage/rotes/witchs-vengeance): «Una terrible variante con Datos, Hombre tic-tac, permite hacer que la víctima envejezca a distancia. Mientras posea algo de información de su objetivo y tenga los puntos necesarios de Datos (Correspondencia), el mago puede incorporar un número de años determinados en su computadora ternaria, marcar al objetivo y entonces focalizar Tiempo y Vida para envejecer a la víctima desde la distancia.» El daño lo fija la Esfera empleada: «Tiempo (combinado con Vida) hace que envejezca según los valores de la tabla Tareas de la Magia de Tiempo». Como todas las ramas de este hechizo, es extremadamente vulgar.",
+    "mechanics": {
+      "spheres": {
+        "life": 3,
+        "time": 3
+      },
+      "spheres_note": "Vida ··· / Tiempo ··· ; normalmente con Correspondencia o Datos",
+      "spheres_ruling": "Registrado Vida 3 + Tiempo 3: la variante de ENVEJECIMIENTO, que el libro nombra por sí misma — \"Una terrible variante con Datos, Hombre tic-tac, permite hacer que la víctima envejezca a distancia... el mago puede incorporar un número de años determinados en su computadora ternaria, marcar al objetivo y entonces focalizar Tiempo y Vida para envejecer a la víctima desde la distancia\" (markdown/mage/m20-core-rulebook-es.md:21829). Los dos Rangos están impresos en los dos testigos: markdown/mage/m20-core-rulebook-es.md:21831 (\"Tiempo (combinado con Vida) hace que envejezca\") y markdown/mage/m20-glosario-basico-es.md:4932 (\"Entropía 4 y/o Vida 3 y/o Tiempo 3, Correspondencia / Datos (op)\"). Datos/Correspondencia NO se registra como campo: su Rango es DERIVADO del de la Esfera que causa el daño (\"al menos un punto por cada punto en la Esfera que causa daño\", markdown/mage/m20-core-rulebook-es.md:21831), así que ningún entero fijo puede expresarlo; a distancia se añade en el diálogo, y a Rango 3 no cambiaría la dificultad. Entidad nueva creada por la división de `witchs-vengeance`, que conserva su id."
+    },
+    "notes": "Entidad separada de `witchs-vengeance`, que conserva su id y la rama de destrucción corporal (Vida 3). El manual básico nombra esta variante y le da su propio sistema de daño.",
+    "sources": [
+      {
+        "book_id": "m20-core-rulebook-es",
+        "book_title_es": "Mago: La Ascensión 20.º Aniversario",
+        "section_anchor": "venganza-de-la-bruja",
+        "page": null
       }
     ]
   },
@@ -41408,8 +41520,12 @@
       "procedimientos-de-ra"
     ],
     "mechanics": {
-      "spheres": "varios",
-      "spheres_note": "varios"
+      "spheres": {
+        "correspondence": 2
+      },
+      "spheres_note": "varios",
+      "spheres_ruling": "Registrado Correspondencia 2 [unconfirmed]. El encabezado dice \"varios\" (markdown/mage/m20-the-operative-dossier.md:1772) y eso sigue siendo cierto para las Esferas de SENSOR (temperatura -> Fuerzas, energía primordial -> Cardinal, ritmo cardíaco/estrés -> Vida): lo que varía es la carga útil. El SUELO no varía: el preámbulo de la propia sección \"Procedimientos de RA\" lo enuncia para toda la lista en markdown/mage/m20-the-operative-dossier.md:1761 (\"Hacer que la RA interactúe con el espacio físico de forma sofisticada, como en los Procedimientos de RA que aquí se detallan, requiere Correspondencia 2\") e Interfaces es uno de esos Procedimientos (:1772, once líneas después). Tercera corroboración del mismo suelo en markdown/mage/m20-the-operative-dossier.md:2608 (\"Fuerzas 2 para ver, Correspondencia 2 / Fuerzas 2 para interactuar\"). Marcado [unconfirmed] porque aplicar el suelo de la lista a ESTE miembro es inferencia: una lectura honesta en contra es que un HUD de sólo lectura no \"interactúa con el espacio físico de forma sofisticada\". Esta entrada estuvo archivada como PERMANENTE (\"ninguna resolución puede mejorarlo\"); eso era falso, y por eso el residuo de Esferas de Fórmula baja a 0 y no a 1.",
+      "unconfirmed": true
     },
     "sources": [
       {
@@ -41418,7 +41534,10 @@
         "section_anchor": "procedimientos-de-ra",
         "page": null
       }
-    ]
+    ],
+    "mechanics_html": {
+      "spheres_ruling": "Registrado Correspondencia 2 [unconfirmed]. El encabezado dice &quot;varios&quot; (markdown/mage/m20-the-operative-dossier.md:1772) y eso sigue siendo cierto para las Esferas de SENSOR (temperatura -&gt; Fuerzas, <a href=\"/mage/instruments/energy\">energía</a> primordial -&gt; Cardinal, ritmo cardíaco/estrés -&gt; Vida): lo que varía es la carga útil. El SUELO no varía: el preámbulo de la propia sección &quot;Procedimientos de RA&quot; lo enuncia para toda la lista en markdown/mage/m20-the-operative-dossier.md:1761 (&quot;Hacer que la RA interactúe con el espacio físico de forma sofisticada, como en los Procedimientos de RA que aquí se detallan, requiere Correspondencia 2&quot;) e Interfaces es uno de esos Procedimientos (:1772, once líneas después). Tercera corroboración del mismo suelo en markdown/mage/m20-the-operative-dossier.md:2608 (&quot;Fuerzas 2 para ver, Correspondencia 2 / Fuerzas 2 para interactuar&quot;). <a href=\"/mage/flaws/marcado\">Marcado</a> [unconfirmed] porque aplicar el suelo de la lista a ESTE miembro es inferencia: una lectura honesta en contra es que un HUD de sólo lectura no &quot;interactúa con el espacio físico de forma sofisticada&quot;. Esta entrada estuvo archivada como PERMANENTE (&quot;ninguna resolución puede mejorarlo&quot;); eso era falso, y por eso el residuo de Esferas de Fórmula baja a 0 y no a 1."
+    }
   },
   {
     "id": "virtual-assistants",
@@ -41433,8 +41552,11 @@
       "procedimientos-de-ra"
     ],
     "mechanics": {
-      "spheres": "Fuerzas •• / Fuerzas ••• Cardinal ••",
-      "spheres_note": "Fuerzas 2 / Fuerzas 3 Cardinal 2"
+      "spheres": {
+        "forces": 2
+      },
+      "spheres_note": "Fuerzas 2 / Fuerzas 3 Cardinal 2",
+      "spheres_ruling": "Registrado Fuerzas 2: el nivel VISIBLE. markdown/mage/m20-the-operative-dossier.md:1774 enuncia los dos niveles textualmente (\"Proyectar un asistente visible requiere Fuerzas 2; uno tangible, Fuerzas 3, Cardinal 2\"), con dos resultados de ficción distintos, así que este registro se DIVIDIÓ en dos entidades en lugar de resolverse a un extremo: este ítem es el asistente visible y el tangible es `virtual-assistants-tangible`. Ningún peldaño queda sin enunciar, por lo que aquí no aplica ninguna convención. La alternancia era NO MARCADA (`Fuerzas` a 2 y a 3 sin ningún \"o\"), que es la razón por la que ninguna prueba léxica podía resolverla."
     },
     "sources": [
       {
@@ -41444,6 +41566,39 @@
         "page": null
       }
     ]
+  },
+  {
+    "id": "virtual-assistants-tangible",
+    "type": "rote",
+    "line": "mage",
+    "name_en": "Virtual Assistants (tangible)",
+    "name_es": "Asistentes Virtuales (tangible)",
+    "body_es": "El nivel superior del Procedimiento de RA [Asistentes Virtuales](/mage/rotes/virtual-assistants): no una proyección visible, sino una tangible. «Proyectar un asistente visible requiere Fuerzas 2; uno tangible, Fuerzas 3, Cardinal 2. Una vez que tu asistente virtual tiene presencia física, puede ofrecerte una gama mucho más amplia de ayuda.» Las gafas inteligentes de RA de la Tecnocracia describen el mismo nivel como «proyecciones de luz sólida de [Asistentes Virtuales](/mage/rotes/virtual-assistants) (Fuerzas 3 / Cardinal 2, añadir Ciencia Dimensional 3 para una IA)».",
+    "tags": [
+      "tecnocracia",
+      "realidad-aumentada",
+      "procedimientos-de-ra"
+    ],
+    "mechanics": {
+      "spheres": {
+        "forces": 3,
+        "prime": 2
+      },
+      "spheres_note": "Fuerzas 3 Cardinal 2",
+      "spheres_ruling": "Registrado Fuerzas 3 + Cardinal 2 (Cardinal es la Esfera Cardinal/Prime, no Correspondencia): el nivel TANGIBLE. Primer testigo markdown/mage/m20-the-operative-dossier.md:1774 (\"uno tangible, Fuerzas 3, Cardinal 2\"); segundo testigo independiente en el mismo libro, markdown/mage/m20-the-operative-dossier.md:2612 (\"puede crear proyecciones de luz sólida de Asistentes Virtuales (Fuerzas 3 / Cardinal 2, añadir Ciencia Dimensional 3 para una IA)\"). Ciencia Dimensional 3 (= `spirit`) NO se registra: los dos testigos la presentan como añadido para la versión con IA, no como requisito del nivel tangible. Entidad nueva creada por la división de `virtual-assistants`, que conserva su id y su documento de compendio."
+    },
+    "notes": "Entidad separada de `virtual-assistants` (el asistente visible, Fuerzas 2): el libro enuncia los dos niveles y dos resultados de ficción distintos bajo un solo nombre. `virtual-assistants` conserva su id.",
+    "sources": [
+      {
+        "book_id": "m20-the-operative-dossier",
+        "book_title_es": "El Dosier del Operativo",
+        "section_anchor": "procedimientos-de-ra",
+        "page": null
+      }
+    ],
+    "mechanics_html": {
+      "spheres_ruling": "Registrado Fuerzas 3 + Cardinal 2 (Cardinal es la Esfera Cardinal/Prime, no Correspondencia): el nivel TANGIBLE. Primer testigo markdown/mage/m20-the-operative-dossier.md:1774 (&quot;uno tangible, Fuerzas 3, Cardinal 2&quot;); segundo testigo independiente en el mismo libro, markdown/mage/m20-the-operative-dossier.md:2612 (&quot;puede crear proyecciones de luz sólida de <a href=\"/mage/rotes/virtual-assistants\">Asistentes Virtuales</a> (Fuerzas 3 / Cardinal 2, añadir Ciencia Dimensional 3 para una IA)&quot;). Ciencia Dimensional 3 (= `spirit`) NO se registra: los dos testigos la presentan como añadido para la versión con IA, no como requisito del nivel tangible. Entidad nueva creada por la división de `virtual-assistants`, que conserva su id y su documento de compendio."
+    }
   },
   {
     "id": "gps-spoofing-telepresence",
@@ -41458,9 +41613,12 @@
       "procedimientos-de-ra"
     ],
     "mechanics": {
-      "spheres": "Correspondencia •• o •••",
+      "spheres": {
+        "correspondence": 2
+      },
       "spheres_note": "Correspondencia 2 o 3",
-      "roll": "Inteligencia + Informática (dificultad 6, 2 éxitos)"
+      "roll": "Inteligencia + Informática (dificultad 6, 2 éxitos)",
+      "spheres_ruling": "Registrado Correspondencia 2. Enunciado en markdown/mage/m20-the-operative-dossier.md:1776 (\"Combinado con algo de Correspondencia (2 puntos) puedes hacer que sea imposible que otros apunten, afecten o interactúen con tu creación\") y repetido como suelo de toda la sección en markdown/mage/m20-the-operative-dossier.md:1761 (\"Hacer que la RA interactúe con el espacio físico de forma sofisticada, como en los Procedimientos de RA que aquí se detallan, requiere Correspondencia 2\"). El \"o 3\" del encabezado NO es una elección abierta: es una variante nombrada en el propio cuerpo, markdown/mage/m20-the-operative-dossier.md:1776 (\"Incluso puedes mover una versión de RA de ti mismo de este modo, aunque eso requiere Correspondencia 3 y arriesga bastante Paradoja\"), de modo que aquí no hay convención de peldaño que declarar: el 2 es el Efecto y el 3 es otra cosa. Quien quiera la telepresencia de sí mismo sube Correspondencia a 3 en el diálogo de Areté."
     },
     "sources": [
       {
@@ -42056,11 +42214,14 @@
       "combate"
     ],
     "mechanics": {
-      "spheres": "•• + Fuerzas / • Correspondencia (Opcional)",
+      "spheres": {
+        "forces": 2
+      },
       "spheres_note": "·· + Fuerzas / · Correspondencia (Opcional)",
       "independent_system": "un éxito destruye smartphone, portátil o cámara; sistemas mayores exigen más éxitos",
       "damage_table": "Tabla de Daño Base (Mage 20, p.504) contra cibernética/Dispositivos eléctricos",
-      "digital_web": "Iconos a 10 yardas por éxito sufren Daño Agravado; Absorción vía Fuerza de Voluntad, Dificultad 8; siempre vulgar con testigos; Contragolpe de Paradoja por Nevasca a Dificultad 4"
+      "digital_web": "Iconos a 10 yardas por éxito sufren Daño Agravado; Absorción vía Fuerza de Voluntad, Dificultad 8; siempre vulgar con testigos; Contragolpe de Paradoja por Nevasca a Dificultad 4",
+      "spheres_ruling": "Registrado Fuerzas 2. La línea de Sistema lo enuncia de forma PLANA, no como suelo: markdown/mage/m20-the-operative-dossier.md:2367 (\"Fuerzas 2 convierte la electricidad que alimenta un dispositivo en un Ataque Elemental\"). El \"·· +\" del encabezado (markdown/mage/m20-the-operative-dossier.md:2363) es una regla de PARSER correcta (\"+ enuncia un suelo, no un valor\") pero era una afirmación falsa sobre el corpus: el cuerpo no describe ningún peldaño de Fuerzas superior — lo que escala son los ÉXITOS exigidos, no el Rango. Por eso aquí no se declara ninguna convención de peldaño. Correspondencia NO se registra: el encabezado la marca \"(Opcional)\" y el cuerpo dice \"Se añade Correspondencia para disparar un arco de disrupción eléctrica a distancia\" sin fijarle Rango en el Sistema; además, con Rango 1 < 2 añadirla no cambia la dificultad. TRAMPA DE NOMBRES: el glosario lista un Encantamiento de espíritu llamado \"System Havoc / Caos en el Sistema\" a Rango 3 bajo \"## Encantamientos de los espíritus\" (markdown/mage/m20-glosario-basico-es.md:4936 y siguientes); NO es un segundo testigo de este Ajuste, es una colisión de nombres."
     },
     "sources": [
       {
@@ -42073,7 +42234,8 @@
     ],
     "mechanics_html": {
       "damage_table": "Tabla de Daño Base (Mage 20, p.504) contra <a href=\"/mage/practices/cybernetics\">cibernética</a>/Dispositivos eléctricos",
-      "digital_web": "Iconos a 10 yardas por éxito sufren Daño Agravado; Absorción vía Fuerza de Voluntad, Dificultad 8; siempre vulgar con testigos; Contragolpe de Paradoja por <a href=\"/mage/rotes/whiteout-adjustment\">Nevasca</a> a Dificultad 4"
+      "digital_web": "Iconos a 10 yardas por éxito sufren Daño Agravado; Absorción vía Fuerza de Voluntad, Dificultad 8; siempre vulgar con testigos; Contragolpe de Paradoja por <a href=\"/mage/rotes/whiteout-adjustment\">Nevasca</a> a Dificultad 4",
+      "spheres_ruling": "Registrado Fuerzas 2. La línea de Sistema lo enuncia de forma PLANA, no como suelo: markdown/mage/m20-the-operative-dossier.md:2367 (&quot;Fuerzas 2 convierte la electricidad que alimenta un <a href=\"/mage/sphere-effects/device\">dispositivo</a> en un Ataque <a href=\"/mage/resonances/elemental\">Elemental</a>&quot;). El &quot;·· +&quot; del encabezado (markdown/mage/m20-the-operative-dossier.md:2363) es una regla de PARSER correcta (&quot;+ enuncia un suelo, no un valor&quot;) pero era una afirmación falsa sobre el corpus: el cuerpo no describe ningún peldaño de Fuerzas superior — lo que escala son los ÉXITOS exigidos, no el Rango. Por eso aquí no se declara ninguna convención de peldaño. Correspondencia NO se registra: el encabezado la marca &quot;(Opcional)&quot; y el cuerpo dice &quot;Se añade Correspondencia para disparar un arco de disrupción eléctrica a distancia&quot; sin fijarle Rango en el Sistema; además, con Rango 1 &lt; 2 añadirla no cambia la dificultad. TRAMPA DE NOMBRES: el glosario lista un <a href=\"/mage/hedge-paths/charm\">Encantamiento</a> de espíritu llamado &quot;System Havoc / Caos en el Sistema&quot; a Rango 3 bajo &quot;## <a href=\"/mage/instruments/charms\">Encantamientos</a> de los espíritus&quot; (markdown/mage/m20-glosario-basico-es.md:4936 y siguientes); NO es un segundo testigo de este Ajuste, es una colisión de nombres."
     }
   },
   {
@@ -42306,8 +42468,11 @@
       "tecnocracia"
     ],
     "mechanics": {
-      "spheres": "•••• Vida / •• Espíritu o •• Materia",
-      "spheres_note": "···· Vida / ·· Espíritu o ·· Materia"
+      "spheres": {
+        "life": 4
+      },
+      "spheres_note": "···· Vida / ·· Espíritu o ·· Materia",
+      "spheres_ruling": "Registrado Vida 4, el único invariante. El cuerpo RESUELVE la alternancia y la resuelve mandando decidir en mesa: markdown/mage/m20-the-operative-dossier.md:2480 (\"La esfera exacta a combinar con Vida depende de la naturaleza del Subversor. Si el Subversor de la Realidad tiene una conexión cuasi-espiritual con su forma, como los cambiaformas de base cánida, la operativa usa Espíritu. Si el Subversor en cuestión tiene una fuerte conexión física con el mundo, como un Hemófago autotransformador, utiliza Materia\"). Espíritu 2 / Materia 2 NO se registran: la unión afirmaría que el mago necesita AMBAS. Como Vida 4 > 2, la dificultad es la misma con cualquiera de las dos compañeras, así que la elección por objetivo es un clic en el diálogo y no cuesta nada. No hay peldaño sin enunciar y por tanto no hay convención que declarar."
     },
     "sources": [
       {
@@ -42316,7 +42481,10 @@
         "page": null,
         "book_title_es": "M20 The operative dossier"
       }
-    ]
+    ],
+    "mechanics_html": {
+      "spheres_ruling": "Registrado Vida 4, el único invariante. El cuerpo RESUELVE la alternancia y la resuelve mandando decidir en mesa: markdown/mage/m20-the-operative-dossier.md:2480 (&quot;La esfera exacta a combinar con Vida depende de la naturaleza del Subversor. Si el Subversor de la Realidad tiene una conexión cuasi-espiritual con su forma, como los <a href=\"/mage/special-advantages/shapechanging\">cambiaformas</a> de base cánida, la operativa usa Espíritu. Si el Subversor en cuestión tiene una fuerte conexión física con el mundo, como un Hemófago autotransformador, utiliza Materia&quot;). Espíritu 2 / Materia 2 NO se registran: la unión afirmaría que el mago necesita AMBAS. Como Vida 4 &gt; 2, la dificultad es la misma con cualquiera de las dos compañeras, así que la elección por objetivo es un clic en el diálogo y no cuesta nada. No hay peldaño sin enunciar y por tanto no hay convención que declarar."
+    }
   },
   {
     "id": "multipartite-host-infection",
