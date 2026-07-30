@@ -10798,10 +10798,7 @@
       "Philodox"
     ],
     "mechanics": {
-      "rank": [
-        "Nivel cuatro",
-        "Nivel dos"
-      ],
+      "rank": "Nivel dos",
       "auspices_tribes": [
         "Philodox"
       ]
@@ -10816,8 +10813,9 @@
       },
       {
         "book_id": "w20-nsr-aniversario-parte-3-290pp",
-        "section_anchor": "dones-de-los-simba",
+        "section_anchor": "linterna",
         "page": null,
+        "variant": "base",
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
       }
     ]
@@ -15063,11 +15061,7 @@
       "red-talons"
     ],
     "mechanics": {
-      "rank": [
-        "Nivel dos",
-        "Nivel uno"
-      ],
-      "level": 2
+      "rank": "Nivel uno"
     },
     "sources": [
       {
@@ -15075,13 +15069,6 @@
         "section_anchor": "lkbpbilp-lkqbjmibpqobiip",
         "page": null,
         "book_title_es": "W20 Aniversario Core (ES)"
-      },
-      {
-        "book_id": "w20-el-libro-del-wyrm",
-        "book_title_es": "Hombre Lobo: El Apocalipsis - El Libro del Wyrm (20.º Aniversario)",
-        "page": null,
-        "section_anchor": "dones-robados",
-        "variant": "base"
       }
     ]
   },
@@ -25535,6 +25522,33 @@
     ]
   },
   {
+    "id": "hidden-killer-danzantes",
+    "type": "gift",
+    "line": "werewolf",
+    "name_en": "Hidden Killer (Black Spiral Dancers)",
+    "name_es": "Asesino Oculto (Danzantes de la Espiral Negra)",
+    "body_es": "Como el Don de los Garras Rojas, pero el hombre lobo también puede escoger alterar la evidencia para señalar a otro Garou mientras que tenga algo del objetivo, como pelo o sangre. Un [Ablifet](/werewolf/banes/ablifet) enseña este Don.\n\n**Sistema:** Como el Don de los Garras Rojas. Para cambiar las evidencias forenses de forma que señalen a otro Garou, el jugador debe tirar Inteligencia + Latrocinio a dificultad 8. El éxito significa que la evidencia física permanece inalterada, pero la evidencia forense cambia para coincidir con el objetivo.",
+    "tags": [
+      "don",
+      "danzantes-espiral-negra",
+      "robado"
+    ],
+    "mechanics": {
+      "rank": "Nivel dos",
+      "level": 2,
+      "referencia": "Como el Don de los Garras Rojas."
+    },
+    "sources": [
+      {
+        "book_id": "w20-el-libro-del-wyrm",
+        "book_title_es": "Hombre Lobo: El Apocalipsis - El Libro del Wyrm (20.º Aniversario)",
+        "page": null,
+        "section_anchor": "dones-robados",
+        "variant": "base"
+      }
+    ]
+  },
+  {
     "id": "subdue",
     "type": "gift",
     "line": "werewolf",
@@ -30681,6 +30695,30 @@
     }
   },
   {
+    "id": "king-of-beasts-simba",
+    "type": "gift",
+    "line": "werewolf",
+    "name_en": "King of Beasts (Simba)",
+    "name_es": "Rey de las Bestias (Simba)",
+    "body_es": "Como el Don Philodox, salvo que afecta a todos los animales en 90 metros (300 pies) a la redonda.",
+    "tags": [
+      "bastet",
+      "simba"
+    ],
+    "mechanics": {
+      "rank": "Nivel cuatro",
+      "reference": "Como el Don Philodox, salvo que afecta a todos los animales en 90 metros (300 pies) a la redonda."
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "section_anchor": "dones-de-los-simba",
+        "page": null,
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
+      }
+    ]
+  },
+  {
     "id": "ghostly-caress",
     "type": "gift",
     "line": "werewolf",
@@ -35654,17 +35692,14 @@
     "line": "werewolf",
     "name_en": "Fool's Luck",
     "name_es": "Suerte del Necio",
-    "body_es": "Con este Don el [Nuwisha](/werewolf/changing-breeds/nuwisha) juega con el propio [destino](/werewolf/backgrounds/destino). Con una carcajada puede cambiar la [buena fortuna](/werewolf/gifts/good-fortune) por mala, retorciendo la probabilidad y el [destino](/werewolf/backgrounds/destino) entre sus dedos, aunque no tiene control sobre el resultado. Un avatar de [Chung Kuel](/werewolf/totems/chung-kuel) enseña este Don.\n\nSistema: Cuando el objetivo hace una tirada, el jugador del hombre [coyote](/werewolf/totems/coyote) puede gastar un punto de Gnosis y tirar Astucia + Enigmas a dificultad 7. Si el [Nuwisha](/werewolf/changing-breeds/nuwisha) obtiene al menos tantos éxitos como su víctima, la acción de ésta falla como si no hubiera obtenido ningún éxito. Aparta los dados de la víctima o anota su tirada. La próxima vez en la escena que la víctima deba hacer una tirada, usa los resultados de la tirada de dados (los números en los dados) que interrumpió el [Nuwisha](/werewolf/changing-breeds/nuwisha). Si la siguiente acción de la víctima debería usar una reserva de dados menor o una dificultad menor, tiene la oportunidad de un gran éxito, pero si ahora debe usar tres dados con '1, 2, 2' en lugar de su reserva normal de ocho dados, su futuro es muy poco [afortunado](/werewolf/merits/afortunado). Un [Nuwisha](/werewolf/changing-breeds/nuwisha) no puede usar este Don sobre sí mismo.",
+    "body_es": "Nivel cuatro. Este Don garantiza temporalmente inmunidad contra la mala suerte. Un espíritu conejo enseña este Don. Sistema: El jugador gasta un punto de Gnosis. El personaje no puede fracasar en ninguna tirada hasta el siguiente amanecer; trata los fracasos como fallos normales.",
     "tags": [
       "don",
       "mokole",
       "sol-de-medianoche"
     ],
     "mechanics": {
-      "rank": [
-        "Nivel tres",
-        "cuatro"
-      ]
+      "rank": "cuatro"
     },
     "sources": [
       {
@@ -38548,6 +38583,29 @@
     "name_en": "Gift of Rage",
     "name_es": "Don de la Rabia",
     "body_es": "Con este Don, el hombre [coyote](/werewolf/totems/coyote) adquiere Rabia durante un corto período de tiempo, con todos sus beneficios y perjuicios. Un sirviente de Loki enseña este Don.\n\nSistema: El jugador gasta un punto de Fuerza de Voluntad y obtiene 5 puntos temporales de Rabia, los cuales puede usar como lo haría un Garou. Este Don puede usarse una vez por escena y el [Nuwisha](/werewolf/changing-breeds/nuwisha) nunca puede tener más de 5 puntos de Rabia. Mientras el [Nuwisha](/werewolf/changing-breeds/nuwisha) tiene Rabia es vulnerable a la plata como los Garou y es susceptible al Frenesí.",
+    "tags": [
+      "nuwisha"
+    ],
+    "mechanics": {
+      "rank": "Nivel tres"
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "page": null,
+        "section_anchor": "dones",
+        "variant": "base",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)"
+      }
+    ]
+  },
+  {
+    "id": "fools-luck-nuwisha",
+    "type": "gift",
+    "line": "werewolf",
+    "name_en": "Fool's Luck (Nuwisha)",
+    "name_es": "Fortuna del Necio",
+    "body_es": "Con este Don el [Nuwisha](/werewolf/changing-breeds/nuwisha) juega con el propio [destino](/werewolf/backgrounds/destino). Con una carcajada puede cambiar la [buena fortuna](/werewolf/gifts/good-fortune) por mala, retorciendo la probabilidad y el [destino](/werewolf/backgrounds/destino) entre sus dedos, aunque no tiene control sobre el resultado. Un avatar de [Chung Kuel](/werewolf/totems/chung-kuel) enseña este Don.\n\nSistema: Cuando el objetivo hace una tirada, el jugador del hombre [coyote](/werewolf/totems/coyote) puede gastar un punto de Gnosis y tirar Astucia + Enigmas a dificultad 7. Si el [Nuwisha](/werewolf/changing-breeds/nuwisha) obtiene al menos tantos éxitos como su víctima, la acción de ésta falla como si no hubiera obtenido ningún éxito. Aparta los dados de la víctima o anota su tirada. La próxima vez en la escena que la víctima deba hacer una tirada, usa los resultados de la tirada de dados (los números en los dados) que interrumpió el [Nuwisha](/werewolf/changing-breeds/nuwisha). Si la siguiente acción de la víctima debería usar una reserva de dados menor o una dificultad menor, tiene la oportunidad de un gran éxito, pero si ahora debe usar tres dados con '1, 2, 2' en lugar de su reserva normal de ocho dados, su futuro es muy poco [afortunado](/werewolf/merits/afortunado). Un [Nuwisha](/werewolf/changing-breeds/nuwisha) no puede usar este Don sobre sí mismo.",
     "tags": [
       "nuwisha"
     ],
