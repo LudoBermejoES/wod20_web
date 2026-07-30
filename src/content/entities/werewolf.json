@@ -1,5 +1,54 @@
 [
   {
+    "id": "ronin",
+    "type": "flaw",
+    "line": "werewolf",
+    "name_en": "Ronin",
+    "name_es": "Ronin",
+    "body_es": "Eres un ronin: un Garou sin manada ni septo, que ha abandonado (o ha sido expulsado de) la sociedad Garou y sus deberes. Vives al margen de la Nación Garou, sin el apoyo de un pack, un [tótem](/werewolf/backgrounds/totem) o un feudo, y la mayoría de los Garou te miran con desconfianza o abierto desprecio; muchos consideran a los ronin poco mejores que los Danzantes de la Espiral Negra. Sufres una penalización a las tiradas sociales frente a otros Garou, se te niega el acceso a feudos y [recursos](/werewolf/backgrounds/resources) comunales, y tu Renombre difícilmente crece por los cauces normales. La libertad del ronin se paga con soledad y peligro constante.",
+    "tags": [
+      "social"
+    ],
+    "mechanics": {
+      "bonus": "3",
+      "category": "social",
+      "note": "Garou sin manada/septo; penalización social ante Garou y sin acceso a recursos comunales."
+    },
+    "sources": [
+      {
+        "book_id": "wod20-house-rules",
+        "book_title_es": "Reglas de la Casa (Mundo de Tinieblas 20º)",
+        "page": null,
+        "section_anchor": null,
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": 1,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": 1,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": 1,
+        "isactive": false
+      }
+    ],
+    "mechanics_html": {
+      "note": "Garou sin manada/septo; penalización social ante Garou y sin acceso a <a href=\"/werewolf/backgrounds/resources\">recursos</a> comunales."
+    }
+  },
+  {
     "id": "adiccion",
     "type": "flaw",
     "line": "werewolf",
@@ -23944,55 +23993,6 @@
       }
     ],
     "related": []
-  },
-  {
-    "id": "ronin",
-    "type": "flaw",
-    "line": "werewolf",
-    "name_en": "Ronin",
-    "name_es": "Ronin",
-    "body_es": "Eres un ronin: un Garou sin manada ni septo, que ha abandonado (o ha sido expulsado de) la sociedad Garou y sus deberes. Vives al margen de la Nación Garou, sin el apoyo de un pack, un [tótem](/werewolf/backgrounds/totem) o un feudo, y la mayoría de los Garou te miran con desconfianza o abierto desprecio; muchos consideran a los ronin poco mejores que los Danzantes de la Espiral Negra. Sufres una penalización a las tiradas sociales frente a otros Garou, se te niega el acceso a feudos y [recursos](/werewolf/backgrounds/resources) comunales, y tu Renombre difícilmente crece por los cauces normales. La libertad del ronin se paga con soledad y peligro constante.",
-    "tags": [
-      "social"
-    ],
-    "mechanics": {
-      "bonus": "3",
-      "category": "social",
-      "note": "Garou sin manada/septo; penalización social ante Garou y sin acceso a recursos comunales."
-    },
-    "sources": [
-      {
-        "book_id": "wod20-house-rules",
-        "book_title_es": "Reglas de la Casa (Mundo de Tinieblas 20º)",
-        "page": null,
-        "section_anchor": null,
-        "variant": "base"
-      }
-    ],
-    "related": [],
-    "foundry_bonuses": [
-      {
-        "type": "attribute_diff",
-        "settingtype": "charisma",
-        "value": 1,
-        "isactive": false
-      },
-      {
-        "type": "attribute_diff",
-        "settingtype": "manipulation",
-        "value": 1,
-        "isactive": false
-      },
-      {
-        "type": "attribute_diff",
-        "settingtype": "appearance",
-        "value": 1,
-        "isactive": false
-      }
-    ],
-    "mechanics_html": {
-      "note": "Garou sin manada/septo; penalización social ante Garou y sin acceso a <a href=\"/werewolf/backgrounds/resources\">recursos</a> comunales."
-    }
   },
   {
     "id": "temperamental",

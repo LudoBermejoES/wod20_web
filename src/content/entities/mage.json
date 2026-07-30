@@ -1881,6 +1881,67 @@
     ]
   },
   {
+    "id": "espada-del-alba",
+    "type": "weapon",
+    "line": "mage",
+    "name_en": "Dawnblade",
+    "name_es": "Espada del Alba",
+    "body_es": "",
+    "tags": [
+      "homebrew"
+    ],
+    "mechanics": {
+      "weapon_class": "melee",
+      "damage": "Fuerza +2",
+      "damage_type": "L",
+      "conceal": "C",
+      "difficulty": 6,
+      "notes": "Una hoja ritual forjada por la Cábala. Al desenvainarla al amanecer brilla con luz propia."
+    },
+    "sources": [
+      {
+        "book_id": "wod20-house-rules",
+        "book_title_es": "Reglas de la Casa (Mundo de Tinieblas 20º)",
+        "page": null,
+        "section_anchor": null,
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "velo-de-ceniza",
+    "type": "rote",
+    "line": "mage",
+    "name_en": "Ash Veil",
+    "name_es": "Velo de Ceniza",
+    "body_es": "El mago dispersa las cenizas de un fuego reciente y se desdibuja tras ellas.",
+    "tags": [
+      "homebrew"
+    ],
+    "mechanics": {
+      "spheres": {
+        "forces": 2,
+        "mind": 1
+      },
+      "spelltype": "coincidental",
+      "effect": "Ocultación parcial mientras el velo se mantenga."
+    },
+    "sources": [
+      {
+        "book_id": "wod20-house-rules",
+        "book_title_es": "Reglas de la Casa (Mundo de Tinieblas 20º)",
+        "page": null,
+        "section_anchor": null,
+        "variant": "base"
+      }
+    ],
+    "related": [],
+    "mechanics_html": {
+      "effect": "<a href=\"/mage/merits/ocultacion\">Ocultación</a> parcial mientras el velo se mantenga."
+    }
+  },
+  {
     "id": "atractivo-de-la-sombra",
     "type": "merit",
     "line": "mage",
