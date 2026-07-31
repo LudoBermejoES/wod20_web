@@ -2552,7 +2552,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Posees una pieza de equipo por el valor de un punto de Requerimiento."
+        },
+        {
+          "rating": 2,
+          "body_es": "Posees una pieza de equipo por el valor de dos puntos de Requerimiento o dos objetos de un punto de Requerimiento."
+        },
+        {
+          "rating": 3,
+          "body_es": "Posees uno o más objetos cuyo valor total es igual a tres puntos de Requerimiento."
+        },
+        {
+          "rating": 4,
+          "body_es": "Posees uno o más objetos cuyo valor total es igual a cuatro puntos de Requerimiento."
+        },
+        {
+          "rating": 5,
+          "body_es": "Posees uno o más objetos cuyo valor total es igual a cinco puntos de Requerimiento."
+        }
+      ]
     },
     "sources": [
       {

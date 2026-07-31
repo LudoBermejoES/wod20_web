@@ -3227,7 +3227,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Ninguno: Como la mayoría de los Sin Reposo, eres un rostro entre la multitud. ¿Mantienen a propósito un perfil bajo?"
+        },
+        {
+          "rating": 2,
+          "body_es": "Quizás visiten tu Morada con regularidad."
+        },
+        {
+          "rating": 3,
+          "body_es": "- Tu nombre ha viajado más lejos que tú."
+        },
+        {
+          "rating": 4,
+          "body_es": "- Cada wraith de las Tierras de las Sombras reconoce tu nombre (aunque no necesariamente tu rostro)."
+        },
+        {
+          "rating": 5,
+          "body_es": "Por la razón que sea, no puedes evitar ser reconocido allá donde vas."
+        }
+      ]
     },
     "sources": [
       {

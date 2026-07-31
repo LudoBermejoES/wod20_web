@@ -1233,7 +1233,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Dos Parientes."
+        },
+        {
+          "rating": 2,
+          "body_es": "Cinco Parientes."
+        },
+        {
+          "rating": 3,
+          "body_es": "Diez Parientes."
+        },
+        {
+          "rating": 4,
+          "body_es": "Veinte Parientes."
+        },
+        {
+          "rating": 5,
+          "body_es": "Cincuenta Parientes."
+        }
+      ]
     },
     "sources": [
       {
@@ -23991,7 +24013,29 @@
     ],
     "mechanics": {
       "rating_max": 5,
-      "note": "Aliados leales que actúan por ti (frecuentemente Parentela); nivel = número/capacidad."
+      "note": "Aliados leales que actúan por ti (frecuentemente Parentela); nivel = número/capacidad.",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Un aliado, de influencia y poder moderados (doctor o veterinario, activista local)."
+        },
+        {
+          "rating": 2,
+          "body_es": "Dos aliados, ambos de poder moderado (guardabosques del distrito, ayudante del comisario, bloguero popular)."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tres aliados, uno de ellos bastante influyente (editor de periódico, filántropo local)."
+        },
+        {
+          "rating": 4,
+          "body_es": "- Cuatro aliados, uno de ellos muy influyente (concejal, comandante de base militar)."
+        },
+        {
+          "rating": 5,
+          "body_es": "Cinco aliados, uno de ellos extremadamente influyente (alcalde, ayudante del senador)."
+        }
+      ]
     },
     "sources": [
       {

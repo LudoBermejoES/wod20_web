@@ -5281,7 +5281,29 @@
       "talento-secundario"
     ],
     "mechanics": {
-      "category": "talent"
+      "category": "talent",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Podrías planear una boda, invocar a"
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Tus celebraciones y ritos te otorgan el respeto de tu comunidad."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Más allá de tu familiaridad con rituales específicos, has comenzado a aprender también otras prácticas."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Un sacerdote o sacerdotisa aclamado con un don para ejecutar ceremonias poderosas y una amplia comprensión de técnicas rituales específicas."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Has dominado no sólo los ritos de tu cultura, sino también muchas prácticas rituales de otras culturas. Tu conocimiento es tan potente que podrías convertir a ateos en creyentes."
+        }
+      ]
     },
     "sources": [
       {
@@ -5351,7 +5373,29 @@
       "talento-secundario"
     ],
     "mechanics": {
-      "category": "talent"
+      "category": "talent",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: 'No, en serio, estamos grabando un vídeo'."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: 'Eso sólo parecía fácil. Me costó años averiguar cómo hacer ese truco'."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: 'Todas las explicaciones y permisos necesarios están en nuestra página web'."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: 'Hicimos este truco en Cazadores de Mitos '."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: 'No hay nada que ver, circulen'."
+        }
+      ]
     },
     "sources": [
       {
@@ -5447,7 +5491,29 @@
       "talento-secundario"
     ],
     "mechanics": {
-      "category": "talent"
+      "category": "talent",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Caso de suicidio."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Ángel torpe."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Jugador de quidditch ."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Vengador alado."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Danzante del viento."
+        }
+      ]
     },
     "sources": [
       {

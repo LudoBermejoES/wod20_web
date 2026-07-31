@@ -5451,7 +5451,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Duodécima Generación: reserva de Sangre 11, puedes gastar 1 punto de Sangre por turno."
+        },
+        {
+          "rating": 2,
+          "body_es": "Undécima Generación: reserva de Sangre 12, puedes gastar 1 punto de Sangre por turno."
+        },
+        {
+          "rating": 3,
+          "body_es": "Décima Generación: reserva de Sangre 13, puedes gastar 1 punto de Sangre por turno."
+        },
+        {
+          "rating": 4,
+          "body_es": "Novena Generación: reserva de Sangre 14, puedes gastar 2 puntos de Sangre por turno."
+        },
+        {
+          "rating": 5,
+          "body_es": "Octava Generación: reserva de Sangre 15, puedes gastar 3 puntos de Sangre por turno."
+        }
+      ]
     },
     "sources": [
       {
