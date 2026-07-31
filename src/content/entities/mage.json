@@ -11454,7 +11454,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Puedes obtener pequeños objetos triviales: lápices, lámparas, barritas nutritivas, etc."
+        },
+        {
+          "rating": 2,
+          "body_es": "Te envían pequeños objetos de utilidad limitada: sensores, fuentes de energía, pastillas energéticas, etc."
+        },
+        {
+          "rating": 3,
+          "body_es": "Comienzas a obtener lo bueno: pequeñas armas, armaduras, suministros médicos, etc."
+        },
+        {
+          "rating": 4,
+          "body_es": "Un agente de confianza, conoces las peculiaridades de varios armeros de la División Q porque acuden a ti para probar sus juguetes especiales. Estos objetos suelen ser útiles, pero están llenos de fallos complicados y tal vez peligrosos."
+        },
+        {
+          "rating": 5,
+          "body_es": "Obtienes todo de tipo de cosas guays y caras: armaduras, armas, equipo de transporte avanzado, etc. ¡ Ten cuidado, 007!"
+        }
+      ]
     },
     "sources": [
       {
@@ -12733,7 +12755,53 @@
       "tecnocracia"
     ],
     "mechanics": {
-      "rating_max": 10
+      "rating_max": 10,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Sin dados: '¡Fuera de mi oficina!'."
+        },
+        {
+          "rating": 1,
+          "body_es": "Un dado: No te toman en serio."
+        },
+        {
+          "rating": 2,
+          "body_es": "Dos dados: 'Podría haber algo libre para ti…'."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tres dados: Te has ganado su confianza."
+        },
+        {
+          "rating": 4,
+          "body_es": "Cuatro dados: Le gustas a la División Q."
+        },
+        {
+          "rating": 5,
+          "body_es": "Cinco dados: Eres un operativo valioso y de confianza."
+        },
+        {
+          "rating": 6,
+          "body_es": "Seis dados: Un escuadrón de agentes de eficacia probada."
+        },
+        {
+          "rating": 7,
+          "body_es": "Siete dados: Un equipo de confianza de operativos leales."
+        },
+        {
+          "rating": 8,
+          "body_es": "Ocho dados: Un equipo de especialistas."
+        },
+        {
+          "rating": 9,
+          "body_es": "Nueve dados: Una fuerza de ataque de élite con la máxima confianza de sus superiores."
+        },
+        {
+          "rating": 10,
+          "body_es": "Diez dados: Máxima autorización, confianza y favor por parte de sus superiores."
+        }
+      ]
     },
     "sources": [
       {
@@ -12805,7 +12873,33 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Sin lazo con un espíritu Tótem."
+        },
+        {
+          "rating": 1,
+          "body_es": "Tu Tótem se aparece en sueños y visiones y ofrece un dado adicional a tu reserva normal de una Habilidad (Atletismo, Sigilo, Supervivencia, etc.) relacionada con la naturaleza del espíritu."
+        },
+        {
+          "rating": 2,
+          "body_es": "El Tótem te habla, ofreciéndote ocasionalmente presagios y consejos crípticos, suma dos dados a la reserva de esa Habilidad relacionada."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tu guía espiritual se aparece en tu vida diaria, aunque sólo ante ti y otra gente capaz de ver espíritus. El Tótem te aconseja, envía presagios, ocasionalmente se manifiesta como un espíritu animal para tareas que no sean de combate, otorga dos dados para usar en esa Habilidad relacionada y te da un punto de Cosmología o Saber."
+        },
+        {
+          "rating": 4,
+          "body_es": "Un poderoso vínculo permite a tu Tótem manifestarse en forma sólida. Ese espíritu ofrece frecuentes consejos y profecías, te da tres dados para usar con la Habilidad apropiada, te otorga dos puntos en Cosmología o en Saber y podría ayudarte en una situación de combate desesperada (como haría un Aliado) a cambio de un gran favor posterior. Para los espíritus y quienes tratan con ellos, claramente disfrutas del favor de tu Tótem y muestras señales obvias de ese vínculo en tu apariencia y conducta."
+        },
+        {
+          "rating": 5,
+          "body_es": "¡Tu Tótem te ama! Ese espíritu te proporciona compañía y ayuda frecuentes mediante sueños, visiones, presagios y forma sólida. Obtienes tres dados para la Habilidad apropiada, sumas dos dados tanto a Cosmología como a Saber Espiritual y puedes recibir ayuda en situaciones desesperadas. Tu vínculo con ese espíritu es obvio para cualquiera y te marca como una persona muy extraña, primaria y probablemente intimidante."
+        }
+      ]
     },
     "sources": [
       {
