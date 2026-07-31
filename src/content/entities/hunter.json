@@ -1304,7 +1304,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Un Artefacto menor."
+        },
+        {
+          "rating": 2,
+          "body_es": "Un Artefacto útil."
+        },
+        {
+          "rating": 3,
+          "body_es": "Un Artefacto de poder significativo."
+        },
+        {
+          "rating": 4,
+          "body_es": "Un Artefacto muy deseado."
+        },
+        {
+          "rating": 5,
+          "body_es": "Un Artefacto de increíble poder."
+        }
+      ]
     },
     "sources": [
       {
@@ -2528,7 +2550,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Comandas una turba de dos personas."
+        },
+        {
+          "rating": 2,
+          "body_es": "Comandas una turba de cuatro personas."
+        },
+        {
+          "rating": 3,
+          "body_es": "Comandas una turba de siete personas."
+        },
+        {
+          "rating": 4,
+          "body_es": "Comandas una turba de quince personas."
+        },
+        {
+          "rating": 5,
+          "body_es": "Comandas una turba de veinticinco personas."
+        }
+      ]
     },
     "sources": [
       {

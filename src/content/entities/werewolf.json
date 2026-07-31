@@ -24063,7 +24063,29 @@
     ],
     "mechanics": {
       "rating_max": 5,
-      "note": "Red de informadores; nivel = contactos principales fiables + informadores menores."
+      "note": "Red de informadores; nivel = contactos principales fiables + informadores menores.",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Un contacto mayor."
+        },
+        {
+          "rating": 2,
+          "body_es": "Dos contactos mayores."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tres contactos mayores."
+        },
+        {
+          "rating": 4,
+          "body_es": "Cuatro contactos mayores."
+        },
+        {
+          "rating": 5,
+          "body_es": "Cinco contactos mayores."
+        }
+      ]
     },
     "sources": [
       {
