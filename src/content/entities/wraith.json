@@ -3017,7 +3017,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Un Contacto principal y algunos otros. Probablemente tengas un arreglo especial con este Contacto."
+        },
+        {
+          "rating": 2,
+          "body_es": "Dos Contactos principales en áreas diferentes y un puñado de Contactos menores."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tres Contactos principales y una buena cantidad de Contactos menores útiles."
+        },
+        {
+          "rating": 4,
+          "body_es": "Cuatro Contactos principales, todos en áreas diferentes, aunque podría concentrarlos y abarcar por completo un campo concreto."
+        },
+        {
+          "rating": 5,
+          "body_es": "Cinco Contactos principales y un Contacto menor asociado cada en cada esquina."
+        }
+      ]
     },
     "sources": [
       {
@@ -3041,7 +3063,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "A veces, te anticipas a tu Sombra."
+        },
+        {
+          "rating": 2,
+          "body_es": "Puedes resistir con éxito a una de las estratagemas de tu Sombra."
+        },
+        {
+          "rating": 3,
+          "body_es": "Espiritualmente resistente; tu Sombra debe trabajar duro para influirte."
+        },
+        {
+          "rating": 4,
+          "body_es": "Ves a través de todas las ardides de tu Sombra, y a veces las contrarrestas."
+        },
+        {
+          "rating": 5,
+          "body_es": "Tu Sombra debe escoger su momento con cuidado o malgastará sus esfuerzos."
+        }
+      ]
     },
     "sources": [
       {
@@ -3089,7 +3133,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Apareces en una pintura que cuelga en alguna parte de un muro de una oscura galería."
+        },
+        {
+          "rating": 2,
+          "body_es": "Fundaste un edificio en un campus universitario."
+        },
+        {
+          "rating": 3,
+          "body_es": "Replantaste un bosque devastado a través del que la gente pasea cada día."
+        },
+        {
+          "rating": 4,
+          "body_es": "Diseñaste la Torre Eiffel o la Estatua de la Libertad."
+        },
+        {
+          "rating": 5,
+          "body_es": "Se te atribuye una importante idea de la vida contemporánea. Quizás fundaste una religión o movimiento político o creaste una aplicación social popular."
+        }
+      ]
     },
     "sources": [
       {
@@ -12793,7 +12859,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Un pequeño domicilio, quizás un armario o una cabina telefónica."
+        },
+        {
+          "rating": 2,
+          "body_es": "Una Morada lo bastante grande para sobrevivir en ella, pero difícilmente lujosa."
+        },
+        {
+          "rating": 3,
+          "body_es": "Una Morada de buen tamaño, la cual puede acomodarte cómodamente a ti y a varios invitados."
+        },
+        {
+          "rating": 4,
+          "body_es": "Una Morada opulenta, con amplias comodidades para hasta cuatro wraiths. Alternativamente, una Morada especial, como una Morada móvil o bien defendida."
+        },
+        {
+          "rating": 5,
+          "body_es": "Una Morada majestuosa en buenas condiciones, quizás la mansión encantada de la colina. No hay duda de que tu Morada es la envidia de muchos wraiths poderosos que no han sido bendecidos con un hogar así."
+        }
+      ]
     },
     "sources": [
       {

@@ -5883,7 +5883,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Los espíritus pueden oler su aroma en ti, aunque nadie más pueda."
+        },
+        {
+          "rating": 2,
+          "body_es": "Los espíritus se dan cuenta de tu llegada. Cuando te miran otras personas, les vienen a la mente los espíritus que has elegido, aunque pocos entienden por qué."
+        },
+        {
+          "rating": 3,
+          "body_es": "En la Umbra, emanas una intangible sensación, aunque perceptible, del tipo de espíritu con el que estás alineado."
+        },
+        {
+          "rating": 4,
+          "body_es": "En la Umbra, tienes marcas visibles del tipo de espíritu con el que estás alineado. Por ejemplo, puede que del pelaje de quienes estén en armonía con la naturaleza salgan pequeñas ramitas."
+        },
+        {
+          "rating": 5,
+          "body_es": "Algunos se preguntan si realmente sólo eres medio espíritu."
+        }
+      ]
     },
     "sources": [
       {
@@ -23824,7 +23846,29 @@
     ],
     "mechanics": {
       "rating_max": 5,
-      "note": "Dados extra en tiradas sociales ante Garou/Parentela/espíritus que valoran el linaje."
+      "note": "Dados extra en tiradas sociales ante Garou/Parentela/espíritus que valoran el linaje.",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Tienes los ojos de tu padre."
+        },
+        {
+          "rating": 2,
+          "body_es": "Tu abuelo se forjó un nombre en la batalla de Bloody Ford y tú llevas ese nombre con orgullo."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tu pedigrí ha sido bendecido con pilares de la Nación Garou, y tu sangre lo demuestra."
+        },
+        {
+          "rating": 4,
+          "body_es": "Podrías vestirte como un mendigo y todavía despertar respeto."
+        },
+        {
+          "rating": 5,
+          "body_es": "Los mayores héroes viven en ti."
+        }
+      ]
     },
     "sources": [
       {
@@ -24000,7 +24044,29 @@
     ],
     "mechanics": {
       "rating_max": 5,
-      "note": "Nivel = tren de vida, capital disponible y bienes accesibles."
+      "note": "Nivel = tren de vida, capital disponible y bienes accesibles.",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Suficiente: No te puedes correr muchas juergas, pero tienes un lugar decente en el que vivir, un coche que no se rompe cada semana y un estándar de vida decente para la clase trabajadora."
+        },
+        {
+          "rating": 2,
+          "body_es": "Moderado: Posees unos ingresos de clase media y te puedes permitir algún capricho ocasional. Puedes contratar ayuda específica si hace falta. Tienes suficiente dinero en efectivo, pertenencias transportables y enseres de valor como para mantener un estándar de vida de un punto, estés donde estés, durante seis meses."
+        },
+        {
+          "rating": 3,
+          "body_es": "Confortable: Tienes una casa a tu nombre y algo de tierra en propiedad que puedes dejar al clan para que la use o mantenerla para tu manada. También tienes una reputación que te da acceso fácil a créditos con buenas condiciones. La mayoría de tus activos están vinculados a propiedades en vez de a dinero y, si es necesario, puedes mantener un estándar de vida de un punto, estés donde estés, durante el tiempo que quieras."
+        },
+        {
+          "rating": 4,
+          "body_es": "Rico: Tienes un importante poder financiero y eres una de las personas más ricas en tu país. No sueles usar dinero en efectivo, sino activos más estables y valiosos para pagar tus deudas según surgen. Cuando no puedes centrarte en mantener tu nivel de Recursos, puedes vivir con el nivel de tres puntos durante un año o de dos puntos de forma indefinida."
+        },
+        {
+          "rating": 5,
+          "body_es": "Extremadamente rico: Eres una de las personas más ricas de la Tierra. Tienes múltiples propiedades, muchas formas de transporte lujosas y frecuentemente apareces en la prensa rosa y en las páginas de sociedad. Tienes activos en todas partes , y puedes poner trabas a las actividades del Wyrm con una llamada de diez minutos. Puedes vivir con el nivel de tres puntos indefinidamente si ignoras tu fortuna; o uno aún más alto si pones algo de esfuerzo en ello."
+        }
+      ]
     },
     "sources": [
       {

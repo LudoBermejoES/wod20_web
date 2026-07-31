@@ -6071,7 +6071,29 @@
       "conocimiento-secundario"
     ],
     "mechanics": {
-      "category": "knowledge"
+      "category": "knowledge",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Aficionado: Están ahí afuera…"
+        },
+        {
+          "rating": 2,
+          "body_es": "Estudiante: Has oído unos cuantos nombres y leyendas sobre ellos."
+        },
+        {
+          "rating": 3,
+          "body_es": "Erudito: Estas entidades tienen diversas estructuras sociales y has comenzado a entender en qué consisten."
+        },
+        {
+          "rating": 4,
+          "body_es": "Profesor: Aunque tu conocimiento es prejuicioso por tu propia perspectiva, puedes diferenciar a un Ventrue de un Setita y tienes alguna idea de qué significa esa distinción."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Se supone que no deberías saber tanto sobre ellos… pero lo haces."
+        }
+      ]
     },
     "sources": [
       {

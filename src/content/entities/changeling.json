@@ -7000,7 +7000,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Tienes un aliado de influencia moderada."
+        },
+        {
+          "rating": 2,
+          "body_es": "Conoces a dos aliados de influencia moderada."
+        },
+        {
+          "rating": 3,
+          "body_es": "Puedes recurrir a tres aliados, uno de los cuales es muy influyente."
+        },
+        {
+          "rating": 4,
+          "body_es": "Eres amigo de cuatro aliados, uno de los cuales es muy poderoso."
+        },
+        {
+          "rating": 5,
+          "body_es": "Cinco aliados te guardan las espaldas; al menos uno de ellos es extremadamente influyente."
+        }
+      ]
     },
     "sources": [
       {

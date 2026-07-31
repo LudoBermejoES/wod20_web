@@ -1258,7 +1258,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Un agente especial del SAD o un teniente de primera categoría de la NSA."
+        },
+        {
+          "rating": 2,
+          "body_es": "Un agente especial senior del SAD o capitán de la NSA."
+        },
+        {
+          "rating": 3,
+          "body_es": "Un agente especial a cargo del SAD o un comandante de la NSA."
+        },
+        {
+          "rating": 4,
+          "body_es": "Un jefe de sección del SAD o un coronel de la NSA."
+        },
+        {
+          "rating": 5,
+          "body_es": "Un director regional del SAD o un general de la NSA."
+        }
+      ]
     },
     "sources": [
       {
