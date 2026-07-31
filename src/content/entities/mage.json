@@ -12566,7 +12566,53 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 10
+      "rating_max": 10,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Obrero pobre: Vives sueldo a sueldo y eso es todo."
+        },
+        {
+          "rating": 1,
+          "body_es": "Con un mínimo margen: tienes un pequeño apartamento y tal vez un vehículo barato. Para los estándares locales, ingresos de clase obrera."
+        },
+        {
+          "rating": 2,
+          "body_es": "Clase media baja: Tienes un piso o un apartamento, más un vehículo, algunos ahorros y suficiente dinero para caprichos ocasionales."
+        },
+        {
+          "rating": 3,
+          "body_es": "Clase media con propiedades: O bien posees o bien tienes una parte importante de alguna propiedad, más un vehículo, inversiones y ahorros. Podrías mantener un estilo de vida de un punto indefinidamente."
+        },
+        {
+          "rating": 4,
+          "body_es": "Acomodado: Posees una gran casa, alguna propiedad y al menos dos vehículos, al igual que destacados niveles de ahorros e inversiones. Para los estándares locales eres un millonario, y aunque esto ya no vale tanto como antaño, no es algo baladí."
+        },
+        {
+          "rating": 5,
+          "body_es": "Bienvenido al 1%: Como multimillonario, tienes posesiones, inversiones y ahorros sustanciales."
+        },
+        {
+          "rating": 6,
+          "body_es": "Dinero de Hollywood: Lo que quieras, lo tienes."
+        },
+        {
+          "rating": 7,
+          "body_es": "Club de los billonarios. Puedes influir en todo un negocio o industria."
+        },
+        {
+          "rating": 8,
+          "body_es": "Rico como Bruce Wayne: Posees empresas."
+        },
+        {
+          "rating": 9,
+          "body_es": "Rico como Tony Stark: Posees industrias."
+        },
+        {
+          "rating": 10,
+          "body_es": "Rico como Bill Gates: Posees gobiernos."
+        }
+      ]
     },
     "sources": [
       {
@@ -38641,7 +38687,30 @@
     "tags": [
       "psíquico"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Semejante Reconoce a Semejante: El sinergista puede percibir a otros psíquicos. Esto tiene éxito automáticamente si el psíquico toca a otro, pero el sinergista puede tirar la activación para rastrear psíquicos dentro de su línea de visión. Con 3 o más éxitos, el sinergista puede percibir el poder relativo de los demás psíquicos."
+        },
+        {
+          "rating": 2,
+          "body_es": "Compartir Voluntad: El sinergista forma un vínculo psíquico débil para potenciar el poder de los participantes. Cada psíquico puede gastar un punto de Fuerza de Voluntad para conceder un éxito automático al efecto de otro, o permitir que el psíquico 'tome prestada' la Fuerza de Voluntad y añada temporalmente el punto a su reserva, hasta un máximo de 10. Si la Fuerza de Voluntad no se gasta, puede intercambiarse varias veces entre los psíquicos del vínculo. Cualquier Fenómeno sensorial (Telepatía, Precognición, etc.) permite a todos los psíquicos del vínculo compartir los resultados."
+        },
+        {
+          "rating": 3,
+          "body_es": "Compartir Poderes: El sinergista forma un vínculo más fuerte, permitiendo que todos los psíquicos usen sus poderes como grupo. Cada psíquico puede aportar hasta dos poderes, puntos de Fuerza de Voluntad, o uno de cada. Solo se necesita una tirada de activación para los poderes de grupo."
+        },
+        {
+          "rating": 4,
+          "body_es": "Gestalt de Poder: Como Compartir Poderes, pero ahora los psíquicos del vínculo pueden combinar los efectos de sus capacidades para formar un único poder compartido. Por ejemplo, el grupo podría combinar el Psiquismo Animal y la Invisibilidad Psíquica para poder colarse ante perros guardianes sin ser detectados."
+        },
+        {
+          "rating": 5,
+          "body_es": "Red de Poder: El sinergista puede vincular a otros psíquicos y eliminar la necesidad de que estos se toquen, o incluso de que estén en el mismo lugar. Un psíquico con este nivel de Sinergia primero vincula a todos como en las capacidades inferiores, dedicando 10 minutos a una concentración y meditación conjuntas para consolidar los lazos. Una vez formado el vínculo, los psíquicos conectados en red permanecen vinculados y pueden usar cualquiera de las capacidades inferiores durante un número de horas igual a los éxitos de activación. Este vínculo no se debilita con la distancia, pero si un psíquico del vínculo sufre daño igual o superior a su Resistencia procedente de una sola fuente, todos los psíquicos de la red deben realizar una tirada de Fuerza de Voluntad a dificultad 7 o ser expulsados de la red. Si el psíquico que formó la red es expulsado, dejado inconsciente, o asesinado, la red se colapsa automáticamente."
+        }
+      ]
+    },
     "sources": [
       {
         "book_id": "m20-sorcerer",
