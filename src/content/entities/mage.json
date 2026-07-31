@@ -44736,7 +44736,53 @@
       "flavor_names": {
         "tradiciones": "Capilla",
         "tecnocracia": "Constructo"
-      }
+      },
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Al parecer estás al mando"
+        },
+        {
+          "rating": 1,
+          "body_es": "Un superior que es un Traje Negro/Discípulo, o el equivalente."
+        },
+        {
+          "rating": 2,
+          "body_es": "Dos superiores que son Trajes Negros/Discípulos, o el equivalente."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tres superiores. Uno es un Traje Gris/Adepto y los demás son Trajes Negros/Discípulos, o el equivalente."
+        },
+        {
+          "rating": 4,
+          "body_es": "Cuatro superiores. Dos son Trajes Grises/Adeptos y los demás son Trajes Negros/Discípulos, o el equivalente."
+        },
+        {
+          "rating": 5,
+          "body_es": "Cinco superiores. Tres son Trajes Grises/Adeptos y los demás son Trajes Negros/Discípulos, o el equivalente."
+        },
+        {
+          "rating": 6,
+          "body_es": "Cinco superiores. Cuatro son Trajes Grises/Adeptos y el otro es un Traje Negro/Discípulo, o el equivalente."
+        },
+        {
+          "rating": 7,
+          "body_es": "Seis superiores. Todos son Trajes Grises/Adeptos o el equivalente."
+        },
+        {
+          "rating": 8,
+          "body_es": "Seis superiores. Uno es un Traje Blanco/Maestro y los demás son Trajes Grises/Adeptos o el equivalente."
+        },
+        {
+          "rating": 9,
+          "body_es": "Seis superiores. Dos son Trajes Blancos/Maestros y los demás son Trajes Grises/Adeptos o el equivalente."
+        },
+        {
+          "rating": 10,
+          "body_es": "Seis superiores. Tres son Trajes Blancos/Maestros y los demás son Trajes Grises/Adeptos o el equivalente."
+        }
+      ]
     },
     "sources": [
       {
@@ -44798,7 +44844,53 @@
       "flavor_names": {
         "tradiciones": "Capilla",
         "tecnocracia": "Constructo"
-      }
+      },
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Sin efectos integrados."
+        },
+        {
+          "rating": 1,
+          "body_es": "Cuatro puntos."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ocho puntos."
+        },
+        {
+          "rating": 3,
+          "body_es": "Quince puntos."
+        },
+        {
+          "rating": 4,
+          "body_es": "Veinte puntos."
+        },
+        {
+          "rating": 5,
+          "body_es": "Veinticinco puntos."
+        },
+        {
+          "rating": 6,
+          "body_es": "Treinta y cinco puntos."
+        },
+        {
+          "rating": 7,
+          "body_es": "Cuarenta y cinco puntos."
+        },
+        {
+          "rating": 8,
+          "body_es": "Cincuenta y cinco puntos."
+        },
+        {
+          "rating": 9,
+          "body_es": "Setenta puntos."
+        },
+        {
+          "rating": 10,
+          "body_es": "Noventa puntos."
+        }
+      ]
     },
     "sources": [
       {
@@ -44985,7 +45077,33 @@
       "flavor_names": {
         "tradiciones": "Capilla",
         "tecnocracia": "Constructo"
-      }
+      },
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Tu Capilla/Constructo se adhiere a las normas locales de la Realidad."
+        },
+        {
+          "rating": 1,
+          "body_es": "Tu Ciencia Iluminada/magia es coincidente aquí."
+        },
+        {
+          "rating": 2,
+          "body_es": "Los efectos creados según tu paradigma reciben -1 de dificultad."
+        },
+        {
+          "rating": 3,
+          "body_es": "Los efectos creados según tu paradigma reciben -1 de dificultad. Los efectos vulgares sufren +1 de dificultad."
+        },
+        {
+          "rating": 4,
+          "body_es": "Los efectos creados según tu paradigma reciben -2 de dificultad. Los efectos vulgares sufren +2 de dificultad."
+        },
+        {
+          "rating": 5,
+          "body_es": "Los efectos creados según tu paradigma reciben -3 de dificultad. Los efectos vulgares sufren +3 de dificultad."
+        }
+      ]
     },
     "sources": [
       {

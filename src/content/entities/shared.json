@@ -5184,7 +5184,7 @@
     "line": "shared",
     "name_en": "Animal Affinity",
     "name_es": "Afinidad Animal",
-    "body_es": "Tienes una afinidad natural con los animales, tanta que tú mismo pareces ser en parte animal. En términos prácticos, este Talento te ayuda a desentrañar jerarquías, leer estados de ánimo o de salud, comunicarte mediante vocalización o lenguaje corporal y llegar a entenderte a nivel animal. Suele ser más fácil comunicarse con los animales inteligentes que con los más primitivos, por lo que las dificultades de Afinidad Animal son menores con bestias inteligentes o confiadas que con extrañas, hostiles o simples.\n\nLos éxitos en una tirada de Afinidad Animal pueden ayudarte a reducir la dificultad de una tirada de [Equitación](/shared/secondary-abilitys/equitacion) o te permiten hacerte pasar por \"otro animal\" si has cambiado a una forma bestial. Con una Especialidad en Adiestramiento, puedes entrenar a ciertos animales.\n\nNiveles: • Novato: Sueles gustarle a los animales domesticados. •• Ejercitado: Los animales asustadizos suelen confiar en ti. ••• Talentoso: Los animales salvajes tienden a respetarte. •••• Experto: La gente te llama \"el que Susurra a los Animales\". ••••• Maestro: Pareces más próximo a los animales que a los seres humanos.\n\nPoseído por: Cambiaformas, granjeros, cazadores, mozos de cuadra, brujas, policías de la brigada canina, adiestradores de animales, paseadores de perros, naturalistas, gente salvaje criada por bestias.\n\nEspecialidades sugeridas: Dominación, Amistoso, Calmar, Crear Lazos, \"Hablar con los Animales\", Interpretar Señales, Adiestrar (animales específicos: Caninos y Lupinos, Felinos, Equinos, Aves Rapaces...).",
+    "body_es": "Tienes una afinidad natural con los animales, tanta que tú mismo pareces ser en parte animal. En términos prácticos, este Talento te ayuda a desentrañar jerarquías, leer estados de ánimo o de salud, comunicarte mediante vocalización o lenguaje corporal y llegar a entenderte a nivel animal. Suele ser más fácil comunicarse con los animales inteligentes que con los más primitivos, por lo que las dificultades de Afinidad Animal son menores con bestias inteligentes o confiadas que con extrañas, hostiles o simples.\n\nLos éxitos en una tirada de Afinidad Animal pueden ayudarte a reducir la dificultad de una tirada de [Equitación](/shared/secondary-abilitys/equitacion) o te permiten hacerte pasar por \"otro animal\" si has cambiado a una forma bestial. Con una Especialidad en Adiestramiento, puedes entrenar a ciertos animales.\n\nPoseído por: Cambiaformas, granjeros, cazadores, mozos de cuadra, brujas, policías de la brigada canina, adiestradores de animales, paseadores de perros, naturalistas, gente salvaje criada por bestias.\n\nEspecialidades sugeridas: Dominación, Amistoso, Calmar, Crear Lazos, \"Hablar con los Animales\", Interpretar Señales, Adiestrar (animales específicos: Caninos y Lupinos, Felinos, Equinos, Aves Rapaces...).",
     "tags": [
       "talento-secundario"
     ],
@@ -5205,7 +5205,7 @@
         },
         {
           "rating": 4,
-          "body_es": "Experto: La gente te llama 'el que Susurra a los Animales'."
+          "body_es": "Experto: La gente te llama \"el que Susurra a los Animales\"."
         },
         {
           "rating": 5,
@@ -5230,7 +5230,7 @@
     "line": "shared",
     "name_en": "Carousing",
     "name_es": "Alternar",
-    "body_es": "Te especializas en compartir los buenos ratos. Esto no tiene por qué implicar alcohol y desenfreno... pero normalmente sí lo hace. Allí donde estés, probablemente puedes iniciar una fiesta y lograr que la mayoría de la gente se una a ti. Este Talento, normalmente asociado con el Culto del Éxtasis, puede romper las cadenas del decoro y hacer pedacitos las inhibiciones.\n\nNiveles: • Novato: \"¡YOLO!\". •• Ejercitado: \"Baila un poco / Haz un poco el amor / Baja esta noche...\". ••• Talentoso: \"Peca para que puedas ser perdonado\". •••• Experto: \"La única blasfemia real es rechazar el gozo\". ••••• Maestro: \"«Haz lo que quieras» debería ser la única ley\".\n\nPoseído por: Estrellas musicales, fiesteros, chicos de fraternidad, vividores, líderes de secta, Extáticos, seductores Nefandos, agentes de la subversión, devotos de la Senda de la Mano Izquierda.\n\nEspecialidades sugeridas: Alta Sociedad, Tumulto Adolescente, Superar las Inhibiciones, Violar Votos, Libertinaje Elegante, Fiestas Salvajes, Maestro de Ceremonias, Justificaciones Místicas, ¡Que Empiece la Fiesta!",
+    "body_es": "Te especializas en compartir los buenos ratos. Esto no tiene por qué implicar alcohol y desenfreno... pero normalmente sí lo hace. Allí donde estés, probablemente puedes iniciar una fiesta y lograr que la mayoría de la gente se una a ti. Este Talento, normalmente asociado con el Culto del Éxtasis, puede romper las cadenas del decoro y hacer pedacitos las inhibiciones.\n\nPoseído por: Estrellas musicales, fiesteros, chicos de fraternidad, vividores, líderes de secta, Extáticos, seductores Nefandos, agentes de la subversión, devotos de la Senda de la Mano Izquierda.\n\nEspecialidades sugeridas: Alta Sociedad, Tumulto Adolescente, Superar las Inhibiciones, Violar Votos, Libertinaje Elegante, Fiestas Salvajes, Maestro de Ceremonias, Justificaciones Místicas, ¡Que Empiece la Fiesta!",
     "tags": [
       "talento-secundario"
     ],
@@ -5239,23 +5239,23 @@
       "ratings": [
         {
           "rating": 1,
-          "body_es": "Novato: '¡YOLO!' [N.d.T.: Sólo vives una vez]."
+          "body_es": "Novato: \"¡YOLO!\"."
         },
         {
           "rating": 2,
-          "body_es": "Ejercitado: 'Baila un poco / Haz un poco el amor / Baja esta noche…'."
+          "body_es": "Ejercitado: \"Baila un poco / Haz un poco el amor / Baja esta noche...\"."
         },
         {
           "rating": 3,
-          "body_es": "Talentoso: 'Peca para que puedas ser perdonado'."
+          "body_es": "Talentoso: \"Peca para que puedas ser perdonado\"."
         },
         {
           "rating": 4,
-          "body_es": "Experto: 'La única blasfemia real es rechazar el gozo'."
+          "body_es": "Experto: \"La única blasfemia real es rechazar el gozo\"."
         },
         {
           "rating": 5,
-          "body_es": "Maestro: '«Haz lo que quieras» debería ser la única ley'."
+          "body_es": "Maestro: \"«Haz lo que quieras» debería ser la única ley\"."
         }
       ]
     },
@@ -5276,7 +5276,7 @@
     "line": "shared",
     "name_en": "High Ritual",
     "name_es": "Alto Ritual",
-    "body_es": "Hay tanto de arte como de ciencia en un buen rito. Has estudiado no sólo las técnicas y adornos de las prácticas rituales, sino también los principios simbólicos, psicológicos y metafísicos tras el gran espectáculo. En términos de juego, la Técnica Alto Ritual te permite planear y ejecutar rituales; superar una tirada (normalmente Manipulación o Carisma + Alto Ritual) permite a tu personaje realizar o servir de ayuda desde en un banquete de bodas hasta en un rito místico. Una tirada de Alto Ritual con éxito puede reducir la dificultad de una tarea Mágica, mientras que fallar en una puede aumentar la dificultad. Ten en cuenta que este Talento no \"se suma\" con el Talento [Descaro](/shared/secondary-abilitys/descaro): un personaje con ambos debe elegir uno u otro, pero no puede usar los dos a la vez.\n\nNiveles: • Novato: Podrías planear una boda, invocar a los puntos cardinales o recitar el vía crucis. •• Ejercitado: Tus celebraciones y ritos te otorgan el respeto de tu comunidad. ••• Talentoso: Más allá de tu familiaridad con rituales específicos, has comenzado a aprender también otras prácticas. •••• Experto: Un sacerdote o sacerdotisa aclamado con un don para ejecutar ceremonias poderosas y una amplia comprensión de técnicas rituales específicas. ••••• Maestro: Has dominado no sólo los ritos de tu cultura, sino también muchas prácticas rituales de otras culturas.\n\nPoseído por: Clero, ocultistas, animadores, altos magos, farsantes fanfarrones, especialistas en religión comparada, magos rituales, ciudadanos evangelizadores, planeadores de ceremonias, directores de iglesias o de funerales.\n\nEspecialidades sugeridas: Misa Solemne, Rituales Oscuros, Rituales Espontáneos, Ceremonias Seculares, Conciertos de Música, Milagros Imposibles, ritos culturales concretos (Judíos, Católicos, Satánicos, Vudú...).",
+    "body_es": "Hay tanto de arte como de ciencia en un buen rito. Has estudiado no sólo las técnicas y adornos de las prácticas rituales, sino también los principios simbólicos, psicológicos y metafísicos tras el gran espectáculo. En términos de juego, la Técnica Alto Ritual te permite planear y ejecutar rituales; superar una tirada (normalmente Manipulación o Carisma + Alto Ritual) permite a tu personaje realizar o servir de ayuda desde en un banquete de bodas hasta en un rito místico. Una tirada de Alto Ritual con éxito puede reducir la dificultad de una tarea Mágica, mientras que fallar en una puede aumentar la dificultad. Ten en cuenta que este Talento no \"se suma\" con el Talento [Descaro](/shared/secondary-abilitys/descaro): un personaje con ambos debe elegir uno u otro, pero no puede usar los dos a la vez.\n\nPoseído por: Clero, ocultistas, animadores, altos magos, farsantes fanfarrones, especialistas en religión comparada, magos rituales, ciudadanos evangelizadores, planeadores de ceremonias, directores de iglesias o de funerales.\n\nEspecialidades sugeridas: Misa Solemne, Rituales Oscuros, Rituales Espontáneos, Ceremonias Seculares, Conciertos de Música, Milagros Imposibles, ritos culturales concretos (Judíos, Católicos, Satánicos, Vudú...).",
     "tags": [
       "talento-secundario"
     ],
@@ -5285,7 +5285,7 @@
       "ratings": [
         {
           "rating": 1,
-          "body_es": "Novato: Podrías planear una boda, invocar a"
+          "body_es": "Novato: Podrías planear una boda, invocar a los puntos cardinales o recitar el vía crucis."
         },
         {
           "rating": 2,
@@ -5301,7 +5301,7 @@
         },
         {
           "rating": 5,
-          "body_es": "Maestro: Has dominado no sólo los ritos de tu cultura, sino también muchas prácticas rituales de otras culturas. Tu conocimiento es tan potente que podrías convertir a ateos en creyentes."
+          "body_es": "Maestro: Has dominado no sólo los ritos de tu cultura, sino también muchas prácticas rituales de otras culturas."
         }
       ]
     },
@@ -5322,7 +5322,7 @@
     "line": "shared",
     "name_en": "Search",
     "name_es": "Buscar",
-    "body_es": "Con tiempo y motivación, sabes cómo registrar una habitación o peinar los bosques. Has aguzado tu ojo para la búsqueda de pistas, dominado los escondrijos clásicos (y descubierto algunos nuevos) y aprendido cómo seguir tus instintos. Si hay algo que encontrar, probablemente lo encontrarás... y si combinas este Talento con Efectos de Esferas de Rango 1, no hay mucho que pueda escapársete mucho tiempo.\n\nNiveles: • Novato: Eres bueno encontrando cosas perdidas. •• Ejercitado: Las pistas parecen saltar hacia ti. ••• Talentoso: El último lugar donde la gente miraría es el primero que intentas. •••• Experto: Los profesionales te consultan cuando hay que encontrar algo o a alguien. ••••• Maestro: Tu don para encontrar cosas parece claramente sobrenatural... y probablemente lo sea.\n\nPoseído por: Ladrones, expertos en registros, detectives, inspectores, perfiladores criminales, cazarrecompensas, Trajes Negros, equipos CSI.\n\nEspecialidades sugeridas: Revólver, Espacios Ocultos, Sitios Probables, Pistas en Exteriores, Procedimientos Policiales, Puertas Secretas, Marcas Reveladoras.",
+    "body_es": "Con tiempo y motivación, sabes cómo registrar una habitación o peinar los bosques. Has aguzado tu ojo para la búsqueda de pistas, dominado los escondrijos clásicos (y descubierto algunos nuevos) y aprendido cómo seguir tus instintos. Si hay algo que encontrar, probablemente lo encontrarás... y si combinas este Talento con Efectos de Esferas de Rango 1, no hay mucho que pueda escapársete mucho tiempo.\n\nPoseído por: Ladrones, expertos en registros, detectives, inspectores, perfiladores criminales, cazarrecompensas, Trajes Negros, equipos CSI.\n\nEspecialidades sugeridas: Revólver, Espacios Ocultos, Sitios Probables, Pistas en Exteriores, Procedimientos Policiales, Puertas Secretas, Marcas Reveladoras.",
     "tags": [
       "talento-secundario"
     ],
@@ -5347,7 +5347,7 @@
         },
         {
           "rating": 5,
-          "body_es": "Maestro: Tu don para encontrar cosas parece claramente sobrenatural… y probablemente lo sea."
+          "body_es": "Maestro: Tu don para encontrar cosas parece claramente sobrenatural... y probablemente lo sea."
         }
       ]
     },
@@ -5368,7 +5368,7 @@
     "line": "shared",
     "name_en": "Blatancy",
     "name_es": "Descaro",
-    "body_es": "Mediante un don para el teatro, comprender a la audiencia y la pura audacia, eres bueno a la hora de salir bien parado de actos descarados de Magia. Normalmente, esto implica excusas de probada eficacia: \"Estamos grabando una película\", \"todo es una ilusión\", \"¿nunca has visto un flashmob?\" y cosas así. Un mago que desee usarlo debe poder apoyar sus pretextos con evidencias (atrezo, cómplices...); funciona mejor cuando te ajustas al sistema de creencias dominante del lugar. En términos de juego, una tirada con éxito de Manipulación + Descaro, combinada con una explicación razonable para la proeza Mágica concreta, puede permitir a un jugador convertir un Efecto Mágico que normalmente sería vulgar en uno coincidente. El Narrador es el árbitro final: si la explicación es penosa o el atrezo no la apoya, la tirada no tiene éxito.\n\nTabla Efectos de Descaro: Dificultad 6 / Éxitos requeridos Uno+ / Efecto Explicable / Explicación creíble (\"Tecnología experimental de alto secreto\"). Dificultad 7 / Uno+ / Llamativo / Cuestionable (\"Flashmob: ¿ves las cámaras?\"). Dificultad 8 / Dos+ / Descarado / Mala excusa (\"¡Explosión de gas!\"). Dificultad 9 / Dos+ / Increíble / \"¿En serio? Yo no he visto nada fuera de lo normal\". Dificultad 10 / Tres+ / Absurdo / \"¡Es el Arrebatamiento! Haz las paces con Dios\".\n\nNiveles: • Novato: \"No, en serio, estamos grabando un vídeo\". •• Ejercitado: \"Eso sólo parecía fácil. Me costó años averiguar cómo hacer ese truco\". ••• Talentoso: \"Todas las explicaciones y permisos necesarios están en nuestra página web\". •••• Experto: \"Hicimos este truco en Cazadores de Mitos\". ••••• Maestro: \"No hay nada que ver, circulen\".\n\nPoseído por: Famosos, magos de la tele, gurús, DJs, técnicos de efectos especiales, cineastas, dobles de riesgo, artistas marciales, Trajes Negros, promotores de espectáculos.\n\nEspecialidades sugeridas: Atracción Religiosa, Paranoia Política, Magia de Escenario, Equipo de Filmación, Apelación a la Vanidad, Dispositivos Atractivos, Cultura Friki, Con Dos Cojones, Autoridad Legal, ¡Ciencia!, Estamos en una Misión Divina.",
+    "body_es": "Mediante un don para el teatro, comprender a la audiencia y la pura audacia, eres bueno a la hora de salir bien parado de actos descarados de Magia. Normalmente, esto implica excusas de probada eficacia: \"Estamos grabando una película\", \"todo es una ilusión\", \"¿nunca has visto un flashmob?\" y cosas así. Un mago que desee usarlo debe poder apoyar sus pretextos con evidencias (atrezo, cómplices...); funciona mejor cuando te ajustas al sistema de creencias dominante del lugar. En términos de juego, una tirada con éxito de Manipulación + Descaro, combinada con una explicación razonable para la proeza Mágica concreta, puede permitir a un jugador convertir un Efecto Mágico que normalmente sería vulgar en uno coincidente. El Narrador es el árbitro final: si la explicación es penosa o el atrezo no la apoya, la tirada no tiene éxito.\n\nTabla Efectos de Descaro: Dificultad 6 / Éxitos requeridos Uno+ / Efecto Explicable / Explicación creíble (\"Tecnología experimental de alto secreto\"). Dificultad 7 / Uno+ / Llamativo / Cuestionable (\"Flashmob: ¿ves las cámaras?\"). Dificultad 8 / Dos+ / Descarado / Mala excusa (\"¡Explosión de gas!\"). Dificultad 9 / Dos+ / Increíble / \"¿En serio? Yo no he visto nada fuera de lo normal\". Dificultad 10 / Tres+ / Absurdo / \"¡Es el Arrebatamiento! Haz las paces con Dios\".\n\nPoseído por: Famosos, magos de la tele, gurús, DJs, técnicos de efectos especiales, cineastas, dobles de riesgo, artistas marciales, Trajes Negros, promotores de espectáculos.\n\nEspecialidades sugeridas: Atracción Religiosa, Paranoia Política, Magia de Escenario, Equipo de Filmación, Apelación a la Vanidad, Dispositivos Atractivos, Cultura Friki, Con Dos Cojones, Autoridad Legal, ¡Ciencia!, Estamos en una Misión Divina.",
     "tags": [
       "talento-secundario"
     ],
@@ -5377,23 +5377,23 @@
       "ratings": [
         {
           "rating": 1,
-          "body_es": "Novato: 'No, en serio, estamos grabando un vídeo'."
+          "body_es": "Novato: \"No, en serio, estamos grabando un vídeo\"."
         },
         {
           "rating": 2,
-          "body_es": "Ejercitado: 'Eso sólo parecía fácil. Me costó años averiguar cómo hacer ese truco'."
+          "body_es": "Ejercitado: \"Eso sólo parecía fácil. Me costó años averiguar cómo hacer ese truco\"."
         },
         {
           "rating": 3,
-          "body_es": "Talentoso: 'Todas las explicaciones y permisos necesarios están en nuestra página web'."
+          "body_es": "Talentoso: \"Todas las explicaciones y permisos necesarios están en nuestra página web\"."
         },
         {
           "rating": 4,
-          "body_es": "Experto: 'Hicimos este truco en Cazadores de Mitos '."
+          "body_es": "Experto: \"Hicimos este truco en Cazadores de Mitos\"."
         },
         {
           "rating": 5,
-          "body_es": "Maestro: 'No hay nada que ver, circulen'."
+          "body_es": "Maestro: \"No hay nada que ver, circulen\"."
         }
       ]
     },
@@ -5414,7 +5414,7 @@
     "line": "shared",
     "name_en": "Do",
     "name_es": "Do",
-    "body_es": "Con frecuencia confundida con una mera arte marcial, Do es la devoción a un estilo de vida: un ancestral secreto de la Hermandad Akáshica, ocasionalmente enseñado a foráneos para mantenerlo vivo. Aunque queda reflejado en una colección única de maniobras de combate y técnicas Mágicas, el Camino es mucho más que una simple serie de ventajas: exige dieta, filosofía, meditación y un refinado sentido del propio lugar en el cosmos. Un personaje Akáshico inicial no puede tener más de dos puntos en Do (los demás deben aprenderse con Experiencia); un personaje no Akáshico no puede empezar el juego con ningún punto en Do. Por cada punto en Do, un personaje debe tener al menos dos puntos de una Habilidad \"rama\" adecuada.\n\nNiveles: • Insecto (hormiga, saltamontes, mantis, cucaracha...): Iniciado en los secretos más simples del Do, has comenzado a aprender los métodos adecuados de dieta, meditación y ejercicio. •• Reptador (lagarto, serpiente, sapo...): Tu cuerpo, mente y espíritu han alcanzado una especie de unidad; con tal comprensión, eres capaz de impresionantes proezas. ••• Animal Cuadrúpedo (caballo, perro, gato...): Has liberado el poder del logro natural; éste es el mayor nivel alcanzado por muchos devotos, el grado de un Tao-shih consumado. •••• Animal Bípedo (mono, oso, simio...): Te has ganado el derecho de ser considerado un auténtico heredero del Do, un Sihing. ••••• Verdadera Humanidad: Tu devoción te ha devuelto al estado original de la gracia humana; sólo ahora puedes ser considerado un Sifu, un Maestro del Camino.\n\nPoseído por: Akashayana y tal vez sus compañeros de mayor confianza.\n\nEspecialidades sugeridas: Estilo Externo (enérgico), Estilo Interno (meditativo), Estilos con Armas, Alquimia Energética, Katas, Técnicas de Forma Animal.",
+    "body_es": "Con frecuencia confundida con una mera arte marcial, Do es la devoción a un estilo de vida: un ancestral secreto de la Hermandad Akáshica, ocasionalmente enseñado a foráneos para mantenerlo vivo. Aunque queda reflejado en una colección única de maniobras de combate y técnicas Mágicas, el Camino es mucho más que una simple serie de ventajas: exige dieta, filosofía, meditación y un refinado sentido del propio lugar en el cosmos. Un personaje Akáshico inicial no puede tener más de dos puntos en Do (los demás deben aprenderse con Experiencia); un personaje no Akáshico no puede empezar el juego con ningún punto en Do. Por cada punto en Do, un personaje debe tener al menos dos puntos de una Habilidad \"rama\" adecuada.\n\nPoseído por: Akashayana y tal vez sus compañeros de mayor confianza.\n\nEspecialidades sugeridas: Estilo Externo (enérgico), Estilo Interno (meditativo), Estilos con Armas, Alquimia Energética, Katas, Técnicas de Forma Animal.",
     "tags": [
       "talento-secundario"
     ],
@@ -5423,23 +5423,23 @@
       "ratings": [
         {
           "rating": 1,
-          "body_es": "Insecto (hormiga, saltamontes, mantis, cucaracha, etc.): Iniciado en los secretos más simples del Do, has comenzado a aprender los métodos adecuados de dieta, meditación y ejercicio."
+          "body_es": "Insecto (hormiga, saltamontes, mantis, cucaracha...): Iniciado en los secretos más simples del Do, has comenzado a aprender los métodos adecuados de dieta, meditación y ejercicio."
         },
         {
           "rating": 2,
-          "body_es": "Reptador (lagarto, serpiente, sapo, etc.): Como las bestias que reptan sobre la tierra, has comenzado a descubrir las claves para un estado superior. Tu cuerpo, mente y espíritu han alcanzado una especie de unidad; con tal comprensión, eres capaz de impresionantes proezas."
+          "body_es": "Reptador (lagarto, serpiente, sapo...): Tu cuerpo, mente y espíritu han alcanzado una especie de unidad; con tal comprensión, eres capaz de impresionantes proezas."
         },
         {
           "rating": 3,
-          "body_es": "Animal Cuadrúpedo (caballo, perro, gato, etc.): Como las grandes bestias, has liberado el poder del logro natural. Tus manos se vuelven garras o pezuñas; tu cuerpo se dispara con una fuerza desconocida para la mayoría de los que se considerarían humanos. Este es el mayor nivel alcanzado por muchos devotos, el grado de un Tao-shih consumado."
+          "body_es": "Animal Cuadrúpedo (caballo, perro, gato...): Has liberado el poder del logro natural; éste es el mayor nivel alcanzado por muchos devotos, el grado de un Tao-shih consumado."
         },
         {
           "rating": 4,
-          "body_es": "Animal Bípedo (mono, oso, simio, etc.): Mediante un gran esfuerzo y comprensión, has abierto las puertas que mantienen a los seres inferiores en su estado distraído. Tu cuerpo, mente y espíritu pueden lograr cosas milagrosas y te has ganado el derecho de ser considerado un auténtico heredero del Do, un Sihing. Superar este punto requiere una devoción suprema y una práctica que normalmente lleva vidas perfeccionar."
+          "body_es": "Animal Bípedo (mono, oso, simio...): Te has ganado el derecho de ser considerado un auténtico heredero del Do, un Sihing."
         },
         {
           "rating": 5,
-          "body_es": "Verdadera Humanidad: Tu devoción te ha devuelto al estado original de la gracia humana. En este punto, ya no te preocupa qué puede hacerse, sino tan sólo qué debería hacerse. Sólo ahora puedes ser considerado un Sifu: un Maestro del Camino."
+          "body_es": "Verdadera Humanidad: Tu devoción te ha devuelto al estado original de la gracia humana; sólo ahora puedes ser considerado un Sifu, un Maestro del Camino."
         }
       ]
     },
@@ -5460,12 +5460,34 @@
     "line": "shared",
     "name_en": "Seduction",
     "name_es": "Seducción",
-    "body_es": "Eres bueno en ser malo. Un maestro de la persuasión, puedes atraer a la gente a compromisos que de otro modo ignorarían o evitarían. Este Talento refleja la combinación de seducción carnal y manipulación emocional que te permite [enredar](/shared/maneuvers/entangling) a la gente en tus manos siempre que quieras su atención. No tienes por qué ser una belleza para usar esta Habilidad; muchos seductores parecen ordinarios hasta que ponen este don a trabajar.\n\nNiveles: • Novato: Puedes ligarte a borrachos desesperados. •• Ejercitado: Puedes tener a casi cualquiera que quieras. ••• Talentoso: Eres lo bastante bueno para convencer a la gente de ir contra lo mejor de sí mismos. •••• Experto: Conectas tu encanto y desconectas sus cerebros. ••••• Maestro: Votos, hogares, corazones y matrimonios son tuyos para romperlos según desees.\n\nPoseído por: Espías, manipuladores, consumidores, Subversores, Extáticos, Nefandos, desconocidos atractivos, amantes demoníacos, vampiros en los múltiples sentidos de esa palabra.\n\nEspecialidades sugeridas: Sexo en Bruto, Apelar a las Filias, Falsa Inocencia, Dominar desde una Posición Sumisa, Movimientos Sutiles, \"Seamos Chicos Malos\", Crudo pero Efectivo.",
+    "body_es": "Eres bueno en ser malo. Un maestro de la persuasión, puedes atraer a la gente a compromisos que de otro modo ignorarían o evitarían. Este Talento refleja la combinación de seducción carnal y manipulación emocional que te permite [enredar](/shared/maneuvers/entangling) a la gente en tus manos siempre que quieras su atención. No tienes por qué ser una belleza para usar esta Habilidad; muchos seductores parecen ordinarios hasta que ponen este don a trabajar.\n\nPoseído por: Espías, manipuladores, consumidores, Subversores, Extáticos, Nefandos, desconocidos atractivos, amantes demoníacos, vampiros en los múltiples sentidos de esa palabra.\n\nEspecialidades sugeridas: Sexo en Bruto, Apelar a las Filias, Falsa Inocencia, Dominar desde una Posición Sumisa, Movimientos Sutiles, \"Seamos Chicos Malos\", Crudo pero Efectivo.",
     "tags": [
       "talento-secundario"
     ],
     "mechanics": {
-      "category": "talent"
+      "category": "talent",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Puedes ligarte a borrachos desesperados."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Puedes tener a casi cualquiera que quieras."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Eres lo bastante bueno para convencer a la gente de ir contra lo mejor de sí mismos."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Conectas tu encanto y desconectas sus cerebros."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Votos, hogares, corazones y matrimonios son tuyos para romperlos según desees."
+        }
+      ]
     },
     "sources": [
       {
@@ -5530,7 +5552,7 @@
     "line": "shared",
     "name_en": "Flight",
     "name_es": "Vuelo",
-    "body_es": "La gente no suele volar. Tú lo haces. Ya sea porque tienes (o puedes hacer crecer) alas y sabes cómo usarlas, o simplemente porque tienes práctica en el delicado arte de las maniobras aéreas, te sientes en casa tanto en el aire como en el suelo. A diferencia de la Técnica [Jetpack](/shared/secondary-abilitys/jetpack), este Talento refleja un don para volar sin ayuda; para poseerlo, un personaje debe tener alas o el poder innato (o Mágico) de volar. Métodos de vuelo realmente reducidos o precarios (escobas, alfombras, discos de levitación...) también pueden contar.\n\nNiveles: • Novato: Caso de suicidio. •• Ejercitado: Ángel torpe. ••• Talentoso: Jugador de quidditch. •••• Experto: Vengador alado. ••••• Maestro: Danzante del viento.\n\nPoseído por: Brujas, cambiaformas, gente pájaro, entidades angélicas o demoníacas, pilotos de alfombras voladoras, atletas arcanos, Tigres y Dragones.\n\nEspecialidades sugeridas: Escobas, Deportes, Combate Aéreo, Cazar, Bombardeos, Llevar Pasajeros, Levitación mediante Chi.",
+    "body_es": "La gente no suele volar. Tú lo haces. Ya sea porque tienes (o puedes hacer crecer) alas y sabes cómo usarlas, o simplemente porque tienes práctica en el delicado arte de las maniobras aéreas, te sientes en casa tanto en el aire como en el suelo. A diferencia de la Técnica [Jetpack](/shared/secondary-abilitys/jetpack), este Talento refleja un don para volar sin ayuda; para poseerlo, un personaje debe tener alas o el poder innato (o Mágico) de volar. Métodos de vuelo realmente reducidos o precarios (escobas, alfombras, discos de levitación...) también pueden contar.\n\nPoseído por: Brujas, cambiaformas, gente pájaro, entidades angélicas o demoníacas, pilotos de alfombras voladoras, atletas arcanos, Tigres y Dragones.\n\nEspecialidades sugeridas: Escobas, Deportes, Combate Aéreo, Cazar, Bombardeos, Llevar Pasajeros, Levitación mediante Chi.",
     "tags": [
       "talento-secundario"
     ],
@@ -5547,7 +5569,7 @@
         },
         {
           "rating": 3,
-          "body_es": "Talentoso: Jugador de quidditch ."
+          "body_es": "Talentoso: Jugador de quidditch."
         },
         {
           "rating": 4,
@@ -5622,7 +5644,7 @@
     "line": "shared",
     "name_en": "Energy Weapons",
     "name_es": "Armas de Energía",
-    "body_es": "Cuando lo único que hay entre los espectadores inocentes y un Subversor de la Realidad rabioso eres tú, tu arma lanzarrayos y tu habilidad para usarla, ésta se convierte en una Técnica obligatoria. Pistolas láser, aceleradores de rayos de partículas, cañones de mano de plasma, disruptores ectoplásmicos y otro armamento avanzado exigen un manejo avanzado; cualquier simio puede disparar un revólver, pero sólo personal especialmente entrenado sabe cómo emplear armas hipertecnológicas. Esta Habilidad refleja una comprensión básica de la tecnología de las armas de energía y las técnicas esenciales para manejar, mantener, ajustar, cargar y almacenar las herramientas de seguridad Tecnocrática.\n\nNiveles: • Novato: Stormtrooper del Imperio. •• Ejercitado: Tirador competente. ••• Talentoso: Operativo de campo Tecnocrático normal. •••• Experto: Operativo de élite. ••••• Maestro: \"Un rifle fasado de plasma del 48...\".\n\nPoseído por: Cíborgs, marines espaciales, Trajes Negros, agentes encubiertos, héroes Eteritas.\n\nEspecialidades sugeridas: Armas Pesadas, Tecnología Experimental, Reparaciones, Armas Pequeñas, Modificaciones de Campo, Armamento Cibernético, Operaciones en Microgravedad, Francotirador, Tecnología Pulp.",
+    "body_es": "Cuando lo único que hay entre los espectadores inocentes y un Subversor de la Realidad rabioso eres tú, tu arma lanzarrayos y tu habilidad para usarla, ésta se convierte en una Técnica obligatoria. Pistolas láser, aceleradores de rayos de partículas, cañones de mano de plasma, disruptores ectoplásmicos y otro armamento avanzado exigen un manejo avanzado; cualquier simio puede disparar un revólver, pero sólo personal especialmente entrenado sabe cómo emplear armas hipertecnológicas. Esta Habilidad refleja una comprensión básica de la tecnología de las armas de energía y las técnicas esenciales para manejar, mantener, ajustar, cargar y almacenar las herramientas de seguridad Tecnocrática.\n\nPoseído por: Cíborgs, marines espaciales, Trajes Negros, agentes encubiertos, héroes Eteritas.\n\nEspecialidades sugeridas: Armas Pesadas, Tecnología Experimental, Reparaciones, Armas Pequeñas, Modificaciones de Campo, Armamento Cibernético, Operaciones en Microgravedad, Francotirador, Tecnología Pulp.",
     "tags": [
       "tecnica-secundaria"
     ],
@@ -5647,7 +5669,7 @@
         },
         {
           "rating": 5,
-          "body_es": "Maestro: 'Un rifle fasado de plasma del 48…'."
+          "body_es": "Maestro: \"Un rifle fasado de plasma del 48...\"."
         }
       ]
     },
@@ -5668,7 +5690,7 @@
     "line": "shared",
     "name_en": "Biotech",
     "name_es": "Biotecnología",
-    "body_es": "Los cuerpos son las máquinas originales, y la tecnología inventa nuevas máquinas para ellos. Entiendes las conexiones entre los sistemas orgánicos y mecánicos, y puedes manejar los lugares en que se interrelacionan. Biotecnología, una Técnica absolutamente esencial para los cíborgs e ingenieros cibernéticos de Iteración X, los Progenitores, los Adeptos Virtuales y algunas facciones Eteritas, te da entrenamiento práctico y experiencia con tecnología cibernética.\n\nNiveles: • Novato: Tienes una comprensión básica de los principios biotecnológicos y puedes hacer reparaciones muy simples. •• Ejercitado: Ahora tienes experiencia para hacer reparaciones básicas y puedes diseñar e instalar máquinas biotecnológicas simples. ••• Talentoso: Perfeccionado por el estudio, el trabajo de campo y la experimentación de laboratorio, eres realmente bueno en cuanto a la tecnología cibernética. •••• Experto: Eres lo bastante bueno para crear, instalar y mantener diseños radicales y realizar grandes reparaciones de tecnología existente. ••••• Maestro: Podrías comparar notas con Tony Stark.\n\nPoseído por: Cíborgs, técnicos de mantenimiento cibernético, División Q, geningenieros, científicos locos, transhumanistas.\n\nEspecialidades sugeridas: Clonación, Cibernética, Teorías Locas, Reparaciones, Modificaciones de Campo, Rediseño, Nanotecnología, Florónica, Biomecanismos, Biomods, Interfaz de Red.",
+    "body_es": "Los cuerpos son las máquinas originales, y la tecnología inventa nuevas máquinas para ellos. Entiendes las conexiones entre los sistemas orgánicos y mecánicos, y puedes manejar los lugares en que se interrelacionan. Biotecnología, una Técnica absolutamente esencial para los cíborgs e ingenieros cibernéticos de Iteración X, los Progenitores, los Adeptos Virtuales y algunas facciones Eteritas, te da entrenamiento práctico y experiencia con tecnología cibernética.\n\nPoseído por: Cíborgs, técnicos de mantenimiento cibernético, División Q, geningenieros, científicos locos, transhumanistas.\n\nEspecialidades sugeridas: Clonación, Cibernética, Teorías Locas, Reparaciones, Modificaciones de Campo, Rediseño, Nanotecnología, Florónica, Biomecanismos, Biomods, Interfaz de Red.",
     "tags": [
       "tecnica-secundaria"
     ],
@@ -5677,7 +5699,7 @@
       "ratings": [
         {
           "rating": 1,
-          "body_es": "Novato: Tienes una comprensión básica de los principios biotecnológicos y has visto el diseño e implementación de tal tecnología. Pese a tu falta de experiencia, puedes hacer reparaciones muy simples si es necesario."
+          "body_es": "Novato: Tienes una comprensión básica de los principios biotecnológicos y puedes hacer reparaciones muy simples."
         },
         {
           "rating": 2,
@@ -5689,7 +5711,7 @@
         },
         {
           "rating": 4,
-          "body_es": "Experto: Eres lo bastante bueno para crear, instalar y mantener diseños radicales, realizar grandes reparaciones de tecnología existente y emplear casi cualquier Dispositivo o Procedimiento dentro de tu campo (las cosas raras de esos Eteritas chiflados probablemente están más allá de tu alcance… pero en serio, ¿entiende de verdad alguien a esos bastardos pirados?)."
+          "body_es": "Experto: Eres lo bastante bueno para crear, instalar y mantener diseños radicales y realizar grandes reparaciones de tecnología existente."
         },
         {
           "rating": 5,
@@ -5714,7 +5736,7 @@
     "line": "shared",
     "name_en": "Riding",
     "name_es": "Equitación",
-    "body_es": "Sabes cómo ensillar, cuidar y cabalgar algún tipo de animal. Mediante una combinación de técnicas y afecto, tienes una buena oportunidad de ir donde quieres ir sin ser lanzado, pisoteado o posiblemente devorado por tu montura. Para monturas realmente peligrosas o exóticas probablemente necesitarás Equitación 3 o más para mantenerte en la silla. Bajo circunstancias desafiantes puede que necesites tirar Destreza + Equitación; Carisma + Equitación te ayuda a crear lazos con tu montura e Inteligencia + Equitación te permite saber cómo cuidarla.\n\nNiveles: • Novato: Turista de rancho. •• Ejercitado: Jinete experimentado. ••• Talentoso: Jinete profesional. •••• Experto: Domador de caballos salvajes. ••••• Maestro: \"¡Cabalga al tigre!\".\n\nPoseído por: Vaqueros, medievalistas, atletas, mozos de cuadra, tipos adinerados, granjeros, viajeros preindustriales.\n\nEspecialidades sugeridas: A Pelo, [Acrobacias](/shared/secondary-abilitys/acrobacias), Susurrar a los Caballos, Técnicas Tradicionales, Espectáculos, Saltar, Combate, Justas, Carreras, Monturas Exóticas, Compenetración.",
+    "body_es": "Sabes cómo ensillar, cuidar y cabalgar algún tipo de animal. Mediante una combinación de técnicas y afecto, tienes una buena oportunidad de ir donde quieres ir sin ser lanzado, pisoteado o posiblemente devorado por tu montura. Para monturas realmente peligrosas o exóticas probablemente necesitarás Equitación 3 o más para mantenerte en la silla. Bajo circunstancias desafiantes puede que necesites tirar Destreza + Equitación; Carisma + Equitación te ayuda a crear lazos con tu montura e Inteligencia + Equitación te permite saber cómo cuidarla.\n\nPoseído por: Vaqueros, medievalistas, atletas, mozos de cuadra, tipos adinerados, granjeros, viajeros preindustriales.\n\nEspecialidades sugeridas: A Pelo, [Acrobacias](/shared/secondary-abilitys/acrobacias), Susurrar a los Caballos, Técnicas Tradicionales, Espectáculos, Saltar, Combate, Justas, Carreras, Monturas Exóticas, Compenetración.",
     "tags": [
       "tecnica-secundaria"
     ],
@@ -5739,7 +5761,7 @@
         },
         {
           "rating": 5,
-          "body_es": "Maestro: ¡Cabalga al tigre, ne-naaaaaa!"
+          "body_es": "Maestro: \"¡Cabalga al tigre!\"."
         }
       ]
     },
@@ -5760,7 +5782,7 @@
     "line": "shared",
     "name_en": "Hypertech",
     "name_es": "Hipertecnología",
-    "body_es": "Está la tecnología mundana, y luego están las cosas de los Tecnomantes. Los principios avanzados usados por la Tecnocracia, los Adeptos Virtuales, diversos científicos locos e incluso tecnomantes de otras prácticas van más allá de las ciencias cotidianas. Con uno o dos puntos, un personaje con esta Técnica entiende sólo los principios tras los Dispositivos de su propio grupo; con tres o más puntos, puede descifrar Dispositivos de otros grupos y, por extensión, usarlos o modificarlos. Tus puntos en Hipertecnología no pueden superar a los de la Técnica Tecnología. Como con el Conocimiento Informática, tu habilidad para enfocar Efectos de Esfera mediante Hipertecnología puede estar limitada a tus puntos en este Rasgo.\n\nNiveles: • Novato: Entiendes las teorías básicas de ciencias alternativas. •• Ejercitado: \"Esotérico\" es sólo otra palabra para lo obvio. ••• Talentoso: Puedes entender las perversiones tecnológicas de otros grupos. •••• Experto: Las tecnologías de tus enemigos y rivales bailan al son que les programas. ••••• Maestro: Tu comprensión del universo es tan rica que pocas tecnologías eluden tus órdenes.\n\nPoseído por: Científicos locos, Tecnócratas renegados, genios visionarios, hackers tecnológicos, operativos de la División Q, especialistas en diseño, operativos de campo de élite, Trajes Negros, expertos en artilugios.\n\nEspecialidades sugeridas: Hackear y Crackear, Improvisación, Reparaciones, Ensamblar Improvisadamente, Transformaciones Radicales, Armamento, Computadoras, Microtecnología, Nanotecnología, Teorías Experimentales, Teorías de Etertecnología, Modificaciones Callejeras, Anarcotecnología.",
+    "body_es": "Está la tecnología mundana, y luego están las cosas de los Tecnomantes. Los principios avanzados usados por la Tecnocracia, los Adeptos Virtuales, diversos científicos locos e incluso tecnomantes de otras prácticas van más allá de las ciencias cotidianas. Con uno o dos puntos, un personaje con esta Técnica entiende sólo los principios tras los Dispositivos de su propio grupo; con tres o más puntos, puede descifrar Dispositivos de otros grupos y, por extensión, usarlos o modificarlos. Tus puntos en Hipertecnología no pueden superar a los de la Técnica Tecnología. Como con el Conocimiento Informática, tu habilidad para enfocar Efectos de Esfera mediante Hipertecnología puede estar limitada a tus puntos en este Rasgo.\n\nPoseído por: Científicos locos, Tecnócratas renegados, genios visionarios, hackers tecnológicos, operativos de la División Q, especialistas en diseño, operativos de campo de élite, Trajes Negros, expertos en artilugios.\n\nEspecialidades sugeridas: Hackear y Crackear, Improvisación, Reparaciones, Ensamblar Improvisadamente, Transformaciones Radicales, Armamento, Computadoras, Microtecnología, Nanotecnología, Teorías Experimentales, Teorías de Etertecnología, Modificaciones Callejeras, Anarcotecnología.",
     "tags": [
       "tecnica-secundaria"
     ],
@@ -5773,7 +5795,7 @@
         },
         {
           "rating": 2,
-          "body_es": "Ejercitado: 'Esotérico' es sólo otra palabra para lo obvio."
+          "body_es": "Ejercitado: \"Esotérico\" es sólo otra palabra para lo obvio."
         },
         {
           "rating": 3,
@@ -5876,7 +5898,7 @@
     "line": "shared",
     "name_en": "Torture",
     "name_es": "Tortura",
-    "body_es": "Llámalo \"interrogatorio mejorado\" si quieres: destacas a la hora de causar sufrimiento mental, físico y tal vez espiritual, ya sea por deber religioso, servicio militar, práctica mística, prerrogativa divina o simple crueldad. Muchas prácticas místicas incluyen ordalías, autotormento y hasta mutilación; las técnicas de interrogatorio incluyen la tortura como parte del trabajo. En términos de juego, esta Técnica podría implicar un fundido en negro; si no, la escena no debería tratarse con ligereza. Contenido maduro: se recomienda acordar límites de mesa antes de usar este Rasgo en una escena.\n\nNiveles: • Novato: Abusón de patio. •• Ejercitado: Poli malo. ••• Talentoso: Interrogador de operativos encubiertos. •••• Experto: Dominatrix de élite. ••••• Maestro: Doctor nazi, inquisidor español o asesino en serie.\n\nPoseído por: Sicarios, gánsteres, espías, agentes antiterroristas, Eutánatos y magos Extáticos de la Senda de la Mano Izquierda, operativos del NOM, doctores terroríficos, sádicos.\n\nEspecialidades sugeridas: Juegos Mentales, Técnicas Exquisitas, Agonía Prolongada, Instrumentos Clásicos, Juego Sexual, Autotormento, Extracción de Información, \"Obras de Arte\", Dolor sin Daño.",
+    "body_es": "Llámalo \"interrogatorio mejorado\" si quieres: destacas a la hora de causar sufrimiento mental, físico y tal vez espiritual, ya sea por deber religioso, servicio militar, práctica mística, prerrogativa divina o simple crueldad. Muchas prácticas místicas incluyen ordalías, autotormento y hasta mutilación; las técnicas de interrogatorio incluyen la tortura como parte del trabajo. En términos de juego, esta Técnica podría implicar un fundido en negro; si no, la escena no debería tratarse con ligereza. Contenido maduro: se recomienda acordar límites de mesa antes de usar este Rasgo en una escena.\n\nPoseído por: Sicarios, gánsteres, espías, agentes antiterroristas, Eutánatos y magos Extáticos de la Senda de la Mano Izquierda, operativos del NOM, doctores terroríficos, sádicos.\n\nEspecialidades sugeridas: Juegos Mentales, Técnicas Exquisitas, Agonía Prolongada, Instrumentos Clásicos, Juego Sexual, Autotormento, Extracción de Información, \"Obras de Arte\", Dolor sin Daño.",
     "tags": [
       "tecnica-secundaria"
     ],
@@ -5897,7 +5919,7 @@
         },
         {
           "rating": 4,
-          "body_es": "Experto: Dominatrix"
+          "body_es": "Experto: Dominatrix de élite."
         },
         {
           "rating": 5,
@@ -5922,7 +5944,7 @@
     "line": "shared",
     "name_en": "Area Knowledge",
     "name_es": "Conocimiento Regional",
-    "body_es": "Conoces cierta zona como la palma de tu mano. En términos de juego, elige una región concreta (no mayor que una ciudad) que tu personaje tenga motivos para conocer. Las tiradas con éxito de Conocimiento Regional te ayudan a moverte, encontrar atajos y pillar costumbres, pistas y detalles de modos que ningún extraño podría entender. Nota: la opción de El artesano capaz no se aplica a Conocimiento Regional; para conocer un lugar, debes pasar tiempo allí.\n\nNiveles: • Aficionado: Has analizado la zona en cuestión. •• Estudiante: Has vivido allí un tiempo. ••• Erudito: Has pasado mucho tiempo aprendiendo los secretos locales. •••• Profesor: No hay mucho sobre el lugar que no conozcas. ••••• Maestro: \"Mi ciudad me llama, y yo contesto...\".\n\nPoseído por: Justicieros, policías, jefes del crimen, periodistas, leyendas rurales, gente de la calle, Trajes Negros, protectores del pueblo.\n\nEspecialidades sugeridas: Historia, Geografía, Vida Salvaje, Política, Atajos, Salidas, Crimen, Rumores, Escondrijos, Pandillas, Fuentes de Información, Secretos Bien Ocultos.",
+    "body_es": "Conoces cierta zona como la palma de tu mano. En términos de juego, elige una región concreta (no mayor que una ciudad) que tu personaje tenga motivos para conocer. Las tiradas con éxito de Conocimiento Regional te ayudan a moverte, encontrar atajos y pillar costumbres, pistas y detalles de modos que ningún extraño podría entender. Nota: la opción de El artesano capaz no se aplica a Conocimiento Regional; para conocer un lugar, debes pasar tiempo allí.\n\nPoseído por: Justicieros, policías, jefes del crimen, periodistas, leyendas rurales, gente de la calle, Trajes Negros, protectores del pueblo.\n\nEspecialidades sugeridas: Historia, Geografía, Vida Salvaje, Política, Atajos, Salidas, Crimen, Rumores, Escondrijos, Pandillas, Fuentes de Información, Secretos Bien Ocultos.",
     "tags": [
       "conocimiento-secundario"
     ],
@@ -5947,7 +5969,7 @@
         },
         {
           "rating": 5,
-          "body_es": "Maestro: 'Mi ciudad me llama, y yo contesto…'."
+          "body_es": "Maestro: \"Mi ciudad me llama, y yo contesto...\"."
         }
       ]
     },
@@ -6014,7 +6036,7 @@
     "line": "shared",
     "name_en": "Demolitions",
     "name_es": "Demoliciones",
-    "body_es": "Sabes cómo hacer que las cosas hagan \"BUM\", normalmente sin volarte a ti mismo en el proceso. Este Conocimiento otorga familiaridad con el funcionamiento de la química y la tecnología de los explosivos, una comprensión de los diseños habituales, conocimiento de los patrones y efectos de una explosión y, en los niveles superiores, la pericia para desactivar muchos artefactos explosivos. Lo que no hace es proporcionar tecnología explosiva a prueba de tontos: cuando las cosas explotan, siempre hay caos.\n\nNiveles: • Novato: Modelaje, fuegos artificiales y tú. •• Ejercitado: ¡Anarquía! ••• Talentoso: Has entrenado con compuestos y artefactos explosivos y las precauciones relacionadas. •••• Experto: \"Apártense: soy un profesional\". ••••• Maestro: Un maestro del desastre, puedes desactivar y crear un amplio espectro de artefactos explosivos.\n\nPoseído por: Cazadores de mitos, terroristas, antiterroristas, radicales, supervivencialistas, espías, pirotécnicos, especialistas militares, estrellas de YouTube.\n\nEspecialidades sugeridas: Artefactos Explosivos Improvisados, Eliminación de Bombas, Efectos de Escenario, Fuegos Artificiales, Coches Bomba, Materiales Improvisados, Mejoras Mágicas, Demolición de Edificios.",
+    "body_es": "Sabes cómo hacer que las cosas hagan \"BUM\", normalmente sin volarte a ti mismo en el proceso. Este Conocimiento otorga familiaridad con el funcionamiento de la química y la tecnología de los explosivos, una comprensión de los diseños habituales, conocimiento de los patrones y efectos de una explosión y, en los niveles superiores, la pericia para desactivar muchos artefactos explosivos. Lo que no hace es proporcionar tecnología explosiva a prueba de tontos: cuando las cosas explotan, siempre hay caos.\n\nPoseído por: Cazadores de mitos, terroristas, antiterroristas, radicales, supervivencialistas, espías, pirotécnicos, especialistas militares, estrellas de YouTube.\n\nEspecialidades sugeridas: Artefactos Explosivos Improvisados, Eliminación de Bombas, Efectos de Escenario, Fuegos Artificiales, Coches Bomba, Materiales Improvisados, Mejoras Mágicas, Demolición de Edificios.",
     "tags": [
       "conocimiento-secundario"
     ],
@@ -6035,7 +6057,7 @@
         },
         {
           "rating": 4,
-          "body_es": "Experto: 'Apártense: soy un profesional'."
+          "body_es": "Experto: \"Apártense: soy un profesional\"."
         },
         {
           "rating": 5,
@@ -6198,7 +6220,7 @@
     "line": "shared",
     "name_en": "Lore/Reality Deviant Data",
     "name_es": "Saber / Información de SR",
-    "body_es": "Sabes más sobre la Gente de la Noche de lo que a ellos les gustaría que supieras. Para los magos místicos, tal conocimiento es Saber: los secretos ocultos de los vampiros, criaturas cambiantes y otros. Entre los Tecnócratas, se conoce como Información de SR: información sobre los asuntos clandestinos de Subversores de la Realidad. Distintas categorías incluyen Espíritus, Hadas, Criaturas Cambiantes, Vampiros, Fantasmas, Cazadores, Demonios, Magos y potencialmente otras; cada categoría cuenta como una Especialidad separada. Pese a sus grandes rivalidades, las distintas facciones de magos no suelen tener información precisa sobre las demás.\n\nNiveles: • Aficionado: \"Están ahí afuera...\". •• Estudiante: Has oído unos cuantos nombres y leyendas sobre ellos. ••• Erudito: Estas entidades tienen diversas estructuras sociales y has comenzado a entender en qué consisten. •••• Profesor: Puedes diferenciar a un Ventrue de un Setita y tienes alguna idea de qué significa esa distinción. ••••• Maestro: Se supone que no deberías saber tanto sobre ellos... pero lo haces.\n\nPoseído por: Sabios, hechiceros, xenobiólogos, Trajes Negros, brujas, chamanes, operativos de campo, aventureros, emisarios, estrategas, interrogadores, analistas de inteligencia, cazadores de monstruos.\n\nEspecialidades sugeridas: Infernalistas, Merodeadores, Tradiciones, Tecnocracia, Dispares, Hadas, Vampiros, Criaturas Cambiantes, Fantasmas, Cazadores, Demonios, etc.",
+    "body_es": "Sabes más sobre la Gente de la Noche de lo que a ellos les gustaría que supieras. Para los magos místicos, tal conocimiento es Saber: los secretos ocultos de los vampiros, criaturas cambiantes y otros. Entre los Tecnócratas, se conoce como Información de SR: información sobre los asuntos clandestinos de Subversores de la Realidad. Distintas categorías incluyen Espíritus, Hadas, Criaturas Cambiantes, Vampiros, Fantasmas, Cazadores, Demonios, Magos y potencialmente otras; cada categoría cuenta como una Especialidad separada. Pese a sus grandes rivalidades, las distintas facciones de magos no suelen tener información precisa sobre las demás.\n\nPoseído por: Sabios, hechiceros, xenobiólogos, Trajes Negros, brujas, chamanes, operativos de campo, aventureros, emisarios, estrategas, interrogadores, analistas de inteligencia, cazadores de monstruos.\n\nEspecialidades sugeridas: Infernalistas, Merodeadores, Tradiciones, Tecnocracia, Dispares, Hadas, Vampiros, Criaturas Cambiantes, Fantasmas, Cazadores, Demonios, etc.",
     "tags": [
       "conocimiento-secundario"
     ],
@@ -6207,7 +6229,7 @@
       "ratings": [
         {
           "rating": 1,
-          "body_es": "Aficionado: Están ahí afuera…"
+          "body_es": "Aficionado: \"Están ahí afuera...\"."
         },
         {
           "rating": 2,
@@ -6219,11 +6241,11 @@
         },
         {
           "rating": 4,
-          "body_es": "Profesor: Aunque tu conocimiento es prejuicioso por tu propia perspectiva, puedes diferenciar a un Ventrue de un Setita y tienes alguna idea de qué significa esa distinción."
+          "body_es": "Profesor: Puedes diferenciar a un Ventrue de un Setita y tienes alguna idea de qué significa esa distinción."
         },
         {
           "rating": 5,
-          "body_es": "Maestro: Se supone que no deberías saber tanto sobre ellos… pero lo haces."
+          "body_es": "Maestro: Se supone que no deberías saber tanto sobre ellos... pero lo haces."
         }
       ]
     },
@@ -6244,12 +6266,34 @@
     "line": "shared",
     "name_en": "Belief Systems",
     "name_es": "Sistemas de Creencias",
-    "body_es": "Has estudiado lo que la gente cree, cómo lo cree, por qué cree en lo que cree y dónde suele la gente tener ciertas creencias. Como Rasgo, este Conocimiento abarca sistemas generales de creencias religiosas, políticas, económicas y filosóficas de todo el mundo mortal. Cuanto mayor sea tu puntuación, más extensa y específica será tu comprensión. Este tipo de comprensión puede ser extremadamente útil cuando estás haciendo Magia coincidente, recurres a las tradiciones locales, generas buenas impresiones o cambias las creencias de la gente a tu favor; también ayuda a un mago a entender el fenómeno de las \"zonas de realidad\" y aprovecharlo a su favor.\n\nNiveles: • Aficionado: Has obtenido conocimientos útiles de Wikipedia. •• Estudiante: Tienes una comprensión decente de las creencias religiosas y culturales actuales. ••• Erudito: Tienes una profunda comprensión de los sistemas de creencias dominantes por todo el mundo. •••• Profesor: Eres una autoridad destacada en religión comparada y filosofías políticas. ••••• Maestro: Karen Armstrong comprueba los datos de sus libros contigo.\n\nPoseído por: Periodistas, misioneros, teólogos, historiadores, profesores, expertos, filósofos, eruditos en ciencias políticas, manipuladores de los medios, activistas políticos o religiosos, magos que cambian de paradigma.\n\nEspecialidades sugeridas: Creencias Regionales, Esoterismo, Sectas, Sucesos Actuales, Historia Religiosa o Política, Geopolítica, Religión Comparada, Manipular los Medios, Tendencias en Creencias, Hackear Paradigmas.",
+    "body_es": "Has estudiado lo que la gente cree, cómo lo cree, por qué cree en lo que cree y dónde suele la gente tener ciertas creencias. Como Rasgo, este Conocimiento abarca sistemas generales de creencias religiosas, políticas, económicas y filosóficas de todo el mundo mortal. Cuanto mayor sea tu puntuación, más extensa y específica será tu comprensión. Este tipo de comprensión puede ser extremadamente útil cuando estás haciendo Magia coincidente, recurres a las tradiciones locales, generas buenas impresiones o cambias las creencias de la gente a tu favor; también ayuda a un mago a entender el fenómeno de las \"zonas de realidad\" y aprovecharlo a su favor.\n\nPoseído por: Periodistas, misioneros, teólogos, historiadores, profesores, expertos, filósofos, eruditos en ciencias políticas, manipuladores de los medios, activistas políticos o religiosos, magos que cambian de paradigma.\n\nEspecialidades sugeridas: Creencias Regionales, Esoterismo, Sectas, Sucesos Actuales, Historia Religiosa o Política, Geopolítica, Religión Comparada, Manipular los Medios, Tendencias en Creencias, Hackear Paradigmas.",
     "tags": [
       "conocimiento-secundario"
     ],
     "mechanics": {
-      "category": "knowledge"
+      "category": "knowledge",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Aficionado: Has obtenido conocimientos útiles de Wikipedia."
+        },
+        {
+          "rating": 2,
+          "body_es": "Estudiante: Tienes una comprensión decente de las creencias religiosas y culturales actuales."
+        },
+        {
+          "rating": 3,
+          "body_es": "Erudito: Tienes una profunda comprensión de los sistemas de creencias dominantes por todo el mundo."
+        },
+        {
+          "rating": 4,
+          "body_es": "Profesor: Eres una autoridad destacada en religión comparada y filosofías políticas."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Karen Armstrong comprueba los datos de sus libros contigo."
+        }
+      ]
     },
     "sources": [
       {
