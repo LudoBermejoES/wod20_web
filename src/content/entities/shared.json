@@ -5771,29 +5771,7 @@
       "tecnica-secundaria"
     ],
     "mechanics": {
-      "category": "skill",
-      "ratings": [
-        {
-          "rating": 1,
-          "body_es": "Novato: Abusón de patio."
-        },
-        {
-          "rating": 2,
-          "body_es": "Ejercitado: Poli malo."
-        },
-        {
-          "rating": 3,
-          "body_es": "Talentoso: Interrogador de operativos encubiertos."
-        },
-        {
-          "rating": 4,
-          "body_es": "Experto: Dominatrix"
-        },
-        {
-          "rating": 5,
-          "body_es": "de élite."
-        }
-      ]
+      "category": "skill"
     },
     "sources": [
       {

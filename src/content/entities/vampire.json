@@ -5381,29 +5381,7 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5,
-      "ratings": [
-        {
-          "rating": 1,
-          "body_es": "Eres conocido para una subcultura selecta: fieles a los clubes locales, blogueros del entretenimiento o la gente de Park Avenue, por ejemplo."
-        },
-        {
-          "rating": 2,
-          "body_es": "Gente al azar empieza a reconocer tu cara; eres una celebridad menor, como un criminal de poca monta o un presentador de noticias locales."
-        },
-        {
-          "rating": 3,
-          "body_es": "Tienes mucho renombre; quizás eres un senador o una artista que regularmente consigue cientos de miles de clicks en YouTube."
-        },
-        {
-          "rating": 4,
-          "body_es": "Una celebridad en toda regla; tu nombre es reconocido casi siempre por la gente común en la calle."
-        },
-        {
-          "rating": 5,
-          "body_es": "Eres alguien bien conocido por todos. La gente le pone tu nombre a sus hijos."
-        }
-      ]
+      "rating_max": 5
     },
     "sources": [
       {
@@ -5473,29 +5451,7 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5,
-      "ratings": [
-        {
-          "rating": 1,
-          "body_es": "Moderadamente influyente; un factor en la política local."
-        },
-        {
-          "rating": 2,
-          "body_es": "Bien conectado; una fuerza en políticas provinciales o estatales."
-        },
-        {
-          "rating": 3,
-          "body_es": "Posición de influencia; un factor en políticas regionales."
-        },
-        {
-          "rating": 4,
-          "body_es": "Extenso poder personal; una fuerza en políticas nacionales."
-        },
-        {
-          "rating": 5,
-          "body_es": "Enormemente influyente; un factor en política mundial."
-        }
-      ]
+      "rating_max": 5
     },
     "sources": [
       {

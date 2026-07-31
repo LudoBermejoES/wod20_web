@@ -5837,7 +5837,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Tu manada estará envuelta en un evento que os hará conocidos en toda la Nación Garou. Sin embargo, por ahora sólo los miembros de tu clan conocen esta profecía."
+        },
+        {
+          "rating": 2,
+          "body_es": "Tu manada será la causa de un evento que tendrá un fuerte impacto en vuestro clan, como la destrucción de un viejo enemigo o un Garou muy admirado. Puede que los Garou de la ciudad o de toda la zona geográfica en la que resides conozcan tu Destino."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tu manada será responsable de un evento que tendrá impacto en los hombres lobo de todo el continente, quizá salvar (o destruir) un Túmulo sin ayuda. Cualquier Garou de tu hemisferio podría tener conocimiento de esta profecía."
+        },
+        {
+          "rating": 4,
+          "body_es": "Las acciones de tu manada afectarán a toda la Nación Garou, como la derrota de un gran enemigo del Wyrm o una masacre de docenas de Garou. Quizá haya un Cachorro o dos que no hayan oído hablar de tu Destino, pero no cuentes con ello."
+        },
+        {
+          "rating": 5,
+          "body_es": "Tu manada o tú seréis un factor decisivo en el destino del Apocalipsis de una forma u otra. No hay un sólo Cachorro que no haya oído hablar de él."
+        }
+      ]
     },
     "sources": [
       {
@@ -23878,7 +23900,29 @@
     ],
     "mechanics": {
       "rating_max": 5,
-      "note": "Nivel = niveles de ritos conocidos al inicio; los ritos nunca se compran con XP. Los ritos concretos son entidades type:\"rite\"."
+      "note": "Nivel = niveles de ritos conocidos al inicio; los ritos nunca se compran con XP. Los ritos concretos son entidades type:\"rite\".",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Conoces un nivel de Ritos."
+        },
+        {
+          "rating": 2,
+          "body_es": "Conoces dos niveles de Ritos."
+        },
+        {
+          "rating": 3,
+          "body_es": "Conoces tres niveles de Ritos."
+        },
+        {
+          "rating": 4,
+          "body_es": "Conoces cuatro niveles de Ritos."
+        },
+        {
+          "rating": 5,
+          "body_es": "Conoces cinco niveles de Ritos."
+        }
+      ]
     },
     "sources": [
       {
@@ -23981,7 +24025,29 @@
     ],
     "mechanics": {
       "rating_max": 5,
-      "note": "Garou (o espíritu) de mayor rango que te guía; nivel = poder/influencia y disposición a ayudar."
+      "note": "Garou (o espíritu) de mayor rango que te guía; nivel = poder/influencia y disposición a ayudar.",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Mentor de Rango 2."
+        },
+        {
+          "rating": 2,
+          "body_es": "Mentor de Rango 3."
+        },
+        {
+          "rating": 3,
+          "body_es": "Mentor de Rango 4."
+        },
+        {
+          "rating": 4,
+          "body_es": "Mentor de Rango 5."
+        },
+        {
+          "rating": 5,
+          "body_es": "Mentor de Rango 6."
+        }
+      ]
     },
     "sources": [
       {

@@ -11737,27 +11737,27 @@
       "ratings": [
         {
           "rating": 0,
-          "body_es": "Sin culto."
+          "body_es": "Te lavas tu propia ropa."
         },
         {
           "rating": 1,
-          "body_es": "Culto minúsculo: 3-7 personas. Añade un dado a la tirada de un ritual realizado con ayuda de ese grupo."
+          "body_es": "Un criado."
         },
         {
           "rating": 2,
-          "body_es": "Culto pequeño: 8-12 personas. Añade dos dados a los rituales realizados cuando se reúne ese grupo."
+          "body_es": "Dos criados."
         },
         {
           "rating": 3,
-          "body_es": "Culto moderado: 13-17 personas. Añade tres dados a los rituales realizados en presencia de todo el grupo."
+          "body_es": "Tres criados."
         },
         {
           "rating": 4,
-          "body_es": "Culto grande: 18-22 personas. Añade cuatro dados a los rituales realizados con el apoyo de ese grupo."
+          "body_es": "Cuatro criados."
         },
         {
           "rating": 5,
-          "body_es": "Culto enorme: 23-30 personas. Añade cinco dados a los rituales realizados cuando se ha reunido todo el grupo."
+          "body_es": "Cinco criados."
         }
       ]
     },
