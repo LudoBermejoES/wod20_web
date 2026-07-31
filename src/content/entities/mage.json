@@ -11883,7 +11883,53 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 10
+      "rating_max": 10,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Sin informantes especiales."
+        },
+        {
+          "rating": 1,
+          "body_es": "Uno o dos espías en lugares útiles: la policía, la mafia, Wall Street, etc."
+        },
+        {
+          "rating": 2,
+          "body_es": "De cuatro a seis informantes en varios lugares útiles."
+        },
+        {
+          "rating": 3,
+          "body_es": "Un puñado de espías en lugares útiles, más unos pocos en zonas de difícil acceso (el Pentágono, la CIA, la ONU…), o uno o dos en zonas de alta seguridad (un Simposio Tecnocrático, una Capilla de las Tradiciones, una oficina clasificada del gobierno, etc.)."
+        },
+        {
+          "rating": 4,
+          "body_es": "Infiltrados en toda una esfera de influencia (los bajos fondos, el gobierno de una nación, el mercado de acciones internacional, etc.) o un puñado en un Constructo, Capilla, Clan vampírico, Tribu de hombres lobo, o por algo el estilo."
+        },
+        {
+          "rating": 5,
+          "body_es": "Ojos y oídos a lo largo del mundo Durmiente o varios contactos en el reino sobrenatural."
+        },
+        {
+          "rating": 6,
+          "body_es": "Tienes una pequeña industria noticiera o una agencia de inteligencia en nómina que también tiene cierta perspectiva en asuntos sobrenaturales."
+        },
+        {
+          "rating": 7,
+          "body_es": "Más allá de los cientos de contactos que tienes en el mundo mortal, tienes muchos «amigos» repartidos por el mundo sobrenatural."
+        },
+        {
+          "rating": 8,
+          "body_es": "Tienes toda una agencia de inteligencia reuniendo y procesando información para ti."
+        },
+        {
+          "rating": 9,
+          "body_es": "Gran Hermano."
+        },
+        {
+          "rating": 10,
+          "body_es": "Gran Hermano a escala global."
+        }
+      ]
     },
     "sources": [
       {
@@ -12284,7 +12330,53 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 10
+      "rating_max": 10,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Ningún lugar de poder."
+        },
+        {
+          "rating": 1,
+          "body_es": "Un lugar minúsculo de importancia menor (Túmulo de nivel uno)."
+        },
+        {
+          "rating": 2,
+          "body_es": "Un chorrito menor de energía metafísica (Túmulo de nivel uno)."
+        },
+        {
+          "rating": 3,
+          "body_es": "Un flujo estable de Quintaesencia (Túmulo de nivel dos)."
+        },
+        {
+          "rating": 4,
+          "body_es": "Un pulso de energía, más generosas cantidades de Tass materializado (Túmulo de nivel dos)."
+        },
+        {
+          "rating": 5,
+          "body_es": "Un poderoso manantial con abundancia de energía (Túmulo de nivel tres)."
+        },
+        {
+          "rating": 6,
+          "body_es": "Un Nodo concentrado, con Tass y energía ambiental refinados mediante las Artes de Cardinal o ciencias (Túmulo de nivel tres)."
+        },
+        {
+          "rating": 7,
+          "body_es": "Una considerable fuerza de poder metafísico (Túmulo de nivel cuatro)."
+        },
+        {
+          "rating": 8,
+          "body_es": "Un lugar raro y maravilloso, rebosante de Fuerza Cardinal (Túmulo de nivel cuatro)."
+        },
+        {
+          "rating": 9,
+          "body_es": "Uno de los mayores lugares sagrados o refinerías más potentes en el mundo material (Túmulo de nivel cinco)."
+        },
+        {
+          "rating": 10,
+          "body_es": "Uno de los lugares más raros y preciosos de la Tierra… y un campo de batalla seguro para las fuerzas que se aprovecharían de su poder (Túmulo de nivel cinco)."
+        }
+      ]
     },
     "sources": [
       {
@@ -12387,7 +12479,53 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 10
+      "rating_max": 10,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "¡Estás solo, chico!"
+        },
+        {
+          "rating": 1,
+          "body_es": "Dos agentes típicos."
+        },
+        {
+          "rating": 2,
+          "body_es": "Cuatro agentes básicos o dos aliados temporales habilidosos."
+        },
+        {
+          "rating": 3,
+          "body_es": "Seis agentes."
+        },
+        {
+          "rating": 4,
+          "body_es": "Ocho agentes o cuatro aliados temporales."
+        },
+        {
+          "rating": 5,
+          "body_es": "Diez agentes."
+        },
+        {
+          "rating": 6,
+          "body_es": "Doce agentes o seis aliados temporales."
+        },
+        {
+          "rating": 7,
+          "body_es": "Catorce agentes."
+        },
+        {
+          "rating": 8,
+          "body_es": "Dieciséis agentes u ocho aliados temporales."
+        },
+        {
+          "rating": 9,
+          "body_es": "Dieciocho agentes."
+        },
+        {
+          "rating": 10,
+          "body_es": "Veinte agentes o diez aliados temporales."
+        }
+      ]
     },
     "sources": [
       {
