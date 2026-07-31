@@ -11318,7 +11318,53 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 10
+      "rating_max": 10,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Sin aliados que te ayuden cuando lo necesites."
+        },
+        {
+          "rating": 1,
+          "body_es": "Un aliado de poder moderado o dos compinches menores."
+        },
+        {
+          "rating": 2,
+          "body_es": "Dos aliados moderados, cuatro compinches o un único aliado más poderoso."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tres aliados moderados o una combinación de menores y mayores."
+        },
+        {
+          "rating": 4,
+          "body_es": "Cuatro aliados moderados, seis compinches menores o una combinación de los tres tipos."
+        },
+        {
+          "rating": 5,
+          "body_es": "Cinco aliados moderados o un conjunto de menores y mayores."
+        },
+        {
+          "rating": 6,
+          "body_es": "Seis aliados moderados, una pequeña pandilla de compinches o uno o dos amigos realmente poderosos."
+        },
+        {
+          "rating": 7,
+          "body_es": "Siete moderados, un grupo de compinches o un puñado de compañeros fuertes."
+        },
+        {
+          "rating": 8,
+          "body_es": "Ocho moderados, un montón de seguidores o unos pocos tipos duros."
+        },
+        {
+          "rating": 9,
+          "body_es": "Nueve moderados, una milicia privada o una pandilla de amigos importantes."
+        },
+        {
+          "rating": 10,
+          "body_es": "Diez aliados capaces, un pequeño ejército o una pandilla realmente mortífera."
+        }
+      ]
     },
     "sources": [
       {
@@ -11349,7 +11395,33 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Llamas tanto la atención como cualquier otro."
+        },
+        {
+          "rating": 1,
+          "body_es": "Te camuflas en las multitudes."
+        },
+        {
+          "rating": 2,
+          "body_es": "Tu presencia desaparece de la memoria."
+        },
+        {
+          "rating": 3,
+          "body_es": "Eres esa persona que cuesta recordar."
+        },
+        {
+          "rating": 4,
+          "body_es": "Registros, fotos y hasta los recuerdos que hay de ti son pocos y difíciles de encontrar."
+        },
+        {
+          "rating": 5,
+          "body_es": "Eres como un fantasma en este mundo, conocido sólo por la gente en la que quieres confiar."
+        }
+      ]
     },
     "sources": [
       {
@@ -11406,7 +11478,33 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Un Avatar efimérico apenas capaz de hacer Magia."
+        },
+        {
+          "rating": 1,
+          "body_es": "Una presencia notable que te permite absorber o gastar un punto de Quintaesencia."
+        },
+        {
+          "rating": 2,
+          "body_es": "Una presencia dinámica que te permite absorber o gastar dos puntos de Quintaesencia."
+        },
+        {
+          "rating": 3,
+          "body_es": "Una entidad discernible que te permite absorber o gastar tres puntos de Quintaesencia."
+        },
+        {
+          "rating": 4,
+          "body_es": "Un poderoso espíritu que te permite absorber o gastar cuatro puntos de Quintaesencia."
+        },
+        {
+          "rating": 5,
+          "body_es": "Una poderosa fuerza de Iluminación que te permite absorber o gastar cinco puntos de Quintaesencia."
+        }
+      ]
     },
     "sources": [
       {
@@ -11430,7 +11528,33 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Ninguna figura te favorece."
+        },
+        {
+          "rating": 1,
+          "body_es": "La vida te concede pequeños favores: tus ropas siempre parecen limpias y planchadas, tu cocina nunca se ensucia, encuentras billetes pequeños en el suelo, etc."
+        },
+        {
+          "rating": 2,
+          "body_es": "Te favorecen pequeñas cosas: siempre encuentras aparcamiento, ganas pequeñas cantidades siempre que juegas a la lotería, logras el número de alguien siempre que lo pides, etc."
+        },
+        {
+          "rating": 3,
+          "body_es": "Posees una extraña afinidad hacia ciertas cosas: todo lo que cocinas siempre sabe bien, nunca te pierdes o pierdes tus llaves, los bebés se duermen al instante cuando los acunas, etc."
+        },
+        {
+          "rating": 4,
+          "body_es": "Tu don parece claramente asombroso: los niños se callan cuando se lo dices, tus sugerencias siempre parecen razonables, te acuestas con quien deseas, etc."
+        },
+        {
+          "rating": 5,
+          "body_es": "Una gran bendición te sigue: a tu cartera y cuenta de banco siempre les queda un dólar, a tu pistola le queda la última bala, conoces secretos que nadie debería conocer, etc."
+        }
+      ]
     },
     "sources": [
       {
@@ -11478,7 +11602,33 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Ningún lugar al que llamar hogar."
+        },
+        {
+          "rating": 1,
+          "body_es": "Un punto compartido o membresía en una pequeña casa ocupada."
+        },
+        {
+          "rating": 2,
+          "body_es": "Dos puntos compartidos o membresía en un pequeño santuario."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tres puntos compartidos o membresía en una Capilla o Constructo promedio."
+        },
+        {
+          "rating": 4,
+          "body_es": "Cuatro puntos compartidos o membresía en una fortaleza."
+        },
+        {
+          "rating": 5,
+          "body_es": "Cinco puntos compartidos o membresía en un centro de poder."
+        }
+      ]
     },
     "sources": [
       {
@@ -11502,7 +11652,33 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Lo normal: permiso de conducir, documento de identidad, nada especial."
+        },
+        {
+          "rating": 1,
+          "body_es": "Licencia de caza, licencia de negocios, pasaporte para un país abierto, etc."
+        },
+        {
+          "rating": 2,
+          "body_es": "Certificado de enseñanza, licencia de fisio- terapia, certificación de buceo, licencia de contabilidad, permiso de armas básicas, etc."
+        },
+        {
+          "rating": 3,
+          "body_es": "Permiso de armas ocultas, licencia de manejo de material peligroso, clero ordenado por la iglesia, certificado de socorrista, licencia de detective privado, permiso de piloto privado, etc."
+        },
+        {
+          "rating": 4,
+          "body_es": "Permiso de armas de clase C, certificado médico colegial o profesional legal, licencia de piloto de aeronave profesional, operativo de inteligencia del gobierno, etc."
+        },
+        {
+          "rating": 5,
+          "body_es": "Inmunidad diplomática, licencia para matar."
+        }
+      ]
     },
     "sources": [
       {
@@ -11557,7 +11733,33 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Sin culto."
+        },
+        {
+          "rating": 1,
+          "body_es": "Culto minúsculo: 3-7 personas. Añade un dado a la tirada de un ritual realizado con ayuda de ese grupo."
+        },
+        {
+          "rating": 2,
+          "body_es": "Culto pequeño: 8-12 personas. Añade dos dados a los rituales realizados cuando se reúne ese grupo."
+        },
+        {
+          "rating": 3,
+          "body_es": "Culto moderado: 13-17 personas. Añade tres dados a los rituales realizados en presencia de todo el grupo."
+        },
+        {
+          "rating": 4,
+          "body_es": "Culto grande: 18-22 personas. Añade cuatro dados a los rituales realizados con el apoyo de ese grupo."
+        },
+        {
+          "rating": 5,
+          "body_es": "Culto enorme: 23-30 personas. Añade cinco dados a los rituales realizados cuando se ha reunido todo el grupo."
+        }
+      ]
     },
     "sources": [
       {
@@ -11581,7 +11783,33 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Sin culto."
+        },
+        {
+          "rating": 1,
+          "body_es": "Culto minúsculo: 3-7 personas. Añade un dado a la tirada de un ritual realizado con ayuda de ese grupo."
+        },
+        {
+          "rating": 2,
+          "body_es": "Culto pequeño: 8-12 personas. Añade dos dados a los rituales realizados cuando se reúne ese grupo."
+        },
+        {
+          "rating": 3,
+          "body_es": "Culto moderado: 13-17 personas. Añade tres dados a los rituales realizados en presencia de todo el grupo."
+        },
+        {
+          "rating": 4,
+          "body_es": "Culto grande: 18-22 personas. Añade cuatro dados a los rituales realizados con el apoyo de ese grupo."
+        },
+        {
+          "rating": 5,
+          "body_es": "Culto enorme: 23-30 personas. Añade cinco dados a los rituales realizados cuando se ha reunido todo el grupo."
+        }
+      ]
     },
     "sources": [
       {
@@ -11605,7 +11833,33 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "No eres especialmente importante."
+        },
+        {
+          "rating": 1,
+          "body_es": "Un destino menor; tira un dado."
+        },
+        {
+          "rating": 2,
+          "body_es": "Eres significativo; tira dos dados."
+        },
+        {
+          "rating": 3,
+          "body_es": "Eres importante; tira tres dados."
+        },
+        {
+          "rating": 4,
+          "body_es": "Estás destinado a grandes cosas; tira cuatro dados."
+        },
+        {
+          "rating": 5,
+          "body_es": "Algún día, pronto, serás una leyenda; tira cinco dados."
+        }
+      ]
     },
     "sources": [
       {
@@ -11653,7 +11907,33 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Ningún estatus especial."
+        },
+        {
+          "rating": 1,
+          "body_es": "Reconocido: tus pares identifican tu nombre si sale a colación."
+        },
+        {
+          "rating": 2,
+          "body_es": "Reputado: eres considerado digno de mención."
+        },
+        {
+          "rating": 3,
+          "body_es": "Respetado: tu palabra tiene peso."
+        },
+        {
+          "rating": 4,
+          "body_es": "Admirado: la mayoría de gente en tu grupo te mira con respeto."
+        },
+        {
+          "rating": 5,
+          "body_es": "Venerado: eres considerado un modelo de los principios de tu grupo."
+        }
+      ]
     },
     "sources": [
       {
@@ -11725,7 +12005,33 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Ningún Reino Onírico."
+        },
+        {
+          "rating": 1,
+          "body_es": "Visitante ocasional del reino. Tienes un nombre para él y reconoces unos pocos rasgos significativos."
+        },
+        {
+          "rating": 2,
+          "body_es": "Un visitante habitual, has viajado extensamente por la Heredad."
+        },
+        {
+          "rating": 3,
+          "body_es": "En tus sueños, conoces este lugar muy bien."
+        },
+        {
+          "rating": 4,
+          "body_es": "Éste es tu reino y, aunque no controlas todos sus aspectos o residentes, te conocen y reconocen como alguien con autoridad allí."
+        },
+        {
+          "rating": 5,
+          "body_es": "Señor o Dama de la Heredad, conoces y controlas este reino como si fuera realmente tuyo, porque lo es ."
+        }
+      ]
     },
     "sources": [
       {
@@ -11749,7 +12055,33 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Sólo eres tú."
+        },
+        {
+          "rating": 1,
+          "body_es": "Una licencia de conducir falsa que se parece a ti."
+        },
+        {
+          "rating": 2,
+          "body_es": "Una identificación falsa aceptable, más unos cuantos documentos de apoyo."
+        },
+        {
+          "rating": 3,
+          "body_es": "Papeles de identificación respetables y documentos de apoyo que pasarían una inspección por encima."
+        },
+        {
+          "rating": 4,
+          "body_es": "Una identidad alternativa establecida."
+        },
+        {
+          "rating": 5,
+          "body_es": "Una identidad bien respaldada con una historia completa, documentos de apoyo, testigos, fotos de familia falsas, hogares alternativos y todo eso."
+        }
+      ]
     },
     "sources": [
       {
@@ -11797,7 +12129,33 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Ninguna conexión legendaria."
+        },
+        {
+          "rating": 1,
+          "body_es": "Una leyenda poco conocida (La Pícara Cocinera, Abou Hassan) o una figura menor de la cultura popular (Betty Boop, Grumpy Cat)."
+        },
+        {
+          "rating": 2,
+          "body_es": "Una leyenda menor (Simbad el Marino, Guy Fawkes) o una importante figura de la cultura popular (Janis Joplin, el Gato de Cheshire)."
+        },
+        {
+          "rating": 3,
+          "body_es": "Una leyenda famosa (Don Quijote, Shaka Zulú) o un icono de la cultura popular (Batman, Elvis)."
+        },
+        {
+          "rating": 4,
+          "body_es": "Una gran leyenda (George Washington, Simón Bolívar, Caperucita Roja)."
+        },
+        {
+          "rating": 5,
+          "body_es": "Una leyenda universal (Cenicienta, el Rey Arturo, la Mona Lisa)."
+        }
+      ]
     },
     "sources": [
       {
@@ -11869,7 +12227,33 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Ningún mentor digno de mención."
+        },
+        {
+          "rating": 1,
+          "body_es": "Un mentor poco fiable o sin experiencia."
+        },
+        {
+          "rating": 2,
+          "body_es": "Un guía provechoso aunque excéntrico."
+        },
+        {
+          "rating": 3,
+          "body_es": "Un maestro bueno y destacado."
+        },
+        {
+          "rating": 4,
+          "body_es": "Un anciano sabio, provechoso y respetado."
+        },
+        {
+          "rating": 5,
+          "body_es": "Un poderoso veterano que se ha implicado seriamente en tu éxito."
+        }
+      ]
     },
     "sources": [
       {
@@ -12143,7 +12527,33 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Sin vidas pasadas de las que hablar."
+        },
+        {
+          "rating": 1,
+          "body_es": "Rastros débiles de alguna encarnación previa."
+        },
+        {
+          "rating": 2,
+          "body_es": "Casos frecuentes de déjà vu ."
+        },
+        {
+          "rating": 3,
+          "body_es": "Memorias definidas de otras vidas."
+        },
+        {
+          "rating": 4,
+          "body_es": "Recuerdos claros de experiencias previas y otras vidas."
+        },
+        {
+          "rating": 5,
+          "body_es": "¿Cuál era esta vida?"
+        }
+      ]
     },
     "sources": [
       {

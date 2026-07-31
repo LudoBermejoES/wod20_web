@@ -12817,7 +12817,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "- Una Reliquia en apariencia insignificante, como las llaves de un coche apreciado."
+        },
+        {
+          "rating": 2,
+          "body_es": "- Una Reliquia menor, quizás una pequeña obra de arte."
+        },
+        {
+          "rating": 3,
+          "body_es": "- Una Reliquia con cierta utilidad, como un telescopio o un cuchillo."
+        },
+        {
+          "rating": 4,
+          "body_es": "- Una Reliquia mayor con partes móviles que suele operar con Pathos."
+        },
+        {
+          "rating": 5,
+          "body_es": "- Una Reliquia enorme o de valor incalculable, un dispositivo sofisticado o un objeto famoso."
+        }
+      ]
     },
     "sources": [
       {

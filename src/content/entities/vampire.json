@@ -5289,7 +5289,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Un contacto principal."
+        },
+        {
+          "rating": 2,
+          "body_es": "Dos contactos principales."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tres contactos principales."
+        },
+        {
+          "rating": 4,
+          "body_es": "Cuatro contactos principales."
+        },
+        {
+          "rating": 5,
+          "body_es": "Cinco contactos principales."
+        }
+      ]
     },
     "sources": [
       {
@@ -5313,7 +5335,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Un criado."
+        },
+        {
+          "rating": 2,
+          "body_es": "Dos criados."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tres criados."
+        },
+        {
+          "rating": 4,
+          "body_es": "Cuatro criados."
+        },
+        {
+          "rating": 5,
+          "body_es": "Cinco criados."
+        }
+      ]
     },
     "sources": [
       {
@@ -5337,7 +5381,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Eres conocido para una subcultura selecta: fieles a los clubes locales, blogueros del entretenimiento o la gente de Park Avenue, por ejemplo."
+        },
+        {
+          "rating": 2,
+          "body_es": "Gente al azar empieza a reconocer tu cara; eres una celebridad menor, como un criminal de poca monta o un presentador de noticias locales."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tienes mucho renombre; quizás eres un senador o una artista que regularmente consigue cientos de miles de clicks en YouTube."
+        },
+        {
+          "rating": 4,
+          "body_es": "Una celebridad en toda regla; tu nombre es reconocido casi siempre por la gente común en la calle."
+        },
+        {
+          "rating": 5,
+          "body_es": "Eres alguien bien conocido por todos. La gente le pone tu nombre a sus hijos."
+        }
+      ]
     },
     "sources": [
       {
@@ -5361,7 +5427,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Eres conocido para una subcultura selecta: fieles a los clubes locales, blogueros del entretenimiento o la gente de Park Avenue, por ejemplo."
+        },
+        {
+          "rating": 2,
+          "body_es": "Gente al azar empieza a reconocer tu cara; eres una celebridad menor, como un criminal de poca monta o un presentador de noticias locales."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tienes mucho renombre; quizás eres un senador o una artista que regularmente consigue cientos de miles de clicks en YouTube."
+        },
+        {
+          "rating": 4,
+          "body_es": "Una celebridad en toda regla; tu nombre es reconocido casi siempre por la gente común en la calle."
+        },
+        {
+          "rating": 5,
+          "body_es": "Eres alguien bien conocido por todos. La gente le pone tu nombre a sus hijos."
+        }
+      ]
     },
     "sources": [
       {
@@ -5385,7 +5473,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Moderadamente influyente; un factor en la política local."
+        },
+        {
+          "rating": 2,
+          "body_es": "Bien conectado; una fuerza en políticas provinciales o estatales."
+        },
+        {
+          "rating": 3,
+          "body_es": "Posición de influencia; un factor en políticas regionales."
+        },
+        {
+          "rating": 4,
+          "body_es": "Extenso poder personal; una fuerza en políticas nacionales."
+        },
+        {
+          "rating": 5,
+          "body_es": "Enormemente influyente; un factor en política mundial."
+        }
+      ]
     },
     "sources": [
       {
@@ -5409,7 +5519,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Moderadamente influyente; un factor en la política local."
+        },
+        {
+          "rating": 2,
+          "body_es": "Bien conectado; una fuerza en políticas provinciales o estatales."
+        },
+        {
+          "rating": 3,
+          "body_es": "Posición de influencia; un factor en políticas regionales."
+        },
+        {
+          "rating": 4,
+          "body_es": "Extenso poder personal; una fuerza en políticas nacionales."
+        },
+        {
+          "rating": 5,
+          "body_es": "Enormemente influyente; un factor en política mundial."
+        }
+      ]
     },
     "sources": [
       {
@@ -5433,7 +5565,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "El Mentor es un Ancilla de poca influencia o un Ductus o Sacerdote de manada."
+        },
+        {
+          "rating": 2,
+          "body_es": "El Mentor es respetado: un Antiguo o un veterano muy condecorado, por ejemplo."
+        },
+        {
+          "rating": 3,
+          "body_es": "El Mentor es enormemente influyente, como un miembro de la Primogenitura o un Obispo."
+        },
+        {
+          "rating": 4,
+          "body_es": "El Mentor tiene gran cantidad de poder sobre la ciudad: un Príncipe o Arzobispo, por ejemplo."
+        },
+        {
+          "rating": 5,
+          "body_es": "El Mentor es extraordinariamente poderoso, quizás incluso un Justicar o Cardenal."
+        }
+      ]
     },
     "sources": [
       {
@@ -5457,7 +5611,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Tres recipientes."
+        },
+        {
+          "rating": 2,
+          "body_es": "Siete recipientes."
+        },
+        {
+          "rating": 3,
+          "body_es": "15 recipientes."
+        },
+        {
+          "rating": 4,
+          "body_es": "30 recipientes."
+        },
+        {
+          "rating": 5,
+          "body_es": "60 recipientes."
+        }
+      ]
     },
     "sources": [
       {

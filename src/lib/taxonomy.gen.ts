@@ -118,6 +118,7 @@ export const MECHANIC_LABELS: Record<string, string> = {
   bearing: 'Porte',
   benefits: 'Beneficios',
   birthrights: 'Privilegios',
+  body_es: 'Descripción',
   bono: 'Bono',
   bonus: 'Bono',
   boon: 'Favor',
