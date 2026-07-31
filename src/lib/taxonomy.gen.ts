@@ -36,7 +36,7 @@ export const TYPE_INFO: Record<string, TypeInfo> = {
   bane: { label_es: 'Perdición', mechanical_fields: ['rage', 'gnosis', 'willpower', 'essence', 'charms'] },
   cantrip: { label_es: 'Ensalmo', mechanical_fields: ['art', 'level', 'type', 'successes'] },
   'changing-breed': { label_es: 'Raza Cambiante', mechanical_fields: [] },
-  'chantry-trait': { label_es: 'Rasgo de Capilla/Constructo', mechanical_fields: ['pool_cost_per_dot', 'cap_rule', 'tier_bands', 'flavor_names'] },
+  'chantry-trait': { label_es: 'Rasgo de Capilla/Constructo', mechanical_fields: ['pool_cost_per_dot', 'cap_rule', 'tier_bands', 'flavor_names', 'ratings'] },
   charm: { label_es: 'Encantamiento de Espíritu', mechanical_fields: ['essence_cost', 'freebie_cost', 'level', 'pcBuyable', 'cost_note'] },
   clan: { label_es: 'Clan', mechanical_fields: ['disciplines', 'weakness'] },
   'combination-discipline': { label_es: 'Disciplina Combinada', mechanical_fields: ['disciplines', 'cost', 'experience_cost', 'prerequisites', 'roll'] },
