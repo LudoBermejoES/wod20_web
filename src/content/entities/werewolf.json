@@ -23941,7 +23941,29 @@
     ],
     "mechanics": {
       "rating_max": 5,
-      "note": "Nivel = nivel total de fetiches iniciales; activar exige tirada de Gnosis. Los fetiches concretos son entidades type:\"fetish\"."
+      "note": "Nivel = nivel total de fetiches iniciales; activar exige tirada de Gnosis. Los fetiches concretos son entidades type:\"fetish\".",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Posees un Fetiche de nivel uno."
+        },
+        {
+          "rating": 2,
+          "body_es": "Posees un Fetiche de nivel dos o dos de nivel uno."
+        },
+        {
+          "rating": 3,
+          "body_es": "Posees uno o más Fetiches hasta un total de tres niveles."
+        },
+        {
+          "rating": 4,
+          "body_es": "Posees uno o más Fetiches hasta un total de cuatro niveles."
+        },
+        {
+          "rating": 5,
+          "body_es": "Posees uno o más Fetiches hasta un total de cinco niveles."
+        }
+      ]
     },
     "sources": [
       {

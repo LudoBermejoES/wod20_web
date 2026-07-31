@@ -2502,7 +2502,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Se reduce la dificultad en 1."
+        },
+        {
+          "rating": 2,
+          "body_es": "Se reduce la dificultad en 2."
+        },
+        {
+          "rating": 3,
+          "body_es": "Se reduce la dificultad en 3."
+        },
+        {
+          "rating": 4,
+          "body_es": "Se reduce la dificultad en 4."
+        },
+        {
+          "rating": 5,
+          "body_es": "Se reduce la dificultad en 5."
+        }
+      ]
     },
     "sources": [
       {
