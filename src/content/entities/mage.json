@@ -38013,7 +38013,30 @@
     "tags": [
       "psíquico"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Comulgar: un psíquico puede comunicarse con un animal que pueda percibir mediante sentidos mundanos (vista, oído, etc.). Puede dar órdenes sencillas, pero no puede ordenar a un animal que ataque. El psíquico puede, sin embargo,"
+        },
+        {
+          "rating": 2,
+          "body_es": "Comunicación Masiva: como con Comulgar, pero el psíquico ahora puede comunicarse con varios animales de la misma especie a la vez. Las órdenes a los animales pueden ser más complejas siempre que el psíquico pueda describirlas adecuadamente; sin embargo, los animales normalmente no atacarán por el psíquico a menos que ya estuvieran dispuestos a hacerlo. Este nivel también puede, alternativamente, dirigirse a un solo animal para ampliar la capacidad de las órdenes."
+        },
+        {
+          "rating": 3,
+          "body_es": "Vínculo Mental: un psíquico puede unir mentes con un solo animal para lograr comunicación instantánea bidireccional y la capacidad de percibir lo que el animal percibe. El psíquico debe percibir inicialmente al animal según las reglas de Comulgar, pero el animal puede viajar fuera del alcance de percepción del psíquico sin que se rompa el vínculo. Este poder termina cuando"
+        },
+        {
+          "rating": 4,
+          "body_es": "Dominación: un psíquico puede ordenar a un solo animal que haga cualquier cosa dentro de las capacidades naturales del animal. El animal lucha y muere por el psíquico a su orden y sin cuestionarlo. El psíquico debe describir adecuadamente una orden para que el animal entienda lo que el psíquico quiere. Las órdenes complejas pueden seguir confundiendo a un animal, aunque el animal hace todo lo posible por interpretar y llevar a cabo cualquier orden que el psíquico le dé. Una vez que el psíquico activa con éxito este poder, el animal sigue las órdenes del psíquico hasta que el psíquico corta la conexión o el animal muere. Los psíquicos que usan este poder también deben establecer un Vínculo Mental si desean seguir dando órdenes al animal a distancia. Esto no requiere tiradas adicionales ni gasto de Fuerza de Voluntad, pero sí expone al psíquico a sufrir daño cuando el animal resulte herido o muerto, como se detalla más arriba."
+        },
+        {
+          "rating": 5,
+          "body_es": "Enjambre: con el dominio de este Fenómeno, un psíquico ahora puede usar cualquier habilidad inferior sobre todos los animales que pueda percibir mediante sentidos mundanos a la vez. El control del psíquico ya no se limita a una especie a la vez. Usar el Vínculo Mental de esta manera puede volverse peligroso rápidamente, ya que cada animal vinculado presenta un riesgo de daño por contragolpe si resulta herido. La distracción de mantener múltiples vínculos mentales es abrumadora, infligiendo una penalización de -3 dados a todas las tiradas basadas en Atributos hasta que termine el Vínculo Mental, a menos que el psíquico gaste un punto de Fuerza de Voluntad al realizar la tirada para superar temporalmente la distracción."
+        }
+      ]
+    },
     "sources": [
       {
         "book_id": "m20-sorcerer",
@@ -38035,7 +38058,30 @@
     "tags": [
       "psíquico"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Radio de 5 yardas. Añade +1 a la dificultad de activación de fenómenos psíquicos dentro del radio y +1 a la dificultad de las tiradas de la Esfera de la Mente."
+        },
+        {
+          "rating": 2,
+          "body_es": "Radio de 10 yardas. Añade +2 a la dificultad de activación de fenómenos psíquicos dentro del radio y +1 a la dificultad de las tiradas de la Esfera de la Mente."
+        },
+        {
+          "rating": 3,
+          "body_es": "Radio de 15 yardas. Añade +3 a la dificultad de activación de fenómenos psíquicos dentro del radio y +2 a la dificultad de las tiradas de la Esfera de la Mente. Añade +1 a la dificultad para el uso de cualquier poder de la Gente de la Noche basado en la mente."
+        },
+        {
+          "rating": 4,
+          "body_es": "Radio de 25 yardas. Añade +4 a la dificultad de activación de fenómenos psíquicos dentro del radio y +2 a la dificultad de las tiradas de la Esfera de la Mente. Añade +2 a la dificultad para el uso de cualquier poder de la Gente de la Noche basado en la mente."
+        },
+        {
+          "rating": 5,
+          "body_es": "Radio de 40 yardas. Añade +5 a la dificultad de activación de fenómenos psíquicos dentro del radio y +3 a la dificultad de las tiradas de la Esfera de la Mente. Añade +3 a la dificultad para el uso de cualquier poder de la Gente de la Noche basado en la mente."
+        }
+      ]
+    },
     "sources": [
       {
         "book_id": "m20-sorcerer",
@@ -38057,7 +38103,30 @@
     "tags": [
       "psíquico"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Vistazo: El psíquico puede dedicar hasta un minuto por punto de Resistencia a proyectarse astralmente y viajar hasta una milla de distancia de su cuerpo. Un psíquico solo puede usar la vista en este nivel; sus demás sentidos no funcionan mientras se proyecta. Un personaje también puede viajar a la Penumbra Astral durante este tiempo."
+        },
+        {
+          "rating": 2,
+          "body_es": "Encargo: El psíquico obtiene la capacidad de oír mientras viaja astralmente. Puede viajar hasta 100 millas de distancia de su cuerpo, con un límite de 10 minutos por punto de Resistencia."
+        },
+        {
+          "rating": 3,
+          "body_es": "Viaje: El psíquico puede viajar hasta 1000 millas de distancia de su cuerpo y puede permanecer en forma astral durante 30 minutos por punto de Resistencia. Un psíquico puede optar por manifestarse como una imagen borrosa y fantasmal de su forma astral durante un asalto gastando un punto de Fuerza de Voluntad, pero no puede hablar. No aparece en las grabaciones."
+        },
+        {
+          "rating": 4,
+          "body_es": "Salvaguarda: Al quedar aturdido o inconsciente, el psíquico puede tirar la activación de la Proyección Astral como acción refleja. El psíquico puede usar este poder para buscar ayuda para su cuerpo tendido, o simplemente como una forma de seguir siendo útil mientras está incapacitado. El psíquico puede manifestarse como en Viaje, y mientras está manifestado, puede comunicarse en voz de susurro. La voz y la forma translúcida del psíquico no aparecen en las grabaciones. El psíquico puede viajar a cualquier parte de la Tierra y permanecer proyectado hasta una hora por cada punto de Resistencia que posea, aunque puede gastar un punto de Fuerza de Voluntad cada hora que desee seguir viajando más allá de este límite. Puede usar todos sus sentidos con normalidad. Aunque el psíquico puede regresar a su cuerpo en cualquier momento antes de que expire su límite normal, regresar no lo despertará a menos que la causa de la inconsciencia se haya resuelto."
+        },
+        {
+          "rating": 5,
+          "body_es": "Odisea: Las capacidades de viaje astral del psíquico son legendarias. El psíquico puede viajar a cualquier lugar sobre o dentro de la Tierra, llegando al menos hasta el borde de la atmósfera. Intentar ir más lejos requiere una tirada de Fuerza de Voluntad a dificultad 9. Mientras el cuerpo del psíquico viva, incluso con ayuda de tecnología de soporte vital, el psíquico puede viajar indefinidamente. Si está manifestado, el psíquico puede hablar en volumen normal y puede optar por aparecer en"
+        }
+      ]
+    },
     "sources": [
       {
         "book_id": "m20-sorcerer",
@@ -38079,7 +38148,30 @@
     "tags": [
       "psíquico"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Atención Plena: El psíquico se concentra en alterar sus procesos biológicos de forma leve. Puede detener el sangrado de heridas pequeñas, subir o bajar su temperatura corporal central hasta dos grados, contener la respiración durante un tiempo prolongado, ignorar el dolor de heridas menores, incluidas las penalizaciones por heridas de hasta la mitad de su valor en Biocontrol (redondeado hacia arriba), y regular conscientemente su presión arterial y su pulso dentro del rango normal. El efecto termina si se rompe la concentración del psíquico."
+        },
+        {
+          "rating": 2,
+          "body_es": "Factor Curativo: El psíquico obliga a su cuerpo a acelerar los procesos metabólicos responsables de la curación y de combatir infecciones muy por encima del ritmo normal. El psíquico debe dedicar tiempo a descansar y meditar, idealmente mientras recibe atención médica —al fin y al cabo, el psíquico sigue siendo mortal—. Por cada éxito de activación, el psíquico reduce en un nivel el tiempo necesario para curar el nivel de Salud más alto, hasta un mínimo de una hora para el daño contundente y un día para el daño letal o agravado. Una vez curado el primer nivel de daño, el psíquico puede volver a tirar la activación para repetir el proceso. Si utiliza el Factor Curativo, los psíquicos pueden ignorar el riesgo de incapacidad permanente (véase Mage 20 p. 408) siempre que dispongan de la nutrición y el descanso suficientes."
+        },
+        {
+          "rating": 3,
+          "body_es": "Oleada: El psíquico inunda su organismo con hormonas a voluntad. Los psíquicos eligen entre Físicos, Sociales o Mentales, y reparten sus éxitos de activación entre los atributos de la categoría elegida para subir puntos (hasta un máximo de 5 en cualquier atributo) durante una escena. Esto puede representar una descarga de adrenalina que permite una 'fuerza histérica' en una emergencia, una oleada de dopamina que mejora la función mental, o la modulación de serotonina y feromonas para volverse más tranquilo o subconscientemente atractivo en situaciones sociales. Provocar deliberadamente picos hormonales somete al cuerpo a tensión: cuando el efecto desaparece, el psíquico debe tirar Resistencia a dificultad 5 para absorber los éxitos de activación como daño contundente."
+        },
+        {
+          "rating": 4,
+          "body_es": "Alternar Nervios: Un psíquico con este nivel de control puede aumentar o reducir la sensibilidad de sus nervios durante hasta una escena por cada éxito de activación. El uso más habitual es adormecer temporalmente el dolor. Un psíquico puede ignorar las penalizaciones por heridas causadas por el dolor hasta un número de niveles de Salud igual a los éxitos de activación —esto no permite al psíquico ignorar las penalizaciones debidas a partes del cuerpo no funcionales o ausentes—. En su lugar, un psíquico puede optar por adormecer sus sentidos para ignorar otros estímulos nocivos, como olores intensos, cambios repentinos de iluminación o temperaturas extremas. El psíquico puede ignorar hasta un número de penalizaciones por distracción igual a los éxitos de activación, y puede repartir los éxitos entre varios tipos de penalización. Alternativamente, un psíquico puede aumentar la sensibilidad nerviosa, reduciendo la dificultad de las tiradas basadas en la Percepción en un número de éxitos de activación, y puede repartir los éxitos entre varios sentidos. Sin embargo, aumentar la sensibilidad nerviosa conlleva un riesgo. Cada éxito empleado en reducir la dificultad de percepción de un sentido se suma a la dificultad de resistir las distracciones que utilicen ese sentido mientras el poder esté activo. Si el psíquico aumenta la sensibilidad táctil y sufre daño, padece penalizaciones por herida adicionales iguales a los éxitos de activación dedicados al tacto."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestría Biológica: El psíquico alcanza el control total sobre su cuerpo. Puede detener y reiniciar su corazón a voluntad, regular la digestión, suspender temporalmente la necesidad de oxígeno, y ponerse en hibernación para forzar hazañas curativas más extremas, incluida la regeneración de partes del cuerpo. Puede acelerar o suspender la regeneración a nivel celular y puede anular toxinas con una tirada de activación. Cada éxito de activación reduce en uno el Índice de Toxina de la sustancia. Si el Índice de Toxina restante es menor que la Resistencia del psíquico, este puede dirigir la toxina hacia una parte específica de su cuerpo para que siga su curso, sufriendo un Impedimento (como el Defecto, véase M20 Book of Secrets p. 39) durante la duración del efecto de la toxina. Si el Índice de Toxina es mayor que la Resistencia del psíquico tras usar la Maestría Biológica, el psíquico sufre la toxina con normalidad, con el Índice de Toxina ya reducido. Un psíquico puede pasar un turno concentrándose y tirar la activación para absorber daño letal y agravado con Resistencia durante una escena."
+        }
+      ]
+    },
     "sources": [
       {
         "book_id": "m20-sorcerer",
@@ -38101,7 +38193,30 @@
     "tags": [
       "psíquico"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "El canalizador puede conectar con el más allá y extraer las Habilidades de un fantasma, aunque solo puede acceder a una única Habilidad por cada uso de este poder. Los éxitos de la tirada de activación se convierten en dados de bonificación para las tiradas que utilicen el Talento, la Técnica o el Conocimiento deseado durante el resto de la escena. Al mirar a través del Manto, el psíquico puede hacerse una idea vaga de los wraith presentes."
+        },
+        {
+          "rating": 2,
+          "body_es": "El psíquico ya puede acceder a dos Habilidades simultáneamente, repartiendo los éxitos entre los rasgos deseados. El canalizador también puede distinguir más detalles de las Tierras de las Sombras al mirar a través del Manto. El canalizador puede discernir detalles del paisaje e identificar a fantasmas concretos que estén presentes."
+        },
+        {
+          "rating": 3,
+          "body_es": "Un mayor desarrollo permite ahora canalizar una tercera Habilidad, sujeta a las limitaciones anteriores. El canalizador ya puede comunicarse verbalmente con los fantasmas al otro lado del Manto."
+        },
+        {
+          "rating": 4,
+          "body_es": "El psíquico ya puede acceder a cualquier Talento, Técnica o Conocimiento, manteniendo varios rasgos canalizados a la vez, siempre que obtenga suficientes éxitos en la tirada de activación para cubrir los niveles de rasgo deseados. La comunicación ya no se ve limitada por una breve ventana de accesibilidad, y mirar a través del Manto dura toda una escena."
+        },
+        {
+          "rating": 5,
+          "body_es": "Con una psique fortalecida por numerosas pruebas y tribulaciones, el psíquico está lo bastante fortalecido como para canalizar ya a dos personalidades separadas a la vez. Nótese que cada wraith canalizado sigue requiriendo su propio coste y su propia tirada de poder. Si la Habilidad canalizada es la misma en ambos usos, los dados de bonificación de ambos usos se suman a las reservas de dados que utilicen ese Talento, Técnica o Conocimiento."
+        }
+      ]
+    },
     "sources": [
       {
         "book_id": "m20-sorcerer",
@@ -38123,7 +38238,30 @@
     "tags": [
       "psíquico"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Experimentar ubicaciones remotas es algo nuevo para el psíquico, y la mayoría de las observaciones son interpretativas. Esta impresión puede ser una sensación física de acero frío en el caso de un cuchillo, el olor a pólvora en el de las armas de fuego, o la visión de una caseta de perro en el de perros guardianes. En algunos casos se puede lograr una imagen real del sujeto, pero esta será, en el mejor de los casos, difusa. La única excepción es el oído. Los sonidos llegan a través del puente mental distorsionados e ininteligibles, si es que llegan a oírse siquiera. Más éxitos otorgan sensaciones simbólicas más literales, y con cinco éxitos se logra una percepción visual real del objetivo, por borrosa que sea. Los sentidos tienen un alcance limitado para los novatos, y llegan aproximadamente a una milla alrededor del psíquico. Reenfocar requiere otra tirada de Fuerza de Voluntad y otro gasto de Fuerza de Voluntad para consolidar su nuevo sujeto remoto."
+        },
+        {
+          "rating": 2,
+          "body_es": "La visión remota se vuelve más fiable, aunque sigue envuelta en una leve distorsión o bruma. El sonido llega con mucha más frecuencia, con posibilidades de ser lo bastante claro como para entenderse. Tres éxitos en la prueba de Fuerza de Voluntad proporcionan una imagen casi nítida del sujeto con sonidos distorsionados, mientras que cinco éxitos otorgan una claridad cristalina y sonidos inteligibles capaces de transmitir el tema general y el ambiente de las conversaciones cercanas al sujeto. El psíquico ya puede extender sus sentidos más lejos, hasta diez millas de su ubicación actual. La dificultad de la tirada aumenta en uno más allá de las 5 millas y en dos a partir de las 8 millas."
+        },
+        {
+          "rating": 3,
+          "body_es": "La claridad deja de ser un problema, y la percepción remota transmite vista y oído a través de la distancia sin distorsión. El clarividente desbloquea una nueva vía de percepción clarificada en el sentido del tacto. 'Tocar' psíquicamente a un sujeto lejano devuelve sensaciones amortiguadas, como si sus manos estuvieran envueltas en gruesos guantes. Al dejar de ser un problema la claridad, ahora son los éxitos los que definen la distancia que puede alcanzar un clarisintiente, y cada éxito representa diez millas de alcance. En este punto, sigue siendo necesaria una nueva tirada de Fuerza de Voluntad para reenfocar, pero ya no cuesta un esfuerzo adicional realizarla."
+        },
+        {
+          "rating": 4,
+          "body_es": "La vista, el oído y el tacto quedan ya dentro del ámbito del vidente remoto. El clarividente también empieza a percibir olores y sabores, detectando aromas y sabores intensos cuando estén presentes en abundancia. El alcance se multiplica ahora por diez, y cada éxito equivale a 100 millas de alcance."
+        },
+        {
+          "rating": 5,
+          "body_es": "El maestro clarisintiente puede observar remotamente una ubicación como si estuviera de pie en la propia sala. Los cinco sentidos se reciben con una definición exacta, sin que ningún secreto escape a su percepción. El alcance se vuelve a multiplicar por diez, y cada éxito extiende su alcance en 1000 millas. Por último, siempre que el psíquico reenfoque un elemento que pueda ver dentro de su visión clarividente"
+        }
+      ]
+    },
     "sources": [
       {
         "book_id": "m20-sorcerer",
@@ -38167,7 +38305,30 @@
     "tags": [
       "psíquico"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Las defensas son escasas, pero existen. El Psíquico recibe 2 dados para contrarrestar fenómenos de ataque mental y 1 dado para ataques mentales de otras fuentes. En este punto, los Escudos están siempre activos y no pueden distinguir entre efectos amistosos y hostiles. El psíquico puede bajar sus Escudos Mentales para permitir el acceso a un psíquico amistoso, pero esto lo deja expuesto a cualquier otra capacidad mental que se use antes de volver a levantarlos."
+        },
+        {
+          "rating": 2,
+          "body_es": "Se construyen capas de caos mental o muros más gruesos de la mente. El psíquico recibe 4 dados para contrarrestar fenómenos de ataque mental y 2 dados para ataques mentales de otras fuentes."
+        },
+        {
+          "rating": 3,
+          "body_es": "La mente del psíquico es un caos confuso o un búnker sólido para cualquier invasor. El psíquico recibe 6 dados para contrarrestar fenómenos de ataque mental y 3 dados para ataques mentales de otras fuentes. En este nivel se hace evidente la capacidad de modular los propios Escudos Mentales. Siempre que se presente una capacidad mental que intente interactuar con la mente del psíquico protegido, el objetivo puede decidir si la deja pasar a través de sus escudos o no. Nótese que esto no identifica cada capacidad usada, sino simplemente que se está intentando acceder a la mente del psíquico. Depende del razonamiento deductivo del objetivo averiguar quién se encuentra ante sus puertas mentales."
+        },
+        {
+          "rating": 4,
+          "body_es": "Un baluarte mental o un desconcertante fangal de pensamientos dispersos recibe a los intrusos. El psíquico recibe 8 dados para contrarrestar fenómenos de ataque mental y 4 dados para ataques mentales de otras fuentes."
+        },
+        {
+          "rating": 5,
+          "body_es": "La fortaleza mental del psíquico se alza impenetrable, o su laberinto infinito resulta imposible de recorrer. El Psíquico recibe 10 dados para contrarrestar fenómenos de ataque mental y 5 dados para ataques mentales de otras fuentes."
+        }
+      ]
+    },
     "sources": [
       {
         "book_id": "m20-sorcerer",
@@ -38189,7 +38350,30 @@
     "tags": [
       "psíquico"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Intuición: El vidente adquiere un don especial para acertar. En el caso de sucesos puramente aleatorios (loterías, tiradas de dados), las predicciones pueden ser bastante precisas. El psíquico puede saber intuitivamente cuál es la ruta más corta hacia un destino determinado y disfruta de una mayor probabilidad de encuentros fortuitos beneficiosos. El psíquico no experimenta visiones; simplemente 'tiene una corazonada' y acierta muy bien. Incluso con cinco o más éxitos, es poco probable que las predicciones sean del todo exactas."
+        },
+        {
+          "rating": 2,
+          "body_es": "Perspicacia: El psíquico experimenta visiones oníricas tanto durante el sueño como en vigilia. Como los sueños, rara vez son literales. En su lugar, las visiones están impregnadas de metáfora. Un enemigo podría aparecer como un feroz dragón o como figuras con túnicas clandestinas, mientras que un mentor querido podría aparecer como un progenitor fallecido hace tiempo. Las imágenes dependen del paradigma del vidente, y aunque más éxitos ofrecen visiones más detalladas, estas siempre están sujetas a interpretación."
+        },
+        {
+          "rating": 3,
+          "body_es": "Sentido del Peligro: La conexión del vidente con el futuro se convierte en un sistema de alerta temprana. El psíquico lo percibe como cualquier cosa, desde un agudo dolor de cabeza en las sienes hasta calambres o una sensación creciente de pavor. Sea cual sea la manifestación, siempre es la misma para el vidente. Este poder está siempre 'activado', aunque puede verse anulado por ciertos efectos de Esfera o por el Fenómeno Antipsíquico. Cuando algo pasa desapercibido y ataca al psíquico, el Narrador tira la activación del Sentido del Peligro antes de tirar la emboscada. Este poder no le cuesta Fuerza de Voluntad al psíquico para activarse."
+        },
+        {
+          "rating": 4,
+          "body_es": "Claridad: El vidente disfruta de una visión casi perfecta del futuro inmediato. Por cada éxito de activación, los jugadores y el Narrador anuncian sus planes generales de futuro para un asalto. Si el psíquico interfiere con el tiempo, por ejemplo moviéndose tras una cobertura para frustrar un ataque, el futuro cambia, y el psíquico debe reactivar este poder para obtener actualizaciones."
+        },
+        {
+          "rating": 5,
+          "body_es": "Caminos del Tiempo: Un psíquico ve más que solo los resultados más probables y sus probabilidades relativas. Como Perspicacia, pero el psíquico ve el tiempo como caminos divergentes que se ramifican en cada decisión. El vidente identifica puntos de decisión que, de otro modo, parecerían inocuos, antes de que se tomen las decisiones. Esto también permite a un psíquico ver qué sucesos futuros son difíciles de cambiar y cuáles son más maleables."
+        }
+      ]
+    },
     "sources": [
       {
         "book_id": "m20-sorcerer",
@@ -38211,7 +38395,30 @@
     "tags": [
       "psíquico"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Diagnóstico: El sanador diagnostica al instante enfermedades o lesiones mediante la vista o el contacto con la piel. La terminología del diagnóstico depende del conocimiento médico del psíquico; uno con poco conocimiento podría describir el lupus como 'el cuerpo luchando contra sí mismo'. Un psíquico puede usar los éxitos de Diagnóstico en una tirada complementaria (véase Mage 20 p. 389) para tiradas de Medicina. Si se trabaja en equipo, el psíquico puede aportar éxitos a la tirada del profesional médico hasta el valor del psíquico en Medicina."
+        },
+        {
+          "rating": 2,
+          "body_es": "Sueño Restaurador: Con un toque, el sanador enfoca las energías del cuerpo del paciente hacia la curación. Se trata una activación exitosa como un tratamiento médico experto para el daño contundente y letal, y como una estabilización mágica para el daño agravado. El contacto debe durar al menos un minuto, tras el cual el paciente cae en un sueño profundo. Con 3 o más éxitos, el paciente también recupera un punto de Fuerza de Voluntad."
+        },
+        {
+          "rating": 3,
+          "body_es": "Atención Urgente: La capacidad curativa del psíquico ahora facilita la rápida resolución de lesiones leves y venenos. Un psíquico toca al paciente y puede curar hasta sus éxitos de activación en daño contundente, a un ritmo de uno por asalto. Cada dos éxitos pueden reducir en uno el Índice de Toxina de un veneno, droga o enfermedad, hasta un máximo de 3 niveles de reducción."
+        },
+        {
+          "rating": 4,
+          "body_es": "Cuidados Intensivos: El sanador ya puede curar a los heridos de gravedad. El psíquico cura hasta 1 punto de daño letal por éxito de activación, y puede reducir el Índice de Toxina de venenos, drogas y enfermedades en un nivel por éxito. Cada nivel curado tarda 10 minutos, durante los cuales el psíquico debe mantener el contacto físico con el paciente. El proceso resulta claramente sobrenatural para cualquier testigo, ya que las heridas se cierran milagrosamente por sí solas y las sustancias nocivas rezuman a través de la piel del objetivo."
+        },
+        {
+          "rating": 5,
+          "body_es": "Cirugía Psíquica: El psíquico ya puede curar heridas graves, cánceres e infecciones. El psíquico cura hasta 1 punto de daño agravado por éxito. Cada nivel curado tarda 10 minutos, durante los cuales"
+        }
+      ]
+    },
     "sources": [
       {
         "book_id": "m20-sorcerer",
@@ -38233,7 +38440,30 @@
     "tags": [
       "psíquico"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Estado de Trance: El hipnotizador sume a un objetivo dispuesto en un tranquilo estado de trance, aunque no puede darle órdenes. En este estado, el objetivo puede recordar sucesos y detalles con más claridad, y obtiene una reducción de la dificultad, igual a los éxitos de activación, en cualquier tirada relacionada con el recuerdo de memoria, hasta una dificultad mínima de 2. El objetivo también recupera un punto de Fuerza de Voluntad por cada éxito de activación, aunque no puede beneficiarse de nuevo de esta función hasta que haya descansado con normalidad. Se necesitan cinco asaltos para sumir al objetivo en el trance, y este se rompe si alguien lo molesta. El hipnotizador también puede sumirse a sí mismo en un trance."
+        },
+        {
+          "rating": 2,
+          "body_es": "Sugestión: El hipnotizador ordena a un objetivo que realice acciones después de sumirlo en un trance. El psíquico puede dar una orden por éxito, y la orden no puede resultar obviamente"
+        },
+        {
+          "rating": 3,
+          "body_es": "Sugestión Implantada: Un psíquico implanta sugestiones que se activarán fuera del trance. Por cada éxito, el psíquico puede implantar una orden o una condición para activar una orden implantada. Esta condición puede ser un disparador temporal o sensorial. Una de las órdenes puede ser entrar automáticamente en trance bajo una circunstancia especificada. Como con la Sugestión, el intento falla automáticamente si resultaría obviamente en la muerte del objetivo o entra en conflicto con su Naturaleza. Las órdenes no son recurrentes a menos que el hipnotizador gaste un éxito adicional para añadir una condición recurrente."
+        },
+        {
+          "rating": 4,
+          "body_es": "Trance Instantáneo: El psíquico sume instantáneamente en trance a sujetos dispuestos, y puede gastar un punto de Fuerza de Voluntad para sumir en trance a un sujeto reacio, aunque este puede tirar Fuerza de Voluntad (dificultad 7) para resistirse, y cada éxito anula uno de los éxitos de activación del psíquico. El número neto de éxitos de activación determina el número de asaltos que el objetivo permanece en trance. El psíquico puede tirar para activar poderes adicionales a partir de su siguiente turno."
+        },
+        {
+          "rating": 5,
+          "body_es": "Agente Durmiente: El psíquico realiza niveles avanzados de lavado de cerebro y condicionamiento, del tipo que reclaman los gobiernos. El psíquico implanta órdenes para que el objetivo haga cualquier cosa, incluso hasta el punto de la muerte, y el objetivo no recuerda conscientemente nada de lo dicho durante el trance. Este poder tarda 10 minutos en sumir al sujeto en trance, algo que no puede acortarse con el Trance Instantáneo. El objetivo debe oír claramente la voz del psíquico. Los sonidos y distracciones adicionales hacen imposible el uso de este poder, por lo que los psíquicos con esta capacidad suelen designar salas especiales para este fin. El psíquico gasta un punto de Fuerza de Voluntad para usar este poder en un sujeto reacio. Cada éxito de activación permite implantar una orden, y cada orden o condición tarda una hora en implantarse."
+        }
+      ]
+    },
     "sources": [
       {
         "book_id": "m20-sorcerer",
@@ -38321,7 +38551,30 @@
     "tags": [
       "psíquico"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Salto Corto: Alcance de hasta 12 + Inteligencia yardas por asalto."
+        },
+        {
+          "rating": 2,
+          "body_es": "Salto Simple: Alcance de hasta 20 + (3 x Inteligencia) yardas."
+        },
+        {
+          "rating": 3,
+          "body_es": "Salto Largo: Alcance de hasta 40 + (6 x Inteligencia) yardas. El psíquico puede dedicar un asalto a concentrarse y tirar la activación con +1 a la dificultad para duplicar este alcance."
+        },
+        {
+          "rating": 4,
+          "body_es": "Salto: Alcance de hasta 80 + (12 x Inteligencia) yardas. El psíquico puede duplicarlo, igual que con el Salto Largo."
+        },
+        {
+          "rating": 5,
+          "body_es": "Salto de Fe: El psíquico ya no necesita percibir una ubicación estable para psicoportarse hasta ella. El psíquico puede dedicar una escena a estudiar la ubicación, y realizar con éxito una tirada de Percepción + Alerta a dificultad 8 para memorizarla."
+        }
+      ]
+    },
     "sources": [
       {
         "book_id": "m20-sorcerer",
@@ -38343,7 +38596,30 @@
     "tags": [
       "psíquico"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Difuminar los bordes de las sombras proyectadas y perturbar el sonido solo basta para aumentar la eficacia del ocultamiento y la desmoralización. Las sombras se vuelven ligeramente más largas, se extienden algo más, mientras que todos los sonidos quedan inquietantemente amortiguados. Todas las tiradas de Intimidación y Sigilo tienen su dificultad ajustada en -1. Los objetivos distraídos por las sombras que se oscurecen y los sonidos amortiguados sufren +1 a la dificultad en todas las tiradas que dependan de la vista y el oído."
+        },
+        {
+          "rating": 2,
+          "body_es": "Las sombras ahora crecen y se doblegan a la voluntad del psíquico. Los sonidos ahora se distorsionan y confunden, con la calidad de sonar a través de un altavoz reventado. El psíquico encarna el dicho de 'oscurecer el umbral', ya que las salas pierden luz cuando llega. Las tiradas de Intimidación y Sigilo se realizan a -2 de dificultad."
+        },
+        {
+          "rating": 3,
+          "body_es": "Las sombras no solo se oscurecen más, sino que ahora los esfuerzos del psíquico hacen que las fuentes de luz pierdan potencia. El sonido viaja por la sala en trémolos erráticos, y las palabras que resultan inteligibles llegan con un retraso perceptible respecto a quien habla. Los intentos de ver al psíquico oculto sufren +3 a la dificultad. Los angustiados empiezan a sentir una ansiedad creciente y deben realizar una tirada de Fuerza de Voluntad (dificultad 7) para evitar el pánico, sufriendo una penalización de -1 a todas las acciones que no impliquen abandonar la escena si fallan."
+        },
+        {
+          "rating": 4,
+          "body_es": "Extendiendo su don de refugio oscuro, el psíquico ya puede ocultar a un pequeño grupo de tres o cuatro personas, e incluso un pequeño turismo o sedán."
+        },
+        {
+          "rating": 5,
+          "body_es": "En entornos donde la oscuridad ya habita, el psíquico es el amo. Situarse en un lugar donde las condiciones favorezcan las sombras da al psíquico la oportunidad de sofocar toda la luz a su alrededor hasta 50 pies. La oscuridad es casi impenetrable para quienes no tienen visión mística, ya que incluso las linternas de alta potencia son engullidas por la negrura tintada. Todo lo que se encuentra dentro queda completamente envuelto e invisible tanto para el exterior como para los demás en el interior, salvo para el psíquico. Al fin y al cabo, la oscuridad es suya."
+        }
+      ]
+    },
     "sources": [
       {
         "book_id": "m20-sorcerer",
@@ -38387,7 +38663,30 @@
     "tags": [
       "psíquico"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Todos los telépatas comienzan percibiendo los pensamientos y emociones superficiales de un sujeto. Las emociones incluyen el estado de ánimo actual, el deseo inmediato y el bienestar mental. Los pensamientos superficiales son canciones que se les quedan grabadas en la cabeza, el recuerdo activo de cosas como una lista de la compra o un código que están tecleando, o lo que creen que era ese olor que acaban de percibir."
+        },
+        {
+          "rating": 2,
+          "body_es": "Los pensamientos internos se abren al telépata. Por cada éxito en la tirada de activación, el telépata puede hacer una única pregunta sobre las cavilaciones subyacentes del objetivo. Estas respuestas tienen una frase de longitud y son lo más directas posible. Los pensamientos internos incluyen inclinaciones políticas, libros o películas favoritas, o recuerdos recientes."
+        },
+        {
+          "rating": 3,
+          "body_es": "Los pensamientos más profundos quedan al descubierto para el telépata. Como en los niveles anteriores, cada éxito en la tirada de activación permite hacer una única pregunta que el objetivo responde. Estas respuestas pueden ser más detalladas cuando el tema de la pregunta no es un secreto muy bien guardado. Los pensamientos más profundos incluyen recuerdos de los últimos 5 años, contraseñas de cuentas de redes sociales y tarjetas bancarias, y los nombres de todos los miembros de su familia, tanto cercana como extensa."
+        },
+        {
+          "rating": 4,
+          "body_es": "Los pensamientos subconscientes y los rincones más profundos de la mente quedan al alcance del telépata. Cada éxito en la tirada de activación permite hacer una única pregunta que responde el Narrador. Nada dentro de la mente queda fuera de los límites en este punto. Los recuerdos que se remontan a la infancia, códigos olvidados de instalaciones en las que solían trabajar, e incluso pensamientos que se niegan a sí mismos sobre sus seres queridos, todo vale."
+        },
+        {
+          "rating": 5,
+          "body_es": "Por insidioso que resulte, el telépata ya puede implantar pensamientos subversivos en las mentes de sus objetivos. Estos pensamientos pueden ser de cualquier tipo, pero cualquier línea de pensamiento que no estuviera ya presente en la mente del objetivo requiere una tirada de Manipulación + Subterfugio (dificultad 7) para implantar pensamientos que complementen la personalidad y los deseos del objetivo. Los pensamientos implantados que vayan en contra de la personalidad y los deseos del objetivo sufren +2 a la dificultad de la tirada. Si estos pensamientos arraigan, el objetivo empezará a actuar conforme a ellos en la primera ocasión oportuna, convencido de que los pensamientos son suyos."
+        }
+      ]
+    },
     "sources": [
       {
         "book_id": "m20-sorcerer",

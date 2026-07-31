@@ -67,7 +67,7 @@ export const TYPE_INFO: Record<string, TypeInfo> = {
   paradigm: { label_es: 'Paradigma', mechanical_fields: ['associated_practices'] },
   'path-of-enlightenment': { label_es: 'Senda de Iluminación', mechanical_fields: ['nickname', 'virtues', 'bearing', 'ethics', 'hierarchy_of_sins'] },
   practice: { label_es: 'Práctica', mechanical_fields: ['associated_abilities', 'associated_paradigms', 'common_instruments'] },
-  'psychic-phenomenon': { label_es: 'Fenómeno Psíquico', mechanical_fields: [] },
+  'psychic-phenomenon': { label_es: 'Fenómeno Psíquico', mechanical_fields: ['ratings'] },
   realm: { label_es: 'Reino', mechanical_fields: ['levels'] },
   relic: { label_es: 'Reliquia', mechanical_fields: ['rating', 'item_type', 'effect'] },
   resonance: { label_es: 'Resonancia', mechanical_fields: ['flavor', 'descripciones'] },
