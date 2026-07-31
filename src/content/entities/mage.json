@@ -11578,7 +11578,53 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 10
+      "rating_max": 10,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Esas copias de Cosmo no te ayudarán a aprender Esferas."
+        },
+        {
+          "rating": 1,
+          "body_es": "Tienes unos pocos libros de bolsillo de la Nueva era."
+        },
+        {
+          "rating": 2,
+          "body_es": "Mucha ficción, poca substancia."
+        },
+        {
+          "rating": 3,
+          "body_es": "Hay alguna cosa útil cuando buscas en ella."
+        },
+        {
+          "rating": 4,
+          "body_es": "Tu colección de información arcana es respetable."
+        },
+        {
+          "rating": 5,
+          "body_es": "Tienes una colección muy decente de diversos saberes."
+        },
+        {
+          "rating": 6,
+          "body_es": "Gozas de un vasto archivo personal."
+        },
+        {
+          "rating": 7,
+          "body_es": "Tu base de datos cuenta con extensa información escrita, grabada y virtual."
+        },
+        {
+          "rating": 8,
+          "body_es": "Tienes pleno acceso a un archivo nacional."
+        },
+        {
+          "rating": 9,
+          "body_es": "Gozas de acceso ilimitado a bases de datos personales, nacionales y clasificadas."
+        },
+        {
+          "rating": 10,
+          "body_es": "Si tienes tiempo (y ayuda) suficientes, puedes acceder a casi cualquier cosa escrita y almacenada. Podrías no entenderlo (¡malditos códigos, lenguas perdidas e idiomas extranjeros!), pero probablemente podrás encontrarlo."
+        }
+      ]
     },
     "sources": [
       {
@@ -12177,7 +12223,53 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 10
+      "rating_max": 10,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Ninguna influencia digna de mención."
+        },
+        {
+          "rating": 1,
+          "body_es": "La gente de tu profesión te reconoce."
+        },
+        {
+          "rating": 2,
+          "body_es": "Tienes varios asociados y un cierto nivel de peso."
+        },
+        {
+          "rating": 3,
+          "body_es": "La gente de tu campo respeta tus habilidades."
+        },
+        {
+          "rating": 4,
+          "body_es": "Tienes mucho peso."
+        },
+        {
+          "rating": 5,
+          "body_es": "Eres una fuerza a tener en cuenta."
+        },
+        {
+          "rating": 6,
+          "body_es": "Eres influyente en la política de tu nación."
+        },
+        {
+          "rating": 7,
+          "body_es": "Tus acciones influyen en varias naciones aliadas."
+        },
+        {
+          "rating": 8,
+          "body_es": "Eres muy respetado en regiones culturales enteras."
+        },
+        {
+          "rating": 9,
+          "body_es": "Tu dominio se extiende por esferas sociopolíticas enteras (UE, ONU, CNA, etc.)."
+        },
+        {
+          "rating": 10,
+          "body_es": "Tu influencia se extiende por todo el mundo mortal y hasta recibes cierto respeto incluso en los Otros Mundos."
+        }
+      ]
     },
     "sources": [
       {

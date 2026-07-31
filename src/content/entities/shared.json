@@ -5419,7 +5419,29 @@
       "talento-secundario"
     ],
     "mechanics": {
-      "category": "talent"
+      "category": "talent",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Insecto (hormiga, saltamontes, mantis, cucaracha, etc.): Iniciado en los secretos más simples del Do, has comenzado a aprender los métodos adecuados de dieta, meditación y ejercicio."
+        },
+        {
+          "rating": 2,
+          "body_es": "Reptador (lagarto, serpiente, sapo, etc.): Como las bestias que reptan sobre la tierra, has comenzado a descubrir las claves para un estado superior. Tu cuerpo, mente y espíritu han alcanzado una especie de unidad; con tal comprensión, eres capaz de impresionantes proezas."
+        },
+        {
+          "rating": 3,
+          "body_es": "Animal Cuadrúpedo (caballo, perro, gato, etc.): Como las grandes bestias, has liberado el poder del logro natural. Tus manos se vuelven garras o pezuñas; tu cuerpo se dispara con una fuerza desconocida para la mayoría de los que se considerarían humanos. Este es el mayor nivel alcanzado por muchos devotos, el grado de un Tao-shih consumado."
+        },
+        {
+          "rating": 4,
+          "body_es": "Animal Bípedo (mono, oso, simio, etc.): Mediante un gran esfuerzo y comprensión, has abierto las puertas que mantienen a los seres inferiores en su estado distraído. Tu cuerpo, mente y espíritu pueden lograr cosas milagrosas y te has ganado el derecho de ser considerado un auténtico heredero del Do, un Sihing. Superar este punto requiere una devoción suprema y una práctica que normalmente lleva vidas perfeccionar."
+        },
+        {
+          "rating": 5,
+          "body_es": "Verdadera Humanidad: Tu devoción te ha devuelto al estado original de la gracia humana. En este punto, ya no te preocupa qué puede hacerse, sino tan sólo qué debería hacerse. Sólo ahora puedes ser considerado un Sifu: un Maestro del Camino."
+        }
+      ]
     },
     "sources": [
       {
