@@ -75,7 +75,7 @@ export const TYPE_INFO: Record<string, TypeInfo> = {
   rite: { label_es: 'Rito', mechanical_fields: ['level', 'roll', 'type_label', 'sistema_es', 'categoria'] },
   ritual: { label_es: 'Ritual', mechanical_fields: ['spheres', 'rank', 'path_es', 'path_en'] },
   rote: { label_es: 'Fórmula', mechanical_fields: ['spheres', 'effect', 'spelltype', 'spheres_note'] },
-  'secondary-ability': { label_es: 'Habilidad secundaria', mechanical_fields: ['category'] },
+  'secondary-ability': { label_es: 'Habilidad secundaria', mechanical_fields: ['category', 'ratings'] },
   'secret-society': { label_es: 'Sociedad secreta', mechanical_fields: ['membership', 'rites', 'boon', 'ban', 'recruitment'] },
   'shadow-archetype': { label_es: 'Arquetipo de la Sombra', mechanical_fields: [] },
   'sorcery-ritual': { label_es: 'Ritual de Hechicería', mechanical_fields: [] },

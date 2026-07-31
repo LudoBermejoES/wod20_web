@@ -5189,7 +5189,29 @@
       "talento-secundario"
     ],
     "mechanics": {
-      "category": "talent"
+      "category": "talent",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Sueles gustarle a los animales domesticados."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Los animales asustadizos suelen confiar en ti."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Los animales salvajes tienden a respetarte."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: La gente te llama 'el que Susurra a los Animales'."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Pareces más próximo a los animales que a los seres humanos."
+        }
+      ]
     },
     "sources": [
       {
@@ -5213,7 +5235,29 @@
       "talento-secundario"
     ],
     "mechanics": {
-      "category": "talent"
+      "category": "talent",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: '¡YOLO!' [N.d.T.: Sólo vives una vez]."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: 'Baila un poco / Haz un poco el amor / Baja esta noche…'."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: 'Peca para que puedas ser perdonado'."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: 'La única blasfemia real es rechazar el gozo'."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: '«Haz lo que quieras» debería ser la única ley'."
+        }
+      ]
     },
     "sources": [
       {
@@ -5261,7 +5305,29 @@
       "talento-secundario"
     ],
     "mechanics": {
-      "category": "talent"
+      "category": "talent",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Eres bueno encontrando cosas perdidas."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Las pistas parecen saltar hacia ti."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: El último lugar donde la gente miraría es el primero que intentas."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Los profesionales te consultan cuando hay que encontrar algo o a alguien."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Tu don para encontrar cosas parece claramente sobrenatural… y probablemente lo sea."
+        }
+      ]
     },
     "sources": [
       {
@@ -5405,7 +5471,29 @@
       "tecnica-secundaria"
     ],
     "mechanics": {
-      "category": "skill"
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Saltimbanqui experimentado."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Gimnasta de instituto."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Acróbata profesional."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Contendiente olímpico."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Artista del Circo del Sol."
+        }
+      ]
     },
     "sources": [
       {
@@ -5429,7 +5517,29 @@
       "tecnica-secundaria"
     ],
     "mechanics": {
-      "category": "skill"
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Stormtrooper del Imperio."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Tirador competente."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Operativo de campo Tecnocrático normal."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Operativo de élite."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: 'Un rifle fasado de plasma del 48…'."
+        }
+      ]
     },
     "sources": [
       {
@@ -5453,7 +5563,29 @@
       "tecnica-secundaria"
     ],
     "mechanics": {
-      "category": "skill"
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Tienes una comprensión básica de los principios biotecnológicos y has visto el diseño e implementación de tal tecnología. Pese a tu falta de experiencia, puedes hacer reparaciones muy simples si es necesario."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Ahora tienes experiencia para hacer reparaciones básicas y puedes diseñar e instalar máquinas biotecnológicas simples."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Perfeccionado por el estudio, el trabajo de campo y la experimentación de laboratorio, eres realmente bueno en cuanto a la tecnología cibernética."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Eres lo bastante bueno para crear, instalar y mantener diseños radicales, realizar grandes reparaciones de tecnología existente y emplear casi cualquier Dispositivo o Procedimiento dentro de tu campo (las cosas raras de esos Eteritas chiflados probablemente están más allá de tu alcance… pero en serio, ¿entiende de verdad alguien a esos bastardos pirados?)."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Podrías comparar notas con Tony Stark."
+        }
+      ]
     },
     "sources": [
       {
@@ -5477,7 +5609,29 @@
       "tecnica-secundaria"
     ],
     "mechanics": {
-      "category": "skill"
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Turista de rancho."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Jinete experimentado."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Jinete profesional."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Domador de caballos salvajes."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: ¡Cabalga al tigre, ne-naaaaaa!"
+        }
+      ]
     },
     "sources": [
       {
@@ -5501,7 +5655,29 @@
       "tecnica-secundaria"
     ],
     "mechanics": {
-      "category": "skill"
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Entiendes las teorías básicas de ciencias alternativas."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: 'Esotérico' es sólo otra palabra para lo obvio."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Puedes entender las perversiones tecnológicas de otros grupos."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Las tecnologías de tus enemigos y rivales bailan al son que les programas."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Tu comprensión del universo es tan rica que pocas tecnologías eluden tus órdenes."
+        }
+      ]
     },
     "sources": [
       {
@@ -5549,7 +5725,29 @@
       "tecnica-secundaria"
     ],
     "mechanics": {
-      "category": "skill"
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Niño en clase de tiro con arco."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Arquero de un grupo de recreación histórica."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Cazador con arco."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Katniss Everdeen."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Legolas."
+        }
+      ]
     },
     "sources": [
       {
@@ -5573,7 +5771,29 @@
       "tecnica-secundaria"
     ],
     "mechanics": {
-      "category": "skill"
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Abusón de patio."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Poli malo."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Interrogador de operativos encubiertos."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Dominatrix"
+        },
+        {
+          "rating": 5,
+          "body_es": "de élite."
+        }
+      ]
     },
     "sources": [
       {
@@ -5597,7 +5817,29 @@
       "conocimiento-secundario"
     ],
     "mechanics": {
-      "category": "knowledge"
+      "category": "knowledge",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Aficionado: Has analizado la zona en cuestión."
+        },
+        {
+          "rating": 2,
+          "body_es": "Estudiante: Has vivido allí un tiempo."
+        },
+        {
+          "rating": 3,
+          "body_es": "Erudito: Has pasado mucho tiempo aprendiendo los secretos locales."
+        },
+        {
+          "rating": 4,
+          "body_es": "Profesor: No hay mucho sobre el lugar que no conozcas."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: 'Mi ciudad me llama, y yo contesto…'."
+        }
+      ]
     },
     "sources": [
       {
@@ -5621,7 +5863,29 @@
       "conocimiento-secundario"
     ],
     "mechanics": {
-      "category": "knowledge"
+      "category": "knowledge",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Aficionado: Aficionado a las novelas de espías."
+        },
+        {
+          "rating": 2,
+          "body_es": "Estudiante: Ingeniero de señales militar."
+        },
+        {
+          "rating": 3,
+          "body_es": "Erudito: Operativo de Inteligencia."
+        },
+        {
+          "rating": 4,
+          "body_es": "Profesor: Especialista en cifrado."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Descifrador supremo."
+        }
+      ]
     },
     "sources": [
       {
@@ -5645,7 +5909,29 @@
       "conocimiento-secundario"
     ],
     "mechanics": {
-      "category": "knowledge"
+      "category": "knowledge",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Modelaje, fuegos artificiales y tú."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: ¡Anarquía!"
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Has entrenado con compuestos y artefactos explosivos y las precauciones relacionadas."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: 'Apártense: soy un profesional'."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Un maestro del desastre, puedes desactivar y crear un amplio espectro de artefactos explosivos."
+        }
+      ]
     },
     "sources": [
       {
@@ -5669,7 +5955,29 @@
       "conocimiento-secundario"
     ],
     "mechanics": {
-      "category": "knowledge"
+      "category": "knowledge",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Aficionado: Traficante callejero."
+        },
+        {
+          "rating": 2,
+          "body_es": "Estudiante: Estudiante de farmacia o sabio herbalista."
+        },
+        {
+          "rating": 3,
+          "body_es": "Erudito: Dr. Timothy Leary."
+        },
+        {
+          "rating": 4,
+          "body_es": "Profesor: Experimentado con compuestos místicos, esotéricos e hipertecnológicos."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Farmacopeísta de renombre."
+        }
+      ]
     },
     "sources": [
       {
@@ -5693,7 +6001,29 @@
       "conocimiento-secundario"
     ],
     "mechanics": {
-      "category": "knowledge"
+      "category": "knowledge",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Aficionado: Inversor listo."
+        },
+        {
+          "rating": 2,
+          "body_es": "Estudiante: Empleado de banco."
+        },
+        {
+          "rating": 3,
+          "body_es": "Erudito: Corredor de bolsa profesional."
+        },
+        {
+          "rating": 4,
+          "body_es": "Profesor: Brujo de Wall Street."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: El poder tras el trono."
+        }
+      ]
     },
     "sources": [
       {
@@ -5717,7 +6047,29 @@
       "conocimiento-secundario"
     ],
     "mechanics": {
-      "category": "knowledge"
+      "category": "knowledge",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Aficionado: Estudiante de Comunicación y Medios Digitales."
+        },
+        {
+          "rating": 2,
+          "body_es": "Estudiante: Reportero."
+        },
+        {
+          "rating": 3,
+          "body_es": "Erudito: Periodista de carrera."
+        },
+        {
+          "rating": 4,
+          "body_es": "Profesor: Mandamás de una cadena."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Rupert Murdoch."
+        }
+      ]
     },
     "sources": [
       {
