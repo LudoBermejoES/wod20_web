@@ -2993,7 +2993,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Un Artefacto en apariencia insignificante."
+        },
+        {
+          "rating": 2,
+          "body_es": "Un Artefacto menor, como una brújula que siempre señala a Estigia."
+        },
+        {
+          "rating": 3,
+          "body_es": "Un Artefacto con algún propósito, como una espada de acero estigio."
+        },
+        {
+          "rating": 4,
+          "body_es": "Un Artefacto importante y singular que a la Jerarquía le encantaría poseer (por ejemplo, una pistola que no necesita balas Reliquia)."
+        },
+        {
+          "rating": 5,
+          "body_es": "El objeto más útil y poderoso, la envidia de todos los demás wraiths."
+        }
+      ]
     },
     "sources": [
       {
@@ -3109,7 +3131,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Un iniciado de algún tipo. Probablemente eres responsable de deberes desagradables, pero al menos se te reconoce como parte del grupo."
+        },
+        {
+          "rating": 2,
+          "body_es": "Tras demostrar devoción por el grupo, has sido elegido para una posición de cierta responsabilidad."
+        },
+        {
+          "rating": 3,
+          "body_es": "Estás en los nebulosos rangos intermedios. Ni tan abajo como para que te mangoneen, ni tan arriba como para mangonear tú. Es un lugar peligroso en el que estar, pero tiene muchas recompensas."
+        },
+        {
+          "rating": 4,
+          "body_es": "Este nivel de Estatus representa el nivel de la administración y el privilegio. Puedes acceder a los recursos del grupo y sus líderes confían en ti."
+        },
+        {
+          "rating": 5,
+          "body_es": "Es improbable que los personajes jugadores lleguen nunca por encima de aquí. Al haber ganado un poder y respeto significativos, eres un líder."
+        }
+      ]
     },
     "sources": [
       {
@@ -3179,7 +3223,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Una persona te recuerda. Quizás haya un recordatorio tuyo junto a una carretera en alguna parte."
+        },
+        {
+          "rating": 2,
+          "body_es": "Un puñado de gente te recuerda a veces."
+        },
+        {
+          "rating": 3,
+          "body_es": "Un trozo de autopista lleva tu nombre, o quizás un querido parque."
+        },
+        {
+          "rating": 4,
+          "body_es": "Una comunidad, organización o compañía te tienen en su cuadro de honor, o maldicen tu nombre."
+        },
+        {
+          "rating": 5,
+          "body_es": "Tienes estatus de leyenda en toda una nación (o más). Es mucho más fácil alcanzar este nivel de reconocimiento de forma negativa que positiva."
+        }
+      ]
     },
     "sources": [
       {

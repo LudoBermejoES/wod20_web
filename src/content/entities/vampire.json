@@ -172,7 +172,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Un simple y pequeño edificio, como"
+        },
+        {
+          "rating": 2,
+          "body_es": "Una iglesia, fábrica, almacén, bloque de pisos u otra estructura grande, una ubicación con un acceso directo pero fácilmente controlable al mundo exterior."
+        },
+        {
+          "rating": 3,
+          "body_es": "Torre, manzana de casas o una intersección importante, una ubicación o área que ofrezca zonas para ocultarse así como un acceso controlado."
+        },
+        {
+          "rating": 4,
+          "body_es": "Una sección de alcantarillas, una red de túneles de servicio, un enclave de hogares en una colina sobre la ciudad, un lugar con rasgos defensivos inherentes, como una aislada carretera de montaña, acceso mediante un solo puente o fuerza de seguridad privada."
+        },
+        {
+          "rating": 5,
+          "body_es": "Un barrio entero, una subdivisión étnica como 'Chinatown' o 'Little Italy', o todo un suburbio."
+        }
+      ]
     },
     "sources": [
       {

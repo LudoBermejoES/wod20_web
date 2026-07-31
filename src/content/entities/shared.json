@@ -5377,19 +5377,19 @@
       "ratings": [
         {
           "rating": 1,
-          "body_es": "Novato: 'No, en serio, estamos grabando un vídeo'."
+          "body_es": "| Novato: 'No, en serio, estamos grabando un vídeo'. |"
         },
         {
           "rating": 2,
-          "body_es": "Ejercitado: 'Eso sólo parecía fácil. Me costó años averiguar cómo hacer ese truco'."
+          "body_es": "| Ejercitado: 'Eso sólo parecía fácil. Me costó años averiguar cómo hacer ese truco'. |"
         },
         {
           "rating": 3,
-          "body_es": "Talentoso: 'Todas las explicaciones y permisos necesarios están en nuestra página web'."
+          "body_es": "| Talentoso: 'Todas las explicaciones y permisos necesarios están en nuestra página web'. |"
         },
         {
           "rating": 4,
-          "body_es": "Experto: 'Hicimos este truco en Cazadores de Mitos '."
+          "body_es": "| Experto: 'Hicimos este truco en Cazadores de Mitos '. |"
         },
         {
           "rating": 5,
@@ -5467,7 +5467,29 @@
       "talento-secundario"
     ],
     "mechanics": {
-      "category": "talent"
+      "category": "talent",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Eres consciente de tus sueños y puedes recordarlos si quieres."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Puedes intentar soñar un sueño concreto."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Tienes algún control sobre tus sueños."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Sabes cómo influir e interpretar sueños y aspectos de tu yo interior."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Entiendes los elementos metafísicos de los sueños y puedes manipularlos, recordarlos, inspirarlos o compartirlos a voluntad."
+        }
+      ]
     },
     "sources": [
       {
@@ -5837,7 +5859,29 @@
       "tecnica-secundaria"
     ],
     "mechanics": {
-      "category": "skill"
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Abusón de patio."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Poli malo."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Interrogador de operativos encubiertos."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Dominatrix"
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Doctor nazi, inquisidor español o asesino en serie."
+        }
+      ]
     },
     "sources": [
       {
