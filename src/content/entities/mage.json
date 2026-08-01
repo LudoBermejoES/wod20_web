@@ -11764,12 +11764,58 @@
     "line": "mage",
     "name_en": "Contactos",
     "name_es": "Contactos",
-    "body_es": "Conoces a gente que sabe cosas. Aunque tales contactos no son tan útiles o fiables como los [Aliados](/mage/backgrounds/allies), pueden ayudarte a extraer información, difundir mensajes, mover los hilos y pedir pequeños favores (conseguir entradas para un concierto en el que ya se han agotado, localizar un apartamento barato para alquilar, conseguir una reunión con el jefe de policía, etc.). Naturalmente, esa gente también querrá tu ayuda de vez en cuando. Siempre y cuando una espalda rasque a la otra, esta gente puede resultar muy útil.\n\nLa naturaleza de tu Trasfondo Contactos depende del Concepto e historia de tu personaje. La chica huida de casa llamada Jinx, por ejemplo, tendría contactos entre la gente de la calle, mientras que el ejecutivo Malcolm tiene contactos en el mundo de los negocios. En su área de experiencia, los contactos pueden encontrar o proporcionar la información adecuada. Jinx puede aprender cómo hacer el puente a un coche y Malcolm puede obtener información sobre acciones de empresas automovilísticas, pero probablemente ni Jinx ni Malcolm conocerán a alguien que pueda rastrear la matrícula de un coche. Si buscas contactos fuera de tu especialidad, siempre podrías buscar algunos nuevos o podrías usar los que tienes para encontrar lo que necesitas (en términos de juego, la segunda opción aumenta la dificultad de tu tirada en +2 o más).\n\nCuando llames a tus contactos, tira el Atributo Social adecuado + Contactos. La dificultad depende de la naturaleza de la información que tratas de divulgar o el [favor](/mage/merits/favor) que intentas obtener. Si tienes éxito obtienes lo que necesitabas, pero si fallas, obtienes información errónea, un mensaje deformado o nada de nada. Un fracaso significa que has cabreado a alguien: o bien tu contacto te vende o te manda a la mierda, tras lo cual se aparta de tu red por un tiempo.\n\nCada punto en este Rasgo refleja un gran Contacto, un personaje desarrollado como un Aliado. Podrías también establecer contactos casuales superando una tirada de un Rasgo Social o Mental + Contactos, pero costará más trabajar con estas fuentes (la tirada tiene mayor dificultad) y no son tan fiables en lo que respecta a información sensible.\n\nEste Trasfondo puede superar los cinco puntos. Para redes de información que tratan con información sensible o secreta, ver el Trasfondo [Espías](/mage/backgrounds/spies) .\n\nX\n\nNada, todo depende de ti.\n\n•\n\nUn contacto.\n\n••\n\nDos contactos.\n\n•••\n\nTres contactos.\n\n••••\n\nCuatro contactos.\n\n•••••\n\nCinco contactos.\n\n<!-- image -->\n\n•••••\n\n•\n\nSeis contactos.\n\n•••••\n\n••\n\nSiete contactos.\n\n•••••\n\n•••\n\nOcho contactos.\n\n•••••\n\n••••\n\nNueve contactos.\n\n•••••\n\n•••••\n\nDiez contactos.",
+    "body_es": "Conoces a gente que sabe cosas. Aunque tales contactos no son tan útiles o fiables como los [Aliados](/mage/backgrounds/allies), pueden ayudarte a extraer información, difundir mensajes, mover los hilos y pedir pequeños favores (conseguir entradas para un concierto en el que ya se han agotado, localizar un apartamento barato para alquilar, conseguir una reunión con el jefe de policía, etc.). Naturalmente, esa gente también querrá tu ayuda de vez en cuando. Siempre y cuando una espalda rasque a la otra, esta gente puede resultar muy útil.\n\nLa naturaleza de tu Trasfondo Contactos depende del Concepto e historia de tu personaje. La chica huida de casa llamada Jinx, por ejemplo, tendría contactos entre la gente de la calle, mientras que el ejecutivo Malcolm tiene contactos en el mundo de los negocios. En su área de experiencia, los contactos pueden encontrar o proporcionar la información adecuada. Jinx puede aprender cómo hacer el puente a un coche y Malcolm puede obtener información sobre acciones de empresas automovilísticas, pero probablemente ni Jinx ni Malcolm conocerán a alguien que pueda rastrear la matrícula de un coche. Si buscas contactos fuera de tu especialidad, siempre podrías buscar algunos nuevos o podrías usar los que tienes para encontrar lo que necesitas (en términos de juego, la segunda opción aumenta la dificultad de tu tirada en +2 o más).\n\nCuando llames a tus contactos, tira el Atributo Social adecuado + Contactos. La dificultad depende de la naturaleza de la información que tratas de divulgar o el [favor](/mage/merits/favor) que intentas obtener. Si tienes éxito obtienes lo que necesitabas, pero si fallas, obtienes información errónea, un mensaje deformado o nada de nada. Un fracaso significa que has cabreado a alguien: o bien tu contacto te vende o te manda a la mierda, tras lo cual se aparta de tu red por un tiempo.\n\nCada punto en este Rasgo refleja un gran Contacto, un personaje desarrollado como un Aliado. Podrías también establecer contactos casuales superando una tirada de un Rasgo Social o Mental + Contactos, pero costará más trabajar con estas fuentes (la tirada tiene mayor dificultad) y no son tan fiables en lo que respecta a información sensible.\n\nEste Trasfondo puede superar los cinco puntos. Para redes de información que tratan con información sensible o secreta, ver el Trasfondo [Espías](/mage/backgrounds/spies) .\n\n<!-- image -->\n",
     "tags": [
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 10
+      "rating_max": 10,
+      "ratings": [
+        {
+          "rating": 0,
+          "body_es": "Nada, todo depende de ti."
+        },
+        {
+          "rating": 1,
+          "body_es": "Un contacto."
+        },
+        {
+          "rating": 2,
+          "body_es": "Dos contactos."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tres contactos."
+        },
+        {
+          "rating": 4,
+          "body_es": "Cuatro contactos."
+        },
+        {
+          "rating": 5,
+          "body_es": "Cinco contactos."
+        },
+        {
+          "rating": 6,
+          "body_es": "Seis contactos."
+        },
+        {
+          "rating": 7,
+          "body_es": "Siete contactos."
+        },
+        {
+          "rating": 8,
+          "body_es": "Ocho contactos."
+        },
+        {
+          "rating": 9,
+          "body_es": "Nueve contactos."
+        },
+        {
+          "rating": 10,
+          "body_es": "Diez contactos."
+        }
+      ]
     },
     "sources": [
       {
@@ -12371,7 +12417,7 @@
         "book_id": "m20-core-rulebook-es",
         "book_title_es": "M20 Core Rulebook (ES)",
         "page": null,
-        "section_anchor": "maravilla",
+        "section_anchor": "maravilla-dispositivo-fetiche-talisman-etc",
         "variant": "base"
       }
     ],
