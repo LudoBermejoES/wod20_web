@@ -5833,7 +5833,29 @@
       "tecnica-secundaria"
     ],
     "mechanics": {
-      "category": "skill"
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: \"¡Ooooooooh, mierdaaaaaaaaaaa!\"."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: \"Esto no es volar: es caer con estilo\"."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Experimentado y controlado."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Puedes volar y regresar al suelo intacto."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: \"¡Hasta el infinito y MÁS ALLÁ!\"."
+        }
+      ]
     },
     "sources": [
       {

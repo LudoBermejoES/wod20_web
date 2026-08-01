@@ -152,7 +152,7 @@
     "line": "hunter",
     "name_en": "Biblioteca Ocultista",
     "name_es": "Biblioteca Ocultista",
-    "body_es": "Tu personaje posee una considerable colección de trabajos de saber arcano. Si tiene acceso a su [biblioteca](/hunter/backgrounds/library), puedes disminuir la dificultad de las tiradas relacionadas de Inteligencia, Ocultismo o Investigación en 1 cuando trate de resolver un misterio arcano o aprender más sobre lo oculto. Tener esta [biblioteca](/hunter/backgrounds/library) no convierte al cazador en un experto ocultista de forma automática, sólo significa que tiene un práctico acceso a algo de conocimiento. Si has adquirido la versión de\n\n<!-- image -->",
+    "body_es": "Tu personaje posee una considerable colección de trabajos de saber arcano. Si tiene acceso a su [biblioteca](/hunter/backgrounds/library), puedes disminuir la dificultad de las tiradas relacionadas de Inteligencia, Ocultismo o Investigación en 1 cuando trate de resolver un misterio arcano o aprender más sobre lo oculto. Tener esta [biblioteca](/hunter/backgrounds/library) no convierte al cazador en un experto ocultista de forma automática, sólo significa que tiene un práctico acceso a algo de conocimiento. Si has adquirido la versión de cuatro puntos de este Mérito, tu personaje también tiene un Laboratorio Ocultista abastecido con los raros y extraños ingredientes que podría necesitar en los rituales de sus Númina.",
     "tags": [],
     "mechanics": {
       "cost": "2 o 4"
@@ -2531,7 +2531,7 @@
     "line": "hunter",
     "name_en": "Aptitud Mecánica",
     "name_es": "Aptitud Mecánica",
-    "body_es": "¡Oh, tecnófilo! Has sido bendecido por los dioses de las máquinas y tienes mano para las cosas mecánicas. Como con la mayoría de Méritos de este tipo, tal aptitud te permite reducir la dificultad en 2 cuando hagas tiradas que involucren trabajar con tecnología mecánica. No, no es necesario que seas un tecnomante para usar tal don, mucho menos un miembro de la Tecnocracia; aun así, esta aptitud sugiere que la tecnología mecánica tiene un gran significado para ti, lo que por extensión sugiere que tu paradigma, práctica e instrumentos tienen algo que ver con aplicaciones de principios mecánicos y tecnología. Para algunas sugerencias, ver los paradigmas Un Cosmos Mecánico , La Tecnología Tiene Todas las Respuestas y Todo Es Datos en Mago 20 , pág. 568-570 ,\n\nasí como las prácticas e instrumentos relacionados y el material relacionado en el Capítulo Tres de este libro. Para más aplicaciones prácticas de este Mérito, ver la sección de Mago 20 concerniente al El mundo tecnológico , pág. 458-464 .\n\n<!-- image -->",
+    "body_es": "¡Oh, tecnófilo! Has sido bendecido por los dioses de las máquinas y tienes mano para las cosas mecánicas. Como con la mayoría de Méritos de este tipo, tal aptitud te permite reducir la dificultad en 2 cuando hagas tiradas que involucren trabajar con tecnología mecánica. No, no es necesario que seas un tecnomante para usar tal don, mucho menos un miembro de la Tecnocracia; aun así, esta aptitud sugiere que la tecnología mecánica tiene un gran significado para ti, lo que por extensión sugiere que tu paradigma, práctica e instrumentos tienen algo que ver con aplicaciones de principios mecánicos y tecnología. Para algunas sugerencias, ver los paradigmas Un Cosmos Mecánico , La Tecnología Tiene Todas las Respuestas y Todo Es Datos en Mago 20 , pág. 568-570 , así como las prácticas e instrumentos relacionados y el material relacionado en el Capítulo Tres de este libro. Para más aplicaciones prácticas de este Mérito, ver la sección de Mago 20 concerniente al El mundo tecnológico , pág. 458-464 .",
     "tags": [
       "mental"
     ],
@@ -3414,9 +3414,12 @@
     "name_en": "Secreto Oscuro",
     "name_es": "Secreto Oscuro",
     "body_es": "Tienes algún tipo de secreto que, si fuera descubierto, supondría una enorme vergüenza para ti y te convertiría en un paria en la comunidad de Vástagos local. Podría ser cualquier cosa, desde haber asesinado a un Antiguo hasta haber sido miembro de los Anarquistas.",
-    "tags": [],
+    "tags": [
+      "social"
+    ],
     "mechanics": {
-      "bonus": "1"
+      "bonus": "1",
+      "category": "social"
     },
     "sources": [
       {
