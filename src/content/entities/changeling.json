@@ -2916,7 +2916,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Un Contacto principal."
+        },
+        {
+          "rating": 2,
+          "body_es": "Dos Contactos principales."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tres Contactos principales."
+        },
+        {
+          "rating": 4,
+          "body_es": "Cuatro Contactos principales."
+        },
+        {
+          "rating": 5,
+          "body_es": "Cinco Contactos principales."
+        }
+      ]
     },
     "sources": [
       {
@@ -2940,7 +2962,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Custodias la chispa de un Feudo que genera 1 punto de Glamour."
+        },
+        {
+          "rating": 2,
+          "body_es": "Cuidas un pequeño Feudo que genera 2 puntos de Glamour."
+        },
+        {
+          "rating": 3,
+          "body_es": "Eres el guardián de un Feudo de tamaño medio que genera 3 puntos de Glamour."
+        },
+        {
+          "rating": 4,
+          "body_es": "Estás al cargo de un gran Feudo que genera 4 puntos de Glamour."
+        },
+        {
+          "rating": 5,
+          "body_es": "Supervisas un enorme Feudo que genera 5 puntos de Glamour."
+        }
+      ]
     },
     "sources": [
       {
@@ -2964,7 +3008,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Tu Mentor es serio y formal, pero o bien sabe pocas cosas importantes, o bien no tiene buenos contactos."
+        },
+        {
+          "rating": 2,
+          "body_es": "Tu Mentor conoce información o personas dignas de atención."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tu Mentor posee secretos destacables y conoce changelings bien relacionados."
+        },
+        {
+          "rating": 4,
+          "body_es": "Tu Mentor tiene conocimientos extraordinarios y tiene acceso al Duque."
+        },
+        {
+          "rating": 5,
+          "body_es": "Tu Mentor conoce los secretos del Ensueño y puede concertar una audiencia con el Alto Rey."
+        }
+      ]
     },
     "sources": [
       {
@@ -3012,7 +3078,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Tus recuerdos, cuando los desencadena un suceso, son brumosos."
+        },
+        {
+          "rating": 2,
+          "body_es": "Obtienes información precisa a través de un recordatorio."
+        },
+        {
+          "rating": 3,
+          "body_es": "Experimentas fl ashbacks incluso sin la necesidad de un recordatorio."
+        },
+        {
+          "rating": 4,
+          "body_es": "Recuerdas información importante, incluyendo sucesos destacables."
+        },
+        {
+          "rating": 5,
+          "body_es": "Recuerdas con claridad amplios períodos de tu historia, incluso vidas enteras."
+        }
+      ]
     },
     "sources": [
       {
@@ -3036,7 +3124,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Suficiente. Tienes una residencia propia de clase trabajadora mientras tengas cuidado con el dinero."
+        },
+        {
+          "rating": 2,
+          "body_es": "Moderado. Perteneces a la clase media y puedes permitirte algún despilfarro ocasional."
+        },
+        {
+          "rating": 3,
+          "body_es": "Acomodado. Eres un miembro destacado de la comunidad local y tienes una línea de crédito generosa."
+        },
+        {
+          "rating": 4,
+          "body_es": "Rico. Eres más rico que la mayoría de tus pares y pocas veces usas efectivo, prefiriendo otros bienes que producen mayor riqueza que el papel moneda."
+        },
+        {
+          "rating": 5,
+          "body_es": "Extremadamente rico. Eres parte del 1 %. Tus bienes son vastos y están ampliamente diversificados, quizás incluso vinculados al destino de naciones enteras."
+        }
+      ]
     },
     "sources": [
       {
@@ -3060,7 +3170,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Tu Séquito consta de un miembro."
+        },
+        {
+          "rating": 2,
+          "body_es": "Tu Séquito consta de dos miembros."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tu Séquito consta de cuatro miembros."
+        },
+        {
+          "rating": 4,
+          "body_es": "Tu Séquito consta de seis miembros."
+        },
+        {
+          "rating": 5,
+          "body_es": "Tu Séquito consta de diez miembros."
+        }
+      ]
     },
     "sources": [
       {
@@ -3084,7 +3216,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Obtienes los beneficios de un Soñador."
+        },
+        {
+          "rating": 2,
+          "body_es": "Obtienes los beneficios de dos Soñadores."
+        },
+        {
+          "rating": 3,
+          "body_es": "Obtienes los beneficios de cuatro Soñadores."
+        },
+        {
+          "rating": 4,
+          "body_es": "Obtienes los beneficios de seis Soñadores."
+        },
+        {
+          "rating": 5,
+          "body_es": "Obtienes los beneficios de ocho Soñadores."
+        }
+      ]
     },
     "sources": [
       {
@@ -3132,7 +3286,29 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Eres un Hidalgo o un Escudero."
+        },
+        {
+          "rating": 2,
+          "body_es": "Eres un Caballero o una Dama."
+        },
+        {
+          "rating": 3,
+          "body_es": "Eres un Barón o una Baronesa."
+        },
+        {
+          "rating": 4,
+          "body_es": "Eres un Conde o una Condesa."
+        },
+        {
+          "rating": 5,
+          "body_es": "Eres un Duque o una Duquesa."
+        }
+      ]
     },
     "sources": [
       {
@@ -6995,7 +7171,7 @@
     "line": "changeling",
     "name_en": "Aliados",
     "name_es": "Aliados",
-    "body_es": "Un personaje siempre puede contar con que sus Aliados le echen una mano cuando está entre la espada y la pared.\n\nPuede tratarse de familiares, amigos, amantes o incluso de una organización completa con la que el personaje se lleva bien. Los Aliados son las personas en las que confía el personaje y que confían en él. Cuando surja la necesidad harán lo posible por ayudarle, pero no son infalibles. A veces todo lo que pueden hacer es dirigirlo a otra persona que ellos conocen. Otras veces pueden meterse en problemas ellos mismos y requerir la ayuda del personaje. Son amigos, después de todo.\n\nTanto changelings como Licios pueden adquirir Aliados, y ambos pueden tenerlos como Trasfondos Compartidos.\n\n- • Tienes un aliado de influencia moderada.\n\n- •• Conoces a dos aliados de influencia moderada.\n\n- ••• Puedes recurrir a tres aliados, uno de los cuales es muy influyente.\n\n- •••• Eres amigo de cuatro aliados, uno de los cuales es muy poderoso.\n\n- ••••• Cinco aliados te guardan las espaldas; al menos uno de ellos es extremadamente influyente.",
+    "body_es": "Un personaje siempre puede contar con que sus Aliados le echen una mano cuando está entre la espada y la pared.\n\nPuede tratarse de familiares, amigos, amantes o incluso de una organización completa con la que el personaje se lleva bien. Los Aliados son las personas en las que confía el personaje y que confían en él. Cuando surja la necesidad harán lo posible por ayudarle, pero no son infalibles. A veces todo lo que pueden hacer es dirigirlo a otra persona que ellos conocen. Otras veces pueden meterse en problemas ellos mismos y requerir la ayuda del personaje. Son amigos, después de todo.\n\nTanto changelings como Licios pueden adquirir Aliados, y ambos pueden tenerlos como Trasfondos Compartidos.\n",
     "tags": [
       "trasfondo"
     ],

@@ -47,27 +47,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "foundry_bonuses": [
-      {
-        "type": "attribute_diff",
-        "settingtype": "charisma",
-        "value": 1,
-        "isactive": false
-      },
-      {
-        "type": "attribute_diff",
-        "settingtype": "manipulation",
-        "value": 1,
-        "isactive": false
-      },
-      {
-        "type": "attribute_diff",
-        "settingtype": "appearance",
-        "value": 1,
-        "isactive": false
-      }
-    ]
+    "related": []
   },
   {
     "id": "combatiente-novato",
@@ -164,21 +144,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "foundry_bonuses": [
-      {
-        "type": "ability_diff",
-        "settingtype": "investigation",
-        "value": -2,
-        "isactive": false
-      },
-      {
-        "type": "ability_diff",
-        "settingtype": "science",
-        "value": -2,
-        "isactive": false
-      }
-    ]
+    "related": []
   },
   {
     "id": "biblioteca-ocultista",
@@ -200,27 +166,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "foundry_bonuses": [
-      {
-        "type": "attribute_diff",
-        "settingtype": "intelligence",
-        "value": -1,
-        "isactive": false
-      },
-      {
-        "type": "ability_diff",
-        "settingtype": "occult",
-        "value": -1,
-        "isactive": false
-      },
-      {
-        "type": "ability_diff",
-        "settingtype": "investigation",
-        "value": -1,
-        "isactive": false
-      }
-    ]
+    "related": []
   },
   {
     "id": "aura-palida",
@@ -323,6 +269,31 @@
     "related": []
   },
   {
+    "id": "reaccion-psiquica",
+    "type": "flaw",
+    "line": "hunter",
+    "name_en": "Reacción Psíquica",
+    "name_es": "Reacción Psíquica",
+    "body_es": "Tu personaje ha sido bendecido con un potente Numen Psíquico, pero el uso de este Poder lo agota. A veces, hasta experimenta hemorragias cerebrales menores debido al esfuerzo de usarlo.\n\nCon el Defecto de un punto, tu cazador experimenta dolores de cabeza y mareos por cada uso del Poder. En situaciones estresantes o agotadoras, el Narrador puede pedirte una tirada de Resistencia + Consciencia (dificultad 7). Si fallas la tirada, el personaje experimenta un breve estado de dolor o desorientación. Todas las acciones realizadas durante el siguiente turno se hacen con una dificultad de +2.\n\nCon el Defecto de dos puntos, tu personaje experimenta un dolor menor por usar su Poder. Tras activarlo, debes hacer una tirada de Inteligencia + Consciencia (dificultad 6) contra el número de éxitos obtenidos en la activación del Poder. Si tienes menos éxitos en la tirada de Inteligencia + Consciencia que en la de activación, la diferencia se trata como niveles de daño contundente.\n\nCon el Defecto de seis puntos, tu personaje sufre los mismos efectos que con el Defecto de dos puntos, pero el daño es letal, aunque aún se permite la tirada de Inteligencia + Consciencia.",
+    "tags": [
+      "sobrenatural"
+    ],
+    "mechanics": {
+      "bonus": "1, 2 o 6",
+      "category": "sobrenatural"
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "reaccion-psiquica",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
     "id": "efecto-inquietante",
     "type": "flaw",
     "line": "hunter",
@@ -395,27 +366,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "foundry_bonuses": [
-      {
-        "type": "attribute_buff",
-        "settingtype": "charisma",
-        "value": -1,
-        "isactive": false
-      },
-      {
-        "type": "attribute_buff",
-        "settingtype": "manipulation",
-        "value": -1,
-        "isactive": false
-      },
-      {
-        "type": "attribute_buff",
-        "settingtype": "appearance",
-        "value": -1,
-        "isactive": false
-      }
-    ]
+    "related": []
   },
   {
     "id": "histeria-religiosa",
@@ -440,27 +391,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "foundry_bonuses": [
-      {
-        "type": "attribute_buff",
-        "settingtype": "charisma",
-        "value": -1,
-        "isactive": true
-      },
-      {
-        "type": "attribute_buff",
-        "settingtype": "manipulation",
-        "value": -1,
-        "isactive": true
-      },
-      {
-        "type": "attribute_buff",
-        "settingtype": "appearance",
-        "value": -1,
-        "isactive": true
-      }
-    ]
+    "related": []
   },
   {
     "id": "rango-eclesiastico",
@@ -560,27 +491,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "foundry_bonuses": [
-      {
-        "type": "attribute_diff",
-        "settingtype": "charisma",
-        "value": -1,
-        "isactive": true
-      },
-      {
-        "type": "attribute_diff",
-        "settingtype": "manipulation",
-        "value": -1,
-        "isactive": true
-      },
-      {
-        "type": "attribute_diff",
-        "settingtype": "appearance",
-        "value": -1,
-        "isactive": true
-      }
-    ]
+    "related": []
   },
   {
     "id": "ecstatic",
@@ -605,27 +516,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "foundry_bonuses": [
-      {
-        "type": "attribute_buff",
-        "settingtype": "charisma",
-        "value": 1,
-        "isactive": false
-      },
-      {
-        "type": "attribute_buff",
-        "settingtype": "manipulation",
-        "value": 1,
-        "isactive": false
-      },
-      {
-        "type": "attribute_buff",
-        "settingtype": "appearance",
-        "value": 1,
-        "isactive": false
-      }
-    ]
+    "related": []
   },
   {
     "id": "ecumenista",
@@ -725,27 +616,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "foundry_bonuses": [
-      {
-        "type": "attribute_diff",
-        "settingtype": "charisma",
-        "value": 1,
-        "isactive": true
-      },
-      {
-        "type": "attribute_diff",
-        "settingtype": "manipulation",
-        "value": 1,
-        "isactive": true
-      },
-      {
-        "type": "attribute_diff",
-        "settingtype": "appearance",
-        "value": 1,
-        "isactive": true
-      }
-    ]
+    "related": []
   },
   {
     "id": "mentalidad-de-sitio",
@@ -770,21 +641,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "foundry_bonuses": [
-      {
-        "type": "ability_buff",
-        "settingtype": "empathy",
-        "value": -2,
-        "isactive": false
-      },
-      {
-        "type": "ability_buff",
-        "settingtype": "investigation",
-        "value": -2,
-        "isactive": false
-      }
-    ]
+    "related": []
   },
   {
     "id": "mensajero-del-miedo",
@@ -909,27 +766,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "foundry_bonuses": [
-      {
-        "type": "ability_buff",
-        "settingtype": "empathy",
-        "value": 1,
-        "isactive": false
-      },
-      {
-        "type": "ability_buff",
-        "settingtype": "leadership",
-        "value": 1,
-        "isactive": false
-      },
-      {
-        "type": "ability_buff",
-        "settingtype": "investigation",
-        "value": 1,
-        "isactive": false
-      }
-    ]
+    "related": []
   },
   {
     "id": "credulo",
@@ -954,27 +791,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "foundry_bonuses": [
-      {
-        "type": "ability_buff",
-        "settingtype": "empathy",
-        "value": -1,
-        "isactive": false
-      },
-      {
-        "type": "ability_buff",
-        "settingtype": "investigation",
-        "value": -1,
-        "isactive": false
-      },
-      {
-        "type": "ability_buff",
-        "settingtype": "leadership",
-        "value": -1,
-        "isactive": false
-      }
-    ]
+    "related": []
   },
   {
     "id": "identidad-suplementaria",
@@ -1224,6 +1041,78 @@
     "related": []
   },
   {
+    "id": "arsenal",
+    "type": "background",
+    "line": "hunter",
+    "name_en": "Arsenal",
+    "name_es": "Arsenal",
+    "body_es": "Un cazador con Armas de Fuego puede llevar a cabo tareas sencillas con armas, como limpiar una; pero, sin un verdadero arsenal, es difícil mantener armas en condiciones de uso. Tu cazador ha logrado almacenar un arsenal funcional junto con la habilidad de mantener todas las armas en él. Cada nivel del Trasfondo Arsenal proporciona acceso a armas más potentes junto con los [recursos](/hunter/backgrounds/resources) para mantenerlas y limpiarlas de forma apropiada, y la munición adecuada.\n\nEl alcance de este Trasfondo varía ligeramente de una región a otra, ya que las leyes de control de armas no son iguales en todo el mundo. Lo que un estadounidense puede comprar en unos grandes almacenes podría ser de uso exclusivamente militar en Rumanía, y los jugadores que deseen invertir puntos en Arsenal deberían consultar con su Narrador para determinar cómo funcionará en donde esté localizada su crónica. El Narrador puede pedirte que inviertas algunos puntos en otro Trasfondo (como ciertos tipos de [Influencia](/hunter/backgrounds/influence) o [Aliados](/hunter/backgrounds/allies) legales o militares) para impedir que el Arsenal sea confiscado por las autoridades. Un Arsenal puede desvanecerse en mucho menos tiempo del que lleva acumularlo, especialmente si su conservador es dado a vociferar acerca de monstruos chupasangre y la corrupción que llega hasta lo más alto.\n\nPara más detalles sobre armas específicas, incluyendo mecánicas de juego, ver las pág. 280-281 del V20 .\n\nLos jugadores pueden optar por compartir el Trasfondo para un Arsenal común. Para más información sobre Trasfondos Compartidos, ver pág. 118-119 del V20 .\n\n·\n\nTienes un excelente arsenal con el que comenzar, que incluye muchas armas legales que están disponibles de forma habitual en las calles. Este nivel da acceso a una cantidad de armas adicionales en función de la zona.\n\n<!-- image -->\n\n- ·· Tienes acceso a suficiente armamento legal como para equipar a una banda callejera de 10 hombres.\n- ··· Podrías fundar tu propia milicia. Además, puedes equipar a cinco individuos con armamento que se encuentra en un vacío legal en tu región, el cual sería difícil de conseguir para la mayoría de los civiles.\n- ···· Tienes un arsenal apropiado para un equipo del SWAT en una ciudad importante, incluyendo cierto equipamiento de grado militar. Tienes suficiente material para equipar a 10 hombres con armamento puntero, el cual está por encima del proporcionado por los niveles inferiores de este Trasfondo. Sé cuidadoso cuando lo uses, porque sin otros Trasfondos adecuados, puedes encontrarte bajo el escrutinio de las autoridades por posesión de armamento fuera de lo estrictamente legal.\n- ····· Tu arsenal es la envidia de las fuerzas paramilitares del mundo. Tienes las herramientas para limpiar y reparar casi cualquier arma personal que se produce en el mundo. Tienes acceso a una cantidad significativa de armas ilegales en la mayoría de los países, de las que acumulas suficientes como para crear tu propio pelotón. Si las autoridades descubriesen este arsenal,\n\ntu cazador estaría en serio peligro de ir a la cárcel durante mucho tiempo; asumiendo que no haya un asalto armado que lo amenace de forma más inmediata.",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "arsenal",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "base-de-operaciones",
+    "type": "background",
+    "line": "hunter",
+    "name_en": "Base de Operaciones",
+    "name_es": "Base de Operaciones",
+    "body_es": "Una base de operaciones es un lugar seguro controlado y poseído por tu cazador. Este lugar es un cuartel general donde puede descansar, entrenar y planear sus próximos ataques. Puede ser tan sencillo como un apartamento sin amueblar, tan grande como la mansión de un senador o tan complejo como una base militar.\n\nLos jugadores que escojan adquirir este Trasfondo deben dividir sus puntos entre las tres categorías siguientes. Además, se puede compartir la compra de este Trasfondo por medio del sistema de Trasfondos Compartidos explicado en las pág. 118-119 del V20 .\n\nLujo es una medida de la calidad del mobiliario de la base. El nivel de Lujo varía desde lo sobrio a lo opulento, correspondiendo de forma somera con un Trasfondo [Recursos](/hunter/backgrounds/resources) de igual valor (ver pág. 116-117 del V20 ).\n\n- Compraste tus muebles en una tienda de segunda mano o en algún otro vendedor barato.\n- ··\n\nTu base ha sido decorada y equipada de forma modesta. Tienes los requerimientos básicos que cabría esperar del estilo de vida del Primer Mundo (siempre que esto sea apropiado).\n\n- ··· Tu base es relativamente confortable y cuenta con diversas comodidades.\n- ···· Tu base ofrece un respiro a la horrible realidad de matar vampiros, y es única tanto en diseño como en apariencia.\n- ····· Tu base exhibe un grado de ostentación del que sólo los más extremadamente ricos o las celebridades suelen disfrutar.",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "base-de-operaciones",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "guia",
+    "type": "background",
+    "line": "hunter",
+    "name_en": "Guía",
+    "name_es": "Guía",
+    "body_es": "Debido a la suerte, al destino o a un capricho, una misteriosa entidad espiritual ha decidido ayudar a tu cazador en su misión de acechar a los vampiros. Tales guías rara vez se presentan abiertamente, en su lugar prefieren imponer sus fines mediante sueños, signos y portentos. Uno puede aparecer como un fantasma en el espejo. Otro podría hacerlo en un antiquísimo retrato de un pariente fallecido tiempo atrás que ofrece consejos, o mediante escalofriantes efectos ambientales, como una sala siempre envuelta en una sombra consciente.\n\nPor lo general, tales entidades están muy interesadas en el bienestar (o al menos en los puntos débiles) de los mortales, pero poseen motivos ocultos para alentar ciertos tipos de comportamientos en sus compañeros. Estas criaturas, hábiles y sabias en términos mágicos, y poseedoras de sentidos inhumanos, tienen mucho que ofrecer a sus patronos. No son necesariamente fantasmas o espíritus, pero bien pueden estar entre las anomalías menos clasificables del Mundo de Tinieblas.\n\nPor supuesto, nada es gratis, y esta relación es probablemente bidireccional. Los Guías esperan un tratamiento especial, lo que incluye comida, refugio, compañía y/o hasta misteriosas necesidades sobrenaturales. Puede que hasta sangre…\n\nSi buscas invertir en el Trasfondo Guía, deberías colaborar con el Narrador para crear una personalidad interesante y única que tenga una buena razón para compartir el destino de tu personaje e influir en su comportamiento.\n\n- Guía débil: Una entidad con limitado conocimiento ocultista que puede afectar al mundo sólo con gran dificultad. No siempre está disponible y de vez en cuando puede proporcionar información errónea.\n- ·· Guía menor: Esta entidad sabe bastante sobre lo oculto y los vampiros, pero encuentra difícil afectar al mundo material y sólo lo hará cuando se amolde a sus fines. Te ayudará, pero está limitada en lo que puede hacer, especialmente en lo que respecta a ser capaz de manipular objetos físicos.\n\n···\n\nGuía apto: Un Guía de esta fuerza bien puede ser una entidad reconocida en el mundo espiritual. Te ayudará con conocimientos y entrenamiento y, cuando sea adecuado, luchará por ti, posiblemente esgrimiendo Númina menores por ti (ver Capítulo Cuatro).\n\n- ···· Guía fuerte: Tu Guía es bastante poderoso, puede que hasta un personaje significativo en los reinos espirituales o de los muertos. Esta entidad tiene mucha experiencia en lo oculto, y es consciente de las idas y venidas del mundo vampírico. Está dispuesto a ayudarte con Númina mayores una vez por historia (ver Capítulo Cuatro).\n- ····· Guía poderoso: Esta entidad puede andar entre el mundo espiritual y el material y hacer uso de dos Númina mayores. Puede ayudarte si lo considera adecuado, pero puede exigir favores u homenajes a cambio.",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "guia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
     "id": "status",
     "type": "background",
     "line": "hunter",
@@ -1248,12 +1137,104 @@
     "related": []
   },
   {
+    "id": "relicario",
+    "type": "background",
+    "line": "hunter",
+    "name_en": "Relicario",
+    "name_es": "Relicario",
+    "body_es": "Se te ha concedido acceso al relicario de la Iglesia. Las cámaras del Vaticano son antiguas, oscuras y profundas, y muchos secretos se ocultan en ellas: desde reliquias sagradas a terribles artilugios de brujería que la Iglesia guarda bajo llave para mantenerlos lejos de manos impías. Este Trasfondo representa tanto un privilegio como una responsabilidad, dado que eres guardián de la reliquia. La pérdida o destrucción del objeto consume todos los puntos de Trasfondo gastados, y la Sociedad puede pensárselo dos veces antes de abrirte su relicario en el futuro. El Narrador tiene la decisión final en lo referente al valor y poderes de la reliquia. Pueden verse algunos ejemplos de reliquias en las pág. 157-158.\n\nLos jugadores pueden optar por compartir puntos de Trasfondo para una reliquia común. Ver pág. 118-119 del V20 para más información sobre Trasfondos Compartidos.\n",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Posees una reliquia menor."
+        },
+        {
+          "rating": 2,
+          "body_es": "Posees una reliquia útil."
+        },
+        {
+          "rating": 3,
+          "body_es": "Posees una reliquia de significativo poder."
+        },
+        {
+          "rating": 4,
+          "body_es": "Posees una reliquia de increíble poder."
+        },
+        {
+          "rating": 5,
+          "body_es": "Posees una reliquia mencionada en muchas leyendas."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "relicario",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "turba",
+    "type": "background",
+    "line": "hunter",
+    "name_en": "Turba",
+    "name_es": "Turba",
+    "body_es": "La era de las redes sociales y los medios de comunicación ofrece a un Inquisidor hábil nuevas e innovadoras herramientas para organizar congregaciones en forma de turbas para cazar brujas. Ahora el fanatismo surge por medio de actualizaciones de estado. Sermones incendiarios suenan de casa en casa vía vídeo-chats. La Inquisidora General Bauer instruye personalmente a sus subordinados en estas técnicas, y tú las has aprendido bien. Esta gente no está tan educada en las costumbres del [Enemigo](/hunter/flaws/enemigo) como tú, y no poseen una fe capaz de obrar milagros o poderes ocultos, pero está furiosa. Y armada. Y no van a soportarlo más. Descubrirás que una turba es muy parecida a un arma incendiaria: una fuerza destructiva que pone el temor a Dios en los corazones de los monstruos, pero que fácilmente queda fuera de control.\n\n- Comandas una turba de dos personas.\n",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Comandas una turba de dos personas."
+        },
+        {
+          "rating": 2,
+          "body_es": "Comandas una turba de cuatro personas."
+        },
+        {
+          "rating": 3,
+          "body_es": "Comandas una turba de siete personas."
+        },
+        {
+          "rating": 4,
+          "body_es": "Comandas una turba de quince personas."
+        },
+        {
+          "rating": 5,
+          "body_es": "Comandas una turba de veinticinco personas."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "turba",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
     "id": "rank",
     "type": "background",
     "line": "hunter",
     "name_en": "Rango",
     "name_es": "Rango",
-    "body_es": "Las agencias del gobierno imponen de forma estricta los privilegios asociados al rango: un soldado de la armada no puede hacer que un capitán lo escuche, menos aún dar órdenes a sus oficiales superiores. Este Trasfondo representa la posición de un agente en la cadena de mando. Un agente sin puntos de Rango posee el grado más bajo apropiado para la organización: un agente junior del SAD o la CIA, o un teniente de segunda categoría en la NSA. Aunque técnicamente el personaje con mayor Rango estará a cargo de los demás agentes, determinadas circunstancias atenuantes sobre el terreno pueden invalidar la cadena de mando.\n\nCuando trates con gente de menor Rango dentro de tu agencia, aplica la diferencia en Rango como una bonificación en cualquier reserva de dados Social. Cuando trates con gente fuera de la agencia de tu personaje, trata su Rango como si fuera dos puntos menor.\n\n- Un agente especial del SAD o un teniente de primera categoría de la NSA.\n- ·· Un agente especial senior del SAD o capitán de la NSA.\n- ··· Un agente especial a cargo del SAD o un comandante de la NSA.\n- ···· Un jefe de sección del SAD o un coronel de la NSA.\n- ····· Un director regional del SAD o un general de la NSA.",
+    "body_es": "Las agencias del gobierno imponen de forma estricta los privilegios asociados al rango: un soldado de la armada no puede hacer que un capitán lo escuche, menos aún dar órdenes a sus oficiales superiores. Este Trasfondo representa la posición de un agente en la cadena de mando. Un agente sin puntos de Rango posee el grado más bajo apropiado para la organización: un agente junior del SAD o la CIA, o un teniente de segunda categoría en la NSA. Aunque técnicamente el personaje con mayor Rango estará a cargo de los demás agentes, determinadas circunstancias atenuantes sobre el terreno pueden invalidar la cadena de mando.\n\nCuando trates con gente de menor Rango dentro de tu agencia, aplica la diferencia en Rango como una bonificación en cualquier reserva de dados Social. Cuando trates con gente fuera de la agencia de tu personaje, trata su Rango como si fuera dos puntos menor.\n\n- Un agente especial del SAD o un teniente de primera categoría de la NSA.",
     "tags": [
       "trasfondo"
     ],
@@ -1294,12 +1275,58 @@
     "related": []
   },
   {
+    "id": "requerimiento",
+    "type": "background",
+    "line": "hunter",
+    "name_en": "Requerimiento",
+    "name_es": "Requerimiento",
+    "body_es": "Eres un maestro de la burocracia, capaz de rellenar los formularios correctos para lograr hacerte con equipo especial, desde balas de plata a caoscopios. Comienzas la historia con una reserva de puntos que gastar en equipo igual a tus puntos en este Trasfondo. Una vez que se utiliza o se destruye el equipo, eso es todo (y cualquier equipo requisado superviviente debe ser devuelto al final de la historia). Puedes guardar puntos de Requerimiento hasta que necesites un artículo o servicio determinados, pero no puedes adquirir un único objeto que cueste más que tu Rango +2. Algunos ejemplos de equipo requisable aparecen en las pág. 155-156.\n\nLos jugadores pueden optar por compartir puntos de Trasfondo para obtener un suministro de equipo común. Ver pág. 118-119 del V20 para más información sobre Trasfondos Compartidos.\n\n- Posees una pieza de equipo por el valor de un punto de Requerimiento.\n",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Posees una pieza de equipo por el valor de un punto de Requerimiento."
+        },
+        {
+          "rating": 2,
+          "body_es": "Posees una pieza de equipo por el valor de dos puntos de Requerimiento o dos objetos de un punto de Requerimiento."
+        },
+        {
+          "rating": 3,
+          "body_es": "Posees uno o más objetos cuyo valor total es igual a tres puntos de Requerimiento."
+        },
+        {
+          "rating": 4,
+          "body_es": "Posees uno o más objetos cuyo valor total es igual a cuatro puntos de Requerimiento."
+        },
+        {
+          "rating": 5,
+          "body_es": "Posees uno o más objetos cuyo valor total es igual a cinco puntos de Requerimiento."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "requerimiento",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
     "id": "artefacto",
     "type": "background",
     "line": "hunter",
     "name_en": "Artefacto",
     "name_es": "Artefacto",
-    "body_es": "Los Artefactos son objetos de fuerte potencia sobrenatural. Este Trasfondo te permite comenzar la partida con uno de tales objetos en tu poder. Puede ser una reliquia familiar o algo [legado](/hunter/merits/legado) por un [mentor](/hunter/backgrounds/mentor) del Arcanum o que encontraste al principio de tu carrera y que la sociedad no ha solicitado aún para un 'estudio más a fondo'.\n\nEl Narrador debería crear algo adecuado para ti basándose en los puntos de este Trasfondo. Habla con él acerca de lo que quieres. Los Artefactos de leyenda (como Durandal, la espada de Rolando o el cáliz de Kai Khusrau) son objeto de grandes búsquedas y no pueden adquirirse con este Rasgo. Algunos ejemplos de Artefactos potenciales aparecen en la pág. 157-158.\n\nLos jugadores pueden optar por compartir puntos de Trasfondo para tener un Artefacto común. Ver pág. 118119 del V20 para más información sobre Trasfondos Compartidos.\n\n- Un Artefacto menor.\n\n- ••\n\nUn Artefacto útil.\n\n- ••••\n\nUn Artefacto muy deseado.\n\n- •••••\n\nUn Artefacto de increíble poder.",
+    "body_es": "Los Artefactos son objetos de fuerte potencia sobrenatural. Este Trasfondo te permite comenzar la partida con uno de tales objetos en tu poder. Puede ser una reliquia familiar o algo [legado](/hunter/merits/legado) por un [mentor](/hunter/backgrounds/mentor) del Arcanum o que encontraste al principio de tu carrera y que la sociedad no ha solicitado aún para un 'estudio más a fondo'.\n\nEl Narrador debería crear algo adecuado para ti basándose en los puntos de este Trasfondo. Habla con él acerca de lo que quieres. Los Artefactos de leyenda (como Durandal, la espada de Rolando o el cáliz de Kai Khusrau) son objeto de grandes búsquedas y no pueden adquirirse con este Rasgo. Algunos ejemplos de Artefactos potenciales aparecen en la pág. 157-158.\n\nLos jugadores pueden optar por compartir puntos de Trasfondo para tener un Artefacto común. Ver pág. 118119 del V20 para más información sobre Trasfondos Compartidos.\n\n- Un Artefacto menor.\n",
     "tags": [
       "trasfondo"
     ],
@@ -1334,6 +1361,52 @@
         "book_title_es": "v20-cazadores-cazados-ii_compress",
         "page": null,
         "section_anchor": "artefacto",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "library",
+    "type": "background",
+    "line": "hunter",
+    "name_en": "Biblioteca",
+    "name_es": "Biblioteca",
+    "body_es": "Los Arcanistas suelen dedicar toda su vida a la investigación y acumulan tremendas bibliotecas durante el transcurso de sus carreras; aquéllos que viven cerca de Casas Capitulares con largamente establecidas y bien desarrolladas bibliotecas lo hacen aún mejor. Los Arcanistas que investigan un hecho en particular en bibliotecas ven la dificultad de sus tiradas de investigación reducida por este Trasfondo (ten en cuenta que esto no se puede combinar con el acceso al Axis Mundi).\n\nLos jugadores pueden optar por compartir puntos de Trasfondo para una Biblioteca común. Ver pág. 118-119 del V20 para más información sobre Trasfondos Compartidos.\n\n- Se reduce la dificultad en 1.\n",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Se reduce la dificultad en 1."
+        },
+        {
+          "rating": 2,
+          "body_es": "Se reduce la dificultad en 2."
+        },
+        {
+          "rating": 3,
+          "body_es": "Se reduce la dificultad en 3."
+        },
+        {
+          "rating": 4,
+          "body_es": "Se reduce la dificultad en 4."
+        },
+        {
+          "rating": 5,
+          "body_es": "Se reduce la dificultad en 5."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "cazadores-cazados-ii",
+        "book_title_es": "v20-cazadores-cazados-ii_compress",
+        "page": null,
+        "section_anchor": "biblioteca",
         "variant": "base"
       }
     ],
@@ -2247,6 +2320,30 @@
     "related": []
   },
   {
+    "id": "alternate-identity",
+    "type": "background",
+    "line": "hunter",
+    "name_en": "Identidad Alternativa",
+    "name_es": "Identidad Alternativa",
+    "body_es": "Mantienes una identidad alternativa completa, con papeles, partidas de nacimiento o cualquier otra documentación que desees. Sólo unos pocos pueden saber tu nombre o identidad real. Tu personalidad alternativa podría estar muy implicada en el crimen organizado, ser un miembro de la Secta opuesta, un estafador que usa identidades alternativas para sus líos o podrías dedicarte simplemente a reunir información sobre el [enemigo](/hunter/flaws/enemigo). De hecho, algunos vampiros pueden conocerte como un individuo mientras otros creen que eres alguien totalmente diferente.\n\n- • Eres nuevo en este juego de identidades. A veces te despistas y olvidas tu otra personalidad.\n\n- •• Bien asentado en tu identidad alternativa. Eres tan convincente como para simular el papel de un doctor, abogado, agente de pompas fúnebres, traficante de drogas o un espía capaz.\n\n- ••• Tienes buena reputación como tu personalidad alternativa y se te reconoce por ese nombre en el área donde te has infiltrado.\n\n- •••• Tu identidad alternativa se ha ganado respeto y confianza dentro del área de infiltración.\n\n- ••••• Inspiras respeto en tu área de infiltración, y puedes incluso haber acumulado algo de [influencia](/hunter/backgrounds/influence). Tienes la confianza (o al menos el reconocimiento) de muchos individuos poderosos dentro de tu área.",
+    "tags": [
+      "trasfondo"
+    ],
+    "mechanics": {
+      "rating_max": 5
+    },
+    "sources": [
+      {
+        "book_id": "v20-core-rulebook-es",
+        "book_title_es": "v20-core-rulebook-es",
+        "page": null,
+        "section_anchor": "identidad-alternativa",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
     "id": "allies",
     "type": "background",
     "line": "hunter",
@@ -2265,13 +2362,6 @@
         "book_title_es": "v20-core-rulebook-es",
         "page": null,
         "section_anchor": "aliados",
-        "variant": "base"
-      },
-      {
-        "book_id": "cazadores-cazados-ii",
-        "book_title_es": "v20-cazadores-cazados-ii_compress",
-        "page": null,
-        "section_anchor": "paso-cuatro-seleccionar-ventajas",
         "variant": "base"
       }
     ],
@@ -2298,13 +2388,6 @@
         "page": null,
         "section_anchor": "contactos",
         "variant": "base"
-      },
-      {
-        "book_id": "cazadores-cazados-ii",
-        "book_title_es": "v20-cazadores-cazados-ii_compress",
-        "page": null,
-        "section_anchor": "paso-cuatro-seleccionar-ventajas",
-        "variant": "base"
       }
     ],
     "related": [],
@@ -2329,13 +2412,6 @@
         "book_title_es": "v20-core-rulebook-es",
         "page": null,
         "section_anchor": "fama",
-        "variant": "base"
-      },
-      {
-        "book_id": "cazadores-cazados-ii",
-        "book_title_es": "v20-cazadores-cazados-ii_compress",
-        "page": null,
-        "section_anchor": "paso-cuatro-seleccionar-ventajas",
         "variant": "base"
       }
     ],
@@ -2362,13 +2438,6 @@
         "page": null,
         "section_anchor": "influencia",
         "variant": "base"
-      },
-      {
-        "book_id": "cazadores-cazados-ii",
-        "book_title_es": "v20-cazadores-cazados-ii_compress",
-        "page": null,
-        "section_anchor": "paso-cuatro-seleccionar-ventajas",
-        "variant": "base"
       }
     ],
     "related": [],
@@ -2394,288 +2463,10 @@
         "page": null,
         "section_anchor": "criados",
         "variant": "base"
-      },
-      {
-        "book_id": "cazadores-cazados-ii",
-        "book_title_es": "v20-cazadores-cazados-ii_compress",
-        "page": null,
-        "section_anchor": "paso-cuatro-seleccionar-ventajas",
-        "variant": "base"
       }
     ],
     "related": [],
     "note": "Trasfondo estándar de V20 (pág. 110-119). Cazadores Cazados II lo admite explícitamente para cazadores: excluye sólo Dominio, Generación, Miembro de la Mano Negra, Rebaño y Rituales."
-  },
-  {
-    "id": "arsenal",
-    "type": "background",
-    "line": "hunter",
-    "name_en": "Arsenal",
-    "name_es": "Arsenal",
-    "body_es": "Un cazador con Armas de Fuego puede llevar a cabo tareas sencillas con armas, como limpiar una; pero, sin un verdadero arsenal, es difícil mantener armas en condiciones de uso. Tu cazador ha logrado almacenar un arsenal funcional junto con la habilidad de mantener todas las armas en él. Cada nivel del Trasfondo Arsenal proporciona acceso a armas más potentes junto con los [recursos](/hunter/backgrounds/resources) para mantenerlas y limpiarlas de forma apropiada, y la munición adecuada.\n\nEl alcance de este Trasfondo varía ligeramente de una región a otra, ya que las leyes de control de armas no son iguales en todo el mundo. Lo que un estadounidense puede comprar en unos grandes almacenes podría ser de uso exclusivamente militar en Rumanía, y los jugadores que deseen invertir puntos en Arsenal deberían consultar con su Narrador para determinar cómo funcionará en donde esté localizada su crónica. El Narrador puede pedirte que inviertas algunos puntos en otro Trasfondo (como ciertos tipos de [Influencia](/hunter/backgrounds/influence) o [Aliados](/hunter/backgrounds/allies) legales o militares) para impedir que el Arsenal sea confiscado por las autoridades. Un Arsenal puede desvanecerse en mucho menos tiempo del que lleva acumularlo, especialmente si su conservador es dado a vociferar acerca de monstruos chupasangre y la corrupción que llega hasta lo más alto.\n\nPara más detalles sobre armas específicas, incluyendo mecánicas de juego, ver las pág. 280-281 del V20 .\n\nLos jugadores pueden optar por compartir el Trasfondo para un Arsenal común. Para más información sobre Trasfondos Compartidos, ver pág. 118-119 del V20 .\n\nTienes un excelente arsenal con el que comenzar, que incluye muchas armas legales que están disponibles de forma habitual en las calles. Este nivel da acceso a una cantidad de armas adicionales en función de la zona.\n\n- ·· Tienes acceso a suficiente armamento legal como para equipar a una banda callejera de 10 hombres.\n\n- ··· Podrías fundar tu propia milicia. Además, puedes equipar a cinco individuos con armamento que se encuentra en un vacío legal en tu región, el cual sería difícil de conseguir para la mayoría de los civiles.\n\n- ···· Tienes un arsenal apropiado para un equipo del SWAT en una ciudad importante, incluyendo cierto equipamiento de grado militar. Tienes suficiente material para equipar a 10 hombres con armamento puntero, el cual está por encima del proporcionado por los niveles inferiores de este Trasfondo. Sé cuidadoso cuando lo uses, porque sin otros Trasfondos adecuados, puedes encontrarte bajo el escrutinio de las autoridades por posesión de armamento fuera de lo estrictamente legal.\n\n- ····· Tu arsenal es la envidia de las fuerzas paramilitares del mundo. Tienes las herramientas para limpiar y reparar casi cualquier arma personal que se produce en el mundo. Tienes acceso a una cantidad significativa de armas ilegales en la mayoría de los países, de las que acumulas suficientes como para crear tu propio pelotón. Si las autoridades descubriesen este arsenal,\n\ntu cazador estaría en serio peligro de ir a la cárcel durante mucho tiempo; asumiendo que no haya un asalto armado que lo amenace de forma más inmediata.",
-    "tags": [],
-    "mechanics": {},
-    "sources": [
-      {
-        "book_id": "cazadores-cazados-ii",
-        "book_title_es": "v20-cazadores-cazados-ii_compress",
-        "page": null,
-        "section_anchor": "nuevo-trasfondo-arsenal",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
-    "id": "base-de-operaciones",
-    "type": "background",
-    "line": "hunter",
-    "name_en": "Base de Operaciones",
-    "name_es": "Base de Operaciones",
-    "body_es": "Una base de operaciones es un lugar seguro controlado y poseído por tu cazador. Este lugar es un cuartel general donde puede descansar, entrenar y planear sus próximos ataques. Puede ser tan sencillo como un apartamento sin amueblar, tan grande como la mansión de un senador o tan complejo como una base militar.\n\nLos jugadores que escojan adquirir este Trasfondo deben dividir sus puntos entre las tres categorías siguientes. Además, se puede compartir la compra de este Trasfondo por medio del sistema de Trasfondos Compartidos explicado en las pág. 118-119 del V20 .\n\nLujo es una medida de la calidad del mobiliario de la base. El nivel de Lujo varía desde lo sobrio a lo opulento, correspondiendo de forma somera con un Trasfondo [Recursos](/hunter/backgrounds/resources) de igual valor (ver pág. 116-117 del V20 ).\n\n- Compraste tus muebles en una tienda de segunda mano o en algún otro vendedor barato.\n\n- ··\n\nTu base ha sido decorada y equipada de forma modesta. Tienes los requerimientos básicos\n\n- que cabría esperar del estilo de vida del Primer Mundo (siempre que esto sea apropiado).\n\n- ··· Tu base es relativamente confortable y cuenta con diversas comodidades.\n\n- ···· Tu base ofrece un respiro a la horrible realidad de matar vampiros, y es única tanto en diseño como en apariencia.\n\n- ····· Tu base exhibe un grado de ostentación del que sólo los más extremadamente ricos o las celebridades suelen disfrutar.\n\n## Seguridad representa lo difícil que resulta colarse en tu base. Cada punto de Seguridad suma uno a la dificultad de cualquier tirada hecha para internarse en la base o suma uno al número de éxitos necesarios para lograrlo. Los jugadores y el Narrador deberían ponerse de acuerdo en esto antes de comenzar la historia.\n\n- Tienes cerraduras en las puertas de la base, pero poco más.\n\n- ·· Las puertas tienen cerrojos de seguridad y las ventanas barrotes resistentes, o puedes tener un perro que ladre para avisarte cuando alguien se acerque mucho a la base. Tu cuartel general es relativamente seguro frente a las amenazas corrientes.\n\n- ··· La base es segura, pero no impenetrable, confiando en un moderno juego de cerraduras, protecciones físicas como barrotes en las ventanas, medidas electrónicas como sistemas de alarma y monitorización electrónica estándar como cámaras de seguridad.\n\n- ···· Tu base está protegida por todas las medidas de seguridad de los niveles previos y algunas más. Está a la par con los edificios gubernamentales restringidos o incluso las prisiones. Tiene muros reforzados, válvulas de acceso por sectores y quizás hasta varias habitaciones del pánico o cámaras secretas. Has invertido una considerable cantidad de tiempo y esfuerzo para mantener a la gente fuera de tu base.\n\n- ····· Tu base está protegida por todas las medidas de seguridad de los niveles anteriores. Además, está protegida por una o más medidas singulares, tales como ser un lugar aislado, contar con una barrera geográfica como una cascada o un paso de montaña, y/o posibles protecciones ocultistas, como ser sólo visible a la luz de la Luna. Los jugadores y el Narrador deberían ponerse de acuerdo sobre la naturaleza de tales sobrecogedoras e incomparables protecciones.\n\n## Tamaño\n\nEl tamaño representa el volumen de la base de operaciones y la cantidad de espacio que la compone. Aunque la siguiente lista proporciona sugerencias sobre Tamaño y cantidad de habitaciones, se alienta a los jugadores a ser creativos si así lo desean. Imagina un templo de ambientes diáfanos sin auténticas 'habitaciones', o un pasillo de servicios largo y angosto, pero con múltiples puntos de acceso a diversas localizaciones en el centro de la ciudad.\n\n- Un pequeño apartamento o sala subterránea; 1 o 2 habitaciones.\n\n- ·· Un gran apartamento o una casa familiar; 3 o 4 habitaciones.\n\n- ··· Un almacén, iglesia o casa grande; de 5 a 8 habitaciones o un recinto grande.\n\n- ···· Una mansión o red de túneles; de 9 a 15 habitaciones o salas.\n\n- ····· Una finca inmensa o una vasta red de túneles subterráneos; más de 20 habitaciones.",
-    "tags": [],
-    "mechanics": {},
-    "sources": [
-      {
-        "book_id": "cazadores-cazados-ii",
-        "book_title_es": "v20-cazadores-cazados-ii_compress",
-        "page": null,
-        "section_anchor": "nuevo-trasfondo-base-de-operaciones",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
-    "id": "guia",
-    "type": "background",
-    "line": "hunter",
-    "name_en": "Guía",
-    "name_es": "Guía",
-    "body_es": "Debido a la suerte, al destino o a un capricho, una misteriosa entidad espiritual ha decidido ayudar a tu cazador en su misión de acechar a los vampiros. Tales guías rara vez se presentan abiertamente, en su lugar prefieren imponer sus fines mediante sueños, signos y portentos. Uno puede aparecer como un fantasma en el espejo. Otro podría hacerlo en un antiquísimo retrato de un pariente fallecido tiempo atrás que ofrece consejos, o mediante escalofriantes efectos ambientales, como una sala siempre envuelta en una sombra consciente.\n\nPor lo general, tales entidades están muy interesadas en el bienestar (o al menos en los puntos débiles) de los mortales, pero poseen motivos ocultos para alentar ciertos tipos de comportamientos en sus compañeros. Estas criaturas, hábiles y sabias en términos mágicos, y poseedoras de sentidos inhumanos, tienen mucho que ofrecer a sus patronos. No son necesariamente fantasmas o espíritus, pero bien pueden estar entre las anomalías menos clasificables del Mundo de Tinieblas.\n\nPor supuesto, nada es gratis, y esta relación es probablemente bidireccional. Los Guías esperan un tratamiento especial, lo que incluye comida, refugio, compañía y/o hasta misteriosas necesidades sobrenaturales. Puede que hasta sangre…\n\nSi buscas invertir en el Trasfondo Guía, deberías colaborar con el Narrador para crear una personalidad interesante y única que tenga una buena razón para compartir el destino de tu personaje e influir en su comportamiento.\n\n- Guía débil: Una entidad con limitado conocimiento ocultista que puede afectar al mundo sólo con gran dificultad. No siempre está disponible y de vez en cuando puede proporcionar información errónea.\n\n- ·· Guía menor: Esta entidad sabe bastante sobre lo oculto y los vampiros, pero encuentra difícil afectar al mundo material y sólo lo hará cuando se amolde a sus fines. Te ayudará, pero está limitada\n\n···\n\n····\n\nen lo que puede hacer, especialmente en lo que respecta a ser capaz de manipular objetos físicos.\n\nGuía apto: Un Guía de esta fuerza bien puede ser una entidad reconocida en el mundo espiritual. Te ayudará con conocimientos y entrenamiento y, cuando sea adecuado, luchará por ti, posiblemente esgrimiendo Númina menores por ti (ver Capítulo Cuatro).\n\n- Guía fuerte: Tu Guía es bastante poderoso, puede que hasta un personaje significativo en los reinos espirituales o de los muertos. Esta entidad tiene mucha experiencia en lo oculto, y es consciente de las idas y venidas del mundo vampírico. Está dispuesto a ayudarte con Númina mayores una vez por historia (ver Capítulo Cuatro).\n\n- ····· Guía poderoso: Esta entidad puede andar entre el mundo espiritual y el material y hacer uso de dos Númina mayores. Puede ayudarte si lo considera adecuado, pero puede exigir favores u homenajes a cambio.\n\n## Virtudes\n\nEn palabras de Friedrich Nietzsche: «Quien con monstruos lucha cuide de no convertirse a su vez en monstruo» (algo que no se aleja mucho del pensamiento vampírico de «Bestia soy, para en bestia no convertirme»). Cazadores Cazados II versa sobre luchar para enfrentarse a monstruos sin convertirse en uno. ¿Cuánto tiempo puede lidiar un cazador con las tinieblas sin verse contaminado? ¿Cuánto puede resistir la perversión y la corrupción del Mundo de Tinieblas?\n\nLas Virtudes son importantes para un cazador, ya que representan la base moral del personaje y determinan cuán",
-    "tags": [],
-    "mechanics": {},
-    "sources": [
-      {
-        "book_id": "cazadores-cazados-ii",
-        "book_title_es": "v20-cazadores-cazados-ii_compress",
-        "page": null,
-        "section_anchor": "nuevo-trasfondo-guia",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
-    "id": "reaccion-psiquica",
-    "type": "flaw",
-    "line": "hunter",
-    "name_en": "Reacción Psíquica",
-    "name_es": "Reacción Psíquica",
-    "body_es": "Tu personaje ha sido bendecido con un potente Numen Psíquico, pero el uso de este Poder lo agota. A veces, hasta experimenta hemorragias cerebrales menores debido al esfuerzo de usarlo.\n\nCon el Defecto de un punto, tu cazador experimenta dolores de cabeza y mareos por cada uso del Poder. En situaciones estresantes o agotadoras, el Narrador puede pedirte una tirada de Resistencia + Consciencia (dificultad 7). Si fallas la tirada, el personaje experimenta un breve estado de dolor o desorientación. Todas las acciones realizadas durante el siguiente turno se hacen con una dificultad de +2.\n\nCon el Defecto de dos puntos, tu personaje experimenta un dolor menor por usar su Poder. Tras activarlo, debes hacer una tirada de Inteligencia + Consciencia (dificultad 6) contra el número de éxitos obtenidos en la activación del Poder. Si tienes menos éxitos en la tirada de Inteligencia + Consciencia que en la de activación, la diferencia se trata como niveles de daño contundente.\n\nCon el Defecto de seis puntos, tu personaje sufre los mismos efectos que con el Defecto de dos puntos, pero el daño es letal, aunque aún se permite la tirada de Inteligencia + Consciencia.",
-    "tags": [
-      "sobrenatural"
-    ],
-    "mechanics": {
-      "bonus": "1, 2 o 6",
-      "category": "sobrenatural"
-    },
-    "sources": [
-      {
-        "book_id": "cazadores-cazados-ii",
-        "book_title_es": "v20-cazadores-cazados-ii_compress",
-        "page": null,
-        "section_anchor": "reaccion-psiquica",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
-    "id": "library",
-    "type": "background",
-    "line": "hunter",
-    "name_en": "Biblioteca",
-    "name_es": "Biblioteca",
-    "body_es": "Los Arcanistas suelen dedicar toda su vida a la investigación y acumulan tremendas bibliotecas durante el transcurso de sus carreras; aquéllos que viven cerca de Casas Capitulares con largamente establecidas y bien desarrolladas bibliotecas lo hacen aún mejor. Los Arcanistas que investigan un hecho en particular en bibliotecas ven la dificultad de sus tiradas de investigación reducida por este Trasfondo (ten en cuenta que esto no se puede combinar con el acceso al Axis Mundi).\n\nLos jugadores pueden optar por compartir puntos de Trasfondo para una Biblioteca común. Ver pág. 118-119 del V20 para más información sobre Trasfondos Compartidos.\n\n- • Se reduce la dificultad en 1.\n\n- •• Se reduce la dificultad en 2.\n\n- ••• Se reduce la dificultad en 3.\n\n- •••• Se reduce la dificultad en 4.\n\n- ••••• Se reduce la dificultad en 5.",
-    "tags": [
-      "trasfondo"
-    ],
-    "mechanics": {
-      "rating_max": 5,
-      "ratings": [
-        {
-          "rating": 1,
-          "body_es": "Se reduce la dificultad en 1."
-        },
-        {
-          "rating": 2,
-          "body_es": "Se reduce la dificultad en 2."
-        },
-        {
-          "rating": 3,
-          "body_es": "Se reduce la dificultad en 3."
-        },
-        {
-          "rating": 4,
-          "body_es": "Se reduce la dificultad en 4."
-        },
-        {
-          "rating": 5,
-          "body_es": "Se reduce la dificultad en 5."
-        }
-      ]
-    },
-    "sources": [
-      {
-        "book_id": "cazadores-cazados-ii",
-        "book_title_es": "v20-cazadores-cazados-ii_compress",
-        "page": null,
-        "section_anchor": "biblioteca",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
-    "id": "relicario",
-    "type": "background",
-    "line": "hunter",
-    "name_en": "Relicario",
-    "name_es": "Relicario",
-    "body_es": "Se te ha concedido acceso al relicario de la Iglesia. Las cámaras del Vaticano son antiguas, oscuras y profundas, y muchos secretos se ocultan en ellas: desde reliquias sagradas a terribles artilugios de brujería que la Iglesia guarda bajo llave para mantenerlos lejos de manos impías. Este Trasfondo representa tanto un privilegio como una responsabilidad, dado que eres guardián de la reliquia. La pérdida o destrucción del objeto consume todos los puntos de Trasfondo gastados, y la Sociedad puede pensárselo dos veces antes de abrirte su relicario en el futuro. El Narrador tiene la decisión final en lo referente al valor y poderes de la reliquia. Pueden verse algunos ejemplos de reliquias en las pág. 157-158.\n\nLos jugadores pueden optar por compartir puntos de Trasfondo para una reliquia común. Ver pág. 118-119 del V20 para más información sobre Trasfondos Compartidos.\n\n·\n\n··\n\n- ···\n- ····\n- ·····",
-    "tags": [
-      "trasfondo"
-    ],
-    "mechanics": {
-      "rating_max": 5
-    },
-    "sources": [
-      {
-        "book_id": "cazadores-cazados-ii",
-        "book_title_es": "v20-cazadores-cazados-ii_compress",
-        "page": null,
-        "section_anchor": "relicario",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
-    "id": "turba",
-    "type": "background",
-    "line": "hunter",
-    "name_en": "Turba",
-    "name_es": "Turba",
-    "body_es": "La era de las redes sociales y los medios de comunicación ofrece a un Inquisidor hábil nuevas e innovadoras herramientas para organizar congregaciones en forma de turbas para cazar brujas. Ahora el fanatismo surge por medio de actualizaciones de estado. Sermones incendiarios suenan de casa en casa vía vídeo-chats. La Inquisidora General Bauer instruye personalmente a sus subordinados en estas técnicas, y tú las has aprendido bien. Esta gente no está tan educada en las costumbres del [Enemigo](/hunter/flaws/enemigo) como tú, y no poseen una fe capaz de obrar milagros o poderes ocultos, pero está furiosa. Y armada. Y no van a soportarlo más. Descubrirás que una turba es muy parecida a un arma incendiaria: una fuerza destructiva que pone el temor a Dios en los corazones de los monstruos, pero que fácilmente queda fuera de control.\n\n- Comandas una turba de dos personas.\n\n- •••\n\nComandas una turba de siete personas.\n\n- •••••\n\nComandas una turba de veinticinco personas.",
-    "tags": [
-      "trasfondo"
-    ],
-    "mechanics": {
-      "rating_max": 5,
-      "ratings": [
-        {
-          "rating": 1,
-          "body_es": "Comandas una turba de dos personas."
-        },
-        {
-          "rating": 2,
-          "body_es": "Comandas una turba de cuatro personas."
-        },
-        {
-          "rating": 3,
-          "body_es": "Comandas una turba de siete personas."
-        },
-        {
-          "rating": 4,
-          "body_es": "Comandas una turba de quince personas."
-        },
-        {
-          "rating": 5,
-          "body_es": "Comandas una turba de veinticinco personas."
-        }
-      ]
-    },
-    "sources": [
-      {
-        "book_id": "cazadores-cazados-ii",
-        "book_title_es": "v20-cazadores-cazados-ii_compress",
-        "page": null,
-        "section_anchor": "turba",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
-    "id": "requerimiento",
-    "type": "background",
-    "line": "hunter",
-    "name_en": "Requerimiento",
-    "name_es": "Requerimiento",
-    "body_es": "Eres un maestro de la burocracia, capaz de rellenar los formularios correctos para lograr hacerte con equipo especial, desde balas de plata a caoscopios. Comienzas la historia con una reserva de puntos que gastar en equipo igual a tus puntos en este Trasfondo. Una vez que se utiliza o se destruye el equipo, eso es todo (y cualquier equipo requisado superviviente debe ser devuelto al final de la historia). Puedes guardar puntos de Requerimiento hasta que necesites un artículo o servicio determinados, pero no puedes adquirir un único objeto que cueste más que tu Rango +2. Algunos ejemplos de equipo requisable aparecen en las pág. 155-156.\n\nLos jugadores pueden optar por compartir puntos de Trasfondo para obtener un suministro de equipo común. Ver pág. 118-119 del V20 para más información sobre Trasfondos Compartidos.\n\n- Posees una pieza de equipo por el valor de un punto de Requerimiento.\n- ·· Posees una pieza de equipo por el valor de dos puntos de Requerimiento o dos objetos de un punto de Requerimiento.\n- ··· Posees uno o más objetos cuyo valor total es igual a tres puntos de Requerimiento.\n\n····\n\nPosees uno o más objetos cuyo valor total es igual a cinco puntos de Requerimiento.",
-    "tags": [
-      "trasfondo"
-    ],
-    "mechanics": {
-      "rating_max": 5,
-      "ratings": [
-        {
-          "rating": 1,
-          "body_es": "Posees una pieza de equipo por el valor de un punto de Requerimiento."
-        },
-        {
-          "rating": 2,
-          "body_es": "Posees una pieza de equipo por el valor de dos puntos de Requerimiento o dos objetos de un punto de Requerimiento."
-        },
-        {
-          "rating": 3,
-          "body_es": "Posees uno o más objetos cuyo valor total es igual a tres puntos de Requerimiento."
-        },
-        {
-          "rating": 4,
-          "body_es": "Posees uno o más objetos cuyo valor total es igual a cuatro puntos de Requerimiento."
-        },
-        {
-          "rating": 5,
-          "body_es": "Posees uno o más objetos cuyo valor total es igual a cinco puntos de Requerimiento."
-        }
-      ]
-    },
-    "sources": [
-      {
-        "book_id": "cazadores-cazados-ii",
-        "book_title_es": "v20-cazadores-cazados-ii_compress",
-        "page": null,
-        "section_anchor": "requerimiento",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
-    "id": "alternate-identity",
-    "type": "background",
-    "line": "hunter",
-    "name_en": "Identidad Alternativa",
-    "name_es": "Identidad Alternativa",
-    "body_es": "Mantienes una identidad alternativa completa, con papeles, partidas de nacimiento o cualquier otra documentación que desees. Sólo unos pocos pueden saber tu nombre o identidad real. Tu personalidad alternativa podría estar muy implicada en el crimen organizado, ser un miembro de la Secta opuesta, un estafador que usa identidades alternativas para sus líos o podrías dedicarte simplemente a reunir información sobre el [enemigo](/hunter/flaws/enemigo). De hecho, algunos vampiros pueden conocerte como un individuo mientras otros creen que eres alguien totalmente diferente.\n\n- • Eres nuevo en este juego de identidades. A veces te despistas y olvidas tu otra personalidad.\n\n- •• Bien asentado en tu identidad alternativa. Eres tan convincente como para simular el papel de un doctor, abogado, agente de pompas fúnebres, traficante de drogas o un espía capaz.\n\n- ••• Tienes buena reputación como tu personalidad alternativa y se te reconoce por ese nombre en el área donde te has infiltrado.\n\n- •••• Tu identidad alternativa se ha ganado respeto y confianza dentro del área de infiltración.\n\n- ••••• Inspiras respeto en tu área de infiltración, y puedes incluso haber acumulado algo de [influencia](/hunter/backgrounds/influence). Tienes la confianza (o al menos el reconocimiento) de muchos individuos poderosos dentro de tu área.",
-    "tags": [
-      "trasfondo"
-    ],
-    "mechanics": {
-      "rating_max": 5
-    },
-    "sources": [
-      {
-        "book_id": "v20-core-rulebook-es",
-        "book_title_es": "v20-core-rulebook-es",
-        "page": null,
-        "section_anchor": "identidad-alternativa",
-        "variant": "base"
-      }
-    ],
-    "related": []
   },
   {
     "id": "adiccion",
