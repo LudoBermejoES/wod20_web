@@ -3675,7 +3675,7 @@
     "line": "werewolf",
     "name_en": "Temperamental",
     "name_es": "Temperamental",
-    "body_es": "Tienes muy mal genio y una mecha muy corta. Te enfureces con facilidad ante la menor provocación y te cuesta un enorme esfuerzo mantener la calma. Para un Garou, ya de por sí gobernado por la Furia, esto es doblemente peligroso: cuando algo te saca de quicio, el Narrador puede exigirte una tirada de Fuerza de Voluntad (o subir la dificultad de resistir la Furia) para no estallar, insultar, agredir o precipitarte a la violencia en el peor momento posible. Tu temperamento arruina negociaciones, alerta a tus enemigos y complica tu control sobre el Delirio.",
+    "body_es": "Estás más cerca del Wyrm que la mayoría de los Garou; tu Rabia arde más fuerte dentro de ti que de otros. La dificultad de tus tiradas de Rabia disminuye en dos y caes con más facilidad en el 'Yugo del Wyrm'. Ten cuidado al escoger este Defecto, puede provocaros muchos problemas a ti y a tu manada.",
     "tags": [
       "mental"
     ],
@@ -3693,7 +3693,15 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "frenzy_diff",
+        "settingtype": "",
+        "value": 2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "territorial",
