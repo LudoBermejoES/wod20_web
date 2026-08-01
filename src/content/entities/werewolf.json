@@ -350,7 +350,7 @@
     "line": "werewolf",
     "name_en": "Herencia Espiritual",
     "name_es": "Herencia Espiritual",
-    "body_es": "Los Garou son criaturas de dualidad, divididos entre el hombre y el lobo, y entre la carne y el espíritu. Comparten una afinidad con el mundo espiritual, pero algunos tienen una conexión más fuerte que otros. Por alguna razón, quizás un lazo ancestral con una familia de espíritus, ciertos tipos de espíritus reaccionan de forma más positiva a ti que otros. Ésta no es necesariamente una relación amistosa: los espíritus pueden tenerte miedo y respetarte, maravillarse contigo o tener un sentido del deber hacia ti. Sin importar la naturaleza de la relación, la probabilidad de que un grupo de espíritus colabore contigo es mayor.\n\nCuando escojas este Trasfondo, elige un tipo de espíritu. Ejemplos de posibles grupos son los espíritus animales, espíritus de plantas, elementales, espíritus urbanos e incluso Perdiciones. Cuando trates con espíritus de este tipo, puedes añadir tu puntuación de Herencia Espiritual a cualquier tirada Social, o relacionada con los duelos. Los espíritus con los que estás en armonía te ven, hasta cierto punto, como uno de los suyos... una perspectiva desalentadora para quienes estén en armonía con las Perdiciones cuando otros Garou descubran su herencia. Si actúas contra esos espíritus o ignoras sus problemas, pueden considerarlo una traición.\n\n- Los espíritus pueden oler su aroma en ti, aunque nadie más pueda.",
+    "body_es": "Los Garou son criaturas de dualidad, divididos entre el hombre y el lobo, y entre la carne y el espíritu. Comparten una afinidad con el mundo espiritual, pero algunos tienen una conexión más fuerte que otros. Por alguna razón, quizás un lazo ancestral con una familia de espíritus, ciertos tipos de espíritus reaccionan de forma más positiva a ti que otros. Ésta no es necesariamente una relación amistosa: los espíritus pueden tenerte miedo y respetarte, maravillarse contigo o tener un sentido del deber hacia ti. Sin importar la naturaleza de la relación, la probabilidad de que un grupo de espíritus colabore contigo es mayor.\n\nCuando escojas este Trasfondo, elige un tipo de espíritu. Ejemplos de posibles grupos son los espíritus animales, espíritus de plantas, elementales, espíritus urbanos e incluso Perdiciones. Cuando trates con espíritus de este tipo, puedes añadir tu puntuación de Herencia Espiritual a cualquier tirada Social, o relacionada con los duelos. Los espíritus con los que estás en armonía te ven, hasta cierto punto, como uno de los suyos... una perspectiva desalentadora para quienes estén en armonía con las Perdiciones cuando otros Garou descubran su herencia. Si actúas contra esos espíritus o ignoras sus problemas, pueden considerarlo una traición.\n",
     "tags": [
       "trasfondo"
     ],
@@ -3186,8 +3186,7 @@
     ],
     "mechanics": {
       "bonus": "2",
-      "category": "mental",
-      "note": "Mal genio; agrava el control de la Furia (Rage) en Hombre Lobo. Equivalente Garou del Defecto Temperamental / Foul Temper."
+      "category": "mental"
     },
     "sources": [
       {
@@ -3198,15 +3197,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "foundry_bonuses": [
-      {
-        "type": "frenzy_diff",
-        "settingtype": "",
-        "value": 2,
-        "isactive": true
-      }
-    ]
+    "related": []
   },
   {
     "id": "territorial",
@@ -27209,6 +27200,30 @@
     "related": []
   },
   {
+    "id": "afinidad-umbral",
+    "type": "merit",
+    "line": "werewolf",
+    "name_en": "Afinidad Umbral",
+    "name_es": "Afinidad Umbral",
+    "body_es": "El personaje posee una conexión con la Umbra extraordinariamente fuerte, considera el valor de la Celosía 2 puntos menor que el real. Por 3 puntos, el personaje no necesita mirar un reflejo para [caminar de lado](/werewolf/merits/step-sideways).",
+    "tags": [
+      "sólo Nuwisha Danzante Umbral"
+    ],
+    "mechanics": {
+      "cost": "2-3"
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "afinidad-umbral",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
     "id": "madurez-temprana",
     "type": "merit",
     "line": "werewolf",
@@ -27251,6 +27266,30 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
         "page": null,
         "section_anchor": "venenoso",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "libre-de-los-yava",
+    "type": "merit",
+    "line": "werewolf",
+    "name_en": "Libre de los Yava",
+    "name_es": "Libre de los Yava",
+    "body_es": "Quizás un poderoso espíritu le concedió una bendición especial al personaje; tal vez sea un extraño prodigio. Sea cual sea la razón, el personaje no sufre la restricción de uno o más Yava: el Mérito de 3 puntos libera de un Yava, el de 4 de dos Yava y el de 5 de todos ellos.",
+    "tags": [
+      "sólo Ajaba y Bastet"
+    ],
+    "mechanics": {
+      "cost": "3, 4 o 5"
+    },
+    "sources": [
+      {
+        "book_id": "w20-nsr-aniversario-parte-3-290pp",
+        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
+        "page": null,
+        "section_anchor": "libre-de-los-yava",
         "variant": "base"
       }
     ],
@@ -27302,27 +27341,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "foundry_bonuses": [
-      {
-        "type": "attribute_diff",
-        "settingtype": "charisma",
-        "value": -2,
-        "isactive": false
-      },
-      {
-        "type": "attribute_diff",
-        "settingtype": "manipulation",
-        "value": -2,
-        "isactive": false
-      },
-      {
-        "type": "attribute_diff",
-        "settingtype": "appearance",
-        "value": -2,
-        "isactive": false
-      }
-    ]
+    "related": []
   },
   {
     "id": "vision-infrarroja",
@@ -27514,15 +27533,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "foundry_bonuses": [
-      {
-        "type": "attribute_diff",
-        "settingtype": "dexterity",
-        "value": 2,
-        "isactive": false
-      }
-    ]
+    "related": []
   },
   {
     "id": "microquiroptero",
@@ -27785,54 +27796,6 @@
         "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
         "page": null,
         "section_anchor": "rokea",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
-    "id": "afinidad-umbral",
-    "type": "merit",
-    "line": "werewolf",
-    "name_en": "Afinidad Umbral",
-    "name_es": "Afinidad Umbral",
-    "body_es": "El personaje posee una conexión con la Umbra extraordinariamente fuerte, considera el valor de la Celosía 2 puntos menor que el real. Por 3 puntos, el personaje no necesita mirar un reflejo para [caminar de lado](/werewolf/merits/step-sideways).",
-    "tags": [
-      "sólo Nuwisha Danzante Umbral"
-    ],
-    "mechanics": {
-      "cost": "2-3"
-    },
-    "sources": [
-      {
-        "book_id": "w20-nsr-aniversario-parte-3-290pp",
-        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
-        "page": null,
-        "section_anchor": "afinidad-umbral",
-        "variant": "base"
-      }
-    ],
-    "related": []
-  },
-  {
-    "id": "libre-de-los-yava",
-    "type": "merit",
-    "line": "werewolf",
-    "name_en": "Libre de los Yava",
-    "name_es": "Libre de los Yava",
-    "body_es": "Quizás un poderoso espíritu le concedió una bendición especial al personaje; tal vez sea un extraño prodigio. Sea cual sea la razón, el personaje no sufre la restricción de uno o más Yava: el Mérito de 3 puntos libera de un Yava, el de 4 de dos Yava y el de 5 de todos ellos.",
-    "tags": [
-      "sólo Ajaba y Bastet"
-    ],
-    "mechanics": {
-      "cost": "3, 4 o 5"
-    },
-    "sources": [
-      {
-        "book_id": "w20-nsr-aniversario-parte-3-290pp",
-        "book_title_es": "W20 NSR Aniversario - Parte 3 (290pp)",
-        "page": null,
-        "section_anchor": "libre-de-los-yava",
         "variant": "base"
       }
     ],

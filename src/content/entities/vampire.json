@@ -19,15 +19,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "foundry_bonuses": [
-      {
-        "type": "attribute_diff",
-        "settingtype": "manipulation",
-        "value": -2,
-        "isactive": false
-      }
-    ]
+    "related": []
   },
   {
     "id": "pacificador",
@@ -71,15 +63,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "foundry_bonuses": [
-      {
-        "type": "attribute_diff",
-        "settingtype": "manipulation",
-        "value": -2,
-        "isactive": false
-      }
-    ]
+    "related": []
   },
   {
     "id": "tribuna",
@@ -101,21 +85,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "foundry_bonuses": [
-      {
-        "type": "ability_diff",
-        "settingtype": "expression",
-        "value": -2,
-        "isactive": false
-      },
-      {
-        "type": "ability_diff",
-        "settingtype": "subterfuge",
-        "value": -2,
-        "isactive": false
-      }
-    ]
+    "related": []
   },
   {
     "id": "fecha-de-caducidad",
@@ -167,7 +137,7 @@
     "line": "vampire",
     "name_en": "Dominio",
     "name_es": "Dominio",
-    "body_es": "Dominio es un territorio físico (normalmente dentro de la ciudad principal de la crónica) cuyo acceso a efectos de alimentación controla tu personaje. Algunos Vástagos se refieren a sus dominios como territorios de Caza, y la mayoría los protege celosamente, invocando incluso la Tradición del mismo nombre para defender sus reclamaciones. Como parte de este Trasfondo, la reclamación del personaje sobre el dominio es reconocida por el Príncipe o cualquier otra autoridad de los Vástagos en la ciudad donde se localice.\n\nLos Vástagos que reclaman el dominio no pueden evitar que los residentes vivos salgan a sus negocios, ni ejercen ninguna [influencia](/vampire/backgrounds/influence) directa sobre ellos, pero pueden observar por sí mismos sus idas y venidas. Pueden tener [Aliados](/vampire/backgrounds/allies) o [Criados](/vampire/backgrounds/retainers) que vigilen específicamente si hay vampiros desconocidos y alerten al personaje cuando encuentren a alguno.\n\nDominio se refiere específicamente a la geografía (en muchos casos un vecindario o calle) y propiedades allí presentes, en oposición a la gente que puede habitar allí (que es en lo que hace hincapié [Rebaño](/vampire/backgrounds/rebano)). Juega una parte importante en la sociedad de los Vástagos (los vampiros que carecen de un Dominio significativo rara vez obtienen respeto) pero no da derecho automático a Posición entre los Condenados.\n\nPodrías dedicar uno o más puntos en Dominio para incrementar la seguridad del territorio de tu personaje en vez de su tamaño. Cada punto dedicado a seguridad otorga un penalización de +1 a la dificultad a los esfuerzos de cualquiera que se introduzca en el Dominio sin permiso expreso, y una mejora de -1 a la dificultad a los esfuerzos de tu personaje para identificar y rastrear a los intrusos. Un Dominio de un punto de tamaño y dos de seguridad, por ejemplo, es pequeño pero bastante resistente al allanamiento, al contrario de un Dominio de puntuación de tres puntos de tamaño sin seguridad extraordinaria.\n\nCada punto de Dominio reduce la dificultad para las pruebas de Caza en él de tu personaje y de aquéllos a quienes autorice. También se añade a tu reserva de Sangre inicial (no a la máxima). Si empleas la opción de seguridad, cada punto empleado aumenta la dificultad en +1 para vampiros no invitados. Ver pág. 259 para más información sobre la Caza.\n\nPara Dominio (tanto para tamaño como para seguridad) pueden emplearse puntos de Trasfondo Compartidos.\n\n- Un simple y pequeño edificio, como\n\nun hogar unifamiliar o un establecimiento social, suficiente para un refugio básico.\n\nComo ya se ha explicado con anterioridad, los personajes de una coterie pueden compartir sus [recursos](/vampire/backgrounds/resources) de Dominio para obtener mejores resultados. De seis a ocho puntos aseguran toda una ciudad pequeña o una parte específica de la ciudad como dominio. De 10 a 15 puntos aseguran un sector urbano importante pero no geográficamente extenso, como 'los muelles' o 'Highland Park'. Una gran ciudad en sí misma podría costar más de un centenar de puntos de Dominio, como Atlanta, Dallas, Ginebra o Bagdad. Una ciudad como Nueva York, Londres, París, Roma, São Paulo o Shanghai requeriría muchos cientos de puntos de Dominio.\n\n<!-- image -->",
+    "body_es": "Dominio es un territorio físico (normalmente dentro de la ciudad principal de la crónica) cuyo acceso a efectos de alimentación controla tu personaje. Algunos Vástagos se refieren a sus dominios como territorios de Caza, y la mayoría los protege celosamente, invocando incluso la Tradición del mismo nombre para defender sus reclamaciones. Como parte de este Trasfondo, la reclamación del personaje sobre el dominio es reconocida por el Príncipe o cualquier otra autoridad de los Vástagos en la ciudad donde se localice.\n\nLos Vástagos que reclaman el dominio no pueden evitar que los residentes vivos salgan a sus negocios, ni ejercen ninguna [influencia](/vampire/backgrounds/influence) directa sobre ellos, pero pueden observar por sí mismos sus idas y venidas. Pueden tener [Aliados](/vampire/backgrounds/allies) o [Criados](/vampire/backgrounds/retainers) que vigilen específicamente si hay vampiros desconocidos y alerten al personaje cuando encuentren a alguno.\n\nDominio se refiere específicamente a la geografía (en muchos casos un vecindario o calle) y propiedades allí presentes, en oposición a la gente que puede habitar allí (que es en lo que hace hincapié [Rebaño](/vampire/backgrounds/rebano)). Juega una parte importante en la sociedad de los Vástagos (los vampiros que carecen de un Dominio significativo rara vez obtienen respeto) pero no da derecho automático a Posición entre los Condenados.\n\nPodrías dedicar uno o más puntos en Dominio para incrementar la seguridad del territorio de tu personaje en vez de su tamaño. Cada punto dedicado a seguridad otorga un penalización de +1 a la dificultad a los esfuerzos de cualquiera que se introduzca en el Dominio sin permiso expreso, y una mejora de -1 a la dificultad a los esfuerzos de tu personaje para identificar y rastrear a los intrusos. Un Dominio de un punto de tamaño y dos de seguridad, por ejemplo, es pequeño pero bastante resistente al allanamiento, al contrario de un Dominio de puntuación de tres puntos de tamaño sin seguridad extraordinaria.\n\nCada punto de Dominio reduce la dificultad para las pruebas de Caza en él de tu personaje y de aquéllos a quienes autorice. También se añade a tu reserva de Sangre inicial (no a la máxima). Si empleas la opción de seguridad, cada punto empleado aumenta la dificultad en +1 para vampiros no invitados. Ver pág. 259 para más información sobre la Caza.\n\nPara Dominio (tanto para tamaño como para seguridad) pueden emplearse puntos de Trasfondo Compartidos.\n\nComo ya se ha explicado con anterioridad, los personajes de una coterie pueden compartir sus [recursos](/vampire/backgrounds/resources) de Dominio para obtener mejores resultados. De seis a ocho puntos aseguran toda una ciudad pequeña o una parte específica de la ciudad como dominio. De 10 a 15 puntos aseguran un sector urbano importante pero no geográficamente extenso, como 'los muelles' o 'Highland Park'. Una gran ciudad en sí misma podría costar más de un centenar de puntos de Dominio, como Atlanta, Dallas, Ginebra o Bagdad. Una ciudad como Nueva York, Londres, París, Roma, São Paulo o Shanghai requeriría muchos cientos de puntos de Dominio.\n\n<!-- image -->",
     "tags": [
       "trasfondo"
     ],
@@ -176,7 +146,7 @@
       "ratings": [
         {
           "rating": 1,
-          "body_es": "Un simple y pequeño edificio, como"
+          "body_es": "Un simple y pequeño edificio, como un hogar unifamiliar o un establecimiento social, suficiente para un refugio básico."
         },
         {
           "rating": 2,
@@ -224,7 +194,16 @@
     "tags": [
       "clan"
     ],
-    "mechanics": {},
+    "mechanics": {
+      "disciplines": [
+        "Los Caitiff son capaces de escoger cualquier Disciplina en la creación del personaje",
+        "siempre con la aprobación del Narrador. Sin embargo",
+        "el coste para incrementar todas las Disciplinas con puntos de Experiencia es de seis veces el valor actual",
+        "en vez de los habituales cinco para las Disciplinas de Clan",
+        "siete para las Disciplinas fuera de Clan"
+      ],
+      "weakness": "Debido a su estigma social, los Caitiff son incapaces de comprar el Trasfondo Estatus en la creación del personaje. Además de ser un 'Clan', Caitiff es también un título negativo (ver pág. 27). Hasta el momento en que el Caitiff se haya establecido en un dominio o grupo social, tiene un +2 a la dificultad en todas las tiradas Sociales con vampiros que no sean Caitiff. Cuando un Caitiff concede el Abrazo, sus Chiquillos son también Caitiff."
+    },
     "sources": [
       {
         "book_id": "v20-anarquistas-liberados-es",
@@ -237,11 +216,14 @@
         "book_id": "v20-companion-es",
         "book_title_es": "V20 Companion (ES)",
         "page": null,
-        "section_anchor": "caitiff",
+        "section_anchor": "caitiff-titulo-negativo",
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "weakness": "Debido a su estigma social, los Caitiff son incapaces de comprar el Trasfondo <a href=\"/vampire/backgrounds/status\">Estatus</a> en la creación del personaje. Además de ser un &#x27;Clan&#x27;, Caitiff es también un título negativo (ver pág. 27). Hasta el momento en que el Caitiff se haya establecido en un <a href=\"/vampire/backgrounds/domain\">dominio</a> o grupo social, tiene un +2 a la dificultad en todas las tiradas Sociales con vampiros que no sean Caitiff. Cuando un Caitiff concede el Abrazo, sus Chiquillos son también Caitiff."
+    }
   },
   {
     "id": "brujah",
@@ -265,13 +247,6 @@
       {
         "book_id": "v20-anarquistas-liberados-es",
         "book_title_es": "V20 Anarquistas Liberados (ES)",
-        "page": null,
-        "section_anchor": "brujah",
-        "variant": "base"
-      },
-      {
-        "book_id": "v20-core-rulebook-es",
-        "book_title_es": "V20 Core Rulebook (ES)",
         "page": null,
         "section_anchor": "brujah",
         "variant": "base"
@@ -340,13 +315,6 @@
         "page": null,
         "section_anchor": "lasombra",
         "variant": "base"
-      },
-      {
-        "book_id": "v20-core-rulebook-es",
-        "book_title_es": "V20 Core Rulebook (ES)",
-        "page": null,
-        "section_anchor": "lasombra",
-        "variant": "base"
       }
     ],
     "related": []
@@ -412,13 +380,6 @@
         "page": null,
         "section_anchor": "nosferatu",
         "variant": "base"
-      },
-      {
-        "book_id": "v20-core-rulebook-es",
-        "book_title_es": "V20 Core Rulebook (ES)",
-        "page": null,
-        "section_anchor": "nosferatu",
-        "variant": "base"
       }
     ],
     "related": []
@@ -445,13 +406,6 @@
       {
         "book_id": "v20-anarquistas-liberados-es",
         "book_title_es": "V20 Anarquistas Liberados (ES)",
-        "page": null,
-        "section_anchor": "toreador",
-        "variant": "base"
-      },
-      {
-        "book_id": "v20-core-rulebook-es",
-        "book_title_es": "V20 Core Rulebook (ES)",
         "page": null,
         "section_anchor": "toreador",
         "variant": "base"
@@ -556,13 +510,6 @@
       {
         "book_id": "v20-anarquistas-liberados-es",
         "book_title_es": "V20 Anarquistas Liberados (ES)",
-        "page": null,
-        "section_anchor": "ventrue",
-        "variant": "base"
-      },
-      {
-        "book_id": "v20-core-rulebook-es",
-        "book_title_es": "V20 Core Rulebook (ES)",
         "page": null,
         "section_anchor": "ventrue",
         "variant": "base"
@@ -1176,7 +1123,7 @@
     "line": "vampire",
     "name_en": "Generación",
     "name_es": "Generación",
-    "body_es": "Este Trasfondo representa tu Generación: la pureza de tu Sangre y tu proximidad al Primer Vampiro. Una puntuación alta en Generación puede representar un Sire poderoso o un gusto decididamente peligroso por la Diablerie. Si no adquieres ningún punto en este Rasgo, comienzas jugando como un vampiro de la Decimotercera Generación. Ver pág. 270 para más información.\n\n- Duodécima Generación: reserva de Sangre 11, puedes gastar 1 punto de Sangre por turno.\n",
+    "body_es": "Este Trasfondo representa tu Generación: la pureza de tu Sangre y tu proximidad al Primer Vampiro. Una puntuación alta en Generación puede representar un Sire poderoso o un gusto decididamente peligroso por la Diablerie. Si no adquieres ningún punto en este Rasgo, comienzas jugando como un vampiro de la Decimotercera Generación. Ver pág. 270 para más información.\n",
     "tags": [
       "trasfondo"
     ],
@@ -1360,7 +1307,7 @@
     "line": "vampire",
     "name_en": "Recursos",
     "name_es": "Recursos",
-    "body_es": "Recursos son los bienes valiosos que están a disposición de tu personaje. Estas posesiones pueden ser dinero en efectivo, pero cuando este Trasfondo se incrementa, es más probable que sean inversiones, propiedades o réditos de capitales de alguna clase: tierras, inversiones industriales, acciones y bonos, mercancías, infraestructuras criminales, contrabando o incluso impuestos o diezmos. Recuerda que los vampiros no necesitan disponer de comida excepto Sangre y que sus necesidades reales (opuestas a sus preferencias) de cobijo son muy asequibles. Los Recursos para los vampiros consisten principalmente en pagar los lujos y gastos asociados al desarrollo y mantenimiento de [Estatus](/vampire/backgrounds/status), [Influencia](/vampire/backgrounds/influence) y otros Trasfondos. Un personaje sin puntos en Recursos puede tener suficiente ropa y suministros para salir adelante o podría ser un indigente que ocupa el embalaje de un frigorífico debajo de un puente.\n\nRecibes una renta básica cada mes basada en tu puntuación, así que asegúrate de detallar exactamente de dónde viene este dinero, sea un trabajo, un fideicomiso o dividendos. (Los Narradores deciden según tu localización y un período de tiempo relevante una cantidad de dinero en efectivo adecuada para tu renta mensual). Después de todo, la fortuna de un Vástago podría muy bien agotarse en el transcurso de una crónica, dependiendo de cómo de bien la mantenga. También puedes vender tus recursos menos líquidos si necesitas efectivo, pero esto puede requerir semanas o incluso meses, dependiendo de lo que trates de vender en concreto. Los compradores de arte no caen de los árboles después de todo.\n\nLos jugadores pueden adquirir Recursos para sus personajes con puntos de Trasfondo Compartido.\n\n- Suficiente. Puedes mantener una residencia típica de la clase trabajadora con estabilidad, incluso con infrecuentes derroches.\n",
+    "body_es": "Recursos son los bienes valiosos que están a disposición de tu personaje. Estas posesiones pueden ser dinero en efectivo, pero cuando este Trasfondo se incrementa, es más probable que sean inversiones, propiedades o réditos de capitales de alguna clase: tierras, inversiones industriales, acciones y bonos, mercancías, infraestructuras criminales, contrabando o incluso impuestos o diezmos. Recuerda que los vampiros no necesitan disponer de comida excepto Sangre y que sus necesidades reales (opuestas a sus preferencias) de cobijo son muy asequibles. Los Recursos para los vampiros consisten principalmente en pagar los lujos y gastos asociados al desarrollo y mantenimiento de [Estatus](/vampire/backgrounds/status), [Influencia](/vampire/backgrounds/influence) y otros Trasfondos. Un personaje sin puntos en Recursos puede tener suficiente ropa y suministros para salir adelante o podría ser un indigente que ocupa el embalaje de un frigorífico debajo de un puente.\n\nRecibes una renta básica cada mes basada en tu puntuación, así que asegúrate de detallar exactamente de dónde viene este dinero, sea un trabajo, un fideicomiso o dividendos. (Los Narradores deciden según tu localización y un período de tiempo relevante una cantidad de dinero en efectivo adecuada para tu renta mensual). Después de todo, la fortuna de un Vástago podría muy bien agotarse en el transcurso de una crónica, dependiendo de cómo de bien la mantenga. También puedes vender tus recursos menos líquidos si necesitas efectivo, pero esto puede requerir semanas o incluso meses, dependiendo de lo que trates de vender en concreto. Los compradores de arte no caen de los árboles después de todo.\n\nLos jugadores pueden adquirir Recursos para sus personajes con puntos de Trasfondo Compartido.\n",
     "tags": [
       "trasfondo"
     ],
@@ -20332,15 +20279,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "foundry_bonuses": [
-      {
-        "type": "attribute_diff",
-        "settingtype": "perception",
-        "value": 1,
-        "isactive": true
-      }
-    ]
+    "related": []
   },
   {
     "id": "quietud-de-la-muerte",
@@ -20670,15 +20609,7 @@
         "variant": "base"
       }
     ],
-    "related": [],
-    "foundry_bonuses": [
-      {
-        "type": "attribute_diff",
-        "settingtype": "appearance",
-        "value": -3,
-        "isactive": true
-      }
-    ]
+    "related": []
   },
   {
     "id": "piel-de-porcelana",
@@ -20989,6 +20920,30 @@
     "related": []
   },
   {
+    "id": "tercer-ojo-permanente",
+    "type": "flaw",
+    "line": "vampire",
+    "name_en": "Tercer Ojo Permanente",
+    "name_es": "Tercer Ojo Permanente",
+    "body_es": "Aunque la mayoría de terceros ojos sellados parecen una ligera cicatriz, el tuyo permanece abierto siempre. Por 2 puntos, está apenas abierto y puedes cerrarlo durante una escena con una tirada de Fuerza de Voluntad a dificultad 6. Por 4 puntos, arroja luz, lo que incrementa la dificultad de todas las tiradas de Sigilo en 2.",
+    "tags": [
+      "sólo Salubri y Tremere"
+    ],
+    "mechanics": {
+      "bonus": "2 o 4"
+    },
+    "sources": [
+      {
+        "book_id": "v20-nsr-aniversario-es",
+        "book_title_es": "V20 NSR Aniversario (ES)",
+        "page": null,
+        "section_anchor": "tercer-ojo-permanente",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
     "id": "el-octavo",
     "type": "flaw",
     "line": "vampire",
@@ -21181,38 +21136,6 @@
         "book_title_es": "V20 NSR Aniversario (ES)",
         "page": null,
         "section_anchor": "fuera-de-fase",
-        "variant": "base"
-      }
-    ],
-    "related": [],
-    "foundry_bonuses": [
-      {
-        "type": "attribute_diff",
-        "settingtype": "perception",
-        "value": 2,
-        "isactive": true
-      }
-    ]
-  },
-  {
-    "id": "tercer-ojo-permanente",
-    "type": "flaw",
-    "line": "vampire",
-    "name_en": "Tercer Ojo Permanente",
-    "name_es": "Tercer Ojo Permanente",
-    "body_es": "Aunque la mayoría de terceros ojos sellados parecen una ligera cicatriz, el tuyo permanece abierto siempre. Por 2 puntos, está apenas abierto y puedes cerrarlo durante una escena con una tirada de Fuerza de Voluntad a dificultad 6. Por 4 puntos, arroja luz, lo que incrementa la dificultad de todas las tiradas de Sigilo en 2.",
-    "tags": [
-      "sólo Salubri y Tremere"
-    ],
-    "mechanics": {
-      "bonus": "2 o 4"
-    },
-    "sources": [
-      {
-        "book_id": "v20-nsr-aniversario-es",
-        "book_title_es": "V20 NSR Aniversario (ES)",
-        "page": null,
-        "section_anchor": "tercer-ojo-permanente",
         "variant": "base"
       }
     ],
