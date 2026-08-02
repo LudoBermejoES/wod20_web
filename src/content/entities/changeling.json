@@ -3171,12 +3171,70 @@
     "line": "changeling",
     "name_en": "Quimera",
     "name_es": "Quimera",
-    "body_es": "Quimera incluye tanto objetos como compañeros quiméricos. El jugador debe designar una o ambas posibilidades en la hoja de personaje. Este Trasfondo puede tener hasta 5 puntos en ambas versiones. Para más información sobre los objetos quiméricos, la creación de compañeros a partir de los puntos de Trasfondo y ejemplos, ver el Capítulo Siete: El Ensueño.",
+    "body_es": "Quimera incluye tanto objetos como compañeros quiméricos. El jugador debe designar una o ambas posibilidades en la hoja de personaje. Este Trasfondo puede tener hasta 5 puntos en ambas versiones. Para más información sobre los objetos quiméricos, la creación de compañeros a partir de los puntos de Trasfondo y ejemplos, ver el Capítulo Siete: El Ensueño.\n\n## objEtos QUimériCos\n\nEl Velo de todo changeling, su ropa quimérica, se crea en el momento de su Crisálida para vestirlo. El Trasfondo Quimera representa cualquier [objeto](/changeling/realms/prop) quimérico que posea más allá de eso. La utilidad y el poder del [objeto](/changeling/realms/prop) determinan el valor del Trasfondo. Cada punto representa un nivel en la tabla de umbral recogida en el epígrafe 'Crear objetos quiméricos' de la pág. 317.\n\n## CompañEros QUimériCos\n\nLos compañeros son quimeras vivientes que, o bien han nacido de sueños involuntarios, o bien se les ha dado forma a partir del material en bruto de los sueños y luego un changeling les ha insuflado vida. Aunque el personaje haya forjado una amistad o un vínculo con una quimera, las más poderosas tienen motivaciones propias que pueden en ocasiones entrar en conflicto con las de sus compañeros. Cuanto más alto sea el valor de este Trasfondo, tantos más puntos tiene el jugador para construir a su compañero mediante el sistema descrito en la pág. 320.\n",
     "tags": [
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "scales": [
+        {
+          "key": "objetos-quimericos",
+          "name_es": "Objetos Quiméricos",
+          "rating_max": 5,
+          "allocation": "independent",
+          "ratings": [
+            {
+              "rating": 1,
+              "body_es": "Posees un recuerdo o algo que pueda dar tema de conversación de corte quimérico (elaboración básica)."
+            },
+            {
+              "rating": 2,
+              "body_es": "Tu objeto quimérico proporciona algún beneficio útil (elaboración avanzada)."
+            },
+            {
+              "rating": 3,
+              "body_es": "Tienes un objeto quimérico moderadamente poderoso (elaboración compleja)."
+            },
+            {
+              "rating": 4,
+              "body_es": "Posees un poderoso objeto quimérico (elaboración maestra)."
+            },
+            {
+              "rating": 5,
+              "body_es": "Tu objeto quimérico es legendario (elaboración legendaria)."
+            }
+          ]
+        },
+        {
+          "key": "companeros-quimericos",
+          "name_es": "Compañeros Quiméricos",
+          "rating_max": 5,
+          "allocation": "independent",
+          "ratings": [
+            {
+              "rating": 1,
+              "body_es": "Tienes una mascota quimérica sencilla (20 puntos)."
+            },
+            {
+              "rating": 2,
+              "body_es": "Tu quimera tiene algo de inteligencia y puede comunicarse (25 puntos)."
+            },
+            {
+              "rating": 3,
+              "body_es": "La quimera es capaz de hablar con claridad y a menudo tiene ideas propias (30 puntos)."
+            },
+            {
+              "rating": 4,
+              "body_es": "Tienes una quimera muy inteligente que a menudo resulta de gran ayuda (40 puntos)."
+            },
+            {
+              "rating": 5,
+              "body_es": "Tu amigo es una antigua o poderosa quimera que se ha forjado una leyenda (60 puntos)."
+            }
+          ]
+        }
+      ]
     },
     "sources": [
       {
