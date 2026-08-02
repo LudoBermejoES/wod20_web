@@ -1046,12 +1046,34 @@
     "line": "hunter",
     "name_en": "Arsenal",
     "name_es": "Arsenal",
-    "body_es": "Un cazador con Armas de Fuego puede llevar a cabo tareas sencillas con armas, como limpiar una; pero, sin un verdadero arsenal, es difícil mantener armas en condiciones de uso. Tu cazador ha logrado almacenar un arsenal funcional junto con la habilidad de mantener todas las armas en él. Cada nivel del Trasfondo Arsenal proporciona acceso a armas más potentes junto con los [recursos](/hunter/backgrounds/resources) para mantenerlas y limpiarlas de forma apropiada, y la munición adecuada.\n\nEl alcance de este Trasfondo varía ligeramente de una región a otra, ya que las leyes de control de armas no son iguales en todo el mundo. Lo que un estadounidense puede comprar en unos grandes almacenes podría ser de uso exclusivamente militar en Rumanía, y los jugadores que deseen invertir puntos en Arsenal deberían consultar con su Narrador para determinar cómo funcionará en donde esté localizada su crónica. El Narrador puede pedirte que inviertas algunos puntos en otro Trasfondo (como ciertos tipos de [Influencia](/hunter/backgrounds/influence) o [Aliados](/hunter/backgrounds/allies) legales o militares) para impedir que el Arsenal sea confiscado por las autoridades. Un Arsenal puede desvanecerse en mucho menos tiempo del que lleva acumularlo, especialmente si su conservador es dado a vociferar acerca de monstruos chupasangre y la corrupción que llega hasta lo más alto.\n\nPara más detalles sobre armas específicas, incluyendo mecánicas de juego, ver las pág. 280-281 del V20.\n\nLos jugadores pueden optar por compartir el Trasfondo para un Arsenal común. Para más información sobre Trasfondos Compartidos, ver pág. 118-119 del V20.\n\n·\n\nTienes un excelente arsenal con el que comenzar, que incluye muchas armas legales que están disponibles de forma habitual en las calles. Este nivel da acceso a una cantidad de armas adicionales en función de la zona.\n\n- ·· Tienes acceso a suficiente armamento legal como para equipar a una banda callejera de 10 hombres.\n- ··· Podrías fundar tu propia milicia. Además, puedes equipar a cinco individuos con armamento que se encuentra en un vacío legal en tu región, el cual sería difícil de conseguir para la mayoría de los civiles.\n- ···· Tienes un arsenal apropiado para un equipo del SWAT en una ciudad importante, incluyendo cierto equipamiento de grado militar. Tienes suficiente material para equipar a 10 hombres con armamento puntero, el cual está por encima del proporcionado por los niveles inferiores de este Trasfondo. Sé cuidadoso cuando lo uses, porque sin otros Trasfondos adecuados, puedes encontrarte bajo el escrutinio de las autoridades por posesión de armamento fuera de lo estrictamente legal.\n- ····· Tu arsenal es la envidia de las fuerzas paramilitares del mundo. Tienes las herramientas para limpiar y reparar casi cualquier arma personal que se produce en el mundo. Tienes acceso a una cantidad significativa de armas ilegales en la mayoría de los países, de las que acumulas suficientes como para crear tu propio pelotón. Si las autoridades descubriesen este arsenal,\n\ntu cazador estaría en serio peligro de ir a la cárcel durante mucho tiempo; asumiendo que no haya un asalto armado que lo amenace de forma más inmediata.",
+    "body_es": "Un cazador con Armas de Fuego puede llevar a cabo tareas sencillas con armas, como limpiar una; pero, sin un verdadero arsenal, es difícil mantener armas en condiciones de uso. Tu cazador ha logrado almacenar un arsenal funcional junto con la habilidad de mantener todas las armas en él. Cada nivel del Trasfondo Arsenal proporciona acceso a armas más potentes junto con los [recursos](/hunter/backgrounds/resources) para mantenerlas y limpiarlas de forma apropiada, y la munición adecuada.\n\nEl alcance de este Trasfondo varía ligeramente de una región a otra, ya que las leyes de control de armas no son iguales en todo el mundo. Lo que un estadounidense puede comprar en unos grandes almacenes podría ser de uso exclusivamente militar en Rumanía, y los jugadores que deseen invertir puntos en Arsenal deberían consultar con su Narrador para determinar cómo funcionará en donde esté localizada su crónica. El Narrador puede pedirte que inviertas algunos puntos en otro Trasfondo (como ciertos tipos de [Influencia](/hunter/backgrounds/influence) o [Aliados](/hunter/backgrounds/allies) legales o militares) para impedir que el Arsenal sea confiscado por las autoridades. Un Arsenal puede desvanecerse en mucho menos tiempo del que lleva acumularlo, especialmente si su conservador es dado a vociferar acerca de monstruos chupasangre y la corrupción que llega hasta lo más alto.\n\nPara más detalles sobre armas específicas, incluyendo mecánicas de juego, ver las pág. 280-281 del V20.\n\nLos jugadores pueden optar por compartir el Trasfondo para un Arsenal común. Para más información sobre Trasfondos Compartidos, ver pág. 118-119 del V20.\n",
     "tags": [
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Tienes un excelente arsenal con el que comenzar, que incluye muchas armas legales que están disponibles de forma habitual en las calles. Este nivel da acceso a una cantidad de armas adicionales en función de la zona."
+        },
+        {
+          "rating": 2,
+          "body_es": "Tienes acceso a suficiente armamento legal como para equipar a una banda callejera de 10 hombres."
+        },
+        {
+          "rating": 3,
+          "body_es": "Podrías fundar tu propia milicia. Además, puedes equipar a cinco individuos con armamento que se encuentra en un vacío legal en tu región, el cual sería difícil de conseguir para la mayoría de los civiles."
+        },
+        {
+          "rating": 4,
+          "body_es": "Tienes un arsenal apropiado para un equipo del SWAT en una ciudad importante, incluyendo cierto equipamiento de grado militar. Tienes suficiente material para equipar a 10 hombres con armamento puntero, el cual está por encima del proporcionado por los niveles inferiores de este Trasfondo. Sé cuidadoso cuando lo uses, porque sin otros Trasfondos adecuados, puedes encontrarte bajo el escrutinio de las autoridades por posesión de armamento fuera de lo estrictamente legal."
+        },
+        {
+          "rating": 5,
+          "body_es": "Tu arsenal es la envidia de las fuerzas paramilitares del mundo. Tienes las herramientas para limpiar y reparar casi cualquier arma personal que se produce en el mundo. Tienes acceso a una cantidad significativa de armas ilegales en la mayoría de los países, de las que acumulas suficientes como para crear tu propio pelotón. Si las autoridades descubriesen este arsenal, tu cazador estaría en serio peligro de ir a la cárcel durante mucho tiempo; asumiendo que no haya un asalto armado que lo amenace de forma más inmediata."
+        }
+      ]
     },
     "sources": [
       {
@@ -1070,12 +1092,34 @@
     "line": "hunter",
     "name_en": "Base de Operaciones",
     "name_es": "Base de Operaciones",
-    "body_es": "Una base de operaciones es un lugar seguro controlado y poseído por tu cazador. Este lugar es un cuartel general donde puede descansar, entrenar y planear sus próximos ataques. Puede ser tan sencillo como un apartamento sin amueblar, tan grande como la mansión de un senador o tan complejo como una base militar.\n\nLos jugadores que escojan adquirir este Trasfondo deben dividir sus puntos entre las tres categorías siguientes. Además, se puede compartir la compra de este Trasfondo por medio del sistema de Trasfondos Compartidos explicado en las pág. 118-119 del V20.\n\nLujo es una medida de la calidad del mobiliario de la base. El nivel de Lujo varía desde lo sobrio a lo opulento, correspondiendo de forma somera con un Trasfondo [Recursos](/hunter/backgrounds/resources) de igual valor (ver pág. 116-117 del V20).\n\n- • Compraste tus muebles en una tienda de segunda mano o en algún otro vendedor barato.\n- ··\n\nTu base ha sido decorada y equipada de forma modesta. Tienes los requerimientos básicos que cabría esperar del estilo de vida del Primer Mundo (siempre que esto sea apropiado).\n\n- ··· Tu base es relativamente confortable y cuenta con diversas comodidades.\n- ···· Tu base ofrece un respiro a la horrible realidad de matar vampiros, y es única tanto en diseño como en apariencia.\n- ····· Tu base exhibe un grado de ostentación del que sólo los más extremadamente ricos o las celebridades suelen disfrutar.",
+    "body_es": "Una base de operaciones es un lugar seguro controlado y poseído por tu cazador. Este lugar es un cuartel general donde puede descansar, entrenar y planear sus próximos ataques. Puede ser tan sencillo como un apartamento sin amueblar, tan grande como la mansión de un senador o tan complejo como una base militar.\n\nLos jugadores que escojan adquirir este Trasfondo deben dividir sus puntos entre las tres categorías siguientes. Además, se puede compartir la compra de este Trasfondo por medio del sistema de Trasfondos Compartidos explicado en las pág. 118-119 del V20.\n\nLujo es una medida de la calidad del mobiliario de la base. El nivel de Lujo varía desde lo sobrio a lo opulento, correspondiendo de forma somera con un Trasfondo [Recursos](/hunter/backgrounds/resources) de igual valor (ver pág. 116-117 del V20).\n",
     "tags": [
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Compraste tus muebles en una tienda de segunda mano o en algún otro vendedor barato."
+        },
+        {
+          "rating": 2,
+          "body_es": "Tu base ha sido decorada y equipada de forma modesta. Tienes los requerimientos básicos que cabría esperar del estilo de vida del Primer Mundo (siempre que esto sea apropiado)."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tu base es relativamente confortable y cuenta con diversas comodidades."
+        },
+        {
+          "rating": 4,
+          "body_es": "Tu base ofrece un respiro a la horrible realidad de matar vampiros, y es única tanto en diseño como en apariencia."
+        },
+        {
+          "rating": 5,
+          "body_es": "Tu base exhibe un grado de ostentación del que sólo los más extremadamente ricos o las celebridades suelen disfrutar."
+        }
+      ]
     },
     "sources": [
       {
@@ -1094,12 +1138,34 @@
     "line": "hunter",
     "name_en": "Guía",
     "name_es": "Guía",
-    "body_es": "Debido a la suerte, al destino o a un capricho, una misteriosa entidad espiritual ha decidido ayudar a tu cazador en su misión de acechar a los vampiros. Tales guías rara vez se presentan abiertamente, en su lugar prefieren imponer sus fines mediante sueños, signos y portentos. Uno puede aparecer como un fantasma en el espejo. Otro podría hacerlo en un antiquísimo retrato de un pariente fallecido tiempo atrás que ofrece consejos, o mediante escalofriantes efectos ambientales, como una sala siempre envuelta en una sombra consciente.\n\nPor lo general, tales entidades están muy interesadas en el bienestar (o al menos en los puntos débiles) de los mortales, pero poseen motivos ocultos para alentar ciertos tipos de comportamientos en sus compañeros. Estas criaturas, hábiles y sabias en términos mágicos, y poseedoras de sentidos inhumanos, tienen mucho que ofrecer a sus patronos. No son necesariamente fantasmas o espíritus, pero bien pueden estar entre las anomalías menos clasificables del Mundo de Tinieblas.\n\nPor supuesto, nada es gratis, y esta relación es probablemente bidireccional. Los Guías esperan un tratamiento especial, lo que incluye comida, refugio, compañía y/o hasta misteriosas necesidades sobrenaturales. Puede que hasta sangre…\n\nSi buscas invertir en el Trasfondo Guía, deberías colaborar con el Narrador para crear una personalidad interesante y única que tenga una buena razón para compartir el destino de tu personaje e influir en su comportamiento.\n\n- • Guía débil: Una entidad con limitado conocimiento ocultista que puede afectar al mundo sólo con gran dificultad. No siempre está disponible y de vez en cuando puede proporcionar información errónea.\n- ·· Guía menor: Esta entidad sabe bastante sobre lo oculto y los vampiros, pero encuentra difícil afectar al mundo material y sólo lo hará cuando se amolde a sus fines. Te ayudará, pero está limitada en lo que puede hacer, especialmente en lo que respecta a ser capaz de manipular objetos físicos.\n\n···\n\nGuía apto: Un Guía de esta fuerza bien puede ser una entidad reconocida en el mundo espiritual. Te ayudará con conocimientos y entrenamiento y, cuando sea adecuado, luchará por ti, posiblemente esgrimiendo Númina menores por ti (ver Capítulo Cuatro).\n\n- ···· Guía fuerte: Tu Guía es bastante poderoso, puede que hasta un personaje significativo en los reinos espirituales o de los muertos. Esta entidad tiene mucha experiencia en lo oculto, y es consciente de las idas y venidas del mundo vampírico. Está dispuesto a ayudarte con Númina mayores una vez por historia (ver Capítulo Cuatro).\n- ····· Guía poderoso: Esta entidad puede andar entre el mundo espiritual y el material y hacer uso de dos Númina mayores. Puede ayudarte si lo considera adecuado, pero puede exigir favores u homenajes a cambio.",
+    "body_es": "Debido a la suerte, al destino o a un capricho, una misteriosa entidad espiritual ha decidido ayudar a tu cazador en su misión de acechar a los vampiros. Tales guías rara vez se presentan abiertamente, en su lugar prefieren imponer sus fines mediante sueños, signos y portentos. Uno puede aparecer como un fantasma en el espejo. Otro podría hacerlo en un antiquísimo retrato de un pariente fallecido tiempo atrás que ofrece consejos, o mediante escalofriantes efectos ambientales, como una sala siempre envuelta en una sombra consciente.\n\nPor lo general, tales entidades están muy interesadas en el bienestar (o al menos en los puntos débiles) de los mortales, pero poseen motivos ocultos para alentar ciertos tipos de comportamientos en sus compañeros. Estas criaturas, hábiles y sabias en términos mágicos, y poseedoras de sentidos inhumanos, tienen mucho que ofrecer a sus patronos. No son necesariamente fantasmas o espíritus, pero bien pueden estar entre las anomalías menos clasificables del Mundo de Tinieblas.\n\nPor supuesto, nada es gratis, y esta relación es probablemente bidireccional. Los Guías esperan un tratamiento especial, lo que incluye comida, refugio, compañía y/o hasta misteriosas necesidades sobrenaturales. Puede que hasta sangre…\n\nSi buscas invertir en el Trasfondo Guía, deberías colaborar con el Narrador para crear una personalidad interesante y única que tenga una buena razón para compartir el destino de tu personaje e influir en su comportamiento.\n",
     "tags": [
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Guía débil: Una entidad con limitado conocimiento ocultista que puede afectar al mundo sólo con gran dificultad. No siempre está disponible y de vez en cuando puede proporcionar información errónea."
+        },
+        {
+          "rating": 2,
+          "body_es": "Guía menor: Esta entidad sabe bastante sobre lo oculto y los vampiros, pero encuentra difícil afectar al mundo material y sólo lo hará cuando se amolde a sus fines. Te ayudará, pero está limitada en lo que puede hacer, especialmente en lo que respecta a ser capaz de manipular objetos físicos."
+        },
+        {
+          "rating": 3,
+          "body_es": "Guía apto: Un Guía de esta fuerza bien puede ser una entidad reconocida en el mundo espiritual. Te ayudará con conocimientos y entrenamiento y, cuando sea adecuado, luchará por ti, posiblemente esgrimiendo Númina menores por ti (ver Capítulo Cuatro)."
+        },
+        {
+          "rating": 4,
+          "body_es": "Guía fuerte: Tu Guía es bastante poderoso, puede que hasta un personaje significativo en los reinos espirituales o de los muertos. Esta entidad tiene mucha experiencia en lo oculto, y es consciente de las idas y venidas del mundo vampírico. Está dispuesto a ayudarte con Númina mayores una vez por historia (ver Capítulo Cuatro)."
+        },
+        {
+          "rating": 5,
+          "body_es": "Guía poderoso: Esta entidad puede andar entre el mundo espiritual y el material y hacer uso de dos Númina mayores. Puede ayudarte si lo considera adecuado, pero puede exigir favores u homenajes a cambio."
+        }
+      ]
     },
     "sources": [
       {
@@ -1118,12 +1184,34 @@
     "line": "hunter",
     "name_en": "Estatus",
     "name_es": "Estatus",
-    "body_es": "Eres un Inquisidor de categoría dentro de la Sociedad de Leopoldo. Tal distinción podría provenir de una reputación de dedicación al trabajo, de matar a un sirviente del Diablo particularmente poderoso, de la realización de un milagro, la reunión de conocimiento esotérico o de simple longevidad, algo raro entre los cazadores de brujas. Como en cualquier institución, tener amigos en lugares importantes también ayuda. A pesar de su Estatus, un miembro de la Sociedad siempre es denominado Inquisidor. Un Inquisidor sin puntuación de Estatus comienza como Novicio.\n\nCuando trates con Inquisidores de menos Estatus, aplica la diferencia de Estatus como bonificación a todas las tiradas Sociales.\n\n- •\n\nTerciario.\n\n- ••\n\nConsejero.\n\n•••\n\nAbad.\n\n- ••••\n\nCensor.\n\n- •••••\n\nMinistro Provincial.",
+    "body_es": "Eres un Inquisidor de categoría dentro de la Sociedad de Leopoldo. Tal distinción podría provenir de una reputación de dedicación al trabajo, de matar a un sirviente del Diablo particularmente poderoso, de la realización de un milagro, la reunión de conocimiento esotérico o de simple longevidad, algo raro entre los cazadores de brujas. Como en cualquier institución, tener amigos en lugares importantes también ayuda. A pesar de su Estatus, un miembro de la Sociedad siempre es denominado Inquisidor. Un Inquisidor sin puntuación de Estatus comienza como Novicio.\n\nCuando trates con Inquisidores de menos Estatus, aplica la diferencia de Estatus como bonificación a todas las tiradas Sociales.\n",
     "tags": [
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Terciario."
+        },
+        {
+          "rating": 2,
+          "body_es": "Consejero."
+        },
+        {
+          "rating": 3,
+          "body_es": "Abad."
+        },
+        {
+          "rating": 4,
+          "body_es": "Censor."
+        },
+        {
+          "rating": 5,
+          "body_es": "Ministro Provincial."
+        }
+      ]
     },
     "sources": [
       {
@@ -2325,12 +2413,34 @@
     "line": "hunter",
     "name_en": "Identidad Alternativa",
     "name_es": "Identidad Alternativa",
-    "body_es": "Mantienes una identidad alternativa completa, con papeles, partidas de nacimiento o cualquier otra documentación que desees. Sólo unos pocos pueden saber tu nombre o identidad real. Tu personalidad alternativa podría estar muy implicada en el crimen organizado, ser un miembro de la Secta opuesta, un estafador que usa identidades alternativas para sus líos o podrías dedicarte simplemente a reunir información sobre el enemigo. De hecho, algunos vampiros pueden conocerte como un individuo mientras otros creen que eres alguien totalmente diferente.\n\n- • Eres nuevo en este juego de identidades. A veces te despistas y olvidas tu otra personalidad.\n\n- •• Bien asentado en tu identidad alternativa. Eres tan convincente como para simular el papel de un doctor, abogado, agente de pompas fúnebres, traficante de drogas o un espía capaz.\n\n- ••• Tienes buena reputación como tu personalidad alternativa y se te reconoce por ese nombre en el área donde te has infiltrado.\n\n- •••• Tu identidad alternativa se ha ganado respeto y confianza dentro del área de infiltración.\n\n- ••••• Inspiras respeto en tu área de infiltración, y puedes incluso haber acumulado algo de [influencia](/hunter/backgrounds/influence). Tienes la confianza (o al menos el reconocimiento) de muchos individuos poderosos dentro de tu área.",
+    "body_es": "Mantienes una identidad alternativa completa, con papeles, partidas de nacimiento o cualquier otra documentación que desees. Sólo unos pocos pueden saber tu nombre o identidad real. Tu personalidad alternativa podría estar muy implicada en el crimen organizado, ser un miembro de la Secta opuesta, un estafador que usa identidades alternativas para sus líos o podrías dedicarte simplemente a reunir información sobre el enemigo. De hecho, algunos vampiros pueden conocerte como un individuo mientras otros creen que eres alguien totalmente diferente.\n",
     "tags": [
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Eres nuevo en este juego de identidades. A veces te despistas y olvidas tu otra personalidad."
+        },
+        {
+          "rating": 2,
+          "body_es": "Bien asentado en tu identidad alternativa. Eres tan convincente como para simular el papel de un doctor, abogado, agente de pompas fúnebres, traficante de drogas o un espía capaz."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tienes buena reputación como tu personalidad alternativa y se te reconoce por ese nombre en el área donde te has infiltrado."
+        },
+        {
+          "rating": 4,
+          "body_es": "Tu identidad alternativa se ha ganado respeto y confianza dentro del área de infiltración."
+        },
+        {
+          "rating": 5,
+          "body_es": "Inspiras respeto en tu área de infiltración, y puedes incluso haber acumulado algo de influencia. Tienes la confianza (o al menos el reconocimiento) de muchos individuos poderosos dentro de tu área."
+        }
+      ]
     },
     "sources": [
       {
@@ -2349,12 +2459,34 @@
     "line": "hunter",
     "name_en": "Aliados",
     "name_es": "Aliados",
-    "body_es": "Los Aliados son mortales que te apoyan y ayudan: familiares, amigos o incluso una organización mortal que te debe lealtad. Aunque te ayuden voluntariamente, sin coacción o coerción, no están siempre disponibles para ofrecer asistencia; tienen sus propias preocupaciones y hacen cuanto pueden por el bien de vuestra relación. Sin embargo, podrían tener Rasgos de Trasfondos útiles propios, y podrían proveerte con acceso indirecto a sus [Contactos](/hunter/backgrounds/contacts), [Influencia](/hunter/backgrounds/influence) o [Recursos](/hunter/backgrounds/resources).\n\nLos Aliados son a menudo personas influyentes y con poder en tu ciudad natal. Pueden ser de casi cualquier clase dependiendo de lo que tu Narrador permita. Puedes tener amigos en el depósito de cadáveres de la policía, en un blog destacado, entre la alta sociedad de celebridades locales o en una obra. Tus Aliados podrían ser un clan de nómadas que trasladan su hogar móvil por la zona o una familia con generaciones y generaciones de policías. Podrías contar incluso al mismísimo alcalde entre tus amigos dependiendo de cuántos puntos gastes en este Rasgo. Tus Aliados son generalmente de fiar (aunque probablemente no sepan que eres un vampiro, o que siquiera existan). Sin embargo, nada es gratis. Si acabas pidiendo favores de tu amigo en la Cosa Nostra , es probable que igualmente te pida que le hagas un favor en el futuro. Esto casi siempre provoca el inicio de una historia...\n\nAliados puede ser Compartido por una coterie de personajes.\n\n- rados.\n\nUn aliado de [influencia](/hunter/backgrounds/influence) y poder mode-\n\n- •• do.\n\nDos aliados, ambos de poder modera-\n\n- •••\n\nTres aliados, uno de los cuales es bastante influyente.\n\n- •••• Cuatro aliados, uno de los cuales es\n\nmuy influyente.\n\n•••••\n\nCinco aliados, uno de los cuales es extremadamente influyente.",
+    "body_es": "Los Aliados son mortales que te apoyan y ayudan: familiares, amigos o incluso una organización mortal que te debe lealtad. Aunque te ayuden voluntariamente, sin coacción o coerción, no están siempre disponibles para ofrecer asistencia; tienen sus propias preocupaciones y hacen cuanto pueden por el bien de vuestra relación. Sin embargo, podrían tener Rasgos de Trasfondos útiles propios, y podrían proveerte con acceso indirecto a sus [Contactos](/hunter/backgrounds/contacts), [Influencia](/hunter/backgrounds/influence) o [Recursos](/hunter/backgrounds/resources).\n\nLos Aliados son a menudo personas influyentes y con poder en tu ciudad natal. Pueden ser de casi cualquier clase dependiendo de lo que tu Narrador permita. Puedes tener amigos en el depósito de cadáveres de la policía, en un blog destacado, entre la alta sociedad de celebridades locales o en una obra. Tus Aliados podrían ser un clan de nómadas que trasladan su hogar móvil por la zona o una familia con generaciones y generaciones de policías. Podrías contar incluso al mismísimo alcalde entre tus amigos dependiendo de cuántos puntos gastes en este Rasgo. Tus Aliados son generalmente de fiar (aunque probablemente no sepan que eres un vampiro, o que siquiera existan). Sin embargo, nada es gratis. Si acabas pidiendo favores de tu amigo en la Cosa Nostra, es probable que igualmente te pida que le hagas un favor en el futuro. Esto casi siempre provoca el inicio de una historia...\n\nAliados puede ser Compartido por una coterie de personajes.\n",
     "tags": [
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Un aliado de influencia y poder moderados."
+        },
+        {
+          "rating": 2,
+          "body_es": "Dos aliados, ambos de poder moderado."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tres aliados, uno de los cuales es bastante influyente."
+        },
+        {
+          "rating": 4,
+          "body_es": "Cuatro aliados, uno de los cuales es muy influyente."
+        },
+        {
+          "rating": 5,
+          "body_es": "Cinco aliados, uno de los cuales es extremadamente influyente."
+        }
+      ]
     },
     "sources": [
       {
@@ -2374,12 +2506,34 @@
     "line": "hunter",
     "name_en": "Contactos",
     "name_es": "Contactos",
-    "body_es": "Conoces a gente por toda la ciudad. Cuando empiezas a hacer llamadas a través de tu red, la cantidad de información que puedes obtener es impresionante. Más que amigos a los que puedes requerir ayuda, como los [Aliados](/hunter/backgrounds/allies), los Contactos son sobre todo gente a la que pagas, manipulas o coaccionas para que te ofrezcan información. Puedes también tener unos pocos contactos principales, asociados que te dan información precisa dentro de sus ámbitos de conocimiento. Deberías describir cada contacto principal en detalle antes de comenzar a jugar.\n\nAdemás de tus contactos principales, también puedes tener un número de contactos menores desplegados por toda la ciudad. Tu contacto principal podría estar en la oficina del fiscal del distrito, mientras los menos importantes podrían incluir policías quemados, empleados de tráfico, porteros de discoteca o miembros de una red social en Internet. No necesitas detallar estos 'conocidos fugaces' antes de jugar. En vez de eso, para contactar satisfactoriamente con un contacto menor, tirarías tu puntuación de Contactos (dificultad 7). Puedes hacer uso de un contacto menor por cada éxito. Por supuesto, aún tienes que convencerlos para que te den la información que necesites, asumiendo que la tengan.\n\nContactos puede ser Compartido entre los personajes de una coterie.\n\n- •\n\nUn contacto principal.\n\n••\n\nDos contactos principales.\n\n•••\n\nTres contactos principales.\n\n••••\n\nCuatro contactos principales.\n\n•••••\n\nCinco contactos principales.",
+    "body_es": "Conoces a gente por toda la ciudad. Cuando empiezas a hacer llamadas a través de tu red, la cantidad de información que puedes obtener es impresionante. Más que amigos a los que puedes requerir ayuda, como los [Aliados](/hunter/backgrounds/allies), los Contactos son sobre todo gente a la que pagas, manipulas o coaccionas para que te ofrezcan información. Puedes también tener unos pocos contactos principales, asociados que te dan información precisa dentro de sus ámbitos de conocimiento. Deberías describir cada contacto principal en detalle antes de comenzar a jugar.\n\nAdemás de tus contactos principales, también puedes tener un número de contactos menores desplegados por toda la ciudad. Tu contacto principal podría estar en la oficina del fiscal del distrito, mientras los menos importantes podrían incluir policías quemados, empleados de tráfico, porteros de discoteca o miembros de una red social en Internet. No necesitas detallar estos 'conocidos fugaces' antes de jugar. En vez de eso, para contactar satisfactoriamente con un contacto menor, tirarías tu puntuación de Contactos (dificultad 7). Puedes hacer uso de un contacto menor por cada éxito. Por supuesto, aún tienes que convencerlos para que te den la información que necesites, asumiendo que la tengan.\n\nContactos puede ser Compartido entre los personajes de una coterie.\n",
     "tags": [
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Un contacto principal."
+        },
+        {
+          "rating": 2,
+          "body_es": "Dos contactos principales."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tres contactos principales."
+        },
+        {
+          "rating": 4,
+          "body_es": "Cuatro contactos principales."
+        },
+        {
+          "rating": 5,
+          "body_es": "Cinco contactos principales."
+        }
+      ]
     },
     "sources": [
       {
@@ -2399,12 +2553,34 @@
     "line": "hunter",
     "name_en": "Fama",
     "name_es": "Fama",
-    "body_es": "Gozas de amplio reconocimiento en la sociedad mortal; quizás como artista, escritor o atleta. La gente puede disfrutar sólo por ser vista contigo. Esto te da toda clase de privilegios al moverte en la sociedad mortal, pero también atrae mucha atención no deseada ahora que ya no estás vivo. La mayor arma que ofrece la fama es la capacidad de cambiar la opinión pública, como los medios de comunicación modernos prueban constantemente. La Fama no se vincula siempre al entretenimiento: un perverso criminal inmerso en un gran proceso judicial probablemente sea bastante famoso, igual que un legislador o un científico que haya hecho un descubrimiento popular.\n\nEste Trasfondo es obviamente un arma de doble filo. Ciertamente puedes disfrutar de los privilegios de tu prestigio (conseguir los mejores asientos, ser invitado a eventos que te perderías de otra manera, citarte con la élite), pero a veces eres reconocido en momentos en los que preferirías no serlo. Aún así, tus enemigos no pueden simplemente hacerte desaparecer sin provocar gran conmoción, y encuentras más fácil Cazar en áreas pobladas ya que la gente acude a ti (reduces las dificultades de tiradas de Caza en uno por punto en Fama). Además, tu Narrador podría permitir reducir la dificultad de ciertas tiradas sociales contra gente particularmente impresionable o fascinada con las celebridades.\n\n| • | Eres conocido para una subcultura selecta: fieles a los clubes locales, blogueros del entretenimiento o la gente de Park Avenue, por ejemplo. |\n|-------|---------------------------------------------------------------------------------------------------------------------------------------------------|\n| •• | Gente al azar empieza a reconocer tu cara; eres una celebridad menor, como un criminal de poca monta o un presentador de noticias locales. |\n| ••• | Tienes mucho renombre; quizás eres un senador o una artista que regularmente consigue cientos de miles de clicks en YouTube. |\n| •••• | Una celebridad en toda regla; tu nombre es reconocido casi siempre por la gente común en la calle. |\n| ••••• | Eres alguien bien conocido por todos. La gente le pone tu nombre a sus hijos. |",
+    "body_es": "Gozas de amplio reconocimiento en la sociedad mortal; quizás como artista, escritor o atleta. La gente puede disfrutar sólo por ser vista contigo. Esto te da toda clase de privilegios al moverte en la sociedad mortal, pero también atrae mucha atención no deseada ahora que ya no estás vivo. La mayor arma que ofrece la fama es la capacidad de cambiar la opinión pública, como los medios de comunicación modernos prueban constantemente. La Fama no se vincula siempre al entretenimiento: un perverso criminal inmerso en un gran proceso judicial probablemente sea bastante famoso, igual que un legislador o un científico que haya hecho un descubrimiento popular.\n\nEste Trasfondo es obviamente un arma de doble filo. Ciertamente puedes disfrutar de los privilegios de tu prestigio (conseguir los mejores asientos, ser invitado a eventos que te perderías de otra manera, citarte con la élite), pero a veces eres reconocido en momentos en los que preferirías no serlo. Aún así, tus enemigos no pueden simplemente hacerte desaparecer sin provocar gran conmoción, y encuentras más fácil Cazar en áreas pobladas ya que la gente acude a ti (reduces las dificultades de tiradas de Caza en uno por punto en Fama). Además, tu Narrador podría permitir reducir la dificultad de ciertas tiradas sociales contra gente particularmente impresionable o fascinada con las celebridades.\n",
     "tags": [
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Eres conocido para una subcultura selecta: fieles a los clubes locales, blogueros del entretenimiento o la gente de Park Avenue, por ejemplo."
+        },
+        {
+          "rating": 2,
+          "body_es": "Gente al azar empieza a reconocer tu cara; eres una celebridad menor, como un criminal de poca monta o un presentador de noticias locales."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tienes mucho renombre; quizás eres un senador o una artista que regularmente consigue cientos de miles de clicks en YouTube."
+        },
+        {
+          "rating": 4,
+          "body_es": "Una celebridad en toda regla; tu nombre es reconocido casi siempre por la gente común en la calle."
+        },
+        {
+          "rating": 5,
+          "body_es": "Eres alguien bien conocido por todos. La gente le pone tu nombre a sus hijos."
+        }
+      ]
     },
     "sources": [
       {
@@ -2424,12 +2600,34 @@
     "line": "hunter",
     "name_en": "Influencia",
     "name_es": "Influencia",
-    "body_es": "Tienes tirón en la comunidad mortal, sea a través de riqueza, prestigio, cargos políticos, chantaje o manipulación sobrenatural. Los Vástagos con gran Influencia pueden condicionar, y en raros casos incluso controlar, los procesos políticos y sociales de la sociedad humana. Influencia representa la suma de tu poder para manipular a la opinión pública y la política en tu comunidad, especialmente la policía y la burocracia. En algunos casos, cultivarla es una vía para generar [Recursos](/hunter/backgrounds/resources) (consulta a continuación).\n\nAlgunas tiradas pueden requerir que uses Influencia en vez de una Habilidad, especialmente cuando tratas de influir en burócratas menores. Es más fácil iniciar cambios radicales a un nivel local que a escala global (por ejemplo, provocar que un edificio 'abandonado' sea demolido es relativamente fácil, mientras que empezar una guerra es un poco más difícil).\n\nEn Influencia pueden emplearse puntos de Trasfondo Compartido.\n\n| • | Moderadamente influyente; un factor en la política local. |\n|-------|-------------------------------------------------------------------|\n| •• | Bien conectado; una fuerza en políticas provinciales o estatales. |\n| ••• | Posición de influencia; un factor en políticas regionales. |\n| •••• | Extenso poder personal; una fuerza en políticas nacionales. |\n| ••••• | Enormemente influyente; un factor en política mundial. |",
+    "body_es": "Tienes tirón en la comunidad mortal, sea a través de riqueza, prestigio, cargos políticos, chantaje o manipulación sobrenatural. Los Vástagos con gran Influencia pueden condicionar, y en raros casos incluso controlar, los procesos políticos y sociales de la sociedad humana. Influencia representa la suma de tu poder para manipular a la opinión pública y la política en tu comunidad, especialmente la policía y la burocracia. En algunos casos, cultivarla es una vía para generar [Recursos](/hunter/backgrounds/resources) (consulta a continuación).\n\nAlgunas tiradas pueden requerir que uses Influencia en vez de una Habilidad, especialmente cuando tratas de influir en burócratas menores. Es más fácil iniciar cambios radicales a un nivel local que a escala global (por ejemplo, provocar que un edificio 'abandonado' sea demolido es relativamente fácil, mientras que empezar una guerra es un poco más difícil).\n\nEn Influencia pueden emplearse puntos de Trasfondo Compartido.\n",
     "tags": [
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Moderadamente influyente; un factor en la política local."
+        },
+        {
+          "rating": 2,
+          "body_es": "Bien conectado; una fuerza en políticas provinciales o estatales."
+        },
+        {
+          "rating": 3,
+          "body_es": "Posición de influencia; un factor en políticas regionales."
+        },
+        {
+          "rating": 4,
+          "body_es": "Extenso poder personal; una fuerza en políticas nacionales."
+        },
+        {
+          "rating": 5,
+          "body_es": "Enormemente influyente; un factor en política mundial."
+        }
+      ]
     },
     "sources": [
       {
@@ -2449,12 +2647,34 @@
     "line": "hunter",
     "name_en": "Criados",
     "name_es": "Criados",
-    "body_es": "Sin ser precisamente [Aliados](/hunter/backgrounds/allies) o [Contactos](/hunter/backgrounds/contacts), tus Criados son sirvientes, asistentes u otras personas que sean tus constantes y leales ayudantes. Muchos siervos de vampiros son Ghouls (ver pág. 496): sus Poderes sobrenaturales y su lealtad forzada por el Vínculo de Sangre los convierten en los sirvientes preferidos por ellos. También podrían ser personas a quienes hayas Dominado repetidamente hasta que no les queda voluntad alguna o seguidores tan fascinados con tu Presencia que su lealtad raya en el fanatismo ciego. Algunos vampiros, especialmente aquéllos con la Disciplina Animalismo, emplean animales Ghouls como Criados.\n\nDebes mantener algún control sobre tus criados; ya sea mediante un salario, el don de tu Vitae o el uso de Disciplinas. Los criados nunca son 'ciegamente leales pase lo que pase': si los tratas mal sin ejercer un control estricto, podrían volverse contra ti.\n\nLos Criados pueden ser útiles, pero nunca perfectos. Un Ghoul físicamente potente podría ser [rebelde](/hunter/flaws/rebelde), inconvenientemente torpe o carente de capacidades prácticas. Un mayordomo leal podría ser físicamente débil o carecer de iniciativa o creatividad propias. Este Trasfondo no es una excusa para crear un guardaespaldas imparable o un asesino a modo de mascota: es un método para incorporar más personajes totalmente desarrollados a la crónica, así como para reflejar a los seguidores por los que los Vástagos son tristemente célebres. En general, los criados se parecen más a Renfield que a Anita Blake. (Si jugador y Narrador están de acuerdo, el primero podría crear un único Criado más competente combinando más puntos en este Trasfondo, poniendo más huevos en la misma cesta , como se suele decir).\n\nLos jugadores pueden emplear puntos de Trasfondos Compartidos en Criados.\n\n•\n\nUn criado.\n\n••\n\nDos criados.\n\n•••\n\nTres criados.\n\n••••\n\nCuatro criados.\n\n•••••\n\nCinco criados.",
+    "body_es": "Sin ser precisamente [Aliados](/hunter/backgrounds/allies) o [Contactos](/hunter/backgrounds/contacts), tus Criados son sirvientes, asistentes u otras personas que sean tus constantes y leales ayudantes. Muchos siervos de vampiros son Ghouls (ver pág. 496): sus Poderes sobrenaturales y su lealtad forzada por el Vínculo de Sangre los convierten en los sirvientes preferidos por ellos. También podrían ser personas a quienes hayas Dominado repetidamente hasta que no les queda voluntad alguna o seguidores tan fascinados con tu Presencia que su lealtad raya en el fanatismo ciego. Algunos vampiros, especialmente aquéllos con la Disciplina Animalismo, emplean animales Ghouls como Criados.\n\nDebes mantener algún control sobre tus criados; ya sea mediante un salario, el don de tu Vitae o el uso de Disciplinas. Los criados nunca son 'ciegamente leales pase lo que pase': si los tratas mal sin ejercer un control estricto, podrían volverse contra ti.\n\nLos Criados pueden ser útiles, pero nunca perfectos. Un Ghoul físicamente potente podría ser [rebelde](/hunter/flaws/rebelde), inconvenientemente torpe o carente de capacidades prácticas. Un mayordomo leal podría ser físicamente débil o carecer de iniciativa o creatividad propias. Este Trasfondo no es una excusa para crear un guardaespaldas imparable o un asesino a modo de mascota: es un método para incorporar más personajes totalmente desarrollados a la crónica, así como para reflejar a los seguidores por los que los Vástagos son tristemente célebres. En general, los criados se parecen más a Renfield que a Anita Blake. (Si jugador y Narrador están de acuerdo, el primero podría crear un único Criado más competente combinando más puntos en este Trasfondo, poniendo más huevos en la misma cesta, como se suele decir).\n\nLos jugadores pueden emplear puntos de Trasfondos Compartidos en Criados.\n",
     "tags": [
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Un criado."
+        },
+        {
+          "rating": 2,
+          "body_es": "Dos criados."
+        },
+        {
+          "rating": 3,
+          "body_es": "Tres criados."
+        },
+        {
+          "rating": 4,
+          "body_es": "Cuatro criados."
+        },
+        {
+          "rating": 5,
+          "body_es": "Cinco criados."
+        }
+      ]
     },
     "sources": [
       {
