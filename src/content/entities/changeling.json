@@ -3195,7 +3195,7 @@
     "line": "changeling",
     "name_en": "Recuerdo",
     "name_es": "Recuerdo",
-    "body_es": "La vida actual de un changeling no es su primera vida. Todos los que se han sometido a la Senda del Changeling han experimentado una multitud de vidas. Un [Sidhe](/changeling/kiths/sidhe) Arcadiano recién llegado al Mundo de Otoño ha vivido durante una eternidad como hada intemporal antes de cambiar su alma con la de un mortal. Las Nieblas a menudo dejan en blanco la mente del changeling entre una y otra vida, pero un personaje con Recuerdo a veces tiene destellos de conocimiento obtenido en sus vidas anteriores.\n\nSiempre que un personaje interactúe con changelings u otras criaturas del Ensueño, el jugador puede tirar Inteligencia + Recuerdo para rememorar detalles sobre el individuo en cuestión. La dificultad varía según lo desconocida que sea la información. Algo que sea conocimiento popular requeriría dificultad 6, mientras que recordar la localización de un Feudo perdido desde la Ruptura requeriría dificultad 8. Además, el jugador puede sustituir una Habilidad por Recuerdo en cualquier tirada relacionada con una tarea mundana. Esta sustitución puede hacerse tantas veces por historia como su puntuación de Recuerdo.\n\n- ···\n- Experimentas [flashbacks](/changeling/flaws/flashbacks) incluso sin la necesidad de un recordatorio.",
+    "body_es": "La vida actual de un changeling no es su primera vida. Todos los que se han sometido a la Senda del Changeling han experimentado una multitud de vidas. Un [Sidhe](/changeling/kiths/sidhe) Arcadiano recién llegado al Mundo de Otoño ha vivido durante una eternidad como hada intemporal antes de cambiar su alma con la de un mortal. Las Nieblas a menudo dejan en blanco la mente del changeling entre una y otra vida, pero un personaje con Recuerdo a veces tiene destellos de conocimiento obtenido en sus vidas anteriores.\n\nSiempre que un personaje interactúe con changelings u otras criaturas del Ensueño, el jugador puede tirar Inteligencia + Recuerdo para rememorar detalles sobre el individuo en cuestión. La dificultad varía según lo desconocida que sea la información. Algo que sea conocimiento popular requeriría dificultad 6, mientras que recordar la localización de un Feudo perdido desde la Ruptura requeriría dificultad 8. Además, el jugador puede sustituir una Habilidad por Recuerdo en cualquier tirada relacionada con una tarea mundana. Esta sustitución puede hacerse tantas veces por historia como su puntuación de Recuerdo.\n",
     "tags": [
       "trasfondo"
     ],
@@ -3212,7 +3212,7 @@
         },
         {
           "rating": 3,
-          "body_es": "Experimentas fl ashbacks incluso sin la necesidad de un recordatorio."
+          "body_es": "Experimentas flashbacks incluso sin la necesidad de un recordatorio."
         },
         {
           "rating": 4,

@@ -1092,32 +1092,96 @@
     "line": "hunter",
     "name_en": "Base de Operaciones",
     "name_es": "Base de Operaciones",
-    "body_es": "Una base de operaciones es un lugar seguro controlado y poseído por tu cazador. Este lugar es un cuartel general donde puede descansar, entrenar y planear sus próximos ataques. Puede ser tan sencillo como un apartamento sin amueblar, tan grande como la mansión de un senador o tan complejo como una base militar.\n\nLos jugadores que escojan adquirir este Trasfondo deben dividir sus puntos entre las tres categorías siguientes. Además, se puede compartir la compra de este Trasfondo por medio del sistema de Trasfondos Compartidos explicado en las pág. 118-119 del V20.\n\nLujo es una medida de la calidad del mobiliario de la base. El nivel de Lujo varía desde lo sobrio a lo opulento, correspondiendo de forma somera con un Trasfondo [Recursos](/hunter/backgrounds/resources) de igual valor (ver pág. 116-117 del V20).\n",
+    "body_es": "Una base de operaciones es un lugar seguro controlado y poseído por tu cazador. Este lugar es un cuartel general donde puede descansar, entrenar y planear sus próximos ataques. Puede ser tan sencillo como un apartamento sin amueblar, tan grande como la mansión de un senador o tan complejo como una base militar.\n\nLos jugadores que escojan adquirir este Trasfondo deben dividir sus puntos entre las tres categorías siguientes. Además, se puede compartir la compra de este Trasfondo por medio del sistema de Trasfondos Compartidos explicado en las pág. 118-119 del V20.\n\nLujo es una medida de la calidad del mobiliario de la base. El nivel de Lujo varía desde lo sobrio a lo opulento, correspondiendo de forma somera con un Trasfondo [Recursos](/hunter/backgrounds/resources) de igual valor (ver pág. 116-117 del V20).\n\n## Seguridad representa lo difícil que resulta colarse en tu base. Cada punto de Seguridad suma uno a la dificultad de cualquier tirada hecha para internarse en la base o suma uno al número de éxitos necesarios para lograrlo. Los jugadores y el Narrador deberían ponerse de acuerdo en esto antes de comenzar la historia.\n\n## Tamaño\n\nEl tamaño representa el volumen de la base de operaciones y la cantidad de espacio que la compone. Aunque la siguiente lista proporciona sugerencias sobre Tamaño y cantidad de habitaciones, se alienta a los jugadores a ser creativos si así lo desean. Imagina un templo de ambientes diáfanos sin auténticas 'habitaciones', o un pasillo de servicios largo y angosto, pero con múltiples puntos de acceso a diversas localizaciones en el centro de la ciudad.\n",
     "tags": [
       "trasfondo"
     ],
     "mechanics": {
       "rating_max": 5,
-      "ratings": [
+      "scales": [
         {
-          "rating": 1,
-          "body_es": "Compraste tus muebles en una tienda de segunda mano o en algún otro vendedor barato."
+          "key": "lujo",
+          "name_es": "Lujo",
+          "rating_max": 5,
+          "allocation": "partitioned",
+          "ratings": [
+            {
+              "rating": 1,
+              "body_es": "Compraste tus muebles en una tienda de segunda mano o en algún otro vendedor barato."
+            },
+            {
+              "rating": 2,
+              "body_es": "Tu base ha sido decorada y equipada de forma modesta. Tienes los requerimientos básicos que cabría esperar del estilo de vida del Primer Mundo (siempre que esto sea apropiado)."
+            },
+            {
+              "rating": 3,
+              "body_es": "Tu base es relativamente confortable y cuenta con diversas comodidades."
+            },
+            {
+              "rating": 4,
+              "body_es": "Tu base ofrece un respiro a la horrible realidad de matar vampiros, y es única tanto en diseño como en apariencia."
+            },
+            {
+              "rating": 5,
+              "body_es": "Tu base exhibe un grado de ostentación del que sólo los más extremadamente ricos o las celebridades suelen disfrutar."
+            }
+          ]
         },
         {
-          "rating": 2,
-          "body_es": "Tu base ha sido decorada y equipada de forma modesta. Tienes los requerimientos básicos que cabría esperar del estilo de vida del Primer Mundo (siempre que esto sea apropiado)."
+          "key": "seguridad",
+          "name_es": "Seguridad",
+          "rating_max": 5,
+          "allocation": "partitioned",
+          "ratings": [
+            {
+              "rating": 1,
+              "body_es": "Tienes cerraduras en las puertas de la base, pero poco más."
+            },
+            {
+              "rating": 2,
+              "body_es": "Las puertas tienen cerrojos de seguridad y las ventanas barrotes resistentes, o puedes tener un perro que ladre para avisarte cuando alguien se acerque mucho a la base. Tu cuartel general es relativamente seguro frente a las amenazas corrientes."
+            },
+            {
+              "rating": 3,
+              "body_es": "La base es segura, pero no impenetrable, confiando en un moderno juego de cerraduras, protecciones físicas como barrotes en las ventanas, medidas electrónicas como sistemas de alarma y monitorización electrónica estándar como cámaras de seguridad."
+            },
+            {
+              "rating": 4,
+              "body_es": "Tu base está protegida por todas las medidas de seguridad de los niveles previos y algunas más. Está a la par con los edificios gubernamentales restringidos o incluso las prisiones. Tiene muros reforzados, válvulas de acceso por sectores y quizás hasta varias habitaciones del pánico o cámaras secretas. Has invertido una considerable cantidad de tiempo y esfuerzo para mantener a la gente fuera de tu base."
+            },
+            {
+              "rating": 5,
+              "body_es": "Tu base está protegida por todas las medidas de seguridad de los niveles anteriores. Además, está protegida por una o más medidas singulares, tales como ser un lugar aislado, contar con una barrera geográfica como una cascada o un paso de montaña, y/o posibles protecciones ocultistas, como ser sólo visible a la luz de la Luna. Los jugadores y el Narrador deberían ponerse de acuerdo sobre la naturaleza de tales sobrecogedoras e incomparables protecciones."
+            }
+          ]
         },
         {
-          "rating": 3,
-          "body_es": "Tu base es relativamente confortable y cuenta con diversas comodidades."
-        },
-        {
-          "rating": 4,
-          "body_es": "Tu base ofrece un respiro a la horrible realidad de matar vampiros, y es única tanto en diseño como en apariencia."
-        },
-        {
-          "rating": 5,
-          "body_es": "Tu base exhibe un grado de ostentación del que sólo los más extremadamente ricos o las celebridades suelen disfrutar."
+          "key": "tamano",
+          "name_es": "Tamaño",
+          "rating_max": 5,
+          "allocation": "partitioned",
+          "ratings": [
+            {
+              "rating": 1,
+              "body_es": "Un pequeño apartamento o sala subterránea; 1 o 2 habitaciones."
+            },
+            {
+              "rating": 2,
+              "body_es": "Un gran apartamento o una casa familiar; 3 o 4 habitaciones."
+            },
+            {
+              "rating": 3,
+              "body_es": "Un almacén, iglesia o casa grande; de 5 a 8 habitaciones o un recinto grande."
+            },
+            {
+              "rating": 4,
+              "body_es": "Una mansión o red de túneles; de 9 a 15 habitaciones o salas."
+            },
+            {
+              "rating": 5,
+              "body_es": "Una finca inmensa o una vasta red de túneles subterráneos; más de 20 habitaciones."
+            }
+          ]
         }
       ]
     },

@@ -23211,14 +23211,36 @@
     ],
     "mechanics": {
       "rating_max": 5,
-      "note": "Tira Gnosis para invocar Habilidades/Conocimientos del antepasado; nivel = potencia del ancestro."
+      "note": "Tira Gnosis para invocar Habilidades/Conocimientos del antepasado; nivel = potencia del ancestro.",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Tienes visiones breves y brumosas del pasado distante."
+        },
+        {
+          "rating": 2,
+          "body_es": "Recuerdas caras y lugares de vidas pasadas tal como recuerdas aquéllos de tu tierna infancia."
+        },
+        {
+          "rating": 3,
+          "body_es": "Pones nombres a las caras de tus Ancestros."
+        },
+        {
+          "rating": 4,
+          "body_es": "Los Ancestros hablan contigo de forma regular."
+        },
+        {
+          "rating": 5,
+          "body_es": "Tus Ancestros observan tus aventuras con interés y a menudo acuden a darte consejo."
+        }
+      ]
     },
     "sources": [
       {
         "book_id": "w20-aniversario-core-es",
         "book_title_es": "Hombre Lobo: El Apocalipsis 20 Aniversario",
         "page": null,
-        "section_anchor": "antepasados",
+        "section_anchor": "ancestros",
         "variant": "base"
       }
     ],
