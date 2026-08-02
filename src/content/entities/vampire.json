@@ -20930,7 +20930,8 @@
       "sólo Salubri y Tremere"
     ],
     "mechanics": {
-      "bonus": "2 o 4"
+      "bonus": "2 o 4",
+      "restriction": "sólo Salubri y Tremere"
     },
     "sources": [
       {
@@ -20941,7 +20942,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "restriction": "sólo <a href=\"/vampire/clans/salubri\">Salubri</a> y <a href=\"/vampire/clans/tremere\">Tremere</a>"
+    }
   },
   {
     "id": "el-octavo",

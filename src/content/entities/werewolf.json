@@ -8281,7 +8281,7 @@
     "line": "werewolf",
     "name_en": "Silence the Weaver",
     "name_es": "Silenciar a la Tejedora",
-    "body_es": "El Lupus [lanza](/werewolf/weapons/lanza) un aullido devastador, destruyendo todas las máquinas electrónicas cercanas: computadoras, portátiles, teléfonos inteligentes, tablets , etc. Las máquinas más simples, como teléfonos fijos, coches y armas de fuego, no resultan afectadas. Un espíritu de tormenta enseña este Don.\n\n**Sistema:** El Lupus se pasa un turno aullando. El jugador gasta entonces un punto de Rabia y tira Manipulación + Impulso Primario. Los aparatos electrónicos delicados quedan destruidos en un radio de (20 x éxitos) metros (o yardas) en un estallido de chispas.",
+    "body_es": "El Lupus [lanza](/werewolf/weapons/lanza) un aullido devastador, destruyendo todas las máquinas electrónicas cercanas: computadoras, portátiles, teléfonos inteligentes, tablets, etc. Las máquinas más simples, como teléfonos fijos, coches y armas de fuego, no resultan afectadas. Un espíritu de tormenta enseña este Don.\n\n**Sistema:** El Lupus se pasa un turno aullando. El jugador gasta entonces un punto de Rabia y tira Manipulación + Impulso Primario. Los aparatos electrónicos delicados quedan destruidos en un radio de (20 x éxitos) metros (o yardas) en un estallido de chispas.",
     "tags": [
       "don",
       "Lupus"
@@ -11019,7 +11019,7 @@
     "line": "werewolf",
     "name_en": "Song of Rage",
     "name_es": "Canción de la Rabia",
-    "body_es": "Este Don desata la Bestia en los demás, forzando a hombres lobo, vampiros y otras criaturas similares al Frenesí, y convierte a los humanos en berserkers . Un espíritu glotón enseña este Don. Sistema: El Garou tira Manipulación + Liderazgo (dificultad igual a la Fuerza de Voluntad del objetivo). La víctima entra en un estado de rabia violenta (o Frenesí, si es propenso por naturaleza) durante un turno por éxito.",
+    "body_es": "Este Don desata la Bestia en los demás, forzando a hombres lobo, vampiros y otras criaturas similares al Frenesí, y convierte a los humanos en berserkers. Un espíritu glotón enseña este Don. Sistema: El Garou tira Manipulación + Liderazgo (dificultad igual a la Fuerza de Voluntad del objetivo). La víctima entra en un estado de rabia violenta (o Frenesí, si es propenso por naturaleza) durante un turno por éxito.",
     "tags": [
       "don",
       "Galliard"
@@ -23520,7 +23520,7 @@
         },
         {
           "rating": 5,
-          "body_es": "Extremadamente rico: Eres una de las personas más ricas de la Tierra. Tienes múltiples propiedades, muchas formas de transporte lujosas y frecuentemente apareces en la prensa rosa y en las páginas de sociedad. Tienes activos en todas partes , y puedes poner trabas a las actividades del Wyrm con una llamada de diez minutos. Puedes vivir con el nivel de tres puntos indefinidamente si ignoras tu fortuna; o uno aún más alto si pones algo de esfuerzo en ello."
+          "body_es": "Extremadamente rico: Eres una de las personas más ricas de la Tierra. Tienes múltiples propiedades, muchas formas de transporte lujosas y frecuentemente apareces en la prensa rosa y en las páginas de sociedad. Tienes activos en todas partes, y puedes poner trabas a las actividades del Wyrm con una llamada de diez minutos. Puedes vivir con el nivel de tres puntos indefinidamente si ignoras tu fortuna; o uno aún más alto si pones algo de esfuerzo en ello."
         }
       ]
     },
@@ -27065,7 +27065,8 @@
       "sólo Mokolé"
     ],
     "mechanics": {
-      "cost": "1"
+      "cost": "1",
+      "restriction": "sólo Mokolé"
     },
     "sources": [
       {
@@ -27076,7 +27077,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "restriction": "sólo <a href=\"/werewolf/changing-breeds/mokole\">Mokolé</a>"
+    }
   },
   {
     "id": "transmision-constante",
@@ -27089,7 +27093,8 @@
       "sólo Rokea"
     ],
     "mechanics": {
-      "cost": "1"
+      "cost": "1",
+      "restriction": "sólo Rokea"
     },
     "sources": [
       {
@@ -27100,7 +27105,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "restriction": "sólo <a href=\"/werewolf/changing-breeds/rokea\">Rokea</a>"
+    }
   },
   {
     "id": "bien-parecido",
@@ -27113,7 +27121,8 @@
       "sólo Rokea"
     ],
     "mechanics": {
-      "cost": "2"
+      "cost": "2",
+      "restriction": "sólo Rokea"
     },
     "sources": [
       {
@@ -27124,7 +27133,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "restriction": "sólo <a href=\"/werewolf/changing-breeds/rokea\">Rokea</a>"
+    }
   },
   {
     "id": "cobra-escupidora",
@@ -27137,7 +27149,8 @@
       "sólo Nagah"
     ],
     "mechanics": {
-      "cost": "2"
+      "cost": "2",
+      "restriction": "sólo Nagah"
     },
     "sources": [
       {
@@ -27148,7 +27161,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "restriction": "sólo <a href=\"/werewolf/changing-breeds/nagah\">Nagah</a>"
+    }
   },
   {
     "id": "corredor-de-la-celosia",
@@ -27161,7 +27177,8 @@
       "sólo Ratkin"
     ],
     "mechanics": {
-      "cost": "2"
+      "cost": "2",
+      "restriction": "sólo Ratkin"
     },
     "sources": [
       {
@@ -27172,7 +27189,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "restriction": "sólo <a href=\"/werewolf/changing-breeds/ratkin\">Ratkin</a>"
+    }
   },
   {
     "id": "doble-dosis",
@@ -27185,7 +27205,8 @@
       "sólo Corax"
     ],
     "mechanics": {
-      "cost": "2"
+      "cost": "2",
+      "restriction": "sólo Corax"
     },
     "sources": [
       {
@@ -27196,7 +27217,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "restriction": "sólo <a href=\"/werewolf/changing-breeds/corax\">Corax</a>"
+    }
   },
   {
     "id": "afinidad-umbral",
@@ -27209,7 +27233,8 @@
       "sólo Nuwisha Danzante Umbral"
     ],
     "mechanics": {
-      "cost": "2-3"
+      "cost": "2-3",
+      "restriction": "sólo Nuwisha Danzante Umbral"
     },
     "sources": [
       {
@@ -27220,7 +27245,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "restriction": "sólo <a href=\"/werewolf/changing-breeds/nuwisha\">Nuwisha</a> Danzante Umbral"
+    }
   },
   {
     "id": "madurez-temprana",
@@ -27233,7 +27261,8 @@
       "sólo Gurahl"
     ],
     "mechanics": {
-      "cost": "3"
+      "cost": "3",
+      "restriction": "sólo Gurahl"
     },
     "sources": [
       {
@@ -27244,7 +27273,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "restriction": "sólo <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a>"
+    }
   },
   {
     "id": "venenoso",
@@ -27257,7 +27289,8 @@
       "sólo Ananasi"
     ],
     "mechanics": {
-      "cost": "3"
+      "cost": "3",
+      "restriction": "sólo Ananasi"
     },
     "sources": [
       {
@@ -27268,7 +27301,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "restriction": "sólo <a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "libre-de-los-yava",
@@ -27281,7 +27317,8 @@
       "sólo Ajaba y Bastet"
     ],
     "mechanics": {
-      "cost": "3, 4 o 5"
+      "cost": "3, 4 o 5",
+      "restriction": "sólo Ajaba y Bastet"
     },
     "sources": [
       {
@@ -27292,7 +27329,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "restriction": "sólo <a href=\"/werewolf/changing-breeds/ajaba\">Ajaba</a> y <a href=\"/werewolf/changing-breeds/bastet\">Bastet</a>"
+    }
   },
   {
     "id": "nadar-de-lado",
@@ -27305,7 +27345,8 @@
       "sólo Rokea"
     ],
     "mechanics": {
-      "cost": "4"
+      "cost": "4",
+      "restriction": "sólo Rokea"
     },
     "sources": [
       {
@@ -27316,7 +27357,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "restriction": "sólo <a href=\"/werewolf/changing-breeds/rokea\">Rokea</a>"
+    }
   },
   {
     "id": "sex-appeal",
@@ -27329,7 +27373,8 @@
       "sólo Ananasi, Bastet, Kitsune y Nagah"
     ],
     "mechanics": {
-      "cost": "4"
+      "cost": "4",
+      "restriction": "sólo Ananasi, Bastet, Kitsune y Nagah"
     },
     "sources": [
       {
@@ -27340,7 +27385,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "restriction": "sólo <a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>, <a href=\"/werewolf/changing-breeds/bastet\">Bastet</a>, <a href=\"/werewolf/changing-breeds/kitsune\">Kitsune</a> y <a href=\"/werewolf/changing-breeds/nagah\">Nagah</a>"
+    }
   },
   {
     "id": "vision-infrarroja",
@@ -27353,7 +27401,8 @@
       "sólo Nagah"
     ],
     "mechanics": {
-      "cost": "4"
+      "cost": "4",
+      "restriction": "sólo Nagah"
     },
     "sources": [
       {
@@ -27364,7 +27413,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "restriction": "sólo <a href=\"/werewolf/changing-breeds/nagah\">Nagah</a>"
+    }
   },
   {
     "id": "cuasi-hombre-feral",
@@ -27377,7 +27429,8 @@
       "todos excepto Ananasi, Corax, Mokolé y Ratkin"
     ],
     "mechanics": {
-      "cost": "5"
+      "cost": "5",
+      "restriction": "todos excepto Ananasi, Corax, Mokolé y Ratkin"
     },
     "sources": [
       {
@@ -27388,7 +27441,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "restriction": "todos excepto <a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>, <a href=\"/werewolf/changing-breeds/corax\">Corax</a>, <a href=\"/werewolf/changing-breeds/mokole\">Mokolé</a> y <a href=\"/werewolf/changing-breeds/ratkin\">Ratkin</a>"
+    }
   },
   {
     "id": "cambiante-de-sexo",
@@ -27401,7 +27457,8 @@
       "sólo Ananasi"
     ],
     "mechanics": {
-      "cost": "6"
+      "cost": "6",
+      "restriction": "sólo Ananasi"
     },
     "sources": [
       {
@@ -27412,7 +27469,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "restriction": "sólo <a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "step-sideways",
@@ -27425,7 +27485,8 @@
       "sólo Bastet, Gurahl, Mokolé, Nagah y Rokea"
     ],
     "mechanics": {
-      "cost": "7"
+      "cost": "7",
+      "restriction": "sólo Bastet, Gurahl, Mokolé, Nagah y Rokea"
     },
     "sources": [
       {
@@ -27436,7 +27497,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "restriction": "sólo <a href=\"/werewolf/changing-breeds/bastet\">Bastet</a>, <a href=\"/werewolf/changing-breeds/gurahl\">Gurahl</a>, <a href=\"/werewolf/changing-breeds/mokole\">Mokolé</a>, <a href=\"/werewolf/changing-breeds/nagah\">Nagah</a> y <a href=\"/werewolf/changing-breeds/rokea\">Rokea</a>"
+    }
   },
   {
     "id": "magia-de-gato-zorro",
@@ -27449,7 +27513,8 @@
       "sólo Bastet y Kitsune"
     ],
     "mechanics": {
-      "cost": "7"
+      "cost": "7",
+      "restriction": "sólo Bastet y Kitsune"
     },
     "sources": [
       {
@@ -27460,7 +27525,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "restriction": "sólo <a href=\"/werewolf/changing-breeds/bastet\">Bastet</a> y <a href=\"/werewolf/changing-breeds/kitsune\">Kitsune</a>"
+    }
   },
   {
     "id": "dientes-de-tiburon",
@@ -27473,7 +27541,8 @@
       "sólo Rokea"
     ],
     "mechanics": {
-      "bonus": "1"
+      "bonus": "1",
+      "restriction": "sólo Rokea"
     },
     "sources": [
       {
@@ -27484,7 +27553,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "restriction": "sólo <a href=\"/werewolf/changing-breeds/rokea\">Rokea</a>"
+    }
   },
   {
     "id": "no-puede-comer-comida-solida",
@@ -27497,7 +27569,8 @@
       "sólo Ananasi"
     ],
     "mechanics": {
-      "bonus": "5"
+      "bonus": "5",
+      "restriction": "sólo Ananasi"
     },
     "sources": [
       {
@@ -27508,7 +27581,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "restriction": "sólo <a href=\"/werewolf/changing-breeds/ananasi\">Ananasi</a>"
+    }
   },
   {
     "id": "pies-inseguros",
@@ -27521,7 +27597,8 @@
       "sólo Rokea"
     ],
     "mechanics": {
-      "bonus": "5"
+      "bonus": "5",
+      "restriction": "sólo Rokea"
     },
     "sources": [
       {
@@ -27532,7 +27609,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "mechanics_html": {
+      "restriction": "sólo <a href=\"/werewolf/changing-breeds/rokea\">Rokea</a>"
+    }
   },
   {
     "id": "microquiroptero",
@@ -27545,7 +27625,8 @@
       "sólo Camazotz"
     ],
     "mechanics": {
-      "cost": "3"
+      "cost": "3",
+      "restriction": "sólo Camazotz"
     },
     "sources": [
       {
