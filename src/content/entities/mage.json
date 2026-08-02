@@ -1881,22 +1881,27 @@
     ]
   },
   {
-    "id": "espada-del-alba",
-    "type": "weapon",
+    "id": "time-dilation-bullet-time",
+    "type": "rote",
     "line": "mage",
-    "name_en": "Dawnblade",
-    "name_es": "Espada del Alba",
-    "body_es": "",
+    "name_en": "Time Dilation / Bullet Time",
+    "name_es": "Tiempo Bala",
+    "body_es": "Uno de los trucos de combate más útiles a disposición de un mago implica usar Tiempo 3 para acelerarse a sí mismo o ralentizar a su oponente. Al trabajar con el fenómeno que retuerce la percepción del tiempo bajo presión, el mago dilata las fuerzas temporales próximas. En términos narrativos, esto se entiende como el efecto «tiempo bala» que hizo famoso The Matrix y sus muchos imitadores.\n\n**Sistema:** Implica acciones adicionales para el mago — una acción adicional por cada 2 éxitos obtenidos. Invertida (y «adjuntada» al personaje mediante Correspondencia 2 o Vida 3), la dilatación temporal puede eliminar acciones de un oponente al mismo ritmo. Sin «adjuntarla», el mago simplemente puede acelerar o ralentizar toda la zona; de ahí invocar el «tiempo bala». Si el mago acelera o ralentiza el tiempo más de tres acciones por turno (o tres turnos por acción), todos estos Efectos se vuelven Magia vulgar.",
     "tags": [
-      "homebrew"
+      "tiempo",
+      "artes-marciales",
+      "formula"
     ],
     "mechanics": {
-      "weapon_class": "melee",
-      "damage": "Fuerza +2",
-      "damage_type": "L",
-      "conceal": "C",
-      "difficulty": 6,
-      "notes": "Una hoja ritual forjada por la Cábala. Al desenvainarla al amanecer brilla con luz propia."
+      "spheres": {
+        "time": 3
+      },
+      "spheres_note": "Tiempo ···",
+      "variantes": "Invertida y «adjuntada» al objetivo mediante Correspondencia ·· o Vida ···",
+      "efecto": "Una acción adicional por cada 2 éxitos (o elimina acciones del oponente al mismo ritmo, si se adjunta)",
+      "coincidental": true,
+      "vulgaridad": "Coincidente hasta 3 acciones extra por turno (o 3 turnos por acción); vulgar por encima",
+      "note": "Rote de la casa. *Cómo haces eso* imprime este efecto como EFECTO DE ESFERA (`mage/sphere-effect/bullet-time`, `m20-como-haces-eso-es.md:1071`), y un efecto de esfera no se puede vincular a un personaje. Este Rote existe para que el efecto sea usable en una hoja; el texto es el del libro, la entidad no."
     },
     "sources": [
       {
@@ -1907,7 +1912,10 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [
+      "bullet-time"
+    ],
+    "section_anchor": null
   },
   {
     "id": "velo-de-ceniza",
@@ -1940,6 +1948,35 @@
     "mechanics_html": {
       "effect": "<a href=\"/mage/merits/ocultacion\">Ocultación</a> parcial mientras el velo se mantenga."
     }
+  },
+  {
+    "id": "espada-del-alba",
+    "type": "weapon",
+    "line": "mage",
+    "name_en": "Dawnblade",
+    "name_es": "Espada del Alba",
+    "body_es": "",
+    "tags": [
+      "homebrew"
+    ],
+    "mechanics": {
+      "weapon_class": "melee",
+      "damage": "Fuerza +2",
+      "damage_type": "L",
+      "conceal": "C",
+      "difficulty": 6,
+      "notes": "Una hoja ritual forjada por la Cábala. Al desenvainarla al amanecer brilla con luz propia."
+    },
+    "sources": [
+      {
+        "book_id": "wod20-house-rules",
+        "book_title_es": "Reglas de la Casa (Mundo de Tinieblas 20º)",
+        "page": null,
+        "section_anchor": null,
+        "variant": "base"
+      }
+    ],
+    "related": []
   },
   {
     "id": "atractivo-de-la-sombra",
@@ -2742,7 +2779,7 @@
     "mechanics": {
       "associated_paradigms": "Todo el Poder Proviene del Pecado, La Sabiduría Ancestral es la Clave, El Barbarismo es el Verdadero Estado del Hombre, La Consciencia es la Única Realidad Verdadera, El Horror Cósmico es la Única Verdad, Todo es Caos, La Creación es Divina (o Demoníaca) y Está Viva, Todo es una Ilusión, Prisión o Error, La Existencia es Incognoscible, Irracional y Sublime, La Sabiduría Prohibida es la Fuente Más Verdadera de Poder, La Indulgencia es la Única Ley de la Naturaleza, Solo los Más Fuertes Merecen Sobrevivir, La Rebelión es el Camino hacia la Trascendencia, Trasciende tus Límites",
       "associated_abilities": "Atletismo, Esoterismo (tantra, sutras, yoga, la Mano Izquierda, la Mano Derecha), Intimidación, Medicina, Meditación (una Habilidad clave para esta práctica), Supervivencia",
-      "usual_instruments": "Sangre y fluidos, trabajo corporal, modificación corporal, huesos y restos, canibalismo, danza y movimiento (frenesíes salvajes, posturas de yoga), drogas y venenos, moda (desnudez casi o totalmente completa, pintura corporal, cabello largo enmarañado, con rastas o salvaje), comida y bebida (alimentos repugnantes, bebidas embriagadoras), mutilación, ofrendas y sacrificios, ordalías y esfuerzos (esta es una práctica físicamente extenuante), perversión (especialmente de los preceptos hindúes y budistas), sexo y sensualidad (a menudo en posturas sexuales esotéricas), dominación social, violación, armas (hojas rituales, garras y bufandas para estrangular a las víctimas). <!-- image -->"
+      "usual_instruments": "Sangre y fluidos, trabajo corporal, modificación corporal, huesos y restos, canibalismo, danza y movimiento (frenesíes salvajes, posturas de yoga), drogas y venenos, moda (desnudez casi o totalmente completa, pintura corporal, cabello largo enmarañado, con rastas o salvaje), comida y bebida (alimentos repugnantes, bebidas embriagadoras), mutilación, ofrendas y sacrificios, ordalías y esfuerzos (esta es una práctica físicamente extenuante), perversión (especialmente de los preceptos hindúes y budistas), sexo y sensualidad (a menudo en posturas sexuales esotéricas), dominación social, violación, armas (hojas rituales, garras y bufandas para estrangular a las víctimas)."
     },
     "sources": [
       {
@@ -2755,7 +2792,7 @@
     "mechanics_html": {
       "associated_paradigms": "Todo el Poder Proviene del Pecado, <a href=\"/mage/paradigms/ancestral-wisdom-is-the-key\">La Sabiduría Ancestral es la Clave</a>, El Barbarismo es el Verdadero Estado del Hombre, <a href=\"/mage/paradigms/consciousness-is-the-only-true-reality\">La Consciencia es la Única Realidad Verdadera</a>, <a href=\"/mage/paradigms/cosmic-horror-is-the-only-truth\">El Horror Cósmico es la Única Verdad</a>, <a href=\"/mage/paradigms/everything-is-chaos\">Todo es Caos</a>, La Creación es Divina (o Demoníaca) y Está Viva, <a href=\"/mage/paradigms/everything-is-an-illusion\">Todo es una Ilusión</a>, Prisión o Error, <a href=\"/mage/paradigms/existence-is-unknowable-irrational-and-sublime\">La Existencia es Incognoscible, Irracional y Sublime</a>, <a href=\"/mage/paradigms/forbidden-wisdom-is-the-truest-source-of-power\">La Sabiduría Prohibida es la Fuente Más Verdadera de Poder</a>, <a href=\"/mage/paradigms/indulgence-is-the-only-law-of-nature\">La Indulgencia es la Única Ley de la Naturaleza</a>, <a href=\"/mage/paradigms/only-the-strongest-deserve-to-survive\">Solo los Más Fuertes Merecen Sobrevivir</a>, <a href=\"/mage/paradigms/rebellion-is-the-path-to-transcendence\">La Rebelión es el Camino hacia la Trascendencia</a>, Trasciende tus Límites",
       "associated_abilities": "Atletismo, Esoterismo (<a href=\"/mage/practices/tantra\">tantra</a>, sutras, yoga, la Mano Izquierda, la Mano Derecha), Intimidación, <a href=\"/mage/practices/medicine-work\">Medicina</a>, <a href=\"/mage/instruments/meditation\">Meditación</a> (una Habilidad clave para esta práctica), Supervivencia",
-      "usual_instruments": "Sangre y fluidos, trabajo corporal, modificación corporal, huesos y restos, <a href=\"/mage/instruments/cannibalism\">canibalismo</a>, danza y movimiento (frenesíes salvajes, posturas de yoga), <a href=\"/mage/instruments/drugs-and-poisons\">drogas y venenos</a>, moda (desnudez casi o totalmente completa, pintura corporal, cabello largo enmarañado, con rastas o salvaje), <a href=\"/mage/instruments/food-and-drink\">comida y bebida</a> (alimentos repugnantes, bebidas embriagadoras), <a href=\"/mage/instruments/mutilation\">mutilación</a>, <a href=\"/mage/instruments/offerings-and-sacrifices\">ofrendas y sacrificios</a>, <a href=\"/mage/instruments/ordeals-and-exertions\">ordalías y esfuerzos</a> (esta es una práctica físicamente extenuante), <a href=\"/mage/instruments/perversion\">perversión</a> (especialmente de los preceptos hindúes y budistas), <a href=\"/mage/instruments/sex-and-sensuality\">sexo y sensualidad</a> (a menudo en posturas sexuales esotéricas), <a href=\"/mage/instruments/social-domination\">dominación social</a>, <a href=\"/mage/instruments/violation\">violación</a>, <a href=\"/mage/instruments/weapons\">armas</a> (hojas rituales, <a href=\"/mage/rotes/talons\">garras</a> y bufandas para estrangular a las víctimas). &lt;!-- image --&gt;"
+      "usual_instruments": "Sangre y fluidos, trabajo corporal, modificación corporal, huesos y restos, <a href=\"/mage/instruments/cannibalism\">canibalismo</a>, danza y movimiento (frenesíes salvajes, posturas de yoga), <a href=\"/mage/instruments/drugs-and-poisons\">drogas y venenos</a>, moda (desnudez casi o totalmente completa, pintura corporal, cabello largo enmarañado, con rastas o salvaje), <a href=\"/mage/instruments/food-and-drink\">comida y bebida</a> (alimentos repugnantes, bebidas embriagadoras), <a href=\"/mage/instruments/mutilation\">mutilación</a>, <a href=\"/mage/instruments/offerings-and-sacrifices\">ofrendas y sacrificios</a>, <a href=\"/mage/instruments/ordeals-and-exertions\">ordalías y esfuerzos</a> (esta es una práctica físicamente extenuante), <a href=\"/mage/instruments/perversion\">perversión</a> (especialmente de los preceptos hindúes y budistas), <a href=\"/mage/instruments/sex-and-sensuality\">sexo y sensualidad</a> (a menudo en posturas sexuales esotéricas), <a href=\"/mage/instruments/social-domination\">dominación social</a>, <a href=\"/mage/instruments/violation\">violación</a>, <a href=\"/mage/instruments/weapons\">armas</a> (hojas rituales, <a href=\"/mage/rotes/talons\">garras</a> y bufandas para estrangular a las víctimas)."
     }
   },
   {
@@ -4072,41 +4109,6 @@
     "mechanics_html": {
       "subtype": "<a href=\"/mage/sphere-effects/device\">Dispositivo</a>"
     }
-  },
-  {
-    "id": "time-dilation-bullet-time",
-    "type": "rote",
-    "line": "mage",
-    "name_en": "Time Dilation / Bullet Time",
-    "name_es": "Tiempo Bala",
-    "body_es": "Uno de los trucos de combate más útiles a disposición de un mago implica usar Tiempo 3 para acelerarse a sí mismo o ralentizar a su oponente. Al trabajar con el fenómeno que retuerce la percepción del tiempo bajo presión, el mago dilata las fuerzas temporales próximas. En términos narrativos, esto se entiende como el efecto «tiempo bala» que hizo famoso The Matrix y sus muchos imitadores.\n\n**Sistema:** Implica acciones adicionales para el mago — una acción adicional por cada 2 éxitos obtenidos. Invertida (y «adjuntada» al personaje mediante Correspondencia 2 o Vida 3), la dilatación temporal puede eliminar acciones de un oponente al mismo ritmo. Sin «adjuntarla», el mago simplemente puede acelerar o ralentizar toda la zona; de ahí invocar el «tiempo bala». Si el mago acelera o ralentiza el tiempo más de tres acciones por turno (o tres turnos por acción), todos estos Efectos se vuelven Magia vulgar.",
-    "tags": [
-      "tiempo",
-      "artes-marciales",
-      "formula"
-    ],
-    "mechanics": {
-      "spheres": {
-        "time": 3
-      },
-      "spheres_note": "Tiempo ···",
-      "variantes": "Invertida y «adjuntada» al objetivo mediante Correspondencia ·· o Vida ···",
-      "efecto": "Una acción adicional por cada 2 éxitos (o elimina acciones del oponente al mismo ritmo, si se adjunta)",
-      "coincidental": true,
-      "vulgaridad": "Coincidente hasta 3 acciones extra por turno (o 3 turnos por acción); vulgar por encima"
-    },
-    "sources": [
-      {
-        "book_id": "m20-como-haces-eso-es",
-        "book_title_es": "Cómo haces eso",
-        "page": null,
-        "section_anchor": "dilatacion-temporal-tiempo-bala",
-        "variant": "base"
-      }
-    ],
-    "related": [
-      "bullet-time"
-    ]
   },
   {
     "id": "lightsaber",
