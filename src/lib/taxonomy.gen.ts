@@ -248,6 +248,7 @@ export const MECHANIC_LABELS: Record<string, string> = {
   rank: 'Rango',
   rate: 'Cadencia',
   rating: 'Puntuación',
+  rating_floor: 'Puntuación mínima impresa',
   rating_max: 'Puntuación máxima',
   ratings: 'Puntuaciones',
   recruitment: 'Reclutamiento',
