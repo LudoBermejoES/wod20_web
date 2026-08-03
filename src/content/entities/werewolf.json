@@ -3479,7 +3479,45 @@
       "trasfondo"
     ],
     "mechanics": {
-      "rating_max": 5
+      "rating_max": 5,
+      "purchase_options": [
+        {
+          "cost": 1,
+          "body_es": "Para tres puntos a gastar en Fuerza de Voluntad, Rabia, o Gnosis."
+        },
+        {
+          "cost": 1,
+          "body_es": "El Tótem puede hablar a la manada sin los beneficios del Don Lenguaje Espiritual."
+        },
+        {
+          "cost": 1,
+          "body_es": "El Tótem siempre puede encontrar a los miembros de la manada."
+        },
+        {
+          "cost": 2,
+          "body_es": "El Tótem está casi siempre con los miembros de la manada."
+        },
+        {
+          "cost": 2,
+          "body_es": "El Tótem es respetado por otros espíritus."
+        },
+        {
+          "cost": 2,
+          "body_es": "Por cada Encantamiento que posea."
+        },
+        {
+          "cost": 3,
+          "body_es": "Por cada miembro adicional de la manada que pueda usar los poderes del Tótem en el mismo turno."
+        },
+        {
+          "cost": 4,
+          "body_es": "El Tótem está conectado místicamente con todos los miembros de la manada, permitiendo la comunicación entre ellos incluso a grandes distancias."
+        },
+        {
+          "cost": 5,
+          "body_es": "El Tótem es temido por los agentes del Wyrm. Los esbirros del Wyrm o bien huyen de la manada o bien hacen todo lo que pueden para acabar con ella."
+        }
+      ]
     },
     "sources": [
       {
