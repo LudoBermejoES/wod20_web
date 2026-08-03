@@ -5,7 +5,8 @@
 // dot-rating per sphere; everything else renders as plain text.
 import DotRating from './DotRating.astro';
 import { mechanicLabelEs, sphereLabelEs, TYPE_INFO } from '../lib/taxonomy';
-import { allocationNoteEs, axisFieldKey, ratedAxes } from '../lib/ratedAxes';
+import { allocationNoteEs, axisFieldKey, isRatingRows, ratedAxes } from '../lib/ratedAxes';
+import { sharedScaleLookup } from '../lib/sharedScales';
 
 export interface Props {
   type: string;
@@ -39,7 +40,7 @@ const knownFields = TYPE_INFO[type]?.mechanical_fields ?? [];
 const extraFields = Object.keys(mechanics).filter(
   (key) => !knownFields.includes(key) && !key.startsWith('_')
 );
-const fieldKeys = [...knownFields, ...extraFields].filter(
+const presentFields = [...knownFields, ...extraFields].filter(
   (key) => mechanics[key] !== undefined && mechanics[key] !== null
 );
 
@@ -64,12 +65,24 @@ interface MechTable {
   columns: string[];
 }
 
+// One rendered rated axis: a ladder TABLE, or — for an axis the book states as a formula and
+// prints no rungs for — the FORMULA sentence under the same caption. Exactly one of the two is
+// set. Mirrors `models.mech_block()`, which emits the `<h5 class='wod-kb-scale'>` heading either
+// way and then `ratings_table()` **or** a `<p class='wod-kb-formula'>`.
+interface Ladder {
+  caption: string;
+  table?: MechTable;
+  formula?: string;
+}
+
 interface Field {
   key: string;
   label: string;
   sphereEntries: Array<[string, number]>;
   numericValue?: number;
-  tables?: MechTable[]; // array-of-objects → one table; a multi-scale trait → one per axis
+  // array-of-objects → one table; a multi-scale trait → one entry per RENDERED axis, which is a
+  // table for a tabulated scale and a formula sentence for one the book states as prose.
+  ladders?: Ladder[];
   note?: string; // how points are spent across a multi-scale trait's axes
   arrayValue?: unknown[]; // array of primitives → comma list
   objectValue?: Array<[string, unknown]>; // single object → key/value list
@@ -87,12 +100,38 @@ const withColumns = (caption: string, rows: Array<Record<string, unknown>>): Mec
 // field. A `mechanics.ratings` carrier yields the single degenerate axis (empty `name_es` → no
 // caption, no note), so its markup is exactly what it was before `scales` existed; a
 // `mechanics.scales` carrier yields one named axis per scale.
-const axes = ratedAxes(mechanics);
+// A `ref` scale carries no rows of its own — the cited `aspect` entity does — so the axes are
+// resolved through the shared index before anything is counted or drawn. Without this the ref axis
+// came back rowless and was filtered out entirely: `mage/hedge-path/curacion` drew nothing for its
+// one cited Aspect, `sombras` drew 1 of 5, and the note below still counted all five.
+const resolveSharedScale = await sharedScaleLookup();
+const axes = ratedAxes(mechanics, resolveSharedScale);
 const ladderKey = axisFieldKey(mechanics);
-const ladderTables: MechTable[] = axes
-  .filter((axis) => isObjectArray(axis.ratings))
-  .map((axis) => withColumns(axis.name_es, axis.ratings as Array<Record<string, unknown>>));
+// A formula axis (`mage/aspect/dano-curacion`: "Por cada nivel de este Aspecto…") is not a defect
+// and not a table — the book prints a sentence and no rungs, so five invented rows would be
+// authoring what the page does not say. It renders as prose under its own caption. An axis with
+// NEITHER rows nor prose is an unresolved `ref`: it draws nothing, and `allocationNoteEs()` (which
+// applies the same `axisRenders` predicate) does not count it either, so the note can never
+// promise a scale the page did not draw.
+const ladders: Ladder[] = axes.flatMap((axis): Ladder[] => {
+  if (isRatingRows(axis.ratings)) return [{ caption: axis.name_es, table: withColumns(axis.name_es, axis.ratings) }];
+  if (axis.body_es) return [{ caption: axis.name_es, formula: axis.body_es }];
+  return [];
+});
 const ladderNote = ladderKey === 'scales' ? allocationNoteEs(axes, mechanics.rating_max as number | undefined) : '';
+// THE LADDER FIELD IS RENDERED BY THE LADDER BRANCH OR NOT AT ALL. Every other branch below is
+// wrong for it, and the generic array-of-objects branch is catastrophically so: `mechanics.scales`
+// IS an array of objects, so a scales list that reaches it renders as a
+// `key | name_es | ref | allocation` table — a serialized view of the data model, which
+// `web-presentation`'s first requirement names as "worse than the present blank".
+// It was reachable: the old test was `ladders.length > 0`, and an entity ALL of whose scales are
+// unresolved `ref`s (`mage/hedge-path/curacion` cites one shared Aspect and nothing else) produces
+// zero ladders and fell straight through. Measured on the shipped tree with the refs deliberately
+// broken: `curacion` rendered exactly that table. Dropping the key instead mirrors
+// `models.mech_block()`, which `continue`s past `ratings`/`scales` unconditionally and then emits
+// only the tables it has. Nothing is lost by it: 0 records in the tree carry a `ratings` list whose
+// rows are not objects, so "the ladder key renders no ladder" means there was nothing to show.
+const fieldKeys = presentFields.filter((key) => key !== ladderKey || ladders.length > 0);
 
 const fields: Field[] = fieldKeys.map((key) => {
   const value = mechanics[key];
@@ -108,24 +147,26 @@ const fields: Field[] = fieldKeys.map((key) => {
   // an array of SCALE objects and would otherwise land in the generic branch below as a table of
   // `key | name_es | rating_max | allocation | ratings` with five rung objects JSON-stringified
   // into one cell.
-  const isLadder = key === ladderKey && ladderTables.length > 0;
+  // `fieldKeys` has already dropped the ladder key when it renders nothing, so this is exactly
+  // "is this the rated-axis field", and the branches below can never see `ratings`/`scales`.
+  const isLadder = key === ladderKey;
   // Array of objects (e.g. an extracted rules table) → render as a real table,
   // never `[object Object]`. Columns are the union of keys across rows.
   const generic = !isLadder && !isSphereMap && numericValue === undefined && isObjectArray(value) ? value : undefined;
-  const tables = isLadder ? ladderTables : generic ? [withColumns('', generic)] : undefined;
+  const fieldLadders = isLadder ? ladders : generic ? [{ caption: '', table: withColumns('', generic) }] : undefined;
   const note = isLadder && ladderNote ? ladderNote : undefined;
   const arrayValue =
-    !isSphereMap && numericValue === undefined && !tables && Array.isArray(value) ? value : undefined;
+    !isSphereMap && numericValue === undefined && !fieldLadders && Array.isArray(value) ? value : undefined;
   const objectValue =
-    !isSphereMap && numericValue === undefined && !tables && !arrayValue && value && typeof value === 'object'
+    !isSphereMap && numericValue === undefined && !fieldLadders && !arrayValue && value && typeof value === 'object'
       ? Object.entries(value as Record<string, unknown>)
       : undefined;
   const textValue =
-    !isSphereMap && numericValue === undefined && !tables && !arrayValue && !objectValue
+    !isSphereMap && numericValue === undefined && !fieldLadders && !arrayValue && !objectValue
       ? String(value)
       : undefined;
   const html = mechanicsHtml[key]; // pre-rendered HTML with deep-links, if any
-  return { key, label: mechanicLabelEs(key), sphereEntries, numericValue, tables, note, arrayValue, objectValue, textValue, html };
+  return { key, label: mechanicLabelEs(key), sphereEntries, numericValue, ladders: fieldLadders, note, arrayValue, objectValue, textValue, html };
 });
 ---
 
@@ -149,20 +190,27 @@ const fields: Field[] = fieldKeys.map((key) => {
               <DotRating value={field.numericValue} label={field.label} />
             )}
             {field.note && <p class="alloc-note">{field.note}</p>}
-            {field.tables &&
-              field.tables.map((t) => (
-                <table class="mech-table">
-                  {t.caption && <caption>{t.caption}</caption>}
-                  <thead>
-                    <tr>{t.columns.map((c) => <th>{mechanicLabelEs(c)}</th>)}</tr>
-                  </thead>
-                  <tbody>
-                    {t.rows.map((row) => (
-                      <tr>{t.columns.map((c) => <td>{cell(row[c])}</td>)}</tr>
-                    ))}
-                  </tbody>
-                </table>
-              ))}
+            {field.ladders &&
+              field.ladders.map((l) =>
+                l.table ? (
+                  <table class="mech-table">
+                    {l.caption && <caption>{l.caption}</caption>}
+                    <thead>
+                      <tr>{l.table.columns.map((c) => <th>{mechanicLabelEs(c)}</th>)}</tr>
+                    </thead>
+                    <tbody>
+                      {l.table.rows.map((row) => (
+                        <tr>{l.table!.columns.map((c) => <td>{cell(row[c])}</td>)}</tr>
+                      ))}
+                    </tbody>
+                  </table>
+                ) : (
+                  <>
+                    {l.caption && <p class="scale-name">{l.caption}</p>}
+                    <p class="scale-formula">{l.formula}</p>
+                  </>
+                )
+              )}
             {field.arrayValue &&
               (Array.isArray(field.html)
                 ? field.html.map((h, i) => (
@@ -244,6 +292,20 @@ const fields: Field[] = fieldKeys.map((key) => {
     text-align: left;
     font-weight: 700;
     padding: 0.15em 0;
+  }
+  /* A FORMULA axis: the book states it as a sentence and prints no rungs, so there is no table to
+     caption. The name is carried by a paragraph styled like the table caption above, and the
+     sentence sits under it. Two classes, and NEITHER is a prefix of the other — `wod-kb-scale`
+     being a prefix of a would-be `wod-kb-scale-note` is exactly what made the Python renderer pick
+     `wod-kb-formula`, because the coverage guard counts headings by substring. Keep it that way:
+     any counter over this markup must be able to tell a drawn ladder from a stated formula. */
+  .scale-name {
+    margin: 0.25em 0 0;
+    font-weight: 700;
+  }
+  .scale-formula {
+    margin: 0.1em 0 0;
+    max-width: var(--measure);
   }
   /* How the points are divided across those axes — a rule the tables cannot state themselves. */
   .alloc-note {
