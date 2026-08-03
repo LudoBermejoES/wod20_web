@@ -195,7 +195,7 @@
           "title_es": "Esferas Menores",
           "anchor": "esferas-menores",
           "level": 2,
-          "body_md": "Las Esferas Menores fueron una idea presentada en el Las Esferas Menores fueron una idea presentada en el Manual del Narrador de la Edición Revisada Manual del Narrador de la Edición Revisada como un mecanismo opcional. Esencialmente, la idea es definir un tema específico de la como un mecanismo opcional. Esencialmente, la idea es definir un tema específico de la Esfera, y mezclar y combinar dos o tres propiedades de las Nueve Esferas (denominadas Esfera, y mezclar y combinar dos o tres propiedades de las Nueve Esferas (denominadas Esferas Mayores en este contexto) de un Rango igual o inferior por cada punto de la Esfera Menor. Esto Esferas Mayores en este contexto) de un Rango igual o inferior por cada punto de la Esfera Menor. Esto crea una Esfera con un enfoque más limitado, pero con todo lo necesario condensado en un solo crea una Esfera con un enfoque más limitado, pero con todo lo necesario condensado en un solo rasgo. Esto difiere de las Esferas Variantes descritas con más detalle más adelante en este libro y en rasgo. Esto difiere de las Esferas Variantes descritas con más detalle más adelante en este libro y en Mage: The Ascension 20th Anniversary Edition Mage: The Ascension 20th Anniversary Edition, que están pensadas para ser análogas, que están pensadas para ser análogas y reflejar una de las Nueve Esferas existentes. y reflejar una de las Nueve Esferas existentes.\n\nEl ejemplo habitual es la Esfera Menor de Fuego: El ejemplo habitual es la Esfera Menor de Fuego:\n\n· [Percibir Fuerzas](/mage/sphere-effects/forces-1) (Fuego), Sentidos Etéricos (Solo puede Canalizar fuentes de Quintaesencia de resonancia de Fuego)\n\n·· Controlar Fuerzas Menores (Fuego), Encantar/Alimentar [Patrón](/mage/backgrounds/patron) (Fuegos)\n\n··· Transmutar Fuerzas (Uno de los [elementos](/mage/instruments/elements) debe ser el fuego), Despertar/Calmar Espíritu (Espíritus de Fuego)\n\n···· Controlar Fuerzas Mayores (Fuego), Ligar Espíritus (Solo Espíritus de Fuego)\n\n····· Transmutar Fuerzas Mayores (Explosiones Nucleares y otras Grandes Conflagraciones),\n\nCrear Nodo (Resonancia de Fuego)\n\nLas Esferas Menores son una versión intensamente personal del desarrollo mágico. Dos Magos de Fuego podrían tener dos Esferas Menores de Fuego completamente distintas: una que incluya comunicarse con Espíritus de Fuego como la de arriba, mientras que otra podría incluir Materia para crear sólidas 'Llamas Congeladas'. Como tal, traducir y comprender Fórmulas que usan Esferas Menores puede ser extremadamente difícil, incluso para alguien con una Esfera Menor similar.\n\nAdemás del Manual del Narrador, la idea de las Esferas Menores se explora más a fondo en los libros de Storyteller Vault The Book of Fragments y Foreign Magicks, y os animamos a consultar esos libros si el concepto os interesa.",
+          "body_md": "Las Esferas Menores fueron una idea presentada en el Las Esferas Menores fueron una idea presentada en el Manual del Narrador de la Edición Revisada Manual del Narrador de la Edición Revisada como un mecanismo opcional. Esencialmente, la idea es definir un tema específico de la como un mecanismo opcional. Esencialmente, la idea es definir un tema específico de la Esfera, y mezclar y combinar dos o tres propiedades de las Nueve Esferas (denominadas Esfera, y mezclar y combinar dos o tres propiedades de las Nueve Esferas (denominadas Esferas Mayores en este contexto) de un Rango igual o inferior por cada punto de la Esfera Menor. Esto Esferas Mayores en este contexto) de un Rango igual o inferior por cada punto de la Esfera Menor. Esto crea una Esfera con un enfoque más limitado, pero con todo lo necesario condensado en un solo crea una Esfera con un enfoque más limitado, pero con todo lo necesario condensado en un solo rasgo. Esto difiere de las Esferas Variantes descritas con más detalle más adelante en este libro y en rasgo. Esto difiere de las Esferas Variantes descritas con más detalle más adelante en este libro y en Mage: The Ascension 20th Anniversary Edition Mage: The Ascension 20th Anniversary Edition, que están pensadas para ser análogas, que están pensadas para ser análogas y reflejar una de las Nueve Esferas existentes. y reflejar una de las Nueve Esferas existentes.\n\nEl ejemplo habitual es la Esfera Menor de Fuego: El ejemplo habitual es la Esfera Menor de Fuego:\n\n• [Percibir Fuerzas](/mage/sphere-effects/forces-1) (Fuego), Sentidos Etéricos (Solo puede Canalizar fuentes de Quintaesencia de resonancia de Fuego)\n\n•• Controlar Fuerzas Menores (Fuego), Encantar/Alimentar [Patrón](/mage/backgrounds/patron) (Fuegos)\n\n••• Transmutar Fuerzas (Uno de los [elementos](/mage/instruments/elements) debe ser el fuego), Despertar/Calmar Espíritu (Espíritus de Fuego)\n\n•••• Controlar Fuerzas Mayores (Fuego), Ligar Espíritus (Solo Espíritus de Fuego)\n\n••••• Transmutar Fuerzas Mayores (Explosiones Nucleares y otras Grandes Conflagraciones),\n\nCrear Nodo (Resonancia de Fuego)\n\nLas Esferas Menores son una versión intensamente personal del desarrollo mágico. Dos Magos de Fuego podrían tener dos Esferas Menores de Fuego completamente distintas: una que incluya comunicarse con Espíritus de Fuego como la de arriba, mientras que otra podría incluir Materia para crear sólidas 'Llamas Congeladas'. Como tal, traducir y comprender Fórmulas que usan Esferas Menores puede ser extremadamente difícil, incluso para alguien con una Esfera Menor similar.\n\nAdemás del Manual del Narrador, la idea de las Esferas Menores se explora más a fondo en los libros de Storyteller Vault The Book of Fragments y Foreign Magicks, y os animamos a consultar esos libros si el concepto os interesa.",
           "defines_entities": []
         }
       ]
@@ -621,12 +621,12 @@
       ]
     },
     {
-      "title_es": "· Percibir Pecados y Juicio/Percibir Paradoja",
+      "title_es": "• Percibir Pecados y Juicio/Percibir Paradoja",
       "anchor": "percibir-pecados-y-juicio-percibir-paradoja",
       "level": 2,
       "sections": [
         {
-          "title_es": "· Percibir Pecados y Juicio/Percibir Paradoja",
+          "title_es": "• Percibir Pecados y Juicio/Percibir Paradoja",
           "anchor": "percibir-pecados-y-juicio-percibir-paradoja",
           "level": 2,
           "body_md": "Los Iniciados de Telos pueden ver las faltas y virtudes en los Patrones, y cuál es su Telos último. En el caso de las personas, una aplicación particularmente útil de esto es detectar si le están mintiendo deliberadamente al mago.\n\nEl Iniciado también puede percibir la Paradoja acumulada por otros Magos, así como los efectos de Paradoja mientras ocurren.",
@@ -635,12 +635,12 @@
       ]
     },
     {
-      "title_es": "·· Guiar el Juicio/la Paradoja",
+      "title_es": "•• Guiar el Juicio/la Paradoja",
       "anchor": "guiar-el-juicio-la-paradoja",
       "level": 2,
       "sections": [
         {
-          "title_es": "·· Guiar el Juicio/la Paradoja",
+          "title_es": "•• Guiar el Juicio/la Paradoja",
           "anchor": "guiar-el-juicio-la-paradoja",
           "level": 2,
           "body_md": "Ahora el mago puede guiar el Telos, aparentando afectar la probabilidad de la misma manera que lo haría un usuario de Entropía, aunque quien maneja Telos sabe que nada ocurre realmente por azar.\n\nEl Mago también puede intentar guiar la Paradoja mientras ocurre. Esto funciona de forma similar a la Contramagia, excepto que reacciona a la Paradoja en lugar de al efecto de otro Mago. No se puede reducir la Paradoja, pero se puede redirigir la Paradoja desencadenante hacia efectos diferentes, siendo el número de éxitos requeridos igual al número de éxitos del contragolpe de Paradoja. El objetivo del contragolpe no puede cambiarse, el receptor previsto debe recibir su castigo de una forma u otra.",
@@ -649,12 +649,12 @@
       ]
     },
     {
-      "title_es": "··· Juzgar Patrones Predecibles",
+      "title_es": "••• Juzgar Patrones Predecibles",
       "anchor": "juzgar-patrones-predecibles",
       "level": 2,
       "sections": [
         {
-          "title_es": "··· Juzgar Patrones Predecibles",
+          "title_es": "••• Juzgar Patrones Predecibles",
           "anchor": "juzgar-patrones-predecibles",
           "level": 2,
           "body_md": "En este Rango, el Mago puede controlar el Telos a largo plazo de Patrones no vivos: cuándo fallarán, cuándo realizarán su tarea deseada espléndidamente, etc.",
@@ -663,12 +663,12 @@
       ]
     },
     {
-      "title_es": "···· Juzgar Seres Vivos",
+      "title_es": "•••• Juzgar Seres Vivos",
       "anchor": "juzgar-seres-vivos",
       "level": 2,
       "sections": [
         {
-          "title_es": "···· Juzgar Seres Vivos",
+          "title_es": "•••• Juzgar Seres Vivos",
           "anchor": "juzgar-seres-vivos",
           "level": 2,
           "body_md": "En este Rango, el Mago puede invocar el Telos de seres vivos directamente, bendiciéndolos/maldiciéndolos o invocando la ira divina directa sobre ellos.\n\nLos Adeptos de Telos también pueden intentar guiar futuros efectos de Paradoja vinculados a un Mago, dejando instrucciones sobre cómo se desencadena la Paradoja. Como en rangos inferiores, no se puede negar por completo la Paradoja, pero pueden influir en cómo la Paradoja causará contragolpe en el futuro.",
@@ -677,12 +677,12 @@
       ]
     },
     {
-      "title_es": "····· Juzgar el Pensamiento/la Sociedad/Vincular Juramentos",
+      "title_es": "••••• Juzgar el Pensamiento/la Sociedad/Vincular Juramentos",
       "anchor": "juzgar-el-pensamiento-la-sociedad-vincular-juramentos",
       "level": 2,
       "sections": [
         {
-          "title_es": "····· Juzgar el Pensamiento/la Sociedad/Vincular Juramentos",
+          "title_es": "••••• Juzgar el Pensamiento/la Sociedad/Vincular Juramentos",
           "anchor": "juzgar-el-pensamiento-la-sociedad-vincular-juramentos",
           "level": 2,
           "body_md": "Los Maestros de Telos pueden aplicar Telos a ideas abstractas y a una cultura en general. Los Juramentos también pueden vincularse con Telos",
@@ -747,12 +747,12 @@
       ]
     },
     {
-      "title_es": "· Percibir Asha/Druj",
+      "title_es": "• Percibir Asha/Druj",
       "anchor": "percibir-asha-druj",
       "level": 2,
       "sections": [
         {
-          "title_es": "· Percibir Asha/Druj",
+          "title_es": "• Percibir Asha/Druj",
           "anchor": "percibir-asha-druj",
           "level": 2,
           "body_md": "Los iniciados de Atar pueden percibir tanto las fuerzas alineadas con Asha como con Druj, y pueden distinguir entre ambas categorías.",
@@ -761,12 +761,12 @@
       ]
     },
     {
-      "title_es": "·· Manipular Asha/Druj",
+      "title_es": "•• Manipular Asha/Druj",
       "anchor": "manipular-asha-druj",
       "level": 2,
       "sections": [
         {
-          "title_es": "·· Manipular Asha/Druj",
+          "title_es": "•• Manipular Asha/Druj",
           "anchor": "manipular-asha-druj",
           "level": 2,
           "body_md": "En este Rango, el Mago ya puede cambiar el flujo de Asha, así como el de Druj con cierta dificultad. Además, los practicantes de Atar también pueden separar aspectos individuales de un Asha existente en fuerzas separadas. Las nuevas fuerzas deben estar relacionadas de alguna manera con las fuerzas originales. Por ejemplo, una llama puede separarse en luz y calor, pero no en frío.",
@@ -775,12 +775,12 @@
       ]
     },
     {
-      "title_es": "··· Manipular Asha/Druj",
+      "title_es": "••• Manipular Asha/Druj",
       "anchor": "manipular-asha-druj",
       "level": 2,
       "sections": [
         {
-          "title_es": "··· Manipular Asha/Druj",
+          "title_es": "••• Manipular Asha/Druj",
           "anchor": "manipular-asha-druj",
           "level": 2,
           "body_md": "Desbloquear este nivel permite al Mago transmutar un Asha en otro Asha, un Druj en otro Druj, o incluso un Druj en un Asha, aunque NUNCA un Asha en un Druj. Eso sería un ultraje contra Ormazd. Atar también puede realizar los mismos efectos combinados con otras Esferas que Fuerzas al mismo nivel.",
@@ -789,12 +789,12 @@
       ]
     },
     {
-      "title_es": "···· Controlar Asha/Druj Mayor",
+      "title_es": "•••• Controlar Asha/Druj Mayor",
       "anchor": "controlar-asha-druj-mayor",
       "level": 2,
       "sections": [
         {
-          "title_es": "···· Controlar Asha/Druj Mayor",
+          "title_es": "•••• Controlar Asha/Druj Mayor",
           "anchor": "controlar-asha-druj-mayor",
           "level": 2,
           "body_md": "Similar a Fuerzas 4, Atar ahora puede afectar a Asha y Druj en patrones mayores y más complejos. El clima, los patrones de temperatura, las corrientes de viento y la tectónica de placas son todos ejemplos de Asha mayor. La lluvia radioactiva y las transmisiones de radio/satélite son ejemplos de Druj mayor.",
@@ -803,12 +803,12 @@
       ]
     },
     {
-      "title_es": "····· Transmutar Asha/Druj Mayor",
+      "title_es": "••••• Transmutar Asha/Druj Mayor",
       "anchor": "transmutar-asha-druj-mayor",
       "level": 2,
       "sections": [
         {
-          "title_es": "····· Transmutar Asha/Druj Mayor",
+          "title_es": "••••• Transmutar Asha/Druj Mayor",
           "anchor": "transmutar-asha-druj-mayor",
           "level": 2,
           "body_md": "En la maestría de Atar, Asha y Druj ahora pueden transmutarse a gran escala. Una ráfaga purificadora de Atar podría erradicar una enfermedad en un área, o con Cardinal la noche podría convertirse en día.\n\n<!-- image -->",
@@ -873,12 +873,12 @@
       ]
     },
     {
-      "title_es": "· Percibir Conocimiento/Proteger Conocimiento/Potenciarse a Sí Mismo",
+      "title_es": "• Percibir Conocimiento/Proteger Conocimiento/Potenciarse a Sí Mismo",
       "anchor": "percibir-conocimiento-proteger-conocimiento-potenciarse-a-si-mismo",
       "level": 2,
       "sections": [
         {
-          "title_es": "· Percibir Conocimiento/Proteger Conocimiento/Potenciarse a Sí Mismo",
+          "title_es": "• Percibir Conocimiento/Proteger Conocimiento/Potenciarse a Sí Mismo",
           "anchor": "percibir-conocimiento-proteger-conocimiento-potenciarse-a-si-mismo",
           "level": 2,
           "body_md": "Los Iniciados pueden percibir la presencia de Conocimiento a su alrededor, aunque aún no pueden usar la magia para obtenerlo. Por ejemplo, el mago podría percibir que alguien sabe algo que necesita, pero necesitaría usar medios mundanos para extraerle esa información. Como ya se señaló arriba, la fuente del conocimiento no necesita ser una mente. Los sentidos del mago podrían señalarle un libro con el conocimiento que busca. Solo necesitaría tomarse el tiempo de leerlo.",
@@ -915,12 +915,12 @@
       ]
     },
     {
-      "title_es": "·· Comprender Conocimiento Superficial/Sembrar Conocimiento",
+      "title_es": "•• Comprender Conocimiento Superficial/Sembrar Conocimiento",
       "anchor": "comprender-conocimiento-superficial-sembrar-conocimiento",
       "level": 2,
       "sections": [
         {
-          "title_es": "·· Comprender Conocimiento Superficial/Sembrar Conocimiento",
+          "title_es": "•• Comprender Conocimiento Superficial/Sembrar Conocimiento",
           "anchor": "comprender-conocimiento-superficial-sembrar-conocimiento",
           "level": 2,
           "body_md": "En este nivel, el Mago ya puede discernir Patrones de Conocimiento superficiales. El Mago puede percibir los pensamientos y sensaciones abstractas inmediatas de una persona (aunque no las emociones relacionadas con ellos), o podría memorizar el contenido de un libro sin leerlo. El mago también podría sembrar conocimiento en una mente o [Patrón](/mage/backgrounds/patron) de Conocimiento. Por ejemplo, se puede implantar el pensamiento de que es hora de tomar un descanso del trabajo. Alternativamente, se pueden almacenar piezas adicionales de conocimiento en el [patrón](/mage/backgrounds/patron) de un libro para que las extraiga otro mago de Conocimiento.",
@@ -929,12 +929,12 @@
       ]
     },
     {
-      "title_es": "··· Compartir Conocimiento/Proyectar Ilusiones/Recorrer el Patrón de Conocimiento/Sobrecarga de Conocimiento",
+      "title_es": "••• Compartir Conocimiento/Proyectar Ilusiones/Recorrer el Patrón de Conocimiento/Sobrecarga de Conocimiento",
       "anchor": "compartir-conocimiento-proyectar-ilusiones-recorrer-el-patron-de-conocimiento-sobrecarga-de-conocimiento",
       "level": 2,
       "sections": [
         {
-          "title_es": "··· Compartir Conocimiento/Proyectar Ilusiones/Recorrer el Patrón de Conocimiento/Sobrecarga de Conocimiento",
+          "title_es": "••• Compartir Conocimiento/Proyectar Ilusiones/Recorrer el Patrón de Conocimiento/Sobrecarga de Conocimiento",
           "anchor": "compartir-conocimiento-proyectar-ilusiones-recorrer-el-patron-de-conocimiento-sobrecarga-de-conocimiento",
           "level": 2,
           "body_md": "En este Rango, el Mago puede vincular mentes para comunicarse y compartir conocimiento, o vincular su conocimiento a un [Patrón](/mage/backgrounds/patron) de Conocimiento externo para almacenar grandes cantidades de su conocimiento personal. El mago incluso puede proyectarse psíquicamente y entrar en un [Patrón](/mage/backgrounds/patron) de Conocimiento suficientemente grande y explorarlo como si fuera un Reino. Por ejemplo, el Mago podría sumergirse psíquicamente en un mapa y explorar una [proyección astral](/mage/sphere-effects/astral-projection) de lo que representa, o un PC [desconectado](/mage/flaws/desconectado) de la Red Digital podría albergar un Reino Digital localizado accesible mediante Conocimiento.\n\nAdemás, el Mago puede sobrecargar la mente de alguien con demasiado conocimiento a la vez, similar al hechizo de ataque de Mente 3.\n\n<!-- image -->",
@@ -943,12 +943,12 @@
       ]
     },
     {
-      "title_es": "···· Controlar Conocimiento/Alterar Conocimiento/Proyección Astral",
+      "title_es": "•••• Controlar Conocimiento/Alterar Conocimiento/Proyección Astral",
       "anchor": "controlar-conocimiento-alterar-conocimiento-proyeccion-astral",
       "level": 2,
       "sections": [
         {
-          "title_es": "···· Controlar Conocimiento/Alterar Conocimiento/Proyección Astral",
+          "title_es": "•••• Controlar Conocimiento/Alterar Conocimiento/Proyección Astral",
           "anchor": "controlar-conocimiento-alterar-conocimiento-proyeccion-astral",
           "level": 2,
           "body_md": "El Mago ahora puede reescribir el conocimiento de alguien de forma similar a como Mente 4 puede controlar y reescribir [recuerdos](/mage/instruments/memories). Ten en cuenta que no pueden controlar ni cambiar emociones, lo que puede resultar en discrepancias entre lo que alguien recuerda conscientemente y lo que siente subconscientemente.\n\nAdemás, el Mago ahora puede entrar en la Umbra Astral en una forma astral, similar a Mente 4. A través de su forma astral, el Mago de Conocimiento puede comenzar a explorar partes de las mentes normalmente excluidas de ellos, como las emociones y los mundos oníricos, con algo de asistencia de la Esfera de Espíritu.",
@@ -957,12 +957,12 @@
       ]
     },
     {
-      "title_es": "····· Controlar el Conocimiento Subconsciente/Crear/Copiar la Conciencia",
+      "title_es": "••••• Controlar el Conocimiento Subconsciente/Crear/Copiar la Conciencia",
       "anchor": "controlar-el-conocimiento-subconsciente-crear-copiar-la-conciencia",
       "level": 2,
       "sections": [
         {
-          "title_es": "····· Controlar el Conocimiento Subconsciente/Crear/Copiar la Conciencia",
+          "title_es": "••••• Controlar el Conocimiento Subconsciente/Crear/Copiar la Conciencia",
           "anchor": "controlar-el-conocimiento-subconsciente-crear-copiar-la-conciencia",
           "level": 2,
           "body_md": "La maestría de Conocimiento otorga gran parte de las mismas capacidades que la maestría de Mente. El mago ahora puede alterar la propia capacidad de alguien para percibir y comprender el conocimiento (aumentar y disminuir atributos y habilidades mentales), cambiar los Patrones de Conocimiento que definen su identidad (cambiar su naturaleza), o crear una nueva mente a partir de plantillas de Patrones de Conocimiento. Los maestros de Conocimiento tienen dificultades para mover conciencias de la manera en que pueden los maestros de Mente, pero pueden copiar los Patrones de conocimiento y crear un duplicado de la conciencia de alguien con más facilidad (aunque esto sigue sin ser tarea fácil).\n\nCapítulo 3: Las Esferas Variantes de los Oficios Dispares\n\n<!-- image -->\n\n62 El Libro de las Esferas: Magias Dispares y Locas\n\n<!-- image -->",
@@ -1153,12 +1153,12 @@
       ]
     },
     {
-      "title_es": "· Percibir No-Muertos",
+      "title_es": "• Percibir No-Muertos",
       "anchor": "percibir-no-muertos",
       "level": 2,
       "sections": [
         {
-          "title_es": "· Percibir No-Muertos",
+          "title_es": "• Percibir No-Muertos",
           "anchor": "percibir-no-muertos",
           "level": 2,
           "body_md": "Los Iniciados de No-Muerte pueden percibir la presencia de los No-Muertos, y también pueden discernir cuánto tiempo llevan existiendo en un estado no-muerto, y qué tipo de heridas tienen actualmente. A diferencia de Vida, no pueden discernir ningún rasgo genético hereditario en los Patrones no-muertos. El ADN que la carne tuvo alguna vez ya no sirve de ningún propósito para el no-muerto (y en algunos casos, puede que ya ni siquiera esté presente). No-Muerte sí puede detectar un linaje no-muerto, sin embargo (como entre sires y childer Vampíricos, por ejemplo), así como cuál era su estado original en el momento de convertirse en No-Muerto.\n\nCon los saberes apropiados, un Mago de No-Muerte también puede detectar más sobre qué tipo de no-muerto es alguien, asumiendo que pertenezca a un grupo existente de Habitantes de la Noche o a un linaje Pretérito de no-muertos del que exista tal saber. Un experto en el Saber de los Vampiros, por ejemplo, puede ser capaz de detectar si son vampiros o ghouls, a qué clan pertenecen, generaciones, y combinado con Mente, detectar sus vínculos de sangre.",
@@ -1167,12 +1167,12 @@
       ]
     },
     {
-      "title_es": "·· Alterar No-Muertos Simples/Repararse a Sí Mismo",
+      "title_es": "•• Alterar No-Muertos Simples/Repararse a Sí Mismo",
       "anchor": "alterar-no-muertos-simples-repararse-a-si-mismo",
       "level": 2,
       "sections": [
         {
-          "title_es": "·· Alterar No-Muertos Simples/Repararse a Sí Mismo",
+          "title_es": "•• Alterar No-Muertos Simples/Repararse a Sí Mismo",
           "anchor": "alterar-no-muertos-simples-repararse-a-si-mismo",
           "level": 2,
           "body_md": "Como Vida 2, un Mago de No-Muerte puede alterar Patrones simples, aunque lo que constituye un no-muerto simple difiere de lo que es una vida simple. Los no-muertos simples son cualquier no-muerto que carezca de cualquier forma de inteligencia. Ya sean Patrones inmóviles como plantas no-muertas, o formas que caminan, se arrastran o se tambalean y que hacen poco más que obedecer instrucciones impresas en su [Patrón](/mage/backgrounds/patron) mediante magia de No-Muerte.\n\nEn este nivel, el Mago de No-Muerte puede comandar No-Muertos Simples existentes, asumiendo que nadie ya los esté comandando, o que el control pueda arrebatarse en una tirada enfrentada. También pueden animar un cadáver como No-Muerto Simple, pero aún no pueden darle la inteligencia básica necesaria para actuar por voluntad propia. Más bien, pueden manejar directamente al No-Muerto como una marioneta mientras se concentren en hacerlo, o, si consiguen suficientes éxitos, proporcionar un conjunto de instrucciones para que el No-Muerto actúe conforme a ellas.\n\nPor último, un Mago de No-Muerte también puede reparar las heridas de estos muertos andantes, así como sus propias heridas.",
@@ -1181,12 +1181,12 @@
       ]
     },
     {
-      "title_es": "··· Transformar No-Muertos Simples/Alterarse a Sí Mismo/Reparar a Otros",
+      "title_es": "••• Transformar No-Muertos Simples/Alterarse a Sí Mismo/Reparar a Otros",
       "anchor": "transformar-no-muertos-simples-alterarse-a-si-mismo-reparar-a-otros",
       "level": 2,
       "sections": [
         {
-          "title_es": "··· Transformar No-Muertos Simples/Alterarse a Sí Mismo/Reparar a Otros",
+          "title_es": "••• Transformar No-Muertos Simples/Alterarse a Sí Mismo/Reparar a Otros",
           "anchor": "transformar-no-muertos-simples-alterarse-a-si-mismo-reparar-a-otros",
           "level": 2,
           "body_md": "Ahora el mago de No-Muerte puede realizar transformaciones más complejas sobre no-muertos simples, crear criaturas compuestas formadas por múltiples cadáveres, o en conjunción con Cardinal 2 crear carne no-muerta completamente nueva a partir de su imaginación. El mago también puede aumentarse a sí mismo con estas [mejoras](/mage/sphere-effects/upgrades) no-muertas, incluyendo alterar su [Patrón](/mage/backgrounds/patron) lo suficiente como para entrar en la Umbra Baja sin problemas. Por último, el Mago ahora puede reparar heridas de No-Muertos mayores más independientes, así como realizar reparaciones temporales sobre los vivos.",
@@ -1195,12 +1195,12 @@
       ]
     },
     {
-      "title_es": "···· Alterar No-Muertos Mayores/Transformarse a Sí Mismo",
+      "title_es": "•••• Alterar No-Muertos Mayores/Transformarse a Sí Mismo",
       "anchor": "alterar-no-muertos-mayores-transformarse-a-si-mismo",
       "level": 2,
       "sections": [
         {
-          "title_es": "···· Alterar No-Muertos Mayores/Transformarse a Sí Mismo",
+          "title_es": "•••• Alterar No-Muertos Mayores/Transformarse a Sí Mismo",
           "anchor": "alterar-no-muertos-mayores-transformarse-a-si-mismo",
           "level": 2,
           "body_md": "En este Rango, el Mago ya puede hacer alteraciones a No-Muertos Mayores: cualquier no-muerto con voluntad y astucia propias, siempre que no altere fundamentalmente qué tipo de no-muerto es. Un mago de No-Muerte puede aumentar la fuerza de un vampiro o darle [extremidades adicionales](/mage/special-advantages/extra-limbs), pero no puede transformarlo en una momia, por ejemplo. El mago de No-Muerte puede transformarse a sí mismo, sin embargo, en criaturas no-muertas. Ten cuidado, sin embargo, ya que no hay vuelta atrás en muchas transformaciones de No-Muerte. La mayoría de las formas no-muertas hacen que el avatar pase a su siguiente encarnación y se pierda la Magia Despierta, en el mejor de los casos, mientras que en el peor traen nuevas aflicciones y maldiciones específicas de su tipo de no-muerto.",
@@ -1209,12 +1209,12 @@
       ]
     },
     {
-      "title_es": "····· Crear y Transformar No-Muertos Mayores",
+      "title_es": "••••• Crear y Transformar No-Muertos Mayores",
       "anchor": "crear-y-transformar-no-muertos-mayores",
       "level": 2,
       "sections": [
         {
-          "title_es": "····· Crear y Transformar No-Muertos Mayores",
+          "title_es": "••••• Crear y Transformar No-Muertos Mayores",
           "anchor": "crear-y-transformar-no-muertos-mayores",
           "level": 2,
           "body_md": "Los Maestros de No-Muerte ahora pueden crear nuevos No-Muertos Mayores. El Mago podría crear una nueva estirpe de Vampiros, sin conexión con los 13 clanes existentes, recrear el rito de renacimiento que da lugar a las Momias, o crear un tipo completamente nuevo de no-muerto. El Mago incluso podría ser capaz de cambiar fundamentalmente la naturaleza de un no-muerto mayor. Sin embargo, como los no-muertos mayores a menudo son producto de maldiciones de seres poderosos, tejer de nuevo su [Patrón](/mage/backgrounds/patron) de forma tan radical puede ser una hazaña mayúscula que requiere muchos éxitos a lo largo del tiempo.\n\nPara el raro Mago que ha logrado dominar tanto Vida como No-Muerte (ver el Mérito de [Variantes Duales](/mage/merits/variantes-duales), Pg. 88), el Mago puede ser capaz de trascender las limitaciones tanto de lo vivo como de lo sin vida, creando organismos complejos con un pie en ambos reinos, como un Damphyr.\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->",
@@ -1307,12 +1307,12 @@
       ]
     },
     {
-      "title_es": "· Percepciones de Antimateria",
+      "title_es": "• Percepciones de Antimateria",
       "anchor": "percepciones-de-antimateria",
       "level": 2,
       "sections": [
         {
-          "title_es": "· Percepciones de Antimateria",
+          "title_es": "• Percepciones de Antimateria",
           "anchor": "percepciones-de-antimateria",
           "level": 2,
           "body_md": "En este nivel, la Antimateria y la Materia son en gran medida indistinguibles en su aplicación. Como ambas son solo formas diferentes de Materia, un iniciado de Antimateria puede seguir empleando sus sentidos mágicos tanto en Materia como viceversa. Un iniciado de Antimateria puede sentir un malestar al usar magia sensorial de Antimateria en el universo de materia mundano. Una especie de disforia cósmica, como si el universo estuviera mal… desequilibrado…\n\n…Si tan solo pudieran equilibrarlo de alguna manera…",
@@ -1321,12 +1321,12 @@
       ]
     },
     {
-      "title_es": "·· Transmutación Básica",
+      "title_es": "•• Transmutación Básica",
       "anchor": "transmutacion-basica",
       "level": 2,
       "sections": [
         {
-          "title_es": "·· Transmutación Básica",
+          "title_es": "•• Transmutación Básica",
           "anchor": "transmutacion-basica",
           "level": 2,
           "body_md": "En este Rango, el mago puede comenzar a manipular la antimateria de forma similar a como un mago de Materia manipula la materia… asumiendo que puede encontrar algo de ella.\n\nAfortunadamente (o desafortunadamente, según tu perspectiva), en conjunción con otras Esferas el Mago puede usar [energía](/mage/instruments/energy) (Fuerza 3 o Cardinal 2), o de forma más perversa, tejido vivo (Vida 3) para producir algo de Antimateria rudimentaria. Si el mago es capaz de comprender tanto la Esfera de Materia como la de Antimateria (ver el Mérito de [Variantes Duales](/mage/merits/variantes-duales), Pg. 88), podría combinar Materia 2 a este nivel para convertir materia y antimateria de un lado a otro.",
@@ -1335,12 +1335,12 @@
       ]
     },
     {
-      "title_es": "··· Alterar Forma",
+      "title_es": "••• Alterar Forma",
       "anchor": "alterar-forma",
       "level": 2,
       "sections": [
         {
-          "title_es": "··· Alterar Forma",
+          "title_es": "••• Alterar Forma",
           "anchor": "alterar-forma",
           "level": 2,
           "body_md": "Ahora el mago puede realizar manipulaciones complejas de antimateria, similares a Materia 3. Las aplicaciones prácticas de esto aún no se han explorado por completo, ya que los Exies que exploran esta esfera variante están en gran medida contentos con sus capacidades destructivas existentes, aunque algunos están ideando innovaciones retorcidas.",
@@ -1349,12 +1349,12 @@
       ]
     },
     {
-      "title_es": "···· Transmutación Compleja",
+      "title_es": "•••• Transmutación Compleja",
       "anchor": "transmutacion-compleja",
       "level": 2,
       "sections": [
         {
-          "title_es": "···· Transmutación Compleja",
+          "title_es": "•••• Transmutación Compleja",
           "anchor": "transmutacion-compleja",
           "level": 2,
           "body_md": "Igual que arriba, pero este nivel de conocimiento es comparable a Materia 4. Al ser una esfera variante relativamente nueva, se desconoce si algún Exie ha alcanzado este nivel de conocimiento siquiera.",
@@ -1363,12 +1363,12 @@
       ]
     },
     {
-      "title_es": "····· Alterar Propiedades",
+      "title_es": "••••• Alterar Propiedades",
       "anchor": "alterar-propiedades",
       "level": 2,
       "sections": [
         {
-          "title_es": "····· Alterar Propiedades",
+          "title_es": "••••• Alterar Propiedades",
           "anchor": "alterar-propiedades",
           "level": 2,
           "body_md": "Si alguien lograra obtener la maestría de Antimateria, sería capaz de trascender las limitaciones normales de la antimateria. Quizás podría encontrar estados entre la materia y la antimateria, o crear antimateria que pudiera coexistir con la materia hasta ser activada para causar una aniquilación. En cualquier caso, un maestro de Antimateria es una propuesta aterradora…\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->",
@@ -1489,12 +1489,12 @@
       ]
     },
     {
-      "title_es": "· Sentido del Multiverso",
+      "title_es": "• Sentido del Multiverso",
       "anchor": "sentido-del-multiverso",
       "level": 2,
       "sections": [
         {
-          "title_es": "· Sentido del Multiverso",
+          "title_es": "• Sentido del Multiverso",
           "anchor": "sentido-del-multiverso",
           "level": 2,
           "body_md": "Como iniciado, los Despertados pueden comenzar a percibir el multiverso como un todo. Los Magos de Multiverso pueden percibir si cambian de universo, y los practicantes más cautelosos pueden trazar mapas de los universos en los que han estado y las diferencias precisas que necesitarían rastrear de nuevo si desean atravesar hacia atrás. Un Mago también puede detectar efectos y perturbaciones de Tiempo y Multiverso, así como diferenciar entre los dos.",
@@ -1503,12 +1503,12 @@
       ]
     },
     {
-      "title_es": "·· Contemplar el Multiverso/Espesar el Universo",
+      "title_es": "•• Contemplar el Multiverso/Espesar el Universo",
       "anchor": "contemplar-el-multiverso-espesar-el-universo",
       "level": 2,
       "sections": [
         {
-          "title_es": "·· Contemplar el Multiverso/Espesar el Universo",
+          "title_es": "•• Contemplar el Multiverso/Espesar el Universo",
           "anchor": "contemplar-el-multiverso-espesar-el-universo",
           "level": 2,
           "body_md": "En este Rango, el Mago ya puede asomarse a los distintos universos que lo rodean. Eso sí, sin Esferas adicionales, lo que les es visible se limita al entorno inmediato correspondiente en esa versión de donde se encuentran ahora. Combinar Materia o Vida permitirá rastrear versiones alternativas de un [patrón](/mage/backgrounds/patron) en algún otro lugar de otro universo, Correspondencia puede ayudar a explorar otros universos con más libertad, y Entropía puede ayudar a localizar universos específicos, mientras que Espíritu y Mente incluso pueden permitir contactar entidades al otro lado.\n\nDe forma similar a como un Mago de Tiempo puede espesar el Tiempo, un Mago de Multiverso puede hacer que los efectos de Multiverso y Tiempo sean más difíciles.",
@@ -1517,12 +1517,12 @@
       ]
     },
     {
-      "title_es": "··· Universos Adyacentes",
+      "title_es": "••• Universos Adyacentes",
       "anchor": "universos-adyacentes",
       "level": 2,
       "sections": [
         {
-          "title_es": "··· Universos Adyacentes",
+          "title_es": "••• Universos Adyacentes",
           "anchor": "universos-adyacentes",
           "level": 2,
           "body_md": "Los Despertados ahora pueden viajar a otros universos, aunque solo a universos en la proximidad inmediata del suyo propio. Estos universos tienen diferencias minúsculas con el universo natal del Mago, a menudo un único detalle menor, pero incluso esos pueden resultar beneficiosos. Por ejemplo, un Mago que se enfrenta a un camión semirremolque que se le viene encima podría viajar a un universo donde ese camión giró a la derecha una manzana más atrás, regresando a su universo natal una vez [fuera de peligro](/mage/rotes/out-of-harms-way). Los Magos menos preocupados por las implicaciones filosóficas de los distintos universos también podrían simplemente optar por quedarse. Sin embargo, los Magos deberían tener en cuenta que en los infinitos universos circundantes con diferencias sutilísimas hay posiblemente un número infinito de sí mismos. En particular, copias de sí mismos con aproximadamente las mismas opiniones éticas. Algo a tener en cuenta si alguna vez piensan simplemente en sacar otra versión de su coche que acaban de destrozar desde algún otro lugar del multiverso…",
@@ -1531,12 +1531,12 @@
       ]
     },
     {
-      "title_es": "···· Espacios Entre Universos/Baliza Universal",
+      "title_es": "•••• Espacios Entre Universos/Baliza Universal",
       "anchor": "espacios-entre-universos-baliza-universal",
       "level": 2,
       "sections": [
         {
-          "title_es": "···· Espacios Entre Universos/Baliza Universal",
+          "title_es": "•••• Espacios Entre Universos/Baliza Universal",
           "anchor": "espacios-entre-universos-baliza-universal",
           "level": 2,
           "body_md": "El espacio entre universos ahora es alcanzable para el Mago, permitiéndole producir efectos similares a las burbujas de tiempo de Tiempo 4, capturando cosas entre universos para ser liberadas ante disparadores especificados. El Mago también puede crear una baliza universal para ayudar a navegar de vuelta a su universo natal.",
@@ -1545,12 +1545,12 @@
       ]
     },
     {
-      "title_es": "····· Viajar por el Multiverso/Fuera del Tiempo",
+      "title_es": "••••• Viajar por el Multiverso/Fuera del Tiempo",
       "anchor": "viajar-por-el-multiverso-fuera-del-tiempo",
       "level": 2,
       "sections": [
         {
-          "title_es": "····· Viajar por el Multiverso/Fuera del Tiempo",
+          "title_es": "••••• Viajar por el Multiverso/Fuera del Tiempo",
           "anchor": "viajar-por-el-multiverso-fuera-del-tiempo",
           "level": 2,
           "body_md": "Los Maestros de Multiverso pueden viajar profundamente en el multiverso, encontrando universos con cambios drásticos. Los universos relativamente cercanos dignos de mención incluyen universos donde los mitos y leyendas de otros Habitantes de la Noche se convierten en hechos cosmológicos, un universo donde la victoria de la Tecnocracia en la Guerra de la Ascensión fue mucho más absoluta, un universo donde la Orden de la Razón fracasó desde el principio, y un universo desgarrado por los [Nefandos](/mage/affiliations/nephandi). Cuanto más lejos de tu universo natal, más drásticos son los cambios: un universo con magos y habitantes de la noche totalmente distintos a los que se encuentran aquí, un universo de superhéroes potenciados por lo cuántico y lo subcuántico, de dioses renacidos, y fantásticos universos de [espada](/mage/weapons/espada) y [brujería](/mage/practices/witchcraft) son solo una muestra de lo que hay ahí fuera.\n\nAdemás, un maestro de Multiverso ya no está atado al flujo del tiempo en su universo original, y puede realizar efectos no muy distintos de la [inmunidad temporal](/mage/sphere-effects/temporal-immunity) de Tiempo 5.\n\n<!-- image -->",

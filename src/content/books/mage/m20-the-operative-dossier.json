@@ -3009,7 +3009,7 @@
           "title_es": "Análisis Predictivo ( ··· Correspondencia / ·· Tiempo / · Entropía / · Teoría de la Utilidad Primordial)",
           "anchor": "analisis-predictivo-correspondencia-tiempo-entropia-teoria-de-la-utilidad-primordial",
           "level": 2,
-          "body_md": "Los mortales fueron los primeros en desarrollar esta pieza de Ciencia Iluminada, y continúan perfeccionándola junto con su comprensión de la Gran Correspondencia. Mientras las empresas mundanas usan las percepciones masivas obtenidas de insulsos test de personalidad para vender hamburguesas con queso, la Unión Tecnocrática aprovecha el concepto para entender áreas sujetas a la Subversión de la Realidad. Una operativa puede predecir dónde podrían congregarse pronto los Subversores de la Realidad, la probabilidad de que un conflicto derive en brotes violentos, u otras alteraciones en el flujo normal de la vida diaria de una ciudad.\n\nSistema: la operativa primero se procura un enorme conjunto de datos -como cada informe policial presentado en los últimos diez años- y luego lo contrasta con otros datos, como datos de tráfico o picos en el consumo eléctrico. Procesa estos datos para estimar dónde y cuándo puede ocurrir un crimen contra la realidad de importancia en los próximos treinta días. Por cada éxito que la operativa obtenga en su tirada, puede hacerle una pregunta al Narrador, como:\n\n- ¿Qué clase(s) de Subversor de la Realidad están implicadas?\n- ¿Cuántos Subversores de la Realidad están implicados, dentro de un orden de magnitud relativo?\n- ¿Cuándo ocurrirá este suceso?\n- ¿Cuánto durará el suceso?\n- ¿Qué probabilidad hay de que el suceso derive en violencia contra inocentes?\n- ¿En qué barrio o zona de la ciudad ocurrirá la Subversión?\n- ·\n- ¿Qué poder tienen los Subversores de la Realidad implicados?\n\nLas respuestas que proporcionan los datos no son exactas. La operativa puede averiguar que las Entidades Hemofágicas locales probablemente se reúnan en los próximos siete días en las inmediaciones del distrito de museos de la ciudad; pero no puede discernir identidades individuales ni agendas relacionadas con esa reunión.\n\nAlternativamente, la operativa puede buscar en los datos patrones que indiquen focos de actividad Subversora. Un único éxito revela un gran barrio probablemente infestado por un único Subversor de la Realidad activo. Éxitos adicionales acotan la zona afectada. Con cinco éxitos, la operativa tiene una dirección aproximada.\n\nA menos que la operativa tenga acceso a información verdaderamente impresionante, este sistema tiene dificultades para detectar a Subversores de la Realidad arraigados, como uno mezclado con el desarrollo a largo plazo de una gran ciudad. Debe obtener al menos siete éxitos para descubrir los cambios extremadamente sutiles en el comportamiento mortal.\n\nSi la operativa no puede obtener información suficientemente compleja y precisa a tiempo, puede realizar este Ajuste rastreando rápidamente las [redes sociales](/mage/instruments/social-media). Hacerlo, sin embargo, aumenta su Dificultad en 2.",
+          "body_md": "Los mortales fueron los primeros en desarrollar esta pieza de Ciencia Iluminada, y continúan perfeccionándola junto con su comprensión de la Gran Correspondencia. Mientras las empresas mundanas usan las percepciones masivas obtenidas de insulsos test de personalidad para vender hamburguesas con queso, la Unión Tecnocrática aprovecha el concepto para entender áreas sujetas a la Subversión de la Realidad. Una operativa puede predecir dónde podrían congregarse pronto los Subversores de la Realidad, la probabilidad de que un conflicto derive en brotes violentos, u otras alteraciones en el flujo normal de la vida diaria de una ciudad.\n\nSistema: la operativa primero se procura un enorme conjunto de datos -como cada informe policial presentado en los últimos diez años- y luego lo contrasta con otros datos, como datos de tráfico o picos en el consumo eléctrico. Procesa estos datos para estimar dónde y cuándo puede ocurrir un crimen contra la realidad de importancia en los próximos treinta días. Por cada éxito que la operativa obtenga en su tirada, puede hacerle una pregunta al Narrador, como:\n\n- ¿Qué clase(s) de Subversor de la Realidad están implicadas?\n- ¿Cuántos Subversores de la Realidad están implicados, dentro de un orden de magnitud relativo?\n- ¿Cuándo ocurrirá este suceso?\n- ¿Cuánto durará el suceso?\n- ¿Qué probabilidad hay de que el suceso derive en violencia contra inocentes?\n- ¿En qué barrio o zona de la ciudad ocurrirá la Subversión?\n- •\n- ¿Qué poder tienen los Subversores de la Realidad implicados?\n\nLas respuestas que proporcionan los datos no son exactas. La operativa puede averiguar que las Entidades Hemofágicas locales probablemente se reúnan en los próximos siete días en las inmediaciones del distrito de museos de la ciudad; pero no puede discernir identidades individuales ni agendas relacionadas con esa reunión.\n\nAlternativamente, la operativa puede buscar en los datos patrones que indiquen focos de actividad Subversora. Un único éxito revela un gran barrio probablemente infestado por un único Subversor de la Realidad activo. Éxitos adicionales acotan la zona afectada. Con cinco éxitos, la operativa tiene una dirección aproximada.\n\nA menos que la operativa tenga acceso a información verdaderamente impresionante, este sistema tiene dificultades para detectar a Subversores de la Realidad arraigados, como uno mezclado con el desarrollo a largo plazo de una gran ciudad. Debe obtener al menos siete éxitos para descubrir los cambios extremadamente sutiles en el comportamiento mortal.\n\nSi la operativa no puede obtener información suficientemente compleja y precisa a tiempo, puede realizar este Ajuste rastreando rápidamente las [redes sociales](/mage/instruments/social-media). Hacerlo, sin embargo, aumenta su Dificultad en 2.",
           "defines_entities": []
         }
       ]
@@ -3127,12 +3127,12 @@
       ]
     },
     {
-      "title_es": "·· Realidad Aumentada",
+      "title_es": "•• Realidad Aumentada",
       "anchor": "realidad-aumentada",
       "level": 2,
       "sections": [
         {
-          "title_es": "·· Realidad Aumentada",
+          "title_es": "•• Realidad Aumentada",
           "anchor": "realidad-aumentada",
           "level": 2,
           "body_md": "",
@@ -3155,12 +3155,12 @@
       ]
     },
     {
-      "title_es": "·· Infrarrojo Cercano",
+      "title_es": "•• Infrarrojo Cercano",
       "anchor": "infrarrojo-cercano",
       "level": 2,
       "sections": [
         {
-          "title_es": "·· Infrarrojo Cercano",
+          "title_es": "•• Infrarrojo Cercano",
           "anchor": "infrarrojo-cercano",
           "level": 2,
           "body_md": "",
@@ -3183,12 +3183,12 @@
       ]
     },
     {
-      "title_es": "·· Cartografía por Pulsos",
+      "title_es": "•• Cartografía por Pulsos",
       "anchor": "cartografia-por-pulsos",
       "level": 2,
       "sections": [
         {
-          "title_es": "·· Cartografía por Pulsos",
+          "title_es": "•• Cartografía por Pulsos",
           "anchor": "cartografia-por-pulsos",
           "level": 2,
           "body_md": "",
@@ -3211,12 +3211,12 @@
       ]
     },
     {
-      "title_es": "·· Térmica",
+      "title_es": "•• Térmica",
       "anchor": "termica",
       "level": 2,
       "sections": [
         {
-          "title_es": "·· Térmica",
+          "title_es": "•• Térmica",
           "anchor": "termica",
           "level": 2,
           "body_md": "",
@@ -3351,12 +3351,12 @@
       ]
     },
     {
-      "title_es": "· Arranque de 30 Segundos",
+      "title_es": "• Arranque de 30 Segundos",
       "anchor": "arranque-de-30-segundos",
       "level": 2,
       "sections": [
         {
-          "title_es": "· Arranque de 30 Segundos",
+          "title_es": "• Arranque de 30 Segundos",
           "anchor": "arranque-de-30-segundos",
           "level": 2,
           "body_md": "",
@@ -3379,12 +3379,12 @@
       ]
     },
     {
-      "title_es": "· Interfaz de Análisis de Combate Adaptativo",
+      "title_es": "• Interfaz de Análisis de Combate Adaptativo",
       "anchor": "interfaz-de-analisis-de-combate-adaptativo",
       "level": 2,
       "sections": [
         {
-          "title_es": "· Interfaz de Análisis de Combate Adaptativo",
+          "title_es": "• Interfaz de Análisis de Combate Adaptativo",
           "anchor": "interfaz-de-analisis-de-combate-adaptativo",
           "level": 2,
           "body_md": "",
@@ -3407,12 +3407,12 @@
       ]
     },
     {
-      "title_es": "· Bolsa de Papel Marrón",
+      "title_es": "• Bolsa de Papel Marrón",
       "anchor": "bolsa-de-papel-marron",
       "level": 2,
       "sections": [
         {
-          "title_es": "· Bolsa de Papel Marrón",
+          "title_es": "• Bolsa de Papel Marrón",
           "anchor": "bolsa-de-papel-marron",
           "level": 2,
           "body_md": "",
@@ -3435,12 +3435,12 @@
       ]
     },
     {
-      "title_es": "· Emulador de Conversación",
+      "title_es": "• Emulador de Conversación",
       "anchor": "emulador-de-conversacion",
       "level": 2,
       "sections": [
         {
-          "title_es": "· Emulador de Conversación",
+          "title_es": "• Emulador de Conversación",
           "anchor": "emulador-de-conversacion",
           "level": 2,
           "body_md": "",
@@ -3463,12 +3463,12 @@
       ]
     },
     {
-      "title_es": "· Kit Médico de Campo",
+      "title_es": "• Kit Médico de Campo",
       "anchor": "kit-medico-de-campo",
       "level": 2,
       "sections": [
         {
-          "title_es": "· Kit Médico de Campo",
+          "title_es": "• Kit Médico de Campo",
           "anchor": "kit-medico-de-campo",
           "level": 2,
           "body_md": "",
@@ -3491,12 +3491,12 @@
       ]
     },
     {
-      "title_es": "· Marcadores de Nanitas",
+      "title_es": "• Marcadores de Nanitas",
       "anchor": "marcadores-de-nanitas",
       "level": 2,
       "sections": [
         {
-          "title_es": "· Marcadores de Nanitas",
+          "title_es": "• Marcadores de Nanitas",
           "anchor": "marcadores-de-nanitas",
           "level": 2,
           "body_md": "",
@@ -3519,12 +3519,12 @@
       ]
     },
     {
-      "title_es": "· Herramienta de Navegación Urbana",
+      "title_es": "• Herramienta de Navegación Urbana",
       "anchor": "herramienta-de-navegacion-urbana",
       "level": 2,
       "sections": [
         {
-          "title_es": "· Herramienta de Navegación Urbana",
+          "title_es": "• Herramienta de Navegación Urbana",
           "anchor": "herramienta-de-navegacion-urbana",
           "level": 2,
           "body_md": "",
@@ -3561,12 +3561,12 @@
       ]
     },
     {
-      "title_es": "·· + Modificaciones de Dron de Bolsillo",
+      "title_es": "•• + Modificaciones de Dron de Bolsillo",
       "anchor": "modificaciones-de-dron-de-bolsillo",
       "level": 2,
       "sections": [
         {
-          "title_es": "·· + Modificaciones de Dron de Bolsillo",
+          "title_es": "•• + Modificaciones de Dron de Bolsillo",
           "anchor": "modificaciones-de-dron-de-bolsillo",
           "level": 2,
           "body_md": "Iluminación N/D, [Energía](/mage/instruments/energy) Primordial N/D, Coste de Trasfondo 2+ pts. por dron\n\nSiempre popular entre las agentes de campo, el [Dron de Bolsillo](/mage/wonders/pocket-drone) (ver Tecnocracia Recargada p. xx) ofrece una amplia variedad de efectos gracias a la constante innovación de la División Q. Cada una de las siguientes modificaciones está disponible para los Drones de Bolsillo.\n\nSistema: estos drones dependen sorprendentemente de tecnología mundana, pero unas pocas aplicaciones menores de Ciencia Iluminada personalizan un [dron de bolsillo](/mage/wonders/pocket-drone) y lo hacen realmente brillar. Puedes añadir cada una de las siguientes opciones a un [dron de bolsillo](/mage/wonders/pocket-drone) base incrementando el coste en Puntos de Trasfondo según se indica en la descripción.\n\n- Los Ajustes de Ciencia Dimensional 1 permiten a agentes y armazones adquirir y rastrear EDE. Esta modificación solo permite al dron rastrear EDE que operan en la dimensión Penumbral. Coste: 2 pts.\n- Los Ajustes de Vida 1 permiten a un dron identificar y filtrar a todos los seres vivos dentro del [alcance](/mage/aspects/alcance) de sus sensores. Este añadido funciona en conjunto con todas las demás opciones sensoriales del dron, Iluminadas o mundanas, incluidas en el dron. Coste: 2 pts.\n\nAjustes y Procedimientos personalizados adicionales están disponibles bajo pedido (y a discreción del Narrador).",
@@ -3575,12 +3575,12 @@
       ]
     },
     {
-      "title_es": "·· Valla Perimetral Portátil",
+      "title_es": "•• Valla Perimetral Portátil",
       "anchor": "valla-perimetral-portatil",
       "level": 2,
       "sections": [
         {
-          "title_es": "·· Valla Perimetral Portátil",
+          "title_es": "•• Valla Perimetral Portátil",
           "anchor": "valla-perimetral-portatil",
           "level": 2,
           "body_md": "Iluminación 2, [Energía](/mage/instruments/energy) Primordial 10, Coste de Trasfondo 5 pts.\n\nLos Subversores de la Realidad molestan a las operativas tan a menudo como suponen una amenaza, y a veces las operativas deben realizar tareas delicadas lejos de intrusos. En el caso de que un Subversor de la Realidad particularmente violento haya provocado un incidente, las operativas a menudo comprueban que [asegurar la escena](/mage/rotes/secure-the-scene) frente a interferencias externas es una precaución necesaria; los Subversores de la Realidad y sus [aliados](/mage/backgrounds/allies) tienen una tendencia inquietante no solo a regresar a la escena de un crimen sino a agravar sus errores implicándose en más Subversión.\n\nLa [Valla Perimetral Portátil](/mage/wonders/portable-perimeter-fence) aparece como un trípode plegable, una forma fácilmente explicable a mortales curiosos como una pieza de equipo de vigilancia forense. Un haz hiperinfrarrojo en la parte superior emite frecuencias de onda cuántica hostiles a una clase predefinida de Subversor de la Realidad, permitiendo a las operativas trabajar en paz.\n\nSistema: la operativa primero debe invertir en la [Valla Perimetral Portátil](/mage/wonders/portable-perimeter-fence) un punto de [Energía](/mage/instruments/energy) Primordial por cada hora que desee que el [dispositivo](/mage/sphere-effects/device) permanezca operativo. Luego debe programar el [dispositivo](/mage/sphere-effects/device) con el tipo de Subversor de la Realidad que desea repeler, que debe serle un tipo familiar. No puede prohibir el paso a todos los Subversores de la Realidad, pero puede mantener la zona segura frente a Entidades Hemofágicas, Entidades Campanilla, u otra clasificación específica. Una única [Valla Perimetral Portátil](/mage/wonders/portable-perimeter-fence) cubre aproximadamente una habitación de diez por diez. Vallas Perimetrales adicionales pueden aumentar el área o añadir otra clase de Subversor de la Realidad prohibido.\n\nMientras la Valla Perimetral permanezca activa, los Subversores de la Realidad de la(s) clase(s) especificada(s) se sienten poco inclinados a entrar en la zona, gracias a un Ajuste de Correspondencia 1 / Ciencia Dimensional 1 / Vida 1 / Materia 1 / Mente 2. Las entidades afectadas piensan en hacer otra cosa o en asuntos más apremiantes en otro lugar. Los Subversores con Consciencia alta pueden sentir la presencia de Ciencia Iluminada, aunque permanecen ignorantes de la causa a menos que hayan estudiado de algún modo la Unión Tecnocrática y sus prácticas.\n\nLos Subversores de la Realidad especialmente decididos pueden concentrar sus deseos y hacer una comprobación de Fuerza de Voluntad para permanecer dentro de la Valla Perimetral durante cinco minutos. Permanecer otros cinco minutos, o cometer un Crimen contra la Realidad, requiere otra comprobación. Con un [fallo](/mage/flaws/failure), los efectos completos de la Valla Perimetral se activan y el Subversor viaja hasta el borde más cercano por el medio más rápido posible.\n\nAlgunos grupos dentro de la Unión, particularmente el Mokteshaf al Nour y sus [aliados](/mage/backgrounds/allies), trabajan para mejorar este [dispositivo](/mage/sphere-effects/device). Al instalar una Valla Perimetral variante en lugares con concentraciones de [Energía](/mage/instruments/energy) Primordial, esperan mantener la Valla activa y así replicar la tecnología medieval llamada la [Red de la Fe](/mage/merits/red-de-la-fe).",
@@ -3589,12 +3589,12 @@
       ]
     },
     {
-      "title_es": "··· Mejora DOUG",
+      "title_es": "••• Mejora DOUG",
       "anchor": "mejora-doug",
       "level": 2,
       "sections": [
         {
-          "title_es": "··· Mejora DOUG",
+          "title_es": "••• Mejora DOUG",
           "anchor": "mejora-doug",
           "level": 2,
           "body_md": "Iluminación 3, [Energía](/mage/instruments/energy) Primordial 15, Coste de Trasfondo\n\n3 pts.\n\nLas convenciones Tecnocráticas más preocupadas por vigilar\n\na los Subversores de la Realidad desarrollaron esta [mejora](/mage/backgrounds/enhancement) basada en Mente para los Trajes Negros como forma de que las operativas se infiltren y observen con seguridad sus reuniones. El DOUG, o Equipo de Utilidad de Observación Directa, otorga a una operativa la apariencia física y sobrenatural de una clase específica de Subversor de la Realidad.\n\n<!-- image -->\n\nUn DOUG aparece como una malla de nanitas vagamente humanoide. Tras ponerse su Traje Negro, la operativa entra en su DOUG, que se vuelve invisible a la mayoría de los exámenes. Después ajusta la configuración del DOUG, que altera su apariencia hacia un tipo elegido de Subversor de la Realidad.\n\nUna operativa solo puede tener una [mejora DOUG](/mage/wonders/doug-upgrade) activa a la vez.\n\nSistema: la unidad DOUG funciona por expectativa, lo que significa que la operativa debe identificarse como Subversora de la Realidad al infiltrarse. Una vez que se presenta como una compañera Subversora de la Realidad, los demás a su alrededor la perciben como una de los suyos. Las pruebas superficiales para determinar su naturaleza, como olfatearla o probar su sangre, tienen éxito automáticamente gracias a un Procedimiento de Ciencia Dimensional 3 / Cardinal 3. Pruebas más elaboradas, como leer su aura o sus pensamientos, requieren una comprobación de Percepción + Ocultismo contra la Fuerza de Voluntad de la operativa. El traje, aún en sus primeras fases de desarrollo, no puede replicar crímenes contra la realidad. La operativa debe usar su Ciencia Iluminada para imitar tales habilidades.\n\n<!-- image -->\n\nEl principal inconveniente de la unidad DOUG es lo mucho que depende de la suposición y la expectativa. No confiere ningún conocimiento especial. La operativa debe recurrir a su conocimiento de la cultura Subversora de la Realidad para pasar desapercibida. Con respuestas razonablemente sensatas a diversas preguntas, como de dónde es, qué edad tiene, y los nombres de parientes relevantes, sus interlocutores le creen. Si falla en una respuesta, sin embargo, sin duda genera sospecha.\n\nAhí radica el problema. Especialmente entre los Subversores de la Realidad más paranoicos, la infiltración y el espionaje se han convertido en una norma esperada. Si una operativa habla con un líder local que anticipa la deshonestidad y la traición, su tapadera puede quedar al descubierto antes de que tenga oportunidad de obtener información valiosa. Los ingenieros trabajan diligentemente para mejorar este defecto, pero aún no han mostrado ningún éxito relevante.",
@@ -3603,12 +3603,12 @@
       ]
     },
     {
-      "title_es": "··· Proyector Temporal Inverso",
+      "title_es": "••• Proyector Temporal Inverso",
       "anchor": "proyector-temporal-inverso",
       "level": 2,
       "sections": [
         {
-          "title_es": "··· Proyector Temporal Inverso",
+          "title_es": "••• Proyector Temporal Inverso",
           "anchor": "proyector-temporal-inverso",
           "level": 2,
           "body_md": "Iluminación 3, [Energía](/mage/instruments/energy) Primordial 15, Coste de Trasfondo 5 pts.\n\nEl [Proyector Temporal Inverso](/mage/wonders/reverse-temporal-projector) aparece como un elegante prisma negro alargado con una 'cámara' temporal en un extremo y un proyector en el otro. Cuando se usa, la operativa emplea la cámara para absorber datos de resonancia temporal en un área de aproximadamente diez por diez pies. El [dispositivo](/mage/sphere-effects/device) entonces analiza esos datos y produce, mediante el proyector, una [interpretación](/mage/instruments/performance) holográfica de los sucesos recientes basada en la mejor estimación.\n\nUna representación 3D totalmente inmersiva rodea a las operativas y a cualquier colega presente. Todos los presentes contemplan cómo se desarrolla el pasado reciente en tiempo real, incluyendo vista, sonido, e incluso olores. Como se trata simplemente de una grabación, las operativas no pueden alterar ni influir en los sucesos. Sin embargo, pueden inspeccionar recipientes, examinar objetos, observar interacciones, y recopilar evidencia experiencial de otro modo.\n\nEl Proyector Temporal Resonante permanece en desarrollo alfa, y no puede ver sucesos pasados de más de unos pocos días. Cuanto más distante temporalmente sea un suceso dado, más se oscurece su representación por ruido y estática. El [dispositivo](/mage/sphere-effects/device), sin embargo, sí tiene una habilidad particular para grabar la Subversión de la Realidad.\n\nSistema: primero, la operativa debe conseguir acceso a la zona que desea ver. Durante al menos tres asaltos escaneando la zona elegida, el [Proyector Temporal Inverso](/mage/wonders/reverse-temporal-projector) registra y analiza datos temporales ambientales mediante un Ajuste de Tiempo 2. Una vez que el [dispositivo](/mage/sphere-effects/device) ha absorbido toda la información necesaria, ella y hasta otros cinco colegas pueden presenciar cualquier escena ocurrida hasta veinticuatro horas atrás. Puede invertir más [Energía](/mage/instruments/energy) Primordial en el [dispositivo](/mage/sphere-effects/device) para extender la observación temporal otras veinticuatro horas por punto. Sin embargo, los datos temporales se deterioran y quedan sujetos a una creciente estática dimensional.\n\nElla absorbe el impacto sensorial completo de los sucesos registrados, incluyendo percibir olores extraños en el aire o el tacto de un objeto en particular. Las personas dentro de la escena permanecen impasibles ante su presencia, pero ella puede realizar manipulaciones menores de la escena, como comprobar debajo de una mesa o detrás de un cuadro. El Proyector también registra la Subversión de la Realidad mediante un Ajuste de Correspondencia\n\n1 / Ciencia Dimensional 1 / Cardinal 1, incluyendo a Subversores que intentan ocultarse mediante artimañas.\n\nUn [dispositivo](/mage/sphere-effects/device) dado solo puede tener un análisis registrado a la vez. Sin embargo, las oficinas de la Unión proporcionan bancos de datos suficientes para que una operativa vuelque su análisis actual. Las operativas de mayor nivel revisan regularmente tales volcados de datos en busca de posible inmutualidad.",
@@ -3617,12 +3617,12 @@
       ]
     },
     {
-      "title_es": "···· Construcción Automatizada",
+      "title_es": "•••• Construcción Automatizada",
       "anchor": "construccion-automatizada",
       "level": 2,
       "sections": [
         {
-          "title_es": "···· Construcción Automatizada",
+          "title_es": "•••• Construcción Automatizada",
           "anchor": "construccion-automatizada",
           "level": 2,
           "body_md": "Iluminación N/D, [Energía](/mage/instruments/energy) Primordial 10, Coste de Trasfondo 6 pts.\n\nMediante innovación sobre la unidad de [Reparación Automatizada](/mage/wonders/automated-repair) (Tecnocracia Recargada p. xx), esta colección de nanitas puede usarse para construir objetos nuevos a partir de materia prima. Una vez programadas con la estructura molecular deseada y el esquema de diseño de un objeto, las nanitas de [construcción automatizada](/mage/wonders/automated-construction) pueden fabricar prácticamente cualquier cosa que quepa dentro de su carcasa del [tamaño](/mage/special-advantages/size) de un maletín. Aunque estas nanitas pueden fabricar casi cualquier cosa, son más efectivas con herramientas simples, requiriendo más tiempo para generar dispositivos complejos con componentes móviles o eléctricos.\n\nLas herramientas de precisión, como los micrómetros, se calibran fácilmente asegurando que las mediciones estén siempre dentro de las especificaciones. Las nanitas de [construcción automatizada](/mage/wonders/automated-construction) pueden incluso construir equipo de combate y, si se les proporciona una [fuente de energía](/mage/flaws/fuente-de-energia) adecuada, dispositivos Iluminados.\n\nSistema: la [construcción automatizada](/mage/wonders/automated-construction) crea objetos mediante Procedimientos de Materia 4 / Cardinal 2. Si se programan con especificaciones de herramientas, las nanitas de [construcción automatizada](/mage/wonders/automated-construction) pueden construir máquinas enteras. Funcionalmente, es una impresora 3D Iluminada. Si la usuaria tiene acceso a suficiente [Energía](/mage/instruments/energy) Primordial, generalmente mediante una Matriz, las nanitas pueden incluso fabricar Maravillas mediante un Procedimiento de Materia 4 / Cardinal 4. Al requerir una usuaria Iluminada, un zumbido grave acompaña a este Invento y un evidente resplandor blanco emana de las costuras de la carcasa.",
@@ -3631,12 +3631,12 @@
       ]
     },
     {
-      "title_es": "···· Hebra Aislada",
+      "title_es": "•••• Hebra Aislada",
       "anchor": "hebra-aislada",
       "level": 2,
       "sections": [
         {
-          "title_es": "···· Hebra Aislada",
+          "title_es": "•••• Hebra Aislada",
           "anchor": "hebra-aislada",
           "level": 2,
           "body_md": "",
@@ -3659,12 +3659,12 @@
       ]
     },
     {
-      "title_es": "···· Campo de Desplazamiento Turbulento",
+      "title_es": "•••• Campo de Desplazamiento Turbulento",
       "anchor": "campo-de-desplazamiento-turbulento",
       "level": 2,
       "sections": [
         {
-          "title_es": "···· Campo de Desplazamiento Turbulento",
+          "title_es": "•••• Campo de Desplazamiento Turbulento",
           "anchor": "campo-de-desplazamiento-turbulento",
           "level": 2,
           "body_md": "",
@@ -3687,12 +3687,12 @@
       ]
     },
     {
-      "title_es": "···· Generador de Agujero de Gusano",
+      "title_es": "•••• Generador de Agujero de Gusano",
       "anchor": "generador-de-agujero-de-gusano",
       "level": 2,
       "sections": [
         {
-          "title_es": "···· Generador de Agujero de Gusano",
+          "title_es": "•••• Generador de Agujero de Gusano",
           "anchor": "generador-de-agujero-de-gusano",
           "level": 2,
           "body_md": "",
@@ -3715,12 +3715,12 @@
       ]
     },
     {
-      "title_es": "····· Alteración del Campo de Percepción Entrópica",
+      "title_es": "••••• Alteración del Campo de Percepción Entrópica",
       "anchor": "alteracion-del-campo-de-percepcion-entropica",
       "level": 2,
       "sections": [
         {
-          "title_es": "····· Alteración del Campo de Percepción Entrópica",
+          "title_es": "••••• Alteración del Campo de Percepción Entrópica",
           "anchor": "alteracion-del-campo-de-percepcion-entropica",
           "level": 2,
           "body_md": "",
@@ -3743,12 +3743,12 @@
       ]
     },
     {
-      "title_es": "····· Dispositivo de Anulación de Nodo",
+      "title_es": "••••• Dispositivo de Anulación de Nodo",
       "anchor": "dispositivo-de-anulacion-de-nodo",
       "level": 2,
       "sections": [
         {
-          "title_es": "····· Dispositivo de Anulación de Nodo",
+          "title_es": "••••• Dispositivo de Anulación de Nodo",
           "anchor": "dispositivo-de-anulacion-de-nodo",
           "level": 2,
           "body_md": "Iluminación 8, [Energía](/mage/instruments/energy) Primordial N/D, No Disponible para Adquisición. La lucha entre la Unión, los Subversores de la Realidad, y las Entidades Extradimensionales está en su punto más álgido cerca de los Nodos. Las ricas fuentes de [Energía](/mage/instruments/energy) Primordial son un recurso demasiado precioso como para que ningún bando permita que el otro lo tenga. Esta es una gran parte de por qué los Tecnócratas construyen Constructos sobre los Nodos. Por supuesto, no toda lucha por [recursos](/mage/backgrounds/resources) se resuelve como la Unión desea. Y, incluso después de que un [Constructo](/mage/flaws/construct) esté establecido, no está a salvo de la intrusión o la captura.\n\nAhí es donde entra en juego el DAN. Cada [Constructo](/mage/flaws/construct) de la Unión tiene uno, aunque pocos miembros conocen su existencia y ubicación. Llamarlos sistemas de autodestrucción sería una subestimación flagrante. Un paquete de dinamita es un sistema de autodestrucción. Los DAN son precisos: ponen fin de forma permanente a la batalla por un Nodo mediante tácticas de tierra quemada. Los DAN drenan la [Energía](/mage/instruments/energy) Primordial del Nodo a un ritmo cada vez mayor, sobrecargando finalmente el [Patrón](/mage/backgrounds/patron) del Nodo, resultando en una detonación equiparable a un pequeño [dispositivo](/mage/sphere-effects/device) nuclear.\n\nAunque la Unión Tecnocrática es la única productora conocida de Dispositivos de Anulación de Nodo, al menos uno está en manos de una célula radical de los [Caballeros Templarios](/mage/affiliations/templar-knights).\n\nSistema: acoplar un DAN a un Nodo requiere una acción extendida (Ciencia Dimensional 3 / Fuerzas 5 / Materia 5 / [Energía](/mage/instruments/energy) Primordial 5, dificultad 8, mínimo 10 éxitos). Activar un [Dispositivo de Anulación de Nodo](/mage/wonders/node-nullification-device) no es mucho más fácil, debido a las medidas de seguridad implementadas. Activar el DAN comienza una acción extendida, tirando la Iluminación del [Dispositivo](/mage/sphere-effects/device) a dificultad 8, mínimo 3 éxitos. Una vez activado, el [Dispositivo](/mage/sphere-effects/device) detona en un momento especificado por la usuaria dentro de la siguiente hora.\n\nEn ese momento, el DAN libera un Efecto de Fuerzas 5 / Materia 5 / [Energía](/mage/instruments/energy) Primordial 5 en la zona, aniquilando todo en las inmediaciones del Nodo. No hay tirada para sobrevivir a esto.",
@@ -3771,12 +3771,12 @@
       ]
     },
     {
-      "title_es": "····· Sumidero de Paradoja",
+      "title_es": "••••• Sumidero de Paradoja",
       "anchor": "sumidero-de-paradoja",
       "level": 2,
       "sections": [
         {
-          "title_es": "····· Sumidero de Paradoja",
+          "title_es": "••••• Sumidero de Paradoja",
           "anchor": "sumidero-de-paradoja",
           "level": 2,
           "body_md": "Iluminación N/D, [Energía](/mage/instruments/energy) Primordial N/D, Puntos de Trasfondo 10+\n\nDisponible como implante cibernético o biomod injertado, el módulo [sumidero de Paradoja](/mage/wonders/paradox-sink) es uno de los avances más apasionantes del DMDS. Almacena la Paradoja generada por la usuaria en esta parte muy específica del [Patrón](/mage/backgrounds/patron), evitando que contribuya a la reserva general de Paradoja de la usuaria. Después, cuando la usuaria regresa al laboratorio, se somete a una cirugía menor para extraer el módulo, y con él, la Paradoja. El almacenamiento y la destrucción resultan actualmente complicados, pero esa es la siguiente fase de la investigación. La primera prueba de campo de este [Dispositivo](/mage/sphere-effects/device) -implantado en el sujeto voluntario Vitas Varnas- mostró que el [sumidero de Paradoja](/mage/wonders/paradox-sink) funcionaba de manera eficaz recopilando y aislando la Paradoja, aunque el [dispositivo](/mage/sphere-effects/device) detonó al extraerlo.\n\nVale la pena repetirlo: nada en el DMDS está listo para uso en el campo. Un módulo [Sumidero de Paradoja](/mage/wonders/paradox-sink) usa un Ajuste de Correspondencia 2 / [Energía](/mage/instruments/energy) Primordial 5 para almacenar los primeros 10 puntos de Paradoja generados por una usuaria (+2 puntos por cada punto adicional de Trasfondo). Una vez que el módulo está lleno, la próxima vez que la usuaria acumule Paradoja, el módulo se sobrecalienta. Cuando lo hace, genera cinco puntos adicionales de Paradoja, y provoca un contragolpe.\n\nLa Paradoja permanente que genera este mod se manifiesta como erupciones o infecciones cutáneas antiestéticas alrededor del lugar del implante. Se extienden, gradualmente, causando un nivel de daño contundente por cada día de uso. Nadie ha experimentado nunca llevando un [sumidero de Paradoja](/mage/wonders/paradox-sink) durante más de 48 horas.",
@@ -3785,12 +3785,12 @@
       ]
     },
     {
-      "title_es": "··· (o Baratija) Nanitas de Vigilancia",
+      "title_es": "••• (o Baratija) Nanitas de Vigilancia",
       "anchor": "o-baratija-nanitas-de-vigilancia",
       "level": 2,
       "sections": [
         {
-          "title_es": "··· (o Baratija) Nanitas de Vigilancia",
+          "title_es": "••• (o Baratija) Nanitas de Vigilancia",
           "anchor": "o-baratija-nanitas-de-vigilancia",
           "level": 2,
           "body_md": "",
@@ -3813,12 +3813,12 @@
       ]
     },
     {
-      "title_es": "····· Arma de Iones de Estado Cuántico, Modelo I",
+      "title_es": "••••• Arma de Iones de Estado Cuántico, Modelo I",
       "anchor": "arma-de-iones-de-estado-cuantico-modelo-i",
       "level": 2,
       "sections": [
         {
-          "title_es": "····· Arma de Iones de Estado Cuántico, Modelo I",
+          "title_es": "••••• Arma de Iones de Estado Cuántico, Modelo I",
           "anchor": "arma-de-iones-de-estado-cuantico-modelo-i",
           "level": 2,
           "body_md": "",
@@ -3863,7 +3863,7 @@
           "title_es": "Creación de Constructo y Capilla",
           "anchor": "creacion-de-constructo-y-capilla",
           "level": 2,
-          "body_md": "Mage 20th Anniversary Edition incluye el Trasfondo Capilla/[Constructo](/mage/flaws/construct), que ofrece a los personajes la opción de comprar acceso a una base de operaciones establecida. Esto también permite a los Artesanos de la Voluntad que operan fuera del amparo de la Unión Tecnocrática gastar puntos en construir su propia Capilla. Estos sistemas ofrecen opciones para que jugadores y Narradores construyan Constructos y Capillas utilizando las reservas de puntos proporcionadas con el Trasfondo Capilla/\n\n[Constructo](/mage/flaws/construct) (Mage 20 p. 308-309).\n\nComo referencia, las categorías de reserva de puntos para el Trasfondo Capilla/[Constructo](/mage/flaws/construct) son:\n\n| Escondite/Piso Franco Seguro | reserva de 10-20 puntos |\n|--------------------------------------|--------------------|\n| Santuario/Oficina Auxiliar Pequeños | reserva de 21-30 puntos |\n| Capilla Mística/Constructo Iluminado | reserva de 30-70 puntos |\n| Fortaleza | reserva de 71-100 puntos |\n| Centro de Poder | reserva de 101+ puntos |\n\nLos puntos gastados en el Trasfondo Capilla/[Constructo](/mage/flaws/construct) pueden representar la pertenencia a una Capilla o [Constructo](/mage/flaws/construct) ya establecidos, o proporcionar puntos de reserva para crear una Capilla o [Constructo](/mage/flaws/construct) propios.\n\nLos beneficios que ofrece cada puntuación son:\n\n- X Sin lugar al que llamar hogar.\n- Un punto de reserva o pertenencia a un Escondite/Piso Franco Seguro de puntuación 1.\n- ·· Dos puntos de reserva o pertenencia a un Santuario/Oficina Auxiliar Pequeños de puntuación 2.\n- ··· Tres puntos de reserva o pertenencia a una Capilla Mística o [Constructo](/mage/flaws/construct) Iluminado de puntuación 3.\n- ···· Cuatro puntos de reserva o pertenencia a una Fortaleza de puntuación 4.\n- ····· Cinco puntos de reserva o pertenencia a un Centro de Poder de puntuación 5.",
+          "body_md": "Mage 20th Anniversary Edition incluye el Trasfondo Capilla/[Constructo](/mage/flaws/construct), que ofrece a los personajes la opción de comprar acceso a una base de operaciones establecida. Esto también permite a los Artesanos de la Voluntad que operan fuera del amparo de la Unión Tecnocrática gastar puntos en construir su propia Capilla. Estos sistemas ofrecen opciones para que jugadores y Narradores construyan Constructos y Capillas utilizando las reservas de puntos proporcionadas con el Trasfondo Capilla/\n\n[Constructo](/mage/flaws/construct) (Mage 20 p. 308-309).\n\nComo referencia, las categorías de reserva de puntos para el Trasfondo Capilla/[Constructo](/mage/flaws/construct) son:\n\n| Escondite/Piso Franco Seguro | reserva de 10-20 puntos |\n|--------------------------------------|--------------------|\n| Santuario/Oficina Auxiliar Pequeños | reserva de 21-30 puntos |\n| Capilla Mística/Constructo Iluminado | reserva de 30-70 puntos |\n| Fortaleza | reserva de 71-100 puntos |\n| Centro de Poder | reserva de 101+ puntos |\n\nLos puntos gastados en el Trasfondo Capilla/[Constructo](/mage/flaws/construct) pueden representar la pertenencia a una Capilla o [Constructo](/mage/flaws/construct) ya establecidos, o proporcionar puntos de reserva para crear una Capilla o [Constructo](/mage/flaws/construct) propios.\n\nLos beneficios que ofrece cada puntuación son:\n\n- X Sin lugar al que llamar hogar.\n- • Un punto de reserva o pertenencia a un Escondite/Piso Franco Seguro de puntuación 1.\n- •• Dos puntos de reserva o pertenencia a un Santuario/Oficina Auxiliar Pequeños de puntuación 2.\n- ••• Tres puntos de reserva o pertenencia a una Capilla Mística o [Constructo](/mage/flaws/construct) Iluminado de puntuación 3.\n- •••• Cuatro puntos de reserva o pertenencia a una Fortaleza de puntuación 4.\n- ••••• Cinco puntos de reserva o pertenencia a un Centro de Poder de puntuación 5.",
           "defines_entities": []
         }
       ]
@@ -3961,7 +3961,7 @@
           "title_es": "Ancianos/Dirección",
           "anchor": "ancianos-direccion",
           "level": 2,
-          "body_md": "Este Rasgo representa el número de personal anciano o de dirección en la Capilla o [Constructo](/mage/flaws/construct), así como su poder relativo. Tener una puntuación alta en este Rasgo es un arma de doble filo, ya que los [aliados](/mage/backgrounds/allies) poderosos suelen ir acompañados de enemigos poderosos. El Narrador puede optar por enfrentar a los enemigos de los ancianos del grupo contra el grupo como medio de ataque indirecto. Asume que cada anciano obtenido mediante este Rasgo tiene un [enemigo](/mage/flaws/enemigo) de poder comparable.\n\nX\n\nAl parecer estás al mando\n\n·\n\n··\n\n···\n\n····\n\nUn superior que es un Traje Negro/Discípulo, o el equivalente.\n\nDos superiores que son Trajes Negros/Discípulos, o el equivalente.\n\nTres superiores. Uno es un Traje Gris/Adepto y los demás son Trajes Negros/Discípulos, o el equivalente.\n\nCuatro superiores. Dos son Trajes Grises/Adeptos y los demás son Trajes Negros/Discípulos, o el equivalente.\n\n<!-- image -->\n\n| ••••• | Cinco superiores. Tres son Trajes Grises/Adeptos y los demás son Trajes Negros/Discípulos, o el equivalente. |\n|-------------|------------------------------------------------------------------------------------------------------------|\n| ••••• • | Cinco superiores. Cuatro son Trajes Grises/Adeptos y el otro es un Traje Negro/Discípulo, o el equivalente. |\n| ••••• •• | Seis superiores. Todos son Trajes Grises/Adeptos o el equivalente. |\n| ••••• ••• | Seis superiores. Uno es un Traje Blanco/Maestro y los demás son Trajes Grises/Adeptos o el equivalente. |\n| ••••• •••• | Seis superiores. Dos son Trajes Blancos/Maestros y los demás son Trajes Grises/Adeptos o el equivalente. |\n| ••••• ••••• | Seis superiores. Tres son Trajes Blancos/Maestros y los demás son Trajes Grises/Adeptos o el equivalente. |",
+          "body_md": "Este Rasgo representa el número de personal anciano o de dirección en la Capilla o [Constructo](/mage/flaws/construct), así como su poder relativo. Tener una puntuación alta en este Rasgo es un arma de doble filo, ya que los [aliados](/mage/backgrounds/allies) poderosos suelen ir acompañados de enemigos poderosos. El Narrador puede optar por enfrentar a los enemigos de los ancianos del grupo contra el grupo como medio de ataque indirecto. Asume que cada anciano obtenido mediante este Rasgo tiene un [enemigo](/mage/flaws/enemigo) de poder comparable.\n\nX\n\nAl parecer estás al mando\n\n•\n\n••\n\n•••\n\n••••\n\nUn superior que es un Traje Negro/Discípulo, o el equivalente.\n\nDos superiores que son Trajes Negros/Discípulos, o el equivalente.\n\nTres superiores. Uno es un Traje Gris/Adepto y los demás son Trajes Negros/Discípulos, o el equivalente.\n\nCuatro superiores. Dos son Trajes Grises/Adeptos y los demás son Trajes Negros/Discípulos, o el equivalente.\n\n<!-- image -->\n\n| ••••• | Cinco superiores. Tres son Trajes Grises/Adeptos y los demás son Trajes Negros/Discípulos, o el equivalente. |\n|-------------|------------------------------------------------------------------------------------------------------------|\n| ••••• • | Cinco superiores. Cuatro son Trajes Grises/Adeptos y el otro es un Traje Negro/Discípulo, o el equivalente. |\n| ••••• •• | Seis superiores. Todos son Trajes Grises/Adeptos o el equivalente. |\n| ••••• ••• | Seis superiores. Uno es un Traje Blanco/Maestro y los demás son Trajes Grises/Adeptos o el equivalente. |\n| ••••• •••• | Seis superiores. Dos son Trajes Blancos/Maestros y los demás son Trajes Grises/Adeptos o el equivalente. |\n| ••••• ••••• | Seis superiores. Tres son Trajes Blancos/Maestros y los demás son Trajes Grises/Adeptos o el equivalente. |",
           "defines_entities": []
         }
       ]
@@ -3975,7 +3975,7 @@
           "title_es": "Efectos Integrados",
           "anchor": "efectos-integrados",
           "level": 2,
-          "body_md": "Muchos Constructos y Capillas incorporan [efectos integrados](/mage/chantry-traits/chantry-integrated-effects) para ayudar con la seguridad, facilitar la comunicación, o simplemente hacer la vida más fácil. Cualquier efecto integrado se considera coincidente siempre que el efecto no salga de las instalaciones, y el lugar tenga al menos un punto invertido en [Zona de Realidad](/mage/chantry-traits/chantry-reality-zone). Cada punto en este Rasgo proporciona puntos que pueden gastarse para comprar efectos. Cada punto permite la compra de un nivel de Esfera. Por ejemplo, un efecto de Mente 2 que calme a todos los que entren en la Capilla costaría 2 puntos. Una bola de fuego de Fuerzas 3 / Cardinal 2 / Vida 1 / Materia 1 / Tiempo 4 que se dispara cuando entra un vampiro en el edificio y que apunta a la EH costaría 11 puntos. Estos efectos usan la puntuación de Capilla/[Constructo](/mage/flaws/construct) como Areté/Iluminación, lo que limita el acceso a las puntuaciones de Esfera que pueden emplearse normalmente. Una Capilla o [Constructo](/mage/flaws/construct) puede tener tantos efectos distintos como los miembros deseen comprar con la reserva de puntos disponible. Cada efecto requiere 1 punto de Quintaesencia por semana para mantenerse, que pueden proporcionar los miembros de la Capilla/[Constructo](/mage/flaws/construct), o extraerse de la puntuación de Nodo, si se ha comprado.\n\n| X | Sin efectos integrados. |\n|-------------|--------------------------|\n| · | Cuatro puntos. |\n| ·· | Ocho puntos. |\n| ··· | Quince puntos. |\n| ···· | Veinte puntos. |\n| ····· | Veinticinco puntos. |\n| ····· · | Treinta y cinco puntos. |\n| ····· ·· | Cuarenta y cinco puntos. |\n| ····· ··· | Cincuenta y cinco puntos. |\n| ····· ···· | Setenta puntos. |\n| ····· ····· | Noventa puntos. |",
+          "body_md": "Muchos Constructos y Capillas incorporan [efectos integrados](/mage/chantry-traits/chantry-integrated-effects) para ayudar con la seguridad, facilitar la comunicación, o simplemente hacer la vida más fácil. Cualquier efecto integrado se considera coincidente siempre que el efecto no salga de las instalaciones, y el lugar tenga al menos un punto invertido en [Zona de Realidad](/mage/chantry-traits/chantry-reality-zone). Cada punto en este Rasgo proporciona puntos que pueden gastarse para comprar efectos. Cada punto permite la compra de un nivel de Esfera. Por ejemplo, un efecto de Mente 2 que calme a todos los que entren en la Capilla costaría 2 puntos. Una bola de fuego de Fuerzas 3 / Cardinal 2 / Vida 1 / Materia 1 / Tiempo 4 que se dispara cuando entra un vampiro en el edificio y que apunta a la EH costaría 11 puntos. Estos efectos usan la puntuación de Capilla/[Constructo](/mage/flaws/construct) como Areté/Iluminación, lo que limita el acceso a las puntuaciones de Esfera que pueden emplearse normalmente. Una Capilla o [Constructo](/mage/flaws/construct) puede tener tantos efectos distintos como los miembros deseen comprar con la reserva de puntos disponible. Cada efecto requiere 1 punto de Quintaesencia por semana para mantenerse, que pueden proporcionar los miembros de la Capilla/[Constructo](/mage/flaws/construct), o extraerse de la puntuación de Nodo, si se ha comprado.\n\n| X | Sin efectos integrados. |\n|-------------|--------------------------|\n| • | Cuatro puntos. |\n| •• | Ocho puntos. |\n| ••• | Quince puntos. |\n| •••• | Veinte puntos. |\n| ••••• | Veinticinco puntos. |\n| ••••• • | Treinta y cinco puntos. |\n| ••••• •• | Cuarenta y cinco puntos. |\n| ••••• ••• | Cincuenta y cinco puntos. |\n| ••••• •••• | Setenta puntos. |\n| ••••• ••••• | Noventa puntos. |",
           "defines_entities": []
         }
       ]
@@ -3989,7 +3989,7 @@
           "title_es": "Zona de Realidad",
           "anchor": "zona-de-realidad",
           "level": 2,
-          "body_md": "Esto determina la fuerza de la [Zona de Realidad](/mage/chantry-traits/chantry-reality-zone) establecida en toda la Capilla/[Constructo](/mage/flaws/construct). Incluso un único punto de este Rasgo hace que todos los hechizos y efectos dentro del paradigma de la propietaria sean coincidentes, y los de paradigmas incompatibles, vulgares.\n\n| X | Tu Capilla/Constructo se adhiere a las normas locales de la Realidad. |\n|-------|------------------------------------------------------------------------------------------------------------|\n| · | Tu Ciencia Iluminada/magia es coincidente aquí. |\n| ·· | Los efectos creados según tu paradigma reciben -1 de dificultad. |\n| ··· | Los efectos creados según tu paradigma reciben -1 de dificultad. Los efectos vulgares sufren +1 de dificultad. |\n| ···· | Los efectos creados según tu paradigma reciben -2 de dificultad. Los efectos vulgares sufren +2 de dificultad. |\n| ····· | Los efectos creados según tu paradigma reciben -3 de dificultad. Los efectos vulgares sufren +3 de dificultad. |",
+          "body_md": "Esto determina la fuerza de la [Zona de Realidad](/mage/chantry-traits/chantry-reality-zone) establecida en toda la Capilla/[Constructo](/mage/flaws/construct). Incluso un único punto de este Rasgo hace que todos los hechizos y efectos dentro del paradigma de la propietaria sean coincidentes, y los de paradigmas incompatibles, vulgares.\n\n| X | Tu Capilla/Constructo se adhiere a las normas locales de la Realidad. |\n|-------|------------------------------------------------------------------------------------------------------------|\n| • | Tu Ciencia Iluminada/magia es coincidente aquí. |\n| •• | Los efectos creados según tu paradigma reciben -1 de dificultad. |\n| ••• | Los efectos creados según tu paradigma reciben -1 de dificultad. Los efectos vulgares sufren +1 de dificultad. |\n| •••• | Los efectos creados según tu paradigma reciben -2 de dificultad. Los efectos vulgares sufren +2 de dificultad. |\n| ••••• | Los efectos creados según tu paradigma reciben -3 de dificultad. Los efectos vulgares sufren +3 de dificultad. |",
           "defines_entities": []
         }
       ]
