@@ -5106,7 +5106,7 @@
     "line": "shared",
     "name_en": "Terminal Illness",
     "name_es": "Enfermedad Terminal",
-    "body_es": "Padeces una enfermedad incurable y mortal —un cáncer avanzado, una insuficiencia orgánica, una dolencia degenerativa— que te está matando lentamente. Tu tiempo se agota y el Narrador lleva un 'reloj' de tu deterioro: fatiga creciente, dolor, hospitalizaciones y, en fases avanzadas, penalizaciones a las reservas físicas. Vives contra el reloj, lo que da a tu historia una urgencia trágica pero también te vuelve vulnerable. Este Defecto no es una simple herida: es una sentencia. El valor refleja lo avanzada que está la enfermedad (una dolencia manejable durante años vale menos que una fase terminal con meses de vida).",
+    "body_es": "Padeces una enfermedad incurable y mortal —un cáncer avanzado, una insuficiencia orgánica, una dolencia degenerativa— que te está matando lentamente. Tu tiempo se agota y el Narrador lleva un 'reloj' de tu deterioro: fatiga creciente, dolor, hospitalizaciones y, en fases avanzadas, penalizaciones a las reservas físicas. Vives contra el reloj, lo que da a tu [historia](/shared/secondary-abilitys/historia) una urgencia trágica pero también te vuelve vulnerable. Este Defecto no es una simple herida: es una sentencia. El valor refleja lo avanzada que está la enfermedad (una dolencia manejable durante años vale menos que una fase terminal con meses de vida).",
     "tags": [
       "físico"
     ],
@@ -5177,6 +5177,2076 @@
     "related": [
       "tept"
     ]
+  },
+  {
+    "id": "cocinar",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Cocinar",
+    "name_es": "Cocinar",
+    "body_es": "La comida es lo tuyo. Eres bueno preparándola, creando comidas a partir de lo que encuentres y percibiendo cuando algo no está del todo bien. ¿De qué le sirve este Talento a un mago? ¡Pregúntale a cualquier bruja decente! Un cocinero talentoso puede preparar una comida impresionante sobre la marcha (tal vez incluso usando Magias de Vida, Materia, Mente o Tiempo en la mezcla para estropear o endulzar la comida), detectar comida contaminada o envenenada, discernir ingredientes inusuales (carne de caballo, de grifo, Soylent Green…) o crear comidas nutritivas con lo que tenga a mano: ¡una habilidad vital en plena naturaleza o en ciertos Reinos!\n\nPoseído por: Chefs, cazadores, Extáticos, críticos culinarios, glotones, padres.\n\nEspecialidades sugeridas: Tentempié, Comida Rápida, Comida Gourmet, 'Algo a partir de Nada', Condiciones Primitivas, Dietas Especiales, Mejora Mágica, [Seducción](/shared/secondary-abilitys/seduccion) Culinaria.",
+    "tags": [
+      "talento-secundario"
+    ],
+    "mechanics": {
+      "category": "talent",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Te las arreglas en una cocina."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Lo bastante bueno como para trabajar en un restaurante."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Un artista culinario."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Capaz de convertir en comida sustancias normalmente intragables."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Un maestro de cada aspecto de la preparación de la comida, desde pelar hasta servir."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "cocinar",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "diplomacia",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Diplomacia",
+    "name_es": "Diplomacia",
+    "body_es": "Eres bueno suavizando las cosas, haciendo amigos y logrando que la gente vea más allá de sus diferencias. Cuando lo necesitas, también puedes respaldar tu astucia con frialdad. Una combinación de llevarse bien con la gente, psicología social, conocimiento de la situación y el momento justo te permite ganarte el respeto de las personas para luego conducirlas hacia tu punto de vista. Un buen diplomático puede ser transparente sobre sus motivos y, sin embargo, lograr que la gente haga lo que él quiere mientras creen que es idea suya. Como complemento de las Magias de Mente, este Talento puede convertirse en una ventaja enorme (y ocasionalmente temible) en la dinámica de grupos.\n\nPoseído por: Consejeros, psicólogos, abogados, políticos, agentes especiales, magnates, mediadores, terapeutas, activistas políticos o religiosos.\n\nEspecialidades sugeridas: Intervenciones Sentimentales, [Negociación](/shared/secondary-abilitys/negociacion) de Rehenes, Diplomacia Internacional, Moderación de Riesgo, Mediación entre Facciones, Comunicación No Violenta.",
+    "tags": [
+      "talento-secundario"
+    ],
+    "mechanics": {
+      "category": "talent",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Autor de consultorio sentimental."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Consejero de relaciones."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Negociador de rehenes."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Diplomático destacado."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Jimmy Carter."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "diplomacia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "estilo",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Estilo",
+    "name_es": "Estilo",
+    "body_es": "Sabes cómo lucir bien. Y aunque tienes buen ojo para la moda, este Talento no se trata tanto de qué llevas sino de cómo lo llevas. Estilo te ayuda a crear una buena impresión en función de la ropa, el porte, la conducta y la apariencia… y, aunque es más obvio en la gente guapa, puede tener efectos sorprendentes en quienes, al contrario, no son muy atractivos.\n\nPoseído por: Estrellas del pop, modelos, realeza, ricachones, diseñadores, artistas, famosillos, asesores de moda, espías.\n\nEspecialidades sugeridas: Bohemio, Escandaloso, Estilo Clásico, Alta Moda, Cosplay, Vanguardista, A la Última, Avant-Garde.",
+    "tags": [
+      "talento-secundario"
+    ],
+    "mechanics": {
+      "category": "talent",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Obsesionado con la moda."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Vistes de forma elegante.."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Modelo profesional."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Lady Gaga."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Queer Eye for the Mage Guy."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "estilo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "instruccion",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Instrucción",
+    "name_es": "Instrucción",
+    "body_es": "Eres realmente bueno transmitiendo información, enseñando y ayudando a otras personas a comprender principios complejos. No es que seas un experto en ese tema (aunque podrías serlo), sino que tienes un don especial para facilitar su comprensión. Un talento muy útil para mentores, profesores y, por supuesto, instructores de cualquier campo de estudio, esta habilidad ayuda a tu personaje a compartir su pericia con otros.\n\nEn términos de juego, puedes usar Instrucción para entrenar a otros personajes en cualquier Técnica o Conocimiento que posea el tuyo (a discreción del Narrador, los Talentos también deberían poder enseñarse; se asume que el estudiante tiene al menos 1 punto en el Rasgo en cuestión, así el instructor ayuda a ese personaje a refinar una Habilidad que ya posee). No puedes elevar el Rasgo de otro personaje por encima del nivel de tu propio personaje o enseñar algo que tu propio personaje aún no tiene. Digamos que Legacy Brown quiere enseñarle a Cazaarañas algunas habilidades médicas. Legacy tiene Medicina 3, por lo que podría enseñarle a Cazaarañas hasta 3 puntos en Medicina antes de llegar a los límites de su propio conocimiento. Por cada mes de tutoría, el jugador de Legacy lanza su Manipulación + Instrucción contra una dificultad de 11, menos la puntuación de Inteligencia de Cazaarañas; si la Inteligencia de éste es 4, la dificultad sería 7 (11 - 4). Por cada éxito obtenido, el jugador de Cazaarañas puede gastar 1 punto de Experiencia; si Legacy obtiene cuatro éxitos, Cazaarañas gasta 4 puntos en Medicina. De esta forma, un maestro hábil puede acelerar el proceso de aprendizaje para nuevas Habilidades.\n\nComo regla alternativa, el Narrador puede permitir que cada éxito reste 1 punto de Experiencia del coste de aprender o aumentar una Habilidad; en este caso, el jugador de Cazaarañas ahorraría 4 puntos al comprar y aumentar el Conocimiento Medicina. Para esta opción, el jugador del instructor tira sólo una vez, no una vez al mes. Así, puedes enseñar habilidades más rápido y barato en una crónica donde el tiempo es esencial. Aun así, esta opción no debería combinarse con la regla normal. Elije una u otra, no ambas.\n\nEn términos narrativos, este Talento refleja a un maestro con un [estilo](/shared/secondary-abilitys/estilo) atractivo y memorable. Incluso si no entras en el aspecto educativo de gastar puntos, tu personaje es de esos maestros que los estudiantes recuerdan años o incluso décadas después de haber pasado tiempo bajo su instrucción.\n\nPoseído por: Mentores, maestros, docentes, tutores, viejos huraños con mucho que enseñar si demuestras ser digno.\n\nEspecialidades sugeridas: Aulas, Tutoría Privada, Temas Esotéricos, Rápido y Práctico, En Profundidad, [Estilo](/shared/secondary-abilitys/estilo) Interactivo, Mentor Memorable, Mano Dura, Bueno con los Niños, Nada o Ahógate.",
+    "tags": [
+      "talento-secundario"
+    ],
+    "mechanics": {
+      "category": "talent",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Puedes transmitir conceptos básicos."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Te resulta fácil expresar los puntos más complejos de un tema."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Siempre que sepas algo, puedes enseñarlo."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Eres de esas personas de las que los demás quieren aprender."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Un maestro de todos los aspectos del aprendizaje, eres un maestro recordado por sus pupilos durante el resto de sus vidas."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "instruccion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "intriga",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Intriga",
+    "name_es": "Intriga",
+    "body_es": "El fantasma de Maquiavelo te sonríe. En los viciosos y traicioneros torbellinos del poder, eres una fuerza a considerar. Una combinación de instinto, audacia, conocimiento, astucia y crueldad te da ideas y ventajas de las que la mayoría de personas carece. Puedes servir a un propósito mayor, trabajar en pos de metas ocultas o simplemente disfrutar haciendo bailar a los títeres. Sea cual sea tu propósito final, eres un jugador, no un peón, en tu Juego de Tronos personal.\n\nPoseído por: Autores de fantasía épica, políticos, nobleza, celebridades, agentes, ejecutivos, corresponsales políticos, sirvientes observadores, peces gordos, hechiceros Herméticos, maquinadores del Sindicato.\n\nEspecialidades sugeridas: Alianzas, Traiciones, Enmarañadas Redes, Observar de Lejos, Intriga Internacional, Política Corporativa, Negocios y Tratos, Titiritero, Bastardo Implacable, Riesgos de Vida o Muerte.",
+    "tags": [
+      "talento-secundario"
+    ],
+    "mechanics": {
+      "category": "talent",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Ned Stark."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Cersei Lannister."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Varys, la Araña."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Meñique."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Tyrion Lannister."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "intriga",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "intuicion",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Intuición",
+    "name_es": "Intuición",
+    "body_es": "También conocido como Instinto, este Talento representa un tipo primario de percepción que existe detrás de tu mente consciente. En esencia, posees una consciencia animal de tu entorno y circunstancias. Aunque no es leer la mente en sí, tu intuición te ayuda a detectar señales sobre los estados de ánimo e intenciones de los demás, darte cuenta cuando 'algo no está del todo bien' y reconocer patrones y conexiones que tu mente consciente podría haber pasado por alto. Los veteranos de combate, quienes sobreviven en las calles, la gente primaria y los cambiaformas animales tienden a desarrollar instintos como una habilidad para subsistir; aun así, tal consciencia proviene más del talento innato que de técnicas practicadas. En situaciones en las que tu personaje podría captar pistas subconscientes o señales sutiles, agrega su Intuición a un Atributo Mental para ver si los instintos de ese personaje se activan o no.\n\nPoseído por: Jugadores, veteranos, supervivientes, gente de la calle, gente más cercana a los animales que a las personas.\n\nEspecialidades sugeridas: Objetivos Ocultos, Emboscadas, Reconocer Pautas, Trampas, Leer el Ánimo, Flashes de Perspicacia, Instinto Animal, Olfato para los Problemas.",
+    "tags": [
+      "talento-secundario"
+    ],
+    "mechanics": {
+      "category": "talent",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Tienes fuertes presentimientos."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Estás aprendiendo cómo seguir tus instintos incluso cuando no estás seguro de por qué."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Te parecen obvias cosas que los demás no ven."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Posees una percepción asombrosa de cosas que ni deberías percibir."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Da miedo la cantidad de cosas que percibes y nadie más ve."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "intuicion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "mimetismo",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Mimetismo",
+    "name_es": "Mimetismo",
+    "body_es": "Como imitador experto, puedes imitar voces o sonidos; cuanto mayor sea tu puntuación, mayor será tu habilidad. La laringe humana es bastante flexible, capaz de un amplio rango vocal (un toque de Magia puede ampliar ese rango si aumentas tus habilidades naturales con Vida 2 o 3). En los niveles más bajos, puedes imitar los acentos o las voces de personas concretas, mientras que los niveles más altos te ayudan a falsear un rango impresionante de fenómenos sónicos.\n\nPoseído por: Cómicos, clones, payasos de la clase, actores, espías, especialistas en infiltración, artistas de sonido.\n\nEspecialidades sugeridas: Acentos, Engaño, Reclamos de Animales, Comedia, Famosos, Tecnología Activada por la Voz.",
+    "tags": [
+      "talento-secundario"
+    ],
+    "mechanics": {
+      "category": "talent",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Te diviertes imitando a famosos."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Con tiempo y práctica, puedes imitar una buena cantidad de acentos y voces."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Tus personificaciones pueden engañar a quienes conocen bien a la gente o sonidos que imitas."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Eres como ese tipo de las viejas películas de Loca Academia de Policía."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Tu habilidad de imitar a casi toda persona o cosa es inquietante."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "mimetismo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "negociacion",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Negociación",
+    "name_es": "Negociación",
+    "body_es": "Una aguda percepción de qué quiere la gente te convierte en un gran vendedor. Combinado con la destreza social y la capacidad de decir 'No' cuando es necesario, este Talento te permite atraer a otras personas a tu punto de vista, les ayuda a cerrar tratos y a resolver las potenciales motivaciones que los acercan a (y alejan de) la mesa de negociaciones.\n\nPoseído por: Abogados, ejecutivos, consejeros de pareja, especialistas en arbitraje, políticos, representantes sindicales, activistas, magnates, diplomáticos, agentes deportivos o del espectáculo.\n\nEspecialidades sugeridas: Cerrar Negocios, Intimidación, Peleas Domésticas, Mentiras, Motivaciones Ocultas, Tratados de Paz, Estafas Financieras, Desplumar a los Feligreses.",
+    "tags": [
+      "talento-secundario"
+    ],
+    "mechanics": {
+      "category": "talent",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Medias disputas en casa."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Se te da bien poner orden entre la gente en pos de un fin común."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Tus técnicas de arbitraje se solicitan de forma profesional."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: No importa la discusión, sueles salirte con la tuya."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Podrías establecer una paz duradera entre antiguos enemigos de modo que ambos queden contentos."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "negociacion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "neolengua",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Neolengua",
+    "name_es": "Neolengua",
+    "body_es": "El lenguaje es tu patio de recreo. En una era novísima, acuñas novísimas palabras. ¿Por qué? Porque el lenguaje es el guardián del estatus y la iniciación. El discurso ofuscador es la clave. La desinfotecnología relega a los baladores a Marginadia. La coprosperidad navega en neomarejada, por lo que atraes a los apihablantes y descompartimentalizas los lingüibloques. ¿Pero qué coño estás diciendo? ¡Lo que quieras que signifique!\n\nEn esencia, este Talento te ayuda a retorcer y jugar con palabras de moda, ya existentes u originales. Más allá de la diversión interpretativa que puedes tener con este Rasgo, Neolengua proporciona un arsenal verbal para enredos sociales. Al emparejar los Atributos Sociales con esta Habilidad, puedes entusiasmar, incitar o inspirar a tu audiencia (Carisma + Neolengua); deslumbrar, confundir o intimidar a los oponentes (Manipulación + Neolengua); o destrozar Prejuiciolandia combinando belleza con cerebro (Apariencia + Neolengua). Inteligencia + Neolengua puede ayudarte a descifrar o deconstruir la avalancha de palabras de otra persona, mientras que Percepción o Astucia pueden ayudarte a seguir el ritmo de un charlatán escupe eslóganes… ¡o vencerlo en su propio juego! En teoría, este Talento debería ser interpretativo. Relegarlo a un simple [lanzamiento](/shared/maneuvers/throw) de dados no es nada divertido.\n\nPoseído por: Satíricos, autores de ciencia ficción, frikis, jugadores de juegos de carreras online, futuristas, comentaristas, transhumanistas, consultores de RR.PP., políticos, redactores de discursos, maltratadores psicológicos, monitos de los medios, bastardos mordaces, trols.\n\nEspecialidades sugeridas: Whedonica, LolCat, Chateo, Comunicación de Masas, Corpolengua, Tecnolengua, Lenguanet, Poliflex, Desinformación, Publicidad, Hip-Hop, Chismorreos, Política, Dar la Vuelta a Algo.",
+    "tags": [
+      "talento-secundario"
+    ],
+    "mechanics": {
+      "category": "talent",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: LOL."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: ¿Tas loqui, tío?"
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Tu neológica metafasea en comcom."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: La habla de las Masas es tuya. Tu lengua es la de todos."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Ese sonido zumbante que oyes es la tumba de Orwell."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "neolengua",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "otear",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Otear",
+    "name_es": "Otear",
+    "body_es": "Tus ojos atentos ven cosas que otras personas pasan por alto. Al contemplar un lugar o situación, puedes obtener una evaluación rápida que a la mayoría de gente le llevaría tiempo. Este Talento, que suele combinarse con Percepción, ayuda a tu personaje a identificar posibles objetivos, amenazas, pistas, rostros, rutas de escape y otros detalles vitales. Es posible que no siempre sepas qué es lo que ves y tengas que pensar de forma consciente en otear un área para usar esta habilidad. Sin embargo, si tienes tiempo para una mirada rápida o dos, es probable que obtengas suficiente material para trabajar una vez puedas procesar lo que has visto.\n\nPoseído por: Cazadores, detectives, inspectores, comandos, agentes secretos, especialistas en evaluación de amenazas, equipos forenses.\n\nEspecialidades sugeridas: Identificar Marcas, Amenazas Potenciales, Regalitos Ocultos, Detalles Inquietantes, Ciencia Forense.",
+    "tags": [
+      "talento-secundario"
+    ],
+    "mechanics": {
+      "category": "talent",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Captas las pistas obvias."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Eres bueno a la hora de percibir pequeños detalles."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Especialista en estimaciones rápidas."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Pocos detalles se te escapan."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Sherlock Holmes desearía ser tú."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "otear",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "rebuscar",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Rebuscar",
+    "name_es": "Rebuscar",
+    "body_es": "¡Colega! ¿Dónde encontraste eso? Eres bastante bueno a la hora de detectar bienes en los lugares más extraños. Como carroñero experto, puedes descubrir todo tipo de cosas poco probables. Vale, las cosas tienen que estar allí primero… pero luego, si eres un mago, este Talento proporciona una excusa maravillosa para la Magia coincidente. Sin embargo, incluso sin Magia, la naturaleza desechable de la cultura consumista a menudo te lo facilita.\n\nPoseído por: Gente de la calle, pobres, saqueadores de basura, frikis de la tecnología, neotribales, vagabundos, punks callejeros, cazadores de gangas, artistas hambrientos, Huecos, Operativos de las fuerzas especiales.\n\nEspecialidades sugeridas: Anuncios Clasificados, Comunidades de Reciclaje, Fuentes de Alimentos, Rincones Olvidados, Refugio, Armas Improvisadas, Fuentes de Tecnología, Desenterrar Información.",
+    "tags": [
+      "talento-secundario"
+    ],
+    "mechanics": {
+      "category": "talent",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Vas de tiendas con Macklemore."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Eres Macklemore."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Obtienes todo lo que necesitas de los desechos de la sociedad."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Con tiempo y basura suficientes podrías encontrar casi cualquier cosa."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Monetariamente, vives con poco o nada."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "rebuscar",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "apanar",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Apañar",
+    "name_es": "Apañar",
+    "body_es": "Con un poco de suerte y mucha habilidad, puedes manipular un dispositivo, hacer reparaciones temporales o improvisar algo vagamente viable de una pila de repuestos. Naturalmente, también necesitarás los Rasgos apropiados, cosas como [Hipertecnología](/shared/secondary-abilitys/hipertecnologia), Informática, [Armas de Energía](/shared/secondary-abilitys/armas-de-energia), etc. No puedes manipular algo que no entiendes. Aun así, un técnico brillante puede hacer que el equipo funcione el tiempo suficiente para superar una crisis inmediata.\n\nLos tecnomantes inteligentes también pueden usar Apañar como parte de su foco si tienen algo con qué trabajar y suficiente tiempo para hacer que las cosas sucedan (ver Habilidades mundanas y Efectos Mágicos en Mago 20, pág. 532-535). Dicho esto, esto es una Técnica, no una Esfera; por sí solo no puede hacer algo del todo imposible. Si un dispositivo apañado es o no Magia vulgar depende de lo extravagante que parezca. ¿Un traje blindado hecho de acero forjado y piezas de armas? Bueno. ¿Un coche volador compuesto de frisbees y galletas para perros? Mm, no.\n\nPara detalles del sistema de juego sobre este tipo de cosas, ver Inventar, modificar y mejorar Tecnología en Mago 20, pág. 462-464.\n\nPoseído por: Cíborgs, operativos de campo, inventores, superhéroes, HIT Marks, científicos locos, personal de la División Q.\n\nEspecialidades sugeridas: Chatarra, Reparaciones, Objetos Encontrados, Modificaciones de Campo, '¿Cómo Harías Eso?'.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Chapuzas de garaje."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Mr. Arreglalotodo."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Reparador de campo."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: MacGyver."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: El puto Tony Stark."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "apanar",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "armamento-pesado",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Armamento Pesado",
+    "name_es": "Armamento Pesado",
+    "body_es": "El armamento de grado militar es un mundo aparte de las armas de fuego comerciales. Aun así, tu entrenamiento te permite emplear equipo serio: ametralladoras, lanzacohetes, lanzamisiles y otras formas de alto impacto de destrucción portátil. Dado que tales armas tienden a ser delicadas, también sabes cómo repararlas en el terreno. Quizás hasta tengas tu propio canal de YouTube para emocionar a la pandilla de testosterona de sillón (' A esto es a lo que me refiero… Como siempre, tened un buen día ').\n\nPoseído por: Veteranos de combate, personal de las fuerzas especiales, insurgentes, terroristas, supervivencialistas, equipos de SWAT, cíborgs, HIT Marks, Trajes Negros.\n\nEspecialidades sugeridas: Lanzamisiles Portátiles, Ametralladoras, Mortero, Operaciones del Desierto, Combate Urbano, Procedimientos Tecnocráticos de Daño Basado en Armas.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Entrenamiento básico."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Experiencia de campo."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Especialista de armamento pesado."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Maestro del desastre."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Rambo."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "armamento-pesado",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "armeria",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Armería",
+    "name_es": "Armería",
+    "body_es": "Disparar armas es fácil. Saber cómo funcionan las armas es un poco más complicado. Esta Técnica refleja un conocimiento práctico de la fabricación, modificación, diseño y reparación de armas. Sus diversos niveles abarcan categorías en expansión de experiencia en armas de fuego. Con tiempo, herramientas y suficientes puntos, puedes arreglar y fabricar armas de fuego y munición única desde cero, e incluso usar Efectos de Materia y Fuerzas para alterar o sobrecargar armas de fuego mundanas de maneras sorprendentes.\n\nVale la pena señalar que las armas de fuego modernas producidas en serie son mucho más fáciles de modificar que las armas antiguas o arcaicas. Los intentos de modificar o reparar el armamento producido en serie de modelos más antiguos (antes de Vietnam), o los modelos de tiradas pequeñas de épocas más recientes, agregan +1 o +2 a la dificultad de las tiradas de Armería, mientras que las armas de fuego de antes del siglo xx suman entre +1 y +3 a la dificultad de tales intentos, según la complejidad de la modificación. Las armas de mala calidad, por supuesto, serán más difíciles de reparar o modificar; para más detalles, ver Inventar, modificar y mejorar tecnología en Mago 20, pág. 462-464.\n\nPoseído por: Polis, soldados, espías, asesinos, técnicos de armamento, personal de fuerzas especiales, empleados de tiendas de armas, supervivencialistas, entusiastas de las armas de fuego, milicianos, especialistas en diseño de armas.\n\nEspecialidades sugeridas: Armas de Fuego Arcaicas, Armas Militares, Modificaciones de Campo, Equipo Improvisado, Diseños Originales, Munición Especializada, Mejoras Tecnomágicas.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Reparación básica y modificaciones menores."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Modificación avanzada de armas de fuego y de munición sencillas."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Gran experiencia en diseño, reparación y modificación de armas de fuego convencionales."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Deslumbrante maestría en la mayoría de armas de fuego y munición."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Mack Bolan te pide consejo."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "armeria",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "caza",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Caza",
+    "name_es": "Caza",
+    "body_es": "Obtienes comida a la vieja usanza: rastreando, atrapando, detectando, acechando, matando, destripando, desollando y conservándolo tú mismo. Hay quien cree que eres un [sádico](/shared/archetypes/sadist) cargado de testosterona y puede sea cierto. Aunque, como tú\n\nlo ves, mantienes viva una habilidad esencial. Especialmente entre los magos que pasan tiempo en el desierto o los Otros Mundos, esta habilidad significa la diferencia entre ser un mago vivo y un niño muerto de la era de los supermercados.\n\nAl igual que Arte, Artesanía y otras habilidades de amplio espectro, Caza abarca varios ámbitos relacionados. Cada ámbito exige una Especialidad concreta. A diferencia de la Técnica Supervivencia, esta Habilidad secundaria lidia con capacidades de depredación. Podrías usar sus Especialidades para seguir a un objetivo sin ser detectado (Seguimiento), detectar rastros de tu [presa](/shared/maneuvers/grapple) (Rastreo), descuartizar un cadáver sin estropear la carne (Preparar la Carne) y otras proezas más allá de la mera supervivencia. Estas Especialidades reemplazan varias Habilidades secundarias de ediciones anteriores de Mago. Para ser experto en esas disciplinas, tan sólo adquiere esas Especialidades. Con permiso de tu Narrador, se puede aplicar la opción del artesano capaz (Mago 20, pág. 280).\n\nPoseído por: Supervivencialistas, deportistas, gente rural, niños criados por padres de la vieja escuela, exploradores de la naturaleza, brujas, expertos de las fuerzas especiales, buscadores de visión, vagabundos.\n\nEspecialidades sugeridas: Seguimiento, Rastreo, Trampas, Preparar la Carne, Equipo Mínimo, Prácticas Tradicionales, Impacto Ambiental, Caza con Arco o Lanza, Gran Juego, [Presa](/shared/maneuvers/grapple) Altermundana, entornos específicos (Bosque, Montaña, Jungla, Ciudad, etc.).",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Guerrero de fin de semana."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Nativo rural."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Proveedor práctico."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Cazador a tiempo completo."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Ted Nugent desearía ser tú."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "caza",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "charlataneria",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Charlatanería",
+    "name_es": "Charlatanería",
+    "body_es": "Tejiendo una tormenta de palabras, logras deslumbrar a la gente con brillantes paparruchas. Esta Técnica, una táctica sorprendentemente eficaz (suponiendo que tu objetivo tenga Astucia 3 o menos; cuesta más engañar a la gente más brillante), te permite abrumar la capacidad de una persona para comprender u oponerse a tu objetivo. Eres tan molesto, convincente o desconcertante que la gente tiende a creerte… al menos hasta que hayan podido pensar en lo que estás diciendo. Usada por un comentarista, polemista, vendedor o ladrón, Charlatanería puede ser un arma devastadora.\n\nPoseído por: Activistas, evangelistas, trols de Internet, polemistas, espías, ladrones, estafadores, representantes de ventas, líderes de cultos.\n\nEspecialidades sugeridas: Política, Religión, Ofuscación, Timar, Ventas, Cambio de Opinión, Confusión, Mendigar, Librarse de Problemas.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Timador callejero."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Vendedor de coches usados."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Comentarista político."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Político hábil."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Titiriteros."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "charlataneria",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "clarividencia-analisis-estimativo",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Clarividencia / Análisis Estimativo",
+    "name_es": "Clarividencia / Análisis Estimativo",
+    "body_es": "Poseas o no dones precisos de profecía, a menudo hay gente que cree que sí. Ojeando cualquier cosa, desde tarjetas hasta entrañas y versículos de las Escrituras, puedes predecir de modo convincente eventos futuros, leer a una persona o lograr que alguien crea en tu increíble presciencia. Esto es un excelente instrumento para las Magias de Mente, Entropía o Tiempo, aunque su credibilidad (y por ello su capacidad para considerarse coincidente) dependerá tanto de tu audiencia como de tus propias creencias. Un verdadero creyente aceptará sin problema una lectura de tarot precisa, pero un escéptico podría resultar mucho más difícil de convencer.\n\nLa variación Tecnocrática, Análisis Estimativo, hace lo mismo con una explicación muy diferente. En vez de adornos simbólicos o religiosos, dicho análisis implica señales psicológicas, razonamiento deductivo, lenguaje corporal y otros métodos para leer el interior de una persona, predecir comportamientos potenciales o estimar las probabilidades de eventos futuros. Esto permite que los Especialistas Estimativos evalúen a las personas de un vistazo, determinen cálculos precisos o superen engaños para percibir la verdad bajo ellos. En el mundo actual, esto suele ser coincidente, siempre que el Especialista pueda percibir señales o pistas que puedan llevar a una conclusión racional.\n\nPoseído por: Gente de la Nueva era, gente de la calle, vagabundos neotribales, paganos, artistas hambrientos, feriantes, especialistas en estimaciones, detectives, psíquicos, perfiladores, supuestos 'gitanos'.\n\nEspecialidades sugeridas: Tarot, Leer la Mano, Bibliomancia, Astrología, Estimación de Amenazas / Riesgos, Razonamiento Deductivo, Cálculo de Probabilidades, Corazonada Asombrosa.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Te las arreglas con un método de adivinación concreto lo bastante bien como para convencer a la gente de lo que quiere escuchar."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Eres muy convincente con tu método elegido y entiendes uno o dos métodos más."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Puedes recitar lecturas creíbles con un puñado de métodos distintos y puedes ser escalofriantemente preciso con tu especialidad."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Como experto en cuanto a los medios y principios de adivinación (o análisis), puedes asegurar a la mayoría de la gente que sabes de lo que hablas."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Tu dominio de las artes adivinatorias convence hasta a los más escépticos de que percibes de forma especial el mundo invisible. Incluso si practicas Análisis en vez de supersticiones absurdas, tu perspicacia da escalofríos."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "clarividencia-analisis-estimativo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "desenfundado-rapido",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Desenfundado Rápido",
+    "name_es": "Desenfundado Rápido",
+    "body_es": "Eres rápido. Están muertos. Una tirada de Destreza + Desenfundado Rápido (tres o más éxitos) te permite sacar un arma y tenerla lista para usar. La dificultad de la tirada depende de dónde habías guardado esa arma: ¡un cuchillo de tobillo oculto es más difícil de sacar que una pistola en una funda abierta! Esta habilidad funciona con cualquier arma y puede 'explicar' por qué esa arma en tu mano acaba de aparecer de la nada. Con aprobación del Narrador, puedes agregar los puntos de esta Habilidad a su tirada de Iniciativa cuando tú o tu oponente estéis tratando de disparar primero (sin embargo, no se añade a la tirada después del turno inicial).\n\nPoseído por: Combatientes a cuchillo, sicarios, artistas marciales, recreacionistas del salvaje oeste, operativos de las fuerzas especiales, justicieros, fanfarrones.\n\nEspecialidades sugeridas: Duelos, Tiroteos Clásicos, Armas Ocultas, Pistolas, Espadas, Cuchillos, Emboscadas.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Tiemblas menos que la mayoría."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Reflejos decentes y una mano firme."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: ¡Joder, eres rápido!"
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: 'Desenfunda, bastardo!'"
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Han no disparó primero… tú lo hiciste."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "desenfundado-rapido",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "disfraz",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Disfraz",
+    "name_es": "Disfraz",
+    "body_es": "Parecer alguien distinto es tu especialidad. Esto podría implicar hacerte pasar por una persona existente, ocultar tu propia identidad o crear una persona del todo nueva e independiente de ti mismo. Incluso sin Magia de Vida o Mente, tu experiencia puede engañar a los observadores casuales y, en los niveles superiores, engañar a casi cualquier persona. Agrega Vida o Mente a esta Técnica y tus habilidades de disfraz pueden volverse casi perfectas (para obtener más detalles, ver Suplantar a otros seres en ¿Cómo HACES eso?, pág. 38).\n\nCon o sin maquillaje, el arte del disfraz depende de una cualidad inefable que permite que una persona se deslice hacia otra personalidad. Un artista del disfraz del todo magnífico puede cambiar de identidad con unos pocos arreglos físicos, aunque la mayoría de gente necesita maquillaje y ropa para completar la ilusión. Disfrazar significa 'eliminar las apariencias', por lo que el núcleo de esta Técnica consiste en cambiar tus formas, no sólo pegándote un bigote, sino presentándote como alguien completamente distinto.\n\nPoseído por: Espías, clones, actores, ninjas, cambiaformas, fugitivos, polis infiltrados, especialistas de infiltración.\n\nEspecialidades sugeridas: Suplantación, Cambio de Sexo, Actuación, Lenguaje Corporal, Identidades Alternativas, Materiales Improvisados, Hacerse Pasar por Otros, Disfraz Mágico.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: ¿Eres tú?"
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Puedes superar una inspección rápida."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: A veces puedes engañar a algunas personas."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Engañas a la mayoría de gente la mayoría de veces."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Con tiempo y materiales puedes parecer casi cualquiera al que sea posible que te parezcas físicamente."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "disfraz",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "distraer",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Distraer",
+    "name_es": "Distraer",
+    "body_es": "' ¡Mira! ¡Allí! ' Bueno, sueles ser más sutil que eso. Aun así, eres bueno distrayendo a la gente de lo que realmente estás tratando de hacer. Como habilidad esencial para magos, carteristas, seductores y otras personas que prefieren redirigir la atención, esta Técnica te ayuda a desviar la concentración de alguien a otra parte.\n\nEn una pelea, te ayuda a disponer a alguien para una sorpresa desagradable. Cada éxito en una tirada de Destreza + Distraer (dificultad 5 + la Astucia del objetivo) reduce la dificultad de tu próximo [golpe](/shared/maneuvers/strike). En esencia, lanzas un falso [golpe](/shared/maneuvers/strike), tu oponente responde y entonces le golpeas de verdad. Aplicaciones similares te permiten disponer distracciones y luego hacer algo cuando tu objetivo se vuelve. En términos de juego, reduces la dificultad de tu próxima tirada si tienes éxito con un intento de Distraer. Naturalmente, este tipo de truco deja de funcionar si confías en él demasiadas veces. Cada intento posterior con el mismo objetivo (o grupo de objetivos) aumenta su dificultad de Distraer en +2. Colega, ¡te han pillado! Toca probar una táctica diferente…\n\nPoseído por: Magos de salón, timadores callejeros, ladrones, estafadores, artistas marciales, luchadores sucios.\n\nEspecialidades sugeridas: Confusión, Fintas, Cargar el Muerto, Allí, ¡Era Broma!",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: 'Dios mío, ¿qué es eso? '."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: 'Nada por aquí…'."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: '¿Y ese tipo de allí? '."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: '¿Quieres decir esta mano…?'."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: 'Estos no son los androides que buscas…'."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "distraer",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "elusion",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Elusión",
+    "name_es": "Elusión",
+    "body_es": "Eres bueno zafándote de la gente. Con suficiente cobertura (multitudes, maleza, salas llenas de cajas, etc.), puedes escapar, ocultarte, engañar a tus perseguidores y mezclarte con el paisaje. Empleada de forma inteligente, Elusión puede ayudarte a comprender entornos nuevos (Inteligencia + Elusión), confundir a tus perseguidores (Manipulación + Elusión), detectar trampas y escondites (Percepción + Elusión), agacharte rápidamente tras coberturas (Destreza + Elusión) y engañar a tus antagonistas para que sigan pistas falsas o caigan en peligros (Astucia + Elusión). Por supuesto, también sabes qué [buscar](/shared/secondary-abilitys/buscar) si alguien más trata de esconderse de ti (de nuevo, Percepción + Elusión).\n\nEn sí misma, esta Técnica no es Mágica: consiste en saber usar tu entorno en tu beneficio. Pero ciertos efectos mágicos pueden retorcer la luz y el sonido (Fuerzas), cambiar la probabilidad (Entropía), influir en los espectadores (Mente) o detectar 'momentos perfectos' (Tiempo) que llevan tu técnica mundana al siguiente nivel, a menudo sin siquiera afectar el Consenso.\n\nPoseído por: Ninjas, cazadores, detectives, cambiaformas, fugitivos, chicos de la calle, agentes secretos, operativos de las fuerzas especiales.\n\nEspecialidades sugeridas: Bosques Espesos, Multitudes, Terreno Extraño, Confundir, Persecuciones, Ningún Lugar Donde Esconderse… ¡Salvo Allí!",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Puedes deshacerte de un perseguidor casual."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: La gente tiende a buscarte donde no estás."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Se necesita un profesional para rastrearte."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Hasta a los profesionales les cuesta rastrearte."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: ¿Dónde estás, conejjito bgibón?"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "elusion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "escalada",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Escalada",
+    "name_es": "Escalada",
+    "body_es": "La expresión 'superficie vertical' significa menos para ti que para la mayoría de la gente. Puedes escalar paredes, árboles, montañas y otras superficies siempre que puedas agarrarte a algo. Aunque esta Técnica no otorga habilidades sobrehumanas, es sorprendente lo que un escalador experto puede hacer, incluso sin equipo.\n\nPoseído por: Freerunners, ladrones, ninjas, cazadores, forajidos, alpinistas, atletas extremos, niños activos, gente criada en la naturaleza.\n\nEspecialidades sugeridas: Muros de Ladrillo, Rocas, Árboles, Hielo, Edificios, Sin Equipo, Montañismo.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Pasas tiempo en el rocódromo del gimnasio local."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Con equipo o buenos agarres, puedes escalar y descender superficies peligrosas."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Eres un escalador experimentado en diversas superficies."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: ¿Sin equipo? Sin problema."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Hasta sin equipo, eres una lagartija humana."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "escalada",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "escapologia",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Escapología",
+    "name_es": "Escapología",
+    "body_es": "Mediante una combinación de trucos, amagos, control muscular y articulaciones muy flexibles, puedes evitar la mayoría de las formas de restricción física. Las cuerdas, cadenas, agarres y las trampas mortales te retrasan, pero… con tiempo y quizás una o dos ganzúas… has aprendido a librarte de la mayoría. Esta Técnica no confiere ninguna habilidad sobrenatural, aunque puedes usarla para justificar escapes Mágicos si tu 'audiencia' sabe que has estudiado técnicas escapistas.\n\nPara el talento mal nombrado de poseer 'articulaciones dobles', ver el Mérito: Hiperflexible, pág. 36.\n\nPoseído por: Artistas callejeros, espías, ayudantes de magos, sumisos sabiondos, superhéroes.\n\nEspecialidades sugeridas: Esposas, Cuerdas, Trucos de Magia, Escapes 'Imposibles', Bondage Fetichista, Bajo el Agua, Ganzúas Ocultas, Presas y Llaves de Lucha.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Puedes librarte de cuerdas mal atadas o de presas simples."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Le das problemas al amo dominante promedio."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: 'Lo siento, oficial, debe haberse olvidado de cerrar esas esposas'."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Cadenas, cerraduras, camisas de fuerza… pocas de esas cosas pueden retenerte mucho tiempo."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Con un poco de tiempo, puedes escapar de cualquier cosa, salvo de una cámara acorazada."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "escapologia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "esgrima-kenjutsu",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Esgrima / Kenjutsu",
+    "name_es": "Esgrima / Kenjutsu",
+    "body_es": "Esgrima, el arte de la espada, refleja el dominio de diversas técnicas europeas de lucha con espada y daga, mientras que Kenjutsu refleja el uso de la espada japonesa del samurái. Otras formas culturales de artes marciales con filo, como las técnicas wushu de armas chinas, pueden considerarse como 'esgrima' en cuanto a los dados y las maniobras; tan sólo cambia el nombre a cualquier arte apropiado para ese personaje.\n\nA sus niveles más bajos, este conocimiento es puramente deportivo; pero un esgrimista o kendoka consumado puede ser mortífero en combate cuerpo a cuerpo. Al igual que con la mayoría de las artes marciales, un estudio dedicado de la esgrima incluye filosofía, meditación, ejercicio vigoroso y un refinamiento de la mente, el cuerpo y el alma… lo que lo convierte en una excelente técnica para el foco Mágico. En términos de juego, esta habilidad permite que un personaje use diversas maniobras de combate especializadas; ver Sistemas de combate expandidos: Técnicas armamentísticas avanzadas en el Capítulo Dos, pág. 105-111.\n\nPoseído por: Entusiastas del Renacimiento, artistas marciales, coreógrafos de combate, artistas caballeros refinados, actores shakespearianos, Tecnócratas y magos de la Vieja Escuela.\n\nEspecialidades sugeridas: Esgrima Deportiva, Combate de Escenario, Peleas de Cine, Foco Mágico, Trucos Sucios, Esgrima Florentina (doble filo), Sables, Duelo Práctico, Escenas Coreografiadas.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: «La punta se clava en el otro hombre»."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Kikuchiyo o Elizabeth Swann."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Katsushiro Okamoto o Elena Montero."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Íñigo Montoya o el temible pirata Roberts."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Ogami Itto o la Novia."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "esgrima-kenjutsu",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "hacer-contactos",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Hacer Contactos",
+    "name_es": "Hacer Contactos",
+    "body_es": "Eres bueno haciendo contactos y sabes trabajártelos por lo que valen. Si bien estas redes en realidad no actuarán en tu nombre (ciertos Trasfondos se encargan de eso), son auténticos salvavidas cuando intentas reunir datos (Percepción + Hacer Contactos), hacer algo (Manipulación + Hacer Contactos) o ganarte a alguien (Carisma o Apariencia + Hacer Contactos) a través de tus diversos contactos. Las tareas simples tienen dificultades más bajas, mientras que las tareas oscuras o difíciles exigen tiradas mucho mejores o, en términos narrativos, una red más meticulosa y dedicada.\n\nLa creación de redes de contactos exige tiempo, acceso y atención. Aunque los smartphones y las computadoras portátiles pueden ponerte en contacto con la gente en la mayoría de las ubicaciones con tecnología, aún necesitas tiempo para comunicarte y mantener tu red. A veces, también te pedirán favores. ¡Después de todo, no obtienes nada por nada! Sin embargo, lo bueno de las redes extensas es que las personas en ellas tienen una mayor capacidad de ayudarse mutuamente cuando es necesario.\n\nPoseído por: Operativos del Sindicato, representantes de ventas, maestros de la cháchara, agentes, consultores de RR.PP., asistentes de investigación, asistentes personales, periodistas, editores, blogueros, activistas.\n\nEspecialidades sugeridas: Investigación, Política, Celebridades, Información de Contacto, Favores, Boletos, Trapos Sucios, Bajos Fondos.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Tienes amigos que tienen amigos."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Sabes cómo dorar la píldora a ciertos porteros."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Sabes a quién hablar y cómo hablarle."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Con dos horas y un teléfono, haces maravillas."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Tu acceso a casi cualquiera es cosa de tiempo."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "hacer-contactos",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "hipnotismo",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Hipnotismo",
+    "name_es": "Hipnotismo",
+    "body_es": "Usando técnicas psicológicas mundanas (a diferencia de la Magia de Mente), puedes poner a alguien en trance y luego [rebuscar](/shared/secondary-abilitys/rebuscar) un poco dentro de su cabeza. Aunque no es tan efectivo como cree la gente, tal mesmerismo es bastante potente bajo las circunstancias adecuadas.\n\nEl mesmerismo suele exigir un entorno que aliente a un sujeto a entregarse al control del hipnotizador; los escenarios, herramientas y técnicas tradicionalmente hipnóticas incluyen rituales religiosos, clínicas silenciosas, música repetitiva, contrastes dramáticos de luz y oscuridad y, lo creas o no, pantallas de televisión. Al llevar al sujeto a un estado mental receptivo, el hipnotizador hace que baje sus defensas y le deje entrar. Si el sujeto se resiste, el hipnotizador probablemente necesite recurrir a Magia de Mente en lugar de al simple mesmerismo.\n\nA nivel de sistema, el jugador hace una tirada enfrentada de Carisma + Hipnotismo contra la Inteligencia del objetivo (si es voluntario) o Inteligencia + Fuerza de Voluntad (si no lo es). El número de éxitos refleja la profundidad del trance: de uno a tres éxitos indican un trance leve y cuatro o más revelan uno bastante profundo. Por cada éxito obtenido, el hipnotizador añade otro dado a su segundo [lanzamiento](/shared/maneuvers/throw); por ejemplo, tres éxitos agregaran tres dados más a la reserva de esa segunda tirada.\n\nLuego, el jugador hipnotizador tira una segunda vez a una dificultad igual a la Fuerza de Voluntad del objetivo; por cada éxito, descubre algo de información; inculca una 'expresión disparador'; inspira una idea, comportamiento o recuerdo que el objetivo tomará por propio; 'ordena' una actividad sencilla; o reduce en\n\n1 la dificultad de un hechizo relacionado basado en Mente. A su vez, este proceso lleva en torno a un minuto por tarea involucrada (por ejemplo, se tardarían cuatro minutos en inculcar cuatro disparadores o recuerdos). Contrariamente a lo que suele creerse, las sesiones cortas de influencia hipnótica no pueden llevar a una persona a cometer cosas que de otro modo no haría. La influencia extendida, por otra parte, puede ser sorprendentemente eficaz.\n\nEl hipnotismo es un arte psicológico, no una ciencia exacta. Sus efectos son impredecibles: ni siquiera los 'expertos' pueden controlar por completo la mente de otra persona sin una potente Magia de Mente. En última instancia, el Narrador decide cuánta influencia ejerce nuestro hipnotizador sobre su sujeto. Dicho esto, un experto puede hacer cosas bastante impresionantes con un sujeto dispuesto… especialmente si también es experto en la Esfera de Mente.\n\nPoseído por: Psicólogos, terapeutas, regresionistas a vidas pasadas, magos de salón, interrogadores, Psicops, tentadores y corruptores Nefandos.\n\nEspecialidades sugeridas: Descubrir Secretos, Deshinibir, Descubrir Vidas Pasadas, Falsos Recuerdos, Sugestión Poshipnótica.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Puedes usar unos cuantos trucos de salón básicos."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Has estudiado técnicas de hipnotismo profesionales."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Eres un devoto del arte y puedes destapar o inspirar resultados sorprendentes."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Asusta lo mucho que puedes hacer cuando condicionas la mente de otros para ello."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: El Doctor Caligari fue un fraude. Tú no."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "hipnotismo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "juegos-de-azar",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Juegos de Azar",
+    "name_es": "Juegos de Azar",
+    "body_es": "Los juegos de nervio y azar son tu especialidad. Incluso sin la ayuda de Entropía (que puede agregar una ventaja devastadora a esta habilidad) eres bueno midiendo las probabilidades, faroleando a los rivales, detectando trampas, apostando sobre seguro, engañando a los demás y empleando los juegos mentales y los trucos de manos esenciales para los juegos de cartas, apuestas y suerte aparentemente aleatoria.\n\nPoseído por: Jugadores, timadores callejeros, estafadores, turistas, roleros, crupieres, supervisores de casino, gánsteres, personal del Sindicato, magos Tanatoicos.\n\nEspecialidades sugeridas: Póker, Ruleta, Apuestas de Alto Riesgo, Juegos Esotéricos, Hacer Trampas, Juegos de Casino, Carreras de Caballos, Tragaperras, Repartir, Farolear, Contar Cartas, Influencia Entrópica.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Tiburón de la noche de póker."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Turista de Las Vegas."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Jugador profesional."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Jugador de alto riesgo."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: 'Su turno, Mr. Bond…'."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "juegos-de-azar",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "lectura-rapida",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Lectura Rápida",
+    "name_es": "Lectura Rápida",
+    "body_es": "Mediante una combinación de concentración y habilidad, puedes ojear y retener gran cantidad de información en muy poco tiempo. La lectura rápida utiliza varios trucos que te ayudan a procesar lo que lees rápidamente. Aunque las obras complejas exigen más tiempo y concentración que las sencillas, esta Habilidad es útil cuando tienes que hacer una investigación y no tienes mucho tiempo.\n\nAunque es un talento valioso para Tecnócratas, magos Herméticos, Adeptos Virtuales y otra gente que necesita absorber grandes cantidades de datos, es un truco peligroso cuando se lee sobre temas científicos o Mágicos avanzados. Después de todo, la ciencia avanzada y la Magia ritual dependen de una lectura precisa para obtener los resultados adecuados. Las técnicas de lectura rápida recurren a atajos mnemotécnicos, y los 'atajos' y la 'magia' tienden a ser malos compañeros de cama. El Narrador puede infligir una penalización a los ritos o procedimientos cuyos detalles se hayan aprendido mediante lectura rápida, con resultados potencialmente horribles si el intento falla. La moraleja tras este principio es: ¡No intentes convocar a Dioses Antiguos con un ritual que ojeaste a toda prisa al leer el libro!\n\nPoseído por: Estudiantes, autores, asistentes de investigación, programadores, ingenieros, bibliófilos, agentes de campo, magos Herméticos.\n\nEspecialidades sugeridas: Investigación, Ficción, Periódicos, Internet, E-books, Estudiar, Retención.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Crepúsculo en una hora."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Harry Potter y la Piedra Filosofal en dos o tres horas."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Harry Potter y las Reliquias de la Muerte en dos o tres horas."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Juego de Tronos en dos o tres horas."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Guerra y Paz en dos o tres horas."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "lectura-rapida",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "lucha-a-ciegas",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Lucha a Ciegas",
+    "name_es": "Lucha a Ciegas",
+    "body_es": "Ya sea mediante entrenamiento, meditación o sombría necesidad, puedes moverte sin ver hasta en condiciones extremas. Cada punto en Lucha a Ciegas reduce en 1 tu penalización por realizar acciones mientras estás ciego (por supuesto, no te da bonificación por luchar a oscuras, aunque te da ventaja si tus oponentes también están ciegos). Esta Técnica no te permite ver en la oscuridad, ni se añade a los Efectos de Correspondencia; sin embargo, refleja una percepción extraordinaria de tu cuerpo y tu entorno inmediato, incluso cuando no puedes ver.\n\nPara el Defecto relacionado con la discapacidad visual, ver Impedimento, pág. 39-40.\n\nPoseído por: Superhéroes ciegos, ninjas, artistas marciales, asesinos, Maestros Akáshicos.\n\nEspecialidades sugeridas: Esquivar, Golpes a Ciegas, Objetos Arrojadizos, [Tiro con Arco](/shared/secondary-abilitys/tiro-con-arco) Zen, Consciencia Espacial, Enemigos Múltiples.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Puedes moverte en una sala oscura sin chocar con las cosas."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Mediante el sonido puedes suponer dónde se encuentran cosas y personas."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Tus oponentes son tan obvios para ti en la oscuridad como lo serían si pudieras ver."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: En esencia 'sientes' la presencia, movimientos y localización de varios obstáculos y oponentes."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Zatoichi, el Espadachín Ciego."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "lucha-a-ciegas",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "natacion",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Natación",
+    "name_es": "Natación",
+    "body_es": "No te hundes, nadas. En circunstancias normales, puedes avanzar en torno a 8 metros o yardas + tu Destreza en un turno. Si te enfocas sólo en tu velocidad, puedes moverte hasta 12 metros o yardas + tu Destreza; y si pones todo lo que tienes en tus brazadas, puedes tirar Resistencia + Natación (dificultad 7) para agregar 3 metros o yardas más a tu movimiento ese turno. Sin embargo, cada turno exige una tirada separada y sólo puedes hacerlo un turno por punto de Resistencia que poseas. Tras eso… bueno, hundirse podría ser una opción…\n\nPoseído por: Socorristas, atletas, buceadores, surfistas, marineros, gente que creció cerca del agua.\n\nEspecialidades sugeridas: Distancia, Aguante, Carreras, Competición, Mar Abierto, Socorrismo, Supervivencia.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Has dado algunas lecciones de natación."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Pasas mucho tiempo en piscinas, lagos u océanos."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Podrías obtener plaza en un equipo de natación."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Podrías superar un examen de socorrista profesional."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Podrías competir a nivel olímpico si lo deseases."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "natacion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "operaciones-en-microgravedad",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Operaciones en Microgravedad",
+    "name_es": "Operaciones en Microgravedad",
+    "body_es": "Las cosas se ponen raras cuando dejas la gravedad de la Tierra. Aunque la verdadera gravedad cero no existe, las fuerzas gravitacionales radicalmente alteradas en reinos extraños, naves espaciales o el Eterspacio exigen capacitación y experiencia especializadas. Sin la Técnica Operaciones en Microgravedad, un personaje en tales entornos no puede usar dados de ninguna Habilidad Física; sigue siendo fuerte o diestro, pero ese entrenamiento en artes marciales no le servirá de nada cuando la física de la que dependen esas artes haya sido reemplazada por la microgravedad.\n\nEsta Técnica, un conjunto de habilidades poco frecuentes fuera de las filas de los Ingenieros del Vacío Tecnocráticos, enseña a moverse y actuar en gravedad alterada. Cada punto en esta Técnica le permite a tu personaje usar un punto de sus otras Habilidades físicas. Digamos que el tipo de antes tiene 4 puntos en Artes Marciales; podría usar uno con Microgravedad 1, dos con Microgravedad 2, etc. Sin ese entrenamiento, una persona rebota y flota con muy poco control de la física personal; con esta habilidad, esa misma persona sabe cómo usar ese entorno en su ventaja.\n\nPoseído por: Ingenieros del Vacío, Astronautas, Eternautas, Marines Espaciales.\n\nEspecialidades sugeridas: Baja Gravedad, Microgravedad, Trajes de Vacío, Combate, Maniobras Extravehiculares.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Ni hiperventilas ni vomitas."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Estás bien mientras tengas algo a lo que agarrarte."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Resulta raro, pero has comenzado a pillarle el truquillo."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Te mueves en microgravedad casi tan bien como en la Tierra."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Has pasado tanto tiempo en el espacio que ya no estás seguro de cómo se siente la gravedad de la Tierra."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "operaciones-en-microgravedad",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "pilotar",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Pilotar",
+    "name_es": "Pilotar",
+    "body_es": "La mayoría de la gente, cuando se enfrenta a los complejos paneles de control de los aviones convencionales, no tiene ni la menor idea de por dónde empezar. Tú sí. El entrenamiento y la experiencia te permiten volar, aterrizar y controlar la mayoría de los tipos de máquinas voladoras de tecnología Durmiente; cuanto mayor sea tu puntuación, más sofisticada será la nave.\n\nPoseído por: Pilotos, comandos, temerarios, técnicos de transporte.\n\nEspecialidades sugeridas: Helicópteros, Jets, Aviones de Época, Aviones de Combate, [Acrobacias](/shared/secondary-abilitys/acrobacias), Combate, Hovercrafts, Emergencias.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Pequeños aviones a propulsión."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Jets privados."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Aviones comerciales."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Máquinas de guerra militares."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Casi cualquier cosa."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "pilotar",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "psicologia-psicoanalisis",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Psicología / Psicoanálisis",
+    "name_es": "Psicología / Psicoanálisis",
+    "body_es": "Versado en la práctica de la psicología clínica, puedes ayudar a las personas a lidiar con dolencias mentales y emocionales. También conocido como Psicoanálisis, se requiere tiempo y confianza para emplear este Rasgo: ¡no puedes curar fobias durante un tiroteo! Sin embargo, dado el espacio y la oportunidad de trabajar, puedes ganarte la confianza de alguien y luego ayudarlo a resolver los traumas en su cabeza.\n\nTira Inteligencia + Psicoanálisis por cada sesión dedicada de psicoanálisis con una dificultad igual a la Inteligencia del sujeto + 3. Si se resiste, usa Manipulación o Carisma + Psicoanálisis a una dificultad igual a su Fuerza de Voluntad + 3 (máximo 10). Cada éxito se cuenta como una resolución al menos temporal de una enfermedad o neurosis. Las excentricidades simples son fáciles de solucionar (de 5 a 10 éxitos), mientras que las enfermedades mentales graves pueden ser mucho más difíciles (20 éxitos o más).\n\nSu cara más oscura es que esas mismas técnicas pueden usarse para implantar peculiaridades y enfermedades mentales: recuerdos falsos, fobias inducidas y cosas así. Este uso asume que el sujeto se resiste de forma inconsciente (Fuerza de Voluntad +3), pero aún puede ser muy efectivo si tu paciente confía en ti. El pánico al abuso de rituales satánicos de los ochenta y noventa vino sobre todo de psicólogos deshonestos que 'llevaron' a sus pacientes a 'descubrir' cosas que nunca habían sucedido. Los corruptores, seductores y 'especialistas en conversión' estudian el psicoanálisis por esa misma razón.\n\nYa intentes ayudar o dañar a alguien, la Magia de Mente obviamente ayuda con estas cosas (de nuevo, ver Habilidades mundanas y Efectos Mágicos en Mago 20, así como la sección Influencia asombrosa de ¿Cómo HACES eso?, pág. 62-84). Por tanto, tu reputación como psicoterapeuta experto puede explicar las 'curas milagrosas'.\n\nPoseído por: Terapeutas, consejeros, cuidadores, interrogadores, docentes, sanadores, rompementes, clero.\n\nEspecialidades sugeridas: Programación Neurolingüista, Técnicas Freudianas, Planteamiento Jungiano, Tradición Ancestral, Traumas Infantiles, Supervivientes de Maltrato, Síndrome del Falso Recuerdo, [Seducción](/shared/secondary-abilitys/seduccion), Subversión, Enfermedades Mentales Extremas, Psicología Criminal.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Un hombro amigo en el que llorar."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Consejero de instituto."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Terapeuta profesional."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Autoridad de renombre."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Milagrero."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "psicologia-psicoanalisis",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "seguridad",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Seguridad",
+    "name_es": "Seguridad",
+    "body_es": "Las cerraduras son para imbéciles. En nuestra era de alta tecnología, cualquier cosa que valga la pena guardar está protegida por sistemas de seguridad avanzados. Como especialista en dichos sistemas, puedes analizarlos, instalarlos, acceder y, cuando sea necesario, subvertirlos o deshabilitarlos. Esta Técnica, una vocación común entre los operativos Tecnocráticos y sus enemigos, maneja redes que ponen patas arriba el mundo de un ladrón furtivo.\n\nEn términos de juego, esta Habilidad te permite configurar, mantener e infiltrarte en instalaciones de seguridad compleja: cámaras de video, sensores láser, placas sensibles a la presión, etc. Obviamente, eso exige tiempo y concentración, además de algo de Magia o un Procedimiento Iluminado. Dada la intrincada tecnología involucrada en las redes de seguridad, suelen entrar en juego otras Habilidades en Mago 20, Capítulo Seis (Informática, [Hipertecnología](/shared/secondary-abilitys/hipertecnologia), Tecnología, etc.); la Técnica Seguridad podría decirte dónde colocar las cámaras, ¡pero no te ayudará a hackear su red de monitoreo! Las tiradas de tareas apropiadas incluyen Percepción + Seguridad (para determinar el sistema), Inteligencia + Seguridad (para instalar o deshabilitar un sistema), Astucia + Seguridad (para detectar cámaras o trucos ocultos) o incluso Destreza + Seguridad (para realizar el famoso truco de Hollywood de esquivar los sensores láser con movimientos elegantes).\n\nPara las reglas relacionadas con redes de seguridad, ver Sistemas informáticos en el Capítulo Dos, pág. 116-126.\n\nPoseído por: Expertos en infiltración, espías, técnicos, especialistas en seguridad, agentes especiales, ladrones tecnológicos.\n\nEspecialidades sugeridas: Sistemas Informáticos, Despliegues Láser, Robo de Viviendas, Trampas de Contención, Redes de Videovigilancia.",
+    "tags": [
+      "tecnica-secundaria"
+    ],
+    "mechanics": {
+      "category": "skill",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Novato: Has ojeado algunos manuales."
+        },
+        {
+          "rating": 2,
+          "body_es": "Ejercitado: Entrenado en un lado de la ley."
+        },
+        {
+          "rating": 3,
+          "body_es": "Talentoso: Entrenado en ambos lados de la ley."
+        },
+        {
+          "rating": 4,
+          "body_es": "Experto: Has diseñado (o derrotado) extensas redes."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Catwoman."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "seguridad",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "cultura-encubierta",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Cultura Encubierta",
+    "name_es": "Cultura Encubierta",
+    "body_es": "Tienes acceso a las bambalinas de los juegos de sombras de la sopa de letras de las intrigas internacionales (CIA, NSA, ICPO, etc.). Probablemente gracias a experiencia duramente ganada, puedes percibir pistas, identificar agentes, conectar los puntos entre agencias gubernamentales y recitar operaciones encubiertas como si fueran alineaciones de fútbol. Aunque para dar uso a tal conocimiento necesitas otras habilidades que apoyen lo que sabes. Hasta James Bond necesita saber a quién engañar, a quién seducir, de quién recibir órdenes o a quién disparar nada más verlo.\n\nPoseído por: Hacktivistas, espías, operativos encubiertos, mercenarios, terroristas, señores del crimen, traficantes de armas, investigadores, expertos en conspiraciones, cualquier Gerente Tecnocrático digno de su rango.\n\nEspecialidades sugeridas: Sociedades Secretas, Agencias Gubernamentales, [Tácticas](/shared/maneuvers/tactics), Personal, Contraterrorismo, Cabezas de Agencias, Estatus Operativo, Rumores, Escándalos, Liquidaciones, Proyectos Especiales, Cosas que Se Supone que No Deberías Saber.",
+    "tags": [
+      "conocimiento-secundario"
+    ],
+    "mechanics": {
+      "category": "knowledge",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Aficionado: Conoces los nombres y datos generales pertinentes de las agencias de servicios secretos de las mayores potencias."
+        },
+        {
+          "rating": 2,
+          "body_es": "Estudiante: Monitorizas a todas las principales agencias de operaciones encubiertas del mundo; también conoces chismes de diversos grupos de 'parainteligencia' (el Arcanum, Zaibatsu, la Inquisición, etc.)."
+        },
+        {
+          "rating": 3,
+          "body_es": "Erudito: Más allá de los hechos y figuras obvios involucrados en operaciones encubiertas, conoces trapos sucios de figuras importantes de la comunidad, datos sólidos de grupos 'inexistentes' y suficientes supuestos secretos para inquietar a cierta gente."
+        },
+        {
+          "rating": 4,
+          "body_es": "Profesor: Conoces (y eres conocido por) cada jugador de importancia en el mundo de la cultura encubierta, también posees gran cantidad de conocimientos sobre otros grupos."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Te llaman simplemente 'M'."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "cultura-encubierta",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "destreza-cultural",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Destreza Cultural",
+    "name_es": "Destreza Cultural",
+    "body_es": "Eres una guía de viajes andante, incluso en lugares que nunca has estado. Una combinación de saber previo y destreza innata te ayuda a percibir debilidades e inconvenientes culturales antes de que metas la pata (o lo hagan tus compañeros) por ignorancia.\n\nA diferencia de la Técnica Etiqueta, este Conocimiento no se trata tanto de hacer amigos como de percibir cómo funcionan las culturas en su conjunto. Con ello, te apercibes de los modales extranjeros, te percatas de matices sutiles, desenmarañas complejos roles sociales y llegas a conclusiones sobre la importancia del sexo, la política, la etnia y, quizás lo más importante, las expectativas culturales de la gente en cuestión. En una crónica que emplee zonas de realidad, esto podría ser un arma sutil pero importante en la Guerra de la Ascensión global. Para más detalles, ver Zonas de Realidad en Mago 20, pág. 611-617.\n\nPoseído por: Diplomáticos, activistas, cuerpos de paz, agentes de la ONU, especialistas en infiltración, enlaces culturales, misionarios, miembros de la jet set, trotamundos, Magos Sin Fronteras.\n\nEspecialidades sugeridas: Modales, Tabúes, Gracias Sociales, Castas Sociales, Política Local, Matices Sutiles, Religión, [Historia](/shared/secondary-abilitys/historia) Regional, Política de Género, Reglas No Escritas.",
+    "tags": [
+      "conocimiento-secundario"
+    ],
+    "mechanics": {
+      "category": "knowledge",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Aficionado: Lees guías de viajes por placer."
+        },
+        {
+          "rating": 2,
+          "body_es": "Estudiante: Eres un turista inteligente."
+        },
+        {
+          "rating": 3,
+          "body_es": "Erudito: Camaleón cultural, te pones al día rápido."
+        },
+        {
+          "rating": 4,
+          "body_es": "Profesor: Versado en diversas sociedades, sabes más que muchos nativos."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: El mundo es tu patio de juegos, tu reino, tu hogar."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "destreza-cultural",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "guerra-no-convencional",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Guerra No Convencional",
+    "name_es": "Guerra No Convencional",
+    "body_es": "La guerra no convencional, quizás el tema más candente del nuevo milenio, es tan vieja como la propia guerra. Este campo, originalmente conocido como el Conocimiento Terrorismo, lidia con las técnicas de terror a gran escala, los instrumentos del miedo, los bajos fondos asociados con la guerra no convencional y los métodos más eficaces para 'mandar un mensaje' o atrapar a la gente que lo hace.\n\nJunto con Rasgos como Informática, [Demoliciones](/shared/secondary-abilitys/demoliciones), Intimidación, [Seguridad](/shared/secondary-abilitys/seguridad), Política, [Medios de Comunicación](/shared/secondary-abilitys/medios-de-comunicacion), [Cultura Encubierta](/shared/secondary-abilitys/cultura-encubierta), etc., este Conocimiento puede reflejar los aspectos prácticos del terrorismo así como los organizativos, ideológicos y sociales. [Teología](/shared/secondary-abilitys/teologia) u Ocultismo pueden permitir que un personaje reconozca los objetivos religiosos o místicos del terrorismo, mientras que Expresión y [Destreza Cultural](/shared/secondary-abilitys/destreza-cultural) desbloquean el lado potencialmente artístico de una masacre.\n\nDado que la diferencia entre héroes y terroristas es casi por completo subjetiva, los expertos en este campo suelen adentrarse en territorios morales muy grises en lo que respecta a quién conocen y las cosas que hacen. Y aunque el terrorismo es un asunto incuestionablemente sucio, puede ser muy efectivo… sobre todo para los magos atrapados en una guerra encubierta para controlar la Realidad a escala global.\n\nPoseído por: Terroristas, agentes de contraterrorismo, hacktivistas, activistas, justicieros, líderes de la mafia, agentes de inteligencia, aficionados a la guerra, blogueros, comandos, reporteros, espías, traficantes de armas, guerrilleros, aspirantes a revolucionarios.\n\nEspecialidades sugeridas: Terrorismo Doméstico, Conflictos Étnicos, [Historia](/shared/secondary-abilitys/historia) del Terrorismo, Efectos en los Medios, Comités de Vigilancia, Agencias de Contraterrorismo, Recogida de Información, Secuestro, Ideología, Secretos, Redes, 'Figuras Célebres', Alianzas, Mecenas, Armamento.",
+    "tags": [
+      "conocimiento-secundario"
+    ],
+    "mechanics": {
+      "category": "knowledge",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Aficionado: Conoces las principales organizaciones involucradas en el terrorismo, así como sus tácticas, objetivos y métodos habituales y su personal clave."
+        },
+        {
+          "rating": 2,
+          "body_es": "Estudiante: Eres un asesor del Consejo de Seguridad de la ONU, el ejército de EE.UU., Al Qaeda o algún otro grupo interesado."
+        },
+        {
+          "rating": 3,
+          "body_es": "Erudito: Conoces a los jugadores principales, los marginales y los falsos."
+        },
+        {
+          "rating": 4,
+          "body_es": "Profesor: Eres un jugador destacado en la guerra del terror."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Eres un líder o alguien que da órdenes tras uno."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "guerra-no-convencional",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "historia",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Historia",
+    "name_es": "Historia",
+    "body_es": "Quienes olvidan la historia están condenados a ser magos estúpidos. Tú no eres uno de ellos. La búsqueda de conocimiento histórico incluye no sólo los hechos y figuras habituales sino, especialmente en años recientes, una exploración de las tendencias culturales tras los grandes eventos, el rol de la 'gente pequeña' (poblaciones marginadas, plebeyos, mujeres, etc.) y otras cosas que los historiadores de la vieja escuela no creían digno de registrar pero que resultó ser de vital importancia. Los Herméticos, Tecnócratas y reclamacionistas y recreacionistas históricos se toman la historia muy en serio; algunos de los más viejos pueden haber experimentado 'eventos históricos' en persona.\n\nPoseído por: Autores, blogueros, eruditos, teóricos de la conspiración, asesores, aficionados a la historia, revisionistas, antropólogos, activistas, archivistas, magi longevos.\n\nEspecialidades sugeridas: Historia Oculta, Historia Social, Historia Ocultista, Historia Cultural, Historia Secreta, Historia Suprimida, Fuentes Alternativas, Grupos Marginados, Eventos de la Guerra de la Ascensión, Influencia Sobrenatural (vampiros, demonios, criaturas cambiantes, etc.).",
+    "tags": [
+      "conocimiento-secundario"
+    ],
+    "mechanics": {
+      "category": "knowledge",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Aficionado: Los libros de Time-Life son tus amigos."
+        },
+        {
+          "rating": 2,
+          "body_es": "Estudiante: Estás empezando a aprender cosas que no se enseñan en la escuela."
+        },
+        {
+          "rating": 3,
+          "body_es": "Erudito: Un empleo en la enseñanza profesional podría ser adecuado para ti."
+        },
+        {
+          "rating": 4,
+          "body_es": "Profesor: Conoces los pormenores de la historia común y alternativa."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Si no estuviste de hecho allí, es como si hubieras estado."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "historia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "juegos-de-poder",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Juegos de Poder",
+    "name_es": "Juegos de Poder",
+    "body_es": "Cuando es el momento de disponer tus títeres y hacerles bailar, esta Habilidad refleja tu capacidad para consolidar conexiones, facilitar acceso, presentar a los mandamases entre sí y luego establecer las bases para el tipo de influencia que hace que las cosas se hagan. Como habilidad que se usa 'entre bambalinas' (al igual que Documentación y [Hacer Contactos](/shared/secondary-abilitys/hacer-contactos)), Juegos de Poder te permite establecer y manipular redes de autoridad para luego sentarte en el centro y emplear a la gente que te debe favores. ¿Es eso Magia? Demonios, claro que sí. Los miembros del Sindicato, el NOM, los Solificati, los Adeptos Virtuales y el Coro Celestial apuestan por esta clase de 'encantamientos', al igual que los Nefandos más eficientes e influyentes. Hasta Extáticos, brujas y chamanes emplean esta clase de conexiones entre sus compañeros. Los rostros y títulos pueden variar, pero el poder social es universal.\n\nJuegos de Poder te permite 'hacer unas llamadas' para unir a gente influyente y dirigirla hacia fines comunes, especialmente cuando se combina con hechizos de Mente. Las tiradas sociales crean esas conexiones, normalmente Manipulación + Juegos de Poder, aunque Carisma, Apariencia, Inteligencia, Percepción y puede que hasta (en algunas culturas) Fuerza puedan combinarse también con Juegos de Poder. Junto con Trasfondos como Aliados, Influencia, Recursos y Espías, o Habilidades como Etiqueta, [Destreza Cultural](/shared/secondary-abilitys/destreza-cultural), [Medios de Comunicación](/shared/secondary-abilitys/medios-de-comunicacion), Política, Subterfugio y Rasgos similares, puedes forjar poderosas conexiones sin recurrir nunca a las Esferas; si impulsas las cosas un poco más con Magia Verdadera, los resultados pueden ser asombrosos… pregunta a la Tecnocracia… y a los Nefandos…\n\nPara sugerencias sobre las aplicaciones metafísicas de tal influencia, ver las entradas de Instrumentos de Mago 20 para [medios de comunicación](/shared/secondary-abilitys/medios-de-comunicacion) de masas (pág. 596-597) y administración y recursos humanos (pág. 589) e Influencia a distancia y El elemento social en ¿Cómo HACES Eso?, pág. 65-68.\n\nPoseído por: Diplomáticos, magnates, brókeres, celebridades, activistas, periodistas, editores, promotores, políticos, espías, Anonymous, recepcionistas.\n\nEspecialidades sugeridas: Medios, Política, Altas [Finanzas](/shared/secondary-abilitys/finanzas), Hollywood, Concejos Tribales, Naciones Unidas, Poderes Corporativos, Megacorporaciones, Bajos Fondos, Cultura de Prisiones, Círculos Interiores, Tratos, Rascar Espaldas, Chantaje, Congraciarse, Hacer Amigos.",
+    "tags": [
+      "conocimiento-secundario"
+    ],
+    "mechanics": {
+      "category": "knowledge",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Aficionado: Sabes cómo hablar a los recepcionistas."
+        },
+        {
+          "rating": 2,
+          "body_es": "Estudiante: Meter el pie por la puerta… y dejarlo ahí… te resulta fácil."
+        },
+        {
+          "rating": 3,
+          "body_es": "Erudito: Los mandamases conocen tu nombre y aceptan tus llamadas."
+        },
+        {
+          "rating": 4,
+          "body_es": "Profesor: «Mr. Koch le verá ahora»."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Los líderes mundiales te consideran su amigo."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "juegos-de-poder",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "politica-de-capilla-constructo",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Política de Capilla / Constructo",
+    "name_es": "Política de Capilla / Constructo",
+    "body_es": "Sabes moverte en los pasillos del poder Despertado e Iluminado. Alianzas, rivalidades, historias, jugadores influyentes, estatus y debilidades… son para ti el pan de cada día. Con esa experiencia, eres capaz de lograr cosas que dejan a magos menores rascándose la cabeza.\n\nEste Conocimiento adquiere dos formas: Política de la Capilla abarca el funcionamiento interno de un baluarte místico, mientras que Política del Constructo revela el de una instalación Tecnocrática. Cuanto mayor sea tu puntuación, más sabrás. Aun así, ciertos niveles de este conocimiento están fuera del alcance de personajes por debajo de cierto rango. Los magos o Tecnócratas de bajo nivel no tendrán la autorización de [seguridad](/shared/secondary-abilitys/seguridad) necesaria para acceder a secretos de alto nivel (es decir, Política de C mayor de 3) y los miembros de facciones rivales no serán capaces de descubrir mucho sobre los otros a menos que sean infiltrados hábiles jugándosela mucho sobre la cuerda floja.\n\nIndependientemente del rango o afiliación del personaje, Política de C te proporciona datos y rumores, pero no la habilidad de poner en uso lo que sabes. Eso requiere Rasgos como [Diplomacia](/shared/secondary-abilitys/diplomacia), Subterfugio, Aliados, Patrón y Espías.\n\nPoseído por: Gerentes, Maestros, diplomáticos, infiltrados, chaqueteros, miembros de comités de fondos, especialistas en vigilancia, inquisidores, informadores, alborotadores, arañas en su red concreta.\n\nEspecialidades sugeridas: Tratos, Trapos Sucios, Proyectos, Protocolos, Rivalidades, Romances, Alianzas, Información Clasificada, Perfiles Personales, Problemas, Mandamases Ocultos.",
+    "tags": [
+      "conocimiento-secundario"
+    ],
+    "mechanics": {
+      "category": "knowledge",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Aficionado: Conoces los lugares y jugadores importantes."
+        },
+        {
+          "rating": 2,
+          "body_es": "Estudiante: Has valorado de forma moderada la base que has elegido."
+        },
+        {
+          "rating": 3,
+          "body_es": "Erudito: Sabes todo lo que es de conocimiento común en las filas de la base."
+        },
+        {
+          "rating": 4,
+          "body_es": "Profesor: Tienes a tu alcance material clasificado."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Conoces suficientes rumores, datos, secretos y mierda para poner nerviosa a mucha gente; dado todo lo que sabes, ¡tú también deberías estar nervioso!"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "politica-de-capilla-constructo",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "propaganda",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Propaganda",
+    "name_es": "Propaganda",
+    "body_es": "De tus labios a los oídos del mundo. Sabes cómo influir en la opinión pública a una escala de masas, normalmente forzando lo suficiente una verdad incendiaria para hacer hervir la sangre de Perico y Perica de los Palotes. Con algunos días, ciertos recursos y el lugar correcto, puedes hacer que quien elijas parezca tan bueno o malo como sea posible. Obviamente, esto exige acceso a los medios (computadoras, redes sociales, conexión a canales de televisión, etc.); aunque, asumiendo que lo tengas, puedes crear mensajes que se marquen a fuego en el consciente público.\n\nComo otras Habilidades 'entre bambalinas', este Rasgo requiere tiempo y paciencia. En términos de juego, decides el mensaje que quieres enviar, los instrumentos que emplear para ello, los métodos que planeas usar y el efecto que deseas una vez enviado. Una tirada de Manipulación + Propaganda envía el mensaje a la opinión pública; cuanto mejor sea tu tirada, más se asienta esa idea. La dificultad de la tirada depende de tu objetivo, el mensaje y la receptividad del público a la idea. Afirmar que el primer presidente de piel oscura de EE. UU. es un malévolo infiltrado extranjero parece muy fácil; convencer al público general de que su fuente de noticias favorita es propiedad de un príncipe árabe es mucho más difícil. Para muchos operativos Tecnocráticos, este Rasgo es el medio perfecto para Procedimientos de Mente a gran escala. Sin embargo, ten en cuenta que tal propaganda, incluso en manos Despertadas, es efectiva pero no perfecta. La naturaleza generalizada y contradictoria de la cultura de los medios de masas asegura un cierto grado de escepticismo incluso entre las audiencias más crédulas.\n\nPara posibles aplicaciones de este Rasgo, ver de nuevo Influencia a distancia y El elemento social en ¿Cómo HACES Eso?\n\nPoseído por: Comentaristas, blogueros, políticos, Anonymous, analistas de los medios, activistas virtuales, ejecutivos de publicidad, Adbusters, políticos, agentes de prensa, escritores de discursos, asesores de relaciones públicas, mandamases de los medios, diseñadores de juegos, operativos de los medios, líderes religiosos, teóricos de la conspiración, especialistas del NOM, operativos del Sindicato, corruptores Nefandos.\n\nEspecialidades sugeridas: Objetivos, Pánico Moral, Respaldo de Celebridades, Difamación, Escándalos, Alertas Rojas, Engaños, Elecciones, Subliminal, Publicidad, Política, 'Discriminación', Socavar, Contraprogamar, Imágenes Generalizadas, Aplicaciones Militares, Absolutas Mentiras, Botones del Pánico, Tocar el Tambor de Guerra.",
+    "tags": [
+      "conocimiento-secundario"
+    ],
+    "mechanics": {
+      "category": "knowledge",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Aficionado: Bloguero de Daily Kos."
+        },
+        {
+          "rating": 2,
+          "body_es": "Estudiante: Presentador de noticias de la Fox."
+        },
+        {
+          "rating": 3,
+          "body_es": "Erudito: Rush Limbaugh."
+        },
+        {
+          "rating": 4,
+          "body_es": "Profesor: Noam Chomsky."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Dick Chaney."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "propaganda",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "teologia",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Teología",
+    "name_es": "Teología",
+    "body_es": "Entiendes estructuras religiosas, doctrinas e historias… no necesariamente desde la perspectiva de un creyente (aunque muchos teólogos son creyentes por defecto) sino desde un punto de vista informado. En los niveles superiores (3 puntos o más), la mayoría de gente con este Rasgo tiende a percibir los aspectos comunes entre distintos credos; aunque no es una tendencia universal, muchos dedicados teólogos se mantienen encerrados e intensamente devotos a un credo concreto.\n\nPara los magos en concreto, entender una teología local y cultural puede ser incalculable a la hora de influir sobre creencias o sacarles provecho (como se describe en la sección Zonas de realidad de Mago 20, pág. 611-617), explorar y explotar paradigmas (ver Creencia: El núcleo del foco en Mago 20, pág. 567-572; los Paradigmas expandidos de este libro, pág. 188-196 y Guarda de paradigma en ¿Cómo HACES Eso?, pág. 97-98) y [buscar](/shared/secondary-abilitys/buscar) Hebras Míticas y otras posibles herramientas de coincidencia (Mago 20, pág. 61 y 588).\n\nPoseído por: Clero, líderes religiosos, historiadores religiosos, defensores de la fe, inquisidores, activistas, eruditos, misioneros, fanáticos, magos del Coro.\n\nEspecialidades sugeridas: Religión Comparada, Teología de la Prosperidad, Ortodoxia, Contrateología, Comunión de Religión y Ciencia, Activismo Religioso, [Historia](/shared/secondary-abilitys/historia) Religiosa, Teologías Alternativas / Marginales, Tecnicismos, Escrituras Ocultas, Secretos Oscuros, Colaboración Religiosogubernamental, Teología del Fin de los Tiempos, credos específicos (Catolicismo Español, Neopaganismo Nórdico, Judaísmo Reformista, Unitarismo Universalista, Budismo Tibetano, etc.).",
+    "tags": [
+      "conocimiento-secundario"
+    ],
+    "mechanics": {
+      "category": "knowledge",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Aficionado: Conoces los principios básicos."
+        },
+        {
+          "rating": 2,
+          "body_es": "Estudiante: Un estudio más a fondo revela su funcionamiento."
+        },
+        {
+          "rating": 3,
+          "body_es": "Erudito: Los elementos esotéricos del credo que has escogido resultan obvios."
+        },
+        {
+          "rating": 4,
+          "body_es": "Profesor: Eres una entregada autoridad de tu credo… y puede que también de otros."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Pocos entienden tanto como tú los pilares de la creencia."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "teologia",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "teorias-de-la-conspiracion",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Teorías de la Conspiración",
+    "name_es": "Teorías de la Conspiración",
+    "body_es": "'Ellos' no son simplemente proyecciones de una mente que delira. Sabes muy bien que los mandamases secretos manipulan el mundo, y tú eres parte de sus planes. En el Mundo de Tinieblas, la paranoia es una técnica de supervivencia; por eso, este Conocimiento te da pistas de las conspiraciones que pueden estar devorando el mundo desde dentro o no. Naturalmente, tal información te convierte en un objetivo… y aunque puede que estés paranoico, probablemente Ellos estén tratando de atraparte… especialmente si también trabajas para Ellos.\n\nPoseído por: Blogueros, comentaristas, activistas, productores de televisión, diseñadores de juegos, trols de Internet, miembros del Tea Party, quienes mueven los hilos, operativos de los medios, ufólogos, agentes gubernamentales, supervivencialistas, gente que está acojonada del mundo en general.\n\nEspecialidades sugeridas: Conocimiento Político de la Derecha, Conocimiento Político de la Izquierda, Bromas, 11S, Certificados de Nacimiento, Bebés para Obtener la Residencia, Blogs, Periódicos, Alienígenas, Megacorporaciones, Los Guardianes de la Libertad, [Historia](/shared/secondary-abilitys/historia) Oculta, Cultos, Satanismo Alternativo, Iglesia Católica, Cábalas Sionistas, Subversores de la Realidad (Mascarada Vampírica, manadas de Hombres Bestia, facciones de la Guerra de la Ascensión, etc.), Tramas Tecnocráticas, Encubrimientos del Gobierno, Grandes Fortunas, Grandes Medios, Sigue el Dinero, Juegos de Rol.",
+    "tags": [
+      "conocimiento-secundario"
+    ],
+    "mechanics": {
+      "category": "knowledge",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Aficionado: Presentador de noticias de la Fox."
+        },
+        {
+          "rating": 2,
+          "body_es": "Estudiante: Fan de Jiménez Losantos."
+        },
+        {
+          "rating": 3,
+          "body_es": "Erudito: Jiménez Losantos."
+        },
+        {
+          "rating": 4,
+          "body_es": "Profesor: Iker Jiménez."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: La Verdad Está Ahí Fuera… y tú la posees."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "teorias-de-la-conspiracion",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "timonel",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Timonel",
+    "name_es": "Timonel",
+    "body_es": "La barroca complejidad de las naves espaciales es suficiente para dar dolores de cabeza a la mayoría de la gente. Pero no a ti. Un riguroso entrenamiento te ha enseñado a manejar las extrañas embarcaciones que operan más allá del reino mundano. Aunque probablemente necesites tripulación de apoyo (¡las naves espaciales son complicadas!), tienes conocimientos prácticos en lo que respecta a las diversas pantallas, botones, llaves y monitores implicados en navegar y dirigir vehículos tan avanzados.\n\nA pesar de las semejanzas cosméticas con la Técnica [Pilotar](/shared/secondary-abilitys/pilotar), Timonel funciona en una clase de vehículo totalmente distinta. Y dado que lidia con astronaves, muy pocos personajes (aparte de los Ingenieros del Vacío y ciertos Eteritas) saben que existe… e incluso menos han estudiado sus técnicas. A propósito, hay algunas diferencias significativas entre los controles estandarizados de las naves de la flota Tecnocrática y los diseños más… elegantes de los singulares navíos Eteritas. En términos de juego, el Narrador debería imponer una penalización, normalmente entre -1 y -3, a un timonel que trate de descifrar un conjunto de controles con el que no esté familiarizado. Oh, las consecuencias de una mala tirada pueden ser directamente terribles. En el (Eter)espacio nadie puede oírte morir.\n\nPoseído por: Ingenieros del Vacío, cíborgs, marines espaciales, aventureros del éter.\n\nEspecialidades sugeridas: Combate, Navegación, Situaciones de Crisis, Circunstancias Improvisadas, Estimaciones, Artilugios Eteritas, Viajes Largos.",
+    "tags": [
+      "conocimiento-secundario"
+    ],
+    "mechanics": {
+      "category": "knowledge",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Aficionado: Estás entrenado en las operaciones básicas de un transbordador."
+        },
+        {
+          "rating": 2,
+          "body_es": "Estudiante: Te dejan tomar el timonel cuando las cosas están tranquilas."
+        },
+        {
+          "rating": 3,
+          "body_es": "Erudito: Eres un timonel experto que se ha visto en aprietos y ha salido indemne."
+        },
+        {
+          "rating": 4,
+          "body_es": "Profesor: «¡Mr. Sulu, tome el mando!»."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Han Solo te considera su igual."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "timonel",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "vicio",
+    "type": "secondary-ability",
+    "line": "shared",
+    "name_en": "Vicio",
+    "name_es": "Vicio",
+    "body_es": "Eres un maestro y un erudito de los placeres decadentes: sexo, drogas, alcohol y otros estimulantes tan comunes como prohibidos son tu especialidad. Podrías ser un agente de la brigada antidrogas o de la Interpol que trabaja para limpiar esos lugares, un criminal asentado en los bajos fondos, un mago con un pasado sombrío o alguien que busca emociones de primer y último orden. Quizás seas un trabajador sexual, una mula o algún otro profesional callejero… o un turista de lugares que las guías de viajes nunca mencionan. Independientemente de la fuente de tu información, sabes cómo encontrar guaridas de inmoralidad, cazar tus dragones favoritos y lograr lo que quieres o necesitas sin que te maten en el proceso… esto es, por supuesto, asumiendo que 'tengas suerte' y sigas teniéndola.\n\nPoseído por: Gánsteres, policía de barrio, detective, puteros, chantajistas, drogadictos, camellos, camareros, trabajadores sexuales, correos, gente de la calle, tentadores, corruptores, Infernalistas, Extáticos, cruzados de la moralidad, justicieros, iniciados del Sindicato.\n\nEspecialidades sugeridas: Clubes Nocturnos, Clubes de Striptease, Clubes de Fetichismo, Guaridas de Droga, Redes, Mercados Negros, Trabajo Sexual, Figuras Clave, Clientes Callejeros, Tráfico Humano, Fuentes de Internet, Tráfico Internacional de Estupefacientes, Emociones Prohibidas, Lo Peor de lo Peor, Moverse por los Bajos Fondos, Nacido y Criado en el Infierno.",
+    "tags": [
+      "conocimiento-secundario"
+    ],
+    "mechanics": {
+      "category": "knowledge",
+      "ratings": [
+        {
+          "rating": 1,
+          "body_es": "Aficionado: Mr. Despedida de Soltero."
+        },
+        {
+          "rating": 2,
+          "body_es": "Estudiante: Taxista o encargado de hotel."
+        },
+        {
+          "rating": 3,
+          "body_es": "Erudito: Policía antidrogas."
+        },
+        {
+          "rating": 4,
+          "body_es": "Profesor: Trabajador profesional."
+        },
+        {
+          "rating": 5,
+          "body_es": "Maestro: Señor del Pecado."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "book_id": "m20-libro-de-los-secretos",
+        "book_title_es": "M20 Libro de los Secretos",
+        "page": null,
+        "section_anchor": "vicio",
+        "variant": "base"
+      }
+    ],
+    "related": []
   },
   {
     "id": "afinidad-animal",
@@ -5414,7 +7484,7 @@
     "line": "shared",
     "name_en": "Do",
     "name_es": "Do",
-    "body_es": "Con frecuencia confundida con una mera arte marcial, Do es la devoción a un estilo de vida: un ancestral secreto de la Hermandad Akáshica, ocasionalmente enseñado a foráneos para mantenerlo vivo. Aunque queda reflejado en una colección única de maniobras de combate y técnicas Mágicas, el Camino es mucho más que una simple serie de ventajas: exige dieta, filosofía, meditación y un refinado sentido del propio lugar en el cosmos. Un personaje Akáshico inicial no puede tener más de dos puntos en Do (los demás deben aprenderse con Experiencia); un personaje no Akáshico no puede empezar el juego con ningún punto en Do. Por cada punto en Do, un personaje debe tener al menos dos puntos de una Habilidad \"rama\" adecuada.\n\nPoseído por: Akashayana y tal vez sus compañeros de mayor confianza.\n\nEspecialidades sugeridas: Estilo Externo (enérgico), Estilo Interno (meditativo), Estilos con Armas, Alquimia Energética, Katas, Técnicas de Forma Animal.",
+    "body_es": "Con frecuencia confundida con una mera arte marcial, Do es la devoción a un [estilo](/shared/secondary-abilitys/estilo) de vida: un ancestral secreto de la Hermandad Akáshica, ocasionalmente enseñado a foráneos para mantenerlo vivo. Aunque queda reflejado en una colección única de maniobras de combate y técnicas Mágicas, el Camino es mucho más que una simple serie de ventajas: exige dieta, filosofía, meditación y un refinado sentido del propio lugar en el cosmos. Un personaje Akáshico inicial no puede tener más de dos puntos en Do (los demás deben aprenderse con Experiencia); un personaje no Akáshico no puede empezar el juego con ningún punto en Do. Por cada punto en Do, un personaje debe tener al menos dos puntos de una Habilidad \"rama\" adecuada.\n\nPoseído por: Akashayana y tal vez sus compañeros de mayor confianza.\n\nEspecialidades sugeridas: [Estilo](/shared/secondary-abilitys/estilo) Externo (enérgico), [Estilo](/shared/secondary-abilitys/estilo) Interno (meditativo), Estilos con Armas, Alquimia Energética, Katas, Técnicas de Forma Animal.",
     "tags": [
       "talento-secundario"
     ],
@@ -5644,7 +7714,7 @@
     "line": "shared",
     "name_en": "Energy Weapons",
     "name_es": "Armas de Energía",
-    "body_es": "Cuando lo único que hay entre los espectadores inocentes y un Subversor de la Realidad rabioso eres tú, tu arma lanzarrayos y tu habilidad para usarla, ésta se convierte en una Técnica obligatoria. Pistolas láser, aceleradores de rayos de partículas, cañones de mano de plasma, disruptores ectoplásmicos y otro armamento avanzado exigen un manejo avanzado; cualquier simio puede disparar un revólver, pero sólo personal especialmente entrenado sabe cómo emplear armas hipertecnológicas. Esta Habilidad refleja una comprensión básica de la tecnología de las armas de energía y las técnicas esenciales para manejar, mantener, ajustar, cargar y almacenar las herramientas de seguridad Tecnocrática.\n\nPoseído por: Cíborgs, marines espaciales, Trajes Negros, agentes encubiertos, héroes Eteritas.\n\nEspecialidades sugeridas: Armas Pesadas, Tecnología Experimental, Reparaciones, Armas Pequeñas, Modificaciones de Campo, Armamento Cibernético, Operaciones en Microgravedad, Francotirador, Tecnología Pulp.",
+    "body_es": "Cuando lo único que hay entre los espectadores inocentes y un Subversor de la Realidad rabioso eres tú, tu arma lanzarrayos y tu habilidad para usarla, ésta se convierte en una Técnica obligatoria. Pistolas láser, aceleradores de rayos de partículas, cañones de mano de plasma, disruptores ectoplásmicos y otro armamento avanzado exigen un manejo avanzado; cualquier simio puede disparar un revólver, pero sólo personal especialmente entrenado sabe cómo emplear armas hipertecnológicas. Esta Habilidad refleja una comprensión básica de la tecnología de las armas de energía y las técnicas esenciales para manejar, mantener, ajustar, cargar y almacenar las herramientas de [seguridad](/shared/secondary-abilitys/seguridad) Tecnocrática.\n\nPoseído por: Cíborgs, marines espaciales, Trajes Negros, agentes encubiertos, héroes Eteritas.\n\nEspecialidades sugeridas: Armas Pesadas, Tecnología Experimental, Reparaciones, Armas Pequeñas, Modificaciones de Campo, Armamento Cibernético, [Operaciones en Microgravedad](/shared/secondary-abilitys/operaciones-en-microgravedad), Francotirador, Tecnología Pulp.",
     "tags": [
       "tecnica-secundaria"
     ],
@@ -5966,7 +8036,7 @@
     "line": "shared",
     "name_en": "Area Knowledge",
     "name_es": "Conocimiento Regional",
-    "body_es": "Conoces cierta zona como la palma de tu mano. En términos de juego, elige una región concreta (no mayor que una ciudad) que tu personaje tenga motivos para conocer. Las tiradas con éxito de Conocimiento Regional te ayudan a moverte, encontrar atajos y pillar costumbres, pistas y detalles de modos que ningún extraño podría entender. Nota: la opción de El artesano capaz no se aplica a Conocimiento Regional; para conocer un lugar, debes pasar tiempo allí.\n\nPoseído por: Justicieros, policías, jefes del crimen, periodistas, leyendas rurales, gente de la calle, Trajes Negros, protectores del pueblo.\n\nEspecialidades sugeridas: Historia, Geografía, Vida Salvaje, Política, Atajos, Salidas, Crimen, Rumores, Escondrijos, Pandillas, Fuentes de Información, Secretos Bien Ocultos.",
+    "body_es": "Conoces cierta zona como la palma de tu mano. En términos de juego, elige una región concreta (no mayor que una ciudad) que tu personaje tenga motivos para conocer. Las tiradas con éxito de Conocimiento Regional te ayudan a moverte, encontrar atajos y pillar costumbres, pistas y detalles de modos que ningún extraño podría entender. Nota: la opción de El artesano capaz no se aplica a Conocimiento Regional; para conocer un lugar, debes pasar tiempo allí.\n\nPoseído por: Justicieros, policías, jefes del crimen, periodistas, leyendas rurales, gente de la calle, Trajes Negros, protectores del pueblo.\n\nEspecialidades sugeridas: [Historia](/shared/secondary-abilitys/historia), Geografía, Vida Salvaje, Política, Atajos, Salidas, Crimen, Rumores, Escondrijos, Pandillas, Fuentes de Información, Secretos Bien Ocultos.",
     "tags": [
       "conocimiento-secundario"
     ],
@@ -6012,7 +8082,7 @@
     "line": "shared",
     "name_en": "Cryptography",
     "name_es": "Criptografía",
-    "body_es": "Un mundo lleno de secretos es un mundo lleno de códigos. Entiendes cómo funcionan, conoces los principios para crearlos y descifrarlos y tienes el tipo de mente que sigue las rutas adecuadas cuando rompe diversos códigos. Con este Conocimiento, puedes crear códigos que sólo pueden ser descifrados por alguien que supere tu puntuación en Criptografía con su reserva de Inteligencia + Criptografía. También puedes intentar descifrar códigos con tus propias tiradas de Inteligencia + Criptografía; si el código exige un conocimiento que quien desea descifrarlo no posee, es indescifrable.\n\nPoseído por: Fanáticos de los rompecabezas, especialistas de inteligencia, espías, alquimistas, analistas de comunicaciones, insurgentes, agentes antiterroristas.\n\nEspecialidades sugeridas: Codificación Matemática, Lenguajes Secretos, Códigos Místicos, Saberes Ocultos, Historia de la Criptografía, Lógica retorcida, Computadoras, Simbolismo Artístico-Histórico.",
+    "body_es": "Un mundo lleno de secretos es un mundo lleno de códigos. Entiendes cómo funcionan, conoces los principios para crearlos y descifrarlos y tienes el tipo de mente que sigue las rutas adecuadas cuando rompe diversos códigos. Con este Conocimiento, puedes crear códigos que sólo pueden ser descifrados por alguien que supere tu puntuación en Criptografía con su reserva de Inteligencia + Criptografía. También puedes intentar descifrar códigos con tus propias tiradas de Inteligencia + Criptografía; si el código exige un conocimiento que quien desea descifrarlo no posee, es indescifrable.\n\nPoseído por: Fanáticos de los rompecabezas, especialistas de inteligencia, espías, alquimistas, analistas de comunicaciones, insurgentes, agentes antiterroristas.\n\nEspecialidades sugeridas: Codificación Matemática, Lenguajes Secretos, Códigos Místicos, Saberes Ocultos, [Historia](/shared/secondary-abilitys/historia) de la Criptografía, Lógica retorcida, Computadoras, Simbolismo Artístico-Histórico.",
     "tags": [
       "conocimiento-secundario"
     ],
@@ -6196,7 +8266,7 @@
     "line": "shared",
     "name_en": "Media",
     "name_es": "Medios de Comunicación",
-    "body_es": "Los medios de comunicación de masas son la realidad de las masas... y sabes cómo moldear ambos. Dominas el arte y ciencia de moldear la percepción pública: sabes a quién llamar, qué decirles, de qué hilos tirar y cómo sacar provecho del resultado. Aunque este Rasgo no proporciona necesariamente acceso a las grandes figuras de los medios (ver el Trasfondo Influencia), entiendes la maquinaria de los medios y puedes guiarla a tu favor. Las prácticas del Dominio, el Arte del Deseo y el Hackeo de la realidad suelen depender de una comprensión de los medios, que hasta pueden funcionar como instrumento de ciertos tipos de Magia.\n\nPoseído por: Escritores, editores, comentaristas, críticos de los medios, relaciones públicas, blogueros, publicistas, celebridades, corruptores, políticos, activistas, Vigilantes del NOM.\n\nEspecialidades sugeridas: Control de Imagen, Política, Influencias, Calumnias, Leyes Audiovisuales, Medios Internacionales, Propaganda, Pánico, Subversión, Noticias Locales, Medios de Comunicación en Internet, Fuentes Alternativas, Películas, Televisión, Concentración de Medios.",
+    "body_es": "Los medios de comunicación de masas son la realidad de las masas... y sabes cómo moldear ambos. Dominas el arte y ciencia de moldear la percepción pública: sabes a quién llamar, qué decirles, de qué hilos tirar y cómo sacar provecho del resultado. Aunque este Rasgo no proporciona necesariamente acceso a las grandes figuras de los medios (ver el Trasfondo Influencia), entiendes la maquinaria de los medios y puedes guiarla a tu favor. Las prácticas del Dominio, el Arte del Deseo y el Hackeo de la realidad suelen depender de una comprensión de los medios, que hasta pueden funcionar como instrumento de ciertos tipos de Magia.\n\nPoseído por: Escritores, editores, comentaristas, críticos de los medios, relaciones públicas, blogueros, publicistas, celebridades, corruptores, políticos, activistas, Vigilantes del NOM.\n\nEspecialidades sugeridas: Control de Imagen, Política, Influencias, Calumnias, Leyes Audiovisuales, Medios Internacionales, [Propaganda](/shared/secondary-abilitys/propaganda), Pánico, Subversión, Noticias Locales, Medios de Comunicación en Internet, Fuentes Alternativas, Películas, Televisión, Concentración de Medios.",
     "tags": [
       "conocimiento-secundario"
     ],
@@ -6288,7 +8358,7 @@
     "line": "shared",
     "name_en": "Belief Systems",
     "name_es": "Sistemas de Creencias",
-    "body_es": "Has estudiado lo que la gente cree, cómo lo cree, por qué cree en lo que cree y dónde suele la gente tener ciertas creencias. Como Rasgo, este Conocimiento abarca sistemas generales de creencias religiosas, políticas, económicas y filosóficas de todo el mundo mortal. Cuanto mayor sea tu puntuación, más extensa y específica será tu comprensión. Este tipo de comprensión puede ser extremadamente útil cuando estás haciendo Magia coincidente, recurres a las tradiciones locales, generas buenas impresiones o cambias las creencias de la gente a tu favor; también ayuda a un mago a entender el fenómeno de las \"zonas de realidad\" y aprovecharlo a su favor.\n\nPoseído por: Periodistas, misioneros, teólogos, historiadores, profesores, expertos, filósofos, eruditos en ciencias políticas, manipuladores de los medios, activistas políticos o religiosos, magos que cambian de paradigma.\n\nEspecialidades sugeridas: Creencias Regionales, Esoterismo, Sectas, Sucesos Actuales, Historia Religiosa o Política, Geopolítica, Religión Comparada, Manipular los Medios, Tendencias en Creencias, Hackear Paradigmas.",
+    "body_es": "Has estudiado lo que la gente cree, cómo lo cree, por qué cree en lo que cree y dónde suele la gente tener ciertas creencias. Como Rasgo, este Conocimiento abarca sistemas generales de creencias religiosas, políticas, económicas y filosóficas de todo el mundo mortal. Cuanto mayor sea tu puntuación, más extensa y específica será tu comprensión. Este tipo de comprensión puede ser extremadamente útil cuando estás haciendo Magia coincidente, recurres a las tradiciones locales, generas buenas impresiones o cambias las creencias de la gente a tu favor; también ayuda a un mago a entender el fenómeno de las \"zonas de realidad\" y aprovecharlo a su favor.\n\nPoseído por: Periodistas, misioneros, teólogos, historiadores, profesores, expertos, filósofos, eruditos en ciencias políticas, manipuladores de los medios, activistas políticos o religiosos, magos que cambian de paradigma.\n\nEspecialidades sugeridas: Creencias Regionales, Esoterismo, Sectas, Sucesos Actuales, [Historia](/shared/secondary-abilitys/historia) Religiosa o Política, Geopolítica, Religión Comparada, Manipular los Medios, Tendencias en Creencias, Hackear Paradigmas.",
     "tags": [
       "conocimiento-secundario"
     ],
@@ -7150,7 +9220,7 @@
     "line": "shared",
     "name_en": "Sadist",
     "name_es": "Sádico",
-    "body_es": "Vives para infligir dolor y sufrimiento a los demás. Matar es demasiado fácil; la [tortura](/shared/secondary-abilitys/tortura) es el mejor modo de dañar de verdad a una persona, por lo que buscas los métodos más lentos y dolorosos de llevar a los demás al límite. El dolor (el de los demás) te proporciona un inmenso placer. Los sargentos de instrucción, los ex-amantes despechados y algunos locos terminales pueden encarnar este Arquetipo en uno u otro momento. El sadismo es lo bastante raro como para aparecer sólo en los casos más aberrantes, más que en un tipo u otro de persona.\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que inflijas dolor a alguien sin más razón que tu propio placer.",
+    "body_es": "Vives para infligir dolor y sufrimiento a los demás. Matar es demasiado fácil; la [tortura](/shared/secondary-abilitys/tortura) es el mejor modo de dañar de verdad a una persona, por lo que buscas los métodos más lentos y dolorosos de llevar a los demás al límite. El dolor (el de los demás) te proporciona un inmenso placer. Los sargentos de [instrucción](/shared/secondary-abilitys/instruccion), los ex-amantes despechados y algunos locos terminales pueden encarnar este Arquetipo en uno u otro momento. El sadismo es lo bastante raro como para aparecer sólo en los casos más aberrantes, más que en un tipo u otro de persona.\n\n-Recuperas un punto de Fuerza de Voluntad cada vez que inflijas dolor a alguien sin más razón que tu propio placer.",
     "tags": [
       "arquetipo"
     ],
