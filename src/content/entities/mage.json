@@ -1986,6 +1986,46 @@
     "related": []
   },
   {
+    "id": "punto-fijo",
+    "type": "rote",
+    "line": "mage",
+    "name_en": "Fixed Point",
+    "name_es": "Punto Fijo",
+    "body_es": "Uno de los teoremas más útiles para entender la geometría es el teorema del punto fijo. Aunque hay versiones mucho más precisas, según lo que puedas dar por supuesto de la función, todas se reducen a un enunciado sencillo: hagas lo que hagas, cualquier transformación razonable deja un punto intacto.\n\n**Paradigma:** La Forma es Número Instanciado *(paradigma explorado: Número y Forma)*\n\n**Práctica:** Geometría\n\n**Instrumentos:** Figuras y nudos, tiza\n\n**Sistema:** Trazando a la vez la región que va a transformarse y las figuras que indican qué clase de transformación va a producirse, el mago comprueba las hipótesis de los teoremas de punto fijo. Cuando activa la transformación, todo lo que hay en la región sale despedido en apariencia al azar, y todo acaba cayendo en algún otro punto de esa misma región. El mago, en cambio, permanece en el proverbial ojo del huracán: el punto fijo por el que nada pasa y sobre el que nada cae. Esto causa dos dados de daño Contundente por éxito a todo lo que esté en la región salvo al mago, y el daño asciende a Letal si hay una cantidad sustancial de objetos afilados que arrastrar. Esos dados pueden eliminarse con los éxitos de una tirada de Destreza + Atletismo (dificultad 6) para esquivar.",
+    "tags": [
+      "homebrew",
+      "formula",
+      "correspondencia",
+      "fuerzas",
+      "entropia",
+      "combate"
+    ],
+    "mechanics": {
+      "spheres": {
+        "correspondence": 3,
+        "forces": 3,
+        "entropy": 2
+      },
+      "spheres_note": "Correspondencia •••, Fuerzas •••, Entropía ••",
+      "spelltype": "vulgar",
+      "effect": "Dos dados de daño Contundente por éxito a todo lo que esté en la región salvo el mago; Letal si hay abundantes objetos afilados. Se esquiva con Destreza + Atletismo (dificultad 6): cada éxito de esquiva elimina un dado de daño.",
+      "note": "Fórmula de la casa. Tres apuntes sobre lo que el texto de origen NO dice y aquí se ha decidido: (1) `spelltype` no venía indicado — se fija en «vulgar» porque una sala entera saliendo despedida con una única persona intacta no puede pasar por coincidencia; cámbialo a «» si prefieres que se decida en mesa según los testigos. (2) El daño es Contundente, así que por regla general de M20 es absorbible con Resistencia; el texto no lo excluye. (3) Dos dados por éxito en un efecto de ÁREA es alto para el estándar de M20, donde el daño suele igualar a los éxitos — se ha respetado el texto tal cual, pero es el número a tocar si desequilibra.\n\nEl paradigma «La Forma es Número Instanciado» y la práctica «Geometría» NO existen en el corpus (51 prácticas, 63 paradigmas), así que van como prosa y no como enlaces. Los instrumentos sí existen y están en `related`. La taxonomía de `rote` retiró los campos `practice` e `instruments` argumentando que «ningún texto de Fórmula nombra uno»: esta Fórmula nombra los dos, y es un contraejemplo a esa premisa, no un error de esta entidad."
+    },
+    "sources": [
+      {
+        "book_id": "wod20-house-rules",
+        "book_title_es": "Reglas de la Casa (Mundo de Tinieblas 20º)",
+        "page": null,
+        "section_anchor": null,
+        "variant": "base"
+      }
+    ],
+    "related": [
+      "circles-pentacles-and-geometric-designs",
+      "knots-and-cords"
+    ]
+  },
+  {
     "id": "atractivo-de-la-sombra",
     "type": "merit",
     "line": "mage",
