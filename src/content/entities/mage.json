@@ -30032,7 +30032,45 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": 2,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": 2,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": 2,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": 1,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": 1,
+        "isactive": false
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": 1,
+        "isactive": false
+      }
+    ]
   },
   {
     "id": "vainilla",
@@ -31332,7 +31370,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": 2,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": 2,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": 2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "discurso-esoterico-tecnochachara",
@@ -31357,7 +31415,27 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "foundry_bonuses": [
+      {
+        "type": "attribute_diff",
+        "settingtype": "charisma",
+        "value": 2,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "manipulation",
+        "value": 2,
+        "isactive": true
+      },
+      {
+        "type": "attribute_diff",
+        "settingtype": "appearance",
+        "value": 2,
+        "isactive": true
+      }
+    ]
   },
   {
     "id": "enemistad-con-una-secta",
