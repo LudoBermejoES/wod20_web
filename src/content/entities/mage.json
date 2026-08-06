@@ -32596,7 +32596,14 @@
     ],
     "mechanics": {
       "cost": "3",
-      "category": "sobrenatural"
+      "category": "sobrenatural",
+      "casting_modifiers": [
+        {
+          "sphere": "life",
+          "label_es": "Cambio de forma propio (Vida)",
+          "weight": -2
+        }
+      ]
     },
     "sources": [
       {
@@ -33146,7 +33153,14 @@
     ],
     "mechanics": {
       "cost": "5",
-      "category": "sobrenatural"
+      "category": "sobrenatural",
+      "casting_modifiers": [
+        {
+          "sphere": "life",
+          "label_es": "Sanar a otro (Vida)",
+          "weight": -2
+        }
+      ]
     },
     "sources": [
       {
