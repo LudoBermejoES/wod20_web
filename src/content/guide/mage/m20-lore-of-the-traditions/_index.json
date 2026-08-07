@@ -3,7 +3,7 @@
   "line": "mage",
   "title_es": "Mago: El Saber de las Tradiciones",
   "book_title_es": "Mago: El Saber de las Tradiciones",
-  "page_count": 36,
+  "page_count": 35,
   "tree": [
     {
       "block": "front-matter",
@@ -347,23 +347,6 @@
               "title": "Los Viles y Cartas Salvajes",
               "part": "Los Viles y Cartas Salvajes",
               "content_type": "lore"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "block": "cierre",
-      "block_title": "Cierre",
-      "chapters": [
-        {
-          "chapter": "—",
-          "pages": [
-            {
-              "slug": "contraportada",
-              "title": "Contraportada",
-              "part": null,
-              "content_type": "back-matter"
             }
           ]
         }
