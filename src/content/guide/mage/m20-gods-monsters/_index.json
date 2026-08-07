@@ -3,7 +3,7 @@
   "line": "mage",
   "title_es": "Mago: Dioses y Monstruos",
   "book_title_es": "Mago: Dioses y Monstruos",
-  "page_count": 46,
+  "page_count": 49,
   "tree": [
     {
       "block": "preliminares",
@@ -61,7 +61,7 @@
               "slug": "capitulo-uno-durmientes-consortes-cazadores-y-gente-de-la-noche",
               "title": "Capítulo Uno: Durmientes, Consortes, Cazadores y Gente de la Noche",
               "part": null,
-              "content_type": "lore"
+              "content_type": "rule"
             },
             {
               "slug": "durmientes-las-edades-de-la-vida",
@@ -144,7 +144,7 @@
               "slug": "capitulo-dos-constructos-y-familiares",
               "title": "Capítulo Dos: Constructos y Familiares",
               "part": null,
-              "content_type": "lore"
+              "content_type": "rule"
             },
             {
               "slug": "constructos-reanimados",
@@ -180,6 +180,17 @@
               "title": "Capítulo Tres: Cerca de Casa, y Lejos",
               "part": null,
               "content_type": "lore"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Tres: Un Bestiario Bestial",
+          "pages": [
+            {
+              "slug": "capitulo-tres-un-bestiario-bestial",
+              "title": "Capítulo Tres: Un Bestiario Bestial",
+              "part": null,
+              "content_type": "rule"
             },
             {
               "slug": "monstruos-preteritos",
@@ -188,14 +199,20 @@
               "content_type": "lore"
             },
             {
-              "slug": "monstruos-preteritos-jiangshi",
-              "title": "Jiangshi",
+              "slug": "monstruos-preteritos-grootslang",
+              "title": "Grootslang",
               "part": null,
               "content_type": "lore"
             },
             {
-              "slug": "monstruos-preteritos-susurros-del-cielo",
-              "title": "Susurros del Cielo",
+              "slug": "monstruos-preteritos-shisa",
+              "title": "Shisa",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "el-djinn",
+              "title": "El Djinn",
               "part": null,
               "content_type": "lore"
             }
@@ -208,17 +225,17 @@
               "slug": "capitulo-cuatro-entidades-efimeras",
               "title": "Capítulo Cuatro: Entidades Efímeras",
               "part": null,
-              "content_type": "lore"
-            },
-            {
-              "slug": "el-djinn",
-              "title": "El Djinn",
-              "part": null,
-              "content_type": "lore"
+              "content_type": "rule"
             },
             {
               "slug": "entidades-menores",
               "title": "Entidades Menores",
+              "part": "Entidades Menores",
+              "content_type": "lore"
+            },
+            {
+              "slug": "entidades-menores-el-djinn",
+              "title": "El Djinn",
               "part": null,
               "content_type": "lore"
             },
@@ -243,12 +260,6 @@
             {
               "slug": "formas-divinas",
               "title": "Formas Divinas",
-              "part": "Formas Divinas",
-              "content_type": "lore"
-            },
-            {
-              "slug": "formas-divinas-kudu-la-vieja-tortuga",
-              "title": "Kudu, la Vieja Tortuga",
               "part": null,
               "content_type": "lore"
             },
@@ -265,16 +276,28 @@
               "content_type": "lore"
             },
             {
-              "slug": "los-loa-legba-guardian-de-la-encrucijada",
-              "title": "Legba, Guardián de la Encrucijada",
+              "slug": "los-loa-namaka-los-mares-calmos",
+              "title": "Namaka, los Mares Calmos",
               "part": null,
               "content_type": "lore"
             },
             {
-              "slug": "los-loa-shango-el-tronador",
-              "title": "Shango, el Tronador",
+              "slug": "los-loa-susanoo-senor-de-las-tormentas-de-verano",
+              "title": "Susanoo, Señor de las Tormentas de Verano",
               "part": null,
               "content_type": "lore"
+            },
+            {
+              "slug": "los-loa-erinle-abatan-elefante-de-tierra-de-las-aguas-y-la-tierra",
+              "title": "Erinle/Abatan, Elefante de Tierra de las Aguas y la Tierra",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "creacion-de-personajes-companeros",
+              "title": "Creación de Personajes Compañeros",
+              "part": null,
+              "content_type": "rule"
             }
           ]
         },
@@ -284,12 +307,6 @@
             {
               "slug": "capitulo-cinco-creando-personajes",
               "title": "Capítulo Cinco: Creando Personajes",
-              "part": null,
-              "content_type": "rule"
-            },
-            {
-              "slug": "creacion-de-personajes-companeros",
-              "title": "Creación de Personajes Compañeros",
               "part": null,
               "content_type": "rule"
             },
@@ -306,21 +323,27 @@
               "content_type": "rule"
             },
             {
-              "slug": "meritos-defectos-y-ventajas-especiales-dedos-torpes-defecto-fisico-de-2-pts",
-              "title": "Dedos Torpes (Defecto Físico de 2 pts.)",
+              "slug": "meritos-defectos-y-ventajas-especiales-comunicacion",
+              "title": "Comunicación",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "meritos-defectos-y-ventajas-especiales-vinculo-empatico-2-puntos",
-              "title": "Vínculo Empático (2 puntos)",
+              "slug": "meritos-defectos-y-ventajas-especiales-taumivoro-defecto-sobrenatural-de-5-pts",
+              "title": "Taumívoro (Defecto Sobrenatural de 5 pts.)",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "meritos-defectos-y-ventajas-especiales-vision-nocturna-3-puntos",
-              "title": "Méritos, Defectos y Ventajas Especiales: Visión Nocturna (3 puntos)",
-              "part": "Méritos, Defectos y Ventajas Especiales",
+              "slug": "meritos-defectos-y-ventajas-especiales-metodo-para-la-locura",
+              "title": "Método para la Locura",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "meritos-defectos-y-ventajas-especiales-mesmerismo-3-o-6-puntos",
+              "title": "Mesmerismo (3 o 6 puntos)",
+              "part": null,
               "content_type": "rule"
             },
             {
