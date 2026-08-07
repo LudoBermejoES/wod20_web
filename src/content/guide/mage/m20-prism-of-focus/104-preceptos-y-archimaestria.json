@@ -1,0 +1,27 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 104,
+  "slug": "preceptos-y-archimaestria",
+  "block": "alturas-del-poder",
+  "block_title": "Las Alturas del Poder",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Preceptos y Archimaestría",
+  "content_type": "rule",
+  "source_line_range": [
+    5042,
+    5057
+  ],
+  "body_md": "## Preceptos y Archimaestría\n\nLos Preceptos del Paradigma de un mago influyen fuertemente en qué camino termina tomando el mago si llega a Areté 6. Particularmente importantes son los Preceptos de Ascensión, que dan al mago su actitud hacia el extremo más elevado de la magia.\n\nAlcanzar el Conocimiento Pleno - Los magos con este Precepto son los más propensos a convertirse en Ejemplares, y la mayoría del resto se convierte en Archimagos. Es raro que un mago centrado en el conocimiento como objetivo renuncie a la oportunidad de aprender más magia de Esferas por una comprensión más abstracta del Areté.\n\nLa Aniquilación es Libertad - Con el foco puesto en la eventual abnegación del yo, estos magos son los más propensos a tomar el camino de los Oráculos y, en menor medida, el de los Ejemplares que buscan fundirse con una Esfera.\n\nConstruir una Utopía - Casi universalmente, estos magos se convierten en Archimagos, buscando el poder para cambiar el mundo, pero no perderse a sí mismos.\n\nLa Existencia Carece de Sentido - Otro grupo que tiende hacia el camino del Oráculo, aunque no con tanta fuerza. Ver todo como carente de sentido hace que la distinción entre los tres caminos parezca pequeña e insignificante, así que se los ve en los tres.\n\nFusionarse con lo Divino - Casi todos los magos que buscan fundirse con lo Divino toman el camino para convertirse en Oráculo, buscando la Ascensión en sí misma antes que el poder, el conocimiento o cualquier otro atributo de los caminos del Ejemplar y del Archimago.\n\nEl Poder es su Propia Recompensa - Los magos que buscan el poder tienden a ver la elección del camino de forma sencilla: los Archimagos terminan con el poder más amplio y la mayor capacidad para aprovecharlo. Aunque rara vez se encuentran en el camino de los Oráculos, algunos de ellos consideran que los Ejemplares son más poderosos que los Archimagos y toman ese camino en su lugar.",
+  "toc": [],
+  "prev": {
+    "slug": "oraculos",
+    "title": "Oráculos"
+  },
+  "next": {
+    "slug": "arch-esferas",
+    "title": "Arch-Esferas"
+  }
+}

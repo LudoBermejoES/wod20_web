@@ -11,8 +11,8 @@
   "title": "Ejemplares",
   "content_type": "rule",
   "source_line_range": [
-    5046,
-    5051
+    5030,
+    5035
   ],
   "body_md": "## Ejemplares\n\nMás raros que los Archimagos son los Ejemplares. Estos magos se han obsesionado tanto con comprender una única esfera de la magia que esta empieza a consumirlos. Mientras que un Archimago puede aprender esferas de rango 6, un Ejemplar puede aprender una única esfera hasta el rango 10, pero ninguna otra esfera puede ser superior a 5. De hecho, no pueden usar ninguna otra esfera a un nivel superior a 10 menos su esfera ejemplar (la esfera que han elegido encarnar). Así, un personaje con Fuerzas 7 no puede usar Vida 4, pero Vida 3 sí le seguirá funcionando. Además, ya no necesitan usar sus Prácticas para efectos de bajo nivel que solo empleen su esfera ejemplar. En Esfera 6, pueden ignorar el Foco para efectos de rango 2 como máximo; en 7, pueden llegar hasta 4; en 8, hasta 6; en 9, hasta 8; y en 10 para todos los usos, momento en el que ya no pueden usar ninguna otra esfera y han dejado atrás, muy lejos, la humanidad y las perspectivas humanas.\n\nAl principio, los Ejemplares se parecen mucho a los Archimagos. Cuando su esfera ejemplar está solo en 6 o 7, tienden a seguir siendo accesibles para su facción, aunque a menudo distantes, a medida que se vuelven cada vez más ajenos. Más allá de eso, sin embargo, pierden la capacidad de relacionarse con humanos normales, incluso con otros magos. Restan un número de dados igual a su puntuación de esfera ejemplar menos 5 en todas las tiradas sociales que impliquen a seres no vinculados a su esfera ejemplar, como los espíritus del Reino [Sombra](/mage/psychic-phenomenons/sombra) u otros Ejemplares de esa esfera. Como resultado, casi todos los Ejemplares terminan retirándose al Reino [Sombra](/mage/psychic-phenomenons/sombra) correspondiente.",
   "toc": [],

@@ -3,7 +3,7 @@
   "line": "mage",
   "title_es": "M20 Prisma del Foco",
   "book_title_es": "M20 Prisma del Foco",
-  "page_count": 107,
+  "page_count": 108,
   "tree": [
     {
       "block": "front-matter",
@@ -1018,6 +1018,12 @@
             {
               "slug": "oraculos",
               "title": "Oráculos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "preceptos-y-archimaestria",
+              "title": "Preceptos y Archimaestría",
               "part": null,
               "content_type": "rule"
             },

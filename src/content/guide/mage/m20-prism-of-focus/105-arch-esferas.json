@@ -1,7 +1,7 @@
 {
   "book_id": "m20-prism-of-focus",
   "line": "mage",
-  "order": 104,
+  "order": 105,
   "slug": "arch-esferas",
   "block": "alturas-del-poder",
   "block_title": "Las Alturas del Poder",
@@ -62,8 +62,8 @@
     }
   ],
   "prev": {
-    "slug": "oraculos",
-    "title": "Oráculos"
+    "slug": "preceptos-y-archimaestria",
+    "title": "Preceptos y Archimaestría"
   },
   "next": {
     "slug": "a-traves-de-la-lente-del-poder",
