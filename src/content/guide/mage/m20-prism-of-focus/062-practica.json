@@ -1,0 +1,27 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 62,
+  "slug": "practica",
+  "block": "practica",
+  "block_title": "Práctica",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Práctica",
+  "content_type": "rule",
+  "source_line_range": [
+    1562,
+    1571
+  ],
+  "body_md": "# Práctica\n\nLas Prácticas son el Cómo de la Magia. Todo mago tiene al menos una Práctica que usa para llevar a cabo su Magia. Proporciona las herramientas y el marco necesarios para que el mago ejerza su voluntad y cambie la Realidad. Aunque el Paradigma y sus Preceptos influirán en la manifestación de las Prácticas y en cómo piensa el mago, las Prácticas describen lo que el mago hace. Los magos que se vuelven verdaderamente hábiles con una Práctica dada a menudo reciben un apodo basado en ella, y se les llama brujo, artista marcial o alquimista antes que cualquier otra cosa.\n\n\n\nEn M20, las Prácticas son Rasgos binarios: o tienes una Práctica determinada o no la tienes. Aquí añadimos gradaciones: un mago normal (para las excepciones, ver Las Alturas del Poder, pág. 127) tiene una puntuación en cada una de sus Prácticas de hasta 5 puntos. La Práctica puede usarse para realizar efectos de hasta su puntuación. Un Alquimista [novato](/mage/flaws/novato) con un único punto en la Práctica de [Alquimia](/mage/practices/alchemy) no puede transmutar Materia ni preparar un elixir de inmortalidad, por ejemplo, aunque pueda realizar proezas similares con otra Práctica.\n\nEl mago obtiene un punto de Práctica por cada punto de Areté hasta el quinto. En la creación de personaje, los puntos de Práctica cuestan un único punto gratuito cada uno, y más adelante, una Práctica nueva cuesta 3 PX, mientras que aumentar una Práctica existente cuesta la Puntuación Actual. Aunque las Prácticas pueden superar el Areté (el personaje puede conocer la teoría pero no ser aún capaz de llevarla a la práctica), deben tener al menos 2 puntos en Habilidades Asociadas por cada punto de su Práctica.",
+  "toc": [],
+  "prev": {
+    "slug": "todos-somos-dios-es-disfrazado-s",
+    "title": "Todos Somos Dios(es) Disfrazado(s)"
+  },
+  "next": {
+    "slug": "sanctum-y-zonas-de-realidad",
+    "title": "Sanctum y Zonas de Realidad"
+  }
+}

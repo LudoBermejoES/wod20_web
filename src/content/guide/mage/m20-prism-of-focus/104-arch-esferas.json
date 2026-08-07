@@ -1,0 +1,72 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 104,
+  "slug": "arch-esferas",
+  "block": "alturas-del-poder",
+  "block_title": "Las Alturas del Poder",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Arch-Esferas",
+  "content_type": "rule",
+  "source_line_range": [
+    5058,
+    5113
+  ],
+  "body_md": "## Arch-Esferas\n\nLas Arch-Esferas permiten a los magos romper sus limitaciones habituales. La escala, las conjunciones, los éxitos y los requisitos de quintaesencia se desvanecen para los magos que avanzan hacia el reino de las Arch-Esferas. Esto significa que un archimago puede ser extremadamente poderoso de una forma que los maestros no pueden, pero no se acercaría a lo que un Ejemplar puede desplegar en su propio reino. No existe ningún efecto específico que requiera Arch-Esferas, aunque muchas cosas son funcionalmente imposibles sin ellas.\n\nPor cada punto por encima de 5 en una Esfera, elige una Archimaestría. Esto afectará a todo lo que hagan con esa Esfera como Esfera Primaria. Ten en cuenta que los Oráculos nunca pueden obtener una Archimaestría, y los Archimagos solo pueden obtener una por Esfera, dejando que solo los Ejemplares puedan emplear más de una a la vez.\n\n### Área de Efecto\n\nEl mago puede seleccionar como objetivo a todas las personas dentro de un área simultáneamente. Los éxitos necesarios se determinan mediante la tabla de Correspondencia para el [tamaño](/mage/special-advantages/size) del área en lugar del [número de objetivos](/mage/aspects/numero-de-objetivos).\n\n### Contra-contrahechizo\n\nLa magia del Archimago con esta Esfera requiere el doble de éxitos para ser contrarrestada o deshecha.\n\n### Conjuro Doble\n\nEl Archimago puede realizar dos efectos que impliquen esta Esfera simultáneamente.\n\n### Conjunciones Más Fáciles\n\nLos efectos en los que la Arch-Esfera es la Esfera Primaria (determinado a discreción del Narrador) tienen sus requisitos de conjunción reducidos a la mitad, redondeando hacia abajo.\n\n### Quintaesencia Eficiente\n\nLos costes de Quintaesencia y tass se reducen a la mitad, redondeando hacia abajo, y pueden llegar a ser cero. Esto es especialmente apreciado por los Archimagos de Cardinal que pretenden crear Maravillas.\n\nLos Ejemplares pueden adquirir esta Archimaestría varias veces.\n\n### Especialización Extrema\n\nEl Archimago deja de duplicar los 10 al usar su Especialidad. En su lugar, tira dos dados por cada punto de Areté.\n\nLos Ejemplares pueden adquirir esta Archimaestría varias veces.\n\n### Reservas de Dados Mayores\n\nEl Archimago tira Atributo + Habilidad + Areté para las fórmulas.\n\n### Imán de Paradoja\n\nAl lanzar un efecto vulgar con esta Esfera, el Archimago puede hacer que toda la Paradoja acumulada por otros que usen esta Esfera se le aplique a él en lugar de al lanzador. Este efecto dura una escena y no puede cancelarse antes de tiempo.\n\n### Permanencia\n\nEl archimago puede extender permanentemente la [duración](/mage/aspects/duracion) de un efecto sin los éxitos normalmente requeridos, gastando un punto de Fuerza de Voluntad.\n\n### Acceso al Reino Sombra\n\nEl Archimago puede tirar Areté a dificultad 6 para trasladarse de inmediato al Reino [Sombra](/mage/psychic-phenomenons/sombra) de la Esfera en la que posee la Archimaestría.\n\n### Especialización Universal\n\nEl archimago comprende su esfera elegida hasta tal punto que trata todos los efectos que la usan como si su especialidad se aplicara.",
+  "toc": [
+    {
+      "text": "Área de Efecto",
+      "anchor": "area-de-efecto"
+    },
+    {
+      "text": "Contra-contrahechizo",
+      "anchor": "contra-contrahechizo"
+    },
+    {
+      "text": "Conjuro Doble",
+      "anchor": "conjuro-doble"
+    },
+    {
+      "text": "Conjunciones Más Fáciles",
+      "anchor": "conjunciones-mas-faciles"
+    },
+    {
+      "text": "Quintaesencia Eficiente",
+      "anchor": "quintaesencia-eficiente"
+    },
+    {
+      "text": "Especialización Extrema",
+      "anchor": "especializacion-extrema"
+    },
+    {
+      "text": "Reservas de Dados Mayores",
+      "anchor": "reservas-de-dados-mayores"
+    },
+    {
+      "text": "Imán de Paradoja",
+      "anchor": "iman-de-paradoja"
+    },
+    {
+      "text": "Permanencia",
+      "anchor": "permanencia"
+    },
+    {
+      "text": "Acceso al Reino Sombra",
+      "anchor": "acceso-al-reino-sombra"
+    },
+    {
+      "text": "Especialización Universal",
+      "anchor": "especializacion-universal"
+    }
+  ],
+  "prev": {
+    "slug": "oraculos",
+    "title": "Oráculos"
+  },
+  "next": {
+    "slug": "a-traves-de-la-lente-del-poder",
+    "title": "A Través de la Lente del Poder"
+  }
+}

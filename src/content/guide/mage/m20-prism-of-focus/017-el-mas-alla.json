@@ -1,0 +1,36 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 17,
+  "slug": "el-mas-alla",
+  "block": "paradigma",
+  "block_title": "Paradigma",
+  "chapter": null,
+  "part": "El Más Allá",
+  "section": null,
+  "title": "El Más Allá",
+  "content_type": "rule",
+  "source_line_range": [
+    931,
+    950
+  ],
+  "body_md": "### El Más Allá\n\nLa Magia puede investigar muchas cosas extrañas más allá del conocimiento de la humanidad ordinaria. Aun así, los misterios de lo que ocurre cuando una persona muere son difíciles. La evidencia apunta en todas direcciones, lo que lleva a los magos a creer firmemente en una posibilidad u otra, viendo los hechos que justifican su creencia.\n\n#### Reencarnación\n\nBuena parte de la naturaleza son ciclos: el ciclo del agua, el ciclo de la cosecha, incluso la vida misma. La gente se refiere casualmente a los «ciclos de vida» pero rara vez comprende del todo lo que eso significa. La vida no sólo tiene ciclos en el sentido de que la muerte de uno se convierte en la vida de otro, que crece y luego muere y alimenta alguna otra forma de vida. El ciclo se extiende al alma, que regresa para hacerlo de nuevo al completar una vida. Un gran ciclo de reencarnación contiene a todos, y todos viven muchas vidas.\n\nPrácticas Asociadas: [Magia del Caos](/mage/instruments/chaos-magic), [Sabiduría Loca](/mage/practices/crazy-wisdom), [Artes Marciales](/mage/practices/martial-arts), [Chamanismo](/mage/practices/shamanism), [Brujería](/mage/practices/witchcraft), Yoga\n\nPrácticas Limitadas: [Alquimia](/mage/practices/alchemy), Fe, [Hipertecnología](/mage/practices/hypertech), [Ciencia Extraña](/mage/practices/weird-science)\n\n#### YOLO\n\nEsto es todo. No hay segundas oportunidades en la vida. Ya haya nada, el paraíso, o incluso un castigo eterno después de ella, nadie regresa, así que nunca lo sabremos. Aunque puede haber ciclos de reencarnación para los Avatares, ellos no son quienes somos nosotros. Sólo tenemos una oportunidad. Las [Vidas Pasadas](/mage/backgrounds/past-lives) son sólo los débiles ecos de las vidas de otros a través del Avatar, no señales de que nuestras «almas» (si es que existen) hayan sido usadas antes.\n\nPrácticas Asociadas: [Alquimia](/mage/practices/alchemy), Fe, [Hipertecnología](/mage/practices/hypertech), [Ciencia Extraña](/mage/practices/weird-science)\n\nPrácticas Limitadas: [Magia del Caos](/mage/instruments/chaos-magic), [Sabiduría Loca](/mage/practices/crazy-wisdom), [Artes Marciales](/mage/practices/martial-arts), [Chamanismo](/mage/practices/shamanism), [Brujería](/mage/practices/witchcraft), Yoga",
+  "toc": [
+    {
+      "text": "Reencarnación",
+      "anchor": "reencarnacion"
+    },
+    {
+      "text": "YOLO",
+      "anchor": "yolo"
+    }
+  ],
+  "prev": {
+    "slug": "apertura",
+    "title": "Apertura"
+  },
+  "next": {
+    "slug": "paradigmas-de-ejemplo",
+    "title": "Paradigmas de Ejemplo"
+  }
+}

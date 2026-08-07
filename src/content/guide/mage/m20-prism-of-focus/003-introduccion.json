@@ -1,0 +1,27 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 3,
+  "slug": "introduccion",
+  "block": "introduccion",
+  "block_title": "Introducción",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Introducción",
+  "content_type": "rule",
+  "source_line_range": [
+    532,
+    549
+  ],
+  "body_md": "# Introducción\n\nUno de los sistemas novedosos más útiles introducidos en Mage: The Ascension 20th Anniversary Edition es el sistema de Foco. Determinar en qué creen los personajes y cómo practican su magia ha sido durante mucho tiempo uno de los aspectos más nebulosos del sistema, y ha causado no pocos problemas a los jugadores nuevos. En algunas ediciones, las reglas eran demasiado rígidas: se asignaba una herramienta a cada Esfera, y para usar esa Esfera debías emplear esa herramienta, lo que generaba discusiones constantes sobre, por ejemplo, si las Gafas Etéreas deberían funcionar para todos los Efectos de percepción pero no deberían servir para nada más avanzado, a pesar de lo que dijeran las reglas tal como estaban escritas. Para la Edición Revisada, las reglas se relajaron y pasaron a asignar un amplio conjunto de herramientas a cada Tradición y Convención (los Oficios quedaron en gran medida subsumidos en las facciones más grandes en la Revisada), lo que ofrecía cierta [flexibilidad](/mage/special-advantages/flexibility) pero también minimizaba la variación individual. El sistema de M20 divide el problema en Paradigma, Práctica e Instrumento.\n\nEl Paradigma intenta responder por qué el personaje puede hacer magia, la Práctica describe cómo la hace, y los Instrumentos son las herramientas que emplea para poner en práctica su Práctica o Prácticas concretas. Por desgracia, los detalles de este sistema seguían resultando confusos, hasta el punto de necesitar hojas de personaje de 25 páginas para explicar un Foco con el detalle suficiente para jugarlo correctamente. El sistema es demasiado laxo y necesita una [interpretación](/mage/instruments/performance) considerable. Encima de eso, el sistema de Foco, tal como se describe en M20, no se integra bien con otros apartados, como los Sanctum, los trabajos rituales y las Zonas de Realidad. También existen algunas irregularidades con los instrumentos que superan sus límites habituales, con reglas distintas específicamente para Tecnócratas, tecnomantes y Místicos.\n\nEl resto de este libro es un intento de formalizar el Foco, pasando de una estructura general a un conjunto de reglas con tres objetivos:\n\n1. Las reglas deberían ayudar a los jugadores nuevos a comprender las creencias de sus personajes\n2. Las reglas deberían integrarse con otros sistemas y resolver las ambigüedades que haya en ellos\n3. Las reglas deberían funcionar del mismo modo para todos los personajes\n\nA continuación se presenta un resumen de la Creación de Personajes. Los capítulos restantes de este libro son los siguientes:\n\n- El Paradigma presenta los Preceptos y desglosa los Paradigmas de ejemplo de M20, Libro de los Secretos y Book of the Fallen en sus Preceptos Metafísicos, Personales y de Ascensión.\n- Práctica es el capítulo central. Presenta nuevas mecánicas para las Prácticas que las integran en los sistemas del conjunto de Mago y describe cada Práctica en detalle.\n- Por último, Heights of Power presenta nuevas mecánicas para la Archimaestría que sustituyen tanto las Arch-Esferas de Masters of the Art como las reglas de superación del Foco de M20.",
+  "toc": [],
+  "prev": {
+    "slug": "agradecimientos-especiales-a",
+    "title": "Agradecimientos especiales a:"
+  },
+  "next": {
+    "slug": "creacion-de-personajes",
+    "title": "Creación de Personajes"
+  }
+}

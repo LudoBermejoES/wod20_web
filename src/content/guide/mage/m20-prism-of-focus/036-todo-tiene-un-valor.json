@@ -1,0 +1,27 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 36,
+  "slug": "todo-tiene-un-valor",
+  "block": "paradigma",
+  "block_title": "Paradigma",
+  "chapter": null,
+  "part": "Todo Tiene un Valor",
+  "section": null,
+  "title": "Todo Tiene un Valor",
+  "content_type": "rule",
+  "source_line_range": [
+    1195,
+    1208
+  ],
+  "body_md": "### Todo Tiene un Valor\n\nLos ingenuos que creen entender el mundo equiparan el valor con el precio. La verdad es que muchas cosas tienen un valor independiente de lo que la gente pague por ellas, y [todo tiene un valor](/mage/paradigms/everything-has-a-value) que depende de eso. Todo lo que hace un mago manipula el valor de alguna manera. La creación o perfección de las cosas aumenta el valor, la destrucción lo disminuye, e incluso trucos más abstractos desplazan el valor entre cosas o lugares. Con el tiempo, un mago verdaderamente diestro aumentará su valor drásticamente, y los magos más poderosos se convertirán en algunas de las cosas de mayor valor del Telurión.\n\nMetafísico: Fuerzas Insondables en Acción\n\nPersonal: Tengo un Entendimiento Superior\n\nAscensión: El Poder es su Propia Recompensa\n\nPrácticas Asociadas: [Alquimia](/mage/practices/alchemy), [Elementalismo](/mage/practices/elementalism), [Alta Magia Ritual](/mage/practices/high-ritual-magick), [Hipertecnología](/mage/practices/hypertech), [Vigorización](/mage/practices/invigoration), [Maleficia](/mage/practices/maleficia), [Medicina](/mage/practices/medicine-work)\n\nPrácticas Limitadas: [Bardismo](/mage/practices/bardism), [Cibernética](/mage/practices/cybernetics), Fe, [Vínculo Divino](/mage/practices/divine-bond), [Magia Callejera](/mage/practices/gutter-magick), [Chamanismo](/mage/practices/shamanism), [Ciencia Extraña](/mage/practices/weird-science), Yoga",
+  "toc": [],
+  "prev": {
+    "slug": "todos-estan-contra-mi-asi-que-lo-que-haga-esta-justificado",
+    "title": "Todos Están Contra Mí, así que lo que Haga está Justificado"
+  },
+  "next": {
+    "slug": "todo-es-una-ilusion-una-prision-o-un-error",
+    "title": "Todo es una Ilusión, una Prisión o un Error"
+  }
+}

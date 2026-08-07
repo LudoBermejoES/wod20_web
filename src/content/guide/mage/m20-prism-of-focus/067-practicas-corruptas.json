@@ -1,0 +1,27 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 67,
+  "slug": "practicas-corruptas",
+  "block": "practica",
+  "block_title": "Práctica",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Prácticas Corruptas",
+  "content_type": "rule",
+  "source_line_range": [
+    1612,
+    1619
+  ],
+  "body_md": "## Prácticas Corruptas\n\nAunque toda Práctica puede usarse para el mal y para dañar a otros, algunas tienen Sendas de la Mano Izquierda muy transitadas. Estas variantes son versiones corruptas de las Prácticas y las usan más habitualmente los [Nefandos](/mage/affiliations/nephandi), aunque otros magos también se sienten tentados a usarlas y, en ocasiones, lo hacen. Estas Prácticas otorgan algún tipo de beneficio por su uso; de lo contrario, no resultarían tentadoras. Pero el coste de usarlas puede ser severo.\n\nCada vez que un mago usa una Práctica corrupta, debe tirar la puntuación de la Práctica asociada (dificultad 3 + la Esfera más alta usada) para evitar ganar un punto de Resonancia de (Práctica) Corrupta. Si gana un punto que eleva su Resonancia de (Práctica) Corrupta hasta el nivel de su Práctica, la Práctica queda sustituida por la corrupta: ya no puede usarla sin cometer los actos atroces que requiere.\n\nDebe empezar de nuevo desde 0 puntos en la Práctica para eliminarla. Una vez la haya entrenado hasta el punto de que sea al menos tan alta como la Práctica corrupta, puede sustituir de nuevo la Práctica corrupta por la original. Por desgracia, muchos magos encuentran más fácil ceder, y a menudo incluso Caen, una vez que se vuelven dependientes del poder corrupto al que han accedido.",
+  "toc": [],
+  "prev": {
+    "slug": "practicas-especializadas",
+    "title": "Prácticas Especializadas"
+  },
+  "next": {
+    "slug": "partes-de-una-practica",
+    "title": "Partes de una Práctica"
+  }
+}

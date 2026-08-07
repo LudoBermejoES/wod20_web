@@ -1,0 +1,27 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 8,
+  "slug": "paradigma",
+  "block": "paradigma",
+  "block_title": "Paradigma",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Paradigma",
+  "content_type": "rule",
+  "source_line_range": [
+    685,
+    696
+  ],
+  "body_md": "# Paradigma\n\nBajo todo lo demás en el Foco se encuentra el Paradigma. Este describe cómo cree el mago que funciona el mundo. Dado el tipo de cosas que un mago puede hacer y con las que se encontrará, el modo en que ve el mundo tiende a ser bastante diferente del de cualquier jugador, y a menudo una de las cosas más difíciles para un jugador [novato](/mage/flaws/novato) es comprender la visión del mundo de su personaje.\n\nIntentar concebir un Paradigma en su conjunto puede resultar abrumador. El personaje necesita tener opiniones sobre el Despertar, los Avatares, la Ascensión, las Esferas y la naturaleza última de la Realidad. Para que esto resulte menos desalentador, el Paradigma puede desglosarse en una serie de afirmaciones en las que el personaje cree profundamente, y haría falta circunstancias extremas para hacerle cambiar de opinión sobre cualquiera de ellas. Este tipo de afirmaciones se llaman Preceptos o Axiomas.\n\nEn la creación del personaje, un mago debe tener al menos tres Preceptos: un Precepto Metafísico que describa la naturaleza de la Realidad, un Precepto Personal que explique por qué es capaz de hacer Magia, y un Precepto de Ascensión que defina el propósito último de la Magia. Se pueden adquirir Preceptos adicionales de forma gratuita en cualquier momento. Los Preceptos adicionales suelen obtenerse durante las Búsquedas o poco después de ellas, y el Areté no puede superar el número de Preceptos hasta Areté 6 (véase p. 127).\n\nPuesto que los Preceptos son afirmaciones de creencia, las Organizaciones también pueden tenerlos. Esto puede dar lugar a situaciones en las que los preceptos de un personaje contradigan los de una cábala, Capilla, Facción o Tradición de la que forme parte. Esta tensión puede provocar conflictos internos, traiciones y momentos de introspección. La clave del éxito de una organización Despertada es imponer la conformidad, como hace la Tecnocracia, o abrazar el pluralismo, como hacen las Tradiciones. Es probable que la Alianza Dispar viva o muera según su capacidad para hacer esto.\n\nLos Preceptos tienen implicaciones para la Práctica del mago que cree en ellos. Cada Precepto tiene una lista de Prácticas Asociadas y una lista de Prácticas Limitadas. Al emplear una Práctica asociada a algún Precepto del Paradigma del mago, las dificultades mágicas se reducen en uno. Las Prácticas Limitadas, por el contrario, tienen la dificultad aumentada en uno. Si una Práctica está asociada a un Precepto pero limitada por otro, no recibe ni bonificación ni penalización. Además, la Práctica Especializada de la facción del mago (p. 32) siempre se considera una Práctica Asociada para él.",
+  "toc": [],
+  "prev": {
+    "slug": "preceptos",
+    "title": "Preceptos"
+  },
+  "next": {
+    "slug": "preceptos-de-ejemplo",
+    "title": "Preceptos de Ejemplo"
+  }
+}

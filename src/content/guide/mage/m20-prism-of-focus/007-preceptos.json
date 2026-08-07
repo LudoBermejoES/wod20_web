@@ -1,0 +1,32 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 7,
+  "slug": "preceptos",
+  "block": "introduccion",
+  "block_title": "Introducción",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Preceptos",
+  "content_type": "rule",
+  "source_line_range": [
+    660,
+    684
+  ],
+  "body_md": "## Preceptos\n\nA continuación se presenta una lista de Preceptos de ejemplo. Todos los Paradigmas de ejemplo de M20, Libro de los Secretos y Book of the Fallen pueden representarse de este modo (ver págs. 20-29), y muchos pueden combinarse y mezclarse de otras formas. Primero aparecen los que responden a las tres preguntas centrales, y después una selección de otros que pueden aclarar diferentes aspectos de las creencias del personaje sobre el World of Darkness.\n\nPreceptos Metafísicos: Un Universo Racional, Como Arriba, Así Abajo, Caída en Desgracia, La Realidad Es una Mentira, Lo Divino Es Real, Fuerzas Insondables en Acción\n\nPreceptos Personales: Soy el Elegido, No Tengo Límites, Soy Especial, Tengo una Comprensión Superior\n\nPreceptos de Ascensión: Alcanzar el Conocimiento Total, La Aniquilación Es Libertad, Construir una Utopía, La Existencia Carece de Sentido, Fundirse con lo Divino, El Poder Es su Propia Recompensa\n\nRol Social: Yo Ilumino, Yo Gobierno, Yo Sirvo\n\nEpistemología: Percepciones Místicas, Experimentación Científica, Revelaciones Divinas\n\nApertura: Paradigma Cerrado, Paradigma Jerárquico, Paradigma Abierto\n\nVida después de la muerte: Reencarnación, YOLO\n\n### Duru Bardakçi, Ejemplar Eutánatos\n\nDuru Bardakçi es un personaje Eutánatos que se sumergió demasiado hondo. Su jugador quiso que estuviera fascinado por los misterios de la Entropía y el [Destino](/mage/backgrounds/destiny), y empezó con un Paradigma de [Orden Divino y Caos Terrenal](/mage/paradigms/divine-order-and-earthly-chaos). Esto le dio el Precepto Metafísico Lo Divino Es Real, el Precepto Personal Tengo una Comprensión Superior y el Precepto de Ascensión Alcanzar el Conocimiento Total, poniéndolo pronto en el camino de convertirse en Ejemplar. Su jugador decidió que aprende de las Percepciones Místicas, pero que tiene un Paradigma Abierto y cree firmemente en la Reencarnación.\n\nEl jugador de Duru decidió que no le interesaba tanto la Práctica de Cuidado de la Rueda (Yoga) y en su lugar se centró en la [Alta Magia Ritual](/mage/practices/high-ritual-magick), aunque con un giro propio de Mago de la Muerte turco. Empezaron con [Alta Magia Ritual](/mage/practices/high-ritual-magick) 3 y la subieron a 4 con el Areté antes de volcarse hacia la [Magia del caos](/mage/instruments/chaos-magic), que elevaron a 6 con PX e incrementos de Areté. Al elegir el camino del Ejemplar de Entropía, Duru ha empezado a perder su identidad. Sin embargo, se ha sumergido tan profundamente en los misterios de la Esfera que ha adoptado las Archimaestrías de Área de Efecto y Especialización Extrema ([Destino](/mage/backgrounds/destiny)) para igualar su puntuación de Entropía 7.",
+  "toc": [
+    {
+      "text": "Duru Bardakçi, Ejemplar Eutánatos",
+      "anchor": "duru-bardakci-ejemplar-eutanatos"
+    }
+  ],
+  "prev": {
+    "slug": "practicas",
+    "title": "Prácticas"
+  },
+  "next": {
+    "slug": "paradigma",
+    "title": "Paradigma"
+  }
+}

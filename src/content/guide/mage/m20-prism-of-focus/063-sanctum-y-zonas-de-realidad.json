@@ -1,0 +1,32 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 63,
+  "slug": "sanctum-y-zonas-de-realidad",
+  "block": "practica",
+  "block_title": "Práctica",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Sanctum y Zonas de Realidad",
+  "content_type": "rule",
+  "source_line_range": [
+    1572,
+    1585
+  ],
+  "body_md": "## Sanctum y Zonas de Realidad\n\nEste nuevo modelo para las Prácticas puede aclarar los Sancta y las Zonas de Realidad: los lugares donde la Magia funciona de forma diferente. La desviación de estas localizaciones respecto a la Realidad base puede medirse en función de qué Prácticas habilitan y cuáles penalizan.\n\n### Habilidades Eliminadas\n\nEn aras de la coherencia, deberían eliminarse dos Habilidades Secundarias. Se trata de [Hipertecnología](/mage/practices/hypertech) y Do, ambas sustituidas por las Prácticas homónimas. Ambas representan Prácticas Mágicas más que habilidades mundanas, ya que los Durmientes no pueden aprender realmente a usar ninguna de estas dos Habilidades.\n\nEl Trasfondo Sanctum representa muchos aspectos de un espacio que controla el mago. Entre ellos están lo bien surtido que está el espacio y lo adecuado que resulta para los trabajos del mago. Con estas reglas, un Sanctum también obtiene un punto en una Práctica por cada punto del Trasfondo. El Sanctum incluirá los materiales básicos necesarios para esa Práctica hasta ese rango. Así, un Sanctum con [Hipertecnología](/mage/practices/hypertech) 2 puede sostener el uso de efectos de segundo punto mediante [Hipertecnología](/mage/practices/hypertech), pero no otros más fuertes. Además de incluir las herramientas necesarias para usar la Práctica, la Magia que permanece dentro del Sanctum usando esa Práctica siempre es coincidente. De manera similar, por cada punto de Sanctum, se puede convertir un punto de una Práctica distinta en anatema para el espacio, haciendo que todos los trabajos que la usen con Esferas de rango 6 o superior sean vulgares. Un Sanctum opuesto a [Brujería](/mage/practices/witchcraft) 3 hace que los efectos de Vida 3 realizados con [Brujería](/mage/practices/witchcraft) para curar a otros sean vulgares, pero los efectos de Vida 2 como Curarse a Uno Mismo siguen siendo vulgares o coincidentes tal y como lo son en la Realidad mundana.\n\nLas Zonas de Realidad funcionan de forma similar. Cada una tiene una lista de Prácticas puntuadas de -5 a 5, donde los valores positivos hacen coincidentes los usos de bajo nivel de la Práctica y los valores negativos hacen vulgares los usos de alto nivel.\n\nUna Realidad localizada, quizá en torno a un club de [Huecos](/mage/affiliations/hollow-ones), podría tener [Magia Callejera](/mage/practices/gutter-magick) 4, permitiendo a los locales usar toda su Magia preferida salvo la más poderosa sin temor a la Paradoja, junto con [Hipertecnología](/mage/practices/hypertech) -3, haciendo vulgares todos los usos de rango 3 o superior, y fortificando la localización frente a la Tecnocracia.",
+  "toc": [
+    {
+      "text": "Habilidades Eliminadas",
+      "anchor": "habilidades-eliminadas"
+    }
+  ],
+  "prev": {
+    "slug": "practica",
+    "title": "Práctica"
+  },
+  "next": {
+    "slug": "rituales",
+    "title": "Rituales"
+  }
+}

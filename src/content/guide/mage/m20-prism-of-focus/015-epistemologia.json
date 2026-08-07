@@ -1,0 +1,40 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 15,
+  "slug": "epistemologia",
+  "block": "paradigma",
+  "block_title": "Paradigma",
+  "chapter": null,
+  "part": "Epistemología",
+  "section": null,
+  "title": "Epistemología",
+  "content_type": "rule",
+  "source_line_range": [
+    875,
+    902
+  ],
+  "body_md": "### Epistemología\n\nUna cuestión fundamental en la Guerra de Ascensión es la naturaleza del conocimiento. Para algunos magos, la cuestión no importa. Aprenden cómo pueden a medida que avanzan. Otros creen firmemente que sólo su conocimiento es válido y que todos los demás deberían subordinarse a él.\n\n#### Percepciones Místicas\n\nAdquirir nuevo conocimiento mágico es algo delicado. Se encuentra en algún punto entre lo racional y lo irracional, lo físico y lo espiritual. Los místicos a veces obtienen conocimiento a través de una investigación minuciosa y a veces a través de saltos de intuición extraños. Aunque el conocimiento y el estudio son esenciales, la intuición también es crucial, con saltos lógicos incluso en las obras místicas más críticas y venerables que resultan extraños para el no iniciado. Los tutores pueden guiar, pero sólo hasta el punto en que el estudiante debe dar el salto por sí mismo y obtener su propia percepción.\n\nPrácticas Asociadas: [Alquimia](/mage/practices/alchemy), [Magia del Caos](/mage/instruments/chaos-magic), [Sabiduría Loca](/mage/practices/crazy-wisdom), [Alta Magia Ritual](/mage/practices/high-ritual-magick), [Brujería](/mage/practices/witchcraft)\n\nPrácticas Limitadas: [Cibernética](/mage/practices/cybernetics), Fe, [Hipertecnología](/mage/practices/hypertech), [Control de Medios](/mage/practices/media-control)\n\n#### Experimentación Científica\n\nLa ciencia es un proceso exigente y meticuloso, cuyo objetivo es arrancar el conocimiento del puño cerrado del propio Universo. Todo está sujeto a investigación tanto mediante la especulación teórica como mediante la experimentación directa. Aunque ayuda, no es necesario realizar experimentos personalmente para adquirir conocimiento científico. La mayoría de las veces, las teorías y los datos se transmiten a través de profesores y libros. Los científicos usan estas técnicas para estudiar el mundo natural. Los magos que creen en la ciencia pueden llevar sus investigaciones más allá de ella y hacia lo sobrenatural.\n\nPrácticas Asociadas: [Alquimia](/mage/practices/alchemy), [Artesanía](/mage/practices/craftwork), [Cibernética](/mage/practices/cybernetics), [Alta Magia Ritual](/mage/practices/high-ritual-magick), [Hipertecnología](/mage/practices/hypertech), [Ciencia Extraña](/mage/practices/weird-science)\n\nPrácticas Limitadas: [Magia del Caos](/mage/instruments/chaos-magic), [Sabiduría Loca](/mage/practices/crazy-wisdom), Fe, [Maleficia](/mage/practices/maleficia), [Chamanismo](/mage/practices/shamanism), [Brujería](/mage/practices/witchcraft)\n\n#### Revelaciones Divinas\n\nPara algunos magos, ninguna cantidad de estudio o práctica puede realmente otorgar conocimiento. El nuevo conocimiento sólo puede provenir de una [revelación](/mage/sphere-effects/revelation) directa de lo Divino. Las revelaciones de otros pueden ayudar a comprender las propias del mago, pero sólo en el contexto de lo que ellos mismos han experimentado. Los libros, aparte de los textos sagrados, tienen menos valor para estos magos, y el papel principal de los maestros es aprender técnicas para interpretar las visiones a menudo inescrutables que reciben.\n\nPrácticas Asociadas: [Sabiduría Loca](/mage/practices/crazy-wisdom), Fe, [Vínculo Divino](/mage/practices/divine-bond), [Maleficia](/mage/practices/maleficia), [Chamanismo](/mage/practices/shamanism)\n\nPrácticas Limitadas: [Alquimia](/mage/practices/alchemy), [Alta Magia Ritual](/mage/practices/high-ritual-magick), [Hipertecnología](/mage/practices/hypertech), [Artes Marciales](/mage/practices/martial-arts), [Ciencia Extraña](/mage/practices/weird-science)",
+  "toc": [
+    {
+      "text": "Percepciones Místicas",
+      "anchor": "percepciones-misticas"
+    },
+    {
+      "text": "Experimentación Científica",
+      "anchor": "experimentacion-cientifica"
+    },
+    {
+      "text": "Revelaciones Divinas",
+      "anchor": "revelaciones-divinas"
+    }
+  ],
+  "prev": {
+    "slug": "rol-social",
+    "title": "Rol Social"
+  },
+  "next": {
+    "slug": "apertura",
+    "title": "Apertura"
+  }
+}

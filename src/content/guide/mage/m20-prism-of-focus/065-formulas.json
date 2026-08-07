@@ -1,0 +1,27 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 65,
+  "slug": "formulas",
+  "block": "practica",
+  "block_title": "Práctica",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Fórmulas",
+  "content_type": "rule",
+  "source_line_range": [
+    1598,
+    1605
+  ],
+  "body_md": "## Fórmulas\n\nIgual que los rituales ganan estructura y beneficios al vincularse a las Prácticas, también lo hacen los efectos menores llamados fórmulas. Una fórmula es un efecto que un mago ha practicado y refinado hasta el punto de poder realizarlo exactamente de la misma manera cada vez. Este refinamiento también otorga otros beneficios, haciendo que las fórmulas sean, en promedio, más eficaces que los efectos que el mago improvisa sobre la marcha.\n\nPara crear una fórmula, elige un efecto, las Esferas necesarias para realizarlo y la mecánica de lo que hace. Después asígnalo a una Práctica que el personaje tenga y que sea lo bastante alta como para realizar el efecto. Elige con precisión cómo usa el personaje la Práctica para realizar la fórmula, incluyendo los instrumentos usados y cómo se usan. Finalmente, se elige una reserva de dados formada por un Atributo y una Habilidad relevantes para la descripción. La Habilidad debe estar asociada a la Práctica elegida. Al realizar la fórmula, en lugar de Areté, el mago tira su Atributo + Habilidad.\n\nEl coste de la fórmula se fija según el número de puntos de Esfera implicados. Así, un efecto que use Vida 3, Materia 3 y Cardinal 2 para conjurar comida comestible costaría 8. Este coste se reduce a la mitad cuando el mago aprende la fórmula de un grimorio o un maestro, aunque el rango del [Mentor](/mage/backgrounds/mentor), la [Biblioteca](/mage/backgrounds/library) o el Grimorio debe ser al menos uno más alto que el nivel de Esfera más alto de la fórmula. Un personaje comienza la partida con 6 puntos de fórmulas, y pueden comprarse más puntos a razón de 4 por un punto gratuito o 3 por un Punto de Experiencia.",
+  "toc": [],
+  "prev": {
+    "slug": "rituales",
+    "title": "Rituales"
+  },
+  "next": {
+    "slug": "practicas-especializadas",
+    "title": "Prácticas Especializadas"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 105,
+  "slug": "a-traves-de-la-lente-del-poder",
+  "block": "alturas-del-poder",
+  "block_title": "Las Alturas del Poder",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "A Través de la Lente del Poder",
+  "content_type": "rule",
+  "source_line_range": [
+    5114,
+    5117
+  ],
+  "body_md": "## A Través de la Lente del Poder\n\nEl Foco es un elemento central de Mago, aunque siempre ha sido difícil de concretar mecánicamente. M20 dio pasos importantes al separar tres aspectos de este: Paradigma, Práctica e Instrumentos. A pesar de ello, seguía confundiendo a los jugadores y se sentía separado del resto de las mecánicas del juego. En Prism of Focus, el Foco se asienta sobre una base más sólida y se integra en el resto de los sistemas de juego.",
+  "toc": [],
+  "prev": {
+    "slug": "arch-esferas",
+    "title": "Arch-Esferas"
+  },
+  "next": {
+    "slug": "desvelando-el-espectro-de-la-realidad",
+    "title": "Desvelando el Espectro de la Realidad"
+  }
+}

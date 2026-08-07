@@ -1,0 +1,27 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 18,
+  "slug": "paradigmas-de-ejemplo",
+  "block": "paradigma",
+  "block_title": "Paradigma",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Paradigmas de Ejemplo",
+  "content_type": "reference",
+  "source_line_range": [
+    951,
+    952
+  ],
+  "body_md": "## Paradigmas de Ejemplo",
+  "toc": [],
+  "prev": {
+    "slug": "el-mas-alla",
+    "title": "El Más Allá"
+  },
+  "next": {
+    "slug": "una-realidad-holografica",
+    "title": "Una Realidad Holográfica"
+  }
+}

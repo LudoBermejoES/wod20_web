@@ -1,0 +1,27 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 64,
+  "slug": "rituales",
+  "block": "practica",
+  "block_title": "Práctica",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Rituales",
+  "content_type": "rule",
+  "source_line_range": [
+    1586,
+    1597
+  ],
+  "body_md": "## Rituales\n\nPara que un grupo de magos se reúna y cree un gran trabajo se requiere un lenguaje común. Un grupo capaz de trabajar bien en conjunto puede hacer cosas que ninguno de sus miembros podría hacer por sí solo. Las Prácticas proporcionan este lenguaje común; lo bien que los participantes lo hablan determina su papel en el ritual.\n\nAntes de comenzar, se elige un Maestro del Ritual. Este mago debe coordinar el ritual para asegurarse de que todos hacen su parte correctamente. Cualesquiera que sean sus Esferas, suele ser el mago con la puntuación más alta en la Práctica que se usará para realizar el ritual. Con las aportaciones de los demás implicados, el Maestro del Ritual diseña el ritual, y su Práctica x Fuerza de Voluntad determina el número máximo de éxitos que el grupo puede lograr.\n\nDespués del Maestro del Ritual, el papel más sencillo recae en los participantes sin puntos en la Práctica. Mientras hagan lo que el Maestro del Ritual les diga, incluyendo las tiradas mundanas apropiadas que puedan usar las Habilidades Asociadas de la Práctica, añaden un éxito al total del ritual cada uno.\n\nLos magos con puntos en la Práctica, sin embargo, pueden hacer más. Lo primero que aportan son sus Esferas. Cualesquiera que sean los requisitos de Esfera del ritual, algún participante debe tener cada Esfera y la capacidad de usarla con la Práctica apropiada. La otra gran aportación es que pueden tirar su Areté, hasta un máximo igual a su puntuación de Práctica, incluyendo el gasto de Fuerza de Voluntad y Quintaesencia.\n\nPor ejemplo, una cábala formada por Michael, un Hermético, Paula, una Corista, y Susan, una Eterita, quieren crear una bola de fuego masiva que requiere Fuerzas 3 y Cardinal 2. Deciden que lo harán con [Alta Magia Ritual](/mage/practices/high-ritual-magick). Michael tiene Fuerzas 3 y [Alta Magia Ritual](/mage/practices/high-ritual-magick) 3, así que es elegido Maestro del Ritual y aporta Fuerzas. Paula tiene Cardinal 3 pero solo [Alta Magia Ritual](/mage/practices/high-ritual-magick) 2, lo cual es suficiente para contribuir al requisito de Cardinal 2 del efecto. Susan, sin embargo, es científica y no ha estudiado [Alta Magia Ritual](/mage/practices/high-ritual-magick). Por [fortuna](/mage/hedge-paths/fortuna), puede seguir instrucciones y añadirá un único éxito al ritual ayudando. Cada vez que tienen la oportunidad de tirar, Michael tira su Areté de 3 y Paula tira dos dados porque, aunque también tiene Areté 3, su puntuación de [Alta Magia Ritual](/mage/practices/high-ritual-magick) de 2 le impide aportarlo todo para ayudar. Susan, entretanto, no tira nada pero ayuda a los demás a concentrarse. Finalmente, con la Fuerza de Voluntad 6 de Michael, este puede mantener el ritual unido lo bastante bien como para que la cábala logre 18 éxitos si tiran suficientemente bien.",
+  "toc": [],
+  "prev": {
+    "slug": "sanctum-y-zonas-de-realidad",
+    "title": "Sanctum y Zonas de Realidad"
+  },
+  "next": {
+    "slug": "formulas",
+    "title": "Fórmulas"
+  }
+}

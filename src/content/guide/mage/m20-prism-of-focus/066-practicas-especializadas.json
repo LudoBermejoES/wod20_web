@@ -1,0 +1,27 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 66,
+  "slug": "practicas-especializadas",
+  "block": "practica",
+  "block_title": "Práctica",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Prácticas Especializadas",
+  "content_type": "rule",
+  "source_line_range": [
+    1606,
+    1611
+  ],
+  "body_md": "## Prácticas Especializadas\n\nAlgunas Prácticas no están disponibles para que las aprenda cualquier mago. La mayoría de Tradiciones, Convenciones y Oficios han desarrollado una Práctica Especializada. Se trata de versiones refinadas de Prácticas más comunes que varían en algunos aspectos y otorgan algún beneficio adicional. Un mago puede aprender fórmulas vinculadas a la Práctica base de cualquier Práctica especializada que conozca y participar en rituales usando la Práctica base al nivel de su Práctica especializada. Sin embargo, no puede usar el beneficio adicional cuando lo hace. De manera similar, los Sancta y las Zonas de Realidad interactúan con la Práctica especializada como si fuera la Práctica base.\n\nLas Prácticas Especializadas normalmente solo pueden aprenderlas los miembros iniciados de una Facción, y a menudo son la Práctica principal que usan.",
+  "toc": [],
+  "prev": {
+    "slug": "formulas",
+    "title": "Fórmulas"
+  },
+  "next": {
+    "slug": "practicas-corruptas",
+    "title": "Prácticas Corruptas"
+  }
+}

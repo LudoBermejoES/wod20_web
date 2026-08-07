@@ -1,0 +1,40 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 14,
+  "slug": "rol-social",
+  "block": "paradigma",
+  "block_title": "Paradigma",
+  "chapter": null,
+  "part": "Rol Social",
+  "section": null,
+  "title": "Rol Social",
+  "content_type": "rule",
+  "source_line_range": [
+    847,
+    874
+  ],
+  "body_md": "### Rol Social\n\nAlgunos magos tienen creencias profundamente arraigadas sobre el papel de un mago en la sociedad. Para algunos, incluso llega al nivel de un Precepto. Para estos magos, gobernar y servir no es simplemente cómo se relacionan con la sociedad Durmiente más amplia, sino una parte de su comprensión mística del mundo.\n\n#### Yo Ilumino\n\nNi gobernante ni sirviente, el papel del mago en la sociedad es desvelar verdades y arrojar luz sobre lo oculto. Esto rara vez hace popular al mago, especialmente entre quienes están en el poder, pero es un Precepto especialmente popular en el mundo moderno entre los magos de inclinación científica. Estos magos no simplemente buscan el conocimiento. Lo hacen público e intentan asegurarse de que llegue a manos de los Durmientes para que puedan construir vidas mejores usándolo.\n\nPrácticas Asociadas: [Alquimia](/mage/practices/alchemy), [Caridad](/mage/practices/charity), Fe, [Alta Magia Ritual](/mage/practices/high-ritual-magick), [Hipertecnología](/mage/practices/hypertech)\n\nPrácticas Limitadas: [Animalismo](/mage/practices/animalism), [Apropiación](/mage/practices/appropriation), [Maleficia](/mage/practices/maleficia), [Control de Medios](/mage/practices/media-control), [Psiónica](/mage/practices/psionics)\n\n#### Yo Gobierno\n\nLa Magia naturalmente sitúa a los magos en la cima de la jerarquía. Si todo va como debe, los magos débiles se someten a los magos poderosos, los Durmientes se someten a todos los magos, y todos conocen su lugar. Entonces corresponde a los poderosos gobernar como consideren oportuno. Pueden preferir ser benévolos, mejorando la vida de sus inferiores. O pueden en cambio enriquecerse con dinero, poder y conocimiento. La clave es que ellos eligen, como los legítimos gobernantes del mundo.\n\nPrácticas Asociadas: [Alquimia](/mage/practices/alchemy), Arte del Deseo, [Dominio](/mage/practices/dominion), [Alta Magia Ritual](/mage/practices/high-ritual-magick), [Control de Medios](/mage/practices/media-control)\n\nPrácticas Limitadas: [Caridad](/mage/practices/charity), Fe, [Mediumnidad](/mage/practices/mediumship), [Chamanismo](/mage/practices/shamanism), [Brujería](/mage/practices/witchcraft)\n\n#### Yo Sirvo\n\nEl papel del mago es servir a las masas. Es mejor no usar la Magia para fines egoístas. En cambio, existe para ser usada en beneficio de otros. Los magos con esta creencia pueden abarcar desde voluntarios abnegados hasta poderosos tipos de noblesse oblige que consiguen mirar por encima del hombro a aquellos a quienes dicen, y a menudo creen, servir. Aun así, otros no sirven a las masas sino que ven seres superiores ante los que están obligados, incluyendo poderosos Umbrole e incluso a los Amos Oscuros de los [Nefandos](/mage/affiliations/nephandi).\n\nPrácticas Asociadas: [Caridad](/mage/practices/charity), Fe, [Mediumnidad](/mage/practices/mediumship), [Chamanismo](/mage/practices/shamanism), [Brujería](/mage/practices/witchcraft)\n\nPrácticas Limitadas: [Alquimia](/mage/practices/alchemy), Arte del Deseo, [Dominio](/mage/practices/dominion), [Alta Magia Ritual](/mage/practices/high-ritual-magick), [Control de Medios](/mage/practices/media-control)",
+  "toc": [
+    {
+      "text": "Yo Ilumino",
+      "anchor": "yo-ilumino"
+    },
+    {
+      "text": "Yo Gobierno",
+      "anchor": "yo-gobierno"
+    },
+    {
+      "text": "Yo Sirvo",
+      "anchor": "yo-sirvo"
+    }
+  ],
+  "prev": {
+    "slug": "otros-preceptos",
+    "title": "Otros Preceptos"
+  },
+  "next": {
+    "slug": "epistemologia",
+    "title": "Epistemología"
+  }
+}

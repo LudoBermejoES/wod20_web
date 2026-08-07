@@ -1,0 +1,44 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 11,
+  "slug": "preceptos-personales",
+  "block": "paradigma",
+  "block_title": "Paradigma",
+  "chapter": null,
+  "part": "Preceptos Personales",
+  "section": null,
+  "title": "Preceptos Personales",
+  "content_type": "rule",
+  "source_line_range": [
+    753,
+    788
+  ],
+  "body_md": "### Preceptos Personales\n\nAunque el Precepto Metafísico explica por qué existe la Magia en absoluto, el Precepto Personal se centra en por qué el mago puede usarla y otros no. Incluso si el Precepto Metafísico describe un universo en el que la Magia está disponible para todos, el Precepto Personal debe dar cuenta del hecho de que la mayoría de la gente son Durmientes. De algún modo, los magos destacan y pueden hacer cosas que otros no pueden, y un mago debe creer algo sobre por qué es así.\n\n#### Soy Elegido\n\nLa Magia no es innata ni se aprende de forma independiente. Algo, ya sea Dios, un demonio o alguna fuerza incomprensible con un poder muy superior al de la humanidad, elige a las personas para dotarlas de poder. A veces las razones serán evidentes, otras veces no en absoluto, pero estas personas dotadas de poder deben su poder a quien o lo que sea que las eligió, y aunque lo intenten, nunca pueden olvidarlo.\n\nPrácticas Asociadas: [Cibernética](/mage/practices/cybernetics), [Vínculo Divino](/mage/practices/divine-bond), [Artes Marciales](/mage/practices/martial-arts), [Mediumnidad](/mage/practices/mediumship), [Chamanismo](/mage/practices/shamanism), [Brujería](/mage/practices/witchcraft)\n\nPrácticas Limitadas: [Alquimia](/mage/practices/alchemy), Arte del Deseo, [Elementalismo](/mage/practices/elementalism), [Alta Magia Ritual](/mage/practices/high-ritual-magick), [Hipertecnología](/mage/practices/hypertech), [Vigorización](/mage/practices/invigoration)\n\n#### No Tengo Límites\n\nHay algo que retiene a la gente. No alcanzan su verdadero potencial por razones internas o externas. El mago se ríe de estas limitaciones. La física, la moralidad, un demiurgo malévolo, todo son retos a superar, pero un mago puede y debe superarlos. No permiten que nada los detenga mientras avanzan y se niegan a estar limitados.\n\nPrácticas Asociadas: [Sabiduría Loca](/mage/practices/crazy-wisdom), [Alta Magia Ritual](/mage/practices/high-ritual-magick), [Vigorización](/mage/practices/invigoration), [Psiónica](/mage/practices/psionics), [Ciencia Extraña](/mage/practices/weird-science)\n\nPrácticas Limitadas: [Artesanía](/mage/practices/craftwork), [Artes Marciales](/mage/practices/martial-arts), [Brujería](/mage/practices/witchcraft)\n\n#### Soy Especial\n\nHay algo en el mago que lo distingue. Es algo intrínseco, tal vez la genética, la fuerza de voluntad, o haber sido mordido por una araña radiactiva. Sea lo que sea, hace especial al mago, permanentemente diferente de los Durmientes. Lo que hace especial al mago casi invariablemente se convierte en una parte intrínseca de su identidad, si no lo era ya antes de su Despertar.\n\nPrácticas Asociadas: [Bardismo](/mage/practices/bardism), [Dominio](/mage/practices/dominion), [Elementalismo](/mage/practices/elementalism), [Psiónica](/mage/practices/psionics), [Chamanismo](/mage/practices/shamanism)\n\nPrácticas Limitadas: [Magia del Caos](/mage/instruments/chaos-magic), [Magia Callejera](/mage/practices/gutter-magick), [Mediumnidad](/mage/practices/mediumship)\n\n#### Tengo un Entendimiento Superior\n\nUno de los Preceptos más generosos hacia los Durmientes: los magos que creen que su poder proviene de su mayor conocimiento y comprensión a menudo intentan difundir ese entendimiento. La comprensión podría tomar la forma de una epifanía religiosa, años y años de estudio científico o esotérico, o incluso, para algunos magos más jóvenes, un «truco raro» que les permite romper las leyes habituales de la física.\n\nPrácticas Asociadas: [Alquimia](/mage/practices/alchemy), [Sabiduría Loca](/mage/practices/crazy-wisdom), [Hipertecnología](/mage/practices/hypertech), [Medicina](/mage/practices/medicine-work), [Hackeo de la Realidad](/mage/practices/reality-hacking)\n\nPrácticas Limitadas: [Bardismo](/mage/practices/bardism), [Vínculo Divino](/mage/practices/divine-bond), [Magia Callejera](/mage/practices/gutter-magick), [Psiónica](/mage/practices/psionics)",
+  "toc": [
+    {
+      "text": "Soy Elegido",
+      "anchor": "soy-elegido"
+    },
+    {
+      "text": "No Tengo Límites",
+      "anchor": "no-tengo-limites"
+    },
+    {
+      "text": "Soy Especial",
+      "anchor": "soy-especial"
+    },
+    {
+      "text": "Tengo un Entendimiento Superior",
+      "anchor": "tengo-un-entendimiento-superior"
+    }
+  ],
+  "prev": {
+    "slug": "preceptos-metafisicos",
+    "title": "Preceptos Metafísicos"
+  },
+  "next": {
+    "slug": "preceptos-de-ascension",
+    "title": "Preceptos de Ascensión"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 13,
+  "slug": "otros-preceptos",
+  "block": "paradigma",
+  "block_title": "Paradigma",
+  "chapter": null,
+  "part": "Otros Preceptos",
+  "section": null,
+  "title": "Otros Preceptos",
+  "content_type": "rule",
+  "source_line_range": [
+    843,
+    846
+  ],
+  "body_md": "### Otros Preceptos\n\nAunque las preguntas anteriores son las más inmediatas y requieren Preceptos para abordarlas, no son de ningún modo las únicas cuestiones fundamentales en Mago. A continuación hay varias preguntas adicionales, junto con Preceptos que las responden. Es buena idea considerar en serio estas preguntas opcionales. Incluso sin elegir Preceptos para ellas, entender la postura de un personaje respecto a ellas puede ser esencial para interpretarlo en muchas situaciones:",
+  "toc": [],
+  "prev": {
+    "slug": "preceptos-de-ascension",
+    "title": "Preceptos de Ascensión"
+  },
+  "next": {
+    "slug": "rol-social",
+    "title": "Rol Social"
+  }
+}

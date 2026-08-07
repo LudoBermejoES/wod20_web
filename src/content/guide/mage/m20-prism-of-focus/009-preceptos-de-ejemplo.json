@@ -1,0 +1,27 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 9,
+  "slug": "preceptos-de-ejemplo",
+  "block": "paradigma",
+  "block_title": "Paradigma",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Preceptos de Ejemplo",
+  "content_type": "reference",
+  "source_line_range": [
+    697,
+    700
+  ],
+  "body_md": "## Preceptos de Ejemplo\n\nA continuación se muestra una lista de Preceptos de ejemplo. Los Paradigmas de ejemplo de M20, Libro de los Secretos y Book of the Fallen pueden representarse todos de esta manera (véanse pp. 20-29), y muchos pueden combinarse y emparejarse de otras formas. Primero aparecen los que responden a las tres preguntas centrales, y a continuación una selección de otros que pueden aclarar diferentes aspectos de las creencias del personaje sobre el Mundo de Tinieblas.",
+  "toc": [],
+  "prev": {
+    "slug": "paradigma",
+    "title": "Paradigma"
+  },
+  "next": {
+    "slug": "preceptos-metafisicos",
+    "title": "Preceptos Metafísicos"
+  }
+}

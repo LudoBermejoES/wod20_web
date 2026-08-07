@@ -1,152 +1,1041 @@
 {
   "book_id": "m20-prism-of-focus",
   "line": "mage",
-  "title_es": "M20 Prism of Focus",
-  "book_title_es": "M20 Prism of Focus",
-  "page_count": 23,
+  "title_es": "M20 Prisma del Foco",
+  "book_title_es": "M20 Prisma del Foco",
+  "page_count": 107,
   "tree": [
     {
-      "block": "contenido",
-      "block_title": "Contenido",
+      "block": "front-matter",
+      "block_title": "Portada y Créditos",
       "chapters": [
         {
-          "chapter": "m20-prism-of-focus",
+          "chapter": "—",
           "pages": [
             {
-              "slug": "m20-prism-of-focus",
-              "title": "m20-prism-of-focus",
-              "part": "m20-prism-of-focus",
+              "slug": "portada",
+              "title": "Portada",
+              "part": null,
+              "content_type": "front-matter"
+            },
+            {
+              "slug": "creditos",
+              "title": "Créditos",
+              "part": null,
+              "content_type": "front-matter"
+            },
+            {
+              "slug": "agradecimientos-especiales-a",
+              "title": "Agradecimientos especiales a:",
+              "part": null,
+              "content_type": "front-matter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "introduccion",
+      "block_title": "Introducción",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "introduccion",
+              "title": "Introducción",
+              "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "m20-prism-of-focus-surendra-chaudhary-archipresidente-del-sindicato",
-              "title": "m20-prism-of-focus: Surendra Chaudhary, Archipresidente del Sindicato",
-              "part": "m20-prism-of-focus",
+              "slug": "creacion-de-personajes",
+              "title": "Creación de Personajes",
+              "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "m20-prism-of-focus-apertura",
-              "title": "m20-prism-of-focus: Apertura",
-              "part": "m20-prism-of-focus",
+              "slug": "resumen-de-la-creacion-de-personajes",
+              "title": "Resumen de la Creación de Personajes",
+              "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "m20-prism-of-focus-la-existencia-es-incognoscible-irracional-y-sublime",
+              "slug": "practicas",
+              "title": "Prácticas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "preceptos",
+              "title": "Preceptos",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "paradigma",
+      "block_title": "Paradigma",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "paradigma",
+              "title": "Paradigma",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "preceptos-de-ejemplo",
+              "title": "Preceptos de Ejemplo",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "preceptos-metafisicos",
+              "title": "Preceptos Metafísicos",
+              "part": "Preceptos Metafísicos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "preceptos-personales",
+              "title": "Preceptos Personales",
+              "part": "Preceptos Personales",
+              "content_type": "rule"
+            },
+            {
+              "slug": "preceptos-de-ascension",
+              "title": "Preceptos de Ascensión",
+              "part": "Preceptos de Ascensión",
+              "content_type": "rule"
+            },
+            {
+              "slug": "otros-preceptos",
+              "title": "Otros Preceptos",
+              "part": "Otros Preceptos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "rol-social",
+              "title": "Rol Social",
+              "part": "Rol Social",
+              "content_type": "rule"
+            },
+            {
+              "slug": "epistemologia",
+              "title": "Epistemología",
+              "part": "Epistemología",
+              "content_type": "rule"
+            },
+            {
+              "slug": "apertura",
+              "title": "Apertura",
+              "part": "Apertura",
+              "content_type": "rule"
+            },
+            {
+              "slug": "el-mas-alla",
+              "title": "El Más Allá",
+              "part": "El Más Allá",
+              "content_type": "rule"
+            },
+            {
+              "slug": "paradigmas-de-ejemplo",
+              "title": "Paradigmas de Ejemplo",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "una-realidad-holografica",
+              "title": "Una Realidad Holográfica",
+              "part": "Una Realidad Holográfica",
+              "content_type": "rule"
+            },
+            {
+              "slug": "un-cosmos-mecanico",
+              "title": "Un Cosmos Mecánico",
+              "part": "Un Cosmos Mecánico",
+              "content_type": "rule"
+            },
+            {
+              "slug": "un-mundo-de-dioses-y-monstruos",
+              "title": "Un Mundo de Dioses y Monstruos",
+              "part": "Un Mundo de Dioses y Monstruos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "los-alienigenas-nos-hacen-lo-que-somos",
+              "title": "Los Alienígenas Nos Hacen lo que Somos",
+              "part": "Los Alienígenas Nos Hacen lo que Somos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "todo-el-poder-proviene-de-dios-o-los-dioses",
+              "title": "Todo el Poder Proviene de Dios (o los Dioses)",
+              "part": "Todo el Poder Proviene de Dios (o los Dioses)",
+              "content_type": "rule"
+            },
+            {
+              "slug": "todo-poder-procede-del-pecado",
+              "title": "Todo Poder Procede del Pecado",
+              "part": "Todo Poder Procede del Pecado",
+              "content_type": "rule"
+            },
+            {
+              "slug": "el-mundo-es-un-escenario",
+              "title": "El Mundo es un Escenario",
+              "part": "El Mundo es un Escenario",
+              "content_type": "rule"
+            },
+            {
+              "slug": "veneracion-de-ancestros",
+              "title": "Veneración de Ancestros",
+              "part": "Veneración de Ancestros",
+              "content_type": "rule"
+            },
+            {
+              "slug": "la-sabiduria-antigua-es-la-llave",
+              "title": "La Sabiduría Antigua es la Llave",
+              "part": "La Sabiduría Antigua es la Llave",
+              "content_type": "rule"
+            },
+            {
+              "slug": "la-barbarie-es-el-verdadero-estado-del-hombre",
+              "title": "La Barbarie es el Verdadero Estado del Hombre",
+              "part": "La Barbarie es el Verdadero Estado del Hombre",
+              "content_type": "rule"
+            },
+            {
+              "slug": "traer-de-vuelta-la-edad-dorada",
+              "title": "¡Traer de Vuelta la Edad Dorada!",
+              "part": "¡Traer de Vuelta la Edad Dorada!",
+              "content_type": "rule"
+            },
+            {
+              "slug": "la-consciencia-es-la-unica-realidad-verdadera",
+              "title": "La Consciencia es la Única Realidad Verdadera",
+              "part": "La Consciencia es la Única Realidad Verdadera",
+              "content_type": "rule"
+            },
+            {
+              "slug": "el-horror-cosmico-es-la-unica-verdad",
+              "title": "El Horror Cósmico es la Única Verdad",
+              "part": "El Horror Cósmico es la Única Verdad",
+              "content_type": "rule"
+            },
+            {
+              "slug": "la-creacion-es-intrinsecamente-divina-y-esta-viva",
+              "title": "La Creación es Intrínsecamente Divina y Está Viva",
+              "part": "La Creación es Intrínsecamente Divina y Está Viva",
+              "content_type": "rule"
+            },
+            {
+              "slug": "orden-divino-y-caos-terrenal",
+              "title": "Orden Divino y Caos Terrenal",
+              "part": "Orden Divino y Caos Terrenal",
+              "content_type": "rule"
+            },
+            {
+              "slug": "abrazar-el-umbral",
+              "title": "Abrazar el Umbral",
+              "part": "Abrazar el Umbral",
+              "content_type": "rule"
+            },
+            {
+              "slug": "todos-estan-contra-mi-asi-que-lo-que-haga-esta-justificado",
+              "title": "Todos Están Contra Mí, así que lo que Haga está Justificado",
+              "part": "Todos Están Contra Mí, así que lo que Haga está Justificado",
+              "content_type": "rule"
+            },
+            {
+              "slug": "todo-tiene-un-valor",
+              "title": "Todo Tiene un Valor",
+              "part": "Todo Tiene un Valor",
+              "content_type": "rule"
+            },
+            {
+              "slug": "todo-es-una-ilusion-una-prision-o-un-error",
+              "title": "Todo es una Ilusión, una Prisión o un Error",
+              "part": "Todo es una Ilusión, una Prisión o un Error",
+              "content_type": "rule"
+            },
+            {
+              "slug": "todo-es-caos-solo-crees-que-tiene-sentido",
+              "title": "Todo Es Caos, Sólo Crees que Tiene Sentido",
+              "part": "Todo Es Caos, Sólo Crees que Tiene Sentido",
+              "content_type": "rule"
+            },
+            {
+              "slug": "todo-son-datos",
+              "title": "Todo son Datos",
+              "part": "Todo son Datos",
+              "content_type": "rule"
+            },
+            {
+              "slug": "el-mal-es-necesario-y-por-eso-soy-malvado",
+              "title": "El Mal es Necesario, y por eso Soy Malvado",
+              "part": "El Mal es Necesario, y por eso Soy Malvado",
+              "content_type": "rule"
+            },
+            {
+              "slug": "la-existencia-es-incognoscible-irracional-y-sublime",
               "title": "La Existencia es Incognoscible, Irracional y Sublime",
+              "part": "La Existencia es Incognoscible, Irracional y Sublime",
+              "content_type": "rule"
+            },
+            {
+              "slug": "la-sabiduria-prohibida-es-la-fuente-mas-verdadera-de-poder",
+              "title": "La Sabiduría Prohibida es la Fuente más Verdadera de Poder",
+              "part": "La Sabiduría Prohibida es la Fuente más Verdadera de Poder",
+              "content_type": "rule"
+            },
+            {
+              "slug": "yo-soy-todo",
+              "title": "Yo Soy Todo",
+              "part": "Yo Soy Todo",
+              "content_type": "rule"
+            },
+            {
+              "slug": "soy-un-depredador-y-el-mundo-es-mi-presa",
+              "title": "Soy un Depredador, y el Mundo es mi Presa",
+              "part": "Soy un Depredador, y el Mundo es mi Presa",
+              "content_type": "rule"
+            },
+            {
+              "slug": "la-indulgencia-es-la-unica-ley-de-la-naturaleza",
+              "title": "La Indulgencia es la Única Ley de la Naturaleza",
+              "part": "La Indulgencia es la Única Ley de la Naturaleza",
+              "content_type": "rule"
+            },
+            {
+              "slug": "todo-esta-bien-ten-fe",
+              "title": "Todo Está Bien - ¡Ten Fe!",
+              "part": "Todo Está Bien - ¡Ten Fe!",
+              "content_type": "rule"
+            },
+            {
+              "slug": "el-poder-da-la-razon",
+              "title": "El Poder Da la Razón",
+              "part": "El Poder Da la Razón",
+              "content_type": "rule"
+            },
+            {
+              "slug": "mas-es-mas",
+              "title": "Más es Más",
+              "part": "Más es Más",
+              "content_type": "rule"
+            },
+            {
+              "slug": "viaje-solo-de-ida-al-olvido",
+              "title": "Viaje Sólo de Ida al Olvido",
+              "part": "Viaje Sólo de Ida al Olvido",
+              "content_type": "rule"
+            },
+            {
+              "slug": "solo-los-mas-fuertes-merecen-sobrevivir",
+              "title": "Sólo los Más Fuertes Merecen Sobrevivir",
+              "part": "Sólo los Más Fuertes Merecen Sobrevivir",
+              "content_type": "rule"
+            },
+            {
+              "slug": "la-gente-es-una-mierda",
+              "title": "La Gente es una Mierda",
+              "part": "La Gente es una Mierda",
+              "content_type": "rule"
+            },
+            {
+              "slug": "filantropia-en-todas-las-cosas",
+              "title": "Filantropía en Todas las Cosas",
+              "part": "Filantropía en Todas las Cosas",
+              "content_type": "rule"
+            },
+            {
+              "slug": "el-poder-gotea-hacia-abajo",
+              "title": "El Poder Gotea Hacia Abajo",
+              "part": "El Poder Gotea Hacia Abajo",
+              "content_type": "rule"
+            },
+            {
+              "slug": "la-rebelion-es-el-camino-hacia-la-trascendencia",
+              "title": "La Rebelión es el Camino hacia la Trascendencia",
+              "part": "La Rebelión es el Camino hacia la Trascendencia",
+              "content_type": "rule"
+            },
+            {
+              "slug": "la-tecnologia-tiene-todas-las-respuestas",
+              "title": "La Tecnología Tiene Todas las Respuestas",
+              "part": "La Tecnología Tiene Todas las Respuestas",
+              "content_type": "rule"
+            },
+            {
+              "slug": "trascender-tus-limites",
+              "title": "Trascender tus Límites",
+              "part": "Trascender tus Límites",
+              "content_type": "rule"
+            },
+            {
+              "slug": "girar-las-llaves-de-la-realidad",
+              "title": "Girar las Llaves de la Realidad",
+              "part": "Girar las Llaves de la Realidad",
+              "content_type": "rule"
+            },
+            {
+              "slug": "estamos-destinados-a-ser-salvajes",
+              "title": "Estamos Destinados a Ser Salvajes",
+              "part": "Estamos Destinados a Ser Salvajes",
+              "content_type": "rule"
+            },
+            {
+              "slug": "no-somos-hombres",
+              "title": "¡NO Somos Hombres!",
+              "part": "¡NO Somos Hombres!",
+              "content_type": "rule"
+            },
+            {
+              "slug": "somos-los-soldados-de-asalto-del-abismo",
+              "title": "Somos los Soldados de Asalto del Abismo",
+              "part": "Somos los Soldados de Asalto del Abismo",
+              "content_type": "rule"
+            },
+            {
+              "slug": "todos-somos-dios-es-disfrazado-s",
+              "title": "Todos Somos Dios(es) Disfrazado(s)",
+              "part": "Todos Somos Dios(es) Disfrazado(s)",
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "practica",
+      "block_title": "Práctica",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "practica",
+              "title": "Práctica",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "m20-prism-of-focus-formulas",
+              "slug": "sanctum-y-zonas-de-realidad",
+              "title": "Sanctum y Zonas de Realidad",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "rituales",
+              "title": "Rituales",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "formulas",
               "title": "Fórmulas",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "m20-prism-of-focus-silencioso-como-un-raton",
-              "title": "Silencioso como un Ratón",
+              "slug": "practicas-especializadas",
+              "title": "Prácticas Especializadas",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "m20-prism-of-focus-formulas-2",
-              "title": "Fórmulas",
+              "slug": "practicas-corruptas",
+              "title": "Prácticas Corruptas",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "m20-prism-of-focus-efectos-de-paradoja",
-              "title": "Efectos de Paradoja",
+              "slug": "partes-de-una-practica",
+              "title": "Partes de una Práctica",
               "part": null,
               "content_type": "rule"
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "alquimia",
+      "block_title": "Alquimia",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
             {
-              "slug": "m20-prism-of-focus-efectos-de-paradoja-2",
-              "title": "Efectos de Paradoja",
+              "slug": "alquimia",
+              "title": "Alquimia",
               "part": null,
-              "content_type": "rule"
-            },
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "animalismo",
+      "block_title": "Animalismo",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
             {
-              "slug": "m20-prism-of-focus-sobrecarga-sinestesica",
-              "title": "Sobrecarga Sinestésica",
+              "slug": "animalismo",
+              "title": "Animalismo",
               "part": null,
-              "content_type": "rule"
-            },
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "apropiacion",
+      "block_title": "Apropiación",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
             {
-              "slug": "m20-prism-of-focus-formulas-3",
-              "title": "Fórmulas",
+              "slug": "apropiacion",
+              "title": "Apropiación",
               "part": null,
-              "content_type": "rule"
-            },
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "el-arte-del-deseo",
+      "block_title": "El Arte del Deseo",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
             {
-              "slug": "m20-prism-of-focus-especialidad-de-los-kopa-loei-orientacion",
-              "title": "Especialidad de los Kopa Loei: Orientación",
+              "slug": "el-arte-del-deseo",
+              "title": "El Arte del Deseo",
               "part": null,
-              "content_type": "rule"
-            },
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "bardismo",
+      "block_title": "Bardismo",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
             {
-              "slug": "m20-prism-of-focus-simbolo-del-yo",
-              "title": "Símbolo del Yo",
+              "slug": "bardismo",
+              "title": "Bardismo",
               "part": null,
-              "content_type": "rule"
-            },
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "magia-del-caos",
+      "block_title": "Magia del caos",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
             {
-              "slug": "m20-prism-of-focus-maravillas",
-              "title": "Maravillas",
+              "slug": "magia-del-caos",
+              "title": "Magia del caos",
               "part": null,
-              "content_type": "rule"
-            },
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "caridad",
+      "block_title": "Caridad",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
             {
-              "slug": "m20-prism-of-focus-efectos-de-paradoja-3",
-              "title": "Efectos de Paradoja",
+              "slug": "caridad",
+              "title": "Caridad",
               "part": null,
-              "content_type": "rule"
-            },
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "artesania",
+      "block_title": "Artesanía",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
             {
-              "slug": "m20-prism-of-focus-supresion-del-dolor",
-              "title": "Supresión del Dolor",
+              "slug": "artesania",
+              "title": "Artesanía",
               "part": null,
-              "content_type": "rule"
-            },
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "sabiduria-loca",
+      "block_title": "Sabiduría loca",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
             {
-              "slug": "m20-prism-of-focus-travesura-del-mono",
-              "title": "Travesura del Mono",
+              "slug": "sabiduria-loca",
+              "title": "Sabiduría loca",
               "part": null,
-              "content_type": "rule"
-            },
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "cibernetica",
+      "block_title": "Cibernética",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
             {
-              "slug": "m20-prism-of-focus-limpieza",
-              "title": "Limpieza",
+              "slug": "cibernetica",
+              "title": "Cibernética",
               "part": null,
-              "content_type": "rule"
-            },
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "dominio",
+      "block_title": "Dominio",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
             {
-              "slug": "m20-prism-of-focus-formulas-4",
-              "title": "Fórmulas",
+              "slug": "dominio",
+              "title": "Dominio",
               "part": null,
-              "content_type": "rule"
-            },
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "elementalismo",
+      "block_title": "Elementalismo",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
             {
-              "slug": "m20-prism-of-focus-chamanismo",
+              "slug": "elementalismo",
+              "title": "Elementalismo",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "fe",
+      "block_title": "Fe",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "fe",
+              "title": "Fe",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "vinculo-divino",
+      "block_title": "Vínculo divino",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "vinculo-divino",
+              "title": "Vínculo divino",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "magia-callejera",
+      "block_title": "Magia Callejera",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "magia-callejera",
+              "title": "Magia Callejera",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "alta-magia-ritual",
+      "block_title": "Alta Magia Ritual",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "alta-magia-ritual",
+              "title": "Alta Magia Ritual",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "hipertecnologia",
+      "block_title": "Hipertecnología",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "hipertecnologia",
+              "title": "Hipertecnología",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "inversion",
+      "block_title": "Inversión",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "inversion",
+              "title": "Inversión",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "vigorizacion",
+      "block_title": "Vigorización",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "vigorizacion",
+              "title": "Vigorización",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "maleficia",
+      "block_title": "Maleficia",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "maleficia",
+              "title": "Maleficia",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "artes-marciales",
+      "block_title": "Artes marciales",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "artes-marciales",
+              "title": "Artes marciales",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "control-de-medios",
+      "block_title": "Control de Medios",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "control-de-medios",
+              "title": "Control de Medios",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "medicina",
+      "block_title": "Medicina",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "medicina",
+              "title": "Medicina",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "mediumnidad",
+      "block_title": "Mediumnidad",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "mediumnidad",
+              "title": "Mediumnidad",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "psionica",
+      "block_title": "Psiónica",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "psionica",
+              "title": "Psiónica",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "hackeo-de-la-realidad",
+      "block_title": "Hackeo de la realidad",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "hackeo-de-la-realidad",
+              "title": "Hackeo de la realidad",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "chamanismo",
+      "block_title": "Chamanismo",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "chamanismo",
               "title": "Chamanismo",
               "part": null,
-              "content_type": "rule"
-            },
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "vudu",
+      "block_title": "Vudú",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
             {
-              "slug": "m20-prism-of-focus-el-cigarro-del-baron",
-              "title": "El Cigarro del Barón",
+              "slug": "vudu",
+              "title": "Vudú",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "ciencia-extrana",
+      "block_title": "Ciencia Extraña",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "ciencia-extrana",
+              "title": "Ciencia Extraña",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "brujeria",
+      "block_title": "Brujería",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "brujeria",
+              "title": "Brujería",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "yoga",
+      "block_title": "Yoga",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "yoga",
+              "title": "Yoga",
+              "part": null,
+              "content_type": "reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block": "alturas-del-poder",
+      "block_title": "Las Alturas del Poder",
+      "chapters": [
+        {
+          "chapter": "—",
+          "pages": [
+            {
+              "slug": "las-alturas-del-poder",
+              "title": "Las Alturas del Poder",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "m20-prism-of-focus-romper-maldicion",
-              "title": "Romper Maldición",
-              "part": null,
-              "content_type": "rule"
-            },
-            {
-              "slug": "m20-prism-of-focus-archimagos",
+              "slug": "archimagos",
               "title": "Archimagos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "ejemplares",
+              "title": "Ejemplares",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "oraculos",
+              "title": "Oráculos",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "arch-esferas",
+              "title": "Arch-Esferas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "a-traves-de-la-lente-del-poder",
+              "title": "A Través de la Lente del Poder",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "desvelando-el-espectro-de-la-realidad",
+              "title": "Desvelando el Espectro de la Realidad",
               "part": null,
               "content_type": "rule"
             }

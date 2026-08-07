@@ -1,0 +1,40 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 16,
+  "slug": "apertura",
+  "block": "paradigma",
+  "block_title": "Paradigma",
+  "chapter": null,
+  "part": "Apertura",
+  "section": null,
+  "title": "Apertura",
+  "content_type": "rule",
+  "source_line_range": [
+    903,
+    930
+  ],
+  "body_md": "### Apertura\n\nAunque todos los magos tienen alguna noción de que otros magos tienen su propio Foco que funciona, estos Preceptos indican hasta qué punto el mago considera válidos esos otros Focos.\n\n#### Paradigma Cerrado\n\nSólo hay una forma correcta de hacer las cosas y un millón de formas incorrectas. Los magos con un Paradigma Cerrado tienen una [confianza](/mage/merits/confianza) suprema en su visión del mundo y son intolerantes con otras visiones. En el mejor de los casos, pueden interpretar lo que hacen otros como una versión incorrecta de sus propios métodos. En el peor, no pueden tolerar estas diferencias y no pueden trabajar con, ni en torno a, quienes creen de otro modo.\n\nPrácticas Asociadas: [Cibernética](/mage/practices/cybernetics), [Dominio](/mage/practices/dominion), [Hipertecnología](/mage/practices/hypertech)\n\nPrácticas Limitadas: Arte del Deseo, [Magia del Caos](/mage/instruments/chaos-magic), [Sabiduría Loca](/mage/practices/crazy-wisdom), [Magia Callejera](/mage/practices/gutter-magick), [Ciencia Extraña](/mage/practices/weird-science)\n\n#### Paradigma Jerárquico\n\nMuchos Paradigmas pueden describir el mundo y enseñar a un mago a manipularlo. Aunque no hay uno exclusivo «correcto» que refute a todos los demás, algunos son mejores que otros. Los magos con Paradigmas Jerárquicos creen que su Paradigma puede ser el mejor, pero que otros son válidos... hasta cierto punto. Raramente incluso aceptarán varios Paradigmas como igualmente válidos, aunque, por lo general, no tienen problema en juzgar que un Paradigma es mejor que otro.\n\nPrácticas Asociadas: [Dominio](/mage/practices/dominion), [Vínculo Divino](/mage/practices/divine-bond), [Artes Marciales](/mage/practices/martial-arts), [Ciencia Extraña](/mage/practices/weird-science)\n\nPrácticas Limitadas: [Magia del Caos](/mage/instruments/chaos-magic), [Cibernética](/mage/practices/cybernetics), Fe, [Alta Magia Ritual](/mage/practices/high-ritual-magick), [Hipertecnología](/mage/practices/hypertech)\n\n#### Paradigma Abierto\n\nEl viejo dicho de que todos los caminos llevan a Roma es cierto para el Foco. Los magos con paradigmas abiertos creen que todos (o al menos muchos) los métodos funcionan para cambiar el mundo y llevan a la Iluminación. A menudo se sienten igualmente cómodos entre los fieles, los místicos y los científicos, viéndolos a todos como enfoques diferentes para comprender la misma cosa. Estos magos normalmente trabajan bien con otros y a menudo aprenden un conjunto diverso de Prácticas.\n\nPrácticas Asociadas: Arte del Deseo, [Magia del Caos](/mage/instruments/chaos-magic), [Sabiduría Loca](/mage/practices/crazy-wisdom), [Magia Callejera](/mage/practices/gutter-magick), [Ciencia Extraña](/mage/practices/weird-science)\n\nPrácticas Limitadas: [Cibernética](/mage/practices/cybernetics), [Dominio](/mage/practices/dominion), [Hipertecnología](/mage/practices/hypertech)",
+  "toc": [
+    {
+      "text": "Paradigma Cerrado",
+      "anchor": "paradigma-cerrado"
+    },
+    {
+      "text": "Paradigma Jerárquico",
+      "anchor": "paradigma-jerarquico"
+    },
+    {
+      "text": "Paradigma Abierto",
+      "anchor": "paradigma-abierto"
+    }
+  ],
+  "prev": {
+    "slug": "epistemologia",
+    "title": "Epistemología"
+  },
+  "next": {
+    "slug": "el-mas-alla",
+    "title": "El Más Allá"
+  }
+}

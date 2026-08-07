@@ -1,0 +1,27 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 2,
+  "slug": "agradecimientos-especiales-a",
+  "block": "front-matter",
+  "block_title": "Portada y Créditos",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Agradecimientos especiales a:",
+  "content_type": "front-matter",
+  "source_line_range": [
+    18,
+    27
+  ],
+  "body_md": "## Agradecimientos especiales a:\n\nMi mujer y mi peque, la primera de las cuales tuvo que aguantar las pruebas de juego, y ambos tuvieron que aguantar el tiempo que ha llevado hacer esto.\n\nMis mecenas: Buck Farmer-Gregory, Derek Semsick, Dove 'SunSeed's Sword', Henry Oswald Craft, H Polli, Ia ᎪᎳᏄ Bull, Josh Heath, Joshua Hillerup, The Krewe of Erebus, Nebero, Ricardo\n\n© 2018 White Wolf Entertainment AB. Todos los derechos reservados. Vampire: The Masquerade®, World of Darkness®, Storytelling System™, y Storytellers Vault™ son marcas comerciales y/o marcas registradas de White Wolf Entertainment AB. Todos los derechos reservados.\n\nPara más información sobre White Wolf y el World of Darkness, visita: www.white-wolf.com, www.worldofdarkness.com y www.storytellersvault.com.",
+  "toc": [],
+  "prev": {
+    "slug": "creditos",
+    "title": "Créditos"
+  },
+  "next": {
+    "slug": "introduccion",
+    "title": "Introducción"
+  }
+}

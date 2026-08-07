@@ -1,0 +1,27 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 68,
+  "slug": "partes-de-una-practica",
+  "block": "practica",
+  "block_title": "Práctica",
+  "chapter": null,
+  "part": null,
+  "section": null,
+  "title": "Partes de una Práctica",
+  "content_type": "rule",
+  "source_line_range": [
+    1620,
+    1625
+  ],
+  "body_md": "## Partes de una Práctica\n\nA continuación se presentan versiones actualizadas de las Prácticas que han aparecido en M20, BoS y BotF. Cada entrada incluirá una descripción de la Práctica, una lista de Habilidades Asociadas, una lista de [Instrumentos comunes](/mage/instruments/hermetic-common-instruments), algunos Rasgos de Resonancia sugeridos, y un Beneficio y una Penalización que reciben los usuarios de la Práctica. Además, habrá ejemplos de Fórmulas, Maravillas, efectos de Paradoja y otras formas en que la Práctica coloreará el modo en que el mago ve e interactúa con el mundo. Finalmente, incluirá cualquier Práctica especializada o corrupta basada en ella, así como su beneficio adicional y quién tiene acceso a él.",
+  "toc": [],
+  "prev": {
+    "slug": "practicas-corruptas",
+    "title": "Prácticas Corruptas"
+  },
+  "next": {
+    "slug": "alquimia",
+    "title": "Alquimia"
+  }
+}
