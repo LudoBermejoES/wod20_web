@@ -32676,13 +32676,6 @@
       "cost": "3",
       "category": "sobrenatural"
     },
-    "casting_modifiers": [
-      {
-        "sphere": "life",
-        "label_es": "Cambio de forma propio (Vida)",
-        "weight": -2
-      }
-    ],
     "sources": [
       {
         "book_id": "m20-libro-de-los-secretos",
@@ -32692,7 +32685,14 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "casting_modifiers": [
+      {
+        "sphere": "life",
+        "label_es": "Cambio de forma propio (Vida)",
+        "weight": -2
+      }
+    ]
   },
   {
     "id": "canal-natural",
@@ -33233,13 +33233,6 @@
       "cost": "5",
       "category": "sobrenatural"
     },
-    "casting_modifiers": [
-      {
-        "sphere": "life",
-        "label_es": "Sanar a otro (Vida)",
-        "weight": -2
-      }
-    ],
     "sources": [
       {
         "book_id": "m20-libro-de-los-secretos",
@@ -33249,7 +33242,14 @@
         "variant": "base"
       }
     ],
-    "related": []
+    "related": [],
+    "casting_modifiers": [
+      {
+        "sphere": "life",
+        "label_es": "Sanar a otro (Vida)",
+        "weight": -2
+      }
+    ]
   },
   {
     "id": "ghoul",
@@ -33382,7 +33382,7 @@
     "line": "mage",
     "name_en": "Esfera Natural",
     "name_es": "Esfera Natural",
-    "body_es": "Disfrutas de una competencia innata para un único elemento de la Magia (la Esfera que elijas). Los poderes de esa Esfera te resultan más sencillos de lo habitual y avanzas más rápido en ese campo de conocimiento que en las demás Esferas. A nivel de reglas, pagas el 70% del coste de Experiencia habitual, redondeando hacia arriba, cuando avances en esta Esfera. Naturalmente, tal avance cuesta incluso menos cuando estás mejorando tu Esfera Afín.\n\nLa versión de Mago 20 de este Mérito cuesta más que la versión presentada en ediciones previas porque el coste de mejorar Esferas con Experiencia ha disminuido, y por ello los beneficios involucrados en este Mérito son mayores. Sólo puedes seleccionar este Mérito una vez y para una única Esfera, la cual debería tener una conexión intrínseca con el concepto, trasfondo y foco Mágico de tu mago. Después de todo, ésta es un Arte que te resulta natural y esa predisposición debería manifestarse en muchos aspectos distintos de la personalidad de tu personaje.\n\n| Rango | Coste / Coste de Esfera Afín |\n|--------------|--------------------------------|\n| Nueva Esfera | 7 puntos. |\n| 2 | 6 / 5 puntos. |\n| 3 | 1 1 / 10 puntos. |\n| 4 | 17 / 15 puntos. |\n| 5 | 23 / 20 puntos. |",
+    "body_es": "Disfrutas de una competencia innata para un único elemento de la Magia (la Esfera que elijas). Los poderes de esa Esfera te resultan más sencillos de lo habitual y avanzas más rápido en ese campo de conocimiento que en las demás Esferas. A nivel de reglas, pagas el 70% del coste de Experiencia habitual, redondeando hacia arriba, cuando avances en esta Esfera. Naturalmente, tal avance cuesta incluso menos cuando estás mejorando tu Esfera Afín.\n\nLa versión de Mago 20 de este Mérito cuesta más que la versión presentada en ediciones previas porque el coste de mejorar Esferas con Experiencia ha disminuido, y por ello los beneficios involucrados en este Mérito son mayores. Sólo puedes seleccionar este Mérito una vez y para una única Esfera, la cual debería tener una conexión intrínseca con el concepto, trasfondo y foco Mágico de tu mago. Después de todo, ésta es un Arte que te resulta natural y esa predisposición debería manifestarse en muchos aspectos distintos de la personalidad de tu personaje.\n\n| Rango | Coste / Coste de Esfera Afín |\n|--------------|--------------------------------|\n| Nueva Esfera | 7 puntos. |\n| 2 | 6 / 5 puntos. |\n| 3 | 11 / 10 puntos. |\n| 4 | 17 / 15 puntos. |\n| 5 | 23 / 20 puntos. |",
     "tags": [
       "sobrenatural"
     ],
@@ -34307,7 +34307,7 @@
     "line": "mage",
     "name_en": "Inepto en una Esfera",
     "name_es": "Inepto en una Esfera",
-    "body_es": "Un elemento concreto de la Realidad te elude. No importa lo entregado que estés a dominar sus complejidades, este campo de la Magia sigue siendo un desafío. En esencia, es el reverso del Mérito [Esfera Natural](/mage/merits/esfera-natural); aprender cierta Esfera cuesta el 130% (redondeando hacia arriba) de lo que cuesta cualquier otra.\n\n| Rango | Coste / Coste de Esfera Afín |\n|--------------|--------------------------------|\n| Nueva Esfera | 13 puntos. |\n| 2 | 1 1 / 9 puntos. |\n| 3 | 21 /19 puntos. |\n| 4 | 32 /28 puntos. |\n| 5 | 42 /37 puntos. |\n\nDe nuevo, este Defecto puede aplicarse sólo a una Esfera (¡afortunadamente!) y se manifiesta en tu práctica e historia. Alguien que es inepto, digamos, con Tiempo, tendrá una peculiar relación con los horarios y los momentos oportunos.",
+    "body_es": "Un elemento concreto de la Realidad te elude. No importa lo entregado que estés a dominar sus complejidades, este campo de la Magia sigue siendo un desafío. En esencia, es el reverso del Mérito [Esfera Natural](/mage/merits/esfera-natural); aprender cierta Esfera cuesta el 130% (redondeando hacia arriba) de lo que cuesta cualquier otra.\n\n| Rango | Coste / Coste de Esfera Afín |\n|--------------|--------------------------------|\n| Nueva Esfera | 13 puntos. |\n| 2 | 11 / 9 puntos. |\n| 3 | 21 /19 puntos. |\n| 4 | 32 /28 puntos. |\n| 5 | 42 /37 puntos. |\n\nDe nuevo, este Defecto puede aplicarse sólo a una Esfera (¡afortunadamente!) y se manifiesta en tu práctica e historia. Alguien que es inepto, digamos, con Tiempo, tendrá una peculiar relación con los horarios y los momentos oportunos.",
     "tags": [
       "sobrenatural"
     ],
