@@ -3,7 +3,7 @@
   "line": "mage",
   "title_es": "Mago: El Dosier del Operativo",
   "book_title_es": "Mago: El Dosier del Operativo",
-  "page_count": 37,
+  "page_count": 40,
   "tree": [
     {
       "block": "preliminares",
@@ -120,6 +120,12 @@
               "title": "Capítulo Dos: Aliados Improbables",
               "part": null,
               "content_type": "lore"
+            },
+            {
+              "slug": "capitulo-dos-aliados-improbables-2",
+              "title": "Capítulo Dos: Aliados Improbables",
+              "part": null,
+              "content_type": "rule"
             }
           ]
         },
@@ -252,6 +258,17 @@
           ]
         },
         {
+          "chapter": "Capítulo Cuatro: El baúl de juguetes del tecnomante",
+          "pages": [
+            {
+              "slug": "capitulo-cuatro-el-baul-de-juguetes-del-tecnomante",
+              "title": "Capítulo Cuatro: El baúl de juguetes del tecnomante",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
           "chapter": "—",
           "pages": [
             {
@@ -275,6 +292,17 @@
             {
               "slug": "terranormalizacion",
               "title": "Terranormalización",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Cinco: Declaraciones de misión",
+          "pages": [
+            {
+              "slug": "capitulo-cinco-declaraciones-de-mision",
+              "title": "Capítulo Cinco: Declaraciones de misión",
               "part": null,
               "content_type": "rule"
             }

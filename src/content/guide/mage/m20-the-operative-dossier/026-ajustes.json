@@ -1,0 +1,27 @@
+{
+  "book_id": "m20-the-operative-dossier",
+  "line": "mage",
+  "order": 26,
+  "slug": "ajustes",
+  "block": "capitulo-4",
+  "block_title": "Capítulo Cuatro: El Baúl de los Juguetes",
+  "chapter": "Capítulo Cuatro: El Baúl de los Juguetes",
+  "part": null,
+  "section": null,
+  "title": "Ajustes",
+  "content_type": "rule",
+  "source_line_range": [
+    2251,
+    2258
+  ],
+  "body_md": "Subversores de la Realidad: los miembros de la organización que se hace llamar los [Adeptos Virtuales](/mage/affiliations/virtual-adepts) son prolíficos en esta parte de la Red Digital. También lo son los lupinos de la clasificación Andarríos de Cristal. Algunos están ocupados entregándose a ansias ocultas y vergonzosas, mientras otros construyen acertijos, chantajean a abusadores, o arrean EDE a través de la oscuridad de la red anonimizada. No te enfrentes a ellos sin [refuerzos](/mage/backgrounds/backup) fiables, ya que estos Subversores de la Realidad creen equivocadamente que son los únicos gobernantes de estos reinos y pueden volverse violentos si se les aborda. Algunos también pueden intentar encerrar a los agentes en sus acertijos, que suelen ser, en el peor de los casos, molestos.\n\n[Nefandos](/mage/affiliations/nephandi): la investigación demuestra que estos Subversores de la Realidad en particular son como una enfermedad, que infecta y permea cualquier espacio en el que se les permita campar a sus anchas. La Red Digital no es distinta, y la [Red Oscura](/mage/sphere-effects/dark-web) en especial proporciona un hogar acogedor para el fanático nihilista despiadado. Varios [Nefandos](/mage/affiliations/nephandi) han construido sus cuarteles generales, conocidos como 'laberintos', en las profundidades de la [Red Oscura](/mage/sphere-effects/dark-web), prefiriendo este reino de código limpio y crueldad a los más desordenados reinos del Horizonte. Informes sugieren que los [Nefandos](/mage/affiliations/nephandi) que se hacen llamar El Llamador podrían tener aquí su hogar. Consulta El Libro de los Caídos, pp. XX-XX para más detalles.\n\nTesoros: abundan los rumores de que puede haber alijos de información útil, código, e incluso equipo en la [Red Oscura](/mage/sphere-effects/dark-web). No persigas rumores sin [refuerzos](/mage/backgrounds/backup).",
+  "toc": [],
+  "prev": {
+    "slug": "apps-redes-sociales-y-la-red-oscura",
+    "title": "Apps, Redes Sociales y la Red Oscura"
+  },
+  "next": {
+    "slug": "capitulo-cuatro-el-baul-de-juguetes-del-tecnomante",
+    "title": "Capítulo Cuatro: El baúl de juguetes del tecnomante"
+  }
+}

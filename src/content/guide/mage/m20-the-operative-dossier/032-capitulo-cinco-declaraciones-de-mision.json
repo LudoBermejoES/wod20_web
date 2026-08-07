@@ -1,0 +1,32 @@
+{
+  "book_id": "m20-the-operative-dossier",
+  "line": "mage",
+  "order": 32,
+  "slug": "capitulo-cinco-declaraciones-de-mision",
+  "block": "capitulo-4",
+  "block_title": "Capítulo Cuatro: El Baúl de los Juguetes",
+  "chapter": "Capítulo Cinco: Declaraciones de misión",
+  "part": null,
+  "section": null,
+  "title": "Capítulo Cinco: Declaraciones de misión",
+  "content_type": "rule",
+  "source_line_range": [
+    2991,
+    2999
+  ],
+  "body_md": "## Capítulo Cinco: Declaraciones de misión\n\n'Lo harás porque debe hacerse. Lo harás porque nadie más puede.' - Borys Scherbina, Chernobyl, (2019)\n\nLas siguientes misiones han sido preocupaciones de la Unión de bajo nivel pero persistentes durante algún tiempo. Aunque actualmente calificadas como de baja prioridad, no obstante tienen el potencial de volverse candentes rápidamente. Si te encuentras supervisando a un equipo de operativas recién reclutadas, o deseando evaluar el desempeño de una operativa concreta, considera asignar una de las siguientes misiones. Aviso: aunque estas misiones se califican como de bajo nivel, sí conllevan cierto nivel de contacto con MURD o incluso Subversores de la Realidad. Supervisa con cuidado y mantente atenta al potencial de consecuencias imprevistas.\n\n\n## Misión Uno: Esperanza",
+  "toc": [
+    {
+      "text": "Misión Uno: Esperanza",
+      "anchor": "mision-uno-esperanza"
+    }
+  ],
+  "prev": {
+    "slug": "terranormalizacion",
+    "title": "Terranormalización"
+  },
+  "next": {
+    "slug": "mision-uno-esperanza",
+    "title": "Misión Uno: Esperanza"
+  }
+}
