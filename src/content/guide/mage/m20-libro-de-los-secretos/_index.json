@@ -53,6 +53,17 @@
               "content_type": "lore"
             }
           ]
+        },
+        {
+          "chapter": "Capítulo Uno: Rasgos Heroicos",
+          "pages": [
+            {
+              "slug": "capitulo-uno-rasgos-heroicos",
+              "title": "Capítulo Uno: Rasgos Heroicos",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
         }
       ]
     },
@@ -64,7 +75,7 @@
           "chapter": "Capítulo Uno: Rasgos Heroicos",
           "pages": [
             {
-              "slug": "capitulo-uno-rasgos-heroicos",
+              "slug": "capitulo-uno-rasgos-heroicos-2",
               "title": "Capítulo Uno: Rasgos Heroicos",
               "part": null,
               "content_type": "rule"
@@ -124,8 +135,8 @@
               "content_type": "rule"
             },
             {
-              "slug": "defectos-mentales-distraido-defecto-de-3-puntos",
-              "title": "Distraído (Defecto de 3 puntos)",
+              "slug": "defectos-mentales-inapropiado-defecto-de-1-a-4-puntos",
+              "title": "Inapropiado (Defecto de 1 a 4 puntos)",
               "part": null,
               "content_type": "rule"
             },
@@ -142,8 +153,8 @@
               "content_type": "rule"
             },
             {
-              "slug": "defectos-sociales-agente-doble-defecto-de-2-puntos",
-              "title": "Agente Doble (Defecto de 2 puntos)",
+              "slug": "defectos-sociales-inocente-defecto-de-1-punto",
+              "title": "Inocente (Defecto de 1 punto)",
               "part": null,
               "content_type": "rule"
             },
@@ -154,14 +165,14 @@
               "content_type": "rule"
             },
             {
-              "slug": "meritos-sobrenaturales-sentido-del-peligro-merito-de-3-puntos",
-              "title": "Sentido del Peligro (Mérito de 3 puntos)",
+              "slug": "meritos-sobrenaturales-medium-merito-de-2-puntos",
+              "title": "Médium (Mérito de 2 puntos)",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "meritos-sobrenaturales-inmortal-merito-de-5-o-7-puntos",
-              "title": "'Inmortal' (Mérito de 5 o 7 puntos)",
+              "slug": "meritos-sobrenaturales-afinidad-umbral-merito-de-4-puntos",
+              "title": "Afinidad Umbral (Mérito de 4 puntos)",
               "part": null,
               "content_type": "rule"
             },
@@ -172,14 +183,14 @@
               "content_type": "rule"
             },
             {
-              "slug": "defectos-sobrenaturales-alma-avida-de-sangre-defecto-de-2-3-o-5-puntos",
-              "title": "Alma Ávida de Sangre (Defecto de 2, 3 o 5 puntos)",
+              "slug": "defectos-sobrenaturales-sin-sombra-o-reflejo-defecto-de-1-o-2-puntos",
+              "title": "Sin Sombra o Reflejo (Defecto de 1 o 2 puntos)",
               "part": null,
               "content_type": "rule"
             },
             {
-              "slug": "defectos-sobrenaturales-perjuro-defecto-de-4-puntos",
-              "title": "Perjuro (Defecto de 4 puntos)",
+              "slug": "defectos-sobrenaturales-mejora-defectuosa-defecto-de-2-a-5-puntos",
+              "title": "Mejora Defectuosa (Defecto de 2 a 5 puntos)",
               "part": null,
               "content_type": "rule"
             },
@@ -187,6 +198,12 @@
               "slug": "meritos-y-defectos-tablas-resumen",
               "title": "Méritos y Defectos: tablas resumen",
               "part": "Méritos y Defectos: tablas resumen",
+              "content_type": "rule"
+            },
+            {
+              "slug": "sistemas-de-combate-expandidos",
+              "title": "Sistemas de combate expandidos",
+              "part": "Sistemas de combate expandidos",
               "content_type": "rule"
             }
           ]
@@ -197,24 +214,12 @@
             {
               "slug": "capitulo-dos-opciones-y-reglas-expandidas",
               "title": "Capítulo Dos: Opciones y Reglas Expandidas",
-              "part": null,
+              "part": "Capítulo Dos: Opciones y Reglas Expandidas",
               "content_type": "rule"
             },
             {
-              "slug": "sistemas-de-combate-expandidos",
-              "title": "Sistemas de combate expandidos",
-              "part": "Sistemas de combate expandidos",
-              "content_type": "rule"
-            },
-            {
-              "slug": "sistemas-de-combate-expandidos-tablas-mexicanas",
+              "slug": "capitulo-dos-opciones-y-reglas-expandidas-tablas-mexicanas",
               "title": "Tablas mexicanas",
-              "part": null,
-              "content_type": "rule"
-            },
-            {
-              "slug": "sistemas-de-combate-expandidos-esquiva-de-locus",
-              "title": "Esquiva de locus",
               "part": null,
               "content_type": "rule"
             },
@@ -231,8 +236,8 @@
               "content_type": "rule"
             },
             {
-              "slug": "sistemas-informaticos-e-infotecnologia-truco-de-mago-tiempo-flash-tiempo-lag",
-              "title": "Truco de mago: Tiempo flash / tiempo lag",
+              "slug": "sistemas-informaticos-e-infotecnologia-programar-reparar-y-arquitectura-de-sistemas",
+              "title": "Programar, reparar y arquitectura de sistemas",
               "part": null,
               "content_type": "rule"
             },
@@ -243,15 +248,21 @@
               "content_type": "rule"
             },
             {
-              "slug": "resonancia-fisica-de-la-consecuencia-puntos-iniciales",
-              "title": "Puntos iniciales",
-              "part": null,
+              "slug": "resonancia-fisica-de-la-consecuencia-grados-de-resonancia",
+              "title": "Resonancia: física de la consecuencia: Grados de Resonancia",
+              "part": "Resonancia: física de la consecuencia",
               "content_type": "rule"
             },
             {
               "slug": "maravillas-objetos-encantados",
               "title": "Maravillas: objetos encantados",
               "part": "Maravillas: objetos encantados",
+              "content_type": "rule"
+            },
+            {
+              "slug": "maravillas-objetos-encantados-artilugios",
+              "title": "Artilugios",
+              "part": null,
               "content_type": "rule"
             },
             {
@@ -283,17 +294,6 @@
               "title": "Paso Tres: Investidura Acelerar la Maravilla",
               "part": null,
               "content_type": "rule"
-            }
-          ]
-        },
-        {
-          "chapter": "Capítulo Tres: Asuntos de Foco",
-          "pages": [
-            {
-              "slug": "capitulo-tres-asuntos-de-foco",
-              "title": "Capítulo Tres: Asuntos de Foco",
-              "part": null,
-              "content_type": "rule"
             },
             {
               "slug": "como-funciona-el-foco",
@@ -318,17 +318,22 @@
               "title": "Ejemplos en juego",
               "part": "Ejemplos en juego",
               "content_type": "rule"
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Tres: Asuntos de Foco",
+          "pages": [
+            {
+              "slug": "capitulo-tres-asuntos-de-foco",
+              "title": "Capítulo Tres: Asuntos de Foco",
+              "part": null,
+              "content_type": "rule"
             },
             {
               "slug": "paradigmas-expandidos",
               "title": "Paradigmas expandidos",
               "part": "Paradigmas expandidos",
-              "content_type": "rule"
-            },
-            {
-              "slug": "paradigmas-expandidos-veneracion-de-ancestros",
-              "title": "Veneración de Ancestros",
-              "part": null,
               "content_type": "rule"
             },
             {
@@ -338,16 +343,28 @@
               "content_type": "rule"
             },
             {
-              "slug": "practicas-expandidas-psionica",
-              "title": "Psiónica",
-              "part": null,
-              "content_type": "rule"
-            },
-            {
               "slug": "instrumentos-expandidos",
               "title": "Instrumentos expandidos",
               "part": "Instrumentos expandidos",
               "content_type": "rule"
+            },
+            {
+              "slug": "entre-las-tradiciones",
+              "title": "Entre las Tradiciones",
+              "part": "Entre las Tradiciones",
+              "content_type": "lore"
+            },
+            {
+              "slug": "entre-las-tradiciones-psionica",
+              "title": "Psiónica",
+              "part": null,
+              "content_type": "lore"
+            },
+            {
+              "slug": "entre-las-tradiciones-canibalismo",
+              "title": "Canibalismo",
+              "part": null,
+              "content_type": "lore"
             }
           ]
         },
@@ -358,30 +375,12 @@
               "slug": "capitulo-cuatro-justicia-e-influencia",
               "title": "Capítulo Cuatro: Justicia e Influencia",
               "part": null,
-              "content_type": "lore"
-            },
-            {
-              "slug": "entre-las-tradiciones",
-              "title": "Entre las Tradiciones",
-              "part": "Entre las Tradiciones",
-              "content_type": "lore"
-            },
-            {
-              "slug": "entre-las-tradiciones-marcas-de-castigo-de-las-tradiciones",
-              "title": "Marcas de castigo de las Tradiciones",
-              "part": null,
-              "content_type": "lore"
+              "content_type": "rule"
             },
             {
               "slug": "dentro-de-la-union-tecnocratica",
               "title": "Dentro de la Unión Tecnocrática",
               "part": "Dentro de la Unión Tecnocrática",
-              "content_type": "lore"
-            },
-            {
-              "slug": "dentro-de-la-union-tecnocratica-reprimenda",
-              "title": "Reprimenda",
-              "part": null,
               "content_type": "lore"
             },
             {
@@ -403,19 +402,8 @@
               "content_type": "lore"
             },
             {
-              "slug": "entre-los-locos-picota",
-              "title": "Picota",
-              "part": null,
-              "content_type": "lore"
-            }
-          ]
-        },
-        {
-          "chapter": "Capítulo Cinco: Por hablar de todo un poco...",
-          "pages": [
-            {
-              "slug": "capitulo-cinco-por-hablar-de-todo-un-poco",
-              "title": "Capítulo Cinco: Por hablar de todo un poco...",
+              "slug": "entre-los-locos-ejecutores-generales",
+              "title": "Ejecutores Generales",
               "part": null,
               "content_type": "lore"
             },
@@ -436,12 +424,17 @@
               "title": "Reglas de Mago 20",
               "part": "Reglas de Mago 20",
               "content_type": "lore"
-            },
+            }
+          ]
+        },
+        {
+          "chapter": "Capítulo Cinco: Por hablar de todo un poco...",
+          "pages": [
             {
-              "slug": "reglas-de-mago-20-b-se-anaden-los-exitos-de-la-tirada-de-atributo-habilidad-a-la-reserva-de-dano",
-              "title": "b) ¿Se añaden los éxitos de la tirada de Atributo + Habilidad a la reserva de DAÑO?",
+              "slug": "capitulo-cinco-por-hablar-de-todo-un-poco",
+              "title": "Capítulo Cinco: Por hablar de todo un poco...",
               "part": null,
-              "content_type": "lore"
+              "content_type": "rule"
             },
             {
               "slug": "narrativa-genero-y-mago",
@@ -456,14 +449,8 @@
               "content_type": "lore"
             },
             {
-              "slug": "sabores-de-genero-ciencia-ficcion",
-              "title": "Ciencia ficción",
-              "part": null,
-              "content_type": "lore"
-            },
-            {
-              "slug": "sabores-de-genero-comedia-satira",
-              "title": "Comedia / sátira",
+              "slug": "sabores-de-genero-todo-recien-despertado-brilla-como-si-fuera-una-baliza-para-los-personajes-en-los-otros-mundos",
+              "title": "¿Todo recién Despertado brilla como si fuera una baliza para los personajes en los Otros Mundos?",
               "part": null,
               "content_type": "lore"
             },
@@ -474,15 +461,33 @@
               "content_type": "lore"
             },
             {
-              "slug": "iluminaciones-e-inquietas-divagaciones-magia-simpatica",
-              "title": "Magia simpática",
-              "part": null,
-              "content_type": "lore"
-            },
-            {
               "slug": "recursos-recomendados",
               "title": "Recursos recomendados",
               "part": "Recursos recomendados",
+              "content_type": "reference"
+            },
+            {
+              "slug": "recursos-recomendados-genero-negro",
+              "title": "Género negro",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "recursos-recomendados-iluminaciones-e-inquietas-divagaciones",
+              "title": "Iluminaciones e inquietas divagaciones",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "recursos-recomendados-magia-simpatica",
+              "title": "Magia simpática",
+              "part": null,
+              "content_type": "reference"
+            },
+            {
+              "slug": "recursos-recomendados-sitios-web",
+              "title": "Sitios web",
+              "part": null,
               "content_type": "reference"
             }
           ]

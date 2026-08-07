@@ -3,25 +3,25 @@
   "line": "mage",
   "order": 3,
   "slug": "capitulo-uno-rasgos-heroicos",
-  "block": "los-capitulos",
-  "block_title": "Los Capítulos",
+  "block": "introduccion",
+  "block_title": "Introducción",
   "chapter": "Capítulo Uno: Rasgos Heroicos",
   "part": null,
   "section": null,
   "title": "Capítulo Uno: Rasgos Heroicos",
   "content_type": "rule",
   "source_line_range": [
-    520,
-    547
+    499,
+    519
   ],
-  "body_md": "## De qué estamos hechos\n\nAunque la imaginación es el elemento más importante de cualquier personaje de Mago, hemos de admitir que una amplia gama de Rasgos opcionales puede hacer el juego más divertido. Sin duda, el Capítulo Seis y el Apéndice II de Mago 20 contienen los Rasgos más esenciales del juego; pero para quienes quieren interpretar, por ejemplo, a un espadachín ciego hereje con una impresionante tolerancia al alcohol, el siguiente capítulo presenta docenas y docenas de Arquetipos, Habilidades, Méritos y Defectos que pueden condimentar tu crónica y agregar nuevos sabores a un guiso ya rebosante.\n\nLa siguiente colección de Rasgos puede considerarse definitiva para Mago 20º Aniversario. Como mencionamos antes (y reiteraremos más adelante), varios de estos Rasgos revisan y en ocasiones reemplazan Rasgos de ediciones anteriores. Si tu grupo prefiere las versiones originales de esos Rasgos, no dudes en usarlas. Sin embargo, esas versiones anteriores pueden no cuadrar con los libros más recientes del 20º Aniversario, así que ten en cuenta ese detalle antes de decidir. Al igual que con el resto de reglas presentadas a lo largo de este libro, estos Rasgos se consideran reglas opcionales. Tu Narrador puede permitir o descartar uno, algunos o todos los Rasgos a continuación.\n\nArquetipos (pág. 14-15).\n\nHabilidades secundarias:\n\nTalentos (pág. 18-22).\n\nTécnicas (pág. 22-30).\n\nConocimientos (pág. 30-34).\n\nMéritos y Defectos (pág. 34-99):\n\nFísicos (pág. 36-43).\n\nMentales (pág. 43-53).\n\nEste capítulo contiene los siguientes Rasgos en las siguientes páginas:\n\nSociales (pág. 53-68).\n\nSobrenaturales (pág. 68-96).",
+  "body_md": "## Capítulo Uno: Rasgos Heroicos\n\n«Los héroes son gente ordinaria que hace de sí misma gente extraordinaria.» - Gerard Way\n\n-Corrección del mercado.\n-¿Perdón?\n-Los cuernos -dijo Jeremy Post, mientras la tenue luz del halógeno se reflejaba en las protuberancias óseas que se proyectaban desde su alta frente-. Otra maldita corrección del mercado.\n\n-Oh, Post -respondió su amiga, cuya voz se deslizaba hacia un tono de medio regaño-. ¿No has aprendido a hacerlo mejor?\n\nJeremy Post, 'Hombre Mágico' del equipo financiero de Schofeld Bloom, tragó de golpe algo fuerte y ámbar del vaso de chupito en su mano. La abrasión afectó a sus ojos por un momento. Cuando los abrió de nuevo, parecían de algún modo más brillantes, no centelleantes, sino iluminados por un brillo de áspera satisfacción. Su compañera, Marjory Tate Sinclair, sorbió su propia bebida y sacudió la cabeza con fingida desesperación.\n\n-El riesgo está donde está la magia, Sinclair -dijo una vez el espirituoso dejó de soldarle la tráquea. La voz de Post tenía el tono de alguien que ha estado bebiendo poco pero de manera constante-. Sin riesgos, no hay ganancias, lo sabes.\n\nJuega demasiado seguro y volverás a beber con los muchachos de la oficina de correos.\n\nSinclair resopló, mientras su nariz ardía con un desprecio de doble filo.\n\n-Ha pasado mucho tiempo desde que vi a UN SOLO chico en correos, Post. Ahí es donde envían a las personas como yo.\n-No como tú -le aseguró Post-. Has cumplido con tu parte aquí desde el Primer Día.\n-Mi parte, tu parte, siento que incluso la de correos algunos días. -Ella volvió a mirar sus cuernos-. En cualquier caso, ¿qué vas a hacer?",
   "toc": [],
   "prev": {
     "slug": "un-tesoro-personal",
     "title": "Un tesoro personal"
   },
   "next": {
-    "slug": "arquetipos",
-    "title": "Arquetipos"
+    "slug": "capitulo-uno-rasgos-heroicos-2",
+    "title": "Capítulo Uno: Rasgos Heroicos"
   }
 }

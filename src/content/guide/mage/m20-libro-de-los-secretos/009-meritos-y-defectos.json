@@ -1,0 +1,32 @@
+{
+  "book_id": "m20-libro-de-los-secretos",
+  "line": "mage",
+  "order": 9,
+  "slug": "meritos-y-defectos",
+  "block": "los-capitulos",
+  "block_title": "Los Capítulos",
+  "chapter": "Capítulo Uno: Rasgos Heroicos",
+  "part": "Méritos y Defectos",
+  "section": null,
+  "title": "Méritos y Defectos",
+  "content_type": "rule",
+  "source_line_range": [
+    2072,
+    2129
+  ],
+  "body_md": "Estudiante: Un estudio más a fondo revela su funcionamiento.\n\n•••\n\nErudito: Los [elementos](/mage/instruments/elements) esotéricos del credo que has escogido resultan obvios.\n\n••••\n\nProfesor: Eres una entregada autoridad de tu credo… y puede que también de otros.\n\n•••••\n\nMaestro: Pocos entienden tanto como tú los pilares de la creencia.\n\nPoseído por: Clero, líderes religiosos, historiadores religiosos, defensores de la fe, inquisidores, activistas, eruditos, misioneros, fanáticos, magos del Coro.\n\nEspecialidades sugeridas: Religión Comparada, Teología de la Prosperidad, Ortodoxia, Contrateología, [Comunión](/mage/rotes/communion) de Religión y Ciencia, Activismo Religioso, Historia Religiosa, Teologías Alternativas / Marginales, Tecnicismos, Escrituras Ocultas, Secretos Oscuros, Colaboración Religiosogubernamental, Teología del Fin de los Tiempos, credos específicos (Catolicismo Español, Neopaganismo Nórdico, Judaísmo Reformista, Unitarismo Universalista, Budismo Tibetano, etc.).\n\n## Teorías de la Conspiración\n\n'Ellos' no son simplemente proyecciones de una mente que delira. Sabes muy bien que los mandamases secretos manipulan el mundo, y tú eres parte de sus planes. En el Mundo de Tinieblas, la [paranoia](/mage/derangements/paranoia) es una técnica de supervivencia; por eso, este Conocimiento te da pistas de las conspiraciones que pueden estar devorando el mundo desde dentro o no. Naturalmente, tal información te convierte en un objetivo… y aunque puede que estés paranoico, probablemente Ellos estén tratando de atraparte… especialmente si también trabajas para Ellos.\n\n•\n\nAficionado: Presentador de noticias de la Fox.\n\n••\n\nEstudiante: Fan de Jiménez Losantos.\n\n•••\n\nErudito: Jiménez Losantos.\n\n••••\n\nProfesor: Iker Jiménez.\n\n•••••\n\nMaestro: La Verdad Está Ahí Fuera… y tú la posees.\n\nPoseído por: Blogueros, comentaristas, activistas, productores de televisión, diseñadores de juegos, trols de Internet, miembros del Tea Party, quienes mueven los hilos, operativos de los medios, ufólogos, agentes gubernamentales, supervivencialistas, gente que está acojonada del mundo en general.\n\nEspecialidades sugeridas: Conocimiento Político de la Derecha, Conocimiento Político de la Izquierda, Bromas, 11S, Certificados de Nacimiento, Bebés para Obtener la Residencia, Blogs, Periódicos, Alienígenas, Megacorporaciones, Los Guardianes de la Libertad, Historia Oculta, Cultos, Satanismo Alternativo, Iglesia Católica, Cábalas Sionistas, Subversores de la Realidad (Mascarada Vampírica, manadas de Hombres Bestia, facciones de la Guerra de la Ascensión, etc.), Tramas Tecnocráticas, Encubrimientos del Gobierno, Grandes Fortunas, Grandes Medios, Sigue el Dinero, Juegos de Rol.\n\n## Timonel\n\nLa barroca complejidad de las naves espaciales es suficiente para dar dolores de cabeza a la mayoría de la gente. Pero no a ti. Un riguroso entrenamiento te ha enseñado a manejar las extrañas embarcaciones que operan más allá del reino mundano. Aunque probablemente necesites tripulación de apoyo (¡las naves espaciales son complicadas!), tienes conocimientos prácticos en lo que respecta a las diversas pantallas, botones, llaves y monitores implicados en navegar y dirigir [vehículos](/mage/instruments/vehicles) tan avanzados.\n\nA pesar de las semejanzas cosméticas con la Técnica Pilotar, Timonel funciona en una clase de vehículo totalmente distinta. Y dado que lidia con astronaves, muy pocos personajes (aparte de los [Ingenieros del Vacío](/mage/affiliations/void-engineers) y ciertos Eteritas) saben que existe… e incluso menos han estudiado sus técnicas. A propósito, hay algunas diferencias significativas entre los controles estandarizados de las naves de la flota Tecnocrática y los diseños más… elegantes de los singulares navíos Eteritas. En términos de juego, el Narrador debería imponer una penalización, normalmente entre -1 y -3, a un timonel que trate de descifrar un conjunto de controles con el que no esté familiarizado. Oh, las consecuencias de una mala tirada pueden ser directamente terribles. En el (Eter)espacio nadie puede oírte morir.\n\n•\n\nAficionado: Estás entrenado en las operaciones básicas de un transbordador.\n\n••",
+  "toc": [
+    {
+      "text": "Timonel",
+      "anchor": "timonel"
+    }
+  ],
+  "prev": {
+    "slug": "habilidades-secundarias-conocimientos",
+    "title": "Habilidades secundarias: Conocimientos"
+  },
+  "next": {
+    "slug": "meritos-fisicos",
+    "title": "Méritos físicos"
+  }
+}
