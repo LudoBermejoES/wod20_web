@@ -1,0 +1,93 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "order": 22,
+  "slug": "m20-prism-of-focus-archimagos",
+  "block": "contenido",
+  "block_title": "Contenido",
+  "chapter": "m20-prism-of-focus",
+  "part": "m20-prism-of-focus",
+  "section": "Archimagos",
+  "title": "m20-prism-of-focus: Archimagos",
+  "content_type": "rule",
+  "source_line_range": [
+    5024,
+    5130
+  ],
+  "body_md": "## Archimagos\n\nCon diferencia, el tipo más común de mago de Areté 6 o superior, los Archimagos han optado por su Foco y su poder por encima de otros incentivos. Los Archimagos son capaces de aprender esferas hasta un sexto punto. Sin embargo, son incapaces para siempre de superar su Foco. En su lugar, se convierten en verdaderos maestros de sus Prácticas. Pueden seguir aumentando sus Prácticas por encima de 6, aunque ahora están limitados por su Areté. Al alcanzar un sexto punto en una Práctica, algún efecto de bajo nivel (esferas de dos puntos o menos) que realicen usando esa Práctica, generalmente una fórmula, queda tan incrustado en su [patrón](/mage/backgrounds/patron) que deja de contar como vulgar para ellos. También obtienen un punto de Resonancia ligado a la Práctica, que únicamente los niveles de magia Cardinal reservados a los Ejemplares pueden llegar a enmascarar.\n\nLos Archimagos tienden a permanecer activos en la sociedad de los magos. Son los grandes y legendarios líderes de sus Tradiciones, Convenciones u Oficios. A menudo se dedican a tareas colosales que les llevarán años, décadas o siglos. Algunos construyen sus propios Reinos del Horizonte (la mayoría de los demás simplemente viven en los ya existentes), y otros se centran en desplazar el consenso o en derrotar a sus enemigos en la Guerra de la Ascensión. También transmiten sus prejuicios y valores a sus alumnos, ya que muchos se convierten en mentores prolíficos de magos jóvenes. Sea lo que sea que decidan hacer, su poder personal y su accesibilidad los convierten en pesos pesados políticos a los que no se desafía a la ligera.\n\n### Preceptos y Archimaestría\n\nLos Preceptos del Paradigma de un mago influyen fuertemente en qué camino termina tomando el mago si llega a Areté 6. Particularmente importantes son los Preceptos de Ascensión, que dan al mago su actitud hacia el extremo más elevado de la magia.\n\nAlcanzar el Conocimiento Pleno - Los magos con este Precepto son los más propensos a convertirse en Ejemplares, y la mayoría del resto se convierte en Archimagos. Es raro que un mago centrado en el conocimiento como objetivo renuncie a la oportunidad de aprender más magia de Esferas por una comprensión más abstracta del Areté.\n\nLa Aniquilación es Libertad - Con el foco puesto en la eventual abnegación del yo, estos magos son los más propensos a tomar el camino de los Oráculos y, en menor medida, el de los Ejemplares que buscan fundirse con una Esfera.\n\nConstruir una Utopía - Casi universalmente, estos magos se convierten en Archimagos, buscando el poder para cambiar el mundo, pero no perderse a sí mismos.\n\nLa Existencia Carece de Sentido - Otro grupo que tiende hacia el camino del Oráculo, aunque no con tanta fuerza. Ver todo como carente de sentido hace que la distinción entre los tres caminos parezca pequeña e insignificante, así que se los ve en los tres.\n\nFusionarse con lo Divino - Casi todos los magos que buscan fundirse con lo Divino toman el camino para convertirse en Oráculo, buscando la Ascensión en sí misma antes que el poder, el conocimiento o cualquier otro atributo de los caminos del Ejemplar y del Archimago.\n\nEl Poder es su Propia Recompensa - Los magos que buscan el poder tienden a ver la elección del camino de forma sencilla: los Archimagos terminan con el poder más amplio y la mayor capacidad para aprovecharlo. Aunque rara vez se encuentran en el camino de los Oráculos, algunos de ellos consideran que los Ejemplares son más poderosos que los Archimagos y toman ese camino en su lugar.\n\n## Ejemplares\n\nMás raros que los Archimagos son los Ejemplares. Estos magos se han obsesionado tanto con comprender una única esfera de la magia que esta empieza a consumirlos. Mientras que un Archimago puede aprender esferas de rango 6, un Ejemplar puede aprender una única esfera hasta el rango 10, pero ninguna otra esfera puede ser superior a 5. De hecho, no pueden usar ninguna otra esfera a un nivel superior a 10 menos su esfera ejemplar (la esfera que han elegido encarnar). Así, un personaje con Fuerzas 7 no puede usar Vida 4, pero Vida 3 sí le seguirá funcionando. Además, ya no necesitan usar sus Prácticas para efectos de bajo nivel que solo empleen su esfera ejemplar. En Esfera 6, pueden ignorar el Foco para efectos de rango 2 como máximo; en 7, pueden llegar hasta 4; en 8, hasta 6; en 9, hasta 8; y en 10 para todos los usos, momento en el que ya no pueden usar ninguna otra esfera y han dejado atrás, muy lejos, la humanidad y las perspectivas humanas.\n\nAl principio, los Ejemplares se parecen mucho a los Archimagos. Cuando su esfera ejemplar está solo en 6 o 7, tienden a seguir siendo accesibles para su facción, aunque a menudo distantes, a medida que se vuelven cada vez más ajenos. Más allá de eso, sin embargo, pierden la capacidad de relacionarse con humanos normales, incluso con otros magos. Restan un número de dados igual a su puntuación de esfera ejemplar menos 5 en todas las tiradas sociales que impliquen a seres no vinculados a su esfera ejemplar, como los espíritus del Reino [Sombra](/mage/psychic-phenomenons/sombra) u otros Ejemplares de esa esfera. Como resultado, casi todos los Ejemplares terminan retirándose al Reino [Sombra](/mage/psychic-phenomenons/sombra) correspondiente.\n\n## Oráculos\n\nEl camino más raro para los magos de Areté alto es el del Oráculo. Estos magos han tenido la [revelación](/mage/sphere-effects/revelation) de que su Práctica los limita, y algunos incluso se dan cuenta de que sus Preceptos son ciertos para ellos, pero no para los demás. Buscan superar su Foco y trascender su perspectiva mundana para abarcar el universo entero en su mayor iluminación. Cualquier efecto que use Esferas de rango inferior a su Areté-5 puede emplearse sin invocar sus Prácticas, aunque usarlas proporciona una bonificación de -1 a la dificultad. Para todos los efectos relacionados con Zonas de Realidad, Sanctums, Rituales, etc., actúan como si tuvieran una puntuación igual a su Areté-5 en todas las Prácticas, lo que hace que sea sencillo para un Oráculo trabajar con cualquier mago, sea quien sea.\n\nLos Oráculos rara vez interactúan como miembros con sus antiguas Tradiciones, Convenciones u Oficios. Al intentar trascender su Foco, tienden a superar rápidamente cualquier [lealtad](/mage/merits/lealtad) hacia una organización de magos. Suelen considerar que conflictos como la Guerra de la Ascensión son distracciones mezquinas frente a lo que realmente importa en el universo, aunque rara vez se ponen de acuerdo sobre cuáles son esas cosas. Aunque un Oráculo nunca puede aprender ninguna Esfera al nivel 6, también son el único de los tres caminos que conduce a la Ascensión, en lugar de a un callejón sin salida que el mago no podrá superar hasta su próxima vida. A menudo, los Oráculos se toman la molestia de hablar con magos al borde de una Búsqueda de Areté 6 para disuadirlos de convertirse en Archimagos o Ejemplares, de modo que no renuncien a su potencial de Ascensión en esta vida.\n\n## Arch-Esferas\n\nLas Arch-Esferas permiten a los magos romper sus limitaciones habituales. La escala, las conjunciones, los éxitos y los requisitos de quintaesencia se desvanecen para los magos que avanzan hacia el reino de las Arch-Esferas. Esto significa que un archimago puede ser extremadamente poderoso de una forma que los maestros no pueden, pero no se acercaría a lo que un Ejemplar puede desplegar en su propio reino. No existe ningún efecto específico que requiera Arch-Esferas, aunque muchas cosas son funcionalmente imposibles sin ellas.\n\nPor cada punto por encima de 5 en una Esfera, elige una Archimaestría. Esto afectará a todo lo que hagan con esa Esfera como Esfera Primaria. Ten en cuenta que los Oráculos nunca pueden obtener una Archimaestría, y los Archimagos solo pueden obtener una por Esfera, dejando que solo los Ejemplares puedan emplear más de una a la vez.\n\n### Área de Efecto\n\nEl mago puede seleccionar como objetivo a todas las personas dentro de un área simultáneamente. Los éxitos necesarios se determinan mediante la tabla de Correspondencia para el [tamaño](/mage/special-advantages/size) del área en lugar del [número de objetivos](/mage/aspects/numero-de-objetivos).\n\n### Contra-contrahechizo\n\nLa magia del Archimago con esta Esfera requiere el doble de éxitos para ser contrarrestada o deshecha.\n\n### Conjuro Doble\n\nEl Archimago puede realizar dos efectos que impliquen esta Esfera simultáneamente.\n\n### Conjunciones Más Fáciles\n\nLos efectos en los que la Arch-Esfera es la Esfera Primaria (determinado a discreción del Narrador) tienen sus requisitos de conjunción reducidos a la mitad, redondeando hacia abajo.\n\n### Quintaesencia Eficiente\n\nLos costes de Quintaesencia y tass se reducen a la mitad, redondeando hacia abajo, y pueden llegar a ser cero. Esto es especialmente apreciado por los Archimagos de Cardinal que pretenden crear Maravillas.\n\nLos Ejemplares pueden adquirir esta Archimaestría varias veces.\n\n### Especialización Extrema\n\nEl Archimago deja de duplicar los 10 al usar su Especialidad. En su lugar, tira dos dados por cada punto de Areté.\n\nLos Ejemplares pueden adquirir esta Archimaestría varias veces.\n\n### Reservas de Dados Mayores\n\nEl Archimago tira Atributo + Habilidad + Areté para las fórmulas.\n\n### Imán de Paradoja\n\nAl lanzar un efecto vulgar con esta Esfera, el Archimago puede hacer que toda la Paradoja acumulada por otros que usen esta Esfera se le aplique a él en lugar de al lanzador. Este efecto dura una escena y no puede cancelarse antes de tiempo.\n\n### Permanencia\n\nEl archimago puede extender permanentemente la [duración](/mage/aspects/duracion) de un efecto sin los éxitos normalmente requeridos, gastando un punto de Fuerza de Voluntad.\n\n### Acceso al Reino Sombra\n\nEl Archimago puede tirar Areté a dificultad 6 para trasladarse de inmediato al Reino [Sombra](/mage/psychic-phenomenons/sombra) de la Esfera en la que posee la Archimaestría.\n\n### Especialización Universal\n\nEl archimago comprende su esfera elegida hasta tal punto que trata todos los efectos que la usan como si su especialidad se aplicara.\n\n\n\n## A Través de la Lente del Poder\n\nEl Foco es un elemento central de Mago, aunque siempre ha sido difícil de concretar mecánicamente. M20 dio pasos importantes al separar tres aspectos de este: Paradigma, Práctica e Instrumentos. A pesar de ello, seguía confundiendo a los jugadores y se sentía separado del resto de las mecánicas del juego. En Prism of Focus, el Foco se asienta sobre una base más sólida y se integra en el resto de los sistemas de juego.\n\n## Desvelando el Espectro de la Realidad\n\nEste libro contiene:\n\n- Preceptos para describir Paradigmas\n- Desglose de cada Paradigma en Preceptos\n- Detalles de 31 Prácticas de M20 y Libro de los Secretos\n- 105 Nuevas Fórmulas\n- 81 Nuevas Maravillas",
+  "toc": [
+    {
+      "text": "Preceptos y Archimaestría",
+      "anchor": "preceptos-y-archimaestria"
+    },
+    {
+      "text": "Ejemplares",
+      "anchor": "ejemplares"
+    },
+    {
+      "text": "Oráculos",
+      "anchor": "oraculos"
+    },
+    {
+      "text": "Arch-Esferas",
+      "anchor": "arch-esferas"
+    },
+    {
+      "text": "Área de Efecto",
+      "anchor": "area-de-efecto"
+    },
+    {
+      "text": "Contra-contrahechizo",
+      "anchor": "contra-contrahechizo"
+    },
+    {
+      "text": "Conjuro Doble",
+      "anchor": "conjuro-doble"
+    },
+    {
+      "text": "Conjunciones Más Fáciles",
+      "anchor": "conjunciones-mas-faciles"
+    },
+    {
+      "text": "Quintaesencia Eficiente",
+      "anchor": "quintaesencia-eficiente"
+    },
+    {
+      "text": "Especialización Extrema",
+      "anchor": "especializacion-extrema"
+    },
+    {
+      "text": "Reservas de Dados Mayores",
+      "anchor": "reservas-de-dados-mayores"
+    },
+    {
+      "text": "Imán de Paradoja",
+      "anchor": "iman-de-paradoja"
+    },
+    {
+      "text": "Permanencia",
+      "anchor": "permanencia"
+    },
+    {
+      "text": "Acceso al Reino Sombra",
+      "anchor": "acceso-al-reino-sombra"
+    },
+    {
+      "text": "Especialización Universal",
+      "anchor": "especializacion-universal"
+    },
+    {
+      "text": "A Través de la Lente del Poder",
+      "anchor": "a-traves-de-la-lente-del-poder"
+    },
+    {
+      "text": "Desvelando el Espectro de la Realidad",
+      "anchor": "desvelando-el-espectro-de-la-realidad"
+    }
+  ],
+  "prev": {
+    "slug": "m20-prism-of-focus-romper-maldicion",
+    "title": "m20-prism-of-focus: Romper Maldición"
+  },
+  "next": null
+}

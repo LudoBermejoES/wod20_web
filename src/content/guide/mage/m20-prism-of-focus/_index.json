@@ -1,0 +1,158 @@
+{
+  "book_id": "m20-prism-of-focus",
+  "line": "mage",
+  "title_es": "M20 Prism of Focus",
+  "book_title_es": "M20 Prism of Focus",
+  "page_count": 23,
+  "tree": [
+    {
+      "block": "contenido",
+      "block_title": "Contenido",
+      "chapters": [
+        {
+          "chapter": "m20-prism-of-focus",
+          "pages": [
+            {
+              "slug": "m20-prism-of-focus",
+              "title": "m20-prism-of-focus",
+              "part": "m20-prism-of-focus",
+              "content_type": "rule"
+            },
+            {
+              "slug": "m20-prism-of-focus-surendra-chaudhary-archipresidente-del-sindicato",
+              "title": "m20-prism-of-focus: Surendra Chaudhary, Archipresidente del Sindicato",
+              "part": "m20-prism-of-focus",
+              "content_type": "rule"
+            },
+            {
+              "slug": "m20-prism-of-focus-apertura",
+              "title": "m20-prism-of-focus: Apertura",
+              "part": "m20-prism-of-focus",
+              "content_type": "rule"
+            },
+            {
+              "slug": "m20-prism-of-focus-la-existencia-es-incognoscible-irracional-y-sublime",
+              "title": "La Existencia es Incognoscible, Irracional y Sublime",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "m20-prism-of-focus-formulas",
+              "title": "Fórmulas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "m20-prism-of-focus-silencioso-como-un-raton",
+              "title": "Silencioso como un Ratón",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "m20-prism-of-focus-formulas-2",
+              "title": "Fórmulas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "m20-prism-of-focus-efectos-de-paradoja",
+              "title": "Efectos de Paradoja",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "m20-prism-of-focus-efectos-de-paradoja-2",
+              "title": "Efectos de Paradoja",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "m20-prism-of-focus-sobrecarga-sinestesica",
+              "title": "Sobrecarga Sinestésica",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "m20-prism-of-focus-formulas-3",
+              "title": "Fórmulas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "m20-prism-of-focus-especialidad-de-los-kopa-loei-orientacion",
+              "title": "Especialidad de los Kopa Loei: Orientación",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "m20-prism-of-focus-simbolo-del-yo",
+              "title": "Símbolo del Yo",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "m20-prism-of-focus-maravillas",
+              "title": "Maravillas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "m20-prism-of-focus-efectos-de-paradoja-3",
+              "title": "Efectos de Paradoja",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "m20-prism-of-focus-supresion-del-dolor",
+              "title": "Supresión del Dolor",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "m20-prism-of-focus-travesura-del-mono",
+              "title": "Travesura del Mono",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "m20-prism-of-focus-limpieza",
+              "title": "Limpieza",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "m20-prism-of-focus-formulas-4",
+              "title": "Fórmulas",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "m20-prism-of-focus-chamanismo",
+              "title": "Chamanismo",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "m20-prism-of-focus-el-cigarro-del-baron",
+              "title": "El Cigarro del Barón",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "m20-prism-of-focus-romper-maldicion",
+              "title": "Romper Maldición",
+              "part": null,
+              "content_type": "rule"
+            },
+            {
+              "slug": "m20-prism-of-focus-archimagos",
+              "title": "Archimagos",
+              "part": null,
+              "content_type": "rule"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
