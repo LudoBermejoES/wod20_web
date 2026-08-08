@@ -2226,6 +2226,193 @@
     "related": []
   },
   {
+    "id": "espada-titanica",
+    "type": "weapon",
+    "line": "mage",
+    "name_en": "Espada Titánica",
+    "name_es": "Espada Titánica",
+    "body_es": "",
+    "tags": [
+      "melee"
+    ],
+    "mechanics": {
+      "weapon_class": "melee",
+      "difficulty": "5",
+      "damage": "Fuerza +8",
+      "damage_type": "L"
+    },
+    "sources": [
+      {
+        "book_id": "m20-book-of-the-fallen",
+        "book_title_es": "M20 Book of the Fallen",
+        "page": null,
+        "section_anchor": "espada-titanica",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "hacha-masiva",
+    "type": "weapon",
+    "line": "mage",
+    "name_en": "Hacha Masiva",
+    "name_es": "Hacha Masiva",
+    "body_es": "",
+    "tags": [
+      "melee"
+    ],
+    "mechanics": {
+      "weapon_class": "melee",
+      "difficulty": "6",
+      "damage": "Fuerza +9",
+      "damage_type": "L"
+    },
+    "sources": [
+      {
+        "book_id": "m20-book-of-the-fallen",
+        "book_title_es": "M20 Book of the Fallen",
+        "page": null,
+        "section_anchor": "hacha-masiva",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "guadana-segadora",
+    "type": "weapon",
+    "line": "mage",
+    "name_en": "Guadaña Segadora",
+    "name_es": "Guadaña Segadora",
+    "body_es": "",
+    "tags": [
+      "melee"
+    ],
+    "mechanics": {
+      "weapon_class": "melee",
+      "difficulty": "7",
+      "damage": "Fuerza +9",
+      "damage_type": "L"
+    },
+    "sources": [
+      {
+        "book_id": "m20-book-of-the-fallen",
+        "book_title_es": "M20 Book of the Fallen",
+        "page": null,
+        "section_anchor": "guadana-segadora",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "asta-perversa",
+    "type": "weapon",
+    "line": "mage",
+    "name_en": "Asta Perversa",
+    "name_es": "Asta Perversa",
+    "body_es": "",
+    "tags": [
+      "melee"
+    ],
+    "mechanics": {
+      "weapon_class": "melee",
+      "difficulty": "6",
+      "damage": "Fuerza +7",
+      "damage_type": "L"
+    },
+    "sources": [
+      {
+        "book_id": "m20-book-of-the-fallen",
+        "book_title_es": "M20 Book of the Fallen",
+        "page": null,
+        "section_anchor": "asta-perversa",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "maza-aplastante",
+    "type": "weapon",
+    "line": "mage",
+    "name_en": "Maza Aplastante",
+    "name_es": "Maza Aplastante",
+    "body_es": "",
+    "tags": [
+      "melee"
+    ],
+    "mechanics": {
+      "weapon_class": "melee",
+      "difficulty": "7",
+      "damage": "Fuerza +10/B"
+    },
+    "sources": [
+      {
+        "book_id": "m20-book-of-the-fallen",
+        "book_title_es": "M20 Book of the Fallen",
+        "page": null,
+        "section_anchor": "maza-aplastante",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "garrote-grotesco-con-puas",
+    "type": "weapon",
+    "line": "mage",
+    "name_en": "Garrote Grotesco con Púas",
+    "name_es": "Garrote Grotesco con Púas",
+    "body_es": "",
+    "tags": [
+      "melee"
+    ],
+    "mechanics": {
+      "weapon_class": "melee",
+      "difficulty": "6",
+      "damage": "Fuerza +7",
+      "damage_type": "L"
+    },
+    "sources": [
+      {
+        "book_id": "m20-book-of-the-fallen",
+        "book_title_es": "M20 Book of the Fallen",
+        "page": null,
+        "section_anchor": "garrote-grotesco-con-puas",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "gato-de-nueve-colas-con-puas",
+    "type": "weapon",
+    "line": "mage",
+    "name_en": "Gato de Nueve Colas con Púas",
+    "name_es": "Gato de Nueve Colas con Púas",
+    "body_es": "",
+    "tags": [
+      "melee"
+    ],
+    "mechanics": {
+      "weapon_class": "melee",
+      "difficulty": "6",
+      "damage": "Fuerza/L*"
+    },
+    "sources": [
+      {
+        "book_id": "m20-book-of-the-fallen",
+        "book_title_es": "M20 Book of the Fallen",
+        "page": null,
+        "section_anchor": "gato-de-nueve-colas-con-puas",
+        "variant": "base"
+      }
+    ],
+    "related": []
+  },
+  {
     "id": "all-power-comes-from-sin",
     "type": "paradigm",
     "line": "mage",
@@ -12919,7 +13106,7 @@
     "variants": [
       {
         "book_id": "m20-gods-monsters",
-        "body_es": "Cuando los magos —o, más a menudo, los Tecnócratas— que pertenecen a una organización se meten en un aprieto, pueden recurrir a los Refuerzos: consortes profesionales encargados de sacar de problemas a esos agentes Iluminados o Despertados. A diferencia de los asistentes y otros compañeros personales, esta gente trabaja para una organización mayor, no para el mago misma. Unos pocos magos adinerados también mantienen agentes de Refuerzo mortales, como parte de una organización que comandan; en su mayor parte, sin embargo, estos compañeros sirven a una causa mayor que ambas partes implicadas.\n\nComo sugiere el nombre, los consortes de Refuerzo tienden a ser agentes de fuerza armada: policías, soldados, guardaespaldas, tropas paramilitares y similares. En una crisis, entran en acción y proporcionan fuego de cobertura, extracciones, distracciones, huidas y otras vías de victoria o escape. Ciertos agentes se ocupan también de situaciones más mundanas: mover material, entregar dinero, transmitir mensajes, limpiar el desaguisado de un mago (ver la entrada de más abajo), proporcionar asistencia contable o administrativa, invocar ayuda diplomática, movilizar canales mediáticos, y facilitar otras formas de refuerzo no violento. Las habilidades, personalidades y motivaciones de estos agentes, entonces, dependen de la organización a la que sirven y del papel que desempeñan dentro de ella.\n\nLos agentes de Refuerzo generalmente sienten [lealtad](/mage/merits/lealtad) hacia el grupo además de hacia su remuneración financiera, más obvia. Como regla general, sin embargo, su primera y más importante motivación implica una nómina. Como su homólogo el Profesional (pág. XX), esta gente es esencialmente mercenaria: trabajadores [empleados](/mage/instruments/employees) por una causa, cliente o institución específicos, cierto, pero sobre todo dedicados a su nómina. Así, cuando se enfrentan a situaciones aparentemente imposibles, esta gente tiende a retirarse combatiendo o, si es posible, a huir. Al fin y al cabo, esa nómina no te sirve de mucho si resulta que te matan mientras te la ganas.\n\nComo se detalla en el Trasfondo Refuerzos (Mago 20, págs. 306-307), estos compañeros llegan en grupos que se encargan de ciertos tipos de tareas. Esos grupos cuentan con un líder de equipo que da las órdenes mientras los especialistas se ocupan de diferentes funciones dentro del objetivo general del equipo. Un equipo de agentes de apoyo de fuego se desplegará, buscará cobertura, y seguirá las órdenes de su líder de equipo, desplegando las tácticas y [armas](/mage/instruments/weapons) que empleen esos agentes. Como resultado, los agentes de Refuerzo no siguen las órdenes del mago a quien están asignados para proteger; al fin y al cabo, si ella supiera lo que está haciendo, no los necesitaría allí para empezar. El líder de equipo podría aceptar la opinión del mago presente, pero ese tipo de cosas tiende a ser un acuerdo «solo si hace falta». El líder de equipo, sea quien sea, tiene la primera y la última palabra… y si esa palabra implica abandonar al mago, pues que así sea. Los agentes de Refuerzo arriesgan sus vidas solo cuando deben, y solo al servicio de su organización, no para servir al mago que los llamó.\n\nDentro de cada equipo, las personalidades y habilidades individuales de los miembros se corresponden con los tipos de situaciones para las que son enviados. Un grupo de mercenarios curtidos en mil batallas no aparecerá para ayudar a un mago con sus impuestos, mientras que un grupo de contables cualificados se desenvolvería mal en tiroteos desesperados. Sean quienes sean, sin embargo, estarán entrenados para esperar cualquier tipo de disparate que altere la realidad y que puedan crear sus magos asociados; en términos de juego, no cuentan como testigos de magia vulgar siempre que dicha vulgaridad venga de un mago de su organización. Como se mencionó antes, el Refuerzo de la Tecnocracia contaría como testigo contra la Desviación mística de la Realidad, pero no contra la [hipertecnología](/mage/practices/hypertech) Iluminada, aunque dicha [hipertecnología](/mage/practices/hypertech) venga de otro tipo de tecnomante, siempre que el mago siga usando alguna forma de principios científicos razonablemente explicables. Claro, ese ejército de robots del Eterita parece científicamente plausible, ¡pero esa bruja que [lanza](/mage/weapons/lanza) rayos con su móvil está cometiendo crímenes contra la Realidad! Un aquelarre de agentes de Refuerzo neopaganos, por otro lado, encontraría eso perfectamente normal (aunque inusual) dentro de su esfera de creencias.\n\nAunque la entrada de Trasfondo se refiere al personal de Refuerzo como «sin rostro», ellos desde luego no se ven a sí mismos ni entre ellos de esa manera. Donde un mago ve a un montón de gente esencialmente anónima acudiendo en su ayuda, los propios agentes respetan a sus compañeros, se cubren mutuamente las espaldas, y siguen las instrucciones de su empleador. Un mago que no esté dispuesto a respetar esas cosas puede irse a freír espárragos, por lo que a los agentes de Refuerzo respecta. Aunque probablemente reconozcan las capacidades superiores del mago, el personal de Refuerzo no se verá a sí mismo, y mucho menos actuará, como carne de cañón, a menos que su [lealtad](/mage/merits/lealtad) al grupo los vuelva prescindibles a sus propios ojos. Sobre todo en el mundo moderno, sin embargo, esa devoción es inusual a menos que esos agentes sean fanáticos, esclavos, maltratados hasta la sumisión perpetua, o de alguna otra forma orientados hacia el comportamiento autodestructivo; en la mayoría de las situaciones, ese comportamiento vuelve a esos agentes menos eficaces, no más, que los operativos de voluntad libre que hacen lo que hacen por sus propias razones.\n\nRasgos sugeridos: Como se detalla en la entrada de Trasfondo de ese nombre, los personajes de Refuerzo rasos tienen entre uno y tres puntos en un puñado de Habilidades útiles. Los agentes de Refuerzo de élite pueden tener Rasgos más altos y Méritos, Defectos y Ventajas apropiados para el personaje. Las Habilidades en cuestión tendrán que ver con las funciones de los operativos y su equipo; el Refuerzo de seguridad o paramilitar contará con [Armas](/mage/instruments/weapons) de Fuego, Pelea con [Armas](/mage/instruments/weapons), Pelea, y demás, mientras que un equipo de reparación favorece la [Artesanía](/mage/practices/craftwork), la Informática, la Tecnología y otros Rasgos adecuados.\n\nPlantillas sugeridas: Mago 20, pág. 306, incluye una lista de posible personal de Refuerzo. Como sugiere esa lista, esos agentes no tienen por qué ser humanos; manadas de ratas o lobos, tropas de monos, o bandadas de cuervos también podrían ser agentes de Refuerzo. Aunque todos los agentes de un equipo de Refuerzo dado compartirán una plantilla relacionada (Lobo, Rufián Profesional, etc.), los individuos dentro de ese equipo tienen Rasgos específicos que reflejan su papel.",
+        "body_es": "Cuando los magos —o, más a menudo, los Tecnócratas— que pertenecen a una organización se meten en un aprieto, pueden recurrir a los Refuerzos: consortes profesionales encargados de sacar de problemas a esos agentes Iluminados o Despertados. A diferencia de los asistentes y otros compañeros personales, esta gente trabaja para una organización mayor, no para el mago misma. Unos pocos magos adinerados también mantienen agentes de Refuerzo mortales, como parte de una organización que comandan; en su mayor parte, sin embargo, estos compañeros sirven a una causa mayor que ambas partes implicadas.\n\nComo sugiere el nombre, los consortes de Refuerzo tienden a ser agentes de fuerza armada: policías, soldados, guardaespaldas, tropas paramilitares y similares. En una crisis, entran en acción y proporcionan fuego de cobertura, extracciones, distracciones, huidas y otras vías de victoria o escape. Ciertos agentes se ocupan también de situaciones más mundanas: mover material, entregar dinero, transmitir mensajes, limpiar el desaguisado de un mago (ver la entrada de más abajo), proporcionar asistencia contable o administrativa, invocar ayuda diplomática, movilizar canales mediáticos, y facilitar otras formas de refuerzo no violento. Las habilidades, personalidades y motivaciones de estos agentes, entonces, dependen de la organización a la que sirven y del papel que desempeñan dentro de ella.\n\nLos agentes de Refuerzo generalmente sienten [lealtad](/mage/merits/lealtad) hacia el grupo además de hacia su remuneración financiera, más obvia. Como regla general, sin embargo, su primera y más importante motivación implica una nómina. Como su homólogo el Profesional (pág. XX), esta gente es esencialmente mercenaria: trabajadores [empleados](/mage/instruments/employees) por una causa, cliente o institución específicos, cierto, pero sobre todo dedicados a su nómina. Así, cuando se enfrentan a situaciones aparentemente imposibles, esta gente tiende a retirarse combatiendo o, si es posible, a huir. Al fin y al cabo, esa nómina no te sirve de mucho si resulta que te matan mientras te la ganas.\n\nComo se detalla en el Trasfondo Refuerzos (Mago 20, págs. 306-307), estos compañeros llegan en grupos que se encargan de ciertos tipos de tareas. Esos grupos cuentan con un líder de equipo que da las órdenes mientras los especialistas se ocupan de diferentes funciones dentro del objetivo general del equipo. Un equipo de agentes de apoyo de fuego se desplegará, buscará cobertura, y seguirá las órdenes de su líder de equipo, desplegando las tácticas y [armas](/mage/instruments/weapons) que empleen esos agentes. Como resultado, los agentes de Refuerzo no siguen las órdenes del mago a quien están asignados para proteger; al fin y al cabo, si ella supiera lo que está haciendo, no los necesitaría allí para empezar. El líder de equipo podría aceptar la opinión del mago presente, pero ese tipo de cosas tiende a ser un acuerdo «solo si hace falta». El líder de equipo, sea quien sea, tiene la primera y la última palabra… y si esa palabra implica abandonar al mago, pues que así sea. Los agentes de Refuerzo arriesgan sus vidas solo cuando deben, y solo al servicio de su organización, no para servir al mago que los llamó.\n\nDentro de cada equipo, las personalidades y habilidades individuales de los miembros se corresponden con los tipos de situaciones para las que son enviados. Un grupo de mercenarios curtidos en mil batallas no aparecerá para ayudar a un mago con sus impuestos, mientras que un grupo de contables cualificados se desenvolvería mal en tiroteos desesperados. Sean quienes sean, sin embargo, estarán entrenados para esperar cualquier tipo de disparate que altere la realidad y que puedan crear sus magos asociados; en términos de juego, no cuentan como testigos de magia vulgar siempre que dicha vulgaridad venga de un mago de su organización. Como se mencionó antes, el Refuerzo de la Tecnocracia contaría como testigo contra la Desviación mística de la Realidad, pero no contra la [hipertecnología](/mage/practices/hypertech) Iluminada, aunque dicha [hipertecnología](/mage/practices/hypertech) venga de otro tipo de tecnomante, siempre que el mago siga usando alguna forma de principios científicos razonablemente explicables. Claro, ese ejército de robots del Eterita parece científicamente plausible, ¡pero esa bruja que [lanza](/mage/weapons/lanza) rayos con su móvil está cometiendo crímenes contra la Realidad! Un aquelarre de agentes de Refuerzo neopaganos, por otro lado, encontraría eso perfectamente normal (aunque inusual) dentro de su esfera de creencias.\n\nAunque la entrada de Trasfondo se refiere al personal de Refuerzo como «sin rostro», ellos desde luego no se ven a sí mismos ni entre ellos de esa manera. Donde un mago ve a un montón de gente esencialmente anónima acudiendo en su ayuda, los propios agentes respetan a sus compañeros, se cubren mutuamente las espaldas, y siguen las instrucciones de su empleador. Un mago que no esté dispuesto a respetar esas cosas puede irse a freír espárragos, por lo que a los agentes de Refuerzo respecta. Aunque probablemente reconozcan las capacidades superiores del mago, el personal de Refuerzo no se verá a sí mismo, y mucho menos actuará, como carne de cañón, a menos que su [lealtad](/mage/merits/lealtad) al grupo los vuelva prescindibles a sus propios ojos. Sobre todo en el mundo moderno, sin embargo, esa devoción es inusual a menos que esos agentes sean fanáticos, esclavos, maltratados hasta la sumisión perpetua, o de alguna otra forma orientados hacia el comportamiento autodestructivo; en la mayoría de las situaciones, ese comportamiento vuelve a esos agentes menos eficaces, no más, que los operativos de voluntad libre que hacen lo que hacen por sus propias razones.\n\nRasgos Sugeridos: Como se detalla en la entrada de Trasfondo de ese nombre, los personajes de Refuerzo rasos tienen entre uno y tres puntos en un puñado de Habilidades útiles. Los agentes de Refuerzo de élite pueden tener Rasgos más altos y Méritos, Defectos y Ventajas apropiados para el personaje. Las Habilidades en cuestión tendrán que ver con las funciones de los operativos y su equipo; el Refuerzo de seguridad o paramilitar contará con [Armas](/mage/instruments/weapons) de Fuego, Pelea con [Armas](/mage/instruments/weapons), Pelea, y demás, mientras que un equipo de reparación favorece la [Artesanía](/mage/practices/craftwork), la Informática, la Tecnología y otros Rasgos adecuados.\n\nPlantillas Sugeridas: Mago 20, pág. 306, incluye una lista de posible personal de Refuerzo. Como sugiere esa lista, esos agentes no tienen por qué ser humanos; manadas de ratas o lobos, tropas de monos, o bandadas de cuervos también podrían ser agentes de Refuerzo. Aunque todos los agentes de un equipo de Refuerzo dado compartirán una plantilla relacionada (Lobo, Rufián Profesional, etc.), los individuos dentro de ese equipo tienen Rasgos específicos que reflejan su papel.",
         "mechanics": {
           "rating_max": 10
         },
