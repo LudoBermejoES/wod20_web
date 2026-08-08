@@ -14590,11 +14590,11 @@
     "related": []
   },
   {
-    "id": "escopeta-recortada-winchester-modelo-24-doble",
+    "id": "escopeta-recortada-winchester-modelo-24-doble-canon-calibre-12",
     "type": "weapon",
     "line": "mage",
-    "name_en": "Escopeta recortada Winchester Modelo 24 doble",
-    "name_es": "Escopeta recortada Winchester Modelo 24 doble",
+    "name_en": "Escopeta recortada Winchester Modelo 24 doble cañón (calibre 12)",
+    "name_es": "Escopeta recortada Winchester Modelo 24 doble cañón (calibre 12)",
     "body_es": "",
     "tags": [
       "ranged_firearm"
@@ -14605,14 +14605,14 @@
       "range": "10",
       "rate": "2",
       "clip": "2",
-      "damage": "8 cañón (calibre 12)"
+      "damage": "8"
     },
     "sources": [
       {
         "book_id": "m20-core-rulebook-es",
         "book_title_es": "M20 Core Rulebook (ES)",
         "page": null,
-        "section_anchor": "escopeta-recortada-winchester-modelo-24-doble",
+        "section_anchor": "escopeta-recortada-winchester-modelo-24-doble-canon-calibre-12",
         "variant": "base"
       }
     ],
